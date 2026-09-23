@@ -18,7 +18,10 @@ $$\mathbf{H}_0 = [\mathbf{T}_{ts} \; ; \; \mathbf{E}_{text} \; ; \; \mathbf{E}_{
 5. **Multi-Task Output Heads:**
    * **Prediction Head (MLP):** Dự đoán xu hướng giá Tăng/Giảm (Up/Down sau 5 ngày) kèm độ tin cậy.
    * **Explanation Head (Language Head):** Tự động sinh văn bản lý giải nguyên nhân tài chính (Self-Rationalization).
-   * **Consistency Loss:** Phạt mâu thuẫn giữa nhãn dự đoán và nội dung giải trình bằng mô hình NLI (DeBERTa-MNLI).
+   * **Calibrated Consistency Loss & Financial Guardrail (2-in-1):** Ứng dụng **OpenJev (Verdict 2.0 / ModernBERT-151M Calibrated Decision Engine)** thay thế hoàn toàn cho NLI truyền thống (DeBERTa-MNLI):
+     * *Lúc Huấn luyện:* Tính hàm phạt mất mát nhất quán (`Calibrated Consistency Loss`) giữa nhãn dự đoán và văn bản giải trình, đồng thời phạt hiện tượng ảo giác (hallucination) thiếu số liệu qua cơ chế độc quyền `__insufficient_evidence__`.
+     * *Lúc Triển khai:* Đóng vai trò làm tầng kiểm định an toàn thời gian thực (**Real-time Financial Risk Guardrail** ~20–25ms trên GPU) qua 3 cửa ải: Bằng chứng (Evidence Gate), Nhất quán (Consistency Gate), và Độ tự tin hiệu chuẩn (Confidence Gate $\ge 75\%$).
+
 
 ---
 
