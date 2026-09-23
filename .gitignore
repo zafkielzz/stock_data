@@ -8,9 +8,11 @@ env/
 venv/
 .venv/
 
-# Raw heavy binary PDFs (Download automatically via download_and_extract_reports.py)
+# Raw heavy binary PDFs (Download automatically via scripts)
 data/text/raw_pdf/
+data/text/quarterly_2026/raw_pdf/
 *.pdf
+scratch/
 
 # System / OS
 .DS_Store

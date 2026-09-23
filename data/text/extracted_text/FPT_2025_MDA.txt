@@ -1,0 +1,1994 @@
+Là tập đoàn công nghệ hàng đầu Việt Nam, FPT kiên định với sứ mệnh tiên phong tạo đột phá, làm chủ công nghệ 
+chiến lược theo định hướng của quốc gia. Trên nền tảng hệ sinh thái Made by FPT, năng lực nghiên cứu phát triển 
+bài bản và kinh nghiệm triển khai hàng trăm dự án chuyển đổi số quy mô lớn tại Việt Nam và nhiều thị trường 
+quốc tế, FPT sẵn sàng đảm nhận vai trò nòng cốt trong các chương trình, dự án trọng yếu của quốc gia, 
+địa phương và doanh nghiệp. Qua đó, Tập đoàn tiếp tục khẳng định vị trí trung tâm bản đồ công nghệ Việt Nam và 
+tạo nền tảng tăng trưởng bền vững trong dài hạn.
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+
+Ba yếu tố sống còn trong kỷ nguyên AI
+Để không bị bỏ lại phía sau trong kỷ nguyên AI, các doanh nghiệp, tổ chức buộc 
+phải giải được ba bài toán sống còn: thời gian, chi phí và năng suất lao động.
+Thứ nhất là về thời gian. Trong một thế giới thay đổi theo từng ngày, thậm chí từng 
+giờ, doanh nghiệp nào đưa sản phẩm, dịch vụ ra thị trường nhanh hơn sẽ là doanh 
+nghiệp chiến thắng.
+Thứ hai là về chi phí. Công nghệ, đặc biệt là AI, đang mở ra khả năng giảm mạnh 
+chi phí phát triển, và vận hành. Những công việc trước đây cần nhiều nguồn lực, 
+nhiều thời gian, giờ đây có thể được thực hiện với hiệu quả cao hơn nhiều lần. Theo 
+nghiên cứu của McKinsey, AI có thể giúp doanh nghiệp giảm 20-30% chi phí trong 
+nhiều quy trình, trong khi Microsoft ghi nhận các công cụ AI hỗ trợ lập trình giúp 
+tăng năng suất lên tới 55%.
+Và cuối cùng là năng suất lao động, yếu tố mang tính quyết định. AI cho phép tự 
+động hóa ngày càng nhiều công việc liên quan đến tri thức – từ phân tích dữ liệu, 
+phát triển phần mềm cho đến vận hành hệ thống. Điều này cho phép năng suất lao 
+động tăng lên không phải vài phần trăm như trước đây, mà tăng theo nhiều lần. 
+Một ví dụ rất cụ thể là bài toán hiện đại hóa các hệ thống công nghệ thông tin di 
+sản trên thế giới, đặc biệt là các hệ thống viết bằng ngôn ngữ COBOL. Theo thống 
+kê, có khoảng 300 tỷ dòng mã COBOL đang được vận hành trên toàn cầu và 
+70-80% giao dịch kinh doanh trên thế giới vẫn được xử lý bởi các hệ thống này. 
+Việc chuyển đổi các hệ thống này sang nền tảng hiện đại là một khối lượng công 
+việc khổng lồ và có thể kéo dài nhiều năm. Với các nền tảng AI như xMainframe mà 
+FPT đang phát triển, quá trình phân tích, chuyển đổi và tái cấu trúc các hệ thống 
+này được tự động hóa giúp giảm 30% khối lượng công việc thủ công. 
+Tổng hòa của ba yếu tố này cho thấy một thực tế: lợi thế cạnh tranh trong kỷ 
+nguyên AI không còn đến từ quy mô hay kinh nghiệm, mà đến từ khả năng thích 
+ứng và tái tạo chính mình bằng công nghệ. Và để làm được điều này, các doanh 
+nghiệp buộc phải tiến tới mô hình AI thuần (AI-Native). Đây không còn là một lựa 
+chọn mang tính chiến lược, mà là một yêu cầu mang tính sống còn. AI sẽ không chỉ 
+là công cụ hỗ trợ, mà sẽ trở thành nền tảng vận hành cốt lõi của tổ chức.
+Lợi thế cạnh tranh khác biệt của FPT
+Trong làn sóng chuyển đổi mang tính lịch sử đó, FPT tin rằng mình đang sở hữu một 
+số lợi thế cạnh tranh mà không nhiều doanh nghiệp có được.
+Trước hết là lực lượng nhân lực công nghệ đông đảo. Với hàng chục nghìn kỹ sư 
+đang làm việc trên khắp thế giới, đây chính là nguồn lực quan trọng để FPT triển 
+khai những chương trình chuyển đổi công nghệ quy mô lớn và kéo dài nhiều năm 
+cho khách hàng toàn cầu.
+ 
+Nhưng trong kỷ nguyên công nghệ mới, không chỉ đông mà còn phải tinh nhuệ. Với 
+hơn 54.000 nhân sự làm việc tại trên 30 quốc gia, trong đó có hơn 4.000 chuyên 
+gia quốc tế đến từ 82 quốc tịch, FPT đang từng bước xây dựng một đội ngũ công 
+nghệ mang tính toàn cầu, đa dạng và có khả năng triển khai những bài toán phức 
+tạp ở quy mô lớn. Chúng tôi cũng đã thành lập Viện Quantum AI & Cybersecurity, 
+đặt mục tiêu đào tạo 100 tiến sĩ, phát triển 2.000 chuyên gia công nghệ trình độ 
+cao và công bố 500 công trình khoa học, bằng sáng chế và tài sản sở hữu trí tuệ có 
+giá trị. Trong các lĩnh vực công nghệ nền tảng, chúng tôi đặt mục tiêu đào tạo 
+1.500 kỹ sư Cloud, 200 kiến trúc sư Cloud cấp cao.
+Song song với đó, FPT tiếp tục mở rộng đào tạo nhân lực công nghệ chiến lược như: 
+thiết kế vi mạch, công nghệ lượng tử, an ninh mạng và UAV, nhằm xây dựng một đội 
+ngũ nhân lực công nghệ ngày càng đông đảo và tinh nhuệ cho tương lai. Quy mô 
+nhân lực này cho phép FPT không chỉ đáp ứng nhu cầu hiện tại, mà còn chủ động 
+nắm bắt và triển khai đồng thời nhiều cơ hội trên các thị trường khác nhau, ở quy 
+mô mà không nhiều doanh nghiệp có thể thực hiện được.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Thông điệp Chủ tịch HĐQT
+Thông điệp Tổng Giám đốc
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+03
+FPT đang từng bước xây dựng một đội ngũ nhân sự công nghệ mang tính 
+toàn cầu, đa dạng và có khả năng triển khai những bài toán phức tạp ở 
+quy mô lớn.
+
+Thông qua việc xây dựng hệ sinh thái công nghệ và nguồn nhân lực chất lượng cao, 
+FPT khẳng định vị thế của một doanh nghiệp công nghệ có năng lực cạnh tranh 
+quốc tế, tham gia và dẫn dắt các dự án công nghệ quy mô hàng trăm triệu đến 
+hàng tỷ USD, trở thành đối tác chiến lược cấp cao trong các chương trình chuyển 
+đổi số và AI dài hạn của các quốc gia và các tập đoàn lớn.
+Trước những biến động nhanh chóng của thế giới, con đường phía trước chắc chắn 
+còn nhiều thách thức. Nhưng với tinh thần tiên phong và khát vọng đổi mới, FPT sẽ 
+chủ động nắm bắt cơ hội, phụng sự quốc gia, nâng tầm vị thế trên thị trường công 
+nghệ toàn cầu để kiến tạo giá trị bền vững, lâu dài cho Tập đoàn, Quý Cổ đông.  
+Xin trân trọng cảm ơn!
+CHỦ TỊCH HĐQT
+TRƯƠNG GIA BÌNH
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Thông điệp Chủ tịch HĐQT
+Thông điệp Tổng Giám đốc
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+04
+FPT đã xác lập mục tiêu chiến lược: đầu tư và làm chủ công nghệ lõi để giữ vị trí 
+trung tâm trên bản đồ công nghệ Việt Nam và xây dựng lợi thế cạnh tranh 
+trong dài hạn.
+Lợi thế riêng có thứ hai của chúng tôi là hiện diện toàn cầu ở mọi múi giờ, 
+cho phép đội ngũ nhân sự phối hợp làm việc liên tục 24/24 theo mô hình “follow 
+the sun”, từ đó rút ngắn đáng kể thời gian phát triển và triển khai các dự án 
+công nghệ cho khách hàng. Không chỉ dừng lại ở tốc độ, FPT đồng thời đầu tư 
+mạnh vào năng lực công nghệ AI quy mô lớn, nhằm nâng cao năng suất, mở rộng 
+quy mô triển khai và giải quyết những bài toán phức tạp mà trước đây không thể 
+thực hiện được. Trong năm qua chúng tôi cũng đã đưa vào vận hành hai nhà máy 
+AI tại Việt Nam và Nhật Bản, tạo nền tảng cho việc phát triển và triển khai 
+các giải pháp AI ở quy mô lớn. Chỉ sau một năm, các nhà máy này đã được khai thác 
+khoảng 70% công suất, xử lý hơn 1.100 tỷ token, tinh chỉnh 70 mô hình AI theo 
+nhu cầu khách hàng và phát triển 10 mô hình ngôn ngữ lớn từ FPT AI Factory.
+ 
+Thứ ba là hệ sinh thái hợp tác chiến lược với các tập đoàn công nghệ hàng đầu thế giới, 
+đặc biệt là các nhà cung cấp dịch vụ lớn như: Microsoft, IBM…. Những quan hệ hợp tác 
+này giúp FPT tiếp cận những công nghệ tiên tiến nhất, đồng thời mang lại cho 
+khách hàng các giải pháp toàn diện, từ hạ tầng, nền tảng đến ứng dụng.
+Song song với phát triển công nghệ, FPT cũng đang thúc đẩy một cuộc cách mạng 
+trong giáo dục. FPT đã luôn tiên phong trong việc đưa công nghệ, AI vào giảng dạy 
+và sẽ chuyển đổi mạnh mẽ mô hình đào tạo truyền thống sang phương pháp 
+“lớp học đảo ngược”, nơi mà nhờ AI, người học được chủ động tiếp cận trước kiến 
+thức và dành thời gian trên lớp để giải quyết các bài toán thực tế. Trong mô hình 
+đó, AI không chỉ là công cụ mà còn trở thành người phụ đạo, hỗ trợ cá nhân hóa 
+quá trình học tập.
+Làm chủ công nghệ chiến lược
+FPT đã xác lập mục tiêu chiến lược: đầu tư và làm chủ công nghệ lõi để giữ vị trí 
+trung tâm trên bản đồ công nghệ Việt Nam và xây dựng lợi thế cạnh tranh trong dài 
+hạn. Nếu trước kia FPT chủ yếu được biết đến như một công ty cung cấp dịch vụ 
+công nghệ, thì từ năm 2026 và những năm tiếp theo, FPT sẽ chuyển mình thành 
+doanh nghiệp sáng tạo công nghệ, làm chủ các công nghệ chiến lược như AI, 
+Quantum AI & Cybersecurity, UAV, công nghệ đường sắt, an ninh mạng và dữ liệu...
+
+11,6%
+Doanh thu
+Tỷ VNĐ
+70.113
+19,1%
+Lợi nhuận sau thuế
+Tỷ VNĐ
+11.232
+Kiên định bám sát kế hoạch, đảm bảo tăng trưởng hai chữ số
+Trong bối cảnh đó, FPT đã phát huy tinh thần chủ động, đẩy mạnh đổi mới sáng tạo 
+và khai phá sức mạnh đoàn kết của toàn thể CBNV, kiên định bám sát kế hoạch 
+kinh doanh Đại hội đồng Cổ đông đã thông qua, đảm bảo duy trì đà tăng trưởng 
+hai chữ số.
+Kết thúc năm 2025, doanh thu của Tập đoàn đạt 70.113 tỷ đồng, tăng 11,6%; 
+lợi nhuận trước thuế đạt 13.044 tỷ đồng, tăng 17,8%; lợi nhuận sau thuế đạt 11.232 
+tỷ đồng, tăng 19,1% so với năm trước. EPS đạt 5.216 đồng, tăng 21,5% so với cùng 
+kỳ. Tốc độ tăng trưởng lợi nhuận cao hơn doanh thu phản ánh hiệu quả vận hành 
+được cải thiện và chi phí được kiểm soát tốt hơn trong điều kiện thị trường có 
+nhiều biến động bất định.
+Lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tiếp tục là động lực tăng trưởng 
+chủ lực của khối Công nghệ với doanh thu đạt 35.382 tỷ đồng, tăng 14,3%. 
+Đặc biệt, doanh thu ký mới vượt mốc 1,5 tỷ USD, tương đương 40.636 tỷ đồng, tăng 
+23,2%. Số lượng hợp đồng quy mô trên 10 triệu USD tăng gấp đôi so với năm trước. 
+Vị thế của FPT tiếp tục gia tăng. Không chỉ đứng trong nhóm doanh nghiệp dịch vụ 
+CNTT tỷ USD của thế giới, FPT bước vào những dự án chuyển đổi số, chuyển đổi 
+công nghệ dài hạn, quy mô lớn và có hàm lượng công nghệ cao của những đối tác 
+lớn như: CLB Chelsea, Quỹ đầu tư toàn cầu quản lý khối tài sản 90 tỷ USD – 
+Clearlake Capital Group…. Doanh thu Dịch vụ Chuyển đổi số chiếm 47,3% 
+tổng doanh thu Dịch vụ CNTT cho thị trường nước ngoài. 
+Với lĩnh vực Dịch vụ CNTT cho thị trường trong nước, FPT tăng tốc hợp tác chuyển 
+đổi số và triển khai các chương trình theo tinh thần Nghị quyết 57-NQ/TW, 
+Nghị quyết 214/NQ-CP và Kế hoạch 01, Kế hoạch 02 của Ban Chỉ đạo Trung ương 
+về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số. Tập đoàn 
+đồng hành cùng Bộ Tài chính, Bộ Tư pháp, Bộ Dân tộc và Tôn giáo, Ngân hàng 
+Nhà nước và Bộ Ngoại giao trong xây dựng chiến lược dữ liệu và chuyển đổi số; 
+tham gia triển khai hai cơ sở dữ liệu quốc gia trọng yếu gồm Cơ sở dữ liệu Hộ tịch 
+điện tử và Cơ sở dữ liệu Quốc gia về Tài chính; đồng thời vận hành Nền tảng số 
+Thi hành án dân sự và Cổng Pháp luật Quốc gia. Hệ sinh thái Made by FPT tiếp tục 
+duy trì tăng trưởng hai chữ số, đạt 2.672 tỷ đồng, tăng 19,1%. Nhiều sản phẩm 
+được công nhận là sản phẩm công nghiệp chủ lực, trực tiếp giải các bài toán 
+chuyển đổi số quy mô quốc gia, tạo nền tảng tăng trưởng dài hạn cho Tập đoàn. 
+Lĩnh vực Dịch vụ Viễn thông duy trì tăng trưởng bền vững với doanh thu 18.702 tỷ đồng, 
+lợi nhuận trước thuế 4.167 tỷ đồng, đóng vai trò hạ tầng số thiết yếu cho nền kinh 
+tế. Trung tâm dữ liệu quy mô 10.000 m2 tiêu chuẩn quốc tế được đưa vào vận hành 
+tạo nền tảng thúc đẩy tăng trưởng doanh thu và lợi nhuận ổn định trong trung và 
+dài hạn. Trong năm 2025, lĩnh vực Dịch vụ Viễn thông cũng có thay đổi lớn, đại diện 
+chủ sở hữu phần vốn góp Nhà nước tại FPT Telecom được chuyển giao về Bộ Công 
+an. Việc này giúp Công ty củng cố vị thế doanh nghiệp hạ tầng số trọng yếu và mở 
+rộng cơ hội tham gia các dự án quy mô lớn, chương trình trọng điểm của quốc gia 
+trong giai đoạn tới.
+Đối với lĩnh vực Giáo dục, FPT tiếp tục duy trì đầu tư mở rộng hiện diện đào tạo tại 
+các địa phương như: Nghệ An, Long An, Bình Định, Bình Dương (cũ) và Sóc Trăng (cũ) 
+theo định hướng gắn đào tạo với nhu cầu phát triển nguồn nhân lực của doanh 
+nghiệp và địa phương. Trong đó, Tổ hợp giáo dục FPT tại Bình Dương hướng tới 
+mục tiêu đào tạo từ phổ thông đến đại học, tích hợp công nghệ hiện đại như: AI, 
+khoa học dữ liệu, phương pháp giáo dục STEAM…. Đồng thời, chúng tôi đẩy mạnh 
+đào tạo thế hệ nhân sự có năng lực chuyên môn tốt, am hiểu công nghệ, được 
+trang bị các kiến thức, kỹ năng cần thiết, sẵn sàng thực thi Nghị quyết 57-NQ/TW. 
+Quảng Ninh là địa phương đầu tiên tiếp nhận nhóm 74 sinh viên chuyên ngành 
+CNTT của trường đại học FPT tham gia hỗ trợ chính quyền và người dân địa phương 
+trong công tác triển khai Nghị quyết. 
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Thông điệp Chủ tịch HĐQT
+Thông điệp Tổng Giám đốc
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+06
+
+Lĩnh vực Giáo dục tiếp tục mở rộng hệ thống rộng khắp, mang đến trải nghiệm vượt trội 
+và hạnh phúc cho người học, đồng thời tăng cường hơn nữa việc đưa AI vào chương trình 
+đào tạo gắn với mô hình “học – ứng dụng – thử nghiệm” và đẩy mạnh đào tạo nguồn 
+nhân lực công nghệ chiến lược như: AI, bán dẫn…
+Để đạt được mục tiêu đề ra, FPT sẽ tập trung triển khai bốn nhóm hành động trọng tâm. 
+Thứ nhất là thay đổi nhận thức và nâng cao năng lực dự báo, giúp Tập đoàn chủ động 
+nhận diện xu hướng, xác định đúng vị thế và duy trì động lực nội tại. 
+Thứ hai là nâng cao kỷ cương thực thi chiến lược, coi kỷ luật là yếu tố nền tảng 
+trong quản trị, gắn chặt kết quả thực hiện với hệ thống vận hành và trách nhiệm 
+của từng cấp quản lý. 
+Thứ ba là đẩy mạnh hơn nữa việc thu hút, nuôi dưỡng và phát triển nhân tài, 
+coi con người là tài sản quan trọng nhất và là lợi thế cạnh tranh bền vững của FPT. 
+Thứ tư là quản trị và điều hành dựa trên dữ liệu, xuyên suốt từ cấp Tập đoàn đến các 
+công ty thành viên. Việc này sẽ giúp Tập đoàn kịp thời tháo gỡ điểm nghẽn và đưa ra 
+quyết sách nhanh chóng, chính xác trước những thách thức bất định của thị trường.
+Và quan trọng hơn cả, FPT tiếp tục củng cố niềm tin với con người, với công việc, 
+với khách hàng lớn, với Chính phủ và Quốc gia, đồng thời, kiên định theo đuổi chiến 
+lược tăng trưởng bền vững, đặt lợi ích dài hạn của cổ đông làm trọng tâm. Với nền 
+tảng đã được xây dựng trong nhiều năm qua, chúng tôi tin tưởng FPT sẽ tiếp tục 
+duy trì đà tăng trưởng ổn định, nâng cao năng lực cạnh tranh và đóng góp tích cực 
+vào sự phát triển của nền kinh tế số Việt Nam.
+2026, năm bản lề cho chu kỳ tăng trưởng mới
+Năm 2026 cũng sẽ không dễ dàng, thậm chí khó hơn 2025. Nhưng đây sẽ là năm 
+bản lề cho một chu kỳ phát triển, tăng trưởng mới của FPT. Tập đoàn đặt mục tiêu 
+tăng trưởng 15,8% doanh thu và 15,0% lợi nhuận trước thuế. 
+Khối Công nghệ tiếp tục là trụ cột tăng trưởng chính với mục tiêu doanh thu 
+tăng trưởng 18,4% và lợi nhuận 24,4%, đồng thời tập trung đầu tư vào các 
+công nghệ chiến lược như: AI, Quantum AI, Cybersecurity, UAV, Công nghệ 
+đường sắt, Dữ liệu. Lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tập trung 
+vào ba trụ cột chiến lược. Thứ nhất là “AI-First”. AI được xác định là năng lực 
+xuyên suốt trong thiết kế giải pháp, phát triển sản phẩm và tổ chức vận hành 
+giúp Tập đoàn gia tăng năng suất và tạo năng lực cạnh tranh khác biệt. Thứ hai 
+là “Mâm trên”. FPT sẽ tập trung các dự án quy mô lớn, khách hàng chiến lược và 
+các hợp đồng có giá trị cao. Thứ ba là “Hợp lực”. Tập đoàn sẽ đẩy mạnh hợp tác 
+với các Big Tech, đồng thời tăng cường phối hợp nội bộ trong Tập đoàn để cung cấp 
+các giải pháp tổng thể, quy mô lớn. Trong lĩnh vực Dịch vụ CNTT cho thị trường trong 
+nước, FPT sẽ mở rộng hệ sinh thái sản phẩm Made by FPT và tham gia sâu, rộng vào 
+các bài toán chuyển đổi số của quốc gia, bộ ngành, tỉnh thành. 
+Đặc biệt, Tập đoàn tiếp tục duy trì môi trường làm việc hạnh phúc, đa văn hóa, 
+năng động và hòa nhập, qua đó tạo nền tảng vững chắc để thu hút đội ngũ nhân 
+sự trẻ, tài năng trên quy mô toàn cầu. Số nhân sự dưới 30 tuổi chiếm 43,9%; 
+số cán bộ quản lý dưới 40 tuổi chiếm 53,2%; 4.124 nhân sự người nước ngoài 
+thuộc 82 quốc tịch.
+TỔNG GIÁM ĐỐC
+<40 tuổi
+cán bộ
+quản lý
+53,2%
+<30 tuổi
+nhân sự
+43,9%
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Thông điệp Chủ tịch HĐQT
+Thông điệp Tổng Giám đốc
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+07
+NGUYỄN VĂN KHOA
+
+Số liệu tài chính trong Báo cáo này được trích xuất từ Báo cáo tài chính hợp nhất đã kiểm toán bao gồm Báo cáo tài chính Công ty mẹ, Báo cáo tài chính của các công ty 
+do Tập đoàn nắm quyền kiểm soát (Công ty con) và kết quả kinh doanh hợp nhất của các công ty liên kết theo phương pháp vốn chủ.
+(*): Tiền mặt chi trả trong năm bao gồm cổ tức tiền mặt còn lại của năm liền trước và tạm ứng cổ tức tiền mặt của năm hiện tại nếu có.
+STT
+Chỉ tiêu
+2021
++/-
+2022
++/-
+2023
++/-
+2024
++/-
+2025
++/-
+21.418
+53.698
+35.657
+6.228
+7.981
+6.337
+6.337
+5.349
+4.337
+1.697
+25.356
+51.650
+44.010
+7.589
+9.495
+7.662
+7.662
+6.491
+5.310
+2.011
+15,1%
+28,7%
+19,5%
+20,0%
+18,2%
+20,4%
+20,4%
+20,9%
+22,6%
+15,8%
+18,4%
+-3,8%
+23,4%
+21,8%
+19,0%
+20,9%
+20,9%
+21,3%
+22,4%
+18,5%
+18,1%
+16,7%
+19,6%
+20,1%
+21,0%
+20,1%
+20,1%
+20,0%
+21,8%
+18,1%
+29.933
+60.283
+52.618
+9.112
+11.490
+9.203
+9.203
+7.788
+6.465
+2.374
+35.728
+72.000
+62.849
+11.025
+13.605
+11.070
+11.070
+9.427
+7.857
+2.741
+19,4%
+19,4%
+19,4%
+21,0%
+18,4%
+20,3%
+20,3%
+21,0%
+21,5%
+15,4%
+43.748
+88.142
+70.113
+12.952
+15.958
+13.044
+13.044
+11.232
+9.376
+3.185
+22,4%
+22,4%
+11,6%
+17,5%
+17,3%
+17,8%
+17,8%
+19,1%
+19,3%
+16,2%
+Vốn chủ sở hữu
+Tổng tài sản
+Tổng doanh thu 
+Lợi nhuận thuần từ hoạt động kinh doanh
+Lợi nhuận trước thuế, lãi vay và khấu hao
+Lợi nhuận trước thuế và lãi vay
+Lợi nhuận trước thuế
+Lợi nhuận sau thuế
+Lợi nhuận sau thuế thuộc về cổ đông công ty mẹ
+Chi trả cổ tức bằng tiền mặt (*)
+Tình hình tài chính và kết quả kinh doanh nổi bật giai đoạn 2021-2025
+Đơn vị: Tỷ VNĐ
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Con số nổi bật
+Giải thưởng tiêu biểu
+Hoạt động nổi bật
+Dự án AI nổi bật
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+11
+
+HOẠT ĐỘNG NỔI BẬT
+Thành lập Ban Chỉ đạo
+Công nghệ chiến lược thúc đẩy 
+triển khai Nghị quyết 57-NQ/TW
+Trong bối cảnh khoa học công nghệ, chuyển đổi số, 
+đổi mới sáng tạo là xung lực tạo đột phá đưa đất 
+nước bước vào kỷ nguyên mới, Tập đoàn công bố 
+thành lập Ban Chỉ đạo Công nghệ chiến lược với 05 
+đơn vị gồm: Viện Quantum AI và Cybersecurity, 
+FPT UAV, Công nghệ Đường sắt FPT, FPT 
+Cybersecurity và DC5. Đây là bước đi chiến lược của 
+FPT với mục tiêu làm chủ công nghệ lõi, xây dựng 
+nguồn nhân lực chất lượng cao.
+Thành lập Liên minh Kinh tế tầm thấp phát triển các ngành
+công nghệ cao ứng dụng UAV
+Liên minh Kinh tế tầm thấp (LAEP) kỳ vọng nền kinh tế mới này sẽ thúc đẩy hàng nghìn doanh nghiệp phụ trợ, 
+tạo 01 triệu việc làm chất lượng cao và mang về hàng chục tỷ USD cho Việt Nam trong 10-15 năm tới. LAEP đã ký 
+kết thỏa thuận hợp tác chiến lược với Hiệp hội Thiết bị bay không người lái Nhật Bản (JUIDA), mở ra hướng phát 
+triển trong lĩnh vực giao thông thế hệ mới, đặc biệt là ứng dụng UAV, drone và hệ sinh thái công nghệ liên quan. 
+Ông Nguyễn Văn Khoa, Tổng giám đốc FPT, giữ vai trò Chủ tịch Liên minh.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Con số nổi bật
+Giải thưởng tiêu biểu
+Hoạt động nổi bật
+Dự án AI nổi bật
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+13
+
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Con số nổi bật
+Giải thưởng tiêu biểu
+Hoạt động nổi bật
+Dự án AI nổi bật
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+14
+Khánh thành Trung tâm Dữ liệu 
+quy mô lớn nhất Việt Nam tạo 
+nền tảng cho kỷ nguyên AI
+Trung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công 
+nghệ cao Tp.Hồ Chí Minh có quy mô 08 tầng, tổng 
+diện tích 10.000 m² và 3.600 tủ rack.
+FPT Fornix HCM02 đóng vai trò hạ tầng trọng yếu 
+phục vụ các nền tảng AI, điện toán đám mây và 
+chuyển đổi số, góp phần hiện thực hóa mục tiêu 
+đưa Việt Nam trở thành Digital Hub của khu vực 
+Đông Nam Á vào năm 2030.
+Đồng hành Chính phủ, bộ ngành, địa phương chuyển đổi số, 
+hiện thực hoá tinh thần Nghị quyết 57-NQ/TW
+FPT phối hợp với Bộ Tài chính, Bộ Tư pháp, Bộ Dân tộc và Tôn giáo, Ngân hàng Nhà nước, Bộ Ngoại giao ban hành 
+các chiến lược dữ liệu và chuyển đổi số, đồng thời triển khai gần 40 dự án thúc đẩy chuyển đổi số, xây dựng cơ sở 
+dữ liệu cho các bộ, ngành. FPT cũng tham gia triển khai hai cơ sở dữ liệu (CSDL) quốc gia trọng yếu gồm: 
+CSDL Hộ tịch điện tử và CSDL quốc gia về tài chính, cùng 16 CSDL chuyên ngành tại Bộ Tài chính, Bộ Tư pháp, 
+Bộ Dân tộc và Tôn giáo, Ngân hàng Nhà nước, Bộ Ngoại giao và Bộ Y tế.
+Tập đoàn song hành cùng Bộ Công an tư vấn xây dựng Trung tâm Dữ liệu quốc gia đạt các tiêu chuẩn quốc tế 
+cao nhất và phối hợp Bộ Tư pháp đưa vào vận hành Nền tảng số Thi hành án dân sự và Cổng Pháp luật quốc gia.  
+Song song, FPT tiếp tục đồng hành cùng nhiều địa phương như: Cà Mau, Hải Phòng, Quảng Ninh… trong xây dựng 
+chính quyền số, kinh tế số và xã hội số.
+
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Con số nổi bật
+Giải thưởng tiêu biểu
+Hoạt động nổi bật
+Dự án AI nổi bật
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+15
+Ra mắt Liên minh Nhân lực chiến lược thực thi 
+Nghị quyết 57-NQ/TW
+Khởi xướng thành lập Liên minh AI Âu Lạc
+phát triển mô hình ngôn ngữ lớn tiếng Việt
+Đại diện 05 cơ sở đào tạo hàng đầu tham gia ký kết thành lập Liên minh gồm: 
+Học viện Chính trị quốc gia Hồ Chí Minh, Học viện Kỹ thuật mật mã, Đại học 
+Bách khoa Hà Nội, Trường Đại học Công nghệ – Đại học quốc gia Hà Nội, 
+Trường Đại học FPT. Liên minh sẽ góp phần xây dựng và phát triển đội ngũ trí thức, 
+chuyên gia chất lượng cao đáp ứng yêu cầu phát triển kinh tế-xã hội, công cuộc 
+chuyển đổi số quốc gia và hội nhập quốc tế; thúc đẩy các chương trình đào tạo, 
+bồi dưỡng kỹ năng hành chính công, lãnh đạo và quản lý nhà nước phù hợp với 
+bối cảnh mới. 
+Liên minh được thành lập trong bối cảnh Quyết định 1131/QĐ-TTg do Thủ tướng 
+Chính phủ ban hành xác định 11 nhóm công nghệ chiến lược ảnh hưởng sâu rộng 
+đến năng lực cạnh tranh và tự chủ công nghệ của quốc gia, trong đó AI được xếp 
+ở vị trí số một. Một trong những nhiệm vụ trọng tâm của Liên minh là phát triển 
+các mô hình ngôn ngữ lớn (LLM) có khả năng xử lý tiếng Việt chính xác, tự nhiên, 
+phù hợp với văn hóa và bản sắc Việt Nam, từ đó nâng cao dân trí và thúc đẩy 
+phát triển kinh tế quốc gia. Liên minh thu hút sự tham gia của hơn 20 thành viên 
+là các tổ chức, doanh nghiệp, start up, cơ sở đào tạo.
+
+20-30%
+Chi phí vận hành
+15%
+Ngành bảo hiểm toàn cầu đang đối mặt với nhiều thách thức trong quá trình 
+chuyển đổi số, đặc biệt trong bối cảnh dữ liệu và số lượng yêu cầu bồi thường ngày 
+càng gia tăng; gian lận bảo hiểm ngày càng tinh vi, gây tổn thất đáng kể cho các 
+doanh nghiệp và làm suy giảm niềm tin của khách hàng. Bên cạnh việc kiểm soát 
+rủi ro gian lận, doanh nghiệp bảo hiểm cũng phải chịu áp lực cải thiện trải nghiệm 
+khách hàng, rút ngắn thời gian xử lý yêu cầu và đưa sản phẩm mới ra thị trường. 
+Tuy nhiên, nhiều tổ chức, doanh nghiệp bảo hiểm vẫn đang vận hành các hệ thống 
+rời rạc cho từng nghiệp vụ như: định phí, phát hành hợp đồng và xử lý bồi thường, 
+khiến quy trình vận hành phức tạp, chi phí cao và khó mở rộng.
+Một trong những khách hàng lớn của FPT là tập đoàn bảo hiểm quốc tế với hơn 150 
+năm hoạt động, hiện diện tại hơn 30 quốc gia và sở hữu mạng lưới khoảng 50.000 
+nhân sự cũng đang đối mặt với những thách thức trên. Trong ba năm liên tiếp, 
+doanh nghiệp này ghi nhận biên lợi nhuận suy giảm do chi phí vận hành cao, đặc 
+biệt trong quy trình xử lý bồi thường và quản lý hợp đồng, đồng thời các trường hợp 
+gian lận ngày càng gia tăng.
+Để giải quyết những thách thức trên, FPT đã triển khai iSuite, nền tảng bảo hiểm 
+toàn trình tích hợp toàn bộ các quy trình nghiệp vụ cốt lõi trong một hệ thống 
+thống nhất. Nền tảng này kết hợp các công nghệ như AI, OCR và tự động hóa quy 
+trình nhằm tối ưu hóa vận hành và nâng cao khả năng phân tích dữ liệu. iSuite 
+bao gồm nhiều mô-đun chức năng hỗ trợ các hoạt động chính trong hệ sinh thái 
+bảo hiểm, bao gồm:
+Tự động hóa quy trình bảo hiểm với AI, nâng cao hiệu quả vận hành và chống gian lận
+Giải pháp tự động hóa quy trình thẩm 
+định và xử lý bồi thường, giúp chuẩn 
+hóa dữ liệu và tăng tốc xử lý hồ sơ.
+• Insurance360 (I360)
+Hệ thống tự động hóa xử lý bồi 
+thường và phát hiện gian lận thông 
+qua các mô hình AI.
+• AI Claim
+Nền tảng hỗ trợ đại lý quản lý khách 
+hàng và tối ưu hiệu suất bán hàng.
+• Distribution System
+Ứng dụng giúp khách hàng quản lý 
+hợp đồng và tiếp cận dịch vụ bảo 
+hiểm thuận tiện hơn.
+• Customer Super App
+Hệ thống quản lý mạng lưới đại lý và 
+cơ chế hoa hồng tự động.
+• AI Agent Digital Platform (AIDP)
+Sau khi triển khai nền tảng iSuite, Tập đoàn bảo hiểm trên đã ghi nhận những 
+cải thiện đáng kể về hiệu quả vận hành. 
+Đồng thời, các mô hình phân tích dữ liệu dựa trên AI giúp doanh nghiệp hiểu rõ hơn 
+về hành vi khách hàng và xu hướng thị trường, hỗ trợ tối ưu hóa chiến lược định giá 
+và bán chéo sản phẩm. Nhờ những cải tiến này, doanh nghiệp ghi nhận mức tăng 
+trưởng doanh thu lên tới 18% trong vòng một năm sau khi triển khai, tăng 3-5 điểm 
+phần trăm biên lợi nhuận, tỷ lệ khách hàng hủy hợp đồng giảm khoảng 1-2% nhờ 
+trải nghiệm dịch vụ được cải thiện.
+Thông qua các giải pháp như iSuite, FPT đang từng bước hỗ trợ các doanh nghiệp 
+bảo hiểm hiện đại hóa hệ thống lõi, tối ưu hóa vận hành và khai thác hiệu quả dữ 
+liệu, qua đó giúp các tổ chức trong ngành thích ứng nhanh hơn với xu hướng số hóa 
+và tận dụng các công nghệ AI để thúc đẩy tăng trưởng bền vững trong tương lai.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+01
+02
+03
+04
+05
+06
+07
+08
+Con số nổi bật
+Giải thưởng tiêu biểu
+Hoạt động nổi bật
+Dự án AI nổi bật
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+20
+50%
+Khả năng phát hiện gian lận
+70%
+Thời gian phát hành hợp đồng
+18%
+Doanh thu
+1-2%
+Tỷ lệ khách hàng hủy hợp đồng
+Tổn thất liên quan đến
+gian lận bảo hiểm
+
+VỊ THẾ VÀ QUY MÔ
+34 
+30+
+04
+Tỉnh thành 
+tại Việt Nam
+Quốc gia và 
+vùng lãnh thổ
+Châu lục
+Canada
+USA
+Mexico
+Colombia
+Anh
+Cộng hòa Séc
+Đức
+Ấn Độ
+Ả-rập-xê-út
+Tiểu Vương quốc 
+Ả rập thống nhất
+Israel
+Việt Nam 
+Campuchia
+Thái Lan
+Singapore
+Malaysia
+Myanmar
+Trung Quốc
+Hàn Quốc
+Costa Rica
+Pháp
+Romania
+Slovakia
+Đan Mạch
+Thụy Điển
+Đài loan
+Hong Kong
+Nhật Bản
+Philippines
+ Indonesia
+Úc
+11,1%
+5,6%
+11,6%
+48,9%
+22,8%
+Châu Mỹ
+Nhật Bản
+Châu Âu
+Việt Nam
+Châu Á-Thái Bình Dương
+Doanh thu theo khu vực địa lý
+Việt Nam
+Nước ngoài
+FPT là tập đoàn công nghệ và dịch vụ CNTT toàn cầu, tiên phong cung cấp dịch vụ, 
+sản phẩm, giải pháp dựa trên những công nghệ lõi như: AI, điện toán đám mây, dữ liệu 
+và tự động hóa. FPT không ngừng mở rộng quy mô với 54.110 CBNV và hiện diện tại 
+hơn 30 quốc gia, vùng lãnh thổ. Là doanh nghiệp CNTT đầu tiên trên sàn chứng khoán 
+Việt Nam, giá trị vốn hóa của FPT đã tăng gần 06 lần kể từ năm 2006 đến nay.
+Tập đoàn cũng tiếp tục khẳng định vị thế trên bản đồ công nghệ thế giới khi đứng trong 
+Top 40 Công ty Dịch vụ CNTT châu Á.
+Song song với hoạt động kinh doanh, FPT kiên định theo đuổi chiến lược ESG, 
+tập trung phát triển công nghệ vì con người, đào tạo nguồn nhân lực số, thúc đẩy 
+chuyển đổi xanh, quản trị minh bạch và tạo giá trị lâu dài cho cộng đồng, xã hội.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+26
+01
+02
+03
+04
+05
+06
+07
+08
+
+Mua công ty RWE IT Slovakia – 
+Thương vụ M&A đầu tiên trong lĩnh 
+vực CNTT của Việt Nam tại thị trường 
+nước ngoài.
+Cung cấp Hệ thống bán vé tàu điện tử 
+cho Tổng công ty Đường sắt Việt Nam. 
+Đây là một trong những hợp đồng lớn 
+đầu tiên của lĩnh vực thuê ngoài dịch 
+vụ CNTT tại Việt Nam.
+Top 300 Doanh nghiệp giá trị nhất 
+châu Á do Nikkei Asian Review đánh giá.
+Quy mô nhân lực của lĩnh vực 
+Dịch vụ CNTT cho thị trường 
+nước ngoài cán mốc 10.000 
+người, tương đương Top 15 
+Công ty phần mềm lớn nhất 
+Ấn Độ.
+2009 
+Triển khai hệ thống ERP lớn nhất 
+trong ngành CNTT Việt Nam với 
+Petrolimex trị giá 12,6 triệu USD.
+HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)
+2014
+2015
+2016
+2017
+Ra mắt nền tảng FPT.AI – Nền tảng 
+trí tuệ nhân tạo toàn diện.
+Thắng gói thầu 11,3 triệu USD của 
+Bộ Kế hoạch và Tài chính Myanmar.
+2018
+Mua 90% cổ phần của Intellinet – 
+Công ty Tư vấn Công nghệ hàng đầu 
+của Mỹ.
+Ra mắt nền tảng tự động hóa quy trình 
+doanh nghiệp – Akabot.
+2020
+Ra mắt nền tảng điện toán đám mây 
+FPT Cloud.
+Thành lập Công ty FPT Smart Cloud 
+tập trung nghiên cứu, phát triển 
+sản phẩm, giải pháp, dịch vụ công nghệ 
+AI, Cloud, Data.
+Tập đoàn công nghệ đầu tiên ở Đông 
+Nam Á trở thành đối tác chiến lược 
+của Viện nghiên cứu AI hàng đầu 
+thế giới – Mila.
+2021
+Đóng vai trò chủ chốt trong xử lý 
+sự cố hệ thống giao dịch tại HoSE, 
+nâng công suất lên gấp 03 lần so với 
+hệ thống cũ.
+Thành lập Công ty về lĩnh vực Tư vấn 
+chuyển đổi số – FPT Digital.
+M&A Base.vn – Nền tảng quản trị 
+doanh nghiệp phổ biến nhất Việt Nam, 
+góp phần thúc đẩy chuyển đổi số 
+doanh nghiệp vừa và nhỏ.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+28
+01
+02
+03
+04
+05
+06
+07
+08
+
+2022 
+Thành lập công ty FPT Semiconductor 
+và ra mắt chip bán dẫn đầu tiên của 
+Việt Nam.
+Đồng hành cùng Bộ Công an nghiên 
+cứu, triển khai Đề án 06 Phát triển ứng 
+dụng dữ liệu về dân cư, định danh và 
+xác thực điện tử phục vụ chuyển đổi số 
+quốc gia giai đoạn 2022-2025, tầm nhìn 
+đến năm 2030; tiên phong phát triển 
+giải pháp chống giả mạo căn cước 
+công dân gắn chip.
+Được cấp bằng sáng chế tại Mỹ về 
+Mạng nơ-ron tích chập đẳng biến với 
+các phép biến đổi nhóm để xử lý đám 
+mây điểm 3D.
+Cán mốc 01 tỷ USD doanh thu dịch vụ 
+CNTT từ thị trường nước ngoài, gia nhập 
+nhóm doanh nghiệp CNTT tỷ USD.
+Phát triển 31 mô hình góp phần đưa 
+Đề án Phát triển ứng dụng dữ liệu về 
+dân cư, định danh và xác thực điện tử 
+phục vụ chuyển đổi số quốc gia giai 
+đoạn 2022-2025, tầm nhìn 2030 đi vào 
+thực tiễn tại các lĩnh vực và tỉnh thành.
+Vận hành Hệ thống thông tin giải quyết 
+thủ tục hành chính cung cấp dịch vụ 
+công trực tuyến mức độ cao cho 
+Tp.Hà Nội với hơn 2,8 triệu hồ sơ được 
+giải quyết.
+Thành lập FPT Automotive – Công ty 
+chuyên về dịch vụ và sản phẩm phần 
+mềm cho ngành công nghiệp ô tô.
+Được cấp 02 bằng sáng chế liên quan 
+đến công nghệ AI tại Nhật Bản và Mỹ.
+Công bố chiến lược tập trung vào 05 
+lĩnh vực cốt lõi gồm: AI, Bán dẫn, 
+Công nghệ ô tô số, Chuyển đổi số và 
+Chuyển đổi xanh.
+Hợp tác toàn diện với NVIDIA xây 
+dựng 02 nhà máy AI tại Việt Nam, 
+Nhật Bản và trở thành đối tác phát 
+triển dịch vụ của NVIDIA.
+Thực hiện thương vụ M&A đầu tiên tại 
+Nhật Bản thông qua việc mua Next 
+Advanced Communications NAC Co., 
+Ltd. (NAC).
+Thành lập Ban Chỉ đạo Công nghệ chiến 
+lược gồm 05 đơn vị: Viện Quantum AI và 
+Cybersecurity, FPT UAV, Công nghệ 
+Đường sắt FPT, FPT Cybersecurity 
+và DC5.
+Khánh thành Trung tâm Dữ liệu FPT 
+Fornix HCM02 quy mô lớn nhất 
+Việt Nam với 3.600 tủ rack.
+Khai trương Trung tâm R&D 3.000 m2 
+về công nghệ cao và chip bán dẫn tại 
+Công viên phần mềm số 2 Tp. Đà Nẵng.
+Ký hợp đồng chuyển đổi số toàn diện 
+ứng dụng AI quy mô 256 triệu USD với 
+tập đoàn năng lượng hàng đầu châu Á.
+Top 40 Công ty Dịch vụ CNTT châu Á.
+HÀNH TRÌNH KHẲNG ĐỊNH NĂNG LỰC VÀ VỊ THẾ (Tiếp theo)
+2023
+2024
+2025
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+29
+01
+02
+03
+04
+05
+06
+07
+08
+
+CƠ CẤU QUẢN TRỊ VÀ BỘ MÁY QUẢN LÝ
+FPT hoạt động theo mô hình được quy 
+định tại Mục a, Khoản 1, Điều 137 của 
+Luật Doanh nghiệp bao gồm: Đại hội 
+đồng cổ đông (ĐHĐCĐ), Hội đồng 
+quản trị (HĐQT), Ban Kiểm soát (BKS) 
+và Tổng giám đốc. 
+Theo Báo cáo tài chính hợp nhất, tính 
+đến thời điểm 31/12/2025, mô hình 
+hoạt động của Tập đoàn gồm 08 công 
+ty con trực tiếp và 02 công ty liên kết 
+chính. Xem thông tin chi tiết về các 
+công ty con, công ty liên kết chính tại 
+mục Báo cáo tài chính hợp nhất.
+Sơ đồ tổ chức
+HỘI ĐỒNG QUẢN TRỊ
+TỔNG GIÁM ĐỐC 
+VÀ BAN ĐIỀU HÀNH
+ỦY BAN NHÂN SỰ VÀ 
+LƯƠNG THƯỞNG
+ỦY BAN CHÍNH SÁCH 
+PHÁT TRIỂN
+VĂN PHÒNG 
+CHỦ TỊCH HĐQT
+BỘ PHẬN KIỂM 
+TOÁN NỘI BỘ
+ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+BAN KIỂM SOÁT
+CÔNG TY LIÊN KẾT
+KHỐI CÔNG NGHỆ
+KHỐI VIỄN THÔNG
+CÔNG TY CON
+TẬP ĐOÀN
+FPT Smart Cloud
+FPT Telecom
+FPT Education
+FPT Digital
+FPT Online
+FPT Investment
+FPT Software
+FPT IS
+Chi nhánh Tp.HCM
+Ban Công nghệ
+Ban Công nghệ thông tin
+Văn phòng Chuyển đổi số
+Ban Nhân sự
+Ban Đảm bảo chất lượng
+Ban Tài chính Kế hoạch
+Ban Giám sát Tuân thủ
+Ban Truyền thông
+Ban Mua sắm 
+Ban Văn hóa Đoàn thể
+Văn phòng
+Bộ phận phát triển
+các dự án chiến lược 
+Synnex FPT
+FPT Retail
+KHỐI GIÁO DỤC,
+ĐẦU TƯ VÀ KHÁC 
+Vốn điều lệ 
+7.750.000.000.000 VNĐ
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+1.500.000.000.000 VNĐ
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+60.000.000.000 VNĐ 
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+184.712.750.000 VNĐ
+Tỷ lệ sở hữu: 49,52%
+Vốn điều lệ 
+1.000.000.000.000 VNĐ
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+4.500.000.000.000 VNĐ
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+7.387.634.630.000 VNĐ
+Tỷ lệ sở hữu: 45,66%
+Vốn điều lệ 
+1.000.000.000.000 VNĐ
+Tỷ lệ sở hữu: 100%
+Vốn điều lệ 
+1.188.400.000.000 VNĐ
+Tỷ lệ sở hữu: 48,00%
+Vốn điều lệ 
+1.703.017.850.000 VNĐ
+Tỷ lệ sở hữu: 46,54%
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+30
+01
+02
+03
+04
+05
+06
+07
+08
+
+• Cơ cấu cổ đông theo quốc tịch 
+Đối tượng
+Số lượng
+cổ đông
+Tỷ lệ/
+Tổng số
+cổ đông
+Số lượng
+cổ phiếu
+sở hữu
+Tỷ lệ/Tổng số 
+cổ phiếu
+đã phát hành 
+Việt Nam
+Cá nhân
+Tổ chức
+Nước ngoài
+Cá nhân
+Tổ chức
+Tổng số
+124.667
+124.385
+282
+2.821
+2.334
+487
+127.488
+97,8%
+97,6%
+0,2%
+2,2%
+1,8%
+0,4%
+100,00%
+1.043.777.633
+744.568.681
+299.208.952
+659.729.488
+15.995.614
+643.733.874
+1.703.507.121
+61,27%
+43,71%
+17,56%
+38,73%
+0,94%
+37,79%
+100,00%
+• Tình hình thay đổi vốn điều lệ
+Lần
+Thời điểm
+phát hành
+Vốn điều lệ
+sau khi phát hành
+Lý do
+1
+2
+3
+4
+5
+6
+04/2002
+04/2003
+10/2003
+05/2004
+01/2005
+08/2005
+20.000.000.000
+30.000.000.000
+150.000.000.000
+189.752.500.000
+263.252.500.000
+362.084.900.000
+Cổ phần hóa.
+Tăng vốn điều lệ từ kết quả kinh doanh năm 2002.
+Phát hành thêm cổ phần.
+Tăng vốn điều lệ từ kết quả kinh doanh năm 2003.
+Phát hành thêm cổ phần.
+Tăng vốn điều lệ từ kết quả kinh doanh năm 2004.
+• Top 10 cổ đông lớn 
+Đối tượng
+STT
+Số cổ phần
+Tỷ lệ
+Ông Trương Gia Bình
+Tổng Công ty Đầu tư và Kinh doanh vốn 
+Nhà nước – Công ty TNHH
+Công ty TNHH QT
+PYN ELITE FUND (NON-UCITS)
+Ông Bùi Quang Ngọc
+Bà Trương Thị Thanh Thanh
+Quỹ ETF DCVFMVN DIAMOND
+NTASIAN DISCOVERY MASTER FUND
+EMPLOYEES PROVIDENT FUND BOARD
+FIRST SENTIER INVESTORS GLOBAL 
+UMBRELLA FUND PLC – FSSA ASIAN 
+EQUITY PLUS FUND
+117.347.966
+96.585.637
+62.449.511
+30.044.600
+25.255.715
+25.095.835
+22.966.161
+22.250.000
+20.000.000
+17.597.379
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+6,89%
+5,67%
+3,67%
+1,76%
+1,48%
+1,47%
+1,35%
+1,31%
+1,17%
+1,03%
+Đơn vị: VNĐ
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+32
+01
+02
+03
+04
+05
+06
+07
+08
+
+• Tình hình thay đổi vốn điều lệ (Tiếp theo)
+Lần
+Thời điểm
+phát hành
+Vốn điều lệ
+sau khi phát hành
+Lý do
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+06/2006
+10/2006
+06/2007
+08/2007
+06/2008
+11/2008
+07/2009
+05/2010
+06/2010
+08/2011
+09/2011
+05/2012
+06/2012
+06/2013
+05/2014
+547.292.000.000
+608.102.300.000
+912.153.440.000
+923.525.790.000
+941.606.160.000
+1.411.620.740.000
+1.438.319.670.000
+1.916.659.080.000
+1.934.805.170.000
+2.133.110.660.000
+2.160.826.760.000
+2.700.859.340.000
+2.738.488.330.000
+2.752.017.550.000
+3.439.766.000.000
+Tăng vốn điều lệ từ kết quả kinh doanh năm 2005.
+Tăng vốn điều lệ từ bán cổ phần cho nhà đầu tư chiến lược năm 2006.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 2:1 từ lợi nhuận năm 2006.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2006 và cổ phần phổ thông cho CBNV.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2007 và cổ phần phổ thông cho CBNV.
+Tăng vốn điều lệ thông qua phát hành thêm cổ phiếu thưởng cho cổ đông hiện hữu từ Quỹ 
+thặng dư vốn theo tỷ lệ 2:1.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2008 và cổ phần phổ thông cho CBNV.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 3:1 từ kết quả kinh doanh năm 2009.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2009 và cổ phần phổ thông cho CBNV.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu của Công ty Cổ phần FPT để thực hiện hoán đổi 
+cổ phiếu cho các cổ đông hiện hữu của Công ty Cổ phần Hệ thống thông tin FPT, Công ty Cổ 
+phần Phần mềm FPT và Công ty Cổ phần Thương mại FPT nhằm tái cấu trúc Tập đoàn.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2010.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 4:1 từ kết quả kinh doanh năm 2011.
+Tăng vốn điều lệ thông qua phát hành cổ phần phổ thông thưởng cho CBNV có thành tích đóng 
+góp trong năm 2011 và cổ phần phổ thông cho CBNV.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2012.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 4:1 từ kết quả kinh doanh năm 2013.
+Đơn vị: VNĐ
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+33
+01
+02
+03
+04
+05
+06
+07
+08
+
+Lần
+Thời điểm
+phát hành
+Vốn điều lệ
+sau khi phát hành
+Lý do
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+04/2015
+06/2015
+04/2016
+06/2016
+04/2017
+06/2017
+04/2018
+06/2018
+04/2019
+06/2019
+04/2020
+06/2020
+04/2021
+06/2021
+05/2022
+07/2022
+3.456.959.170.000
+3.975.316.400.000
+3.995.184.690.000
+4.594.266.840.000
+4.617.230.540.000
+5.309.611.050.000
+5.336.156.610.000
+6.136.367.720.000
+6.167.039.720.000
+6.783.586.880.000
+6.817.504.780.000
+7.839.874.860.000
+7.891.972.540.000
+9.075.516.490.000
+9.141.959.140.000
+10.970.265.720.000
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2014.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2014.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2015.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2015.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2016.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2016.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2017.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2017.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2018.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 10% từ kết quả kinh doanh năm 2018.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu cho CBNV có thành tích đóng góp trong năm 2019.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2019.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là CBNV có 
+thành tích đóng góp trong năm 2020; phát hành cổ phiếu mới theo chương trình phát hành cổ phiếu 
+cho đối tượng là cán bộ lãnh đạo cấp cao năm 2021.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2020.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là CBNV có 
+thành tích đóng góp trong năm 2021; phát hành cổ phiếu mới theo chương trình phát hành cổ phiếu 
+cho đối tượng là cán bộ lãnh đạo cấp cao năm 2022.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 20% từ kết quả kinh doanh năm 2021.
+Đơn vị: VNĐ
+• Tình hình thay đổi vốn điều lệ (Tiếp theo)
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+34
+01
+02
+03
+04
+05
+06
+07
+08
+
+Lần
+Thời điểm
+phát hành
+Vốn điều lệ
+sau khi phát hành
+Lý do
+Giá cao nhất
+Giá thấp nhất
+Khối lượng giao dịch/Ngày
+Khối lượng giao dịch nhiều nhất
+Khối lượng giao dịch ít nhất
+38
+39
+40
+41
+42
+43
+05/2023
+07/2023
+06/2024
+10/2024
+05/2025
+07/2025
+11.043.316.220.000
+12.699.688.750.000
+14.604.480.660.000
+14.710.691.830.000
+14.813.301.220.000
+17.035.071.210.000
+Tăng vốn điều lệ thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là CBNV có 
+thành tích đóng góp trong năm 2022; phát hành cổ phiếu mới theo chương trình phát hành cổ phiếu 
+cho đối tượng là cán bộ lãnh đạo cấp cao năm 2023.
+Tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu theo tỷ lệ 15% từ kết quả kinh doanh năm 2022.
+Tăng vốn điều lệ sau phát hành cổ phiếu để tăng vốn từ nguồn vốn chủ sở hữu cho cổ đông hiện hữu 
+theo tỷ lệ 15%.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là CBNV 
+có thành tích đóng góp trong năm 2023 và phát hành cổ phiếu theo chương trình lựa chọn cho đối 
+tượng là cán bộ lãnh đạo cấp cao năm 2024.
+Tăng vốn điều lệ thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng CBNV có 
+thành tích đóng góp trong năm 2024 và phát hành cổ phiếu theo chương trình lựa chọn cho đối 
+tượng là cán bộ lãnh đạo cấp cao năm 2025.
+Tăng vốn điều lệ sau đợt phát hành cổ phiếu để tăng vốn từ nguồn vốn chủ sở hữu cho cổ đông 
+Đơn vị: VNĐ
+• Thống kê giao dịch và giá cổ phiếu năm 2025
+Tính từ ngày 01/01/2025-31/12/2025
+131.708
+VNĐ/Cổ phiếu
+86.104
+VNĐ/Cổ phiếu
+7.594.874
+Cổ phiếu
+23.514.300
+Cổ phiếu
+1.005.400
+Cổ phiếu
+• Tình hình thay đổi vốn điều lệ (Tiếp theo)
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+35
+01
+02
+03
+04
+05
+06
+07
+08
+
+HĐQT FPT gồm bảy thành viên đa dạng về quốc tịch, giới tính và là những lãnh đạo, 
+chuyên gia có nhiều năm kinh nghiệm trong các lĩnh vực công nghệ, tài chính, 
+kinh doanh, quản trị. Đồng thời, với ba thành viên độc lập và một thành viên nữ, 
+HĐQT FPT đáp ứng đầy đủ quy định Khoản 4, Điều 276 Nghị định 155/2020/NĐ-CP 
+hướng dẫn Luật Chứng khoán về số lượng thành viên HĐQT độc lập và bình đẳng giới. 
+Là linh hồn của FPT, người quy tụ nguồn lực và một chiến lược gia có tầm nhìn xa, 
+ông đã kiến tạo những định hướng chiến lược, góp phần đưa FPT không ngừng phát 
+triển và xác lập vị thế như hôm nay. Với vai trò của nhà lãnh đạo tiên phong, ông 
+liên tục khơi mở và dẫn dắt dòng chảy sáng tạo, chủ động nắm bắt các xu hướng công 
+nghệ hiện đại, qua đó dẫn dắt FPT tăng trưởng vững vàng và bền bỉ trong dài hạn.
+Năm 2013, ông được Tập đoàn Nikkei (Nhật Bản) trao tặng Giải thưởng Nikkei Asia 
+vì những đóng góp quan trọng cho sự phát triển của ngành CNTT Việt Nam. 
+Ông đang đảm nhiệm vai trò Trưởng Ban Nghiên cứu phát triển kinh tế tư nhân 
+thuộc Hội đồng Tư vấn cải cách thủ tục hành chính của Thủ tướng Chính phủ; 
+Phó chủ tịch Hiệp hội An ninh mạng quốc gia; Phó chủ tịch Hiệp hội Dữ liệu quốc gia; 
+Thành viên Hội đồng Tư vấn quốc gia về phát triển khoa học, công nghệ, đổi mới 
+sáng tạo và chuyển đổi số; Thành viên Ban cố vấn Temasek Đông Nam Á; 
+Đồng Chủ tịch Hội đồng Doanh nghiệp hàng đầu Việt Nam; Chủ tịch Ủy ban Phát triển 
+Công nghiệp bán dẫn Việt Nam thuộc VINASA; Chủ tịch Liên minh AI Âu Lạc; 
+Chủ tịch Liên minh Nhân lực chiến lược thực thi Nghị quyết 57-NQ/TW.
+GIỚI THIỆU BAN LÃNH ĐẠO
+Thành viên hội đồng quản trị
+Ông TRƯƠNG GIA BÌNH
+Thành viên sáng lập
+Chủ tịch HĐQT
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+36
+01
+02
+03
+04
+05
+06
+07
+08
+
+Ông là người có hơn 40 năm kinh nghiệm về tài chính doanh nghiệp, tài chính kỹ thuật, 
+tài chính dự án tại Việt Nam, Pháp và Nhật Bản. Ông luôn ủng hộ các định hướng 
+chiến lược của FPT, đóng góp ý kiến tích cực cho chính sách tài chính và các 
+chương trình trọng điểm của FPT hàng năm.
+Ông JEAN-CHARLES BELLIOL
+Thành viên HĐQT độc lập
+Ông ÔNG ĐỖ CAO BẢO 
+Là chuyên gia CNTT uy tín hàng đầu ở Việt Nam, ông tham gia kiến tạo và quản trị 
+nhiều dự án CNTT mang tầm quốc gia và có những đóng góp lớn vào sự phát triển 
+của FPT. Trong giai đoạn 1994-2015, ông đã đưa FPT trở thành công ty dẫn đầu 
+thị trường tích hợp hệ thống, phát triển phần mềm tại Việt Nam. Là Chủ tịch Ủy ban 
+Nhân sự và Lương thưởng, ông giữ vai trò quan trọng trong việc hoạch định chiến lược 
+nhân sự và luân chuyển lãnh đạo cấp cao, đào tạo thế hệ lãnh đạo kế cận của FPT.
+Thành viên sáng lập
+Thành viên HĐQT
+Là một nhà quản trị xuất sắc, ông luôn tiên phong trong việc hiện đại hóa hệ thống 
+quản trị FPT, đảm bảo mọi hoạt động của Tập đoàn hiệu quả và chuẩn xác theo 
+đúng quy chuẩn chất lượng quốc tế. Với kinh nghiệm lâu năm trong các lĩnh vực 
+quản trị dự án, đảm bảo chất lượng, chuẩn hóa quy trình, ông luôn theo sát và hỗ trợ 
+các dự án lớn của FPT.
+Năm 2005, ông được vinh danh trong Top 10 Lãnh đạo CNTT xuất sắc nhất Đông Dương. 
+Ông BÙI QUANG NGỌC 
+Thành viên sáng lập
+Phó chủ tịch HĐQT
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+37
+01
+02
+03
+04
+05
+06
+07
+08
+
+Ban Điều hành và đội ngũ Giám đốc nghiệp vụ của FPT là những người có nhiều năm 
+gắn bó, am hiểu các mảng hoạt động nghiệp vụ cũng như công nghệ của Tập đoàn. 
+Ông là lãnh đạo thế hệ 7X trưởng thành trong nội bộ FPT, am hiểu sâu sắc kinh doanh 
+– công nghệ trong các lĩnh vực hoạt động của Tập đoàn. Ông đã đảm nhiệm nhiều 
+vị trí lãnh đạo quan trọng như: Tổng giám đốc FPT Telecom (2012-2018), Giám đốc 
+Điều hành FPT Online (2013-2015), Phó tổng giám đốc FPT kiêm Tổng giám đốc 
+FPT IS (2018-2019). 
+Với phong cách lãnh đạo quyết liệt, sáng tạo và đề cao kỷ luật, ông đã đưa FPT 
+duy trì tăng trưởng cao; định vị FPT là doanh nghiệp chuyển đổi số hàng đầu, 
+đồng thời kiến tạo nền tảng tăng trưởng dài hạn với Hệ sinh thái công nghệ 
+Made by FPT, mở rộng kênh bán hàng, tăng cường hợp lực nội bộ và thúc đẩy 
+chuyển đổi số, giúp tiết kiệm cho Tập đoàn hàng trăm tỷ đồng mỗi năm.
+Ông đồng thời đảm nhiệm nhiều vai trò quan trọng trong ngành công nghệ và đổi mới 
+sáng tạo của Việt Nam như: Chủ tịch Hiệp hội Phần mềm và Dịch vụ CNTT 
+Việt Nam (VINASA); Phó chủ tịch Hiệp hội Công nghiệp điện toán châu Á-châu 
+Đại Dương (ASOCIO); Chủ tịch Liên minh Kinh tế tầm thấp Việt Nam (LEAP); 
+Chủ tịch Mạng lưới Hàng không, Vũ trụ và Thiết bị bay không người lái Việt Nam 
+(AUVS Vietnam).
+Thành viên Ban Điều hành và các giám đốc nghiệp vụ
+Ông NGUYỄN VĂN KHOA
+Tổng giám đốc
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+39
+01
+02
+03
+04
+05
+06
+07
+08
+
+Ông VŨ ANH TÚ
+Giám đốc Công nghệ 
+(Tháng 09/2020 - 03/2026), 
+Giám đốc Điều hành FPT UAV
+Ông HOÀNG HỮU CHIẾN
+Kế toán trưởng
+Ông NGUYỄN XUÂN VIỆT
+Giám đốc Công nghệ Thông tin
+Gia nhập FPT năm 2001, ông đã đảm nhiệm nhiều vị trí quan trọng trong mảng 
+công nghệ, kỹ thuật như: Phó tổng giám đốc FPT Telecom, Chủ tịch Công ty TNHH 
+MTV Viễn thông quốc tế FPT (thuộc FPT Telecom), Trưởng ban CNTT FPT….
+Ông đã chỉ huy triển khai thành công nhiều hệ thống mạng viễn thông, dự án số hóa 
+dịch vụ công và bảo mật quan trọng cho Chính phủ, ngân hàng; phát triển nhiều 
+giải pháp, dịch vụ Made by FPT với hàng chục triệu người dùng. 
+Ông chịu trách nhiệm xây dựng chiến lược, định hướng, chính sách, nguồn lực công 
+nghệ của FPT; chỉ đạo các dự án phát triển sản phẩm, dịch vụ mới Made by FPT; 
+tham gia dự án chuyển đổi số cho các khách hàng lớn của Tập đoàn….
+Ông gia nhập FPT năm 2003 và đảm nhiệm nhiều vị trí quan trọng như: Trưởng phòng 
+Phân tích và Kiểm soát tài chính thuộc Ban Kế hoạch tài chính FPT, Phó Ban Kế hoạch 
+tài chính FPT.... Năm 2011, ông được bổ nhiệm vị trí Kế toán trưởng FPT. 
+Với nhiều năm kinh nghiệm chuyên sâu trong lĩnh vực tài chính, ông có những đóng góp 
+quan trọng phát triển Hệ thống quản trị tài chính của FPT đáp ứng nguyên tắc minh 
+bạch, kịp thời, đầy đủ, chính xác. Đặc biệt, ông đóng vai trò quan trọng trong việc 
+phát triển Giải pháp đóng sổ và hợp nhất báo cáo tài chính của FPT (CFS) giúp Tập đoàn 
+chỉ mất 05-07 ngày để lập báo cáo tài chính riêng, báo cáo tài chính hợp nhất. 
+Gia nhập FPT năm 2006, ông là người xây dựng hệ thống phòng chống tấn công, 
+đảm bảo an toàn thông tin, đồng thời tham mưu giúp Ban Lãnh đạo Tập đoàn 
+và công ty thành viên xây dựng chiến lược, chính sách, kế hoạch ứng dụng CNTT 
+vào hoạt động sản xuất kinh doanh nhằm đạt hiệu quả tối ưu. Đồng thời, ông quản trị 
+việc thực hiện chiến lược, chính sách và nguồn lực CNTT đạt hiệu quả trong toàn 
+Tập đoàn.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+06
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+41
+01
+02
+03
+04
+05
+06
+07
+08
+
+Bối cảnh chung
+Chiến lược phát triển 
+giai đoạn 2026 - 2028 
+01
+02
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Bối cảnh chung
+Chiến lược phát triển 
+giai đoạn 2026 - 2028
+06
+01
+02
+03
+04
+05
+06
+07
+08
+44
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+
+BỐI CẢNH CHUNG
+CHIẾN LƯỢC PHÁT TRIỂN
+Chi tiêu CNTT toàn cầu dự kiến đạt 6.155 tỷ USD vào năm 2026, tăng 10,8% so với 
+năm 2025 (Nguồn Gartner), tập trung mạnh vào trung tâm dữ liệu (tăng 31,7%) 
+và phần mềm (tăng 14,7%) nhờ nhu cầu xây dựng hạ tầng tính toán phục vụ AI. 
+Lĩnh vực Dịch vụ CNTT được dự báo đạt 1.867 tỷ USD vào năm 2026 với tốc độ 
+tăng trưởng 8,7%, trở thành phân khúc lớn nhất trong tổng chi tiêu CNTT toàn cầu, 
+phản ánh xu hướng gia tăng nhu cầu tư vấn, triển khai, hiện đại hóa hệ thống, 
+chuyển đổi số và ứng dụng AI trong doanh nghiệp. 
+Tăng trưởng chi tiêu Dịch vụ Công nghệ thông tin
+AI bước vào chu kỳ tạo giá trị, động lực mới cho 
+tăng trưởng dài hạn
+Chi tiêu CNTT toàn cầu năm 2026 
+(Nguồn: Gartner)
+Dịch vụ CNTT
+Trung tâm dữ liệu
+Đơn vị: Tỷ USD
+6.155
+1.867 30,3%
+836 13,6%
+653 10,6%
+1.434 23,3%
+1.365 22,2%
+Phần mềm
+Phần cứng
+Dịch vụ viễn thông
+Theo khảo sát của Gartner, hơn 80% CIO dự kiến đầu tư mạnh vào các năng lực 
+nền tảng như: an ninh mạng, AI tạo sinh và quản trị dữ liệu. Trong giai đoạn 
+2025-2026, các giám đốc Công nghệ (CIO) chuyển trọng tâm từ triển khai dự án 
+thử nghiệm sang dự án có giá trị thực tế và tỷ suất lợi nhuận từ AI, đặc biệt là AI tự chủ 
+(Agentic AI). Trong đó, A.R.T (Agile Realignment – Risk Readiness – Tenacity) được 
+xem là ba năng lực cốt lõi để các tổ chức, doanh nghiệp phát triển và bứt phá trong 
+một thế giới đầy biến động, được dẫn dắt bởi AI.
+• Tái cấu trúc linh hoạt (Agile Realignment): 94% CIO kỳ vọng sẽ có những thay 
+đổi lớn trong kế hoạch chi tiêu cho các dự án CNTT trong vòng 24 tháng tới và 
+sẵn sàng dừng các dự án kém hiệu quả để dồn lực cho dự án AI.
+• Sẵn sàng trước rủi ro (Risk Readiness): Các CIO đang chuyển từ chiến lược nhà 
+cung cấp "không biên giới" sang ưu tiên các đối tác khu vực và giải pháp "chủ 
+quyền số" (Geopatriation) để giảm thiểu rủi ro địa chính trị và tuân thủ quy định 
+dữ liệu khắt khe.
+• Sự kiên định về kết quả tài chính (Tenacity): Ưu tiên hàng đầu của các CIO là 
+chuyển hóa năng suất từ AI thành lợi nhuận thực tế thông qua việc tối ưu hóa chi 
+phí vận hành và tăng trưởng doanh thu.
+Một xu hướng đáng chú ý là sự ưu tiên sử dụng các mô hình AI mã nguồn mở. 76% 
+doanh nghiệp sử dụng mô hình ngôn ngữ lớn (LLM) ưu tiên lựa chọn các mô hình mã 
+nguồn mở, kết hợp với các giải pháp độc quyền nhằm tối ưu chi phí, hiệu năng và 
+khả năng kiểm soát dữ liệu. Tỷ lệ doanh nghiệp tự đầu tư phát triển mô hình AI giảm 
+mạnh, từ 43% trong năm 2024 xuống còn 24% trong năm 2025. Xu hướng này mở 
+ra cơ hội phát triển cho các doanh nghiệp công nghệ như FPT trong việc xây dựng 
+nền tảng AI dựa trên mã nguồn mở và phát triển các giải pháp AI chuyên biệt, 
+tạo dư địa tăng trưởng bền vững trong trung và dài hạn.
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Bối cảnh chung
+Chiến lược phát triển 
+giai đoạn 2026 - 2028
+06
+01
+02
+03
+04
+05
+06
+07
+08
+45
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT
+
+Xu hướng sử dụng các mô hình AI mã nguồn mở được phản ánh rõ nét trong một số 
+lĩnh vực kinh tế trọng điểm. Ngành Công nghiệp và Ô tô dẫn đầu trong việc sử dụng 
+các mô hình ngôn ngữ lớn mã nguồn mở để tối ưu hóa chuỗi cung ứng, nâng cao 
+công tác kiểm soát chất lượng và cải thiện hiệu quả vận hành. Mức độ triển khai và 
+sử dụng các giải pháp xử lý ngôn ngữ tự nhiên (NLP) trong các ngành này tăng 
+148% so với cùng kỳ. Trong khi đó, lĩnh vực Dịch vụ Tài chính dẫn đầu về ứng dụng 
+kiến trúc “serverless” (mô hình điện toán đám mây cho phép nhà phát triển xây dựng 
+và chạy ứng dụng mà không cần quản lý cơ sở hạ tầng máy chủ vật lý hay ảo), với 
+mức tăng 131%.
+Song song với xu hướng tối ưu hạ tầng và triển khai AI linh hoạt, Agentic AI nổi lên 
+như một động lực tăng trưởng mới của thị trường với giá trị đạt 7,3 tỷ USD trong 
+năm 2025 và được dự báo tăng từ 9,1 tỷ USD năm 2026 lên 139,2 tỷ USD vào năm 
+2034. Xu hướng này cho thấy sự chuyển dịch mạnh mẽ sang các hệ thống tự động 
+thực thi nhiệm vụ với sự can thiệp của con người ở mức tối thiểu, qua đó tái định 
+hình cách doanh nghiệp vận hành, từ tự động hóa quy trình đến hỗ trợ ra quyết định 
+thông minh.
+Trong bối cảnh thị trường AI tự chủ tăng trưởng nhanh, quy mô chi tiêu cho AI toàn cầu cũng 
+tăng trưởng mạnh mẽ. Theo Gartner, chi tiêu cho AI toàn cầu đạt khoảng 1.757 tỷ USD 
+năm 2025, tăng hơn 50% so với 2024 và sẽ đạt 3.335 tỷ USD vào năm 2027. 
+Sự bùng nổ của AI mang lại hiệu suất nhưng cũng đặt ngành dịch vụ CNTT trước 
+những thách thức về mô hình kinh doanh và phương thức tạo ra giá trị. Theo báo cáo 
+của J.P. Morgan, các công ty Dịch vụ CNTT phải đối mặt với áp lực "tái chứng 
+minh" giá trị trong một môi trường bất định.
+• Rủi ro về mô hình định giá và sự thay đổi cấu trúc doanh thu: Ngành Dịch vụ 
+CNTT chủ yếu vận hành theo mô hình tính phí dựa trên thời gian và nguồn lực (Time & 
+Material). Tuy nhiên, khả năng tự động hóa và tối ưu hóa của AI đang trực tiếp 
+đe dọa mô hình này. Khi năng suất lao động tăng 30-50% nhờ các công cụ AI, 
+số lượng giờ công cần thiết cho cùng một khối lượng công việc sẽ giảm mạnh, 
+các doanh nghiệp không kịp chuyển dịch sang mô hình định giá dựa trên kết quả 
+đầu ra (outcome-based) hoặc dựa trên đăng ký dịch vụ (subscription) sẽ đối mặt 
+với rủi ro sụt giảm doanh thu.
+• Động lực P*Q và rủi ro phân mảnh ngân sách: J.P. Morgan chỉ ra một nghịch lý, 
+mặc dù đơn giá mỗi đơn vị công việc (P) giảm do AI nhưng tổng chi tiêu CNTT vẫn 
+có thể duy trì ổn định nhờ gia tăng nhu cầu (Q) xử lý “nợ kỹ thuật” (Technical debt), 
+ước đạt 8.000 tỷ USD. Tuy nhiên, rủi ro phát sinh từ xu hướng “tiết kiệm để tái 
+đầu tư”, khách hàng tạm dừng dự án không cấp thiết để dồn ngân sách cho AI sẽ 
+gây khó khăn trong ngắn hạn cho tăng trưởng của doanh nghiệp dịch vụ CNTT.
+• Thách thức về quản trị, tuân thủ và niềm tin: Việc triển khai AI ở quy mô lớn đòi hỏi 
+khung quản trị chặt chẽ, đảm bảo an toàn dữ liệu, tính minh bạch và độ tin cậy 
+của thuật toán. Điều này đòi hỏi các doanh nghiệp CNTT không chỉ cần giỏi kỹ 
+thuật mà còn phải đóng vai trò là chuyên gia tư vấn về pháp lý và đạo đức AI.
+Chuyển dịch của ngành dịch vụ CNTT: Rủi ro và 
+cơ hội mới từ AI
+Đơn vị: Tỷ USD
+Chi tiêu cho AI giai đoạn 2025-2027
+Lĩnh vực
+2025
+2026
+2027
+Dịch vụ AI
+An ninh mạng AI
+Phần mềm AI
+Mô hình AI
+Nền tảng AI cho khoa học dữ liệu và học máy
+Nền tảng phát triển ứng dụng AI
+Dữ liệu AI
+Hạ tầng AI
+Tổng chi tiêu AI
+439
+26
+283
+14
+22
+7
+0,8
+965
+1.757
+588
+51
+452
+26
+31
+8
+3
+1.366
+2.525
+761
+86
+636
+43
+44
+11
+6
+1.748
+3.335
+BÁO CÁO THƯỜNG NIÊN 2025
+LÀM CHỦ
+CÔNG NGHỆ CHIẾN LƯỢC
+Bối cảnh chung
+Chiến lược phát triển 
+giai đoạn 2026 - 2028
+06
+01
+02
+03
+04
+05
+06
+07
+08
+46
+THÔNG ĐIỆP BAN LÃNH ĐẠO
+DẤU ẤN 2025
+TỔNG QUAN VỀ FPT
+CHIẾN LƯỢC PHÁT TRIỂN
+PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
+QUẢN TRỊ CÔNG TY
+BÁO CÁO ESG
+BÁO CÀO TÀI CHÍNH HỢP NHẤT

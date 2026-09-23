@@ -1,0 +1,3262 @@
+DANH MỤC VIẾT TẮT
+Viết tắt
+Diễn giải
+ATTT
+An toàn thông tin
+ASXH
+An sinh xã hội
+BCTC
+Báo cáo tài chính
+BĐH
+Ban Điều hành
+BHXH
+Bảo hiểm xã hội
+BHYT
+Bảo hiểm y tế
+BKS
+Ban Kiểm soát
+CAR
+Tỷ lệ an toàn vốn
+CASA
+Nguồn vốn không kỳ hạn
+CBNV
+Cán bộ, nhân viên
+CBTT
+Công bố thông tin
+CN
+Chi nhánh
+CNTT
+Công nghệ thông tin
+COVID-19
+Bệnh viêm ường hô hấp cấp do chủng mới của virus 
+Corona
+CSKH
+Chăm sóc khách hàng
+DNNVV/
+SME
+Doanh nghiệp nhỏ và vừa
+ĐCTC
+Định chế tài chính
+ĐHĐCĐ
+Đại hội ồng cổ ông
+ĐKKD
+Đăng ký kinh doanh
+ĐVSN
+Đơn vị sự nghiệp
+ĐVT
+Đơn vị tính
+FDI
+Đầu tư trực tiếp nước ngoài
+GDP
+Tổng sản phẩm quốc nội
+GĐ/PGĐ
+Giám ốc/Phó Giám ốc
+GPĐC
+Giấy phép iều chỉnh
+HĐKD
+Hoạt ộng kinh doanh
+HĐQT
+Hội ồng Quản trị
+HĐTV
+Hội ồng Thành viên
+HTLS
+Hỗ trợ lãi suất
+HOSE
+Sở giao dịch Chứng khoán TP. Hồ Chí Minh
+IPO
+Phát hành cổ phiếu lần ầu ra công chúng
+KHBL
+Khách hàng bán lẻ
+KHCN
+Khách hàng cá nhân
+KHDN
+Khách hàng doanh nghiệp
+KTKSNB
+Kiểm tra Kiểm soát Nội bộ
+KTNB
+Kiểm toán Nội bộ
+LNST
+Lợi nhuận sau thuế
+LNTT
+Lợi nhuận trước thuế
+LSCV
+Lãi suất cho vay
+Viết tắt
+Diễn giải
+MTBP
+Kế hoạch Kinh doanh trung hạn
+NCLQ
+Người có liên quan
+NĐT
+Nhà ầu tư
+NHLD
+Ngân hàng liên doanh
+NHNN
+Ngân hàng Nhà nước Việt Nam
+NHTM
+Ngân hàng thương mại
+NHTMCP
+Ngân hàng thương mại Cổ phần
+PGD
+Phòng giao dịch
+PTBV
+Phát triển bền vững
+QLRR
+Quản lý rủi ro
+QTRR
+Quản trị rủi ro
+ROA
+Tỷ lệ lợi nhuận trên tổng tài sản
+ROE
+Tỷ lệ lợi nhuận trên vốn chủ sở hữu
+RRHĐ
+Rủi ro hoạt ộng
+RRLS
+Rủi ro lãi suất
+RRTD
+Rủi ro tín dụng
+RRTK
+Rủi ro thanh khoản
+RRTT
+Rủi ro thị trường
+SPDV
+Sản phẩm, dịch vụ
+TCKT
+Tổ chức kinh tế
+TCTD
+Tổ chức tín dụng
+TGĐ
+Tổng Giám ốc
+TNHH
+Trách nhiệm hữu hạn
+TPP
+Trưởng phó phòng
+TSC
+Trụ sở chính
+TTS
+Tổng tài sản
+TV
+Thành viên
+UBCKNN
+Ủy ban Chứng khoán Nhà nước
+UBCS
+Ủy ban Chính sách
+UBNS
+Ủy ban Nhân sự
+VAMC
+Công ty TNHH MTV Quản lý tài sản của các tổ chức 
+tín dụng Việt Nam
+VBCS
+Văn bản chính sách
+VCSH
+Vốn chủ sở hữu
+VĐL
+Vốn iều lệ
+VHDN
+Văn hóa doanh nghiệp
+VietinBank
+Ngân hàng TMCP Công Thương Việt Nam
+VPĐD
+Văn phòng ại diện
+XLRR
+Xử lý rủi ro
+dd/mm/
+yyyy
+Định dạng ngày/tháng/năm trong Báo cáo
+
+1 - THÔNG TIN CHUNG
+Mốc lịch sử quan trọng
+1988
+2014
+2015
+2017
+2020
+1990
+2008
+2009
+Chính thức niêm yết và giao 
+dịch cổ phiếu trên HOSE với 
+mã chứng khoán CTG
+2013
+Bán 19,73% cổ phần cho NĐT 
+chiến lược nước ngoài MUFG 
+Bank (Nhật Bản), trở thành 
+NHTMCP Nhà nước có cơ cấu 
+cổ ông mạnh nhất Việt Nam 
+tại thời iểm ó.
+2021
+2011
+2012
+VietinBank (khi ó có tên gọi là 
+Ngân hàng Công Thương) ược 
+thành lập trên cơ sở tách ra từ 
+NHNN theo Nghị ịnh số 53/HĐBT 
+của Hội ồng Bộ trưởng.
+Xây dựng chiến lược bán lẻ lấy 
+khách hàng làm trung tâm, mục 
+tiêu trở thành ngân hàng bán lẻ tốt 
+nhất Việt Nam.
+Nâng cấp CN VietinBank tại thủ ô 
+Viêng Chăn, Lào thành Ngân hàng TNHH 
+Công Thương Việt Nam tại Lào (ngân 
+hàng con), ánh dấu bước phát triển 
+mới, nâng cao vị thế của VietinBank tại 
+thị trường Lào
+Tăng vốn iều lệ thành công từ 37.234 
+tỷ ồng lên 48.058 tỷ ồng, tạo tiền 
+ể ể VietinBank nâng cao năng lực 
+tài chính, năng lực quản trị rủi ro, chủ 
+ộng phát huy tối a vị thế, tiềm 
+năng, ầu tư cơ sở vật chất, hạ tầng 
+công nghệ hiện ại, phát triển dịch 
+vụ, kiện toàn mạng lưới; tạo à tăng 
+trưởng bền vững; góp phần gia tăng 
+lợi ích cho khách hàng và thúc ẩy 
+kinh tế - xã hội ất nước.
+Chuyển ổi thành công hệ thống Core 
+Banking (SunShine), ưa VietinBank trở 
+thành ngân hàng sở hữu nền tảng công 
+nghệ bậc nhất Ngành Ngân hàng Việt 
+Nam.
+• Hoàn thành tốt Phương án cơ cấu lại 
+gắn với xử lý nợ xấu giai oạn 2016 
+- 2020 tại VietinBank và MTBP 2018 - 
+2020.
+• Xây dựng Chiến lược phát triển 
+VietinBank giai oạn 2021 - 2030 và 
+tầm nhìn ến 2045, MTBP giai oạn 
+2021 - 2023.
+VietinBank là ngân hàng ầu tiên tham 
+gia với ngân hàng nước ngoài thành lập 
+NHLD Indovina.
+• Ra mắt thương hiệu mới VietinBank 
+tháng 4/2008.
+• Trung tâm Đào tạo nghiệp vụ ược 
+nâng cấp thành Trường Đào tạo và 
+Phát triển Nguồn nhân lực VietinBank 
+tháng 9/2008.
+• Thực hiện thành công phiên ấu giá 
+phát hành cổ phiếu lần ầu ra công 
+chúng (IPO) tháng 12/2008.
+• Bán 10% vốn iều lệ cho ối tác 
+chiến lược nước ngoài IFC, là 
+NHTMCP Nhà nước ầu tiên có 
+ối tác chiến lược nước ngoài.
+• Khai trương CN tại Frankfurt, Đức.
+• Là ngân hàng ầu tiên tại Việt Nam 
+phát hành thành công 250 triệu USD 
+trái phiếu quốc tế.
+• Khai trương CN tại Thủ ô Viêng Chăn, 
+Lào.
+Chủ tịch Hội ồng Quản trị VietinBank Phạm Huy Hùng ánh chiêng mở ầu phiên ấu 
+giá phát hành cổ phiếu lần ầu (IPO) ngày 25/12/2008
+VietinBank có cơ cấu cổ ông mạnh nhất hệ thống ngân hàng Việt Nam 
+tại thời iểm ó
+vietinbank.vn
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+1 - GIỚI THIỆU VIETINBANK
+12
+13
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+
+4 - ĐỊNH HƯỚNG PHÁT TRIỂN 
+Định hướng chiến lược phát triển trung hạn
+Với triết lý kinh doanh trong thời kỳ phát triển mới, VietinBank 
+chú trọng ầu tư nâng cao năng lực nền tảng chính - là trụ 
+cột thúc ẩy thực thi thành công ịnh hướng chiến lược ã 
+ặt ra. 7 yếu tố nền tảng bao gồm: 
+Mục tiêu trung hạn giai oạn 2021 - 2023 của VietinBank là trở thành Ngân hàng 
+a năng, hiện ại, hiệu quả hàng ầu tại Việt Nam, phấn ấu ến năm 2023 
+nằm trong Top 100 Ngân hàng mạnh nhất Khu vực châu Á - Thái Bình Dương.
+Dựa trên 5 chủ iểm chiến lược trong giai oạn 2021 - 2023 là: 
+1. Triển khai mạnh mẽ VHDN;
+2. Quản trị và o lường dữ liệu;
+3. Vận hành xuất sắc;
+4. Tối ưu hóa mô hình hoạt ộng và 
+mạng lưới;
+5. QTRR theo thông lệ tốt nhất;
+6. Nhân sự xuất sắc;
+7. Marketing & truyền thông chủ 
+ộng, hiệu quả. 
+Trong ó, xác ịnh công nghệ thông tin là yếu tố then 
+chốt, nguồn nhân sự có chất lượng tốt là yếu tố quyết 
+ịnh trong thực thi thành công chiến lược.
+Chuyển ổi mô hình tăng trưởng; 
+Thay ổi phương thức cạnh tranh; 
+Gắn tăng trưởng với kinh tế ngành, 
+vùng trọng iểm; 
+Chuyển ổi số toàn diện hoạt ộng 
+ngân hàng; 
+Nâng cao chất lượng nguồn nhân lực 
+và năng lực thực thi nhanh.
+43
+42
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+Rủi ro về 
+môi trường 
+kinh doanh
+Năm 2022 kinh tế thế giới phải ối mặt với những thách thức lớn, 
+biến ộng nhanh, khó lường và tính bất ổn cao; lạm phát ã tăng 
+lên mức cao nhất trong nhiều thập kỷ buộc các quốc gia phải 
+thắt chặt chính sách tiền tệ; cạnh tranh chiến lược, ịa chính trị 
+giữa các nước lớn, xung ột quân sự giữa Nga và Ukraine; thiên 
+tai, dịch bệnh, biến ổi khí hậu… ã làm gia tăng rủi ro ến thị 
+trường tài chính, tiền tệ toàn cầu.
+Trong hoàn cảnh ó, kinh tế Việt Nam ã có bước phục hồi mạnh 
+mẽ, tổng sản phẩm quốc nội (GDP) năm 2022 của Việt Nam lần 
+ầu tiên vượt 400 tỷ USD, GDP bình quân ầu người ước ạt 95,6 
+triệu ồng/người, tương ương 4.110 USD, tăng 393 USD so với 
+năm 2021. Đặc biệt, GDP năm 2022 của Việt Nam ghi nhận mức 
+tăng cao nhất trong vòng 12 năm qua với mức tăng 8,02% so với 
+năm trước. Trong ó, các lĩnh vực tiêu biểu óng góp áng kể 
+vào tổng giá trị tăng thêm của toàn nền kinh tế bao gồm: nông, 
+lâm nghiệp và thủy sản có mức tăng 3,36%, óng góp 5,11%; công 
+nghiệp và xây dựng, ngành công nghiệp chế biến, chế tạo có tốc 
+ộ tăng trưởng là 8,10%, óng góp 38,24%; dịch vụ ược khôi phục 
+và tăng trưởng mạnh mẽ với tốc ộ tăng năm 2022 ạt 9,99%, cao 
+nhất trong giai oạn 2011 - 2022; óng góp 56,65%.
+Bên cạnh ó, xuất nhập khẩu cũng là một iểm sáng trong iều 
+kiện nhiều thị trường lớn giảm nhu cầu và thắt chặt chi tiêu, tính 
+chung cả năm 2022, tổng kim ngạch xuất nhập khẩu ước ạt 
+732,5 tỷ USD, tăng 9,5% so với năm trước. Đây là con số kỷ lục 
+trong nhiều năm trở lại ây. Trong ó xuất khẩu tăng 10,6%, nhập 
+khẩu tăng 8,4%. Cán cân thương mại hàng hóa năm 2022 xuất 
+siêu 11,2 tỷ USD (năm 2021 xuất siêu 3,32 tỷ USD), ồng thời là năm 
+thứ 7 liên tiếp xuất siêu. Xuất nhập năm 2023 ược dự báo sẽ gặp 
+nhiều khó khăn khi lạm phát tăng cao ở hầu hết các quốc gia, các 
+thị trường lớn của Việt Nam sẽ ảnh hưởng ến tiêu dùng các mặt 
+hàng không thiết yếu, gây sụt giảm nhu cầu hàng hóa nhập khẩu 
+từ các nước. Xuất khẩu cũng ối mặt với thách thức bị thu hẹp thị 
+trường do bất ổn liên quan ến căng thẳng ịa chính trị khu vực 
+và toàn cầu, giá ầu vào nhập khẩu cao hơn và triển vọng tăng 
+trưởng không chắc chắn ở các ối tác thương mại chính của Việt 
+Nam cũng có thể hạn chế khả năng duy trì thặng dư cán cân 
+thương mại do Việt Nam là nền kinh tế có ộ mở lớn (trên 200%). 
+Chỉ số giá tiêu dùng (CPI) bình quân năm 2022 tăng 3,15% so với 
+năm 2021, hoàn thành mục tiêu Quốc hội ề ra. Tuy nhiên áp lực 
+lạm phát trong năm 2023 tương ối lớn, thể hiện qua việc các 
+năm trước Quốc hội ặt mục tiêu kiểm soát lạm phát dưới 4%, 
+nhưng năm 2023 Quốc hội ặt mục tiêu kiểm soát lạm phát dưới 
+4,5%. Áp lực tăng lạm phát năm tới ến từ việc Trung Quốc dỡ bỏ 
+Zero COVID, nhu cầu hàng hóa tại Trung Quốc sẽ tăng mạnh, ẩy 
+giá hàng hóa thế giới tăng cao, trong khi Việt Nam nhập khẩu 
+hàng hóa ầu vào nhiều nên ảnh hưởng lớn tới lạm phát trong 
+nước. Bên cạnh ó, khả năng tăng giá học phí, giá dịch vụ y tế 
+theo lộ trình, dự kiến iều chỉnh tăng giá iện trong năm 2023, 
+tăng lương cơ sở từ 01/07/2023 sẽ tạo thêm áp lực lạm phát cho 
+nền kinh tế.
+Trong năm 2022, NHNN ã cân ối các mục tiêu kinh tế vĩ mô 
+trọng tâm và triển khai các giải pháp ồng bộ, linh hoạt iều 
+hành chính sách tiền tệ, ổn ịnh tỷ giá, kiềm chế lạm phát i với 
+với kiểm soát rủi ro thanh khoản, ảm bảo an toàn hoạt ộng cho 
+hệ thống tài chính; các ợt tăng lãi suất của NHNN trong năm phù 
+hợp với diễn biến toàn cầu và giảm áp lực lên tỷ giá.  
+Bước sang năm 2023, nền kinh tế Việt Nam vẫn phải ối mặt với 
+những thách thức từ môi trường lãi suất cao, thanh khoản thắt 
+chặt trong bối cảnh Cục Dự trữ liên bang Hoa Kỳ (FED) tiếp tục 
+chính sách tăng lãi suất ể chống lạm phát. Dự báo, áp lực lãi 
+suất vẫn còn trong nửa ầu năm 2023 do hạn chế thanh khoản từ 
+thị trường trái phiếu doanh nghiệp và nhu cầu huy ộng vốn của 
+các ngân hàng tăng ể ảm bảo các chỉ tiêu an toàn vốn cũng 
+như áp ứng nhu cầu vay tăng cao của nền kinh tế. Tuy nhiên, 
+lãi suất tiền gửi ược kỳ vọng giảm nhẹ trong nửa cuối năm 2023 
+nhờ: áp lực tỷ giá giảm cho phép NHNN bơm thanh khoản vào hệ 
+thống và ổn ịnh mặt bằng lãi suất, lạm phát trong nước ược 
+kiểm soát và áp ứng mục tiêu của Chính phủ là giữ lạm phát 
+trung bình năm 2023 dưới 4,5% và Chính phủ xem xét ban hành 
+các chính sách hỗ trợ và củng cố niềm tin của nhà ầu tư vào thị 
+trường trái phiếu doanh nghiệp.
+Trong bối cảnh kinh tế toàn cầu còn tiềm ẩn nhiều rủi ro và biến 
+ộng, các tổ chức vẫn có những dự báo tích cực về tăng trưởng 
+kinh tế của Việt Nam, Quỹ Tiền tệ quốc tế (IMF) dự báo tăng 
+trưởng kinh tế Việt Nam sẽ ạt 6,2% trong năm 20231 , Ngân hàng 
+Thế giới (WB) dự báo ạt 6,5%2, HSBC dự báo ở mức 5,8%3. Đây là 
+triển vọng lạc quan so với các nước trong khu vực hay nhiều nền 
+kinh tế lớn trên thế giới.
+1 https://www.imf.org/en/Countries/VNM
+2 https://laodong.vn/kinh-doanh/giam-doc-quoc-gia-world-bank-du-bao-gdp-viet-nam-2023-dat-65-1140678.ldo
+3 https://vtv.vn/kinh-te/hsbc-nang-du-bao-tang-truong-kinh-te-viet-nam-20221222155659357.htm
+47
+46
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+Rủi ro 
+tín dụng
+Rủi ro 
+thị trường
+Trong năm 2022, các biến ộng mạnh về kinh tế, chiến tranh ã 
+ảnh hưởng ến toàn bộ nền kinh tế thế giới nói chung và nền kinh 
+tế Việt Nam nói riêng. Trước tình hình ó, với ịnh hướng nâng cao 
+năng lực tài chính, kiểm soát chặt chẽ chất lượng nợ ảm bảo 
+mục tiêu tăng trưởng an toàn, bền vững, hiệu quả, VietinBank luôn 
+chủ ộng quản lý RRTD trên cả cấp ộ danh mục và cấp ộ giao 
+dịch, nhận diện sớm các ngành/lĩnh vực/khách hàng tiềm ẩn rủi 
+ro ể kịp thời triển khai các biện pháp phân luồng thu hồi xử lý nợ, 
+giảm thiểu tổn thất cho Ngân hàng; ồng thời triển khai các biện 
+pháp hỗ trợ khách hàng ổn ịnh hoạt ộng sản xuất kinh doanh 
+sau ại dịch COVID-19, vượt qua khó khăn như cơ cấu nợ, giải 
+ngân mới, ưu ãi lãi suất theo quy ịnh của NHNN. Nhờ ó, chất 
+lượng tài sản tại VietinBank luôn ược kiểm soát tốt.
+Năm 2023, nền kinh tế thế giới và Việt Nam dự kiến sẽ còn nhiều 
+biến ộng khó lường. Để ảm bảo sự tăng trưởng và phát triển 
+an toàn, hiệu quả, bền vững cho khách hàng, ngân hàng cũng 
+như nền kinh tế, VietinBank tập trung kiện toàn, chuẩn hóa VBCS 
+hướng tới thông lệ quốc tế và phát huy các thành tựu của việc 
+chuyển ổi số trong công tác quản trị RRTD từ cấp ộ tổng thể 
+ến cấp ộ giao dịch. VietinBank cũng ồng thời triển khai mạnh 
+mẽ các biện pháp hạn chế nợ xấu mới phát sinh, tăng cường cải 
+thiện chất lượng danh mục và nâng cao hiệu quả sử dụng vốn.
+Nhằm hướng ến mục tiêu PTBV toàn xã hội, VietinBank ã ban 
+hành và áp dụng các chính sách ánh giá tác ộng MT - XH 
+trong hoạt ộng thẩm ịnh, quyết ịnh cấp tín dụng cho các dự 
+án ầu tư. Trước khi cấp tín dụng, các dự án ược rà soát việc 
+áp ứng các yêu cầu về MT - XH theo quy ịnh của pháp luật và 
+các quy ịnh nội bộ của VietinBank. VietinBank cũng liên tục kiểm 
+soát chặt chẽ việc tuân thủ các vấn ề về MT - XH trong hoạt 
+ộng của dự án và kịp thời ưa ra các biện pháp ứng xử tín dụng 
+khi cần thiết.
+Năm 2022, trước những diễn biến khó lường của thị trường tài 
+chính trong nước và quốc tế do tác ộng của tăng lãi suất và lạm 
+phát gia tăng trên toàn cầu, xung ột  Nga -  Ukraine, VietinBank 
+tiếp tục chú trọng giám sát chặt chẽ và kiểm soát kịp thời RRTT 
+trong quá trình kinh doanh. 
+Công tác quản lý RRTT ược thiết lập gồm mục tiêu và các biện 
+pháp kiểm soát phù hợp gắn liền với chiến lược kinh doanh trung 
+và dài hạn của VietinBank, ảm bảo HĐKD phát triển an toàn, 
+bền vững, tuân thủ các quy ịnh của cơ quan quản lý, cam kết với 
+ối tác chiến lược, phù hợp với với thông lệ quốc tế. 
+Mô hình 3 tuyến bảo vệ trong quản lý RRTT tiếp tục phát huy tốt 
+hiệu quả trong việc nhận diện, kiểm soát và giảm thiểu rủi ro. Hệ 
+thống chính sách, quy ịnh và phương pháp luận về quản lý RRTT, 
+QLRR tập trung trong giao dịch tự doanh ược rà soát cập nhật 
+kịp thời phù hợp với thực tiễn thị trường và HĐKD của VietinBank, 
+áp ứng thông lệ Basel II và các yêu cầu của cơ quan quản lý. 
+Để quản lý RRTT, VietinBank ã thiết lập khẩu vị và hạn mức RRTT 
+gồm các chỉ số như: Lãi/lỗ theo giá thị trường, trạng thái, VaR 
+(Value at Risk), hạn mức trạng thái/số dư ối với các sản phẩm 
+giao dịch, loại tiền tệ, ối tác thuộc danh mục tự doanh có rủi 
+ro tập trung... Các chỉ số ược o lường giám sát và báo cáo 
+hằng ngày, kịp thời cảnh báo nguy cơ rủi ro phát sinh vượt ngưỡng 
+chấp nhận của VietinBank và có biện pháp xử lý giảm thiểu rủi ro. 
+Bên cạnh ó, ịnh kỳ phân tích mức tổn thất trong iều kiện căng 
+thẳng, mức vốn yêu cầu cho RRTT và backtest các mô hình o 
+lường RRTT ể ảm bảo ánh giá chính xác mức ộ rủi ro tiềm ẩn. 
+Từ năm 2013, VietinBank ã triển khai hệ thống Treasury Murex 
+nhằm thực hiện nhập, phê duyệt và quản lý giao dịch kinh doanh 
+vốn và thị trường thông suốt cả 3 cấu phần Front Oﬃce, Middle 
+Oﬁce, Back Oﬃce. Trong năm 2023, VietinBank sẽ tiếp tục ổi mới 
+về hệ thống và phương pháp luận QLRR phù hợp với bối cảnh thị 
+trường, hướng theo thông lệ tiên tiến nhằm hỗ trợ, thúc ẩy HĐKD. 
+49
+48
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+Rủi ro  
+hoạt ộng
+Rủi ro gian lận, 
+phòng chống 
+rửa tiền và tài 
+trợ khủng bố
+Trong bối cảnh nền kinh tế có nhiều diễn biến phức tạp hơn do 
+những tác ộng kép của dịch COVID-19, sự phát triển mạnh mẽ 
+của các sản phẩm tài chính ược số hóa trong và sau thời kỳ 
+giãn cách nhằm phục vụ nhu cầu thanh toán và giao dịch của 
+người dân ã dẫn tới những rủi ro tiềm ẩn trong lĩnh vực công 
+nghệ thông tin, an ninh mạng.  
+Trong 10 năm vừa qua, công tác quản lý RRHĐ ã liên tục ược 
+nâng cấp và hoàn thiện thông qua hệ thống chính sách và giải 
+pháp công nghệ về QLRR, ảm bảo phát huy tính thực tiễn, hỗ 
+trợ thúc ẩy, tăng cường hiệu quả HĐKD, phù hợp thông lệ quốc 
+tế thông qua các hoạt ộng quản lý RRHĐ nổi bật như: (i) Nghiên 
+cứu, xây dựng và ưa vào vận hành các công cụ quản lý RRHĐ 
+ồng bộ về VBCS cũng như phát triển hệ thống công nghệ QTRR; 
+(ii) Thực hiện a dạng hóa, ồng bộ các hoạt ộng truyền thông, 
+ào tạo nhằm nâng cao ý thức quản lý RRHĐ trên toàn hệ thống; 
+(iii) Tập trung nguồn lực, tích cực phối hợp với các ơn vị tại Tuyến 
+bảo vệ 1 thực hiện báo cáo các sự cố CNTT, triển khai các giải 
+pháp khắc phục sự cố nghiêm trọng, thực hiện ánh giá một số hệ 
+thống trọng yếu, sản phẩm dịch vụ công nghệ số có ảnh hưởng 
+trực tiếp tới khách hàng, ưa ra các giải pháp giảm thiểu rủi ro 
+trước khi ưa sản phẩm vào triển khai thực tế; (iv) Thực hiện tốt 
+công tác ảm bảo HĐKD liên tục của ngân hàng gồm: phòng 
+chống khủng bố, phòng ngừa cướp tiền và tài sản của ngân hàng, 
+cảnh báo các dấu hiệu rủi ro lừa ảo qua hình thức email giả mạo 
+(phishing email), các giải pháp phòng ngừa tội phạm công nghệ 
+cao và ảm bảo an toàn thông tin mạng với dịch vụ nội dung số 
+tại Việt Nam. Trong năm 2022, Sổ tay ứng phó tình huống khẩn 
+cấp tại VietinBank cũng ã ược ban hành nhằm trang bị cho các 
+ơn vị trong hệ thống các phương án xử lý/ứng phó nhanh nhất 
+ối với một số tình huống phát sinh trên thực tế, ảm bảo hoạt 
+ộng của hệ thống VietinBank ược liên tục, hiệu quả, an toàn 
+theo các tiêu chuẩn quốc tế về QLRR. 
+Năm 2023, xu hướng phát triển mạnh mẽ SPDV có hàm lượng công 
+nghệ cao cũng như tăng cường hợp tác/thuê ngoài các bên thứ 
+ba hiện nay có thể làm gia tăng các RRHĐ liên quan ứng dụng 
+công nghệ, hợp tác bên thứ ba. Nhận thức ược tầm quan trọng 
+của vấn ề này, VietinBank ngày càng tập trung ẩy mạnh công 
+tác rà soát, ánh giá rủi ro xuyên suốt các giai oạn và chủ ộng 
+ề xuất các biện pháp ứng xử phù hợp, ồng thời liên tục cải tiến 
+nâng cấp hệ thống, tăng cường khả năng bảo mật của các giải 
+pháp số nhằm giám sát, phát hiện sớm rủi ro gian lận cũng như 
+ngăn chặn tội phạm an ninh mạng tấn công.
+Trong năm 2022, VietinBank không phát sinh sự kiện, giao dịch nào 
+vi phạm các chương trình/danh sách cấm vận, phòng chống rửa 
+tiền, tài trợ khủng bố của các tổ chức quốc tế, mặc dù bất ổn chính 
+trị liên quan ến Nga và Ukraina ã khiến cho các chương trình, 
+biện pháp trừng phạt kinh tế với các cá nhân, tổ chức liên quan 
+ến Nga có xu hướng tăng. Điều này có ược là do VietinBank ã 
+thường xuyên theo dõi, cập nhật các chương trình cấm vận liên 
+quan ến Nga/Ukraine lên hệ thống và có cảnh báo kịp thời ến 
+các chi nhánh. Song song với ó, VietinBank cũng không ngừng 
+thúc ẩy tăng cường hợp tác với các ịnh chế tài chính, cơ quan 
+an ninh, NHNN trong việc ngăn chặn giao dịch áng ngờ kịp thời, 
+ảm bảo sự ổn ịnh của hệ thống tài chính - tiền tệ. 
+Đồng thời, VietinBank ã và ang triển khai chuyển ổi số toàn 
+diện các mặt hoạt ộng dựa trên nền tảng công nghệ hiện ại, 
+cũng như ẩy mạnh chuyển dịch các kênh giao dịch, từ ó a 
+dạng hóa sản phẩm dịch vụ, nâng cao trải nghiệm của khách 
+hàng. Tuy nhiên, bất ổn chính trị, công nghệ phát triển dẫn tới 
+các hành vi lừa ảo ngày một gia tăng với các thủ oạn tinh vi, 
+là thách thức lớn ối với hệ thống ngân hàng. Trên cơ sở bám sát 
+các chỉ ạo của NHNN, VietinBank không những xây dựng, cập 
+nhật quy ịnh, quy trình nội bộ mà còn tích cực ứng dụng công 
+nghệ hiện ại trong công tác phòng, chống gian lận. 
+Trong năm 2023, VietinBank tiếp tục ẩy mạnh tiến ộ xây dựng 
+hệ thống phòng chống rửa tiền, tài trợ khủng bố và phòng, chống 
+gian lận - giai oạn 2 nhằm hỗ trợ giám sát phát hiện, nhận diện 
+sớm các rủi ro, dấu hiệu bất thường của giao dịch trên tất cả các 
+kênh, các mảng nghiệp vụ, thúc ẩy tăng trưởng gắn với an toàn, 
+hiệu quả. Bên cạnh ó, VietinBank cũng ồng thời áp dụng a 
+dạng các hình thức truyền thông về những thủ oạn, hành vi lừa 
+ảo và biện pháp ứng xử ể không những nâng cao nhận biết, 
+cảnh giác của không chỉ cán bộ trong VietinBank mà của các 
+khách hàng, từ ó ảm bảo an toàn cho tài sản của khách hàng 
+và VietinBank.
+51
+50
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+Rủi ro  
+thanh khoản
+Rủi ro  
+lãi suất  
+trên sổ  
+ngân hàng
+Năm 2022, VietinBank xây dựng chiến lược quản lý RRTK, trong ó 
+tập trung các mục tiêu trọng yếu như:
+• Đảm bảo an toàn thanh khoản, quản lý hiệu quả và ổn ịnh 
+nguồn vốn áp ứng tăng trưởng kinh doanh và nhu cầu thanh 
+toán của khách hàng;
+• Duy trì ủ tài sản có tính thanh khoản cao ể áp ứng nhu cầu 
+thanh khoản của ngân hàng trong iều kiện hoạt ộng bình 
+thường và có diễn biến bất lợi về thanh khoản; 
+• Thiết lập và kiểm soát các chỉ tiêu KVRR và hạn mức RRTK nhằm 
+ảm bảo tuân thủ quy ịnh của pháp luật, cơ quan quản lý và 
+các mục tiêu nội bộ của VietinBank;
+Mô hình 3 tuyến bảo vệ ược tiếp tục phát huy hiệu quả. Tình hình 
+cân ối vốn và các chỉ tiêu an toàn thanh khoản, hạn mức RRTK 
+ược theo dõi hằng ngày, giám sát chặt chẽ ảm bảo tuân thủ 
+các giới hạn theo quy ịnh của NHNN. Định kỳ hằng tháng, tại 
+cuộc họp Hội ồng rủi ro, Hội ồng ALCO, tình hình cân ối vốn và 
+thanh khoản, tình hình tuân thủ các chỉ số hạn mức rủi ro ược rà 
+soát, báo cáo và ề xuất ịnh hướng iều hành cân ối vốn ảm 
+bảo thanh khoản an toàn và tối ưu hiệu quả sử dụng vốn.
+VietinBank xây dựng và vận hành hệ thống ALM quản lý tài sản 
+Nợ - Có theo thông lệ quốc tế nhằm tự ộng các báo cáo cân 
+ối vốn và báo cáo dòng tiền ể tính toán trạng thái thanh khoản 
+hằng ngày của Ngân hàng, cung cấp thông tin a chiều, kịp thời 
+và chính xác phục vụ công tác quản lý RRTK. Qua ó, RRTK của 
+Ngân hàng ược quản lý chặt chẽ theo từng ồng tiền chính 
+(VND, USD, EUR) trên cơ sở phân tích nhu cầu thanh khoản, nguồn 
+thanh khoản của từng HĐKD; cơ cấu tài sản/nợ phải trả và dòng 
+tiền của các khoản mục nội bảng và ngoại bảng; khả năng tiếp 
+cận thanh khoản trên thị trường.
+Trong năm 2023, VietinBank sẽ tiếp tục ổi mới, nâng cấp bộ nhận 
+diện cảnh báo sớm rủi ro, nghiên cứu áp dụng các chỉ tiêu QLRR 
+thanh khoản theo Basel III, phù hợp thực tiễn thị trường Việt Nam 
+và HĐKD của Ngân hàng.
+Đối với RRLS trên Sổ ngân hàng, phát sinh do biến ộng bất lợi 
+của lãi suất ối với thu nhập, giá trị tài sản, giá trị nợ phải trả và 
+giá trị cam kết ngoại bảng của Ngân hàng, VietinBank tiếp tục 
+áp dụng chính sách quản lý tập trung tại TSC với cơ cấu tổ chức 
+ược thiết lập theo mô hình 3 tuyến bảo vệ tương tự như RRTK.
+VietinBank ịnh kỳ rà soát quy ịnh, quy trình quản lý RRLS trên 
+Sổ ngân hàng; quản lý chênh lệch kỳ ịnh giá lại lãi suất, rà soát 
+và cập nhật hạn mức ối với chênh lệch kỳ hạn ịnh giá lại, thay 
+ổi thu nhập lãi thuần (NII) và thay ổi giá trị kinh tế của VCSH 
+(EVE) với các kịch bản lãi suất khác nhau ể ánh giá một cách 
+toàn diện các RRLS trên Sổ ngân hàng có thể ảnh hưởng ến 
+hoạt ộng của VietinBank phù hợp với iều kiện thị trường nhiều 
+biến ộng trong năm 2022; ồng thời ẩy mạnh sử dụng các sản 
+phẩm phái sinh phù hợp nhằm kiểm soát rủi ro ở cấp ộ danh 
+mục. Hệ thống phần mềm Quản lý tài sản Nợ - Có (ALM) và hệ 
+thống iều chuyển vốn nội bộ FTP cho phép VietinBank quản lý 
+tập trung trạng thái RRLS tại TSC, cung cấp tự ộng các báo 
+cáo chênh lệch kỳ hạn ịnh giá lại, báo cáo phân tích kịch bản 
+tăng/giảm lãi suất… nhằm kiểm soát chênh lệch kỳ hạn ịnh giá 
+lại, kiểm soát mức ộ tác ộng của thay ổi lãi suất tới thu nhập 
+lãi thuần và giá trị kinh tế VCSH của VietinBank trong phạm vi cho 
+phép. Diễn biến lãi suất thị trường, mức ộ RRLS và tình hình tuân 
+thủ các chỉ số hạn mức RRLS ược phân tích báo cáo BLĐ tại 
+cuộc họp Hội ồng rủi ro, Hội ồng ALCO hằng tháng nhằm kịp 
+thời iều chỉnh chiến lược ầu tư, cho vay và huy ộng vốn phù 
+hợp với xu hướng biến ộng lãi suất thị trường, ảm bảo thực hiện 
+mục tiêu lợi nhuận và ổn ịnh giá trị kinh tế VSCH của Ngân hàng.
+Ở cấp ộ giao dịch, VietinBank áp dụng các iều khoản phòng 
+ngừa RRLS trong các hợp ồng tín dụng nhằm ảm bảo Ngân 
+hàng luôn chủ ộng trước những biến ộng bất thường của thị 
+trường; xác ịnh lãi suất cho vay phản ánh úng chi phí huy ộng 
+vốn thực tế của Ngân hàng, iều hành lãi suất thông qua công cụ 
+giá mua bán vốn nội bộ (FTP) tùy theo ịnh hướng hoạt ộng của 
+Ngân hàng và diễn biến thị trường. Trong năm 2023, VietinBank sẽ 
+tiếp tục rà soát, nâng cấp phương pháp o lường RRLS theo các 
+kịch bản biến ộng lãi suất a dạng phù hợp thực tiễn thị trường, 
+chuẩn mực quốc tế và ịnh hướng HĐKD của Ngân hàng. 
+53
+52
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+Rủi ro hệ 
+thống CNTT
+Hệ thống CNTT của VietinBank thuộc quy mô lớn, triển khai nhiều 
+SPDV mới, có hàm lượng công nghệ cao, kết nối với hệ thống CNTT 
+của nhiều ối tác, trên nhiều nền tảng CNTT. Quá trình số hóa hệ 
+thống CNTT của VietinBank trong năm 2022 ược triển khai mạnh 
+mẽ với nhiều SPDV mới, cập nhật hệ thống thường xuyên hơn, kết 
+nối với nhiều hệ thống ối tác hơn. Do ó, công tác ảm bảo an 
+toàn bảo mật giao dịch, dữ liệu của ngân hàng luôn ược coi là 
+then chốt nhằm em lại sự tin cậy cho khách hàng. VietinBank 
+luôn chủ ộng, thường xuyên ánh giá rủi ro an ninh, an toàn trên 
+toàn hệ thống, ồng thời triển khai nhiều biện pháp kiểm soát rủi 
+ro như:
+• Xây dựng và chuẩn hóa hệ thống giám sát các sự kiện bảo 
+mật (SIEM), triển khai Trung tâm Giám sát An toàn Thông tin 
+(SOC) trong hệ thống CNTT của VietinBank ể giám sát tập 
+trung các hệ thống bảo mật, phát hiện sớm các nguy cơ và có 
+hành ộng xử lý kịp thời;
+• Thực hiện ánh giá, nhận diện rủi ro bảo mật thông tin, vận 
+hành khai thác ối với các SPDV trước khi triển khai cung cấp 
+cho khách hàng ể có biện pháp kiểm soát phù hợp, ặc biệt 
+là tất cả các hệ thống, dịch vụ ngân hàng iện tử cũng như các 
+hệ thống trọng yếu khác;
+• Triển khai các giải pháp bảo ảm sẵn sàng của các hệ thống 
+CNTT, ồng thời diễn tập chuyển hệ thống sang trung tâm dữ 
+liệu dự phòng thảm họa ể ảm bảo hệ thống sẵn sàng hoạt 
+ộng khi xảy ra thảm họa tại trung tâm dữ liệu chính;
+• Triển khai, áp dụng tiêu chuẩn bảo mật của tổ chức SWIFT theo 
+Chương trình An ninh Khách hàng (CSP) cho hệ thống thanh 
+toán SWIFT, triển khai và nhận chứng chỉ bảo mật quốc tế 
+ISO27001:2013 cho hệ thống Internet Banking (ngân hàng iện 
+tử), triển khai áp dụng Tiêu chuẩn Bảo mật Dữ liệu Thẻ Thanh 
+toán (PCI-DSS) cho hệ thống thẻ;
+• Nghiên cứu, triển khai, áp dụng giải pháp xác thực sinh trắc học 
+trong các giao dịch tại quầy và thiết bị di ộng; thực hiện bảo 
+mật ở mức cao nhất ối với các dữ liệu sinh trắc học của khách 
+hàng, tuân thủ các quy ịnh của Chính phủ, NHNN về quản lý 
+dữ liệu sinh trắc học;
+• Tuyên truyền, ào tạo nâng cao nhận thức an toàn thông tin 
+cho cán bộ VietinBank;
+• Thường xuyên cảnh báo khách hàng về những rủi ro bảo mật 
+thông tin trong các dịch vụ của ngân hàng qua tổng ài, SMS, 
+OTT, website, fanpage.
+Năm 2023, ngoài những ịnh hướng ã và ang thực hiện trên, 
+VietinBank sẽ tập trung triển khai thêm các nội dung khác như:
+• Vận hành chính thức SOC nhằm giám sát 24/24 các sự kiện 
+bảo mật, dấu hiệu mất ATTT xảy ra trên hệ thống CNTT ể 
+xử lý kịp thời các sự kiện bất thường trên hệ thống CNTT;
+• Triển khai kiện toàn và nâng cấp các hệ thống hạ tầng và 
+bảo mật nhằm bảo ảm hiệu năng và tính sẵn sàng của các 
+hệ thống;
+• Xây dựng và triển khai diễn tập các kịch bản phòng chống 
+tấn công chủ ộng. 
+55
+54
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+
+Công ty Quản lý nợ và Khai thác Tài sản Ngân hàng 
+TMCP Công Thương Việt Nam
+TÊN VIẾT TẮT
+VietinBank AMC
+TRỤ SỞ CHÍNH
+76 Nguyễn Văn Cừ, phường Nguyễn Cư Trinh, 
+quận 1, TP. HCM
+LIÊN HỆ
+Điện thoại: 028 3920 2020 Fax: 028 3920 3982
+GIẤY PHÉP HOẠT ĐỘNG
+Giấy chứng nhận ăng ký doanh nghiệp số 
+0302077030 do Sở Kế hoạch và Đầu tư TP. 
+HCM cấp ngày 20/07/2010, thay ổi lần 6 
+ngày 12/01/2021
+LĨNH VỰC HOẠT ĐỘNG
+Quản lý tài sản
+VỐN ĐIỀU LỆ (31/12/2022)
+120 tỷ ồng
+TỶ LỆ SỞ HỮU CỦA VIETINBANK 100%
+Công ty TNHH Vàng bạc Đá quý Ngân hàng TMCP 
+Công Thương Việt Nam
+TÊN VIẾT TẮT
+VietinBank Gold & Jewellery
+TRỤ SỞ CHÍNH
+Tầng 2 Tòa nhà Hoàng Thành, 114 Mai Hắc Đế, 
+phường Lê Đại Hành, quận Hai Bà Trưng, TP. Hà 
+Nội
+LIÊN HỆ
+Điện thoại: 024 3942 1051 Fax: 024 3939 3502
+GIẤY PHÉP HOẠT ĐỘNG
+Giấy chứng nhận ăng ký doanh nghiệp số 
+0105011873 ăng ký lần ầu ngày 25/11/2010 
+của Sở Kế hoạch và Đầu tư TP. Hà Nội; thay ổi 
+lần 9 ngày 19/12/2022
+LĨNH VỰC HOẠT ĐỘNG
+Kinh doanh, sản xuất gia công chế tác vàng 
+bạc á quý
+VỐN ĐIỀU LỆ (31/12/2022)
+200 tỷ ồng
+TỶ LỆ SỞ HỮU CỦA VIETINBANK 100%
+NGÀNH NGHỀ KINH DOANH: 
+Công ty hoạt ộng trong lĩnh vực tiếp nhận tài sản thế chấp, cầm cố, bảo 
+lãnh, ịnh giá tài sản bảo ảm.
+KẾT QUẢ KINH DOANH TẠI THỜI ĐIỂM NGÀY 31/12/2022: 
+Là ơn vị ộc lập trực thuộc VietinBank với nhiệm vụ chính là hỗ trợ cho 
+các chi nhánh VietinBank trong công tác thẩm ịnh giá trị tài sản bảo 
+ảm, góp phần tích cực vào công tác QTRR trong hệ thống VietinBank. 
+Do ó, hiệu quả hoạt ộng của Công ty thể hiện ở kết quả kinh doanh 
+chung của toàn hệ thống. Kết thúc năm 2022, tổng thu nhập Công ty ạt 
+78,6 tỷ ồng tăng trưởng 14% so với năm 2021. Trong ó mảng nghiệp vụ 
+kinh doanh chính là ịnh giá tài sản ạt doanh thu 69,7 tỷ ồng, tăng 12% 
+so với năm 2021 và ạt 103% chỉ tiêu VietinBank giao. Hoạt ộng xử lý nợ 
+theo ủy quyền của VietinBank bắt ầu triển khai trong năm 2022 với doanh 
+thu ạt ược 3,53 tỷ ồng. Lợi nhuận trước thuế 2022 của Công ty ạt 15 
+tỷ ồng, nếu không tính hoạt ộng xử lý nợ thì lợi nhuận ạt 18,1 tỷ ồng, 
+ạt 115% kế hoạch lợi nhuận ược VietinBank giao (không bao gồm hoạt 
+ộng xử lý nợ).
+NGÀNH NGHỀ KINH DOANH: 
+Công ty hoạt ộng trong lĩnh vực kinh doanh vàng, bạc và các kim loại 
+quý khác.
+KẾT QUẢ KINH DOANH TẠI THỜI ĐIỂM NGÀY 31/12/2022: 
+TTS ạt 231,9 tỷ ồng, giảm 2,6% so với 31/12/2021. Trong năm 2022, mặc 
+dù Công ty ã có nhiều nỗ lực trong việc triển khai HĐKD, ặc biệt trong 
+hoạt ộng xuất khẩu vàng trang sức, song do tình hình kinh tế khó khăn, 
+giá vàng trong nước và thế giới chênh lệch lớn ã gây ảnh hưởng lớn ến 
+kết quả kinh doanh của Công ty, cụ thể: Lợi nhuận gộp về bán hàng và 
+cung cấp dịch vụ năm 2022 ạt 25,4 tỷ ồng (giảm 21,2% so với năm 2021); 
+Tổng thu nhập ạt 38,6 tỷ ồng (giảm nhẹ 0,9% so với năm 2021) và Tổng 
+chi phí là 33 tỷ ồng (tăng 12,2% so với năm 2021). LNTT năm 2022 ạt 6,1 tỷ 
+ồng, giảm 39,2% so với năm 2021.
+TỔNG THU NHẬP
+(tỷ ồng)
+78,6
+↑ 14%
+so với năm 2021
+DOANH THU ĐỊNH GIÁ TÀI SẢN
+(tỷ ồng)
+69,7
+↑ 12%
+so với năm 2021
+65
+64
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+2 - TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
+
+Với vai trò là một ngân hàng thương mại chủ lực, trụ cột của nền kinh tế, năm 2022, VietinBank ã tiên 
+phong trong việc hỗ trợ khách hàng khôi phục hoạt ộng sản xuất kinh doanh sau dịch bệnh; tập 
+trung nguồn lực cho các chủ iểm kinh doanh trọng tâm; tăng cường QTRR, tái cơ cấu danh mục tín 
+dụng và ẩy nhanh tốc ộ chuyển ổi số nhằm nâng cao chất lượng dịch vụ. Theo ó, VietinBank 
+ã ạt ược những kết quả kinh doanh tích cực trên mọi mặt hoạt ộng; tạo tiền ề vững chắc cho 
+hoạt ộng kinh doanh của ngân hàng trong giai oạn tiếp theo. Cụ thể, HĐQT ánh giá về các mặt 
+hoạt ộng của VietinBank năm 2022 như sau:
+Năm 2022, VietinBank ã ạt ược những thành tích áng khích lệ, quy mô tổng tài 
+sản tăng 18,1%, các tỷ lệ hiệu quả hoạt ộng ều ược cải thiện, lợi nhuận thực hiện 
+ạt kế hoạch trên cơ sở ảm bảo các tỷ lệ an toàn hoạt ộng và quản trị chất lượng 
+tài sản chặt chẽ và thực chất. Thành quả trên có ược là nhờ tích cực triển khai hiệu 
+quả các chủ iểm trọng tâm kinh doanh:
+ y Đẩy mạnh chuyển dịch cơ cấu thu nhập thông qua các giải pháp tài chính toàn 
+diện, trọn gói, cải thiện chất lượng SPDV ặc biệt các sản phẩm phi tín dụng cho các 
+nhóm khách hàng trọng tâm, mở rộng tệp khách hàng xuất nhập khẩu, khách hàng 
+SME trong hệ sinh thái... Các mảng thu nhập phi tín dụng như phí tài trợ thương mại, 
+lợi nhuận mua bán ngoại tệ... ều tăng trưởng ột phá. Thu nhập ngoài lãi óng góp 
+25,5% tổng thu nhập hoạt ộng, tăng mạnh so với mức hơn 21,4% năm 2021.
+ y Tăng trưởng nguồn vốn hiệu quả, iều hành cơ cấu vốn theo hướng tối ưu: Trong 
+năm, VietinBank ã triển khai ồng bộ các giải pháp nhằm quản trị hiệu quả cân ối 
+vốn, tăng trưởng nguồn vốn huy ộng ổn ịnh, bền vững, khai thác linh hoạt và a 
+dạng các nguồn vốn trong và ngoài nước. Nguồn vốn huy ộng hợp nhất ạt 1,34 
+triệu tỷ ồng, tăng 9,3% so với năm 2021. Nguồn vốn CASA ược cải thiện, tăng 7,1% 
+so với cuối năm 2021, tỷ lệ CASA trên tổng nguồn vốn huy ộng tiếp tục duy trì ở mức 
+20% trong bối cảnh cạnh tranh CASA giữa các ngân hàng ngày càng quyết liệt, qua 
+ó hỗ trợ tích cực trong việc kiểm soát chi phí vốn của VietinBank.
+ y Tăng trưởng tín dụng có chọn lọc gắn liền với tăng trưởng theo ngành nghề, ịa 
+bàn có tiềm năng: Tiếp tục chuyển dịch cơ cấu danh mục tín dụng theo ịnh hướng 
+ẩy mạnh tăng trưởng dư nợ phân khúc KHBL và KHDN NVV, theo ó tỷ trọng dư nợ 
+bình quân 2 phân khúc tăng từ 58,6% năm 2021 lên 63,1% tổng dư nợ năm 2022. Đồng 
+thời, VietinBank cũng tập trung tăng trưởng dư nợ các ngành, lĩnh vực có tiềm năng 
+phát triển tốt, phục hồi nhanh sau dịch COVID-19 và các lĩnh vực/ối tượng ược 
+Chính phủ, NHNN ưu tiên khuyến khích như: lĩnh vực sản xuất kinh doanh, tín dụng 
+“xanh”, hỗ trợ tăng trưởng bền vững; xây dựng các cơ chế, chính sách theo ịa bàn 
+nhằm khai thác tối a tiềm năng, gắn tăng trưởng của Ngân hàng với các ngành 
+kinh tế chủ lực, các vùng kinh tế trọng iểm là ộng lực tăng trưởng của ất nước.
+Nhìn chung, trong năm 2022, với việc tiếp tục chủ ộng tái cơ cấu mọi mặt hoạt ộng, 
+chuyển ổi mạnh mẽ mô hình kinh doanh, chuyển dịch cơ cấu dư nợ, gia tăng thu 
+nhập ngoài lãi, kiểm soát tối ưu hóa hiệu quả sử dụng vốn và chi phí hoạt ộng của 
+ngân hàng. LNTT hợp nhất năm 2022 ạt 20.946 tỷ ồng, tăng 19,1% so với năm 2021, 
+LNTT riêng lẻ ạt 20.353 tỷ ồng, tăng 20,7% so với năm 2021 và ạt 105% kế hoạch 
+ĐHĐCĐ giao, tạo nguồn lực tài chính vững mạnh ể VietinBank tiếp tục phát huy tốt 
+vai trò NHTM Nhà nước chủ lực, trụ cột của nền kinh tế, óng góp lớn vào ngân sách 
+Nhà nước và sự phát triển kinh tế - xã hội ất nước trong thời gian tới.
+TỐI ƯU HÓA CÁC NGUỒN LỰC, TRIỂN KHAI HIỆU QUẢ CÁC 
+CHỦ ĐIỂM KINH DOANH TRỌNG TÂM TRONG NĂM 2022
+Bám sát các mục tiêu trong Kế hoạch 
+chuyển ổi số Ngành Ngân hàng ến 
+năm 2025, ịnh hướng ến năm 2030, 
+VietinBank ã thành lập Ban Chỉ ạo 
+Chuyển ổi số, khẩn trương triển khai 
+công tác chuẩn bị tổ chức ấu thầu lựa 
+chọn ơn vị tư vấn xây dựng chiến lược, 
+kế hoạch chuyển ổi số cho giai oạn 
+2022-2025, tầm nhìn 2030 và dự kiến 
+triển khai toàn diện chiến lược Chuyển 
+ổi số trong giai oạn 3 - 5 năm tới.
+Năm 2022, VietinBank ã tích cực triển 
+khai các SPDV tài chính trên nền tảng 
+công nghệ hiện ại, liên tục cập nhật, 
+áp ứng tối ưu các nhu cầu tài chính của 
+khách hàng; thúc ẩy hoạt ộng hợp 
+tác mang lại lợi ích lớn (hợp tác với Grab; 
+Manulife...); tăng cường trải nghiệm 
+khách hàng, ẩy mạnh chuyển ổi số 
+thông qua tự ộng hóa quy trình, ứng 
+dụng BigData, tăng cường giao dịch 
+Online (eFAST, iPay…); thúc ẩy bán chéo, 
+chuyển dịch kênh phân phối, phân tích 
+dữ liệu và áp dụng trí tuệ nhân tạo trong 
+quản lý iều hành, phát triển kinh doanh 
+với mục tiêu xây dựng hệ sinh thái áp 
+ứng tối a nhu cầu của khách hàng.
+VietinBank tiếp tục ẩy mạnh chuyển ổi 
+số trong quy trình hoạt ộng ể nâng 
+cao năng lực thực thi nhanh ở mọi vị trí 
+công tác, ứng dụng các công nghệ mới 
+như: công nghệ sinh trắc học giúp tự 
+ộng nhận diện và hỗ trợ KH giao dịch 
+tại quầy, giúp giảm thời gian tác nghiệp 
+lên tới 30%; công nghệ tự ộng hóa quy 
+trình RPA (robotics process automation) 
+giúp tiết kiệm tới 65% thời gian xử lý hồ 
+sơ vay cầm cố bằng sổ thẻ tiết kiệm cho 
+khách hàng…
+Đến nay, tại VietinBank, 63% nghiệp vụ 
+ngân hàng trọng yếu ã có thể thực 
+hiện hoàn toàn trên kênh số, vượt mục 
+tiêu theo Kế hoạch chuyển ổi số ến 
+2025 của Ngành Ngân hàng. Đồng thời 
+trên 80% số lượng giao dịch của các 
+KHDN và 97% số lượng giao dịch của 
+KHBL ược thực hiện hoàn toàn thông 
+qua kênh số. Bên cạnh ó, VietinBank 
+cũng tự ộng hóa nhiều quy trình nội bộ 
+phục vụ cho công tác quản trị, bao gồm 
+ứng dụng công nghệ số vào hoạt ộng 
+quản trị iều hành, tăng cường quản lý 
+rủi ro, ứng dụng trí tuệ nhân tạo ể tạo 
+chatbot hỗ trợ kinh doanh…
+TRIỂN KHAI MẠNH MẼ CHUYỂN ĐỔI SỐ TOÀN DIỆN HĐKD 
+VÀ QUẢN TRỊ, NÂNG CAO TRẢI NGHIỆM CỦA KHÁCH HÀNG
+NGHIỆP VỤ NGÂN HÀNG TRỌNG YẾU
+THỰC HIỆN TRÊN KÊNH SỐ
+63%
+THỰC HIỆN TRÊN KÊNH SỐ
+GIAO DỊCH KHDN
+80%
+GIAO DỊCH KHBL
+97%
+91
+90
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK 
+1 - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA VIETINBANK NĂM 2022
+
+Năm 2022, VietinBank tiếp tục thực hiện ồng bộ các giải pháp trong công tác tổ 
+chức, nhân sự nhằm ảm bảo hỗ trợ kịp thời hoạt ộng kinh doanh, chuẩn hóa, 
+chuyên môn hóa theo thông lệ và nâng cao hiệu quả phối hợp.
+VietinBank tiếp tục kiện toàn, tối ưu hóa mô hình tổ chức các ơn vị tại Trụ sở chính và 
+chi nhánh; kiện toàn mô hình một số ơn vị ể nâng cao hiệu quả, thành lập các ơn 
+vị mới theo yêu cầu kinh doanh và thúc ẩy tăng cường hiệu quả phối hợp giữa các 
+ơn vị trong hệ thống: thành lập Khối Mua sắm & Quản lý Tài sản, Khối CNTT, Banca 
+Unit; chuyển ổi mô hình Khối Tài chính, Trung tâm Thẻ; thường xuyên rà soát, ánh 
+giá hiệu quả hoạt ộng các ơn vị mới thành lập như Trung tâm Khách hàng phía 
+Nam, Trung tâm Phát triển giải pháp tài chính khách hàng; nghiên cứu, hoàn thiện mô 
+hình Trung tâm xử lý nợ, Hub bán lẻ online ể ưa vào triển khai trong thực tế trong 
+năm 2023.
+ VietinBank cũng triển khai ồng bộ các giải pháp ể kiện toàn, nâng cao chất lượng 
+nguồn nhân lực các cấp thông qua: (i) Tăng cường nhân sự cấp cao và cấp trung ể 
+nâng cao hiệu quả quản trị, iều hành thông qua bổ nhiệm/trình bổ nhiệm nhân sự 
+cấp cao gồm 1 TV HĐQT và 4 Phó Tổng giám ốc; luân chuyển bổ nhiệm nhân sự cấp 
+trung gồm 6 Giám ốc Khối và 3 Phó Giám ốc Khối; (ii) Triển khai nghiêm túc công 
+tác luân chuyển/chuyển ổi ối với các vị trí; (iii) Tiếp tục ổi mới, minh bạch hóa 
+trong thi tuyển, bố trí cán bộ, tạo cơ hội thăng tiến công bằng cho các cán bộ; (iv) 
+Triển khai ánh giá năng lực ối với các cán bộ quản lý; (v) Thực hiện ánh giá hiệu 
+quả và triển khai các giải pháp tinh gọn nhân sự; Kiểm soát tăng trưởng ịnh biên 
+toàn hàng, dịch chuyển cơ cấu nhân sự theo hướng tập trung nhân sự cho các hoạt 
+ộng kinh doanh và tăng năng suất lao ộng; (vi) Đổi mới chính sách tiền lương, cơ 
+chế ãi ngộ; triển khai song song cơ chế khoán lương ể tối ưu hóa quỹ lương, tăng 
+cường cho bộ phận trực tiếp kinh doanh; tạo ộng lực gắn kết và thu hút chuyên gia, 
+nhân sự có chất lượng cao; (vii) Tăng cường kỷ luật, kỷ cương i ôi với ổi mới toàn 
+diện hệ thống chính sách về nhân sự, tiền lương; (viii) Thúc ẩy thực thi văn hóa DN, 
+xây dựng môi trường làm việc thúc ẩy ổi mới sáng tạo, lan tỏa văn hóa làm việc 
+Agile; (ix) Triển khai ào tạo nâng cao năng lực cán bộ, nhận diện, ào tạo phát triển, 
+giữ chân nhân tài.
+Công tác quản trị rủi ro tiếp tục ược tăng cường và tuân thủ nguyên tắc, quyết 
+ịnh của NHNN, chuẩn mực Basel II và phù hợp với các thông lệ tiên tiến. VietinBank 
+ã ban hành các hạn mức rủi ro phù hợp với quy ịnh của NHNN và khẩu vị rủi ro của 
+VietinBank, xây dựng sớm ịnh hướng tín dụng làm cơ sở cho các ơn vị kinh doanh 
+tiếp cận, phát triển khách hàng ngay từ ầu năm; thường xuyên bám sát biến ộng 
+ịa chính trị, diễn biến thị trường và kinh tế vĩ mô, tình hình thực tiễn các ngành nghề, 
+lĩnh vực sản xuất kinh doanh ể kịp thời nhận diện, ánh giá tác ộng ến danh 
+mục tài sản của VietinBank và có giải pháp, biện pháp ứng xử phù hợp.
+VietinBank tăng cường nhận diện sớm rủi ro, xây dựng và triển khai quyết liệt, có 
+hiệu quả các biện pháp xử lý, thu hồi nợ nhóm 2, nợ xấu, nợ ã XLRR; kiện toàn mô 
+hình xử lý nợ, a dạng hóa các biện pháp thu hồi nợ XLRR, bước ầu triển khai xử 
+lý tập trung ối với các khoản nợ lớn và ủy thác xử lý nợ. VietinBank cũng chủ ộng 
+tăng cường trích lập dự phòng rủi ro ể tăng tỷ lệ bao phủ nợ xấu, giúp gia tăng 
+ệm dự phòng tài chính cho hoạt ộng của ngân hàng trong bối cảnh nền kinh tế 
+còn nhiều khó khăn, biến ộng khó lường.
+VietinBank tiếp tục ổi mới trong công tác quản trị iều hành theo hướng chủ ộng, 
+thúc ẩy tư duy quản lý linh hoạt, phát huy tinh thần ổi mới sáng tạo, dám nghĩ dám 
+làm vì lợi ích chung, ồng thời bảo ảm tính kỷ luật, kỷ cương, có giám sát chặt chẽ. 
+Trong năm 2022, VietinBank ã văn bản hóa các quy ịnh tăng cường vai trò, trách 
+nhiệm của người ứng ầu trong việc tổ chức triển khai nhiệm vụ, thúc ẩy tăng 
+trưởng gắn với an toàn, hiệu quả; hoàn thiện các quy ịnh về hoạt ộng giám sát, 
+ặc biệt là quy chế giám sát của HĐQT theo úng thông lệ quản trị hiện ại; ổi mới 
+phân công trong công tác của BĐH nhằm tăng cường vai trò của các TV BĐH trong 
+việc chỉ ạo và hỗ trợ toàn diện hoạt ộng tại các ơn vị ược phân công phụ trách.
+KIỆN TOÀN MÔ HÌNH TỔ CHỨC GẮN VỚI TRIỂN KHAI CHỦ 
+ĐỘNG, ĐỒNG BỘ CÁC GIẢI PHÁP VỀ TINH GỌN, NÂNG 
+CAO HIỆU QUẢ NGUỒN NHÂN LỰC
+NÂNG CAO NĂNG LỰC QUẢN TRỊ RỦI RO, KIỂM SOÁT CHẶT CHẼ 
+CHẤT LƯỢNG TÀI SẢN
+ĐỔI MỚI CÔNG TÁC QUẢN TRỊ ĐIỀU HÀNH, NÂNG CAO VAI TRÒ, 
+TRÁCH NHIỆM GIÁM SÁT CỦA CÁC CẤP
+93
+92
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK 
+1 - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA VIETINBANK NĂM 2022
+
+Với vị thế là NHTM hàng ầu Việt Nam, óng vai trò trụ cột của nền kinh tế, ồng hành 
+phục vụ cho sự phát triển của ất nước, bên cạnh mục tiêu kinh doanh hiệu quả và 
+tăng trưởng lợi nhuận, VietinBank tiếp tục óng góp tích cực vào sự phát triển kinh tế 
+- xã hội của ất nước. VietinBank ã thực hiện các chính sách miễn, giảm phí ể hỗ 
+trợ khách hàng (trong ó KHBL sử dụng dịch vụ iPay ược miễn phí từ ầu năm 2022); 
+i ầu trong công tác triển khai HTLS theo Nghị ịnh 31 của Chính phủ, tập trung ẩy 
+mạnh cho vay lĩnh vực ưu tiên theo ịnh hướng của Chính phủ với dư nợ chiếm hơn 
+39% tổng dư nợ của Ngân hàng.
+Đồng thời, nhận thức ược vai trò quan trọng và ảnh hưởng của các yếu tố MT - XH 
+ối với sự PTBV của ngân hàng, thực hiện mục tiêu PTBV trong Chiến lược phát triển 
+ến năm 2030, tầm nhìn ến năm 2045, VietinBank ã chủ ộng xây dựng các chính 
+sách, sản phẩm tạo cơ chế linh hoạt trong tài trợ các dự án xanh, ồng thời luôn ưu 
+tiên nguồn lực ể tài trợ các dự án ầu tư vào lĩnh vực bảo vệ môi trường, ứng phó 
+biến ổi khí hậu và PTBV. Năm 2022, tỷ trọng tài trợ dự án xanh trong tổng dư nợ tín 
+dụng của VietinBank ã tăng lên 6,05% (từ mức 1,47% năm 2018). Tổng số lượng khách 
+hàng ã ký kết hợp ồng tín dụng là trên 1.000 khách hàng, trong ó lĩnh vực chiếm 
+tỷ trọng lớn nhất là năng lượng tái tạo. Ngoài ra, VietinBank tích cực ẩy mạnh ứng 
+dụng công nghệ, xây dựng thói quen thân thiện với môi trường cho khách hàng, phát 
+triển các kênh giao dịch iện tử qua eFAST, iPay, các dịch vụ, phương thức thanh toán 
+mới trên nền tảng công nghệ hiện ại; theo ó, các giao dịch thanh toán trên kênh 
+số năm 2022 tiếp tục tăng trưởng mạnh mẽ khoảng 92% so với cùng kỳ năm 2021, góp 
+phần hướng tới mục tiêu xanh hóa hoạt ộng hệ thống ngân hàng.
+ĐẨY MẠNH PHÁT TRIỂN BỀN VỮNG, ĐÓNG GÓP TÍCH CỰC 
+VÀO SỰ PHÁT TRIỂN KINH TẾ - XÃ HỘI CỦA ĐẤT NƯỚC
+Trên cơ sở ịnh hướng chỉ ạo của HĐQT ối với 
+các mục tiêu chiến lược kinh doanh trung hạn 
+(2021 - 2023), chiến lược 10 năm (2021 - 2030) 
+và tầm nhìn ến 2045 của VietinBank, PTGĐ 
+phụ trách BĐH ã xây dựng, phân công triển 
+khai nhiệm vụ ến từng TV BĐH; chỉ ạo, giao 
+chỉ tiêu, nhiệm vụ kinh doanh cụ thể tới từng 
+ơn vị Khối/Phòng/Ban thực hiện, có báo cáo 
+ầy ủ, kịp thời bằng văn bản ến HĐQT về kết 
+quả thực hiện nhiệm vụ, quyền hạn ược giao. 
+Trong năm 2022, BĐH ã tăng cường năng lực 
+và nâng cao hoạt ộng quản trị tài chính từ 
+công tác lập kế hoạch, giám sát và iều hành 
+tài chính, kiểm soát chi phí hoạt ộng; linh hoạt 
+iều hành công tác cân ối vốn và chính sách 
+lãi suất, tối ưu hóa hiệu quả sử dụng vốn trong 
+bối cảnh thị trường có nhiều diễn biến phức 
+tạp, thách thức; chú trọng công tác chuyển ổi 
+số, tập trung cải thiện mạnh mẽ SPDV có hàm 
+lượng công nghệ cao nhằm nâng cao chất 
+lượng phục vụ khách hàng; ồng thời kiểm soát 
+chặt chẽ chất lượng tài sản, công tác thẩm 
+ịnh tín dụng, quản trị rủi ro liên tục ược tăng 
+cường và ẩy mạnh thu hồi nợ xấu, nợ XLRR. 
+Bên cạnh ó, BĐH cũng rà soát, kiện toàn hệ 
+thống cơ chế, quy chế quản trị nội bộ, VBCS 
+của VietinBank theo hướng tinh gọn, mạch 
+lạc, hỗ trợ tích cực cho HĐKD, ẩy nhanh việc 
+giải quyết khó khăn vướng mắc cho Chi nhánh 
+nhằm nâng cao năng lực cạnh tranh ồng thời 
+kiểm soát chặt chẽ các rủi ro trọng yếu.
+Tại các phiên họp ịnh kỳ hằng tháng của HĐQT, 
+PTGĐ phụ trách BĐH thay mặt BĐH VietinBank 
+báo cáo ầy ủ về các mảng hoạt ộng của 
+VietinBank, các hoạt ộng nổi bật trong tháng 
+về: (i) chính sách lãi suất, chương trình thúc ẩy 
+tăng trưởng; (ii) SPDV; (iii) công tác hỗ trợ khách 
+hàng; (iv) kiểm tra kiểm soát nội bộ; (v) QLRR, xử 
+lý thu hồi nợ; và (vi) kế hoạch HĐKD trong các 
+tháng tiếp theo. PTGĐ phụ trách BĐH cũng báo 
+cáo tiến ộ, kết quả triển khai thực hiện Nghị 
+quyết của ĐHĐCĐ, các Nghị quyết, Quyết ịnh, 
+chỉ ạo của HĐQT hoặc các báo cáo theo yêu 
+cầu của Chủ tịch HĐQT, TV HĐQT, Ủy ban trực 
+thuộc HĐQT, báo cáo các chuyên ề theo yêu 
+cầu của HĐQT ể phục vụ hoạt ộng giám sát 
+của HĐQT; tình hình thực hiện hạn mức kiểm soát 
+rủi ro, các biện pháp ề xuất khi (các) hạn mức 
+có nguy cơ bị vượt hoặc nguy cơ phát sinh rủi ro 
+trọng yếu ngoài dự kiến, các nội dung ề xuất 
+với HĐQT.
+HĐQT ghi nhận và ánh giá cao nỗ lực của BĐH 
+trong việc thực hiện nhiệm vụ và hoàn thành 
+xuất sắc các chỉ tiêu kế hoạch kinh doanh ược 
+ĐHĐCĐ thường niên 2022 giao. Các thành viên 
+trong BĐH ã phát huy tinh thần gương mẫu, 
+trách nhiệm trong việc xây dựng môi trường làm 
+việc chuyên nghiệp, hiệu quả, lan tỏa VHDN và 
+gắn kết người lao ộng trong các hoạt ộng 
+của Ngân hàng.
+95
+94
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK 
+2 - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA BAN ĐIỀU HÀNH
+1 - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA VIETINBANK NĂM 2022
+
+1 - HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ NĂM 2022
+giúp HĐQT thực hiện giám sát việc triển khai cơ chế, chính sách nhân sự và các hoạt ộng quản lý 
+nhân sự của VietinBank. Về thành phần, Chủ tịch HĐQT VietinBank ồng thời là Chủ nhiệm UBNS, 
+1 TV HĐQT kiêm GĐ Khối Nhân sự là Phó Chủ nhiệm UBNS, 2 TV còn lại của UBNS là TGĐ/Phó TGĐ 
+phụ trách BĐH và Trưởng phòng Phát triển Nhân sự. Trong năm 2022, UBNS ã tham mưu giúp 
+việc HĐQT trong việc nâng cao chất lượng nguồn nhân lực các cấp, bao gồm: (i) Kiện toàn nhân 
+sự cấp cao (bổ sung 01 Thành viên HĐQT và 04 Phó TGĐ); luân chuyển bổ nhiệm các chức danh 
+Giám ốc/Phó Giám ốc Khối; kiện toàn các chức danh Người ại diện vốn, Thành viên HĐQT/
+Thành viên HĐTV ối với các Công ty con của VietinBank theo hướng chuyên trách ể tăng cường 
+kiểm soát HĐKD và phát triển hệ sinh thái của VietinBank; (ii) Phát triển năng lực ội ngũ, minh 
+bạch hóa trong thi tuyển, bố trí cán bộ, tạo cơ hội thăng tiến công bằng cho các cán bộ, ặc biệt 
+với ội ngũ cán bộ quản lý nòng cốt; (iii) Thực hiện quy hoạch các cấp và ẩy mạnh luân chuyển 
+cán bộ quản lý giữa Trụ sở chính và chi nhánh nhằm gia tăng kinh nghiệm thực tiễn. Về mô hình tổ 
+chức: UBNS ã tham mưu, giúp việc HĐQT trong việc tiếp tục chuyển ổi mô hình theo ịnh hướng 
+tinh gọn, chuyên môn hóa và nâng cao hiệu quả phối hợp giữa các ơn vị: (i) Đề xuất và triển khai 
+thành lập Khối CNTT, Khối Tài chính, Khối Mua sắm & Quản lý tài sản, chuyển ổi mô hình Trung 
+tâm Thẻ; (ii) Nghiên cứu/triển khai các mô hình thúc ẩy chiến lược kinh doanh, hỗ trợ các bộ phận 
+phát triển sản phẩm, kinh doanh trực tiếp; (iii) Đổi mới chính sách tiền lương, ãi ngộ nhằm sử dụng 
+có hiệu quả quỹ lương, ghi nhận úng và chi trả xứng áng với óng góp của người lao ộng trực 
+tiếp tạo ra sản phẩm và hiệu quả. Trong năm 2023, UBNS sẽ tiếp tục ẩy mạnh nghiên cứu, tham 
+mưu HĐQT về chiến lược quản trị nhân sự tiên tiến, hiện ại, theo thông lệ quốc tế, ảm bảo hỗ 
+trợ triển khai chiến lược kinh doanh hiệu quả, an toàn, bền vững.
+ y Ủy ban QLRR: Cơ cấu nhân sự của Ủy ban QLRR bao gồm: 1 TV HĐQT là Chủ nhiệm Ủy ban; các TV 
+trong Ủy ban hiện là TV ộc lập HĐQT, Phó TGĐ phụ trách Khối QLRR, Giám ốc Khối QLRR, PGĐ 
+Khối Pháp chế & Tuân thủ kiêm Trưởng phòng Quản lý Tuân thủ, PGĐ Khối Nhân sự kiêm Trưởng 
+phòng Phát triển nhân sự và Trưởng phòng KTKSNB. Trong năm 2022, Uỷ ban QLRR ã chủ ộng 
+tham mưu HĐQT nhiều chủ trương, chính sách, chỉ ạo về hoạt ộng QLRR như: ịnh hướng tín 
+dụng; kiểm soát chặt chẽ việc tuân thủ khẩu vị rủi ro và trần tăng trưởng tín dụng của NHNN trong 
+ó bao gồm kiểm soát cấp tín dụng kinh doanh bất ộng sản, ánh giá danh mục tín dụng bán 
+lẻ và ề xuất tham mưu các biện pháp QLRR phù hợp; tăng cường các biện pháp kiểm soát giao 
+dịch tiểm ẩn rủi ro trong các nghiệp vụ lõi, ảm bảo an toàn cho hoạt ộng ngân hàng; bổ sung 
+các biện pháp kiểm soát các rủi ro công nghệ; rà soát bổ sung công cụ kiểm soát các giao dịch 
+liên quan ến cấm vận, lệnh trừng phạt Nga; nghiên cứu và triển khai các phương pháp QLRR 
+THÀNH VIÊN VÀ CƠ CẤU CỦA HỘI ĐỒNG QUẢN TRỊ
+ y Số lượng và tỷ lệ sở hữu cổ phần VietinBank của các TV HĐQT ược trình bày trong bảng dưới ây 
+(số liệu cập nhật tại ngày 31/12/2022):
+STT
+HỌ TÊN (bao gồm chức vụ)
+TỔNG CỘNG
+TỶ LỆ 
+SỞ HỮU (%)
+1
+Ông Trần Minh Bình - Chủ tịch HĐQT
+1.239.176.117
+25,7853%
+Đại diện cá nhân
+3.104
+0,0001%
+Đại diện vốn Nhà nước
+1.239.173.013
+25,7852%
+2
+Ông Trần Văn Tần - TV HĐQT
+929.379.761
+19,3389%
+Đại diện cá nhân
+0
+0 %
+Đại diện vốn Nhà nước
+929.379.761
+19,3389%
+3
+Ông Lê Thanh Tùng - TV HĐQT
+929.379.761
+19,3389%
+Đại diện cá nhân
+0
+0%
+Đại diện vốn Nhà nước
+929.379.761
+19,3389%
+4
+Bà Trần Thu Huyền - TV HĐQT
+51.844
+0,0011%
+5
+Ông Nguyễn Thế Huân - TV HĐQT
+0
+0%
+6
+Bà Phạm Thị Thanh Hoài - TV HĐQT
+118
+0,000002%
+7
+Ông Nguyễn Đức Thành – TV HĐQT
+0
+0%
+8
+Ông Masashige Nakazono - TV HĐQT
+0
+0%
+9
+Ông Masahiko Oki - TV HĐQT kiêm Phó TGĐ
+0
+0%
+10
+Bà Nguyễn Thị Bắc - TV ®ộc lập HĐQT
+0
+0%
+ 
+TỔNG CỘNG
+3.097.987.601
+64,4642%
+ y Tính ến ngày 31/12/2022, có 1 TV HĐQT VietinBank ang nắm giữ chức vụ quản lý tại công ty 
+khác là bà Phạm Thị Thanh Hoài - kiêm nhiệm chức vụ Chủ tịch HĐTV Ngân hàng TNHH Công 
+Thương Việt Nam tại Lào.
+ y TV ộc lập HĐQT: Tại thời iểm ngày 31/12/2022, VietinBank có 1 TV ộc lập HĐQT là bà Nguyễn 
+Thị Bắc. 
+ y Thay ổi TV HĐQT trong năm 2022: Xin xem phần Giới thiệu nhân sự - Trang 26
+CÁC ỦY BAN THUỘC HỘI ĐỒNG QUẢN TRỊ
+VietinBank có 3 Ủy ban trực thuộc HĐQT là UBNS, Ủy ban QLRR và UBCS. Việc thành lập các Ủy ban 
+ảm bảo tuân thủ theo quy ịnh của NHNN và các quy ịnh của pháp luật. HĐQT ánh giá trong 
+năm 2022, các Ủy ban ã phối hợp chặt chẽ với các Phòng/Ban, Bộ phận có liên quan ể thực hiện 
+ầy ủ, kịp thời, có kết quả các chức năng, nhiệm vụ theo Quy chế tổ chức và hoạt ộng của từng 
+Ủy ban do HĐQT ban hành. Qua ó, các Ủy ban thuộc HĐQT ã giúp HĐQT tăng cường hiệu quả 
+quản trị, hiệu quả hoạt ộng giám sát của HĐQT ối với các ơn vị, cá nhân chịu sự giám sát của 
+HĐQT trong hệ thống VietinBank. Các kết quả ạt ược cụ thể như sau:
+ y UBNS: là cơ quan tham mưu, giúp việc HĐQT ối với các nội dung thuộc thẩm quyền HĐQT về xây 
+dựng chính sách nhân sự, tuyển chọn và bố trí các chức danh nhân sự thuộc thẩm quyền HĐQT; 
+103
+102
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+
+4 - TRÁCH NHIỆM VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
+Bộ phận Quan hệ Nhà ầu tư (IR) - Ban Thư ký HĐQT & Quan hệ Cổ ông - Văn phòng HĐQT có vai trò 
+là cầu nối giữa VietinBank và cộng ồng NĐT, bao gồm truyền tải thông tin từ cộng ồng NĐT ến Ban 
+Lãnh ạo VietinBank, áp ứng quyền của cổ ông và thu hút sự quan tâm của NĐT tới cổ phiếu CTG 
+trong khuôn khổ kế hoạch kinh doanh của VietinBank, hướng tới mục tiêu nâng cao giá trị cho cổ ông. 
+MINH BẠCH THÔNG TIN, ĐẢM BẢO QUYỀN LỢI 
+NHÀ ĐẦU TƯ
+Là một doanh nghiệp niêm yết với số lượng cổ 
+ông lớn, VietinBank luôn coi trọng tính minh 
+bạch trong việc CBTT. VietinBank là ngân hàng 
+i ầu, chủ ộng CBTT ịnh kỳ/bất thường ầy 
+ủ, kịp thời, minh bạch bằng cả tiếng Việt và 
+tiếng Anh. Trong năm 2022, VietinBank ã thực 
+hiện CBTT ịnh kỳ và bất thường các nội dung 
+như BCTC; báo cáo quản trị công ty; thông tin về 
+họp ĐHĐCĐ thường niên; thay ổi nhân sự; giao 
+dịch với công ty con; phát hành trái phiếu.... Đặc 
+biệt, Báo cáo thường niên 2021 của VietinBank 
+với chủ ề “Kiến tạo tương lai” ã năm thứ ba 
+liên tiếp ược bình chọn Top 10 Báo cáo thường 
+niên tốt nhất của nhóm các doanh nghiệp 
+niêm yết có quy mô vốn hóa lớn tại Cuộc bình 
+chọn doanh nghiệp niêm yết (Vietnam Listed 
+Company Awards – VLCA) năm 2022 nhờ sự 
+ầu tư kĩ lưỡng cả về hình thức và nội dung, thể 
+hiện vai trò của ngân hàng chủ lực, trụ cột của 
+hệ thống kinh tế; ẩy mạnh chiến lược “Khách 
+hàng là trung tâm”; phát triển giải pháp tài chính 
+hiện ại, toàn diện; không ngừng nỗ lực cải thiện 
+nâng cao năng lực hướng tới các chuẩn mực 
+và thông lệ tốt nhất trong quản trị, iều hành; 
+tiên phong và tiêu biểu trong hoạt ộng ầu 
+tư, phát triển công nghệ số hỗ trợ hoạt ộng 
+kinh doanh. Trong nhóm ngân hàng, VietinBank 
+là ngân hàng TMCP có vốn Nhà nước duy nhất 
+ược vinh dự nhận giải thưởng này. 
+Trong năm 2022, VietinBank cũng tổ chức thành 
+công ĐHĐCĐ thường niên 2022 theo hình thức 
+trực tuyến ể thông qua nhiều nội dung quan 
+trọng và ảm bảo quyền lợi của cổ ông trong 
+bối cảnh dịch COVID-19 diễn biến phức tạp. 
+VietinBank luôn ảm bảo quyền lợi của các cổ 
+ông thông qua việc cổ ông có quyền chất 
+vấn (trực tiếp/gián tiếp) và ề xuất kiến nghị ối 
+với Ban Lãnh ạo VietinBank trước khi biểu quyết 
+các vấn ề quan trọng liên quan ến hoạt ộng 
+của VietinBank. VietinBank cũng thực hiện CBTT 
+ầy ủ các văn bản, nội dung có liên quan ến 
+ĐHĐCĐ và ăng tải trên website Quan hệ NĐT 
+VietinBank ể ảm bảo minh bạch thông tin ến 
+tất cả cổ ông và cộng ồng NĐT.
+Đồng thời, trong năm 2022, VietinBank cũng 
+hoàn thiện và ban hành các quy ịnh nội bộ 
+trong hoạt ộng IR ể ảm bảo tuân thủ quy 
+ịnh pháp luật có liên quan cũng như ảm bảo 
+quyền lợi, nâng cao giá trị cho cổ ông.
+ VietinBank xuất sắc 3 năm liền nằm trong Top 10 BCTN tốt nhất thị trường
+TĂNG CƯỜNG TẦN SUẤT TIẾP XÚC NHÀ ĐẦU TƯ, 
+NÂNG CAO CHẤT LƯỢNG THÔNG TIN CUNG CẤP 
+TỚI THỊ TRƯỜNG
+VietinBank không ngừng nâng cao chất lượng, 
+tính chuyên nghiệp của các kênh cung cấp 
+thông tin nhằm tăng cường khả năng tiếp cận 
+của NĐT ối với các thông tin về kết quả kinh 
+doanh, nhận ược sự ánh giá cao và ngày 
+càng tích cực của NĐT cũng như thị trường. Bên 
+cạnh việc quản trị có chất lượng website Quan 
+hệ NĐT với giao diện hiện ại và chuyên nghiệp 
+tại ịa chỉ http://investor.vietinbank.vn giúp 
+cung cấp thông tin phong phú, hữu ích, dễ tra 
+cứu ến NĐT, trong năm 2022, VietinBank tiếp 
+tục chủ ộng tăng cường tần suất, a dạng hình 
+thức, cải tiến chất lượng, chủ ộng cung cấp tới 
+thị trường thông qua việc triển khai: (i) Hội nghị 
+cập nhật kết quả kinh doanh năm 2021 và Quý II, 
+III/2022 ể cập nhật thông tin chi tiết về kết quả 
+kinh doanh của VietinBank; (ii) Điểm tin BCTC 
+hằng quý ể cập nhật nhanh tới thị trường về 
+kết quả kinh doanh, giải thích biến ộng ối với 
+các chỉ tiêu chính sau khi CBTT BCTC; (iii) Bản tin 
+NĐT hằng tháng nhằm thường xuyên cung cấp 
+các thông tin liên quan ến hoạt ộng nổi bật 
+của VietinBank theo các chủ ề NĐT quan tâm; 
+(iv) Tăng cường tần suất gặp gỡ trực tiếp 1-1 với 
+các Quỹ ầu tư lớn trong và ngoài nước quan 
+tâm ến cơ hội ầu tư cổ phiếu CTG…qua ó, 
+tiếp tục khẳng ịnh tính chuyên nghiệp và minh 
+bạch trong việc cung cấp thông tin tới NĐT và 
+thị trường.
+Các hoạt ộng trên ã và ang góp phần 
+khẳng ịnh tính chuyên nghiệp và minh bạch 
+trong việc CBTT của VietinBank; giúp các NĐT 
+tiếp cận và cập nhật thông tin ầy ủ về hoạt 
+ộng, kết quả kinh doanh cũng như ịnh hướng 
+chiến lược của VietinBank, từ ó gia tăng niềm 
+tin của NĐT, góp phần nâng cao vị thế thương 
+hiệu của VietinBank trên thị trường.
+ĐỊNH HƯỚNG HOẠT ĐỘNG QUAN HỆ NHÀ 
+ĐẦU TƯ NĂM 2023
+Trong năm 2023, bên cạnh việc thực hiện tốt các 
+công việc có tính chất thường xuyên, VietinBank 
+sẽ tiếp tục nâng cao tần suất, cải tiến chất lượng, 
+gia tăng mức ộ tương tác với NĐT và thị trường 
+với mục tiêu ưa hoạt ộng IR của VietinBank 
+tiệm cận với các thông lệ và chuẩn mực quốc tế, 
+nâng cao hiệu quả hoạt ộng, áp ứng kỳ vọng 
+của cổ ông và NĐT.
+ĐHĐCĐ thường niên 2022 §ược tổ chức theo hình thức trực tuyến
+131
+130
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+1 - GIỚI THIỆU VIETINBANK
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+Ban Điều hành Ngân hàng Thương mại Cổ phần Công thương Việt Nam (gọi tắt là “Ngân hàng”) ệ 
+trình báo cáo này cùng với báo cáo tài chính hợp nhất của Ngân hàng cho năm tài chính kết thúc 
+ngày 31 tháng 12 năm 2022.
+Các thành viên Hội ồng Quản trị, Ban Kiểm soát, Ban Điều hành và Kế toán trưởng của Ngân hàng 
+trong năm và ến ngày lập báo cáo này gồm:
+HỘI ĐỒNG QUẢN TRỊ
+Ông Trần Minh Bình
+Chủ tịch 
+Ông Nguyễn Đức Thành
+Thành viên (bổ nhiệm ngày 29 tháng 4 năm 2022)
+Bà Nguyễn Thị Bắc
+Thành viên ộc lập
+Bà Trần Thu Huyền
+Thành viên 
+Ông Nguyễn Thế Huân
+Thành viên
+Bà Phạm Thị Thanh Hoài
+Thành viên 
+Ông Trần Văn Tần 
+Thành viên
+Ông Lê Thanh Tùng 
+Thành viên 
+Ông Masahiko Oki
+Thành viên
+Ông Masashige Nakazono
+Thành viên 
+BAN KIỂM SOÁT
+Bà Lê Anh Hà
+Trưởng ban Kiểm soát
+Bà Nguyễn Thị Anh Thư
+Thành viên
+Bà Phạm Thị Thơm
+Thành viên
+BAN ĐIỀU HÀNH VÀ KẾ TOÁN TRƯỞNG
+Ông Nguyễn Hoàng Dũng
+Phó Tổng Giám ốc phụ trách Ban Điều hành
+Ông Nguyễn Trần Mạnh Trung
+Phó Tổng Giám ốc (bổ nhiệm ngày 12 tháng 5 năm 2022)
+Ông Lê Duy Hải
+Phó Tổng Giám ốc (bổ nhiệm ngày 09 tháng 5 năm 2022)
+Ông Hoàng Ngọc Phương
+Phó Tổng Giám ốc (bổ nhiệm ngày 12 tháng 5 năm 2022)
+Ông Đỗ Thanh Sơn
+Phó Tổng Giám ốc (bổ nhiệm ngày 11 tháng 10 năm 2022)
+Ông Trần Công Quỳnh Lân
+Phó Tổng Giám ốc 
+Ông Nguyễn Đình Vinh
+Phó Tổng Giám ốc 
+Bà Lê Như Hoa
+Phó Tổng Giám ốc
+Ông Masahiko Oki
+Phó Tổng Giám ốc 
+Ông Nguyễn Đức Thành
+Phó Tổng Giám ốc (miễn nhiệm ngày 04 tháng 5 năm 2022)
+Ông Nguyễn Hải Hưng
+Kế toán trưởng
+NGƯỜI ĐƯỢC ỦY QUYỀN KÝ BÁO CÁO TÀI CHÍNH
+Ông Nguyễn Trần Mạnh Trung
+Phó Tổng Giám ốc
+(Theo Giấy ủy quyền số 699/UQ-HĐQT-NHCT18 của Chủ tịch 
+HĐQT ngày 01 tháng 6 năm 2022)
+TRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH
+Ban Điều hành Ngân hàng có trách nhiệm lập báo cáo tài chính hợp nhất phản ánh một cách trung 
+thực và hợp lý tình hình tài chính hợp nhất của Ngân hàng tại ngày 31 tháng 12 năm 2022, cũng như 
+kết quả hoạt ộng hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Ngân hàng cho năm tài 
+chính kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế ộ kế toán áp dụng cho các tổ chức 
+tín dụng tại Việt Nam và các quy ịnh pháp lý có liên quan ến việc lập và trình bày báo cáo tài 
+chính hợp nhất. Trong việc lập báo cáo tài chính hợp nhất này, Ban Điều hành ược yêu cầu phải: 
+ y
+Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách ó một cách nhất quán;
+ y
+Đưa ra các xét oán và ước tính một cách hợp lý và thận trọng;
+ y
+Nêu rõ các nguyên tắc kế toán thích hợp có ược tuân thủ hay không, có những áp dụng sai lệch 
+trọng yếu cần ược công bố và giải thích trong báo cáo tài chính hợp nhất hay không; 
+ y
+Lập báo cáo tài chính hợp nhất trên cơ sở hoạt ộng liên tục trừ trường hợp không thể cho rằng 
+Ngân hàng sẽ tiếp tục hoạt ộng kinh doanh; và
+ y
+Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục ích lập và trình bày 
+báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lận.
+Ban Điều hành Ngân hàng chịu trách nhiệm ảm bảo rằng sổ kế toán ược ghi chép một cách phù 
+hợp ể phản ánh một cách hợp lý tình hình tài chính hợp nhất của Ngân hàng ở bất kỳ thời iểm 
+nào và ảm bảo rằng báo cáo tài chính hợp nhất tuân thủ chuẩn mực kế toán, chế ộ kế toán áp 
+dụng cho các tổ chức tín dụng tại Việt Nam và các quy ịnh pháp lý có liên quan ến việc lập và 
+trình bày báo cáo tài chính hợp nhất. Ban Điều hành cũng chịu trách nhiệm ảm bảo an toàn cho 
+tài sản của Ngân hàng và thực hiện các biện pháp thích hợp ể ngăn chặn và phát hiện các hành 
+vi gian lận và sai phạm khác.
+Ban Điều hành xác nhận rằng Ngân hàng ã tuân thủ các yêu cầu nêu trên trong việc lập báo cáo 
+tài chính hợp nhất. 
+Thay mặt và ại diện cho Ban Điều hành,
+Nguyễn Trần Mạnh Trung
+Phó Tổng Giám ốc
+Hà Nội, ngày 30 tháng 3 năm 2023
+149
+148
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+BÁO CÁO CỦA BAN ĐIỀU HÀNH (tiếp theo)
+
+Số: 0953/VN1A-HN-BC
+Kính gửi:
+Các Cổ ²ông
+Hội ²ồng Quản trị và Ban Điều hành
+Ngân hàng Thương mại Cổ phần Công thương Việt Nam
+Chúng tôi ã kiểm toán báo cáo tài chính hợp nhất kèm theo của Ngân hàng Thương mại Cổ phần 
+Công thương Việt Nam (gọi tắt là “Ngân hàng”), ược lập ngày 30 tháng 3 năm 2023, bao gồm báo 
+cáo tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt ộng hợp 
+nhất, báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và bản thuyết minh 
+báo cáo tài chính hợp nhất. 
+Trách nhiệm của Ban Điều hành
+Ban Điều hành Ngân hàng chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài 
+chính hợp nhất của Ngân hàng theo chuẩn mực kế toán, chế ộ kế toán áp dụng cho các tổ chức 
+tín dụng tại Việt Nam và các quy ịnh pháp lý có liên quan ến việc lập và trình bày báo cáo tài 
+chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác ịnh là cần thiết ể 
+ảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian 
+lận hoặc nhầm lẫn.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là ưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc 
+kiểm toán. Chúng tôi ã tiến hành kiểm toán theo các chuẩn mực kiểm toán Việt Nam. Các chuẩn 
+mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy ịnh về ạo ức nghề nghiệp, lập kế 
+hoạch và thực hiện cuộc kiểm toán ể ạt ược sự ảm bảo hợp lý về việc liệu báo cáo tài chính 
+hợp nhất của Ngân hàng có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về 
+các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán ược lựa chọn 
+dựa trên xét oán của Kiểm toán viên, bao gồm ánh giá rủi ro có sai sót trọng yếu trong báo cáo 
+tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện ánh giá các rủi ro này, Kiểm toán viên 
+ã xem xét kiểm soát nội bộ của Ngân hàng liên quan ến việc lập và trình bày báo cáo tài chính 
+hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy 
+nhiên không nhằm mục ích ưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Ngân hàng. Công 
+việc kiểm toán cũng bao gồm ánh giá tính thích hợp của các chính sách kế toán ược áp dụng và 
+tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như ánh giá việc trình bày tổng thể 
+báo cáo tài chính hợp nhất.
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi ã thu thập ược là ầy ủ và 
+thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất ã phản ánh trung thực và hợp lý, trên các 
+khía cạnh trọng yếu, tình hình tài chính hợp nhất của Ngân hàng tại ngày 31 tháng 12 năm 2022, cũng 
+như kết quả hoạt ộng hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc 
+cùng ngày, phù hợp với chuẩn mực kế toán, chế ộ kế toán áp dụng cho các tổ chức tín dụng tại 
+Việt Nam và các quy ịnh pháp lý có liên quan ến việc lập và trình bày báo cáo tài chính hợp nhất.
+Vấn ²ề khác
+Báo cáo tài chính hợp nhất của Ngân hàng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 ã 
+ược kiểm toán bởi một công ty kiểm toán ộc lập khác, với báo cáo kiểm toán ề ngày 31 tháng 3 
+năm 2022 ưa ra ý kiến chấp nhận toàn phần.
+Khúc Thị Lan Anh
+Phó Tổng Giám ốc
+Giấy chứng nhận ăng ký hành nghề
+kiểm toán số 0036-2023-001-1
+Mai Thị Thúy Loan
+Kiểm toán viên
+Giấy chứng nhận ăng ký hành nghề
+kiểm toán số 3837-2021-001-1
+CÔNG TY TNHH KIỂM TOÁN DELOITTE VIỆT NAM
+Ngày 30 tháng 3 năm 2023
+Hà Nội, CHXHCN Việt Nam
+151
+150
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Đơn vị: Triệu VND
+STT
+CHỈ TIÊU
+Thuyết minh
+ Số cuối năm 
+Số ầu năm
+B.
+NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+I.
+Các khoản nợ Chính phủ và NHNN
+17
+ 104.779.302 
+ 33.294.404 
+1.
+Tiền gửi và vay Chính phủ, NHNN
+ 104.779.302 
+ 33.294.404 
+II.
+Tiền gửi và vay các TCTD khác
+18
+ 209.429.843 
+ 138.833.846 
+1.
+Tiền gửi của các TCTD khác
+18.1
+ 139.932.528 
+ 33.670.804 
+2.
+Vay các TCTD khác
+18.2
+ 69.497.315 
+ 105.163.042 
+III.
+Tiền gửi của khách hàng
+19
+ 1.249.176.034 
+ 1.161.848.113 
+IV.
+Vốn tài trợ, ủy thác ²ầu tư, cho vay TCTD chịu rủi ro
+20
+ 2.392.201 
+ 2.527.930 
+V.
+Phát hành giấy tờ có giá
+21
+ 91.370.419 
+ 64.496.785 
+VI.
+Các khoản nợ khác
+ 43.114.308 
+ 36.936.809 
+1.
+Các khoản lãi, phí phải trả
+ 21.587.660 
+ 16.867.319 
+2.
+Thuế TNDN hoãn lại phải trả
+ 112 
+ - 
+3
+Các khoản phải trả và công nợ khác
+22
+ 20.487.746 
+ 19.015.117 
+4
+Dự phòng rủi ro khác
+ 1.038.790 
+ 1.054.373 
+TỔNG NỢ PHẢI TRẢ
+ 1.700.262.107 
+ 1.437.937.887 
+VII.
+Vốn và các quỹ
+24
+ 108.167.657 
+ 93.649.511 
+1.
+Vốn của TCTD
+ 57.868.215 
+ 57.548.112 
+a.
+Vốn iều lệ
+ 48.057.506 
+ 48.057.506 
+b.
+Thặng dư vốn cổ phần 
+ 8.974.677 
+ 8.974.698 
+c.
+Vốn khác
+ 836.032 
+ 515.908 
+2.
+Quỹ của TCTD
+ 16.074.632 
+ 13.673.265 
+3.
+Chênh lệch tỷ giá hối oái
+ 120.993 
+ 245.231 
+4.
+Lợi nhuận sau thuế chưa phân phối
+ 33.364.370 
+ 21.488.131 
+5.
+Lợi ích của cổ ông không kiểm soát
+ 739.447 
+ 694.772 
+TỔNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+ 1.808.429.764 
+ 1.531.587.398 
+Đơn vị: Triệu VND
+STT
+Chỉ tiêu
+Thuyết minh
+Số cuối năm
+Số ầu năm
+A.
+TÀI SẢN
+I.
+Tiền mặt, vàng bạc, ²á quý
+5
+11.066.956
+11.330.659
+II.
+Tiền gửi tại Ngân hàng Nhà nước (NHNN)
+6
+29.727.110
+23.383.443
+III.
+Tiền gửi và cho vay các TCTD khác
+7
+242.431.953
+149.316.646
+1.
+Tiền gửi tại các TCTD khác
+222.454.660
+129.799.364
+2.
+Cho vay các TCTD khác
+19.977.293
+19.517.282
+IV.
+Chứng khoán kinh doanh 
+8
+1.406.183
+2.475.309
+1.
+Chứng khoán kinh doanh
+1.622.967
+2.522.807
+2.
+Dự phòng rủi ro chứng khoán kinh doanh
+(216.784)
+(47.498)
+V.
+Các công cụ tài chính phái sinh và các tài sản tài chính 
+khác 
+9
+3.058.727
+1.454.790
+VI.
+Cho vay khách hàng
+1.245.057.876
+1.104.872.665
+1.
+Cho vay khách hàng
+10
+1.274.821.709
+1.130.667.767
+2.
+Dự phòng rủi ro cho vay khách hàng
+11
+(29.763.833)
+(25.795.102)
+VII.
+Chứng khoán ²ầu tư 
+12
+180.312.848
+177.544.548
+1.
+Chứng khoán ầu tư sẵn sàng ể bán
+12.1
+178.685.028
+174.973.469
+2.
+Chứng khoán ầu tư giữ ến ngày áo hạn 
+12.2
+1.696.778
+2.696.832
+3.
+Dự phòng rủi ro chứng khoán ầu tư
+12.4
+(68.958)
+(125.753)
+VIII.
+Góp vốn, ²ầu tư dài hạn
+13
+3.519.441
+3.290.027
+1.
+Vốn góp liên doanh
+13.1
+3.303.160
+3.073.356
+2.
+Đầu tư dài hạn khác
+234.462
+240.662
+3.
+Dự phòng giảm giá ầu tư dài hạn
+(18.181)
+(23.991)
+IX.
+Tài sản cố ²ịnh
+10.202.191
+10.496.152
+1.
+Tài sản cố ịnh hữu hình
+14
+6.047.480
+6.192.822
+a.
+Nguyên giá TSCĐ 
+16.190.830
+15.773.302
+b.
+Hao mòn TSCĐ
+(10.143.350)
+(9.580.480)
+2.
+Tài sản cố ịnh vô hình
+15
+4.154.711
+4.303.330
+a.
+Nguyên giá TSCĐ 
+6.779.297
+6.627.694
+b.
+Hao mòn TSCĐ 
+(2.624.586)
+(2.324.364)
+X.
+Tài sản Có khác
+16
+81.646.479
+47.423.159
+1.
+Các khoản phải thu 
+16.1
+65.993.812
+34.233.578
+2.
+Các khoản lãi, phí phải thu 
+12.399.295
+9.856.571
+3.
+Tài sản thuế TNDN hoãn lại 
+-
+338
+4.
+Tài sản Có khác
+16.2
+3.314.998
+3.403.230
+5.
+Dự phòng rủi ro cho các tài sản Có nội bảng khác
+16.3
+(61.626)
+(70.558)
+TỔNG TÀI SẢN CÓ
+1.808.429.764
+1.531.587.398
+153
+152
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Tại ngày 31 tháng 12 năm 2022
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
+Tại ngày 31 tháng 12 năm 2022
+
+Việc phân loại rủi ro tín dụng ối với các khoản tiền gửi và cho vay các TCTD khác và trích lập dự 
+phòng tương ứng ược thực hiện theo quy ịnh tại Thông tư số 11/2021/TT-NHNN ngày 30 tháng 7 
+năm 2021 (“Thông tư 11”) của NHNN. Theo ó, Ngân hàng trích lập dự phòng cụ thể cho các khoản 
+tiền gửi (trừ tiền gửi thanh toán, tiền gửi tại ngân hàng chính sách xã hội theo quy ịnh của NHNN 
+về việc các tổ chức tín dụng nhà nước duy trì số dư tiền gửi tại ngân hàng chính sách xã hội) tại các 
+TCTD khác, chi nhánh ngân hàng nước ngoài theo quy ịnh của pháp luật và gửi tiền tại tổ chức tín 
+dụng ở nước ngoài và cho vay các TCTD khác tương tự như ối với các khoản cho vay khách hàng.
+Các hợp ²ồng phái sinh tiền tệ
+Các hợp ồng kỳ hạn và hoán ổi tiền tệ
+Đối với các hợp ồng kỳ hạn và hoán ổi tiền tệ, chênh lệch giữa giá trị VND của số lượng ngoại tệ 
+cam kết mua/bán tính theo tỷ giá kỳ hạn và tỷ giá giao ngay tại ngày hiệu lực của hợp ồng ược 
+ghi nhận ngay tại ngày hiệu lực của hợp ồng tại khoản mục “Các khoản lãi, phí phải thu” hoặc “Các 
+khoản lãi, phí phải trả” trên báo cáo tình hình tài chính hợp nhất. Chênh lệch này sau ó ược phân 
+bổ tuyến tính vào khoản mục “Lãi/(Lỗ) thuần từ hoạt ộng kinh doanh ngoại hối” trong suốt kỳ hạn 
+của hợp ồng. 
+Tại thời iểm lập báo cáo tài chính hợp nhất, cam kết theo các hợp ồng kỳ hạn và hoán ổi tiền tệ 
+ược ánh giá lại và chênh lệch tỷ giá do ánh giá lại số dư ngoại tệ của các hợp ồng này ược 
+kết chuyển vào báo cáo kết quả hoạt ộng hợp nhất.
+Các hợp ồng hoán ổi lãi suất
+Giá trị cam kết trong các hợp ồng hoán ổi lãi suất một ồng tiền không ược ghi nhận trên báo 
+cáo tình hình tài chính hợp nhất. Đối với các hợp ồng hoán ổi lãi suất hai ồng tiền có hoán ổi 
+gốc ầu kỳ, giá trị các cam kết ược ghi nhận trên báo cáo tình hình tài chính hợp nhất. Các khoản 
+thu nhập và chi phí phát sinh từ các ảnh hưởng lãi suất ược ghi nhận theo nguyên tắc dự thu, dự 
+chi. Đối với các hợp ồng hoán ổi lãi suất hai ồng tiền không hoán ổi gốc ầu kỳ, giá trị các cam 
+kết chỉ ược ghi nhận trên báo cáo tình hình tài chính hợp nhất tại ngày hoán ổi gốc. Các khoản 
+thu nhập/chi phí phát sinh từ các ảnh hưởng lãi suất ược ghi nhận theo nguyên tắc dự thu, dự chi.
+Các khoản cho vay khách hàng
+Các khoản cho vay khách hàng ược công bố và trình bày theo số dư nợ gốc tại ngày kết thúc năm 
+tài chính.
+Dự phòng rủi ro tín dụng
+Phân loại nợ và trích lập dự phòng rủi ro tín dụng
+Theo Thông tư 11, tổ chức tín dụng phải thực hiện phân loại nợ, trích lập dự phòng rủi ro tín dụng. Việc 
+phân loại nợ và trích lập dự phòng rủi ro tín dụng theo quy ịnh của Thông tư 11 ược áp dụng với 
+các tài sản Có (gọi tắt là “nợ”) bao gồm:
+ -
+Cho vay;
+ -
+Cho thuê tài chính;
+ -
+Chiết khấu, tái chiết khấu công cụ chuyển nhượng và giấy tờ có giá khác;
+ -
+Bao thanh toán;
+ -
+Các khoản cấp tín dụng dưới hình thức phát hành thẻ tín dụng;
+ -
+Các khoản trả thay theo cam kết ngoại bảng;
+ -
+Số tiền mua và ủy thác mua trái phiếu doanh nghiệp (bao gồm cả trái phiếu do tổ chức tín dụng 
+khác phát hành) chưa niêm yết trên thị trường chứng khoán hoặc chưa ăng ký giao dịch trên 
+hệ thống giao dịch UPCoM (sau ây gọi tắt là trái phiếu chưa niêm yết), không bao gồm mua trái 
+phiếu chưa niêm yết bằng nguồn vốn ủy thác mà bên ủy thác chịu rủi ro;
+ -
+Ủy thác cấp tín dụng;
+ -
+Tiền gửi (trừ tiền gửi thanh toán, tiền gửi tại ngân hàng chính sách xã hội theo quy ịnh của NHNN 
+về việc các tổ chức tín dụng nhà nước duy trì số dư tiền gửi tại ngân hàng chính sách xã hội) tại 
+tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy ịnh của pháp luật và gửi tiền tại tổ 
+chức tín dụng ở nước ngoài;
+ -
+Mua, bán nợ theo quy ịnh của NHNN về hoạt ộng mua, bán nợ;
+ -
+Mua bán lại trái phiếu Chính phủ trên thị trường chứng khoán theo quy ịnh của pháp luật về 
+phát hành, ăng ký, lưu ký, niêm yết và giao dịch công cụ nợ của Chính phủ trên thị trường chứng 
+khoán;
+ -
+Mua kỳ phiếu, tín phiếu, chứng chỉ tiền gửi do tổ chức tín dụng, chi nhánh ngân hàng nước ngoài 
+khác phát hành.
+Theo ó, nhóm nợ của khách hàng là nhóm nợ có rủi ro cao nhất khi thực hiện phân loại nợ ồng thời 
+theo Điều 10, Điều 11 của Thông tư 11 và nhóm nợ cao nhất tại các tổ chức tín dụng của khách hàng 
+do Trung tâm Thông tin tín dụng (“CIC”) của NHNN cung cấp tại thời iểm phân loại nợ. 
+Ngân hàng và các công ty con thực hiện giữ nguyên nhóm nợ ối với một số khoản vay theo quy 
+ịnh tại Thông tư số 10/2015/TT-NHNN ngày 22 tháng 7 năm 2015 và Thông tư số 25/2018/TT-NHNN 
+ngày 24 tháng 10 năm 2018 của NHNN về sửa ổi, bổ sung một số iều của Thông tư số 10/2015/
+TT-NHNN hướng dẫn thực hiện một số nội dung của Nghị ịnh số 55/2015/NĐ-CP ngày 09 tháng 6 
+năm 2015 (“Nghị ịnh 55”) của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông 
+thôn; Thông tư số 01/2020/TT-NHNN ngày 13 tháng 3 năm 2020 (“Thông tư 01”) quy ịnh về việc tổ 
+chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí, giữ 
+nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng do dịch Covid-19; Thông tư số 03/2021/
+TT-NHNN ngày 02 tháng 4 năm 2021 (“Thông tư 03”) sửa ổi, bổ sung một số iều của Thông tư 01; 
+Thông tư số 14/2021/TT-NHNN (“Thông tư 14”) sửa ổi, bổ sung một số iều của Thông tư 01 và các 
+văn bản của NHNN về việc phân loại nợ và trích lập dự phòng rủi ro.
+Các khoản nợ ược phân loại theo các mức ộ rủi ro như sau: Nợ ủ tiêu chuẩn, Nợ cần chú ý, Nợ dưới 
+tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn. Nợ xấu là các khoản nợ ược phân loại là Nợ 
+dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn. Các khoản nợ ược phân loại và trích lập dự 
+phòng rủi ro tín dụng vào thời iểm cuối mỗi tháng và ược ghi nhận hạch toán vào tháng tiếp theo. 
+Dự phòng rủi ro tín dụng tại ngày 31 tháng 12 ược ghi nhận vào kết quả hoạt ộng trong năm ó.
+Dự phòng cụ thể tại ngày 31 tháng 12 ược xác ịnh bằng dư nợ sau khi trừ i giá trị tài sản bảo ảm 
+ã ược khấu trừ nhân với tỷ lệ trích lập dự phòng cụ thể theo kết quả phân loại nhóm nợ tương ứng 
+tại ngày 31 tháng 12. Tỷ lệ trích lập dự phòng cụ thể ối với từng nhóm nợ theo quy ịnh tại Thông tư 
+11 như sau:
+Nhóm nợ
+Tỷ lệ dự phòng cụ thể
+1
+Nợ ủ tiêu chuẩn
+0%
+2
+Nợ cần chú ý
+5%
+3
+Nợ dưới tiêu chuẩn
+20%
+4
+Nợ nghi ngờ
+50%
+5
+Nợ có khả năng mất vốn
+100%
+165
+164
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+Theo Thông tư 03, Ngân hàng cần thực hiện trích dự phòng cụ thể ối với các khách hàng có số dư 
+nợ ược cơ cấu lại thời hạn trả nợ, miễn, giảm lãi theo quy ịnh tại Thông tư này như sau:
+ -
+Đến ngày 31 tháng 12 năm 2021: tối thiểu 30% số tiền dự phòng cụ thể phải trích bổ sung;
+ -
+Đến ngày 31 tháng 12 năm 2022: tối thiểu 60% số tiền dự phòng cụ thể phải trích bổ sung; và
+ -
+Đến ngày 31 tháng 12 năm 2023: 100% số tiền dự phòng cụ thể phải trích bổ sung.
+Theo Thông tư 11, dự phòng chung ược trích lập ể dự phòng cho những tổn thất chưa ược xác 
+ịnh trong quá trình phân loại nợ và trích lập dự phòng cụ thể và trong các trường hợp các tổ chức 
+tín dụng gặp khó khăn về tài chính khi chất lượng các khoản nợ suy giảm. Theo ó, Ngân hàng phải 
+thực hiện trích lập và duy trì dự phòng chung bằng 0,75% tổng số dư các khoản nợ ược phân loại 
+từ nhóm 1 ến nhóm 4, ngoại trừ các khoản tiền gửi tại tổ chức tín dụng trong nước, chi nhánh ngân 
+hàng nước ngoài tại Việt Nam theo quy ịnh của pháp luật và tiền gửi tại tổ chức tín dụng nước 
+ngoài; các khoản cho vay, mua có kỳ hạn giấy tờ có giá ối với tổ chức tín dụng, chi nhánh ngân 
+hàng nước ngoài khác tại Việt Nam; các khoản mua kỳ phiếu, tín phiếu, chứng chỉ tiền gửi, trái phiếu 
+do tổ chức tín dụng, chi nhánh ngân hàng nước ngoài khác phát hành trong nước; và các khoản 
+mua bán lại trái phiếu Chính phủ theo quy ịnh tại Thông tư 11.
+Xử lý rủi ro tín dụng
+Dự phòng ược ghi nhận như một khoản chi phí trên báo cáo kết quả hoạt ộng hợp nhất và ược 
+sử dụng ể xử lý các khoản nợ xấu. Theo quy ịnh tại Thông tư 11, Ngân hàng thành lập Hội ồng Xử 
+lý Rủi ro ể xử lý các khoản nợ xấu nếu như chúng ược phân loại vào nhóm 5, hoặc nếu khách hàng 
+vay là pháp nhân giải thể, phá sản, hoặc là cá nhân bị chết hoặc mất tích.
+Phân loại nợ cho cam kết ngoại bảng
+Ngân hàng thực hiện phân loại ối với các khoản bảo lãnh, chấp nhận thanh toán và cam kết cho 
+vay không hủy ngang và các cam kết khác phát sinh rủi ro tín dụng (gọi chung là các khoản cam kết 
+ngoại bảng) vào các nhóm quy ịnh tại Điều 9, Điều 10 hoặc Điều 11 của Thông tư 11. Theo ó, các 
+khoản cam kết ngoại bảng ược phân loại theo các mức ộ rủi ro như sau: Nợ ủ tiêu chuẩn, Nợ cần 
+chú ý, Nợ dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn.
+Ngân hàng không trích lập dự phòng chung và dự phòng cụ thể cho các cam kết ngoại bảng theo 
+các hướng dẫn tại Thông tư 11.
+Các khoản ²ầu tư
+Chứng khoán kinh doanh
+Chứng khoán kinh doanh là những chứng khoán nợ, chứng khoán vốn và các chứng khoán khác 
+ược Ngân hàng và/hoặc các công ty con mua hẳn và dự ịnh bán ra trong thời gian ngắn nhằm 
+mục ích thu lợi từ việc hưởng chênh lệch giá. Chứng khoán kinh doanh ược ghi nhận theo giá gốc 
+vào ngày giao dịch và luôn ược phản ánh theo giá gốc trong thời gian nắm giữ tiếp theo. Tiền lãi 
+và cổ tức bằng tiền thu ược trong thời gian nắm giữ chứng khoán kinh doanh ược ghi nhận vào 
+báo cáo kết quả hoạt ộng hợp nhất trên cơ sở thực thu.
+Các chứng khoán này ược xem xét khả năng giảm giá tại thời iểm lập báo cáo tài chính hợp nhất. 
+Chứng khoán thuộc ối tượng iều chỉnh của Thông tư 11 (xem chi tiết tại thuyết minh chính sách kế 
+toán cho “Dự phòng rủi ro tín dụng”) ược trích lập dự phòng theo Thông tư 11. Chứng khoán không 
+thuộc ối tượng iều chỉnh của Thông tư 11 ược lập dự phòng giảm giá khi giá trị ghi sổ cao hơn 
+giá trị thị trường xác ịnh theo các quy ịnh kế toán hiện hành. Dự phòng rủi ro ược ghi nhận vào 
+báo cáo kết quả hoạt ộng hợp nhất trên khoản mục “Lãi/(lỗ) thuần từ mua bán chứng khoán kinh 
+doanh”.
+Chứng khoán ²ầu tư
+Chứng khoán ầu tư sẵn sàng ể bán
+Chứng khoán ầu tư sẵn sàng ể bán bao gồm các chứng khoán nợ và chứng khoán vốn ược 
+Ngân hàng và/hoặc các công ty con nắm giữ với mục ích ầu tư sẵn sàng ể bán, không thuộc 
+loại chứng khoán mua vào bán ra thường xuyên nhưng có thể bán bất cứ lúc nào xét thấy có lợi. Đối 
+với chứng khoán vốn, Ngân hàng và/hoặc các công ty con không phải là cổ ông sáng lập; hoặc là 
+ối tác chiến lược của doanh nghiệp nhận ầu tư thông qua văn bản thỏa thuận cử nhân sự tham 
+gia Hội ồng Quản trị/Ban Điều hành.
+Chứng khoán vốn ược ghi nhận theo giá gốc vào ngày giao dịch và luôn ược phản ánh theo giá 
+gốc trong thời gian nắm giữ tiếp theo.
+Chứng khoán nợ ược ghi nhận theo mệnh giá vào ngày giao dịch. Lãi dự thu của chứng khoán trước 
+khi mua (ối với chứng khoán nợ trả lãi sau) hoặc lãi nhận trước chờ phân bổ (ối với chứng khoán 
+nợ trả lãi trước) ược phản ánh trên một tài khoản riêng. Phần chiết khấu/phụ trội là chênh lệch âm/
+dương giữa giá gốc với giá trị của khoản tiền gồm mệnh giá cộng (+) lãi dồn tích trước khi mua (nếu 
+có) hoặc trừ (-) lãi nhận trước chờ phân bổ (nếu có), cũng ược phản ánh trên tài khoản riêng.
+Trong khoảng thời gian nắm giữ chứng khoán tiếp theo, các chứng khoán này ược ghi nhận theo 
+mệnh giá và chiết khấu/phụ trội (nếu có) của chứng khoán sẵn sàng ể bán ược phân bổ vào báo 
+cáo kết quả hoạt ộng hợp nhất theo phương pháp ường thẳng trong suốt thời gian còn lại ước 
+tính của chứng khoán. Số tiền lãi nhận ược trong thời gian nắm giữ chứng khoán ược ghi nhận 
+theo nguyên tắc: Số tiền lãi dồn tích trước khi mua ược ghi giảm giá trị của chính chứng khoán ó, 
+ối ứng với tài khoản lãi dự thu; và số tiền lãi dồn tích sau thời iểm mua ược ghi nhận vào thu nhập 
+của Ngân hàng theo phương pháp cộng dồn. Số tiền lãi nhận trước ược hạch toán phân bổ vào thu 
+nhập lãi ầu tư chứng khoán theo phương pháp ường thẳng trong thời gian ầu tư chứng khoán.
+Định kỳ, chứng khoán sẵn sàng ể bán sẽ ược xem xét về khả năng giảm giá. Chứng khoán thuộc 
+ối tượng iều chỉnh của Thông tư 11 (xem chi tiết tại thuyết minh chính sách kế toán cho “Dự phòng 
+rủi ro tín dụng”) ược trích lập dự phòng theo Thông tư 11. Chứng khoán không thuộc ối tượng iều 
+chỉnh của Thông tư 11 ược lập dự phòng giảm giá khi giá trị ghi sổ cao hơn giá trị thị trường xác ịnh 
+theo các quy ịnh kế toán hiện hành. Dự phòng rủi ro ược ghi nhận vào báo cáo kết quả hoạt ộng 
+hợp nhất trên khoản mục “Lãi/(lỗ) thuần từ mua bán chứng khoán ầu tư”.
+Chứng khoán ầu tư giữ ến ngày áo hạn
+Chứng khoán giữ ến ngày áo hạn là các chứng khoán nợ ược Ngân hàng và/hoặc các công ty 
+con mua hẳn với mục ích ầu tư ể hưởng lãi suất và Ngân hàng và/hoặc các công ty con có ý 
+ịnh và có khả năng giữ các chứng khoán này ến ngày áo hạn. Chứng khoán giữ ến ngày áo 
+hạn có giá trị ược xác ịnh và có ngày áo hạn cụ thể. Trong trường hợp chứng khoán ược bán 
+hẳn trước thời iểm áo hạn, các chứng khoán này sẽ ược phân loại sang chứng khoán kinh doanh 
+hay chứng khoán sẵn sàng ể bán. Chứng khoán ầu tư giữ ến ngày áo hạn ược ghi nhận tương 
+tự như chứng khoán nợ sẵn sàng ể bán.
+Định kỳ, chứng khoán ầu tư giữ ến ngày áo hạn sẽ ược xem xét về khả năng giảm giá. Chứng 
+khoán thuộc ối tượng iều chỉnh của Thông tư 11 (xem chi tiết tại thuyết minh chính sách kế toán 
+cho “Dự phòng rủi ro tín dụng”) ược trích lập dự phòng theo Thông tư 11. Chứng khoán không thuộc 
+ối tượng iều chỉnh của Thông tư 11 ược trích lập dự phòng giảm giá khi giá trị ghi sổ cao hơn giá 
+trị thị trường xác ịnh theo các quy ịnh kế toán hiện hành. Dự phòng rủi ro ược ghi nhận vào báo 
+cáo kết quả hoạt ộng hợp nhất trên khoản mục “Lãi/(Lỗ) thuần từ mua bán chứng khoán ầu tư”.
+Phân loại lại
+Theo Công văn số 2601/NHNN-TCKT ngày 14 tháng 4 năm 2009 của NHNN, việc phân loại lại sau 
+khi mua chỉ ược thực hiện tối a một (01) lần ối với mỗi khoản mục chứng khoán ã ầu tư. Trong 
+167
+166
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+11. DỰ PHÒNG RỦI RO CHO VAY KHÁCH HÀNG
+Biến ộng số dư dự phòng rủi ro cho vay khách hàng cho năm tài chính kết thúc ngày 31 tháng 12 
+năm 2022 như sau:
+ Dự phòng chung 
+ Dự phòng cụ thể 
+ Tổng cộng 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+Số dư ²ầu năm
+ 8.422.669 
+ 17.372.433 
+ 25.795.102 
+Dự phòng trích lập trong năm
+ 1.065.454 
+ 23.097.723 
+ 24.163.177 
+Sử dụng dự phòng rủi ro tín dụng trong 
+năm
+ - 
+ (20.194.345)
+ (20.194.345)
+Điều chỉnh khác
+ - 
+ (101)
+ (101)
+Số dư cuối năm
+ 9.488.123 
+ 20.275.710 
+ 29.763.833 
+Biến ộng số dư dự phòng rủi ro cho vay khách hàng cho năm tài chính kết thúc ngày 31 tháng 12 
+năm 2021 như sau:
+ Dự phòng chung 
+ Dự phòng cụ thể 
+ Tổng cộng 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+Số dư ²ầu năm
+7.365.419
+5.216.961
+12.582.380
+Dự phòng trích lập trong năm
+1.057.250
+17.324.376
+18.381.626
+Sử dụng dự phòng rủi ro tín dụng trong 
+năm
+-
+(5.174.930)
+(5.174.930)
+Điều chỉnh khác
+-
+6.026
+6.026
+Số dư cuối năm
+8.422.669
+17.372.433
+25.795.102
+12. CHỨNG KHOÁN ĐẦU TƯ
+12.1 Chứng khoán ²ầu tư sẵn sàng ²ể bán
+Số cuối năm
+Số ầu năm
+Triệu VND
+Triệu VND
+Chứng khoán Nợ
+ 178.308.413 
+ 174.596.854 
+Chứng khoán Chính phủ
+ 77.511.269 
+ 78.299.141 
+Chứng khoán Nợ do các TCTD khác trong nước phát hành
+ 96.813.834 
+ 86.815.360 
+Chứng khoán Nợ do các TCKT trong nước phát hành
+ 3.983.310 
+ 9.482.353 
+Chứng khoán Vốn
+ 376.615 
+ 376.615 
+Chứng khoán Vốn do các TCKT trong nước phát hành
+ 376.615 
+ 376.615 
+Dự phòng rủi ro chứng khoán ²ầu tư sẵn sàng ²ể bán
+ (65.232)
+ (122.027)
+Trong ó:
+Dự phòng giảm giá
+ (35.357)
+ (51.189)
+Dự phòng chung
+ (29.875)
+ (70.838)
+ 178.619.796 
+ 174.851.442 
+12.2 Chứng khoán ²ầu tư giữ ²ến ngày ²áo hạn
+Số cuối năm
+Số ầu năm
+Triệu VND
+Triệu VND
+Chứng khoán Nợ
+1.696.778
+2.696.832
+Chứng khoán Chính phủ
+1.200.000
+2.200.000
+Chứng khoán Nợ do các TCKT trong nước phát hành
+496.778
+496.832
+Dự phòng rủi ro chứng khoán ²ầu tư giữ ²ến ngày ²áo hạn
+(3.726)
+(3.726)
+Trong ó: 
+Dự phòng chung
+(3.726)
+(3.726)
+1.693.052
+2.693.106
+12.3 Phân tích chất lượng chứng khoán ²ược phân loại là tài sản có rủi ro tín dụng theo mệnh giá
+Số cuối năm
+Số ầu năm
+Triệu VND
+Triệu VND
+Nợ ủ tiêu chuẩn
+ 91.779.755 
+ 65.453.217 
+Nợ cần chú ý
+ - 
+ - 
+Nợ dưới tiêu chuẩn
+ 30 
+ - 
+Nợ nghi ngờ
+ - 
+ - 
+Nợ có khả năng mất vốn
+ - 
+ - 
+ 91.779.785 
+ 65.453.217 
+12.4 Biến ²ộng dự phòng rủi ro chứng khoán ²ầu tư
+Biến ộng số dư dự phòng rủi ro chứng khoán ầu tư cho năm tài chính kết thúc ngày 31 tháng 12 
+năm 2022 như sau:
+ Dự phòng chứng khoán ầu tư sẵn sàng 
+ể bán 
+ Dự phòng chứng 
+khoán ầu tư giữ 
+ến ngày áo hạn 
+ Dự phòng chung 
+ Dự phòng giảm giá 
+ Dự phòng chung 
+ Tổng cộng 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+Số dư ²ầu năm
+ 70.838 
+ 51.189 
+ 3.726 
+ 125.753 
+Dự phòng (hoàn nhập) trong 
+năm
+ (40.963)
+ (15.832)
+ - 
+ (56.795)
+Số dư cuối năm
+ 29.875 
+ 35.357 
+ 3.726 
+ 68.958 
+183
+182
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+44. MỨC ĐỘ TẬP TRUNG THEO KHU VỰC ĐỊA LÝ CỦA CÁC TÀI SẢN, CÔNG NỢ VÀ CÁC KHOẢN MỤC 
+NGOẠI BẢNG TẠI NGÀY 31 THÁNG 12 NĂM 2022
+Tổng dư nợ cho 
+vay
+Tổng tiền gửi
+Các cam kết tín 
+dụng
+Công cụ tài chính 
+phái sinh (Chênh 
+lệch dư nợ - dư có)
+Kinh doanh và ầu 
+tư chứng khoán 
+(Chênh lệch dư nợ 
+- dư có)
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Trong nước
+ 1.285.202.632 
+ 1.486.900.022 
+ 159.560.293 
+ 3.058.727 
+ 182.004.773 
+Nước ngoài
+ 9.596.370 
+ 5.251.213 
+ 44.488 
+ - 
+ - 
+ 1.294.799.002 
+ 1.492.151.235 
+ 159.604.781 
+ 3.058.727 
+ 182.004.773 
+45. BÁO CÁO BỘ PHẬN
+Bộ phận theo lĩnh vực kinh doanh là một bộ phận có thể phân biệt ược của Ngân hàng tham gia 
+vào việc cung cấp các sản phẩm dịch vụ mà bộ phận này có rủi ro và lợi ích kinh tế khác nhau với 
+các bộ phận kinh doanh khác.
+Bộ phận theo khu vực ịa lý là một bộ phận có thể phân biệt ược của Ngân hàng tham gia vào 
+việc cung cấp các sản phẩm dịch vụ mà bộ phận này có rủi ro và lợi ích kinh tế khác với bộ phận kinh 
+doanh trong các môi trường kinh tế khác. 
+Báo cáo bộ phận chính yếu của Ngân hàng là chia theo khu vực kinh doanh, báo cáo bộ phận thứ 
+yếu của Ngân hàng là chia theo khu vực ịa lý.
+Báo cáo bộ phận theo lĩnh vực kinh doanh
+STT CHỈ TIÊU
+ Dịch vụ tài chính 
+ngân hàng 
+ Dịch vụ tài chính 
+phi ngân hàng 
+ Khác 
+ Điều chỉnh 
+ Tổng cộng 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+I.
+Doanh thu
+ 127.376.035 
+ 4.030.025 
+ 2.010.249 
+ (490.732)
+ 132.925.577 
+1.
+Doanh thu lãi
+ 103.781.428 
+ 638.519 
+ 385.758 
+ (141.071)
+ 104.664.634 
+- Doanh thu lãi từ khách hàng bên ngoài
+ 103.674.509 
+ 607.546 
+ 382.579 
+ - 
+ 104.664.634 
+- Doanh thu lãi từ khách hàng nội bộ 
+ 106.919 
+ 30.973 
+ 3.179 
+ (141.071)
+ - 
+2.
+Thu nhập từ hoạt ộng dịch vụ
+ 8.448.092 
+ 3.339.378 
+ 6.809 
+ (245.210)
+ 11.549.069 
+3.
+Thu nhập từ hoạt ộng kinh doanh khác
+ 15.146.515 
+ 52.128 
+ 1.617.682 
+ (104.451)
+ 16.711.874 
+II.
+Chi phí
+ (82.656.482)
+ (3.585.287)
+ (1.944.475)
+ 369.903 
+ (87.816.341)
+1.
+Chi phí lãi
+ (56.662.181)
+ (151.593)
+ (199.976)
+ 141.071 
+ (56.872.679)
+- Chi phí lãi từ khách hàng bên ngoài
+ (56.617.204)
+ (55.500)
+ (199.976)
+ 1 
+ (56.872.679)
+- Chi phí lãi từ khách hàng nội bộ 
+ (44.977)
+ (96.093)
+ - 
+ 141.070 
+ - 
+2.
+Chi phí khấu hao TSCĐ
+ (938.414)
+ (13.649)
+ (8.611)
+ - 
+ (960.674)
+3.
+Chi phí liên quan trực tiếp ến hoạt ộng kinh doanh
+ (25.055.887)
+ (3.420.045)
+ (1.735.888)
+ 228.832 
+ (29.982.988)
+Kết quả kinh doanh trước chi phí dự phòng rủi ro
+ 44.719.553 
+ 444.738 
+ 65.774 
+ (120.829)
+ 45.109.236 
+Chi phí dự phòng rủi ro
+ (24.180.014)
+ (34.249)
+ 636 
+ 50.450 
+ (24.163.177)
+Kết quả kinh doanh bộ phận trước thuế
+ 20.539.539 
+ 410.489 
+ 66.410 
+ (70.379)
+ 20.946.059 
+Chi phí thuế TNDN
+ (3.993.274)
+ (82.865)
+ (34.925)
+ (1)
+ (4.111.065)
+Kết quả kinh doanh bộ phận sau thuế
+ 16.546.265 
+ 327.624 
+ 31.485 
+ (70.380)
+ 16.834.994 
+III.
+Tài sản
+ 1.799.013.299 
+ 11.061.581 
+ 5.223.901 
+ (6.869.017)
+ 1.808.429.764 
+1.
+Tiền mặt
+ 11.041.493 
+ 662 
+ 24.801 
+ - 
+ 11.066.956 
+2.
+Tài sản cố ịnh
+ 10.071.718 
+ 86.605 
+ 43.868 
+ - 
+ 10.202.191 
+3.
+Tài sản khác
+ 1.777.900.088 
+ 10.974.314 
+ 5.155.232 
+ (6.869.017)
+ 1.787.160.617 
+IV.
+Nợ phải trả
+ 1.693.515.553 
+ 7.759.337 
+ 3.506.204 
+ (4.518.987)
+ 1.700.262.107 
+1.
+Nợ phải trả bên ngoài
+ 1.688.548.839 
+ 7.638.631 
+ 3.472.063 
+ (4.518.987)
+ 1.695.140.546 
+2.
+Nợ phải trả nội bộ
+ 4.966.714 
+ 120.706 
+ 34.141 
+ - 
+ 5.121.561 
+203
+202
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+Báo cáo bộ phận theo khu vực ²ịa lý
+STT
+CHỈ TIÊU
+ Miền Bắc (*) 
+ Miền Nam 
+ Khác 
+ Điều chỉnh 
+ Tổng cộng 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+ Triệu VND 
+I.
+Kết quả kinh doanh bộ phận 
+trước thuế
+2.814.503
+13.715.260
+4.486.674
+(70.378)
+20.946.059
+Chi phí thuế TNDN
+(4.096.587)
+(3.110)
+(11.368)
+-
+(4.111.065)
+II.
+Kết quả kinh doanh bộ phận 
+sau thuế
+(1.282.084)
+13.712.150
+4.475.306
+(70.378)
+16.834.994
+III.
+Tài sản bộ phận
+1.075.845.597
+545.159.248
+194.293.938
+(6.869.019)
+1.808.429.764
+IV.
+Nợ phải trả bộ phận
+984.572.621
+531.309.210
+188.899.263
+(4.518.987)
+1.700.262.107
+(*)Tại thời iểm 31 tháng 12 năm 2022, Trụ sở chính của Ngân hàng thuộc miền Bắc thực hiện tính và nộp thuế TNDN cho các 
+ơn vị trong Ngân hàng. 
+46. CHÍNH SÁCH QUẢN LÝ RỦI RO LIÊN QUAN ĐẾN CÁC CÔNG CỤ TÀI CHÍNH
+Thực hiện chỉ ạo của NHNN về việc nâng cao vai trò của công tác quản lý rủi ro trong các tổ chức 
+tín dụng, Ngân hàng tiếp tục thực hiện các chính sách quản lý rủi ro cho toàn diện các lĩnh vực 
+hoạt ộng.
+Hướng tới mục tiêu phát triển bền vững, nâng cao hiệu quả hoạt ộng và lợi thế cạnh tranh, Ngân 
+hàng luôn chú trọng nguồn lực ể nghiên cứu, ứng dụng các thông lệ quốc tế về quản trị. Trong ó, 
+việc áp dụng các chuẩn mực của hiệp ước Basel II là một trong các giải pháp ưu tiên của Ngân 
+hàng. Các dự án thuộc chương trình Basel II tập trung vào nâng cấp toàn diện năng lực quản trị rủi 
+ro trên các mảng rủi ro trọng yếu. Cho ến nay, Ngân hàng ã hoàn thành nghiệm thu các dự án ở 
+giai oạn một theo phương pháp tiêu chuẩn và ang chuẩn bị cho giai oạn hai theo ịnh hướng 
+của NHNN.
+Việc áp dụng thông lệ tiên tiến về quản trị rủi ro là iều kiệu tiên quyết cho công cuộc hội nhập và 
+mở rộng tầm ảnh hưởng của Ngân hàng trong ngành ngân hàng tài chính toàn cầu. Ngân hàng luôn 
+óng vai trò tiên phong trong sự nghiệp hiện ại hóa hệ thống ngân hàng. Ngoài ra, ngay sau khi 
+Thông tư số 13/2018/TT-NHNN (“Thông tư 13”) và các văn bản sửa ổi bổ sung của Cơ quan quản lý 
+quy ịnh về hệ thống kiểm soát nội bộ của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài 
+ban hành, Ngân hàng ã chủ ộng rà soát và iều chỉnh quy ịnh, quy trình phù hợp với các yêu cầu 
+của Thông tư 13 ể ảm bảo tuân thủ các yêu cầu về hệ thống kiểm soát nội bộ, quản trị rủi ro, kiểm 
+toán nội bộ và ánh giá nội bộ mức ủ vốn.
+Trong năm 2022, Ngân hàng tiếp tục chủ ộng nghiên cứu và thực hiện các dự án thuộc chương 
+trình Basel II nhằm nâng cao năng lực quản lý ối với các loại rủi ro. Bên cạnh ó, Ngân hàng tiếp 
+tục hoàn thiện hệ thống văn bản chính sách theo 5 cấp ộ gồm: (i) Khung chính sách tổng thể, (ii) 
+Các chính sách cụ thể, (iii) Văn bản chỉ ạo, hướng dẫn thực hiện chính sách, (iv) Quy trình thực hiện 
+chung, (v) Quy trình chi tiết từng sản phẩm ể ảm bảo sự nhất quán và hiệu quả tổng thể của hệ 
+thống văn bản chính sách.
+Để quản lý rủi ro tài chính, Ngân hàng ã ban hành các quy ịnh, quy trình, hướng dẫn cụ thể và các 
+bộ chỉ số, hạn mức nội bộ ồng thời quản lý sát sao tình hình cân ối tài sản nợ - tài sản có, kiểm 
+soát chặt chẽ tăng trưởng hoạt ộng kinh doanh và chất lượng tín dụng; tuân thủ các giới hạn, tỷ lệ 
+ảm bảo an toàn hoạt ộng và yêu cầu quản trị rủi ro theo Thông tư số 22/2019/TT-NHNN (áp dụng 
+từ ngày 01 tháng 01 năm 2020) và các văn bản sửa ổi bổ sung của Cơ quan quản lý, Thông tư 13 và 
+các quy ịnh của NHNN, dần áp ứng ược các yêu cầu về Quản trị rủi ro theo Basel II.
+47. RỦI RO TIỀN TỆ
+Rủi ro tiền tệ là rủi ro mà tài sản của Ngân hàng hoặc giá trị của khoản ầu tư bị ảnh hưởng do những 
+thay ổi về tỷ giá.
+Ngân hàng ược thành lập và hoạt ộng tại Việt Nam với ồng tiền báo cáo là VND. Đồng tiền giao 
+dịch chính của Ngân hàng là VND. Trong khi ó cơ cấu tài sản - nguồn vốn của Ngân hàng bao 
+gồm một phần bằng ngoại tệ (bao gồm USD, EUR và các ngoại tệ khác) do ó có thể phát sinh rủi 
+ro tiền tệ.
+Để phòng ngừa rủi ro biến ộng tỷ giá, Ngân hàng ã áp dụng ồng bộ các công cụ sau: 
+Trên cơ sở số liệu thực tế, nhu cầu tăng trưởng của các ơn vị thành viên, ịnh hướng kinh doanh, 
+phòng Quản lý cân ối vốn và Kế hoạch tài chính phân tích và dự báo các luồng tiền vào/ra trong 
+hệ thống, ề xuất Ban lãnh ạo phương án kế hoạch vốn kinh doanh theo từng loại tiền tệ (chi tiết 
+số tiền VND và USD, EUR quy ổi), và ược quản lý iều hành theo dòng tiền thực tế hàng ngày ể 
+ảm bảo an toàn và hiệu quả kinh doanh của toàn hệ thống. 
+Hoạt ộng huy ộng vốn và cho vay của Ngân hàng chủ yếu bằng ồng VND, một phần nhỏ là USD, 
+EUR và các ngoại tệ khác. Theo kế hoạch kinh doanh của từng thời kỳ, Ngân hàng có trạng thái tiền 
+tệ trong hoạt ộng kinh doanh vốn khi thực hiện các giao dịch tài chính trên thị trường. Ngân hàng 
+thiết lập hạn mức trạng thái cho từng loại ồng tiền chính dựa theo khẩu vị rủi ro và hạn mức rủi ro 
+nội bộ của Ngân hàng và các quy ịnh của cơ quan quản lý có liên quan.
+Trạng thái ồng tiền ược quản lý trên cơ sở hàng ngày và chiến lược phòng ngừa rủi ro ược 
+Ngân hàng sử dụng ể ảm bảo rằng trạng thái của các ồng tiền ược duy trì trong hạn mức 
+ã thiết lập.
+205
+204
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+Giá trị ghi sổ của các tài sản bằng tiền và công nợ bằng tiền có gốc ngoại tệ tại ngày 31 tháng 12 
+năm 2022 như sau:
+CHỈ TIÊU
+EUR quy ổi
+USD quy ổi
+Các ngoại tệ 
+khác 
+ược quy ổi
+Tổng
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Tài sản
+Tiền mặt, vàng bạc, á quý
+ 195.379 
+ 790.018 
+ 162.669 
+ 1.148.066 
+Tiền gửi tại NHNN
+ 19.792 
+ 291.249 
+ - 
+ 311.041 
+Tiền gửi tại và cho vay các TCTD khác (*)
+ 896.258 
+ 89.414.196 
+ 35.908.587 
+ 126.219.041 
+Công cụ tài chính phái sinh và các tài sản 
+tài chính khác
+ - 
+ 847.548 
+ - 
+ 847.548 
+Cho vay khách hàng (*)
+ 5.944.552 
+ 70.959.432 
+ 1.811.302 
+ 78.715.286 
+Tài sản cố ịnh
+ 33.551 
+ - 
+ 172.895 
+ 206.446 
+Tài sản Có khác (*)
+ 1.686.861 
+ 25.814.210 
+ 84.927 
+ 27.585.998 
+Tổng tài sản
+ 8.776.393 
+ 188.116.653 
+ 38.140.380 
+ 235.033.426 
+Nợ phải trả và vốn chủ sở hữu
+Tiền gửi và vay các TCTD khác
+ 574.833 
+ 109.365.505 
+ 1.821.160 
+ 111.761.498 
+Tiền gửi của khách hàng
+ 2.895.389 
+ 65.360.358 
+ 1.721.033 
+ 69.976.780 
+Công cụ tài chính phái sinh và các khoản nợ 
+tài chính khác
+ 1.192.089 
+ 11.761.382 
+ 34.539.771 
+ 47.493.242 
+Vốn tài trợ, ủy thác ầu tư, cho vay TCTD 
+chịu rủi ro
+ - 
+ 1.886.953 
+ - 
+ 1.886.953 
+Phát hành giấy tờ có giá
+ - 
+ 184 
+ - 
+ 184 
+Các khoản nợ khác (*)
+ 3.896.019 
+ 955.421 
+ 22.750 
+ 4.874.190 
+Tổng nợ phải trả và vốn chủ sở hữu
+ 8.558.330 
+ 189.329.803 
+ 38.104.714 
+ 235.992.847 
+Trạng thái tiền tệ nội bảng
+ 218.063 
+ (1.213.150)
+ 35.666 
+ (959.421)
+(*) Không bao gồm dự phòng rủi ro.
+48. RỦI RO LÃI SUẤT
+Rủi ro lãi suất là khả năng thu nhập hoặc giá trị tài sản của Ngân hàng bị ảnh hưởng khi lãi suất trên 
+thị trường biến ộng.
+Rủi ro lãi suất của Ngân hàng có thể xuất phát từ hoạt ộng ầu tư và hoạt ộng huy ộng vốn và 
+cho vay.
+Thời hạn ịnh lại lãi suất thực tế là thời hạn còn lại tính từ thời iểm lập báo cáo tài chính hợp nhất 
+cho tới kỳ ịnh lại lãi suất gần nhất của các khoản mục tài sản và nguồn vốn. Các giả ịnh và iều 
+kiện sau ược áp dụng trong phân tích thời hạn xác ịnh lại lãi suất thực tế của các tài sản và công 
+nợ của Ngân hàng:
+ y
+Tiền mặt, vàng bạc, á quý; tiền gửi tại NHNN; tài sản cố ịnh; góp vốn, ầu tư dài hạn và các 
+khoản nợ khác ược xếp loại là khoản mục không chịu lãi;
+ y
+Thời gian ến hạn của chứng khoán kinh doanh ược tính trên cơ sở thời gian khả thi ể chuyển 
+ổi trái phiếu thành tiền mặt do danh mục này bao gồm các trái phiếu có tính thanh khoản cao 
+và lãi suất cố ịnh;
+ y
+Thời hạn ịnh lại lãi suất thực tế của các khoản tiền gửi và cho vay các TCTD khác; các công 
+cụ tài chính phái sinh và các tài sản tài chính khác; chứng khoán ầu tư; cho vay khách hàng; 
+tài sản Có khác; các khoản nợ Chính phủ và NHNN; tiền gửi và vay các TCTD khác; tiền gửi của 
+khách hàng; phát hành giấy tờ có giá; và vốn tài trợ, ủy thác ầu tư, cho vay TCTD chịu rủi ro 
+ược xác ịnh như sau:
+ -
+Các khoản mục có lãi suất cố ịnh trong suốt thời gian của hợp ồng: Thời hạn ịnh lại lãi suất 
+thực tế dựa trên thời gian áo hạn thực tế tính từ thời iểm lập báo cáo tài chính hợp nhất;
+ -
+Các khoản mục có lãi suất thả nổi: Thời hạn ịnh lại lãi suất thực tế dựa trên kỳ ịnh lại lãi 
+suất gần nhất tính từ thời iểm lập báo cáo tài chính hợp nhất;
+ -
+Các khoản mục lãi dự thu, lãi dự trả: Được xếp loại là khoản mục không chịu lãi.
+Chính sách về rủi ro lãi suất của Ngân hàng
+Đối với hoạt ộng cho vay trên thị trường liên Ngân hàng (ngắn hạn), lãi suất ầu tư ược xác ịnh 
+tùy thuộc vào diễn biến thị trường và chi phí vốn của Ngân hàng. Các khoản cho vay trên thị trường 
+liên Ngân hàng thường có kỳ hạn ngắn (dưới 3 tháng).
+Căn cứ vào dự báo về diễn biến lãi suất trên thị trường và khả năng cân ối vốn, Ngân hàng sẽ ưa 
+ra quyết ịnh ầu tư phù hợp. Trong trường hợp dự báo lãi suất có xu hướng giảm, Ngân hàng sẽ 
+tăng cường các khoản ầu tư dài hạn ể tăng khả năng sinh lời. Ngược lại, nếu dự báo lãi suất có 
+xu hướng tăng, Ngân hàng sẽ tăng cường ầu tư ngắn hạn.
+Đối với hoạt ộng huy ộng vốn, lãi suất ược xác ịnh theo nguyên tắc thị trường, kết hợp với ịnh 
+hướng kinh doanh của Ban Lãnh ạo, cân ối vốn của Ngân hàng và quy ịnh của NHNN. Nguồn vốn 
+huy ộng của Ngân hàng chủ yếu có thời hạn ịnh lại lãi suất ngắn.
+Đối với hoạt ộng cho vay, Ngân hàng quy ịnh mức lãi suất cho vay trên nguyên tắc ảm bảo bù 
+ắp chi phí vốn, các chi phí quản lý, trên cơ sở xem xét các yếu tố rủi ro, giá trị tài sản ảm bảo, lãi 
+suất trên thị trường, ảm bảo khả năng cạnh tranh và hiệu quả kinh doanh của Ngân hàng. Trụ sở 
+chính quy ịnh mức sàn lãi suất cho vay trong từng thời kỳ; các ơn vị kinh doanh ược chủ ộng 
+xác ịnh lãi suất cho vay ối với khách hàng trong từng kỳ ảm bảo không thấp hơn sàn lãi suất 
+trên cơ sở phân tích, ánh giá rủi ro tín dụng và phải ảm bảo hoàn thành kế hoạch lợi nhuận hàng 
+năm. Bên cạnh ó, do cơ cấu nguồn vốn chủ yếu tập trung vào nguồn vốn có thời hạn ịnh lại lãi 
+suất ngắn, Ngân hàng quy ịnh ối với lãi suất cho vay trung, dài hạn bắt buộc phải thả nổi (không 
+cố ịnh lãi suất cho vay trong toàn bộ thời gian vay) ể giảm thiểu rủi ro về lãi suất có thể phát sinh.
+Quản lý rủi ro lãi suất
+Ngân hàng quản lý rủi ro lãi suất ở cả 2 cấp ộ giao dịch và danh mục, trong ó tập trung nhiều hơn 
+vào quản lý rủi ro lãi suất theo cấp ộ giao dịch.
+Quản lý rủi ro lãi suất ở cấp ộ danh mục
+ -
+Từ năm 2013, Ngân hàng ã ban hành quy ịnh và quy trình quản lý rủi ro lãi suất trên sổ ngân 
+hàng, trong ó quy ịnh các nguyên tắc ể quản lý rủi ro lãi suất trên sổ ngân hàng thông qua 
+quá trình nhận diện, o lường, kiểm soát và giám sát rủi ro nhằm ảm bảo cân bằng giữa mục 
+tiêu kiểm soát/phòng ngừa rủi ro lãi suất trên sổ ngân hàng và tối a hóa thu nhập ròng từ lãi 
+cũng như giá trị kinh tế của vốn chủ sở hữu trong các hoạt ộng kinh doanh của Ngân hàng.
+207
+206
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+49. RỦI RO THANH KHOẢN
+Rủi ro thanh khoản là rủi ro Ngân hàng gặp khó khăn trong việc thực hiện những nghĩa vụ thanh toán 
+cho các công nợ tài chính. Rủi ro thanh khoản phát sinh khi Ngân hàng có thể không ủ khả năng 
+thực hiện nghĩa vụ trả nợ khi những công nợ này ến hạn ở những thời iểm bình thường hoặc khó 
+khăn hoặc Ngân hàng phải chấp nhận huy ộng vốn với chi phí gia tăng ể ảm bảo nghĩa vụ trả nợ. 
+Ngân hàng ã ban hành Quy ịnh và quy trình về quản lý thanh khoản trong ó thiết lập quy ịnh về 
+việc quản lý khe hở thanh khoản theo các thang kỳ hạn, các chỉ số o lường rủi ro thanh khoản, các 
+kịch bản căng thẳng thanh khoản, xây dựng kế hoạch dự phòng thanh khoản ể chủ ộng các biện 
+pháp xử lý trong tình huống thị trường có biến ộng. Để giảm thiểu rủi ro thanh khoản, Ngân hàng chủ 
+trương a dạng hóa nguồn vốn huy ộng cũng như xây dựng hệ thống báo cáo cân ối vốn ể tính 
+toán trạng thái thanh khoản hàng ngày của Ngân hàng ồng thời thường xuyên có báo cáo phân 
+tích, dự báo về tình hình thanh khoản trong tương lai, thiết lập khẩu vị và hạn mức rủi ro thanh khoản. 
+Tại cuộc họp Hội ồng ALCO ịnh kỳ, tình hình cân ối vốn và thanh khoản của Ngân hàng là một 
+trong những nội dung trọng tâm ược thảo luận. Đồng thời, tại cuộc họp Ủy ban QLRR, Hội ồng rủi 
+ro, tình hình tuân thủ Khẩu vị rủi ro và các chỉ số hạn mức rủi ro thanh khoản ược rà soát và báo cáo. 
+Trên cơ sở phân tích, ánh giá, Ủy ban QLRR/Hội ồng ALCO/Hội ồng rủi ro ưa ra khuyến nghị tới 
+Ban lãnh ạo ể có chỉ ạo trong thời gian tới ảm bảo duy trì tối ưu khả năng cân ối thanh khoản 
+an toàn và hiệu quả của Ngân hàng.
+Ngoài ra, Ngân hàng còn duy trì danh mục Tài sản dự trữ thứ cấp là trái phiếu Chính phủ, có thể bán 
+hoặc repo với NHNN, ây là nguồn vốn dự trữ thứ cấp ề phòng trường hợp căng thẳng thanh khoản 
+(nếu phát sinh) ồng thời là những khoản ầu tư sinh lời cho Ngân hàng.
+Thời gian áo hạn của các tài sản và công nợ thể hiện thời gian còn lại của tài sản và công nợ tính 
+từ ngày lập báo cáo tài chính hợp nhất ến khi thanh toán theo quy ịnh trong hợp ồng hoặc trong 
+iều khoản phát hành. 
+Các giả ịnh và iều kiện sau ược áp dụng trong phân tích thời gian áo hạn của các tài sản và 
+công nợ của Ngân hàng:
+ -
+Tiền mặt, vàng bạc, á quý và tiền gửi tại NHNN: ược phân loại vào thang áo hạn ến 1 tháng;
+ -
+Các khoản tiền gửi và cho vay các TCTD khác; các công cụ tài chính phái sinh và các tài sản 
+tài chính khác; cho vay khách hàng; chứng khoán ầu tư; tài sản Có khác; các khoản nợ Chính 
+phủ và NHNN; tiền gửi và vay các TCTD khác; phát hành giấy tờ có giá; vốn tài trợ, ủy thác ầu 
+tư mà TCTD chịu rủi ro; các khoản nợ khác: Thời gian ến hạn ược xác ịnh dựa vào ngày ến 
+hạn theo hợp ồng quy ịnh;
+ -
+Thời gian ến hạn của chứng khoán kinh doanh ược tính trên cơ sở thời gian khả thi ể chuyển 
+ổi trái phiếu thành tiền mặt do danh mục này bao gồm các trái phiếu có tính thanh khoản cao;
+ -
+Thời gian ến hạn của các khoản góp vốn, ầu tư dài hạn ược coi là hơn năm (05) năm do các 
+khoản ầu tư này không có thời gian áo hạn xác ịnh;
+ -
+Thời gian ến hạn của tiền gửi của khách hàng ược xác ịnh dựa trên phân tích hành vi ứng xử 
+của khách hàng và các dự báo về chính sách lãi suất và các yếu tố kinh tế vĩ mô;
+ -
+Thời gian ến hạn của các tài sản cố ịnh ược phân bổ vào dải kỳ hạn từ năm (05) năm trở lên.
+Trên cơ sở ược Ban Lãnh ạo phê duyệt kế hoạch kinh doanh hàng năm, Phòng Quản lý cân ối 
+vốn & Kế hoạch tài chính phối hợp với một số phòng nghiệp vụ liên quan phân tích và dự báo các 
+dòng tiền vào/ra trong hệ thống theo kế hoạch ã ược phê duyệt; ồng thời căn cứ vào biến ộng 
+nguồn vốn và sử dụng vốn thực tế hàng ngày ể ưa ra các quyết ịnh về quản lý và iều hành vốn 
+khả dụng cho phù hợp.
+Căn cứ vào dự báo biến ộng nguồn vốn khả dụng, phòng Quản lý cân ối vốn và Kế hoạch tài 
+chính ầu mối phối hợp với phòng Kinh doanh vốn quản lý dự trữ thứ cấp thông qua việc mua giấy 
+tờ có giá có tính thanh khoản cao. Các giấy tờ có giá này có thể ược giao dịch trên thị trường thứ 
+cấp ể chuyển hóa thành tiền. Phòng Quản lý cân ối vốn và Kế hoạch tài chính ầu mối phối hợp 
+phòng Kinh doanh vốn có thể quyết ịnh bán lại các giấy tờ có giá cho NHNN qua thị trường mở, 
+hoặc vay tái cấp vốn khi nguồn vốn khả dụng thiếu hụt ể ảm bảo thanh khoản cho toàn hệ thống.
+Căn cứ vào các quy ịnh của NHNN, phòng Quản lý cân ối vốn và Kế hoạch tài chính cùng phối hợp 
+với phòng Kinh doanh vốn ề xuất phương án quản lý vốn khả dụng của Ngân hàng, ảm bảo số 
+dư bình quân thực tế trên tài khoản tiền gửi VND và ngoại tệ tại NHNN hàng tháng không thấp hơn 
+hạn mức số dư dự trữ bắt buộc theo quy ịnh. Ngoài ra, Ngân hàng còn thiết lập quan hệ hạn mức 
+giao dịch với các ngân hàng và các tổ chức tín dụng khác ể hỗ trợ lẫn nhau khi cần thiết. Phòng 
+Quản lý rủi ro thị trường thực hiện vai trò giám sát ộc lập ảm bảo rủi ro thanh khoản ược quản 
+lý, tuân thủ úng quy ịnh, quy trình quản lý và khẩu vị/hạn mức rủi ro thanh khoản của Ngân hàng.
+Khối lượng vốn khả dụng của Ngân hàng ược xác ịnh trên cơ sở dữ liệu từ hệ thống Core Sunshine, 
+chương trình thanh toán liên ngân hàng CITAD, phần mềm quản lý Tài sản Nợ - Tài sản Có, thông tin 
+về các dòng tiền lớn từ các ơn vị kinh doanh. Do ó, Ngân hàng luôn chủ ộng quản lý trạng thái 
+thanh khoản hàng ngày.
+Hoạt ộng quản lý rủi ro thanh khoản của Ngân hàng ược giám sát chặt chẽ theo hướng tuân thủ 
+các quy ịnh của NHNN và các tiêu chí quản lý thanh khoản nội bộ của Ngân hàng cho từng ồng 
+tiền chính (VND, USD, EUR) trên danh mục huy ộng vốn và cho vay.
+211
+210
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM
+
+Quá hạn
+Trong hạn
+Tổng
+Trên 03 
+tháng
+Đến 03 tháng
+Đến 01 tháng
+Từ 01-03 
+tháng
+Từ 03-12 
+tháng
+Từ 01-05 năm
+Trên 05 năm
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Tài sản
+Tiền mặt, vàng bạc, á quý
+-
+-
+11.066.956
+-
+-
+-
+-
+11.066.956
+Tiền gửi tại NHNN 
+-
+-
+29.727.110
+-
+-
+-
+-
+29.727.110
+Tiền gửi và cho vay các TCTD khác (*)
+-
+-
+196.312.393
+24.250.987
+21.868.573
+-
+-
+242.431.953
+Chứng khoán kinh doanh (*)
+-
+-
+1.622.967
+-
+-
+-
+-
+1.622.967
+Các công cụ tài chính phái sinh và các tài sản tài 
+chính khác
+-
+-
+3.058.727
+-
+-
+-
+-
+3.058.727
+Cho vay khách hàng (*)
+15.800.980
+29.958.469
+93.176.573
+267.428.479
+467.326.880
+188.050.797
+213.079.531
+1.274.821.709
+Chứng khoán ầu tư (*)
+-
+-
+4.629.888
+14.471.493
+49.509.511
+39.960.681
+71.810.233
+180.381.806
+Góp vốn, ầu tư dài hạn (*)
+-
+-
+-
+-
+-
+-
+3.537.622
+3.537.622
+Tài sản cố ịnh
+-
+-
+-
+-
+-
+-
+10.202.191
+10.202.191
+Tài sản Có khác (*)
+61.626
+-
+10.691.246
+28.573.288
+25.587.957
+1.897.135
+14.896.853
+81.708.105
+Tổng tài sản
+15.862.606
+29.958.469
+350.285.860
+334.724.247
+564.292.921
+229.908.613
+313.526.430
+1.838.559.146
+Nợ phải trả
+Các khoản nợ Chính phủ và NHNN
+-
+-
+101.549.631
+2.208.989
+1.020.682
+-
+-
+104.779.302
+Tiền gửi và vay các TCTD khác
+-
+-
+152.453.107
+21.559.038
+24.421.725
+10.964.780
+31.193
+209.429.843
+Tiền gửi của khách hàng
+-
+-
+184.521.207
+197.978.423
+606.951.444
+259.711.011
+13.949
+1.249.176.034
+Vốn tài trợ, ủy thác ầu tư, cho vay TCTD chịu rủi ro
+-
+-
+224.002
+38.351
+58.617
+456.506
+1.614.725
+2.392.201
+Phát hành giấy tờ có giá
+-
+-
+609.189
+16.900.000
+36.285.000
+1.700.000
+35.876.230
+91.370.419
+Các khoản nợ khác (*)
+-
+-
+19.226.902
+11.473.735
+8.454.985
+2.919.896
+-
+42.075.518
+Tổng nợ phải trả
+-
+-
+458.584.038
+250.158.536
+677.192.453
+275.752.193
+37.536.097
+1.699.223.317
+Mức chênh thanh khoản ròng
+15.862.606
+29.958.469
+(108.298.178)
+84.565.711
+(112.899.532)
+(45.843.580)
+275.990.333
+139.335.829
+(*) Không bao gồm dự phòng rủi ro.
+50. RỦI RO TÍN DỤNG
+Rủi ro tín dụng là khả năng xảy ra tổn thất trong hoạt ộng ngân hàng của tổ chức tín dụng do 
+khách hàng hoặc ối tác không thực hiện hoặc không có khả năng thực hiện nghĩa vụ của mình theo 
+cam kết.
+Với ịnh hướng nâng cao năng lực tài chính, kiểm soát chặt chẽ chất lượng tín dụng ảm bảo mục 
+tiêu tăng trưởng bền vững, hiệu quả, Ngân hàng luôn nỗ lực chủ ộng rà soát, kiểm soát chất lượng 
+danh mục tín dụng, triển khai ồng bộ công tác quản lý rủi ro tín dụng trên cả cấp ộ danh mục và 
+cấp ộ giao dịch. Theo ó:
+ y
+Tại cấp ộ danh mục: bên cạnh việc thiết lập hạn mức rủi ro và ịnh hướng tín dụng hàng năm, 
+Ngân hàng thường xuyên thực hiện giám sát danh mục tín dụng, cảnh báo sớm các Ngân hàng 
+có dấu hiệu tiềm ẩn rủi ro (thông qua Hệ thống cảnh báo sớm, công tác giám sát từ xa và kiểm 
+tra trực tiếp), tăng cường cấp tín dụng có bảo ảm bằng tài sản. 
+ y
+Tại cấp ộ giao dịch: Ngân hàng chú trọng công tác thẩm ịnh, sàng lọc kỹ khách hàng, tăng 
+cường quản lý giám sát, kiểm soát dòng tiền, chất lượng tài sản và theo sát diễn biến hoạt ộng 
+của khách hàng ể triển khai các biện pháp ứng xử phù hợp, kịp thời, hạn chế tối a tác ộng 
+lên chất lượng nợ của Ngân hàng.
+Mức rủi ro tín dụng tối ²a chưa tính ²ến tài sản bảo ²ảm hoặc các biện pháp giảm thiểu rủi ro tín 
+dụng
+Mức rủi ro tín dụng tối a chưa tính ến tài sản bảo ảm hoặc các biện pháp giảm thiểu rủi ro tín 
+dụng ối với mỗi nhóm tài sản bằng với giá trị ghi sổ (không bao gồm dự phòng) của nhóm tài sản 
+ó trên báo cáo tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2022 ược trình bày như sau:
+Chưa quá hạn và 
+chưa bị giảm giá
+Đã quá hạn và 
+chưa bị giảm giá
+Đã bị giảm giá 
+và trích lập dự 
+phòng
+Tổng cộng
+Triệu VND
+Triệu VND
+Triệu VND
+Triệu VND
+Tiền gửi và cấp tín dụng cho các TCTD khác
+ 242.431.953 
+ - 
+ - 
+ 242.431.953 
+- Tiền gửi tại TCTD khác
+ 222.454.660 
+ - 
+ - 
+ 222.454.660 
+- Cấp tín dụng cho các TCTD khác
+ 19.977.293 
+ - 
+ - 
+ 19.977.293 
+Cho vay khách hàng
+ 1.211.740.669 
+ 1.293.299 
+ 61.787.741 
+ 1.274.821.709 
+Chứng khoán ầu tư
+ 180.381.776 
+ 30 
+ - 
+ 180.381.806 
+- Chứng khoán ầu tư sẵn sàng ể bán
+ 178.685.028 
+ - 
+ - 
+ 178.685.028 
+- Chứng khoán ầu tư giữ ến ngày áo hạn
+ 1.696.748 
+ 30 
+ - 
+ 1.696.778 
+Tổng cộng
+ 1.634.554.398 
+ 1.293.329 
+ 61.787.741 
+ 1.697.635.468 
+213
+212
+vietinbank.vn
+BÁO CÁO 
+THƯỜNG NIÊN 2022
+1 - GIỚI THIỆU VIETINBANK
+2 - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+3 - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BĐH
+4 - ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA VIETINBANK
+5 - QUẢN TRỊ CÔNG TY
+6 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+KHÁT VỌNG
+TẦM CAO MỚI
+năm
+7 - BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2022 ĐÃ ĐƯỢC KIỂM TOÁN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM 
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM

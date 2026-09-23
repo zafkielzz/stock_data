@@ -40,18 +40,18 @@ def download_single_price(sym: str, start_date: str, end_date: str, max_retries:
                 df["ticker"] = sym
                 return df
             return None
-        except Exception as e:
+        except BaseException as e:
             err_msg = str(e).lower()
-            if "rate limit" in err_msg or "giới hạn api" in err_msg or "429" in err_msg:
-                print(f"\n[Chạm rate limit khi tải {sym}] Tạm nghỉ 60s để reset hạn mức...")
-                time.sleep(60)
+            if "rate limit" in err_msg or "giới hạn api" in err_msg or "429" in err_msg or isinstance(e, SystemExit):
+                print(f"\n[Chạm rate limit khi tải {sym}] Tạm nghỉ 65s để reset hạn mức...")
+                time.sleep(65)
             else:
                 print(f"\n[Lỗi {sym} lần {attempt+1}]: {e}")
                 time.sleep(5)
     return None
 
 
-def download_all_stock_prices(symbols: list, start_date: str = "2019-01-01", end_date: str = "2024-12-31"):
+def download_all_stock_prices(symbols: list, start_date: str = "2019-01-01", end_date: str = "2026-09-23"):
     raw_dir = "data/raw/prices"
     processed_dir = "data/processed"
     os.makedirs(raw_dir, exist_ok=True)
@@ -60,17 +60,33 @@ def download_all_stock_prices(symbols: list, start_date: str = "2019-01-01", end
     all_dfs = []
     failed_symbols = []
 
-    print(f"\n--- [1/2] Thu thập dữ liệu Giá OHLCV ({len(symbols)} mã, 2019 -> 2024) ---")
+    print(f"\n--- [1/2] Thu thập & Cập nhật Dữ liệu Giá OHLCV ({len(symbols)} mã, 2019 -> 2026) ---")
     for sym in tqdm(symbols, desc="Xử lý OHLCV"):
         raw_file = os.path.join(raw_dir, f"{sym}.csv")
         
-        # Nếu đã tải trước đó -> Đọc lại từ cache
+        # Nếu đã tải trước đó -> Kiểm tra ngày mới nhất để cập nhật bù delta
         if os.path.exists(raw_file) and os.path.getsize(raw_file) > 1000:
             df = pd.read_csv(raw_file)
+            last_date = str(df["time"].max())[:10]
+            if last_date >= "2026-09-20":
+                all_dfs.append(df)
+                continue
+            
+            # Tải phần bù từ last_date đến end_date
+            next_start = (pd.to_datetime(last_date) + pd.Timedelta(days=1)).strftime("%Y-%m-%d")
+            delta_df = download_single_price(sym, next_start, end_date)
+            if delta_df is not None and not delta_df.empty:
+                df["time"] = pd.to_datetime(df["time"])
+                delta_df["time"] = pd.to_datetime(delta_df["time"])
+                df = pd.concat([df, delta_df], ignore_index=True)
+                df = df.drop_duplicates(subset=["time"]).sort_values("time").reset_index(drop=True)
+                df["time"] = df["time"].dt.strftime("%Y-%m-%d %H:%M:%S")
+                df.to_csv(raw_file, index=False)
             all_dfs.append(df)
+            time.sleep(3.5)
             continue
 
-        # Nếu chưa có -> Tải từ Vnstock với giãn cách 3.2s (đảm bảo <= 20 req/phút)
+        # Nếu chưa có -> Tải từ Vnstock với giãn cách 3.5s (đảm bảo <= 20 req/phút)
         df = download_single_price(sym, start_date, end_date)
         if df is not None and not df.empty:
             df.to_csv(raw_file, index=False)
@@ -78,7 +94,7 @@ def download_all_stock_prices(symbols: list, start_date: str = "2019-01-01", end
         else:
             failed_symbols.append(sym)
         
-        time.sleep(3.2)
+        time.sleep(3.5)
 
     if all_dfs:
         merged_df = pd.concat(all_dfs, ignore_index=True)
@@ -167,8 +183,8 @@ if __name__ == "__main__":
     symbols = load_universe("stocks_universe.json")
     print(f"Danh mục thực nghiệm: {len(symbols)} mã.")
     
-    # 1. Tải giá OHLCV
-    download_all_stock_prices(symbols, start_date="2019-01-01", end_date="2024-12-31")
+    # 1. Tải giá OHLCV đến ngày hôm nay (2026-09-23)
+    download_all_stock_prices(symbols, start_date="2019-01-01", end_date="2026-09-23")
     
     # 2. Tải Chỉ số BCTC
     download_all_financial_ratios(symbols)

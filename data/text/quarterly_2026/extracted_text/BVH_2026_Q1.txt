@@ -1,0 +1,23 @@
+Digitally signed by TẬP 
+ĐOÀN BẢO VIỆT
+DN: C=VN, S=Hà Nội, L=
+"Số 8, Phố Lê Thái Tổ, 
+Phường Hàng Trống, 
+Quận Hoàn Kiếm, Thành 
+phố Hà Nội", O=TẬP 
+ĐOÀN BẢO VIỆT, CN=
+TẬP ĐOÀN BẢO VIỆT, 
+OID.0.9.2342.19200300.
+100.1.1=
+MST:0100111761
+Reason: I am the author 
+of this document
+Location: 
+Date: 2026.04.29 
+15:40:12+07'00'
+Foxit PDF Reader 
+Version: 12.0.0
+TẬP 
+ĐOÀN 
+BẢO 
+VIỆT

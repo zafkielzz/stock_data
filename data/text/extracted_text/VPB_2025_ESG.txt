@@ -1,0 +1,865 @@
+42
+BÁO CÁO THƯỜNG NIÊN 2025
+43
+BÁO CÁO THƯỜNG NIÊN 2025
+Năm 2025, VPBank tiếp tục hoàn thiện và củng cố khung quản trị rủi ro hoạt 
+động, đồng thời triển khai đồng bộ các công cụ quản lý rủi ro như thu thập và 
+phân tích số liệu tổn thất, chỉ số rủi ro chính, tự đánh giá rủi ro và chốt kiểm soát 
+và phân tích kịch bản. Việc triển khai nhất quán và hiệu quả các công cụ này góp 
+phần giảm thiểu đáng kể số lượng sự kiện rủi ro hoạt động ghi nhận trong năm 
+2025, đồng thời không phát sinh tác động trọng yếu đến hoạt động kinh doanh.
+Song song, VPBank xây dựng lộ trình áp dụng Phương pháp đo lường tiêu chuẩn 
+(SMA) theo Basel III sửa đổi và hoàn thành các sáng kiến trọng điểm nhằm nâng 
+cao chất lượng dữ liệu tổn thất, bao gồm: (i) Cơ chế, công cụ làm sạch dữ liệu 
+và (ii) Cơ chế, công cụ liên kết dữ liệu. Những cơ chế, công cụ trên là nền tảng 
+cho việc phân tích nâng cao và cung cấp báo cáo chuyên sâu phục vụ công 
+tác điều hành và nâng cấp Hệ thống quản trị rủi ro hoạt động.
+Bên cạnh việc hoàn thiện các công cụ quản trị rủi ro cốt lõi, VPBank tiếp tục 
+nâng cao năng lực quản trị rủi ro hoạt động thông qua các giải pháp chuyển 
+giao và kiểm soát rủi ro, trọng tâm là Chương trình Bảo hiểm rủi ro hoạt động và 
+Quản lý rủi ro bên thứ ba. Theo đó, ngân hàng đẩy mạnh triển khai Chương trình 
+Bảo hiểm rủi ro hoạt động theo cách tiếp cận thống nhất trên toàn tập đoàn, 
+qua đó gia tăng năng lực bảo vệ tài chính và chuyển giao rủi ro trước các tổn 
+thất rủi ro hoạt động tiềm ẩn có mức độ nghiêm trọng cao. Đồng thời, VPBank 
+từng bước mở rộng quản trị rủi ro đối với hoạt động thuê ngoài sang khuôn khổ 
+Quản lý rủi ro bên thứ ba, nhằm tăng cường nhận diện, giám sát và kiểm soát 
+tốt hơn các rủi ro phát sinh từ các giao kết với các nhà cung cấp, đơn vị thuê 
+ngoài và đối tác liên kết khác, bảo đảm tính liên tục trong hoạt động, tối ưu hóa 
+nguồn lực và hỗ trợ mục tiêu phát triển bền vững của VPBank.
+Trong năm 2025, SMBC tiếp tục là đối tác đồng hành quan trọng của Khối Quản 
+trị rủi ro trong công tác quản trị rủi ro hoạt động. Thông qua việc chủ động chia 
+sẻ tài liệu, kinh nghiệm thực tiễn và các thông lệ quốc tế, đặc biệt trong lĩnh 
+vực quản lý rủi ro bên thứ ba, SMBC đã hỗ trợ VPBank xây dựng và hoàn thiện 
+Khung Quản lý rủi ro bên thứ ba một cách bài bản và nhất quán. Song song đó, 
+các chương trình đào tạo (workshop) và hội thảo chuyên đề với sự tham gia của 
+SMBC đã góp phần nâng cao năng lực chuyên môn cho đội ngũ, tăng cường 
+trao đổi thực tiễn và từng bước tiệm cận các chuẩn mực quản trị rủi ro quốc tế, 
+tạo nền tảng cho việc triển khai hiệu quả trong toàn hệ thống.
+Năm 2026, cùng với định hướng chuyển đổi số và ứng dụng công nghệ mạnh 
+mẽ của VPBank, việc nâng cao năng lực giám sát rủi ro, phát hiện và cảnh báo 
+sớm các rủi ro được ưu tiên hàng đầu. Trong đó, việc ứng dụng công nghệ trong 
+hoạt động quản trị rủi ro được kỳ vọng sẽ giúp ngân hàng chủ động đối với các 
+rủi ro mới nổi, như rủi ro gian lận trong ngân hàng số, rủi ro từ bên thứ ba và rủi 
+ro phát sinh trong quá trình chuyển đổi công nghệ. Về công tác quản trị dữ liệu, 
+VPBank dự kiến tiếp tục hoàn thành việc chuẩn hóa dữ liệu tổn thất để đáp ứng 
+yêu cầu tính vốn cho rủi ro hoạt động theo Basel III và các thông tư của NHNN.
+Là rủi ro do các quy trình nội bộ quy định không đầy đủ hoặc có sai sót, do yếu 
+tố con người, do các lỗi, sự cố của hệ thống hoặc do các yếu tố bên ngoài gây 
+tổn thất về tài chính, tác động tiêu cực phi tài chính đối với VPBank. Rủi ro hoạt 
+động bao gồm rủi ro pháp lý nhưng không bao gồm rủi ro chiến lược và rủi ro 
+danh tiếng.
+Định nghĩa 
+Rủi ro hoạt động
+Tình hình quản trị rủi ro 
+trong năm 2025
+Kế hoạch năm 2026
+Với vai trò tiên phong trong việc xây dựng và triển khai Khung Quản lý rủi ro ESG 
+toàn diện, đáp ứng các tiêu chuẩn và thông lệ quốc tế, VPBank tiếp tục đẩy 
+mạnh việc tích hợp quản lý rủi ro ESG vào Khung Quản lý rủi ro tổng thể.
+Trong năm 2025, ngân hàng đã triển khai quản lý rủi ro ESG thông qua 3 trọng 
+tâm chính: (i) Tích hợp các yếu tố rủi ro khí hậu vào khẩu vị rủi ro khi thiết lập hạn 
+mức cấp tín dụng đối với ngành nhiệt điện than; (ii) Xây dựng và áp dụng các 
+công cụ đo lường rủi ro ESG như phân tích kịch bản và kiểm tra sức chịu đựng và 
+(iii) Tăng cường quản lý rủi ro môi trường - xã hội trong hoạt động cấp tín dụng 
+thông qua Hệ thống Quản lý rủi ro môi trường – xã hội (ESMS).
+Theo đó, ESMS được VPBank xây dựng từ năm 2016 và được định kỳ rà soát, 
+nâng cấp nhằm đảm bảo tuân thủ các quy định pháp luật hiện hành cũng như 
+phù hợp với các Tiêu chuẩn Hoạt động môi trường – xã hội của IFC. Hệ thống 
+này hỗ trợ đánh giá rủi ro môi trường – xã hội đối với các khoản cấp tín dụng 
+cho khách hàng doanh nghiệp và hộ kinh doanh, qua đó bảo đảm các quyết 
+định tài trợ của ngân hàng phù hợp với định hướng phát triển bền vững, hạn 
+chế tối đa các tác động tiêu cực đến môi trường và cộng đồng.
+Bên cạnh đó, VPBank ghi dấu ấn trong hành trình phát triển bền vững khi lần 
+đầu tiên công bố Báo cáo Phát triển Bền vững độc lập - báo cáo được lập theo 
+tiêu chuẩn chung mới nhất về hướng dẫn lập báo cáo phát triển bền vững của 
+Tổ chức Sáng kiến báo cáo toàn cầu (GRI) được phát hành bởi Hội đồng Tiêu 
+chuẩn Bền vững toàn cầu (GSSB) và tham chiếu 17 Mục tiêu Phát triển Bền vững 
+(SDGs) của Liên Hợp Quốc. VPBank cũng là ngân hàng duy nhất tại Việt Nam 
+4 năm liên tiếp công bố Báo cáo tài chính khí hậu theo các khuyến nghị của 
+Nhóm công tác về công bố thông tin tài chính liên quan đến khí hậu (TCFD).
+Đáng chú ý, VPBank đã được vinh danh với giải thưởng ‘Best Issuer for Sustainable 
+Finance’ tại The Asset Triple A Awards 2026. Giải thưởng do The Asset — nền 
+tảng truyền thông đa phương tiện hàng đầu tại châu Á với hơn 20 năm kinh nghiệm 
+trong việc đánh giá và xếp hạng các tổ chức tài chính — trao tặng, nhằm ghi 
+nhận những ngân hàng có thành tích nổi bật trong việc thúc đẩy và hỗ trợ tài 
+chính bền vững trong khu vực.
+Tình hình quản trị rủi ro 
+trong năm 2025
+Là rủi ro của bất kỳ tác động tài chính tiêu cực nào đối với ngân hàng phát sinh 
+từ các tác động hiện tại hoặc tương lai của các yếu tố ESG đối với các đối tác, 
+tài sản đầu tư... Rủi ro ESG vừa là một loại rủi ro độc lập vừa là rủi ro chuyển đổi, 
+biểu hiện thông qua các loại rủi ro tài chính và phi tài chính truyền thống.
+Định nghĩa 
+Rủi ro ESG
+THÔNG TIN CHUNG
+THÔNG TIN CHUNG
+
+Năm 2025, VPBank đạt được những thành tựu quan trọng trong huy động vốn 
+quốc tế. VPBank rút vốn thành công 2,36 tỷ USD các nguồn vốn tài chính bền 
+vững quốc tế từ các định chế tài chính phát triển (DFIs) và các ngân hàng 
+thương mại toàn cầu. Nổi bật là khoản vay hợp vốn với tổng quy mô 1,56 tỷ 
+USD được huy động từ các tổ chức tài chính quốc tế lớn như SMBC, Standard 
+Chartered Bank, MUFG, ANZ, Cathay, Commerzbank AG, CTBC… nhằm phục 
+vụ các mục tiêu tài chính bền vững. Đây là khoản vay hợp vốn ESG nước ngoài 
+có quy mô lớn nhất trong lịch sử thị trường Việt Nam, đánh dấu bước tiến chiến 
+lược trong hành trình tiếp cận nguồn vốn toàn cầu cho các mục tiêu phát triển 
+bền vững của VPBank và mối quan hệ hợp tác chặt chẽ giữa VPBank và SMBC. 
+Cũng trong năm 2025, thực hiện nỗ lực đa dạng hóa các kênh dẫn vốn quốc tế 
+và tiếp cận với các công cụ tài chính mới, VPBank trở thành nhà băng đầu tiên 
+tại Việt Nam phát hành thành công 300 triệu USD trái phiếu xanh trên thị trường 
+quốc tế, ghi dấu bước tiến quan trọng của ngành ngân hàng trên bản đồ tài 
+chính bền vững thế giới.
+Mở rộng nguồn
+vốn cho chuyển
+đổi xanh
+Ngân hàng xây dựng và lan tỏa giá trị thương hiệu, với triết lý nhân văn, có trách 
+nhiệm với xã hội và cộng đồng. Trong hành trình phát triển bền vững, VPBank 
+đóng góp gần 2.000 tỷ đồng cho hoạt động CSR, xây dựng, cải tạo hàng trăm 
+điểm trường trên mọi miền Tổ quốc và giúp đỡ những hoàn cảnh khó khăn, tổ 
+chức thành công các sự kiện văn hóa – thể thao quy mô quốc tế, đóng góp tích 
+cực cho cộng đồng và hình ảnh quốc gia. Ngoài ra, VPBank cũng tiên phong xây 
+dựng tuyên bố về quyền con người, đảm bảo tuân thủ pháp luật Việt Nam và văn 
+kiện về quyền con người được quốc tế công nhận.
+Từ những kết quả nêu trên, Ban Điều hành đánh giá 2025 là năm VPBank đạt 
+nhiều tiến bộ quan trọng trong triển khai chiến lược ESG, đặc biệt ở 3 trụ cột: 
+Tài chính bền vững, quản trị công ty, và hội nhập chuẩn mực quốc tế. Bên cạnh 
+những thành tựu đã đạt được, Ban Điều hành cũng xác định một số thách thức, 
+bao gồm: Nhu cầu nâng cao năng lực đánh giá rủi ro khí hậu; giải quyết yêu cầu 
+dữ liệu ESG ngày càng lớn và thị trường tài chính xanh tại Việt Nam có tiềm năng 
+lớn nhưng vẫn còn nhiều thách thức.
+Bước sang năm 2026, VPBank sẽ tiếp tục củng cố nền tảng ESG, nâng cao tiêu 
+chuẩn quản trị, đẩy mạnh tài chính bền vững và đồng hành cùng khách hàng 
+trong hành trình chuyển đổi xanh. Với mục tiêu tăng trưởng vượt trội gắn liền 
+chiến lược phát triển bền vững, cùng sự đồng hành và tin tưởng từ quý cổ đông, 
+khách hàng và đối tác, Ban Điều hành bám sát chặt chẽ và triển khai hiệu quả kế 
+hoạch hành động đã được HĐQT phê duyệt nhằm củng cố vị thế tiên phong của 
+VPBank trong việc triển khai các sáng kiến quản trị ESG, thúc đẩy sự phát triển 
+thịnh vượng, bền vững và công bằng cho toàn xã hội.
+Lan tỏa giá trị
+xã hội và thương
+hiệu bền vững
+Trong công tác quản trị, VPBank không ngừng nâng cao chất lượng quản trị 
+công ty theo tiêu chuẩn quốc tế, áp dụng các khung quản trị tiên tiến như “Bộ 
+Nguyên tắc Quản trị Công ty” của OECD, “Thẻ điểm Quản trị Công ty ASEAN 
+(ACGS)” và “Bộ Nguyên tắc Quản trị Công ty Tốt nhất” của UBCKNN và IFC. 
+Giải thưởng vinh danh VPBank trong Top 5 doanh nghiệp có đánh giá ACGS 
+cao nhất Việt Nam trong Hội nghị Quản trị doanh nghiệp ASEAN 2025 tổ chức 
+tại Kuala Lumpur, Malaysia là sự ghi nhận quốc tế đối với những nỗ lực bền bỉ 
+của ngân hàng trong việc nâng cao tính minh bạch và áp dụng các chuẩn 
+mực quản trị cao, góp phần củng cố niềm tin nhà đầu tư và lan tỏa thông lệ 
+tốt trong toàn khu vực. Thành tựu cũng đánh dấu bước tiến quan trọng trong 
+hành trình nâng tầm vị thế của ngân hàng tại khu vực Đông Nam Á, khẳng định 
+vai trò tiên phong trong thực thi quản trị hiện đại và phát triển bền vững theo 
+chuẩn mực quốc tế.
+VPBank củng cố nền tảng phát triển bền vững thông qua việc công bố Báo cáo 
+Phát triển Bền vững độc lập đầu tiên, thể hiện cam kết dài hạn với mô hình tăng 
+trưởng hài hòa về kinh tế-xã hội-môi trường. Ngay trong năm đầu công bố, báo 
+cáo đã được các tổ chức uy tín đánh giá cao và đạt Giải Ba Báo cáo Phát triển 
+Bền vững-Nhóm ngành Tài chính trong Cuộc bình chọn Doanh nghiệp Niêm yết 
+(VLCA) 2025 do UBCKNN và HoSE tổ chức.
+Tăng cường quản
+trị doanh nghiệp
+theo chuẩn mực
+quốc tế
+136
+BÁO CÁO THƯỜNG NIÊN 2025
+137
+BÁO CÁO THƯỜNG NIÊN 2025
+BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
+BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
+
+180
+BÁO CÁO THƯỜNG NIÊN 2025
+181
+BÁO CÁO THƯỜNG NIÊN 2025
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+A.7
+Giao dịch nội bộ và kiếm lợi từ các thông tin các thông tin không được công bố ra bên ngoài cần bị 
+nghiêm cấm
+A.7.1
+Thành viên HĐQT có được yêu cầu phải báo 
+cáo giao dịch cổ phiếu công ty trong vòng 3 
+ngày làm việc?
+Thành viên HĐQT thực hiện công bố thông tin 
+trước khi thực hiện giao dịch cổ phiếu ít nhất 3 
+ngày làm việc, theo đúng quy định của Khoản 
+1/Điều 33 tại Thông tư 96/2020/TT-BTC.
+A.8
+Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao.
+A.8.1
+Công ty có chính sách yêu cầu một tiểu ban 
+bao gồm thành viên HĐQT độc lập rà soát 
+giao dịch bên liên quan (GDBLQ) trọng yếu/
+quan trọng để xác định liệu những giao dịch 
+đó có phục vụ lợi ích tốt nhất của công ty và 
+cổ đông không?
+HĐQT bao gồm cả thành viên độc lập của 
+HĐQT phải trực tiếp phê duyệt GDBLQ trọng 
+yếu/quan trọng theo quyền hạn được quy định 
+theo Điều 34 và 51 trong Điều lệ VPBank.
+A.8.2
+Công ty có chính sách yêu cầu thành viên 
+HĐQT không tham gia họp HĐQT trong các 
+cuộc họp về các hoạt động, giao dịch mà 
+thành viên đó có xung đột lợi ích?
+Thành viên HĐQT không được biểu quyết đối 
+với giao dịch mang lợi lợi ích cho thành viên 
+đó hoặc người có liên quan của thành viên 
+đó theo quy định của Luật Doanh nghiệp và 
+Khoản 4, Điều 53 trong Điều lệ VPBank.
+A.8.3
+Công ty có chính sách về khoản vay cho thành 
+viên HĐQT, trong đó quy định cấm hoạt động 
+này hoặc đảm bảo rằng các khoản vay được 
+thực hiện trên cơ sở giao dịch hợp lý theo lãi 
+suất thị trường?
+Thành viên HĐQT, thành viên Ban Kiểm soát, 
+Tổng Giám đốc, Phó Tổng Giám đốc và các 
+chức danh tương đương thuộc đối tượng cấm 
+cấp tín dụng theo quy định tại Quy định cho 
+vay của VPBank, đảm bảo tuân thủ Luật các 
+TCTD.
+A.9
+Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng
+A.9.1
+Công ty có công bố về việc GDBLQ được thực 
+hiện theo cách đảm bảo rằng những giao 
+dịch đó là hợp lý và theo cơ chế thị trường?
+Các giao dịch bên liên quan được thực hiện 
+và công bố đầy đủ thông tin đảm bảo đáp 
+ứng các quy định của pháp luật và quy định 
+của VPBank.
+A.9.2
+Trong trường hợp cần có phê duyệt của cổ 
+đông thông qua các giao dịch các bên hữu 
+quan, việc biểu quyết phê duyệt phải được 
+biểu quyết bởi các cổ đông không liên quan 
+lợi ích.
+Cổ đông không được tham gia biểu quyết đối 
+với giao dịch mà có lợi ích liên quan đối với cổ 
+đông đó, quy định tại Điều lệ VPBank (Khoản 2 
+Điều 34).
+B
+TÍNH BỀN VỮNG VÀ KHẢ NĂNG PHỤC HỒI
+B.1
+Việc công bố thông tin về các chủ đề bền vững phải nhất quán, có thể so sánh và đáng tin cậy, đồng thời 
+bao gồm thông tin trọng yếu mang tính hồi tố và dự báo mà một nhà đầu tư sẽ cân nhắc khi đưa ra quyết 
+định đầu tư hoặc bỏ phiếu 
+Các thông tin liên trọng yếu liên quan đến vấn đề phát triển bền vững cần được đề cập	
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+B.1.1
+Công ty có xác định/báo cáo các chủ đề 
+ESG mà có tính trọng yếu đối với chiến lược 
+cốt lõi của tổ chức không?
+VPBank duy trì công bố các chủ đề ESG trọng 
+yếu, thể hiện tại Báo cáo Phát triển Bền vững - 
+mục Xác định chủ đề trọng yếu.
+B.1.2
+Công ty có quan tâm đến vấn đề biến đổi khí 
+hậu không?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Xác định chủ đề trọng yếu. Hàng năm VPBank 
+xây dựng Công bố thông tin tài chính liên quan 
+đến khí hậu - TCFD  trên website ngân hàng để 
+cung cấp một cái nhìn tổng quan về các hành 
+động của ngân hàng để quản lý cơ hội và rủi 
+ro khí hậu đối với nền kinh tế nói chung và hoạt 
+động kinh doanh của ngân hàng nói riêng.
+B.1.3
+Công ty có áp dụng khuôn khổ hoặc tiêu 
+chuẩn báo cáo được quốc tế công nhận về 
+tính bền vững không (ví dụ: GRI, Báo cáo tích 
+hợp, SASB, Tiêu chuẩn công bố thông tin bền 
+vững IFRS)?
+Báo cáo Phát triển Bền vững được dựa trên các 
+tiêu chuẩn quốc tế (GRI, 17 mục tiêu phát triển 
+bền vững của Liên Hợp Quốc) - Thể hiện tại 
+Báo cáo Phát triển Bền vững - mục Tổng quan. 
+VPBank còn hằng năm xây dựng Công bố thông 
+tin tài chính liên quan đến khí hậu theo các tiêu 
+chuẩn của Nhóm công tác về công bố thông tin 
+tài chính liên quan đến khí hậu (TCFD).
+Nếu một công ty công khai đặt ra mục tiêu phát triển bền vững thì khung công bố thông tin phải quy định rằng 
+các số liệu đáng tin cậy được công bố thường xuyên ở dưới dạng dễ tiếp cận
+B.1.4
+Các mục tiêu phát triển bền vững định lượng 
+có được công bố không?
+Công bố tại chủ đề 2 - Tài chính bền vững + 
+Quản lý hoạt động phát thải khí nhà kính trong 
+Báo cáo Phát triển Bền vững và Công bố thông 
+tin tài chính liên quan đến khí hậu, được công 
+bố trên website ngân hàng.
+B.1.5
+Các kết quả thực hiện các mục tiêu phát 
+triển bền vững được đề xuất có được công bố 
+không?
+Công bố tại Mục Phương pháp tiếp cận, phần 
+Đóng góp vào các mục tiêu phát triển bền vững 
+trong Báo cáo Phát triển Bền vững và Công bố 
+thông tin tài chính liên quan đến khí hậu, được 
+công bố trên website ngân hàng.
+B.1.6
+Có thông tin cho thấy Báo cáo Phát triển bền 
+vững đã được xem xét và/hoặc phê duyệt bởi 
+HĐQT hoặc một Ủy ban cấp HĐQT không?
+Ủy ban Quản lý rủi ro trực thuộc HĐQT phê 
+duyệt Báo cáo Phát triển Bền vững.
+B.2
+Khung quản trị doanh nghiệp cần cho phép triển khai đối thoại giữa công ty, cổ đông và các bên liên quan để 
+trao đổi quan điểm về các vấn đề bền vững
+B.2.1
+Công ty có thiết lập kênh tương tác để thường 
+xuyên tiếp nhận và phản hồi các mối quan 
+tâm của các bên hữu quan bên trong về các 
+vấn đề phát triển bền vững trọng yếu không?
+Thể hiện tại Chủ đề 2: Thúc đẩy sự phát triển 
+bền vững của đội ngũ nhân sự, mục Cơ chế 
+khiếu nại nội bộ trong Báo cáo Phát triển Bền 
+vững của ngân hàng.
+B.2.2
+Công ty có thiết lập kênh tương tác để thường 
+xuyên tiếp nhận và phản hồi các mối quan 
+tâm của các bên hữu quan bên ngoài về các 
+vấn đề phát triển bền vững trọng yếu không?
+Thể hiện tại mục Tổng quan về Báo cáo Phát 
+triển Bền vững, phần Thông tin liên hệ. VPBank 
+cũng đồng thời duy trì cơ chế tiếp nhận ý kiến 
+bên ngoài về tác động môi trường & xã hội từ 
+cộng đồng
+QUẢN TRỊ NGÂN HÀNG
+QUẢN TRỊ NGÂN HÀNG
+
+182
+BÁO CÁO THƯỜNG NIÊN 2025
+183
+BÁO CÁO THƯỜNG NIÊN 2025
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+B.3
+Khuôn khổ quản trị công ty phải đảm bảo rằng HĐQT xem xét đầy đủ các rủi ro và cơ hội bền vững trọng yếu 
+khi thực hiện các chức năng chính của mình trong việc xem xét, giám sát và hướng dẫn các thông lệ quản trị, 
+công bố thông tin, chiến lược, quản lý rủi ro và hệ thống kiểm soát nội bộ, bao gồm cả các vấn đề về rủi ro 
+khí hậu bao gồm rủi ro vật lý và rủi ro chuyển đổi
+HĐQT nên đánh giá xem cơ cấu vốn của công ty có tương thích với các mục tiêu chiến lược và khẩu vị rủi ro 
+liên quan hay không để đảm bảo công ty có khả năng phục hồi trong các tình huống khác nhau.
+B.3.1
+HĐQT có đánh giá hằng năm rằng cơ cấu 
+nợ vay của công ty tương thích với các mục 
+tiêu chiến lược và khẩu vị rủi ro của công ty 
+hay không?
+Thể hiện tại Báo cáo Quản trị (thuộc Báo cáo 
+Thường niên) - mục Ủy ban Quản lý rủi ro.
+B.4
+Khuôn khổ quản trị công ty cần công nhận quyền của các bên có quyền lợi liên quan được pháp luật quy định 
+hoặc thông qua các thỏa thuận chung và khuyến khích sự hợp tác tích cực giữa doanh nghiệp và các bên 
+có quyền lợi liên quan trong việc tạo ra của cải, việc làm và sự bền vững về mặt tài chính của doanh nghiệp.
+Công ty có công bố chính sách và thực  tiễn nhằm giải quyết:
+B.4.1
+Công bố chính sách và các thực hành nhằm 
+bảo vệ khách hàng?
+Thể hiện tại các nội dung của Báo cáo Phát 
+triển Bền vững, bao gồm: Thúc đẩy sự gắn 
+kết với các bên hữu quan trọng yếu (khách 
+hàng), Đóng góp vào các mục tiêu phát triển 
+bền vững, Tôn trọng quyền con người (Phạm 
+vi trong sản phẩm và dịch vụ cung cấp cho 
+khách hàng), Tận tâm với khách hàng.
+B.4.2
+Công bố chính sách và các thực hành, quy trình 
+và thủ tục lựa chọn nhà cung cấp/nhà thầu?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Thúc đẩy sự gắn kết với các bên hữu quan 
+trọng yếu (Nhà cung ứng dịch vụ).
+B.4.3
+Công bố chính sách và các thực hành, mô 
+tả nỗ lực của công ty nhằm bảo đảm chuỗi 
+giá trị của công ty thân thiện với môi trường 
+hoặc phù hợp với việc thúc đẩy phát triển 
+bền vững?
+Thể hiện tại Báo cáo Phát triển Bền vững, bao 
+gồm: Tăng cường kết nối trong chuỗi cung ứng 
+thúc đẩy các mục tiêu phát triển bền vững, 
+Tôn trọng quyền con người (Phạm vi trong hoạt 
+động mua sắm và chuỗi cung ứng).
+B.4.4
+Công bố chính sách và các thực hành, mô tả 
+nỗ lực của công ty trong việc tương tác với 
+cộng đồng nơi công ty hoạt động?
+Thể hiện tại các nội dung của Báo cáo Phát 
+triển Bền vững, bao gồm: Thúc đẩy sự gắn kết 
+với các bên hữu quan trọng yếu (cộng đồng), 
+Trách nhiệm với xã hội.
+B.4.5
+Công bố chính sách và các thực hành phòng 
+chống tham nhũng của công ty?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Phòng chống tham nhũng. Ngoài ra, Chính 
+sách phòng chống tham nhũng của VPBank 
+cũng được công bố minh bạch trên website 
+ngân hàng.
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+B.4.6
+Công bố chính sách và các thực hành, mô tả 
+cách thức bảo vệ quyền lợi của chủ nợ?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Thúc đẩy sự gắn kết với các bên hữu quan trọng 
+yếu (bên cho vay). VPBank cam kết tuân thủ 
+đầy đủ các quy định pháp luật và các cam kết 
+đối với bên cho vay trong mọi hoạt động, bao 
+gồm các yêu cầu về quản trị rủi ro, báo cáo định 
+kỳ/đột xuất và công bố thông tin. 
+Thể hiện ở việc:
+1. VPBank tuân thủ đầy đủ quy định pháp luật về 
+công bố thông tin và minh bạch tài chính: công 
+bố đầy đủ và kịp thời thông tin theo Luật Chứng 
+khoán 2019 và Thông tư 96/2020/TT‑BTC.
+2. VPBank tuân thủ nghĩa vụ báo cáo và giám 
+sát của các cơ quan quản lý.
+3. Các Báo cáo Tài chính của VPBank được kiểm 
+toán bởi đơn vị kiểm toán độc lập.
+4. VPBank tuân thủ đầy đủ nghĩa vụ thanh toán 
+theo hợp đồng với chủ nợ.
+B.4.7
+Công ty có viết báo cáo/nội dung riêng mô tả 
+các nỗ lực về các vấn đề về môi trường/kinh 
+tế và xã hội?
+Áp dụng các tiêu chuẩn công bố thông tin phát 
+triển bền vững được toàn cầu công nhận (GRI), 
+VPBank xây dựng Báo cáo Phát triển Bền vững 
+tích hợp trong Báo cáo Thường niên từ năm 
+2020 và xây dựng Báo cáo Phát triển Bền vững 
+độc lập từ năm 2024.
+B.5
+Khi lợi ích của các bên có quyền lợi liên quan được pháp luật bảo vệ, các bên liên quan cần có cơ hội được 
+khiếu nại hiệu quả khi quyền lợi của họ bị vi phạm
+B.5.1
+Công ty có cung cấp thông tin liên hệ trên 
+website của công ty hay Báo cáo Thường niên 
+để các bên có quyền lợi liên quan (ví dụ: khách 
+hàng, nhà cung cấp, công chúng...) có thể sử 
+dụng để lên tiếng về lo ngại và/hoặc khiếu 
+kiện về những vi phạm có thể xảy ra đối với 
+quyền lợi của họ?
+Thông tin liên hệ (đường dây nóng và email) liên 
+hệ được công bố rộng rãi trên các phương tiện 
+truyền thông bao gồm website ngân hàng và 
+Báo cáo Thường niên, Báo cáo Phát triển Bền 
+vững. Ngoài ra, VPBank đã thiết lập và công 
+bố trên website ngân hàng: Chính sách quản 
+lý xung đột lợi ích, với các nguyên tắc quản lý 
+rủi ro của VPBank và/hoặc cán bộ nhân viên 
+khi xử lý xung đột và để đảm bảo xung đột lợi 
+ích không gây tác động tiêu cực đến lợi ích của 
+VPBank, khách hàng và các bên hữu quan khác.
+VPBank công bố thông tin liên hệ và quy trình 
+tiếp nhận, xử lý các khiếu nại tố cáo trên website 
+ngân hàng.
+B.6
+Cần cho phép phát triển các cơ chế cho sự tham gia của nhân viên
+B.6.1
+Công ty có công bố rõ ràng chính sách và thực 
+hành, nỗ lực về sức khỏe, an toàn, và phúc lợi 
+cho nhân viên?
+Thể hiện tại các nội dung của Báo cáo Phát triển 
+Bền vững, bao gồm: Thúc đẩy sự gắn kết với 
+các bên hữu quan trọng yếu (người lao động), 
+Tôn trọng quyền con người (Phạm vi Trong quan 
+hệ với người lao động), Đảm bảo an toàn nơi 
+làm việc và sức khỏe nhân viên, Đảm bảo lợi ích 
+kinh tế của đội ngũ nhân sự.
+QUẢN TRỊ NGÂN HÀNG
+QUẢN TRỊ NGÂN HÀNG
+
+196
+BÁO CÁO THƯỜNG NIÊN 2025
+197
+BÁO CÁO THƯỜNG NIÊN 2025
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+(B)
+A.2.
+Thông báo ĐHĐCĐ
+(B)
+A.2.1
+Công ty có ra thông báo về ĐHĐCĐ (có 
+chương trình chi tiết và thông báo giải thích), 
+như thông báo cho Sở Giao dịch, tối thiểu 28 
+ngày trước ngày họp?
+VPBank tuân thủ quy định của pháp luật (Điều 
+42 - Điều lệ VPBank 2025), thực hiện thông 
+báo về ĐHĐCĐ trước 21 ngày so với ngày họp 
+chính thức.
+(B)B.
+TÍNH BỀN VỮNG VÀ KHẢ NĂNG PHỤC HỒI
+(B)
+B.1.1
+Cách thức quản lý các rủi ro và cơ hội liên quan 
+đến biến đổi khí hậu có được công bố không?
+Thể hiện tại Công bố thông tin tài chính liên 
+quan đến khí hậu - Chương 3. Chiến lược công 
+bố trên website ngân hàng.
+(B)
+B.1.2
+Báo cáo Phát triển Bền vững của công ty có 
+được kiểm định bởi tổ chức độc lập không?
+Báo cáo Phát triển Bền vững được đảm bảo có 
+giới hạn bởi một bên thứ ba của kỳ 2025.
+(B)
+B.1.3
+Công ty có công bố kênh tương tác/đối thoại 
+với các nhóm bên hữu quan và cách công ty 
+phản hồi các mối quan ngại về ESG của các 
+bên hữu quan không?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Thúc đẩy sự gắn kết với các bên hữu quan trọng 
+yếu và Đóng góp vào các mục tiêu Phát triển 
+bền vững.
+(B)
+B.1.4
+Công ty có thành lập một đơn vị/bộ phận/ủy 
+ban chịu trách nhiệm giám sát/quản lý các 
+vấn đề quản trị bền vững không?
+Thể hiện tại Báo cáo Phát triển Bền vững - mục 
+Mô hình quản trị hướng đến phát triển bền vững.
+(B)
+B.1.5
+Công ty có công bố các hoạt động giám sát 
+của thành viên HĐQT đối với việc quản trị các 
+rủi ro và cơ hội liên quan đến đến phát triển 
+bền vững không?
+Thể hiện tại Công bố thông tin tài chính liên 
+quan đến khí hậu - Mục Việc giám sát các cơ 
+hội và rủi ro khí hậu của HĐQT công bố trên 
+website ngân hàng.
+(B)C.
+CÔNG BỐ THÔNG TIN VÀ MINH BẠCH
+(B)C.1
+Chất lượng Báo cáo Thường niên
+(B)
+C.1.1
+Báo cáo Tài chính hàng năm được kiểm toán 
+có được công bố công khai trong vòng 60 
+ngày kể từ khi kết thúc năm tài chính?
+Báo cáo Tài chính kiểm toán được công bố vào 
+ngày 10/3/2026.
+(B)D.
+TRÁCH NHIỆM CỦA HĐQT
+(B)D.1
+Năng lực và sự đa dạng của HĐQT
+(B)D.2
+Cấu trúc HĐQT
+(B)
+D.2.2
+Ủy ban bổ nhiệm có thực hiện quy trình xây 
+dựng tiêu chí chất lượng các thành viên HĐQT 
+phù hợp với định hướng chiến lược của công ty?
+Ủy ban Nhân sự của VPBank nêu cao việc xây 
+dựng các tiêu chuẩn, điều kiện của thành 
+viên HĐQT bám sát với định hướng chiến lược 
+ngân hàng.
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+(B)D.3
+Bổ nhiệm và tái cử HĐQT
+(B)D.4
+Cơ cấu & Thành phần HĐQT
+(B)D.5
+Quản lý rủi ro
+(B)
+D.5.1
+HĐQT có mô tả quy trình quản trị về vấn đề 
+liên quan công nghệ thông tin như gián đoạn, 
+an ninh mạng, khôi phục thảm hoạ, để đảm 
+bảo rằng tất cả các rủi ro chính được xác định, 
+quản lý và tích hợp vào khung quản trị rủi ro 
+chung của ngân hàng?
+Thể hiện tại Báo cáo Thường niên - mục Báo 
+cáo Quản trị rủi ro.
+(B)D.6
+Hiệu quả hoạt động của HĐQT
+(B)
+D.6.1
+Công ty có Ủy ban Quản lý rủi ro riêng biệt?
+VPBank có thành lập Ủy ban Quản trị rủi ro.
+(P)A.
+QUYỀN VÀ ĐỐI XỬ CÔNG BẰNG VỚI CÁC CỔ ĐÔNG
+(P)A.1
+Quyền cơ bản của cổ đông
+(P)
+A.1.1
+Công ty không hoặc sơ suất không đối xử 
+công bằng đối với việc mua lại cổ phần đối với 
+tất cả các cổ đông?
+Không phát sinh tại VPBank.
+(P)A.2
+Các cổ đông, bao gồm cả cổ đông tổ chức, phải được phép tham vấn lẫn nhau về các vấn đề liên quan tới 
+quyền cơ bản của cổ đông như nêu trong bộ Nguyên tắc Quản trị Công ty này, trừ trường hợp ngoại lệ nhằm 
+ngăn ngừa lạm dụng.
+(P)
+A.2.1
+Có bằng chứng gì về rào cản đối với việc cổ 
+đông không được trao đổi thông tin hoặc 
+tham khảo ý kiến các cổ đông khác?
+VPBank không ghi nhận phản ánh liên quan 
+đến rào cản về việc trao đổi thông tin giữa các 
+cổ đông.
+(P)A.3
+Quyền tham gia hiệu quả vào và biểu quyết trong ĐHĐCĐ và được thông báo về các quy định, bao gồm thủ 
+tục biểu quyết diễn ra trong ĐHĐCĐ.
+(P)
+A.3.1
+Công ty có đưa nội dung bổ sung và không 
+được thông báo trước trong chương trình 
+nghị sự vào thông báo ĐHĐCĐ/ĐHĐCĐ bất 
+thường?
+Không phát sinh tại VPBank.
+(P)
+A.3.2
+Chủ tịch HĐQT, Chủ tịch các Ủy ban và Tổng 
+Giám đốc có vắng mặt trong kỳ ĐHĐCĐ gần 
+đây nhất không?
+Chủ tịch HĐQT, Chủ tịch các ủy ban và Tổng 
+Giám đốc tham gia ĐHĐCĐ trong kì gần nhất. 
+Thể hiện tại Biên bản họp - Đại hội đồng cổ 
+đông trên website của ngân hàng.
+QUẢN TRỊ NGÂN HÀNG
+QUẢN TRỊ NGÂN HÀNG
+
+198
+BÁO CÁO THƯỜNG NIÊN 2025
+199
+BÁO CÁO THƯỜNG NIÊN 2025
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+(P)A.4
+Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ 
+cổ phần mà họ sở hữu phải được công bố công khai.
+Công ty không công bố sự tồn tại của:
+(P)
+A.4.1
+Thỏa thuận cổ đông
+Không phát sinh tại VPBank.
+(P)
+A.4.2
+Giới hạn biểu quyết
+Không phát sinh tại VPBank.
+(P)
+A.4.3
+Cổ phiếu nhiều quyền biểu quyết
+Không phát sinh tại VPBank.
+(P)A.5
+Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ 
+phần mà họ sở hữu phải được công bố công khai.
+(P)
+A.5.1
+Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc 
+sở hữu sở hữu chéo có tồn tại không?
+Không phát sinh tại VPBank.
+(P)B.
+ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG
+(P)A.6
+Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân.
+(P)
+A.6.1
+Công ty có bị kết luận vi phạm nào về giao 
+dịch nội gián liên quan đến thành viên HĐQT, 
+Ban Điều hành và nhân viên công ty trong ba 
+năm qua?
+Không phát sinh tại VPBank.
+(P)A.7
+Bảo vệ cổ đông thiểu số trước hành vi lạm dụng
+(P)
+A.7.1
+Có trường hợp nào không tuân thủ luật pháp, 
+quy tắc và quy định liên quan đến giao dịch 
+bên liên quan đáng kể hoặc trọng yếu trong 
+ba năm trước không?
+Không phát sinh tại VPBank.
+(P)
+A.7.2
+Có bất kỳ giao dịch bên liên quan nào có thể 
+được phân loại là hỗ trợ tài chính (nghĩa là không 
+được thực hiện hợp lý trên cơ sở thị trường) cho 
+các đơn vị không phải là công ty con?
+Không phát sinh tại VPBank.
+(P)B.
+PHÁT TRIỂN BỀN VỮNG VÀ BỀN BỈ
+(P)B.1
+Quyền của các bên liên quan được quy định theo pháp luật hoặc thông qua các thỏa thuận chung phải được 
+tôn trọng.
+(P)
+B.1.1
+Có vi phạm pháp luật nào liên quan đến các 
+vấn đề lao động/việc làm/khách hàng/phá 
+sản/thương mại/cạnh tranh hoặc môi trường 
+không?
+VPBank chưa ghi nhận bất kỳ vi phạm pháp 
+luật nào liên quan đến các vấn đề lao động/
+việc làm/khách hàng/vỡ nợ/thương mại/cạnh 
+tranh hoặc môi trường.
+STT
+TIÊU CHÍ ĐÁNH GIÁ
+TÌNH HÌNH
+TUÂN THỦ
+ CƠ SỞ/ DẪN CHỨNG
+(P)B.
+PHÁT TRIỂN BỀN VỮNG VÀ BỀN BỈ
+(P)B.1
+Quyền của các bên liên quan được quy định theo pháp luật hoặc thông qua các thỏa thuận chung phải được 
+tôn trọng.
+(P)
+B.1.1
+Có vi phạm pháp luật nào liên quan đến 
+các vấn đề lao động/việc làm/khách hàng/
+phá sản/thương mại/cạnh tranh hoặc môi 
+trường không?
+VPBank chưa ghi nhận bất kỳ vi phạm pháp 
+luật nào liên quan đến các vấn đề lao động/
+việc làm/khách hàng/vỡ nợ/thương mại/cạnh 
+tranh hoặc môi trường.
+(P)B.2
+Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin 
+phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên.
+(P)
+B.2.1
+Công ty có phải chịu bất kỳ hình phạt nào của 
+cơ quan quản lý vì đã không công bố thông tin 
+trong khoảng thời gian được yêu cầu đối với 
+các sự kiện trọng yếu?
+Không phát sinh tại VPBank.
+(P)
+B.2.2
+Có bằng chứng nào cho thấy công ty đang 
+tham gia vào các hoạt động quảng cáo xanh 
+(greenwashing) không?
+Không. Với sự tư vấn của IFC, VPBank đã xây 
+dựng Khung tín dụng xanh và Khung tài chính 
+bền vững để đưa ra các nguyên tắc và hướng 
+dẫn cụ thể về việc sử dụng và quản lý các 
+khoản vay bền vững huy động từ các đối tác 
+quốc tế để tài trợ cho các dự án xanh. Các 
+khung đã được tổ chức Sustainalytics công 
+nhận phù hợp với khuôn khổ Nguyên tắc cho 
+vay xanh của Hiệp hội thị trường tín dụng (LMA) 
+và Nguyên tắc Trái phiếu Xanh của Hiệp hội thị 
+trường vốn quốc tế (ICMA) ban hành và đóng 
+góp cho các Mục tiêu phát triển bền vững của 
+Liên Hợp Quốc.
+(P)C.
+CÔNG BỐ THÔNG TIN VÀ MINH BẠCH
+(P)C.1
+Hình phạt của cơ quan quản lý liên quan đến Báo cáo Tài chính
+(P)
+C.1.1
+Công ty có nhận được "ý kiến loại trừ" trong 
+Báo cáo Kiểm toán độc lập?
+N/A
+(P)
+C.1.2
+Công ty có nhận được "ý kiến bất lợi" trong 
+Báo cáo Kiểm toán độc lập?
+N/A
+(P)
+C.1.3
+Công ty có nhận được "từ chối đưa ra ý kiến" 
+trong Báo cáo Kiểm toán độc lập?
+N/A
+(P)
+C.1.4
+Công ty có sửa đổi Báo cáo Tài chính trong 
+năm vừa qua vì những lý do khác với lý do thay 
+đổi trong chính sách kế toán?
+Không phát sinh tại VPBank.
+QUẢN TRỊ NGÂN HÀNG
+QUẢN TRỊ NGÂN HÀNG
+
+213
+BÁO CÁO THƯỜNG NIÊN 2025
+Trụ cột
+Mục tiêu
+Trọng tâm hành động
+Môi trường
+Kiểm soát dấu chân carbon, góp 
+phần hiện thực hóa mục tiêu Phát 
+thải ròng bằng “0” vào năm 2050
+•	 Giảm phát thải khí nhà kính trực tiếp bằng cách tối ưu hóa 
+Quản lý chất thải và sử dụng nguồn tài nguyên nhằm trong 
+vận hành.
+•	 Giảm phát thải khí nhà kính gián tiếp bao gồm quản lý rủi ro 
+môi trường, rủi ro khí hậu trong hoạt động cấp tín dụng và 
+trong chuỗi cung ứng.
+•	 Thúc đẩy tài chính xanh, tài chính bền vững và thị trường tín chỉ 
+carbon nhằm hướng tới mục tiêu tăng trưởng bền vững dài hạn.
+Xã hội
+Mang lại lợi ích bền vững cho các 
+bên liên quan bao gồm phát triển 
+toàn diện người lao động, nâng 
+cao trải nghiệm khách hàng, và 
+đóng góp giá trị tích cực cho cộng 
+đồng, xã hội.
+•	 Tăng trưởng tài chính xã hội và tài chính bền vững, hướng tới 
+việc tạo lập giá trị thịnh vượng song hành cùng lợi ích xã hội.
+•	 Quản lý rủi ro xã hội trong hoạt động cấp tín dụng và trong 
+chuỗi cung ứng; đảm bảo tính bền vững của dòng vốn.
+•	 Xây dựng và triển khai các chính sách quản trị đảm bảo sức khỏe 
+– an toàn, công bằng và bình đẳng, tôn trọng quyền con người.
+•	 Thúc đẩy Văn hóa doanh nghiệp, lan tỏa mạnh mẽ 5 giá trị 
+cốt lõi của người VPBank.
+•	 Tiên phong cung cấp đa dạng sản phẩm, dịch vụ tài chính 
+hiện đại, an toàn giúp nâng cao trải nghiệm khách hàng.
+•	 Tăng cường triển khai các chương trình, hoạt động trách 
+nhiệm xã hội góp phần lan tỏa những giá trị nhân văn và 
+thúc đẩy sự phát triển chung.
+Quản trị
+Đóng góp vào sự tăng trưởng bền 
+vững, không chỉ tập trung vào hiệu 
+quả tài chính mà còn chú trọng 
+đến các vần đề môi trường, xã hội, 
+và cam kết tuân thủ các quy định 
+pháp luật.
+•	 Thiết lập cơ chế quản trị công bằng, bảo vệ quyền lợi và gia 
+tăng giá trị bền vững cho cổ đông; đồng thời đảm bảo sự hài 
+hòa lợi ích giữa ngân hàng và khách hàng.
+•	 Chuẩn hóa các nguyên tắc quản trị doanh nghiệp, hệ thống 
+quản trị rủi ro theo các thông lệ quốc tế tiên tiến, trọng tâm 
+là việc tích hợp toàn diện các tiêu chuẩn ESG vào khung 
+quản trị rủi ro toàn hàng để tối ưu hóa hiệu quả kiểm soát.
+•	 Kiên định triết lý thượng tôn pháp luật, cam kết tuân thủ 
+nghiêm ngặt các quy định pháp luật và chuẩn mực đạo đức 
+nghề nghiệp cao nhất.
+•	 Đảm bảo tính minh bạch, toàn diện, kịp thời trong việc cung cấp 
+thông tin, từ đó đem lại lợi ích cao nhất cho các bên liên quan.
+BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
+Định hướng phát triển 
+bền vững
+Trong hành trình phát triển bền vững, VPBank đã xác định các mục tiêu và đưa 
+ra hành động cụ thể dựa trên 3 trụ cột: môi trường, xã hội và quản trị. VPBank 
+hướng đến mang lại thịnh vượng bền vững cho các bên hữu quan, bao gồm 
+khách hàng, cộng đồng, nhân viên và cổ đông.
+212
+BÁO CÁO THƯỜNG NIÊN 2025
+BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI

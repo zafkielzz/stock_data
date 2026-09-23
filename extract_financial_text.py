@@ -81,10 +81,14 @@ class FinancialReportExtractor:
         
         for pno in range(len(doc)):
             text = doc[pno].get_text()
-            if 'THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text.upper() or 'BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text.upper():
-                found_start = True
+            text_upper = text.upper()
+            if ('THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text_upper or 'BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text_upper) and not found_start:
+                # Bỏ qua các trang mục lục
+                is_toc = 'MỤC LỤC' in text_upper or ('NỘI DUNG' in text_upper and 'TRANG' in text_upper)
+                if not is_toc:
+                    found_start = True
             if found_start:
-                notes_pages.append(doc[pno].get_text().strip())
+                notes_pages.append(text.strip())
                 if len(notes_pages) >= max_pages:
                     break
                     

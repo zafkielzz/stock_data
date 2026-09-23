@@ -1,0 +1,11 @@
+Digitally signed by NGÂN HÀNG THNG MI C PHN CÔNG 
+THNG VIT NAM
+DN: C=VN, S=HÀ NI, L=Qun Hai Bà Trng, CN=NGÂN HÀNG 
+THNG MI C PHN CÔNG THNG VIT NAM, 
+OID.0.9.2342.19200300.100.1.1=MST:0100111948
+Reason: I am the author of this document
+Location: 
+Date: 2026-04-28 18:35:20
+NGÂN HÀNG THNG 
+MI C PHN CÔNG 
+THNG VIT NAM

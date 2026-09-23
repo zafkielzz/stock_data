@@ -36,51 +36,58 @@ CapstoneProject/
 │
 └── data/
     ├── processed/                   # ⭐ CÁC FILE DỮ LIỆU TỔNG HỢP (DÙNG ĐỂ GỬI BẠN BÈ / LOAD MODEL)
-    │   ├── all_stocks_prices.csv            # 71.886 dòng giá OHLCV 5 năm (3.8 MB) -> Gửi import DB
-    │   ├── all_stocks_prices.parquet        # Bản nén đọc siêu tốc cho PyTorch DataLoader (1.2 MB)
+    │   ├── all_stocks_prices.csv            # 91.908 dòng giá OHLCV từ 2019 đến 23/09/2026 (4.79 MB) -> Gửi import DB
+    │   ├── all_stocks_prices.parquet        # Bản nén đọc siêu tốc cho PyTorch DataLoader (1.45 MB)
     │   ├── all_stocks_ratios.csv            # Chỉ số tài chính quý (P/E, EPS, ROE, Margin...) (237 KB)
     │   ├── all_stocks_ratios.parquet        # Bản Parquet chỉ số BCTC (55 KB)
-    │   ├── all_stocks_financial_texts.csv   # Toàn bộ văn bản MD&A + THUYẾT MINH BCTC + ESG (>1.28M từ, 7.36 MB)
-    │   ├── all_stocks_financial_texts.parquet # Bản Parquet văn bản tài chính (3.24 MB)
+    │   ├── all_stocks_financial_texts.csv   # Toàn bộ văn bản BCTN 2021-2025 (>5.99M từ, 133 báo cáo, 35.49 MB)
+    │   ├── all_stocks_financial_texts.parquet # Bản Parquet văn bản tài chính (15.17 MB)
+    │   ├── all_stocks_quarterly_texts.csv   # Văn bản BCTC & Giải trình các quý lẻ năm 2026 (Q1 & Q2/2026)
+    │   ├── all_stocks_quarterly_texts.parquet # Bản Parquet văn bản quý lẻ 2026
     │   └── all_stocks_reports_meta.csv      # Metadata trạng thái thu thập tài liệu từng mã
     │
     ├── raw/                         # Dữ liệu thô từng mã riêng lẻ
-    │   ├── prices/                  # Từng file CSV giá OHLCV riêng của 48 mã (ACB.csv, FPT.csv, HPG.csv...)
+    │   ├── prices/                  # Từng file CSV giá OHLCV riêng của 48 mã (cập nhật đến 23/09/2026)
     │   └── ratios/                  # Từng file CSV chỉ số tài chính quý riêng của 48 mã
     │
     └── text/                        # Dữ liệu văn bản bóc tách
         ├── raw_pdf/                 # File PDF Báo cáo thường niên tải về (đã gitignore vì dung lượng lớn)
-        └── extracted_text/          # Các file .txt text thuần đã bóc tách:
-            ├── {TICKER}_2023_MDA.txt    # Báo cáo đánh giá của Ban Điều hành (MD&A)
-            ├── {TICKER}_2023_NOTES.txt  # Bản Thuyết minh Báo cáo tài chính (Segment, Vay nợ, Tồn kho...)
-            └── {TICKER}_2023_ESG.txt    # Báo cáo Phát triển bền vững / ESG
+        ├── quarterly_2026/          # Tài liệu BCTC & Giải trình quý lẻ năm hiện tại (2026)
+        └── extracted_text/          # Các file .txt text thuần đã bóc tách (2021 - 2025):
+            ├── {TICKER}_{YEAR}_MDA.txt    # Báo cáo đánh giá của Ban Điều hành (MD&A)
+            ├── {TICKER}_{YEAR}_NOTES.txt  # Bản Thuyết minh Báo cáo tài chính (Segment, Vay nợ, Tồn kho...)
+            └── {TICKER}_{YEAR}_ESG.txt    # Báo cáo Phát triển bền vững / ESG
 ```
 
 ---
 
 ## 📊 3. Chi tiết các File Dữ liệu Tổng hợp (`data/processed/`)
 
-### 3.1. `all_stocks_prices.csv` (Giá OHLCV hàng ngày)
-* **Số lượng bản ghi:** 71.886 dòng (từ 01/01/2019 đến 31/12/2024).
+### 3.1. `all_stocks_prices.csv` (Giá OHLCV hàng ngày đến ngày hôm nay)
+* **Số lượng bản ghi:** **91.908 dòng** (chuỗi giao dịch liên tục từ **01/01/2019 đến 23/09/2026**).
 * **Cấu trúc cột:**
   * `time`: Ngày giao dịch (`YYYY-MM-DD 07:00:00`)
-  * `open`, `high`, `low`, `close`: Giá mở cửa, cao nhất, thấp nhất, đóng cửa (đã điều chỉnh chia cổ tức).
+  * `open`, `high`, `low`, `close`: Giá mở cửa, cao nhất, thấp nhất, đóng cửa (đã điều chỉnh chia cổ tức, thưởng cổ phiếu và quyền mua).
   * `volume`: Khối lượng giao dịch khớp lệnh.
   * `ticker`: Mã cổ phiếu (`VCB`, `FPT`, `HPG`, `NVL`, `HAG`...).
 
 ### 3.2. `all_stocks_ratios.csv` (Chỉ số tài chính Quý)
-* **Số lượng:** Đầy đủ cho 48 mã theo từng quý.
+* **Số lượng:** Đầy đủ cho 48 mã theo từng quý trượt đến năm 2026.
 * **Các chỉ tiêu chính:** P/E, P/B, EPS, ROE, ROA, Net Margin, Biên lợi nhuận gộp, Hệ số thanh toán ngắn hạn, Tỷ lệ Nợ/Vốn chủ sở hữu (D/E)...
 
-### 3.3. `all_stocks_financial_texts.csv` (Văn bản Tài chính Đa thành phần)
-* **Quy mô:** Hơn **1.280.000 từ vựng** text thuần tiếng Việt chuẩn Unicode UTF-8 từ 24 tập đoàn kinh tế lớn.
+### 3.3. `all_stocks_financial_texts.csv` (Văn bản BCTN các năm đã khép sổ: 2021 – 2025)
+* **Quy mô:** **133 báo cáo BCTN** từ các tập đoàn lớn, tổng cộng **5.991.537 từ vựng** (gần 6 triệu từ) text thuần tiếng Việt chuẩn UTF-8.
 * **Cấu trúc cột:**
   * `ticker`: Mã cổ phiếu
-  * `year`: Năm báo cáo (`2023`)
-  * `notes_text`: **Toàn văn Bản Thuyết minh Báo cáo tài chính** (Báo cáo bộ phận mảng kinh doanh, chi tiết vay nợ ngân hàng, dự phòng giảm giá hàng tồn kho, nợ xấu, nợ tiềm tàng). Tổng: **684.622 từ**.
-  * `mda_text`: **Báo cáo của Ban Điều hành / Ban Tổng Giám đốc** (Đánh giá kết quả kinh doanh, phân tích nguyên nhân biến động, bối cảnh vĩ mô, rủi ro và định hướng). Tổng: **427.272 từ**.
-  * `esg_text`: **Báo cáo ESG** (Môi trường, xã hội, quản trị, phát thải khí nhà kính). Tổng: **168.000+ từ**.
+  * `year`: Năm báo cáo (`2021`, `2022`, `2023`, `2024`, `2025`)
+  * `notes_text`: **Toàn văn Bản Thuyết minh Báo cáo tài chính** (Báo cáo bộ phận, chi tiết nợ vay ngân hàng, dự phòng giảm giá hàng tồn kho, nợ xấu, nợ tiềm tàng). Tổng: **2.956.893 từ**.
+  * `mda_text`: **Báo cáo của Ban Điều hành / Ban Tổng Giám đốc** (Đánh giá kết quả kinh doanh, phân tích nguyên nhân biến động, bối cảnh vĩ mô, rủi ro và định hướng). Tổng: **2.323.257 từ**.
+  * `esg_text`: **Báo cáo ESG** (Môi trường, xã hội, quản trị, phát thải khí nhà kính). Tổng: **711.387 từ**.
   * `notes_words`, `mda_words`, `esg_words`: Thống kê số lượng từ.
+
+### 3.4. `all_stocks_quarterly_texts.csv` (Văn bản Báo cáo & Giải trình Quý lẻ năm 2026)
+* **Mục đích (Phương án A):** Bù đắp khoảng trống thông tin cho năm hiện tại (**2026**) khi chưa đến kỳ phát hành Báo cáo Thường niên (cuốn BCTN 2026 phải tới tháng 4/2027 mới ra mắt).
+* **Nội dung:** Văn bản tóm tắt tình hình hoạt động kinh doanh và thuyết minh của **Quý 1/2026 (Q1/2026)** và **Quý 2/2026 (Q2/2026)**.
 
 ---
 
@@ -216,38 +223,61 @@ COPY stock_prices FROM '/path/to/data/processed/all_stocks_prices.csv' WITH (FOR
 
 ---
 
-## 🛠️ 6. Checklist Những Thứ Còn Thiếu Cần Làm Thủ Công / Bổ Sung
+## 🛠️ 6. Checklist Những Thứ Còn Thiếu Cần Làm Thủ Công / Bổ Sung (Kèm Hướng Dẫn OCR)
 
-Dưới đây là các phần nhóm cần phối hợp hoàn thiện thủ công để bộ dữ liệu đạt 100% độ phủ:
+Dưới đây là các phần nhóm cần phối hợp hoàn thiện thủ công để bộ dữ liệu đạt 100% độ phủ tuyệt đối:
 
-### 1. Bổ sung Văn bản cho các mã bị "Scan PDF" (ACB, BID, SSI, VNM, DGC, FRT...)
-* **Thực trạng:** Trong 48 mã, khoảng 15–20 mã khi nộp tài liệu lên cổng thông tin là bản scan đóng dấu mộc đỏ (ảnh chụp), nên thuật toán bóc text layer tự động không lấy được chữ (file text ra 0 KB).
-* **2 Cách giải quyết:**
-  * **Cách A (Nhanh và Chuẩn nhất - KHÔNG CẦN OCR):**
-    1. Truy cập trực tiếp vào mục **Quan hệ Cổ đông (Investor Relations)** trên website chính thức của công ty (Ví dụ: `acb.com.vn`, `bidv.com.vn`, `vinamilk.com.vn`, `ssi.com.vn`).
-    2. Các tập đoàn này trên trang chủ luôn phát hành bản **Digital PDF chất lượng cao (hoặc file Word)** cho cổ đông và quỹ ngoại.
-    3. Mở file, copy phần *"Báo cáo của Ban Giám đốc"* và *"Thuyết minh BCTC"* rồi dán tương ứng vào:
-       * `data/text/extracted_text/{TICKER}_2023_MDA.txt`
-       * `data/text/extracted_text/{TICKER}_2023_NOTES.txt`
-  * **Cách B (Dùng OCR):**
-    Nếu bắt buộc dùng file scan:
-    * Dùng công cụ **VietOCR** hoặc tải file PDF lên **Google Drive -> Chuột phải -> Mở bằng Google Tài liệu (Google Docs)** để Google tự động OCR tiếng Việt miễn phí và cực kỳ chuẩn xác.
-    * Sau đó copy phần text thu được vào thư mục `data/text/extracted_text/`.
+### 1. Phân tích nguyên nhân các file `.txt` bị trống trong `data/text/extracted_text/`
+* **Kết quả chẩn đoán toàn diện trên 124 file PDF tải về:**
+  * **73.4% (91 files):** Là bản **Digital PDF chuẩn 100%** (có lớp vector ký tự, bóc tách ra văn bản sắc nét, đầy đủ).
+  * **7.3% (9 files):** Là bản **Lai (Mixed PDF)** (Nửa đầu Báo cáo Ban Giám đốc là chữ số hóa $\rightarrow$ file `_MDA.txt` có text; nhưng nửa sau BCTC kiểm toán lại là ảnh scan $\rightarrow$ file `_NOTES.txt` bị trống).
+  * **19.4% (24 files):** Là bản **Scan hoàn toàn bằng ảnh (Pure Scanned PDF)** (Doanh nghiệp in ra giấy, đóng dấu mộc đỏ pháp lý rồi scan lại thành file ảnh nộp lên Sở $\rightarrow$ Trình bóc tách text thấy 0 ký tự nên ghi ra file 0 bytes).
+* **Độ an toàn của tập Dataset:**
+  * Toàn bộ các file `.txt` bị trống **KHÔNG hề làm bẩn hay lỗi tập dữ liệu huấn luyện**.
+  * Pipeline tổng hợp [`download_and_extract_reports.py`](file:///home/zafkiel/Workspace/CapstoneProject/download_and_extract_reports.py) đã tích hợp bộ lọc tự động:
+    ```python
+    if len(mda_text) > 100 or len(notes_text) > 100 or len(esg_text) > 100:
+    ```
+    Nhờ đó, file tổng hợp [`all_stocks_financial_texts.csv`](file:///home/zafkiel/Workspace/CapstoneProject/data/processed/all_stocks_financial_texts.csv) chỉ giữ lại **133 bản ghi sạch với gần 6 triệu từ vựng**.
 
-### 2. Nhập điểm số định lượng ESG (E_score, S_score, G_score)
-* **Thực trạng:** Đề tài đã có văn bản thuyết minh ESG (`esg_text`), nhưng nhánh toán học $E_{esg}$ trong đồ án cần 3 số thực: Điểm E, Điểm S, Điểm G (thang điểm 0–100).
+### 2. Quy trình & Kế hoạch chạy OCR sau này (OCR Workflow)
+Khi bạn hoặc nhóm có thời gian muốn bù đắp các mã bị scan để đạt độ phủ 100%, hãy thực hiện theo quy trình sau:
+
+* **Danh sách các mã cần OCR:** `ACB`, `SSI`, `DGC`, `ITA`, `CII`, `VND`, `STB`, `PLX`...
+* **Các phương pháp thực hiện:**
+  * **Phương pháp 1 (Khuyên dùng - Nhanh nhất & KHÔNG CẦN OCR):**
+    1. Truy cập trực tiếp mục **Quan hệ Cổ đông (Investor Relations - IR)** trên website của công ty (Ví dụ: `acb.com.vn`, `ssi.com.vn`, `vinamilk.com.vn`).
+    2. Các tập đoàn này luôn đăng tải song song một bản **Digital PDF chất lượng cao** (để gửi quỹ ngoại và cổ đông).
+    3. Mở file, copy trực tiếp phần *"Báo cáo của Ban Giám đốc"* và *"Thuyết minh BCTC"*.
+  * **Phương pháp 2 (Dùng Google Docs OCR - Miễn phí & Chuẩn xác nhất cho tiếng Việt):**
+    1. Tải file PDF scan lên **Google Drive**.
+    2. Chuột phải vào file PDF $\rightarrow$ Chọn **Mở bằng Google Tài liệu (Google Docs)**.
+    3. Trí tuệ nhân tạo của Google Docs sẽ tự động nhận diện chữ tiếng Việt có dấu cực kỳ chuẩn xác và giữ nguyên các đoạn văn.
+  * **Phương pháp 3 (Dùng script Python OCR tự động):**
+    * Có thể dùng thư viện `vietocr` hoặc `paddleocr` để viết script chạy tự động qua các trang ảnh.
+* **Cách nạp kết quả OCR vào Dataset:**
+  1. Dán văn bản đã OCR tương ứng vào file:
+     * `data/text/extracted_text/{TICKER}_{YEAR}_MDA.txt`
+     * `data/text/extracted_text/{TICKER}_{YEAR}_NOTES.txt`
+  2. Chạy lại script tổng hợp:
+     ```bash
+     python download_and_extract_reports.py
+     ```
+     Hệ thống sẽ tự động quét lại các file text vừa có nội dung và tái biên dịch ra hai file tổng hợp [`all_stocks_financial_texts.csv`](file:///home/zafkiel/Workspace/CapstoneProject/data/processed/all_stocks_financial_texts.csv) và `.parquet`.
+
+### 3. Nhập điểm số định lượng ESG (E_score, S_score, G_score)
+* **Thực trạng:** Đề tài đã có văn bản thuyết minh ESG (`esg_text` với hơn 711.000 từ), nhưng nhánh toán học $E_{esg}$ trong đồ án cần 3 số thực: Điểm E, Điểm S, Điểm G (thang điểm 0–100).
 * **Cách thực hiện:**
   1. Tạo file CSV: `data/processed/esg_numerical_scores.csv`.
   2. Tra cứu điểm số công bố hàng năm trong rổ **VNSI (Chỉ số Phát triển Bền vững của Sở GDCK TP.HCM - HOSE)** hoặc bảng đánh giá phát triển bền vững trong Báo cáo thường niên của công ty.
   3. Cấu trúc bảng gồm 5 cột: `ticker`, `year`, `e_score`, `s_score`, `g_score`.
 
-### 3. Mở rộng dải năm (2021, 2022) nếu muốn thêm dữ liệu huấn luyện
-* Hiện tại dữ liệu giá OHLCV đã có trọn vẹn **5 năm (2019 – 2024)**. Dữ liệu văn bản đã có đầy đủ cho năm **2023**.
-* Nếu nhóm muốn mở rộng thêm văn bản các năm 2021 (thời kỳ Uptrend) và 2022 (thời kỳ Downtrend), chỉ cần chạy:
+### 4. Bổ sung Quý lẻ cho năm hiện tại 2026 (Phương án A)
+* Vì năm 2026 chưa kết thúc và chưa có BCTN, chúng ta đã chạy script:
   ```bash
-  python download_and_extract_reports.py
+  python download_quarterly_explanations_2026.py
   ```
-  *(Chỉnh sửa tham số `years=[2023, 2022, 2021]` trong script để tự động tải thêm).*
+  Để tự động thu thập các văn bản báo cáo & giải trình của **Quý 1/2026 và Quý 2/2026** vào file tổng hợp [`all_stocks_quarterly_texts.csv`](file:///home/zafkiel/Workspace/CapstoneProject/data/processed/all_stocks_quarterly_texts.csv).
 
 ---
 
@@ -262,9 +292,13 @@ conda activate capstone
   ```bash
   python download_market_data.py
   ```
-* **Tải và bóc tách Báo cáo thường niên (MD&A, Thuyết minh, ESG):**
+* **Tải và bóc tách Báo cáo thường niên (MD&A, Thuyết minh, ESG) các năm 2021 - 2025:**
   ```bash
   python download_and_extract_reports.py
+  ```
+* **Thu thập BCTC & Văn bản giải trình các quý lẻ năm 2026 (Phương án A):**
+  ```bash
+  python download_quarterly_explanations_2026.py
   ```
 * **Kiểm tra trích xuất text 1 file PDF bất kỳ:**
   ```bash

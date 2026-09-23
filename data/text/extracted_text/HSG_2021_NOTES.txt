@@ -1,0 +1,7483 @@
+BÁO CÁO TÀI CHÍNH RIÊNG
+12
+(b) Cơ sở đo lường
+ 
+Báo cáo tài chính riêng, trừ báo cáo lưu chuyển tiền tệ riêng, được lập trên cơ sở dồn tích theo nguyên tắc 
+giá gốc. Báo cáo lưu chuyển tiền tệ riêng được lập theo phương pháp gián tiếp.
+(c) Kỳ kế toán năm
+ 
+Kỳ kế toán năm của Công ty từ ngày 1 tháng 10 đến ngày 30 tháng 9 năm sau.
+(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính
+ 
+Đơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng cho mục 
+đích lập và trình bày báo cáo tài chính. 
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU 
+ 
+Sau đây là những chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính riêng này.
+(a) Các giao dịch bằng ngoại tệ
+ 
+Các giao dịch bằng các đơn vị tiền khác VND trong năm được quy đổi sang VND theo tỷ giá thực tế tại ngày 
+giao dịch.
+ 
+Các khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND lần lượt 
+theo tỷ giá mua chuyển khoản và bán chuyển khoản của ngân hàng thương mại nơi Công ty thường xuyên 
+có giao dịch tại ngày kết thúc kỳ kế toán năm.
+ 
+Tất cả các khoản chênh lệch tỷ giá được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng.
+(b) Tiền và các khoản tương đương tiền
+ 
+Tiền bao gồm tiền mặt và tiền gửi không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn 
+có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về 
+thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích 
+đầu tư hay là các mục đích khác.
+(c) Các khoản đầu tư
+(i) Đầu tư nắm giữ đến ngày đáo hạn
+ 
+Đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc Công ty dự định và có khả 
+năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn và 
+trái phiếu ngân hàng. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+11
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+ 
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính riêng đính kèm.
+1. ĐƠN VỊ BÁO CÁO
+(a) Hình thức sở hữu vốn
+ 
+Công ty Cổ phần Tập đoàn Hoa Sen (“Công ty”) là công ty cổ phần được thành lập tại Việt Nam.
+ 
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã chứng 
+khoán là “HSG” theo Quyết định Niêm yết số 117/QĐ-SGDHCM do Sở Giao dịch Chứng khoán Thành phố 
+Hồ Chí Minh cấp ngày 5 tháng 11 năm 2008.
+(b) Hoạt động chính
+ 
+Hoạt động chính của Công ty là sản xuất tấm lợp bằng thép mạ kẽm, hợp kim nhôm kẽm, mạ kẽm phủ sơn, 
+và mạ các loại hợp kim khác; sản xuất xà gồ thép, xà gồ mạ kẽm; sản xuất ống thép đen, ống thép mạ kẽm, 
+ống thép mạ các loại hợp kim khác; sản xuất lưới thép mạ, dây thép mạ kẽm, dây thép các loại; mua bán 
+vật liệu xây dựng, tư liệu sản xuất và hàng tiêu dùng; dịch vụ cho thuê kho và vận tải hàng hóa; xây dựng 
+công nghiệp và dân dụng; sản xuất thép cán nguội dạng cuộn và cho thuê máy móc, thiết bị và đồ dùng hữu 
+hình khác.
+(c) Chu kỳ sản xuất kinh doanh thông thường 
+ 
+Chu kỳ sản xuất kinh doanh thông thường của Công ty nằm trong phạm vi 12 tháng.
+(d) Cấu trúc Công ty
+ 
+Tại ngày 30 tháng 9 năm 2021, Công ty có 9 công ty con và 1 công ty liên kết (1/10/2020: 10 công ty con 
+và 1 công ty liên kết) được liệt kê trong Thuyết minh 15(b).
+ 
+Tại ngày 30 tháng 9 năm 2021, Công ty có 5.254 nhân viên (1/10/2020: 4.915 nhân viên)
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
+(a) Tuyên bố về tuân thủ
+ 
+Báo cáo tài chính riêng được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt 
+Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Công ty cũng lập và 
+phát hành báo cáo tài chính hợp nhất. Để hiểu tổng quát tình hình tài chính hợp nhất của Công ty, kết quả hoạt 
+động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất, báo cáo tài chính riêng này cần được đọc đồng thời 
+với báo cáo tài chính hợp nhất của Công ty.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+14
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+(ii) Khấu hao 
+ 
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định 
+hữu hình. Thời gian hữu dụng ước tính như sau:
+ 
+• Nhà cửa, vật kiến trúc 
+5 – 50 năm
+ 
+• Máy móc và thiết bị 
+3 – 10 năm
+ 
+• Phương tiện vận chuyển 
+2 – 10 năm
+ 
+• Thiết bị văn phòng 
+3 – 10 năm
+ 
+• Tài sản khác 
+3 – 8 năm
+(g) Tài sản cố định vô hình
+(i) Quyền sử dụng đất
+ 
+Quyền sử dụng đất được thể hiện theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá ban đầu của quyền 
+sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp tới việc có được quyền sử dụng đất. Quyền sử 
+dụng đất có thời hạn xác định được khấu hao theo phương pháp đường thẳng trong thời hạn sử dụng là từ 14 
+đến 55 năm. Quyền sử dụng đất vô thời hạn không được khấu hao.
+(ii) Phần mềm máy vi tính
+ 
+Giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng 
+có liên quan thì được vốn hoá và hạch toán như tài sản cố định vô hình. Phần mềm máy vi tính được khấu hao 
+theo phương pháp đường thẳng trong vòng 3 đến 6 năm.
+(h) Xây dựng cơ bản dở dang
+ 
+Xây dựng cơ bản dở dang phản ánh các khoản chi cho xây dựng hoặc triển khai tài sản cố định hữu hình và 
+tài sản cố định vô hình chưa hoàn thành hoặc chưa lắp đặt xong. Không tính khấu hao cho xây dựng cơ bản 
+dở dang trong quá trình xây dựng và lắp đặt.
+(i) Chi phí trả trước dài hạn
+(i) Bảng hiệu quảng cáo
+ 
+Bảng hiệu quảng cáo được ghi nhận theo nguyên giá và phân bổ theo phương pháp đường thẳng trong thời 
+gian từ 2 đến 3 năm.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+13
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+(ii) Đầu tư vào các công ty con và các công ty liên kết
+ 
+Cho mục đích của báo cáo tài chính riêng này, các khoản đầu tư vào công ty con và công ty liên kết được ghi 
+nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban 
+đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư. Dự phòng 
+giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ dẫn đến Công ty có khả năng mất vốn, trừ khi 
+có bằng chứng rằng giá trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá đầu tư được hoàn nhập 
+khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. 
+Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của khoản đầu tư không vượt quá 
+giá trị ghi sổ của các khoản đầu tư này khi giả định không có khoản dự phòng nào đã được ghi nhận.
+(d) Các khoản phải thu
+ 
+Các khoản phải thu khách hàng và các khoản phải thu khác được phản ánh theo giá gốc trừ đi dự phòng 
+phải thu khó đòi.
+(e) Hàng tồn kho
+ 
+Hàng tồn kho được phản ánh theo giá trị thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá 
+gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được 
+hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với thành phẩm và chi phí sản xuất kinh doanh dở dang, 
+giá gốc bao gồm nguyên vật liệu, chi phí nhân công trực tiếp và các chi phí sản xuất chung được phân bổ. 
+Giá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước 
+tính để hoàn thành sản phẩm và các chi phí ước tính để bán sản phẩm.
+ 
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+(f) Tài sản cố định hữu hình
+(i) Nguyên giá
+ 
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản 
+cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên 
+quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến, và chi phí 
+để tháo dỡ, di dời tài sản và khôi phục hiện trường tại địa điểm đặt tài sản. Các chi phí phát sinh sau khi 
+tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận 
+vào báo cáo kết quả hoạt động kinh doanh riêng trong kỳ mà chi phí phát sinh. Trong các trường hợp có 
+thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính 
+thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban 
+đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+16
+(l) Vốn cổ phần
+(i) Cổ phiếu phổ thông
+ 
+Cổ phiếu phổ thông được ghi nhận theo mệnh giá. 
+(ii) Thặng dư vốn cổ phần
+ 
+Khi nhận được tiền mua cổ phiếu từ các cổ đông, chênh lệch giữa giá phát hành và mệnh giá cổ phiếu được 
+ghi nhận vào tài khoản thặng dư vốn cổ phần trong vốn chủ sở hữu. Các chi phí phát sinh liên quan trực tiếp 
+đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế được ghi giảm thặng dư vốn cổ phần.
+(iii) Mua lại và phát hành lại cổ phiếu phổ thông (cổ phiếu quỹ)
+ 
+Trước ngày 1 tháng 1 năm 2021
+ 
+Khi mua lại cổ phiếu đã được ghi nhận là vốn chủ sở hữu, giá trị khoản thanh toán bao gồm các chi phí liên 
+quan trực tiếp, trừ đi thuế, được ghi giảm vào vốn chủ sở hữu. Cổ phiếu đã mua lại được phân loại là cổ 
+phiếu quỹ trong phần vốn chủ sở hữu. Khi cổ phiếu quỹ được bán ra sau đó (phát hành lại), giá vốn của cổ 
+phiếu phát hành lại được xác định theo phương pháp bình quân gia quyền. Chênh lệch giữa giá trị khoản 
+nhận được và giá vốn của cổ phiếu phát hành lại được trình bày trong thặng dư vốn cổ phần.
+ 
+Từ ngày 1 tháng 1 năm 2021
+ 
+Cổ phiếu quỹ chỉ được ghi nhận đối với việc mua lại các cổ phiếu lẻ phát sinh khi phát hành cổ phiếu để trả 
+cổ tức hoặc phát hành cổ phiếu từ nguồn vốn chủ sở hữu theo phương án đã được thông qua, hoặc mua lại 
+cổ phiếu lô lẻ theo yêu cầu của cổ đông. Cổ phiếu lẻ là cổ phiếu đại diện cho phần vốn cổ phần hình thành 
+do gộp các phần lẻ cổ phần chia theo tỉ lệ cho nhà đầu tư. Trong tất cả các trường hợp khác, khi mua lại cổ 
+phiếu mà trước đó đã được ghi nhận là vốn chủ sở hữu, mệnh giá của các cổ phiếu mua lại phải được ghi 
+giảm trừ vào vốn cổ phần. Chênh lệch giữa mệnh giá của cổ phiếu mua lại và giá trị khoản thanh toán bao 
+gồm các chi phí liên quan trực tiếp, trừ đi thuế, được ghi nhận vào thặng dư vốn cổ phần.
+ 
+Thay đổi chính sách kế toán này được áp dụng phi hồi tố từ ngày 1 tháng 1 năm 2021 do các thay đổi trong 
+các quy định pháp luật áp dụng đối với việc mua lại cổ phiếu.
+(m) Thuế
+ 
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ của năm bao gồm thuế thu nhập hiện hành và thuế 
+thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh 
+ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng vào vốn 
+chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+15
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+(ii) Công cụ và dụng cụ
+ 
+Công cụ và dụng cụ bao gồm các tài sản Công ty nắm giữ để sử dụng trong quá trình hoạt động kinh doanh 
+bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện ghi nhận 
+là tài sản cố định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương 
+pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+(iii) Chi phí thuê
+ 
+Chi phí thuê bao gồm tiền thuê kho trả trước cho việc sử dụng kho trong quá trình hoạt động sản xuất kinh 
+doanh của Công ty và được ghi nhận ban đầu theo giá gốc. Chi phí thuê được phân bổ theo phương pháp 
+đường thẳng trong thời gian trả trước theo hợp đồng thuê từ 2 đến 3 năm.
+(iv)  Chi phí sửa chữa
+ 
+Chi phí sửa chữa tài sản cố định phản ánh chi phí sửa chữa và thay thế máy móc, thiết bị và các tài sản cố 
+định khác nhưng không thỏa mãn điều kiện vốn hóa vào giá trị tài sản cố định. Chi phí sửa chữa được ghi 
+nhận ban đầu theo giá gốc và được phân bổ theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+(j) Các khoản phải trả người bán và các khoản phải trả khác
+ 
+Phải trả người bán và các khoản phải trả khác thể hiện theo giá gốc.
+(k) Dự phòng
+ 
+Một khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Công ty có nghĩa vụ 
+pháp lý hiện tại hoặc liên đới có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm sút các lợi 
+ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác 
+định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phản ánh 
+đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
+ 
+Dự phòng trợ cấp thôi việc
+ 
+Theo Bộ luật Lao động Việt Nam, khi nhân viên làm việc cho công ty từ 12 tháng trở lên (“nhân viên đủ điều 
+kiện”) tự nguyện chấm dứt hợp đồng lao động của mình thì bên sử dụng lao động phải thanh toán tiền trợ 
+cấp thôi việc cho nhân viên đó tính dựa trên số năm làm việc và mức lương tại thời điểm thôi việc của nhân 
+viên đó. Dự phòng trợ cấp thôi việc được lập trên cơ sở số năm nhân viên làm việc cho Công ty và mức lương 
+bình quân của họ trong vòng sáu tháng trước ngày kết thúc kỳ kế toán. Cho mục đích xác định số năm làm 
+việc của nhân viên, thời gian nhân viên đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và 
+thời gian làm việc đã được Công ty chi trả trợ cấp thôi việc được loại trừ.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+18
+(o) Thuê tài sản (tiếp theo)
+(i) 
+Tài sản thuê (tiếp theo)
+ 
+Khấu hao của tài sản thuê tài chính được hạch toán theo phương pháp đường thẳng dựa trên thời gian ngắn 
+hơn giữa thời hạn thuê và thời gian hữu dụng ước tính của tài sản thuê tài chính trừ khi chắc chắn là Công ty 
+sẽ có quyền sở hữu tài sản khi hết hạn hợp đồng thuê. Thời gian hữu dụng ước tính của tài sản thuê tài chính 
+nhất quán với tài sản cố định hữu hình được nêu trong phần chính sách kế toán 3(f).
+ 
+Các tài sản thuê theo các hợp đồng thuê khác được phân loại là thuê hoạt động và không được ghi nhận 
+trên bảng cân đối kế toán riêng của Công ty.
+(ii) 
+Các khoản thanh toán tiền thuê
+ 
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng 
+theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê đã nhận 
+được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng như là một bộ phận hợp thành của tổng 
+chi phí thuê, trong suốt thời hạn thuê.
+ 
+Các khoản thanh toán tiền thuê tài sản thuê tài chính được chia tách thành chi phí tài chính và khoản trả nợ 
+gốc. Chi phí tài chính phải được tính theo từng kỳ kế toán trong suốt thời hạn thuê để đạt tới một tỷ lệ lãi suất 
+định kỳ cố định trên số dư nợ còn lại.
+(p) Chi phí đi vay 
+ 
+Chi phí đi vay được ghi nhận là một chi phí trong kỳ khi chi phí này phát sinh, ngoại trừ trường hợp chi phí 
+đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì 
+khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
+(q) Báo cáo bộ phận
+ 
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản 
+phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc 
+dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và 
+thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận cơ bản của Công ty là dựa theo bộ 
+phận chia theo hoạt động kinh doanh.
+(r) Các bên liên quan
+ 
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát 
+bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc 
+khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có 
+thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được 
+coi là liên quan.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+17
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+(m) Thuế (tiếp theo)
+ 
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các 
+mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan 
+đến những năm trước.
+ 
+Thuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm thời giữa 
+giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục 
+tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi 
+hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu 
+lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+ 
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong 
+tương lai để chênh lệch tạm thời này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong 
+phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+(n) Doanh thu và thu nhập khác
+(i) Doanh thu bán hàng
+ 
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phần lớn rủi ro 
+và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá được chuyển giao cho người mua. Doanh thu 
+không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các 
+khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu hàng bán được ghi nhận theo giá 
+trị thuần sau khi đã trừ đi các khoản chiết khấu giảm giá trên hóa đơn bán hàng.
+(ii) Thu nhập lãi tiền gửi
+ 
+Thu nhập lãi tiền gửi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+(iii) Thu nhập cổ tức
+ 
+Thu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập.
+(o) Thuê tài sản
+(i) Tài sản thuê
+ 
+Các hợp đồng thuê được phân loại là thuê tài chính nếu theo các điều khoản của hợp đồng, Công ty, với tư 
+cách là bên thuê, đã nhận phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu. Tài sản cố định hữu hình dưới 
+hình thức thuê tài chính được thể hiện bằng số thấp hơn giữa giá trị hợp lý của tài sản cố định và giá trị hiện 
+tại của các khoản tiền thuê tối thiểu, tính tại thời điểm bắt đầu thuê, trừ đi giá trị hao mòn lũy kế.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+20
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+(a) Phải thu của khách hàng chi tiết theo khách hàng lớn 
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty TNHH Một Thành Viên Hoa Sen Nghệ An
+1.598.748.271.511
+609.698.769.472
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội
+- Bình Định
+1.487.196.033.900
+1.422.755.855.210
+Công ty TNHH Một Thành Viên Tôn Hoa Sen
+873.525.603.746
+649.390.077.771
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng
+Hoa Sen
+758.704.667.548
+606.455.682.416
+Các khách hàng khác
+4.617.266.368.495
+1.924.442.273.354
+9.335.440.945.200
+5.212.742.658.223
+Tại ngày 30 tháng 9 năm 2021, phải thu của khách hàng có giá trị ghi sổ là 570.000 triệu VND và phải thu 
+phát sinh từ bộ chứng từ thanh toán xuất khẩu có giá trị 2.300.000 triệu VND (1/10/2020: 570.000 triệu 
+VND phải thu và 2.300.000 triệu VND phải thu phát sinh từ bộ chứng từ thanh toán xuất khẩu) được thế chấp 
+tại ngân hàng để đảm bảo cho các khoản vay của Công ty (Thuyết minh 23).
+5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+30/9/2021
+VND
+1/10/2020
+VND
+Tiền mặt
+13.617.648.701
+37.746.780.451
+Tiền gửi ngân hàng
+391.480.006.937
+441.692.185.884
+Tiền đang chuyển
+169.483.779
+7.978.560
+Các khoản tương đương tiền (*)
+750.000.000
+750.000.000
+406.017.139.417
+480.196.944.895
+(*) 
+Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn tại các ngân hàng với thời gian đáo hạn 
+không quá 3 tháng kể từ ngày gửi và hưởng lãi suất năm là từ 3% đến 3,3% (1/10/2020: 3,5% đến 4,0%).
+19
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(s) Thông tin so sánh
+ 
+Thông tin so sánh trong báo cáo tài chính riêng này được trình bày dưới dạng dữ liệu tương ứng. Theo phương 
+pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của báo cáo 
+tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của năm hiện tại. 
+Theo đó, thông tin so sánh trong báo cáo tài chính riêng này không nhằm mục đích trình bày về tình hình tài 
+chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ riêng của Công ty trong năm trước.
+4. BÁO CÁO BỘ PHẬN
+(a) Bộ phận chia theo hoạt động kinh doanh
+ 
+Hoạt động kinh doanh chính của Công ty là mua bán tấm lợp bằng thép, ống thép, vật liệu xây dựng. Hoạt 
+động khác là cho thuê tài sản và cung cấp dịch vụ. Trong năm, hoạt động khác chiếm tỷ trọng không đáng 
+kể trong tổng doanh thu và kết quả hoạt động kinh doanh trước hợp nhất của Công ty, theo đó thông tin tài 
+chính trình bày trên bảng cân đối kế toán riêng tại ngày 30 tháng 9 năm 2021 và ngày 1 tháng 10 năm 
+2020 và toàn bộ doanh thu, chi phí trình bày trên báo cáo kết quả hoạt động kinh doanh riêng cho năm 
+kết thúc ngày 30 tháng 9 năm 2021 và ngày 30 tháng 9 năm 2020 chủ yếu liên quan đến hoạt động kinh 
+doanh chính của Công ty.
+(b) Bộ phận chia theo khu vực địa lý
+ 
+Bộ phận chia theo khu vực địa lý của Công ty dựa vào vị trí địa lý của khách hàng như sau:
+Bộ phận chia theo khu vực địa lý
+Trong nước
+VND
+Nước ngoài
+VND
+Tổng
+VND
+Năm kết thúc ngày
+30 tháng 9 năm 2021
+Doanh thu
+57.968.328.131.963
+28.298.680.302.469
+86.267.008.434.432
+Giá vốn
+(54.931.238.317.407)
+(25.569.490.108.878)
+(80.500.728.426.285)
+3.037.089.814.556
+2.729.190.193.591
+5.766.280.008.147
+Năm kết thúc ngày 
+30 tháng 9 năm 2020
+Doanh thu
+34.982.290.211.381
+9.970.568.818.648
+44.952.859.030.029
+Giá vốn
+(32.656.090.830.938)
+(9.473.928.942.454)
+(42.130.019.773.392)
+2.326.199.380.443
+496.639.876.194
+2.822.839.256.637
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+22
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(c) Nợ xấu và nợ khó đòi
+ 
+30/9/2021
+1/10/2020
+Số ngày
+quá hạn
+Giá gốc
+VND
+Dự phòng
+VND
+Giá trị 
+có thể
+thu hồi
+VND
+Số ngày
+quá hạn
+Giá gốc
+VND
+Dự phòng
+VND
+Giá trị 
+có thể
+thu hồi
+VND
+Nợ quá hạn 
+Công ty Cổ Phần Tư Vấn Thương 
+Mại Xây Dựng Mê Kông
+3 – 4 năm
+1.648.743.436
+(1.648.743.436)
+- 2 – 3 năm
+1.648.743.436
+(1.648.743.436)
+-
+Công ty TNHH Hải Thuỷ
+Trên
+2 năm
+1.545.000.625
+(1.545.000.625)
+-
+Trên
+1 năm
+1.545.000.625
+(1.545.000.625)
+-
+Công ty TNHH Thép Xây Dựng 
+Hiệp Loan
+Trên
+2 năm
+1.243.508.106
+(1.243.508.106)
+-
+Trên 1 
+năm
+1.243.508.106
+(1.243.508.106)
+-
+Công ty TNHH Một Thành Viên Sản 
+Xuất Và Thương Mại Phúc Đức  
+-
+-
+-
+Trên 
+6 tháng
+1.096.410.095
+(1.096.410.095)
+-
+Doanh nghiệp tư nhân
+Hoàng Thái
+Trên
+2 năm
+1.023.359.294
+(1.023.359.294)
+-
+Trên
+1 năm
+1.023.359.294
+(1.023.359.294)
+-
+Công ty Thương Mại, Dịch Vụ Và 
+Xây Dựng Yên Mai (TNHH)
+-
+-
+-
+Trên 
+6 tháng
+839.518.227
+(839.518.227)
+-
+Công ty TNHH Thương Mại & 
+Sản Xuất Toàn Phát HN
+-
+-
+-
+6 tháng
+– 1 năm
+1.426.131.048
+(1.426.131.048)
+-
+Các khách hàng khác
+8.270.673.128
+(8.270.673.128)
+-
+13.754.357.669
+(13.754.357.669)
+-
+13.731.284.589
+(13.731.284.589)
+-
+22.577.028.500
+(22.577.028.500)
+-
+21
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)
+(b) Phải thu của khách hàng là các bên liên quan
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+Công ty TNHH Một Thành Viên Hoa Sen Nghệ An
+1.598.748.271.511
+609.698.769.472
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội
+- Bình Định
+1.487.196.033.900
+1.422.755.855.210
+Công ty TNHH Một Thành Viên Tôn Hoa Sen
+873.525.603.746
+649.390.077.771
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen
+758.704.667.548
+606.455.682.416
+Công ty TNHH Một Thành Viên Hoa Sen Phú Mỹ
+394.820.399.043
+314.686.249.805
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+15.348.017.868
+-
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+14.827.184.790
+36.010.152.572
+Công ty TNHH MTV Vật Liệu Xây Dựng Hoa Sen Yên Bái
+171.241.122
+-
+Công ty thuộc sở hữu của Chủ tịch Công ty
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+-
+34.749.020
+Khoản phải thu thương mại từ các bên liên quan không có đảm bảo, không hưởng lãi và có thời hạn hoàn trả là 
+365 ngày kể từ ngày ghi trên hóa đơn cho các công ty con và 45 ngày kể từ ngày ghi trên hóa đơn cho công 
+ty thuộc sở hữu của Chủ tịch Công ty.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+24
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+8. PHẢI THU VỀ CHO VAY (TIẾP THEO)
+(b) Phải thu về cho vay dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Phải thu về cho vay từ Công ty Cổ phần Hoa Sen Yên Bái
+– công ty con (*)
+-
+167.286.721.457
+Phải thu về cho vay từ Công ty Cổ phần Đầu tư Hạ tầng 
+Khu Công nghiệp Hoa Sen Du Long – công ty con (**)
+-
+45.569.284.900
+-
+212.856.006.357
+(*) 
+Khoản cho vay này không được đảm bảo, có kỳ hạn gốc 24 tháng và hưởng lãi suất năm là 8% 
+(1/10/2020: 8%).
+(**)  Khoản cho vay này không được đảm bảo, có kỳ hạn gốc 24 tháng và hưởng lãi suất năm là 8% (1/10/2020: 8%).
+ 
+Trong năm, Công ty đã chuyển đổi khoản phải thu về cho vay dài hạn thành khoản đầu tư vào 2 công ty 
+con là Công ty Cổ phần Hoa Sen Yên Bái và Công ty Cổ phần Đầu tư Hạ tầng Khu Công nghiệp Hoa Sen 
+Du Long với giá trị lần lượt là 176.187 triệu VND và 64.995 triệu VND.
+9. PHẢI THU KHÁC
+(a) Phải thu ngắn hạn khác
+30/9/2021
+VND
+1/10/2020
+VND
+Phải thu về lợi nhuận được chia
+2.313.430.131.015
+795.208.077.723
+Tạm ứng để mua đất
+45.462.225.000
+45.462.225.000
+Ký quỹ, ký cược ngắn hạn và đặt cọc thuê mặt bằng
+36.503.545.800
+41.728.445.800
+Tạm ứng cho người lao động
+34.618.799.195
+41.550.758.590
+Phải thu từ chuyển nhượng quyền sử dụng đất
+12.818.775.000
+12.818.775.000
+Phải thu lãi tiền gửi và cho vay
+-
+17.516.531.729
+Phải thu khác
+6.492.668.271
+8.344.560.668
+2.449.326.144.281
+962.629.374.510
+23
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Biến động dự phòng phải thu khó đòi trong năm như sau: 
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+22.577.028.500
+8.634.346.424
+Dự phòng trích lập trong năm
+435.523.000
+16.809.639.086
+Dự phòng hoàn nhập trong năm
+(9.281.266.911)
+(2.866.957.010)
+Số dư cuối năm
+13.731.284.589
+22.577.028.500
+7. TRẢ TRƯỚC CHO NGƯỜI BÁN
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+26.739.999.215
+-
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội 
+- Bình Định 
+87.124.757
+469.909.029
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+-
+4.995.423.582
+Bên thứ ba
+Xí nghiệp Phân phối khí thấp áp Vũng Tàu
+9.000.000.000
+11.105.788.618
+Chi Nhánh Công ty TNHH Thép Hòa Phát Hưng Yên Tại
+Bình Dương
+10.183.555
+21.469.960.714
+Các nhà cung cấp khác
+23.407.419.395
+14.984.030.242
+59.244.726.922
+53.025.112.185
+8. PHẢI THU VỀ CHO VAY
+(a) Phải thu về cho vay ngắn hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Phải thu về cho vay từ Công ty Cổ phần Hoa Sen Yên Bái
+– công ty con
+68.000.000.00
+-
+Khoản cho vay này không được đảm bảo, có kỳ hạn gốc 12 tháng và hưởng lãi suất năm là 4%.
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+26
+10. HÀNG TỒN KHO
+30/9/2021
+1/10/2020
+Giá gốc
+VND
+Dự phòng
+VND
+Giá gốc
+VND
+Dự phòng
+VND
+Hàng mua đang đi 
+trên đường
+948.952.756.883
+-
+1.074.363.397.517
+-
+Nguyên vật liệu
+1.392.865.556.357
+(18.837.869.618)
+262.088.540.692
+(12.427.170.038)
+Công cụ và dụng cụ
+164.573.666.041
+-
+160.536.427.953
+-
+Thành phẩm
+1.542.494.461.325
+(52.327.014.685)
+683.530.539.971
+(10.057.583.911)
+Hàng hóa
+2.415.892.279.736
+(9.293.198.283)
+841.068.441.031
+(2.053.111.327)
+6.464.778.720.342
+(80.458.082.586)
+3.021.587.347.164
+(24.537.865.276)
+Tại ngày 30 tháng 9 năm 2021, hàng tồn kho có giá trị ghi sổ là 4.772.185 triệu VND (1/10/2020: 
+1.478.039 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Công ty (Thuyết minh 23).
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+24.537.865.276
+30.286.414.827
+Dự phòng trích lập trong năm
+55.920.217.310
+-
+Dự phòng hoàn nhập trong năm
+-
+(5.748.549.551)
+Số dư cuối năm
+80.458.082.586
+24.537.865.276
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+25
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(a) Phải thu ngắn hạn khác (tiếp theo)
+Phải thu ngắn hạn khác từ các bên liên quan
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+Công ty TNHH Một Thành Viên Hoa Sen Nghệ An
+946.725.035.692
+514.874.175.062
+Công ty TNHH MTV Hoa Sen Nhơn Hội - Bình Định
+756.039.601.281
+-
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen
+248.393.361.872
+232.711.670.069
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+156.020.916.359
+27.450.000
+Công ty TNHH Một Thành Viên Tôn Hoa Sen
+120.808.132.718
+12.308.639.166
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+69.057.496.793
+35.488.493.426
+Công ty TNHH MTV Vật Liệu Xây Dựng Hoa Sen Yên Bái
+16.444.286.300
+-
+Công ty Cổ phần Hoa Sen Yên Bái
+-
+15.011.988.771
+Công ty Cổ phần Đầu tư Hạ tầng Khu Công Nghiệp Hoa 
+Sen Du Long
+-
+2.504.542.958
+Công ty thuộc sở hữu của Chủ tịch Công ty
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+1.470.000.000
+2.059.900.000
+Nhân sự chủ chốt
+Ông Hoàng Đức Huy - Phó Tổng Giám đốc
+45.462.225.000
+45.462.225.000
+Các khoản phải thu phi thương mại từ bên liên quan không có đảm bảo, không hưởng lãi và được hoàn trả khi có 
+yêu cầu.
+(b) Phải thu dài hạn khác
+30/9/2021
+VND
+1/10/2020
+VND
+Đặt cọc thuê mặt bằng
+178.887.837.400
+181.758.529.000
+Phải thu khác
+-
+266.000.000
+178.887.837.400
+182.024.529.000
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+28
+Trong tài sản cố định hữu hình có các tài sản với nguyên giá 1.063.778 triệu VND đã khấu hao hết tại ngày 30 tháng 9 
+năm 2021 (1/10/2020: 727.763 triệu VND), nhưng vẫn đang được sử dụng.
+Tại ngày 30 tháng 9 năm 2021, tài sản cố định hữu hình có giá trị còn lại là 293.060 triệu VND (1/10/2020: 395.303 
+triệu VND) được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Công ty (Thuyết minh 23).
+12. TÀI SẢN CỐ ĐỊNH HỮU HÌNH THUÊ TÀI CHÍNH
+Máy móc 
+và thiết bị
+VND
+Phương tiện 
+vận chuyển
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+13.389.448.333
+9.560.000.000
+22.949.448.333
+Chuyển sang tài sản cố định hữu hình
+(13.389.448.333)
+(9.560.000.000)
+(22.949.448.333)
+Số dư cuối năm
+-
+-
+-
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+2.579.925.881
+1.818.341.410
+4.398.267.291
+Khấu hao trong năm
+570.040.768
+493.975.651
+1.064.016.419
+Chuyển sang tài sản cố định hữu hình
+(3.149.966.649)
+(2.312.317.061)
+(5.462.283.710)
+Số dư cuối năm
+-
+-
+-
+Giá trị còn lại
+Số dư đầu năm
+10.809.522.452
+7.741.658.590
+18.551.181.042
+Số dư cuối năm
+-
+-
+-
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+27
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+11. TÀI SẢN CỐ ĐỊNH HỮU HÌNH
+ 
+Nhà cửa, 
+vật kiến trúc 
+VND
+ Máy móc 
+và thiết bị
+VND
+Phương tiện 
+vận chuyển
+VND
+Thiết bị 
+văn phòng
+VND
+Tài sản khác 
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+484.406.352.732
+2.523.902.329.811
+286.843.639.080
+76.375.572.729
+20.737.819.422
+3.392.265.713.774
+Tăng trong năm
+-
+54.215.834.479
+1.207.586.364
+-
+-
+55.423.420.843
+Chuyển từ xây dựng cơ bản dở dang
+141.703.283
+2.121.199.883
+1.166.102.000
+-
+-
+3.429.005.166
+Chuyển từ tài sản cố định hữu hình thuê 
+tài chính
+-
+13.389.448.333
+9.560.000.000
+-
+-
+22.949.448.333
+Thanh lý
+(71.955.649)
+(6.097.113.853)
+(2.128.712.500)
+-
+-
+(8.297.782.002)
+Xóa sổ
+-
+(2.096.225.625)
+-
+-
+-
+(2.096.225.625)
+Số dư cuối năm
+484.476.100.366
+2.585.435.473.028
+296.648.614.944
+76.375.572.729
+20.737.819.422
+3.463.673.580.489
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+278.882.994.848
+1.738.186.050.970
+172.098.126.466
+36.296.971.627
+19.338.001.359
+2.244.802.145.270
+Khấu hao trong năm
+21.652.518.028
+219.048.547.987
+34.223.500.536
+9.441.256.473
+288.883.421
+284.654.706.445
+Chuyển từ tài sản cố định hữu hình thuê 
+tài chính
+-
+3.149.966.649
+2.312.317.061
+-
+-
+5.462.283.710
+Thanh lý
+(71.955.649)
+(3.566.823.990)
+(1.844.204.185)
+-
+-
+(5.482.983.824)
+Xóa sổ
+-
+(1.933.273.726)
+-
+-
+-
+(1.933.273.726)
+Số dư cuối năm
+300.463.557.227
+1.954.884.467.890
+206.789.739.878
+45.738.228.100
+19.626.884.780
+2.527.502.877.875
+Giá trị còn lại
+Số dư đầu năm
+205.523.357.884
+785.716.278.841
+114.745.512.614
+40.078.601.102
+1.399.818.063
+1.147.463.568.504
+Số dư cuối năm
+184.012.543.139
+630.551.005.138
+89.858.875.066
+30.637.344.629
+1.110.934.642
+936.170.702.614
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+30
+14. XÂY DỰNG CƠ BẢN DỞ DANG
+Các công trình xây dựng cơ bản dở dang lớn như sau:
+30/9/2021
+VND
+1/10/2020
+VND
+Máy móc, thiết bị chờ lắp đặt
+5.606.678.492
+457.602.000
+Chi phí xây dựng
+151.857.874.771
+1.472.949.719
+Các công trình khác
+22.812.505.930
+3.407.860.464
+180.277.059.193
+5.338.412.183
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+5.338.412.183
+16.487.785.421
+Tăng trong năm
+179.587.597.217
+8.165.030.780
+Chuyển sang tài sản cố định hữu hình
+(3.429.005.166)
+(14.289.426.988)
+Chuyển sang chi phí trả trước dài hạn
+-
+(3.150.626.219)
+Chuyển sang chi phí trả trước ngắn hạn
+(1.219.945.041)
+(1.874.350.811)
+Số dư cuối năm
+180.277.059.193
+5.338.412.183
+15. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH 
+(a) Đầu tư nắm giữ đến ngày đáo hạn
+Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Tiền gửi có kỳ hạn
+5.000.000.000
+-
+Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn phản ảnh các khoản tiền gửi có kỳ hạn tại các ngân hàng với thời 
+gian đáo hạn trên 3 tháng kể từ ngày gửi và dưới 12 tháng kể từ ngày cuối kỳ. Tại ngày 30 tháng 9 năm 2021, tiền 
+gửi có kỳ hạn được gửi bằng VND và hưởng lãi suất năm là 3,7%.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+29
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+13.  TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+Quyền
+sử dụng đất
+VND
+Phần mềm 
+máy vi tính
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+200.791.409.765
+47.778.337.834
+248.569.747.599
+Tăng trong năm
+-
+11.418.681.319
+11.418.681.319
+Số dư cuối năm
+200.791.409.765
+59.197.019.153
+259.988.428.918
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+28.908.454.957
+21.672.992.793
+50.581.447.750
+Khấu hao trong năm
+2.553.074.427
+8.815.904.352
+11.368.978.779
+Số dư cuối năm
+31.461.529.384
+30.488.897.145
+61.950.426.529
+Giá trị còn lại
+Số dư đầu năm
+171.882.954.808
+26.105.345.041
+197.988.299.849
+Số dư cuối năm
+169.329.880.381
+28.708.122.008
+198.038.002.389
+Trong tài sản cố định vô hình có các tài sản với nguyên giá 456 triệu VND đã được khấu hao hết tại ngày 30 tháng 9 năm 
+2021 (1/10/2020: 456 triệu VND), nhưng vẫn còn đang được sử dụng.
+Tại ngày 30 tháng 9 năm 2021, các tài sản cố định vô hình có giá trị còn lại là 66.528 triệu VND (1/10/2020: 77.916 
+triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Công ty (Thuyết minh 23).
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+32
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(b)  Đầu tư tài chính dài hạn
+ 
+30/9/2021
+1/10/2020
+% vốn sở 
+hữu/quyền 
+biểu quyết
+ Giá gốc
+VND
+Dự phòng
+giảm giá
+VND
+% vốn sở 
+hữu/quyền 
+biểu quyết
+ Giá gốc
+VND
+Dự phòng
+giảm giá
+VND
+Đầu tư vào các công ty con
+• Công ty TNHH Một Thành Viên Hoa Sen Nghệ An
+100%
+1.100.000.000.000
+-
+100%
+1.100.000.000.000
+-
+• Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội - Bình Định
+100%
+770.000.000.000
+-
+100%
+770.000.000.000
+-
+• Công ty TNHH Một Thành Viên Tôn Hoa Sen
+100%
+280.000.000.000
+100%
+280.000.000.000
+-
+• Công ty TNHH Một Thành Viên Hoa Sen Phú Mỹ
+100%
+250.000.000.000
+-
+100%
+250.000.000.000
+-
+• Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+100%
+200.000.000.000
+-
+100%
+200.000.000.000
+-
+• Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen
+100%
+150.000.000.000
+-
+100%
+150.000.000.000
+-
+• Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+100%
+105.000.000.000
+-
+100%
+105.000.000.000
+-
+• Công ty Cổ phần Hoa Sen Yên Bái (i)
+95%
+323.000.000.000
+-
+95%
+114.000.000.000
+-
+• Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen 
+Yên Bái
+100%
+50.000.000.000
+-
+100%
+50.000.000.000
+-
+• Công ty Cổ phần Đầu tư Hạ tầng Khu Công nghiệp Hoa Sen 
+Du Long (ii)
+-
+-
+95%
+32.965.000.000
+-
+3.228.000.000.000
+-
+3.051.965.000.000
+-
+Đầu tư vào công ty liên kết
+• Công ty Cổ phần Cảng Quốc tế Hoa Sen (iii)
+-
+-
+-
+-
+3.228.000.000.000
+-
+3.051.965.000.000
+-
+31
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(a) Đầu tư nắm giữ đến ngày đáo hạn (tiếp theo)
+Đầu tư nắm giữ đến ngày đáo hạn – dài hạn 
+30/9/2021
+VND
+1/10/2020
+VND
+Trái phiếu do Công ty Cổ phần Chứng khoán Ngân hàng 
+Công thương Việt Nam phát hành (*)
+15.000.000.000
+15.000.000.000
+Trái phiếu do Công ty Cổ phần Chứng khoán Agribank 
+phát hành (**)
+1.000.000.000
+1.000.000.000
+Trái phiếu do Công ty Cổ phần Chứng khoán Ngân hàng 
+Thương mại Cổ phần Đầu Tư Và Phát Triển Việt Nam phát 
+hành
+-
+5.000.000.000 
+16.000.000.000
+21.000.000.000
+(*) 
+Trái phiếu có kỳ hạn gốc là 10 năm, phát hành bằng VND và hưởng lãi suất thả nổi cộng biên độ năm là 
+1,2% (1/10/2020: lãi suất thả nổi cộng biên độ năm là 1,2%).
+(**) Trái phiếu có kỳ hạn gốc là 7 năm, phát hành bằng VND và hưởng lãi suất thả nổi cộng biên độ năm là 
+1,2% (1/10/2020: lãi suất thả nổi cộng biên độ năm là 1,2%).
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+34
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+16. CHI PHÍ TRẢ TRƯỚC
+(a) Chi phí trả trước ngắn hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Chi phí thuê trả trước
+60.086.558.798
+57.410.986.820
+Công cụ và dụng cụ
+7.318.855.307
+13.454.533.851
+Chi phí quảng cáo
+4.977.085.978
+24.829.641.795
+Chi phí sửa chữa
+3.605.758.234
+2.738.747.884
+Chi phí tư vấn
+430.991.668
+1.889.338.410
+Phí bảo hiểm
+599.821.424
+668.137.829
+Chi phí khác
+8.571.316.992
+2.301.982.218
+85.590.388.401
+103.293.368.807
+(b) Chi phí trả trước dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Bảng hiệu quảng cáo
+15.059.349.254
+15.374.300.149
+Công cụ và dụng cụ
+9.550.254.921
+9.342.376.906
+Chi phí thuê
+6.266.006.987
+7.538.605.524
+Chi phí sửa chữa
+3.918.465.569
+6.587.628.785
+Chi phí khác
+3.885.929.204
+9.422.433.406
+38.680.005.935
+48.265.344.770
+Biến động chi phí trả trước dài hạn trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+48.265.344.770
+128.815.049.868
+Tăng trong năm
+33.716.445.821
+12.783.913.427
+Chuyển từ xây dựng cơ bản dở dang
+-
+3.150.626.219
+Chuyển sang từ tài sản cố định hữu hình
+-
+(163.628.065)
+Chuyển (sang)/từ chi phí trả trước ngắn hạn
+(3.500.000)
+240.769.417
+Phân bổ trong năm
+(43.208.346.116)
+(96.551.161.921)
+Thanh lý
+(89.938.540)
+(10.224.175)
+Số dư cuối năm
+38.680.005.935
+48.265.344.770
+33
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(i) 
+Tại cuộc họp ngày 3 tháng 3 năm 2021, Hội đồng Quản trị Công ty Cổ phần Tập đoàn Hoa Sen đã 
+quyết định thông qua chủ trương tăng vốn điều lệ của Công ty Cổ phần Hoa Sen Yên Bái, trong đó Công 
+ty nắm giữ 95% quyền sở hữu. Tổng Công ty đã hoàn tất việc góp vốn vào công ty con bằng cách chuyển 
+đổi khoản phải thu về cho vay với giá trị là 176.187 triệu VND (Thuyết minh 8), chuyển đổi khoản phải 
+thu khác với giá trị là 10.145 triệu VND và vốn góp bằng tiền là 22.668 triệu VND.
+(ii) 
+Tại cuộc họp ngày 1 tháng 2 năm 2021, Hội đồng Quản trị Công ty Cổ phần Tập đoàn Hoa Sen đã quyết 
+định thông qua chủ trương tăng vốn điều lệ của Công ty Cổ phần Đầu tư Hạ Tầng Khu công nghiệp Hoa 
+Sen Du Long, trong đó Công ty nắm giữ 95% quyền sở hữu. Tổng Công ty đã hoàn tất việc góp vốn vào 
+công ty con bằng cách chuyển đổi khoản phải thu về cho vay với giá trị là 64.995 triệu VND (Thuyết minh 
+8) và chuyển đổi khoản phải thu khác với giá trị là 478 triệu VND. Vào ngày 31 tháng 3 năm 2021, Hội 
+đồng Quản trị Công ty Cổ phần Tập đoàn Hoa Sen đã quyết định chuyển nhượng toàn bộ cổ phần tại 
+Công ty Cổ phần Đầu tư Hạ Tầng Khu công nghiệp Hoa Sen Du Long. Việc chuyển nhượng đã hoàn tất 
+vào ngày 2 tháng 4 năm 2021.
+(iii) 
+Công ty Cổ phần Cảng Quốc tế Hoa Sen được thành lập theo Giấy Chứng Nhận Đăng Ký Doanh Nghiệp 
+số 3502399898 do Sở Kế Hoạch và Đầu Tư Tỉnh Bà Rịa Vũng Tàu cấp ngày 5 tháng 7 năm 2019, trong 
+đó Công ty nắm giữ 49% quyền sở hữu. Tại ngày 30 tháng 9 năm 2021, Công ty vẫn chưa góp vốn vào 
+Công ty Cổ phần Cảng Quốc tế Hoa Sen.
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+36
+(b) Phải trả người bán là các bên liên quan
+Giá gốc/Số có khả năng trả nợ
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+199.491.934.084
+276.882.578.172
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội
+- Bình Định
+161.764.492.000
+331.558.978.673
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+159.185.584.085
+200.540.364.464
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa 
+Sen Yên Bái
+83.547.848.008
+71.677.939.985
+Công ty thuộc sở hữu của Chủ tịch Công ty
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+6.124.567.058
+4.622.401.585
+Công ty TNHH Một Thành Viên Đầu tư Hoa Sen Nghệ An
+13.356.842
+1.892.022
+Khoản phải trả thương mại đối với các bên liên quan không được đảm bảo, không chịu lãi và phải trả trong 
+vòng 365 ngày kể từ ngày ghi trên hóa đơn đối với các công ty con và 45 ngày đối với các khoản phải trả công 
+ty thuộc sở hữu của Chủ tịch Công ty.
+19. NGƯỜI MUA TRẢ TIỀN TRƯỚC
+30/9/2021
+VND
+1/10/2020
+VND
+Aceros Y Overollings De Mexico S.A. De C.V.
+-
+18.179.700.000
+Các khách hàng khác
+233.052.080.172
+170.818.983.777
+233.052.080.172
+188.998.683.777
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+35
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+17. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI 
+Thuế 
+suất
+30/9/2021
+VND
+1/10/2020
+VND
+Tài sản thuế thu nhập hoãn lại ghi nhận đối với:
+• Chi phí phải trả
+20%
+61.879.057.711
+21.325.730.550
+• Các khoản dự phòng
+20%
+18.837.873.435
+9.422.978.755
+• Lợi nhuận chưa thực hiện
+20%
+6.397.076.592
+9.005.492.476
+87.114.007.738
+39.754.201.781
+18.  PHẢI TRẢ NGƯỜI BÁN 
+(a) Phải trả người bán chi tiết theo nhà cung cấp lớn
+Giá gốc/Số có khả năng trả nợ
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty TNHH Gang Thép Hưng Nghiệp Formosa Hà Tĩnh
+1.508.956.770.530
+296.702.697.996
+Xiamen ITG Group Corp., Ltd.
+630.195.444.218
+-
+Công ty TNHH Thép Kim Quốc
+622.557.774.639
+59.872.948.917
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+199.491.934.084
+276.882.578.172
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội
+- Bình Định
+ 161.764.492.000 
+ 331.558.978.673 
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+159.185.584.085
+200.540.364.464
+Nippon Steel Trading Corporation
+-
+303.482.841.213
+Các nhà cung cấp khác
+1.001.111.896.444
+554.875.259.387
+4.283.263.896.000
+2.023.915.668.822
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+38
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+21. CHI PHÍ PHẢI TRẢ 
+30/9/2021
+VND
+1/10/2020
+VND
+Chi phí lương và thưởng
+150.283.536.463
+304.695.782.083
+Chi phí vận chuyển
+43.534.163.796
+115.044.561
+Chi phí lãi vay
+9.084.253.069
+3.926.078.445
+Xây dựng cơ bản dở dang
+6.849.402.456
+696.000.000
+Chi phí tiền điện
+34.655.876
+27.883.576
+Chi phí khác
+5.014.233.506
+8.482.468.933
+214.800.245.166
+317.943.257.598
+22. PHẢI TRẢ NGẮN HẠN KHÁC
+30/9/2021
+VND
+1/10/2020
+VND
+Tài trợ nhập khẩu phải trả (*)
+3.226.391.554.000
+155.578.117.585
+Chiết khấu bộ chứng từ xuất khẩu phải trả
+-
+142.966.821.833
+Nhận ký quỹ, ký cược ngắn hạn
+19.134.400.000
+9.597.080.065
+Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và 
+kinh phí công đoàn
+528.125.900
+932.699.080
+Cổ tức phải trả
+3.940.190.477
+4.247.322.425
+Phải trả khác
+6.587.875.826
+12.753.497.533
+3.256.582.146.203
+326.075.538.521
+(*)  Tài trợ nhập khẩu phải trả là số tiền phải trả cho Thư tín dụng trả chậm có thể thanh toán ngay (UPAS L/C) cung 
+cấp bởi Ngân Hàng TMCP Công Thương Việt Nam – Chi nhánh KCN Bình Dương, Ngân Hàng TMCP Phát triển 
+Thành phố Hồ Chí Minh, Ngân Hàng TMCP Quốc Tế Việt Nam - Chi nhánh TP. Hồ Chí Minh, Ngân Hàng TMCP 
+Hàng Hải Việt Nam - Chi Nhánh TP. Hồ Chí Minh và Ngân Hàng TMCP Tiên Phong – Chi Nhánh Bến Thành 
+(1/10/2020: cung cấp bởi Ngân Hàng TMCP Quốc Tế Việt Nam – Chi nhánh TP. Hồ Chí Minh và Ngân Hàng 
+TMCP Tiên Phong – Chi Nhánh Bến Thành) với kỳ hạn trả chậm từ 90 đến 120 ngày. Nếu đến ngày đáo hạn, 
+Công ty không có đủ nguồn thanh toán, các khoản tiền này sẽ tự chuyển đổi thành khoản vay.
+37
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+20. THUẾ PHẢI NỘP NHÀ NƯỚC 
+(a) Thuế phải nộp Nhà nước
+ 
+ 1/10/2020
+VND
+Số phải nộp
+trong năm
+VND
+Số đã nộp
+trong năm
+VND
+Số đã
+cấn trừ
+VND
+Phân loại lại
+VND
+30/9/2021
+VND
+Thuế giá trị gia tăng
+146.604.239.860
+7.961.396.397.916
+(1.972.622.357.714)
+(5.962.469.880.233)
+(1.386.919.443)
+171.521.480.386
+Thuế xuất nhập khẩu
+456.189.132
+1.448.514.895
+(1.738.836.243)
+-
+-
+165.867.784
+Thuế thu nhập doanh nghiệp
+56.905.742.222
+515.776.476.827
+(436.616.991.261)
+-
+-
+136.065.227.788
+Thuế thu nhập cá nhân
+2.508.438.278
+32.264.163.672
+(33.387.177.170)
+-
+13.619.717
+1.399.044.497
+Các loại thuế khác
+92.064.660
+1.790.747.324
+(1.791.011.984)
+-
+(3.000.000)
+88.800.000
+206.566.674.152
+8.512.676.300.634
+(2.446.156.374.372)
+(5.962.469.880.233)
+(1.376.299.726)
+309.240.420.455
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+40
+23.  VAY VÀ NỢ THUÊ TÀI CHÍNH
+(a) 
+Vay và nợ thuê tài chính ngắn hạn
+ 
+1/10/2020
+Biến động trong năm
+30/9/2021
+ Giá trị ghi sổ/Số 
+có khả năng trả nợ
+VND
+Tăng
+VND
+Giảm
+VND
+Chênh lệch
+ tỷ giá
+VND
+Giá trị ghi sổ/ Số có 
+khả năng trả nợ
+VND
+Vay ngắn hạn
+5.058.379.476.181
+36.399.316.632.634
+(36.704.526.955.869)
+1.344.677.818
+4.754.513.830.764
+Vay dài hạn đến hạn trả (b)
+20.000.000.000
+5.000.000.000
+(25.000.000.000)
+-
+-
+Nợ gốc thuê tài chính đến hạn trả trong vòng 12 
+tháng (c) 
+5.104.565.664
+1.276.141.416
+(6.380.707.080)
+ - 
+ -
+5.083.484.041.845
+36.405.592.774.050
+(36.735.907.662.949)
+1.344.677.818
+4.754.513.830.764
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+39
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Phải trả ngắn hạn khác cho các bên liên quan
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng
+Hoa Sen Yên Bái
+26.498.450
+Khoản phải trả khác cho bên liên quan không được đảm bảo, không chịu lãi suất và phải hoàn trả khi được 
+yêu cầu.
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+42
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Điều khoản và điều kiện của các khoản vay ngắn hạn như sau:
+ 
+Bên cho vay
+ Loại tiền
+Hạn mức
+Lãi suất
+Tài sản đảm bảo
+30/9/2021
+1/10/2020
+Bên thứ ba
+i.
+Ngân hàng TMCP Công thương Việt Nam
+– Chi nhánh KCN Bình Dương
+VND
+3.000 tỷ VND
+3,50%
+4,50% - 4,90%
+Quyền sử dụng đất, nhà cửa, vật kiến 
+trúc, máy móc và thiết bị và phải thu 
+của khách hàng
+USD
+1,50% - 2,00%
+1,85% - 2,00%
+ii.
+Ngân hàng TMCP Ngoại thương Việt Nam
+– Chi nhánh Nam Bình Dương 
+VND
+2.397 tỷ  VND
+3,50% 
+4,50% - 5,00% Quyền sử dụng đất, máy móc và 
+thiết bị và hàng tồn kho, khoản phải 
+thu, nhà cửa, vật kiến trúc
+USD
+1,30%
+1,80% - 2,10% 
+iii.
+Ngân hàng Đầu tư và Phát triển Việt Nam
+– Chi nhánh Sở Giao dịch 2
+VND
+1.500 tỷ VND
+3,50% - 3,80%
+4,20% - 4,50% Máy móc và thiết bị và một phần 
+công trình xây dựng trên đất của 
+Công ty TNHH Một Thành Viên Hoa 
+Sen Nghệ An, công ty con
+VND
+-
+3,00% 
+iv.
+Ngân hàng TNHH MTV HSBC (Việt Nam)
+VND
+60 triệu USD
+3,35%
+4,10% - 4,90% 
+Hàng tồn kho, máy móc và thiết bị, 
+quyền sử dụng đất và công trình xây 
+dựng trên đất và một số tài sản cố 
+định của Công ty TNHH Một Thành 
+Viên Hoa Sen Bình Định, công ty con
+v.
+Ngân hàng Sinopac – Chi nhánh TP. Hồ Chí Minh
+VND
+6 triệu USD
+3,30% 
+5,00% Không có tài sản đảm bảo
+vi.
+Ngân hàng TNHH MTV UOB Việt Nam
+VND
+20 triệu USD
+3,00% 
+4,00% - 4,20%
+Hàng tồn kho
+USD
+1,60%
+1,64%
+vii.
+Ngân hàng Malayan Banking Berhad – Chi nhánh TP. Hồ Chí Minh
+VND
+6.6 triệu USD
+3,20% - 3,30%
+4,10% - 4,70% Hàng tồn kho
+USD
+1,40%
+1,80%
+viii.
+Ngân hàng TMCP Hàng Hải Việt Nam – Chi nhánh TP. Hồ Chí Minh 
+VND
+500 tỷ VND
+3,90%
+4,50% Không có tài sản đảm bảo
+41
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Điều khoản và điều kiện của các khoản vay dài hạn hiện còn số dư như sau:
+ 
+Bên cho vay
+ Thuyết 
+minh
+Loại tiền
+30/9/2021
+VND
+1/10/2020
+VND
+Bên thứ ba
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh KCN Bình Dương
+(i)
+VND
+75.643.458.480
+1.171.017.687.810
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh KCN Bình Dương
+(i)
+USD
+777.548.744.645
+531.104.907.733
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương
+(ii)
+VND
+60.000.000.000
+947.943.944.130
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương
+(ii)
+USD
+1.453.181.080.932
+413.037.687.997
+• Ngân hàng Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 2
+(iii)
+VND
+347.681.380.658
+472.377.287.783
+• Ngân hàng Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 2
+(iii)
+USD
+-
+99.439.545.965
+• Ngân hàng TNHH MTV HSBC (Việt Nam)
+(iv)
+VND
+1.186.536.814.890
+608.438.856.420
+• Ngân hàng Sinopac - Chi nhánh TP. Hồ Chí Minh
+(v)
+VND
+56.000.000.000
+32.300.000.000
+• Ngân hàng TNHH MTV UOB Việt Nam
+(vi)
+VND
+34.366.092.843
+101.516.310.719
+• Ngân hàng TNHH MTV UOB Việt Nam
+(vi)
+USD
+384.498.035.750
+57.085.000.000
+• Ngân hàng Malayan Banking Berhad Chi nhánh TP. Hồ Chí Minh
+(vii)
+VND
+60.626.701.580
+42.323.443.406
+• Ngân hàng Malayan Banking Berhad Chi nhánh TP. Hồ Chí Minh
+(vii)
+USD
+73.836.076.658
+46.084.500.000
+• Ngân hàng TMCP Hàng Hải Việt Nam, Chi Nhánh TP. Hồ Chí Minh
+(viii)
+VND
+67.617.983.015
+97.147.784.400
+• Ngân hàng TNHH CTBC - Chi Nhánh TP. Hồ Chí Minh
+(ix)
+VND
+75.695.575.053
+19.942.608.592
+• Ngân hàng TNHH CTBC - Chi Nhánh TP. Hồ Chí Minh
+(ix)
+USD
+101.281.886.260
+155.234.011.226
+• Ngân hàng TMCP Phát triển TP. Hồ Chí Minh
+(x)
+USD
+-
+213.385.900.000
+• Ngân hàng TMCP Sài Gòn Thương Tín - Chi Nhánh Trung Tâm
+(xi)
+VND
+-
+50.000.000.000
+4.754.513.830.764
+5.058.379.476.181
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+44
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(b) Vay và nợ thuê tài chính dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Vay dài hạn
+-
+32.094.315.280
+Nợ thuê tài chính dài hạn (c)
+-
+10.027.814.809
+-
+42.122.130.089
+Khoản đến hạn trả trong vòng 12 tháng
+-
+(25.104.565.664)
+Khoản đến hạn trả sau 12 tháng
+-
+17.017.564.425
+Điều khoản và điều kiện của các khoản vay dài hạn như sau:
+Loại
+tiền
+Năm
+đáo hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Ngân hàng TMCP Ngoại thương Việt Nam
+– Chi nhánh Nam Bình Dương
+VND
+2022
+-
+32.094.315.280
+  
+Khoản vay này được đảm bảo bằng đảm bằng quyền sử dụng đất, máy móc và thiết bị, hàng tồn kho của Công 
+ty và một số tài sản cố định của Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen, công ty con và chịu 
+lãi suất năm tại ngày 1 tháng 10 năm 2020 là 8,5%. Tại ngày 30 tháng 9 năm 2021, khoản vay này đã được 
+thanh toán toàn bộ.
+ 
+Công ty sử dụng các khoản vay dài hạn nhằm mục đích xây dựng và mua sắm tài sản cố định.
+43
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Điều khoản và điều kiện của các khoản vay ngắn hạn như sau: (tiếp theo)
+ 
+Bên cho vay
+ Loại 
+tiền
+Hạn 
+mức
+Lãi suất
+Tài sản đảm bảo
+30/9/2021
+1/10/2020
+Bên thứ ba
+ix.
+Ngân hàng TNHH CTBC - Chi Nhánh TP. Hồ Chí Minh
+VND
+15 triệu 
+USD
+3,60%
+3,80% - 4,00%
+Không có tài sản đảm bảo
+USD
+1,45%
+1,80% - 1,85%
+x.
+Ngân hàng TMCP Phát triển TP. Hồ Chí Minh
+USD
+2.000 tỷ 
+VND
+-
+1,80%
+Không có tài sản đảm bảo
+xi.
+Ngân hàng TMCP Sài Gòn Thương Tín - Chi Nhánh Trung Tâm
+VND
+1.000 tỷ 
+VND
+-
+5,00%
+Quyền sử dụng đất và phải thu của 
+khách hàng
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+46
+24. QUỸ KHEN THƯỞNG, PHÚC LỢI
+Biến động của quỹ khen thưởng, phúc lợi trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+43.062.695.661
+44.902.799.431
+Trích lập từ lợi nhuận chưa phân phối
+46.120.560.692
+3.613.521.330
+Sử dụng quỹ trong năm
+(14.154.745.724)
+(5.453.625.100)
+Số dư cuối năm
+75.028.510.629
+43.062.695.661
+25. DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+Dự phòng phải trả dài hạn phản ánh dự phòng trợ cấp thôi việc.
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+9.617.344.666
+2.473.036.500
+Trích lập dự phòng trong năm
+3.325.712.601
+7.144.308.166
+Số dư cuối năm
+12.943.057.267
+9.617.344.666
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+45
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+(c) Các khoản nợ thuê tài chính
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê tài chính không thể hủy ngang như sau:
+ 
+30/9/2021
+1/10/2020
+ Tổng khoản 
+thanh toán tiền 
+thuê tài chính
+VND
+Tiền lãi thuê
+VND
+Nợ gốc
+VND
+Tổng khoản 
+thanh toán tiền 
+thuê tài chính
+VND
+Tiền lãi thuê
+VND
+Nợ gốc
+VND
+Trong vòng một năm
+-
+-
+-
+5.762.851.279
+658.285.615
+5.104.565.664
+Trong vòng hai đến năm năm
+-
+-
+-
+5.147.734.966
+224.485.821
+4.923.249.145
+-
+-
+-
+10.910.586.245
+882.771.436
+10.027.814.809
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+48
+(*)   Theo Nghị quyết Đại hội đồng Cổ đông ngày 13 tháng 1 năm 2020 và Nghị Quyết của Hội đồng Quản 
+trị vào ngày 24 tháng 5 năm 2021, Công ty đã tăng vốn điều lệ từ nguồn cổ phiếu phát hành để chi trả 
+cổ tức. Tổng số cổ phiếu đã phát hành là 44.456.683 cổ phiếu với mệnh giá 10.000/cổ phiếu.
+(**) Theo Nghị quyết Đại hội đồng Cổ đông ngày 13 tháng 1 năm 2020 và Quyết định của Hội Đồng Quản 
+trị vào ngày 27 tháng 1 năm 2021, Công ty đã quyết định trích 3,4% từ lợi nhuận sau thuế để chi thưởng 
+hoàn thành kế hoạch sản xuất kinh doanh niên độ tài chính 2019 – 2020 cho Hội đồng Quản trị, Ban 
+Điều hành và các Ban thuộc Hội đồng Quản trị.
+(***) Theo Nghị Quyết của Hội đồng Quản trị vào ngày 1 tháng 10 năm 2020, Công ty đã trích lập 40.356 
+triệu VND từ lợi nhuận giữ lại đầu kỳ và vào ngày 1 tháng 4 năm 2021, Công ty đã trích lập 64.277 
+triệu VND từ lợi nhuận sau thuế vào Quỹ khác thuộc vốn chủ sở hữu nhằm mục đích bổ sung thù lao, hoạt 
+động từ thiện và chi phí hoạt động của Hội đồng Quản trị (năm kết thúc ngày 30 tháng 9 năm 2020: 
+5.420 triệu VND).
+27. VỐN CỔ PHẦN
+Vốn cổ phần được duyệt và đã phát hành của Công ty như sau:
+30/9/2021
+1/10/2020
+Số lượng
+cổ phiếu
+VND
+Số lượng
+cổ phiếu
+VND
+Vốn cổ phần được duyệt và 
+đã phát hành
+Cổ phiếu phổ thông
+493.481.896
+4.934.818.960.000
+444.625.213
+4.446.252.130.000
+Cổ phiếu quỹ 
+Cổ phiếu phổ thông
+-
+-
+327.100
+3.271.000.000
+Số cổ phiếu đang lưu hành 
+Cổ phiếu phổ thông
+493.481.896
+4.934.818.960.000
+444.298.113
+4.442.981.130.000
+Tất cả các cổ phiếu phổ thông có mệnh giá 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu 
+quyết tại các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. 
+Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các 
+cổ phiếu đã được Công ty mua lại đều bị tạm ngừng cho tới khi chúng được phát hành lại.
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+47
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+26. THAY ĐỔI VỐN CHỦ SỞ HỮU
+ 
+ Vốn cổ phần
+VND
+Thặng dư 
+vốn cổ phần 
+VND
+Cổ phiếu quỹ
+VND
+Quỹ khác thuộc 
+vốn chủ sở hữu
+VND
+Lợi nhuận sau thuế 
+chưa phân phối 
+VND
+Tổng
+VND
+Số dư tại ngày 1 tháng 10 năm 2019
+4.234.694.890.000
+151.583.183.521
+(2.459.000.000)
+55.626.670.135
+1.539.503.023.643
+5.978.948.767.299
+Lợi nhuận thuần trong năm
+-
+-
+-
+-
+1.075.585.099.435
+1.075.585.099.435
+Cổ phiếu phát hành để trả cổ tức
+211.557.240.000
+-
+-
+-
+(211.557.240.000)
+-
+Mua lại cổ phiếu quỹ
+-
+-
+(812.000.000)
+-
+-
+(812.000.000)
+Trích quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+(3.613.521.330)
+(3.613.521.330)
+Phân bổ vào quỹ
+-
+-
+-
+5.420.281.995
+(5.420.281.995)
+-
+Sử dụng các quỹ
+-
+-
+-
+(25.511.170.306)
+-
+(25.511.170.306)
+Số dư tại ngày 1 tháng 10 năm 2020
+4.446.252.130.000
+151.583.183.521
+(3.271.000.000)
+35.535.781.824
+2.394.497.079.753
+7.024.597.175.098
+Lợi nhuận thuần trong năm
+-
+-
+-
+4.375.801.849.593
+4.375.801.849.593
+Cổ phiếu phát hành để trả cổ tức (*)
+444.566.830.000
+-
+-
+-
+(444.566.830.000)
+-
+Tái phát hành cổ phiếu quỹ
+-
+5.709.355.547
+3.271.000.000
+-
+-
+8.980.355.547
+Phát hành cổ phiếu theo chương trình 
+lựa chọn cho người lao động
+44.000.000.000 
+ - 
+ - 
+ - 
+ -
+44.000.000.000
+Trích quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+(46.120.560.692)
+(46.120.560.692)
+Trích thưởng hoàn thành vượt kế hoạch
+sản xuất kinh doanh (**)
+ - 
+ - 
+ - 
+-
+(39.134.000.000) 
+ (39.134.000.000)
+Phân bổ vào quỹ (***)
+-
+-
+-
+104.632.701.681
+(104.632.701.681)
+-
+Sử dụng các quỹ
+-
+-
+-
+(49.473.282.240)
+-
+(49.473.282.240)
+Số dư tại ngày 30 tháng 9 năm 2021
+4.934.818.960.000
+157.292.539.068
+-
+90.695.201.265
+6.135.844.836.973 11.318.651.537.306
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+50
+(c)  Cam kết chi tiêu vốn
+Công ty có các cam kết vốn sau đã được duyệt nhưng chưa được phản ánh trong bảng cân đối kế toán:
+30/9/2021
+VND
+1/10/2020
+VND
+Đã được duyệt và đã được ký hợp đồng
+111.387.661.390
+-
+29. DOANH THU BÁN HÀNG
+Tổng doanh thu thể hiện tổng giá trị hàng bán, không bao gồm thuế giá trị gia tăng. 
+Doanh thu thuần bao gồm:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Tổng doanh thu 
+• Bán hàng hóa
+63.707.475.115.992
+30.465.484.254.551
+• Bán thành phẩm
+22.726.584.674.370
+14.607.097.600.014
+• Doanh thu khác
+7.448.106.811
+31.230.845.169
+86.441.507.897.173
+45.103.812.699.734
+Trừ các khoản giảm trừ doanh thu 
+• Chiết khấu thương mại
+153.562.023.411
+131.553.521.310
+• Hàng bán bị trả lại
+19.989.289.800
+13.932.986.623
+• Giảm giá hàng bán
+948.149.530
+5.467.161.772
+174.499.462.741
+150.953.669.705
+Doanh thu thuần
+86.267.008.434.432
+44.952.859.030.029
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+49
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Năm kết thúc ngày
+30/9/2021
+30/9/2020
+Số lượng 
+cổ phiếu
+VND
+Số lượng 
+cổ phiếu
+VND
+Số dư đầu năm
+444.298.113
+4.442.981.130.000
+423.223.589
+4.232.235.890.000
+Cổ phiếu phát hành để trả 
+cổ tức
+ 44.456.683 
+ 444.566.830.000 
+21.155.724
+211.557.240.000
+Tái phát hành cổ phiếu quỹ
+327.100
+3.271.000.000
+-
+-
+Phát hành cổ phiếu theo 
+chương trình lựa chọn cho
+người lao động
+4.400.000
+ 
+44.000.000.000
+-
+-
+Cổ phiếu quỹ mua lại 
+trong năm
+-
+-
+(81.200)
+(812.000.000)
+Số dư cuối năm
+493.481.896 4.934.818.960.000
+444.298.113 4.442.981.130.000
+28. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+(a) Tài sản thuê ngoài
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được hủy ngang như sau:
+30/9/2021
+VND
+1/10/2020
+VND
+Trong vòng một năm
+175.830.612.602
+170.013.489.423
+Trong vòng hai đến năm năm
+660.021.307.908
+660.219.684.543
+Trên năm năm
+409.868.094.705
+516.622.301.356
+1.245.720.015.215
+1.346.855.475.322
+(b)  Ngoại tệ các loại
+30/9/2021
+1/10/2020
+Nguyên tệ
+Tương đương 
+VND
+Nguyên tệ
+Tương đương
+VND
+USD
+10.326.201
+233.974.279.650
+7.357.873
+169.929.938.524
+EUR
+-
+-
+909
+24.288.480
+ 
+233.974.279.650
+169.954.227.004
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+52
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+33. CHI PHÍ BÁN HÀNG
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nhân viên
+572.789.649.650
+771.493.515.517
+Chi phí xuất khẩu
+1.697.338.531.240
+443.895.444.297
+Chi phí thuê
+157.374.566.374
+155.050.248.876
+Chi phí khấu hao và phân bổ
+141.316.737.508
+142.049.846.427
+Chi phí quảng cáo
+60.889.736.428
+81.026.319.039
+Chi phí vận chuyển
+172.601.983.301
+81.662.146.417
+Chi phí dịch vụ mua ngoài
+56.695.244.435
+54.927.308.793
+Chi phí bán hàng khác
+112.920.091.606
+108.736.740.618
+2.971.926.540.542
+1.838.841.569.984
+34. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nhân viên
+107.547.022.862
+179.784.051.475
+Chi phí khấu hao và phân bổ
+29.172.591.956
+34.611.714.935
+Chi phí thuê
+17.225.095.414
+16.402.898.529
+Chi phí dịch vụ mua ngoài
+29.405.088.651
+31.645.319.225
+Chi phí quản lý khác
+69.848.197.963
+5.716.573.889
+253.197.996.846
+268.160.558.053
+35. THU NHẬP KHÁC
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Tiền bồi thường thu được
+3.087.935.243
+1.248.978.013
+Lãi do thanh lý tài sản cố định
+294.495.753
+-
+Các khoản khác
+4.502.566.854
+18.626.818.962
+7.884.997.850
+19.875.796.975
+51
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+30. GIÁ VỐN HÀNG BÁN
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Tổng giá vốn hàng bán của:
+• Hàng hóa đã bán
+60.545.116.745.484
+29.434.405.085.489
+• Thành phẩm đã bán
+19.898.049.520.909
+12.699.699.279.794
+• Giá vốn khác
+1.641.942.582
+1.663.957.660
+• Trích lập/(hoàn nhập) dự phòng trong năm
+55.920.217.310
+(5.748.549.551)
+80.500.728.426.285
+42.130.019.773.392
+31. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lãi tiền gửi, cho vay và trái phiếu
+9.756.826.962
+18.345.348.908
+Lợi nhuận được chia
+2.313.430.131.015
+797.433.902.081
+Lãi từ chuyển nhượng công ty con
+89.661.240.000
+-
+Lãi chênh lệch tỷ giá đã thực hiện
+239.848.361.972
+66.952.739.760
+Lãi chênh lệch tỷ giá chưa thực hiện
+4.361.788.337
+-
+Doanh thu hoạt động tài chính khác
+3.334.209.311
+-
+2.660.392.557.597
+882.731.990.749
+32.  CHI PHÍ TÀI CHÍNH
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí lãi vay
+163.982.509.811
+277.498.364.219
+Lỗ chênh lệch tỷ giá đã thực hiện
+189.348.549.748
+69.717.151.914
+Lỗ chênh lệch tỷ giá chưa thực hiện
+-
+7.983.777.905
+Lỗ từ thanh lý/giải thể công ty con
+-
+15.675.997.377
+Chi phí tài chính khác
+719.393.807
+1.728.614.970
+354.050.453.366
+372.603.906.385
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+54
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+38. THUẾ THU NHẬP DOANH NGHIỆP
+(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí thuế hiện hành
+Năm hiện hành
+515.776.476.827
+158.373.188.664
+Dự phòng thiếu những năm trước
+-
+13.853.323.303
+515.776.476.827
+172.226.511.967
+Lợi ích thuế thu nhập hoãn lại
+Hoàn nhập các khoản chênh lệch tạm thời
+(47.359.805.957)
+(18.653.863.474)
+468.416.670.870
+153.572.648.493
+(b) Đối chiếu thuế suất thực tế
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lợi nhuận kế toán trước thuế
+4.844.218.520.463
+1.229.157.747.928
+Thuế theo thuế suất của Công ty
+968.843.704.093
+245.831.549.586
+Chi phí không được khấu trừ thuế
+9.853.332.005
+53.374.556.020
+Thu nhập không bị tính thuế
+(462.686.026.203)
+(159.486.780.416)
+Dự phòng thiếu những năm trước
+-
+13.853.323.303
+Sử dụng thuế thu nhập hoãn loại chưa được ghi nhận trước đây
+(47.594.339.025)
+-
+468.416.670.870
+153.572.648.493
+(c) Thuế suất áp dụng
+Theo các điều khoản trong Luật Thuế thu nhập doanh nghiệp, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập 
+bằng 20% trên lợi nhuận tính thuế.
+53
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+36. CHI PHÍ KHÁC
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí cho hoạt động từ thiện
+8.190.000.000
+-
+Lỗ do thanh lý tài sản cố định
+-
+10.944.854.184
+Các khoản khác
+2.974.052.377
+5.738.407.827
+11.164.052.377
+16.683.262.011
+37. CHI PHÍ SẢN XUẤT VÀ KINH DOANH THEO YẾU TỐ
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nguyên vật liệu
+19.634.118.684.123
+11.589.624.310.373
+Chi phí nhân công và nhân viên
+761.610.810.434
+1.021.871.046.663
+Chi phí khấu hao và phân bổ
+297.087.701.643
+345.980.466.978
+Chi phí dịch vụ mua ngoài
+2.266.088.195.975
+914.520.089.821
+Chi phí khác
+558.927.543.337
+486.221.772.732
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+56
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Công ty TNHH Một Thành Viên Hoa Sen Nghệ An
+Bán hàng hóa và thành phẩm
+14.380.220.390.226
+5.905.022.432.009
+Mua hàng hóa và thành phẩm
+12.406.066.542.279
+5.478.697.620.076
+Bán tài sản cố định
+2.146.533.482
+86.129.750
+Mua tài sản cố định
+-
+53.217.000
+Hàng bán bị trả lại/giảm giá hàng bán
+94.564.747
+251.224.373
+Trả lại hàng mua
+2.964.150.670
+2.700.349.416
+Hàng mua được giảm giá
+56.386.365
+134.905.155
+Doanh thu từ cho thuê tài sản
+9.670.000
+-
+Chi phí thuê
+404.139.768
+404.139.768
+Lợi nhuận được chia
+946.725.035.692
+514.874.175.062
+Chi phí gia công
+150.905.593.027
+90.057.765.739
+Chi phí vận chuyển
+31.113.848.136
+-
+Bán khác
+20.713.740
+-
+Mua khác
+2.654.343.654
+5.675.194.349
+Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội - Bình Định
+Bán hàng hóa và thành phẩm
+8.720.363.728.904
+3.037.350.943.346
+Mua hàng hóa và thành phẩm
+7.842.804.505.068
+2.498.747.115.421
+Bán tài sản cố định
+494.268.668
+-
+Hàng bán bị trả lại
+-
+89.818.330
+Trả lại hàng mua
+1.879.028.959
+1.767.576.138
+Hàng mua được giảm giá
+-
+15.178.182
+Lợi nhuận được chia
+756.039.601.281
+-
+Cung cấp dịch vụ vận chuyển
+38.681.700
+-
+Chi phí vận chuyển
+2.371.469.850
+-
+Cung cấp dịch vụ gia công
+47.546.401
+-
+Chi phí gia công
+144.483.750.356
+40.363.221.505
+Mua khác
+1.223.005.802
+741.525.153
+Bán khác
+-
+76.110.897
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam
+Bán hàng hóa và thành phẩm
+14.844.895.601
+29.256.828.653
+Mua hàng hóa và thành phẩm
+756.002.857.208
+551.390.640.670
+Mua tài sản cố định
+-
+348.116.539
+Doanh thu từ cho thuê tài sản
+254.400.000
+241.200.000
+Lợi nhuận được chia
+155.962.216.359
+-
+Cung cấp dịch vụ gia công
+999.180
+-
+Đi thuê hoạt động
+166.000.000
+216.000.000
+Trả lại hàng mua/hàng mua được giảm giá
+26.197.280
+50.822.590
+Mua khác
+-
+47.299.914
+55
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+39. Các giao dịch chủ yếu với các bên liên quan
+Ngoài số dư với các bên liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính riêng này, trong 
+năm Công ty có các giao dịch chủ yếu với các bên liên quan như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Các công ty con
+Công ty TNHH Một Thành Viên Tôn Hoa Sen
+Bán hàng hóa và thành phẩm
+15.613.730.729.165
+9.053.226.500.894
+Mua hàng hóa và thành phẩm
+15.866.720.483.372
+9.531.890.292.386
+Điều chuyển/bán tài sản cố định
+-
+11.701.050.819
+Hàng bán bị trả lại
+-
+2.448.818.788
+Lợi nhuận được chia
+120.808.132.718
+12.308.639.166
+Chi hộ
+156.947.487.796
+148.988.924.860
+Bán khác
+3.725.953
+418.584.100
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen
+Bán hàng hóa và thành phẩm
+3.313.980.084.464
+3.484.402.690.237
+Mua hàng hóa và thành phẩm
+2.850.430.034.029
+3.187.035.968.803
+Bán tài sản cố định
+-
+18.181.818
+Mua tài sản cố định
+87.770.891
+-
+Doanh thu từ cho thuê tài sản
+469.580.644
+392.000.000
+Chi phí thuê
+1.645.321.674
+1.336.599.965
+Hàng bán bị trả lại
+1.270.533.793
+2.034.352.586
+Lợi nhuận được chia
+248.393.361.872
+232.536.770.069
+Bán khác
+1.590.334
+115.348.483
+Mua khác
+-
+3.570.000
+Trả lại hàng mua/hàng mua được giảm giá
+56.469.898
+42.509.017
+Cung cấp dịch vụ vận chuyển
+49.359.856
+-
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định
+Bán hàng hóa và thành phẩm
+7.970.825.645
+3.508.899.196
+Mua hàng hóa và thành phẩm
+1.630.046.559.177
+1.529.863.165.679
+Mua tài sản cố định
+1.141.000.000
+-
+Lợi nhuận được chia
+69.057.496.793
+35.488.493.426
+Bán khác
+748.320
+-
+Mua khác
+-
+10.576.607
+Trả lại hàng mua/hàng mua được giảm giá
+2.418.702
+21.358.572
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+58
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Công ty thuộc sở hữu của Chủ tịch Công ty
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+Bán hàng hóa và thành phẩm
+2.005.614.625.990
+1.742.673.278.315
+Mua hàng hóa và thành phẩm
+12.281.818
+-
+Chiết khấu thương mại
+13.007.397.387
+29.577.829.265
+Hàng bán bị trả lại
+7.185.669.645
+4.172.697.261
+Doanh thu từ cho thuê tài sản
+3.426.751.992
+3.149.312.901
+Bán tài sản cố định
+278.700.000
+-
+Cung cấp dịch vụ gia công
+94.664.218
+-
+Mua dịch vụ gia công
+1.300.909
+-
+Cung cấp dịch vụ vận chuyển
+6.777.318
+-
+Chi phí vận chuyển
+57.513.075.054
+41.294.030.024
+Bán khác
+-
+313.695.826
+Mua khác
+2.727.273
+10.161.454
+Chi phí thuê hoạt động
+10.271.374.544
+8.897.850.106
+Giảm giá hàng bán
+-
+154.727.273
+Thu nhập lãi chậm thanh toán
+2.490.522.129
+-
+Thu nhập từ tiền lãi
+50.630.137
+-
+Công ty TNHH Một Thành Viên Đầu tư Hoa Sen Nghệ An
+Chi phí vận chuyển
+127.061.336
+150.684.078
+Thù lao, lương, thưởng và phúc lợi khác của người quản lý chủ chốt
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Thành viên Hội đồng quản trị
+Thù lao
+Ông Lê Phước Vũ – Chủ tịch
+360.000.000
+360.000.000
+Ông Trần Ngọc Chu – Phó Chủ tịch
+300.000.000
+300.000.000
+Ông Trần Quốc Trí – Thành viên
+240.000.000
+240.000.000
+Ông Lý Văn Xuân – Thành viên
+290.000.000
+240.000.000
+Ông Nguyễn Văn Luân – Thành viên
+340.000.000
+240.000.000
+Ông Đinh Viết Duy – Thành viên
+290.000.000
+240.000.000
+Tổng Giám đốc
+Lương, thưởng
+1.967.900.022
+1.847.025.972
+Những người quản lý khác
+Lương, thưởng
+34.209.331.101
+9.705.523.866
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+57
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Công ty Cổ phần Hoa Sen Yên Bái
+Góp vốn
+209.000.000.000
+-
+Cho vay
+68.000.000.000
+114.900.000.000
+Thu tiền cho vay
+-
+7.000.000.000
+Thu nhập từ tiền lãi
+6.133.147.079
+11.771.972.342
+Công ty TNHH Một Thành Viên Hoa Sen Phú Mỹ
+Bán hàng hóa và thành phẩm
+872.839.230.596
+790.478.750.989
+Mua hàng hóa và thành phẩm
+223.014.878.397
+197.527.496.960
+Thuê tài sản
+600.000.000
+600.000.000
+Hàng mua được giảm giá
+72.625.730
+122.727.272
+Mua khác
+82.990.910
+-
+Công ty TNHH Một Thành Viên Đầu tư Hạ tầng Khu Công 
+nghiệp Hoa Sen Cà Ná - Ninh Thuận
+Góp vốn
+-
+1.000.000.000
+Công ty TNHH Một Thành Viên Cảng Tổng hợp Quốc tế 
+Hoa Sen Cà Ná - Ninh Thuận
+Góp vốn
+-
+29.500.000.000
+Công ty Cổ phần Hoa Sen Quy Nhơn
+Lãi vay
+-
+2.076.438.356
+Công ty Cổ phần Đầu tư Hạ tầng Khu Công nghiệp Hoa 
+Sen Du Long
+Cho vay
+-
+35.999.989.000
+Thu nhập từ tiền lãi
+1.586.146.347
+1.606.428.245
+Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen 
+Yên Bái
+Bán hàng hóa và thành phẩm
+5.757.375.828
+14.224.724
+Mua hàng hóa và thành phẩm
+498.581.508.868
+260.209.760.755
+Mua tài sản cố định
+289.355.615
+-
+Hàng mua được giảm giá
+11.515.987
+1.449.201
+Lợi nhuận được chia
+16.444.286.300
+-
+Mua khác
+-
+77.271.455
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+60
+59
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+40. CÁC GIAO DỊCH PHI TIỀN TỆ TỪ CÁC HOẠT ĐỘNG ĐẦU TƯ VÀ HOẠT ĐỘNG TÀI CHÍNH
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Cấn trừ công nợ phải trả và lợi nhuận được chia
+795.208.077.723
+335.992.976.173
+Chuyển đổi khoản cho thành khoản đầu tư vào công ty con
+241.182.178.499
+-
+Chuyển đổi phải thu lãi cho vay công ty con thành khoản đầu
+tư vào công ty con
+10.623.438.808
+-
+Cấn trừ khoản vay ngắn hạn và khoản đầu tư vào công ty
+con
+-
+53.000.000.000
+Cấn trừ công nợ phải trả và khoản đầu tư vào công ty con
+-
+20.696.742.465
+Cấn trừ lãi vay phải trả và khoản phải thu khác
+-
+5.696.742.465
+41. THÔNG TIN SO SÁNH
+Thông tin so sánh tại ngày 1 tháng 10 năm 2020 được mang sang từ số liệu trình bày trong báo cáo tài chính riêng 
+của Công ty tại ngày và cho năm kết thúc ngày 30 tháng 9 năm 2020.
+Ngày 24 tháng 12 năm 2021
+ 
+Người lập 
+Người duyệt
+ 
+Nguyễn Thị Thanh Tuyền 
+Nguyễn Thị Ngọc Lan 
+Trần Quốc Trí
+ 
+Kế toán 
+Kế toán trưởng 
+Tổng Giám đốc 
+  
+Mẫu B09–DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+2
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn Hoa Sen (“Công ty”) trình bày báo cáo này và báo cáo tài 
+chính hợp nhất đính kèm của Công ty và các công ty con (được gọi chung là “Tập đoàn”) cho năm kết thúc ngày 
+30 tháng 9 năm 2021.
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất 
+theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có 
+liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Tổng Giám đốc Công ty:
+(a) báo cáo tài chính hợp nhất được trình bày từ trang 5 đến trang 61 đã phản ánh trung thực và hợp lý tình 
+hình tài chính hợp nhất của Tập đoàn tại ngày 30 tháng 9 năm 2021, kết quả hoạt động kinh doanh hợp 
+nhất và lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực 
+Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc 
+lập và trình bày báo cáo tài chính; và 
+(b) tại ngày lập báo cáo này, không có lý do gì để Ban Tổng Giám đốc Công ty tin rằng Tập đoàn sẽ không thể thanh 
+toán các khoản nợ phải trả khi đến hạn.
+Tại ngày lập báo cáo này, Ban Tổng Giám đốc Công ty đã phê duyệt phát hành báo cáo tài chính hợp nhất đính kèm.
+Thay mặt Ban Tổng Giám đốc 
+Trần Quốc Trí 
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, ngày 24 tháng 12 năm 2021
+1
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+THÔNG TIN VỀ CÔNG TY 
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP 
+ 3700381324 
+ngày 8 tháng 8 năm 2001
+Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần và lần điều chỉnh gần nhất 
+là Giấy Chứng nhận Đăng ký Doanh nghiệp số 3700381324 ngày 28 tháng 10 năm 2021. Giấy Chứng nhận 
+Đăng ký Doanh nghiệp và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư Tỉnh Bình Dương cấp.
+HỘI ĐỒNG QUẢN TRỊ
+Ông Lê Phước Vũ 
+Chủ tịch
+Ông Trần Ngọc Chu 
+Phó Chủ tịch
+Ông Trần Quốc Trí 
+Thành viên
+Ông Lý Văn Xuân 
+Thành viên
+Ông Nguyễn Văn Luân  
+Thành viên
+Ông Đinh Viết Duy 
+Thành viên
+ 
+BAN TỔNG GIÁM ĐỐC
+Ông Trần Quốc Trí 
+Tổng Giám đốc
+Ông Hoàng Đức Huy 
+Phó Tổng Giám đốc
+Ông Vũ Văn Thanh 
+Phó Tổng Giám đốc
+Ông Hồ Thanh Hiếu 
+Phó Tổng Giám đốc
+Ông Trần Quốc Phẩm 
+Phó Tổng Giám đốc
+Ông Nguyễn Ngọc Huy 
+Phó Tổng Giám đốc
+Ông Trần Thành Nam 
+Phó Tổng Giám đốc (từ ngày 1 tháng 12 năm 2021)
+Ông Nguyễn Tấn Hòa 
+Phó Tổng Giám đốc (từ ngày 1 tháng 12 năm 2021)
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+Ông Lê Phước Vũ 
+Chủ tịch Hội đồng Quản trị
+Ông Trần Ngọc Chu 
+Phó Chủ tịch Hội đồng Quản trị
+Ông Trần Quốc Trí 
+Tổng Giám đốc
+TRỤ SỞ ĐĂNG KÝ
+Số 9, Đại lộ Thống Nhất, Khu Công nghiệp Sóng Thần II, Phường Dĩ An, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam
+CÔNG TY KIỂM TOÁN
+Công ty TNHH KPMG Việt Nam
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+4
+Ý kiến của kiểm toán viên 
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các 
+khía cạnh trọng yếu, tình hình tài chính hợp nhất của Tập đoàn tại ngày 30 tháng 9 năm 2021, 
+kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm kết 
+thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp 
+Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+Thành phố Hồ Chí Minh, ngày 24 tháng 12 năm 2021 
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (Tiếp theo) 
+&KLQK­QK&ÒQJW\71++.30*W°L7K¬QKSKÔ+Ó&KÉ0LQK
+9LÇW1DP
+%­RF­RNLÅPWR­QVÔ
+3
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP 
+KÍNH GỬI CÁC CỔ ĐÔNG
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN 
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Tập đoàn Hoa Sen 
+(“Công ty”) và các công ty con (sau đây được gọi chung là “Tập đoàn”), bao gồm bảng cân đối kế toán 
+hợp nhất tại ngày 30 tháng 9 năm 2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo 
+lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng 
+Giám đốc Công ty phê duyệt phát hành ngày 24 tháng 12 năm 2021, được trình bày từ trang 5 đến 
+trang 61.
+Trách nhiệm của Ban Tổng Giám đốc 
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp 
+nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy 
+định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất, và chịu trách nhiệm về 
+kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính 
+hợp nhất không có sai sót trọng yếu do gian lận hay nhầm lẫn.
+Trách nhiệm của kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán 
+của chúng tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. 
+Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và 
+lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính 
+hợp nhất có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về 
+các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của 
+kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc 
+nhầm lẫn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty 
+liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm 
+toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm 
+soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính 
+sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc của Công 
+ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở 
+cho ý kiến kiểm toán của chúng tôi.
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+6
+TÀI SẢN
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+1/10/2020
+VND
+TÀI SẢN DÀI HẠN  
+(200 = 210 + 220 + 240 + 250 + 260)
+200
+7.962.869.653.354
+8.734.092.334.529
+Các khoản phải thu dài hạn
+210
+179.887.837.400
+184.949.529.000
+Phải thu dài hạn khác
+216
+10(b)
+179.887.837.400
+184.949.529.000
+ 
+ 
+Tài sản cố định
+220
+6.662.061.653.393
+7.594.742.677.985
+Tài sản cố định hữu hình
+221
+12
+6.442.809.695.940
+7.262.428.277.688
+Nguyên giá
+222
+13.671.862.519.864
+13.329.437.933.511
+Giá trị hao mòn lũy kế
+223
+(7.229.052.823.924)
+(6.067.009.655.823)
+Tài sản cố định hữu hình thuê tài chính
+224
+13
+-
+112.152.264.648
+Nguyên giá
+225
+-
+130.467.379.881
+Giá trị hao mòn lũy kế
+226
+-
+(18.315.115.233)
+Tài sản cố định vô hình
+227
+14
+219.251.957.453
+220.162.135.649
+Nguyên giá
+228
+294.517.358.918
+283.098.677.599
+Giá trị hao mòn lũy kế
+229
+(75.265.401.465)
+(62.936.541.950)
+Tài sản dở dang dài hạn
+240
+660.329.384.725
+575.955.787.725
+Xây dựng cơ bản dở dang
+242
+15
+660.329.384.725
+575.955.787.725
+Đầu tư tài chính dài hạn
+250
+17.000.000.000
+26.472.160.000
+Đầu tư nắm giữ đến ngày đáo hạn
+255
+7(a)
+17.000.000.000
+26.472.160.000
+Tài sản dài hạn khác
+260
+443.590.777.836
+351.972.179.819
+Chi phí trả trước dài hạn
+261
+16(b)
+263.776.212.655
+272.734.770.282
+Tài sản thuế thu nhập hoãn lại
+262
+17
+179.814.565.181
+79.237.409.537
+TỔNG TÀI SẢN (270 = 100 + 200)
+270
+26.618.030.002.939
+17.756.407.664.931
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Bảng cân đối kế toán hợp nhất tại ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 01 – DN/HN
+  (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+5
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+TÀI SẢN
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+1/10/2020
+VND
+TÀI SẢN NGẮN HẠN
+(100 = 110 + 120 + 130 + 140 + 150)
+100
+18.655.160.349.585
+9.022.315.330.402
+Tiền và các khoản tương đương tiền
+110
+6
+492.796.782.190
+574.767.066.704
+Tiền
+111
+461.926.662.510
+546.734.145.565
+Các khoản tương đương tiền
+112
+30.870.119.680
+28.032.921.139
+Đầu tư tài chính ngắn hạn
+120
+28.003.792.159
+516.043.836
+Đầu tư nắm giữ đến ngày đáo hạn
+123
+7(a)
+28.003.792.159
+516.043.836
+Các khoản phải thu ngắn hạn
+130
+4.534.902.423.539
+2.024.273.013.463
+Phải thu của khách hàng
+131
+8(a)
+4.323.663.158.680
+1.778.136.480.894
+Trả trước cho người bán
+132
+9
+68.897.236.027
+100.085.092.644
+Phải thu ngắn hạn khác
+136
+10(a)
+159.191.323.984
+171.749.127.453
+Dự phòng phải thu khó đòi
+137
+8(c)
+(16.849.295.152)
+(25.697.687.528)
+Hàng tồn kho
+140
+11
+12.349.095.948.022
+5.523.844.442.201
+Hàng tồn kho
+141
+12.555.990.962.429
+5.568.878.411.270
+Dự phòng giảm giá hàng tồn kho
+149
+(206.895.014.407)
+(45.033.969.069)
+Tài sản ngắn hạn khác
+150
+1.250.361.403.675
+898.914.764.198
+Chi phí trả trước ngắn hạn
+151
+16(a)
+136.435.025.777
+141.636.982.795
+Thuế giá trị gia tăng được khấu trừ
+152
+1.108.616.194.136
+757.274.781.403
+Thuế phải thu Nhà nước
+153
+5.310.183.762
+3.000.000
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Bảng cân đối kế toán hợp nhất tại ngày 30 tháng 9 năm 2021
+  
+Mẫu B 01 – DN/HN
+  (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+8
+Năm kết thúc ngày
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+30/9/2020
+VND
+DOANH THU BÁN HÀNG VÀ CUNG CẤP 
+DỊCH VỤ
+01
+28
+48.987.333.712.28
+27.765.155.626.306
+Các khoản giảm trừ doanh thu
+02
+28
+260.811.478.549
+234.406.112.472
+Doanh thu thuần về bán hàng và
+cung cấp dịch vụ (10 = 01 - 02)
+10
+28
+48.726.522.233.736
+27.530.749.513.834
+Giá vốn hàng bán và dịch vụ cung cấp
+11
+29
+39.853.124.052.753
+22.903.482.165.423
+Lợi nhuận gộp (20 = 10 - 11)
+20
+8.873.398.180.983
+4.627.267.348.411
+Doanh thu hoạt động tài chính
+21
+30
+366.296.112.404
+77.984.494.109
+Chi phí tài chính
+22
+31
+552.008.300.634
+645.261.573.177
+Trong đó: Chi phí lãi vay
+23
+355.048.548.813
+560.086.135.926
+Chi phí bán hàng
+25
+32
+3.344.487.236.554
+2.221.083.074.110
+Chi phí quản lý doanh nghiệp
+26
+33
+425.816.363.938
+459.978.781.905
+Lợi nhuận thuần từ hoạt động kinh doanh
+{30 = 20 + (21 - 22) - (25 + 26)}
+30
+4.917.382.392.261
+1.378.928.413.328
+Thu nhập khác
+31
+34
+14.708.414.685
+28.617.237.724
+Chi phí khác
+32
+35
+16.607.736.066
+31.902.487.528
+Kết quả từ hoạt động khác 
+(40 = 31 - 32) 
+40
+(1.899.321.381)
+(3.285.249.804)
+Lợi nhuận kế toán trước thuế 
+(50 = 30 + 40)
+50
+4.915.483.070.880
+1.375.643.163.524
+Chi phí thuế TNDN hiện hành
+51
+37
+702.566.164.265
+259.835.557.336
+Lợi ích thuế TNDN hoãn lại
+52
+37
+(100.577.155.644)
+(37.206.411.121)
+LỢI NHUẬN SAU THUẾ TNDN 
+(60 = 50 - 51 - 52)
+(mang sang trang sau)
+60
+4.313.494.062.259
+1.153.014.017.309
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc 
+ngày 30 tháng 9 năm 2021
+  
+Mẫu B 02 – DN/HN
+ (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+7
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+1/10/2020
+VND
+NGUỒN VỐN
+NỢ PHẢI TRẢ (300 = 310 + 330)
+300
+15.786.236.174.085
+11.165.669.153.608
+Nợ ngắn hạn
+310
+14.372.246.601.418
+8.991.488.795.259
+Phải trả người bán
+311
+18
+4.293.881.185.244
+1.454.938.948.232
+Người mua trả tiền trước
+312
+268.020.163.980
+208.728.376.787
+Thuế phải nộp Nhà nước
+313
+19
+346.182.368.564
+271.827.347.796
+Phải trả người lao động
+314
+79.744.676.730
+75.605.377.314
+Chi phí phải trả
+315
+20
+298.559.691.259
+480.647.139.892
+Phải trả ngắn hạn khác
+319
+21
+3.574.141.589.235
+433.234.264.391
+Vay và nợ thuê tài chính ngắn hạn
+320
+22(a)
+5.436.688.415.777
+6.023.444.645.186
+Quỹ khen thưởng, phúc lợi
+322
+23
+75.028.510.629
+43.062.695.661
+Nợ dài hạn
+330
+1.413.989.572.667
+2.174.180.358.349
+Phải trả dài hạn khác
+337
+709.500.000
+709.500.000
+Vay và nợ thuê tài chính dài hạn
+338
+22(b)
+1.399.362.118.340
+2.162.915.544.533
+Dự phòng phải trả dài hạn
+342
+24
+13.917.954.327
+10.555.313.816
+VỐN CHỦ SỞ HỮU (400 = 410)
+400
+10.831.793.828.854
+6.590.738.511.323
+Vốn chủ sở hữu
+410
+25
+10.831.793.828.854
+6.590.738.511.323
+Vốn cổ phần
+411
+26
+4.934.818.960.000
+4.446.252.130.000
+- Cổ phiếu phổ thông có quyền biểu quyết
+411a
+4.934.818.960.000
+4.446.252.130.000
+Thặng dư vốn cổ phần
+412
+157.292.539.068
+151.583.183.521
+Cổ phiếu quỹ
+415
+-
+(3.271.000.000)
+Quỹ khác thuộc vốn chủ sở hữu
+420
+90.695.201.265
+35.535.781.824
+Lợi nhuận sau thuế chưa phân phối
+421
+5.633.071.186.571
+1.954.018.045.161
+- LNST chưa phân phối đến cuối năm trước
+421a
+1.383.841.163.863
+800.689.731.226
+- LNST chưa phân phối trong năm nay
+421b
+4.249.230.022.708
+1.153.328.313.935
+Lợi ích cổ đông không kiểm soát
+429
+15.915.941.950
+6.620.370.817
+TỔNG NGUỒN VỐN
+(440 = 300 + 400)
+440
+26.618.030.002.939
+17.756.407.664.931
+Ngày 24 tháng 12 năm 2021
+ 
+Người lập 
+Người duyệt
+ 
+Nguyễn Thị Thanh Tuyền 
+Nguyễn Thị Ngọc Lan 
+Trần Quốc Trí
+ 
+Kế toán 
+Kế toán trưởng 
+Tổng Giám đốc 
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Bảng cân đối kế toán hợp nhất tại ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 01 – DN/HN
+  (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+10
+Năm kết thúc ngày
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+30/9/2020
+VND
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+Lợi nhuận kế toán trước thuế
+01
+4.915.483.070.880
+1.375.643.163.524
+Điều chỉnh cho các khoản
+Khấu hao và phân bổ
+02
+1.185.959.400.847
+1.229.764.453.316
+Các khoản dự phòng
+03
+156.375.293.473
+16.247.641.558
+(Lãi)/lỗ chênh lệch tỷ giá do đánh giá lại các 
+khoản mục tiền tệ có gốc ngoại tệ
+04
+(4.523.936.793)
+8.093.493.896
+(Lãi)/lỗ từ hoạt động đầu tư
+05
+(111.174.418.192)
+11.969.098.415
+Chi phí lãi vay
+06
+355.048.548.813
+560.086.135.926
+Lợi nhuận từ hoạt động kinh doanh trước những 
+thay đổi vốn lưu động
+08
+6.497.167.959.028
+3.201.803.986.635
+Biến động các khoản phải thu
+09
+(2.857.778.927.583)
+(398.108.982.805)
+Biến động hàng tồn kho
+10
+(6.987.119.321.159)
+(969.498.666.166)
+Biến động các khoản phải trả và nợ phải trả khác
+11
+5.855.275.980.310
+983.533.510.048
+Biến động chi phí trả trước
+12
+33.403.745.158
+50.298.250.628
+2.540.949.435.754
+2.868.028.098.340
+Tiền lãi vay đã trả
+14
+(351.638.503.121)
+(563.994.610.863)
+Thuế thu nhập doanh nghiệp đã nộp
+15
+(629.606.456.169)
+(163.547.497.267)
+Tiền chi khác cho hoạt động kinh doanh
+17
+(63.628.027.964)
+(30.964.795.406)
+Lưu chuyển tiền thuần từ hoạt động kinh doanh
+20
+1.496.076.448.500
+2.109.521.194.804
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc
+ngày 30 tháng 9 năm 2021
+(Phương pháp gián tiếp)
+  
+Mẫu B 03 – DN/HN
+ (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+9
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Năm kết thúc ngày
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+30/9/2020
+VND
+LỢI NHUẬN SAU THUẾ TNDN 
+(60 = 50 - 51 - 52)
+(mang từ trang trước sang)
+60
+4.313.494.062.259
+1.153.014.017.309
+Trong đó:
+Lợi nhuận sau thuế của Công ty mẹ
+61
+4.313.507.233.783
+1.153.328.313.935
+Lỗ sau thuế của cổ đông không kiểm soát
+62
+(13.171.524)
+(314.296.626)
+Lãi trên cổ phiếu
+Lãi cơ bản trên cổ phiếu
+70
+38
+8.465
+2.265
+Ngày 24 tháng 12 năm 2021
+ 
+Người lập 
+Người duyệt
+ 
+Nguyễn Thị Thanh Tuyền 
+Nguyễn Thị Ngọc Lan 
+Trần Quốc Trí
+ 
+Kế toán 
+Kế toán trưởng 
+Tổng Giám đốc 
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc 
+ngày 30 tháng 9 năm 2021 (tiếp theo)
+  
+Mẫu B 02 – DN/HN
+ (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+12
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất đính kèm.
+1. ĐƠN VỊ BÁO CÁO
+(a) Hình thức sở hữu vốn
+ 
+Công ty Cổ phần Tập đoàn Hoa Sen (“Công ty”) là công ty cổ phần được thành lập tại Việt Nam.
+ 
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã chứng 
+khoán là “HSG” theo Quyết định Niêm yết số 117/QĐ-SGDHCM do Sở Giao dịch Chứng khoán Thành phố 
+Hồ Chí Minh cấp ngày 5 tháng 11 năm 2008.
+ 
+Báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 bao gồm Công ty và các công ty 
+con (được gọi chung là “Tập đoàn”).
+(b) Hoạt động chính
+ 
+Hoạt động chính của Tập đoàn là sản xuất tấm lợp bằng thép mạ kẽm, hợp kim nhôm kẽm, mạ kẽm phủ sơn, 
+và mạ các loại hợp kim khác; sản xuất xà gồ thép, xà gồ mạ kẽm; sản xuất ống thép đen, ống thép mạ kẽm, 
+ống thép mạ các loại hợp kim khác; sản xuất lưới thép mạ, dây thép mạ kẽm, dây thép các loại; mua bán 
+vật liệu xây dựng, tư liệu sản xuất và hàng tiêu dùng; dịch vụ cho thuê kho và vận tải hàng hóa; xây dựng 
+công nghiệp và dân dụng; sản xuất thép cán nguội dạng cuộn và cho thuê máy móc, thiết bị và đồ dùng hữu 
+hình khác.
+(c) Chu kỳ sản xuất kinh doanh thông thường 
+ 
+Chu kỳ sản xuất kinh doanh thông thường của Tập đoàn nằm trong phạm vi 12 tháng..
+(d) Cấu trúc Tập đoàn
+ 
+Tại ngày 30 tháng 9 năm 2021, Tập đoàn có 9 công ty con, 1 công ty liên kết (1/10/2020: 10 công ty con, 
+1 công ty liên kết), chi tiết như sau:
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+11
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Năm kết thúc ngày
+Mã 
+số
+Thuyết 
+minh
+30/9/2021
+VND
+30/9/2020
+VND
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
+Tiền chi mua sắm, xây dựng tài sản cố định và tài 
+sản dài hạn khác
+21
+(476.856.734.594)
+(398.137.474.514)
+Tiền thu từ thanh lý tài sản cố định
+22
+7.727.197.097
+7.619.573.128
+Tiền chi cho vay
+23
+(14.446.000.000)
+-
+Tiền chi tiền gửi có kỳ hạn và mua các công cụ nợ 
+của đơn vị khác
+23
+(23.015.588.323)
+(9.988.203.836)
+Tiền thu hồi từ khoản cho vay và tiền gửi có kỳ hạn
+24
+19.446.000.000
+76.250.000.000
+Tiền thu từ chuyển nhượng công ty con
+26
+188.062.042.687
+8.882.151.730
+Tiền thu lãi tiền gửi
+27
+3.424.914.740
+4.594.414.990
+Lưu chuyển tiền thuần từ hoạt động đầu tư
+30
+(295.658.168.393)
+(310.779.538.502)
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+Tiền thu từ phát hành cổ phiếu
+31
+44.000.000.000
+-
+Tiền mua lại cổ phiếu đã phát hành
+32
+-
+(812.000.000)
+Tiền thu từ bán cổ phiếu quỹ
+32
+8.980.355.547
+-
+Tiền thu từ nhận góp vốn vào công ty con từ cổ 
+đông không kiểm soát
+32
+14.446.000.000
+-
+Tiền thu từ đi vay
+33
+38.252.605.550.541
+22.583.653.369.329
+Tiền trả nợ gốc vay
+34
+(39.543.878.574.152)
+(24.031.275.249.680)
+Tiền trả nợ gốc thuê tài chính
+35
+(60.381.309.809)
+(64.120.907.969)
+Tiền trả cổ tức
+36
+(307.131.948)
+(22.299.100)
+Lưu chuyển tiền thuần từ hoạt động tài chính
+40
+(1.284.535.109.821)
+(1.512.577.087.420)
+Lưu chuyển tiền thuần trong năm
+(50 = 20 + 30 + 40)
+50
+(84.116.829.714)
+286.164.568.882
+Tiền và các khoản tương đương tiền đầu năm
+60
+574.767.066.704
+288.707.713.172
+Ảnh hưởng của chênh lệch tỷ giá quy đổi ngoại tệ
+61
+2.146.545.200
+(105.215.350)
+Tiền và các khoản tương đương tiền 
+cuối năm (70 = 50 + 60 + 61)
+70
+6
+492.796.782.190
+574.767.066.704
+Ngày 24 tháng 12 năm 2021
+ 
+Người lập 
+ 
+Người duyệt
+ 
+Nguyễn Thị Thanh Tuyền 
+Nguyễn Thị Ngọc Lan 
+Trần Quốc Trí
+ 
+Kế toán 
+Kế toán trưởng 
+Tổng Giám đốc 
+  
+Mẫu B 03 – DN/HN
+ (Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc
+ngày 30 tháng 9 năm 2021
+(Phương pháp gián tiếp - tiếp theo)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+14
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
+(a) Tuyên bố về tuân thủ
+ 
+Báo cáo tài chính hợp nhất được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp 
+Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+(b) Cơ sở đo lường
+ 
+Báo cáo tài chính hợp nhất, trừ báo cáo lưu chuyển tiền tệ hợp nhất, được lập trên cơ sở dồn tích theo nguyên 
+tắc giá gốc. Báo cáo lưu chuyển tiền tệ hợp nhất được lập theo phương pháp gián tiếp.
+(c) Kỳ kế toán năm
+ 
+Kỳ kế toán năm của Tập đoàn từ ngày 1 tháng 10 đến ngày 30 tháng 9 năm sau.
+(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính
+ 
+Đơn vị tiền tệ kế toán của Tập đoàn là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng cho mục 
+đích lập và trình bày báo cáo tài chính.
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU 
+ 
+Sau đây là những chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp 
+nhất này.
+(a) Cơ sở hợp nhất
+(i)  Công ty con
+ 
+Công ty con là các đơn vị chịu sự kiểm soát của Tập đoàn. Báo cáo tài chính của công ty con được hợp nhất 
+trong báo cáo tài chính hợp nhất kể từ ngày quyền kiểm soát bắt đầu có hiệu lực cho tới ngày quyền kiểm 
+soát chấm dứt.
+(ii)   Lợi ích cổ đông không kiểm soát
+ 
+Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong 
+tài sản thuần của đơn vị bị mua lại tại ngày mua.
+ 
+Việc thoái vốn của Tập đoàn trong công ty con mà không dẫn đến mất quyền kiểm soát được kế toán tương 
+tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của Tập đoàn trong tài 
+sản thuần của công ty con và số thu hoặc chi từ việc thoái vốn tại công ty con được ghi nhận vào lợi nhuận 
+sau thuế chưa phân phối thuộc vốn chủ sở hữu.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+13
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Tên công ty
+Hoạt động chính
+Tỷ lệ quyền sở hữu/
+quyền biểu quyết
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty con
+• Công ty TNHH Một Thành Viên 
+Hoa Sen Nghệ An
+Sản xuất và kinh doanh tấm lợp 
+bằng kim loại và các sản
+phẩm ống thép.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Hoa Sen Nhơn Hội - Bình Định
+Sản xuất và kinh doanh các sản 
+phẩm tấm lợp kim loại.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Tôn Hoa Sen
+Sản xuất và kinh doanh các sản 
+phẩm thép cán nguội.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Hoa Sen Phú Mỹ
+Sản xuất các sản phẩm thép dùng 
+cho vật liệu xây dựng và tiêu dùng.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Hoa Sen Hà Nam
+Sản xuất và kinh doanh vật liệu 
+xây dựng bằng nhựa và các sản 
+phẩm ống thép.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Vật liệu Xây dựng Hoa Sen
+Sản xuất và kinh doanh vật liệu 
+xây dựng bằng nhựa và các sản 
+phẩm ống thép.
+100%
+100%
+• Công ty TNHH Một Thành Viên 
+Hoa Sen Bình Định
+Sản xuất và kinh doanh vật liệu 
+xây dựng bằng nhựa và các sản 
+phẩm ống thép.
+100%
+100%
+• Công ty Cổ phần Hoa Sen Yên Bái Kinh doanh khách sạn, dịch vụ ăn 
+uống và khu trung tâm thương mại.
+95%
+95%
+• Công ty TNHH Một Thành Viên 
+Vật liệu Xây dựng Hoa Sen Yên Bái
+Sản xuất và kinh doanh các sản 
+phẩm ống thép.
+100%
+100%
+• Công ty Cổ phần Đầu tư Hạ 
+tầng Khu Công nghiệp Hoa Sen 
+Du Long (*)
+Đầu tư, xây dựng và kinh doanh 
+kết cấu hạ tầng khu công nghiệp.
+-
+95%
+Công ty liên kết
+• Công ty Cổ phần Cảng Quốc 
+tế Hoa Sen
+Cung cấp các dịch vụ hỗ trợ liên 
+quan đến vận tải.
+49%
+49%
+(*) Vào ngày 31 tháng 3 năm 2021, Hội đồng Quản trị Công ty Cổ phần Tập đoàn Hoa Sen đã quyết   định chuyển 
+nhượng toàn bộ cổ phần tại Công ty Cổ phần Đầu tư Hạ Tầng Khu công nghiệp Hoa Sen Du Long. Việc chuyển 
+nhượng đã hoàn tất vào ngày 2 tháng 4 năm 2021.
+ 
+Tại ngày 30 tháng 9 năm 2021, Tập đoàn có 7.584 nhân viên (1/10/2020: 7.209 nhân viên).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+16
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO) 
+(c) Tiền và các khoản tương đương tiền
+ 
+Tiền bao gồm tiền mặt và tiền gửi không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn 
+có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về 
+thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích 
+đầu tư hay là các mục đích khác.
+(d) Đầu tư nắm giữ đến ngày đáo hạn
+ 
+Đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc Công ty dự định và có khả 
+năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn và 
+trái phiếu ngân hàng. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.
+(e) Các khoản phải thu
+ 
+Các khoản phải thu khách hàng và các khoản phải thu khác được phản ánh theo giá gốc trừ đi dự phòng 
+phải thu khó đòi.
+(f) Hàng tồn kho
+ 
+Hàng tồn kho được phản ánh theo giá trị thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá 
+gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được 
+hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với thành phẩm và sản phẩm dở dang, giá gốc bao gồm 
+nguyên vật liệu, chi phí nhân công trực tiếp và các chi phí sản xuất chung được phân bổ. Giá trị thuần có thể 
+thực hiện được ước tính dựa vào giá bán của hàng tồn kho, trừ đi các khoản chi phí ước tính để hoàn thành 
+sản phẩm và các chi phí ước tính để bán sản phẩm.
+ 
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+(g) Tài sản cố định hữu hình
+(i) Nguyên giá
+ 
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản 
+cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên 
+quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến, và chi phí 
+để tháo dỡ, di dời tài sản và khôi phục hiện trường tại địa điểm đặt tài sản. Các chi phí phát sinh sau khi tài 
+sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào 
+báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chi phí phát sinh. Trong các trường hợp có 
+thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính 
+thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban 
+đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+15
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(a) Cơ sở hợp nhất (tiếp theo)
+(iii) Mất quyền kiểm soát
+ 
+Khi mất quyền kiểm soát tại một công ty con, Tập đoàn dừng ghi nhận tài sản và nợ phải trả của công ty con 
+cũng như lợi ích cổ đông không kiểm soát và các cấu phần vốn chủ sở hữu khác. Bất kỳ khoản lãi hoặc lỗ 
+nào phát sinh từ sự kiện này đều được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau 
+khi thoái vốn phần lợi ích còn lại trong công ty con trước đó (nếu có) được ghi nhận theo giá trị ghi sổ còn lại 
+của khoản đầu tư trên báo cáo tài chính riêng của công ty mẹ, sau khi được điều chỉnh theo tỷ lệ tương ứng 
+cho những thay đổi trong vốn chủ sở hữu kể từ ngày mua nếu Tập đoàn vẫn còn ảnh hưởng đáng kể trong 
+đơn vị nhận đầu tư, hoặc trình bày theo giá gốc của khoản đầu tư còn lại nếu không còn ảnh hưởng đáng 
+kể.
+(iv) Công ty liên kết
+ 
+Công ty liên kết là những công ty mà Tập đoàn có ảnh hưởng đáng kể, nhưng không kiểm soát, các chính 
+sách tài chính và hoạt động của công ty. Công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. 
+Báo cáo tài chính hợp nhất bao gồm phần mà Tập đoàn được hưởng trong thu nhập và chi phí của các công 
+ty liên kết, sau khi điều chỉnh theo chính sách kế toán của Tập đoàn, từ ngày bắt đầu cho tới ngày chấm dứt 
+sự ảnh hưởng đáng kể. Khi phần lỗ của đơn vị nhận đầu tư mà Tập đoàn phải chia sẻ vượt quá lợi ích của 
+Tập đoàn trong công ty liên kết, giá trị ghi sổ của khoản đầu tư (bao gồm các khoản đầu tư dài hạn, nếu có) 
+sẽ được ghi giảm tới bằng không và dừng việc ghi nhận các khoản lỗ phát sinh trong tương lai trừ các khoản 
+lỗ thuộc phạm vi mà Tập đoàn có nghĩa vụ phải trả hoặc đã trả thay cho công ty liên kết.
+(iv) Các giao dịch được loại trừ khi hợp nhất
+ 
+Các số dư và giao dịch trong nội bộ Tập đoàn và các khoản thu nhập và chi phí chưa thực hiện từ các giao 
+dịch nội bộ được loại trừ khi lập báo cáo tài chính hợp nhất. Khoản lãi và lỗ chưa thực hiện phát sinh từ các 
+giao dịch với các đơn vị nhận đầu tư được hạch toán theo phương pháp vốn chủ sở hữu được trừ vào khoản 
+đầu tư trong phạm vi lợi ích của Tập đoàn tại đơn vị nhận đầu tư.
+(b) Các giao dịch bằng ngoại tệ
+ 
+Các giao dịch bằng các đơn vị tiền khác VND trong năm được quy đổi sang VND theo tỷ giá thực tế tại ngày 
+giao dịch.
+ 
+Các khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND lần lượt 
+theo tỷ giá mua chuyển khoản và bán chuyển khoản của ngân hàng thương mại nơi Tập đoàn thường xuyên 
+có giao dịch tại ngày kết thúc kỳ kế toán năm.
+ 
+Tất cả các khoản chênh lệch tỷ giá được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+18
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+(j) Chi phí trả trước dài hạn (tiếp theo)
+(ii) Chi phí san lấp mặt bằng
+ 
+Chi phí san lấp mặt bằng bao gồm tiền chi ra cho việc san lấp mặt bằng tiền xây dựng được ghi nhận vào 
+báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê 
+đất là 49 năm 8 tháng.
+(iii) Chi phí thuê
+ 
+Chi phí thuê bao gồm tiền thuê kho trả trước cho việc sử dụng kho trong quá trình hoạt động sản xuất kinh 
+doanh của Tập đoàn và được ghi nhận ban đầu theo giá gốc. Chi phí thuê được phân bổ theo phương pháp 
+đường thẳng trong thời gian của hợp đồng thuê từ 2 đến 3 năm.
+(iv) Bảng hiệu quảng cáo
+ 
+Bảng hiệu quảng cáo được ghi nhận theo nguyên giá và phân bổ theo phương pháp đường thẳng trong thời 
+gian từ 2 đến 3 năm.
+(v) Chi phí sửa chữa
+ 
+Chi phí sửa chữa tài sản cố định phản ánh chi phí sửa chữa và thay thế máy móc, thiết bị và các tài sản cố 
+định khác nhưng không thỏa mãn điều kiện vốn hóa vào giá trị tài sản cố định. Chi phí sửa chữa được ghi 
+nhận ban đầu theo giá gốc và được phân bổ theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+(k) Lợi thế thương mại
+ 
+Lợi thế thương mại phát sinh trong việc mua lại công ty con, công ty liên kết và liên doanh. Lợi thế thương mại 
+được xác định theo giá gốc trừ đi giá trị hao mòn lũy kế. Giá gốc của lợi thế thương mại là khoản chênh lệch 
+giữa chi phí mua và lợi ích của Tập đoàn trong giá trị hợp lý thuần của các tài sản, nợ phải trả và nợ tiềm 
+tàng của đơn vị bị mua. Khoản chênh lệch âm (lãi từ giao dịch mua giá rẻ) được ghi nhận ngay vào báo cáo 
+kết quả hoạt động kinh doanh hợp nhất.
+ 
+Lợi thế thương mại phát sinh khi mua công ty con được phân bổ theo phương pháp đường thẳng trong vòng 
+tối đa 10 năm. Giá trị ghi sổ của lợi thế thương mại phát sinh khi mua công ty con được ghi giảm xuống 
+bằng giá trị có thể thu hồi khi Ban Tổng Giám đốc xác định khoản lợi thế thương mại không thể thu hồi toàn 
+bộ.
+ 
+Đối với các khoản đầu tư được kế toán theo phương pháp vốn chủ sở hữu, giá trị ghi sổ của lợi thế thương 
+mại nằm trong giá trị ghi sổ của khoản đầu tư và không được khấu hao.
+(l) Các khoản phải trả người bán và các khoản phải trả khác
+Các khoản phải trả người bán và các khoản phải trả khác thể hiện theo giá gốc.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+17
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+(g) Tài sản cố định hữu hình (tiếp theo)
+(ii) Khấu hao
+ 
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định 
+hữu hình. Thời gian hữu dụng ước tính như sau:
+ 
+• Nhà cửa, vật kiến trúc 
+5 – 50 năm
+ 
+• Máy móc và thiết bị 
+3 – 10 năm
+ 
+• Phương tiện vận chuyển 
+2 – 10 năm
+ 
+• Thiết bị văn phòng 
+3 – 10 năm
+ 
+• Tài sản khác 
+3 – 8 năm
+(h) Tài sản cố định vô hình
+(i) Quyền sử dụng đất
+ 
+Quyền sử dụng đất được thể hiện theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá ban đầu của 
+quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp tới việc có được quyền sử dụng đất. 
+Quyền sử dụng đất có thời hạn xác định được khấu hao theo phương pháp đường thẳng trong thời hạn sử 
+dụng là từ 14 đến 55 năm. Quyền sử dụng đất vô thời hạn không được trích khấu hao.
+(ii) Phần mềm máy vi tính
+ 
+Giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần 
+cứng có liên quan thì được vốn hoá và hạch toán như tài sản cố định vô hình. Phần mềm máy vi tính được 
+khấu hao theo phương pháp đường thẳng trong vòng 3 đến 6 năm.
+(i) Xây dựng cơ bản dở dang
+ 
+Xây dựng cơ bản dở dang phản ánh các khoản chi cho xây dựng hoặc triển khai tài sản cố định hữu hình 
+và tài sản cố định vô hình chưa được hoàn thành hoặc chưa lắp đặt xong. Tập đoàn không tính khấu hao 
+cho xây dựng cơ bản dở dang trong quá trình xây dựng và lắp đặt.
+(j) Chi phí trả trước dài hạn
+(i) Công cụ và dụng cụ
+ 
+Công cụ và dụng cụ bao gồm các tài sản Tập đoàn nắm giữ để sử dụng trong quá trình hoạt động kinh 
+doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện 
+ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ 
+theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+20
+(n) Vốn cổ phần
+(iii) Mua lại và phát hành lại cổ phiếu phổ thông (cổ phiếu quỹ) (tiếp theo)
+ 
+Từ ngày 1 tháng 1 năm 2021
+ 
+Cổ phiếu quỹ chỉ được ghi nhận đối với việc mua lại các cổ phiếu lẻ phát sinh khi phát hành cổ phiếu để trả 
+cổ tức hoặc phát hành cổ phiếu từ nguồn vốn chủ sở hữu theo phương án đã được thông qua, hoặc mua lại 
+cổ phiếu lô lẻ theo yêu cầu của cổ đông. Cổ phiếu lẻ là cổ phiếu đại diện cho phần vốn cổ phần hình thành 
+do gộp các phần lẻ cổ phần chia theo tỉ lệ cho nhà đầu tư. Trong tất cả các trường hợp khác, khi mua lại cổ 
+phiếu mà trước đó đã được ghi nhận là vốn chủ sở hữu, mệnh giá của các cổ phiếu mua lại phải được ghi 
+giảm trừ vào vốn cổ phần. Chênh lệch giữa mệnh giá của cổ phiếu mua lại và giá trị khoản thanh toán bao 
+gồm các chi phí liên quan trực tiếp, trừ đi thuế, được ghi nhận vào thặng dư vốn cổ phần.
+ 
+Thay đổi chính sách kế toán này được áp dụng phi hồi tố từ ngày 1 tháng 1 năm 2021 do các thay đổi trong 
+các quy định pháp luật áp dụng đối với việc mua lại cổ phiếu.
+(o) Thuế
+ 
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ của kỳ bao gồm thuế thu nhập hiện hành và thuế thu 
+nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp 
+nhất ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng 
+vào vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
+ 
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong kỳ sử dụng các 
+mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan 
+đến những kỳ trước.
+ 
+Thuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm thời giữa 
+giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục 
+tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi 
+hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu 
+lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+ 
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong 
+tương lai để chênh lệch tạm thời này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong 
+phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+(p) Doanh thu và thu nhập khác
+(i) Doanh thu bán hàng
+ 
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phần lớn rủi 
+ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá được chuyển giao cho người mua. Doanh 
+thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi 
+các khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu hàng bán được ghi nhận theo 
+giá trị thuần sau khi đã trừ đi các khoản chiết khấu giảm giá trên hóa đơn bán hàng.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+19
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+3. TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO) 
+(m) Dự phòng
+ 
+Một khoản dự phòng trừ những khoản dự phòng được đề cập ở các thuyết minh khác được ghi nhận nếu, do 
+kết quả của một sự kiện trong quá khứ, Tập đoàn có nghĩa vụ pháp lý hiện tại hoặc liên đới có thể ước tính 
+một cách đáng tin cậy, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các 
+khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến 
+phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phản ánh đánh giá của thị trường ở thời điểm hiện tại 
+về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
+ 
+Dự phòng trợ cấp thôi việc
+ 
+Theo Bộ luật Lao động Việt Nam, khi nhân viên làm việc cho công ty từ 12 tháng trở lên (“nhân viên đủ điều 
+kiện”) tự nguyện chấm dứt hợp đồng lao động của mình thì bên sử dụng lao động phải thanh toán tiền trợ 
+cấp thôi việc cho nhân viên đó tính dựa trên số năm làm việc và mức lương tại thời điểm thôi việc của nhân 
+viên đó. Dự phòng trợ cấp thôi việc được lập trên cơ sở số năm nhân viên làm việc cho Tập đoàn và mức 
+lương bình quân của họ trong vòng sáu tháng trước ngày kết thúc kỳ kế toán. Cho mục đích xác định số năm 
+làm việc của nhân viên, thời gian nhân viên đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật 
+và thời gian làm việc đã được Tập đoàn chi trả trợ cấp thôi việc được loại trừ.
+(n) Vốn cổ phần
+(i) Cổ phiếu phổ thông
+ 
+Cổ phiếu phổ thông được ghi nhận theo mệnh giá. 
+(ii) Thặng dư vốn cổ phần
+ 
+Khi nhận được tiền mua cổ phiếu từ các cổ đông, chênh lệch giữa giá phát hành và mệnh giá cổ phiếu được 
+ghi nhận vào tài khoản thặng dư vốn cổ phần trong vốn chủ sở hữu. Các chi phí phát sinh liên quan trực tiếp 
+đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế được ghi giảm thặng dư vốn cổ phần.
+(iii) Mua lại và phát hành lại cổ phiếu phổ thông (cổ phiếu quỹ)
+ 
+Trước ngày 1 tháng 1 năm 2021
+ 
+Khi mua lại cổ phiếu đã được ghi nhận là vốn chủ sở hữu, giá trị khoản thanh toán bao gồm các chi phí liên 
+quan trực tiếp, trừ đi thuế, được ghi giảm vào vốn chủ sở hữu. Cổ phiếu đã mua lại được phân loại là cổ 
+phiếu quỹ trong phần vốn chủ sở hữu. Khi cổ phiếu quỹ được bán ra (phát hành lại), giá vốn của cổ phiếu 
+phát hành lại được xác định theo phương pháp bình quân gia quyền. Chênh lệch giữa giá trị khoản tiền nhận 
+được và giá vốn của cổ phiếu phát hành lại được trình bày trong thặng dư vốn cổ phần.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+22
+(r) Chi phí đi vay
+ 
+Chi phí đi vay được ghi nhận là một chi phí trong kỳ khi chi phí này phát sinh, ngoại trừ trường hợp chi phí 
+đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì 
+khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
+(s) Lãi trên cổ phiếu 
+ 
+Tập đoàn trình bày lãi cơ bản trên cổ phiếu (EPS) cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ phiếu được 
+tính bằng cách lấy lãi hoặc lỗ thuộc về cổ đông phổ thông (sau khi đã trừ đi khoản phân bổ vào quỹ khen 
+thưởng phúc lợi cho kỳ kế toán báo cáo) chia cho số lượng cổ phiếu phổ thông bình quân gia quyền lưu hành 
+trong năm.
+ 
+Tập đoàn không có các cổ phiếu có tác động suy giảm tiềm năng, quy định về trình bày lãi suy giảm trên cổ 
+phiếu không áp dụng.
+(t) Báo cáo bộ phận
+ 
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản 
+phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc 
+dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và 
+thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận cơ bản của Tập đoàn là dựa theo 
+bộ phận chia theo hoạt động kinh doanh.
+(u) Các bên liên quan
+ 
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm 
+soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, 
+hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên 
+quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân 
+được coi là liên quan.
+(v) Thông tin so sánh
+ 
+Thông tin so sánh trong báo cáo tài chính hợp nhất này được trình bày dưới dạng dữ liệu tương ứng. Theo 
+phương pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của 
+báo cáo tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của 
+năm hiện tại. Theo đó, thông tin so sánh trong báo cáo tài chính hợp nhất này không nhằm mục đích trình 
+bày về tình hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ hợp nhất của Tập đoàn trong 
+năm trước.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+21
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+(p) Doanh thu và thu nhập khác (tiếp theo)
+(ii) Doanh thu cung cấp dịch vụ
+ 
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo tỷ 
+lệ phần trăm hoàn thành của giao dịch. Tỷ lệ phần trăm hoàn thành công việc được đánh giá dựa trên khảo 
+sát các công việc đã được thực hiện. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc 
+chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
+(iii) Thu nhập lãi tiền gửi
+ 
+Thu nhập lãi tiền gửi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+(q)  Thuê tài sản
+(i) Tài sản thuê
+ 
+Các hợp đồng thuê được phân loại là thuê tài chính nếu theo các điều khoản của hợp đồng, Tập đoàn, với 
+tư cách là bên thuê, đã nhận phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu. Tài sản cố định hữu hình 
+dưới hình thức thuê tài chính được thể hiện bằng số thấp hơn giữa giá trị hợp lý của tài sản cố định và giá 
+trị hiện tại của các khoản tiền thuê tối thiểu, tính tại thời điểm bắt đầu thuê, trừ đi giá trị hao mòn lũy kế.
+ 
+Khấu hao của tài sản thuê tài chính được hạch toán theo phương pháp đường thẳng dựa trên thời gian ngắn 
+hơn giữa thời hạn thuê và thời gian hữu dụng ước tính của tài sản thuê tài chính trừ khi chắc chắn là Tập đoàn 
+sẽ có quyền sở hữu tài sản khi hết hạn hợp đồng thuê. Thời gian hữu dụng ước tính của tài sản thuê tài chính 
+nhất quán với tài sản cố định hữu hình được nêu trong phần chính sách kế toán 3(g).
+ 
+Các tài sản thuê theo các hợp đồng thuê khác được phân loại là thuê hoạt động và không được ghi nhận 
+trên bảng cân đối kế toán hợp nhất của Tập đoàn.
+(ii) Các khoản thanh toán tiền thuê
+ 
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất 
+theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê đã nhận 
+được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất như là một bộ phận hợp thành của 
+tổng chi phí thuê, trong suốt thời hạn thuê.
+ 
+Các khoản thanh toán tiền thuê tài sản thuê tài chính được chia tách thành chi phí tài chính và khoản trả nợ 
+gốc. Chi phí tài chính phải được tính theo từng kỳ kế toán trong suốt thời hạn thuê để đạt tới một tỷ lệ lãi suất 
+định kỳ cố định trên số dư nợ còn lại.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+24
+5. CHUYỂN NHƯỢNG MỘT CÔNG TY CON
+Công ty Cổ phần Đầu tư Hạ tầng Khu Công nghiệp Hoa Sen Du Long
+Vào ngày 2 tháng 4 năm 2021, Tập đoàn đã chuyển nhượng toàn bộ lợi ích vốn chủ sở hữu trong Công ty Cổ phần 
+Đầu tư Hạ tầng Khu Công nghiệp Hoa Sen Du Long. Việc chuyển nhượng có ảnh hưởng sau đây đến tài sản và nợ 
+phải trả của Tập đoàn vào ngày chuyển nhượng:
+Giá trị ghi sổ tại ngày 
+chuyển nhượng
+VND
+Tiền và các khoản tương đương tiền
+37.957.313
+Các khoản phải thu ngắn hạn
+1.982.939.452
+Hàng tồn kho
+6.770.000
+Tài sản ngắn hạn khác
+5.572.266.092
+Xây dựng cơ bản dở dang
+77.905.805.100
+Tổng giá trị ghi sổ của tài sản thuần được thanh lý
+85.505.737.957
+Giá trị ghi sổ tương ứng của phần sở hữu của Tập đoàn
+80.368.480.614
+Lãi từ thanh lý công ty con (Thuyết minh 30)
+107.731.519.386
+Tổng giá chuyển nhượng
+188.100.000.000
+Tiền thu thuần
+188.062.042.687
+6. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+30/9/2021
+VND
+1/10/2020
+VND
+Tiền mặt
+14.457.442.293
+38.446.527.451
+Tiền gửi ngân hàng
+447.299.736.438
+508.279.639.554
+Tiền đang chuyển
+169.483.779
+7.978.560
+Các khoản tương đương tiền (*)
+30.870.119.680
+28.032.921.139
+492.796.782.190
+574.767.066.704
+(*)  Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn tại các ngân hàng với thời gian đáo hạn 
+không quá 3 tháng kể từ ngày gửi và hưởng lãi suất năm từ 3,0% đến 4,0% (1/10/2020: từ 3,0% đến 4,8%).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+23
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+4. BÁO CÁO BỘ PHẬN
+(a) Bộ phận chia theo hoạt động kinh doanh
+ 
+Hoạt động kinh doanh chính của Tập đoàn là mua bán tấm lợp bằng thép, ống thép, vật liệu xây dựng. Hoạt 
+động khác là cho thuê tài sản và cung cấp dịch vụ. Trong năm, hoạt động khác chiếm tỷ trọng không đáng 
+kể trong tổng doanh thu và kết quả hoạt động kinh doanh hợp nhất của Tập đoàn, theo đó thông tin tài chính 
+trình bày trên bảng cân đối kế toán hợp nhất tại ngày 30 tháng 9 năm 2021 và ngày 1 tháng 10 năm 2020 
+và toàn bộ doanh thu, chi phí trình bày trên báo cáo kết quả hoạt động kinh doanh hợp nhất cho các năm 
+kết thúc ngày 30 tháng 9 năm 2021 và ngày 30 tháng 9 năm 2020 chủ yếu liên quan đến hoạt động kinh 
+doanh chính của Tập đoàn.
+(b) Bộ phận chia theo khu vực địa lý 
+Bộ phận chia theo khu vực địa lý của Tập đoàn dựa vào vị trí địa lý của khách hàng như sau:
+Bộ phận chia theo khu vực địa lý
+Trong nước
+VND
+Nước ngoài
+VND
+Tổng
+VND
+Năm kết thúc ngày
+30 tháng 9 năm 2021
+Doanh thu
+20.397.366.150.732
+28.329.156.083.004
+48.726.522.233.736
+Giá vốn
+(14.272.927.853.826)
+(25.580.196.198.927)
+(39.853.124.052.753)
+6.124.438.296.906
+2.748.959.884.077
+8.873.398.180.983
+Năm kết thúc ngày 
+30 tháng 9 năm 2020
+Doanh thu
+17.439.544.287.525
+10.091.205.226.309
+27.530.749.513.834
+Giá vốn
+(13.329.842.491.295)
+(9.573.639.674.128)
+(22.903.482.165.423)
+4.109.701.796.230
+517.565.552.181
+4.627.267.348.411
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+26
+(b)  Đầu tư tài chính dài hạn
+ 
+30/9/2021
+1/10/2020
+% vốn chủ 
+sở hữu/
+quyền biểu 
+quyết theo 
+giấy phép
+Giá gốc
+VND
+Hạch toán theo 
+phương pháp 
+vốn chủ sở hữu
+VND
+Giá trị 
+hợp lý
+VND
+% vốn chủ 
+sở hữu/
+quyền biểu 
+quyết theo 
+giấy phép
+Giá gốc
+VND
+Hạch toán theo 
+phương pháp 
+vốn chủ sở hữu
+VND
+Giá trị 
+hợp lý
+VND
+Đầu tư vào các công ty liên kết 
+Công ty Cổ phần Cảng Quốc tế 
+Hoa Sen (**)
+49%
+-
+-
+-
+49%
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(**) Công ty Cổ phần Cảng Quốc tế Hoa Sen được thành lập theo Giấy Chứng Nhận Đăng Ký Doanh Nghiệp số 3502399898 do Sở Kế Hoạch và Đầu Tư Tỉnh 
+Bà Rịa Vũng Tàu cấp ngày 5 tháng 7 năm 2019, theo đó Tập đoàn nắm giữ 49% quyền sở hữu. Tại ngày 30 tháng 9 năm 2021, Tập đoàn vẫn chưa góp vốn 
+vào Công ty Cổ phần Cảng Quốc tế Hoa Sen.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+25
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+7. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+(a) Đầu tư nắm giữ đến ngày đáo hạn
+(i) Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn
+Đầu tư nắm giữ đến ngày đáo hạn – ngắn hạn phản ánh các khoản tiền gửi có kỳ hạn tại các ngân hàng với thời 
+gian đáo hạn trên 3 tháng kể từ ngày gửi và dưới 12 tháng kể từ ngày kết thúc niên độ. Tiền gửi có kỳ hạn được gửi 
+bằng VND và hưởng lãi suất năm từ 3,7% đến 4,9% (1/10/2020: từ 3,0% đến 4,8%).
+Tại ngày 30 tháng 9 năm 2021, khoản tiền gửi với giá trị 4.472 triệu VND được sử dụng để đảm bảo cho hợp 
+đồng cấp bảo lãnh của Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh Khu Công nghiệp 
+Bình Dương.
+(ii) Đầu tư nắm giữ đến ngày đáo hạn – dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Trái phiếu do Công ty Cổ phần Chứng khoán Ngân hàng 
+Công thương Việt Nam phát hành (*)
+16.000.000.000
+16.000.000.000
+Trái phiếu do Công ty Cổ phần Chứng khoán Agribank 
+phát hành (**)
+1.000.000.000
+1.000.000.000
+Tiền gửi có kỳ hạn tại Ngân hàng TMCP Công thương Việt 
+Nam - Chi nhánh KCN Bình Dương
+-
+4.472.160.000
+Trái phiếu do Công ty Cổ phần Chứng khoán Ngân hàng 
+Thương mại Cổ phần Đầu Tư Và Phát Triển Việt Nam phát hành
+-
+5.000.000.000
+17.000.000.000
+26.472.160.000
+(*) Trái phiếu có kỳ hạn gốc là 10 năm, phát hành bằng VND và hưởng lãi suất thả nổi cộng biên độ năm là 1,2% 
+(1/10/2020: lãi suất thả nổi cộng biên độ năm là 1,2%).
+(**) Trái phiếu có kỳ hạn gốc là 7 năm, phát hành bằng VND và hưởng lãi suất thả nổi cộng biên độ năm là 1,2% 
+(1/10/2020: lãi suất thả nổi cộng biên độ năm là 1,2%).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+28
+(c) Nợ xấu và nợ khó đòi
+ 
+30/9/2021
+1/10/2020
+Số ngày
+quá hạn
+Giá gốc
+VND
+Dự phòng
+VND
+Giá trị 
+có thể thu hồi
+VND
+Số ngày
+quá hạn
+Giá gốc
+VND
+Dự phòng
+VND
+Giá trị 
+có thể thu hồi
+VND
+Nợ quá hạn 
+Công ty Cổ Phần Tư Vấn Thương 
+Mại Xây Dựng Mê Kông
+3 – 4 năm
+1.648.743.436
+(1.648.743.436)
+-
+2 – 3 năm
+1.648.743.436
+(1.648.743.436)
+-
+Công ty TNHH Hải Thuỷ
+Trên 
+2 năm
+1.545.000.625
+(1.545.000.625)
+-
+Trên
+1 năm
+1.545.000.625
+(1.545.000.625)
+-
+Công ty TNHH Thép Xây Dựng 
+Hiệp Loan
+Trên 
+2 năm
+1.243.508.106
+(1.243.508.106)
+-
+Trên
+1 năm
+1.243.508.106
+(1.243.508.106)
+-
+Công ty TNHH Một Thành Viên Sản 
+Xuất Và Thương Mại Phúc Đức 
+-
+-
+-
+Trên 6 
+tháng
+1.096.410.095
+(1.096.410.095)
+-
+Doanh nghiệp tư nhân
+Hoàng Thái
+Trên 
+2 năm
+1.023.359.294
+(1.023.359.294)
+-
+Trên 
+1 năm
+1.023.359.294
+(1.023.359.294)
+-
+Công ty Thương Mại, Dịch Vụ Và 
+Xây Dựng Yên Mai (TNHH)
+-
+-
+-
+Trên 6 
+tháng
+839.518.227
+(839.518.227)
+-
+Công ty TNHH Thương Mại &
+Sản Xuất Toàn Phát HN
+-
+-
+-
+6 tháng –
+1 năm
+1.426.131.048
+(1.426.131.048)
+-
+Các khách hàng khác
+11.388.683.691
+(11.388.683.691)
+-
+16.875.016.697
+(16.875.016.697)
+-
+16.849.295.152
+(16.849.295.152)
+-
+25.697.687.528
+(25.697.687.528)
+-
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+27
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+8. PHẢI THU CỦA KHÁCH HÀNG
+(a)  Phải thu của khách hàng chi tiết theo khách hàng lớn
+30/9/2021
+VND
+1/10/2020
+VND
+Hanwa Co., Ltd – Nagoya Branch
+641.244.798.681
+12.198.320.650
+Duferco Sa
+579.108.806.311
+2.486.767.208
+Posco International Corporation
+439.530.448.796
+22.905.128.469
+Isi Steel Co., Ltd.
+21.600.642.482
+338.062.125.796
+Các khách hàng khác
+2.642.178.462.410
+1.402.484.138.771
+4.323.663.158.680
+1.778.136.480.894
+Tại ngày 30 tháng 9 năm 2021, phải thu khách hàng có giá trị ghi sổ là 570.000 triệu VND và phải thu phát sinh 
+từ bộ chứng từ thanh toán xuất khẩu có giá trị 2.300.000 triệu VND (1/10/2020: 570.000 triệu VND phải thu và 
+2.300.000 triệu VND phải thu phát sinh từ bộ chứng từ thanh toán xuất khẩu) được thế chấp tại ngân hàng để đảm 
+bảo cho các khoản vay của Tập đoàn (Thuyết minh 22).
+(b) Phải thu của khách hàng là các bên liên quan
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty thuộc sở hữu của Chủ tịch Tập đoàn
+Công ty TNHH Một Thành Viên Đầu tư Hoa Sen Nghệ An
+51.333.808
+19.800.000
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+-
+34.749.020
+Khoản phải thu thương mại từ các bên liên quan không có đảm bảo, không hưởng lãi và được hoàn trả trong vòng 
+là 45 ngày kể từ ngày ghi trên hóa đơn.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+30
+10. PHẢI THU KHÁC (TIẾP THEO)
+Phải thu ngắn hạn khác từ các bên liên quan
+30/9/2021
+VND
+1/10/2020
+VND
+Công ty thuộc sở hữu của Chủ tịch Tập đoàn
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+1.470.000.000
+2.059.900.000
+Nhân sự chủ chốt
+Ông Hoàng Đức Huy - Phó Tổng Giám đốc
+45.462.225.000
+45.462.225.000
+Các khoản phải thu khác từ bên liên quan không có đảm bảo, không hưởng lãi và được hoàn trả khi có yêu cầu.
+(b) Phải thu dài hạn khác
+30/9/2021
+VND
+1/10/2020
+VND
+Đặt cọc thuê mặt bằng
+178.887.837.400
+181.758.529.000
+Phải thu khác
+1.000.000.000
+3.191.000.000
+179.887.837.400
+184.949.529.000
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+29
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Biến động dự phòng phải thu khó đòi trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+25.697.687.528
+10.291.966.694
+Dự phòng trích lập trong năm
+-
+15.405.720.834
+Dự phòng hoàn nhập trong năm
+(8.848.392.376)
+-
+Số dư cuối năm
+16.849.295.152
+25.697.687.528
+9. TRẢ TRƯỚC CHO NGƯỜI BÁN
+30/9/2021
+VND
+1/10/2020
+VND
+Xí Nghiệp Phân Phối Khí Thấp Áp Vũng Tàu
+9.000.000.000
+12.151.382.390
+Chi nhánh Công ty TNHH Thép Hòa Phát Hưng Yên Tại 
+Bình Dương
+10.183.555
+21.469.960.714
+Công ty Cổ Phần Xây Dựng Kinex Việt Nam
+546.858.800
+14.348.431.632
+Công ty TNHH Kim Ngươn
+-
+11.650.000.000
+Các nhà cung cấp khác
+59.340.193.672
+40.465.317.908
+68.897.236.027
+100.085.092.644
+10. PHẢI THU KHÁC
+(a) Phải thu ngắn hạn khác
+30/9/2021
+VND
+1/10/2020
+VND
+Tạm ứng để mua đất
+45.462.225.000
+45.462.225.000
+Tạm ứng cho người lao động
+35.631.264.951
+42.103.309.219
+Phải thu từ chuyển nhượng quyền sử dụng đất
+12.818.775.000
+12.818.775.000
+Bồi thường và giải phóng mặt bằng
+20.000.000.000
+20.000.000.000
+Ký quỹ ngắn hạn và đặt cọc thuê mặt bằng
+38.929.346.750
+42.305.656.080
+Phải thu khác
+6.349.712.283
+9.059.162.154
+159.191.323.984
+171.749.127.453
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+32
+11. TÀI SẢN CỐ ĐỊNH HỮU HÌNH
+ 
+Nhà cửa, 
+vật kiến trúc VND
+ Máy móc 
+và thiết bị
+VND
+Phương tiện 
+vận chuyển
+VND
+Thiết bị 
+văn phòng
+VND
+Tài sản khác 
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+2.471.415.069.857
+10.273.310.183.375
+470.065.259.436
+87.597.045.920
+27.050.374.923
+13.329.437.933.511
+Tăng trong năm
+124.900.000
+69.062.217.895
+5.523.305.394
+-
+-
+74.710.423.289
+Chuyển từ xây dựng cơ bản dở dang
+72.900.561.390
+100.359.483.607
+1.783.750.049
+-
+-
+175.043.795.046
+Chuyển từ tài sản hữu hình thuê tài chính
+-
+120.808.224.881
+9.560.000.000
+-
+-
+130.368.224.881
+Thanh lý
+(71.955.649)
+(25.217.546.101)
+(7.518.767.367)
+-
+-
+(32.808.269.117)
+Xóa sổ
+-
+(4.704.277.378)
+-
+-
+-
+(4.704.277.378)
+Giảm từ quyết toán khối lượng công trình
+(185.310.368)
+-
+ - 
+ - 
+ - 
+(185.310.368)
+Số dư cuối năm
+2.544.183.265.230
+10.533.618.286.279
+479.413.547.512
+87.597.045.920
+27.050.374.923
+13.671.862.519.864
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+689.091.528.334
+5.040.773.688.555
+268.928.936.816
+46.144.436.204
+22.071.065.914
+6.067.009.655.823
+Khấu hao trong năm
+127.546.094.302
+975.200.767.119
+55.242.998.965
+11.007.941.301
+597.734.673
+1.169.595.536.360
+Chuyển từ tài sản hữu hình thuê tài chính
+-
+19.988.653.492
+2.312.317.061
+-
+-
+22.300.970.553
+Thanh lý
+(71.955.649)
+(20.067.711.030)
+(5.689.678.699)
+-
+-
+(25.829.345.378)
+Xóa sổ
+-
+(4.023.993.434)
+-
+-
+-
+(4.023.993.434)
+Số dư cuối năm
+816.565.666.987
+6.011.871.404.702
+320.794.574.143
+57.152.377.505
+22.668.800.587
+7.229.052.823.924
+Giá trị còn lại
+Số dư đầu năm
+1.782.323.541.523
+5.232.536.494.820
+201.136.322.620
+41.452.609.716
+4.979.309.009
+7.262.428.277.688
+Số dư cuối năm
+1.727.617.598.243
+4.521.746.881.577
+158.618.973.369
+30.444.668.415
+4.381.574.336
+6.442.809.695.940
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+31
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+11. HÀNG TỒN KHO
+30/9/2021
+1/10/2020
+Giá gốc
+VND
+Dự phòng
+VND
+Giá gốc
+VND
+Dự phòng
+VND
+Hàng mua đang đi 
+trên đường 
+1.105.140.612.021
+-
+1.382.843.392.363
+-
+Nguyên vật liệu
+4.603.302.420.591
+(29.198.980.627)
+1.130.658.074.684
+(16.115.794.147)
+Công cụ và dụng cụ
+554.815.549.339
+-
+569.463.528.312
+-
+Chi phí sản xuất kinh 
+doanh dở dang
+-
+-
+1.646.096.388
+-
+Thành phẩm
+4.068.877.356.961
+(167.365.717.233)
+1.694.167.547.960
+(24.672.838.046)
+Hàng hóa
+2.223.855.023.517
+(10.330.316.547)
+790.099.771.563
+(4.245.336.876)
+12.555.990.962.429 (206.895.014.407) 5.568.878.411.270
+(45.033.969.069)
+Tại ngày 30 tháng 9 năm 2021, hàng tồn kho có giá trị ghi sổ là 8.449.472 triệu VND (1/10/2020: 
+2.800.786 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Tập đoàn (Thuyết 
+minh 22).
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+45.033.969.069
+51.851.107.911
+Trích lập dự phòng trong năm
+161.861.045.338
+-
+Hoàn nhập trích lập trong năm
+-
+(6.817.138.842)
+Số dư cuối năm
+206.895.014.407
+45.033.969.069
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+34
+14.  TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+Quyền
+sử dụng đất
+VND
+Phần mềm 
+máy vi tính
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+235.025.409.765
+48.073.267.834
+283.098.677.599
+Tăng trong năm
+-
+11.418.681.319
+11.418.681.319
+Số dư cuối năm
+235.025.409.765
+59.491.949.153
+294.517.358.918
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+41.070.533.857
+21.866.008.093
+62.936.541.950
+Khấu hao trong năm
+3.453.969.163
+8.874.890.352
+12.328.859.515
+Số dư cuối năm
+44.524.503.020
+30.740.898.445
+75.265.401.465
+Giá trị còn lại
+Số dư đầu năm
+193.954.875.908
+26.207.259.741
+220.162.135.649
+Số dư cuối năm
+190.500.906.745
+28.751.050.708
+219.251.957.453
+Trong tài sản cố định vô hình có các tài sản với nguyên giá là 456 triệu VND đã được khấu hao hết tại ngày 30 tháng 9 
+năm 2021 (1/10/2020: 456 triệu VND), nhưng vẫn đang được sử dụng.
+Tại ngày 30 tháng 9 năm 2021, các tài sản cố định vô hình có giá trị còn lại là 88.587 triệu VND (1/10/2020: 99.988 
+triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Tập đoàn (Thuyết minh 22).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+33
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Trong tài sản cố định hữu hình có các tài sản với nguyên giá 1.700.044 triệu VND đã khấu hao hết tại ngày 30 tháng 9 
+năm 2021 (1/10/2020: 1.166.403 triệu VND), nhưng vẫn đang được sử dụng.
+Tại ngày 30 tháng 9 năm 2021, tài sản cố định hữu hình có giá trị còn lại là 5.317.975 triệu VND (1/10/2020: 6.185.137 
+triệu VND) được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Tập đoàn (Thuyết minh 22).
+13. TÀI SẢN CỐ ĐỊNH HỮU HÌNH THUÊ TÀI CHÍNH
+Máy móc 
+và thiết bị
+VND
+Phương tiện 
+vận chuyển
+VND
+Tổng
+VND
+Nguyên giá
+Số dư đầu năm
+120.907.379.881
+9.560.000.000
+130.467.379.881
+Chuyển sang tài sản cố định hữu hình
+(120.808.224.881)
+(9.560.000.000)
+(130.368.224.881)
+Xóa sổ
+(99.155.000)
+-
+(99.155.000)
+Số dư cuối năm
+-
+-
+-
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+16.496.773.823
+1.818.341.410
+18.315.115.233
+Khấu hao trong năm
+3.541.029.321
+493.975.651
+4.035.004.972
+Chuyển sang tài sản cố định hữu hình
+(19.988.653.492)
+(2.312.317.061)
+(22.300.970.553)
+Xóa sổ
+(49.149.652)
+-
+(49.149.652)
+Số dư cuối năm
+-
+-
+-
+Giá trị còn lại
+Số dư đầu năm
+104.410.606.058
+7.741.658.590
+112.152.264.648
+Số dư cuối năm
+-
+-
+-
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+36
+16. CHI PHÍ TRẢ TRƯỚC
+(a) Chi phí trả trước ngắn hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Chi phí thuê trả trước
+61.118.651.512
+59.399.652.052
+Chi phí quảng cáo
+4.977.085.978
+24.829.641.795
+Công cụ và dụng cụ
+47.490.066.391
+43.529.656.120
+Phí bảo hiểm
+2.708.146.140
+1.585.945.970
+Chi phí sửa chữa
+5.401.342.918
+5.140.546.849
+Chi phí tư vấn
+430.991.668
+1.889.338.410
+Chi phí khác
+14.308.741.170
+5.262.201.599
+136.435.025.777
+141.636.982.795
+(b) Chi phí trả trước dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Công cụ và dụng cụ
+82.143.471.550
+100.595.642.595
+Chi phí san lấp mặt bằng
+74.922.871.392
+76.600.246.305
+Chi phí thuê trả trước
+49.633.658.164
+52.465.115.643
+Bảng hiệu quảng cáo
+15.059.349.254
+15.374.300.149
+Chi phí sửa chữa
+19.284.076.785
+12.292.628.995
+Chi phí khác
+22.732.785.510
+15.406.836.595
+263.776.212.655
+272.734.770.282
+Biến động chi phí trả trước dài hạn trong năm như sau: 
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+272.734.770.282
+365.534.127.666
+Tăng trong năm
+95.839.433.370
+82.532.801.042
+Chuyển sang tài sản cố định hữu hình
+-
+(163.628.065)
+Chuyển từ xây dựng cơ bản dở dang
+15.526.908.150
+12.637.706.813
+Chuyển (sang)/từ chi phí trả trước ngắn hạn
+(3.500.000)
+240.769.417
+Phân bổ trong năm
+(118.232.051.179)
+(187.417.700.068)
+Thanh lý và xóa sổ
+(2.089.347.968)
+(629.306.523)
+Số dư cuối năm
+263.776.212.655
+272.734.770.282
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+35
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+15. XÂY DỰNG CƠ BẢN DỞ DANG
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+575.955.787.725
+576.452.872.180
+Tăng trong năm
+356.566.427.659
+246.758.507.548
+Chuyển sang tài sản cố định hữu hình
+(175.043.795.046)
+(203.450.203.825)
+Chuyển sang chi phí trả trước ngắn hạn
+(3.716.322.363)
+(2.419.457.088)
+Chuyển sang chi phí trả trước dài hạn
+(15.526.908.150)
+(12.637.706.813)
+Giảm do chuyển nhượng công ty con
+(77.905.805.100)
+(28.748.224.277)
+Số dư cuối năm
+660.329.384.725
+575.955.787.725
+Các công trình xây dựng cơ bản dở dang lớn như sau:
+30/9/2021
+VND
+1/10/2020
+VND
+Máy móc, thiết bị chờ lắp đặt
+35.679.907.327
+67.957.814.979
+Xây dựng nhà máy
+178.108.117.347
+110.723.594.232
+Xây dựng dự án Hoa Sen Yên Bái
+368.688.188.434
+347.706.768.372
+Giải phóng mặt bằng dự án Hoa Sen Hà Nam
+38.794.072.000
+38.794.072.000
+Giải phóng mặt bằng dự án Hoa Sen Phú Mỹ
+11.500.000.000
+-
+Sửa chữa lớn tài sản cố định
+11.187.832.111
+10.597.766.331
+Các công trình khác
+16.371.267.506
+175.771.811
+660.329.384.725
+575.955.787.725
+Trong năm, chi phí vay được vốn hóa vào xây dựng cơ bản dở dang là 15.080 triệu VND (năm kết thúc ngày 
+30/9/2020: là 10.038 triệu VND).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+38
+19. THUẾ PHẢI NỘP NHÀ NƯỚC 
+ 
+ 1/10/2020
+VND
+Số phải nộp
+trong năm
+VND
+Số đã nộp
+trong năm
+VND
+Số đã cấn trừ
+VND
+Phân loại lại
+VND
+30/9/2021
+VND
+Thuế giá trị gia tăng
+175.141.284.813
+13.522.409.387.473
+(2.183.512.707.115)
+(11.339.817.353.690)
+(1.386.919.443)
+172.833.692.038
+Thuế xuất nhập khẩu
+456.189.132
+5.977.033.761
+(6.267.355.109)
+-
+-
+165.867.784
+Thuế thu nhập doanh nghiệp
+93.273.828.511
+702.566.164.265
+(629.606.456.169)
+-
+5.296.564.045
+171.530.100.652
+Thuế thu nhập cá nhân
+2.863.365.640
+35.552.524.625
+(36.761.584.196)
+(91.839.508)
+720.809
+1.563.187.370
+Thuế khác
+92.679.700
+3.412.340.916
+(3.412.499.896)
+-
+(3.000.000)
+89.520.720
+271.827.347.796
+14.269.917.451.040
+(2.859.560.602.485)
+(11.339.909.193.198)
+3.907.365.411
+346.182.368.564
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+37
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+17. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI 
+30/9/2021
+VND
+1/10/2020
+VND
+Tài sản thuế thu nhập hoãn lại ghi nhận đối với:
+• Lợi nhuận chưa thực hiện
+80.651.828.368
+39.216.457.247
+• Chi phí phải trả
+74.249.427.448
+24.728.361.887
+• Các khoản dự phòng
+24.913.309.365
+11.977.576.816
+• Các khoản mục khác
+-
+3.315.013.587
+179.814.565.181
+79.237.409.537
+18.  PHẢI TRẢ NGƯỜI BÁN 
+(a) Phải trả người bán chi tiết theo nhà cung cấp lớn 
+30/9/2021
+Giá gốc/ Số có
+khả năng trả nợ
+VND
+1/10/2020
+Giá gốc/ Số có
+khả năng trả nợ
+VND
+Công Ty TNHH Gang Thép Hưng Nghiệp Formosa Hà Tĩnh
+1.779.225.472.530
+296.702.697.996
+Xiamen ITG Group Corp., LTD.
+630.195.444.218
+-
+Công ty TNHH Thép Kim Quốc
+622.557.774.639
+59.872.948.917
+Nippon Steel Trading Corporation
+-
+303.482.841.213
+Các nhà cung cấp khác
+1.261.902.493.857
+794.880.460.106
+4.293.881.185.244
+1.454.938.948.232
+(b) Phải trả người bán là các bên liên quan
+30/9/2021
+Giá gốc/ Số có
+khả năng trả nợ
+VND
+1/10/2020
+Giá gốc/ Số có
+khả năng trả nợ
+VND
+Công ty thuộc sở hữu của Chủ tịch Tập đoàn
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+8.280.625.262
+7.018.375.408
+Công ty TNHH Một Thành Viên Đầu tư Hoa Sen Nghệ An
+6.872.127.178
+2.449.892.438
+Khoản phải trả thương mại đối với các bên liên quan không được đảm bảo, không chịu lãi và phải trả trong vòng 
+45 ngày kể từ ngày hóa đơn.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+40
+22.  VAY VÀ NỢ THUÊ TÀI CHÍNH
+(a) 
+Vay và nợ thuê tài chính ngắn hạn
+ 
+1/10/2020
+Biến động trong năm
+30/9/2021
+ Giá trị ghi sổ/Số 
+có khả năng trả nợ
+VND
+Tăng
+VND
+Giảm
+VND
+Chênh lệch
+ tỷ giá
+VND
+Giá trị ghi sổ/ Số có 
+khả năng trả nợ
+VND
+Vay ngắn hạn
+5.266.057.103.675
+38.252.605.550.541
+(38.690.118.916.257)
+1.344.677.818
+4.829.888.415.777
+Vay dài hạn đến hạn trả (b)
+724.728.971.847
+640.800.000.000
+(758.728.971.847)
+-
+606.800.000.000
+Nợ gốc thuê tài chính đến hạn trả trong vòng 12 
+tháng (c)
+32.658.569.664
+ 8.164.642.416
+(40.823.212.080)
+ - 
+-
+6.023.444.645.186
+38.901.570.192.957
+(39.489.671.100.184)
+1.344.677.818
+5.436.688.415.777
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+39
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+20. CHI PHÍ PHẢI TRẢ 
+30/9/2021
+VND
+1/10/2020
+VND
+Chi phí lương và thưởng
+211.122.463.563
+442.569.291.620
+Chi phí vận chuyển
+43.680.114.673
+219.189.613
+Xây dựng cơ bản dở dang
+13.331.759.284
+10.787.448.808
+Chi phí lãi vay
+10.828.881.202
+7.418.835.510
+Chi phí dự phòng thuế
+5.543.056.774
+3.912.745.955
+Chi phí tiền điện
+643.394.816
+380.529.874
+Chi phí khác
+13.410.020.947
+15.359.098.512
+298.559.691.259
+480.647.139.892
+21. PHẢI TRẢ NGẮN HẠN KHÁC
+30/9/2021
+VND
+1/10/2020
+VND
+Tài trợ nhập khẩu phải trả (*)
+3.503.256.652.175
+245.638.100.621
+Chiết khấu bộ chứng từ xuất khẩu phải trả
+-
+142.966.821.833
+Nhận ký quỹ ngắn hạn
+54.628.952.727
+23.105.461.713
+Cổ tức phải trả
+3.940.190.477
+4.247.322.425
+Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và 
+kinh phí công đoàn
+1.270.131.710
+2.474.430.995
+Phải trả khác
+11.045.662.146
+14.802.126.804
+3.574.141.589.235
+433.234.264.391
+(*) Tài trợ nhập khẩu phải trả là số tiền phải trả cho Thư tín dụng trả chậm có thể thanh toán ngay (UPAS L/C) 
+cung cấp bởi Ngân Hàng TMCP Công Thương Việt Nam - Chi nhánh KCN Bình Dương, Ngân Hàng TMCP 
+Phát triển Thành phố Hồ Chí Minh, Ngân Hàng TMCP Quốc Tế Việt Nam - Chi nhánh TP. Hồ Chí Minh, 
+Ngân Hàng TMCP Hàng Hải Việt Nam - Chi nhánh TP. Hồ Chí Minh, Ngân Hàng TMCP Công Thương Việt 
+Nam - Chi nhánh Nghệ An, Ngân Hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chi nhánh Nghệ An 
+và Ngân Hàng TMCP Tiên Phong – Chi nhánh Bến Thành với kỳ hạn trả chậm là 90 ngày (1/10/2020: 
+cung cấp bởi Ngân Hàng TMCP Quốc Tế Việt Nam - Chi nhánh TP. Hồ Chí Minh, Ngân Hàng TMCP Tiên 
+Phong - Chi nhánh Bến Thành và Ngân Hàng TMCP Công Thương Việt Nam - Chi nhánh Nghệ An với kỳ 
+hạn trả chậm là 90 ngày). Nếu đến ngày đáo hạn, Tập đoàn không có đủ nguồn thanh toán, các khoản 
+tiền này sẽ tự chuyển đổi thành các khoản vay.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+  
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+42
+Điều khoản và điều kiện của các khoản vay ngắn hạn như sau:
+ 
+Bên cho vay
+ Loại 
+tiền
+Hạn 
+mức
+Lãi suất
+Tài sản đảm bảo
+30/9/2021
+1/10/2020
+Bên thứ ba
+i.
+Ngân hàng TMCP Công thương Việt Nam
+- Chi nhánh KCN Bình Dương
+VND
+3.000 tỷ 
+VND
+3,50%
+4,50% - 4,90%
+Quyền sử dụng đất, nhà cửa, vật kiến 
+trúc, máy móc và thiết bị và phải thu của 
+khách hàng
+USD
+1,50% - 2,00%
+1,85% - 2,00%
+ii.
+Ngân hàng TMCP Ngoại thương Việt Nam
+- Chi nhánh Nam Bình Dương
+VND
+2.397 tỷ 
+VND
+3,50%
+4,50% - 5,00%
+Quyền sử dụng đất, máy móc và thiết 
+bị và hàng tồn kho, khoản phải thu, 
+USD
+1,30%
+1,80% - 2,10%
+iii.
+Ngân hàng Đầu tư và Phát triển Việt Nam
+- Chi nhánh Sở Giao dịch 2
+VND
+1.500 tỷ 
+VND
+3,50% - 3,80%
+4,20% - 4,50%
+Máy móc và thiết bị và một phần công 
+trình xây dựng trên đất của Công ty 
+TNHH Một Thành Viên Hoa Sen Nghệ 
+An, công ty con
+USD
+-
+3,00%
+iv.
+Ngân hàng TNHH MTV HSBC (Việt Nam)
+VND
+60 triệu 
+USD
+3,35%
+4,10% - 4,90%
+Hàng tồn kho, máy móc và thiết bị, 
+quyền sử dụng đất và công trình xây 
+dựng trên đất và một số tài sản cố định 
+của Công ty TNHH Một Thành Viên 
+Hoa Sen Bình Định, công ty con
+v.
+Ngân hàng TMCP Phát triển TP. Hồ Chí Minh
+USD
+2.000 tỷ 
+VND
+-
+1,80%
+Không có tài sản đảm bảo
+vi.
+Ngân hàng Sinopac - Chi nhánh TP. Hồ Chí Minh
+VND
+6 triệu 
+USD
+3,30%
+5,00%
+Không có tài sản đảm bảo
+vii.
+Ngân hàng TNHH MTV UOB Việt Nam 
+VND
+20 triệu 
+USD
+3,00%
+4,00% - 4,20%
+Hàng tồn kho
+USD
+1,60%
+1,64%
+viii.
+Ngân hàng TNHH MTV UOB Việt Nam
+VND
+3 triệu 
+USD
+3,00%
+4,00% - 4,50%
+Hàng tồn kho
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+41
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Điều khoản và điều kiện của các khoản vay ngắn hạn như sau:
+ 
+Bên cho vay
+ Thuyết 
+minh
+Loại tiền
+30/9/2021
+VND
+1/10/2020
+VND
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh KCN Bình Dương
+(i)
+VND
+75.643.458.480
+1.171.017.687.810
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh KCN Bình Dương
+(i)
+USD
+777.548.744.645
+531.104.907.733
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương
+(ii)
+VND
+60.000.000.000
+947.943.944.130
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương
+(ii)
+USD
+1.453.181.080.932
+413.037.687.997
+• Ngân hàng Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 2
+(iii)
+VND
+347.681.380.658
+472.377.287.783
+• Ngân hàng Đầu tư và Phát triển Việt Nam - Chi nhánh Sở Giao dịch 2
+(iii)
+USD
+-
+99.439.545.965
+• Ngân hàng TNHH MTV HSBC (Việt Nam)
+(iv)
+VND
+1.186.536.814.890
+608.438.856.420
+• Ngân hàng TMCP Phát triển TP. Hồ Chí Minh
+(v)
+USD
+-
+213.385.900.000
+• Ngân hàng Sinopac - Chi nhánh TP. Hồ Chí Minh
+(vi)
+VND
+56.000.000.000
+32.300.000.000
+• Ngân hàng TNHH MTV UOB Việt Nam
+(vii)
+VND
+34.366.092.843
+101.516.310.719
+• Ngân hàng TNHH MTV UOB Việt Nam
+(vii)
+USD
+384.498.035.750
+57.085.000.000
+• Ngân hàng TNHH MTV UOB Việt Nam
+(viii)
+VND
+66.934.425.013
+61.832.823.335
+• Ngân hàng Malayan Banking Berhad Chi nhánh TP. Hồ Chí Minh
+(ix)
+VND
+60.626.701.580
+42.323.443.406
+• Ngân hàng Malayan Banking Berhad Chi nhánh TP. Hồ Chí Minh
+(ix)
+USD
+73.836.076.658
+46.084.500.000
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Nghệ An
+(x)
+VND
+-
+145.844.804.159
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Bà Rịa Vũng Tàu
+(xi)
+VND
+8.440.160.000
+-
+• Ngân Hàng TMCP Hàng Hải Việt Nam - Chi nhánh TP. Hồ Chí Minh
+(xii)
+VND
+67.617.983.015
+97.147.784.400
+• Ngân Hàng TMCP Sài Gòn Thương Tín - Chi nhánh Trung Tâm
+(xiii)
+VND
+-
+50.000.000.000
+• Ngân Hàng TNHH CTBC - Chi nhánh TP. Hồ Chí Minh
+(xiv)
+VND
+75.695.575.053
+19.942.608.592
+• Ngân Hàng TNHH CTBC - Chi nhánh TP. Hồ Chí Minh
+(xiv)
+USD
+101.281.886.260
+155.234.011.226
+4.829.888.415.777
+5.266.057.103.675
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+44
+(b) Vay và nợ thuê tài chính dài hạn
+30/9/2021
+VND
+1/10/2020
+VND
+Vay dài hạn
+2.006.162.118.340
+2.859.921.776.235
+Nợ thuê tài chính dài hạn (c)
+-
+60.381.309.809
+2.006.162.118.340
+2.920.303.086.044
+Khoản đến hạn trả trong vòng 12 tháng
+(606.800.000.000)
+(757.387.541.511)
+Khoản đến hạn trả sau 12 tháng
+1.399.362.118.340
+2.162.915.544.533
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+43
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Điều khoản và điều kiện của các khoản vay ngắn hạn như sau: (tiếp theo)
+ 
+Bên cho vay
+ Loại tiền
+Hạn mức
+Lãi suất
+Tài sản đảm bảo
+30/9/2021
+1/10/2020
+ix.
+Ngân hàng Malayan Banking Berhad - Chi nhánh TP. Hồ Chí Minh
+VND
+6.6 triệu 
+USD
+3,20% - 3,30%
+4,10% - 4,70%
+Hàng tồn kho
+USD
+1,40%
+1,80%
+x.
+Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Nghệ An
+VND
+800 tỷ 
+VND
+-
+3,20% - 4,50%
+Hàng tồn kho
+xi.
+Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Bà Rịa 
+Vũng Tàu
+VND
+200 tỷ 
+VND
+3,10% - 4,40%
+-
+Tài sản cố định và hàng tồn kho
+xii.
+Ngân hàng TMCP Hàng Hải Việt Nam - Chi nhánh TP. Hồ Chí Minh
+VND
+500 tỷ 
+VND
+3,90%
+4,50%
+Không có tài sản đảm bảo
+xiii.
+Ngân Hàng TMCP Sài Gòn Thương Tín - Chi Nhánh Trung Tâm
+VND
+1.000 tỷ 
+VND
+-
+5,00%
+Quyền sử dụng đất và phải thu của 
+khách hàng
+xiv.
+Ngân Hàng TNHH CTBC - Chi nhánh TP. Hồ Chí Minh
+VND
+15 triệu 
+USD
+3,60%
+3,80% - 4,00%
+Không có tài sản đảm bảo
+USD
+1,50%
+1,80% - 1,85%
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+46
+(c) Các khoản nợ thuê tài chính
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê tài chính không thể hủy ngang như sau:
+30/9/2021
+1/10/2020
+ Tổng khoản 
+thanh toán tiền 
+thuê tài chính
+VND
+Tiền lãi thuê
+VND
+Nợ gốc
+VND
+Tổng khoản 
+thanh toán tiền 
+thuê tài chính
+VND
+Tiền lãi thuê
+VND
+Nợ gốc
+VND
+Trong vòng một năm
+-
+-
+-
+36.840.545.897
+4.181.976.233
+32.658.569.664
+Từ hai đến năm năm
+-
+-
+-
+28.935.494.777
+1.212.754.632
+27.722.740.145
+-
+-
+-
+65.776.040.674
+5.394.730.865
+60.381.309.809
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+45
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Điều khoản và điều kiện của các khoản vay dài hạn như sau:
+Thuyết 
+minh
+Loại
+tiền
+Năm
+đáo hạn
+30/9/2021
+VND
+1/10/2020
+VND
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh KCN Bình Dương
+(i)
+VND
+2021 – 2026
+1.589.211.274.881
+2.102.282.791.370
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương
+(ii)
+VND
+2022 – 2023
+167.056.547.660
+303.150.862.940
+• Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Vũng Tàu
+(iii)
+VND
+2024
+206.750.669.442
+291.633.669.442
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Yên Bái
+(iv)
+VND
+2025 – 2026
+43.143.626.357
+132.670.311.741
+• Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Bà Rịa Vũng Tàu
+(v)
+VND
+2021
+-
+30.184.140.742
+2.006.162.118.340
+2.859.921.776.235
+(i) Khoản vay này được đảm bảo bằng quyền sử dụng đất, nhà cửa, vật kiến trúc, máy móc và thiết bị và chịu lãi suất năm là 7,6% (1/10/2020: từ 8,0% đến 9,0%).
+(ii) Khoản vay này được đảm bảo bằng quyền sử dụng đất và máy móc và thiết bị, phương tiện vận tải và hàng tồn kho và chịu lãi suất năm từ 7,5% đến 8,7% (1/10/2020: 
+từ 7,5% đến 8,7%).
+(iii) Khoản vay này được đảm bảo bằng nhà cửa, vật kiến trúc và máy móc và thiết bị và chịu lãi suất năm từ 8,2% đến 9,2% (1/10/2020: từ 8,2% đến 9,1%).
+(iv) Khoản vay này được đảm bảo bằng quyền sử dụng đất, nhà cửa, vật kiến trúc, máy móc và thiết bị và phương tiện vận tải và chịu lãi suất năm từ 8,2% đến 9,2% 
+(1/10/2020: từ 8,2% đến 9,8%).
+(v) Khoản vay này được đảm bảo bằng nhà cửa, vật kiến trúc; máy móc và thiết bị và chịu lãi suất năm là 7,6% (1/10/2020: 8,0%).
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+48
+25. THAY ĐỔI VỐN CHỦ SỞ HỮU
+ 
+ Vốn cổ phần
+VND
+Thặng dư 
+vốn cổ phần 
+VND
+Cổ phiếu quỹ
+VND
+Quỹ khác thuộc 
+vốn chủ sở hữu
+VND
+Lợi nhuận sau 
+thuế chưa phân 
+phối 
+VND
+Lợi ích cổ đông 
+không kiểm 
+soát
+VND
+Tổng
+VND
+Số dư tại ngày 1 tháng 10 năm 2019
+4.234.694.890.000
+151.583.183.521
+(2.459.000.000)
+55.626.670.135 1.021.280.774.551
+7.554.667.443 5.468.281.185.650
+Lợi nhuận thuần trong năm
+-
+-
+-
+- 1.153.328.313.935
+(314.296.626) 1.153.014.017.309
+Cổ phiếu phát hành để trả cổ tức
+211.557.240.000
+-
+-
+-
+(211.557.240.000)
+-
+-
+Mua lại cổ phiếu quỹ
+-
+-
+(812.000.000)
+-
+-
+-
+(812.000.000)
+Trích quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+(3.613.521.330)
+-
+(3.613.521.330)
+Phân bổ vào quỹ
+-
+-
+-
+5.420.281.995
+(5.420.281.995)
+-
+-
+Sử dụng các quỹ
+-
+-
+-
+(25.511.170.306)
+-
+-
+(25.511.170.306)
+Giảm do giải thể công ty con
+-
+-
+-
+-
+-
+(620.000.000)
+(620.000.000)
+Số dư tại ngày 1 tháng 10 năm 2020
+4.446.252.130.000
+151.583.183.521
+(3.271.000.000)
+35.535.781.824 1.954.018.045.161
+6.620.370.817 6.590.738.511.323
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+47
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+23. QUỸ KHEN THƯỞNG, PHÚC LỢI
+Biến động của quỹ khen thưởng, phúc lợi trong năm như sau: 
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+43.062.695.661
+44.902.799.431
+Trích lập từ lợi nhuận chưa phân phối (Thuyết minh 25)
+46.120.560.692
+3.613.521.330
+Sử dụng quỹ trong năm
+(14.154.745.724)
+(5.453.625.100)
+Số dư cuối năm
+75.028.510.629
+43.062.695.661
+24. DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+Dự phòng phải trả dài hạn phản ánh dự phòng trợ cấp thôi việc. Biến động dự phòng trợ cấp thôi việc trong 
+năm như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Số dư đầu năm
+10.555.313.816
+2.896.254.250
+Trích lập dự phòng trong năm
+3.362.640.511
+7.659.059.566
+Số dư cuối năm
+13.917.954.327
+10.555.313.816
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+50
+(*) Theo Nghị quyết Đại hội đồng Cổ đông ngày 13 tháng 1 năm 2020 và Nghị Quyết của Hội  đồng  Quản 
+trị vào ngày 24 tháng 5 năm 2021, Công ty đã tăng vốn điều lệ từ nguồn cổ phiếu phát hành để chi trả 
+cổ tức. Tổng số cổ phiếu đã phát hành là 44.456.683 cổ phiếu với mệnh giá 10.000/cổ phiếu.
+(**) Theo Nghị quyết Đại hội đồng Cổ đông ngày 13 tháng 1 năm 2020 và Quyết định của Hội Đồng  Quản 
+trị vào ngày 27 tháng 1 năm 2021, Công ty đã quyết định trích 3,4% từ lợi nhuận sau thuế để chi thưởng 
+hoàn thành kế hoạch sản xuất kinh doanh niên độ tài chính 2019 – 2020 cho Hội đồng Quản trị, Ban 
+Điều hành và các Ban thuộc Hội đồng Quản trị.
+(***) Theo Nghị Quyết của Hội đồng Quản trị vào ngày 1 tháng 10 năm 2020, Công ty đã trích lập 40.356 
+triệu VND từ lợi nhuận giữ lại đầu kỳ và vào ngày 1 tháng 4 năm 2021, Công ty đã trích lập 64.277 
+triệu VND từ lợi nhuận sau thuế vào Quỹ khác thuộc vốn chủ sở hữu nhằm mục đích bổ sung thù lao, hoạt 
+động từ thiện và chi phí hoạt động của Hội đồng Quản trị (năm kết thúc ngày 30 tháng 9 năm 2020: 
+5.420 triệu VND).
+26. VỐN CỔ PHẦN
+Vốn cổ phần được duyệt và đã phát hành của Công ty như sau::
+30/9/2021
+1/10/2020
+Số lượng
+cổ phiếu
+VND
+Số lượng
+cổ phiếu
+VND
+Vốn cổ phần được duyệt và 
+đã phát hành
+Cổ phiếu phổ thông
+493.481.896
+4.934.818.960.000
+444.625.213
+4.446.252.130.000
+Cổ phiếu quỹ 
+Cổ phiếu phổ thông
+-
+-
+327.100
+3.271.000.000
+Số cổ phiếu đang lưu hành 
+2.459.000.000
+Cổ phiếu phổ thông
+493.481.896
+4.934.818.960.000
+444.298.113
+4.442.981.130.000
+Tất cả các cổ phiếu phổ thông có mệnh giá 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu 
+quyết tại các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. 
+Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các 
+cổ phiếu đã được Công ty mua lại đều bị tạm ngừng cho tới khi chúng được phát hành lại.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+49
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+25. THAY ĐỔI VỐN CHỦ SỞ HỮU (tiếp theo)
+ 
+ Vốn cổ phần
+VND
+Thặng dư 
+vốn cổ phần 
+VND
+Cổ phiếu quỹ
+VND
+Quỹ khác thuộc 
+vốn chủ sở hữu
+VND
+Lợi nhuận sau 
+thuế chưa phân 
+phối 
+VND
+Lợi ích cổ đông 
+không kiểm 
+soát
+VND
+Tổng
+VND
+Số dư tại ngày 1 tháng 10 năm 2020 4.446.252.130.000
+151.583.183.521
+(3.271.000.000)
+35.535.781.824 1.954.018.045.161
+6.620.370.817
+6.590.738.511.323
+Lợi nhuận thuần trong năm
+-
+-
+-
+- 4.313.507.233.783
+(13.171.524)
+4.313.494.062.259
+Cổ phiếu phát hành để trả cổ tức (*)
+444.566.830.000
+-
+-
+-
+(444.566.830.000)
+-
+-
+Phát hành cổ phiếu theo chương 
+trình lựa chọn cho người lao động
+ 44.000.000.000 
+ - 
+ 
+ - 
+-
+-
+44.000.000.000
+Tái phát hành cổ phiếu quỹ
+-
+5.709.355.547
+3.271.000.000
+-
+-
+-
+8.980.355.547
+Trích quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+(46.120.560.692)
+-
+(46.120.560.692)
+Trích thưởng hoàn thành vượt kế 
+hoạch sản xuất kinh doanh (**)
+ - 
+ - 
+ - 
+ -
+(39.134.000.000)
+-
+(39.134.000.000)
+Phân bổ vào quỹ (***)
+-
+-
+-
+104.632.701.681 (104.632.701.681)
+-
+-
+Sử dụng các quỹ
+-
+-
+-
+(49.473.282.240)
+-
+-
+(49.473.282.240)
+Cổ đông không kiểm soát góp vốn 
+vào công ty con
+ - 
+ - 
+ - 
+ -
+-
+14.446.000.000
+14.446.000.000
+Giảm do chuyển nhượng công ty 
+con (Thuyết minh 5)
+-
+-
+-
+-
+-
+(5.137.257.343)
+(5.137.257.343)
+Số dư tại ngày 30 tháng 9 năm 2021 4.934.818.960.000
+157.292.539.068
+-
+90.695.201.265 5.633.071.186.571
+15.915.941.950
+10.831.793.828.854
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021 
+(tiếp theo)
+ 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+52
+27. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN (TIẾP THEO)
+(b)  Ngoại tệ các loại
+30/9/2021
+1/10/2020
+Nguyên tệ
+Tương đương 
+VND
+Nguyên tệ
+Tương đương
+VND
+USD
+10.572.802
+239.562.452.177
+7.572.153
+174.878.082.357
+EUR
+-
+-
+909
+24.288.480
+ 
+239.562.452.177
+174.902.370.837
+(c)  Cam kết chi tiêu vốn
+Tại ngày báo cáo, Tập đoàn có các cam kết vốn sau đã được duyệt chủ yếu liên quan đến việc mua sắm các máy 
+móc mới phục vụ hoạt động kinh doanh của Tập đoàn:
+30/9/2021
+VND
+1/10/2020
+VND
+Đã được duyệt và đã ký kết hợp đồng
+135.317.792.924
+71.522.424.222
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+51
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+26. VỐN CỔ PHẦN (TIẾP THEO)
+Biến động của vốn cổ phần trong năm như sau:
+Năm kết thúc ngày
+30/9/2021
+30/9/2020
+Số lượng 
+cổ phiếu
+VND
+Số lượng 
+cổ phiếu
+VND
+Số dư đầu năm
+444.298.113
+4.442.981.130.000
+423.223.589
+4.232.235.890.000
+Cổ phiếu phát hành để 
+trả cổ tức
+44.456.683 
+ 444.566.830.000 
+21.155.724
+211.557.240.000
+Tái phát hành cổ phiếu
+quỹ
+327.100
+ 3.271.000.000
+-
+-
+Phát hành cổ phiếu theo 
+chương trình lựa chọn cho 
+người lao động
+4.400.000
+44.000.000.000
+-
+-
+Cổ phiếu quỹ mua lại 
+trong năm
+-
+ -
+(81.200)
+(812.000.000)
+Số dư cuối năm
+493.481.896 4.934.818.960.000
+444.298.113 4.442.981.130.000
+27. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+(a) Tài sản thuê ngoài
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được hủy ngang như sau:
+30/9/2021
+VND
+1/10/2020
+VND
+Trong vòng một năm
+183.481.962.474
+181.023.716.815
+Từ hai đến năm năm
+691.377.536.840
+691.146.037.199
+Trên năm năm
+693.964.700.288
+770.536.718.044
+1.568.824.199.602
+1.642.706.472.058
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+54
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+30. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lãi tiền gửi, cho vay và trái phiếu
+3.424.914.740
+4.594.414.990
+Lãi từ chuyển nhượng công ty con
+107.731.519.386
+-
+Lãi chênh lệch tỷ giá đã thực hiện
+244.563.630.062
+70.199.983.098
+Lãi chênh lệch tỷ giá chưa thực hiện
+4.523.936.793
+-
+Doanh thu tài chính khác
+6.052.111.423
+3.190.096.021
+366.296.112.404
+77.984.494.109
+31. CHI PHÍ TÀI CHÍNH
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí lãi vay
+355.048.548.813
+560.086.135.926
+Lỗ chênh lệch tỷ giá đã thực hiện
+196.240.358.014
+75.353.328.385
+Lỗ chênh lệch tỷ giá chưa thực hiện
+-
+8.093.493.896
+Chi phí tài chính khác
+719.393.807
+1.728.614.970
+552.008.300.634
+645.261.573.177
+32. CHI PHÍ BÁN HÀNG
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nhân viên
+643.035.977.672
+884.532.511.683
+Chi phí xuất khẩu
+1.704.544.466.093
+449.890.876.255
+Chi phí vận chuyển
+356.516.789.419
+219.517.108.970
+Chi phí khấu hao và phân bổ
+165.968.395.956
+167.094.144.203
+Chi phí thuê
+162.547.696.297
+160.274.877.997
+Chi phí quảng cáo
+60.905.209.032
+81.107.806.439
+Chi phí dịch vụ mua ngoài
+69.488.023.995
+71.910.732.695
+Chi phí bán hàng khác
+181.480.678.090
+186.755.015.868
+3.344.487.236.554
+2.221.083.074.110
+53
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+28. DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ cung cấp không bao gồm thuế giá trị gia tăng.
+Doanh thu thuần bao gồm:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Tổng doanh thu 
+• Bán thành phẩm
+22.762.662.833.195
+13.945.093.147.339
+• Bán hàng hóa
+26.204.556.855.059
+13.778.934.771.842
+• Dịch vụ cung cấp và doanh thu khác
+20.114.024.031
+41.127.707.125
+48.987.333.712.285
+27.765.155.626.306
+Trừ các khoản giảm trừ doanh thu
+• Chiết khấu thương mại
+238.263.060.549
+215.992.234.977
+• Giảm giá hàng bán
+980.524.072
+5.700.055.453
+• Hàng bán bị trả lại
+21.567.893.928
+12.713.822.042
+260.811.478.549
+234.406.112.472
+Doanh thu thuần
+48.726.522.233.736
+27.530.749.513.834
+29. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Tổng giá vốn hàng bán của:
+• Thành phẩm đã bán
+16.700.658.638.817
+10.224.045.844.167
+• Hàng hóa đã bán
+22.971.222.896.369
+12.672.459.961.421
+• Dịch vụ cung cấp và giá vốn khác
+19.381.472.229
+13.793.498.677
+• Trích lập/(hoàn nhập) dự phòng giảm giá hàng tồn kho
+161.861.045.338
+(6.817.138.842)
+39.853.124.052.753
+22.903.482.165.423
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+56
+36. CHI PHÍ SẢN XUẤT VÀ KINH DOANH THEO YẾU TỐ
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nguyên vật liệu
+42.143.228.874.022
+19.535.328.665.795
+Chi phí nhân công và nhân viên
+1.090.357.716.427
+1.433.792.511.778
+Chi phí khấu hao và phân bổ
+1.185.959.400.847
+1.229.764.453.316
+Chi phí dịch vụ mua ngoài
+3.389.673.536.999
+1.794.833.077.709
+Chi phí khác
+949.824.551.140
+847.512.493.972
+37. THUẾ THU NHẬP DOANH NGHIỆP
+(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí thuế hiện hành
+Năm hiện hành
+701.081.358.149
+245.982.234.033
+Dự phòng thiếu trong những năm trước
+1.484.806.116
+13.853.323.303
+702.566.164.265
+259.835.557.336
+Lợi ích thuế thu nhập hoãn lại 
+Hoàn nhập các khoản chênh lệch tạm thời
+(100.577.155.644)
+(37.206.411.121)
+601.989.008.621
+222.629.146.215
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+55
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+33. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí nhân viên
+160.841.770.891
+257.915.445.562
+Chi phí khấu hao và phân bổ
+62.481.994.024
+66.626.994.248
+Chi phí thuê
+27.137.721.765
+25.949.018.951
+Chi phí tiếp khách
+13.002.378.112
+11.665.809.396
+Chi phí công tác
+5.314.297.362
+6.910.634.199
+Chi phí dịch vụ chuyên môn
+7.581.013.556
+11.783.549.723
+Chi phí dịch vụ mua ngoài
+51.815.526.915
+50.145.884.923
+Chi phí quản lý khác
+97.641.661.313
+28.981.444.903
+425.816.363.938
+459.978.781.905
+34. THU NHẬP KHÁC
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lãi do thanh lý tài sản cố định
+17.984.066
+-
+Tiền bồi thường thu được
+7.190.639.755
+3.503.871.667
+Thu nhập khác
+7.499.790.864
+25.113.366.057
+14.708.414.685
+28.617.237.724
+35. CHI PHÍ KHÁC
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Chi phí cho hoạt động từ thiện
+8.190.000.000
+-
+Lỗ do thanh lý tài sản cố định
+-
+16.563.513.405
+Chi phí khác
+8.417.736.066
+15.338.974.123
+16.607.736.066
+31.902.487.528
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+57
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+37. THUẾ THU NHẬP DOANH NGHIỆP (TIẾP THEO)
+(b) Đối chiếu thuế suất thực tế
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lợi nhuận kế toán trước thuế
+4.915.483.070.880
+1.375.643.163.524
+Thuế theo thuế suất của Công ty
+983.096.614.175
+275.128.632.706
+Ảnh hưởng của các mức thuế suất khác áp dụng cho các 
+công ty con
+(180.599.986.752)
+(62.558.538.811)
+Chi phí không được khấu trừ thuế
+19.772.352.262
+71.990.972.514
+Ưu đãi thuế
+(150.545.861.692)
+(63.129.542.290)
+Tài sản thuế thu nhập doanh nghiệp chưa được ghi nhận
+3.580.744.724
+7.690.276.040
+Lỗ tính thuế được sử dụng
+(10.443.765.911)
+(13.908.404.822)
+Sử dụng tài sản thuế thu nhập hoãn lại không được ghi 
+nhận trước đây
+(64.355.894.301)
+(6.437.572.425)
+Dự phòng thiếu trong những năm trước
+1.484.806.116
+13.853.323.303
+601.989.008.621
+222.629.146.215
+(c) Thuế suất áp dụng
+ 
+Theo các điều khoản của Luật Thuế Thu nhập, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 20% 
+trên lợi nhuận tính thuế. Các công ty con có nghĩa vụ nộp cho Nhà nước thuế thu nhập theo thuế suất từ 10% đến 
+20% trên lợi nhuận tính thuế. Cụ thể như sau:
+• 
+Công ty TNHH Một Thành Viên Hoa Sen Bình Định có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 20% trên 
+lợi nhuận tính thuế. Công ty con này được miễn thuế thu nhập doanh nghiệp trong 2 năm tính từ năm đầu tiên có 
+lợi nhuận chịu thuế và được giảm 50% thuế thu nhập doanh nghiệp trong 4 năm tiếp theo.
+• 
+Công ty TNHH Một Thành Viên Hoa Sen Nghệ An và Công ty TNHH Một Thành Viên Hoa Sen Nhơn Hội - Bình 
+Định có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 10% trên lợi nhuận tính thuế trong 15 năm kể từ khi 
+các công ty con này phát sinh doanh thu và theo mức thuế suất thông thường trong những năm tiếp theo. Công ty 
+con này được miễn thuế thu nhập doanh nghiệp trong 4 năm tính từ năm đầu tiên có lợi nhuận chịu thuế và được 
+giảm 50% thuế thu nhập doanh nghiệp trong 9 năm tiếp theo.
+• 
+Công ty TNHH Một Thành Viên Hoa Sen Hà Nam có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 17% lợi 
+nhuận tính thuế trong 10 năm kể từ năm 2016 và theo mức thuế suất thông thường trong những năm tiếp theo. 
+Công ty con này được miễn thuế thu nhập doanh nghiệp trong 2 năm tính từ năm đầu tiên có lợi nhuận chịu thuế 
+và được giảm 50% thuế thu nhập doanh nghiệp trong 4 năm tiếp theo.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+58
+• 
+Công ty TNHH Một Thành Viên Hoa Sen Phú Mỹ và Công ty TNHH Một Thành Viên Vật liệu Xây dựng Hoa Sen 
+Yên Bái có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 17% trên lợi nhuận tính thuế trong 10 năm kể từ năm 
+đầu tiên dự án đầu tư của Công ty có doanh thu và theo mức thuế suất thông thường trong những năm tiếp theo. 
+Công ty con này được miễn thuế thu nhập doanh nghiệp trong 2 năm tính từ năm đầu tiên có lợi nhuận chịu thuế 
+và được giảm 50% thuế thu nhập doanh nghiệp trong 4 năm tiếp theo. 
+• 
+Các công ty con khác có nghĩa vụ nộp thuế thu nhập bằng 20% trên lợi nhuận tính thuế.
+38. LÃI CƠ BẢN TRÊN CỔ PHIẾU
+Việc tính toán lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 30 tháng 9 năm 2021 dựa trên số lợi nhuận thuộc về 
+cổ đông phổ thông sau khi trừ đi số phân bổ vào quỹ khen thưởng, phúc lợi cho kỳ kế toán và số lượng cổ phiếu phổ 
+thông bình quân gia quyền, chi tiết như sau:
+(i) Lợi nhuận thuần thuộc về cổ đông phổ thông
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Lợi nhuận thuần trong năm
+4.313.507.233.783
+1.153.328.313.935
+Số phân bổ vào quỹ khen thưởng, phúc lợi (*)
+(172.540.289.351)
+(46.133.132.557)
+Lợi nhuận thuần thuộc về cổ đông phổ thông
+4.140.966.944.432
+1.107.195.181.378
+(*)  Số phân bổ vào quỹ khen thưởng, phúc lợi được tạm tính bằng 4% lợi nhuận thuần trong năm của Tập đoàn. Tỷ 
+lệ này bằng với tỷ lệ phân bổ được các cổ đông phê duyệt trong các năm trước.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+59
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+38. LÃI CƠ BẢN TRÊN CỔ PHIẾU (TIẾP THEO)
+(ii) Số cổ phiếu phổ thông bình quân gia quyền
+Năm kết thúc ngày
+30/9/2021
+Số cổ phiếu
+30/9/2020
+Số cổ phiếu
+Được điều 
+chỉnh lại (**)
+Cổ phiếu phổ thông đã phát hành đầu năm
+444.298.113
+423.223.589
+Ảnh hưởng của việc mua lại cổ phiếu quỹ
+-
+(24.612)
+Ảnh hưởng của việc tái phát hành cổ phiếu quỹ
+164.894
+-
+Ảnh hưởng của việc chi trả cổ tức bằng cổ phiếu trong năm 
+kết thúc ngày 30 tháng 9 năm 2020
+-
+21.155.724
+Ảnh hưởng của việc chi trả cổ tức bằng cổ phiếu trong năm 
+kết thúc ngày 30 tháng 9 năm 2021
+44.456.683 
+44.429.8111
+Ảnh hưởng của việc phát hành cổ phiếu theo chương trình 
+lựa chọn cho người lao động
+289.315
+-
+Số lượng bình quân gia quyền của cổ phiếu phổ thông
+489.209.005
+488.784.512
+(iii)  Lãi cơ bản trên cổ phiếu
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Được điều chỉnh lại (*)
+30/9/2020
+VND
+Theo báo cáo trước đây
+Lãi cơ bản trên cổ phiếu
+8.465
+2.265
+2.492
+(*) Việc điều chỉnh lại phản ánh ảnh hưởng của việc phát hành cổ phiếu để trả cổ tức sau kỳ kế toán năm.
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+60
+39. CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN 
+Ngoài số dư với các bên liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính hợp nhất này, 
+trong năm Tập đoàn có các giao dịch chủ yếu với các bên liên quan như sau:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Công ty thuộc sở hữu của Chủ tịch Tập đoàn
+Công ty TNHH Tập đoàn Đầu tư Hoa Sen
+Bán hàng hóa và thành phẩm
+3.491.098.491.681
+3.310.303.106.066
+Doanh thu cho thuê tài sản
+3.486.352.344
+3.165.014.069
+Mua hàng hóa và thành phẩm
+65.433.048
+-
+Chiết khấu thương mại
+29.951.547.928
+59.763.907.878
+Phí vận chuyển
+71.877.987.424
+60.304.523.944
+Chi phí thuê hoạt động
+10.324.829.089
+8.897.850.106
+Hàng bán trả lại
+7.332.794.966
+4.324.800.079
+Lãi trả chậm
+4.314.972.614
+1.783.817.982
+Giảm giá hàng bán
+-
+166.020.819
+Bán tài sản cố định
+278.700.000
+-
+Mua tài sản cố định
+-
+123.636.364
+Bán khác
+217.541.773
+348.676.081
+Mua khác
+4.028.182
+-
+Công ty TNHH Một Thành Viên Đầu tư Hoa Sen Nghệ An
+Phí vận chuyển
+56.691.234.612
+36.265.597.722
+Doanh thu cho thuê tài sản
+227.000.000
+216.000.000
+Thù lao, lương, thưởng và phúc lợi khác của người quản lý chủ chốt:
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Thành viên Hội đồng quản trị
+Thù lao
+3.310.303.106.066
+Ông Lê Phước Vũ – Chủ tịch
+360.000.000
+360.000.000
+Ông Trần Ngọc Chu – Phó Chủ tịch
+300.000.000
+300.000.000
+Ông Trần Quốc Trí – Thành viên
+240.000.000
+240.000.000
+Ông Lý Văn Xuân – Thành viên
+290.000.000
+240.000.000
+Ông Nguyễn Văn Luân – Thành viên
+340.000.000
+240.000.000
+Ông Đinh Viết Duy – Thành viên
+290.000.000
+240.000.000
+Tổng Giám đốc
+1.783.817.982
+Lương, thưởng và phúc lợi khác
+1.967.900.022
+1.847.025.972
+Những người quản lý khác
+-
+Lương, thưởng và phúc lợi khác
+34.209.331.101
+9.705.523.866
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+61
+BÁO CÁO THƯỜNG NIÊN
+Niên độ tài chính 2020 - 2021
+40. CÁC GIAO DỊCH PHI TIỀN TỆ TỪ CÁC HOẠT ĐỘNG ĐẦU TƯ
+Năm kết thúc ngày
+30/9/2021
+VND
+30/9/2020
+VND
+Mua tài sản cố định và xây dựng cơ bản dở dang chưa 
+thanh toán
+36.384.781.236
+73.275.604.407
+41. THÔNG TIN SO SÁNH
+Thông tin so sánh tại ngày 1 tháng 10 năm 2020 được mang sang từ số liệu trình bày trong báo cáo tài chính hợp 
+nhất của Tập đoàn tại ngày và cho năm kết thúc ngày 30 tháng 9 năm 2020.
+Ngày 24 tháng 12 năm 2021
+ 
+Người lập 
+Người duyệt
+ 
+Nguyễn Thị Thanh Tuyền 
+Nguyễn Thị Ngọc Lan 
+Trần Quốc Trí
+ 
+Kế toán 
+Kế toán trưởng 
+Tổng Giám đốc 
+Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 30 tháng 9 năm 2021
+(tiếp theo) 
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
