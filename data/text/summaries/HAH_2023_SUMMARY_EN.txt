@@ -1,0 +1,36 @@
+### 1. BUSINESS DYNAMICS & SEGMENT REPORTING
+
+In FY2023, Hai An Transport and Stevedoring Joint Stock Company (HOSE: HAH) demonstrated robust share price performance, delivering a total annual return of +75.55%. The stock opened the year at VND 13,580 and closed at VND 23,840, reaching an intraday peak of VND 26,760, supported by strong market liquidity with average daily trading volume exceeding 2.1 million shares. This price action reflects the company's resilience against a backdrop of macroeconomic headwinds and global trade contraction. Specifically, national exports declined by 4.36% YoY to $355.5 billion, while imports dropped by 8.92% YoY to $327.5 billion, pressured by the Federal Reserve's monetary tightening cycle, which severely suppressed international consumer demand and export orders.
+
+Despite the downturn in the global maritime transport market starting in August 2022 and extending throughout 2023—characterized by global container spot rates plunging by up to 80% and time-charter rates falling 60–70% due to an oversupply of newly built tonnage—HAH’s core operating segments delivered notable bright spots:
+- **Port Operations:** Hai An Port maintained stable operations underpinned by the completion of yard repairs and upgrades in May 2023. Total throughput reached nearly 430,000 TEUs across 280 vessel calls, representing a year-on-year increase of approximately 2.4%.
+- **Maritime Transport:** Total vessel deployment volume reached 437,525 TEUs, up 11.7% YoY. Despite steep contractions in time-charter rates for the 1,000 TEU and 1,700 TEU segments of 40.9% and 34.6% respectively, HAH’s vessel charter revenue bucked the industry trend, rising 13% YoY and achieving 105% of its full-year target. This outperformance was driven by an expanded chartered fleet and the commercial deployment of the new-generation vessel HAIAN ALFA (1,800 TEU capacity) effective December 15, 2023.
+
+To counter intense competitive pressures in the Hai Phong cluster—where competitors have resorted to cutting port service tariffs by up to 20% or operating at a loss to capture market share, compounded by rising pressure from the Lach Huyen deep-water gateway port—HAH is actively integrating its logistics value chain. The company has established a joint-venture depot with South Korean partners in Nam Dinh Vu (spanning a 9,500 m² yard alongside 20,000 m² of CFS and bonded warehouses) and is preparing to invest in warehousing infrastructure in Vung Tau. This strategy aims to complete a seamless value chain encompassing shipping, port operations, and customs brokerage across the two primary economic corridors of Hai Phong–Hanoi and Vung Tau–Ho Chi Minh City.
+
+---
+
+### 2. CAPITAL STRUCTURE, DEBT & INTEREST RATES
+
+HAH’s capital structure and cash flow profile were reinforced during the year via strategic financial maneuvers executed by the Board of Directors (BoD) to secure adequate funding for fleet expansion and logistics infrastructure rollouts:
+- **Bank Credit Facilities:** Joint Stock Commercial Bank for Foreign Trade of Vietnam (Vietcombank) – Hai Phong Branch remains HAH’s primary credit provider. The company passed resolutions for asset hypothecation to collateralize long-term debt facilities earmarked for capital expenditure and development initiatives.
+- **Debt Capital Markets (Bonds):** To optimize its capital structure and alleviate short-term bank borrowing pressure, the BoD approved a private placement of convertible bonds for FY2023. This initiative included finalizing the target institutional investor roster, expected issuance timelines, and the conversion price. This issuance is projected to mitigate near-term debt servicing and principal repayment pressures on operating cash flows.
+- **Portfolio Restructuring:** HAH divested its entire equity stake in Luu Nguyen Cai Mep Port Services Joint Stock Company, concurrently recalling its corporate representatives from the entity's Board of Directors and Supervisory Board. This strategic exit enables HAH to repatriate capital and reallocate resources toward core, higher-yielding maritime port assets.
+
+---
+
+### 3. PROVISIONS, CONTINGENT LIABILITIES & POST-BALANCE SHEET EVENTS
+
+HAH remains exposed to distinct operational and financial risks that warrant rigorous ongoing surveillance:
+- **Fuel Price Volatility & Regulatory Risk:** Bunkering costs are entirely subject to international market fluctuations, necessitating flexible tariff adjustments to protect operating margins. From a regulatory standpoint, the company faces systemic risks stemming from shifts in cross-border trade policies, quarantine protocols, and complex compliance frameworks under the Law on Enterprises and the Law on Securities.
+- **Related-Party Transactions:** Internal control audits highlighted a robust governance posture, with the Group registering zero transactions or outstanding receivables/payables balances with key management personnel and their close associates. Conversely, transactions with affiliated entities (An Bien Shipping Joint Stock Company, Hai An Freight Forwarding Joint Stock Company) occurred in the ordinary course of business, primarily comprising the provision/utilization of port services, profit allocations under Business Cooperation Contracts (BCC), and dividend receipts.
+
+---
+
+### 4. ESG IMPLEMENTATION
+
+Although HAH has yet to publish a standalone Sustainability (ESG) Report for FY2023, sustainable development principles have been progressively integrated into the company’s core operational framework:
+
+- **Environmental (E):** The acquisition and operational commissioning of the new-generation container vessel HAIAN ALFA (1,800 TEU) in late 2023 underscores the company’s commitment to fleet rejuvenation. Newer tonnage typically features optimized propulsion technology, enhancing fuel efficiency and reducing greenhouse gas emissions (Scope 1) per TEU-mile compared to legacy vessels, progressively aligning the company with stringent international maritime decarbonization standards.
+- **Social (S):** The company focused on infrastructure and yard upgrades (completed in May 2023) to enhance occupational health and safety standards across terminal quaysides and container depots. HAH systematically conducts staff training and regulatory compliance updates for its workforce to mitigate operational legal risks while elevating professional competencies in logistics management.
+- **Governance (G):** Corporate governance is rigorously administered with clear segregation of duties among the General Meeting of Shareholders (GMS), the Board of Directors (comprising 7 members, including 1 independent member, Ms. Tran Thi Hai Yen, ensuring objective oversight), and an independent Supervisory Board of 3 members. Notably, the year marked a key leadership transition, with Mr. Vu Thanh Hai officially appointed as Chairman of the Board, succeeding Mr. Vu Ngoc Son effective June 20, 2023. The Supervisory Board effectively fulfilled its mandate by overseeing the legality of financial and accounting operations and actively participating in BoD strategic planning sessions to safeguard shareholder value.

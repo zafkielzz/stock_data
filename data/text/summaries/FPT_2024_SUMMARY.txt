@@ -1,0 +1,25 @@
+Dưới đây là bản tóm tắt phân tích định tính chuyên sâu về Tập đoàn FPT cho năm tài chính 2024, được thực hiện bởi Chuyên gia Phân tích Tài chính Cao cấp dựa trên toàn bộ dữ liệu đã được xác thực:
+
+### 1. ĐỘNG LỰC KINH DOANH & BÁO CÁO BỘ PHẬN
+
+Trong năm tài chính 2024, FPT duy trì đà tăng trưởng kết quả kinh doanh với doanh thu tăng 19.4% và lợi nhuận trước thuế (LNTT) tăng 20.3%, kéo theo thu nhập trên mỗi cổ phiếu (EPS) tăng 22.0%. Sự bứt phá này giúp giá trị vốn hóa thị trường của Tập đoàn chính thức vượt mốc 9 tỷ USD. Động lực tăng trưởng cốt lõi đến từ Khối Công nghệ với doanh thu tăng 24.4%, đóng góp 62.2% tổng doanh thu và 47.2% tổng LNTT toàn Tập đoàn. Khối Công nghệ ghi nhận năng lực cạnh tranh quốc tế nâng cao khi trúng các hợp đồng lớn như dự án 225 triệu USD tại Mỹ, 115 triệu USD tại Đức và 110 triệu USD tại Singapore. Mảng Chuyển đổi số tiếp tục là mũi nhọn với tốc độ tăng trưởng doanh thu duy trì 40-45%/năm. 
+
+Thắt chặt chiến lược xung quanh 5 trụ cột "AI - Bán - Xe - Số - Xanh", FPT đã triển khai chuỗi giá trị bán dẫn với đơn hàng 70 triệu chip và ra mắt 10 mẫu chip mới, đồng thời hợp tác với NVIDIA xây dựng 2 Nhà máy AI tại Việt Nam và Nhật Bản. Trong lĩnh vực Công nghệ ô tô số, Tập đoàn tiếp tục hợp tác với các nhà cung cấp Tier 1 về hệ thống màn hình hiển thị (meter/HUD). Bên cạnh Khối Công nghệ, Khối Viễn thông ghi nhận điểm sáng từ mảng Trung tâm dữ liệu (Data Center) với mức tăng trưởng gần 50% nhờ đẩy mạnh hạ tầng Wi-Fi 6. Khối Giáo dục mở rộng quy mô đạt 152.000 người học trên toàn hệ thống tại hơn 30 tỉnh, thành phố. Hoạt động M&A quốc tế cũng được đẩy mạnh nhằm mở rộng thị phần, tiêu biểu là các thương vụ mua lại Công ty TNHH Tư vấn AOSIS (Pháp) và Công ty TNHH NAC (Nhật Bản).
+
+### 2. CƠ CẤU VỐN, NỢ VAY & LÃI SUẤT
+
+Cơ cấu nợ vay của FPT tập trung vào các khoản nợ vay ngân hàng không tài sản đảm bảo nhằm tối ưu hóa chi phí vốn và phục vụ nhu cầu kinh doanh. Các khoản vay ngắn hạn chủ yếu dùng để bổ sung vốn lưu động với lãi suất thả nổi và cố định giao động trong khoảng từ 1.04%/năm đến 6.6%/năm (so với mức 0%/năm đến 8%/năm của năm 2023). Các khoản vay dài hạn nhằm tài trợ cho hoạt động mua sắm, xây dựng tài sản cố định có lãi suất dao động từ 0.28%/năm đến 6.9%/năm (năm 2023 là 0%/năm đến 6.75%/năm).
+
+Áp lực dòng tiền và rủi ro tỷ giá đối với dư nợ bằng ngoại tệ (USD, JPY, EUR) được quản trị chủ động thông qua các công cụ tài chính phái sinh như hợp đồng hoán đổi ngoại tệ và hợp đồng mua ngoại tệ trong tương lai. Đồng thời, Tập đoàn có lợi thế tự nhiên nhờ nguồn thu ngoại tệ dồi dào từ các hợp đồng xuất khẩu phần mềm bằng USD và JPY. Dòng tiền đầu tư tài sản cố định (Capex) trong năm tập trung mạnh vào các dự án trọng điểm như Nhà máy AI (AI Factory), Trung tâm dữ liệu Quận 9, dự án F-Town 3, Hòa Lạc 3 và Khuôn viên Đại học FPT tại Đà Nẵng.
+
+### 3. RỦI RO DỰ PHÒNG, NỢ TIỀM TÀNG & BIẾN CỐ SAU NIÊN ĐỘ
+
+FPT thực hiện trích lập dự phòng nghiêm ngặt đối với hàng tồn kho và các khoản nợ phải thu ngắn/dài hạn khó đòi phát sinh từ hoạt động sản xuất kinh doanh. Cơ cấu phải thu khách hàng ghi nhận sự tập trung ở một số đối tác lớn chiếm trên 2% tổng dư nợ như Ngân hàng TMCP Ngoại thương Việt Nam (VCB), Công ty LG Electronics và Công ty PETRONAS Digital Sdn Bhd. Đối với khoản trả trước cho người bán ngắn hạn, chi phí tập trung trên 10% tại hai nhà cung cấp là Moore Law Consultancies LLC và The Forest City.
+
+Báo cáo tài chính cho thấy Tập đoàn duy trì kiểm soát rủi ro tài chính an toàn. Các thông tin về cam kết bảo lãnh ngoại bảng hay tranh chấp kiện tụng pháp lý trọng yếu không ghi nhận ảnh hưởng tiêu cực đến tình hình tài chính. Trong năm, Tập đoàn cũng đã hoàn tất việc phân bổ lại giá trị hợp lý từ các giao dịch hợp nhất kinh doanh của năm trước theo đúng chuẩn mực kế toán. Không có biến cố tài chính bất thường nào phát sinh sau ngày 31/12/2024 làm thay đổi bản chất số liệu niên độ.
+
+### 4. THỰC THI ESG
+
+- **Môi trường (E):** FPT công bố cam kết tiên phong đạt Net-Zero vào năm 2040 thông qua việc tham gia Chương trình Năng lượng phát thải thấp Việt Nam II (V-LEEP II). Tập đoàn đẩy mạnh cung cấp các giải pháp quản lý carbon trọn gói (kiểm toán, báo cáo, bù đắp phát thải) cho khách hàng, đồng thời nằm trong danh mục 20 cổ phiếu chỉ số phát triển bền vững VNSI của HoSE.
+- **Xã hội (S):** Tập đoàn áp dụng chuẩn quốc tế ISO 45001:2018 về An toàn sức khỏe nghề nghiệp và liên tục đạt danh hiệu Nơi làm việc tốt nhất tại Mỹ, Nhật Bản, Đức, Singapore, Philippines. FPT chú trọng đào tạo nguồn nhân lực với mục tiêu cung cấp kỹ năng AI cho 500.000 lao động và 50.000 kỹ sư AI đến năm 2030. Hoạt động xã hội ghi nhận công tác tái thiết giáo dục sau bão Yagi, hỗ trợ 1,400 gia đình nhân viên bị ảnh hưởng và duy trì các dự án dài hạn như Trường Hy Vọng.
+- **Quản trị (G):** Tập đoàn ban hành quy định về "Lãnh đạo tập trung dân chủ" và triển khai bộ chính sách ESG với 97.5% cán bộ nhân viên hoàn thành đào tạo. Lãnh đạo Tập đoàn tham gia sáng lập Hội đồng cấp cao Diễn đàn ESG Việt Nam. FPT tuân thủ các chuẩn mực công bố thông tin, liên tục nằm trong Top 3 Doanh nghiệp nhóm vốn hóa lớn có hoạt động IR xuất sắc nhất.

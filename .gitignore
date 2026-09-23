@@ -21,3 +21,10 @@ Thumbs.db
 # Secrets & Environment variables
 .env
 *.env
+
+# Private documents & Office files (Do not push to Git)
+*.docx
+*.xlsx
+Doc Idea.docx
+LiteratureReview.xlsx
+

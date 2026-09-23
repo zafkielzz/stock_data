@@ -1,0 +1,25 @@
+1. BUSINESS DYNAMICS & SEGMENT REPORTING
+
+During the 2021 fiscal year, Lien Viet Post Joint Stock Commercial Bank (LPB) reported a robust operational breakout, recording a pre-tax profit of VND 3,638 billion, underpinned by an expansion in total assets exceeding the VND 289,000 billion milestone. The bank’s core growth drivers stemmed from the diversification of non-interest income streams, highlighted by foreign exchange trading and derivative products, which generated nearly VND 140 billion—an impressive 125% year-on-year growth. This surge was propelled by the expanded deployment of FX and interest rate hedging solutions, enabling the Treasury Division to achieve proprietary FX trading gains of VND 33.83 billion, outperforming the full-year target (VND 23.04 billion) by nearly 150%.
+
+Additionally, LPB optimized its capital utilization efficiency via the interbank market (Market 2), with explosive transaction volume reaching approximately VND 1,767 trillion across 7,313 transactions, representing a 189% increase compared to 2020. Reflecting these positive operating results, LPB’s equity valuation experienced a stellar 99.22% rally during the year (opening at VND 5,140 and closing at VND 10,240, with an intraday peak of VND 13,930), accompanied by ample market liquidity characterized by an average matched trading volume of 11,207,932 shares per session, signaling strong endorsement from the institutional and retail investor community.
+
+2. CAPITAL STRUCTURE, DEBT & INTEREST RATES
+
+As of December 31, 2021, LPB's charter capital stood at VND 12,036 billion. To augment its Tier 1 capital base and bolster its Capital Adequacy Ratio (CAR) against credit expansion pressures, the bank executed large-scale long-term capital-raising initiatives. Specifically, LPB successfully issued over VND 1,800 billion in public Tier 2 subordinated bonds and over VND 20,700 billion in privately placed valuable papers. This diversification of funding structures mitigated reliance on short-term wholesale funding and enhanced the bank's competitive positioning in the marketplace.
+
+Regarding liquidity orchestration, LPB proactively balanced retail deposits (Market 1) with interbank funds (Market 2) to secure low-cost funding sources, serving the dual objectives of net interest margin (NIM) optimization and supporting customer segments impacted by the pandemic. Conversely, the portfolio of valuable papers issued by domestic credit institutions reached nearly VND 11,000 billion by year-end 2021, strategically structured across maturities and yields to optimize liquidity risk management and mitigate interest rate volatility.
+
+3. PROVISIONS, CONTINGENT LIABILITIES & POST-BALANCE SHEET EVENTS
+
+A material shift in LPB’s risk management architecture was the prospective adoption of Circular 11/2021/TT-NHNN effective October 1, 2021 (superseding Circulars 02 and 09) regarding asset classification, provisioning requirements, and loss-reserve methodologies. Under the new regulatory framework, the bank is mandated to classify and provision specifically for term deposits and loans extended to other credit institutions, while being exempt from general provisioning for this asset class.
+
+In response to the adverse macroeconomic impacts of the Covid-19 pandemic on borrowers’ debt-servicing capacities, LPB proactively deployed debt restructuring solutions, including loan tenor rescheduling, interest and fee exemptions/reductions, and debt classification forbearance. While this served as a flexible mechanism to support clientele, it concurrently necessitates stringent credit risk containment going forward to safeguard asset quality.
+
+4. ESG IMPLEMENTATION
+
+Although LPB did not publish a standalone Sustainability (ESG) Report for the 2021 fiscal year, core ESG principles remained deeply integrated into the Executive Board’s strategic roadmap:
+
+*   **Environmental (E):** The bank identified digital transformation and the comprehensive digitization of transactions as a spearhead strategy for 2022. This orientation not only optimizes customer experience but also directly curtails paper consumption and mitigates scope-3 indirect emissions stemming from physical branch operations.
+*   **Social (S):** LPB made active community contributions by deploying human and material resources to support nationwide Covid-19 containment efforts. Internally, the bank focused on formulating tailored human resource policies and establishing effective training programs to elevate workforce capabilities, aiming to cultivate a high-performing talent pool.
+*   **Governance (G):** The governance framework operated rigorously, featuring an organizational chart that clearly delineates the roles of the Board of Directors, the Executive Board (Board of Management), and the Supervisory Board. Specialized committees—including the Human Resources Committee, Risk Management Committee, and Anti-Money Laundering Committee—functioned independently, ensuring strict compliance with regulatory prudential ratios mandated by the State Bank of Vietnam (SBV).

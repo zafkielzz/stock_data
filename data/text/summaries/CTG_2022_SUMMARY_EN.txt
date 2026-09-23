@@ -1,0 +1,28 @@
+### 1. BUSINESS DYNAMICS & SEGMENT REPORTING
+
+In fiscal year 2022, Vietnam Joint Stock Commercial Bank for Industry and Trade (VietinBank - HOSE: CTG) operated against a backdrop of robust macroeconomic recovery, with Vietnam’s GDP growth reaching 8.02%. The bank posted resilient financial performance driven by key strategic growth catalysts, notably: scaling up Current Account Savings Accounts (CASA) to optimize the cost of funds (CoF); expanding the share of non-interest income (Non-II); aggressively leveraging the cross-selling ecosystem; and intensifying the recovery of previously written-off debts.
+
+At the segment level, Indovina Bank Limited (IVB - a 50% joint venture owned by VietinBank) demonstrated divergent operating dynamics:
+*   **Asset and Credit Scale:** As of December 31, 2022, IVB’s total assets stood at VND 58.6 trillion (up 6.8% YoY). Gross loans outstanding reached VND 31.5 trillion, down 5% YoY and accounting for 53.7% of total assets.
+*   **Profitability:** IVB generated total operating income of VND 2,024 billion. The primary driver was net interest income (NII), which reached VND 1,717 billion (representing an impressive 22.3% YoY growth), while net fee income grew 2.4% YoY to VND 63 billion. Operating efficiency was optimized as operating expenses (Opex) contracted by 2.1% (to approximately VND 554 billion), driving an 8% YoY increase in IVB's pre-tax profit to VND 1,069 billion.
+
+In the equity market, despite CTG's solid fundamental core, the share price faced severe downward pressure due to broader financial market volatility. CTG shares opened the year at VND 20,830 and closed at VND 16,480 (a decline of 20.88%), trading within a wide band of VND 11.790 (low) to VND 23,100 (high). A key bright spot was the sustained high liquidity, with average matched trading volume reaching 6,168,742 shares per session, demonstrating enduring institutional and retail interest.
+
+### 2. CAPITAL STRUCTURE, DEBT & INTEREST RATES
+
+As of December 31, 2022, VietinBank’s charter capital remained unchanged at VND 48,057,506 million (over VND 48,057 billion), firmly reinforcing its financial capacity and capital adequacy ratio (CAR) in compliance with State Bank of Vietnam (SBV) regulations. VietinBank benefits from a highly favorable shareholder structure, anchored by strategic foreign shareholder MUFG Bank (Japan), which holds a 19.73% stake—bestowing significant global credit standing and technical support in capital management.
+
+VietinBank’s funding base primarily comprises customer deposits and issued valuable papers (certificates of deposit and corporate bonds). To mitigate net interest margin (NIM) risks amid macroeconomic volatility, the bank proactively managed its Asset-Liability Committee (ALCO) strategies while exercising tight control over the loan-to-deposit ratio (LDR) and the ratio of short-term funds used for medium- and long-term lending. Accelerating CASA mobilization played a pivotal role in enabling VietinBank to compress its cost of funds and reduce reliance on interest-rate-sensitive interbank funding channels.
+
+### 3. PROVISIONS, CONTINGENT LIABILITIES & POST-BALANCE SHEET EVENTS
+
+Asset quality management and credit risk containment remained foundational priorities for VietinBank. The bank strictly adhered to loan classification standards stipulated under Circular 11/2021/TT-NHNN to fully and accurately provision its credit portfolio. Non-performing loan (NPL) pressures were tightly managed through proactive portfolio restructuring and enhanced capabilities in off-balance-sheet bad debt recovery and resolution.
+
+The corporate governance framework demonstrated a high degree of transparency, with fiscal year 2022 recording no insider share transactions, nor any irregular contracts or transactions with insiders and related parties. Subsequent to the balance sheet closing date of December 31, 2022, the bank maintained its steadfast objective of containing Group 2 loans and NPL ratios, while optimizing risk provisioning expenses to safeguard profit margins against adverse headwinds from the real estate and corporate bond markets.
+
+### 4. ESG IMPLEMENTATION
+
+VietinBank continued to reinforce its pioneering position in implementing Environmental, Social, and Governance (ESG) standards:
+*   **Environmental (E):** The bank scaled up the disbursement of green credit capital directed toward emission-reduction projects, environmental protection, and the promotion of a circular economy. Internally, the institution implemented energy-saving practices and workflow digitalization to directly minimize its carbon footprint.
+*   **Social (S):** VietinBank upheld its corporate social responsibility through large-scale social welfare programs and employee benefit safeguards. Human capital development was standardized via the VietinBank Training and Human Resource Development School, committing to an equitable workplace environment while enhancing employee productivity and occupational safety.
+*   **Governance (G):** VietinBank’s financial statements were independently audited by Deloitte Vietnam Company Limited, ensuring objectivity and integrity. Corporate governance compliance was further underscored by the Board of Directors' appointment of Mr. Dong Xuan Hung as the new Head of Corporate Governance effective October 18, 2022. Furthermore, financial discipline was clearly demonstrated as the actual remuneration ratio for the Board of Directors and the Supervisory Board in 2022 accounted for only 0.16% of net profit after tax, remaining well below the 0.28% ceiling approved by the General Meeting of Shareholders.

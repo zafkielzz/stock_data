@@ -1,0 +1,36 @@
+### 1. BUSINESS DYNAMICS & SEGMENT REPORTING
+
+Fiscal year 2021 marked a spectacular operational breakthrough for FPT Digital Retail JSC (FRT), defying a highly challenging macroeconomic environment heavily impacted by the pandemic, which constrained Vietnam's GDP growth to a mere 2.58%. This positive underlying business momentum was directly reflected in equity market performance, with FRT shares generating a stellar return of +211.24%, opening at VND 14,060 and closing at VND 43,760, supported by robust liquidity averaging over 1.86 million shares matched per session. The core growth catalysts stemmed from both primary retail verticals:
+
+*   **FPT Shop Chain:** Solidified its market position as Vietnam's premier laptop retailer, generating VND 5,700 billion in laptop revenue (a 2.2x expansion YoY) driven by the strategic rollout of 70 newly opened Laptop Centers and the cross-selling shop-in-shop model. The Apple product portfolio expanded 1.6x, catalyzed by the successful launch campaigns for the iPhone 13 series and Macbook Pro 2021 in Q4. Online revenue reached VND 6,285 billion, up 21% YoY and accounting for 28% of total consolidated revenue.
+*   **Long Châu Chain:** Delivered explosive revenue growth of VND 3,977 billion, surging 3.3x YoY, enabling the pharmacy network to achieve a modest net profit milestone. The store footprint expanded aggressively with 200 new pharmacies, bringing the total network size to 400 outlets spanning 53 provinces and municipalities. The outperformance against the initial annual target of 150 new openings was propelled by the rapid rollout of nearly 100 standalone stores in Q4 alone, immediately following the lifting of social distancing restrictions.
+
+In aggregate, FRT’s cumulative consolidated revenue reached VND 22,495 billion (+53% YoY, achieving 140% of the full-year target), while profit before tax (PBT) reached VND 554 billion (a 19.5x increase YoY, achieving 460% of the target). All business operations were strictly domestic, with zero export exposure. To optimize its long-term supply chain, FRT completed the 99.98% equity acquisition of Viet Han Friendship Joint Stock Company to make dedicated capital investments in warehouse and logistics infrastructure.
+
+### 2. CAPITAL STRUCTURE, DEBT & INTEREST RATES
+
+FRT’s capital structure relies heavily on short-term debt instruments to finance the idiosyncratic working capital requirements of the retail sector. A positive structural feature of the company's debt profile is that all bank borrowings are unsecured, clean credits with maturities under one year.
+
+*   **Short-Term Borrowing Rates:** For USD-denominated credit facilities, interest rates ranged from 1.80% to 2.67% per annum (marking a slight tightening compared to the 2.20% – 2.35% range in 2020). For VND-denominated balances, floating and fixed interest rates stipulated per contract ranged from 1.90% to 4.50% per annum (compared to 1.90% – 4.10% in the previous year).
+*   **Credit Partners:** FRT maintains flexible credit limits with an extensive roster of reputable domestic and international financial institutions. Major foreign partners include HSBC, Standard Chartered, Citibank, ANZ, DBS, UOB, MUFG, and Shinhan Bank, alongside tier-1 domestic commercial banks such as VietinBank, BIDV, Vietcombank, and MB.
+*   **Related-Party Financial Transactions:** FRT maintained unsecured short-term borrowing and lending transactions with its parent company, FPT Corporation, with tenors under six months and interest rates ranging from 4.0% to 6.0% per annum.
+
+Overall, while near-term cash flow pressures persist to sustain rapid store expansion velocity, FRT’s capital structure risk is assessed as manageable, underpinned by high credit standing, robust access to low-cost foreign capital, and solid financial backing from the parent conglomerate.
+
+### 3. PROVISIONS, CONTINGENT LIABILITIES & POST-BALANCE SHEET EVENTS
+
+Amid the unpredictable volatility of the retail market during the pandemic, FRT proactively executed risk provisioning to safeguard balance sheet integrity:
+
+*   **Inventory Obsolescence Provisions:** Strictly provisioned based on the valuation delta between historical cost and net realizable value (NRV) for technology hardware and pharmaceuticals, mitigating risks related to technological obsolescence and product degradation.
+*   **Allowance for Doubtful Accounts:** Applied conservatively to overdue trade receivables from third parties and short-term loans to secure asset quality.
+*   **Senior Management Resignation:** During the fiscal year, the Board of Directors approved the termination of Ms. Trinh Hoa Giang from her position as Deputy Chief Executive Officer, effective September 1, 2021.
+
+The financial statement disclosures reported no contingent liabilities stemming from high-risk off-balance-sheet guarantees or material legal disputes and litigations that could impair the company's going-concern status.
+
+### 4. ESG IMPLEMENTATION
+
+FRT operationalizes its sustainable development strategy across three core pillars:
+
+*   **Environmental (E):** As a pure-play retail and service provider, FRT generates zero direct greenhouse gas emissions (Scope 1). Indirect emissions (Scope 2 & 3) arising from electricity consumption across offices and retail chains are minimized through energy-efficiency initiatives, including architectural glass utilization for natural lighting, automated timer switches for office HVAC systems, and the encouragement of stair usage. The company enforces carton recycling for inventory logistics and deploys water-saving sanitary fixtures. FRT strictly complies with environmental protection regulations, registering zero environmental violations during the year.
+*   **Social (S):** Accompanying society through the pandemic, FRT and its employees contributed over VND 10 billion to community initiatives. FPT Shop collaborated on the "Computers for Kids" project, subsidizing online learning equipment packages valued at over VND 8 billion for disadvantaged students. The Long Châu chain partnered with the Hope Foundation to distribute medical kits and SpO2 monitors to self-quarantining F0 patients. Internally, the company allocated substantial budgets for cash subsidies, medical devices, and over 1,700 pharmaceutical treatment bundles for affected employees and their immediate families.
+*   **Governance (G):** A key governance highlight was the executive commitment demonstrated by the Board of Directors and the Supervisory Board, who voluntarily waived their remuneration for the fiscal year 2021 to preserve capital and navigate the crisis alongside the enterprise. Management operates with high transparency, fully complies with statutory tax obligations, and maintains transparent disclosure standards under independent external audit by a reputable firm.

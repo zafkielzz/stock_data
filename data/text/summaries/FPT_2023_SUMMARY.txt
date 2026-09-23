@@ -1,0 +1,29 @@
+Dưới đây là báo cáo tóm tắt phân tích định tính về Tập đoàn FPT cho năm tài chính 2023, được thực hiện dưới góc nhìn của một Chuyên gia phân tích tài chính cao cấp.
+
+---
+
+### 1. ĐỘNG LỰC KINH DOANH & BÁO CÁO BỘ PHẬN
+
+Năm tài chính 2023 đánh dấu bước chuyển mình vượt bậc của FPT với doanh thu thuần đạt 52.618 tỷ đồng và lợi nhuận trước thuế (LNTT) đạt 9.203 tỷ đồng, tăng trưởng lần lượt 19,6% và 20,1% so với cùng kỳ. Động lực tăng trưởng cốt lõi đến từ mảng Dịch vụ Công nghệ thông tin (CNTT) tại thị trường nước ngoài khi lần đầu tiên cán mốc doanh thu 1 tỷ USD. Thành tựu này được thúc đẩy bởi sự dịch chuyển mạnh mẽ sang các dịch vụ có giá trị gia tăng cao như Điện toán đám mây (Cloud), Trí tuệ nhân tạo (AI) và Công nghệ phần mềm ô tô (FPT Automotive). Doanh thu từ mảng AI và Cloud tăng trưởng ấn tượng 70% so với cùng kỳ, đạt 421 tỷ đồng. 
+
+Ngược lại, mảng Dịch vụ CNTT trong nước chịu áp lực lớn từ sự suy giảm chi tiêu của khối doanh nghiệp và chính phủ do bối cảnh kinh tế khó khăn, khiến doanh thu chỉ đạt 7.161 tỷ đồng (+4,6%) và LNTT giảm nhẹ 2,5% xuống 380 tỷ đồng. Tuy nhiên, hệ sinh thái sản phẩm "Made by FPT" đã đóng vai trò bệ đỡ vững chắc với mức tăng trưởng doanh thu 42,3%, đạt 1.637 tỷ đồng nhờ chiến lược dịch chuyển từ bán dự án sang kinh doanh nền tảng. Khối Viễn thông duy trì tính phòng thủ ổn định khi số lượng thuê bao Internet cán mốc 4 triệu và mảng Trung tâm dữ liệu tăng trưởng trên 30%. Khối Giáo dục tiếp tục mở rộng quy mô phòng thủ dài hạn với việc hiện diện tại 20 tỉnh thành và phục vụ mạng lưới người học quy đổi lớn, đóng vai trò chuẩn bị nguồn nhân lực bán dẫn và công nghệ chất lượng cao cho chu kỳ phát triển tiếp theo.
+
+### 2. CƠ CẤU VỐN, NỢ VAY & LÃI SUẤT
+
+Cơ cấu nguồn vốn của FPT được tối ưu hóa nhằm tài trợ cho các hoạt động mở rộng công suất và bổ sung vốn lưu động một cách linh hoạt. Các khoản vay ngắn hạn chủ yếu là vay ngân hàng không có tài sản đảm bảo, phục vụ nhu cầu vốn lưu động ngắn hạn với lãi suất dao động từ 0%/năm đến 8%/năm, giảm nhẹ so với biên độ 0,45% - 8,8% của năm trước. Các khoản vay dài hạn không có tài sản đảm bảo tập trung tài trợ cho việc xây dựng tài sản cố định trọng điểm như Dự án Hòa Lạc 3, Trung tâm dữ liệu Quận 9, và Khuôn viên Đại học FPT tại Đà Nẵng, chịu mức lãi suất từ 0%/năm đến 6,75%/năm (giảm so với mức tối đa 7,2% của năm 2022). 
+
+Rủi ro tỷ giá đối với các khoản nợ gốc bằng ngoại tệ (USD và JPY) được kiểm soát chặt chẽ thông qua hai lớp phòng vệ: một là các công cụ phái sinh tài chính như hợp đồng hoán đổi ngoại tệ (swaps) và mua ngoại tệ kỳ hạn; hai là dòng tiền tự nhiên bằng ngoại tệ rất dồi dào từ doanh thu xuất khẩu phần mềm. Áp lực dòng tiền của tập đoàn ở mức thấp nhờ lượng tiền mặt, tiền gửi ngân hàng ngắn và dài hạn dồi dào, kết hợp với dòng cổ tức tiền mặt đều đặn nhận được từ các công ty liên kết quy mô lớn như Synnex FPT và FPT Retail.
+
+### 3. RỦI RO DỰ PHÒNG, NỢ TIỀM TÀNG & BIẾN CỐ SAU NIÊN ĐỘ
+
+FPT duy trì chính sách trích lập dự phòng nghiêm ngặt nhằm đảm bảo tính lành mạnh của bảng cân đối kế toán. Hoạt động dự phòng giảm giá hàng tồn kho chủ yếu tập trung ở các mảng phân phối thiết bị công nghệ và bán lẻ vốn nhạy cảm với biến động sức mua của thị trường. Danh mục phải thu ngắn hạn của khách hàng có độ phân tán rủi ro tốt; các đối tác lớn chiếm trên 2% tổng số dư phải thu đều là các tổ chức uy tín cao như Ngân hàng Vietcombank, LG Electronics, Petronas Digital, Cox Automotive và Ủy ban Quốc gia Thu nhập tại Bangladesh. Các khoản nợ khó đòi được trích lập dự phòng đầy đủ theo quy định của chuẩn mực kế toán Việt Nam. 
+
+Đối với các khoản đầu tư tài chính, FPT ghi nhận giá trị hợp lý dựa trên giá thị trường đóng cửa tại ngày 31/12/2023 đối với các khoản đầu tư niêm yết/giao dịch công khai như TPBank và Chứng khoán FPT (FPTS). Các khoản đầu tư vào đơn vị chưa niêm yết được phản ánh theo giá trị sổ sách do chưa có hướng dẫn định giá chi tiết từ VAS, tuy nhiên không ghi nhận dấu hiệu tổn thất lớn. Báo cáo tài chính không thể hiện các cam kết bảo lãnh ngoại bảng rủi ro cao hay các tranh chấp pháp lý trọng yếu có thể làm thay đổi cấu trúc tài chính của doanh nghiệp sau ngày kết thúc niên độ.
+
+### 4. THỰC THI ESG
+
+FPT tiếp tục khẳng định vị thế dẫn dắt trong việc thực hành phát triển bền vững tại Việt Nam, là cổ phiếu công nghệ duy nhất được xếp trong danh mục 20 cổ phiếu thành phần chỉ số VNSI (HoSE) và đạt xếp hạng Bạc về kinh doanh bền vững từ EcoVadis. 
+
+*   **Về Môi trường (E):** Tập đoàn tích cực thúc đẩy các sáng kiến văn phòng xanh và tối ưu hóa năng lượng tại các trung tâm dữ liệu thông qua hệ thống quản trị dữ liệu tập trung và 42 dự án chuyển đổi số nội bộ, giúp tiết kiệm chi phí vận hành và giảm thiểu gián tiếp dấu chân carbon.
+*   **Về Xã hội (S):** FPT đã kiến tạo 48.162 việc làm (tăng 13,6% so với cùng kỳ) với môi trường làm việc hạnh phúc đạt chuẩn Great Place to Work (87% nhân sự phản hồi tích cực). Tỷ lệ nghỉ việc toàn tập đoàn giảm mạnh 4 điểm phần trăm so với năm 2022. FPT cũng đã dành 205,2 tỷ đồng cho các hoạt động trách nhiệm xã hội và không ngừng nhân rộng mô hình "trường học hạnh phúc" đến 20 tỉnh thành trên cả nước.
+*   **Về Quản trị (G):** Tập đoàn tuân thủ nghiêm ngặt các thông lệ quản trị công ty tốt nhất dưới sự định hướng của Hội đồng Quản trị phối hợp với Viện Thành viên Hội đồng Quản trị Việt Nam (VIOD). Sự minh bạch trong hoạt động quan hệ nhà đầu tư (IR) của FPT đã được cả cộng đồng nhà đầu tư cá nhân lẫn các định chế tài chính chuyên nghiệp vinh danh trong nhóm dẫn đầu quy mô vốn hóa lớn.

@@ -1,0 +1,23 @@
+Below is the institutional-grade English translation of the financial report summary, maintaining professional equity research terminology while strictly preserving all financial figures, metrics, corporate names, and section headers.
+
+***
+
+### 1. BUSINESS DYNAMICS & SEGMENT REPORTING
+In 2025, PetroVietnam Gas Joint Stock Corporation (GAS) delivered an impressive operational leap, posting consolidated total revenue of VND 136,843 billion—up 30% year-on-year and exceeding its target by 185%. Profit before tax reached VND 14,359 billion (a 9% increase), and net profit after tax stood at VND 11,572 billion. Core growth drivers stemmed from the efficient exploitation of new gas fields (such as PM3 – Ca Mau in the Southwestern region, and Nam Con Son 2) alongside the strategic optimization of the gas value chain from upstream to downstream.
+
+The dry gas business remained the primary pillar, accounting for roughly 64% of total sales volume, while the LNG segment marked a historic commercial milestone with the successful import of over 500 million $m^3$ of liquefied natural gas to serve power generation and industrial customers. Domestic LPG market share was firmly maintained at 70% (78% in the South, 60% in the North, and 75% in the Central region), alongside a 65%–70% market share in Cambodia. Subsidiaries and branches such as KCM, CNG, and KNV contributed significantly to profit margins through market share expansion and effective cost control.
+
+### 2. CAPITAL STRUCTURE, DEBT & INTEREST RATES
+GAS’s capital structure maintained a high degree of safety, with total assets reaching VND 93,568 billion (up approximately 14.3% year-on-year). Equity dominated the funding mix at 72% of total capital (reaching VND 67,653 billion). Total short-term and long-term borrowings were tightly and optimally controlled at a low level, with a Debt-to-Equity ratio of 5.22% (equivalent to a D/E multiple of 0.38x). Regarding the detailed debt structure, short-term debt stood at VND 1,532 billion and long-term debt at VND 5,341 billion.
+
+Major credit facilities are primarily financed by leading domestic commercial banks, including VietinBank, BIDV, Vietcombank, and MB. Borrowing rates are predominantly floating, adjusted semi-annually, pegged to individual savings deposit rates plus a margin ranging from 2.0% to 2.8% per annum. Cash flow pressures were significantly mitigated by robust cash reserves (cash and cash equivalents reaching VND 6,876 billion) and strong positive net cash flow from operating activities (totaling VND 13,040 billion).
+
+### 3. PROVISIONS, CONTINGENT LIABILITIES & SUBSEQUENT EVENTS
+Provisions were prudently established by GAS in strict compliance with accounting standards. Specifically, provisions for inventory write-downs reached VND 188.75 billion, covering obsolete, slow-moving, and substandard materials and equipment. Provisions for short-term and long-term doubtful debts were recognized to accurately reflect recovery risks from power and industrial off-takers.
+
+Regarding off-balance-sheet commitments, GAS maintains substantial payment guarantees and capital expenditure commitments for key projects such as the 1 MTPA Thi Vai LNG Terminal, the Block B – O Mon Gas Chain project, and new gas pipelines. No material legal disputes or adverse abnormal financial events occurred after December 31, 2025, that would affect the company’s going-concern status.
+
+### 4. ESG EXECUTION
+- **Environmental (E):** GAS rigorously controls greenhouse gas emissions, with total Scope 1 and Scope 2 emissions for 2025 recorded at 177,401 metric tons of $CO_2$. The company prioritizes minimizing methane leaks during extraction and processing while actively deploying energy-saving initiatives (such as installing rooftop solar power systems at KCM and CNG facilities), aiming to achieve Net-Zero by 2050—five years ahead of the timeline outlined in Power Development Plan VIII.
+- **Social (S):** The company upholds stringent OHS standards to ensure a safe and healthy working environment for its 1,355 employees. Competitive welfare policies, comprehensive health insurance, professional development programs (100 training courses with 2,811 participants), and community social security initiatives (focused on education and healthcare) are implemented consistently.
+- **Governance (G):** The corporate governance framework operates on an advanced model featuring a highly independent Board of Directors, which includes independent members exercising rigorous oversight. Independent audits are conducted by Deloitte Vietnam, ensuring absolute transparency, strict compliance with public disclosure regulations, and international corporate governance standards (GRI/SDGs).
