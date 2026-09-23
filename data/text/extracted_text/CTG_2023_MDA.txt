@@ -1,7 +1,5 @@
-1
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 DANH MỤC VIẾT TẮT
@@ -12,18 +10,13 @@ An toàn thông tin
 ASXH
 An sinh xã hội
 BCTC
-Báo cáo tài chính
 BCTN
-Báo cáo thường niên
-BĐH
 Ban Điều hành
 BHXH
 Bảo hiểm xã hội
 BHYT
 Bảo hiểm y tế
-BKS
 Ban Kiểm soát
-CAR
 Tỷ lệ an toàn vốn
 CASA
 Nguồn vốn không kỳ hạn
@@ -31,12 +24,11 @@ CBNV
 Cán bộ, nhân viên
 CBTT
 Công bố thông tin
-CN
 Chi nhánh
 CNTT
 Công nghệ thông tin
 COVID-19
-Bệnh viêm đường hô hấp cấp do chủng mới của virus 
+Bệnh viêm đường hô hấp cấp do chủng mới của virus
 Corona
 CSKH
 Chăm sóc khách hàng
@@ -50,11 +42,8 @@ Doanh nghiệp nhỏ và vừa
 Đăng ký kinh doanh
 ĐVSN
 Đơn vị sự nghiệp
-ĐVT
 Đơn vị tính
-FDI
 Đầu tư trực tiếp nước ngoài
-GDP
 Tổng sản phẩm quốc nội
 GĐ/PGĐ
 Giám đốc/Phó Giám đốc
@@ -70,7 +59,6 @@ HTLS
 Hỗ trợ lãi suất
 HOSE
 Sở giao dịch Chứng khoán TP. Hồ Chí Minh
-IPO
 Phát hành cổ phiếu lần đầu ra công chúng
 KHBL
 Khách hàng bán lẻ
@@ -94,7 +82,6 @@ MTBP
 Kế hoạch Kinh doanh trung hạn
 NCLQ
 Người có liên quan
-NĐT
 Nhà đầu tư
 NHLD
 Ngân hàng liên doanh
@@ -104,7 +91,6 @@ NHTM
 Ngân hàng thương mại
 NHTMCP
 Ngân hàng thương mại Cổ phần
-PGD
 Phòng giao dịch
 PTBV
 Phát triển bền vững
@@ -112,9 +98,7 @@ QLRR
 Quản lý rủi ro
 QTRR
 Quản trị rủi ro
-ROA
 Tỷ lệ lợi nhuận trên tổng tài sản
-ROE
 Tỷ lệ lợi nhuận trên vốn chủ sở hữu
 RRHĐ
 Rủi ro hoạt động
@@ -132,17 +116,12 @@ TCKT
 Tổ chức kinh tế
 TCTD
 Tổ chức tín dụng
-TGĐ
 Tổng Giám đốc
 TNHH
 Trách nhiệm hữu hạn
-TPP
 Trưởng phó phòng
-TSC
 Trụ sở chính
-TTS
 Tổng tài sản
-TV
 Thành viên
 UBCKNN
 Ủy ban Chứng khoán Nhà nước
@@ -151,13 +130,12 @@ UBCS
 UBNS
 Ủy ban Nhân sự
 VAMC
-Công ty TNHH MTV Quản lý tài sản của các tổ chức 
+Công ty TNHH MTV Quản lý tài sản của các tổ chức
 tín dụng Việt Nam
 VBCS
 Văn bản chính sách
 VCSH
 Vốn chủ sở hữu
-VĐL
 Vốn điều lệ
 VHDN
 Văn hóa doanh nghiệp
@@ -171,523 +149,478 @@ dd/mm/yyyy
 Định dạng ngày/tháng/năm trong Báo cáo
 Nâng giá trị cuộc sống
 
-Thưa Quý vị,
-Năm 2023 tiếp tục là một năm khó khăn chung 
-của nền kinh tế thế giới, với sự sụt giảm tăng 
-trưởng GDP, các hoạt động thương mại - đầu tư 
-ảm đạm, lạm phát ở mức cao đi kèm với những 
-diễn biến căng thẳng của xung đột địa chính 
-trị, thiên tai, an ninh lương thực... Trong bối cảnh 
-đó, kinh tế Việt Nam, một trong những nền kinh 
-tế có độ mở lớn trên thế giới, cũng phải đối mặt 
-với nhiều rủi ro từ suy thoái kinh tế toàn cầu. Tuy 
-nhiên, nhờ chính sách tiền tệ chủ động, linh hoạt, 
-kịp thời của Chính phủ, Ngân hàng Nhà nước 
-Việt Nam; nỗ lực không ngừng của các cấp, các 
-ngành, địa phương, doanh nghiệp và người dân, 
-kết thúc năm 2023, nền kinh tế Việt Nam vẫn ghi 
-nhận những kết quả khả quan: Tăng trưởng GDP 
-cả năm đạt 5,05%, lạm phát duy trì ở mức thấp 
-3,25%, kinh tế vĩ mô về cơ bản ổn định và bảo 
-đảm các cân đối lớn. Hệ thống ngân hàng tiếp 
-tục phát huy vai trò là kênh dẫn vốn chủ đạo cho 
-toàn bộ nền kinh tế. 
-Năm 2023 cũng là năm đánh dấu VietinBank 
-tròn 35 tuổi với sự trưởng thành, kiên cường và 
-đầy bản lĩnh. Sau 35 năm, Ngân hàng đã trưởng 
-thành về nhiều mặt, từ 22 tỷ đồng vốn chủ sở 
-hữu vào thời điểm mới thành lập đến nay đã 
-tăng lên gần 126.000 tỷ đồng, từ 718 tỷ đồng 
-tổng tài sản năm 1988 lên đến hơn 2 triệu tỷ 
-đồng. Đến nay, VietinBank tự hào xây dựng 
-được đội ngũ nhân sự đầy năng lực và nhiệt 
-huyết, làm việc tại Trụ sở chính, 2 văn phòng đại 
-diện, 8 đơn vị sự nghiệp, 155 chi nhánh và gần 
-1.000 Phòng giao dịch và mạng lưới các công 
-ty con, công ty liên kết trong nước cùng ngân 
-hàng con, chi nhánh và văn phòng đại diện tại 
-nước ngoài. Những nền tảng vững vàng này đã 
-thể hiện sự lớn mạnh của VietinBank qua 35 năm, 
-là cơ sở để Ngân hàng tiếp tục ghi thêm 
-THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
-4
-Chúng tôi cam kết sẽ luôn nỗ lực 
-hết mình và dành những nguồn 
-lực tốt nhất, hiệu quả nhất để 
-trở thành Ngân hàng trách nhiệm 
-vì lợi ích của đất nước, cổ đông, 
-đối tác, khách hàng, cộng đồng 
-và người lao động.
-5
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-những dấu ấn tự hào và lan tỏa mạnh mẽ các 
+PHẦN VI - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG
+THÔNG TIN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN QUAN ĐẾN PTBV
+QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK
+CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TRONG NĂM 2023
+THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG
+HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
+TRÁCH NHIỆM VỚI KHÁCH HÀNG
+TRÁCH NHIỆM VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
+10.	 TRÁCH NHIỆM VỚI NGƯỜI LAO ĐỘNG
+TRÁCH NHIỆM VỚI CỘNG ĐỒNG VÀ XÃ HỘI
+12.	 CHIẾN LƯỢC VĂN HÓA DOANH NGHIỆP
+13.	 BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+PHẦN I - GIỚI THIỆU VIETINBANK
+1.	 THÔNG TIN CHUNG
+2.	 MÔ HÌNH TỔ CHỨC
+3.	 GIỚI THIỆU NHÂN SỰ
+4.	 ĐỊNH HƯỚNG PHÁT TRIỂN
+5.	 CÔNG TÁC QUẢN LÝ RỦI RO
+PHẦN II - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023
+TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
+TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
+TÌNH HÌNH TÀI CHÍNH NĂM 2023
+CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ CỦA CHỦ SỞ HỮU
+TÌNH HÌNH PHÁT HÀNH TRÁI PHIẾU NĂM 2023
+PHẦN III - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
+TÌNH HÌNH VĨ MÔ VÀ NGÀNH NGÂN HÀNG NĂM 2023
+KẾT QUẢ KINH DOANH NỔI BẬT CỦA VIETINBANK NĂM 2023
+ĐỊNH HƯỚNG HOẠT ĐỘNG KINH DOANH NĂM 2024
+GIẢI TRÌNH CỦA BAN ĐIỀU HÀNH ĐỐI VỚI Ý KIẾN KIỂM TOÁN
+BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA BAN ĐIỀU HÀNH  138
+PHẦN IV - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA VIETINBANK
+ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA NGÂN HÀNG TRONG NĂM 2023  142
+ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA BAN ĐIỀU HÀNH
+ĐỊNH HƯỚNG PHÁT TRIỂN NĂM 2024
+CHỈ TIÊU KẾ HOẠCH NĂM 2024
+HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ NĂM 2023
+HOẠT ĐỘNG CỦA BAN KIỂM SOÁT NĂM 2023
+CÁC GIAO DỊCH, THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HĐQT, BKS, BĐH
+HOẠT ĐỘNG KTKSNB VÀ KTNB
+HOẠT ĐỘNG PHÒNG CHỐNG THAM NHŨNG, TIÊU CỰC VÀ TỘI PHẠM
+
+Thưa Quý vị,
+Năm 2023 tiếp tục là một năm khó khăn chung
+của nền kinh tế thế giới, với sự sụt giảm tăng
+trưởng GDP, các hoạt động thương mại - đầu tư
+ảm đạm, lạm phát ở mức cao đi kèm với những
+diễn biến căng thẳng của xung đột địa chính
+trị, thiên tai, an ninh lương thực... Trong bối cảnh
+đó, kinh tế Việt Nam, một trong những nền kinh
+tế có độ mở lớn trên thế giới, cũng phải đối mặt
+với nhiều rủi ro từ suy thoái kinh tế toàn cầu. Tuy
+nhiên, nhờ chính sách tiền tệ chủ động, linh hoạt,
+kịp thời của Chính phủ, Ngân hàng Nhà nước
+Việt Nam; nỗ lực không ngừng của các cấp, các
+ngành, địa phương, doanh nghiệp và người dân,
+kết thúc năm 2023, nền kinh tế Việt Nam vẫn ghi
+nhận những kết quả khả quan: Tăng trưởng GDP
+cả năm đạt 5,05%, lạm phát duy trì ở mức thấp
+3,25%, kinh tế vĩ mô về cơ bản ổn định và bảo
+đảm các cân đối lớn. Hệ thống ngân hàng tiếp
+tục phát huy vai trò là kênh dẫn vốn chủ đạo cho
+toàn bộ nền kinh tế.
+Năm 2023 cũng là năm đánh dấu VietinBank
+tròn 35 tuổi với sự trưởng thành, kiên cường và
+đầy bản lĩnh. Sau 35 năm, Ngân hàng đã trưởng
+thành về nhiều mặt, từ 22 tỷ đồng vốn chủ sở
+hữu vào thời điểm mới thành lập đến nay đã
+tăng lên gần 126.000 tỷ đồng, từ 718 tỷ đồng
+tổng tài sản năm 1988 lên đến hơn 2 triệu tỷ
+đồng. Đến nay, VietinBank tự hào xây dựng
+được đội ngũ nhân sự đầy năng lực và nhiệt
+huyết, làm việc tại Trụ sở chính, 2 văn phòng đại
+diện, 8 đơn vị sự nghiệp, 155 chi nhánh và gần
+1.000 Phòng giao dịch và mạng lưới các công
+ty con, công ty liên kết trong nước cùng ngân
+hàng con, chi nhánh và văn phòng đại diện tại
+nước ngoài. Những nền tảng vững vàng này đã
+thể hiện sự lớn mạnh của VietinBank qua 35 năm,
+là cơ sở để Ngân hàng tiếp tục ghi thêm
+THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+Chúng tôi cam kết sẽ luôn nỗ lực
+hết mình và dành những nguồn
+lực tốt nhất, hiệu quả nhất để
+trở thành Ngân hàng trách nhiệm
+vì lợi ích của đất nước, cổ đông,
+đối tác, khách hàng, cộng đồng
+và người lao động.
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
 giá trị bền vững trong tương lai.
-Trong suốt chặng đường 35 năm phát triển cùng 
-đất nước, bên cạnh mục tiêu kinh doanh hiệu 
-quả và tăng trưởng lợi nhuận, VietinBank liên 
-tục đóng góp tích cực vào sự phát triển kinh 
-tế - xã hội của đất nước thông qua việc hỗ trợ 
-doanh nghiệp, người dân bị ảnh hưởng bởi dịch 
-bệnh hồi phục sản xuất kinh doanh; xây dựng 
-các chính sách, sản phẩm tạo cơ chế linh hoạt 
-trong tài trợ các dự án xanh; đồng thời luôn ưu 
-tiên nguồn lực để tài trợ các dự án đầu tư vào 
-lĩnh vực bảo vệ môi trường, ứng phó biến đổi khí 
-hậu và phát triển bền vững. Bên cạnh đó, Ngân 
-hàng luôn đi đầu trong công tác an sinh xã hội 
-nhằm lan tỏa những giá trị tích cực và thực hiện 
-tốt trách nhiệm với cộng đồng. 
-Tiếp nối những thành công đã đạt được, trong 
-năm 2023, VietinBank tiếp tục đổi mới toàn diện, 
-nỗ lực không ngừng với quyết tâm cao độ; tiên 
-phong xây dựng, phát triển Văn hóa doanh 
-nghiệp gắn với Chuyển đổi số, hiện thực hóa 
-tầm nhìn trở thành Ngân hàng số hàng đầu Việt 
-Nam bằng việc khởi động hành trình Chuyển 
-đổi số mang tên “Project X01”. VietinBank xác 
-định chuyển đổi số là xu thế phát triển tất yếu 
-và gắn liền với quá trình chuyển đổi về tư duy, 
-văn hóa, mô hình kinh doanh, phương thức làm 
-việc, vận hành… Với 108 sáng kiến kết nối với 
-chiến lược kinh doanh trung hạn giai đoạn 2024 - 
-2026, hành trình Chuyển đổi số “Project X01” của 
-VietinBank đã bắt đầu với kỳ vọng tạo năng lực 
-cạnh tranh vượt trội cho Ngân hàng và mang lại 
-trải nghiệm tối ưu cho khách hàng. 
-Năm 2024, nền kinh tế bắt đầu một chu kỳ mới 
-với cơ hội và thách thức khó lường. Với vai trò 
-là NHTM chủ lực, trụ cột của nền kinh tế, trên cơ 
-sở bản sắc văn hóa doanh nghiệp rất riêng của 
-người VietinBank, Ngân hàng đã chủ động, tiên 
-phong tiến bước vào hành trình kiến tạo những 
-giá trị mới. Chúng tôi luôn kiên định và bền bỉ: (i) 
-Thực hành tốt các triết lý hoạt động Khách hàng 
-là trung tâm, Phát triển con người là then chốt, 
-Đổi mới sáng tạo là đột phá cùng 5 giá trị cốt lõi 
-Chính trực - Trí tuệ - Tận tâm - Thấu cảm - Thích 
-ứng; (ii) Hướng tới mục tiêu cao nhất của thông 
-lệ quốc tế về quản trị. Bước sang hành trình mới, 
-với tinh thần đoàn kết, ý chí mạnh mẽ, đổi mới 
-mọi mặt về tư duy và hành động, toàn thể cán 
-bộ, nhân viên, người lao động VietinBank sẽ thích 
-ứng với xu thế phát triển tất yếu của thời đại. 
-Chúng tôi cam kết sẽ luôn nỗ lực hết mình và 
-dành những nguồn lực tốt nhất, hiệu quả nhất 
-để trở thành Ngân hàng trách nhiệm vì lợi ích 
-của đất nước, cổ đông, đối tác, khách hàng, 
+Trong suốt chặng đường 35 năm phát triển cùng
+đất nước, bên cạnh mục tiêu kinh doanh hiệu
+quả và tăng trưởng lợi nhuận, VietinBank liên
+tục đóng góp tích cực vào sự phát triển kinh
+tế - xã hội của đất nước thông qua việc hỗ trợ
+doanh nghiệp, người dân bị ảnh hưởng bởi dịch
+bệnh hồi phục sản xuất kinh doanh; xây dựng
+các chính sách, sản phẩm tạo cơ chế linh hoạt
+trong tài trợ các dự án xanh; đồng thời luôn ưu
+tiên nguồn lực để tài trợ các dự án đầu tư vào
+lĩnh vực bảo vệ môi trường, ứng phó biến đổi khí
+hậu và phát triển bền vững. Bên cạnh đó, Ngân
+hàng luôn đi đầu trong công tác an sinh xã hội
+nhằm lan tỏa những giá trị tích cực và thực hiện
+tốt trách nhiệm với cộng đồng.
+Tiếp nối những thành công đã đạt được, trong
+năm 2023, VietinBank tiếp tục đổi mới toàn diện,
+nỗ lực không ngừng với quyết tâm cao độ; tiên
+phong xây dựng, phát triển Văn hóa doanh
+nghiệp gắn với Chuyển đổi số, hiện thực hóa
+tầm nhìn trở thành Ngân hàng số hàng đầu Việt
+Nam bằng việc khởi động hành trình Chuyển
+đổi số mang tên “Project X01”. VietinBank xác
+định chuyển đổi số là xu thế phát triển tất yếu
+và gắn liền với quá trình chuyển đổi về tư duy,
+văn hóa, mô hình kinh doanh, phương thức làm
+việc, vận hành… Với 108 sáng kiến kết nối với
+chiến lược kinh doanh trung hạn giai đoạn 2024 -
+2026, hành trình Chuyển đổi số “Project X01” của
+VietinBank đã bắt đầu với kỳ vọng tạo năng lực
+cạnh tranh vượt trội cho Ngân hàng và mang lại
+trải nghiệm tối ưu cho khách hàng.
+Năm 2024, nền kinh tế bắt đầu một chu kỳ mới
+với cơ hội và thách thức khó lường. Với vai trò
+là NHTM chủ lực, trụ cột của nền kinh tế, trên cơ
+sở bản sắc văn hóa doanh nghiệp rất riêng của
+người VietinBank, Ngân hàng đã chủ động, tiên
+phong tiến bước vào hành trình kiến tạo những
+giá trị mới. Chúng tôi luôn kiên định và bền bỉ: (i)
+Thực hành tốt các triết lý hoạt động Khách hàng
+là trung tâm, Phát triển con người là then chốt,
+Đổi mới sáng tạo là đột phá cùng 5 giá trị cốt lõi
+Chính trực - Trí tuệ - Tận tâm - Thấu cảm - Thích
+ứng; (ii) Hướng tới mục tiêu cao nhất của thông
+lệ quốc tế về quản trị. Bước sang hành trình mới,
+với tinh thần đoàn kết, ý chí mạnh mẽ, đổi mới
+mọi mặt về tư duy và hành động, toàn thể cán
+bộ, nhân viên, người lao động VietinBank sẽ thích
+ứng với xu thế phát triển tất yếu của thời đại.
+Chúng tôi cam kết sẽ luôn nỗ lực hết mình và
+dành những nguồn lực tốt nhất, hiệu quả nhất
+để trở thành Ngân hàng trách nhiệm vì lợi ích
+của đất nước, cổ đông, đối tác, khách hàng,
 cộng đồng và người lao động.
-Thay mặt Hội đồng Quản trị và Ban Lãnh đạo 
-VietinBank, Tôi bày tỏ lời tri ân sâu sắc tới các 
-Quý Khách hàng, Quý Nhà đầu tư, đối tác và tập 
-thể người lao động đã luôn tin tưởng, hợp tác, 
-đồng hành với VietinBank trong suốt quá trình 
-35 năm xây dựng và phát triển vừa qua. Sự tin 
-tưởng vào sứ mệnh, tầm nhìn và giá trị cốt lõi 
-của Quý vị đối với VietinBank đã tạo động lực 
-to lớn để chúng tôi không ngừng sáng tạo, đổi 
-mới, hướng đến sự hoàn thiện trong từng hành 
-động, từng sản phẩm, dịch vụ và chất lượng 
-phục vụ. Tôi hy vọng và tin tưởng rằng các bên 
-sẽ tiếp tục tin tưởng, hợp tác, gắn bó chặt chẽ 
-để VietinBank trở thành ngân hàng đi đầu trong 
+Thay mặt Hội đồng Quản trị và Ban Lãnh đạo
+VietinBank, Tôi bày tỏ lời tri ân sâu sắc tới các
+Quý Khách hàng, Quý Nhà đầu tư, đối tác và tập
+thể người lao động đã luôn tin tưởng, hợp tác,
+đồng hành với VietinBank trong suốt quá trình
+35 năm xây dựng và phát triển vừa qua. Sự tin
+tưởng vào sứ mệnh, tầm nhìn và giá trị cốt lõi
+của Quý vị đối với VietinBank đã tạo động lực
+to lớn để chúng tôi không ngừng sáng tạo, đổi
+mới, hướng đến sự hoàn thiện trong từng hành
+động, từng sản phẩm, dịch vụ và chất lượng
+phục vụ. Tôi hy vọng và tin tưởng rằng các bên
+sẽ tiếp tục tin tưởng, hợp tác, gắn bó chặt chẽ
+để VietinBank trở thành ngân hàng đi đầu trong
 định hình kỷ nguyên số và phát triển bền vững.
 Trân trọng!
-BÍ THƯ ĐẢNG UỶ 
+BÍ THƯ ĐẢNG UỶ
 CHỦ TỊCH HĐQT VIETINBANK
 TRẦN MINH BÌNH
 
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-8
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
-1 - THÔNG TIN CHUNG 
+GIỚI THIỆU VIETINBANK
+1 - THÔNG TIN CHUNG
 THÔNG TIN KHÁI QUÁT
 Tên giao dịch tiếng Việt
- 
- 
-Tên giao dịch quốc tế 
- 
- 
- 
+Tên giao dịch quốc tế
 Tên viết tắt
 Mã giao dịch SWIFT
- 
-Giấy phép thành lập 
-và hoạt động 
- 
- 
- 
-Giấy chứng nhận đăng ký 
-doanh nghiệp 
-Ngân Hàng Thương Mại Cổ Phần 
+Giấy phép thành lập
+và hoạt động
+Giấy chứng nhận đăng ký
+doanh nghiệp
+Ngân Hàng Thương Mại Cổ Phần
 Công Thương Việt Nam
-Vietnam Joint Stock 
-Commercial Bank For Industry 
+Vietnam Joint Stock
+Commercial Bank For Industry
 And Trade
 VietinBank
-ICBVVNVX 
-Số 13/GP-NHNN ngày 17/6/2022 do NHNN cấp đổi 
-mới, thay thế cho Giấy phép thành lập và hoạt 
-động NHTMCP số 142/GP-NHNN ngày 3/7/2009 
-và các quyết định sửa đổi, bổ sung Giấy phép 
-thành lập và hoạt động của VietinBank từ năm 2017 
+ICBVVNVX
+Số 13/GP-NHNN ngày 17/6/2022 do NHNN cấp đổi
+mới, thay thế cho Giấy phép thành lập và hoạt
+động NHTMCP số 142/GP-NHNN ngày 3/7/2009
+và các quyết định sửa đổi, bổ sung Giấy phép
+thành lập và hoạt động của VietinBank từ năm 2017
 đến năm 2023
-Mã số doanh nghiệp: 0100111948 
-Do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp lần đầu 
-ngày 3/7/2009 
+Mã số doanh nghiệp: 0100111948
+Do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp lần đầu
 Đăng ký thay đổi lần thứ 13 ngày 8/1/2024
-9
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 Vốn điều lệ
- 
-Vốn chủ sở hữu 
+Vốn chủ sở hữu
 (tại thời điểm ngày 31/12/2023).
- 
 Mã cổ phiếu
- 
 Tổng số cổ phần
-53.699.917.480.000 đồng
- 125.871.820.000.000 đồng
-CTG
- 5.369.991.748 cổ phần
 Mệnh giá cổ phần: 10.000 đồng/cổ phần
 Ngắn hạn
-B
 Dài hạn
-BB+
 Triển vọng
 Ổn ịnh
 Thời iểm
-13/12/2023
 Ngắn hạn
 Dài hạn
-Ba2
 Triển vọng
 Ổn ịnh
 Thời iểm
-22/8/2023
 XẾP HẠNG TÍN NHIỆM
-Địa chỉ Trụ sở chính 	
-	
-	
+Địa chỉ Trụ sở chính
 108 Trần Hưng Đạo, quận Hoàn Kiếm, TP. Hà Nội, Việt Nam
-Số điện thoại 	 	
-	
-	
-(84-24) 3942 1030
-Số Fax 		
-	
-	
-	
-(84-24) 3942 1032
-Website 	
-	
-	
-	
+Số điện thoại
+Số Fax
+Website
 www.vietinbank.vn
-Công ty kiểm toán 	
-	
-	
+Công ty kiểm toán
 Công ty TNHH Kiểm toán Deloitte Việt Nam
 
-12
-13
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
+GIỚI THIỆU VIETINBANK
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 MỐC LỊCH SỬ QUAN TRỌNG
-1988
-1990
-2008
-VietinBank (khi đó có tên gọi là Ngân hàng Công Thương) được thành lập trên cơ sở tách ra 
+VietinBank (khi đó có tên gọi là Ngân hàng Công Thương) được thành lập trên cơ sở tách ra
 từ NHNN theo Nghị định số 53/HĐBT của Hội đồng Bộ trưởng.
 VietinBank là ngân hàng đầu tiên tham gia với ngân hàng nước ngoài thành lập NHLD Indovina.
 •	 Ra mắt thương hiệu mới VietinBank tháng 4/2008.
-•	 Trung tâm Đào tạo nghiệp vụ được nâng cấp thành Trường Đào tạo và Phát triển Nguồn nhân 
+•	 Trung tâm Đào tạo nghiệp vụ được nâng cấp thành Trường Đào tạo và Phát triển Nguồn nhân
 lực VietinBank tháng 9/2008.
-•	 Thực hiện thành công phiên đấu giá phát hành cổ phiếu lần đầu ra công chúng (IPO) tháng 
-12/2008.
+•	 Thực hiện thành công phiên đấu giá phát hành cổ phiếu lần đầu ra công chúng (IPO) tháng
 Giai đoạn 1: 1988 - 2013: Kiến tạo
-Trong giai đoạn khởi đầu với nhiều khó khăn, VietinBank đã nỗ lực tập trung củng cố toàn diện các 
-hệ thống nền tảng cơ bản để bảo đảm sự phát triển an toàn và bền vững khi tăng tốc, hướng đến 
-việc thực hiện thành công kế hoạch niêm yết trên sàn chứng khoán vào năm 2009  và tìm kiếm đối 
-tác chiến lược là MUFG Bank vào năm 2013. 
-2009
+Trong giai đoạn khởi đầu với nhiều khó khăn, VietinBank đã nỗ lực tập trung củng cố toàn diện các
+hệ thống nền tảng cơ bản để bảo đảm sự phát triển an toàn và bền vững khi tăng tốc, hướng đến
+việc thực hiện thành công kế hoạch niêm yết trên sàn chứng khoán vào năm 2009  và tìm kiếm đối
+tác chiến lược là MUFG Bank vào năm 2013.
 Chính thức niêm yết và giao dịch cổ phiếu trên HOSE với mã chứng khoán CTG
-2011
-2012
-•	 Bán 10% vốn điều lệ cho đối tác chiến lược nước ngoài IFC, là NHTMCP Nhà nước đầu tiên có đối 
+•	 Bán 10% vốn điều lệ cho đối tác chiến lược nước ngoài IFC, là NHTMCP Nhà nước đầu tiên có đối
 tác chiến lược nước ngoài.
 •	 Khai trương CN tại Frankfurt, Đức.
 •	 Là ngân hàng đầu tiên tại Việt Nam phát hành thành công 250 triệu USD trái phiếu quốc tế.
 •	 Khai trương CN tại Thủ đô Viêng Chăn, Lào.
-Bán 19,73% cổ phần cho NĐT chiến lược nước ngoài MUFG Bank (Nhật Bản), trở thành NHTMCP 
+Bán 19,73% cổ phần cho NĐT chiến lược nước ngoài MUFG Bank (Nhật Bản), trở thành NHTMCP
 Nhà nước có cơ cấu cổ đông mạnh nhất Việt Nam tại thời điểm đó.
-Chủ tịch Hội đồng Quản trị VietinBank Phạm Huy Hùng đánh chiêng mở đầu phiên đấu giá phát hành 
+Chủ tịch Hội đồng Quản trị VietinBank Phạm Huy Hùng đánh chiêng mở đầu phiên đấu giá phát hành
 cổ phiếu lần đầu (IPO) ngày 25/12/2008
-2013
 Năm 2023 đánh dấu chặng đường 10 năm đồng hành giữa VietinBank và MUFG Bank
 
-14
-15
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
+GIỚI THIỆU VIETINBANK
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-2014
-2015
-2017
-2020
-Xây dựng chiến lược bán lẻ lấy khách hàng làm trung tâm, mục tiêu trở thành ngân hàng bán 
+Xây dựng chiến lược bán lẻ lấy khách hàng làm trung tâm, mục tiêu trở thành ngân hàng bán
 lẻ tốt nhất Việt Nam.
-Nâng cấp CN VietinBank tại thủ đô Viêng Chăn, Lào thành Ngân hàng TNHH Công Thương Việt 
-Nam tại Lào (ngân hàng con), đánh dấu bước phát triển mới, nâng cao vị thế của VietinBank 
+Nâng cấp CN VietinBank tại thủ đô Viêng Chăn, Lào thành Ngân hàng TNHH Công Thương Việt
+Nam tại Lào (ngân hàng con), đánh dấu bước phát triển mới, nâng cao vị thế của VietinBank
 tại thị trường Lào
-Chuyển đổi thành công hệ thống Core Banking (SunShine), đưa VietinBank trở thành ngân 
+Chuyển đổi thành công hệ thống Core Banking (SunShine), đưa VietinBank trở thành ngân
 hàng sở hữu nền tảng công nghệ bậc nhất Ngành Ngân hàng Việt Nam.
-•	 Hoàn thành tốt Phương án cơ cấu lại gắn với xử lý nợ xấu giai đoạn 2016 - 2020 tại VietinBank 
-và MTBP 2018 - 2020.
-•	 Xây dựng Chiến lược phát triển VietinBank giai đoạn 2021 - 2030 và tầm nhìn đến 2045, MTBP giai 
-đoạn 2021 - 2023.
+•	 Hoàn thành tốt Phương án cơ cấu lại gắn với xử lý nợ xấu giai đoạn 2016 - 2020 tại VietinBank
+•	 Xây dựng Chiến lược phát triển VietinBank giai đoạn 2021 - 2030 và tầm nhìn đến 2045, MTBP giai
 Giai đoạn 2: 2013 - 2020: Kiện toàn
-Trong giai đoạn này, VietinBank tập trung cho mục tiêu nâng thước đo nội lực, gia tăng sức mạnh tài 
-chính, củng cố các nền tảng quan trọng, sẵn sàng cho các bước phát triển vượt bậc trong tương lai. 
-2021
-2023
-Tăng vốn điều lệ thành công từ 37.234 tỷ đồng lên 48.058 tỷ đồng, tạo tiền để để VietinBank nâng cao 
-năng lực tài chính, năng lực quản trị rủi ro, chủ động phát huy tối đa vị thế, tiềm năng, đầu tư cơ sở 
-vật chất, hạ tầng công nghệ hiện đại, phát triển dịch vụ, kiện toàn mạng lưới; tạo đà tăng trưởng bền 
+Trong giai đoạn này, VietinBank tập trung cho mục tiêu nâng thước đo nội lực, gia tăng sức mạnh tài
+chính, củng cố các nền tảng quan trọng, sẵn sàng cho các bước phát triển vượt bậc trong tương lai.
+Tăng vốn điều lệ thành công từ 37.234 tỷ đồng lên 48.058 tỷ đồng, tạo tiền để để VietinBank nâng cao
+năng lực tài chính, năng lực quản trị rủi ro, chủ động phát huy tối đa vị thế, tiềm năng, đầu tư cơ sở
+vật chất, hạ tầng công nghệ hiện đại, phát triển dịch vụ, kiện toàn mạng lưới; tạo đà tăng trưởng bền
 vững; góp phần gia tăng lợi ích cho khách hàng và thúc đẩy kinh tế - xã hội đất nước.
-Trên hành trình 35 năm, VietinBank đã khẳng định thương hiệu qua những SPDV tài chính đa 
-dạng và hiện đại; qua hình ảnh một ngân hàng luôn hướng tới lợi ích của khách hàng và quan 
-tâm chia sẻ với cộng đồng, xã hội. 
-•	 Tăng vốn điều lệ thành công từ 48.058 tỷ đồng lên 53.699 tỷ đồng, tiếp tục khẳng định nền tảng 
+Trên hành trình 35 năm, VietinBank đã khẳng định thương hiệu qua những SPDV tài chính đa
+dạng và hiện đại; qua hình ảnh một ngân hàng luôn hướng tới lợi ích của khách hàng và quan
+tâm chia sẻ với cộng đồng, xã hội.
+•	 Tăng vốn điều lệ thành công từ 48.058 tỷ đồng lên 53.699 tỷ đồng, tiếp tục khẳng định nền tảng
 tài chính vững mạnh của một ngân hàng trụ cột hàng đầu Việt Nam.
 •	 Ra mắt bộ nhận diện văn hóa mới
-•	 Triển khai Chương trình Chuyển đổi số bài bản, toàn diện và đầu tư nguồn lực để triển khai 
+•	 Triển khai Chương trình Chuyển đổi số bài bản, toàn diện và đầu tư nguồn lực để triển khai
 có hiệu quả.
 Giai đoạn 3: 2021 - nay: Chuyển đổi
-Trên nền tảng vốn liên tục được củng cố, Ngân hàng tiếp tục chủ động đổi mới tư duy, nỗ lực thực 
-hiện giải pháp điều hành linh hoạt, sáng tạo, đặc biệt thực hiện chuyển đổi số toàn diện nhằm hiện 
-đại hóa SPDV, nâng cao năng lực quản trị điều hành, gia tăng năng suất lao động. Với tâm thế vững 
-vàng của một doanh nghiệp trưởng thành, VietinBank tự tin tiến vào hành trình mới bứt phá vượt trội, 
+Trên nền tảng vốn liên tục được củng cố, Ngân hàng tiếp tục chủ động đổi mới tư duy, nỗ lực thực
+hiện giải pháp điều hành linh hoạt, sáng tạo, đặc biệt thực hiện chuyển đổi số toàn diện nhằm hiện
+đại hóa SPDV, nâng cao năng lực quản trị điều hành, gia tăng năng suất lao động. Với tâm thế vững
+vàng của một doanh nghiệp trưởng thành, VietinBank tự tin tiến vào hành trình mới bứt phá vượt trội,
 hiện thực hóa tầm nhìn trở thành ngân hàng đa năng, hiện đại hàng đầu Việt Nam.
 
-18
-19
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
+GIỚI THIỆU VIETINBANK
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 TOP 10 CON SỐ NỔI BẬT NĂM 2023 CỦA VIETINBANK
-Năm 2023 là năm đánh dấu chặng đường 35 năm VietinBank hình thành và phát 
-triển. Trong suốt hành trình 35 năm, VietinBank luôn kiên định thực hiện mục tiêu 
-chuyển đổi toàn diện, kiện toàn nội lực và phát triển theo chiều sâu để tạo dựng 
-những giá trị cốt lõi làm nền tảng bền vững cho Ngân hàng. Bước vào giai đoạn 
-mới, với tâm thế vững vàng và tự tin vào khả năng vượt khó, VietinBank hoàn 
-toàn tự tin vào một tương lai tươi sáng, hướng về mục tiêu trở thành một trong 
-những ngân hàng đa năng, hiện đại hàng đầu Việt Nam. 
-35
+Năm 2023 là năm đánh dấu chặng đường 35 năm VietinBank hình thành và phát
+triển. Trong suốt hành trình 35 năm, VietinBank luôn kiên định thực hiện mục tiêu
+chuyển đổi toàn diện, kiện toàn nội lực và phát triển theo chiều sâu để tạo dựng
+những giá trị cốt lõi làm nền tảng bền vững cho Ngân hàng. Bước vào giai đoạn
+mới, với tâm thế vững vàng và tự tin vào khả năng vượt khó, VietinBank hoàn
+toàn tự tin vào một tương lai tươi sáng, hướng về mục tiêu trở thành một trong
+những ngân hàng đa năng, hiện đại hàng đầu Việt Nam.
 tuổi
-Năm 2023 đánh dấu cột mốc quan trọng của chặng đường 10 năm quan hệ 
-hợp tác chiến lược giữa VietinBank và MUFG Bank. Trải qua quá trình xây dựng, 
-bồi đắp và phát triển không ngừng, mối quan hệ giữa 2 ngân hàng đã được mở 
-rộng tới mọi lĩnh vực, tới các ngân hàng đối tác của MUFG Bank và các công ty 
-con trong hệ sinh thái của VietinBank. Sự thành công của mối quan hệ hợp tác 
-chiến lược với MUFG Bank trong 10 năm qua đã khẳng định và củng cố hơn nữa 
+Năm 2023 đánh dấu cột mốc quan trọng của chặng đường 10 năm quan hệ
+hợp tác chiến lược giữa VietinBank và MUFG Bank. Trải qua quá trình xây dựng,
+bồi đắp và phát triển không ngừng, mối quan hệ giữa 2 ngân hàng đã được mở
+rộng tới mọi lĩnh vực, tới các ngân hàng đối tác của MUFG Bank và các công ty
+con trong hệ sinh thái của VietinBank. Sự thành công của mối quan hệ hợp tác
+chiến lược với MUFG Bank trong 10 năm qua đã khẳng định và củng cố hơn nữa
 năng lực cạnh tranh và khả năng hội nhập của VietinBank ra thị trường thế giới.
-10
-năm
-Tháng 8/2023, VietinBank công bố Bộ Nhận diện văn hóa VietinBank – hệ giá 
-trị văn hóa mới của Ngân hàng gồm 5 giá trị cốt lõi: Chính trực, Trí tuệ, Tận tâm, 
-Thấu cảm, Thích ứng. Nền tảng văn hóa doanh nghiệp mới tại VietinBank thúc 
-đẩy mỗi CBNV phát huy tối đa năng lực của mình, khẳng định bản thân và chinh 
-phục những thử thách. Mỗi thành công của CBNV sẽ đem lại kết quả tích cực, 
-đóng góp vào sự thành công chung của VietinBank.  
-5
+Tháng 8/2023, VietinBank công bố Bộ Nhận diện văn hóa VietinBank – hệ giá
+trị văn hóa mới của Ngân hàng gồm 5 giá trị cốt lõi: Chính trực, Trí tuệ, Tận tâm,
+Thấu cảm, Thích ứng. Nền tảng văn hóa doanh nghiệp mới tại VietinBank thúc
+đẩy mỗi CBNV phát huy tối đa năng lực của mình, khẳng định bản thân và chinh
+phục những thử thách. Mỗi thành công của CBNV sẽ đem lại kết quả tích cực,
+đóng góp vào sự thành công chung của VietinBank.
 Giá trị cốt lõi
-Năm 2023, vốn điều lệ của VietinBank tăng lên gần 53.700 tỷ đồng sau khi 
-phát hành thành công hơn 564 triệu cổ phiếu để trả cổ tức. Việc nâng vốn 
-điều lệ tạo tiền đề để VietinBank nâng cao năng lực tài chính, tiếp tục mở 
-rộng hoạt động kinh doanh, đầu tư cơ sở vật chất, hạ tầng công nghệ, phát 
-triển dịch vụ, mạng lưới…; từ đó tăng cường khả năng cung ứng vốn cho nền 
-kinh tế, góp phần gia tăng lợi ích cho khách hàng và thúc đẩy kinh tế - xã hội 
+Năm 2023, vốn điều lệ của VietinBank tăng lên gần 53.700 tỷ đồng sau khi
+phát hành thành công hơn 564 triệu cổ phiếu để trả cổ tức. Việc nâng vốn
+điều lệ tạo tiền đề để VietinBank nâng cao năng lực tài chính, tiếp tục mở
+rộng hoạt động kinh doanh, đầu tư cơ sở vật chất, hạ tầng công nghệ, phát
+triển dịch vụ, mạng lưới…; từ đó tăng cường khả năng cung ứng vốn cho nền
+kinh tế, góp phần gia tăng lợi ích cho khách hàng và thúc đẩy kinh tế - xã hội
 đất nước.
-~53.700
-tỷ đồng
-Kết thúc năm 2023, lần đầu tiên tổng tài sản hợp nhất của VietinBank cán mốc 
-hơn 2 triệu tỷ đồng, đạt 2,03 triệu tỷ đồng, tăng 12,4% so với cuối năm 2022. Sau 
-35 năm phát triển, tổng tài sản của Ngân hàng không chỉ tăng về quy mô mà 
-còn luôn đảm bảo nâng cao chất lượng tài sản, có tính thanh khoản cao, hỗ trợ 
-hoạt động kinh doanh tăng trưởng ổn định. 
-2,03
-triệu tỷ đồng
-Tăng trưởng CASA là điểm sáng trong năm 2023 của VietinBank khi tỷ lệ 
-CASA được cải thiện mạnh từ 20% vào cuối năm 2022 lên 22,5% tại thời điểm 
-31/12/2023. Thành quả này của VietinBank là minh chứng cho chiến lược dựa 
-trên nền tảng công nghệ hiện đại để tiếp cận cùng lúc với nhiều khách hàng 
-thông qua các kênh trực tuyến, đồng thời phát triển các sản phẩm trên kênh 
-số để thu hút và giữ chân khách hàng, từ đó giúp cải thiện tỷ lệ CASA. 
-22,5%
+Kết thúc năm 2023, lần đầu tiên tổng tài sản hợp nhất của VietinBank cán mốc
+hơn 2 triệu tỷ đồng, đạt 2,03 triệu tỷ đồng, tăng 12,4% so với cuối năm 2022. Sau
+35 năm phát triển, tổng tài sản của Ngân hàng không chỉ tăng về quy mô mà
+còn luôn đảm bảo nâng cao chất lượng tài sản, có tính thanh khoản cao, hỗ trợ
+hoạt động kinh doanh tăng trưởng ổn định.
+Tăng trưởng CASA là điểm sáng trong năm 2023 của VietinBank khi tỷ lệ
+CASA được cải thiện mạnh từ 20% vào cuối năm 2022 lên 22,5% tại thời điểm
+31/12/2023. Thành quả này của VietinBank là minh chứng cho chiến lược dựa
+trên nền tảng công nghệ hiện đại để tiếp cận cùng lúc với nhiều khách hàng
+thông qua các kênh trực tuyến, đồng thời phát triển các sản phẩm trên kênh
+số để thu hút và giữ chân khách hàng, từ đó giúp cải thiện tỷ lệ CASA.
 CASA
-Năm 2023, VietinBank ghi nhận tỷ lệ CIR ở mức 29%, thấp hơn so với cùng 
-kỳ năm trước là 29,9%, là một trong những ngân hàng có tỷ lệ CIR thấp nhất 
-trong ngành. Kết quả này là do quá trình số hóa đã và đang được triển khai 
-tại VietinBank, giúp Ngân hàng giảm đáng kể chi phí vận hành, nâng cao 
+Năm 2023, VietinBank ghi nhận tỷ lệ CIR ở mức 29%, thấp hơn so với cùng
+kỳ năm trước là 29,9%, là một trong những ngân hàng có tỷ lệ CIR thấp nhất
+trong ngành. Kết quả này là do quá trình số hóa đã và đang được triển khai
+tại VietinBank, giúp Ngân hàng giảm đáng kể chi phí vận hành, nâng cao
 hiệu quả hoạt động, quản lý rủi ro tốt hơn theo chuẩn quốc tế.
-29%
-CIR
-Kết thúc năm 2023, tỷ lệ nợ xấu theo TT11 của VietinBank trên cơ sở riêng lẻ 
-duy trì ở mức thấp 1%. VietinBank tiếp tục kiên định với chính sách tăng trưởng 
-bền vững, không nới lỏng các điều kiện tín dụng để kiểm soát chặt chẽ rủi ro 
-song song với tăng trưởng hiệu quả. Song song với đó, VietinBank đã cơ cấu 
-danh mục tín dụng, đa dạng hóa và ưu tiên tập trung vào lĩnh vực sản xuất kinh 
-doanh, lĩnh vực được Chính phủ khuyến khích, phù hợp với tình hình kinh tế vĩ mô 
+Kết thúc năm 2023, tỷ lệ nợ xấu theo TT11 của VietinBank trên cơ sở riêng lẻ
+duy trì ở mức thấp 1%. VietinBank tiếp tục kiên định với chính sách tăng trưởng
+bền vững, không nới lỏng các điều kiện tín dụng để kiểm soát chặt chẽ rủi ro
+song song với tăng trưởng hiệu quả. Song song với đó, VietinBank đã cơ cấu
+danh mục tín dụng, đa dạng hóa và ưu tiên tập trung vào lĩnh vực sản xuất kinh
+doanh, lĩnh vực được Chính phủ khuyến khích, phù hợp với tình hình kinh tế vĩ mô
 và triển vọng từng ngành, lĩnh vực kinh tế.
-1%
 Tỷ lệ nợ xấu
 theo TT11
-Số lượng sáng kiến chuyển đổi số dự kiến sẽ được triển khai đến năm 2028, 
-gắn liền với chiến lược kinh doanh trung và dài hạn của VietinBank, bao phủ 
-mọi hoạt động quan trọng của ngân hàng từ chiến lược kinh doanh theo 
-phân khúc khách hàng, sản phẩm trọng tâm đến các sáng kiến nền tảng về 
-công nghệ thông tin, dữ liệu, nhân sự, văn hóa doanh nghiệp, quản trị rủi ro… 
-108
+Số lượng sáng kiến chuyển đổi số dự kiến sẽ được triển khai đến năm 2028,
+gắn liền với chiến lược kinh doanh trung và dài hạn của VietinBank, bao phủ
+mọi hoạt động quan trọng của ngân hàng từ chiến lược kinh doanh theo
+phân khúc khách hàng, sản phẩm trọng tâm đến các sáng kiến nền tảng về
+công nghệ thông tin, dữ liệu, nhân sự, văn hóa doanh nghiệp, quản trị rủi ro…
 Sáng kiến CĐS
-Năm 2023, VietinBank đã dành gần 300 tỷ đồng để thực hiện công tác ASXH. 
-Hoạt động ASXH của VietinBank tập trung vào các lĩnh vực xây dựng nhà ở cho 
-người nghèo, xây dựng các trường học, công trình y tế, các công trình hạ tầng 
-tại các địa bàn khó khăn, vùng nông thôn, vùng sâu, vùng xa, hỗ trợ khắc phục 
-hậu quả thiên tai bão lụt, hỗ trợ an ninh quốc phòng. Các hoạt động ASXH, thực 
-thi trách nhiệm cộng đồng thiết thực, giàu ý nghĩa là nét đẹp truyền thống nhân 
-văn của VietinBank, là cam kết của VietinBank trong hành trình vì sự phát triển 
+Năm 2023, VietinBank đã dành gần 300 tỷ đồng để thực hiện công tác ASXH.
+Hoạt động ASXH của VietinBank tập trung vào các lĩnh vực xây dựng nhà ở cho
+người nghèo, xây dựng các trường học, công trình y tế, các công trình hạ tầng
+tại các địa bàn khó khăn, vùng nông thôn, vùng sâu, vùng xa, hỗ trợ khắc phục
+hậu quả thiên tai bão lụt, hỗ trợ an ninh quốc phòng. Các hoạt động ASXH, thực
+thi trách nhiệm cộng đồng thiết thực, giàu ý nghĩa là nét đẹp truyền thống nhân
+văn của VietinBank, là cam kết của VietinBank trong hành trình vì sự phát triển
 bền vững của đất nước.
-~300
-tỷ đồng thực hiện 
+tỷ đồng thực hiện
 công tác ASXH
 
-22
-23
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
+GIỚI THIỆU VIETINBANK
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-04 Triển khai hiệu quả các chủ điểm kinh doanh trọng tâm trong năm 2023 
-VietinBank và Bộ Tài nguyên và Môi trường ký kết Biên bản thỏa thuận hợp tác phát triển bền vững 
-Năm 2023, VietinBank đã đạt được những thành tích đáng khích lệ, quy mô tổng tài sản tăng 12,4%, 
-tỷ suất sinh lời khả quan so với mặt bằng thị trường, lợi nhuận thực hiện đạt kế hoạch trên cơ sở đảm 
-bảo các tỷ lệ an toàn hoạt động và quản trị chất lượng tài sản. Thành quả trên có được là nhờ tích 
+04 Triển khai hiệu quả các chủ điểm kinh doanh trọng tâm trong năm 2023
+VietinBank và Bộ Tài nguyên và Môi trường ký kết Biên bản thỏa thuận hợp tác phát triển bền vững
+Năm 2023, VietinBank đã đạt được những thành tích đáng khích lệ, quy mô tổng tài sản tăng 12,4%,
+tỷ suất sinh lời khả quan so với mặt bằng thị trường, lợi nhuận thực hiện đạt kế hoạch trên cơ sở đảm
+bảo các tỷ lệ an toàn hoạt động và quản trị chất lượng tài sản. Thành quả trên có được là nhờ tích
 cực triển khai hiệu quả các chủ điểm trọng tâm kinh doanh:
-Đẩy mạnh chuyển dịch cơ cấu thu nhập thông qua các giải pháp tài chính toàn diện, trọn gói, cải 
-thiện chất lượng sản phẩm, dịch vụ... Thu ngoài lãi đóng góp gần 26,9% tổng thu nhập hoạt động 
+Đẩy mạnh chuyển dịch cơ cấu thu nhập thông qua các giải pháp tài chính toàn diện, trọn gói, cải
+thiện chất lượng sản phẩm, dịch vụ... Thu ngoài lãi đóng góp gần 26,9% tổng thu nhập hoạt động
 với động lực chính từ các nghiệp vụ lõi bao gồm bảo lãnh, tài trợ thương mại, kinh doanh ngoại tệ...
-Tăng trưởng CASA tích cực so với thị trường: CASA có xu hướng cải thiện, quy mô CASA cuối kỳ tăng 
-trên 27% so với cuối năm 2022 trong bối cảnh thị trường khó khăn. Các giải pháp được tập trung triển 
-khai toàn hàng mạnh mẽ thúc đẩy hiệu quả tăng CASA như: Phát triển khách hàng mới qua kênh 
-số, triển khai giải pháp eKYC; tăng cường khai thác khách hàng hiện hữu; khai thác các nhóm/tệp 
+Tăng trưởng CASA tích cực so với thị trường: CASA có xu hướng cải thiện, quy mô CASA cuối kỳ tăng
+trên 27% so với cuối năm 2022 trong bối cảnh thị trường khó khăn. Các giải pháp được tập trung triển
+khai toàn hàng mạnh mẽ thúc đẩy hiệu quả tăng CASA như: Phát triển khách hàng mới qua kênh
+số, triển khai giải pháp eKYC; tăng cường khai thác khách hàng hiện hữu; khai thác các nhóm/tệp
 khách hàng trọng tâm và phát triển hệ sinh thái.
-Hoạt động khai thác hệ sinh thái & bán chéo có nhiều cải thiện tích cực, đóng góp 35% tổng thu 
-nhập hoạt động các khối khách hàng đã tạo ra sự thay đổi tư duy bán chéo tại chi nhánh, xây dựng 
+Hoạt động khai thác hệ sinh thái & bán chéo có nhiều cải thiện tích cực, đóng góp 35% tổng thu
+nhập hoạt động các khối khách hàng đã tạo ra sự thay đổi tư duy bán chéo tại chi nhánh, xây dựng
 được cơ chế phối hợp giữa các khối kinh doanh.
-05 Triển khai mạnh mẽ chuyển đổi số toàn diện hoạt động kinh doanh 
+05 Triển khai mạnh mẽ chuyển đổi số toàn diện hoạt động kinh doanh
 và quản trị, nâng cao trải nghiệm của khách hàng
- 
-Năm 2023, VietinBank xây dựng và triển khai chương trình Chuyển đổi số giai đoạn 2024 - 2028. 
-Hành trình chuyển đổi số của VietinBank mang tên “Project X01” đã bắt đầu với 108 sáng kiến gắn 
-liền với chiến lược kinh doanh trung dài hạn với kỳ vọng tạo năng lực cạnh tranh vượt trội cho ngân 
+Năm 2023, VietinBank xây dựng và triển khai chương trình Chuyển đổi số giai đoạn 2024 - 2028.
+Hành trình chuyển đổi số của VietinBank mang tên “Project X01” đã bắt đầu với 108 sáng kiến gắn
+liền với chiến lược kinh doanh trung dài hạn với kỳ vọng tạo năng lực cạnh tranh vượt trội cho ngân
 hàng và mang lại trải nghiệm tối ưu cho khách hàng.
 VietinBank xây dựng và triển khai Chương trình Chuyển đổi số mang tên “Project X01”
-VietinBank tiên phong ứng dụng công nghệ hiện đại vào hoạt động thanh toán xuyên biên giới 
-với Thái Lan thông qua Kết nối thanh toán QR tại Thái Lan và kết nối song phương với ngân hàng 
-Krungsri. Ngân hàng cũng mở rộng kết nối đối tác, xây dựng hệ sinh thái với 360 đối tác kết nối qua 
-nền tảng API; kết nối mới với hơn 1.000 khách hàng qua kênh ERP. 
-06 Kiểm soát chất lượng nợ và tăng cường công tác QTRR, siết chặt kỷ 
+VietinBank tiên phong ứng dụng công nghệ hiện đại vào hoạt động thanh toán xuyên biên giới
+với Thái Lan thông qua Kết nối thanh toán QR tại Thái Lan và kết nối song phương với ngân hàng
+Krungsri. Ngân hàng cũng mở rộng kết nối đối tác, xây dựng hệ sinh thái với 360 đối tác kết nối qua
+nền tảng API; kết nối mới với hơn 1.000 khách hàng qua kênh ERP.
+06 Kiểm soát chất lượng nợ và tăng cường công tác QTRR, siết chặt kỷ
 luật kỷ cương và nâng cao ý thức tuân thủ
-Năm 2023, VietinBank tiếp tục tập trung công tác QTRR, khoanh vùng và nhận diện sớm tất cả các 
-rủi ro trọng yếu, đặc biệt là RRTD; giám sát toàn hệ thống theo 3 tuyến phòng vệ. Kết hợp công tác 
-kiểm tra giám sát thường xuyên của Đảng với công tác kiểm tra của chuyên môn, triển khai quyết 
+Năm 2023, VietinBank tiếp tục tập trung công tác QTRR, khoanh vùng và nhận diện sớm tất cả các
+rủi ro trọng yếu, đặc biệt là RRTD; giám sát toàn hệ thống theo 3 tuyến phòng vệ. Kết hợp công tác
+kiểm tra giám sát thường xuyên của Đảng với công tác kiểm tra của chuyên môn, triển khai quyết
 liệt các chỉ đạo của Thường vụ Đảng ủy, Ủy ban Kiểm tra và Ban Lãnh đạo.
 VietinBank tổ chức Tọa đàm Quản lý rủi ro hoạt động 2023
 
-24
-25
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 1 
-GIỚI THIỆU VIETINBANK 
+GIỚI THIỆU VIETINBANK
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-Ngân hàng tăng cường kiểm soát chất lượng nợ từ TSC đến chi nhánh, chủ động nhận diện, kiểm 
-soát, đề xuất và triển khai phương án tối ưu đối với khách hàng; chủ động, kịp thời phân tích các 
-sự kiện rủi ro và tác động đến thị trường tài chính, thanh khoản đồng thời triển khai đồng bộ nhiều 
-giải pháp nhằm đáp ứng nhu cầu QLRR hoạt động CNTT về mô hình, nhân sự, công cụ QLRR CNTT. 
+Ngân hàng tăng cường kiểm soát chất lượng nợ từ TSC đến chi nhánh, chủ động nhận diện, kiểm
+soát, đề xuất và triển khai phương án tối ưu đối với khách hàng; chủ động, kịp thời phân tích các
+sự kiện rủi ro và tác động đến thị trường tài chính, thanh khoản đồng thời triển khai đồng bộ nhiều
+giải pháp nhằm đáp ứng nhu cầu QLRR hoạt động CNTT về mô hình, nhân sự, công cụ QLRR CNTT.
 07 Quản trị tài chính hiệu quả, thực hành tiết kiệm và quản trị chi phí
-Tiếp tục triển khai đồng bộ các biện pháp để nâng cao năng lực vốn tự có, ngày 1/12/2023 VietinBank 
-đã thành công tăng vốn điều lệ lên gần 53.700 nghìn tỷ đồng, góp phần tích cực trong việc nâng 
-cao nguồn lực tài chính. 
+Tiếp tục triển khai đồng bộ các biện pháp để nâng cao năng lực vốn tự có, ngày 1/12/2023 VietinBank
+đã thành công tăng vốn điều lệ lên gần 53.700 nghìn tỷ đồng, góp phần tích cực trong việc nâng
+cao nguồn lực tài chính.
 VietinBank tích cực triển khai hiệu quả các chủ điểm trọng tâm kinh doanh
-Ngân hàng cũng triển khai đồng bộ các giải pháp nhằm quản trị hiệu quả cân đối vốn, tăng trưởng 
-nguồn vốn huy động ổn định, bền vững, khai thác linh hoạt và đa dạng các nguồn vốn trong và 
+Ngân hàng cũng triển khai đồng bộ các giải pháp nhằm quản trị hiệu quả cân đối vốn, tăng trưởng
+nguồn vốn huy động ổn định, bền vững, khai thác linh hoạt và đa dạng các nguồn vốn trong và
 ngoài nước.
 08 Khẳng định vị thế và uy tín thương hiệu VietinBank
-Trong năm 2023, tổ chức xếp hạng tín nhiệm Fitch Ratings tiếp tục nâng xếp hạng tín nhiệm của VietinBank 
+Trong năm 2023, tổ chức xếp hạng tín nhiệm Fitch Ratings tiếp tục nâng xếp hạng tín nhiệm của VietinBank
 từ mức BB lên BB+ và giữ triển vọng “Ổn định”, qua đó nâng cao vị thế, uy tín của VietinBank.
-Hướng tới mục tiêu đưa VietinBank trở thành ngân hàng tiên phong trong lĩnh vực tín dụng xanh, tài 
-trợ bền vững tại Việt Nam. VietinBank chú trọng phát triển bền vững, triển khai các chương trình tài 
-trợ vốn trong lĩnh vực năng lượng xanh, xuất khẩu xanh và công trình xanh; tiến hành ký kết thỏa 
-thuận hợp tác với Bộ Tài nguyên và Môi trường, ký kết thỏa thuận với MUFG quy mô huy động lên tới 
+Hướng tới mục tiêu đưa VietinBank trở thành ngân hàng tiên phong trong lĩnh vực tín dụng xanh, tài
+trợ bền vững tại Việt Nam. VietinBank chú trọng phát triển bền vững, triển khai các chương trình tài
+trợ vốn trong lĩnh vực năng lượng xanh, xuất khẩu xanh và công trình xanh; tiến hành ký kết thỏa
+thuận hợp tác với Bộ Tài nguyên và Môi trường, ký kết thỏa thuận với MUFG quy mô huy động lên tới
 1 tỷ USD tại COP28....
-VietinBank tiếp tục lọt TOP500 thương hiệu ngân hàng có giá trị nhất thế giới theo Bảng xếp 
-hạng của Brand Finance đồng thời đạt TOP10 thương hiệu giá trị nhất Việt Nam với giá trị thương 
-hiệu đạt 1,3 tỷ USD. Ngân hàng cũng vinh dự đạt giải thưởng danh giá “Ngân hàng SME Tốt nhất 
+VietinBank tiếp tục lọt TOP500 thương hiệu ngân hàng có giá trị nhất thế giới theo Bảng xếp
+hạng của Brand Finance đồng thời đạt TOP10 thương hiệu giá trị nhất Việt Nam với giá trị thương
+hiệu đạt 1,3 tỷ USD. Ngân hàng cũng vinh dự đạt giải thưởng danh giá “Ngân hàng SME Tốt nhất
 Việt Nam” của Asian Banker và bộ 3 giải thưởng Sao Khuê 2023.
 Tại COP28, VietinBank cam kết dành nguồn lực tối đa cho phát triển bền vững
-09 Chuỗi hoạt động chào mừng 35 năm xây dựng và phát triển, tiếp tục 
+09 Chuỗi hoạt động chào mừng 35 năm xây dựng và phát triển, tiếp tục
 đóng góp trong công tác an sinh xã hội, gắn kết cộng đồng
-Năm 2023 là năm đánh dấu quá trình 35 năm xây dựng và phát triển, ghi nhận những đóng góp to lớn 
-của các thế hệ lãnh đạo, cán bộ, người lao động của hệ thống VietinBank đối với sự nghiệp xây dựng 
-và phát triển đất nước. VietinBank đã tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết, tôn vinh, lan tỏa 
-những giá trị tích cực trong “Khát vọng tầm cao mới” của ngân hàng, với tinh thần “Sống một đời có lãi”, 
-nâng cao sức khỏe và chất lượng cuộc sống của người lao động, cộng đồng. 
-VietinBank tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết nhân Kỷ niệm 35 năm thành lập    
-Trong năm 2023, VietinBank dành tổng số tiền 300 tỷ đồng thực hiện công tác ASXH, xóa đói giảm 
-nghèo, làm tốt công tác đền ơn đáp nghĩa, uống nước nhớ nguồn tại 63 tỉnh thành trên toàn quốc. 
-Đây cũng là sự tiếp nối tinh thần tiên phong chung tay chia sẻ trách nhiệm xã hội, góp phần thực 
-hiện các chương trình mục tiêu quốc gia theo chủ trương của Đảng và Nhà nước, gắn kinh doanh 
+Năm 2023 là năm đánh dấu quá trình 35 năm xây dựng và phát triển, ghi nhận những đóng góp to lớn
+của các thế hệ lãnh đạo, cán bộ, người lao động của hệ thống VietinBank đối với sự nghiệp xây dựng
+và phát triển đất nước. VietinBank đã tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết, tôn vinh, lan tỏa
+những giá trị tích cực trong “Khát vọng tầm cao mới” của ngân hàng, với tinh thần “Sống một đời có lãi”,
+nâng cao sức khỏe và chất lượng cuộc sống của người lao động, cộng đồng.
+VietinBank tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết nhân Kỷ niệm 35 năm thành lập
+Trong năm 2023, VietinBank dành tổng số tiền 300 tỷ đồng thực hiện công tác ASXH, xóa đói giảm
+nghèo, làm tốt công tác đền ơn đáp nghĩa, uống nước nhớ nguồn tại 63 tỉnh thành trên toàn quốc.
+Đây cũng là sự tiếp nối tinh thần tiên phong chung tay chia sẻ trách nhiệm xã hội, góp phần thực
+hiện các chương trình mục tiêu quốc gia theo chủ trương của Đảng và Nhà nước, gắn kinh doanh
 với xã hội, cộng đồng.
 
-30
-31
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “35 NĂM KIẾN TẠO NỀN TẢNG”
@@ -710,356 +643,298 @@ KIỂM TOÁN NỘI BỘ
 3. Hội đồng Quản lý vốn
 4. Hội đồng Quản lý TS Nợ - TS Có
 5. Hội đồng Chất lượng dịch vụ
-Văn phòng 
+Văn phòng
 HĐQT
-Khối 
+Khối
 KHDN
-Trung tâm 
-Khách 
-hàng phía 
-Nam
-Khối 
+Trung tâm
+Khách
+hàng phía
+Khối
 Bán lẻ
-Khối 
+Khối
 Kinh doanh
-vốn và Thị 
+vốn và Thị
 trường
-Khối 
+Khối
 QLRR
-Khối 
-Phê duyệt 
+Khối
+Phê duyệt
 tín dụng
 Khối
- Nhân sự
-Khối 
+Nhân sự
+Khối
 CNTT
-Khối 
+Khối
 Vận hành
 Khối
- Pháp chế 
+Pháp chế
 & Tuân thủ
-Khối 
+Khối
 Tài chính
-Các Phòng 
+Các Phòng
 Ban khác
-Khối Mua 
-sắm & 
+Khối Mua
 Quản lý
 tài sản
 Chi nhánh
-Công ty 
-con
+Công ty
 2 - MÔ HÌNH TỔ CHỨC
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
 3 - GIỚI THIỆU NHÂN SỰ
-36
-ÔNG KOJI IRIGUCHI 
+ÔNG KOJI IRIGUCHI
 Thành viên HĐQT kiêm Phó TGĐ
 Sinh năm 1974, quốc tịch Nhật Bản.
 Cử nhân Luật.
-Được bầu vào HĐQT VietinBank nhiệm kỳ 2019 - 2024 
-từ ngày 2/6/2023; kiêm nhiệm Phó TGĐ VietinBank từ 
-ngày 2/6/2023.
-Bắt đầu làm việc tại Ngân hàng Sanwa Bank, Ltd., 
-(Nhật Bản) từ năm 1998 (Ngân hàng này sau đó đã 
-sáp nhập với Ngân hàng UFJ Bank, Ltd. (Nhật Bản) 
-vào năm 2002, và tiếp tục sáp nhập với Ngân hàng 
-Bank of Tokyo-Mitsubishi, Ltd. (Nhật Bản) vào năm 
+Được bầu vào HĐQT VietinBank nhiệm kỳ 2019 - 2024
+từ ngày 2/6/2023; kiêm nhiệm Phó TGĐ VietinBank từ
+Bắt đầu làm việc tại Ngân hàng Sanwa Bank, Ltd.,
+(Nhật Bản) từ năm 1998 (Ngân hàng này sau đó đã
+sáp nhập với Ngân hàng UFJ Bank, Ltd. (Nhật Bản)
+vào năm 2002, và tiếp tục sáp nhập với Ngân hàng
+Bank of Tokyo-Mitsubishi, Ltd. (Nhật Bản) vào năm
 2006 để trở thành ngân hàng The Bank of Tokyo-
-Mitsubishi UFJ, Ltd. (Nhật Bản), trước khi đổi tên thành 
+Mitsubishi UFJ, Ltd. (Nhật Bản), trước khi đổi tên thành
 Ngân hàng MUFG Bank hiện nay).
-Từng giữ các chức vụ: Trưởng Phòng, Phòng Ngân hàng 
+Từng giữ các chức vụ: Trưởng Phòng, Phòng Ngân hàng
 Doanh nghiệp số 2 của Ngân hàng Bank of Tokyo-
-Mitsubishi UFJ Ltd., Tokyo, Nhật Bản; Trưởng Phòng, Chi 
-nhánh New York của Ngân hàng Bank of Tokyo-Mitsubishi 
-UFJ Ltd., New York, Hoa Kỳ; Giám đốc, Chi nhánh New 
-York của Ngân Hàng Bank of Tokyo-Mitsubishi UFJ Ltd., 
-New York, Hoa Kỳ; Giám đốc, Bộ phận Kế hoạch Toàn 
-cầu Tokyo của Ngân hàng Bank of Tokyo-Mitsubishi UFJ 
-Ltd., Tokyo, Nhật Bản; Giám đốc Điều hành, Phòng Ngân 
-hàng Doanh nghiệp số 10 của Ngân hàng MUFG Bank, 
-Ltd.,Tokyo, Nhật Bản; Đồng Trưởng Phòng Kế hoạch và 
-Quản trị Tài chính kiêm Đồng Trưởng Ban Chiến lược và 
+Mitsubishi UFJ Ltd., Tokyo, Nhật Bản; Trưởng Phòng, Chi
+nhánh New York của Ngân hàng Bank of Tokyo-Mitsubishi
+UFJ Ltd., New York, Hoa Kỳ; Giám đốc, Chi nhánh New
+York của Ngân Hàng Bank of Tokyo-Mitsubishi UFJ Ltd.,
+New York, Hoa Kỳ; Giám đốc, Bộ phận Kế hoạch Toàn
+cầu Tokyo của Ngân hàng Bank of Tokyo-Mitsubishi UFJ
+Ltd., Tokyo, Nhật Bản; Giám đốc Điều hành, Phòng Ngân
+hàng Doanh nghiệp số 10 của Ngân hàng MUFG Bank,
+Ltd.,Tokyo, Nhật Bản; Đồng Trưởng Phòng Kế hoạch và
+Quản trị Tài chính kiêm Đồng Trưởng Ban Chiến lược và
 Quản trị Thay đổi, VietinBank.
-ÔNG NGUYỄN ĐỨC THÀNH 
+ÔNG NGUYỄN ĐỨC THÀNH
 Thành viên HĐQT
 Sinh năm 1970.
 Thạc sỹ Kinh tế.
 Công tác tại VietinBank từ năm 2010.
 Được bầu vào HĐQT VietinBank nhiệm kỳ 2019-
-2024 từ 29/04/2022. 
-Hiện là Ủy viên Ban Chấp hành Đảng bộ, TV 
+Hiện là Ủy viên Ban Chấp hành Đảng bộ, TV
 HĐQT VietinBank.
-Từng giữ các chức vụ: Tùy viên thương mại - Đại 
-sứ quán Việt Nam tại Cộng hòa Ả Rập Ai Cập; 
-Phó Vụ trưởng - Thư ký Bộ trưởng Bộ Thương mại, 
-Phó Cục trưởng Cục Quản lý cạnh tranh kiêm Thư 
-ký Bộ trưởng Bộ Thương mại, Phó Cục trưởng Cục 
-Quản lý cạnh tranh - Bộ Công Thương; Trưởng 
-phòng Định chế Tài chính VietinBank, đồng GĐ 
-VietinBank - CN Đức, Phó TGĐ VietinBank, Chủ 
-tịch HĐTV Ngân hàng TNHH Công Thương Việt 
-Nam tại Lào (kiêm nhiệm), GĐ Khối Kinh doanh 
+Từng giữ các chức vụ: Tùy viên thương mại - Đại
+sứ quán Việt Nam tại Cộng hòa Ả Rập Ai Cập;
+Phó Vụ trưởng - Thư ký Bộ trưởng Bộ Thương mại,
+Phó Cục trưởng Cục Quản lý cạnh tranh kiêm Thư
+ký Bộ trưởng Bộ Thương mại, Phó Cục trưởng Cục
+Quản lý cạnh tranh - Bộ Công Thương; Trưởng
+phòng Định chế Tài chính VietinBank, đồng GĐ
+VietinBank - CN Đức, Phó TGĐ VietinBank, Chủ
+tịch HĐTV Ngân hàng TNHH Công Thương Việt
+Nam tại Lào (kiêm nhiệm), GĐ Khối Kinh doanh
 vốn và thị trường (kiêm nhiệm).
 Hội đồng Quản trị
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-37
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-Ông MASASHIGE NAKAZONO 
+Ông MASASHIGE NAKAZONO
 Thành viên HĐQT
 Sinh năm 1975, quốc tịch Nhật Bản.
 Thạc sỹ Quản trị Kinh doanh.
-Được bầu vào HĐQT VietinBank nhiệm kỳ 2019 - 2024 từ 
-ngày 16/04/2021.
+Được bầu vào HĐQT VietinBank nhiệm kỳ 2019 - 2024 từ
 Bắt đầu làm việc tại Ngân hàng The Bank of Tokyo-
-Mitsubishi, Ltd. (Nhật Bản) vào năm 1998. Ngân hàng này 
+Mitsubishi, Ltd. (Nhật Bản) vào năm 1998. Ngân hàng này
 sau đó được đổi tên thành Ngân hàng MUFG Bank hiện nay.
-Từng giữ các chức vụ: Phó phòng và sau đó là GĐ, Bộ 
-phận Ngân hàng Đầu tư dành cho Châu Mỹ, Nhóm 
+Từng giữ các chức vụ: Phó phòng và sau đó là GĐ, Bộ
+phận Ngân hàng Đầu tư dành cho Châu Mỹ, Nhóm
 Chứng khoán hóa của Ngân hàng Bank of Tokyo-
-Mitsubishi UFJ, Ltd., Chi nhánh New York, Hoa Kỳ; GĐ, 
-Bộ phận Kế hoạch Toàn cầu của Ngân hàng Bank of 
-Tokyo-Mitsubishi UFJ, Ltd., Tokyo, Nhật Bản; GĐ Điều 
-hành, Trưởng Phòng Kế hoạch Toàn cầu, Bộ phận Kế 
-hoạch Doanh nghiệp của Ngân hàng MUFG Bank, Ltd., 
-Tokyo, Nhật Bản; GĐ Điều hành, Bộ phận Kế hoạch 
-Ngân hàng Thương mại Toàn cầu của Ngân hàng MUFG 
-Bank, Ltd., Chi nhánh Singapore, Singapore; GĐ Điều 
-hành, Phòng Kế hoạch Chiến lược, Bộ phận Kế hoạch 
-Ngân hàng Thương mại Toàn cầu của Ngân hàng MUFG 
+Mitsubishi UFJ, Ltd., Chi nhánh New York, Hoa Kỳ; GĐ,
+Bộ phận Kế hoạch Toàn cầu của Ngân hàng Bank of
+Tokyo-Mitsubishi UFJ, Ltd., Tokyo, Nhật Bản; GĐ Điều
+hành, Trưởng Phòng Kế hoạch Toàn cầu, Bộ phận Kế
+hoạch Doanh nghiệp của Ngân hàng MUFG Bank, Ltd.,
+Tokyo, Nhật Bản; GĐ Điều hành, Bộ phận Kế hoạch
+Ngân hàng Thương mại Toàn cầu của Ngân hàng MUFG
+Bank, Ltd., Chi nhánh Singapore, Singapore; GĐ Điều
+hành, Phòng Kế hoạch Chiến lược, Bộ phận Kế hoạch
+Ngân hàng Thương mại Toàn cầu của Ngân hàng MUFG
 Bank, Ltd., Tokyo, Nhật Bản.
-Hiện ông là GĐ Điều hành, GĐ Khối Kế hoạch Ngân hàng 
-Thương mại Toàn cầu của Ngân hàng MUFG Bank, Ltd., 
+Hiện ông là GĐ Điều hành, GĐ Khối Kế hoạch Ngân hàng
+Thương mại Toàn cầu của Ngân hàng MUFG Bank, Ltd.,
 Tokyo, Nhật Bản.
-Bà NGUYỄN THỊ BẮC 
+Bà NGUYỄN THỊ BẮC
 Thành viên độc lập HĐQT
 Sinh năm 1953.
-Cử nhân Luật Đại học tổng hợp Humboldt - 
+Cử nhân Luật Đại học tổng hợp Humboldt -
 Berlin - CHDC Đức, Thạc sỹ Luật.
-Được bầu đảm nhận vị trí TV độc lập HĐQT 
-VietinBank nhiệm kỳ 2019 - 2024 từ ngày 
-23/05/2020. 
-Từng giữ các chức vụ: Kiểm sát viên cao cấp 
-Viện Kiểm sát Nhân dân tối cao; Vụ trưởng Viện 
-Kiểm sát Nhân dân Tối cao; Phó Chủ nhiệm Ủy 
-ban Pháp luật của Quốc hội khóa XI; Luật sư 
-Đoàn Luật sư TP. Hà Nội; Thành viên độc lập 
-HĐQT VietinBank nhiệm kỳ 2009 - 2014; Giám 
+Được bầu đảm nhận vị trí TV độc lập HĐQT
+VietinBank nhiệm kỳ 2019 - 2024 từ ngày
+Từng giữ các chức vụ: Kiểm sát viên cao cấp
+Viện Kiểm sát Nhân dân tối cao; Vụ trưởng Viện
+Kiểm sát Nhân dân Tối cao; Phó Chủ nhiệm Ủy
+ban Pháp luật của Quốc hội khóa XI; Luật sư
+Đoàn Luật sư TP. Hà Nội; Thành viên độc lập
+HĐQT VietinBank nhiệm kỳ 2009 - 2014; Giám
 đốc Khối QTRR Ngân hàng TNHH Indovina.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-40
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 3 - GIỚI THIỆU NHÂN SỰ
 Ban Điều hành
-BĐH chịu trách nhiệm điều hành HĐKD hằng ngày của VietinBank theo Điều lệ VietinBank và Quy chế 
-Tổ chức và hoạt động BĐH. BĐH chịu sự lãnh đạo, quản lý và giám sát toàn diện của HĐQT. BĐH chịu 
+BĐH chịu trách nhiệm điều hành HĐKD hằng ngày của VietinBank theo Điều lệ VietinBank và Quy chế
+Tổ chức và hoạt động BĐH. BĐH chịu sự lãnh đạo, quản lý và giám sát toàn diện của HĐQT. BĐH chịu
 trách nhiệm trước HĐQT và báo cáo công tác theo quy định với HĐQT.
 DANH SÁCH THÀNH VIÊN BAN ĐIỀU HÀNH
-STT
 Họ và tên
 Chức vụ
 Số lượng cổ phiếu
 Tỷ lệ sở hữu (%)
-1
 Ông Đỗ Thanh Sơn
 Phó TGĐ phụ trách BĐH
-125
-0,0000023%
-2
 Ông Koji Iriguchi
 TV HĐQT kiêm Phó TGĐ
-0
-0%
-3
 Ông Trần Công Quỳnh Lân
-Phó TGĐ 
-0
-0%
-4
+Phó TGĐ
 Ông Nguyễn Đình Vinh
 Phó TGĐ
-0
-0%
-5
 Bà Lê Như Hoa
 Phó TGĐ
-39.937
-0,000744%
-6
 Ông Lê Duy Hải
 Phó TGĐ
-22.348
-0,000416%
-7
 Ông Nguyễn Trần Mạnh Trung
 Phó TGĐ
-3
-0,00000006%
-8
 Ông Hoàng Ngọc Phương
 Phó TGĐ
-0
-0%
-9
 Ông Nguyễn Hải Hưng
 Kế toán trưởng
-27.816
-0,000518%
 Ghi chú: Danh sách TV BĐH và số lượng cổ phiếu trong bảng này được cập nhật tại ngày 31/12/2023.
 THAY ĐỔI THÀNH VIÊN BĐH TRONG NĂM 2023
-STT
 Họ và tên
 Chức vụ
 Ngày bổ nhiệm/thôi nhiệm
-1
 Ông Nguyễn Hoàng Dũng
-Phó TGĐ 
+Phó TGĐ
 Phụ trách BĐH
-Miễn nhiệm PTGĐ phụ trách BĐH kể từ ngày 01/09/2023 
-theo Quyết định số 1242/QĐ-NHNN ngày 29/06/2023 
-của Thống đốc NHNN Việt Nam và Thông báo thay đổi 
+Miễn nhiệm PTGĐ phụ trách BĐH kể từ ngày 01/09/2023
+theo Quyết định số 1242/QĐ-NHNN ngày 29/06/2023
+của Thống đốc NHNN Việt Nam và Thông báo thay đổi
 Phó TGĐ phụ trách BĐH của VietinBank số 876/HĐQT-
-NHCT-VPHĐQT1 ngày 25/8/2023 của HĐQT VietinBank.  
-2
+NHCT-VPHĐQT1 ngày 25/8/2023 của HĐQT VietinBank.
 Ông Đỗ Thanh Sơn
-Phó TGĐ Phụ 
+Phó TGĐ Phụ
 trách BĐH
 Giao nhiệm vụ phụ trách BĐH theo Quyết định số 666/
-QĐ-HĐQT-NHCT-NS2 ngày 25/08/2023 của HĐQT 
-VietinBank. 
+QĐ-HĐQT-NHCT-NS2 ngày 25/08/2023 của HĐQT
+VietinBank.
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-41
-Ông ĐỖ THANH SƠN 
+Ông ĐỖ THANH SƠN
 Phó TGĐ Phụ trách BĐH
 Sinh năm 1976.
 Tiến sỹ Tài chính ngân hàng.
 Công tác tại VietinBank từ năm 1999.
-Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank 
-từ tháng 10/2022, giao nhiệm vụ phụ trách BĐH 
+Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank
+từ tháng 10/2022, giao nhiệm vụ phụ trách BĐH
 VietinBank kể từ ngày 01/09/2023
-Hiện là Ủy viên Ban Chấp hành Đảng bộ, Phó TGĐ phụ 
-trách BĐH VietinBank kiêm Chủ tịch Công ty TNHH 
-MTV Quản lý Nợ và Khai thác VietinBank. 
-Từng giữ các chức vụ: Phó phòng KHDN rồi Trưởng 
-phòng KHDN VietinBank Bình Phước; PGĐ VietinBank 
-Bình Phước; PGĐ rồi GĐ VietinBank CN 11 TP. HCM; 
-Chủ tịch HĐTV Ngân hàng TM TNHH MTV Đại Dương 
+Hiện là Ủy viên Ban Chấp hành Đảng bộ, Phó TGĐ phụ
+trách BĐH VietinBank kiêm Chủ tịch Công ty TNHH
+MTV Quản lý Nợ và Khai thác VietinBank.
+Từng giữ các chức vụ: Phó phòng KHDN rồi Trưởng
+phòng KHDN VietinBank Bình Phước; PGĐ VietinBank
+Bình Phước; PGĐ rồi GĐ VietinBank CN 11 TP. HCM;
+Chủ tịch HĐTV Ngân hàng TM TNHH MTV Đại Dương
 (Ocean Bank); Phó TGĐ VietinBank.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-42
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 3 - GIỚI THIỆU NHÂN SỰ
 Ban Điều hành
-ÔNG KOJI IRIGUCHI 
+ÔNG KOJI IRIGUCHI
 Thành viên HĐQT kiêm Phó TGĐ
 Sinh năm 1974, quốc tịch Nhật Bản.
 Cử nhân Luật.
 Được bầu vào HĐQT VietinBank từ ngày 21/04/2023.
-Bắt đầu làm việc tại Ngân hàng Sanwa Bank, Ltd., 
-(Nhật Bản) từ năm 1998 (Ngân hàng này sau đó đã 
-sáp nhập với Ngân hàng UFJ Bank, Ltd. (Nhật Bản) 
-vào năm 2002, và tiếp tục sáp nhập với Ngân hàng 
-Bank of Tokyo-Mitsubishi, Ltd. (Nhật Bản) vào năm 
+Bắt đầu làm việc tại Ngân hàng Sanwa Bank, Ltd.,
+(Nhật Bản) từ năm 1998 (Ngân hàng này sau đó đã
+sáp nhập với Ngân hàng UFJ Bank, Ltd. (Nhật Bản)
+vào năm 2002, và tiếp tục sáp nhập với Ngân hàng
+Bank of Tokyo-Mitsubishi, Ltd. (Nhật Bản) vào năm
 2006 để trở thành ngân hàng The Bank of Tokyo-
-Mitsubishi UFJ, Ltd. (Nhật Bản), trước khi đổi tên thành 
+Mitsubishi UFJ, Ltd. (Nhật Bản), trước khi đổi tên thành
 Ngân hàng MUFG Bank hiện nay).
-Từng giữ các chức vụ: Trưởng Phòng, Phòng Ngân hàng 
+Từng giữ các chức vụ: Trưởng Phòng, Phòng Ngân hàng
 Doanh nghiệp số 2 của Ngân hàng Bank of Tokyo-
-Mitsubishi UFJ Ltd., Tokyo, Nhật Bản; Trưởng Phòng, 
+Mitsubishi UFJ Ltd., Tokyo, Nhật Bản; Trưởng Phòng,
 Chi nhánh New York của Ngân hàng Bank of Tokyo-
-Mitsubishi UFJ Ltd., New York, Hoa Kỳ; GĐ, Chi nhánh 
-New York của Ngân hàng Bank of Tokyo-Mitsubishi UFJ 
-Ltd., New York, Hoa Kỳ; GĐ, Bộ phận Kế hoạch Toàn 
-cầu Tokyo của Ngân hàng Bank of Tokyo-Mitsubishi UFJ 
-Ltd., Tokyo, Nhật Bản; Giám đốc Điều hành, Phòng Ngân 
-hàng Doanh nghiệp số 10 của Ngân hàng MUFG Bank, 
-Ltd.,Tokyo, Nhật Bản; Đồng Trưởng Phòng Kế hoạch và 
-Quản trị Tài chính kiêm Đồng Trưởng Ban Chiến lược và 
+Mitsubishi UFJ Ltd., New York, Hoa Kỳ; GĐ, Chi nhánh
+New York của Ngân hàng Bank of Tokyo-Mitsubishi UFJ
+Ltd., New York, Hoa Kỳ; GĐ, Bộ phận Kế hoạch Toàn
+cầu Tokyo của Ngân hàng Bank of Tokyo-Mitsubishi UFJ
+Ltd., Tokyo, Nhật Bản; Giám đốc Điều hành, Phòng Ngân
+hàng Doanh nghiệp số 10 của Ngân hàng MUFG Bank,
+Ltd.,Tokyo, Nhật Bản; Đồng Trưởng Phòng Kế hoạch và
+Quản trị Tài chính kiêm Đồng Trưởng Ban Chiến lược và
 Quản trị Thay đổi, VietinBank.
-ÔNG TRẦN CÔNG QUỲNH LÂN 
+ÔNG TRẦN CÔNG QUỲNH LÂN
 Phó TGĐ
 Sinh năm 1979.
 Thạc sĩ CNTT.
 Công tác tại VietinBank từ tháng 5/2012.
-Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ 
-tháng 03/2015.
+Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ
 Hiện là Phó TGĐ kiêm Giám đốc Khối CNTT VietinBank.
-Từng giữ các chức vụ: Trợ lý Giám đốc Ngân hàng 
-OCBC Singapore, Trợ lý Phó Chủ tịch Ngân hàng 
-OCBC Singapore, Phó Chủ tịch phụ trách CNTT - 
-Ngân hàng Bán lẻ, Quản lý kênh phân phối điện tử và 
-đầu tư Ngân hàng OCBC Singapore; Giám đốc Trung 
+Từng giữ các chức vụ: Trợ lý Giám đốc Ngân hàng
+OCBC Singapore, Trợ lý Phó Chủ tịch Ngân hàng
+OCBC Singapore, Phó Chủ tịch phụ trách CNTT -
+Ngân hàng Bán lẻ, Quản lý kênh phân phối điện tử và
+đầu tư Ngân hàng OCBC Singapore; Giám đốc Trung
 tâm CNTT VietinBank.
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-43
-ÔNG NGUYỄN ĐÌNH VINH 
+ÔNG NGUYỄN ĐÌNH VINH
 Phó TGĐ
 Sinh năm 1980.
 Thạc sỹ Quản trị Kinh doanh.
 Công tác tại VietinBank từ năm 2002.
-Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ 
-tháng 07/2015.
-Hiện là Ủy viên Ban Thường vụ Đảng ủy, Chủ nhiệm 
-Ủy ban Kiểm tra Đảng ủy VietinBank, Chủ tịch Công 
-đoàn VietinBank, Phó TGĐ VietinBank; kiêm nhiệm 
-chức vụ Chủ tịch Công ty TNHH MTV Chuyển tiền Toàn 
+Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ
+Hiện là Ủy viên Ban Thường vụ Đảng ủy, Chủ nhiệm
+Ủy ban Kiểm tra Đảng ủy VietinBank, Chủ tịch Công
+đoàn VietinBank, Phó TGĐ VietinBank; kiêm nhiệm
+chức vụ Chủ tịch Công ty TNHH MTV Chuyển tiền Toàn
 cầu VietinBank.
-Từng giữ các chức vụ: Phó phòng, Phó phụ trách 
-Phòng KHDN Lớn VietinBank; Phó Giám đốc VietinBank 
-Quang Trung; Giám đốc VietinBank Hải Dương; 
-Trưởng phòng Quản lý Nợ có vấn đề VietinBank; Giám 
-đốc VietinBank TP. Hà Nội;  Giám đốc Khối QLRR 
+Từng giữ các chức vụ: Phó phòng, Phó phụ trách
+Phòng KHDN Lớn VietinBank; Phó Giám đốc VietinBank
+Quang Trung; Giám đốc VietinBank Hải Dương;
+Trưởng phòng Quản lý Nợ có vấn đề VietinBank; Giám
+đốc VietinBank TP. Hà Nội;  Giám đốc Khối QLRR
 VietinBank.
-Bà LÊ NHƯ HOA 
+Bà LÊ NHƯ HOA
 Phó TGĐ
 Sinh năm 1969.
 Thạc sỹ Tài chính, Ngân hàng và Bảo hiểm.
 Công tác tại VietinBank từ năm 1990.
-Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ 
-tháng 08/2016.
-Hiện là Ủy viên Ban Chấp hành Đảng bộ, Phó TGĐ 
+Được bổ nhiệm giữ chức vụ Phó TGĐ VietinBank từ
+Hiện là Ủy viên Ban Chấp hành Đảng bộ, Phó TGĐ
 VietinBank.
-Từng giữ các chức vụ: Phó Phòng Kế toán Tài chính, 
-Trưởng Phòng Kế toán Tài chính, Trưởng Phòng Kế toán 
-giao dịch, Phó Phòng Kinh doanh VietinBank Phúc 
-Yên; Trưởng Phòng Tổ chức hành chính, Phó Giám đốc 
-VietinBank TP. Hà Nội; Trưởng Phòng Quản lý Kế toán 
-Tài chính VietinBank; Chủ tịch Công ty TNHH MTV Vàng 
+Từng giữ các chức vụ: Phó Phòng Kế toán Tài chính,
+Trưởng Phòng Kế toán Tài chính, Trưởng Phòng Kế toán
+giao dịch, Phó Phòng Kinh doanh VietinBank Phúc
+Yên; Trưởng Phòng Tổ chức hành chính, Phó Giám đốc
+VietinBank TP. Hà Nội; Trưởng Phòng Quản lý Kế toán
+Tài chính VietinBank; Chủ tịch Công ty TNHH MTV Vàng
 bạc đá quý VietinBank (kiêm nhiệm).
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-48
-49
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-4 - ĐỊNH HƯỚNG PHÁT TRIỂN 
-ĐỊNH HƯỚNG CHIẾN LƯỢC PHÁT TRIỂN TRUNG HẠN
-Với triết lý kinh doanh trong thời kỳ phát triển mới, VietinBank chú trọng đầu tư nâng cao năng lực 
+4 - ĐỊNH HƯỚNG PHÁT TRIỂN
+Với triết lý kinh doanh trong thời kỳ phát triển mới, VietinBank chú trọng đầu tư nâng cao năng lực
 nền tảng chính - là trụ cột thúc đẩy thực thi thành công định hướng chiến lược đã đặt ra.
-Mục tiêu trung dài hạn của VietinBank là trở thành ngân hàng đa năng, hiện đại, hiệu quả hàng đầu 
+Mục tiêu trung dài hạn của VietinBank là trở thành ngân hàng đa năng, hiện đại, hiệu quả hàng đầu
 tại Việt Nam, đến năm 2030 thuộc Top ngân hàng mạnh nhất Khu vực Châu Á - Thái Bình Dương.
 Mục tiêu cụ thể giai đoạn tới:
 Tăng trưởng quy mô và kiểm soát chất lượng tăng trưởng
@@ -1073,1184 +948,934 @@ Kiểm soát tỷ lệ nợ xấu
 Nâng cao chất lượng dịch vụ và tăng năng suất lao động
 Triển khai các sáng kiến chuyển đổi số
 ĐỊNH HƯỚNG HOẠT ĐỘNG NĂM 2024
-Tăng trưởng tín dụng tập trung vào các nhóm khách hàng, ngành, lĩnh vực tiềm năng; tăng 
-trưởng dựa trên hiệu quả tổng thể khách hàng/nhóm khách hàng. 
-Tăng trưởng quy mô CASA tại tất cả các phân khúc khách hàng. 
-Đẩy mạnh hoạt động ngoài lãi, tập trung khai thác tài trợ thương mại, kinh doanh ngoại tệ 
+Tăng trưởng tín dụng tập trung vào các nhóm khách hàng, ngành, lĩnh vực tiềm năng; tăng
+trưởng dựa trên hiệu quả tổng thể khách hàng/nhóm khách hàng.
+Tăng trưởng quy mô CASA tại tất cả các phân khúc khách hàng.
+Đẩy mạnh hoạt động ngoài lãi, tập trung khai thác tài trợ thương mại, kinh doanh ngoại tệ
 (FX), bảo lãnh, thu phí thẻ, …
-Tập trung các biện pháp thúc đẩy thu hồi nợ xấu, nợ đã xử lý rủi ro tại TSC và các chi nhánh. 
-Thúc đẩy khai thác hiệu quả hệ sinh thái và hoạt động bán chéo thông qua tăng cường sự phối 
+Tập trung các biện pháp thúc đẩy thu hồi nợ xấu, nợ đã xử lý rủi ro tại TSC và các chi nhánh.
+Thúc đẩy khai thác hiệu quả hệ sinh thái và hoạt động bán chéo thông qua tăng cường sự phối
 hợp bán chéo giữa các phân khúc, giữa các khối, chi nhánh VietinBank với công ty con.
-5 yếu tố nền tảng bao gồm:  
-Kiểm soát chất lượng nợ và nâng cao hiệu quả phân luồng xử lý nợ; hoàn thiện mô hình 
-nhận diện và xử lý sớm nợ tiềm ẩn rủi ro, thúc đẩy vai trò 3 vòng kiểm soát, nâng cao vai 
-trò và cải thiện quy trình phân luồng xử lý nợ tại trung tâm xử lý nợ; kiểm soát đảm bảo các 
-mục tiêu về chất lượng nợ. 
-Nâng cao chất lượng dịch vụ liên tục thông qua thay đổi phương thức quản trị Chất lượng 
-dịch vụ theo hành trình khách hàng; Xây dựng cách thức quản trị, giám sát và các chỉ tiêu 
-đo lường chất lượng dịch vụ theo từng cấp độ; Xác định thứ tự ưu tiên, triển khai các giải 
-pháp, tập trung nguồn lực giải quyết dứt điểm các tồn tại, cải thiện chất lượng dịch vụ trên 
-từng kênh trên cơ sở khảo sát ý kiến khách hàng. 
-Nâng cao chất lượng nguồn nhân lực; Triển khai các giải pháp và sáng kiến nâng cao chất 
-lượng nguồn nhân lực, phát triển nhân tài gắn với chương trình chuyển đổi số và thúc đẩy 
+5 yếu tố nền tảng bao gồm:
+Kiểm soát chất lượng nợ và nâng cao hiệu quả phân luồng xử lý nợ; hoàn thiện mô hình
+nhận diện và xử lý sớm nợ tiềm ẩn rủi ro, thúc đẩy vai trò 3 vòng kiểm soát, nâng cao vai
+trò và cải thiện quy trình phân luồng xử lý nợ tại trung tâm xử lý nợ; kiểm soát đảm bảo các
+mục tiêu về chất lượng nợ.
+Nâng cao chất lượng dịch vụ liên tục thông qua thay đổi phương thức quản trị Chất lượng
+dịch vụ theo hành trình khách hàng; Xây dựng cách thức quản trị, giám sát và các chỉ tiêu
+đo lường chất lượng dịch vụ theo từng cấp độ; Xác định thứ tự ưu tiên, triển khai các giải
+pháp, tập trung nguồn lực giải quyết dứt điểm các tồn tại, cải thiện chất lượng dịch vụ trên
+từng kênh trên cơ sở khảo sát ý kiến khách hàng.
+Nâng cao chất lượng nguồn nhân lực; Triển khai các giải pháp và sáng kiến nâng cao chất
+lượng nguồn nhân lực, phát triển nhân tài gắn với chương trình chuyển đổi số và thúc đẩy
 nâng cao năng suất lao động; Tinh gọn và cơ cấu đội ngũ nhân sự.
-Triển khai các sáng kiến chuyển đổi số và xây dựng năng lực thực thi nhanh: Tập trung 
-nguồn lực thực thi các sáng kiến chuyển đổi số trọng điểm đã được lựa chọn, đảm bảo 
+Triển khai các sáng kiến chuyển đổi số và xây dựng năng lực thực thi nhanh: Tập trung
+nguồn lực thực thi các sáng kiến chuyển đổi số trọng điểm đã được lựa chọn, đảm bảo
 năng lực thực thi nhanh, gia tăng năng lực cạnh tranh, tiên phong trên thị trường.
-Tăng cường hiệu quả chuyển dịch kênh thông qua thúc đẩy chuyển dịch giao dịch của 
-khách hàng từ kênh quầy lên các kênh khác (ATM, Internet banking, Mobile banking, ecom, 
-ví điện tử…); Xây dựng các giải pháp cải thiện số lượng khách hàng active và quy mô giao 
-dịch trên các kênh giao dịch ngoài quầy; Tăng chất lượng và số lượng tính năng được đưa 
+Tăng cường hiệu quả chuyển dịch kênh thông qua thúc đẩy chuyển dịch giao dịch của
+khách hàng từ kênh quầy lên các kênh khác (ATM, Internet banking, Mobile banking, ecom,
+ví điện tử…); Xây dựng các giải pháp cải thiện số lượng khách hàng active và quy mô giao
+dịch trên các kênh giao dịch ngoài quầy; Tăng chất lượng và số lượng tính năng được đưa
 lên kênh số; Phát triển hệ sinh thái thanh toán.
-Trong đó, xác định CNTT là yếu tố then chốt, nguồn nhân sự có chất lượng tốt là yếu tố quyết định 
+Trong đó, xác định CNTT là yếu tố then chốt, nguồn nhân sự có chất lượng tốt là yếu tố quyết định
 trong thực thi thành công chiến lược.
-1 
-2
-3
-4
-5
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-50
-51
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “35 NĂM KIẾN TẠO NỀN TẢNG”
-4 - ĐỊNH HƯỚNG PHÁT TRIỂN 
-CAM KẾT, MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN 
+4 - ĐỊNH HƯỚNG PHÁT TRIỂN
+CAM KẾT, MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN
 QUAN ĐẾN PTBV
-Hướng tới việc trở thành ngân hàng PTBV theo chuẩn quốc tế và phù hợp với quy định của pháp luật 
+Hướng tới việc trở thành ngân hàng PTBV theo chuẩn quốc tế và phù hợp với quy định của pháp luật
 Việt Nam, định hướng của Chính phủ, VietinBank cam kết PTBV như sau:
-	
-   CAM KẾT PTBV 
-	• Luôn đồng hành cùng Chính phủ, các Tổ chức trong nước và quốc tế, khách hàng giải quyết các vấn 
-đề môi trường – xã hội, thúc đẩy tài chính bền vững thông qua các hoạt động: (i) xây dựng chính 
-sách, sản phẩm tạo cơ chế linh hoạt trong tài trợ các dự án bền vững, (ii) giảm tài trợ dự án có tác 
-động tiêu cực tới môi trường xã hội, biến đổi khí hậu, đa dạng sinh học, (iii) ưu tiên nguồn lực để tài 
-trợ các dự án PTBV, các hành vi tiêu dùng góp phần bảo vệ môi trường, ứng phó biến đổi khí hậu và 
-thực hiện các trách nhiệm xã hội.  
-	• Truyền thông về các mục tiêu và kết quả triển khai các hành động PTBV cho tất cả CBNV và các 
+CAM KẾT PTBV
+• Luôn đồng hành cùng Chính phủ, các Tổ chức trong nước và quốc tế, khách hàng giải quyết các vấn
+đề môi trường – xã hội, thúc đẩy tài chính bền vững thông qua các hoạt động: (i) xây dựng chính
+sách, sản phẩm tạo cơ chế linh hoạt trong tài trợ các dự án bền vững, (ii) giảm tài trợ dự án có tác
+động tiêu cực tới môi trường xã hội, biến đổi khí hậu, đa dạng sinh học, (iii) ưu tiên nguồn lực để tài
+trợ các dự án PTBV, các hành vi tiêu dùng góp phần bảo vệ môi trường, ứng phó biến đổi khí hậu và
+thực hiện các trách nhiệm xã hội.
+• Truyền thông về các mục tiêu và kết quả triển khai các hành động PTBV cho tất cả CBNV và các
 bên liên quan.
-	• Đẩy mạnh ứng dụng công nghệ, phát triển các kênh giao dịch điện tử, các dịch vụ, phương thức 
-thanh toán mới trên nền tảng công nghệ hiện đại góp phần hướng tới mục tiêu xanh hóa hoạt động 
+• Đẩy mạnh ứng dụng công nghệ, phát triển các kênh giao dịch điện tử, các dịch vụ, phương thức
+thanh toán mới trên nền tảng công nghệ hiện đại góp phần hướng tới mục tiêu xanh hóa hoạt động
 hệ thống ngân hàng.
-	• Minh bạch báo cáo với các mục tiêu liên quan đến PTBV cho các đối tác trong và ngoài nước, 
+• Minh bạch báo cáo với các mục tiêu liên quan đến PTBV cho các đối tác trong và ngoài nước,
 Cơ quan nhà nước có thẩm quyền, cổ đông và các bên có liên quan (theo quy định về CBTT).
-Trong bối cảnh toàn cầu đang nỗ lực đạt Net-zero, VietinBank đã đặt ra mục tiêu phát triển như sau: 
-	
+Trong bối cảnh toàn cầu đang nỗ lực đạt Net-zero, VietinBank đã đặt ra mục tiêu phát triển như sau:
 MỤC TIÊU CHUNG
-	• PTBV là một trong các chiến lược trọng tâm của VietinBank. Môi trường và biến đổi khí hậu là mục 
-tiêu quan trọng cần hướng tới, đặc biệt trong bối cảnh Việt Nam đang xây dựng kế hoạch hành 
+• PTBV là một trong các chiến lược trọng tâm của VietinBank. Môi trường và biến đổi khí hậu là mục
+tiêu quan trọng cần hướng tới, đặc biệt trong bối cảnh Việt Nam đang xây dựng kế hoạch hành
 động để có thể đưa mức phát thải ròng bằng “0” vào năm 2050 theo tuyên bố tại Hội nghị COP26/
 COP27, là cơ hội để VietinBank thực hiện tái cấu trúc hoạt động kinh doanh theo hướng PTBV.
-	• VietinBank sẽ triển khai PTBV theo đúng định hướng của Chính phủ, thực hiện cam kết về môi 
-trường xã hội, góp phần cải thiện môi trường xã hội, bảo vệ tài nguyên, môi trường, phát triển 
-cơ sở hạ tầng, tăng trưởng tín dụng xanh và chống biến đổi khí hậu, nâng cao năng lực canh 
+• VietinBank sẽ triển khai PTBV theo đúng định hướng của Chính phủ, thực hiện cam kết về môi
+trường xã hội, góp phần cải thiện môi trường xã hội, bảo vệ tài nguyên, môi trường, phát triển
+cơ sở hạ tầng, tăng trưởng tín dụng xanh và chống biến đổi khí hậu, nâng cao năng lực canh
 tranh, vị thế của Việt Nam.
-	• VietinBank đồng hành cùng doanh nghiệp thúc đẩy việc huy động dòng tài chính bền vững, 
+• VietinBank đồng hành cùng doanh nghiệp thúc đẩy việc huy động dòng tài chính bền vững,
 chuyển giao công nghệ xanh, công nghệ các-bon thấp thích ứng với biến đổi khí hậu.
-	
 MỤC TIÊU CỤ THỂ
-Mục tiêu môi trường: VietinBank thực hiện các mục tiêu môi trường thông qua việc cấp tín dụng, 
+Mục tiêu môi trường: VietinBank thực hiện các mục tiêu môi trường thông qua việc cấp tín dụng,
 cung cấp sản phẩm dịch vụ cho các mục đích:
-•	Giảm thiểu biến đổi khí hậu: Các hoạt động góp phần ổn định nồng độ khí nhà kính (Greenhouse 
+•	Giảm thiểu biến đổi khí hậu: Các hoạt động góp phần ổn định nồng độ khí nhà kính (Greenhouse
 Gas - “GHG”) trong khí quyển bằng cách tránh hoặc giảm hoặc loại bỏ khí nhà kính.
-•	Thích ứng với biến đổi khí hậu: Các hoạt động nhằm tăng cường khả năng chống chịu của hệ 
-thống tự nhiên, kinh tế và xã hội, giảm thiểu tác động tiêu cực của biến đổi khí hậu và tận dụng 
+•	Thích ứng với biến đổi khí hậu: Các hoạt động nhằm tăng cường khả năng chống chịu của hệ
+thống tự nhiên, kinh tế và xã hội, giảm thiểu tác động tiêu cực của biến đổi khí hậu và tận dụng
 cơ hội do biến đổi khí hậu mang lại.
-•	Bảo tồn tài nguyên thiên nhiên: Các hoạt động làm giảm mức tiêu thụ các nguồn tài nguyên 
-không tái tạo, góp phần sử dụng bền vững tài nguyên thiên nhiên và đảm bảo tài nguyên tái 
+•	Bảo tồn tài nguyên thiên nhiên: Các hoạt động làm giảm mức tiêu thụ các nguồn tài nguyên
+không tái tạo, góp phần sử dụng bền vững tài nguyên thiên nhiên và đảm bảo tài nguyên tái
 tạo không bị sử dụng nhanh hơn là được tái tạo.
-•	Bảo tồn sinh học: Các hoạt động góp phần bảo tồn và đa dạng hệ sinh thái trong môi trường 
+•	Bảo tồn sinh học: Các hoạt động góp phần bảo tồn và đa dạng hệ sinh thái trong môi trường
 trên cạn, biển và dưới nước.
-•	Phòng ngừa và kiểm soát ô nhiễm: Các hoạt động góp phần bảo vệ môi trường, con người 
+•	Phòng ngừa và kiểm soát ô nhiễm: Các hoạt động góp phần bảo vệ môi trường, con người
 khỏi các chất ô nhiễm khác với khí nhà kính.
 Mục tiêu xã hội:
-VietinBank thực hiên các mục tiêu xã hội thông qua việc cấp tín dụng, cung cấp sản phẩm dịch 
-vụ hướng đến việc gia tăng tiện ích cho cuộc sống của con người, đặc biệt về các khía cạnh cơ 
+VietinBank thực hiên các mục tiêu xã hội thông qua việc cấp tín dụng, cung cấp sản phẩm dịch
+vụ hướng đến việc gia tăng tiện ích cho cuộc sống của con người, đặc biệt về các khía cạnh cơ
 sở hạ tầng cơ bản, nhà ở xã hội và tiếp cận dịch vụ thiết yếu.
 Để đạt các mục tiêu trên, VietinBank xác định các trụ cột chính cần triển khai bao gồm:
-           CÁC TRỤ CỘT CHÍNH
-VietinBank sẽ thực hiện cam kết về môi trường xã hội, góp phần cải thiện môi trường xã hội, bảo vệ 
-tài nguyên, môi trường, phát triển cơ sở hạ tầng, tăng trưởng tín dụng xanh và chống biến đổi khí 
-hậu, nâng cao năng lực canh tranh, vị thế của Việt Nam. 
-VietinBank đặt mục tiêu ưu tiên tài trợ các dự án/phương án kinh doanh đem lại lợi ích về môi trường 
-và xã hội, kiện toàn hệ thống quản trị nội bộ, quy trình kiểm soát và ra quyết định hiệu quả, đảm bảo 
-nguyên tắc luôn tuân thủ quy định của pháp luật, đồng thời đảm bảo quyền lợi và đáp ứng nhu cầu 
+CÁC TRỤ CỘT CHÍNH
+VietinBank sẽ thực hiện cam kết về môi trường xã hội, góp phần cải thiện môi trường xã hội, bảo vệ
+tài nguyên, môi trường, phát triển cơ sở hạ tầng, tăng trưởng tín dụng xanh và chống biến đổi khí
+hậu, nâng cao năng lực canh tranh, vị thế của Việt Nam.
+VietinBank đặt mục tiêu ưu tiên tài trợ các dự án/phương án kinh doanh đem lại lợi ích về môi trường
+và xã hội, kiện toàn hệ thống quản trị nội bộ, quy trình kiểm soát và ra quyết định hiệu quả, đảm bảo
+nguyên tắc luôn tuân thủ quy định của pháp luật, đồng thời đảm bảo quyền lợi và đáp ứng nhu cầu
 của cổ đông.
-Tuyên bố 
-chiến lược 
-PTBV của 
+Tuyên bố
+chiến lược
+PTBV của
 Ngân hàng
- 
-Kiện toàn 
-công tác giám 
-sát, báo cáo, 
-công bố thông 
-tin
- 
-Tăng cường 
-hợp tác đối 
-tác, mở rộng 
-hệ sinh thái 
-PTBV của 
- Ngân hàng.
-Triển khai trọn 
-gói bộ sản phẩm 
-dịch vụ tài chính 
-bền vững của 
+Kiện toàn
+công tác giám
+sát, báo cáo,
+công bố thông
+Tăng cường
+hợp tác đối
+tác, mở rộng
+hệ sinh thái
+PTBV của
+Ngân hàng.
+Triển khai trọn
+gói bộ sản phẩm
+dịch vụ tài chính
+bền vững của
 Ngân hàng
-Nâng cấp hệ 
-thống quy định 
-nội bộ định 
-hướng chuẩn 
+Nâng cấp hệ
+thống quy định
+nội bộ định
+hướng chuẩn
 quốc tế
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-52
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-53
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
-Là một trong những định chế tài chính trụ cột của nền kinh tế Việt Nam 
-trong bối cảnh môi trường kinh doanh đầy biến động và thách thức, 
-VietinBank luôn chú trọng việc xây dựng, tăng cường hệ thống QTRR 
-không chỉ đảm bảo tuân thủ các yêu cầu của Cơ quan quản lý Nhà 
-nước mà còn hướng tới đáp ứng các chuẩn mực quốc tế. Trên nền tảng 
-đó, hoạt động kinh doanh của Ngân hàng được tái cấu trúc để phù hợp 
-với hệ thống QLRR và khẩu vị rủi ro của VietinBank. Kiên định với định 
-hướng tăng trưởng bền vững gắn với an toàn, hiệu quả trong hoạt động, 
-VietinBank luôn xác định nâng cao năng lực QTRR phải song hành với 
-hiệu quả hoạt động, từ đó sẽ tạo một lực đẩy mạnh mẽ để ngân hàng 
-bước nhanh và bước xa hơn trên chặng đường phát triển sắp tới. 
-Công tác quản lý rủi ro luôn được ngân hàng triển khai đồng bộ, quyết 
-liệt, toàn diện từ TSC tới các đơn vị kinh doanh trong toàn hàng. Trên 
-cơ sở quy định tại Thông tư 13/2018/TT-NHNN (Thông tư 13) của NHNN 
-quy định về hệ thống kiểm soát nội bộ của NHTM, chi nhánh Ngân hàng 
-nước ngoài và thông lệ của Ủy ban Basel, VietinBank thực hiện mô hình 
-3 tuyến bảo vệ kết hợp với giám sát cấp cao của HĐQT, Ủy ban QLRR, 
-BĐH, Hội đồng rủi ro, Hội đồng ALCO. 
-Với định hướng nâng cao năng lực tài chính, kiểm soát chất chẽ chất lượng 
-nợ đảm bảo mục tiêu tăng trưởng an toàn, bền vững, hiệu quả, trong năm 
-2023 VietinBank đã tiếp tục thực hiện nâng cấp, cải tiến các hoạt động 
-QLRR xuyên suốt toàn hàng, cụ thể như sau: 
-	• Chủ động QLRR tín dụng trên cả cấp độ danh mục và cấp độ giao dịch, 
-nhận diện sớm các ngành/lĩnh vực/khách hàng tiềm ẩn rủi ro để kịp 
-thời triển khai các biện pháp phân luồng thu hồi, xử lý nợ, giảm thiểu tổn 
-thất cho Ngân hàng; đồng thời triển khai các biện pháp hỗ trợ khách 
-hàng ổn định hoạt động sản xuất, kinh doanh sau đại dịch COVID -19; 
-	• Tập trung kiện toàn, chuẩn hóa văn bản chính sách hướng tới thông 
-lệ quốc tế và phát huy các thành tựu của việc chuyển đổi số trong 
-công tác quản trị RRTD từ cấp độ tổng thể đến cấp độ giao dịch (đánh 
-giá khách hàng theo thước đo Basel II, PD (probability of default), Risk - 
-based pricing..); 
-	• Triển khai mạnh mẽ các biện pháp hạn chế nợ xấu phát sinh (cảnh báo 
-sớm, phân luồng thu hồi/xử lý nợ, nhận diện khách hàng tiềm ẩn rủi ro, họp 
+Là một trong những định chế tài chính trụ cột của nền kinh tế Việt Nam
+trong bối cảnh môi trường kinh doanh đầy biến động và thách thức,
+VietinBank luôn chú trọng việc xây dựng, tăng cường hệ thống QTRR
+không chỉ đảm bảo tuân thủ các yêu cầu của Cơ quan quản lý Nhà
+nước mà còn hướng tới đáp ứng các chuẩn mực quốc tế. Trên nền tảng
+đó, hoạt động kinh doanh của Ngân hàng được tái cấu trúc để phù hợp
+với hệ thống QLRR và khẩu vị rủi ro của VietinBank. Kiên định với định
+hướng tăng trưởng bền vững gắn với an toàn, hiệu quả trong hoạt động,
+VietinBank luôn xác định nâng cao năng lực QTRR phải song hành với
+hiệu quả hoạt động, từ đó sẽ tạo một lực đẩy mạnh mẽ để ngân hàng
+bước nhanh và bước xa hơn trên chặng đường phát triển sắp tới.
+Công tác quản lý rủi ro luôn được ngân hàng triển khai đồng bộ, quyết
+liệt, toàn diện từ TSC tới các đơn vị kinh doanh trong toàn hàng. Trên
+cơ sở quy định tại Thông tư 13/2018/TT-NHNN (Thông tư 13) của NHNN
+quy định về hệ thống kiểm soát nội bộ của NHTM, chi nhánh Ngân hàng
+nước ngoài và thông lệ của Ủy ban Basel, VietinBank thực hiện mô hình
+3 tuyến bảo vệ kết hợp với giám sát cấp cao của HĐQT, Ủy ban QLRR,
+BĐH, Hội đồng rủi ro, Hội đồng ALCO.
+Với định hướng nâng cao năng lực tài chính, kiểm soát chất chẽ chất lượng
+nợ đảm bảo mục tiêu tăng trưởng an toàn, bền vững, hiệu quả, trong năm
+2023 VietinBank đã tiếp tục thực hiện nâng cấp, cải tiến các hoạt động
+QLRR xuyên suốt toàn hàng, cụ thể như sau:
+• Chủ động QLRR tín dụng trên cả cấp độ danh mục và cấp độ giao dịch,
+nhận diện sớm các ngành/lĩnh vực/khách hàng tiềm ẩn rủi ro để kịp
+thời triển khai các biện pháp phân luồng thu hồi, xử lý nợ, giảm thiểu tổn
+thất cho Ngân hàng; đồng thời triển khai các biện pháp hỗ trợ khách
+hàng ổn định hoạt động sản xuất, kinh doanh sau đại dịch COVID -19;
+• Tập trung kiện toàn, chuẩn hóa văn bản chính sách hướng tới thông
+lệ quốc tế và phát huy các thành tựu của việc chuyển đổi số trong
+công tác quản trị RRTD từ cấp độ tổng thể đến cấp độ giao dịch (đánh
+giá khách hàng theo thước đo Basel II, PD (probability of default), Risk -
+based pricing..);
+• Triển khai mạnh mẽ các biện pháp hạn chế nợ xấu phát sinh (cảnh báo
+sớm, phân luồng thu hồi/xử lý nợ, nhận diện khách hàng tiềm ẩn rủi ro, họp
 BKS chất lượng nợ toàn hàng/theo khu vực…);
-	• Tăng cường cải thiện chất lượng danh mục và nâng cao hiệu quả sử 
+• Tăng cường cải thiện chất lượng danh mục và nâng cao hiệu quả sử
 dụng vốn.
-Đặc biệt, trong xu thế chuyển đổi số đang diễn ra mạnh mẽ và bối cảnh 
-nhiều loại hình rủi ro gia tăng, đặc biệt là các rủi ro mới, tinh vi liên quan 
-đến CNTT, VietinBank cũng tiên phong đi đầu trong các hoạt động thúc 
-đẩy số hóa sâu rộng công tác QTRR. Ngân hàng cũng chú trọng quản lý 
-rủi ro hoạt động, QLRR CNTT thông qua việc phát triển các hệ thống/công 
-cụ để hỗ trợ nhận diện rủi ro sớm (hệ thống Early Warning System - EWS), 
-thành lập Ủy ban CNTT để tham mưu HĐQT chỉ đạo việc xây dựng và triển 
-khai các công cụ quản lý hiệu quả, tiên tiến trong QLRR CNTT, bảo đảm an 
+Đặc biệt, trong xu thế chuyển đổi số đang diễn ra mạnh mẽ và bối cảnh
+nhiều loại hình rủi ro gia tăng, đặc biệt là các rủi ro mới, tinh vi liên quan
+đến CNTT, VietinBank cũng tiên phong đi đầu trong các hoạt động thúc
+đẩy số hóa sâu rộng công tác QTRR. Ngân hàng cũng chú trọng quản lý
+rủi ro hoạt động, QLRR CNTT thông qua việc phát triển các hệ thống/công
+cụ để hỗ trợ nhận diện rủi ro sớm (hệ thống Early Warning System - EWS),
+thành lập Ủy ban CNTT để tham mưu HĐQT chỉ đạo việc xây dựng và triển
+khai các công cụ quản lý hiệu quả, tiên tiến trong QLRR CNTT, bảo đảm an
 ninh mạng và bảo mật thông tin, dữ liệu khách hàng.
-53
 KHUNG QUẢN LÝ RỦI RO
-VietinBank là một trong những NHTM tiên phong trong công tác QLRR 
-tại Việt Nam, luôn chủ động ứng dụng, cập nhật xu hướng thông lệ QTRR 
-thế giới. 
-Năm 2017, VietinBank đã ban hành lần đầu Quy định Khung QLRR 
-nhằm chuẩn hóa công tác QLRR tại các bộ phận theo thông lệ tiên 
-tiến trên thế giới và trong khu vực trên cơ sở kết quả dự án Quản lý 
-rủi ro tích hợp và quy trình đánh giá an toàn vốn nội bộ do IFC tư vấn 
-triển khai. 
-Đến cuối năm 2018, sau khi NHNN ban hành Thông tư 13 - Quy định về 
-hệ thống kiểm soát nội bộ của NHTM, chi nhánh ngân hàng nước ngoài, 
-VietinBank đã nhanh chóng rà soát và cập nhật Quy định Khung QLRR 
-nhằm đáp ứng các yêu cầu chi tiết về QLRR tại Thông tư 13 cũng như tiếp 
-tục cập nhật các thông lệ chuẩn mực quốc tế về QLRR. 
-Năm 2023 sau 5 năm vận hành kể từ khi ban hành lần 2, căn cứ sự chỉ 
-đạo sát sao của Ban lãnh đạo cũng như thực hiện yêu cầu tại Thông 
-tư 13 về việc định kỳ rà soát chính sách QLRR, Quy định Khung QLRR 
-tiếp tục được ban hành mới để đảm bảo các nội dung chính sách về 
-QLRR luôn cập nhật các yêu cầu của cơ quan quản lý, các tiêu chuẩn 
-về QLRR mới trên thế giới cũng như để hoàn thiện văn bản phù hợp với 
-hoạt động quản trị, điều hành tại VietinBank.  
-Quy định Khung QLRR đang lưu hành bao gồm các nguyên tắc chung, cốt 
-lõi trong công tác QLRR, là nền tảng cho hệ thống chính sách, cơ cấu tổ 
-chức, nguyên tắc xây dựng và thiết lập khẩu vị rủi ro, hạn mức rủi ro, chiến 
-lược QLRR, nguyên tắc thực hiện kiểm tra sức chịu đựng và phương pháp 
-luận nhằm nhận diện, đo lường, theo dõi, kiểm soát và giám sát các loại 
-rủi ro trọng yếu tại VietinBank. Sau gần 7 năm kể từ lần đầu ban hành và 
-triển khai trên thực tế, Quy định Khung QLRR đã góp phần củng cố nền 
-tảng công tác QLRR nói riêng và công tác quản trị điều hành nói chung 
+VietinBank là một trong những NHTM tiên phong trong công tác QLRR
+tại Việt Nam, luôn chủ động ứng dụng, cập nhật xu hướng thông lệ QTRR
+thế giới.
+Năm 2017, VietinBank đã ban hành lần đầu Quy định Khung QLRR
+nhằm chuẩn hóa công tác QLRR tại các bộ phận theo thông lệ tiên
+tiến trên thế giới và trong khu vực trên cơ sở kết quả dự án Quản lý
+rủi ro tích hợp và quy trình đánh giá an toàn vốn nội bộ do IFC tư vấn
+triển khai.
+Đến cuối năm 2018, sau khi NHNN ban hành Thông tư 13 - Quy định về
+hệ thống kiểm soát nội bộ của NHTM, chi nhánh ngân hàng nước ngoài,
+VietinBank đã nhanh chóng rà soát và cập nhật Quy định Khung QLRR
+nhằm đáp ứng các yêu cầu chi tiết về QLRR tại Thông tư 13 cũng như tiếp
+tục cập nhật các thông lệ chuẩn mực quốc tế về QLRR.
+Năm 2023 sau 5 năm vận hành kể từ khi ban hành lần 2, căn cứ sự chỉ
+đạo sát sao của Ban lãnh đạo cũng như thực hiện yêu cầu tại Thông
+tư 13 về việc định kỳ rà soát chính sách QLRR, Quy định Khung QLRR
+tiếp tục được ban hành mới để đảm bảo các nội dung chính sách về
+QLRR luôn cập nhật các yêu cầu của cơ quan quản lý, các tiêu chuẩn
+về QLRR mới trên thế giới cũng như để hoàn thiện văn bản phù hợp với
+hoạt động quản trị, điều hành tại VietinBank.
+Quy định Khung QLRR đang lưu hành bao gồm các nguyên tắc chung, cốt
+lõi trong công tác QLRR, là nền tảng cho hệ thống chính sách, cơ cấu tổ
+chức, nguyên tắc xây dựng và thiết lập khẩu vị rủi ro, hạn mức rủi ro, chiến
+lược QLRR, nguyên tắc thực hiện kiểm tra sức chịu đựng và phương pháp
+luận nhằm nhận diện, đo lường, theo dõi, kiểm soát và giám sát các loại
+rủi ro trọng yếu tại VietinBank. Sau gần 7 năm kể từ lần đầu ban hành và
+triển khai trên thực tế, Quy định Khung QLRR đã góp phần củng cố nền
+tảng công tác QLRR nói riêng và công tác quản trị điều hành nói chung
 tại VietinBank.
-2017
-2018
-2023
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-54
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-55
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO VỀ MÔI TRƯỜNG KINH DOANH
-Nhận diện rủi ro: 
-Năm 2023 kinh tế thế giới đối mặt nhiều thách thức, khó lường và tính bất 
-ổn cao; FED tăng lãi suất trong thời gian dài kéo theo việc tăng giá của 
-đồng USD trên toàn cầu; cạnh tranh chiến lược, địa chính trị giữa các nước 
-lớn, xung đột quân sự giữa Nga và Ukraine, xung đột ở Trung Đông… đã 
-làm gia tăng rủi ro trên thị trường tài chính, tiền tệ toàn cầu. 
-Theo đó, kinh tế Việt Nam chịu tác động không nhỏ khi GDP năm 2023 của 
-Việt Nam chỉ tăng 5,05% so với năm trước, chỉ cao hơn tốc độ tăng của 
-năm 2020 và 2021 - thời điểm đại dịch COVID-19. Trong mức tăng tổng 
-giá trị tăng thêm toàn nền kinh tế, khu vực nông, lâm nghiệp và thủy sản 
-tăng 3,83%, đóng góp 8,84%; khu vực công nghiệp và xây dựng tăng 3,74%, 
-đóng góp 28,87%; khu vực dịch vụ tăng 6,82%, đóng góp 62,29%. Quy mô 
-GDP theo giá hiện hành năm 2023 ước đạt 10.221,8 nghìn tỷ đồng, tương 
-đương 430 tỷ USD. GDP bình quân đầu người năm 2023 theo giá hiện hành 
-ước đạt 101,9 triệu đồng/người, tương đương 4.284 USD, tăng 160 USD so 
+Nhận diện rủi ro:
+Năm 2023 kinh tế thế giới đối mặt nhiều thách thức, khó lường và tính bất
+ổn cao; FED tăng lãi suất trong thời gian dài kéo theo việc tăng giá của
+đồng USD trên toàn cầu; cạnh tranh chiến lược, địa chính trị giữa các nước
+lớn, xung đột quân sự giữa Nga và Ukraine, xung đột ở Trung Đông… đã
+làm gia tăng rủi ro trên thị trường tài chính, tiền tệ toàn cầu.
+Theo đó, kinh tế Việt Nam chịu tác động không nhỏ khi GDP năm 2023 của
+Việt Nam chỉ tăng 5,05% so với năm trước, chỉ cao hơn tốc độ tăng của
+năm 2020 và 2021 - thời điểm đại dịch COVID-19. Trong mức tăng tổng
+giá trị tăng thêm toàn nền kinh tế, khu vực nông, lâm nghiệp và thủy sản
+tăng 3,83%, đóng góp 8,84%; khu vực công nghiệp và xây dựng tăng 3,74%,
+đóng góp 28,87%; khu vực dịch vụ tăng 6,82%, đóng góp 62,29%. Quy mô
+GDP theo giá hiện hành năm 2023 ước đạt 10.221,8 nghìn tỷ đồng, tương
+đương 430 tỷ USD. GDP bình quân đầu người năm 2023 theo giá hiện hành
+ước đạt 101,9 triệu đồng/người, tương đương 4.284 USD, tăng 160 USD so
 với năm 2022.
-Một yếu tố làm GDP Việt Nam tăng trưởng chậm lại trong năm 2023 là do 
-xuất khẩu suy giảm, khi tổng kim ngạch xuất, nhập khẩu hàng hóa năm 
-2023 giảm 6,6% so với năm trước (xuất khẩu giảm 4,4%; nhập khẩu giảm 
-8,9%), trong khi tốc độ tăng kim ngạch xuất, nhập khẩu bình quân của Việt 
-Nam đạt 11,3%/năm trong giai đoạn 2018 - 2022. Nguyên nhân xuất khẩu 
-suy giảm do: nhu cầu các thị trường xuất khẩu chính của Việt Nam như 
-Hoa Kỳ, Trung Quốc, EU… sụt giảm; thương mại và đầu tư toàn cầu tiếp tục 
-thu hẹp; hàng rào bảo hộ, phòng vệ thương mại gia tăng đã khiến nhiều 
-quốc gia tăng trưởng chậm lại. Theo IMF, tăng trưởng thương mại thế giới 
-dự kiến đạt 0,9% trong năm 2023, thấp hơn nhiều so với mức trung bình 
-4,9% của giai đoạn 2000 - 2019. Bước sang năm 2024, hoạt động xuất, 
-nhập khẩu sẽ vẫn đối diện với nhiều rủi ro, khó đoán định. Xu hướ ng bảo hộ 
-thươ ng mại xuất hiện nhiều hơn, nhiều nướ c có các biện pháp đưa đầu tư 
-về trong nướ c, dựng nên các rào cản thươ ng mại để bảo vệ, thúc đẩy sản 
-xuất trong nướ c. Về cơ hội, xuất, nhập khẩu năm 2024 có nhiều cơ hội để 
-phục hồi khi vấn đề hàng tồn kho tại nhiều quốc gia đang dần được khắc 
-phục. Việc nỗ lực trong đẩy mạnh đàm phán, đa dạng hóa thị trường xuất, 
-nhập khẩu của Việt Nam sẽ đem lại lợi thế cạnh tranh hơn cho hàng xuất 
+Một yếu tố làm GDP Việt Nam tăng trưởng chậm lại trong năm 2023 là do
+xuất khẩu suy giảm, khi tổng kim ngạch xuất, nhập khẩu hàng hóa năm
+2023 giảm 6,6% so với năm trước (xuất khẩu giảm 4,4%; nhập khẩu giảm
+8,9%), trong khi tốc độ tăng kim ngạch xuất, nhập khẩu bình quân của Việt
+Nam đạt 11,3%/năm trong giai đoạn 2018 - 2022. Nguyên nhân xuất khẩu
+suy giảm do: nhu cầu các thị trường xuất khẩu chính của Việt Nam như
+Hoa Kỳ, Trung Quốc, EU… sụt giảm; thương mại và đầu tư toàn cầu tiếp tục
+thu hẹp; hàng rào bảo hộ, phòng vệ thương mại gia tăng đã khiến nhiều
+quốc gia tăng trưởng chậm lại. Theo IMF, tăng trưởng thương mại thế giới
+dự kiến đạt 0,9% trong năm 2023, thấp hơn nhiều so với mức trung bình
+4,9% của giai đoạn 2000 - 2019. Bước sang năm 2024, hoạt động xuất,
+nhập khẩu sẽ vẫn đối diện với nhiều rủi ro, khó đoán định. Xu hướ ng bảo hộ
+thươ ng mại xuất hiện nhiều hơn, nhiều nướ c có các biện pháp đưa đầu tư
+về trong nướ c, dựng nên các rào cản thươ ng mại để bảo vệ, thúc đẩy sản
+xuất trong nướ c. Về cơ hội, xuất, nhập khẩu năm 2024 có nhiều cơ hội để
+phục hồi khi vấn đề hàng tồn kho tại nhiều quốc gia đang dần được khắc
+phục. Việc nỗ lực trong đẩy mạnh đàm phán, đa dạng hóa thị trường xuất,
+nhập khẩu của Việt Nam sẽ đem lại lợi thế cạnh tranh hơn cho hàng xuất
 khẩu trong thời gian tới.
-Chỉ số giá tiêu dùng CPI 2023 tăng 3,25% so với năm trước, đạt mục tiêu 
-Quốc hội đề ra là dưới 4%. Nguyên nhân chủ yếu là do tổng cầu nền kinh 
-tế yếu. Năm 2024 dự báo lạm phát sẽ không quá căng thẳng khi lạm phát 
-toàn cầu có khả năng về mức bình thường trước đó và không còn nhiều 
+Chỉ số giá tiêu dùng CPI 2023 tăng 3,25% so với năm trước, đạt mục tiêu
+Quốc hội đề ra là dưới 4%. Nguyên nhân chủ yếu là do tổng cầu nền kinh
+tế yếu. Năm 2024 dự báo lạm phát sẽ không quá căng thẳng khi lạm phát
+toàn cầu có khả năng về mức bình thường trước đó và không còn nhiều
 yếu tố bất ngờ có thể làm tăng lạm phát.
-Trong bối cảnh toàn cầu không chắc chắn và chứa đựng nhiều rủi ro, các 
-tổ chức vẫn có những nhận định tích cực về tăng trưởng kinh tế của Việt 
-Nam, Quỹ Tiền tệ quốc tế (IMF) dự báo tăng trưởng kinh tế Việt Nam sẽ đạt 
-5,8% trong năm 2024, Ngân hàng Thế giới (WB) dự báo đạt 5,5%, HSBC dự 
+Trong bối cảnh toàn cầu không chắc chắn và chứa đựng nhiều rủi ro, các
+tổ chức vẫn có những nhận định tích cực về tăng trưởng kinh tế của Việt
+Nam, Quỹ Tiền tệ quốc tế (IMF) dự báo tăng trưởng kinh tế Việt Nam sẽ đạt
+5,8% trong năm 2024, Ngân hàng Thế giới (WB) dự báo đạt 5,5%, HSBC dự
 báo ở mức 6%. Đây là triển vọng lạc quan so với triển vọng chung toàn cầu.
 Các biện pháp kiểm soát rủi ro trong năm 2023 và kế hoạch trong năm 2024:
-Với những thách thức và cơ hội từ môi trường kinh doanh năm 2023 và dự 
-báo tình hình năm 2024, Vietinbank đã luôn chủ động linh hoạt điều chỉnh 
-trong công tác định hướng cũng như điều hành thực tế để thúc đẩy hoạt 
-động kinh doanh trong điều kiện thị trường thay đổi liên tục. Trước những 
-dự báo về tình hình kinh tế và xu hướng lãi suất trên toàn cầu (FED, ECB có 
-khả năng bắt đầu giảm lãi suất vào nửa cuối năm 2024...), VietinBank đã 
-chủ động phân tích các kịch bản tác động tới hoạt động kinh doanh và có 
-phương án hành động để nhanh chóng thích ứng, làm chủ các tình huống 
+Với những thách thức và cơ hội từ môi trường kinh doanh năm 2023 và dự
+báo tình hình năm 2024, Vietinbank đã luôn chủ động linh hoạt điều chỉnh
+trong công tác định hướng cũng như điều hành thực tế để thúc đẩy hoạt
+động kinh doanh trong điều kiện thị trường thay đổi liên tục. Trước những
+dự báo về tình hình kinh tế và xu hướng lãi suất trên toàn cầu (FED, ECB có
+khả năng bắt đầu giảm lãi suất vào nửa cuối năm 2024...), VietinBank đã
+chủ động phân tích các kịch bản tác động tới hoạt động kinh doanh và có
+phương án hành động để nhanh chóng thích ứng, làm chủ các tình huống
 phát sinh, giảm thiểu rủi ro trên thị trường.
 RỦI RO TÍN DỤNG
 Nhận diện rủi ro:
-Bao gồm rủi ro tín dụng và rủi ro tín dụng đối tác. Trong đó: (i) Rủi ro tín 
-dụng là rủi ro do khách hàng không thực hiện hoặc không có khả năng 
-thực hiện một phần hoặc toàn bộ nghĩa vụ trả nợ theo hợp đồng hoặc 
-thỏa thuận với VietinBank, trừ các trường hợp quy định khác. Trong đó, 
-khách hàng (bao gồm cả TCTD, chi nhánh ngân hàng nước ngoài) có 
-quan hệ với VietinBank trong việc nhận cấp tín dụng (bao gồm cả nhận 
-cấp tín dụng thông qua ủy thác), nhận tiền gửi, phát hành trái phiếu 
-doanh nghiệp; (ii) Rủi ro tín dụng đối tác là rủi ro do đối tác không thực 
-hiện hoặc không có khả năng thực hiện một phần hoặc toàn bộ nghĩa 
-vụ thanh toán trước hoặc khi đến hạn của giao dịch tự doanh; giao dịch 
-repo và reverse repo; giao dịch sản phẩm phái sinh để phòng ngừa rủi 
-ro; giao dịch mua bán ngoại tệ, tài sản tài chính để phục vụ nhu cầu của 
-khách hàng, đối tác. 
+Bao gồm rủi ro tín dụng và rủi ro tín dụng đối tác. Trong đó: (i) Rủi ro tín
+dụng là rủi ro do khách hàng không thực hiện hoặc không có khả năng
+thực hiện một phần hoặc toàn bộ nghĩa vụ trả nợ theo hợp đồng hoặc
+thỏa thuận với VietinBank, trừ các trường hợp quy định khác. Trong đó,
+khách hàng (bao gồm cả TCTD, chi nhánh ngân hàng nước ngoài) có
+quan hệ với VietinBank trong việc nhận cấp tín dụng (bao gồm cả nhận
+cấp tín dụng thông qua ủy thác), nhận tiền gửi, phát hành trái phiếu
+doanh nghiệp; (ii) Rủi ro tín dụng đối tác là rủi ro do đối tác không thực
+hiện hoặc không có khả năng thực hiện một phần hoặc toàn bộ nghĩa
+vụ thanh toán trước hoặc khi đến hạn của giao dịch tự doanh; giao dịch
+repo và reverse repo; giao dịch sản phẩm phái sinh để phòng ngừa rủi
+ro; giao dịch mua bán ngoại tệ, tài sản tài chính để phục vụ nhu cầu của
+khách hàng, đối tác.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Trong năm 2023, bối cảnh kinh tế thế giới nhiều bất ổn đã ảnh hưởng trực 
-tiếp đến kinh tế Việt Nam. Trước tình hình đó, VietinBank đã thận trọng 
-đánh giá, quyết liệt triển khai đồng bộ công tác quản lý rủi ro tín dụng để 
-duy trì cân bằng giữa mục tiêu về an toàn hoạt động và tăng trưởng kinh 
-doanh. Cụ thể, VietinBank đã thực hiện: 
-	• Chủ động quản lý rủi ro tín dụng trên cả cấp độ danh mục và cấp độ 
-giao dịch, nhận diện sớm các ngành/lĩnh vực/khách hàng tiềm ẩn rủi 
-ro để kịp thời triển khai các biện pháp hỗ trợ khách hàng ổn định hoạt 
-động sản xuất kinh doanh vượt qua khó khăn như cơ cấu nợ, giải ngân 
-mới, ưu đãi lãi suất… Nhờ đó, chất lượng tài sản tại VietinBank luôn được 
-kiểm soát tốt, tỷ lệ nợ xấu ở mức thấp và tỷ lệ bao phủ nợ xấu ở mức cao 
-so với toàn ngành. 
-	• Thường xuyên rà soát, cập nhật và đồng bộ triển khai các chính sách 
-về quản lý môi trường-xã hội trong hoạt động cấp tín dụng phù hợp với 
-định hướng của Chính phủ và NHNN; chú trọng và thường xuyên nâng 
-cao việc đánh giá tác động môi trường-xã hội trong hoạt động thẩm 
-định, quyết định cấp tín dụng cho các dự án đầu tư. Việc thực hiện đánh 
-giá rủi ro về môi trường-xã hội được thực hiện đồng thời với việc xem xét, 
+Trong năm 2023, bối cảnh kinh tế thế giới nhiều bất ổn đã ảnh hưởng trực
+tiếp đến kinh tế Việt Nam. Trước tình hình đó, VietinBank đã thận trọng
+đánh giá, quyết liệt triển khai đồng bộ công tác quản lý rủi ro tín dụng để
+duy trì cân bằng giữa mục tiêu về an toàn hoạt động và tăng trưởng kinh
+doanh. Cụ thể, VietinBank đã thực hiện:
+• Chủ động quản lý rủi ro tín dụng trên cả cấp độ danh mục và cấp độ
+giao dịch, nhận diện sớm các ngành/lĩnh vực/khách hàng tiềm ẩn rủi
+ro để kịp thời triển khai các biện pháp hỗ trợ khách hàng ổn định hoạt
+động sản xuất kinh doanh vượt qua khó khăn như cơ cấu nợ, giải ngân
+mới, ưu đãi lãi suất… Nhờ đó, chất lượng tài sản tại VietinBank luôn được
+kiểm soát tốt, tỷ lệ nợ xấu ở mức thấp và tỷ lệ bao phủ nợ xấu ở mức cao
+so với toàn ngành.
+• Thường xuyên rà soát, cập nhật và đồng bộ triển khai các chính sách
+về quản lý môi trường-xã hội trong hoạt động cấp tín dụng phù hợp với
+định hướng của Chính phủ và NHNN; chú trọng và thường xuyên nâng
+cao việc đánh giá tác động môi trường-xã hội trong hoạt động thẩm
+định, quyết định cấp tín dụng cho các dự án đầu tư. Việc thực hiện đánh
+giá rủi ro về môi trường-xã hội được thực hiện đồng thời với việc xem xét,
 thẩm định, phê duyệt cấp tín dụng.
-	• Liên tục kiểm soát chặt chẽ việc tuân thủ các vấn đề về môi trường-xã 
-hội trong hoạt động của dự án và kịp thời đưa ra các biện pháp ứng xử 
+• Liên tục kiểm soát chặt chẽ việc tuân thủ các vấn đề về môi trường-xã
+hội trong hoạt động của dự án và kịp thời đưa ra các biện pháp ứng xử
 tín dụng khi cần thiết.
-Kế hoạch trong năm 2024: 
-Trong năm 2024, để nâng cao khả năng ứng phó trước nền kinh tế còn 
-nhiều biến động, VietinBank chủ động xây dựng và tiếp tục triển khai đồng 
-bộ nhiều giải pháp giảm thiểu RRTD. Theo đó: 
-	• Tăng cường triển khai đồng bộ các giải pháp để kiểm soát nâng cao 
-chất lượng nợ tại tất cả các đơn vị kinh doanh, đặc biệt tăng cường kiểm 
-soát RRTD liên quan các lĩnh vực tiềm ẩn rủi ro cao nhưng vẫn đảm bảo 
-cân bằng với việc phát triển quy mô tín dụng theo định hướng chung. 
-	• Tiếp tục hiện đại hóa công tác kiểm tra giám sát để nhận diện sớm RRTD và 
-phù hợp với tình hình thực tiễn (như đổi mới phương pháp, cách thức 
-kiểm tra; xây dựng các công cụ giám sát tự động; khai thác tối đa 
-tài nguyên dữ liệu trên hệ thống kết hợp nâng cao chất lượng nguồn 
+Kế hoạch trong năm 2024:
+Trong năm 2024, để nâng cao khả năng ứng phó trước nền kinh tế còn
+nhiều biến động, VietinBank chủ động xây dựng và tiếp tục triển khai đồng
+bộ nhiều giải pháp giảm thiểu RRTD. Theo đó:
+• Tăng cường triển khai đồng bộ các giải pháp để kiểm soát nâng cao
+chất lượng nợ tại tất cả các đơn vị kinh doanh, đặc biệt tăng cường kiểm
+soát RRTD liên quan các lĩnh vực tiềm ẩn rủi ro cao nhưng vẫn đảm bảo
+cân bằng với việc phát triển quy mô tín dụng theo định hướng chung.
+• Tiếp tục hiện đại hóa công tác kiểm tra giám sát để nhận diện sớm RRTD và
+phù hợp với tình hình thực tiễn (như đổi mới phương pháp, cách thức
+kiểm tra; xây dựng các công cụ giám sát tự động; khai thác tối đa
+tài nguyên dữ liệu trên hệ thống kết hợp nâng cao chất lượng nguồn
 nhân lực …).
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-56
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-57
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO THỊ TRƯỜNG
 Nhận diện rủi ro:
-Là rủi ro do biến động bất lợi của lãi suất, tỷ giá, giá vàng, giá chứng 
-khoán và giá hàng hoá trên thị trường, bao gồm: (i) RRLS là rủi ro do 
-biến động bất lợi của lãi suất trên thị trường đối với giá trị của giấy tờ 
-có giá, công cụ tài chính có lãi suất, sản phẩm phái sinh lãi suất trên 
-sổ kinh doanh của VietinBank; (ii) Rủi ro ngoại hối là rủi ro do biến động 
-bất lợi của tỷ giá, giá vàng trên thị trường khi VietinBank có trạng thái 
-ngoại tệ, trạng thái vàng; (iii) Rủi ro giá cổ phiếu là rủi ro do biến động 
-bất lợi của giá cổ phiếu, chứng khoán phái sinh trên thị trường đối với 
-giá trị của cổ phiếu, giá trị chứng khoán phái sinh trên sổ kinh doanh 
-của VietinBank; (iv) Rủi ro giá hàng hóa là rủi ro do biến động bất lợi 
-của giá hàng hóa trên thị trường đối với giá trị của sản phẩm phái sinh 
-hàng hóa, giá trị của sản phẩm trong giao dịch giao ngay chịu rủi ro 
+Là rủi ro do biến động bất lợi của lãi suất, tỷ giá, giá vàng, giá chứng
+khoán và giá hàng hoá trên thị trường, bao gồm: (i) RRLS là rủi ro do
+biến động bất lợi của lãi suất trên thị trường đối với giá trị của giấy tờ
+có giá, công cụ tài chính có lãi suất, sản phẩm phái sinh lãi suất trên
+sổ kinh doanh của VietinBank; (ii) Rủi ro ngoại hối là rủi ro do biến động
+bất lợi của tỷ giá, giá vàng trên thị trường khi VietinBank có trạng thái
+ngoại tệ, trạng thái vàng; (iii) Rủi ro giá cổ phiếu là rủi ro do biến động
+bất lợi của giá cổ phiếu, chứng khoán phái sinh trên thị trường đối với
+giá trị của cổ phiếu, giá trị chứng khoán phái sinh trên sổ kinh doanh
+của VietinBank; (iv) Rủi ro giá hàng hóa là rủi ro do biến động bất lợi
+của giá hàng hóa trên thị trường đối với giá trị của sản phẩm phái sinh
+hàng hóa, giá trị của sản phẩm trong giao dịch giao ngay chịu rủi ro
 giá hàng hóa của VietinBank.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Năm 2023, trước những diễn biến khó lường của thị trường tài chính trong 
-nước và quốc tế do tác động của tăng lãi suất kéo dài, xung đột  Nga 
--  Ukraine, xung đột ở Trung Đông, VietinBank tiếp tục chú trọng giám sát 
-chặt chẽ và kiểm soát kịp thời RRTT trong quá trình kinh doanh. Cụ thể, 
-Ngân hàng đã thực hiện: 
-	• Thiết lập chiến lược quản lý rủi ro thị trường gồm mục tiêu và các 
-biện pháp kiểm soát phù hợp gắn liền với chiến lược kinh doanh 
-trung và dài hạn của VietinBank, đảm bảo HĐKD phát triển an toàn, 
-bền vững, tuân thủ các quy định của cơ quan quản lý, cam kết với đối 
+Năm 2023, trước những diễn biến khó lường của thị trường tài chính trong
+nước và quốc tế do tác động của tăng lãi suất kéo dài, xung đột  Nga
+-  Ukraine, xung đột ở Trung Đông, VietinBank tiếp tục chú trọng giám sát
+chặt chẽ và kiểm soát kịp thời RRTT trong quá trình kinh doanh. Cụ thể,
+Ngân hàng đã thực hiện:
+• Thiết lập chiến lược quản lý rủi ro thị trường gồm mục tiêu và các
+biện pháp kiểm soát phù hợp gắn liền với chiến lược kinh doanh
+trung và dài hạn của VietinBank, đảm bảo HĐKD phát triển an toàn,
+bền vững, tuân thủ các quy định của cơ quan quản lý, cam kết với đối
 tác chiến lược, phù hợp với thông lệ quốc tế.
-	• Tăng cường mô hình 3 tuyến bảo vệ trong quản lý rủi ro thị trường, 
-với sự tham gia của Phòng Kinh doanh vốn, Phòng Quản lý rủi ro thị 
+• Tăng cường mô hình 3 tuyến bảo vệ trong quản lý rủi ro thị trường,
+với sự tham gia của Phòng Kinh doanh vốn, Phòng Quản lý rủi ro thị
 trường và Phòng Kiểm toán nội bộ.
-	• Rà soát, cập nhật kịp thời Hệ thống chính sách, quy định và phương 
-pháp luận về quản lý rủi ro thị trường, QLRR tập trung trong giao dịch 
-tự doanh để phù hợp với thực tiễn thị trường và HĐKD của VietinBank, 
+• Rà soát, cập nhật kịp thời Hệ thống chính sách, quy định và phương
+pháp luận về quản lý rủi ro thị trường, QLRR tập trung trong giao dịch
+tự doanh để phù hợp với thực tiễn thị trường và HĐKD của VietinBank,
 đáp ứng thông lệ Basel II và các yêu cầu của cơ quan quản lý.
-	• Thiết lập khẩu vị và hạn mức RRTT gồm các chỉ số như: Lãi/lỗ theo giá 
-thị trường, Trạng thái, VaR (Value at Risk), Hạn mức trạng thái/số dư 
-đối với các sản phẩm giao dịch, loại tiền tệ, đối tác thuộc danh mục 
-tự doanh có rủi ro tập trung... Các chỉ số được đo lường giám sát và 
-báo cáo hằng ngày, kịp thời cảnh báo nguy cơ rủi ro phát sinh vượt 
-ngưỡng chấp nhận của VietinBank và có biện pháp xử lý giảm thiểu 
+• Thiết lập khẩu vị và hạn mức RRTT gồm các chỉ số như: Lãi/lỗ theo giá
+thị trường, Trạng thái, VaR (Value at Risk), Hạn mức trạng thái/số dư
+đối với các sản phẩm giao dịch, loại tiền tệ, đối tác thuộc danh mục
+tự doanh có rủi ro tập trung... Các chỉ số được đo lường giám sát và
+báo cáo hằng ngày, kịp thời cảnh báo nguy cơ rủi ro phát sinh vượt
+ngưỡng chấp nhận của VietinBank và có biện pháp xử lý giảm thiểu
 rủi ro.
-	• Phân bổ và kiểm soát mức vốn yêu cầu cho RRTT và backtest các 
-mô hình đo lường rủi ro thị trường để đảm bảo đánh giá chính xác 
-mức độ rủi ro tiềm ẩn. Từ năm 2013 VietinBank đã triển khai hệ thống 
-Treasury Murex nhằm thực hiện nhập, phê duyệt và quản lý giao dịch 
-kinh doanh vốn và thị trường thông suốt cả 3 cấu phần Front Office, 
+• Phân bổ và kiểm soát mức vốn yêu cầu cho RRTT và backtest các
+mô hình đo lường rủi ro thị trường để đảm bảo đánh giá chính xác
+mức độ rủi ro tiềm ẩn. Từ năm 2013 VietinBank đã triển khai hệ thống
+Treasury Murex nhằm thực hiện nhập, phê duyệt và quản lý giao dịch
+kinh doanh vốn và thị trường thông suốt cả 3 cấu phần Front Office,
 Middle Office, Back Offce.
-Kế hoạch trong năm 2024: 
-Trong năm 2024, VietinBank dự kiến triển khai đồng bộ nhiều hoạt động 
-tăng cường QLRR thị trường, bao gồm: 
-	• Tiếp tục đổi mới về hệ thống và phương pháp luận QLRR phù hợp với 
-bối cảnh thị trường, hướng theo thông lệ tiên tiến nhằm hỗ trợ, thúc đẩy 
+Kế hoạch trong năm 2024:
+Trong năm 2024, VietinBank dự kiến triển khai đồng bộ nhiều hoạt động
+tăng cường QLRR thị trường, bao gồm:
+• Tiếp tục đổi mới về hệ thống và phương pháp luận QLRR phù hợp với
+bối cảnh thị trường, hướng theo thông lệ tiên tiến nhằm hỗ trợ, thúc đẩy
 hoạt động kinh doanh.
-	• Chủ động phân tích đánh giá xu hướng lãi suất, tỷ giá trước những biến 
-động liên tục trên thị trường tài chính để có phương án kinh doanh kèm 
-theo biện pháp phòng ngừa rủi ro phù hợp, tận dụng cơ hội thị trường 
+• Chủ động phân tích đánh giá xu hướng lãi suất, tỷ giá trước những biến
+động liên tục trên thị trường tài chính để có phương án kinh doanh kèm
+theo biện pháp phòng ngừa rủi ro phù hợp, tận dụng cơ hội thị trường
 đồng thời kiểm soát rủi ro trong mức độ chấp nhận.
-	• Nhận diện, phân tích và cảnh bảo sớm các yếu tố rủi ro mới trên thị 
-trường để có biện pháp ứng phó và quản lý rủi ro phù hợp. 
-	• Rà soát, cập nhật thường xuyên bộ hạn mức rủi ro để phù hợp với tình 
+• Nhận diện, phân tích và cảnh bảo sớm các yếu tố rủi ro mới trên thị
+trường để có biện pháp ứng phó và quản lý rủi ro phù hợp.
+• Rà soát, cập nhật thường xuyên bộ hạn mức rủi ro để phù hợp với tình
 hình thị trường mới và phương án đầu tư kinh doanh từng giai đoạn.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-58
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-59
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO HOẠT ĐỘNG
 Nhận diện rủi ro:
-Là rủi ro do các quy trình nội bộ quy định không đầy đủ hoặc có sai sót, 
-do yếu tố con người, do các lỗi, sự cố của hệ thống hoặc do các yếu tố 
-bên ngoài làm tổn thất về tài chính, tác động tiêu cực phi tài chính đối với 
-VietinBank (bao gồm cả rủi ro pháp lý nhưng không bao gồm rủi ro danh 
-tiếng và rủi ro chiến lược). Trong kỷ nguyên số hóa, với sự phát triển mạnh 
-mẽ của các công nghệ mới, VietinBank cũng phải đối mặt với những rủi ro 
-mới như: Rủi ro trong hoạt động số hóa các SPDV, rủi ro bên thứ 3 và rủi ro 
+Là rủi ro do các quy trình nội bộ quy định không đầy đủ hoặc có sai sót,
+do yếu tố con người, do các lỗi, sự cố của hệ thống hoặc do các yếu tố
+bên ngoài làm tổn thất về tài chính, tác động tiêu cực phi tài chính đối với
+VietinBank (bao gồm cả rủi ro pháp lý nhưng không bao gồm rủi ro danh
+tiếng và rủi ro chiến lược). Trong kỷ nguyên số hóa, với sự phát triển mạnh
+mẽ của các công nghệ mới, VietinBank cũng phải đối mặt với những rủi ro
+mới như: Rủi ro trong hoạt động số hóa các SPDV, rủi ro bên thứ 3 và rủi ro
 tấn cộng mạng, dữ liệu và điện toán đám mây...
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-VietinBank đã và đang xây dựng, triển khai công tác Quản lý rủi ro CNTT 
-định hướng tiếp cận theo các yếu tố cốt lõi “Con người, công nghệ, quy 
-trình và các biện pháp quản lý” với phương châm nhận diện rủi ro sớm 
+VietinBank đã và đang xây dựng, triển khai công tác Quản lý rủi ro CNTT
+định hướng tiếp cận theo các yếu tố cốt lõi “Con người, công nghệ, quy
+trình và các biện pháp quản lý” với phương châm nhận diện rủi ro sớm
 nhằm hạn chế tổn thất tối đa xảy ra như:
-	• Cải tiến hoạt động quản trị rủi ro công nghệ số, ngân hàng số: VietinBank 
-không ngừng liên tục cải tiến và hoàn thiện hơn nữa các quy định về 
-quản trị rủi ro CNTT trong hoạt động công nghệ số, sản phẩm số, từng 
+• Cải tiến hoạt động quản trị rủi ro công nghệ số, ngân hàng số: VietinBank
+không ngừng liên tục cải tiến và hoàn thiện hơn nữa các quy định về
+quản trị rủi ro CNTT trong hoạt động công nghệ số, sản phẩm số, từng
 bước xây dựng và hoàn thiện các quy trình vận hành và tự động hóa.
-	• Tăng cường công tác quản lý rủi ro hoạt động bên thứ ba: Cải tiến quy 
-định quản lý các hoạt động của bên thứ ba, chủ động nhận diện sớm và 
-đánh giá các rủi ro bên thứ ba trước khi ký hợp đồng. Trong quá trình các 
-hoạt động hợp tác với bên thứ ba, tăng cường, siết chặt công tác giám 
-sát theo dõi chất lượng dịch vụ cũng như các rủi ro về quản lý truy cập 
-vào các tài sản trong các hệ thống thông tin của Ngân hàng và  yêu cầu 
-bên thứ ba cam kết tuân thủ ATTT. 
-	• Chú trọng đầu tư và nâng cao năng lực phòng vệ, chống tấn công của 
-các hệ thống thông tin: Ngân hàng luôn không ngừng nỗ lực xây dựng 
-kế hoạch mở rộng đầu tư và nâng cấp các trang thiết bị, các hệ thống 
-phòng chống tấn công xâm nhập, giám sát tấn công cập nhật theo xu 
-hướng trên thế giới. Bên cạnh đó, đội ngũ nhân sự CNTT nội tại của Ngân 
-hàng cũng không ngừng học hỏi, nâng cao trình độ năng lực, phẩm chất 
+• Tăng cường công tác quản lý rủi ro hoạt động bên thứ ba: Cải tiến quy
+định quản lý các hoạt động của bên thứ ba, chủ động nhận diện sớm và
+đánh giá các rủi ro bên thứ ba trước khi ký hợp đồng. Trong quá trình các
+hoạt động hợp tác với bên thứ ba, tăng cường, siết chặt công tác giám
+sát theo dõi chất lượng dịch vụ cũng như các rủi ro về quản lý truy cập
+vào các tài sản trong các hệ thống thông tin của Ngân hàng và  yêu cầu
+bên thứ ba cam kết tuân thủ ATTT.
+• Chú trọng đầu tư và nâng cao năng lực phòng vệ, chống tấn công của
+các hệ thống thông tin: Ngân hàng luôn không ngừng nỗ lực xây dựng
+kế hoạch mở rộng đầu tư và nâng cấp các trang thiết bị, các hệ thống
+phòng chống tấn công xâm nhập, giám sát tấn công cập nhật theo xu
+hướng trên thế giới. Bên cạnh đó, đội ngũ nhân sự CNTT nội tại của Ngân
+hàng cũng không ngừng học hỏi, nâng cao trình độ năng lực, phẩm chất
 nhằm đáp ứng theo theo xu hướng phát triển.
-	• Đẩy mạnh công tác Quản lý hoạt động CNTT liên tục: VietinBank đã và 
-đang có những định hướng rất chủ động trong công tác xây dựng các 
-kịch bản ứng phó sự cố, rủi ro trên hệ thống, ứng dụng của các nền tảng 
+• Đẩy mạnh công tác Quản lý hoạt động CNTT liên tục: VietinBank đã và
+đang có những định hướng rất chủ động trong công tác xây dựng các
+kịch bản ứng phó sự cố, rủi ro trên hệ thống, ứng dụng của các nền tảng
 ngân hàng số, SPDV số cung cấp cho khách hàng.
-Kế hoạch trong năm 2024: 
-Năm 2024 tiếp tục là một năm thách thức đối với công tác quản trị rủi ro 
-trong kỷ nguyên số hóa. Ngoài việc củng cố và tăng cường các hoạt động 
-quản trị rủi ro, năm 2024, VietinBank sẽ tăng cường triển khai nhiều giải 
+Kế hoạch trong năm 2024:
+Năm 2024 tiếp tục là một năm thách thức đối với công tác quản trị rủi ro
+trong kỷ nguyên số hóa. Ngoài việc củng cố và tăng cường các hoạt động
+quản trị rủi ro, năm 2024, VietinBank sẽ tăng cường triển khai nhiều giải
 pháp, cụ thể:
-	• Tiếp tục đẩy mạnh các hoạt động quản trị rủi ro trong hoạt động: (i) Thanh 
-toán không dùng tiền mặt, đặc biệt chú trọng tới QTRR gian lận thẻ, rủi ro 
-thanh toán thông qua kết nối liên thông với các tổ chức cung ứng dịch vụ 
-thanh toán và các tổ chức cung ứng dịch vụ trung gian thanh toán; (ii) quản 
+• Tiếp tục đẩy mạnh các hoạt động quản trị rủi ro trong hoạt động: (i) Thanh
+toán không dùng tiền mặt, đặc biệt chú trọng tới QTRR gian lận thẻ, rủi ro
+thanh toán thông qua kết nối liên thông với các tổ chức cung ứng dịch vụ
+thanh toán và các tổ chức cung ứng dịch vụ trung gian thanh toán; (ii) quản
 trị rủi ro liên quan đến dữ liệu cá nhân/khách hàng.
-	• Tiếp tục triển khai các công cụ QLRRHĐ nội bộ trên phạm vi toàn hàng 
-như: môi trường kiểm soát chi nhánh, lỗi KPI tuân thủ, KPI toàn hàng, 
-quản lý rủi ro hoạt động tại phòng giao dịch…   
-	• Chú trọng công tác đào tạo, truyền thông về quản lý rủi ro hoạt động 
-thông qua các Bản tin, chương trình thi đua toàn hệ thống để nâng cao 
-ý thức QLRRHĐ đối với từng đơn vị, cá nhân trong VietinBank. 
-RỦI RO GIAN LẬN, PHÒNG CHỐNG RỬA TIỀN 
+• Tiếp tục triển khai các công cụ QLRRHĐ nội bộ trên phạm vi toàn hàng
+như: môi trường kiểm soát chi nhánh, lỗi KPI tuân thủ, KPI toàn hàng,
+quản lý rủi ro hoạt động tại phòng giao dịch…
+• Chú trọng công tác đào tạo, truyền thông về quản lý rủi ro hoạt động
+thông qua các Bản tin, chương trình thi đua toàn hệ thống để nâng cao
+ý thức QLRRHĐ đối với từng đơn vị, cá nhân trong VietinBank.
+RỦI RO GIAN LẬN, PHÒNG CHỐNG RỬA TIỀN
 VÀ TÀI TRỢ KHỦNG BỐ
 Nhận diện rủi ro:
-Bao gồm rủi ro gian lận nội bộ, rủi ro gian lận bên ngoài và một phần rủi ro tuân thủ. Trong 
-đó, rủi ro gian lận nội bộ là nguy cơ phát sinh từ hành vi lừa đảo, chiếm đoạt tài sản, vi 
-phạm các chiến lược, chính sách và quy định nội bộ liên quan đến ít nhất một cá nhân của 
-VietinBank (bao gồm cả hành vi không đúng chức trách, nhiệm vụ, hành vi vượt thẩm quyền, 
-trộm cắp, lợi dụng thông tin nội bộ để trục lợi); rủi ro gian lận bên ngoài là các hành vi lừa 
-đảo, chiếm đoạt tài sản do đối tượng bên ngoài gây nên mà không có sự trợ giúp, cấu kết 
-của cá nhân, bộ phận của VietinBank (bao gồm cả hành vi trộm cắp, cướp, giả mạo thẻ 
-ngân hàng, chứng từ ngân hàng, xâm nhập hệ thống công nghệ thông tin để chiếm đoạt 
-dữ liệu, tiền); và các rủi ro phát sinh từ các giao dịch đáng ngờ, giao dịch rửa tiền, giao dịch 
-với khách hàng trong danh sách cấm vận, tài trợ khủng bố, không tuân thủ các cam kết với 
-cổ đông chiến lược, đối tác, cam kết quốc tế khác (nếu có). 
+Bao gồm rủi ro gian lận nội bộ, rủi ro gian lận bên ngoài và một phần rủi ro tuân thủ. Trong
+đó, rủi ro gian lận nội bộ là nguy cơ phát sinh từ hành vi lừa đảo, chiếm đoạt tài sản, vi
+phạm các chiến lược, chính sách và quy định nội bộ liên quan đến ít nhất một cá nhân của
+VietinBank (bao gồm cả hành vi không đúng chức trách, nhiệm vụ, hành vi vượt thẩm quyền,
+trộm cắp, lợi dụng thông tin nội bộ để trục lợi); rủi ro gian lận bên ngoài là các hành vi lừa
+đảo, chiếm đoạt tài sản do đối tượng bên ngoài gây nên mà không có sự trợ giúp, cấu kết
+của cá nhân, bộ phận của VietinBank (bao gồm cả hành vi trộm cắp, cướp, giả mạo thẻ
+ngân hàng, chứng từ ngân hàng, xâm nhập hệ thống công nghệ thông tin để chiếm đoạt
+dữ liệu, tiền); và các rủi ro phát sinh từ các giao dịch đáng ngờ, giao dịch rửa tiền, giao dịch
+với khách hàng trong danh sách cấm vận, tài trợ khủng bố, không tuân thủ các cam kết với
+cổ đông chiến lược, đối tác, cam kết quốc tế khác (nếu có).
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Năm 2023 là năm nhiều biến động của nền kinh tế thế giới và trong nước, cùng với sự 
-bùng nổ của khoa học kỹ thuật và công nghệ tiên tiến, đặc biệt là áp dụng chuyển đổi 
-số đối với các sản phầm dịch vụ trong Ngành Ngân hàng. Hệ thống NHTM nói chung 
-và VietinBank nói riêng phải đối phó với ngày càng nhiều thủ đoạn tinh vi của các hình 
-thức tội phạm tài chính khác nhau. Tuy nhiên, bằng sự nỗ lực của cả hệ thống, năm 2023, 
-VietinBank đã hỗ trợ khách hàng đối phó với các thủ đoạn phạm tội, lừa đảo trong giao 
-dịch, đồng thời kiểm soát hoạt động để không phát sinh sự kiện, giao dịch nào vi phạm 
-các chương trình/danh sách cấm vận, phòng chống rửa tiền, tài trợ khủng bố của các 
-tổ chức quốc tế. Trong năm 2023, VietinBank đã đồng bộ thực hiện:  
-	• Triển khai thành công và đi vào sử dụng gói dữ liệu thông tin tuân thủ, tội phạm tài 
-chính của bên thứ ba uy tín nhằm nâng cao năng lực quản trị rủi ro rửa tiền/tài trợ 
+Năm 2023 là năm nhiều biến động của nền kinh tế thế giới và trong nước, cùng với sự
+bùng nổ của khoa học kỹ thuật và công nghệ tiên tiến, đặc biệt là áp dụng chuyển đổi
+số đối với các sản phầm dịch vụ trong Ngành Ngân hàng. Hệ thống NHTM nói chung
+và VietinBank nói riêng phải đối phó với ngày càng nhiều thủ đoạn tinh vi của các hình
+thức tội phạm tài chính khác nhau. Tuy nhiên, bằng sự nỗ lực của cả hệ thống, năm 2023,
+VietinBank đã hỗ trợ khách hàng đối phó với các thủ đoạn phạm tội, lừa đảo trong giao
+dịch, đồng thời kiểm soát hoạt động để không phát sinh sự kiện, giao dịch nào vi phạm
+các chương trình/danh sách cấm vận, phòng chống rửa tiền, tài trợ khủng bố của các
+tổ chức quốc tế. Trong năm 2023, VietinBank đã đồng bộ thực hiện:
+• Triển khai thành công và đi vào sử dụng gói dữ liệu thông tin tuân thủ, tội phạm tài
+chính của bên thứ ba uy tín nhằm nâng cao năng lực quản trị rủi ro rửa tiền/tài trợ
 khủng bố.
-	• Liên tục cải tiến hệ thống công nghệ nhằm nâng cao trải nghiệm khách hàng, tăng 
-cường công tác bảo mật đảm bảo an ninh an toàn hệ thống, an toàn tài sản cho 
-khách hàng trong bối cảnh xu hướng chuyển dịch các kênh giao dịch lên số. 
-	• Xây dựng nhiều giải pháp nhằm xác thực khách hàng, hạn chế các trường hợp khách 
-hàng bị mất tiền do lừa đảo. 
-	• Nâng cao nhận thức khách hàng để tránh bị lừa đảo, tích cực truyền thông thường 
-xuyên tới khách hàng, người lao động thông qua đa dạng hóa các kênh, các hình thức 
-truyền thông nhằm cảnh báo tới khách hàng các thủ đoạn lừa đảo, hướng dẫn khách 
-hàng giao dịch an toàn với ngân hàng, nâng cao cảnh giác để bảo đảm an toàn tài sản 
+• Liên tục cải tiến hệ thống công nghệ nhằm nâng cao trải nghiệm khách hàng, tăng
+cường công tác bảo mật đảm bảo an ninh an toàn hệ thống, an toàn tài sản cho
+khách hàng trong bối cảnh xu hướng chuyển dịch các kênh giao dịch lên số.
+• Xây dựng nhiều giải pháp nhằm xác thực khách hàng, hạn chế các trường hợp khách
+hàng bị mất tiền do lừa đảo.
+• Nâng cao nhận thức khách hàng để tránh bị lừa đảo, tích cực truyền thông thường
+xuyên tới khách hàng, người lao động thông qua đa dạng hóa các kênh, các hình thức
+truyền thông nhằm cảnh báo tới khách hàng các thủ đoạn lừa đảo, hướng dẫn khách
+hàng giao dịch an toàn với ngân hàng, nâng cao cảnh giác để bảo đảm an toàn tài sản
 cho chính mình.
-Kế hoạch trong năm 2024: 
-Năm 2024 được dự báo là một năm có sự gia tăng mạnh mẽ hơn nữa của các sản 
-phẩm chuyển đổi số đa dạng trên các nghiệp vụ ngân hàng do cơ sở pháp lý cho 
-các sản phẩm online đã dần hoàn thiện. Theo đó, những thủ đoạn của tội phạm tài 
-chính sẽ ngày càng tinh vi, khó lường. Trước tình hình đó, VietinBank tập trung xây 
-dựng và triển khai đồng bộ kiểm soát rủi ro bao gồm: 
-	• Đẩy nhanh tiến độ xây dựng hệ thống phòng chống rửa tiền, tài trợ khủng bố và phòng 
-chống gian lận giai đoạn 2 với mục tiêu phấn đấu hoàn thành trong năm 2024 nhằm hỗ 
+Kế hoạch trong năm 2024:
+Năm 2024 được dự báo là một năm có sự gia tăng mạnh mẽ hơn nữa của các sản
+phẩm chuyển đổi số đa dạng trên các nghiệp vụ ngân hàng do cơ sở pháp lý cho
+các sản phẩm online đã dần hoàn thiện. Theo đó, những thủ đoạn của tội phạm tài
+chính sẽ ngày càng tinh vi, khó lường. Trước tình hình đó, VietinBank tập trung xây
+dựng và triển khai đồng bộ kiểm soát rủi ro bao gồm:
+• Đẩy nhanh tiến độ xây dựng hệ thống phòng chống rửa tiền, tài trợ khủng bố và phòng
+chống gian lận giai đoạn 2 với mục tiêu phấn đấu hoàn thành trong năm 2024 nhằm hỗ
 trợ cho công tác giám sát, phát hiện sớm các giao dịch nghi ngờ gian lận, rửa tiền.
-	• Triển khai triệt để các yêu cầu triển khai giải pháp an ninh, an toàn trong giao dịch 
-theo quy định tại Quyết định 2345/QĐ-NHNN ngày 18/12/2023 của NHNN, đảm bảo 
+• Triển khai triệt để các yêu cầu triển khai giải pháp an ninh, an toàn trong giao dịch
+theo quy định tại Quyết định 2345/QĐ-NHNN ngày 18/12/2023 của NHNN, đảm bảo
 an toàn cho tài sản khách hàng ở mức tối đa.
-	• Tiếp tục thực hiện nhiều giải pháp phối hợp với Bộ Công an, các tổ chức tín dụng khác nhằm 
-nâng cao khả năng ứng phó với tình trạng tội phạm lừa đảo, gian lận, rửa tiền, bảo đảm an 
+• Tiếp tục thực hiện nhiều giải pháp phối hợp với Bộ Công an, các tổ chức tín dụng khác nhằm
+nâng cao khả năng ứng phó với tình trạng tội phạm lừa đảo, gian lận, rửa tiền, bảo đảm an
 toàn cho ngân hàng và khách hàng.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-60
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-61
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO THANH KHOẢN
 Nhận diện rủi ro:
-Liên quan đến các rủi ro không có khả năng thực hiện các nghĩa vụ trả nợ 
-khi đến hạn; hoặc có khả năng thực hiện nghĩa vụ trả nợ khi đến hạn nhưng 
-phải trả chi phí cao hơn mức chi phí bình quân của thị trường theo quy định 
-của VietinBank. 
+Liên quan đến các rủi ro không có khả năng thực hiện các nghĩa vụ trả nợ
+khi đến hạn; hoặc có khả năng thực hiện nghĩa vụ trả nợ khi đến hạn nhưng
+phải trả chi phí cao hơn mức chi phí bình quân của thị trường theo quy định
+của VietinBank.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Năm 2023, VietinBank xây dựng chiến lược quản lý rủi ro thanh khoản với 
-các mục tiêu chính là đảm bảo an toàn thanh khoản, quản lý hiệu quả 
-và ổn định nguồn vốn đáp ứng tăng trưởng kinh doanh và nhu cầu thanh 
-toán của khách hàng; duy trì đủ tài sản có tính thanh khoản cao để đáp 
-ứng nhu cầu thanh khoản của ngân hàng trong điều kiện hoạt động bình 
-thường và có diễn biến bất lợi về thanh khoản, thiết lập và kiểm soát các 
-chỉ tiêu khẩu vị rủi ro và hạn mức rủi ro thanh khoản nhằm đảm bảo tuân 
-thủ quy định của pháp luật, cơ quan quản lý và các mục tiêu nội bộ của 
-VietinBank, chiến lược nguồn vốn đảm bảo đa dạng hóa về kênh huy động 
-và cấu trúc kỳ hạn, phù hợp với cơ cấu kỳ hạn sử dụng nguồn. Cụ thể, 
-Ngân hàng đã thực hiện: 
-	• Tăng cường cập nhật đánh giá xu hướng điều chỉnh lãi suất VNĐ và kế 
-hoạch tăng trưởng tín dụng khả thi từng giai đoạn nhằm có chiến lược 
-huy động nguồn phù hợp, kiểm soát chi phí vốn và tối ưu hiệu quả sử 
-dụng vốn. 
-	• Triển khai tích cực, linh hoạt và đồng bộ các giải pháp để tăng quy mô 
-nguồn vốn, phù hợp với nhu cầu kinh doanh và đảm bảo các tỷ lệ an 
-toàn theo quy định. 
-	• Thiết lập, mở rộng giới hạn và quan hệ giao dịch với các TCTD khác để 
-tăng cường kênh huy động và sử dụng nguồn. 
-	• Tiến hành kiểm tra sức chịu đựng về thanh khoản nhằm đánh giá 
-khả năng thực hiện các nghĩa vụ, cam kết và xây dựng kế hoạch dự 
-phòng thanh khoản. Mô hình 3 tuyến bảo vệ được tiếp tục phát huy 
-với Phòng Quản lý cân đối vốn thuộc Khối Tài chính đóng vai trò đầu 
-mối phối hợp với Phòng Kinh doanh vốn và các đơn vị liên quan thuộc 
-tuyến bảo vệ thứ nhất; Phòng Quản lý RRTT đóng vai trò tuyến bảo 
-vệ thứ hai theo dõi giám sát độc lập và Phòng KTNB thực hiện chức 
-năng tuyến bảo vệ thứ ba. 
-	• Nâng cấp bộ nhận diện cảnh báo sớm rủi ro thanh khoản trên cơ sở 
-tham khảo thông lệ Basel và ngân hàng MUFG nhằm tăng cường công 
-tác quản lý rủi ro trong bối cảnh thị trường có nhiều biến động mạnh. 
-Định kỳ hàng tháng/quý, tại cuộc họp Hội đồng/Ủy ban rủi ro, Hội đồng/ 
-Ủy ban ALCO, tình hình cân đối vốn và thanh khoản, tình hình tuân thủ 
-các chỉ số hạn mức rủi ro được rà soát, báo cáo và đề xuất định hướng 
-điều hành cân đối vốn đảm bảo thanh khoản an toàn và tối ưu hiệu quả 
-sử dụng vốn. 
-	• Xây dựng và vận hành hệ thống ALM quản lý tài sản Nợ - Có theo 
-thông lệ quốc tế nhằm tự động các báo cáo cân đối vốn và báo cáo 
-dòng tiền để tính toán trạng thái thanh khoản hàng ngày của Ngân 
-hàng, cung cấp thông tin đa chiều, kịp thời và chính xác phục vụ 
-công tác quản lý rủi ro thanh khoản. Qua đó, rủi ro thanh khoản của 
-Ngân hàng được quản lý chặt chẽ theo từng đồng tiền chính trên cơ 
-sở phân tích nhu cầu thanh khoản, nguồn thanh khoản của từng hoạt 
-động kinh doanh; cơ cấu tài sản/nợ phải trả và dòng tiền của các 
-khoản mục nội bảng và ngoại bảng; khả năng tiếp cận thanh khoản 
-trên thị trường. 
- 
- 
-Kế hoạch trong năm 2024: 
-Dự báo tình hình kinh tế đầu năm 2024 vẫn còn nhiều thách thức, lãi suất 
-VND tiếp tục duy trì mặt bằng thấp trong các tháng đầu năm, tuy nhiên có 
-sự kỳ vọng nền kinh tế và cầu tín dụng sẽ có dấu hiệu khởi sắc trong nửa 
-cuối năm 2024, lãi suất có sự điều chỉnh và thanh khoản có thể thu hẹp 
-hơn. Theo đó, trong năm 2024 VietinBank dự kiến: 
-	• Tiếp tục bám sát diễn biến thị trường để nhận diện sớm các xu hướng 
-điều chỉnh và có các chính sách phù hợp để thúc đẩy tín dụng và 
-tăng trưởng huy động, điều chỉnh cơ cấu kỳ hạn tài sản nguồn vốn 
-phù hợp để khai thác tối ưu điều kiện thị trường đồng thời đảm bảo 
-an toàn thanh khoản. 
-	• Tiếp tục duy trì danh mục Tài sản thanh khoản cao đa dạng và đáp ứng 
-nhu cầu thanh khoản trong các tình huống phát sinh, đẩy mạnh tăng 
+Năm 2023, VietinBank xây dựng chiến lược quản lý rủi ro thanh khoản với
+các mục tiêu chính là đảm bảo an toàn thanh khoản, quản lý hiệu quả
+và ổn định nguồn vốn đáp ứng tăng trưởng kinh doanh và nhu cầu thanh
+toán của khách hàng; duy trì đủ tài sản có tính thanh khoản cao để đáp
+ứng nhu cầu thanh khoản của ngân hàng trong điều kiện hoạt động bình
+thường và có diễn biến bất lợi về thanh khoản, thiết lập và kiểm soát các
+chỉ tiêu khẩu vị rủi ro và hạn mức rủi ro thanh khoản nhằm đảm bảo tuân
+thủ quy định của pháp luật, cơ quan quản lý và các mục tiêu nội bộ của
+VietinBank, chiến lược nguồn vốn đảm bảo đa dạng hóa về kênh huy động
+và cấu trúc kỳ hạn, phù hợp với cơ cấu kỳ hạn sử dụng nguồn. Cụ thể,
+Ngân hàng đã thực hiện:
+• Tăng cường cập nhật đánh giá xu hướng điều chỉnh lãi suất VNĐ và kế
+hoạch tăng trưởng tín dụng khả thi từng giai đoạn nhằm có chiến lược
+huy động nguồn phù hợp, kiểm soát chi phí vốn và tối ưu hiệu quả sử
+dụng vốn.
+• Triển khai tích cực, linh hoạt và đồng bộ các giải pháp để tăng quy mô
+nguồn vốn, phù hợp với nhu cầu kinh doanh và đảm bảo các tỷ lệ an
+toàn theo quy định.
+• Thiết lập, mở rộng giới hạn và quan hệ giao dịch với các TCTD khác để
+tăng cường kênh huy động và sử dụng nguồn.
+• Tiến hành kiểm tra sức chịu đựng về thanh khoản nhằm đánh giá
+khả năng thực hiện các nghĩa vụ, cam kết và xây dựng kế hoạch dự
+phòng thanh khoản. Mô hình 3 tuyến bảo vệ được tiếp tục phát huy
+với Phòng Quản lý cân đối vốn thuộc Khối Tài chính đóng vai trò đầu
+mối phối hợp với Phòng Kinh doanh vốn và các đơn vị liên quan thuộc
+tuyến bảo vệ thứ nhất; Phòng Quản lý RRTT đóng vai trò tuyến bảo
+vệ thứ hai theo dõi giám sát độc lập và Phòng KTNB thực hiện chức
+năng tuyến bảo vệ thứ ba.
+• Nâng cấp bộ nhận diện cảnh báo sớm rủi ro thanh khoản trên cơ sở
+tham khảo thông lệ Basel và ngân hàng MUFG nhằm tăng cường công
+tác quản lý rủi ro trong bối cảnh thị trường có nhiều biến động mạnh.
+Định kỳ hàng tháng/quý, tại cuộc họp Hội đồng/Ủy ban rủi ro, Hội đồng/
+Ủy ban ALCO, tình hình cân đối vốn và thanh khoản, tình hình tuân thủ
+các chỉ số hạn mức rủi ro được rà soát, báo cáo và đề xuất định hướng
+điều hành cân đối vốn đảm bảo thanh khoản an toàn và tối ưu hiệu quả
+sử dụng vốn.
+• Xây dựng và vận hành hệ thống ALM quản lý tài sản Nợ - Có theo
+thông lệ quốc tế nhằm tự động các báo cáo cân đối vốn và báo cáo
+dòng tiền để tính toán trạng thái thanh khoản hàng ngày của Ngân
+hàng, cung cấp thông tin đa chiều, kịp thời và chính xác phục vụ
+công tác quản lý rủi ro thanh khoản. Qua đó, rủi ro thanh khoản của
+Ngân hàng được quản lý chặt chẽ theo từng đồng tiền chính trên cơ
+sở phân tích nhu cầu thanh khoản, nguồn thanh khoản của từng hoạt
+động kinh doanh; cơ cấu tài sản/nợ phải trả và dòng tiền của các
+khoản mục nội bảng và ngoại bảng; khả năng tiếp cận thanh khoản
+trên thị trường.
+Kế hoạch trong năm 2024:
+Dự báo tình hình kinh tế đầu năm 2024 vẫn còn nhiều thách thức, lãi suất
+VND tiếp tục duy trì mặt bằng thấp trong các tháng đầu năm, tuy nhiên có
+sự kỳ vọng nền kinh tế và cầu tín dụng sẽ có dấu hiệu khởi sắc trong nửa
+cuối năm 2024, lãi suất có sự điều chỉnh và thanh khoản có thể thu hẹp
+hơn. Theo đó, trong năm 2024 VietinBank dự kiến:
+• Tiếp tục bám sát diễn biến thị trường để nhận diện sớm các xu hướng
+điều chỉnh và có các chính sách phù hợp để thúc đẩy tín dụng và
+tăng trưởng huy động, điều chỉnh cơ cấu kỳ hạn tài sản nguồn vốn
+phù hợp để khai thác tối ưu điều kiện thị trường đồng thời đảm bảo
+an toàn thanh khoản.
+• Tiếp tục duy trì danh mục Tài sản thanh khoản cao đa dạng và đáp ứng
+nhu cầu thanh khoản trong các tình huống phát sinh, đẩy mạnh tăng
 trưởng CASA và đa dạng hóa cơ cấu nguồn vốn.
-	• Liên lục cập nhật, đổi mới bộ các chỉ tiêu QLRR thanh khoản theo kịp 
-những thay đổi về thực tiễn thị trường Việt Nam và hoạt động kinh doanh 
+• Liên lục cập nhật, đổi mới bộ các chỉ tiêu QLRR thanh khoản theo kịp
+những thay đổi về thực tiễn thị trường Việt Nam và hoạt động kinh doanh
 của ngân hàng, hướng theo thông lệ tiên tiến.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-62
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO LÃI SUẤT TRÊN SỔ NGÂN HÀNG
 Nhận diện rủi ro:
-Là rủi ro do biến động bất lợi của lãi suất đối với thu nhập, giá trị tài sản, 
-giá trị nợ phải trả và giá trị cam kết ngoại bảng của VietinBank phát 
-sinh do: (i) Chênh lệch thời điểm ấn định mức lãi suất mới hoặc kỳ xác 
-định lại lãi suất; (ii) Thay đổi mối quan hệ giữa các mức lãi suất của các 
-công cụ tài chính khác nhau nhưng có cùng thời điểm đáo hạn; (iii) Thay 
-đổi mối quan hệ giữa các mức lãi suất ở các kỳ hạn khác nhau; (iv) Tác 
-động từ các sản phẩm quyền chọn lãi suất, các sản phẩm có yếu tố 
+Là rủi ro do biến động bất lợi của lãi suất đối với thu nhập, giá trị tài sản,
+giá trị nợ phải trả và giá trị cam kết ngoại bảng của VietinBank phát
+sinh do: (i) Chênh lệch thời điểm ấn định mức lãi suất mới hoặc kỳ xác
+định lại lãi suất; (ii) Thay đổi mối quan hệ giữa các mức lãi suất của các
+công cụ tài chính khác nhau nhưng có cùng thời điểm đáo hạn; (iii) Thay
+đổi mối quan hệ giữa các mức lãi suất ở các kỳ hạn khác nhau; (iv) Tác
+động từ các sản phẩm quyền chọn lãi suất, các sản phẩm có yếu tố
 quyền chọn lãi suất.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Đối với rủi ro lãi suất trên Sổ ngân hàng, phát sinh do biến động bất lợi của 
-lãi suất đối với thu nhập, giá trị tài sản, giá trị nợ phải trả và giá trị cam 
-kết ngoại bảng của Ngân hàng, VietinBank tiếp tục áp dụng chính sách 
-quản lý tập trung tại TSC với cơ cấu tổ chức được thiết lập theo mô hình 3 
-tuyến bảo vệ tương tự với công tác Quản lý rủi ro thanh khoản. Trên cơ sở 
-tình hình thực tế, kế hoạch kinh doanh giai đoạn tiếp theo, dự báo đánh 
-giá tình hình biến động lãi suất thị trường, VietinBank đã triển khai đồng bộ 
-các biện pháp như sau: 
-	• Thiết lập hạn mức và theo dõi giám sát định kỳ các chỉ số Trạng thái 
-chênh lệch kỳ định lại lãi suất (Repricing GAP), chỉ số đo lường tác động 
-của thay đổi lãi suất tới Thu nhập lãi thuần (Delta NII) và chỉ số đo lường 
-tác động của thay đổi lãi suất tới Giá trị kinh tế của Vốn chủ sở hữu 
+Đối với rủi ro lãi suất trên Sổ ngân hàng, phát sinh do biến động bất lợi của
+lãi suất đối với thu nhập, giá trị tài sản, giá trị nợ phải trả và giá trị cam
+kết ngoại bảng của Ngân hàng, VietinBank tiếp tục áp dụng chính sách
+quản lý tập trung tại TSC với cơ cấu tổ chức được thiết lập theo mô hình 3
+tuyến bảo vệ tương tự với công tác Quản lý rủi ro thanh khoản. Trên cơ sở
+tình hình thực tế, kế hoạch kinh doanh giai đoạn tiếp theo, dự báo đánh
+giá tình hình biến động lãi suất thị trường, VietinBank đã triển khai đồng bộ
+các biện pháp như sau:
+• Thiết lập hạn mức và theo dõi giám sát định kỳ các chỉ số Trạng thái
+chênh lệch kỳ định lại lãi suất (Repricing GAP), chỉ số đo lường tác động
+của thay đổi lãi suất tới Thu nhập lãi thuần (Delta NII) và chỉ số đo lường
+tác động của thay đổi lãi suất tới Giá trị kinh tế của Vốn chủ sở hữu
 (Delta EVE) nhằm kiểm soát Rủi ro lãi suất trên Sổ Ngân hàng.
-	• Điều chỉnh nhanh chóng về chính sách lãi suất và kỳ hạn định giá lại 
-của tài sản nguồn vốn trong bối cảnh chính sách tiền tệ trong nước 
-và quốc tế có nhiều thay đổi, nhằm khai thác tối ưu xu hướng lãi suất 
-thị trường. 
-	• Đánh giá, cập nhật thường xuyên các kịch bản phân tích xu hướng lãi 
-suất và khả năng tác động đến NII, EVE, đánh giá lợi ích và hạn chế 
-của các phương án huy động nguồn trong từng kịch bản… nhằm tìm ra 
-phương án tối ưu nhất trong từng giai đoạn, gia tăng hiệu quả đồng thời 
+• Điều chỉnh nhanh chóng về chính sách lãi suất và kỳ hạn định giá lại
+của tài sản nguồn vốn trong bối cảnh chính sách tiền tệ trong nước
+và quốc tế có nhiều thay đổi, nhằm khai thác tối ưu xu hướng lãi suất
+thị trường.
+• Đánh giá, cập nhật thường xuyên các kịch bản phân tích xu hướng lãi
+suất và khả năng tác động đến NII, EVE, đánh giá lợi ích và hạn chế
+của các phương án huy động nguồn trong từng kịch bản… nhằm tìm ra
+phương án tối ưu nhất trong từng giai đoạn, gia tăng hiệu quả đồng thời
 kiểm soát mức độ rủi ro phát sinh.
-	• Sử dụng linh hoạt đồng bộ chính sách mua bán vốn, các biện pháp tài 
-chính, công cụ phòng ngừa rủi ro lãi suất để thúc đẩy tăng trưởng tài 
-sản nguồn vốn theo định hướng và phòng ngừa rủi ro phát sinh trong 
+• Sử dụng linh hoạt đồng bộ chính sách mua bán vốn, các biện pháp tài
+chính, công cụ phòng ngừa rủi ro lãi suất để thúc đẩy tăng trưởng tài
+sản nguồn vốn theo định hướng và phòng ngừa rủi ro phát sinh trong
 điều kiện thị trường liên tục thay đổi.
-	• Duy trì vận hành tốt Hệ thống phần mềm Quản lý Tài sản Nợ - Có 
-(ALM) và hệ thống điều chuyển vốn nội bộ FTP cho phép VietinBank 
-quản lý tập trung trạng thái rủi ro lãi suất tại trụ sở chính, cung cấp 
-tự động các báo cáo chênh lệch kỳ hạn định giá lại, báo cáo phân 
-tích kịch bản tăng/giảm lãi suất… nhằm kiểm soát chênh lệch kỳ hạn 
-định giá lại, kiểm soát mức độ tác động của thay đổi lãi suất tới thu 
-nhập lãi thuần và giá trị kinh tế VCSH của VietinBank trong phạm vi 
+• Duy trì vận hành tốt Hệ thống phần mềm Quản lý Tài sản Nợ - Có
+(ALM) và hệ thống điều chuyển vốn nội bộ FTP cho phép VietinBank
+quản lý tập trung trạng thái rủi ro lãi suất tại trụ sở chính, cung cấp
+tự động các báo cáo chênh lệch kỳ hạn định giá lại, báo cáo phân
+tích kịch bản tăng/giảm lãi suất… nhằm kiểm soát chênh lệch kỳ hạn
+định giá lại, kiểm soát mức độ tác động của thay đổi lãi suất tới thu
+nhập lãi thuần và giá trị kinh tế VCSH của VietinBank trong phạm vi
 cho phép.
-	• Phân tích diễn biến lãi suất thị trường, các kịch bản và đo lường lợi ích/
-hạn chế của phương án điều hành lãi suất và huy động, cho vay cũng 
-như mức độ rủi ro lãi suất có thể phát sinh để báo cáo Ban Lãnh đạo 
-tại các cuộc họp Ủy ban rủi ro/Hội đồng rủi ro, Ủy ban ALCO/ HĐ ALCO 
-nhằm kịp thời điều chỉnh chiến lược đầu tư, cho vay và huy động vốn phù 
-hợp với xu hướng biến động lãi suất thị trường, đảm bảo thực hiện mục 
+• Phân tích diễn biến lãi suất thị trường, các kịch bản và đo lường lợi ích/
+hạn chế của phương án điều hành lãi suất và huy động, cho vay cũng
+như mức độ rủi ro lãi suất có thể phát sinh để báo cáo Ban Lãnh đạo
+tại các cuộc họp Ủy ban rủi ro/Hội đồng rủi ro, Ủy ban ALCO/ HĐ ALCO
+nhằm kịp thời điều chỉnh chiến lược đầu tư, cho vay và huy động vốn phù
+hợp với xu hướng biến động lãi suất thị trường, đảm bảo thực hiện mục
 tiêu lợi nhuận và ổn định giá trị kinh tế VCSH của Ngân hàng.
- 
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-Kế hoạch trong năm 2024: 
-Trong năm 2024, căng thẳng địa chính trị (Đông Âu, Trung Đông, Mỹ - 
-Trung) dự kiến sẽ ảnh hưởng tiêu cực đến triển vọng nền kinh tế toàn cầu 
-và kinh tế Mỹ nói riêng. Các yếu tố khó khăn đối với nền kinh tế Mỹ có  khả 
-năng xảy ra mạnh hơn dự kiến, làm cho Fed cắt giảm lãi suất ở mức cao 
-hơn kỳ vọng hiện nay trên thị trường có thể ảnh hưởng đến thu nhập lãi 
-của danh mục cho vay và đầu tư USD. Trong nước, lãi suất VND dự báo 
-tiếp tục duy trì ở vùng thấp sau đó có thể điều chỉnh khi kinh tế và cầu tín 
-dụng khởi sắc hơn. Do đó, trong năm 2024, VietinBank dự kiến triển khai 
-đồng bộ nhiều giải pháp: 
-	• Theo dõi sát động thái của Ngân hàng Trung ương các nước đặc biệt là 
+Kế hoạch trong năm 2024:
+Trong năm 2024, căng thẳng địa chính trị (Đông Âu, Trung Đông, Mỹ -
+Trung) dự kiến sẽ ảnh hưởng tiêu cực đến triển vọng nền kinh tế toàn cầu
+và kinh tế Mỹ nói riêng. Các yếu tố khó khăn đối với nền kinh tế Mỹ có  khả
+năng xảy ra mạnh hơn dự kiến, làm cho Fed cắt giảm lãi suất ở mức cao
+hơn kỳ vọng hiện nay trên thị trường có thể ảnh hưởng đến thu nhập lãi
+của danh mục cho vay và đầu tư USD. Trong nước, lãi suất VND dự báo
+tiếp tục duy trì ở vùng thấp sau đó có thể điều chỉnh khi kinh tế và cầu tín
+dụng khởi sắc hơn. Do đó, trong năm 2024, VietinBank dự kiến triển khai
+đồng bộ nhiều giải pháp:
+• Theo dõi sát động thái của Ngân hàng Trung ương các nước đặc biệt là
 tại Mỹ, cũng như tình hình thị trường trong nước và lãi suất VND.
-	• Chủ động đánh giá các kịch bản khả thi và xác định triển khai phương 
+• Chủ động đánh giá các kịch bản khả thi và xác định triển khai phương
 án kinh doanh tối ưu trong từng giai đoạn.
-	• Tiếp tục đổi mới, xây dựng bộ nhận diện cảnh báo sớm rủi ro lãi suất 
-sổ Ngân hàng phù hợp thực tiễn thị trường, chuẩn mực quốc tế và định 
+• Tiếp tục đổi mới, xây dựng bộ nhận diện cảnh báo sớm rủi ro lãi suất
+sổ Ngân hàng phù hợp thực tiễn thị trường, chuẩn mực quốc tế và định
 hướng hoạt động kinh doanh của ngân hàng.
-63
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-64
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-65
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO CNTT
 Nhận diện rủi ro
-Là khả năng xảy ra tổn thất trực tiếp hoặc gián tiếp do các điểm yếu của 
-tài sản hay một nhóm tài sản bị khai thác bởi các mối đe dọa chẳng hạn 
-lỗ hổng bảo mật bị khai thác bởi các đối tượng hacker. Rủi ro CNTT gồm 
-4 loại rủi ro: rủi ro ATTT, rủi ro gián đoạn hoạt động, rủi ro hệ thống CNTT 
-không đáp ứng yêu cầu kinh doanh về mặt tính năng và hiệu năng hệ 
-thống và rủi ro tuân thủ. 
+Là khả năng xảy ra tổn thất trực tiếp hoặc gián tiếp do các điểm yếu của
+tài sản hay một nhóm tài sản bị khai thác bởi các mối đe dọa chẳng hạn
+lỗ hổng bảo mật bị khai thác bởi các đối tượng hacker. Rủi ro CNTT gồm
+4 loại rủi ro: rủi ro ATTT, rủi ro gián đoạn hoạt động, rủi ro hệ thống CNTT
+không đáp ứng yêu cầu kinh doanh về mặt tính năng và hiệu năng hệ
+thống và rủi ro tuân thủ.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Hệ thống thông tin của VietinBank thuộc quy mô lớn, triển khai nhiều sản 
-phẩm dịch vụ mới, có hàm lượng công nghệ cao, kết nối với hệ thống 
-thông tin của nhiều đối tác, trên nhiều nền tảng công nghệ. Chương trình 
-chuyển đổi số của VietinBank trong năm 2023 được triển khai mạnh mẽ với 
-nhiều sản phẩm dịch vụ mới, cập nhật hệ thống thông tin thường xuyên 
-hơn, kết nối với nhiều hệ thống đối tác hơn, đa dạng hóa các kênh giao 
-dịch, tăng trải nghiệm cho khách hàng. Do đó, công tác đảm bảo an toàn 
-bảo mật giao dịch, dữ liệu của ngân hàng, khách hàng luôn được coi là 
-then chốt nhằm đem lại sự tin cậy cho khách hàng. VietinBank luôn chủ 
-động, thường xuyên đánh giá rủi ro an ninh, an toàn trên toàn hệ thống, 
+Hệ thống thông tin của VietinBank thuộc quy mô lớn, triển khai nhiều sản
+phẩm dịch vụ mới, có hàm lượng công nghệ cao, kết nối với hệ thống
+thông tin của nhiều đối tác, trên nhiều nền tảng công nghệ. Chương trình
+chuyển đổi số của VietinBank trong năm 2023 được triển khai mạnh mẽ với
+nhiều sản phẩm dịch vụ mới, cập nhật hệ thống thông tin thường xuyên
+hơn, kết nối với nhiều hệ thống đối tác hơn, đa dạng hóa các kênh giao
+dịch, tăng trải nghiệm cho khách hàng. Do đó, công tác đảm bảo an toàn
+bảo mật giao dịch, dữ liệu của ngân hàng, khách hàng luôn được coi là
+then chốt nhằm đem lại sự tin cậy cho khách hàng. VietinBank luôn chủ
+động, thường xuyên đánh giá rủi ro an ninh, an toàn trên toàn hệ thống,
 đồng thời triển khai nhiều biện pháp kiểm soát rủi ro như:
-	• Xây dựng và chuẩn hóa hệ thống giám sát các sự kiện bảo mật (SIEM), 
-ký hợp đồng triển khai Trung tâm Giám sát ATTT (SOC) trong hệ thống 
-thông tin của VietinBank để giám sát tập trung các hệ thống bảo mật, 
+• Xây dựng và chuẩn hóa hệ thống giám sát các sự kiện bảo mật (SIEM),
+ký hợp đồng triển khai Trung tâm Giám sát ATTT (SOC) trong hệ thống
+thông tin của VietinBank để giám sát tập trung các hệ thống bảo mật,
 phát hiện sớm các nguy cơ và có hành động xử lý kịp thời;
-	• Triển khai nâng cấp, mở rộng các hệ thống bảo mật như phòng 
-chống tấn công (IPS), tường lửa (Firewall, WAF), quản lý tài khoản đặc 
+• Triển khai nâng cấp, mở rộng các hệ thống bảo mật như phòng
+chống tấn công (IPS), tường lửa (Firewall, WAF), quản lý tài khoản đặc
 quyền (PAM)…;
-	• Thực hiện đánh giá, nhận diện rủi ro bảo mật thông tin, vận hành 
-khai thác đối với các sản phẩm dịch vụ trước khi triển khai cung cấp 
-cho khách hàng để có biện pháp kiểm soát phù hợp, đặc biệt là tất 
-cả các hệ thống, dịch vụ ngân hàng điện tử cũng như các hệ thống 
+• Thực hiện đánh giá, nhận diện rủi ro bảo mật thông tin, vận hành
+khai thác đối với các sản phẩm dịch vụ trước khi triển khai cung cấp
+cho khách hàng để có biện pháp kiểm soát phù hợp, đặc biệt là tất
+cả các hệ thống, dịch vụ ngân hàng điện tử cũng như các hệ thống
 trọng yếu khác;
-	• Triển khai các giải pháp bảo đảm sẵn sàng của các hệ thống thông tin, 
-đồng thời diễn tập chuyển hệ thống thông tin sang trung tâm dữ liệu 
-dự phòng thảm họa để đảm bảo hệ thống sẵn sàng hoạt động khi xảy 
+• Triển khai các giải pháp bảo đảm sẵn sàng của các hệ thống thông tin,
+đồng thời diễn tập chuyển hệ thống thông tin sang trung tâm dữ liệu
+dự phòng thảm họa để đảm bảo hệ thống sẵn sàng hoạt động khi xảy
 ra thảm họa tại trung tâm dữ liệu chính;
-	• Triển khai, áp dụng tiêu chuẩn bảo mật của tổ chức SWIFT theo Chương 
-trình An ninh Khách hàng (CSP) cho hệ thống thanh toán SWIFT, triển 
-khai và đánh giá nhận chứng chỉ bảo mật quốc tế ISO27001:2013 cho hệ 
-thống ngân hàng điện tử, triển khai áp dụng Tiêu chuẩn Bảo mật Dữ liệu 
+• Triển khai, áp dụng tiêu chuẩn bảo mật của tổ chức SWIFT theo Chương
+trình An ninh Khách hàng (CSP) cho hệ thống thanh toán SWIFT, triển
+khai và đánh giá nhận chứng chỉ bảo mật quốc tế ISO27001:2013 cho hệ
+thống ngân hàng điện tử, triển khai áp dụng Tiêu chuẩn Bảo mật Dữ liệu
 Thẻ Thanh toán (PCI-DSS) cho hệ thống thẻ;
-	• Nghiên cứu, triển khai, áp dụng giải pháp xác thực sinh trắc học trong 
-các giao dịch tại quầy và thiết bị di động; thực hiện bảo mật ở mức 
-cao nhất đối với các dữ liệu sinh trắc học của khách hàng, tuân thủ 
+• Nghiên cứu, triển khai, áp dụng giải pháp xác thực sinh trắc học trong
+các giao dịch tại quầy và thiết bị di động; thực hiện bảo mật ở mức
+cao nhất đối với các dữ liệu sinh trắc học của khách hàng, tuân thủ
 các quy định của Chính phủ, NHNN về quản lý dữ liệu sinh trắc học;
-	• Tuyên truyền, đào tạo nâng cao nhận thức ATTT cho CBNV VietinBank;
-	• Thường xuyên cảnh báo khách hàng về những rủi ro bảo mật thông 
-tin trong các dịch vụ của ngân hàng qua tổng đài, SMS, OTT, website, 
+• Tuyên truyền, đào tạo nâng cao nhận thức ATTT cho CBNV VietinBank;
+• Thường xuyên cảnh báo khách hàng về những rủi ro bảo mật thông
+tin trong các dịch vụ của ngân hàng qua tổng đài, SMS, OTT, website,
 fanpage;
-	• Xây dựng và triển khai diễn tập các kịch bản phòng chống tấn công 
+• Xây dựng và triển khai diễn tập các kịch bản phòng chống tấn công
 chủ động.
- 
-Kế hoạch trong năm 2024: 
-Năm 2024, ngoài những định hướng đã và đang thực hiện trên, VietinBank 
+Kế hoạch trong năm 2024:
+Năm 2024, ngoài những định hướng đã và đang thực hiện trên, VietinBank
 sẽ tập trung triển khai thêm các nội dung khác như:
-	• Vận hành chính thức SOC nhằm giám sát 24/24 và xử lý kịp thời các 
-sự kiện bảo mật, dấu hiệu mất ATTT, bất thường xảy ra trên hệ thống 
+• Vận hành chính thức SOC nhằm giám sát 24/24 và xử lý kịp thời các
+sự kiện bảo mật, dấu hiệu mất ATTT, bất thường xảy ra trên hệ thống
 thông tin;
-	• Triển khai kiện toàn và nâng cấp các hệ thống hạ tầng và bảo mật nhằm 
+• Triển khai kiện toàn và nâng cấp các hệ thống hạ tầng và bảo mật nhằm
 bảo đảm hiệu năng và tính sẵn sàng của các hệ thống thông tin;
-	• Triển khai nhiều giải pháp tăng cường mật hệ thống như cứng hóa 
-(hardening) máy chủ các hệ thống thông tin, áp dụng các tiêu chuẩn 
+• Triển khai nhiều giải pháp tăng cường mật hệ thống như cứng hóa
+(hardening) máy chủ các hệ thống thông tin, áp dụng các tiêu chuẩn
 bảo mật, kiểm soát chặt chẽ các gói phần mềm mới khi triển khai.
-PHẦN 1 
 GIỚI THIỆU VIETINBANK
 
-66
 “35 NĂM KIẾN TẠO NỀN TẢNG”
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-67
 5 - CÔNG TÁC QUẢN LÝ RỦI RO
 RỦI RO MÔI TRƯỜNG
 Nhận diện rủi ro:
-Là rủi ro phát sinh từ biến đổi khí hậu, thảm họa thiên nhiên và các yếu 
-tố môi trường khác có thể ảnh hưởng trực tiếp đến Ngân hàng hoặc 
-đến khách hàng. Rủi ro môi trường bao gồm rủi ro bắt nguồn từ những 
-thiệt hại về tài sản, cơ sở hạ tầng và đất đai và rủi ro phát sinh từ những 
-thay đổi trong chính sách về khí hậu, công nghệ, tâm lý thị trường và 
-người tiêu dùng trong quá trình chuyển đổi sang nền kinh tế carbon 
-thấp nhằm đạt được các mục tiêu phát triển kinh tế, xã hội và giảm 
-phát thải khí nhà kính cũng như nâng cao khả năng tương thích với các 
+Là rủi ro phát sinh từ biến đổi khí hậu, thảm họa thiên nhiên và các yếu
+tố môi trường khác có thể ảnh hưởng trực tiếp đến Ngân hàng hoặc
+đến khách hàng. Rủi ro môi trường bao gồm rủi ro bắt nguồn từ những
+thiệt hại về tài sản, cơ sở hạ tầng và đất đai và rủi ro phát sinh từ những
+thay đổi trong chính sách về khí hậu, công nghệ, tâm lý thị trường và
+người tiêu dùng trong quá trình chuyển đổi sang nền kinh tế carbon
+thấp nhằm đạt được các mục tiêu phát triển kinh tế, xã hội và giảm
+phát thải khí nhà kính cũng như nâng cao khả năng tương thích với các
 tác động của biến đổi khí hậu.
 Các biện pháp kiểm soát rủi ro trong năm 2023:
-Nhận thức được ảnh hưởng sâu sắc của biến đổi khí hậu đối với kinh tế 
-toàn cầu và cuộc sống con người, VietinBank đã và đang xây dựng, triển 
-khai công tác QLRR môi trường để hạn chế tối đa tác động của biến đổi 
+Nhận thức được ảnh hưởng sâu sắc của biến đổi khí hậu đối với kinh tế
+toàn cầu và cuộc sống con người, VietinBank đã và đang xây dựng, triển
+khai công tác QLRR môi trường để hạn chế tối đa tác động của biến đổi
 khí hậu đối với hoạt động của Ngân hàng. Cụ thể:
-	• Tăng cường công tác quản lý rủi ro môi trường trong hoạt động cấp 
-tín dụng: VietinBank đã ban hành Quy định quản lý rủi ro môi trường 
-trong hoạt động cấp tín dụng để đảm bảo phù hợp với các quy định 
-của pháp luật về cấp tín dụng và QLRR tín dụng trong hoạt động 
-ngân hàng. Ngân hàng thực hiện chặt chẽ, xuyên suốt công tác QLRR 
-về môi trường khi thực hiện cấp tín dụng nhằm nhận diện sớm rủi 
-ro phát sinh, từ đó có biện pháp ứng xử tín dụng kịp thời, phù hợp 
-nhằm hạn chế rủi ro và giảm thiểu tổn thất cho VietinBank. Đặc biệt, 
-trong năm 2023, VietinBank đã xây dựng Quy định khung cung cấp 
-tài chính bền vững nhằm xác định nguyên tắc triển khai các hoạt 
-động cung cấp tài chính bền vững trong hệ thống VietinBank.  
-	• Định kỳ thực hiện Báo cáo về hiệu quả công tác quản lý môi trường 
-tới các bên liên quan: VietinBank thực hiện báo cáo định kỳ hàng 
-quý NHNN về danh mục tín dụng xanh và tình hình thực hiện đề án 
-phát triển “Ngân hàng xanh”. Ngoài ra, Ngân hàng cũng cung cấp 
-thông tin cho các bên đối tác các chính sách cập nhật liên quan đến 
-quản lý môi trường – xã hội tại VietinBank và thực hiện báo cáo đến 
-cơ quan quản lý, NĐT, cộng đồng về hoạt động kinh doanh đến môi 
-trường, xã hội trong BCTN hàng năm.  
-	• Thúc đẩy hoạt động Ngân hàng số hướng đến mục tiêu phát triển xanh: 
-VietinBank đẩy mạnh ứng dụng công nghệ hiện đại, phát triển các SPDV 
-trên kênh số nhằm hướng tới mục tiêu xanh hóa hoạt động hệ thống 
-ngân hàng. Đặc biệt, trong năm 2023, Ngân hàng đã xây dựng và triển 
-khai Chương trình Chuyển đổi số giai đoạn 2024 - 2028. Hành trình 
-chuyển đổi số của VietinBank được kỳ vọng sẽ đóng góp to lớn vào mục 
+• Tăng cường công tác quản lý rủi ro môi trường trong hoạt động cấp
+tín dụng: VietinBank đã ban hành Quy định quản lý rủi ro môi trường
+trong hoạt động cấp tín dụng để đảm bảo phù hợp với các quy định
+của pháp luật về cấp tín dụng và QLRR tín dụng trong hoạt động
+ngân hàng. Ngân hàng thực hiện chặt chẽ, xuyên suốt công tác QLRR
+về môi trường khi thực hiện cấp tín dụng nhằm nhận diện sớm rủi
+ro phát sinh, từ đó có biện pháp ứng xử tín dụng kịp thời, phù hợp
+nhằm hạn chế rủi ro và giảm thiểu tổn thất cho VietinBank. Đặc biệt,
+trong năm 2023, VietinBank đã xây dựng Quy định khung cung cấp
+tài chính bền vững nhằm xác định nguyên tắc triển khai các hoạt
+động cung cấp tài chính bền vững trong hệ thống VietinBank.
+• Định kỳ thực hiện Báo cáo về hiệu quả công tác quản lý môi trường
+tới các bên liên quan: VietinBank thực hiện báo cáo định kỳ hàng
+quý NHNN về danh mục tín dụng xanh và tình hình thực hiện đề án
+phát triển “Ngân hàng xanh”. Ngoài ra, Ngân hàng cũng cung cấp
+thông tin cho các bên đối tác các chính sách cập nhật liên quan đến
+quản lý môi trường – xã hội tại VietinBank và thực hiện báo cáo đến
+cơ quan quản lý, NĐT, cộng đồng về hoạt động kinh doanh đến môi
+trường, xã hội trong BCTN hàng năm.
+• Thúc đẩy hoạt động Ngân hàng số hướng đến mục tiêu phát triển xanh:
+VietinBank đẩy mạnh ứng dụng công nghệ hiện đại, phát triển các SPDV
+trên kênh số nhằm hướng tới mục tiêu xanh hóa hoạt động hệ thống
+ngân hàng. Đặc biệt, trong năm 2023, Ngân hàng đã xây dựng và triển
+khai Chương trình Chuyển đổi số giai đoạn 2024 - 2028. Hành trình
+chuyển đổi số của VietinBank được kỳ vọng sẽ đóng góp to lớn vào mục
 tiêu giảm phát thải từ chính hoạt động vận hành của VietinBank.
-	• Tuân thủ các văn bản pháp luật hiện hành về bảo vệ môi trường: Ngân 
-hàng nghiêm túc tuân thủ các quy định của pháp luật liên quan đến 
+• Tuân thủ các văn bản pháp luật hiện hành về bảo vệ môi trường: Ngân
+hàng nghiêm túc tuân thủ các quy định của pháp luật liên quan đến
 bảo vệ môi trường như Luật bảo vệ môi trường, Nghị định số 08/2022/
-NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi 
-trường, Thông tư số 02/2022/TT-BTNMT quy định chi tiết thi hành một 
-số điều của Luật Bảo vệ môi trường. Định kỳ hằng năm, VietinBank ký 
-kết các hợp đồng dịch vụ với các đơn vị chuyên môn để thực hiện quan 
-trắc nước thải và quan trắc môi trường lao động định kỳ, ký hợp đồng 
-thu gom, vận chuyển và xử lý rác thải tại các tòa trụ sở theo quy định 
-của pháp luật. Đồng thời, VietinBank cũng ban hành và phổ biến trên 
-toàn hệ thống Hướng dẫn thực hiện các Quy định về công tác An toàn, 
-vệ sinh lao động.  
-•	Đẩy mạnh thực hành tiết kiệm, chống lãng phí: VietinBank đã xây dựng 
-bộ KPI đo lường để giao tới các đơn vị về kiểm soát chi phí hoạt động 
-nhằm sử dụng tiết kiệm, hiệu quả nguồn lực tài chính; đặc biệt đối với 
-phòng Quản trị &Dịch vụ Tài sản có chỉ tiêu “Số lượng lỗi ghi nhận trong 
-công tác y tế, vệ sinh an toàn lao động, an ninh trật tự các tòa nhà TSC, 
-quản lý vận hành tòa nhà TSC” và của các Chi nhánh có chỉ tiêu về các 
-chi phí về điện, nước, mực in, xăng dầu… Ngoài ra, Ngân hàng cũng đã 
-ban hành các văn bản liên quan tiết kiệm chống lãng phí trong toàn 
-hệ thống nhằm tiết giảm chi phí hoạt động trên cơ sở gắn với mục tiêu 
-hoạt động của Ngân hàng cũng như đặc điểm và điều kiện thị trường. 
-Ngân hàng thực hiện công tác truyền thông tới từng đơn vị, từng CBNV 
-để tiết giảm lượng điện năng tiêu thụ, lượng nước sạch sử dụng nhằm 
-tiết kiệm năng lượng, bảo vệ môi trường. Đặc biệt, trong năm 2023, 
-HĐQT VietinBank đã ban hành nghị quyết về việc triển khai thí điểm hệ 
-thống điện năng lượng mặt trời áp mái cho một số đơn vị, CN trên toàn 
-hệ thống, qua đó đã góp phần vào việc bảo tồn nguồn năng lượng sơ 
-cấp của quốc gia, giảm phát thải khí nhà kính, bảo vệ môi trường và 
-ứng phó với hiện tượng biến đổi khí hậu toàn cầu. 
-Kế hoạch trong năm 2024: 
-Hướng đến mục tiêu tăng trưởng “xanh” và bền vững, năm 2024, VietinBank 
-tiếp tục triển khai đồng bộ nhiều giải pháp linh hoạt để giảm thiểu rủi ro 
-môi trường. Cụ thể là: 
-	• Tiếp tục hoàn thiện cơ chế, chính sách phù hợp để: (i) Rà soát/ cập nhật 
-các quy định về quản lý môi trường trong hoạt động cấp tín dụng cho 
-phù hợp với mô hình kinh doanh của  VietinBank và tuân thủ quy định 
-pháp luật; (ii) Xây dựng và triển khai định hướng tín dụng hàng năm tới 
-các CN và PGD, trong đó có nội dung về quản lý môi trường; (iii) Thực 
-hiện nghiêm túc các hướng dẫn thẩm định môi trường – xã hội trong 
-hoạt động cấp tín dụng. 
-	• Tăng cường năng lực cho CBNV trong việc thực hiện đề án phát triển 
-“Ngân hàng xanh”, tổ chức đào tạo, tuyên truyền, phổ biến nhằm nâng 
-cao nhận thức về hoạt động Ngân hàng xanh – Tín dụng xanh, nâng 
-cao ý thức sử dụng hiệu quả, tiết kiệm năng lượng, các nguồn tài nguyên 
-thiên nhiên và bảo vệ môi trường. 
-	• Tăng cường hợp tác với các tổ chức quốc tế và đồng hành cùng các 
-cơ quan Chính phủ để triển khai các hoạt động PTBV; tích cực tìm 
-kiếm khách hàng phù hợp và phát triển các sản phẩm tài chính bền 
-vững đa dạng. 
-	• Thúc đẩy mạnh mẽ Chương trình Chuyển đổi số nhằm giảm thiểu biến 
+NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi
+trường, Thông tư số 02/2022/TT-BTNMT quy định chi tiết thi hành một
+số điều của Luật Bảo vệ môi trường. Định kỳ hằng năm, VietinBank ký
+kết các hợp đồng dịch vụ với các đơn vị chuyên môn để thực hiện quan
+trắc nước thải và quan trắc môi trường lao động định kỳ, ký hợp đồng
+thu gom, vận chuyển và xử lý rác thải tại các tòa trụ sở theo quy định
+của pháp luật. Đồng thời, VietinBank cũng ban hành và phổ biến trên
+toàn hệ thống Hướng dẫn thực hiện các Quy định về công tác An toàn,
+vệ sinh lao động.
+•	Đẩy mạnh thực hành tiết kiệm, chống lãng phí: VietinBank đã xây dựng
+bộ KPI đo lường để giao tới các đơn vị về kiểm soát chi phí hoạt động
+nhằm sử dụng tiết kiệm, hiệu quả nguồn lực tài chính; đặc biệt đối với
+phòng Quản trị &Dịch vụ Tài sản có chỉ tiêu “Số lượng lỗi ghi nhận trong
+công tác y tế, vệ sinh an toàn lao động, an ninh trật tự các tòa nhà TSC,
+quản lý vận hành tòa nhà TSC” và của các Chi nhánh có chỉ tiêu về các
+chi phí về điện, nước, mực in, xăng dầu… Ngoài ra, Ngân hàng cũng đã
+ban hành các văn bản liên quan tiết kiệm chống lãng phí trong toàn
+hệ thống nhằm tiết giảm chi phí hoạt động trên cơ sở gắn với mục tiêu
+hoạt động của Ngân hàng cũng như đặc điểm và điều kiện thị trường.
+Ngân hàng thực hiện công tác truyền thông tới từng đơn vị, từng CBNV
+để tiết giảm lượng điện năng tiêu thụ, lượng nước sạch sử dụng nhằm
+tiết kiệm năng lượng, bảo vệ môi trường. Đặc biệt, trong năm 2023,
+HĐQT VietinBank đã ban hành nghị quyết về việc triển khai thí điểm hệ
+thống điện năng lượng mặt trời áp mái cho một số đơn vị, CN trên toàn
+hệ thống, qua đó đã góp phần vào việc bảo tồn nguồn năng lượng sơ
+cấp của quốc gia, giảm phát thải khí nhà kính, bảo vệ môi trường và
+ứng phó với hiện tượng biến đổi khí hậu toàn cầu.
+Kế hoạch trong năm 2024:
+Hướng đến mục tiêu tăng trưởng “xanh” và bền vững, năm 2024, VietinBank
+tiếp tục triển khai đồng bộ nhiều giải pháp linh hoạt để giảm thiểu rủi ro
+môi trường. Cụ thể là:
+• Tiếp tục hoàn thiện cơ chế, chính sách phù hợp để: (i) Rà soát/ cập nhật
+các quy định về quản lý môi trường trong hoạt động cấp tín dụng cho
+phù hợp với mô hình kinh doanh của  VietinBank và tuân thủ quy định
+pháp luật; (ii) Xây dựng và triển khai định hướng tín dụng hàng năm tới
+các CN và PGD, trong đó có nội dung về quản lý môi trường; (iii) Thực
+hiện nghiêm túc các hướng dẫn thẩm định môi trường – xã hội trong
+hoạt động cấp tín dụng.
+• Tăng cường năng lực cho CBNV trong việc thực hiện đề án phát triển
+“Ngân hàng xanh”, tổ chức đào tạo, tuyên truyền, phổ biến nhằm nâng
+cao nhận thức về hoạt động Ngân hàng xanh – Tín dụng xanh, nâng
+cao ý thức sử dụng hiệu quả, tiết kiệm năng lượng, các nguồn tài nguyên
+thiên nhiên và bảo vệ môi trường.
+• Tăng cường hợp tác với các tổ chức quốc tế và đồng hành cùng các
+cơ quan Chính phủ để triển khai các hoạt động PTBV; tích cực tìm
+kiếm khách hàng phù hợp và phát triển các sản phẩm tài chính bền
+vững đa dạng.
+• Thúc đẩy mạnh mẽ Chương trình Chuyển đổi số nhằm giảm thiểu biến
 đổi khí hậu, thúc đẩy bảo vệ môi trường.
-Trên chặng đường 35 năm hình thành và phát triển, một hệ thống 
-Quản trị rủi ro độc lập, tập trung và chuyên môn hóa, tiệm cận dần 
-với các chuẩn mực quốc tế và gắn kết với chiến lược kinh doanh 
-của VietinBank đã được hình thành rõ nét và liên tục được cập 
-nhật, củng cố để phù hợp với mọi diễn biến của thị trường. Trước 
-xu hướng của cuộc cách mạng công nghệ 4.0 nói chung và chuyển 
-đổi số của ngành Ngân hàng nói riêng, quản trị rủi ro chủ động, 
-hiệu quả sẽ là nền tảng quan trọng trong giai đoạn phát triển tiếp 
-theo của VietinBank. 
-PHẦN 1 
+Trên chặng đường 35 năm hình thành và phát triển, một hệ thống
+Quản trị rủi ro độc lập, tập trung và chuyên môn hóa, tiệm cận dần
+với các chuẩn mực quốc tế và gắn kết với chiến lược kinh doanh
+của VietinBank đã được hình thành rõ nét và liên tục được cập
+nhật, củng cố để phù hợp với mọi diễn biến của thị trường. Trước
+xu hướng của cuộc cách mạng công nghệ 4.0 nói chung và chuyển
+đổi số của ngành Ngân hàng nói riêng, quản trị rủi ro chủ động,
+hiệu quả sẽ là nền tảng quan trọng trong giai đoạn phát triển tiếp
+theo của VietinBank.
 GIỚI THIỆU VIETINBANK
 
-70
-71
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-PHẦN 2
+V I E T I N B A N K — A N N U A L R E P O R T 2 0 2 3
+TÌNH HÌNH HOẠT ĐỘNG
+TRONG NĂM 2023
+1 	 TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
+2 	 TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
+3 	 TÌNH HÌNH TÀI CHÍNH NĂM 2023
+4 	 CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ
+CỦA CHỦ SỞ HỮU
+5 	 TÌNH HÌNH PHÁT HÀNH TRÁI PHIẾU NĂM 2023
+“VỮNG VÀNG
+VƯỢT CƠN GIÓ
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
 TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023
 “VỮNG VÀNG VƯỢT CƠN GIÓ NGƯỢC”
 1 - TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
 Nhóm chỉ tiêu quy mô
 TỔNG TÀI SẢN
-2.032.614 tỷ đồng
-Năm 2023, TTS của VietinBank lần đầu tiên 
-cán mốc hơn 2 triệu tỷ đồng, đạt 2,03 triệu 
-tỷ đồng, tăng 12,4% so với cuối năm 2022. 
-Chất lượng tài sản luôn được củng cố, 
+Năm 2023, TTS của VietinBank lần đầu tiên
+cán mốc hơn 2 triệu tỷ đồng, đạt 2,03 triệu
+tỷ đồng, tăng 12,4% so với cuối năm 2022.
+Chất lượng tài sản luôn được củng cố,
 đảm bảo cho HĐKD tăng trưởng ổn định.
-↑ 12,4% so với năm 2022 
 NGUỒN VỐN HUY ĐỘNG
-1.526.275 tỷ đồng
-Nguồn vốn huy động đạt 1,53 triệu tỷ 
-đồng, tăng 13,9% so cuối năm 2022; 
-Tiền gửi khách hàng thị trường 1 đạt 1,41 
-triệu tỷ đồng, tăng 12,9% so cuối năm 
-2022, cân đối phù hợp với tốc độ tăng 
-trưởng tín dụng, đảm bảo các tỷ lệ an 
-toàn thanh khoản. Quy mô huy động 
-vốn tăng đều qua các năm, khẳng định 
-vị thế của VietinBank trên thị trường. 
-↑ 13,9% so với năm 2022
+Nguồn vốn huy động đạt 1,53 triệu tỷ
+đồng, tăng 13,9% so cuối năm 2022;
+Tiền gửi khách hàng thị trường 1 đạt 1,41
+triệu tỷ đồng, tăng 12,9% so cuối năm
+2022, cân đối phù hợp với tốc độ tăng
+trưởng tín dụng, đảm bảo các tỷ lệ an
+toàn thanh khoản. Quy mô huy động
+vốn tăng đều qua các năm, khẳng định
+vị thế của VietinBank trên thị trường.
 DƯ NỢ TÍN DỤNG
-1.478.228 tỷ đồng
-Dư nợ tín dụng tăng trưởng tích cực đạt 
-1,48 triệu tỷ đồng, tăng trưởng 15,5% so 
-với cuối năm 2022. Tăng trưởng tín dụng 
-của Ngân hàng luôn cao hơn mức tăng 
-trưởng bình quân chung toàn ngành; 
-đồng thời tuân thủ hạn mức tăng 
-trưởng tín dụng của NHNN. VietinBank 
-luôn chủ động tăng trưởng dư nợ tín 
-dụng với kỷ luật chặt chẽ, đảm bảo hài 
-hòa mục tiêu quản lý rủi ro gắn với tăng 
-trưởng bền vững. 
-↑ 15,5% so với năm 2022
+Dư nợ tín dụng tăng trưởng tích cực đạt
+1,48 triệu tỷ đồng, tăng trưởng 15,5% so
+với cuối năm 2022. Tăng trưởng tín dụng
+của Ngân hàng luôn cao hơn mức tăng
+trưởng bình quân chung toàn ngành;
+đồng thời tuân thủ hạn mức tăng
+trưởng tín dụng của NHNN. VietinBank
+luôn chủ động tăng trưởng dư nợ tín
+dụng với kỷ luật chặt chẽ, đảm bảo hài
+hòa mục tiêu quản lý rủi ro gắn với tăng
+trưởng bền vững.
 CASA
-22,5%
-Tại thời điểm ngày 31/12/2023, CASA 
-của VietinBank đạt 22,5%, tăng mạnh 
-so với mức 20% vào cuối năm 2022. Tiền 
-gửi CASA tăng trưởng 27,2% so cuối 
-năm 2022. Tín hiệu tích cực từ xu thế 
-tăng trưởng CASA phản ánh nỗ lực của 
-Ngân hàng trong các hoạt động mở 
-rộng tập khách hàng kết hợp với việc 
+Tại thời điểm ngày 31/12/2023, CASA
+của VietinBank đạt 22,5%, tăng mạnh
+so với mức 20% vào cuối năm 2022. Tiền
+gửi CASA tăng trưởng 27,2% so cuối
+năm 2022. Tín hiệu tích cực từ xu thế
+tăng trưởng CASA phản ánh nỗ lực của
+Ngân hàng trong các hoạt động mở
+rộng tập khách hàng kết hợp với việc
 chuyển dịch kênh sang kênh số.
 KẾT QUẢ HOẠT ĐỘNG KINH DOANH TOÀN HÀNG TRONG NĂM 2023
-Kết thúc năm 2023, bằng nỗ lực vượt trội, 
-VietinBank đã triển khai hiệu quả các chủ điểm 
-kinh doanh trọng tâm, hoàn thành kế hoạch 
-ĐHĐCĐ đề ra, thể hiện qua các kết quả tăng 
-trưởng ấn tượng. TTS của VietinBank không chỉ 
-tăng về quy mô; mà còn luôn đảm bảo nâng cao 
-chất lượng tài sản. Tăng trưởng huy động vốn 
-phù hợp với tốc độ tăng trưởng tín dụng, đảm 
-bảo an toàn thanh khoản; tín dụng tăng trưởng 
-mạnh đi đôi với kiểm soát chặt chẽ rủi ro. Bên 
-cạnh đó, các chỉ số an toàn, tỷ lệ nợ xấu và bao 
-phủ nợ xấu tiếp tục được cải thiện theo hướng 
-an toàn, bền vững. VietinBank luôn kiên định và 
-nhất quán trong việc xây dựng một bảng tổng 
-kết tài sản lành mạnh, có tính thanh khoản và 
-an toàn vốn cao, đáp ứng đầy đủ các quy định 
+Kết thúc năm 2023, bằng nỗ lực vượt trội,
+VietinBank đã triển khai hiệu quả các chủ điểm
+kinh doanh trọng tâm, hoàn thành kế hoạch
+ĐHĐCĐ đề ra, thể hiện qua các kết quả tăng
+trưởng ấn tượng. TTS của VietinBank không chỉ
+tăng về quy mô; mà còn luôn đảm bảo nâng cao
+chất lượng tài sản. Tăng trưởng huy động vốn
+phù hợp với tốc độ tăng trưởng tín dụng, đảm
+bảo an toàn thanh khoản; tín dụng tăng trưởng
+mạnh đi đôi với kiểm soát chặt chẽ rủi ro. Bên
+cạnh đó, các chỉ số an toàn, tỷ lệ nợ xấu và bao
+phủ nợ xấu tiếp tục được cải thiện theo hướng
+an toàn, bền vững. VietinBank luôn kiên định và
+nhất quán trong việc xây dựng một bảng tổng
+kết tài sản lành mạnh, có tính thanh khoản và
+an toàn vốn cao, đáp ứng đầy đủ các quy định
 của NHNN.
-Năm 2023, trong bối cảnh nền kinh tế đối mặt với 
-nhiều rủi ro và bất định, VietinBank kiên định với định 
-hướng tăng trưởng bền vững gắn với an toàn, hiệu 
-quả trong hoạt động. Với định hướng chiến lược rõ 
-ràng từ HĐQT, ngay từ đầu năm 2023, nhận diện 
-trước các khó khăn, thách thức của nền kinh tế, toàn 
-hệ thống VietinBank đã nỗ lực phát huy sức mạnh 
-tổng thể trên các nền tảng vững chắc với các mục 
-tiêu, phương án hành động cụ thể và các kịch bản 
-ứng phó linh hoạt. Nhờ vậy, VietinBank đạt được 
-những kết quả khả quan và hoàn thành xuất sắc 
+Năm 2023, trong bối cảnh nền kinh tế đối mặt với
+nhiều rủi ro và bất định, VietinBank kiên định với định
+hướng tăng trưởng bền vững gắn với an toàn, hiệu
+quả trong hoạt động. Với định hướng chiến lược rõ
+ràng từ HĐQT, ngay từ đầu năm 2023, nhận diện
+trước các khó khăn, thách thức của nền kinh tế, toàn
+hệ thống VietinBank đã nỗ lực phát huy sức mạnh
+tổng thể trên các nền tảng vững chắc với các mục
+tiêu, phương án hành động cụ thể và các kịch bản
+ứng phó linh hoạt. Nhờ vậy, VietinBank đạt được
+những kết quả khả quan và hoàn thành xuất sắc
 các kế hoạch kinh doanh do NHNN và ĐHĐCĐ giao.
-
-74
-75
-BÁO CÁO
-THƯỜNG NIÊN
-2023
-“ĐỊNH HÌNH
-KỶ NGUYÊN SỐ”
-PHẦN 2
-TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023
-“VỮNG VÀNG VƯỢT CƠN GIÓ NGƯỢC”
-1 - TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
-ẢNH HƯỞNG CỦA CHÊNH LỆCH TỶ GIÁ HỐI ĐOÁI VÀ LÃI SUẤT ĐẾN KẾT QUẢ KINH DOANH
-Cấu phần lợi nhuận năm 2023
-Ảnh hưởng của chênh lệch tỷ giá hối đoái
-Biến động tỷ giá hối đoái luôn có những ảnh 
-hưởng nhất định đến kết quả kinh doanh ngoại 
-tệ của các ngân hàng. Do chính sách chống lạm 
-phát quyết liệt của hầu hết các ngân hàng Trung 
-ương và các biến động địa chính trị toàn cầu tỷ 
-giá hối đoái năm 2023 giữa đồng Việt Nam đồng 
-(VND) và các ngoại tệ khác khá biến động. Trong 
-năm, VND giảm giá so với hầu hết các ngoại tệ 
-(so với đồng Đô la Mỹ USD VND giảm khoảng 3% 
-phù hợp với định hướng điều hành của NHNN). 
-Chênh lệch tỷ giá hối đoái ảnh hưởng đến HĐKD 
-của VietinBank thông qua 2 nghiệp vụ chính: Kinh 
-doanh ngoại hối trên thị trường 1 và kinh doanh 
-vốn trên thị trường liên ngân hàng. 
-•	 Đối với HĐKD ngoại hối trên thị trường 1: Dù 
-trong năm 2023 kim ngạch xuất nhập khẩu 
-giảm mạnh, VietinBank ngay từ đầu năm đã 
-triển khai các chủ điểm tới CN, cùng với đó có 
-những nhận định về xu hướng khá sát với diễn 
-biễn của thị trường; chia sẻ thông tin, phối hợp 
-chặt chẽ cùng các đơn vị liên quan, kết quả 
-kinh doanh ngoại tệ của nghiệp vụ kinh doanh 
-ngoại hối trong năm 2023 khả quan hơn những 
-năm trước. 
-•	 Đối với HĐKD vốn trên thị trường liên ngân 
-hàng: Với nhận định về xu hướng từ đầu năm, 
-HĐKD ngoại tệ trên thị trường liên ngân hàng 
-luôn bám sát thị trường trong nước và quốc 
-tế theo đúng kế hoạch đặt ra. Bên cạnh việc 
-đa dạng hóa đối tượng khách hàng mua bán 
-ngoại tệ, đẩy mạnh khai thác các khách hàng 
-mới, VietinBank đã tăng cường hoạt động 
-mua vào bán ra vào những thời điểm phù hợp, 
-đồng thời đa dạng hóa các sản phẩm ngoại 
-hối phái sinh. Do đó, VietinBank vẫn đạt được 
-kết quả tích cực hơn so với những năm trước. 
-Kết thúc năm 2023, VietinBank ghi nhận lãi thuần 
-từ HĐKD ngoại hối đạt 4.248 tỷ đồng, tăng 19,5% 
-so với cùng kỳ năm trước. 
-Ảnh hưởng của lãi suất
-Trong năm 2023, trong bối cảnh lãi suất thế giới 
-tiếp tục tăng và neo ở mức cao, NHNN đã điều 
-hành giảm lãi suất để hỗ trợ, tháo gỡ khó khăn 
-cho nền kinh tế thông qua việc liên tục điều chỉnh 
-giảm 4 lần các mức lãi suất điều hành; đồng thời, 
-có nhiều văn bản chỉ đạo các TCTD tiết giảm chi 
-phí, giảm lãi suất huy động để giảm mặt bằng 
-lãi suất cho vay.
-Là một trong những ngân hàng đi đầu trong việc 
-thúc đẩy tăng trưởng tín dụng, hỗ trợ cung ứng 
-vốn cho nền kinh tế, năm 2023, VietinBank đã 
-liên tiếp thực hiện các đợt giảm lãi suất. Để đảm 
-bảo mục tiêu biên lãi ròng (NIM) như kế hoạch, 
-VietinBank đã thực hiện các biện pháp để tiết 
-giảm, kiểm soát COF thông qua đẩy mạnh các 
-biện pháp gia tăng tiền gửi thanh toán, đẩy 
-mạnh các SPDV số, thúc đẩy chuyển dịch kênh, 
-cải thiện tỷ trọng tiền gửi có chi phí thấp, chủ 
-động tìm kiếm sớm các nguồn vốn có chi phí tốt 
-từ các kênh thị trường 2 và quốc tế hỗ trợ thanh 
-khoản của Ngân hàng. 
-Với những nỗ lực kiểm soát chi phí vốn và gia 
-tăng hiệu quả sinh lời, kiểm soát chặt chẽ chất 
-lượng nợ, NIM năm 2023 của VietinBank được duy 
-trì (trong bối cảnh giảm NIM của Ngành Ngân 
-hàng), đạt 2,9%, tương đương so với năm 2022.
-•	 Các đầu thu nhập hoạt động của VietinBank 
-trong năm 2023 có sự tăng trưởng tích cực so 
-với năm 2022: Thu nhập lãi thuần tiếp tục tăng 
-trưởng 10% so cùng kỳ 2022 nhờ việc cải thiện 
-quy mô đi đôi với nâng cao hiệu quả sinh lời 
-từ tái cấu trúc danh mục tín dụng và quản trị 
-tốt RRTD; Thu nhập từ dịch vụ và kinh doanh 
-ngoại tệ có sự tăng trưởng bứt phá, tăng lần 
-lượt 25,7% và 19,5% so 2022. Trong các hoạt 
-động dịch vụ, thu phí Tài trợ Thương mại, bảo 
-lãnh đã tăng trưởng khá tốt từ việc triển khai 
-thúc đẩy bán, khai thác mở rộng cơ sở khách 
-hàng đi đôi với nâng cao chất lượng dịch vụ, 
-đáp ứng đa dạng, toàn diện các nhu cầu dịch 
-vụ tài chính của khách hàng. 
-•	 Hiệu quả sử dụng chi phí hoạt động tiếp tục 
-được nâng cao, ưu tiên chi phí phục vụ/hỗ 
-trợ trực tiếp cho các HĐKD, các hoạt động 
-chuyển đổi số, nâng cao chất lượng dịch vụ, 
-chất lượng nhân sự để tạo tiền đề cho sự PTBV 
-của Ngân hàng. Tỷ lệ CIR năm 2023 ở mức 29% 
-(cùng kỳ 29,9%).
-•	 LNTT hợp nhất 2023 đạt 25 nghìn tỷ, tăng 18,3% 
-so với năm 2022. ROA và ROE của VietinBank 
-năm 2023 cải thiện so với năm 2022, lần lượt 
-đạt 1,3% và 17,1%.  
-•	 Tỷ lệ an toàn hoạt động đảm bảo tuân thủ 
-quy định của NHNN.
-ĐVT: Nghìn tỷ đồng
-Cấu phần lợi nhuận VietinBank năm 2023
-
-78
-79
-BÁO CÁO
-THƯỜNG NIÊN
-2023
-“ĐỊNH HÌNH
-KỶ NGUYÊN SỐ”
-PHẦN 2
-TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023
-“VỮNG VÀNG VƯỢT CƠN GIÓ NGƯỢC”
-1 - TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
- KẾT QUẢ HOẠT ĐỘNG KINH DOANH CỦA CÁC KHỐI 
-KHỐI BÁN LẺ
-Bám sát chiến lược, định hướng chỉ đạo, yêu cầu 
-của HĐQT, BĐH đối với mục tiêu phát triển HĐKD 
-bán lẻ, Khối bán lẻ đã chủ động, tập trung triển 
-khai các giải pháp thúc đẩy mạnh mẽ, điều hành 
-linh hoạt HĐKD theo các chiến lược trọng điểm 
-toàn hàng ngay từ đầu năm, trong bối cảnh nền 
-kinh tế thế giới và Việt Nam nhiều khó khăn và 
-biến động. 
-Các con số nổi bật
-26.200
-tỷ đồng
-TỔNG THU NHẬP TỪ 
-HOẠT ĐỘNG BÁN LẺ
-46%
-TỶ TRỌNG THU NHẬP 
-TỪ HOẠT ĐỘNG BÁN LẺ 
-TRONG TOÀN HÀNG
-18,5 triệu
-SỐ LƯỢNG KHCN
-Dấu ấn hoạt động trong năm 2023
-Năm 2023, HĐKD của Khối Bán lẻ tiếp tục ghi nhận những kết quả khả quan, nhờ chủ động triển khai 
-đồng bộ các biện pháp như sau: 
-•	 Thực hiện tăng trưởng tín dụng chọn lọc, bền vững với các sản phẩm hiệu quả cao trên cơ sở triển 
-khai linh hoạt các gói tín dụng cạnh tranh, đáp ứng nhu cầu của từng đối tượng khách hàng/địa 
-bàn tiềm năng. Trước bối cảnh tăng trưởng tín dụng toàn hệ thống NHTM thấp do khả năng hấp 
-thụ vốn của nền kinh tế còn yếu, dư nợ bán lẻ bình quân đạt 495 nghìn tỷ đồng, tăng 15,8% so với 
-năm 2022, cải thiện cơ cấu so với toàn hàng từ 34,5% lên 36,5%. Nợ xấu ở mức 1,1%, thông qua các 
-chính sách kiểm soát rủi ro cụ thể theo từng SPDV, kênh phân phối. Ngân hàng thực hiện kiểm soát 
-và chỉ đạo các CN đảm bảo kiểm soát RRTD xuyên suốt từ TSC/CN/khách hàng; kiểm soát RRTD 
-theo danh mục, 100% các sản phẩm bán lẻ tuân thủ ngưỡng.
-•	 Phát triển CASA và chuyển dịch tiền gửi kỳ hạn ngắn để kiểm soát chi phí vốn: Nguồn vốn bán 
-lẻ bình quân đạt 686,4 nghìn tỷ đồng, tăng 12,4% so với năm 2022, trong đó CASA bình quân đạt 
-95,8 nghìn tỷ. Trong xu hướng các NHTM giảm CASA thì CASA Khối Bán lẻ cuối kỳ tăng 34,1% so 
-với năm 2022 thông qua các sản phẩm/chính sách mới và các chiến dịch bán hàng theo tệp 
-tiềm năng (Chiến dịch “Đến từng ngõ - Gõ từng shop” với tệp khách hàng merchant, chiến dịch 
-“Pack2Schook”  với tệp khách hàng là học sinh, sinh viên...) và phối hợp các chuỗi sản phẩm trên 
-kênh số. 
-•	 Chú trọng tăng thu ngoài lãi với trọng tâm tăng thu thuần thẻ, bảo hiểm, phát triển đầu phí mới, 
-do vậy, thu thuần phí bán lẻ tăng 27,5% so với 2022. Ngân hàng thực hiện thay đổi cách thức kinh 
-doanh thẻ, tập trung vào sản phẩm hiệu quả và chủ lực, số lượng thẻ Tín dụng Quốc tế kích hoạt 
-tăng 41,4%, thẻ Ghi nợ Quốc tế kích hoạt tăng 48,7%, doanh số sử dụng thẻ Quốc tế tăng trưởng 
-32,4% so với 2022. Trong bối cảnh thị trường bảo hiểm gặp nhiều khó khăn, bất lợi, doanh số bảo 
-hiểm Bancasurance vẫn tăng trưởng (7,3%) so với tình hình sụt giảm doanh số của thị trường. Bên 
-cạnh việc triển khai sáng tạo, cải tiến, đa dạng theo chân dung khách hàng với các sản phẩm 
-thu phí truyền thống, Khối Bán lẻ đã phát triển các đầu phí mới (phí duy trì tài khoản ngủ đông và 
-tài khoản không đăng ký VietinBank iPay, ngân hàng Big 4 đầu tiên ra mắt tài khoản số ngắn chỉ 
-từ 4 ký tự…).
-•	 Mở rộng tệp khách hàng, thực hiện công tác phát triển và nâng cao chất lượng khách hàng. 
-Trong năm 2023, Khối Bán lẻ đã thành công thu hút thêm hơn 2 triệu khách hàng, nâng số lượng 
-khách hàng bán lẻ tại thời điểm ngày 31/12/2023 lên 18,5 triệu khách hàng, trong đó số lượng 
-khách hàng ưu tiên (KHƯT) tăng net đạt 70 nghìn khách hàng so với năm 2022. VietinBank thực 
-hiện phát triển & giữ chân KHƯT thông qua các giải pháp nổi bật: (i) Nâng cao năng lực bán cho 
-SRM (Chuyên viên cao cấp KHƯT), (ii) Chính sách cạnh tranh, (iii) Làm giàu hệ sinh thái ưu đãi từ 
-đối tác…
-•	 Khai thác hệ sinh thái và bán chéo với nhiều giải pháp đồng bộ và đa dạng như: (i) Xây dựng 
-khung hợp tác và cơ chế bán chéo tới CN ngay đầu năm (bao gồm quy trình phối hợp bán chéo, 
-cách thức triển khai cụ thể các VBCS, công cụ hỗ trợ đi kèm); (ii) Tăng trưởng 308 nghìn khách 
-hàng nhận lương bình quân so với 2022, số lượng KHƯT là Ban Lãnh đạo doanh nghiệp hơn 48 
-nghìn khách hàng…
-•	 Thực hiện triển khai đồng bộ các giải pháp chuyển dịch kênh nhằm nâng cao trải nghiệm khách 
-hàng, tăng tỷ lệ khách hàng sử dụng đa sản phẩm, đổi mới hiện đại hóa hoạt động thanh toán - 
-đặc biệt kênh số: Tỷ lệ khách hàng đăng ký VietinBank iPay chiếm 90% tệp khách hàng, số lượng 
-khách hàng sử dụng thường xuyên kênh số tăng gần 1 triệu khách hàng so với 2022, tỷ trọng giao 
-dịch ngoài quầy chiếm 98% tổng giao dịch.
-Trong dòng chảy của Chương trình Chuyển đổi số tại VietinBank, Khối Bán lẻ đã phối hợp cùng các 
-phòng/ban, đơn vị khác thực hiện phân tích và đánh giá thực trạng của VietinBank trong hoạt động 
-bán lẻ và phân khúc khách hàng phổ thông (Mass). Qua đó, Khối Bán lẻ đã xây dựng kế hoạch và 
-triển khai xây dựng các sáng kiến chuyển đổi số quan trọng, mang tính chất nền tảng và tạo sự khác 
-biệt trong HĐKD. 
-Năm 2023 cũng là năm đầu tiên VietinBank ghi dấu ấn trong lòng khách hàng với Chiến dịch Sống 
-một đời có “lãi”. Lựa chọn đại sứ hình ảnh là nghệ sĩ, rapper Đen Vâu cùng chuỗi hoạt động xuyên 
-suốt kéo dài 1 năm, Chiến dịch đã mang lại nhiều hiệu ứng tích cực cũng như cách nhìn mới của đối 
-tượng khách hàng trẻ về VietinBank. Kết quả, VietinBank đã tiếp cận 35 triệu người, đạt 44 triệu lượt 
-tương tác, số lượng phát hành thẻ Eliv3 đạt hơn 500 nghìn thẻ.

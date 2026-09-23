@@ -1,905 +1,345 @@
-132
-BÁO CÁO THƯỜNG NIÊN 2021  |  133 
-BÁO CÁO CUẢ BAN ĐIỀU HÀNH 
-tRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
-Ban Điều hành Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (“Công ty”) chịu trách nhiệm lập báo cáo tài chính hợp nhất 
-của Công ty và các công ty con (gọi chung là “Tập đoàn”) thể hiện trung thực và hợp lý tình hình tài chính hợp nhất của 
-Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền 
-tệ hợp nhất của năm tài chính kết thúc cùng ngày nêu trên. Trong việc soạn lập báo cáo tài chính hợp nhất này, Ban Điều 
-hành được yêu cầu phải:                                    
-• chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
-• thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
-• soạn lập báo cáo tài chính hợp nhất trên cơ sở đơn vị hoạt động liên tục trừ khi giả định đơn vị hoạt động liên tục là 	
-   không phù hợp.
-Ban Điều hành của Công ty chịu trách nhiệm bảo đảm rằng các sổ sách kế toán đúng đắn đã được thiết lập và duy trì để 
-thể hiện tình hình tài chính hợp nhất của Tập đoàn với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở soạn lập báo 
-cáo tài chính hợp nhất tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh số 2 của báo cáo tài chính hợp nhất. 
-Ban Điều hành của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Tập đoàn và thực hiện các biện pháp 
-hợp lý để phòng ngừa và phát hiện các gian lận hoặc nhầm lẫn.
-PHÊ CHUẨN BÁO CÁO TÀI CHÍNH HỢP NHẤT
-Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đính kèm từ trang 5 đến trang 40. Báo cáo tài chính hợp nhất 
-này phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như 
-kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc vào ngày nêu 
-trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có 
-liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. 
-Thay mặt Ban Điều hành
-LÊ TRÍ THÔNG
-Tổng Giám đốc
-Thành phố Hồ Chí Minh, nước CHXHCN Việt Nam
-Ngày 14 tháng 3 năm 2022
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP 
-GỬI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (“Công ty”) và 
-các công ty con (gọi chung là “Tập đoàn”) được lập ngày 31 tháng 12 năm 2021, và được Ban Điều hành Công ty phê chuẩn 
-ngày 14 tháng 3 năm 2022. Báo cáo tài chính hợp nhất này bao gồm: bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 
-2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng 
-ngày nêu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu, từ trang 5 đến trang 39.
-TRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH 
-Ban Điều hành Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tập 
-đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có liên quan 
-đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định 
-là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc 
-nhầm lẫn.
-TRÁCH NHIỆM CỦA KIỂM TOÁN VIÊN
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. Chúng tôi 
-đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn 
-mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý 
-về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.  
-Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh 
-trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh 
-giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi 
-ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp 
-nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục 
-đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính 
-thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như 
-đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.  
-BÁO CÁO TÀI CHÍNH HỢP NHẤT
+VƯỢT RANH GIỚI TỪ NIỀM TIN
+NÊU CAO Ý THỨC TRÁCH NHIỆM VỚI MÔI TRƯỜNG (tt)
+Theo kết quả phân tích nước thải của PNJP vào đợt lấy mẫu gần nhất (Tháng 11/2021) thì tất cả các chỉ tiêu phân tích
+trong mẫu nước thải sau Hệ thống xử lý nước thải đều đạt QCVN 40:2011/BTNMT, loại B – Quy chuẩn kỹ thuật quốc gia về
+nước thải công nghiệp.
+PHƯƠNG PHÁP
+THỬ NGHIỆM
+KẾT QUẢ
+PHÂN TÍCH
+QCVN 40:2011/ BTNMT
+cột B, Kq=0,9 và Kf=1,1
+THÔNG SỐ
+Độ màu
+BOD5 (20oC)
+Tổng N
+Tổng P
+Asen (As)
+Thủy ngân (Hg)
+Chì (Pb)
+Cadimi (Cd)
+Tổng dầu mỡ
+Coliforms
+Pt-Co
+mgO2/L
+MPN/100ml
+(Nguồn: Công ty TNHH Khoa học Công nghệ và Phân tích Môi tArường Phương Nam, 06/2020 & Trung tâm tư vấn công nghệ Môi trường – An Toàn vệ sinh lao động 12/2020)
+Ghi chú: QCVN 40:2011/BTNMT, cột B – Quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp.
+CHẤT LƯỢNG NƯỚC THẢI SAU XỬ LÝ 2021
+6. TIẾNG ỒN
+Tiếng ồn sinh ra trong quá trình hoạt động của công ty từ hệ
+thống điều hòa không khí, máy bơm, máy phát điện dự phòng,
+quạt hút khói, hệ thống xử lý nước thải, các phương tiện giao
+thông vận chuyển nguyên vật liệu, từ quá trình sản xuất: gia
+công vàng, hàn, đập, dập, mài giũa, đánh bóng…
+Máy phát điện dự phòng được đặt trong phòng kín nên mức độ
+ồn sinh ra cũng được hạn chế.
+Bên cạnh đó, tiếng ồn từ các phương tiện giao thông cũng sinh
+ra tiếng ồn. Tuy nhiên, nguồn ồn này mang tính gián đoạn. Do
+đó, mức độ ồn cũng không ảnh hưởng nhiều đến môi trường
+xung quanh.
+Các biện pháp giảm thiểu tác động tới CBCNV và môi trường
+Đơn vị chỉ có một vài nguồn gây ồn. Các máy móc có độ ồn cao
+được tách riêng phân tán (không tập trung ở một tầng hoặc
+một cụm riêng biệt). Hơn nữa tất cả các thiết bị gây ồn đêu đặt
+trên cao, thoáng có độ khuếch tán tốt nên ít ảnh hưởng với các
+khu vực. Nguồn gây ra tiếng ồn lớn nhất là máy phát điện dự
+phòng chỉ mang tính chất gián đoạn do chỉ sử dụng khi có sự
+cố mất điện nên mức độ ảnh hưởng cũng không đáng kể. Xe
+ra vào vận chuyển hàng hóa trong nhà máy cũng áp dụng biện
+pháp chạy chậm 5km/h để giảm tiếng ồn.
+Định kỳ, đơn vị đều được Sở y tế thực hiện Báo cáo kết quả thực
+hiện quan trắc môi trường lao động theo Nghị định số 44/2016/
+NĐ-CP ngày 29 tháng 7 năm 2016. Đồng thời, PNJ cũng thực
+hiện theo đúng khuyến nghị của Sở Y tế về đo kiểm môi trường
+lao động, khám sức khỏe định kỳ, khám bệnh nghề nghiệp hàng
+năm, trang bị đầy đủ phương tiện bảo hộ lao động, như nút bịt tai
+chống ồn đối với khu vực có tiếng ồn do máy móc thiết bị.
+Đánh giá lại nhà cung cấp về môi trường
+PNJ luôn dành mức ngân sách tương xứng cho các sáng kiến
+hướng tới sử dụng hiệu quả và tiết kiệm nguồn năng lượng và
+nguyên nhiên vật liệu, đồng thời hợp tác với các đơn vị thu gom
+và xử lý rác thải thông qua một quy trình đánh giá và lựa chọn
+nhà cung cấp khắt khe để đảm bảo các đơn vị này có đủ chức
+năng và năng lực xử lý phát thải tuân thủ các quy định pháp
+luật hiện hành.
+Hàng năm, Công ty định kỳ đánh giá lại năng lực của nhà cung
+cấp dựa trên Bảng đánh giá tuân thủ pháp luật hiện hành và hồ
+sơ cập nhật của nhà cung cấp.
+Chất thải rắn sinh hoạt chủ yếu chứa nhiều chất hữu cơ dễ phân hủy, nếu không được thu gom và xử lý đúng quy định sẽ sinh ra
+mùi hôi thối gây ảnh hưởng đến sức khỏe người lao động, gây ô nhiễm môi trường không khí xung quanh.
+Rác thải nguy hại là rác thải có chứa yếu tố độc hại, phóng xạ, lây nhiễm, dễ cháy, dễ nổ, gây ăn mòn, gây ngộ độc hoặc có đặc
+tính nguy hại khác. Nếu chất thải nguy hại không được thải bỏ đúng cách sẽ gây nguy hại tới môi trường và gây ra những mối
+nguy hại tiềm ẩn đến sức khỏe cộng đồng.
+Tại PNJ, chất thải rắn chủ yếu phát sinh từ hoạt động của PNJP, bao gồm:
+7. CHẤT THẢI
+QUY TRÌNH THU GOM VÀ XỬ LÝ CHẤT THẢI RẮN
+SINH HOẠT CỦA PNJP:
+TẬP KẾT, LƯU TRỮ
+THU GOM, PHÂN LOẠI
+CHẤT THẢI RẮN SINH HOẠT
+BÀN GIAO ĐƠN VỊ CHỨC NĂNG
+THU GOM & XỬ LÝ
+CHẤT THẢI RẮN SINH HOẠT:
+Phát sinh chủ yếu từ khu vực ăn uống, văn phòng, bao gồm:
+Rác thải hữu cơ dễ phân hủy từ hoạt động ăn uống, các cành
+cây, lá cây trong khuôn viên công ty, rác thải tái chế như các
+lon nước uống, các bao bì nhựa hay kim loại không chưa thành
+phần nguy hại, giấy loại, các thùng carton, …
+Công ty thực hiện lưu trữ và phân loại chất thải rắn sinh hoạt
+vào các thùng chứa rác sinh hoạt chuyên dụng bằng nhựa màu
+xanh có nắp đậy kín và được đặt tại một khu vực riêng biệt
+tránh gây mùi cho xung quanh.
+• Chất thải có khả năng tái sử dụng: bán lại cho các đơn vị tái
+chế chất thải có chức năng trong thành phố.
+• Chất thải không thể tận dụng được: hợp đồng với Công ty
+TNHH MTV dịch vụ công ích quận Gò Vấp để thu gom, vận
+chuyển và xử lý theo quy định của Pháp Luật hiện hành.
+Chất thải rắn được thu gom để xử lý triệt để nên hầu như không
+gây ô nhiễm cho môi trường.
+CHẤT THẢI NGUY HẠI TỪ HOẠT ĐỘNG SẢN XUẤT:
+Do hoạt động trong lĩnh vực sản xuất, gia công vàng, bạc, PNJP
+phát sinh một số chất thải nguy hại, chủ yếu bao gồm:
+• Giẻ lau, bao tay dính hóa chất thải;
+• Bóng đèn huỳnh quang hỏng, pin, ắc quy đã qua sử dụng;
+• Hộp mực in đã qua sử dụng;
+• Các bao bì đựng hóa chất thải;
+• Các loại hóa chất thải: hóa chất phòng thí nghiệm thải,
+xăng dầu, dầu động cơ hộp số bôi trơn thải, …
+• Bùn thải từ hệ thống xử lý nước thải.
+Chất thải nguy hại được phân loại,  thu gom và lưu trữ vào
+kho chứa chất thải nguy hại đáp ứng đầy đủ yêu cầu của luật.
+PNJP đã hợp đồng với các đơn vị có chức năng để thu gom, vận
+chuyển và xử lý các chất thải nguy hại trên theo đúng quy định
+của luật. Ngoài ra, PNJP đã tiến hành đăng ký Sổ Chủ nguồn
+thải chất thải nguy hại với Sở Tài nguyên và Môi trường TP. HCM
+và định kỳ báo cáo công tác quản lý chất thải nguy hại lên cơ
+quan quản lý.
 
-134
-BÁO CÁO THƯỜNG NIÊN 2021  |  135 
-Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho 
-ý kiến kiểm toán của chúng tôi.
- 
-Ý KIẾN CỦA KIỂM TOÁN VIÊN
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình 
-hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và 
-tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán 
-Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo 
-tài chính hợp nhất.
-Thay mặt và đại diện cho công ty tnhh pwc (việt nam)
-Trần Thị Thanh Trúc	
-	
-	
-	
-	
-Nguyễn Vũ Anh Tuấn
-Số Giấy CN ĐKHN kiểm toán	
-	
-	
-	
-Số Giấy CN ĐKHN kiểm toán.
-3047-2019-006-1	
-	
-	
-	
-	
-3631-2021-006-1
-Chữ ký được ủy quyền	
-Số hiệu báo cáo kiểm toán: HCM11514
-TP. Hồ Chí Minh, ngày 14 tháng 3 năm 2022
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
-TÀI SẢN
-MÃ SỐ
-THUYẾT
-MINH
-2021 VND
-2020 VND
-Ngày 31 tháng 12 năm
-100	
-TÀI SẢN NGẮN HẠN
- 	
-       
-110	
-Tiền
-111	
-  Tiền
- 	
- 
-130	
-Các khoản phải thu ngắn hạn
-131	
-  Phải thu ngắn hạn của khách hàng
-132	
-  Trả trước cho người bán ngắn hạn
-136	
-  Phải thu ngắn hạn khác
-137	
-  Dự phòng phải thu ngắn hạn khó đòi
-139	
-  Tài sản thiếu chờ xử lý
- 	
- 
-140	
-Hàng tồn kho
-141	
-  Hàng tồn kho
- 	
- 
-150	
-Tài sản ngắn hạn khác
-151	
-  Chi phí trả trước ngắn hạn
-152	
-  Thuế Giá trị gia tăng ("GTGT") được khấu trừ
-153	
-  Thuế và các khoản khác phải thu Nhà nước
- 	
- 
-200	
-TÀI SẢN DÀI HẠN
- 	
- 
-210	
-Khoản phải thu dài hạn
-216	
-  Phải thu dài hạn khác
- 	
- 
-220	
-Tài sản cố định
-221	
-  Tài sản cố định hữu hình
-222	
-    Nguyên giá
-223	
-    Giá trị khấu hao lũy kế
- 	
- 
-227	
-  Tài sản cố định vô hình
-228	
-    Nguyên giá
-229	
-    Giá trị khấu hao lũy kế
- 	
- 
-240	
-Tài sản dở dang dài hạn
-242	
-  Chi phí xây dựng cơ bản dở dang 
- 	
- 
-250	
-Đầu tư tài chính dài hạn
-253	
-  Đầu tư góp vốn vào đơn vị khác
-254	
-  Dự phòng đầu tư tài chính dài hạn
- 	
- 
-260	
-Tài sản dài hạn khác
-261	
-  Chi phí trả trước dài hạn
-262	
-  Tài sản thuế thu nhập hoãn lại
- 270	
-TỔNG TÀI SẢN
-3
- 
- 
-4
-5
-6(a)
- 
- 
- 
- 
-7
- 
- 
-8(a)
-	
- 
- 
- 
- 
- 
-6(b)
- 
- 
-9(a)
- 
- 
- 
-9(b)
- 
- 
- 
- 
-10
- 
-11
- 
- 
- 
- 
-8(b)
-21
- 
-9.292.192.238.421
- 
-355.454.838.957
-355.454.838.957
- 
-111.969.758.488
-59.930.655.833
-30.659.175.548
-22.83a1.538.994
-(2.004.798.077)
-553.186.190
- 
-8.754.741.712.359
-8.754.741.712.359
- 
-70.025.928.617
-56.716.921.380
-8.705.831.517
-4.603.175.720
- 
-1.326.824.308.701
- 
-84.131.506.164
-84.131.506.164
- 
-909.985.491.983
-259.137.188.160
-633.614.629.426
-(374.477.441.266)
- 
-650.848.303.823
-697.774.918.988
-(46.926.615.165)
- 
-30.795.369.850
-30.795.369.850
- 
--
-395.271.613.400
-(395.271.613.400)
- 
-301.911.940.704
-201.443.147.089
-100.468.793.615
-10.619.016.547.122
-7.143.929.036.497
- 
-422.234.781.061
-422.234.781.061
- 
-98.997.286.429
-67.591.685.619
-20.218.946.599
-12.261.206.010
-(1.202.878.846)
-128.327.047
- 
-6.545.905.987.056
-6.545.905.987.056
- 
-76.790.981.951
-66.112.866.470
-10.670.276.957
-7.838.524
- 
-1.339.217.061.954
- 
-77.310.617.360
-77.310.617.360
- 
-931.617.117.533
-281.244.232.172
-600.464.186.725
-(319.219.954.553)
- 
-650.372.885.361
-683.791.142.309
-(33.418.256.948)
- 
-33.003.867.003
-33.003.867.003
- 
--
-395.271.613.400
-(395.271.613.400)
- 
-297.285.460.058
-206.301.766.031
-90.983.694.027
-8.483.146.098.451
-Mẫu số B 01 – DN/HN
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
+VƯỢT RANH GIỚI TỪ NIỀM TIN
+NÊU CAO Ý THỨC TRÁCH NHIỆM VỚI MÔI TRƯỜNG (tt)
+Năm 2021, lLượng bùn thải phát sinh tăng do sản lượng năm 2021 tăng hơn so với năm 2020. Ngoài ra, PNJ xây dựng thêm nhà
+máy ở Long Hậu và xây dựng thêm hệ thống xử lý nước thải riêng biệt với Nhà máy Gò Vấp nên lượng bùn xử lý phát sinh thêm.
+Đơn vị
+Loại hình
+Chỉ tiêu
+Tổng trọng lượng chất thải
+nguy hại phân chia theo
+các phương pháp xử lý
+Tổng
+Tái chế
+Đốt – chôn lấp
+Khác
+Tổng lượng chất thải phân chia theo các phương pháp xử lý tại PNJP:
+8. BỤI, KHÍ THẢI
+TỪ PHƯƠNG TIỆN GIAO THÔNG
+Phương tiện giao thông hoạt động ra vào khu vực công ty bao
+gồm các loại xe (xe đạp, xe hai bánh, gắn máy, xe bốn bánh).
+Tuy nhiên, lượng xe ra vào chiếm đa số là xe gắn máy, xe ôtô
+chiếm số lượng ít hơn. Các phương tiện này phần lớn sử dụng
+nhiên liệu xăng và dầu Diesel. Khi hoạt động, các phương tiện
+vận tải với nhiên liệu tiêu thụ chủ yếu là xăng và dầu Diesel sẽ
+thải ra môi trường một lượng khói thải chứa các chất ô nhiễm
+không khí như: NOx, CxHy, CO, CO2…
+TỪ MÁY PHÁT ĐIỆN
+PNJP có sử dụng 01 máy phát điện dự phòng với công suất 500
+KVA để cung cấp điện cho sản xuất trong trường hợp gặp sự cố
+mất điện. Vì hoạt động của máy phát điện không thường xuyên,
+công suất không lớn nên ảnh hưởng của khí thải từ máy phát
+điện là không đáng kể.
+TRONG QUÁ TRÌNH HOẠT ĐỘNG SẢN XUẤT CỦA PNJP
+Bụi và khí thải phát sinh chủ yếu từ:
+•  Tổ nấu
+•  Phòng nấu
+Khí thải từ hệ thống thoát nước và hệ thống xử lý nước thải:
+thành phần chất ô nhiễm từ hệ thống thoát nước và hệ thống
+xử lý nước thải rất đa dạng như: NH3, H2S, Mecaptan, … các
+khí này có khả năng gây mùi nên có thể sẽ gây ảnh hưởng đến
+các khu vực trong công ty. Tuy nhiên, lượng khí này phát sinh
+không nhiều. Mặt khác, hệ thống thoát nước và xử lý nước thải
+được thiết kế kín nên khả năng ảnh hưởng đến môi trường là
+không đáng kể.
+Công ty PNJP tiến hành đo đạc Môi trường lao động định kỳ và
+không có chỉ số nào bị vượt so với yêu cầu của Luật định.
+MỘT SỐ BIỆN PHÁP GIẢM THIỂU VÀ XỬ LÝ KHÍ THẢI KHÁC
+Ngoài biện pháp áp dụng các hệ thống xử lý khí thải trong quá
+trình sản xuất, PNJP còn sử dụng một số biện pháp khắc phục
+giảm thiểu ô nhiễm môi trường không khí như sau:
+•  Các đường lưu thông nội bộ được đổ bê tông. Với biện pháp
+này sẽ làm giảm tải trọng ô nhiễm bụi trong quá trình vận
+chuyển nguyên, nhiên liệu và quá trình di chuyển của ô tô, xe
+máy… trong khuôn viên doanh nghiệp.
+•  Lắp đặt máy thông gió trong khu vực sản xuất, văn phòng …
+để tăng cường thông thoáng trong nội bộ.
+•  Thường xuyên vệ sinh hành lang, văn phòng, xưởng sản xuất
+và thu gom các chất thải rắn để hạn chế tối đa bụi phát tán
+vào không khí.
+•  Trang bị bảo hộ lao động (khẩu trang) cho công nhân làm
+việc trực tiếp tại các khu vực phát sinh nhiều bụi (công đoạn
+cân, pha trộn thạch cao, …) và khí thải.
+BÙN THẢI TỪ BỂ TỰ HOẠI VÀ HỆ THỐNG XỬ LÝ NƯỚC THẢI
+TẬP TRUNG:
+Bùn thải từ hệ thống xử lý nước thải tập trung bao gồm bùn sinh
+học từ bể lắng sinh học và bùn từ bể lắng hóa lý.
+Bùn sinh học được tuần hoàn lại các bể hiếu khí, kị khí để tiếp
+tục xử lý nước và một phần bùn dư được chứa tại bể chứa bùn
+sinh học sau đó được đơn vị có chức năng thu gom và xử lý chất
+thải nguy hại theo đúng luật định.
+Bùn thải từ bể tự hoại được đơn vị có chức năng định kỳ vào hút
+bằng xe hút phân hầm tự hoại chuyên dụng và và được xử lý
+đúng quy định.
+Bùn thải từ cụm xử lý hóa lý hàng ngày được thu gom bằng dàn
+lọc bùn sau đó được đưa vào kho chứa chất thải nguy hại, định
+kỳ hàng tháng sẽ bàn giao cho đơn vị chức năng thu gom và xử
+lý chất thải nguy hại theo đúng quy định.
+PHONG TRÀO “NÓI KHÔNG VỚI VẬT DỤNG NHỰA DÙNG MỘT LẦN”
+Ngoài ra, đơn vị còn trồng cây xanh trong khuôn viên để tạo
+cảnh quan và hạn chế bụi và khí thải phát tán ra môi trường
+không khí xung quanh.
+Định kỳ, Bộ phận An Toàn – Môi Trường tiến hành phối hợp với
+các đơn vị chức năng để tiến hành đo đạc cũng như phân tích
+khí thải khách quan hàng năm.
+Kết quả phân tích khí thải tại các nguồn thải ngày 11/2021 như sau
+( mg/Nm3)
+Chỉ tiêu
+Nguồn thải
+Lưu lượng
+Đo tại nguồn thải.
+Ống thoát khí Phòng  nấu 2 ( X=602534; Y=1198026)
+Đo tại nguồn thải.
+QCVN 19:2009/BTNMT ( Cột B)
+Cmax=CxKpxKv
+Với : Kp = 1 và Kv = 1
+Ghi chú: QCVN 19:2009/BTNMT - Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ.
+Đối với các mẫu đo khí thải tại các nguồn thải: theo kết quả đo đạc và phân tích trên, giá trị của các chỉ tiêu đo đạc tại 2 vị trí
+(nguồn thải) vào Tháng 11/2021 đều nằm trong giới hạn cho phép của QCVN 19:2009/BTNMT, cột B – Quy chuẩn kỹ thuật quốc
+gia về khí thải công nghiệp đối với bụi và các chất vô cơ.
+Ý thức được tác hại của các vật dụng dùng một lần đối với môi
+trường, từ đầu năm 2021, PNJ đã phát động phong trào "Nói
+không với vật dụng nhựa dùng một lần". Công ty đã đề ra
+quy định hạn chế CBCNV mang các loại túi bóng, dụng cụ đựng
+thực phẩm, nước uống dùng một lần như chai, đũa, bát nhựa
+... vào Công ty.
+PNJ cũng nghiêm cấm tất cả CBCNV ăn uống tại nơi làm việc;
+CBCNV có thể đăng ký bữa ăn tại canteen của Công ty, tự mang
+cơm và ăn tại canteen hoặc ăn ngoài, vừa tạo không gian làm
+việc sạch sẽ, vệ sinh, vừa đảm bảo việc thu gom, xử lý rác thải
+từ hoạt động ăn uống tập trung. Những trường hợp vi phạm ăn
+Với môi trường doanh nghiệp, PNJ cam kết giảm thiểu phát
+thải khí thể hiện qua kế hoạch xây dựng trụ sở văn phòng mới
+của PNJ, trong đó Công ty định hướng thiết kế địa điểm làm
+việc mới theo hướng tiết kiệm nguyên liệu, tạo ra không gian
+mở và định hướng để trở thành Ngôi nhà xanh để giảm thiểu
+khí thải và chất thải.
+MỘT SỐ ĐỊNH HƯỚNG, KẾ HOẠCH CỦA PNJ HƯỚNG TỚI PHÁT TRIỂN XANH
+uống tại nơi làm việc hoặc mang các vật dụng nhựa dùng một
+lần vào công ty sẽ bị nhắc nhở.
+Ngoài ra, công ty cũng phát các chai đựng nước có thể dùng
+nhiều lần cho CBCNV, vừa đảm bảo vệ sinh, vừa nâng cao ý
+thức bảo vệ môi trường thông qua tiết chế sử dụng các vật
+dụng nhựa dùng một lần. Tại các phòng họp và các không gian
+chung, PNJ thay thế các chai nước uống tiện dụng bằng nhựa
+bằng các bình thủy tinh, cốc thủy tinh và cây lọc nước. Phong
+trào đã nhận được sự hưởng ứng tích cực từ toàn thể CBCNV
+PNJ và hình thành được nét đẹp trong văn hóa của PNJ về bảo
+vệ môi trường.
+Với môi trường bên ngoài, PNJ định hướng đến các hoạt động
+phát triển mảng xanh. Trong các năm tới, Tiểu ban ESG trực
+thuộc HĐQT sẽ tìm kiếm các dự án phát triển vùng xanh như
+trồng rừng, các dự án nước sạch .... tạo tiền đề cho phát triển
+bền vững và góp phần bảo vệ môi trường.
 
-136
-BÁO CÁO THƯỜNG NIÊN 2021  |  137 
-Mẫu số B 01 – DN/HN
-300	
-NỢ PHẢI TRẢ
- 	
- 
-310	
-Nợ ngắn hạn
-311	
-  Phải trả người bán ngắn hạn
-312	
-  Người mua trả tiền trước ngắn hạn
-313	
-  Thuế và các khoản phải nộp Nhà nước
-314	
-  Phải trả người lao động
-315	
-  Chi phí phải trả ngắn hạn
-319	
-  Phải trả ngắn hạn khác
-320	
-  Vay ngắn hạn
-321	
-  Dự phòng phải trả ngắn hạn 
-322	
-  Quỹ khen thưởng, phúc lợi 
- 	
- 
-330	
-Nợ dài hạn
-337	
-  Phải trả dài hạn khác
-342	
-  Dự phòng phải trả dài hạn 
- 	
- 
-400	
-VỐN CHỦ SỞ HỮU
- 	
- 
-410	
-Vốn chủ sở hữu
-411	
-  Vốn góp của chủ sở hữu
-411a	
-    - Cổ phiếu phổ thông có quyền biểu quyết
-412	
-  Thặng dư vốn cổ phần
-415	
-  Cổ phiếu quỹ
-418	
-  Quỹ đầu tư phát triển
-421	
-  Lợi nhuận sau thuế (“LNST”) chưa phân phối
-421a	
-    - LNST chưa phân phối lũy kế của các năm trước
-421b	
-    - LNST chưa phân phối của năm nay
- 	
- 
-440	
-TỔNG NGUỒN VỐN
-12
-13
-14
-15
-16
-17
-18
-20(a)
-19
- 
- 
- 
-20(b)
- 
- 
- 
- 
-22, 23
-23
-23
-23
-23
-4.606.382.566.869
- 
-4.563.002.409.508
-680.447.298.103
-156.729.112.135
-309.500.571.902
-385.144.216.152
-69.534.599.697
-83.404.423.727
-2.721.930.701.144
-30.129.306.488
-126.182.180.160
- 
-43.380.157.361
-518.668.000
-42.861.489.361
- 
-6.012.633.980.253
- 
-6.012.633.980.253
-2.276.123.620.000
- 	
-2.276.123.620.000
-991.261.882.458
-(4.908.890.000)
-800.503.556.918
-1.949.653.810.877
-920.611.645.232
-1.029.042.165.645
-10.619.016.547.122
-3.241.284.233.443
- 
-3.231.907.356.443
-481.588.464.720
-157.182.968.364
-214.710.310.923
-290.765.645.610
-55.520.256.916
-76.978.636.900
-1.839.275.064.065
--
-115.886.008.945
- 
-9.376.877.000
-526.168.000
-8.850.709.000
- 
-5.241.861.865.008
- 
-5.241.861.865.008
-2.276.123.620.000
-2.276.123.620.000
-991.261.882.458
-(3.384.090.000)
-372.779.556.918
-1.605.080.895.632
-670.845.205.971
-934.235.689.661
-8.483.146.098.451
 DƯƠNG QUANG HẢI
 Kế toán trưởng
-Lê Trí Thông 
-Tổng Giám Đốc
-Ngày 14 tháng 3 năm 2022
-NGUYỄN THÀNH ĐẠT
-Người lập phiếu
-NGUỒN VỐN
-MÃ SỐ
-THUYẾT
-MINH
-2021 VND
-2020 VND
-Ngày 31 tháng 12 năm
-DƯƠNG QUANG HẢI
-Kế toán trưởng
-Lê Trí Thông 
+Lê Trí Thông
 Tổng Giám Đốc
 Ngày 14 tháng 03 năm 2022
 NGUYỄN THÀNH ĐẠT
 Người lập phiếu
-01	
-Doanh thu bán hàng và cung cấp dịch vụ 	 
-	
-	
-02	
-Các khoản giảm trừ doanh thu	
- 
-	
-	
-10	
-Doanh thu thuần về bán hàng và cung cấp dịch vụ 	
-27
-	
-	
-11	
-Giá vốn hàng bán và dịch vụ cung cấp 	
-	
-28
-	
-	
-20 	
-Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 	
- 
-	
-	
-21	
-  Doanh thu hoạt động tài chính	
-	
-	
-29
-22	
-  Chi phí tài chính	 	
-	
-	
-	
-30
-23	
-    - Trong đó: Chi phí lãi vay 	
-25	
-  Chi phí bán hàng		
-	
-	
-	
-31
-26	
-  Chi phí quản lý doanh nghiệp	
-	
-	
-32
-	
-	
-30	
-Lợi nhuận thuần từ hoạt động kinh doanh	 
-	
-	
-31	
-  Thu nhập khác	 
-32	
-  Chi phí khác	
- 
-40	
-(Lỗ)/lợi nhuận khác	
-	
-	
-50	
-Tổng lợi nhuận kế toán trước thuế	
- 
-	
-	
-51	
-Chi phí thuế thu nhập doanh nghiệp
-	
-(“TNDN”) hiện hành	
-	
-	
-	
-33
-52	
-Thu nhập thuế TNDN hoãn lại	
-	
-	
-33
-	
-	
-60	
-Lợi nhuận sau thuế TNDN	
- 
-	
-	
-	
-Phân bổ cho:	
-61	
-Lợi nhuận sau thuế của công ty mẹ	
-	
-	
-70	
-Lãi cơ bản trên cổ phiếu	 	
-	
-	
-25(a)
-71	
-Lãi suy giảm trên cổ phiếu	
-	
-	
-25(b)
-19.735.646.137.250
-(188.587.772.416)
-19.547.058.364.834
-(15.948.760.134.458)
-3.598.298.230.376
-16.326.114.795
-(118.252.734.395)
-(104.380.274.160)
-(1.687.654.952.494)
-(501.819.303.928)
-1.306.897.354.354
-8.861.354.013
-(36.528.186.336)
-(27.666.832.323)
-1.279.230.522.031
-(259.673.455.974)
-9.485.099.588
-1.029.042.165.645
-1.029.042.165.645
-4.197
-4.197
-17.681.913.026.177
-(171.124.375.178)
-17.510.788.650.999
-(14.076.055.770.112)
-3.434.732.880.887
-2.368.958.316
-(161.541.087.492)
-(154.416.694.276)
-(1.423.499.070.565)
-(502.929.377.487)
-1.349.132.303.659
-5.485.848.150
-(8.637.683.094)
-(3.151.834.944)
-1.345.980.468.715
-(279.422.477.414)
-2.752.113.960
-1.069.310.105.261
-1.069.310.105.261
-4.308
-4.308
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+Lợi nhuận kế toán trước thuế
+Điều chỉnh cho các khoản:
+Khấu hao tài sản cố định ("TSCĐ")
+Các khoản dự phòng/(hoàn nhập dự phòng)
+Lỗ/(lãi) chênh lệch tỷ giá hối đoái do đánh giá lại
+các khoản mục tiền tệ có gốc ngoại tệ
+Lỗ/(lãi) từ hoạt động đầu tư
+Chi phí lãi vay
+Lợi nhuận từ hoạt động kinh doanh trước
+những thay đổi vốn lưu động
+Giảm các khoản phải thu
+Giảm/(tăng) hàng tồn kho
+(Giảm)/tăng các khoản phải trả
+Tăng chi phí trả trước
+Tiền lãi vay đã trả
+Thuế TNDN đã nộp
+Tiền chi khác từ hoạt động kinh doanh
+Lưu chuyển tiền thuần từ hoạt động kinh doanh
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
+Tiền chi để mua sắm, xây dựng TSCĐ và các
+tài sản dài hạn khác
+Tiền thu từ thanh lý, nhượng bán TSCĐ
+Tiền thu từ lãi tiền gửi
+Lưu chuyển tiền thuần từ hoạt động đầu tư
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+Tiền thu từ phát hành cổ phiếu
+Tiền mua lại cổ phiếu đã phát hành
+Tiền thu từ đi vay
+Tiền chi trả nợ gốc vay
+Tiền chi trả cổ tức
+Lưu chuyển thuần từ hoạt động tài chính
+Lưu chuyển tiền thuần trong năm
+Tiền đầu năm
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
+Tiền cuối năm
 TÀI SẢN
-MÃ SỐ
 THUYẾT
 MINH
-2021 VND
-2020 VND
-Ngày 31 tháng 12 năm
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tt)
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT 
-Mẫu số B 02 – DN/HN
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-138
-BÁO CÁO THƯỜNG NIÊN 2021  |  139 
-DƯƠNG QUANG HẢI
-Kế toán trưởng
-Lê Trí Thông 
-Tổng Giám Đốc
-Ngày 14 tháng 03 năm 2022
-NGUYỄN THÀNH ĐẠT
-Người lập phiếu
- 	
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH 	 
-01	
-Lợi nhuận kế toán trước thuế	
- 
- 	
-  Điều chỉnh cho các khoản:	 
-02	
-    Khấu hao tài sản cố định ("TSCĐ")	 
-03	
-    Các khoản dự phòng/(hoàn nhập dự phòng)	 
-04	
-    Lỗ/(lãi) chênh lệch tỷ giá hối đoái do đánh giá lại 
-      	
-    các khoản mục tiền tệ có gốc ngoại tệ	
- 
-05	
-    Lỗ/(lãi) từ hoạt động đầu tư	
- 
-06	
-    Chi phí lãi vay	 
-08	
-Lợi nhuận từ hoạt động kinh doanh trước 
-   	
-những thay đổi vốn lưu động	
- 
-09	
-  Giảm các khoản phải thu	 
-10	
-  Giảm/(tăng) hàng tồn kho	 
-11	
-  (Giảm)/tăng các khoản phải trả	
- 
-12	
-  Tăng chi phí trả trước	
- 
-14	
-  Tiền lãi vay đã trả	
- 
-15	
-  Thuế TNDN đã nộp	
- 
-17	
-  Tiền chi khác từ hoạt động kinh doanh	
- 
-20	
-Lưu chuyển tiền thuần từ hoạt động kinh doanh	
- 
- 	
- 	
- 
- 	
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ	 
-21	
-  Tiền chi để mua sắm, xây dựng TSCĐ và các
-	
-  tài sản dài hạn khác	
- 
-22	
-  Tiền thu từ thanh lý, nhượng bán TSCĐ	
- 
-27	
-  Tiền thu từ lãi tiền gửi	
- 
-30	
-Lưu chuyển tiền thuần từ hoạt động đầu tư	 
- 	
- 	
- 
- 	
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH	
- 
-31	
-  Tiền thu từ phát hành cổ phiếu	
- 
-32	
-  Tiền mua lại cổ phiếu đã phát hành	 
-33	
-  Tiền thu từ đi vay	 
-34	
-  Tiền chi trả nợ gốc vay	
- 
-36	
-  Tiền chi trả cổ tức	
- 
-40	
-Lưu chuyển thuần từ hoạt động tài chính	
- 
-50	
-Lưu chuyển tiền thuần trong năm	 
-60	
-Tiền đầu năm	
-	
-	
-	
-	
-  3
-61	
- Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ 	
- 
-70	
-Tiền cuối năm	
-	
-	
-	
-	
-  3 
-1.279.230.522.031
- 
-75.118.429.219
-64.942.006.080
-2.504.365.377
-(3.225.478.644)
-104.380.274.160
-1.522.950.118.223
-(23.111.709.097)
-(2.208.835.725.303)
-354.804.359.041
-14.254.564.032
-(105.200.568.547)
-(234.058.441.077)
-(43.169.828.785)
-(722.367.231.513)
- 
- 
-(61.304.197.645)
-12.869.426.085
-267.480.935
-(48.167.290.625)
- 
- -
-(1.524.800.000)
-7.758.858.344.889
-(6.876.202.707.810)
-(177.376.257.045)
-703.754.580.034
-(66.779.942.104)
- 422.234.781.061
--
-355.454.838.957
-1.345.980.468.715
- 
-72.154.867.041
-6.391.807.846
-177.425.063
-1.237.319.162
-154.416.694.276
-1.580.358.582.103
-17.322.807.863
-484.514.384.160
-(99.651.505.808)
-(42.462.273.125)
-(155.543.069.575)
-(253.134.374.354)
-(34.492.822.139)
-1.496.911.729.125
- 
- (85.433.646.180)
-792.669.960
-251.771.651
-(84.389.204.569)
- 
-46.375.540.000
-(1.283.000.000)
-7.432.783.338.336
-(8.208.110.896.493)
-(355.099.739.283)
-(1.085.334.757.440)
-327.187.767.116
- 95.224.439.008
-(177.425.063)
-422.234.781.061
-TÀI SẢN
-MÃ SỐ
-THUYẾT
-MINH
-2021 VND
-2020 VND
 Ngày 31 tháng 12 năm
 Mẫu số B 03 – DN/HN
 BÁO CÁO LƯU CHUYỂN TIỀN HỢP NHẤT
 (Thep phương pháp gián tiếp)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT 	
 CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
-Mẫu số B 09-DN/HN
 1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA TẬP ĐOÀN
-	
-	
-	
-Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (“Công ty”) là một công ty cổ phần được thành lập tại nước CHXHCN Việt 
-Nam theo Giấy chứng nhận đăng ký kinh doanh số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp 
-lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp điều chỉnh mới nhất lần thứ 32 ngày 6 tháng 
-1 năm 2022.
-Ngày 23 tháng 3 năm 2009, cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với 
-mã giao dịch cổ phiếu là PNJ, theo Quyết định số 129/UBCK-ĐKNY do Tổng Giám đốc Sở Giao dịch Chứng khoán Thành 
+Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (“Công ty”) là một công ty cổ phần được thành lập tại nước CHXHCN Việt
+Nam theo Giấy chứng nhận đăng ký kinh doanh số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp
+lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp điều chỉnh mới nhất lần thứ 32 ngày 6 tháng
+Ngày 23 tháng 3 năm 2009, cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với
+mã giao dịch cổ phiếu là PNJ, theo Quyết định số 129/UBCK-ĐKNY do Tổng Giám đốc Sở Giao dịch Chứng khoán Thành
 phố Hồ Chí Minh ký ngày 26 tháng 12 năm 2008.
 Hoạt động chính của Công ty là kinh doanh vàng, bạc, nữ trang và đá quý, xuất nhập khẩu nữ trang bằng vàng, bạc và đá quý.
 Chu kỳ sản xuất kinh doanh thông thường của Công ty là trong vòng 12 tháng.
-Tại ngày 31 tháng 12 năm 2021, Công ty có 3 công ty con (tại ngày 31 tháng 12 năm 2020, Công ty có 4 công ty con) 
+Tại ngày 31 tháng 12 năm 2021, Công ty có 3 công ty con (tại ngày 31 tháng 12 năm 2020, Công ty có 4 công ty con)
 được trình bày chi tiết như sau:
-(*)  Trong năm 2021, Công ty TNHH MTV Kỷ nguyên Khách hàng đã được sáp nhập vào Công ty TNHH MTV Thời trang CAO 
+(*)  Trong năm 2021, Công ty TNHH MTV Kỷ nguyên Khách hàng đã được sáp nhập vào Công ty TNHH MTV Thời trang CAO
 theo Quyết định số 24/2021/NQ-HĐQT-CTY ngày 12 tháng 1 năm 2021.
-Ngoài ra, tại ngày 31 tháng 12 năm 2021, Tập đoàn có 56 chi nhánh (ngày 31 tháng 12 năm 2020: 56 chi nhánh) tại các Tỉnh 
+Ngoài ra, tại ngày 31 tháng 12 năm 2021, Tập đoàn có 56 chi nhánh (ngày 31 tháng 12 năm 2020: 56 chi nhánh) tại các Tỉnh
 và Thành phố khác nhau ở Việt Nam.
 Tại ngày 31 tháng 12 năm 2021, Tập đoàn có 5.806 nhân viên (tại ngày 31 tháng 12 năm 2020: 6.191  nhân viên).
-CÔNG TY TNHH MTV THỜI TRANG CAO 
+CÔNG TY TNHH MTV THỜI TRANG CAO
 (CAF CO.,LTD)
 TP. Hồ Chí Minh
 Kinh doanh
 trang sức
-CÔNG TY TNHH MTV GIÁM ĐỊNH PNJ 
+CÔNG TY TNHH MTV GIÁM ĐỊNH PNJ
 (PNJL CO.,LTD)
-CÔNG TY TNHH MTV CHẾ TÁC VÀ 
+CÔNG TY TNHH MTV CHẾ TÁC VÀ
 KINH DOANH TRANG SỨC PNJ
 (PNJP CO., LTD)
 CÔNG TY TNHH MTV
- KỶ NGUYÊN KHÁCH HÀNG (CECL)
+KỶ NGUYÊN KHÁCH HÀNG (CECL)
 TP. Hồ Chí Minh
 TP. Hồ Chí Minh
 TP. Hồ Chí Minh
-Tư vấn và giám định 
+Tư vấn và giám định
 vàng, bạc và đá quý
-Chế tác và kinh 
+Chế tác và kinh
 doanh trang sức
 Bán lẻ hàng hóa
-100 
-100 
-100 
-100 
-100 
-100 
--
-100 
-100 
--
-100 
-100
-100
-100 
-100
-100
-Nơi thành lập, 
-đăng ký 
+Nơi thành lập,
+đăng ký
 hoạt động
 Hoạt động chính
-31.12.2021
-31.12.2020
 Tỷ lệ
 sở hữu
 Tỷ lệ
@@ -910,1815 +350,289 @@ nắm giữ
 Tỷ lệ
 biểu quyết
 nắm giữ
-%
-%
-%
-%
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
 
-140
-BÁO CÁO THƯỜNG NIÊN 2021  |  141 
-Mẫu số B 09-DN/HN
-2  CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
-2.1 CƠ SỞ CỦA VIỆC SOẠN LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT 
-Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực 
-Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam 
-và các quy định pháp lý có liên quan đến việc lập và trình 
-bày báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất 
-được lập theo nguyên tắc giá gốc ngoại trừ hợp nhất kinh 
-doanh như được trình bày tại Thuyết minh 2.5.
-Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích 
-trình bày tình hình tài chính hợp nhất, kết quả hoạt động 
-kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp 
-nhất theo các nguyên tắc và thông lệ kế toán thường được 
-chấp nhận ở các nước và các thể chế khác ngoài nước Việt 
-Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước 
-Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán 
-tại các nước và các thể chế khác.
-2.2  NĂM TÀI CHÍNH 
-Năm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến 
-ngày 31 tháng 12. 
-2.3  ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN
- 
-Tập đoàn sử dụng đơn vị tiền tệ trong kế toán và trình bày 
-trên báo cáo tài chính hợp nhất là Đồng Việt Nam (“VND” 
-hoặc “Đồng”). Đơn vị tiền tệ sử dụng trong kế toán của Tập 
-đoàn được xác định dựa vào đơn vị tiền tệ chủ yếu sử dụng 
-trong các giao dịch bán hàng, cung cấp dịch vụ, có ảnh 
-hưởng lớn đến giá bán hàng hóa, cung cấp dịch vụ; đơn vị 
-tiền tệ dùng để niêm yết giá bán và nhận thanh toán; đơn vị 
-tiền tệ sử dụng chủ yếu trong việc mua hàng hóa, dịch vụ; 
-có ảnh hưởng lớn đến chi phí nhân công, nguyên vật liệu và 
-các chi phí sản xuất kinh doanh khác, và thông thường dùng 
-để thanh toán cho các chi phí đó.
-Ngoài ra, Tập đoàn còn sử dụng đơn vị tiền tệ trong kế toán 
-để huy động các nguồn lực tài chính (như phát hành cổ 
-phiếu, trái phiếu) và/hoặc thường xuyên thu được đơn vị 
-tiền tệ này từ các hoạt động kinh doanh và tích trữ lại.
-2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
-Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ 
-giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. 
-Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi 
-nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt 
-động kinh doanh hợp nhất.
-Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày 
-của bảng cân đối kế toán hợp nhất lần lượt được quy đổi theo 
-tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại 
-nơi Tập đoàn thường xuyên có giao dịch áp dụng tại ngày 
-bảng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân 
-hàng tại ngày của bảng cân đối kế toán hợp nhất được quy 
-đổi theo tỷ giá mua của chính ngân hàng thương mại nơi 
-Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh 
-từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí 
-trong báo cáo kết quả hoạt động kinh doanh hợp nhất. 
- 
-2.5  CƠ SỞ HỢP NHẤT BÁO CÁO TÀI CHÍNH
-Công ty con
-Công ty con là những doanh nghiệp mà Tập đoàn có quyền 
-chi phối các chính sách tài chính và hoạt động của doanh 
-nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của 
-doanh nghiệp đó, thường đi kèm là việc nắm giữ hơn một 
-nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền 
-biểu quyết tiềm tàng đang được thực thi hoặc được chuyển 
-đổi sẽ được xem xét khi đánh giá liệu Tập đoàn có quyền 
-kiểm soát doanh nghiệp hay không. Công ty con được hợp 
-nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao 
-cho Tập đoàn. Việc hợp nhất chấm dứt kể từ lúc quyền kiểm 
-soát không còn. 
-Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực 
-hiện phát sinh giữa các công ty trong cùng Tập đoàn được 
-loại trừ khi hợp nhất. 
-Chính sách kế toán của công ty con cũng thay đổi nếu cần 
-thiết để đảm bảo sự nhất quán với chính sách kế toán đang 
-được Tập đoàn áp dụng.
-Báo cáo tài chính của các công ty con trong Tập đoàn sử 
-dụng để hợp nhất phải được lập cho cùng một năm tài 
-chính. Nếu ngày kết thúc năm tài chính khác nhau, thời gian 
-chênh lệch không vượt quá 3 tháng. Báo cáo tài chính sử 
-dụng để hợp nhất phải được điều chỉnh cho ảnh hưởng của 
-những giao dịch và sự kiện quan trọng xảy ra giữa ngày kết 
-thúc năm tài chính của các công ty và ngày kết thúc năm 
-tài chính của Tập đoàn. Độ dài của kỳ báo cáo và sự khác 
-nhau về thời điểm lập báo cáo tài chính phải được thống 
-nhất qua các kỳ.
-2.6 TIỀN
-Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và tiền 
-đang chuyển.   
-2.7  CÁC KHOẢN PHẢI THU 
-Các khoản phải thu thể hiện giá trị ghi sổ của các khoản 
-phải thu khách hàng gồm các khoản phải thu mang tính 
-chất thương mại phát sinh từ giao dịch bán hàng hóa, cung 
-cấp dịch vụ; và các khoản phải thu khác không có tính 
-thương mại, không liên quan đến giao dịch bán hàng hóa 
-và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi 
-được lập cho từng khoản phải thu căn cứ vào thời gian quá 
-hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến 
-việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất 
-dự kiến có thể xảy ra. Các khoản nợ phải thu được xác định 
-là không thể thu hồi sẽ được xóa sổ.
-Các khoản nợ phải thu được phân loại ngắn hạn và dài hạn 
-trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn 
-lại của các khoản phải thu tại ngày của bảng cân đối kế toán 
-hợp nhất đến ngày tới hạn thu hồi.
-2.8  HÀNG TỒN KHO
-Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc 
-và giá trị thuần có thể thực hiện được. Giá gốc được xác định 
-trên cơ sở bình quân gia quyền và bao gồm tất cả các chi 
-phí mua, chi phí chế biến và các chi phí khác có được hàng 
-tồn kho ở địa điểm và trạng thái hiện tại. Trong trường hợp 
-các sản phẩm được sản xuất, giá gốc bao gồm tất cả các 
-chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ 
-hoạt động bình thường. Giá trị thuần có thể thực hiện được 
-là giá bán ước tính của hàng tồn kho trong năm kinh doanh 
-bình thường trừ chi phí ước tính để hoàn thành sản phẩm và 
-chi phí ước tính cần thiết cho việc tiêu thụ.  
-Tập đoàn áp dụng phương pháp kê khai thường xuyên để 
-hạch toán hàng tồn kho.
-Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu 
-chuyển và bị hỏng. Chênh lệch giữa khoản dự phòng phải 
-lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối 
-kỳ kế toán trước được ghi nhận tăng hoặc giảm giá vốn 
-hàng bán trong năm.
-2.9  ĐẦU TƯ GÓP VỐN VÀO ĐƠN VỊ KHÁC
-Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào 
-công cụ vốn của đơn vị khác nhưng không có quyền kiểm 
-soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối 
-với bên được đầu tư. Các khoản đầu tư này được ghi nhận 
-ban đầu theo giá gốc. Sau đó, Ban Điều hành thực hiện việc 
-rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng 
-vào cuối kỳ kế toán.
-Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được lập 
-vào cuối kỳ kế toán khi có sự giảm giá trị của các khoản 
-đầu tư. Dự phòng giảm giá đầu tư đầu tư góp vốn vào đơn 
-vị khác được tính dựa trên giá trị thị trường nếu giá trị thị 
-trường được xác định một cách tin cậy. Nếu giá trị thị trường 
-không thể được xác định một cách tin cậy, dự phòng giảm 
-giá đầu tư đầu tư góp vốn vào đơn vị khác được tính tương 
-tự như dự phòng giảm giá đầu tư vào công ty con.
-Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này 
-và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi 
-nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự 
-phòng được hoàn nhập không vượt quá giá trị ghi sổ ban 
-đầu.
-2.10  TÀI SẢN CỐ ĐỊNH (“TSCĐ”)
-TSCĐ hữu hình và TSCĐ vô hình 
-TSCĐ được phản ánh theo nguyên giá trừ khấu hao lũy kế. 
-Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc 
-có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí 
-phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên 
-giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh 
-tế trong tương lai do sử dụng tài sản đó. Các chi phí phát 
-sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí 
-sản xuất kinh doanh trong năm.
-2.10  TSCĐ (tiếp theo)
-Khấu hao
-TSCĐ được khấu hao theo phương pháp đường thẳng để trừ 
-dần nguyên giá tài sản qua suốt thời gian hữu dụng ước 
-tính. Thời gian hữu dụng ước tính của các nhóm tài sản như 
-sau:
-Nhà cửa, vật kiến trúc	
-5 - 25 năm
-Máy móc, thiết bị		
-3 - 15 năm
-Phương tiện vận tải	
-5 - 10 năm
-Thiết bị quản lý	
-	
-3 - 10 năm
-Phần mềm	
-	
-3 - 5 năm
-Mẫu số B 09-DN/HN
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-142
-BÁO CÁO THƯỜNG NIÊN 2021  |  143 
-Quyền sử dụng đất không có thời hạn được ghi nhận theo 
-nguyên giá và không khấu hao.
-Thanh lý 
-Lãi hoặc lỗ phát sinh do thanh lý, nhượng bán TSCĐ được 
-xác định bằng số chênh lệch giữa số tiền thu thuần do thanh 
-lý với giá trị còn lại của tài sản và được ghi nhận là thu nhập 
-hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh 
-hợp nhất.
-Chi phí xây dựng cơ bản dở dang 
-Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các 
-tài sản trong quá trình lắp đặt hoặc xây dựng phục vụ mục 
-đích sản xuất, cho thuê hoặc quản trị, hoặc cho bất kì mục 
-đích nào khác, được ghi nhận theo giá gốc bao gồm toàn bộ 
-chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, 
-mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây 
-dựng; chi phí thiết bị; chi phí quản lý dự án; chi phí tư vấn 
-đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản 
-đủ điều kiện phù hợp với chính sách kế toán của Tập đoàn. 
-Khấu hao của những tài sản này, cũng giống như các loại 
-TSCĐ khác, sẽ bắt đầu được trích khi tài sản đã sẵn sàng 
-cho mục đích sử dụng.
-2.11  THUÊ TÀI SẢN HOẠT ĐỘNG
-Thuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro 
-và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên 
-cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động 
-được hạch toán vào báo cáo kết quả hoạt động kinh doanh 
-hợp nhất theo phương pháp đường thẳng dựa trên thời hạn 
-thuê hoạt động.
-2.12  CHI PHÍ TRẢ TRƯỚC 
-Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và 
-chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất. 
-Các khoản chi phí trả trước này được ghi nhận theo giá gốc 
-và được phân bổ theo phương pháp đường thẳng dựa trên 
-thời gian hữu dụng ước tính.
-2.13  NỢ PHẢI TRẢ
-	
-Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm: 
-• Phải trả người bán gồm các khoản phải trả mang tính 
-chất thương mại phát sinh từ giao dịch mua hàng hóa và 
-dịch vụ; và
-• Phải trả khác gồm các khoản phải trả không có tính 
-thương mại, không liên quan đến giao dịch mua hàng hóa 
-và dịch vụ.
-Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn 
-trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn 
-lại của các khoản phải trả tại ngày của bảng cân đối kế toán 
-hợp nhất đến ngày tới hạn thanh toán.
-2.14  VAY
-Vay bao gồm các khoản tiền vay từ các ngân hàng và cá nhân.
-Các khoản vay được phân loại ngắn hạn và dài hạn trên 
-bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại 
-của các khoản vay tại ngày của bảng cân đối kế toán hợp 
-nhất đến ngày tới hạn thanh toán.
-Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng 
-hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn 
-hóa trong thời gian mà các tài sản này được hoàn thành 
-và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung 
-trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc 
-sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Tập đoàn xác định 
-chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí 
-lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây 
-dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ 
-vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền 
-của các khoản vay chưa trả trong năm, trừ các khoản vay 
-riêng biệt phục vụ cho mục đích hình thành một tài sản cụ 
-thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả 
-hoạt động kinh doanh hợp nhất khi phát sinh. 
-2.15  CHI PHÍ PHẢI TRẢ
-Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, 
-dịch vụ đã nhận được từ người bán trong năm báo cáo 
-nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa 
-đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất 
-kinh doanh của kỳ báo cáo.
-2.16  CÁC KHOẢN DỰ PHÒNG
-Các khoản dự phòng được ghi nhận khi Tập đoàn có nghĩa 
-vụ nợ hiện tại, pháp lý hoặc liên đới, phát sinh từ các sự 
-kiện đã xảy ra; sự giảm sút những lợi ích kinh tế có thể xảy 
-ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ; và giá 
-trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cậy. 
-Dự phòng không được ghi nhận cho các khoản lỗ hoạt động 
-trong tương lai.
-Mẫu số B 09-DN/HN
-Dự phòng được tính trên cơ sở các khoản chi phí dự tính 
-phải thanh toán nghĩa vụ nợ.  Nếu ảnh hưởng về giá trị thời 
-gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở 
-giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phản ánh 
-những đánh giá trên thị trường hiện tại về giá trị thời gian 
-của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên 
-do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí 
-tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế 
-toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ 
-kế toán trước được ghi nhận tăng hoặc giảm chi phí sản 
-xuất kinh doanh trong năm. 
-2.17  DỰ PHÒNG TRỢ CẤP THÔI VIỆC
-Theo Luật Lao động Việt Nam, người lao động của Tập đoàn 
-đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng 
-khoản trợ cấp thôi việc. Thời gian làm việc để tính trợ cấp 
-thôi việc là tổng thời gian người lao động đã làm việc thực tế 
-cho Công ty trừ đi thời gian người lao động đã tham gia bảo 
-hiểm thất nghiệp theo quy định của pháp luật và thời gian 
-làm việc đã được Tập đoàn chi trả trợ cấp thôi việc. 
-Trợ cấp thôi việc của người lao động được trích trước cuối 
-mỗi kỳ báo cáo theo tỷ lệ bằng một nửa mức lương bình 
-quân tháng cho mỗi năm làm việc. Mức lương bình quân 
-tháng để tính trợ cấp thôi việc dựa trên mức lương bình 
-quân theo hợp đồng lao động của sáu tháng gần nhất tính 
-đến trước ngày lập bảng cân đối kế toán hợp nhất này.
-Khoản trích trước này được sử dụng để trả một lần khi người 
-lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
-2.18  VỐN CHỦ SỞ HỮU
-	
- 
-Vốn góp của chủ sở hữu được ghi nhận theo số thực tế đã 
-góp của các cổ đông và được phản ánh theo mệnh giá của 
-cổ phiếu.
-Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp 
-theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; 
-chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát 
-hành cổ phiếu quỹ.
-Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng 
-khoán (ngày 1 tháng 1 năm 2021) là cổ phiếu do Công ty 
-phát hành và được mua lại bởi chính Công ty, nhưng chưa 
-bị huỷ bỏ và sẽ được tái phát hành trở lại trong khoảng thời 
-gian theo quy định của pháp luật về chứng khoán.
-Cổ phiếu quỹ mua sau ngày 1 tháng 1 năm 2021 sẽ được 
-hủy bỏ và điều chỉnh giảm vốn chủ sở hữu.
-LNST chưa phân phối của Tập đoàn phản ánh kết quả kinh 
-doanh lãi lũy kế sau thuế TNDN của Tập đoàn tại thời điểm 
-báo cáo.
-2.19  PHÂN CHIA LỢI NHUẬN
-Cổ tức của Tập đoàn được ghi nhận là một khoản phải trả 
-trong các báo cáo tài chính hợp nhất của năm tài chính mà 
-cổ tức được thông qua tại Đại hội đồng Cổ đông.
-LNST TNDN có thể được chia cho các cổ đông sau khi được 
-Đại hội đồng Cổ đông phê chuẩn và sau khi đã trích lập các 
-quỹ dự phòng theo điều lệ của Tập đoàn và các quy định của 
-pháp luật Việt Nam. 
-Tập đoàn trích lập các quỹ dự phòng sau:
-(a)  Quỹ đầu tư phát triển
-Quỹ đầu tư phát triển được trích lập từ LNST của Tập đoàn 
-và được các cổ đông phê chuẩn tại Đại hội Đồng Cổ đông. 
-Quỹ này được trích lập nhằm phục vụ cho việc mở rộng hoạt 
-động hoặc đầu tư chiều sâu của Tập đoàn.
-(b)  Quỹ khen thưởng, phúc lợi
-Quỹ khen thưởng, phúc lợi được trích lập từ LNST của Tập 
-đoàn và được các cổ đông phê chuẩn tại Đại hội Đồng Cổ 
-đông. Quỹ này được trình bày là một khoản phải trả trên 
-bảng cân đối kế toán hợp nhất. Quỹ này được trích lập nhằm 
-khen thưởng và khuyến khích vật chất, đem lại lợi ích chung 
-và nâng cao phúc lợi cho cán bộ, công nhân viên.
-2.20  GHI NHẬN DOANH THU
-(a)  Doanh thu bán hàng
-Doanh thu bán hàng được ghi nhận trong báo cáo kết quả 
-hoạt động kinh doanh hợp nhất khi đồng thời thỏa mãn tất 
-cả năm (5) điều kiện sau:
-•  Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền 
-với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
-•  Tập đoàn không còn nắm giữ quyền quản lý sản phẩm 
-Mẫu số B 09-DN/HN
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-144
-BÁO CÁO THƯỜNG NIÊN 2021  |  145 
-hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa 
-hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
-•  Doanh thu được xác định tương đối chắc chắn;
-•  Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; 
-•  Xác định được chi phí liên quan đến giao dịch bán hàng.
-Doanh thu không được ghi nhận khi có yếu tố không chắc 
-chắn mang tính trọng yếu về khả năng thu được tiền bán 
-hàng hoặc khả năng hàng bán bị trả lại.
-2.20  GHI NHẬN DOANH THU (tiếp theo)
-(a)   Doanh thu bán hàng (tiếp theo)
-Doanh thu được ghi nhận phù hợp với “bản chất hơn hình 
-thức” và được phân bổ theo nghĩa vụ cung ứng sản phẩm 
-hoặc hàng hóa. Trường hợp Tập đoàn dùng sản phẩm, hàng 
-hóa để khuyến mãi cho khách hàng kèm theo điều kiện 
-mua hàng của Tập đoàn thì Tập đoàn phân bổ số tiền thu 
-được để tính doanh thu cho cả hàng khuyến mãi và giá trị 
-hàng khuyến mãi được tính vào giá vốn hàng bán trong báo 
-cáo kết quả hoạt động kinh doanh hợp nhất.
-(b)  Doanh thu cung cấp dịch vụ 
-Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo 
-kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được 
-cung cấp, bằng cách tính mức độ hoàn thành của từng giao 
-dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so 
-với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung 
-cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn 
-(4) điều kiện sau: 
-•  Doanh thu được xác định tương đối chắc chắn;
-•  Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp 
-dịch vụ đó;
-•  Xác định được phần công việc đã hoàn thành tại ngày của 
-bảng cân đối kế toán hợp nhất; và
-•  Xác định được chi phí phát sinh cho giao dịch và chi phí để 
-hoàn thành giao dịch cung cấp dịch vụ đó.
-(c)  Thu nhập lãi
-Thu nhập lãi được ghi nhận khi được hưởng. 
-(d)  Thu nhập từ cổ tức
-Thu nhập từ cổ tức được ghi nhận khi Tập đoàn xác lập 
-quyền nhận cổ tức từ các đơn vị đầu tư.
-2.21  CÁC KHOẢN GIẢM TRỪ DOANH THU
-Các khoản giảm trừ doanh thu bao gồm giảm giá hang bán 
-và hàng bán bị trả lại. Các khoản giảm trừ doanh thu phát 
-sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi 
-nhận điều chỉnh giảm doanh thu kỳ phát sinh. 
-Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa, 
-dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bảng 
-cân đối kế toán hợp nhất nhưng trước thời điểm phát hành 
-báo cáo tài chính hợp nhất được ghi nhận điều chỉnh giảm 
-doanh thu của năm lập báo cáo.
-2.22  GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
-Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát 
-sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ 
-cung cấp cho khách hàng trong năm, được ghi nhận theo 
-nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
-2.23  CHI PHÍ TÀI CHÍNH
-Chi phí tài chính phản ánh những khoản chi phí hoạt động 
-tài chính phát sinh trong năm chủ yếu bao gồm các khoản 
-chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu 
-tư tài chính, chi phí đi vay vốn và lỗ tỷ giá hối đoái.
-2.24  CHI PHÍ BÁN HÀNG
-Chi phí bán hàng chủ yếu phản ánh các chi phí thực tế phát 
-sinh trong quá trình bán sản phẩm, hàng hóa, cung cấp dịch 
-vụ, chủ yếu bao gồm các chi phí chào hàng, giới thiệu sản 
-phẩm, quảng cáo sản phẩm, phí bảo hành, duy trì, đóng gói 
-và vận chuyển.
-2.25  CHI PHÍ QUẢN LÝ DOANH NGHIỆP
-Chi phí quản lý doanh nghiệp phản ánh các chi phí thực tế 
-phát sinh trong quá trình quản lý chung của Tập đoàn chủ 
-yếu bao gồm các chi phí về lương nhân viên bộ phận quản 
-lý; bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, chi 
-phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ 
-dùng cho quản lý doanh nghiệp; thuê đất, dịch vụ mua 
-ngoài; và chi phí khác.
-Mẫu số B 09-DN/HN
-2.26  THUẾ TNDN HIỆN HÀNH VÀ THUẾ TNDN HOÃN LẠI 
-Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu 
-nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí 
-thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
-Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu 
-hồi được tính trên thu nhập chịu thuế và thuế suất thuế 
-TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế 
-TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi xác 
-định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường 
-hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện 
-được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ 
-hay một kỳ khác. 
-Thuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức 
-công nợ, tính trên các khoản chênh lệch tạm thời giữa giá 
-trị ghi sổ của các khoản mục tài sản và nợ phải trả trên báo 
-cáo tài chính và cơ sở tính thuế TNDN của các khoản mục 
-này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế 
-thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu 
-của một tài sản hay nợ phải trả của một giao dịch mà giao 
-dịch này không phải là giao dịch sáp nhập doanh nghiệp, 
-không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/
-lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế 
-TNDN hoãn lại được tính theo thuế suất dự tính được áp 
-dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ 
-phải trả được thanh toán dựa trên thuế suất đã ban hành 
-hoặc xem như có hiệu lực tại ngày của bảng cân đối kế toán 
-hợp nhất.
-Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng 
-sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng 
-những chênh lệch tạm thời được khấu trừ.  
-2.27  CÁC BÊN LIÊN QUAN
-Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua 
-một hoặc nhiều trung gian, có quyền kiểm soát Tập đoàn 
-hoặc chịu sự kiểm soát của Tập đoàn, hoặc cùng chung sự 
-kiểm soát với Tập đoàn, bao gồm cả công ty mẹ, công ty con 
-và công ty liên kết là các bên liên quan. Các bên liên kết, các 
-cá nhân trực tiếp hoặc gián tiếp nắm quyền biểu quyết của 
-Tập đoàn mà có ảnh hưởng đáng kể đối với Tập đoàn, những 
-cá nhân quản lý chủ chốt bao gồm Chủ tịch Hội đồng Quản 
-trị, các thành viên Hội đồng Quản trị, Hội đồng Quản trị, Ban 
-Điều hành Tập đoàn, những thành viên mật thiết trong gia 
-đình của các cá nhân này hoặc các bên liên kết này hoặc 
-những công ty liên kết với các cá nhân này cũng được coi là 
-bên liên quan.
-Trong việc xem xét từng mối quan hệ của các bên liên quan, 
-Tập đoàn căn cứ vào bản chất của mối quan hệ chứ không 
-chỉ hình thức pháp lý của các quan hệ đó.
-2.28  ƯỚC TÍNH KẾ TOÁN TRỌNG YẾU
-Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn 
-mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp ‎Việt 
-Nam và các quy định pháp lý có liên quan đến lập và trình 
-bày báo cáo tài chính hợp nhất yêu cầu Ban Điều hành phải 
-có những ước tính và giả định ảnh hưởng đến số liệu về 
-công nợ, tài sản và việc ‎trình bày các khoản công nợ và tài 
-sản tiềm tàng tại ngày kết thúc niên độ kế toán cũng như 
-‎các số liệu về doanh thu và chi phí trong suốt năm tài chính. 
-Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu 
-biết của Ban Điều hành, số thực tế phát sinh có thể khác với 
-các ước tính.
-Các ước tính và giả định thường xuyên được đánh giá dựa 
-trên kinh nghiệm trong quá khứ và các yếu tố khác, bao 
-gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới 
-báo cáo tài chính hợp nhất của Tập đoàn và được Ban Điều 
-hành đánh giá là hợp lý.
-2.29  BÁO CÁO BỘ PHẬN
-Một bộ phận là một hợp phần có thể xác định riêng biệt 
-của Tập đoàn tham gia vào việc bán hang hóa hoặc cung 
-cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh 
-doanh), hoặc bán hàng hóa hoặc cung cấp dịch vụ trong 
-một môi trường kinh tế cụ thể (bộ phận chia theo khu vực 
-địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác 
-biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Tập 
-đoàn là dựa theo bộ phận chia theo hoạt động kinh doanh/
-khu vực địa lý.
-Mẫu số B 09-DN/HN
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-146
-BÁO CÁO THƯỜNG NIÊN 2021  |  147 
-Mẫu số B 09-DN/HN
-3.  TIỀN	
-2021 VND
-2020 VND
-Tiền mặt	
-	
-	
-	
-	
-108.982.273.042		
-	
-113.043.139.318
-Tiền gửi ngân hàng	
-	
-	
-	
-213.630.437.624		
-	
-286.111.163.400
-Tiền đang chuyển		
-	
-	
-	
-32.842.128.291	 	
-	
-23.080.478.343
-	
-	
-	
-	
-	
-	
-355.454.838.957	
-	
-422.234.781.061
+Tiền mặt
+Tiền gửi ngân hàng
+Tiền đang chuyển
 4.  PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
-2021 VND
-2020 VND
-FH Trautz GmBh	 	
-	
-	
-	
-2.420.619.704	
-	
-	
-6.165.618.167
-DC&D Co.	
-	
-	
-	
-	
-6.589.972.421	
-	
-	
-6.758.326.847
+FH Trautz GmBh
+DC&D Co.
 Công ty TNHH Aeon Việt Nam
-- Chi nhánh Bình Dương	
-	
-	
-	
-7.417.481.647	
-	
-	
-5.965.409.829
-Công ty TNHH Aeon Việt Nam	
-	
-	
-6.055.942.557	
-	
-	
-4.699.946.682
+- Chi nhánh Bình Dương
 Công ty TNHH Aeon Việt Nam
-- Chi nhánh Bình Tân	
-	
-	
-	
-7.047.219.391	
-	
-	
-4.658.692.785
-Khác	
-	
-	
-	
-	
-	
-30.399.420.113	 	
-	
-39.343.691.309
-	
-	
-	
-	
-	
-	
-59.930.655.833	 	
-	
-67.591.685.619
-Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty không có khoản phải thu nào quá hạn hoặc chưa 
+Công ty TNHH Aeon Việt Nam
+- Chi nhánh Bình Tân
+Khác
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty không có khoản phải thu nào quá hạn hoặc chưa
 quá hạn nhưng khó có khả năng thu hồi.
 (a)  Ngắn hạn
 5.  TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
 6.  PHẢI THU KHÁC
-2021 VND
-2020 VND
-Công ty Cổ phần Xây dựng Địa ốc Gia Khang		
-	
-476.099.621	
-	
-3.035.860.000
-Khác	
-	
-	
-	
-	
-	
-	
-30.183.075.927	 	
-17.183.086.599
-	
-	
-	
-	
-	
-	
-	
-30.659.175.548	 	
-20.218.946.599
-2020 VND
-2019 VND
-Tạm ứng cho nhân viên	
-	
-	
-	
-12.867.680.249	 	
-	
-6.347.378.451
-Khác	
-	
-	
-	
-	
-	
-9.963.858.745	
-	
-	
-5.913.827.559
- 	
-	
-	
-	
-	
-	
-22.831.538.994	 	
-	
-12.261.206.010
-Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, số dư các khoản phải thu ngắn hạn khác đã quá hạn thanh 
-toán là 4.009.596.154 Đồng. Tại ngày 31 tháng 12 năm 2021, Tập đoàn đã trích lập dự phòng cho khoản phải thu này tương 
-ứng 2.004.798.077 Đồng (ngày 31 tháng 12 năm 2020: 1.202.878.846 Đồng).
-Mẫu số B 09-DN/HN
+Công ty Cổ phần Xây dựng Địa ốc Gia Khang
+Khác
+Tạm ứng cho nhân viên
+Khác
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, số dư các khoản phải thu ngắn hạn khác đã quá hạn thanh
+toán là 4.009.596.154 Đồng. Tại ngày 31 tháng 12 năm 2021, Tập đoàn đã trích lập dự phòng cho khoản phải thu này tương
 (b)  Dài hạn
-2021 VND
-2020 VND
-Đặt cọc thuê cửa hàng	
-	
-	
-	
-84.131.506.164	 	
-	
-77.310.617.360
-Tại ngày 31 tháng 12 năm 2021, giá trị hàng tồn kho của Tập đoàn là  3.303.916.000.000 Đồng (ngày 31 tháng 12 năm 2020: 
+Đặt cọc thuê cửa hàng
+Tại ngày 31 tháng 12 năm 2021, giá trị hàng tồn kho của Tập đoàn là  3.303.916.000.000 Đồng (ngày 31 tháng 12 năm 2020:
 2.996.916.000.000 Đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay ngắn hạn ngân hàng thương mại (Thuyết minh 18).
 Biến động về chi phí trả trước trong năm như sau:
 7.  HÀNG TỒN KHO
-2021 VND
-2020 VND
-Nguyên vật liệu	 	
-	
-	
-	
-635.145.088.845		
-	
-390.491.615.025
-Công cụ, dụng cụ		
-	
-	
-	
-34.566.769.933	 	
-	
-28.975.937.334
-Chi phí SXKD dở dang	
-	
-	
-	
-147.603.238.069		
-	
-148.684.491.248
-Thành phẩm	
-	
-	
-	
-	
-173.951.077.140		
-	
-379.933.495.924
-Hàng hóa	
-	
-	
-	
-	
-7.763.475.538.372	
-	
-5.597.820.447.525
- 	
-	
-	
-	
-	
-	
-8.754.741.712.359	
-	
-6.545.905.987.056
-2021 VND
-2020 VND
-Số dư đầu năm	 	
-	
-	
-	
-270.404.042.417		
-	
-229.952.359.376
-Tăng	
-	
-	
-	
-	
-	
-483.139.145.191		
-	
-575.275.386.825
-Phân bổ trong năm	
-	
-	
-	
-(494.840.534.604)	
-	
-(532.813.113.700)
-Thanh lý		
-	
-	
-	
-	
-(542.584.535)	
-	
-	
--
-Số dư cuối năm	 	
-	
-	
-	
-258.160.068.469	
-	
-272.414.632.501
-2021 VND
-2020 VND
-Công cụ, dụng cụ		
-	
-	
-	
-8.256.792.363	
-	
-	
-10.320.459.979
-Chi phí thuê hoạt động	
-	
-	
-	
-25.131.143.445	 	
-	
-30.263.584.357
-Chi phí công nghệ thông tin	
-	
-	
-15.347.742.167	 	
-	
-12.490.883.142
-Chi phí sửa chữa, bảo trì	 	
-	
-	
-2.687.986.462	
-	
-	
-5.572.063.499
-Khác	
-	
-	
-	
-	
-	
-5.293.256.943	
-	
-	
-7.465.875.493
- 	
-	
-	
-	
-	
-	
-56.716.921.380	 	
-	
-66.112.866.470
-2021 VND
-2020 VND
-Công cụ, dụng cụ		
-	
-	
-	
-103.689.818.858		
-	
-91.055.979.728
-Chi phí cải tạo văn phòng và cửa hàng	
-	
-80.879.194.596	 	
-	
-80.669.317.259
-Chi phí thuê cửa hàng	
-	
-	
-	
-8.930.291.938	
-	
-	
-13.759.093.930
-Chi phí sửa chữa, bảo trì	 	
-	
-	
-2.190.418.018	
-	
-	
-18.248.358.470
-Khác	
-	
-	
-	
-	
-	
-5.753.423.679	
-	
-	
-2.569.016.644
- 	
-	
-	
-	
-	
-	
-201.443.147.089	
-	
-206.301.766.031
+Nguyên vật liệu
+Công cụ, dụng cụ
+Chi phí SXKD dở dang
+Thành phẩm
+Hàng hóa
+Số dư đầu năm
+Tăng
+Phân bổ trong năm
+Thanh lý
+Số dư cuối năm
+Công cụ, dụng cụ
+Chi phí thuê hoạt động
+Chi phí công nghệ thông tin
+Chi phí sửa chữa, bảo trì
+Khác
+Công cụ, dụng cụ
+Chi phí cải tạo văn phòng và cửa hàng
+Chi phí thuê cửa hàng
+Chi phí sửa chữa, bảo trì
+Khác
 (a)  Ngắn hạn
 (b)  Dài hạn
-8.  CHI PHÍ TRẢ TRƯỚC 
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
+8.  CHI PHÍ TRẢ TRƯỚC
 
-148
-BÁO CÁO THƯỜNG NIÊN 2021  |  149 
 (a)  TSCĐ hữu hình
-9.  TSCĐ 
+9.  TSCĐ
 Nhà cửa, vật kiến trúc
-VND
-Máy móc thiết bị 
-VND
+Máy móc thiết bị
 Phương tiện vận tải
-VND
 Thiết bị quản lý
-VND
-Tổng cộng
-VND
 Nguyên giá
 Tại ngày 1 tháng 1 năm 2021
 Mua trong năm
-Chuyển từ chi phí xây dựng cơ bản dở dang 
+Chuyển từ chi phí xây dựng cơ bản dở dang
 (Thuyết minh 10)
 Thanh lý, nhượng bán
- Tại ngày 31 tháng 12 năm 2021
- 
+Tại ngày 31 tháng 12 năm 2021
 Khấu hao lũy kế
 Tại ngày 1 tháng 1 năm 2021
 Khấu hao trong năm
 Thanh lý, nhượng bán
- Tại ngày 31 tháng 12 năm 2021
- 
+Tại ngày 31 tháng 12 năm 2021
 Giá trị còn lại
 Tại ngày 1 tháng 1 năm 2021
- Tại ngày 31 tháng 12 năm 2021
-157.111.229.899
-1.083.881.871
--
-(2.242.990.000)
-155.952.121.770
- 
- 
-51.408.217.316
-8.334.030.537
-(134.461.703)
-59.607.786.150
- 
- 
-105.703.012.583
-96.344.335.620
-290.239.737.420
-18.007.702.847
-4.482.459.400
-(1.862.600.738)
-310.867.298.929 
- 185.012.990.430
-32.357.234.809
-(1.743.802.614)
-215.626.422.625 
- 
-105.226.746.990
-95.240.876.304
-36.475.119.707
-13.824.473.800
--
-(1.853.331.999)
-48.446.261.508
- 
-23.433.425.214
-4.628.183.446
-(1.853.331.999)
-26.208.276.661
- 
- 
-13.041.694.493
-22.237.984.847
-116.638.099.699
-3.272.364.127
--
-(1.561.516.607)
-118.348.947.219
- 
- 
-59.365.321.593
-15.219.564.459
-(1.549.930.222)
-73.034.955.830
- 
- 
-57.272.778.106
-45.313.991.389
-600.464.186.725
-36.188.422.645
-4.482.459.400
-(7.520.439.344)
-633.614.629.426
- 
- 
-319.219.954.553
-60.539.013.251
-(5.281.526.538)
-374.477.441.266
- 
- 
-281.244.232.172
-259.137.188.160
-Mẫu số B 09-DN/HN
+Tại ngày 31 tháng 12 năm 2021
 (b)  TSCĐ vô hình
 9.  TSCĐ (tiếp theo)
-Nguyên giá	
- 	
- 	
- 
-Tại ngày 1 tháng 1 năm 2021	
-542.729.276.942	 	
-141.061.865.367	 	
-683.791.142.309
-Mua trong năm	 	
-	
-22.727.350.000	
-	
--	
-	
-	
-22.727.350.000
-Thanh lý, nhượng bán	
-	
-(7.672.515.570)	 	
-(1.071.057.751)	 	
-(8.743.573.321)
-Tại ngày 31 tháng 12 năm 2021	
-557.784.111.372	 	
-139.990.807.616	 	
-697.774.918.988
-Khấu hao lũy kế	 	
- 	
- 
-Tại ngày 1 tháng 1 năm 2021	
--	
-	
-	
-33.418.256.948	
-	
-33.418.256.948
-Khấu hao trong năm	
-	
--	
-	
-	
-14.579.415.968	
-	
-14.579.415.968
-Thanh lý, nhượng bán	
-	
--	
-	
-	
-(1.071.057.751)	 	
-(1.071.057.751)
-Tại ngày 31 tháng 12 năm 2021	
--	
-	
-	
-46.926.615.165	
-	
-46.926.615.165
-Giá trị còn lại	
- 	
- 	
- 
-Tại ngày 1 tháng 1 năm 2021	
-542.729.276.942	 	
-107.643.608.419	 	
-650.372.885.36
-Tại ngày 31 tháng 12 năm 2021	
-557.784.111.372	 	
-93.064.192.451	
-	
-650.848.303.823
+Nguyên giá
+Tại ngày 1 tháng 1 năm 2021
+Mua trong năm
+Thanh lý, nhượng bán
+Tại ngày 31 tháng 12 năm 2021
+Khấu hao lũy kế
+Tại ngày 1 tháng 1 năm 2021
+Khấu hao trong năm
+Thanh lý, nhượng bán
+Tại ngày 31 tháng 12 năm 2021
+Giá trị còn lại
+Tại ngày 1 tháng 1 năm 2021
+Tại ngày 31 tháng 12 năm 2021
 Quyền sử dụng đất
-VND
 Phần mềm
-VND
-Tổng cộng
-VND
-Tại ngày 31 tháng 12 năm 2021, giá trị quyền sử dụng đất của Tập đoàn trị giá 27.089.291.000 Đồng (ngày 31 tháng 12 năm 2020: 
+Tại ngày 31 tháng 12 năm 2021, giá trị quyền sử dụng đất của Tập đoàn trị giá 27.089.291.000 Đồng (ngày 31 tháng 12 năm 2020:
 49.837.617.572 Đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay ngân hàng thương mại (Thuyết minh 18).
-Nguyên giá của phần mềm đã khấu hao hết nhưng vẫn còn sử dụng tài ngày 31 tháng 12 năm 2021 là 6.982.250.583 Đồng (tại 
-ngày 31 tháng 12 năm 2020: 6.982.250.583 Đồng).
-2021 VND
-2020 VND
-Quyền sử dụng đất tại Dĩ An - Bình Dương	
-	
-	
-26.137.767.250	
-	
-26.137.767.250
-Dự án lắp đặt hệ thống PCCC Nhà máy Long Hậu	
-	
--	
-	
-	
-2.574.172.400
-Phần mềm quản lý nhân sự	
-	
-	
-	
-1.990.919.100	
-	
-1.990.919.100
-Khác	
-	
-	
-	
-	
-	
-	
-2.666.683.500	
-	
-2.301.008.253
- 	
-	
-	
-	
-	
-	
-	
-30.795.369.850	 	
-33.003.867.003
+Nguyên giá của phần mềm đã khấu hao hết nhưng vẫn còn sử dụng tài ngày 31 tháng 12 năm 2021 là 6.982.250.583 Đồng (tại
+Quyền sử dụng đất tại Dĩ An - Bình Dương
+Dự án lắp đặt hệ thống PCCC Nhà máy Long Hậu
+Phần mềm quản lý nhân sự
+Khác
 10.  CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
 
-150
-BÁO CÁO THƯỜNG NIÊN 2021  |  151 
-Mẫu số B 09-DN/HN
 Biến động chi phí xây dựng cơ bản dở dang trong năm như sau:
-2021 VND
-2020 VND
-Số dư đầu năm	
-	
-	
-	
-	
-	
-33.003.867.003	
-	
-28.457.398.434
-Tăng	
-	
-	
-	
-	
-	
-	
-2.388.425.000	
-	
-6.483.065.709
-Chuyển sang TSCĐ hữu hình (Thuyết minh 9(a))	
-	
-(4.482.459.400)	 	
-(1.143.927.180)
-Khác	
-	
-	
-	
-	
-	
-	
-(114.462.753)	
-	
-(792.669.960)
-Số dư cuối năm	 	
-	
-	
-	
-	
-30.795.369.850	 	
-33.003.867.003
+Số dư đầu năm
+Tăng
+Chuyển sang TSCĐ hữu hình (Thuyết minh 9(a))
+Khác
+Số dư cuối năm
 11.  ĐẦU TƯ TÀI CHÍNH DÀI HẠN
-Ngân hàng TMCP Đông Á (*)      395.271.613.400        (395.271.613.400)        395.271.613.400        (395.271.613.400)
-Giá gốc VND
-Giá gốc VND
-Dự phòng VND
-Dự phòng VND
-2020
-2021
-(*)  Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Ngân hàng Thương mại Cổ phần (“TMCP”) Đông Á vẫn nằm trong 
-diện kiểm soát đặc biệt của Ngân hàng Nhà nước và cổ phiếu của Ngân hàng này không được phép chuyển nhượng. Do đó Ban Điều 
+(*)  Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Ngân hàng Thương mại Cổ phần (“TMCP”) Đông Á vẫn nằm trong
+diện kiểm soát đặc biệt của Ngân hàng Nhà nước và cổ phiếu của Ngân hàng này không được phép chuyển nhượng. Do đó Ban Điều
 hành đã trích lập dự phòng toàn bộ giá trị khoản đầu từ vào Ngân hàng TMCP Đông Á tại ngày kết thúc năm tài chính.
-Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty chưa xác định được giá trị hợp lý của khoản đầu tư 
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty chưa xác định được giá trị hợp lý của khoản đầu tư
 tài chính này để thuyết minh trên báo cáo tài chính hợp nhất, vì khoản đầu tư này chưa niêm yết trên thị trường.
-2021 VND
-2020 VND
-Finesse Impex Limited	
-	
-	
-	
-	
-419.140.437.414	 	
-185.106.975.192
-Công ty TNHH Forte Jewellery (HK)		
-	
-	
-161.906.400.863	 	
-126.662.589.601
-Công ty TNHH Quang Vinh Nguyễn	 	
-	
-	
--	
-	
-	
-912.591.777
-Công ty TNHH Fu Sheng	
-	
-	
-	
-	
--	
-	
-	
-1.667.935.368
-Khác	
-	
-	
-	
-	
-	
-	
-99.400.459.826	
-	
-167.238.372.782
- 	
-	
-	
-	
-	
-	
-	
-680.447.298.103	
-481.588.464.720
+Finesse Impex Limited
+Công ty TNHH Forte Jewellery (HK)
+Công ty TNHH Quang Vinh Nguyễn
+Công ty TNHH Fu Sheng
+Khác
 12.  PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
-2021 VND
-2020 VND
-Bà Nguyễn Thị Ánh Tuyết	 	
-	
-	
-	
-6.165.000.000	
-	
-15.000.000
-LM Manufacturing Pty. Ltd.	
-	
-	
-	
-2.005.462.968	
-	
-2.005.462.968
-Công ty Cổ phần Dược Hậu Giang	
-	
-	
-	
--	
-	
-	
-42.864.000.000
-Khác	
-	
-	
-	
-	
-	
-	
-148.558.649.167	 	
-112.298.505.396
- 	
-	
-	
-	
-	
-	
-	
-156.729.112.135	
-157.182.968.364
+Bà Nguyễn Thị Ánh Tuyết
+LM Manufacturing Pty. Ltd.
+Công ty Cổ phần Dược Hậu Giang
+Khác
 13.  NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN
-Mẫu số B 09-DN/HN
-2021 VND
-2020 VND
-Thuế giá trị gia tăng ("VAT")	
-	
-	
-	
-106.359.582.855	 	
-47.328.341.499
-Thuế TNDN ("BIT")	
-	
-	
-	
-	
-184.591.961.711	 	
-154.678.620.526
-Thuế thu nhập cá nhân ("PIT")	
-	
-	
-	
-13.412.674.360	
-	
-8.133.718.365
-Khác	
-	
-	
-	
-	
-	
-	
-5.136.352.976	
-	
-4.569.630.533
- 	
-	
-	
-	
-	
-	
-	
-309.500.571.902	
-214.710.310.923
+Thuế giá trị gia tăng ("VAT")
+Thuế TNDN ("BIT")
+Thuế thu nhập cá nhân ("PIT")
+Khác
 Biến động về thuế và các khoản phải nộp Nhà Nước trong năm như sau:
 14.  THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
 Tại ngày
-1.1.2020
-VND
-Số (phải thu)/ phải 
+Số (phải thu)/ phải
 nộp trong năm
-VND
-Số đã thực nộp 
+Số đã thực nộp
 trong năm
-VND
 Cấn trừ
 trong năm
-VND
-Tại ngày 
-31.12.2021
-VND
-VAT
-BIT
-PIT
+Tại ngày
 Khác
-47.328.341.499
-154.678.620.526
-8.133.718.365
-4.569.630.533
-214.710.310.923
-465.707.264.308
-259.673.455.974
-92.558.433.452
-2.073.002.614
-820.012.156.348
-(399.771.568.908)
-(234.058.441.077)
-(87.279.477.457)
-(1.506.280.171)
-(722.615.767.613)
-(6.904.454.044)
-4.298.326.288
--
--
-(2.606.127.756)
-106.359.582.855
-184.591.961.711
-13.412.674.360
-5.136.352.976
-309.500.571.902
-Số dư phải trả người lao động thể hiện khoản trích trước lương tháng 13 và các khoản thưởng thành tích phải trả cho cán 
+Số dư phải trả người lao động thể hiện khoản trích trước lương tháng 13 và các khoản thưởng thành tích phải trả cho cán
 bộ công nhân viên.
-2021 VND
-2020 VND
-Chi phí quảng cáo và tiếp thị	
-	
-	
-	
-47.856.371.900	
-	
-40.969.790.347
-Chi phí lãi vay	
-	
-	
-	
-	
-	
-2.611.807.589	
-	
-3.432.101.976
-Chi phí khác	
-	
-	
-	
-	
-	
-19.066.420.208	
-	
-11.118.364.593
- 	
-	
-	
-	
-	
-	
-	
-69.534.599.697	 	
-55.520.256.916
+Chi phí quảng cáo và tiếp thị
+Chi phí lãi vay
+Chi phí khác
 16.  CHI PHÍ PHẢI TRẢ NGẮN HẠN
 15.  PHẢI TRẢ NGƯỜI LAO ĐỘNG
-2021 VND
-2020 VND
-Thưởng Hội đồng Quản trị và Ban Điều hành (Thuyết minh 35)	
-10.084.181.002	
-	
-21.039.066.145
-Cổ tức phải trả (Thuyết minh 24)	
-	
-	
-	
-15.684.687.047	
-	
-11.167.693.692
-Kinh phí công đoàn	
-	
-	
-	
-	
-4.036.647.172	
-	
-5.302.327.162
-Thuế thu nhập cá nhân nộp thay cho cổ đông		
-	
-4.531.133.392	
-	
-4.531.133.392
-Nguyên vật liệu mượn gia công ngoài	
-	
-	
-26.949.152.804	
-	
-5.035.237.406
-Khác	
-	
-	
-	
-	
-	
-	
-22.118.622.310	
-	
-29.903.179.103
- 	
-	
-	
-	
-	
-	
-	
-83.404.423.727	 	
-76.978.636.900
+Thưởng Hội đồng Quản trị và Ban Điều hành (Thuyết minh 35)
+Cổ tức phải trả (Thuyết minh 24)
+Kinh phí công đoàn
+Thuế thu nhập cá nhân nộp thay cho cổ đông
+Nguyên vật liệu mượn gia công ngoài
+Khác
 17.  PHẢI TRẢ NGẮN HẠN KHÁC
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
 
-152
-BÁO CÁO THƯỜNG NIÊN 2021  |  153 
-Mẫu số B 09-DN/HN
 18.  CÁC KHOẢN VAY
-(a)  Ngắn hạn 
+(a)  Ngắn hạn
 Vay ngân hàng (*)
-Ngân hàng TMCP Đầu tư 
+Ngân hàng TMCP Đầu tư
 và Phát triển Việt Nam
-Ngân hàng TMCP Công thương 
+Ngân hàng TMCP Công thương
 Việt Nam
 Ngân hàng TMCP Đông Nam Á
 Ngân hàng TMCP Quốc tế
 Việt Nam
-Ngân hàng TNHH MTV HSBC 
+Ngân hàng TNHH MTV HSBC
 (Việt Nam)
-Ngân hàng TNHH CTBC - 
+Ngân hàng TNHH CTBC -
 Chi nhánh Hồ Chí Minh
-Ngân hàng TMCP Phát triển 
+Ngân hàng TMCP Phát triển
 TP. HCM
 Ngân hàng TNHH Shinhan
 Việt Nam
-Ngân hàng TMCP Ngoại thương 
+Ngân hàng TMCP Ngoại thương
 Việt Nam
 Ngân hàng TMCP Quân đội
 China Construction
-Bank Corporation - 
+Bank Corporation -
 Chi nhánh Hồ Chí Minh
 Ngân hàng Nông nghiệp
-và Phát triển Nông thôn 
-Ngân hàng TMCP Xăng dầu 
+và Phát triển Nông thôn
+Ngân hàng TMCP Xăng dầu
 Petrolimex
-Ngân hàng TNHH MTV Woori 
+Ngân hàng TNHH MTV Woori
 Việt Nam
-Ngân hàng KEB Hana Việt Nam 
+Ngân hàng KEB Hana Việt Nam
 - Chi nhánh TP. Hồ Chí Minh
 Vay cá nhân (**)
 Tại ngày
-1.1.2021
-VND
 Tăng
-VND
 Giảm
-VND
-Tại ngày 
-31.12.2021
-VND
-315.230.965.374
-439.980.551.393
-234.871.440.600
-144.405.989.760
-165.436.846.311
-72.337.384.646
-68.348.957.900
-65.000.000.000
-115.747.972.000
-47.338.228.281
-44.800.000.000
-3.700.000.000
--
--
--
-122.076.727.800
-1.839.275.064.065
-1.370.692.097.756
-1.821.316.339.965
-805.759.271.800
--
-316.734.601.473
-200.729.651.215
-178.692.432.640
-82.900.000.000
-1.671.355.880.077
-30.000.000.000
-115.800.000.000
--
-892.932.584.960
-13.500.000.000
-2.216.065.600
-256.229.419.403
-7.758.858.344.889
-(1.287.123.063.130)
-(1.496.879.259.216)
-(770.671.440.600)
-(144.405.989.760)
-(430.150.655.902)
-(186.380.654.121)
-(247.041.390.540)
-(147.900.000.000)
-(1.093.936.534.460)
-(77.338.228.281)
-(68.800.000.000)
-(3.700.000.000)
-(610.000.000.000)
-(13.500.000.000)
--
-(298.375.491.800)
-(6.876.202.707.810)
-398.800.000.000
-764.417.632.142
-269.959.271.800
--
-52.020.791.882
-86.686.381.740
--
--
-693.167.317.617
--
-91.800.000.000
--
-282.932.584.960
--
-2.216.065.600
-79.930.655.403
-2.721.930.701.144
+Tại ngày
 NGÂN HÀNG
 Ngân hàng TMCP Đầu tư
 và Phát triển Việt Nam
-Ngân hàng TMCP Công thương 
+Ngân hàng TMCP Công thương
 Việt Nam
 Ngân hàng TMCP Đông Nam Á
-Ngân hàng TNHH CTBC - 
+Ngân hàng TNHH CTBC -
 Chi nhánh Hồ Chí Minh
-Ngân hàng TMCP Ngoại thương 
+Ngân hàng TMCP Ngoại thương
 Việt Nam
-China 
-Construction 
-Bank 
+China
+Construction
+Bank
 Corporation - Chi nhánh
 Hồ Chí Minh
-Ngân hàng TMCP Xăng dầu 
+Ngân hàng TMCP Xăng dầu
 Petrolimex
-Ngân hàng TNHH MTV HSBC 
+Ngân hàng TNHH MTV HSBC
 (Việt Nam)
-Ngân hàng KEB Hana Việt Nam 
+Ngân hàng KEB Hana Việt Nam
 - Chi nhánh TP. Hồ Chí Minh
 Tại ngày
-31.12.2021
-VND
 Ngày
 đáo hạn
-Lãi 
 suất/năm
-Hình thức 
+Hình thức
 đảm bảo
-398.800.000.000
-764.417.632.142
-269.959.271.800
-86.686.381.740
-693.167.317.617
-91.800.000.000
-282.932.584.960
-52.020.791.882
-2.216.065.600
-2.642.000.045.741
-5,1%
-4,2%
-5,2%
-4,5%
-4,6%
-4,8%
-5,2%
-4,4%
-4,5%
 Hàng tồn kho
 Hàng tồn kho
 Tín chấp
 Hàng tồn kho
-Quyền sử dụng đất, nhà 
+Quyền sử dụng đất, nhà
 cửa và hàng tồn kho
 Tín chấp
 Tín chấp
 Tín chấp
 Tín chấp
-Từ ngày 08 /3 /2022 
-đến ngày 10/04/2022
-Từ ngày 30/03/2022 
-đến ngày 09/06/2022
-Từ ngày 25/02/2022 
-đến ngày 23/03/2022
-Từ ngày 15/04/2022 
-đến ngày 22/6/2022
-Từ ngày 15/04/2022 
-đến ngày 22/6/2022
-Từ ngày 21/01/2022 
-đến ngày 24/05/2022
-Từ ngày 12/04/2022 
-đến ngày 26/03/2022
-Từ ngày 02/03/2022 
-đến ngày 28/03/2022
-Từ ngày 03/02/2022 
-đến ngày 30/03/2022
 (*) Chi tiết các khoản vay ngân hàng thương mại như sau:
-Mẫu số B 09-DN/HN
-(**)   Khoản vay cá nhân thể hiện các khoản vay tín chấp từ cán bộ công nhân viên của Tập đoàn. Các khoản vay này có 
+(**)   Khoản vay cá nhân thể hiện các khoản vay tín chấp từ cán bộ công nhân viên của Tập đoàn. Các khoản vay này có
 thời hạn vay 12  tháng và chịu lãi suất 3% - 7,6%/năm.
-Các quyền sử dụng đất tại số 52A-52B Đường Nguyễn Văn Trỗi, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 195A Đường 
-Phan Đăng Lưu, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 577 Đường Nguyễn Kiệm, Quận Phú Nhuận, Thành phố Hồ 
-Chí Minh và số 174 Đường Lê Thánh Tôn, Quận 1, Thành phố Hồ Chí Minh với giá trị ghi sổ tổng cộng là 63.592.666.838 
-Đồng đang được lưu giữ tại Ngân hàng TMCP Đông Á tại ngày lập báo cáo tài chính hợp nhất này. 
-2021 VND
-2020 VND
-Số dư đầu năm	
-	
-	
-	
-	
-	
-115.886.008.945	 	
-90.682.831.084
-Trích thêm trong năm (Thuyết minh 23)	
-	
-	
-53.466.000.000	
-	
-59.696.000.000
-Sử dụng trong năm	
-	
-	
-	
-	
-(43.169.828.785)	 	
-(34.492.822.139)
-Số dư cuối năm	 	
-	
-	
-	
-	
-126.182.180.160		
-115.886.008.945
+Các quyền sử dụng đất tại số 52A-52B Đường Nguyễn Văn Trỗi, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 195A Đường
+Phan Đăng Lưu, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 577 Đường Nguyễn Kiệm, Quận Phú Nhuận, Thành phố Hồ
+Chí Minh và số 174 Đường Lê Thánh Tôn, Quận 1, Thành phố Hồ Chí Minh với giá trị ghi sổ tổng cộng là 63.592.666.838
+Đồng đang được lưu giữ tại Ngân hàng TMCP Đông Á tại ngày lập báo cáo tài chính hợp nhất này.
+Số dư đầu năm
+Trích thêm trong năm (Thuyết minh 23)
+Sử dụng trong năm
+Số dư cuối năm
 19.  QUỸ KHEN THƯỞNG, PHÚC LỢI
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
 
-154
-BÁO CÁO THƯỜNG NIÊN 2021  |  155 
-Mẫu số B 09-DN/HN
 Biến động gộp của thuế TNDN hoãn lại được tính bù trừ các số dư liên quan đến cùng một cơ quan thuế như sau:
-Tài sản thuế TNDN hoãn lại chủ yếu phát sinh từ các khoản chênh lệch tạm thời được khấu trừ liên quan đến chi phí phải 
+Tài sản thuế TNDN hoãn lại chủ yếu phát sinh từ các khoản chênh lệch tạm thời được khấu trừ liên quan đến chi phí phải
 trả và các khoản dự phòng.
 Thuế suất thuế TNDN sử dụng để xác định giá trị tài sản thuế TNDN hoãn lãi là 20%.
-Tài sản thuế TNDN hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cấn trừ các 
+Tài sản thuế TNDN hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cấn trừ các
 khoản chênh lệch tạm thời đã phát sinh này.
 Chi tiết tài sản thuế TNDN hoãn lại:
 20  DỰ PHÒNG PHẢI TRẢ
 (a)  Ngắn hạn
-Số dư thể hiện khoản dự phòng bảo hành sản phẩm, hàng hóa có thể phải trả trong vòng một đến sáu tháng sau ngày kết 
+Số dư thể hiện khoản dự phòng bảo hành sản phẩm, hàng hóa có thể phải trả trong vòng một đến sáu tháng sau ngày kết
 thúc năm tài chính.
 (b)  Dài hạn
-Số dư thể hiện khoản dự phòng trợ cấp thôi việc phải trả cho cán bộ công nhân viên được xác định theo phương pháp trình 
+Số dư thể hiện khoản dự phòng trợ cấp thôi việc phải trả cho cán bộ công nhân viên được xác định theo phương pháp trình
 bày tại Thuyết minh 2.17 và khoản dự phòng thuế phải trả tại Công ty con.
-21  TÀI SẢN THUẾ TNDN HOÃN LẠI 
-Tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp được bù trừ giữa 
-tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ 
+21  TÀI SẢN THUẾ TNDN HOÃN LẠI
+Tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp được bù trừ giữa
+tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ
 quan thuế. Chi tiết như sau:
-2021 VND
-2020 VND
-Tài sản thuế thu nhập hoãn lại:	
- 	
- 
-  Tài sản thuế TNDN hoãn lại được thu hồi sau 12 tháng  	
-83.207.628.911	
-	
-82.009.418.884
-  Tài sản thuế TNDN hoãn lại được thu hồi trong vòng 12 tháng	
-17.261.164.704	
-	
-8.974.275.143
- 	
-	
-	
-	
-	
-	
-	
-100.468.793.615		
-90.983.694.027
-2021 VND
-2020 VND
-Các khoản chênh lệch tạm thời được khấu trừ	
-	
-100.468.793.615		
-90.983.694.027
-2021 VND
-2020 VND
+Tài sản thuế thu nhập hoãn lại:
+Tài sản thuế TNDN hoãn lại được thu hồi sau 12 tháng
+Tài sản thuế TNDN hoãn lại được thu hồi trong vòng 12 tháng
+Các khoản chênh lệch tạm thời được khấu trừ
 Số dư đầu năm
 Ghi nhận vào báo cáo kết quả hoạt động
 kinh doanh hợp nhất (Thuyết minh 34)
- Số dư cuối năm
-90.983.694.027	
-	
-88.231.580.067
-9.485.099.588	
-	
-2.752.113.960
-100.468.793.615		
-90.983.694.027
-Mẫu số B 09-DN/HN
+Số dư cuối năm
 22  VỐN GÓP CỦA CHỦ SỞ HỮU
 (a)  Số lượng cổ phiếu phổ thông
 (b)  Chi tiết vốn góp của chủ sở hữu
 (c)  Tình hình biến động của vốn cổ phần
-2021 VND
-2020 VND
-Số lượng cổ phiếu đăng ký		
-	
-	
-	
-227.612.362	
-	
-227.612.362
-Số lượng cổ phiếu đã phát hành	
-	
-	
-	
-227.612.362	
-	
-227.612.362
-Số lượng cổ phiếu đã mua lại	
-	
-	
-	
-(245.799)	
-	
-(169.559)
-Số lượng cổ phiếu đang lưu hành	
-	
-	
-	
-227.366.563	
-	
-227.442.803
-2021 VND
-2020 VND
-Tại ngày 1 tháng 1 năm 2020	
-	
-	
-	
-225.188.176	
-	
-2.251.881.760.000
-Cổ phiếu mới phát hành	
-	
-	
-	
-	
-2.318.777	
-	
-23.187.770.000
-Cổ phiếu quỹ	
-	
-	
-	
-	
-	
-(64.150)		
-	
-(641.500.000)
-Tại ngày 31 tháng 12 năm 2020	
-	
-	
-	
-227.442.803	
-	
-2.274.428.030.000
-Cổ phiếu quỹ (*)	 	
-	
-	
-	
-	
-(76.240)		
-	
-(762.400.000)
-Tại ngày 31 tháng 12 năm 2021	
-	
-	
-	
-227.366.563	
-	
-2.273.665.630.000
-2021
+Số lượng cổ phiếu đăng ký
+Số lượng cổ phiếu đã phát hành
+Số lượng cổ phiếu đã mua lại
+Số lượng cổ phiếu đang lưu hành
+Tại ngày 1 tháng 1 năm 2020
+Cổ phiếu mới phát hành
+Cổ phiếu quỹ
+Tại ngày 31 tháng 12 năm 2020
+Cổ phiếu quỹ (*)
+Tại ngày 31 tháng 12 năm 2021
 Cổ phiếu phổ thông
-2020
 Cổ phiếu phổ thông
-%
-%
 Bà Trương Ngọc Phượng (**)
 Công ty Cổ phần Quản lý Quỹ Đầu tư
 Dragon Capital Việt Nam (*)
@@ -2727,781 +641,75 @@ Bà Trần Phương Ngọc Hà
 Bà Cao Thị Ngọc Dung
 Các cổ đông khác
 Cổ phiếu quỹ
-204.315.730.000
-156.908.280.000
-113.840.180.000
-92.000.000.000
-63.840.180.000
-1.645.219.250.000
-(2.457.990.000)
-2.273.665.630.000
-208.209.430.000
-46.752.160.000
-156.537.510.000
--
-205.840.180.000
-1.658.784.340.000
-(1.695.590.000)
-2.274.428.030.000
-8,99
-6,90
-5,01
-4,05
-2,80
-72,36
-(0,11)
-100
-9,15
-2,05
-6,88
--
-9,04
-72,93
-(0,06)
-100
-(*) Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty Cổ phần Quản lý Quỹ Đầu tư Dragon Capital Việt 
+(*) Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Công ty Cổ phần Quản lý Quỹ Đầu tư Dragon Capital Việt
 Nam và Công ty Cổ phần Quản lý Quỹ VinaCapital là đại diện vốn cho một nhóm nhà đầu tư.
-(**) Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Bà Trương Ngọc Phượng là đại diện vốn cho một nhóm 
+(**) Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Bà Trương Ngọc Phượng là đại diện vốn cho một nhóm
 nhà đầu tư nước ngoài.
-Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.  
+Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
 Công ty không có cổ phiếu ưu đãi.
-(*) Theo Nghị quyết số 217/2021/NQ-ĐHĐCĐ-CTY ngày 17 tháng 4 năm 2021, Công ty đã mua lại 76.240 cổ phiếu ESOP của các 
-cán bộ nhân viên nghỉ việc. Ban Điều hành đánh giá giao dịch này không có ảnh hưởng trọng yếu đến báo cáo tài chính năm 2021, 
+(*) Theo Nghị quyết số 217/2021/NQ-ĐHĐCĐ-CTY ngày 17 tháng 4 năm 2021, Công ty đã mua lại 76.240 cổ phiếu ESOP của các
+cán bộ nhân viên nghỉ việc. Ban Điều hành đánh giá giao dịch này không có ảnh hưởng trọng yếu đến báo cáo tài chính năm 2021,
 theo đó Công ty chưa thực hiện giảm vốn điều lệ của Công ty trong năm 2021 (Thuyết minh 23).
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
 
-156
-BÁO CÁO THƯỜNG NIÊN 2021  |  157 
-23  TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU
-Vốn góp của chủ sở hữu
-VND
-Thặng dư vốn cổ phần
-VND
-Cổ phiếu quỹ
-VND
-Quỹ đầu tư phát triển
-VND
-LNST chưa nhân phối
-VND
-Tổng cộng
-VND
-Tại ngày 1 tháng 1 năm 2020
-Phát hành cổ phiếu theo chương
-trình lựa chọn cho người lao động
-Lợi nhuận thuần trong năm
-Chi trả cổ tức
-Mua cổ phiếu quỹ
-Trích quỹ khen thưởng, phúc lợi
-(Thuyết minh 19)
-Trích quỹ đầu tư phát triển
-Trích thưởng HĐQT và Ban Điều hành
- Tại ngày 31 tháng 12 năm 2020
-Lợi nhuận thuần trong năm
-Chi trả cổ tức (*)
-Mua cổ phiếu quỹ
-Trích quỹ khen thưởng, phúc lợi
-(Thuyết minh 19) (**)
-Trích quỹ đầu tư phát triển (**)
-Trích thưởng HĐQT và Ban Điều hành (**)
- Tại ngày 31 tháng 12 năm 2021
-2.252.935.850.000
-23.187.770.000
--
--
--
--
--
--
-2.276.123.620.000
--
--
--
--
--
--
-2.276.123.620.000
-968.074.112.458
-23.187.770.000
--
--
--
--
--
--
-991.261.882.458
--
--
--
--
--
--
-991.261.882.458
-(2.101.090.000)
--
--
--
-(1.283.000.000)
--
--
--
-(3.384.090.000)
--
--
-(1.524.800.000)
--
--
--
-(4.908.890.000)
-313.083.556.918
--
--
--
--
--
-59.696.000.000
--
-372.779.556.918
--
--
--
--
-427.724.000.000
--
-800.503.556.918
-1.045.273.381.971
--
-1.069.310.105.261
-(360.262.591.600)
--
-(59.696.000.000)
-(59.696.000.000)
-(29.848.000.000)
-1.605.080.895.632
-1.029.042.165.645
-(181.893.250.400)
--
-(53.466.000.000)
-(427.724.000.000)
-(21.386.000.000)
-1.949.653.810.877
-4.577.265.811.347
-46.375.540.000
-1.069.310.105.261
-(360.262.591.600)
-(1.283.000.000)
-(59.696.000.000)
--
-(29.848.000.000)
-5.241.861.865.008
-1.029.042.165.645
-(181.893.250.400)
-(1.524.800.000)
-(53.466.000.000)
--
-(21.386.000.000)
-6.012.633.980.253
-Mẫu số B 09-DN/HN
-23  TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU
-(*)  Công ty đã trích cổ tức năm 2020 với số tiền 181.893.250.400 Đồng cho các cổ đông theo Nghị quyết Hội đồng Quản trị 
-số 113/2021/NQ-HĐQT-CTY ngày 24 tháng 2 năm 2021.
-(**) Theo Nghị quyết Đại hội Đồng Cổ đông số 217/2021/NQ-ĐHĐCĐ-CTY ngày 17 tháng 4 năm 2021, Đại hội đồng Cổ đông 
-đã thông qua phương án phân chia lợi nhuận cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 như sau:
-- Chia cổ tức bằng tiền: 453.387.000.000 Đồng;
-- Trích quỹ đầu tư phát triển: 427.724.000.000 Đồng;
-- Trích quỹ khen thưởng, phúc lợi: 53.466.000.000 Đồng; và
-- Trích quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành: 21.386.000.000 Đồng.
-24  CỔ TỨC
-2021 VND
-2020 VND
-Số dư đầu năm	
-	
-	
-	
-	
-	
-11.167.693.692	
-	
-6.004.841.375
-Cổ tức phải trả trong năm (Thuyết minh 23)	 	
-	
-181.893.250.400	 	
-360.262.591.600
-Cổ tức đã chi trả bằng tiền		
-	
-	
-	
-(177.376.257.045)	
-(355.099.739.283)
-Số dư cuối năm	 	
-	
-	
-	
-	
-15.684.687.047	 	
-11.167.693.692
-25.  LÃI CƠ BẢN TRÊN CỔ PHIẾU
-(a)  Lãi cơ bản trên cổ phiếu
-2021 VND
-2020 VND
-Lợi nhuận thuần phân bổ cho các cổ đông (VND)	
-1.029.042.165.645		
-	
-1.069.310.105.261
-Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi, 
-quỹ khen thưởng HĐQT và  BĐH (VND) (Thuyết minh 23)	
-(74.852.000.000)	
-	
-	
-(89.544.000.000)
- 	
-	
-	
-	
-	
-	
-954.190.165.645	 	
-	
-979.766.105.261
-Bình quân số cổ phiếu phổ thông 
-đang lưu hành (cổ phiếu)	
-	
-	
-	
-227.366.563	
-	
-	
-227.442.803
-Lãi cơ bản trên mỗi cổ phiếu (VND)	
-	
-	
-4.197	
-	
-	
-	
-4.308
-Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số trích quỹ khen thưởng, 
-phúc lợi, quỹ khen thưởng Hội đồng
-Quản trị và Ban Điều hành chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, 
-điều chỉnh cho cổ phiếu thưởng phát hành trong năm trừ đi cổ phiếu quỹ. Chi tiết như sau:
-(b)  Lãi suy giảm trên cổ phiếu	
-Công ty không có cổ phiếu phổ thông tiềm năng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính hợp 
-nhất này. Do đó lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-158
-BÁO CÁO THƯỜNG NIÊN 2021  |  159 
-Mẫu số B 09-DN/HN
-27  DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
-26.  LÃI CƠ BẢN TRÊN CỔ PHIẾU
-(a)  Lãi cơ bản trên cổ phiếu
-(b)  Các khoản thanh toán tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động không hủy ngang là 
-1.444.225.351.587 Đồng và 1.316.720.121.669 Đồng tương ứng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 và 
-31 tháng 12 năm 2020 (Thuyết minh 36).
-2021
-2020
-Đô la Mỹ - USD	 	
-	
-	
-	
-	
-	
-1.059.414	
-1.464.450
-Euro - EUR	
-	
-	
-	
-	
-	
-	
-3.677	
-	
-3.724
-Bảng Anh - GBP	 	
-	
-	
-	
-	
-	
-1.625	
-	
-1.625
-Đô la Úc - AUD	 	
-	
-	
-	
-	
-	
-958	
-	
-1.002
-2021 VND
-2020 VND
-Doanh thu 	
- 	
- 
-Doanh thu bán vàng, bạc và đồ trang sức	
-	
-19.608.294.312	
-	
-	
-17.487.379.140
-Doanh thu bán phụ kiện	
-	
-	
-	
-79.149.769.9	
-	
-	
-153.937.831.1
-Doanh thu dịch vụ	
-	
-	
-	
-48.202.054.6	
-	
-	
-40.596.054.1
-	
-	
-	
-	
-	
-	
-19.735.646.137	
-	
-	
-17.681.913.026
-Các khoản giảm trừ 	
- 	
- 
-  Hàng bán bị trả lại	
-	
-	
-	
-(188.580.972.4)	 	
-	
-(171.123.340.9)
-  Giảm giá hàng bán	
-	
-	
-	
-(6.800.000)	
-	
-	
-(1.034.206)
-	
-	
-	
-	
-	
-	
-(188.587.772.4)	 	
-	
-(171.124.375.1)
-Doanh thu thuần về bán hàng và cung cấp dịch vụ 	
- 19.547.058.364	 	
-	
-17.510.788.650
-2021 VND
-2020 VND
-Giá vốn bán vàng, bạc và đồ trang sức	
-	
-15.907.666.477.678	
-14.017.473.506.356
-Giá vốn bán phụ kiện	
-	
-	
-	
-29.613.031.220	
-	
-49.331.825.580
-Giá vốn dịch vụ	
-	
-	
-	
-	
-11.480.625.560	
-	
-9.250.438.176
- 	
-	
-	
-	
-	
-	
-15.948.760.134.458	
-14.076.055.770.112
-28  GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
-Mẫu số B 09-DN/HN
-2021 VND
-2020 VND
-Lãi tiền gửi	
-	
-	
-	
-	
-267.480.935	
-	
-251.771.651
-Lãi chênh lệch tỷ giá hối đoái đã thực hiện	
-	
-16.058.633.860	
-	
-2.117.186.665
- 	
-	
-	
-	
-	
-	
-16.326.114.795	 	
-2.368.958.316
-2021 VND
-2020 VND
-Chi phí nhân viên		
-	
-	
-	
-927.933.521.764	 	
-689.190.889.491
-Chi phí thuê	
-	
-	
-	
-	
-246.307.802.475	 	
-258.343.539.717
-Chi phí quảng cáo, tiếp thị	 	
-	
-	
-126.473.042.786	 	
-146.040.903.385
-Công cụ, dụng cụ		
-	
-	
-	
-106.242.385.201	 	
-106.063.237.322
-Chi phí khấu hao	 	
-	
-	
-	
-18.852.708.747	
-	
-15.627.150.063
-Chi phí dịch vụ mua ngoài	 	
-	
-	
-158.156.935.122	 	
-120.084.763.960
-Khác	
-	
-	
-	
-	
-	
-103.688.556.399	 	
-88.148.586.627
- 	
-	
-	
-	
-	
-	
-1.687.654.952.494	
-1.423.499.070.565
-2021 VND
-2020 VND
-Chi phí nhân viên		
-	
-	
-	
-334.815.199.923	 	
-362.870.156.577
-Công cụ, dụng cụ		
-	
-	
-	
-13.345.577.420	
-	
-12.944.672.439
-Chi phí khấu hao	 	
-	
-	
-	
-28.655.150.417	
-	
-29.840.270.105
-Thuế, phí và lệ phí	
-	
-	
-	
-1.273.038.584	
-	
-1.063.819.767
-Chi phí dịch vụ mua ngoài	 	
-	
-	
-77.739.085.012	
-	
-74.644.333.481
-Khác	
-	
-	
-	
-	
-	
-45.991.252.572	
-	
-21.566.125.118
- 	
-	
-	
-	
-	
-	
-501.819.303.928	
-502.929.377.487
-2021 VND
-2020 VND
-Lãi tiền vay
-Lỗ chênh lệch tỷ giá hối đoái đã thực hiện
-Lỗ thuần do đánh giá lại các khoản có
-gốc ngoại tệ cuối năm
-Khác
-29  DOANH THU HOẠT ĐỘNG TÀI CHÍNH
-30  CHI PHÍ TÀI CHÍNH
-31  CHI PHÍ BÁN HÀNG
-32  CHI PHÍ QUẢN LÝ DOANH NGHIỆP
-104.380.274.160
-6.160.507.306
-2.504.365.377
-5.207.587.552
-118.252.734.395
-154.416.694.276
-3.510.464.614
-177.425.063
-3.436.503.539
-161.541.087.492
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-
-160
-BÁO CÁO THƯỜNG NIÊN 2021  |  161 
-Mẫu số B 09-DN/HN
 33  THUẾ TNDN
-Số thuế TNDN tính trên lợi nhuận kế toán trước thuế của Tập đoàn khác với số thuế khi được tính theo thuế suất áp dụng 
+Số thuế TNDN tính trên lợi nhuận kế toán trước thuế của Tập đoàn khác với số thuế khi được tính theo thuế suất áp dụng
 như sau:
-2021 VND
-2020 VND
 Lợi nhuận kế toán trước thuế
- Trong đó:
+Trong đó:
 - Lợi nhuận kế toán trước thuế
 - Lỗ kế toán trước thuế
- Thuế tính ở thuế suất 20%
+Thuế tính ở thuế suất 20%
 Điều chỉnh:
-  Chi phí không được khấu trừ
-  Chênh lệch tạm thời mà không ghi nhận tài sản  
-  thuế thu nhập hoãn lại
-  Ảnh hưởng của thay đổi thuế suất
-  Lỗ tính thuế mà không ghi nhận tài sản 
-  thuế thu nhập hoãn lại
-  Dự phòng thiếu của năm trước 
- Chi phí thuế TNDN (*)
- Chi phí/(thu nhập) thuế TNDN ghi nhận trong báo 
+Chi phí không được khấu trừ
+Chênh lệch tạm thời mà không ghi nhận tài sản
+thuế thu nhập hoãn lại
+Ảnh hưởng của thay đổi thuế suất
+Lỗ tính thuế mà không ghi nhận tài sản
+thuế thu nhập hoãn lại
+Dự phòng thiếu của năm trước
+Chi phí thuế TNDN (*)
+Chi phí/(thu nhập) thuế TNDN ghi nhận trong báo
 cáo kết quả hoạt động kinh doanh hợp nhất:
-  Thuế TNDN - hiện hành 
-  Thuế TNDN - hoãn lại (Thuyết minh 21) 
-1.279.230.522.031
- 
-1.354.549.732.531
-(75.319.210.500)
-255.846.104.406
- 
-8.105.845.631
-(21.196.075.967)
-(741.406.483)
-6.429.003.684
-1.744.885.115
-250.188.356.386
- 259.673.455.974
-(9.485.099.588)
-250.188.356.386
-1.345.980.468.715
- 
-1.357.382.622.984
-(11.402.154.269)
-269.196.093.743
- 
-1.501.733.297
-3.692.105.560
--
-2.280.430.854
--
-276.670.363.454
- 279.422.477.414
-(2.752.113.960)
-276.670.363.454
+Thuế TNDN - hiện hành
+Thuế TNDN - hoãn lại (Thuyết minh 21)
 34   CHI PHÍ SẢN XUẤT KINH DOANH THEO YẾU TỐ
-Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh từ hoạt động của Tập đoàn trong năm, không bao 
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh từ hoạt động của Tập đoàn trong năm, không bao
 gồm giá mua hàng hóa phát sinh trong hoạt động thương mại. Chi tiết được trình bày như sau:
-2021 VND
-2020 VND
-Chi phí nguyên liệu, vật liệu	
-	
-	
-	
-6.533.668.664.645	
-5.272.469.182.700
-Chi phí nhân viên		
-	
-	
-	
-	
-1.468.307.712.404	
-1.254.333.985.055
-Công cụ, dụng cụ		
-	
-	
-	
-	
-117.237.309.536	 	
-116.343.456.871
-Chi phí khấu hao	 	
-	
-	
-	
-	
-75.118.429.219	
-	
-72.154.867.041
-Chi phí dịch vụ mua ngoài	 	
-	
-	
-	
-651.162.176.248	 	
-615.489.113.790
-Khác	
-	
-	
-	
-	
-	
-	
-216.461.489.153	 	
-242.950.595.911
- 	
-	
-	
-	
-	
-	
-	
-9.061.955.781.205	
-7.573.741.201.368
-Mẫu số B 09-DN/HN
+Chi phí nguyên liệu, vật liệu
+Chi phí nhân viên
+Công cụ, dụng cụ
+Chi phí khấu hao
+Chi phí dịch vụ mua ngoài
+Khác
 35   THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
 (a)  Giao dịch với các bên liên quan
 Trong năm, nghiệp vụ chủ yếu sau đây được thực hiện với các bên liên quan:
 (b)  Số dư cuối năm với các bên liên quan
-2021 VND
-2020 VND
-Các khoản chi cho các nhân sự quản lý chủ chốt	
- 	
- 
-Lương và các quyền lợi gộp khác	
-	
-	
-	
-64.450.423.358	 	
-54.932.689.167
-	
-Trong đó:	
- 	
- 
-	
-Các thành viên Hội đồng Quản trị	
-	
-	
-19.690.844.975	 	
-13.327.809.094
-	
-Các thành viên Ban Điều hành	
-	
-	
-44.759.578.383	 	
-31.098.221.218
-2021 VND
-2020 VND
-Phải trả ngắn hạn khác (Thuyết minh 17)	
- 	
- 
-Các thành viên Hội đồng Quản trị và Ban Điều hành	
-10.084.181.002	 	
-21.039.066.145
+Các khoản chi cho các nhân sự quản lý chủ chốt
+Lương và các quyền lợi gộp khác
+Trong đó:
+Các thành viên Hội đồng Quản trị
+Các thành viên Ban Điều hành
+Phải trả ngắn hạn khác (Thuyết minh 17)
+Các thành viên Hội đồng Quản trị và Ban Điều hành
 36   CAM KẾT THUÊ HOẠT ĐỘNG
 Các hợp đồng thuê cửa hàng hoạt động không hủy ngang, Tập đoàn phải trả mức tối thiểu trong tương lai như sau:
-2021 VND
-2020 VND
-Dưới 1 năm	
-	
-	
-	
-	
-	
-267.648.043.754		
-230.896.342.548
-Từ 1 đến 5 năm	 	
-	
-	
-	
-	
-814.210.958.710		
-727.906.892.402
-Trên 5 năm	
-	
-	
-	
-	
-	
-362.366.349.123		
-357.916.886.719
-Tổng cộng các khoản thanh toán tối thiểu	
-	
-	
-1.444.225.351.587	
-1.316.720.121.669
-BÁO CÁO TÀI CHÍNH HỢP NHẤT (tt)
-37   BÁO CÁO BỘ PHẬN	
+Dưới 1 năm
+Từ 1 đến 5 năm
+Trên 5 năm
+Tổng cộng các khoản thanh toán tối thiểu
+37   BÁO CÁO BỘ PHẬN
 Báo cáo bộ phận theo khu vực địa lý
-Tập đoàn thực hiện toàn bộ hoạt động kinh doanh vàng, bạc, nữ trang, đá quý và cung cấp dịch vụ chỉ trên lãnh thổ Việt 
-Nam. Vì vậy, Tập đoàn không trình bày báo cáo bộ phận theo khu vực địa lý. 
+Tập đoàn thực hiện toàn bộ hoạt động kinh doanh vàng, bạc, nữ trang, đá quý và cung cấp dịch vụ chỉ trên lãnh thổ Việt
+Nam. Vì vậy, Tập đoàn không trình bày báo cáo bộ phận theo khu vực địa lý.
 Báo cáo bộ phận theo lĩnh vực kinh doanh
-Hoạt động kinh doanh vàng, bạc, nữ trang và đá quý là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Tập đoàn, trong 
-khi các khoản doanh thu khác chiếm tỷ trọng không trọng yếu trong tổng doanh thu của Tập đoàn, do vậy Ban Điều hành 
+Hoạt động kinh doanh vàng, bạc, nữ trang và đá quý là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Tập đoàn, trong
+khi các khoản doanh thu khác chiếm tỷ trọng không trọng yếu trong tổng doanh thu của Tập đoàn, do vậy Ban Điều hành
 cho rằng Tập đoàn hoạt động trong một bộ phận kinh doanh duy nhất.
 Báo cáo tài chính hợp nhất đã được Ban Điều hành phê chuẩn ngày 14 tháng 3 năm 2022.
 DƯƠNG QUANG HẢI
 Kế toán trưởng
-Lê Trí Thông 
+Lê Trí Thông
 Tổng Giám Đốc
 NGUYỄN THÀNH ĐẠT
 Người lập phiếu
-
-162
-BÁO CÁO THƯỜNG NIÊN 2021  |  163 
-DANH MỤC ĐỐI CHIẾU TIÊU CHUẨN GRI
-
-164
-BÁO CÁO THƯỜNG NIÊN 2021  |  165 
-DANH MỤC ĐỐI CHIẾU TIÊU CHUẨN GRI
-
-BÁO CÁO THƯỜNG NIÊN 2021  |  167 
-166
-DANH MỤC ĐỐI CHIẾU TIÊU CHUẨN GRI
-DANH MỤC ĐỐI CHIẾU YÊU CẦU CỦA THÔNG TƯ 96/2020/TT-BTC
-BÁO CÁO THƯỜNG NIÊN 2021  |  167
-
-CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
-170E Phan Đăng Lưu, P. 3, Q. Phú Nhuận, Tp. HCM 
-www.pnj.com.vn

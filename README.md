@@ -76,13 +76,13 @@ CapstoneProject/
 * **Các chỉ tiêu chính:** P/E, P/B, EPS, ROE, ROA, Net Margin, Biên lợi nhuận gộp, Hệ số thanh toán ngắn hạn, Tỷ lệ Nợ/Vốn chủ sở hữu (D/E)...
 
 ### 3.3. `all_stocks_financial_texts.csv` (Văn bản BCTN các năm đã khép sổ: 2021 – 2025)
-* **Quy mô:** **133 báo cáo BCTN** từ các tập đoàn lớn, tổng cộng **5.991.537 từ vựng** (gần 6 triệu từ) text thuần tiếng Việt chuẩn UTF-8.
+* **Quy mô:** **133 báo cáo BCTN** từ các tập đoàn lớn, tổng cộng **4.370.945 từ vựng** (hơn 4.37 triệu từ) text thuần tiếng Việt chuẩn UTF-8 có mật độ ngữ nghĩa cao, đã lọc sạch nhiễu ma trận số kế toán.
 * **Cấu trúc cột:**
   * `ticker`: Mã cổ phiếu
   * `year`: Năm báo cáo (`2021`, `2022`, `2023`, `2024`, `2025`)
-  * `notes_text`: **Toàn văn Bản Thuyết minh Báo cáo tài chính** (Báo cáo bộ phận, chi tiết nợ vay ngân hàng, dự phòng giảm giá hàng tồn kho, nợ xấu, nợ tiềm tàng). Tổng: **2.956.893 từ**.
-  * `mda_text`: **Báo cáo của Ban Điều hành / Ban Tổng Giám đốc** (Đánh giá kết quả kinh doanh, phân tích nguyên nhân biến động, bối cảnh vĩ mô, rủi ro và định hướng). Tổng: **2.323.257 từ**.
-  * `esg_text`: **Báo cáo ESG** (Môi trường, xã hội, quản trị, phát thải khí nhà kính). Tổng: **711.387 từ**.
+  * `notes_text`: **Bản Thuyết minh BCTC Định tính (Targeted Narrative Notes)**. Tập trung vào 6 nhóm giải mã: Báo cáo bộ phận, Điều khoản nợ vay & lãi suất, Dự phòng nợ xấu & giảm giá hàng tồn kho, Cam kết bảo lãnh & nợ tiềm tàng, Giao dịch bên liên quan, Sự kiện sau niên độ. Đã loại bỏ triệt để các bảng số liệu ma trận vỡ layout (*Digit-Wall Filter*). Tổng: **966.412 từ**.
+  * `mda_text`: **Báo cáo của Ban Điều hành / Ban Tổng Giám đốc** (Đánh giá kết quả kinh doanh, phân tích nguyên nhân biến động, bối cảnh vĩ mô, rủi ro và định hướng). Tổng: **2.216.731 từ**.
+  * `esg_text`: **Báo cáo ESG** (Môi trường, xã hội, quản trị, phát thải khí nhà kính). Tổng: **1.187.802 từ**.
   * `notes_words`, `mda_words`, `esg_words`: Thống kê số lượng từ.
 
 ### 3.4. `all_stocks_quarterly_texts.csv` (Văn bản Báo cáo & Giải trình Quý lẻ năm 2026)
@@ -223,37 +223,28 @@ COPY stock_prices FROM '/path/to/data/processed/all_stocks_prices.csv' WITH (FOR
 
 ---
 
-## 🛠️ 6. Checklist Những Thứ Còn Thiếu Cần Làm Thủ Công / Bổ Sung (Kèm Hướng Dẫn OCR)
+## 🛠️ 6. Checklist & To-Do List Các Công Việc Cần Hoàn Thiện Tiếp Theo
 
-Dưới đây là các phần nhóm cần phối hợp hoàn thiện thủ công để bộ dữ liệu đạt 100% độ phủ tuyệt đối:
+Dưới đây là danh mục các hạng mục còn lại được ghi nhận vào **To-Do List** để hoàn thiện trọn vẹn đề tài:
 
-### 1. Phân tích nguyên nhân các file `.txt` bị trống trong `data/text/extracted_text/`
-* **Kết quả chẩn đoán toàn diện trên 124 file PDF tải về:**
-  * **73.4% (91 files):** Là bản **Digital PDF chuẩn 100%** (có lớp vector ký tự, bóc tách ra văn bản sắc nét, đầy đủ).
-  * **7.3% (9 files):** Là bản **Lai (Mixed PDF)** (Nửa đầu Báo cáo Ban Giám đốc là chữ số hóa $\rightarrow$ file `_MDA.txt` có text; nhưng nửa sau BCTC kiểm toán lại là ảnh scan $\rightarrow$ file `_NOTES.txt` bị trống).
-  * **19.4% (24 files):** Là bản **Scan hoàn toàn bằng ảnh (Pure Scanned PDF)** (Doanh nghiệp in ra giấy, đóng dấu mộc đỏ pháp lý rồi scan lại thành file ảnh nộp lên Sở $\rightarrow$ Trình bóc tách text thấy 0 ký tự nên ghi ra file 0 bytes).
-* **Độ an toàn của tập Dataset:**
-  * Toàn bộ các file `.txt` bị trống **KHÔNG hề làm bẩn hay lỗi tập dữ liệu huấn luyện**.
-  * Pipeline tổng hợp [`download_and_extract_reports.py`](file:///home/zafkiel/Workspace/CapstoneProject/download_and_extract_reports.py) đã tích hợp bộ lọc tự động:
-    ```python
-    if len(mda_text) > 100 or len(notes_text) > 100 or len(esg_text) > 100:
-    ```
-    Nhờ đó, file tổng hợp [`all_stocks_financial_texts.csv`](file:///home/zafkiel/Workspace/CapstoneProject/data/processed/all_stocks_financial_texts.csv) chỉ giữ lại **133 bản ghi sạch với gần 6 triệu từ vựng**.
+### 📌 [TO-DO LIST] Bước 2: Bù đắp các file Scan & Thiếu link để phủ kín 100% Ma trận Thời gian (N = 48 mã × T = 5 năm)
+> [!NOTE]
+> **Hiện trạng ma trận:**
+> * Tổng số báo cáo cần cho 48 mã × 5 năm (2021 – 2025) = **240 báo cáo**.
+> * Đã tải về: **192 file PDF** (80.0%).
+> * Đã bóc tách văn bản sạch thành công (Digital PDF): **133 báo cáo** (4.37 triệu từ sạch, không nhiễu số).
+> * **Cần xử lý bù đắp sau (Bước 2):**
+>   1. **59 file PDF scan ảnh** (doanh nghiệp scan bản giấy đóng dấu mộc đỏ nộp lên Sở): `ACB`, `SSI`, `DGC`, `ITA`, `CII`, `SAB`, `VIB`, `SHB`, `SBT`, `VND`...
+>   2. **48 báo cáo chưa tải được link** BCTN từ Vietstock/Vnstock API.
 
-### 2. Quy trình & Kế hoạch chạy OCR sau này (OCR Workflow)
-Khi bạn hoặc nhóm có thời gian muốn bù đắp các mã bị scan để đạt độ phủ 100%, hãy thực hiện theo quy trình sau:
-
-* **Danh sách các mã cần OCR:** `ACB`, `SSI`, `DGC`, `ITA`, `CII`, `VND`, `STB`, `PLX`...
-* **Các phương pháp thực hiện:**
-  * **Phương pháp 1 (Khuyên dùng - Nhanh nhất & KHÔNG CẦN OCR):**
-    1. Truy cập trực tiếp mục **Quan hệ Cổ đông (Investor Relations - IR)** trên website của công ty (Ví dụ: `acb.com.vn`, `ssi.com.vn`, `vinamilk.com.vn`).
-    2. Các tập đoàn này luôn đăng tải song song một bản **Digital PDF chất lượng cao** (để gửi quỹ ngoại và cổ đông).
-    3. Mở file, copy trực tiếp phần *"Báo cáo của Ban Giám đốc"* và *"Thuyết minh BCTC"*.
-  * **Phương pháp 2 (Dùng Google Docs OCR - Miễn phí & Chuẩn xác nhất cho tiếng Việt):**
-    1. Tải file PDF scan lên **Google Drive**.
-    2. Chuột phải vào file PDF $\rightarrow$ Chọn **Mở bằng Google Tài liệu (Google Docs)**.
-    3. Trí tuệ nhân tạo của Google Docs sẽ tự động nhận diện chữ tiếng Việt có dấu cực kỳ chuẩn xác và giữ nguyên các đoạn văn.
-  * **Phương pháp 3 (Dùng script Python OCR tự động):**
+* **Kế hoạch triển khai Bước 2 (Làm sau):**
+  * **Giải pháp 1 (Nhanh nhất & Chất lượng cao nhất - Tải bản Digital từ IR Doanh nghiệp):**
+    * Vào trực tiếp trang Quan hệ cổ đông (IR) của các doanh nghiệp (ví dụ `ssi.com.vn`, `vib.com.vn`, `ducgiangchem.vn`). Hầu hết các công ty lớn đều xuất bản 1 file PDF digital bản gốc sắc nét song song với bản scan mộc đỏ.
+  * **Giải pháp 2 (Chạy Pipeline OCR tự động):**
+    * Chạy script OCR (sử dụng thư viện `tesseract-ocr` với gói `vie` hoặc `paddleocr`) bóc tách riêng các trang ảnh scan thành text thuần tiếng Việt.
+  * **Giải pháp 3 (Dùng Google Docs OCR cho các mã khó):**
+    * Tải file PDF scan lên Google Drive $\rightarrow$ Mở bằng Google Docs để nhận diện chữ tiếng Việt tự động. Trí tuệ nhân tạo của Google Docs sẽ tự động nhận diện chữ tiếng Việt có dấu cực kỳ chuẩn xác và giữ nguyên các đoạn văn.
+  * **Giải pháp 4 (Dùng script Python OCR tự động):**
     * Có thể dùng thư viện `vietocr` hoặc `paddleocr` để viết script chạy tự động qua các trang ảnh.
 * **Cách nạp kết quả OCR vào Dataset:**
   1. Dán văn bản đã OCR tương ứng vào file:

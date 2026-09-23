@@ -1,27 +1,22 @@
 CÁC THUẬT NGỮ VIẾT TẮT
 BCTN
-Báo cáo thường niên
 ĐHĐCĐ
 Đại hội đồng cổ đông
 LNTT
 Lợi nhuận trước thuế
 BCTC
-Báo cáo tài chính
 ĐNB&TN
 Đông Nam Bộ và Tây Nguyên
 NSNN
 Ngân sách Nhà nước
 BDTT
 Bảo dưỡng tổng thể
-ERP
 Quản trị nguồn lực doanh nghiệp
 PCCC
 Phòng cháy chữa cháy
-BKS
 Ban Kiểm soát
 E-OFFICE
 Hệ thống văn bản chỉ đạo điều hành
-PPC
 Công ty Cổ phần Bao bì Dầu khí Việt Nam
 BTGĐ
 Ban Tổng Giám đốc
@@ -37,7 +32,7 @@ QTNS&LT Quản trị, Nhân sự và Lương thưởng
 CBCNV
 Cán bộ công nhân viên
 KT&QTRR
-Kiểm toán và Quản trị rủi ro 
+Kiểm toán và Quản trị rủi ro
 QTRR
 Quản trị rủi ro
 ĐBSCL
@@ -46,152 +41,311 @@ LNST
 Lợi nhuận sau thuế
 SXKD
 Sản xuất kinh doanh
-UB
 Uỷ ban
 TV HĐQT Thành viên Hội đồng Quản trị
-MỤC LỤC
 CHƯƠNG 1
 CHƯƠNG 2
 CHƯƠNG 3
-Giới thiệu tổng quan về PVCFC
-10
 Quá trình hình thành và phát triển
-14
 Lĩnh vực kinh doanh
-16
 Mô hình quản trị và Bộ máy quản lý Công ty
-24
 Giới thiệu Ban lãnh đạo
-28
 Danh hiệu và giải thưởng tiêu biểu
-40
-Dấu ấn PVCFC năm 2022
-42
 Các thuật ngữ viết tắt
-00
 Thông điệp của Ban Lãnh đạo Công ty
-00
 Tổng quan Ngành Phân bón 2022
-50
 Triển vọng Ngành Phân bón 2023
-54
 Chuỗi Giá trị Bền vững PVCFC
-56
 Định hướng phát triển
-58
 Tình hình hoạt động trong năm 2022
-68
 Báo cáo và đánh giá của Ban Tổng Giám đốc
-80
 Báo cáo và đánh giá của Hội đồng Quản trị
-95
-CHIẾN LƯỢC PHÁT TRIỂN
 BÁO CÁO HOẠT ĐỘNG TRONG NĂM 2022
 TỔNG QUAN
 CHƯƠNG 4
 CHƯƠNG 5
 CHƯƠNG 6
 Hội đồng Quản trị
-100
 Ban Kiểm soát
-106
-Các giao dịch, thù lao và các khoản lợi ích của  
-Hội đồng Quản trị, Ban Tổng Giám đốc và Ban Kiểm soát 
-112
+Các giao dịch, thù lao và các khoản lợi ích của
+Hội đồng Quản trị, Ban Tổng Giám đốc và Ban Kiểm soát
 Quản trị rủi ro
-116
-Hệ thống kiểm soát nội bộ và hoạt động  
-kiểm toán nội bộ của PVCFC 
-118
-Đánh giá tình hình thực hiện quản trị Công ty  
-dựa trên thẻ điểm quản trị Công ty khu vực ASEAN
-122
+Hệ thống kiểm soát nội bộ và hoạt động
+kiểm toán nội bộ của PVCFC
 Tổng quan báo cáo phát triển bền vững
-142
 Quản trị hướng đến phát triển bền vững
-143
-Hoạt động phát triển bền vững tại PVCFC trong năm 2022 
+Hoạt động phát triển bền vững tại PVCFC trong năm 2022
 với 17 mục tiêu phát triển bền vững của Liên Hiệp Quốc
-153
 Các thành tựu trong các lĩnh vực trọng yếu
-156
 Các số liệu tài chính nổi bật năm 2022
-168
-Báo cáo của Ban Tổng Giám đốc 
-171
-Báo cáo kiểm toán độc lập 
-173
-Bảng cân đối kế toán hợp nhất 
-175
+Báo cáo của Ban Tổng Giám đốc
+Báo cáo kiểm toán độc lập
+Bảng cân đối kế toán hợp nhất
 Báo cáo kết quả hoạt động kinh doanh hợp nhất
-179
 Báo cáo lưu chuyển tiền tệ hợp nhất
-180
-Thuyết minh báo cáo tài chính hợp nhất
-182
-QUẢN TRỊ CÔNG TY
 BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
-BÁO CÁO TÀI CHÍNH
 
-140
-141
+PVCFC luôn chú trọng công tác giám sát và
+kiểm tra song song với vận hành an toàn, hiệu
+quả. Hoạt động này được thực hiện định kỳ
+theo quý nhằm giúp Công ty chủ động rà soát,
+đánh giá các rủi ro tiềm ẩn, kịp thời xác lập
+phương án xử lý một cách chính xác.
+Việc kiểm soát của Công ty được cụ thể hoá
+bằng cách ban hành áp dụng bộ chỉ số cảnh
+báo KRI. Căn cứ vào đây, công tác đo lường,
+theo dõi và cảnh báo rủi ro có thể đạt độ chuẩn
+xác và hiệu quả cao.
+Bên cạnh đó, PVCFC đã xây dựng thành công
+phần mềm QTRR cho riêng hệ thống Công ty,
+góp phần nâng cao hiệu quả công tác quản trị
+tại PVCFC.
+CHƯƠNG 3 - BÁO CÁO HOẠT ĐỘNG TRONG NĂM 2022
+QUẢN TRỊ RỦI RO
+Đóng vai trò là thương hiệu tiên phong trong ngành sản xuất, kinh doanh phân bón với mạng lưới phân phối trải rộng trên
+nhiều địa bàn trong và ngoài nước, PVCFC ý thức rất rõ về những rủi ro doanh nghiệp phải đối mặt trong bối cảnh thị trường
+luôn tiềm ẩn nhiều biến động, thách thức; từ đó có những biện pháp kiểm soát rủi ro hợp lý nhằm thực hiện tốt công tác quản
+trị Công ty, hỗ trợ thúc đẩy kinh doanh, góp phần mang lại thành công và sự phát triển bền vững cho Công ty.
+Bước qua năm 2022 với nhiều mối lo ngại về các cuộc đa khủng hoảng trên tất cả các lĩnh vực kinh tế, chính trị, an ninh, xã
+hội… hệ thống kiểm soát nội bộ và quản lý rủi ro vững chắc của PVCFC đã đóng vai trò then chốt trong việc dẫn dắt doanh
+nghiệp đón đầu những thách thức, tận dụng những cơ hội, triển khai các chiến lược thích ứng linh hoạt, sáng tạo, giúp Công
+ty hoàn thành xuất sắc các mục tiêu đề ra.
+HOẠT ĐỘNG QUẢN TRỊ RỦI RO
+Trong năm 2022 Công ty đã phân tích, đánh giá, theo dõi và quản lý các
+rủi ro ảnh hưởng lớn đến chiến lược và hoạt động kinh doanh, bao gồm:
+Cuộc khủng hoảng năng lượng trong năm 2022
+đã dẫn đến thiếu hụt nguồn cung, đẩy giá cả leo
+thang ở mức cao kỷ lục. Việc sâu sát tình hình,
+phân tích cơ hội và dự đoán rủi ro đã giúp PVCFC
+có những giải pháp thích nghi nhanh chóng, kịp
+thời. Hơn nữa, phát huy thế mạnh đổi mới, sáng
+tạo cùng các sáng kiến cải tiến kỹ thuật, PVCFC đã
+tối ưu hóa quá trình vận hành để tăng công suất,
+nâng cao hiệu quả giúp tiết kiệm chi phí vận hành
+và hao hụt. Nhờ đó, sản phẩm chất lượng cao tiếp
+tục ra đời đều đặn, đáp ứng tốt nhu cầu thị trường.
+Các sản phẩm phân bón đa phần không chênh
+lệch về chất lượng, thêm sự sao chép về chính
+sách, phân loại sản phẩm từ các đối thủ khác
+khiến thương hiệu khó tạo nên sự khác biệt, độc
+đáo, dẫn đến khó xâm nhập thị trường và giảm
+hiệu suất kinh doanh.
+Vì vậy, PVCFC đã và đang triển khai nhiều giải pháp
+kinh doanh sáng tạo, hiệu quả, thúc đẩy công tác
+nghiên cứu, sáng chế, ứng dụng khoa học công
+nghệ vào hoạt động sản xuất kinh doanh nhằm
+nâng cao chất lượng sản phẩm, năng lực sản xuất,
+góp phần gia tăng năng lực cạnh tranh của Công
+ty trên thị trường.
+Bên cạnh đó, Công ty cũng thực hiện các chương
+trình đồng hành cùng bà con nông dân tại các địa
+phương vừa nhằm san sẻ những gánh nặng, khó
+khăn cho bà con nông dân, vừa giúp gia tăng uy
+tín, tạo dựng niềm tin cùng khách hàng.
+Hiện nay, do thị trường cung lớn hơn cầu nhiều,
+khả năng giao thương thuận lợi nên lợi thế về Urê
+hạt đục, sản phẩm khác cho khu vực ĐBSCL không
+còn nhiều vì các sản phẩm nhập khẩu tương tự rất
+nhiều, chất lượng tốt, giá cũng cạnh tranh nên khó
+để duy trì vị thế tại thị trường.
+Với bản lĩnh và kinh nghiệm của một thương hiệu
+tiên phong trong lĩnh vực sản xuất, kinh doanh
+phân bón cùng lợi thế về sáng chế, cải tiến kỹ
+thuật, PVCFC cam kết cung cấp cho thị trường
+những sản phẩm phân bón chất lượng ưu việt,
+ngày càng hoàn thiện hơn nữa bộ giải pháp dinh
+dưỡng cho cây trồng, qua đó thiết thực chung tay
+vì sự phát triển của một nền nông nghiệp xanh bền
+vững.
+Hệ thống phân phối kinh doanh bao gồm các mặt
+hàng của Công ty và sản phẩm của các đơn vị
+khác, các sản phẩm nhập khẩu đa dạng - khiến
+mức độ cạnh tranh tại thị trường, tại điểm bán
+càng khốc liệt và khó kiểm soát hơn.Trong năm
+qua, PVCFC đã thực hiện tốt công tác mở rộng hệ
+thống phân phối, tăng độ nhận biết thương hiệu và
+đầu tại vùng, lãnh thổ trong và ngoài nước.
+NHẬN DIỆN VÀ QUẢN TRỊ CÁC RỦI RO TRỌNG YẾU
+RỦI RO SẢN XUẤT
+RỦI RO ĐẾN TỪ ĐỐI THỦ TRỰC TIẾP
+RỦI RO TỪ CÁC SẢN PHẨM THAY THẾ
+RỦI RO ĐẾN TỪ NHÀ CUNG CẤP
+Hệ thống QTRR thật sự đã trở thành một phần thiết yếu trong từng hoạt động của PVCFC. Trong những năm tiếp theo,
+PVCFC sẽ tiếp tục triển khai xây dựng hệ thống này theo khung COSO-ERM một cách toàn diện kết hợp với hệ thống QTRR
+do Công ty tự xây dựng và đưa vào thực tiễn nhằm đảm bảo kiểm soát, quản lý và giám sát hiệu quả danh mục rủi ro của
+Công ty, giúp Công ty hoàn thành xuất sắc các mục tiêu đề ra, góp phần vào sự phát triển bền vững của PVCFC.
+TỔNG KẾT VÀ ĐỊNH HƯỚNG
+(hệ thống kênh phân phối)
+Lãnh đạo PVCFC trong buổi lễ chính thức ra mắt NPK Cà Mau
+
+CÂU HỎI
+NỘI DUNG CÂU HỎI
+ĐÁNH GIÁ
+CƠ SỞ ĐÁNH GIÁ
+BCTN có công bố TV HĐQT đã rà soát các
+chốt kiểm soát trọng yếu của Công ty và các
+hệ thống QLRR?
+Công ty có công bố những rủi ro chủ yếu?
+BCTN có trình bày tuyên bố của TV HĐQT
+hay Tiểu ban Kiểm toán về sự đầy đủ của
+các chốt kiểm soát nội bộ hệ thống QLRR
+của Công ty?
+NHÂN SỰ TRONG HĐQT
+Chủ tịch HĐQT
+Hai người khác nhau đảm nhiệm vị trí chủ
+tịch HĐQT và TGĐ?
+Tại PVCFC chức danh Chủ tịch HĐQT và Tổng Giám
+đốc được tách bạch.
+Chủ tịch có phải là TV độc lập HĐQT?
+Chủ tịch không phải là TV độc lập HĐQT.
+Có bất kỳ TV HĐQT là nguyên Tổng Giám
+đốc/ Giám đốc điều hành của Công ty trong
+2 năm trước?
+Không.
+Vai trò và trách nhiệm của Chủ tịch HĐQT
+có được công bố công khai?
+Điều lệ và Quy chế quản trị thể hiện cụ thể nội dung này.
+Trưởng thành viên độc lập HĐQT
+Nếu Chủ tịch HĐQT không độc lập, HĐQT
+có bổ nhiệm một thành viên độc lập HĐQT
+nhiều kinh nghiệm với yêu cầu công việc
+được xác định rõ ràng?
+Có 2 thành viên độc lập HĐQT để hỗ trợ và thực hiện
+các công việc liên quan.
+Kỹ năng và năng lực
+Có tối thiểu 1 TV HĐQT không điều hành có
+kinh nghiệm làm việc trước đó trong lĩnh
+vực chính mà Công ty đang hoạt động?
+PVCFC có 6/7 thành viên HĐQT không điều hành và
+các thành viên đều có kinh nghiệm về ngành dầu khí,
+chế biến và tài chính.
+HIỆU QUẢ HOẠT ĐỘNG CỦA HĐQT
+Công ty có chương trình định hướng cho TV
+HĐQT mới?
+Các nội dung đánh giá hiệu quả hàng năm đối với
+HĐQT/TGĐ được thể hiện trong các quy chế nội bộ
+Công ty. Tuy nhiên, các chương trình định hướng cho
+TV HĐQT mới đều được định hướng và đào tạo về
+Công ty có chính sách khuyến khích TV
+HĐQT tham gia các chương trình đào tạo
+liên tục hay đào tạo chuyên môn?
+Công ty có các chính sách khuyến khích TV HĐQT
+tham gia các chương trình đào tạo do Ủy ban Quản
+trị, Nhân sự & Lương thưởng đảm trách. Các thành
+viên thường xuyên tham gia các lớp đào tạo về quản
+trị Công ty.
+ĐÁNH GIÁ TÌNH HÌNH THỰC HIỆN QUẢN TRỊ
+CÔNG TY DỰA TRÊN THẺ ĐIỂM QUẢN TRỊ
+CÔNG TY KHU VỰC ASEAN (TIẾP THEO)
+CÂU HỎI
+NỘI DUNG CÂU HỎI
+ĐÁNH GIÁ
+CƠ SỞ ĐÁNH GIÁ
+Bổ nhiệm và Hiệu quả của TGĐ/Ban Điều hành
+Công ty có công bố cách thức TV HĐQT
+xây dựng quy hoạch kế nhiệm cho vị trí Chủ
+tịch/TGĐ và nhân sự chủ chốt?
+PVCFC có quy hoạch xây dựng đội ngũ kế thừa, tuy
+nhiên chưa công bố công khai.
+TV HĐQT có thực hiện đánh giá hiệu quả
+hàng năm đối với Chủ tịch HĐQT/TGĐ?
+hoạt động của Tổng Giám đốc. Chưa trình bày đánh
+giá hoạt động đối với Chủ tịch HĐQT.
+Đánh giá HĐQT
+Đánh giá hiệu quả hàng năm có được thực
+hiện cho HĐQT và công bố tiêu chí, quy trình
+tiến hành đánh giá?
+Có tiến hành đánh giá nhưng chưa trình bày chi tiết
+Đánh giá thành viên HĐQT
+Đánh giá hiệu quả hàng năm có được thực
+hiện cho từng TV HĐQT và công bố tiêu chí,
+quy trình tiến hành đánh giá?
+Công ty thực hiện đánh giá hoạt động của HĐQT
+trong Báo cáo của HĐQT tại ĐHĐCĐ.
+Đánh giá Tiểu ban
+Đánh giá hiệu quả hàng năm có được thực
+hiện đối với các Tiểu Ban của HĐQT và công
+bố tiêu chí, quy trình tiến hành đánh giá?
+Có tiến hành đánh giá nhưng chưa trình bày chi tiết
+CÂU HỎI
+NỘI DUNG CÂU HỎI
+ĐÁNH GIÁ
+CƠ SỞ ĐÁNH GIÁ
+QUYỀN CỦA CỔ ĐÔNG
+QUYỀN CƠ BẢN CỦA CỔ ĐÔNG
+Công ty cho phép sử dụng biểu quyết vắng
+mặt bằng phương thức điện tử có đảm bảo
+tại Đại hội cổ đông?
+thức biểu quyết từ xa nhưng PVCFC chưa thực hiện
+tại các kỳ Đại hội do chưa đáp ứng các điều kiện cần
+thiết. Sẽ xem xét thực hiện trong các kỳ Đại hội sau.
+ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG
+THÔNG BÁO ĐHĐCĐ
+Công ty có ra thông báo về ĐHĐCĐ (có
+chương trình chi tiết và thông báo giải thích),
+như thông báo cho Sở Giao dịch, tối thiểu 28
+ngày trước ngày họp?
+Thông báo mời họp về ĐHĐCĐ, Công ty thực hiện
+công bố trước 21 ngày.
+VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN
+QUYỀN CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN ĐƯỢC PHÁP LUẬT QUY ĐỊNH HOẶC THEO CÁC THỎA
+THUẬN SONG PHƯƠNG PHẢI ĐƯỢC TÔN TRỌNG
+Công ty có thực hiện khuôn khổ báo cáo
+được quốc tế công nhận về phát triển bền
+vững (nghĩa là GRI, Báo cáo Tích hợp,
+SASB) không?
+Báo cáo phát triển bền vững PVCFC được lập theo
+chuẩn GRI.
+THẺ ĐIỂM THƯỞNG
+
 CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
-PHÂN BÓN CÀ MAU - BÁO CÁO THƯỜNG NIÊN 2022
 CHƯƠNG 5
 BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
-TỔNG QUAN BÁO CÁO PHÁT TRIỂN BỀN VỮNG 
-QUẢN TRỊ HƯỚNG ĐẾN PHÁT TRIỂN BỀN VỮNG 
-HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TẠI PVCFC TRONG NĂM 2022 
-VỚI 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HIỆP QUỐC 
-CÁC THÀNH TỰU TRONG CÁC LĨNH VỰC TRỌNG YẾU
-142
-143
-153
-156
-
-142
-143
-CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
-PHÂN BÓN CÀ MAU - BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 QUẢN TRỊ HƯỚNG ĐẾN PHÁT TRIỂN BỀN VỮNG
-Trong suốt quá trình phát triển, PVCFC luôn đặt mục tiêu phát triển bền vững ở vị trí chiến lược kết hợp với việc thực hiện 
-mục tiêu tăng trưởng về kinh tế trên nguyên tắc đảm bảo sự hài hòa lợi ích giữa các bên liên quan, bền vững của môi trường, 
-hướng đến sự thịnh vượng của cộng đồng, xã hội. Do đó, báo cáo phát triển bền vững được xây dựng như một cầu nối giữa 
+HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TẠI PVCFC TRONG NĂM 2022
+VỚI 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HIỆP QUỐC
+CÁC THÀNH TỰU TRONG CÁC LĨNH VỰC TRỌNG YẾU
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
+TỔNG QUAN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+QUẢN TRỊ HƯỚNG ĐẾN PHÁT TRIỂN BỀN VỮNG
+Trong suốt quá trình phát triển, PVCFC luôn đặt mục tiêu phát triển bền vững ở vị trí chiến lược kết hợp với việc thực hiện
+mục tiêu tăng trưởng về kinh tế trên nguyên tắc đảm bảo sự hài hòa lợi ích giữa các bên liên quan, bền vững của môi trường,
+hướng đến sự thịnh vượng của cộng đồng, xã hội. Do đó, báo cáo phát triển bền vững được xây dựng như một cầu nối giữa
 PVCFC và các bên liên quan, giúp làm rõ định hướng chiến lược và cam kết của Công ty với các bên liên quan.
-Thông qua việc thực hiện báo cáo bền vững, bên cạnh khía cạnh kinh tế, PVCFC cũng nhìn nhận và đánh giá được trách 
-nhiệm, những đóng góp về mặt xã hội và môi trường, từ đó giúp Công ty cân bằng được các kế hoạch hoạt động sắp tới vì 
-mục tiêu phát triển bền vững của doanh nghiệp và xã hội trong những niên độ tài chính kế tiếp. 
-Năm 2022, PVCFC chủ trương áp dụng Hướng dẫn thực hiện Báo cáo phát triển bền vững theo Tài liệu hướng dẫn doanh 
-nghiệp lập Báo cáo thường niên của Vietnam Annual Report Awards (ARA), Hướng dẫn công bố thông tin về môi trường & 
-xã hội của Ủy ban Chứng khoán Nhà nước IFC và Thông tư 96/2020/TT-BTC Hướng dẫn công bố thông tin trên thị trường 
-chứng khoán của Bộ Tài chính. Ngoài ra, PVCFC còn tham khảo Bộ tiêu chuẩn GRI trong việc xác định các lĩnh vực trọng yếu 
-tác động đến các bên liên quan đối chiếu các mục tiêu của Công ty trong tương quan với 17 mục tiêu phát triển bền vững 
-của Liên Hợp Quốc (SDGs), để có cái nhìn tổng quát và toàn diện nhằm xây dựng nội dung Báo cáo phát triển bền vững và 
-đưa ra những chiến lược kinh doanh bền vững trong tương lai. 
-Nền tảng cơ cấu quản trị Công ty vững chắc
-Cơ cấu quản trị của PVCFC có đầy đủ các chủ thể quản trị 
-của một Công ty niêm yết, bao gồm: Đại hội đồng cổ đông, 
-Ban Kiểm soát, Hội đồng Quản trị, các Ban trực thuộc Hội 
+Thông qua việc thực hiện báo cáo bền vững, bên cạnh khía cạnh kinh tế, PVCFC cũng nhìn nhận và đánh giá được trách
+nhiệm, những đóng góp về mặt xã hội và môi trường, từ đó giúp Công ty cân bằng được các kế hoạch hoạt động sắp tới vì
+mục tiêu phát triển bền vững của doanh nghiệp và xã hội trong những niên độ tài chính kế tiếp.
+Năm 2022, PVCFC chủ trương áp dụng Hướng dẫn thực hiện Báo cáo phát triển bền vững theo Tài liệu hướng dẫn doanh
+nghiệp lập Báo cáo thường niên của Vietnam Annual Report Awards (ARA), Hướng dẫn công bố thông tin về môi trường &
+xã hội của Ủy ban Chứng khoán Nhà nước IFC và Thông tư 96/2020/TT-BTC Hướng dẫn công bố thông tin trên thị trường
+chứng khoán của Bộ Tài chính. Ngoài ra, PVCFC còn tham khảo Bộ tiêu chuẩn GRI trong việc xác định các lĩnh vực trọng yếu
+tác động đến các bên liên quan đối chiếu các mục tiêu của Công ty trong tương quan với 17 mục tiêu phát triển bền vững
+của Liên Hợp Quốc (SDGs), để có cái nhìn tổng quát và toàn diện nhằm xây dựng nội dung Báo cáo phát triển bền vững và
+đưa ra những chiến lược kinh doanh bền vững trong tương lai.
+Cơ cấu quản trị của PVCFC có đầy đủ các chủ thể quản trị
+của một Công ty niêm yết, bao gồm: Đại hội đồng cổ đông,
+Ban Kiểm soát, Hội đồng Quản trị, các Ban trực thuộc Hội
 đồng Quản trị, Ban Điều hành.
 Phù hợp thông lệ và Pháp luật Việt Nam
-Công ty tuân thủ đầy đủ các quy định Pháp luật, khuôn khổ 
-pháp lý của Việt Nam và các quy chế quản trị cho Công ty 
+Công ty tuân thủ đầy đủ các quy định Pháp luật, khuôn khổ
+pháp lý của Việt Nam và các quy chế quản trị cho Công ty
 niêm yết.
-Báo cáo được thực hiện tại Việt Nam, về lĩnh vực sản xuất kinh doanh phân bón. Báo cáo được lập cho Công ty Cổ phần 
-Phân bón Dầu khí Cà Mau (PVCFC) bao gồm: Mọi thông tin và kết quả hoạt động của Công ty mẹ và 01 Công ty con - Công 
+Báo cáo được thực hiện tại Việt Nam, về lĩnh vực sản xuất kinh doanh phân bón. Báo cáo được lập cho Công ty Cổ phần
+Phân bón Dầu khí Cà Mau (PVCFC) bao gồm: Mọi thông tin và kết quả hoạt động của Công ty mẹ và 01 Công ty con - Công
 ty CP Bao bì Dầu khí Việt Nam (PPC).
-Thông tin và dữ liệu trong báo cáo được cập nhật cho năm tài chính 2022 của Công ty Cổ phần Phân bón Dầu khí Cà Mau, 
-bắt đầu từ ngày 01/01/2022 và kết thúc ngày 31/12/2022. Báo cáo phản ánh kết quả hoạt động trong năm 2022, đồng thời 
+Thông tin và dữ liệu trong báo cáo được cập nhật cho năm tài chính 2022 của Công ty Cổ phần Phân bón Dầu khí Cà Mau,
+bắt đầu từ ngày 01/01/2022 và kết thúc ngày 31/12/2022. Báo cáo phản ánh kết quả hoạt động trong năm 2022, đồng thời
 đề cập đến định hướng và mục tiêu trong những năm tới đối với vấn đề phát triển bền vững của Công ty.
-Cách tiếp cận các vấn đề về phát triển bền vững tại PVCFC xuất phát từ mục tiêu tăng trưởng kinh tế bền vững trong dài 
-hạn của Công ty kết hợp với các mục tiêu phát triển xã hội và bảo vệ môi trường, từ đó đóng góp tích cực cho sự phát triển 
+Cách tiếp cận các vấn đề về phát triển bền vững tại PVCFC xuất phát từ mục tiêu tăng trưởng kinh tế bền vững trong dài
+hạn của Công ty kết hợp với các mục tiêu phát triển xã hội và bảo vệ môi trường, từ đó đóng góp tích cực cho sự phát triển
 chung của toàn xã hội.
-Năm 2022 là năm thứ 8 PVCFC đề cập đến nội dung Báo cáo phát triển bền vững và được thể hiện trong nội dung 01 chương 
-thuộc Báo cáo thường niên. Những vấn đề liên quan đến mục tiêu phát triển bền vững tiếp tục được Công ty đánh giá và xem 
-xét trong mối tương quan với hoạt động hiện tại, sát sao thực tế, nắm bắt hiện trạng và xác định rõ các vấn đề trọng yếu để 
+Năm 2022 là năm thứ 8 PVCFC đề cập đến nội dung Báo cáo phát triển bền vững và được thể hiện trong nội dung 01 chương
+thuộc Báo cáo thường niên. Những vấn đề liên quan đến mục tiêu phát triển bền vững tiếp tục được Công ty đánh giá và xem
+xét trong mối tương quan với hoạt động hiện tại, sát sao thực tế, nắm bắt hiện trạng và xác định rõ các vấn đề trọng yếu để
 từ đó thực hiện rà soát, cập nhật cũng như thể hiện đầy đủ hơn trong nội dung Báo cáo phát triển bền vững các năm kế tiếp.
-Chúng tôi rất mong nhận được sự đóng góp ý kiến chân thành của Quý vị để nội dung báo cáo được thực hiện minh bạch và 
+Chúng tôi rất mong nhận được sự đóng góp ý kiến chân thành của Quý vị để nội dung báo cáo được thực hiện minh bạch và
 đầy đủ hơn. Mọi ý kiến đóng góp liên quan đến vấn đề phát triển bền vững, vui lòng gửi về địa chỉ:
 Website: http://www.pvcfc.com.vn/ (Mục Liên hệ)
 NỘI DUNG BÁO CÁO
@@ -199,85 +353,239 @@ PHẠM VI BÁO CÁO
 KỲ BÁO CÁO
 CÁCH THỨC XÁC ĐỊNH NỘI DUNG BÁO CÁO
 THÔNG TIN LIÊN HỆ
-01
-Trên cơ sở tuân thủ các quy định của Pháp luật có liên quan kết hợp với các thông lệ quốc tế về quản trị doanh nghiệp, bên 
-cạnh việc xây dựng và hoàn thiện cơ cấu quản trị theo hướng ngày càng vững mạnh và tiệm cận các chuẩn mực quốc tế, 
-PVCFC đã xây dựng một khung quản trị (trong đó bao gồm cả quản trị doanh nghiệp hướng đến Phát triển bền vững) bao 
-gồm Điều lệ, các quy chế, quy định và văn bản pháp quy trong nội bộ Tập đoàn nhằm tạo ra một hệ thống quản trị chuyên 
-nghiệp, xuyên suốt, minh bạch và hiệu quả từ Công ty Mẹ đến các đơn vị thành viên. Từ đó, PVCFC không chỉ đảm bảo được 
-nguyên tắc quản trị cao nhất của mình là đảm bảo lợi ích của các cổ đông, đồng thời hài hòa được các mục tiêu phát triển 
+Trên cơ sở tuân thủ các quy định của Pháp luật có liên quan kết hợp với các thông lệ quốc tế về quản trị doanh nghiệp, bên
+cạnh việc xây dựng và hoàn thiện cơ cấu quản trị theo hướng ngày càng vững mạnh và tiệm cận các chuẩn mực quốc tế,
+PVCFC đã xây dựng một khung quản trị (trong đó bao gồm cả quản trị doanh nghiệp hướng đến Phát triển bền vững) bao
+gồm Điều lệ, các quy chế, quy định và văn bản pháp quy trong nội bộ Tập đoàn nhằm tạo ra một hệ thống quản trị chuyên
+nghiệp, xuyên suốt, minh bạch và hiệu quả từ Công ty Mẹ đến các đơn vị thành viên. Từ đó, PVCFC không chỉ đảm bảo được
+nguyên tắc quản trị cao nhất của mình là đảm bảo lợi ích của các cổ đông, đồng thời hài hòa được các mục tiêu phát triển
 và thể hiện trách nhiệm với xã hội và môi trường.
 PHƯƠNG PHÁP QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG
-01
-02
-03
-04
-05
 MÔ HÌNH QUẢN TRỊ BỀN VỮNG TẠI PVCFC
-	»
-Chỉ đạo chung về các vấn đề chiến lược của Công ty liên quan 
+Chỉ đạo chung về các vấn đề chiến lược của Công ty liên quan
 đến phát triển bền vững.
-	»
 Phê duyệt các mục tiêu và kế hoạch hành động.
-	»
-Xây dựng và trình HĐQT các mục tiêu và kế hoạch hành động về 
+Xây dựng và trình HĐQT các mục tiêu và kế hoạch hành động về
 phát triển bền vững của PVCFC.
-	»
-Chia sẻ chiến lược, mục tiêu và kế hoạch phát triển bền vững 
+Chia sẻ chiến lược, mục tiêu và kế hoạch phát triển bền vững
 trong toàn Công ty.
-	»
-Thực hiện các nhiệm vụ cụ thể hàng ngày liên quan đến các mục 
+Thực hiện các nhiệm vụ cụ thể hàng ngày liên quan đến các mục
 tiêu về phát triển bền vững của PVCFC.
-	»
-Triển khai và hiện thực hóa kế hoạch phát triển bền vững theo 
+Triển khai và hiện thực hóa kế hoạch phát triển bền vững theo
 định hướng của Ban Điều hành.
 HỘI ĐỒNG QUẢN TRỊ
 BAN ĐIỀU HÀNH
 NHÂN VIÊN
-CÁC KHỐI VÀ BỘ PHẬN 
+CÁC KHỐI VÀ BỘ PHẬN
 CHỨC NĂNG
 Hướng tới tiệm cận chuẩn mực quốc tế
-Công ty tuân thủ các khuôn khổ và thông lệ quốc tế về Quản 
-trị Công ty, Thẻ điểm quản trị Công ty khu vực ASEAN và 
-ứng dụng công nghệ tiên tiến, hiện đại vào quản trị Công ty. 
+Công ty tuân thủ các khuôn khổ và thông lệ quốc tế về Quản
 Mô hình quản trị Công ty của PVCFC được thực hiện dựa trên sự kết hợp hài hòa giữa các yếu tố:
 Áp dụng thống nhất trên toàn Tập đoàn
-Công ty tuân thủ áp dụng các công cụ quản trị doanh 
+Công ty tuân thủ áp dụng các công cụ quản trị doanh
 nghiệp trong toàn Tập đoàn Dầu khí Việt Nam.
 
-152
-153
 CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
-PHÂN BÓN CÀ MAU - BÁO CÁO THƯỜNG NIÊN 2022
+TRÁCH NHIỆM CỦA HỘI ĐỒNG QUẢN TRỊ
+MÔI TRƯỜNG KIỂM SOÁT
+CÔNG BỐ THÔNG TIN VÀ MINH BẠCH
+CÁC QUYỀN CỔ ĐÔNG
+QUAN HỆ VỚI CÁC BÊN LIÊN QUAN
+Thiết lập vai trò trách nhiệm và cam kết rõ ràng của
+HĐQT được quy định trong điều lệ.
+Thiết lập HĐQT có năng lực và chuyên nghiệp.
+Bảo đảm vai trò lãnh đạo hiệu quả và độc lập của
+HĐQT.
+Thành lập các ban trực thuộc HĐQT.
+Bảo đảm hoạt động hiệu quả của HĐQT.
+Thiết lập và duy trì văn hóa đạo đức Công ty: Bộ quy
+tắc ứng xử và đạo đức.
+Thiết lập khung quản trị rủi ro và môi
+trường kiểm soát vững mạnh với vai
+trò giám sát là ban QTRR.
+Tăng cường hoạt động CBTT:
+CBTT đảm bảo đúng theo quy
+định về Công ty niêm yết.
+Thiết lập khuôn khổ để đảm
+quyền
+đông:
+Bộ quy tắc ứng xử.
+Tăng cường tham gia hiệu
+quả của các bên có liên quan:
+Bộ quy tắc ứng xử.
+CÁC NGUYÊN TẮC QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
+Các bên
+liên quan
+Các mối quan tâm
+Phương thức tiếp cận
+Hành động của PVCFC
+Nhà  cung
+Đối xử công bằng giữa các
+nhà cung ứng
+Hợp tác cùng phát triển
+Tăng trưởng bền vững
+Trực tiếp gặp gỡ, trao đổi qua
+kênh thông tin (email, điện
+thoại...)
+Thông qua các quy chế, quy
+định liên quan đến hoạt động
+mua sắm, tiêu thụ sản phẩm
+dịch vụ
+Thông qua hoạt động đấu
+thầu, đánh giá các tiêu chí của
+nhà cung ứng
+Xây dựng kênh tương tác phản
+hồi giữa hai bên để nâng cao
+chất lượng sản phẩm, dịch vụ
+Không lạm dụng uy tín
+thương hiệu Công ty để chèn
+ép và đưa ra những yêu sách
+vô lý đối với nhà cung ứng,
+không hợp tác với các đơn vị
+có hành vi lôi kéo hay chi hoa
+hồng, tiền bồi dưỡng, hiện
+vật, quà tặng... cho nhân viên
+PVCFC
+Lựa chọn nhà cung ứng một
+cách công bằng dựa trên hồ
+sơ về chất lượng, khả năng kỹ
+thuật, kinh nghiệm…
+xã hội
+Thực thi các quy định về
+môi trường đảm bảo an toàn
+PCCC và an toàn môi trường
+tại các nhà máy sản xuất
+phân bón
+Sản phẩm có chất lượng tiên
+tiến, thân thiện với môi trường
+Đóng góp vào sự phát triển
+của địa phương nơi PVCFC
+hoạt động
+Phối hợp với chính quyền địa
+phương
+Phổ biến và nâng cao nhận
+thức về an toàn môi trường
+Trao đổi song phương qua các
+sự kiện
+Thực hiện sản xuất kinh
+doanh gắn liền với trách
+nhiệm bảo vệ môi trường, an
+toàn và an sinh xã hội
+Triển khai các chương trình,
+hoạt động an sinh xã hội
+hàng năm
+Tài trợ cho các sự kiện, hoạt
+động của các cơ quan liên
+quan trong lĩnh vực nông
+nghiệp, nông thôn, nông dân,
+phân bón…
+Các bên
+liên quan
+Các mối quan tâm
+Phương thức tiếp cận
+Hành động của PVCFC
+Chính quyền,
+cơ quan
+Nhà nước
+Đóng góp vào ngân sách nhà
+nước
+Thực hiện trách nhiệm xã hội
+doanh nghiệp
+Triển khai và ủng hộ chủ
+trương của Nhà nước
+Thượng tôn Pháp luật
+Phát triển kinh tế địa phương
+và phát triển ngành
+Thực hiện báo cáo theo quy
+định của Pháp luật trong quá
+trình sản xuất kinh doanh
+Đóng góp ý kiến về các văn
+bản, quyết định, luật do các cơ
+quan Nhà nước ban hành
+Phối hợp với các đoàn kiểm tra
+của các Bộ, Ban, Ngành giải
+trình về các vấn đề liên quan,
+khắc phục các tồn tại, hạn chế
+(nếu có) theo yêu cầu, khuyến
+nghị của các đoàn kiểm tra
+Phối hợp với các cơ quan quản
+lý Nhà nước triển khai hoạt
+động về phòng chống hàng
+giả, hàng nhái, hàng kém chất
+lượng
+Tham gia vào các tổ chức,
+hiệp hội như: Hiệp hội phân
+bón Việt Nam, Hiệp hội Doanh
+nghiệp trẻ dầu khí
+Tham gia hội nghị, hội thảo
+chuyên ngành do các Bộ, Ban,
+Ngành tổ chức
+Tuân thủ nghiêm ngặt các
+quy định của Pháp luật về
+thuế, bảo vệ môi trường, an
+toàn lao động,...
+Chủ động phối hợp chặt chẽ
+với chính quyền địa phương
+trong công tác xây dựng nhà
+xưởng, hoàn thiện các giai
+đoạn đúng tiến độ, đóng góp
+vào ngân sách Nhà nước và
+giải quyết việc làm cho lao
+động địa phương
+Đưa ra đề xuất điều chỉnh
+phù hợp đối với các chính
+sách, quy định còn nhiều bất
+cập khi đi vào triển khai thực
+hiện, giúp Chính phủ và chính
+quyền các cấp ngày càng
+thực hiện tốt hơn công tác
+quản lý
+Báo chí
+truyền thông
+Thông tin minh bạch, chính
+xác, kịp thời
+Công bố thông tin công khai,
+minh bạch trên phương tiện
+truyền thông đại chúng
+Gặp gỡ và trả lời phỏng vấn
+theo yêu cầu (trực tiếp, gián
+tiếp)
+Thực hiện thông cáo báo chí,
+tổ chức họp báo khi có sự kiện
+cần công bố
+Cập nhật thường xuyên tin
+tức, sự kiện quan trọng trên
+website của Công ty
+Hoàn thiện nội dung bằng
+tiếng Anh trên website
+Xây dựng mối quan hệ tốt
+đẹp với các cơ quan truyền
+thông, báo chí trên nguyên
+tắc minh bạch và hợp pháp.
+Các thông điệp, thông tin
+cung cấp đảm bảo tính chính
+xác, rõ ràng, đầy đủ và khách
+quan, giúp báo chí có thông
+tin chính xác về tình hình
+hoạt động của Công ty
+Đưa ra những thông tin,
+khuyến cáo về tình trạng
+phân bón giả/phân bón kém
+chất lượng để báo chí kịp
+thời truyền thông đến bà con
+nông dân
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
 MA TRẬN CÁC VẤN ĐỀ TRỌNG YẾU
-02
 TẦM QUAN TRỌNG ĐỐI VỚI CÁC BÊN LIÊN QUAN
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
 TẦM QUAN TRỌNG ĐỐI VỚI PVCFC
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
 Sự an toàn và sức khoẻ của khách hàng
 An toàn và sức khoẻ nghề nghiệp
 Giáo dục và đào tạo
 Tuân thủ về môi trường
-Hiệu quả hoạt 
+Hiệu quả hoạt
 động kinh tế
 Tác động kinh tế gián tiếp
 Đa dạng cơ hội bình đẳng
@@ -288,73 +596,292 @@ Việc làm
 Cộng đồng địa phương
 Phát thải, nước thải
 Minh bạch thông tin
-HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TẠI PVCFC 
-TRONG NĂM 2022 VỚI 17 MỤC TIÊU PHÁT TRIỂN 
+HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TẠI PVCFC
+TRONG NĂM 2022 VỚI 17 MỤC TIÊU PHÁT TRIỂN
 BỀN VỮNG CỦA LIÊN HIỆP QUỐC
-Chương trình Phát triển bền vững của PVCFC được thực hiện dựa các trụ cột trọng yếu là Kinh Tế - Xã Hội - Môi Trường, 
-không chỉ đáp ứng các mục tiêu chiến lược của Công ty, tuân thủ các chính sách của Việt Nam mà còn hướng tới đáp ứng 
-các mục tiêu phát triển bền vững của Liên Hợp Quốc. 
-XÓA
+Chương trình Phát triển bền vững của PVCFC được thực hiện dựa các trụ cột trọng yếu là Kinh Tế - Xã Hội - Môi Trường,
+không chỉ đáp ứng các mục tiêu chiến lược của Công ty, tuân thủ các chính sách của Việt Nam mà còn hướng tới đáp ứng
+các mục tiêu phát triển bền vững của Liên Hợp Quốc.
 NGHÈO
 HÒA BÌNH,
 CÔNG LÝ VÀ
 CÁC THỂ CHẾ
 MẠNH MẼ
-GIẢM 
-BẤT BÌNH 
-ĐẲNG
+BẤT BÌNH
 BÌNH ĐẲNG GIỚI
-GIÁO DỤC 
-CÓ CHẤT LƯỢNG 
-NƯỚC SẠCH 
+GIÁO DỤC
+CÓ CHẤT LƯỢNG
+NƯỚC SẠCH
 & VỆ SINH
 SỨC KHỎE VÀ
 CÓ CUỘC SỐNG TỐT
 NĂNG LƯỢNG SẠCH
-VỚI GIÁ THÀNH 
-HỢP LÝ
-CÔNG NGHIỆP, 
+VỚI GIÁ THÀNH
+CÔNG NGHIỆP,
 SÁNG TẠO
-VÀ PHÁT TRIỂN 
+VÀ PHÁT TRIỂN
 HẠ TẦNG
-CÁC THÀNH PHỐ 
-VÀ CỘNG ĐỒNG 
+CÁC THÀNH PHỐ
 BỀN VỮNG
-TIÊU THỤ 
+TIÊU THỤ
 VÀ SẢN XUẤT
 CÓ TRÁCH NHIỆM
 HÀNH DỘNG
 VỀ KHÍ HẬU
 TÀI NGUYÊN VÀ
-MÔI TRƯỜNG 
+MÔI TRƯỜNG
 TRÊN ĐẤT LIỀN
-15
-QUAN HỆ 
+QUAN HỆ
 ĐỐI TÁC
-VÌ CÁC 
 MỤC TIÊU
 TÀI NGUYÊN VÀ
 MÔI TRƯỜNG BIỂN
-CÔNG VIỆC TỐT VÀ 
+CÔNG VIỆC TỐT VÀ
 TĂNG TRƯỞNG
 KINH TẾ
 KHÔNG CÒN
 NẠN ĐÓI
-STT
 Mục tiêu PTBV của Liên Hợp Quốc
 Cam kết và thực hiện của PVCFC
 Xoá nghèo
-	»
-Bảo đảm việc làm, thu nhập ổn định cho người lao động, 
+Bảo đảm việc làm, thu nhập ổn định cho người lao động,
 hỗ trợ phát triển kinh tế địa phương
-	»
-Trong năm 2022, PVCFC đã tạo việc làm cho 1.042 lao 
+Trong năm 2022, PVCFC đã tạo việc làm cho 1.042 lao
 động trong Công ty với thu nhập bình quân là 36,53 triệu/
 tháng
 Xoá đói
-	»
 Tăng cường chất lượng cuộc sống cho người lao động.
-	»
-Thực hiện quy trình sản xuất bền vững, đảm bảo lương 
-thực cho người lao động, cộng đồng địa phương, góp 
+Thực hiện quy trình sản xuất bền vững, đảm bảo lương
+thực cho người lao động, cộng đồng địa phương, góp
 phần đảm bảo an ninh lương thực quốc gia
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
+Mục tiêu PTBV của Liên Hợp Quốc
+Cam kết và thực hiện của PVCFC
+Sức khỏe tốt và cuộc sống hạnh phúc
+Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho
+tất cả CBCNV trong Công ty, xây dựng môi trường làm việc
+hạnh phúc nơi CBCNV có thể gắn kết, tận tâm cống hiến
+Thực hiện các chương trình an sinh xã hội vì sức khỏe và
+cuộc sống tốt đẹp hơn
+Giáo dục có chất lượng
+Tập trung đào tạo nguồn nhân lực có trình độ chuyên môn
+cao, phẩm chất tốt, đáp ứng nhu cầu ngày càng khắt khe
+của ngành phân bón trong bối cảnh mới
+Tạo điều kiện,  khuyến khích việc học tập cho con em của
+người lao động, thực hiện tích cực công tác an sinh xã hội
+phục vụ giáo dục quỹ học bổng “Hạt Ngọc Mùa Vàng”
+Bình đẳng giới
+Đảm bảo sự tham gia đầy đủ, hiệu quả của phụ nữ và cơ
+hội bình đẳng để lãnh đạo ở tất cả các cấp. Trong năm
+2022, HĐQT và Ban Điều hành Công ty đều có lãnh đạo
+là nữ giới.
+Thực hiện bình đẳng giới trong chính sách tuyển dụng lao
+động, trả lương, khen thưởng, kỷ luật, đào tạo, đảm bảo
+quyền lợi nữ lao động theo Pháp luật.
+Quan tâm đến điều kiện làm việc, thu nhập, đời sống và
+gia đình nữ lao động trong Công ty.
+Tổ chức hội thảo “Vì sự phát triển của phụ nữ”, tổ chức các
+hoạt động kỷ niệm nhân ngày 08/03, 20/10…
+Nước sạch và vệ sinh
+Tạo nguồn nước sạch, an toàn; môi trường làm việc sạch
+sẽ cho người lao động
+Sử dụng hiệu quả và áp dụng các biện pháp tiết kiệm nước
+Năng lượng sạch với giá thành hợp lý
+Tăng cường sử dụng năng lượng sạch, dần thay thế các
+nguồn năng lượng truyền thống, tăng hiệu quả kinh tế và
+giảm thiểu tác động đến môi trường
+Việc làm bền vững và tăng trưởng kinh tế
+Tạo việc làm thu nhập cao cho 1.042 người lao động
+- Doanh thu và lợi nhuận trong năm 2022 của PVCFC ghi
+nhận ở mức cao kỷ lục
+- PVCFC được vinh danh Top 50 Công ty niêm yết tốt nhất
+Việt Nam, Top 500 doanh nghiệp lớn nhất Việt Nam 2022
+Công nghiệp, đổi mới và cơ sở hạ tầng
+Đảm bảo các công trình cơ sở hạ tầng có chất lượng, bền
+vững, thân thiện với môi trường, được sửa chữa kịp thời,
+sử dụng hợp lý, hiệu quả.
+Triển khai các sáng kiến về tiết kiệm năng lượng, phát
+triển bền vững.
+Mục tiêu PTBV của Liên Hợp Quốc
+Cam kết và thực hiện của PVCFC
+Giảm bất bình đẳng
+Không có khiếu nại về bất bình đẳng
+Không có khiếu nại về phân biệt đối xử
+Không lao động cưỡng bức, không lao động trẻ em
+Đảm bảo việc làm, cải thiện điều kiện lao động, nâng cao
+trình độ nghề nghiệp, chăm sóc sức khỏe, tăng cường
+phúc lợi cho lao động là nữ giới
+Tăng cường kết nối cộng đồng, tôn trọng quyền của phụ
+nữ và nhóm người yếu thế.
+Các thành phố và cộng đồng bền vững
+Xây dựng không gian xanh, giữ gìn cảnh quan khuôn viên
+nhà máy, nhà công vụ
+Không phát thải ảnh hưởng đến cư dân và môi trường
+xung quanh
+Tiêu dùng và sản xuất có trách nhiệm
+Áp dụng quy trình sản xuất bền vững, tăng cường ứng
+dụng khoa học công nghệ, cải tiến kỹ thuật trong sản xuất,
+kinh doanh
+Ứng phó với biến đổi khí hậu
+Nghiên cứu, cải tiến kỹ thuật trong các hoạt động sản
+xuất, hướng tới “xanh hoá” nền nông nghiệp nước nhà
+Triển khai các sáng kiến về tiết kiệm năng lượng, phát
+triển bền vững.
+Đời sống dưới nước
+Nước thải hoạt động sản xuất được xử lý 100% đạt chuẩn
+trước khi thải ra môi trường
+Đời sống trên cạn
+Nhà máy Đạm Cà Mau đạt chứng nhận “Top 10% Nhà máy
+có mức tiêu hao năng lượng thấp nhất thế giới” và là nhóm
+10% ít ỏi các nhà máy có công suất cao toàn cầu.
+Hòa bình, công lý và thể chế hiệu quả
+Tham gia ủng hộ các chính sách và hoạt động của Chính
+phủ và các tổ chức có liên quan nhằm thúc đẩy xã hội hòa
+bình, dân chủ, công bằng, bình đẳng, văn minh vì sự phát
+triển bền vững
+Hỗ trợ và đồng hành cùng Chính phủ hướng đến 17 mục
+tiêu phát triển bền vững của Liên Hợp Quốc
+Hợp tác đạt mục tiêu
+Tăng cường mở rộng thị trường phân phối tại nhiều lãnh
+thổ khác nhau trên thế giới
+Tăng cường quan hệ, hợp tác với nhiều tổ chức, chuyên gia
+trong nước và quốc tế
+Đồng hành bền vững cùng bà con nông dân, san sẻ khó khăn
+thông qua các hoạt động an sinh xã hội tại các địa phương.
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG CỦA CÔNG TY
+TÁC ĐỘNG LÊN MÔI TRƯỜNG
+QUẢN LÝ NGUỒN NGUYÊN VẬT LIỆU
+TIÊU THỤ NĂNG LƯỢNG
+NĂNG LƯỢNG TIÊU THỤ TRỰC TIẾP VÀ
+GIÁN TIẾP
+TỔNG LƯỢNG KHÍ TỰ NHIÊN THỰC HIỆN
+TRONG NĂM 2022 CỦA CÔNG TY
+TỔNG LƯỢNG KHÍ THẢI PHÁT SINH
+TRIỆU SM³
+Trong năm 2022, PVCFC đã thực hiện các biện pháp giảm phát thải trong sử dụng năng lượng, điều phối linh hoạt các
+chế độ vận hành của Nhà máy để nâng cao hiệu quả sử dụng năng lượng trong sản xuất, bao gồm:
+Điều chỉnh tối ưu hệ thống nước làm mát, dừng một bơm nước sông giúp hệ thống hoạt động ổn định, tính dự phòng cao,
+giá trị làm lợi 53,75 tỷ VND.
+Linh hoạt điều chỉnh chế độ vận hành Turbine - Motor căn cứ vào chênh lệch giá điện và giá khí tự nhiên, giá trị làm lợi
+Chuyển đổi vận hành các động cơ điện giữa các thanh cái căn cứ vào chênh lệch giá điện chạy bằng nhiên liệu khí, điện
+chạy bằng nhiên liệu dầu và giá điện lưới, giá trị làm lợi 3,82 tỷ VND.
+Tiếp tục thực hiện hòa tan và thu hồi đạm phế phẩm giúp gia tăng sản lượng Urê thương mại, dựa vào chênh lệch giá bán
+của hai sản phẩm này, trong năm thu hồi 61,2 tấn giá trị làm lợi 485 triệu VND.
+Với mục tiêu trở thành doanh nghiệp tiên phong trong
+ngành phân bón, PVCFC luôn chú trọng đến công tác quản
+lý nguồn nguyên vật liệu. Đa phần các đơn hàng nguyên
+liệu đều được Ban Vật tư, Ban Thẩm định của Công ty thẩm
+định, phê duyệt. Quá trình sử dụng nguyên vật liệu được
+kiểm tra đối chiếu số liệu giữa các bộ phận sản xuất, cung
+ứng, kiểm soát thông qua các báo cáo hàng ngày, hàng
+tuần, hàng tháng như: Báo cáo nhập xuất tồn nguyên liệu,
+tiêu hao so với định mức, cân đối nguyên liệu sản xuất -
+thành phẩm nhằm đảm bảo sử dụng tiết kiệm, không thất
+thoát nguyên vật liệu.
+PVCFC sản xuất phân bón từ nguyên liệu khí nên Công ty
+không sử dụng các vật liệu để sản xuất sản phẩm và cũng
+không tái chế vật liệu hay sử dụng vật liệu tái chế để sản
+xuất sản phẩm chính của Công ty.
+PVCFC sản xuất phân bón từ nguyên liệu khí nên Công ty
+không sử dụng các vật liệu để sản xuất sản phẩm và cũng
+không tái chế vật liệu hay sử dụng vật liệu tái chế để sản
+xuất sản phẩm chính của Công ty.
+Báo cáo các sáng kiến tiết kiệm năng lượng
+Dự án thu hồi Permeate gas từ Nhà máy xử lý khí Cà
+Mau đã giúp Công ty tiết kiệm nguồn năng lượng 1.350
+Gj/ngày.
+Tối ưu hóa lò reforming sơ cấp giảm tiêu hao năng
+lượng đã giúp Công ty tiết kiệm nguồn năng lượng 165
+Gj/ngày.
+Tối ưu hóa hệ thống điều khiển (APC) giúp Công ty giảm
+khoảng 446 Gj/ngày.
+Thu hồi MP vent gas xưởng Urea giúp tiết giảm tiêu hao
+năng lượng cho Nhà máy khoảng 115,4 Gj/ ngày.
+Thay thế SuperCups Trays tiết giảm tiêu hao năng
+lượng cho Nhà máy khoảng  164 Gj/ngày.
+Góc xanh tại Nhà máy Đạm Cà Mau
+
+CHƯƠNG 5 - BÁO CÁO VỀ PHÁT TRIỂN BỀN VỮNG
+AN SINH XÃ HỘI PHỤC VỤ XÂY DỰNG NHÀ/
+CÔNG TRÌNH GIAO THÔNG NÔNG THÔN
+AN SINH XÃ HỘI PHỤC VỤ Y TẾ -
+BỆNH VIỆN
+PVCFC thường xuyên triển khai xây dựng nhà
+đại đoàn kết cho người nghèo và công trình giao
+thông nông thôn, góp phần ổn định và nâng cao
+chất lượng đời sống nông thôn, tập trung tại các
+huyện còn khó khăn tại tỉnh Cà Mau như Đầm
+Dơi, Phú Tân, Trần Văn Thời, Thới Bình... Cuối
+tháng 11/2022, PVCFC phối hợp cùng Mặt trận
+tổ quốc tỉnh Cà Mau khởi công xây dựng 200
+căn nhà nghĩa tình cho bà con nghèo, hưởng
+ứng mục tiêu Quốc gia giảm nghèo bền vững
+trên địa bàn tỉnh Cà Mau, khép lại công tác tạo
+dựng cuộc sống nông thôn mới trong năm 2022
+với tổng ngân sách thực hiện gần 12 tỷ đồng.
+Trên hành trình hoạt động ngoài thành công kinh doanh, PVCFC ngày càng ghi dấu ấn về một thương
+hiệu có trách nhiệm với công tác cộng đồng, vì an sinh xã hội. Hơn một thập niên qua, hành trình san
+sẻ yêu thương được PVCFC thắp lên khắp chiều dài đất nước, không chỉ tiếp thêm động lực cho bà
+con thêm vững vàng trong cuộc sống mà còn góp phần vun đắp những giá trị nhân văn ý nghĩa, tiếp
+nối truyền thống “tương thân tương ái” tốt đẹp của dân tộc Việt Nam, xứng đáng với vị thế và vai trò
+của một thương hiệu tiên phong trong lĩnh vực sản xuất, kinh doanh phân bón, góp phần xây dựng
+nền nông nghiệp xanh vì sự phát triển bền vững của cộng đồng.
+PVCFC luôn đồng hành sẻ chia cùng các đơn
+vị, tổ chức y tế nhằm nâng cao chất lượng y
+tế cộng đồng, vì một cuộc sống mạnh khỏe
+và hạnh phúc hơn.
+Trong năm 2022, Công ty đã triển khai các
+hoạt động hỗ trợ hoạt động của các bệnh
+viện như: Hỗ trợ cải tạo và thay mới thiết bị hệ
+thống cấp nước chữa cháy cho Bệnh viện Chợ
+Rẫy; hỗ trợ xây dựng Trạm y tế xã Liêm Thuận,
+Thanh Liêm, Hà Nam; hỗ trợ xây dựng Trạm y
+tế Thị trấn Cát Thành, Trực Ninh, Nam Định.
+AN SINH XÃ HỘI PHỤC VỤ GIÁO DỤC
+AN SINH XÃ HỘI HƯỚNG ĐẾN CỘNG ĐỒNG
+Lĩnh vực giáo dục được Công ty chú trọng đầu
+tư toàn diện từ xây trường học, thư viện, bắt nhịp
+cầu, trao tặng trang thiết bị dạy và học, sách vở…
+cho đến các chương trình tham quan trải nghiệm
+thực tế dành cho học sinh trên khắp mọi miền
+của Tổ quốc, tập trung trước hết ở các tỉnh như
+Hà Tĩnh, Thanh Hóa, Hải Dương, Nam Định, Bình
+Định, Sóc Trăng, Thái Bình, Hậu Giang, Cà Mau..
+PVCFC trưởng thành được bao nhiêu năm thì
+Quỹ học bổng “Hạt Ngọc Mùa Vàng” của Công
+ty cũng có từng ấy năm gắn bó với các lớp học
+sinh, sinh viên, đồng hành cùng các đơn vị chăm
+lo cho những mầm non tương lai của đất nước.
+Trong năm 2022, PVCFC đã trao tặng 6.350 suất
+học bổng cho các học sinh, sinh viên với tổng giá
+trị hơn 1,6 tỷ đồng. Vào ngày 15/09/2022, Công
+ty đã chính thức ký kết hợp tác với Sở Giáo dục
+và Đào tạo tỉnh Cà Mau, cùng thực hiện các hoạt
+động phát triển môi trường giáo dục, góp phần
+khuyến khích chất lượng giáo dục tại địa phương.
+Các hoạt động đền ơn đáp nghĩa (Tết cho
+người nghèo, hỗ trợ, thăm hỏi mẹ Việt Nam
+Anh Hùng, gia đình chính sách) và các hoạt
+động an sinh xã hội hướng tới cộng đồng
+luôn được Công ty tích cực triển khai, góp
+phần xây dựng cộng đồng vững mạnh và
+ngày càng tốt đẹp hơn trong tương lai.
+Đầu năm 2022, PVCFC đã thực hiện chương
+trình “Phân Bón Cà Mau - Cùng nhau san sẻ”
+trao tặng hàng nghìn suất quà Tết với tổng trị
+giá gần 1,2 tỷ đồng, mang Xuân ấm no đến
+với muôn hoàn cảnh khó nghèo trên khắp
+mọi miền đất nước.
+Trong chuỗi các hoạt động thường niên của
+PVCFC, chương trình “Mùa Vàng Thắng Lớn”
+đã gây tiếng vang lớn, được đông đảo bà
+con ủng hộ và nhiệt tình hưởng ứng. PVCFC
+dành hơn 17 tỷ đồng cho chương trình nhằm
+giúp nhà nông gia tăng trải nghiệm sản
+phẩm NPK Cà Mau đồng thời có cơ hội trúng
+những phần quà giá trị cao, san sẻ với bà con
+những gánh nặng trong bối cảnh kinh tế khó
+khăn chung.

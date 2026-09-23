@@ -1,31 +1,74 @@
-Vượt lên trên những khó khăn và thách thức 
-của ngành Phân bón, năm 2023, PVCFC đã linh 
-hoạt, nhạy bén và không ngừng nỗ lực để hoàn 
-thành vượt mức các chỉ tiêu theo kế hoạch năm 
-với những kết quả ấn tượng. Đây chính là nền 
-tảng vững vàng để PVCFC viết tiếp câu chuyện 
-về hành trình kiến tạo và lan tỏa chuỗi giá trị bền 
-vững cho nông dân, nông nghiệp và cộng đồng. 
-Bước sang năm 2024, cùng với sự hỗ trợ của ban 
-ngành, Tập đoàn, đặc biệt là sự ủng hộ tín nhiệm 
-của cổ đông, khách hàng và hàng triệu nhà nông 
-cả nước, PVCFC mang theo niềm tin không chỉ tỏa 
-sáng ở hiện tại mà còn vươn cao, vươn xa hơn nữa 
-trên những chặng đường tiếp theo trong hành trình 
-“KIẾN TẠO GIÁ TRỊ BỀN VỮNG HƠN, THỊNH 
+14        Kết quả nổi bật năm 2023
+16        Thông tin chung về Công ty
+18        Quá trình hình thành và phát triển
+22         Ngành nghề và địa bàn kinh doanh
+34        Tóm tắt thông tin tài chính giai đoạn 2019 - 2023
+36        10 sự kiện nổi bật năm 2023
+48        Danh hiệu và giải thưởng tiêu biểu
+50        Mô hình quản trị và Bộ máy quản lý Công ty
+54        Giới thiệu Hội đồng quản trị
+58        Giới thiệu Ban Điều hành
+62        Giới thiệu Ban Kiểm soát
+66        Tổng quan ngành Phân bón năm 2023
+74        Triển vọng ngành Phân bón năm 2024
+80        Phân tích SWOT
+86        Chuỗi Giá trị Bền vững PVCFC
+88        Định hướng phát triển
+94    BÁO CÁO HOẠT ĐỘNG NĂM 2023
+96        Tình hình hoạt động SXKD trong năm 2023
+101        Tình hình đầu tư thực hiện dự án
+102        Tổ chức và nhân sự
+110        Cơ cấu cổ đông, thay đổi vốn đầu tư của chủ sở hữu
+112        Báo cáo của Ban Tổng Giám đốc
+132        Báo cáo của Hội đồng quản trị
+136        Báo cáo của Ban Kiểm soát
+144        Hoạt động của Đại hội đồng cổ đông
+146        Cơ cấu và hoạt động của Hội đồng quản trị
+170        Cơ cấu và hoạt động của Ban Kiểm soát
+178        Các giao dịch, thù lao và các khoản lợi ích của HĐQT, Ban TGĐ và BKS
+184        Quản trị rủi ro
+190        Các hoạt động kiểm soát nội bộ tại PVCFC
+191        Đánh giá tình hình thực hiện quản trị công ty dựa trên Thẻ điểm
+192    BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+194        Tổng quan Báo cáo phát triển bền vững
+198        Khung phát triển bền vững của PVCFC
+222        Quản trị hướng đến phát triển bền vững
+228        Môi trường
+240        Xã hội
+269        Báo cáo của Ban Tổng Giám đốc
+271        Báo cáo kiểm toán độc lập
+273        Bảng cân đối kế toán hợp nhất
+275        Báo cáo kết quả hoạt động kinh doanh hợp nhất
+276        Báo cáo lưu chuyển tiền tệ hợp nhất
+278        Thuyết minh báo cáo tài chính hợp nhất
+06   THÔNG ĐIỆP CỦA BAN LÃNH ĐẠO CÔNG TY
+10  TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ CỐT LÕI
+
+Vượt lên trên những khó khăn và thách thức
+của ngành Phân bón, năm 2023, PVCFC đã linh
+hoạt, nhạy bén và không ngừng nỗ lực để hoàn
+thành vượt mức các chỉ tiêu theo kế hoạch năm
+với những kết quả ấn tượng. Đây chính là nền
+tảng vững vàng để PVCFC viết tiếp câu chuyện
+về hành trình kiến tạo và lan tỏa chuỗi giá trị bền
+vững cho nông dân, nông nghiệp và cộng đồng.
+Bước sang năm 2024, cùng với sự hỗ trợ của ban
+ngành, Tập đoàn, đặc biệt là sự ủng hộ tín nhiệm
+của cổ đông, khách hàng và hàng triệu nhà nông
+cả nước, PVCFC mang theo niềm tin không chỉ tỏa
+sáng ở hiện tại mà còn vươn cao, vươn xa hơn nữa
+trên những chặng đường tiếp theo trong hành trình
+“KIẾN TẠO GIÁ TRỊ BỀN VỮNG HƠN, THỊNH
 VƯỢNG HƠN”.
 BỀN VỮNG
 THỊNH VƯỢNG
 CÁC THUẬT NGỮ VIẾT TẮT
 BCTN
-Báo cáo thường niên
 BCTC
-Báo cáo tài chính
 BDTT
 Bảo dưỡng tổng thể
 BTGĐ
 Ban Tổng Giám đốc
-BKS
 Ban Kiểm soát
 CBTT
 Công bố thông tin
@@ -37,146 +80,333 @@ Cán bộ công nhân viên
 Đông Nam Bộ và Tây Nguyên
 E-OFFICE
 Hệ thống quản lý văn bản, trình ký, SKSC,...
-ERP 
 Quản trị nguồn lực doanh nghiệp
-LNTT 
-Lợi nhuận trước thuế 
-LNST 
-Lợi nhuận sau thuế 
-NSNN 
+LNTT
+Lợi nhuận trước thuế
+LNST
+Lợi nhuận sau thuế
+NSNN
 Ngân sách Nhà nước
-PCCC 
-Phòng cháy chữa cháy 
-PPC 
-Công ty Cổ phần Bao bì Dầu khí Việt Nam 
-PVCFC 
-Công ty Cổ phần Phân bón Dầu khí Cà Mau 
-HĐQT 
+PCCC
+Phòng cháy chữa cháy
+Công ty Cổ phần Bao bì Dầu khí Việt Nam
+PVCFC
+Công ty Cổ phần Phân bón Dầu khí Cà Mau
+HĐQT
 Hội đồng quản trị
 TV HĐQT
 Thành viên Hội đồng quản trị
-HTPP 
-Hệ thống phân phối KT&QTRR Kiểm toán 
-và Quản trị rủi ro 
-KNKH  
+HTPP
+Hệ thống phân phối KT&QTRR Kiểm toán
+và Quản trị rủi ro
+KNKH
 Khiếu nại từ khách hàng
 XLKNKH
 Xử lý khiếu nại khách hàng
 QTNS&LT
 Quản trị, Nhân sự và Lương thưởng
 QTRR
-Quản trị rủi ro 
-ĐBSCL 
-Đồng bằng sông Cửu Long 
+Quản trị rủi ro
+ĐBSCL
+Đồng bằng sông Cửu Long
 SK - AT KH
 Sức khỏe và an toàn của khách hàng
-SXKD 
-Sản xuất kinh doanh 
-UB  
+SXKD
+Sản xuất kinh doanh
 Ủy ban
-5
-4
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
 
 VĂN TIẾN THANH
 Tổng Giám đốc
 TRẦN NGỌC NGUYÊN
 Chủ tịch Hội đồng quản trị
-THÔNG ĐIỆP  
+THÔNG ĐIỆP
 CỦA BAN LÃNH ĐẠO CÔNG TY
-Kính thưa Quý vị, 
-Thành công của PVCFC chính là minh chứng điển hình, thể hiện trọn vẹn nhất thông 
-điệp “Kiến tạo giá trị bền vững hơn, thịnh vượng hơn” Công ty đã kiên định theo đuổi 
-xuyên suốt quá trình hình thành và phát triển. Kết thúc năm 2023, PVCFC lần thứ 3 
-được vinh danh thuộc “Top 50 Công ty niêm yết tốt nhất năm” do Tạp chí Forbes 
-Việt Nam bình chọn. Năm nay cũng là lần thứ 2 liên tiếp PVCFC tự hào nhận danh hiệu 
-“Doanh nghiệp vì cộng đồng”. Những giải thưởng cao quý này của PVCFC không chỉ là 
-những mốc son tiêu biểu trên hành trình nâng tầm thương hiệu Công ty mà còn đóng góp 
-rất lớn vào sự phát triển bền vững của nền nông nghiệp nước nhà. 
-Bước sang năm 2024, trong bối cảnh thị trường có những biến động và thay đổi nhanh 
-chóng, PVCFC đã xác lập 3 mũi chiến lược chính cần tập trung trong năm là: Đầu tư, 
-phát triển bền vững và chuyển đổi số. Cùng với những nền tảng vững chắc hiện nay, 
-Công ty hy vọng 3 mũi chiến lược này sẽ tạo nên những đột phá.  
-“Kiến tạo giá trị bền vững hơn, thịnh vượng hơn” cũng được xác định là kim chỉ nam 
-xuyên suốt mọi hoạt động của Công ty trong năm 2024 với niềm tin về những bước 
-chuyển mình mạnh mẽ, thành công vang dội, vị thế ngày càng vươn cao, vươn xa hơn 
-nữa của PVCFC. 
-Thay mặt Ban Lãnh đạo PVCFC, Chúng tôi xin gửi lời cảm ơn chân thành nhất đến toàn 
-thể cổ đông, nhà đầu tư, bạn hàng, đối tác, các Quý cơ quan, đoàn thể đã luôn tin tưởng, 
-hợp tác và ủng hộ. Xin được gửi tới toàn thể CBCNV lời tri ân sâu sắc nhất vì những 
-đóng góp, cống hiến cho quá trình xây dựng và phát triển thương hiệu PVCFC. 
-Kính chúc Quý vị sức khỏe, hạnh phúc và thành công! 
+Kính thưa Quý vị,
+Thành công của PVCFC chính là minh chứng điển hình, thể hiện trọn vẹn nhất thông
+điệp “Kiến tạo giá trị bền vững hơn, thịnh vượng hơn” Công ty đã kiên định theo đuổi
+xuyên suốt quá trình hình thành và phát triển. Kết thúc năm 2023, PVCFC lần thứ 3
+được vinh danh thuộc “Top 50 Công ty niêm yết tốt nhất năm” do Tạp chí Forbes
+Việt Nam bình chọn. Năm nay cũng là lần thứ 2 liên tiếp PVCFC tự hào nhận danh hiệu
+“Doanh nghiệp vì cộng đồng”. Những giải thưởng cao quý này của PVCFC không chỉ là
+những mốc son tiêu biểu trên hành trình nâng tầm thương hiệu Công ty mà còn đóng góp
+rất lớn vào sự phát triển bền vững của nền nông nghiệp nước nhà.
+Bước sang năm 2024, trong bối cảnh thị trường có những biến động và thay đổi nhanh
+chóng, PVCFC đã xác lập 3 mũi chiến lược chính cần tập trung trong năm là: Đầu tư,
+phát triển bền vững và chuyển đổi số. Cùng với những nền tảng vững chắc hiện nay,
+Công ty hy vọng 3 mũi chiến lược này sẽ tạo nên những đột phá.
+“Kiến tạo giá trị bền vững hơn, thịnh vượng hơn” cũng được xác định là kim chỉ nam
+xuyên suốt mọi hoạt động của Công ty trong năm 2024 với niềm tin về những bước
+chuyển mình mạnh mẽ, thành công vang dội, vị thế ngày càng vươn cao, vươn xa hơn
+nữa của PVCFC.
+Thay mặt Ban Lãnh đạo PVCFC, Chúng tôi xin gửi lời cảm ơn chân thành nhất đến toàn
+thể cổ đông, nhà đầu tư, bạn hàng, đối tác, các Quý cơ quan, đoàn thể đã luôn tin tưởng,
+hợp tác và ủng hộ. Xin được gửi tới toàn thể CBCNV lời tri ân sâu sắc nhất vì những
+đóng góp, cống hiến cho quá trình xây dựng và phát triển thương hiệu PVCFC.
+Kính chúc Quý vị sức khỏe, hạnh phúc và thành công!
 Trân trọng,
-Một điểm sáng nổi bật của Phân bón Cà Mau trong năm 2023 
-là mở rộng xuất khẩu phân bón, góp phần gia tăng doanh thu. 
-PVCFC đã đẩy mạnh xuất khẩu và kinh doanh quốc tế để giảm 
-áp lực tồn kho khi thị trường trong nước trầm lắng, nhu cầu 
-giảm. Nhờ nỗ lực duy trì sản xuất kinh doanh hiệu quả nên chỉ 
-số tài chính năm 2023 mà PVCFC đạt được là khá ấn tượng, vượt 
-chỉ tiêu kế hoạch năm với tổng doanh thu đạt 13.172 tỷ đồng và 
-lợi nhuận trước thuế đạt 1.255 tỷ đồng. 
+Một điểm sáng nổi bật của Phân bón Cà Mau trong năm 2023
+là mở rộng xuất khẩu phân bón, góp phần gia tăng doanh thu.
+PVCFC đã đẩy mạnh xuất khẩu và kinh doanh quốc tế để giảm
+áp lực tồn kho khi thị trường trong nước trầm lắng, nhu cầu
+giảm. Nhờ nỗ lực duy trì sản xuất kinh doanh hiệu quả nên chỉ
+số tài chính năm 2023 mà PVCFC đạt được là khá ấn tượng, vượt
+chỉ tiêu kế hoạch năm với tổng doanh thu đạt 13.172 tỷ đồng và
+lợi nhuận trước thuế đạt 1.255 tỷ đồng.
 THÔNG ĐIỆP
 TỔNG DOANH THU
- 13.172
-TỶ ĐỒNG
 LỢI NHUẬN TRƯỚC THUẾ
-1.255
-TỶ ĐỒNG
-9
-8
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
+
+NGÀNH NGHỀ VÀ
+ĐỊA BÀN KINH DOANH
+NGÀNH NGHỀ KINH DOANH
+Thành lập ngày 09/03/2011, PVCFC là doanh nghiệp có chức năng, ngành
+nghề kinh doanh chính về: Sản xuất, kinh doanh và xuất nhập khẩu phân
+bón, hóa chất dầu khí, chủ yếu phục vụ trong lĩnh vực nông nghiệp với
+sứ mệnh phục vụ hàng triệu nông dân bằng những dòng phân bón dinh
+dưỡng cao phù hợp với nhiều loại cây trồng và vùng đất. Ứng dụng thành
+tựu công nghệ trên nền tảng công nghiệp hóa dầu giúp PVCFC nâng cao
+hiệu quả kinh doanh, đồng thời góp phần thay đổi diện mạo kinh tế nông
+nghiệp nước nhà theo hướng phát triển xanh bền vững.
+NĂNG LỰC SẢN XUẤT
+PVCFC hiện đang sở hữu 2 nhà máy là Nhà máy Đạm Cà Mau và Nhà máy NPK Cà Mau.
+NHÀ MÁY ĐẠM CÀ MAU
+Nhà máy Đạm Cà Mau luôn vận hành an
+toàn, ổn định, công suất lớn mang lại sản
+phẩm và doanh thu cao. Ngày 07/12/2023,
+Nhà máy Đạm Cà Mau chính thức cán mốc
+sản lượng 10 triệu tấn Urê, vận hành tối ưu
+với công suất đạt từ 110 - 115%  so với công
+suất thiết kế, đặt thêm một mốc son quan
+trọng trên hành trình chinh phục những đỉnh
+cao vì một nền nông nghiệp bền vững của
+PVCFC.
+Trong suốt 12 năm vận hành, đội ngũ kỹ
+thuật của Công ty đã không ngừng cải tiến,
+nâng cao hiệu quả hoạt động để tối ưu công
+NHÀ MÁY NPK CÀ MAU
+Tiếp nối thành công của Nhà máy Đạm Cà
+Mau, sự ra đời của Nhà máy NPK Cà Mau
+là một bước tiến dài trong chiến lược hoàn
+chỉnh giải pháp dinh dưỡng cho cây trồng mà
+PVCFC liên tục triển khai nhằm góp phần đa
+dạng hóa nguồn cung phân bón chất lượng
+cao, đồng hành cùng bà con nông dân trong
+canh tác bền vững, gia tăng giá trị “xanh
+hoá” cho nền nông nghiệp nước
+nhà. Nhà máy NPK Cà Mau có
+công suất 300.000 tấn/năm,
+sử dụng công nghệ Urê hóa
+lỏng với các dây chuyền sản
+xuất theo công nghệ tiên tiến
+nhất thế giới hiện nay của nhà
+thầu ESPINDESA - Tây Ban
+Nha và những thiết bị chính
+của các nước EU/G7.
+Với phương châm “Chất Lượng
+Đi Đầu - Giá Trị Bền Lâu”,
+ngay từ khi thành lập đến nay,
+Ban Lãnh đạo cùng đội ngũ
+CBCNV PVCFC đã và đang
+nghệ tạo hạt của Nhà máy Đạm Cà Mau. Kết
+quả là trong năm 2023, Nhà máy Đạm Cà
+Mau vinh dự được trao Chứng nhận Kỷ lục
+vận hành an toàn, ổn định hơn 350 ngày ở
+công suất cao từ Haldor Topsoe. Đây là lần
+thứ 2 Nhà máy Đạm Cà Mau liên tiếp nhận
+chứng chỉ kỷ lục từ Nhà bản quyền hàng đầu
+Châu Âu.
+Tiếp bước các thành công đã đạt được trong
+thời gian qua, PVCFC và Haldor Topsoe
+đang phối hợp nghiên cứu để tìm giải pháp
+tối ưu trong việc nâng cao hơn nữa hiệu suất
+và công suất Nhà máy Đạm Cà Mau.
+kiên định tập trung chuyên môn song song
+với đẩy mạnh phát kiến chinh phục thành
+tựu công nghệ mới. Tất cả nhằm nâng cấp
+hiệu quả hoạt động các nhà máy để phục vụ
+nông nghiệp hiệu quả với chuỗi sản phẩm
+chất lượng cao ưu việt, đảm bảo an ninh
+lương thực đồng thời nâng tầm thương mại
+Việt Nam trên đấu trường quốc tế.
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+Mexico
+Uruguay
+Argentina
+Pháp
+Brazil
+Thái Lan
+Hàn Quốc
+Myanmar
+Sri Lanka
+Nhật Bản
+Indonesia
+Newzealand
+Bangladesh
+Campuchia
+NGÀNH NGHỀ VÀ
+ĐỊA BÀN KINH DOANH
+ĐỊA BÀN KINH DOANH VÀ HỆ THỐNG PHÂN PHỐI
+ĐỊA BÀN KINH DOANH
+Với tầm nhìn trở thành doanh nghiệp hàng đầu
+trong lĩnh vực sản xuất và kinh doanh phân bón,
+PVCFC luôn chú trọng phát triển hoạt động sản
+xuất kinh doanh theo hướng hữu cơ, an toàn
+bền vững, đóng góp giá trị cho xã hội, đem lại
+lợi ích cho cộng đồng. Thương hiệu Phân bón
+Cà Mau hiện đã có mặt trên toàn quốc và mở
+rộng xuất khẩu ra thị trường quốc tế.
+Các thị trường mục tiêu chiến lược của PVCFC
+bao gồm Đồng bằng sông Cửu Long, Đông
+Nam Bộ và Tây Nguyên, Campuchia. Ngoài
+ra, PVCFC còn chủ động mở rộng khai thác,
+xâm nhập các thị trường trong nước ở khu vực
+miền Trung, miền Bắc và thị trường Đông Nam
+Á, Nam Á, Mỹ Latinh.
+Một điểm sáng nổi bật của Phân bón Cà Mau trong năm 2023
+là mở rộng xuất khẩu phân bón, góp phần gia tăng doanh thu.
+Phân bón Cà Mau đã đẩy mạnh xuất khẩu và kinh doanh quốc
+tế, khi thị trường trong nước trầm lắng, nhu cầu giảm để giảm
+áp lực tồn kho. Tính đến năm 2023, Phân bón Cà Mau đã có mặt
+trên 18 quốc gia trên thế giới, với sản lượng xuất khẩu năm 2023
+đạt 344 nghìn tấn, chiếm khoảng 26% tổng sản lượng tiêu thụ;
+giá trị xuất khẩu đạt 136 triệu USD, chiếm khoảng 25% doanh thu
+các sản phẩm phân bón. Trong đó, Campuchia là thị trường xuất
+khẩu lớn nhất với sản lượng và giá trị xuất khẩu chiếm hơn 60%.
+CÓ MẶT TRÊN
+QUỐC GIA
+SẢN LƯỢNG
+XUẤT KHẨU
+NGHÌN TẤN
+GIÁ TRỊ
+XUẤT KHẨU
+TRIỆU USD
+CHIẾM KHOẢNG
+TỔNG SẢN LƯỢNG
+TIÊU THỤ
+CHIẾM KHOẢNG
+DOANH THU CÁC
+SẢN PHẨM PHÂN BÓN
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+
+MÔ HÌNH QUẢN TRỊ VÀ
+BỘ MÁY QUẢN LÝ CÔNG TY
+MÔ HÌNH QUẢN TRỊ
+Công ty Cổ phần Phân bón Dầu khí Cà
+Mau, tiền thân là Công ty TNHH MTV Phân
+bón Dầu khí Cà Mau, là đơn vị thành viên
+của Tập đoàn Dầu khí Quốc gia Việt Nam,
+được thành lập theo Quyết định số 474/
+QĐ-DKVN ngày 09/03/2011 của Hội đồng
+thành viên Tập đoàn Dầu khí Việt Nam.
+Tháng 01/2015, Công ty chính thức chuyển
+đổi hoạt động sang mô hình Công ty Cổ
+phần với tên gọi Công ty Cổ phần Phân bón
+Dầu khí Cà Mau. Trải qua quá trình hoạt
+động, cơ cấu tổ chức của Công ty thay đổi
+theo từng giai đoạn.
+Công ty Cổ phần Phân bón Dầu khí Cà Mau
+đã triển khai thực hiện Đề án đổi mới, sắp
+xếp lại cơ cấu tổ chức Công ty theo hướng
+tính gọn, đa chức năng, hoạt động hiệu quả
+và phù hợp tình hình thực tiễn; nâng cao
+hiệu lực, hiệu quả sản xuất kinh doanh,
+tình hình doanh nghiệp, các cấp quản lý
+doanh nghiệp.
+CƠ CẤU TỔ CHỨC CÔNG TY CỔ PHẦN
+PHÂN BÓN DẦU KHÍ CÀ MAU
+CỔ ĐÔNG
+HỘI ĐỒNG QUẢN TRỊ
+BAN TỔNG GIÁM ĐỐC
+ĐƠN VỊ TRỰC THUỘC
+BAN CHỨC NĂNG
+Văn phòng
+Ban Thương mại
+Nhà máy
+Đạm Cà Mau
+Công ty CP
+Bao bì Dầu khí VN
+Ban Quản trị
+Nguồn nhân lực
+Ban Kinh doanh
+Chi nhánh
+TT Nghiên cứu
+Phát triển
+Ban Tài chính
+Kế toán
+Ban Marketing
+Chi nhánh
+Ban QLDA CN
+Ban Kế hoạch
+Đầu tư
+Ban Kỹ thuật
+An toàn & CNTT
+Ban Pháp chế
+& Tuân thủ
+ĐƠN VỊ THÀNH VIÊN
+BAN KIỂM SOÁT
+ỦY BAN
+NHÂN SỰ
+THƯỞNG
+ỦY BAN
+MÔI TRƯỜNG
+QUẢN TRỊ
+ỦY BAN
+KIỂM TOÁN
+& QUẢN TRỊ
+RỦI RO
+BAN KIỂM TOÁN
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 
 MÔ HÌNH QUẢN TRỊ VÀ
 BỘ MÁY QUẢN LÝ CÔNG TY
 CƠ CẤU TỔ CHỨC CÔNG TY CỔ PHẦN PHÂN BÓN DẦU KHÍ CÀ MAU (TIẾP THEO)
-CÁC CÔNG TY CON, CÔNG TY LIÊN KẾT 
-01 Chủ tịch 
+CÁC CÔNG TY CON, CÔNG TY LIÊN KẾT
+01 Chủ tịch
 01 Thành viên kiêm Tổng Giám đốc
 02 Thành viên HĐQT độc lập
 03 Thành viên HĐQT
 Ủy ban Kiểm toán và Quản trị rủi ro
 Ủy ban Quản trị, Nhân sự và Lương thưởng
 Ủy ban Môi trường, Xã hội và Quản trị
-Bao gồm 09 ban chức năng chuyên môn, nghiệp vụ giúp việc cho 
-HĐQT và Ban Tổng Giám đốc. Năm 2022 thành lập Ban dự án 
-triển khai thực hiện dự án phát triển sản phẩm mới và các bộ giải 
-pháp cho dịch vụ nông nghiệp để thực hiện mục tiêu chiến lược 
+Bao gồm 09 ban chức năng chuyên môn, nghiệp vụ giúp việc cho
+HĐQT và Ban Tổng Giám đốc. Năm 2022 thành lập Ban dự án
+triển khai thực hiện dự án phát triển sản phẩm mới và các bộ giải
+pháp cho dịch vụ nông nghiệp để thực hiện mục tiêu chiến lược
 phát triển của Công ty.
 Và ban Kiểm toán nội bộ trực thuộc HĐQT Công ty.
-Các Thành viên tham gia các Ủy ban là thành viên HĐQT Công ty 
+Các Thành viên tham gia các Ủy ban là thành viên HĐQT Công ty
 và hoạt động theo quy chế của Ủy ban.
 06 Thành viên
 03 Thành viên
 03 Ủy ban
 01 Tổng Giám đốc
 05 Phó Tổng Giám đốc.
-01 Trưởng Ban Kiểm soát 
+01 Trưởng Ban Kiểm soát
 02 Kiểm soát viên
-Nhà máy Đạm Cà Mau và 02 Chi nhánh Công ty Cổ phần Phân 
-bón Dầu khí Cà Mau gồm Ban Quản lý Dự án chuyên ngành và 
+Nhà máy Đạm Cà Mau và 02 Chi nhánh Công ty Cổ phần Phân
+bón Dầu khí Cà Mau gồm Ban Quản lý Dự án chuyên ngành và
 Trung Tâm nghiên cứu - Phát triển.
-01 đơn vị thành viên là Công ty Cổ phần Bao bì Dầu khí Việt Nam 
+01 đơn vị thành viên là Công ty Cổ phần Bao bì Dầu khí Việt Nam
 do PVCFC nắm giữ 51,03% vốn điều lệ.
 01 Thành viên
 01 Thành viên
-HỘI ĐỒNG  
 QUẢN TRỊ
 CÁC ỦY BAN
-BỘ MÁY  
 GIÚP VIỆC
-BAN TỔNG  
+BAN TỔNG
 GIÁM ĐỐC
-BAN  
 KIỂM SOÁT
-ĐƠN VỊ  
 TRỰC THUỘC
-ĐƠN VỊ  
 THÀNH VIÊN
-KẾ TOÁN 
+KẾ TOÁN
 TRƯỞNG
-THƯ KÝ QUẢN 
+THƯ KÝ QUẢN
 TRỊ CÔNG TY
-Công ty Cổ phần Phân bón Dầu khí Cà Mau hiện có 01 Công ty con là Công ty Cổ phần Bao bì 
+Công ty Cổ phần Phân bón Dầu khí Cà Mau hiện có 01 Công ty con là Công ty Cổ phần Bao bì
 Dầu khí Việt Nam (PPC).
 CÔNG TY CỔ PHẦN BAO BÌ DẦU KHÍ VIỆT NAM - PPC
 Tên Công ty
@@ -184,2282 +414,1451 @@ CÔNG TY CỔ PHẦN BAO BÌ DẦU KHÍ VIỆT NAM
 Tên tiếng Anh
 PETROVIETNAM PACKAGING JOINT STOCK COMPANY
 Tên viết tắt
-PPC
 Ngày thành lập
-10/06/2010
 Vốn điều lệ
-47.995.160.000 đồng
-Ngành nghề kinh 
+Ngành nghề kinh
 doanh chính
-Sản xuất sản phẩm từ Plastic, trong đó chủ yếu sản xuất và kinh 
-doanh các sản phẩm bao bì PP, PE; sản xuất và kinh doanh phân bón 
+Sản xuất sản phẩm từ Plastic, trong đó chủ yếu sản xuất và kinh
+doanh các sản phẩm bao bì PP, PE; sản xuất và kinh doanh phân bón
 và hợp chất Nitơ
 Địa chỉ
 Lô A1-3, KCN Trà Kha, Phường 8, TP. Bạc Liêu, Tỉnh Bạc Liêu
 Điện thoại
-(84 - 291) 3.957.555
-Fax
-(84 - 291) 3.957.666
 Email
 sale@pbp.vn
 Website
 www.pbp.vn
-Số cổ phần PVCFC 
+Số cổ phần PVCFC
 nắm giữ tại PPC
 2.449.167 cổ phần, tương đương giá trị: 24.491.670.000 đồng
-Tỷ lệ PVCFC nắm giữ 
+Tỷ lệ PVCFC nắm giữ
 vốn điều lệ PPC
-51,03%
-trong đó  
-01 thành viên 
+trong đó
+01 thành viên
 không chuyên trách
-53
-52
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
+
+ÔNG TRẦN NGỌC NGUYÊN
+Chủ tịch HĐQT không điều hành
+Giới tính: Nam
+Ngày tháng năm sinh: 15/09/1977
+Trình độ chuyên môn: Tiến sĩ Kỹ thuật Hóa học,
+Thạc sĩ Lọc - Hóa dầu, Thạc sĩ Quản lý Kinh tế
+ÔNG TRẦN MỸ
+Thành viên HĐQT không điều hành
+Giới tính: Nam
+Ngày tháng năm sinh: 23/10/1962
+Trình độ chuyên môn: Kỹ sư Kinh tế Công nghiệp
+ÔNG VĂN TIẾN THANH
+Thành viên HĐQT kiêm Tổng Giám đốc
+Giới tính: Nam
+Ngày tháng năm sinh: 09/07/1968
+Trình độ chuyên môn: Kỹ sư Cơ khí Nông Lâm
+ÔNG NGUYỄN ĐỨC HẠNH
+Thành viên HĐQT không điều hành
+Giới tính: Nam
+Ngày tháng năm sinh: 28/10/1972
+Trình độ chuyên môn: Kỹ sư Kinh tế Năng lượng
+Quá trình công tác
+Ông Nguyên đã có nhiều năm kinh nghiệm
+trong hoạt động kinh doanh, công tác quản
+trị tại các đơn vị trong ngành Dầu khí và giữ
+nhiều chức vụ khác nhau: Kỹ sư Công nghệ
+phòng Quản lý Nhà thầu, phòng Giám sát
+Công nghệ Nhà máy lọc dầu Dung Quất; Phó
+Trưởng phòng, Trưởng phòng Sản xuất; Phó
+Tổng Giám đốc Công ty TNHH MTV Lọc Hóa
+Dầu Bình Sơn nay là Công ty Cổ phần Lọc Hóa
+Dầu Bình Sơn. Tổng Giám đốc kiêm Thành viên
+HĐQT - Công ty Cổ phần Lọc Hóa Dầu Bình
+Sơn. Ông được bầu giữ chức Chủ tịch HĐQT
+Công ty Cổ phần Phân bón Dầu khí Cà Mau từ
+Nắm giữ chức vụ quản lý tại Công ty khác: Không
+Quá trình công tác
+Ông Mỹ bắt đầu quá trình công tác tại Sở Công
+nghiệp tỉnh Gia Lai - Kon Tum từ năm 1985.
+Sau đó, ông đảm nhiệm vị trí khác như: Kế toán
+trưởng kiêm Trưởng phòng Kinh tế - Tài chính
+tại Ban quản lý Dự án Nhà máy Thủy Điện
+Hương Điền. Ông bắt đầu công tác tại Ban
+Quản lý Dự án Cụm Khí - Điện - Đạm Cà Mau từ
+năm 2006 và đảm nhiệm chức vụ Phó Trưởng
+phòng Kinh tế - Kế hoạch. Năm 2012 ông bắt
+đầu công tác tại PVCFC và đảm nhiệm vị trí
+như: Trưởng Ban Kế hoạch Chiến lược; Trưởng
+Ban Kế hoạch Đầu tư. Từ tháng 01/2015 ông
+được bổ nhiệm vào vị trí Thành viên HĐQT.
+Nắm giữ chức vụ quản lý tại Công ty khác: Không
+Quá trình công tác
+Ông Thanh đã trải qua nhiều năm công tác
+và có kinh nghiệm trong lĩnh vực Công nghệ
+kỹ thuật với nhiều vai trò khác nhau. Từ năm
+2005, ông công tác trong ngành Dầu khí với
+các vị trí như: Phó Trưởng phòng Dự án, Cụm
+Khí - Điện - Đạm Cà Mau; Phó Ban chuyên
+trách Ban chuẩn bị đầu tư Dự án Ma-rốc thuộc
+Tổng Công ty Phân bón và Hóa chất Dầu khí.
+Ngoài vị trí Phó Trưởng ban Quản lý dự án Dự
+án Cụm Khí - Điện - Đạm Cà Mau năm 2011
+ông đảm nhiệm thêm chức Phó Giám đốc Công
+ty TNHH MTV Phân bón Dầu khí Cà Mau.
+Tháng 04/2016, ông kiêm nhiệm chức Giám
+đốc Trung tâm Nghiên cứu phát triển, Công
+ty Cổ phần Phân bón Dầu khí Cà Mau. Tháng
+06/2018 ông được ĐHĐCĐ bầu giữ chức
+Thành viên HĐQT kiêm Tổng Giám đốc Công
+ty. Tháng 06/2023 ông tiếp tục được ĐHĐCĐ
+bầu giữ chức vụ Thành viên HĐQT kiêm Tổng
+Giám đốc Công ty.
+Nắm giữ chức vụ quản lý tại Công ty khác: Không
+Quá trình công tác
+Ông Hạnh có nhiều năm kinh nghiệm trong
+hoạt động kinh doanh, công tác tư vấn, quản
+lý và kế hoạch đầu tư. Ông giữ vị trí Trưởng
+phòng Kinh tế Kế hoạch, Ban Quản lý Dự án
+Cụm Khí - Điện - Đạm Cà Mau. Từ năm 2012,
+ông được bổ nhiệm chức vụ Phó Giám đốc
+Công ty TNHH MTV Phân bón Dầu khí Cà Mau;
+tháng 06/2014 - 01/2015 ông đảm nhiệm chức
+Thành viên Hội đồng Thành viên (kiêm nhiệm);
+kiêm chức vụ Chủ tịch HĐQT Công ty Cổ phần
+Bao bì Dầu khí Việt Nam từ tháng 12/2012 -
+đảm nhiệm chức vụ Phó Tổng Giám đốc Công
+ty và ĐHĐCĐ của PVCFC thống nhất bầu
+chọn ông vào HĐQT của Công ty từ tháng
+Nắm giữ chức vụ quản lý tại Công ty khác: Không
+GIỚI THIỆU HỘI ĐỒNG QUẢN TRỊ
+Ngày 01/08/2023 ông Trần Mỹ nghỉ hưởng
+chế độ BHXH (nghỉ hưu).
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+ÔNG VĂN TIẾN THANH
+Tổng Giám đốc
+Giới tính: Nam
+Ngày tháng năm sinh: 09/07/1968
+Trình độ chuyên môn: Kỹ sư Cơ khí Nông Lâm
+ÔNG TRẦN CHÍ NGUYỆN
+Phó Tổng Giám đốc
+Giới tính: Nam
+Ngày tháng năm sinh: 21/09/1975
+Trình độ chuyên môn: Cử nhân Kinh tế ngành
+Kế toán, Cử nhân Luật, Thạc sĩ Quản trị
+Kinh doanh
+ÔNG LÊ NGỌC MINH TRÍ
+Phó Tổng Giám đốc
+Giới tính: Nam
+Ngày tháng năm sinh: 19/10/1970
+Trình độ chuyên môn: Cử nhân Kinh tế ngành
+Kế toán các doanh nghiệp
+ÔNG NGUYỄN TUẤN ANH
+Phó Tổng Giám đốc
+Giới tính: Nam
+Ngày tháng năm sinh: 24/02/1976
+Trình độ chuyên môn: Thạc sĩ Thương mại,
+Cử nhân Kế toán, Cử nhân Quản trị Kinh doanh
+Quá trình công tác
+Ông Thanh đã trải qua nhiều năm công tác
+và có kinh nghiệm trong lĩnh vực Công nghệ
+kỹ thuật với nhiều vai trò khác nhau. Từ năm
+2005, ông công tác trong ngành Dầu khí với
+các vị trí như: Phó Trưởng phòng Dự án, Cụm
+Khí - Điện - Đạm Cà Mau; Phó Ban chuyên
+trách Ban chuẩn bị đầu tư Dự án Ma-rốc thuộc
+Tổng Công ty Phân bón và Hóa chất Dầu khí.
+Ngoài vị trí Phó Trưởng ban Quản lý dự án Dự
+án Cụm Khí - Điện - Đạm Cà Mau năm 2011
+ông đảm nhiệm thêm chức Phó Giám đốc Công
+ty TNHH MTV Phân bón Dầu khí Cà Mau.
+Tháng 04/2016, ông kiêm nhiệm chức Giám
+đốc Trung tâm Nghiên cứu phát triển, Công
+ty Cổ phần Phân bón Dầu khí Cà Mau. Tháng
+06/2018 ông được ĐHĐCĐ bầu giữ chức
+Thành viên HĐQT kiêm Tổng Giám đốc Công
+ty. Tháng 06/2023 ông tiếp tục được ĐHĐCĐ
+bầu giữ chức vụ Thành viên HĐQT kiêm Tổng
+Giám đốc Công ty.
+Quá trình công tác
+Trước năm 2008, ông Nguyện làm việc tại
+Phòng Kế toán Bưu điện tỉnh Cà Mau với
+nhiều vị trí khác nhau. Từ năm 2008 - 2011,
+ông Nguyện công tác tại Phòng Tài chính - Kế
+toán Ban Quản lý Dự án Cụm Khí - Điện - Đạm
+Cà Mau với các chức danh Chuyên viên, Phó
+trưởng phòng. Ông đảm nhiệm chức vụ Kiểm
+soát viên chính tại PVCFC bắt đầu từ năm
+2012. Từ tháng 01/2015, ông được bổ nhiệm
+vào vị trí Thành viên HĐQT và tháng 04/2016
+-  11/2019 ông kiêm nhiệm chức Chủ tịch HĐQT
+Công ty Cổ phần Bao bì Dầu khí Việt Nam.
+Tháng 06/2020 ông được bổ nhiệm chức Phó
+Tổng Giám đốc Công ty Cổ phần Phân bón Dầu
+khí Cà Mau.
+Quá trình công tác
+Ông Trí có nhiều năm kinh nghiệm trong lĩnh
+vực Kế toán, kiểm toán tại các đơn vị trong
+ngành Dầu khí như: Kế toán viên tại Tổng Công
+ty Du lịch Dầu khí Việt Nam; Kế toán trưởng
+Ban Quản lý Dự án Cụm Khí - Điện - Đạm Cà
+Mau. Đến năm 2011, bên cạnh vị trí Kế toán
+Ban Quản lý Dự án Cụm Khí - Điện - Đạm Cà
+Mau, ông được bổ nhiệm đảm nhiệm chức vụ
+Kế toán trưởng Công ty TNHH MTV Phân bón
+Dầu khí Cà Mau nay là Công ty Cổ phần Phân
+bón Dầu khí Cà Mau; Tháng 06/2015 đến nay
+ông được bổ nhiệm chức Phó Tổng Giám đốc
+Công ty.
+Quá trình công tác
+Ông Tuấn Anh đã trải qua nhiều năm công tác
+và có kinh nghiệm trong các lĩnh vực, đảm
+nhiệm các vị trí: Năm 1998 ông làm việc tại
+Công ty Tư vấn Đầu tư xây dựng Dầu khí;
+đến năm 2002 ông làm việc tại Công ty Bảo
+hiểm Dầu khí; Năm 2006 ông giữ chức Trưởng
+phòng Công ty Cổ phần Kinh doanh Khí hóa
+lỏng Miền Bắc; Năm 2008 ông được bổ nhiệm
+chức vụ Giám đốc Công ty TNHH Phân bón và
+Hóa chất Dầu khí Miền Bắc. Tháng 10/2009
+ông đảm nhiệm chức vụ Trưởng Ban các Dự án
+hợp tác nước ngoài, Trưởng Ban Đầu tư xây
+dựng, Trưởng Ban Kinh doanh phân bón Tổng
+Công ty Phân bón và Hóa chất Dầu khí. Tháng
+04/2014, Phó Tổng Giám đốc Công ty Cổ phần
+Hóa dầu và Xơ sợi Dầu khí. Tháng 06/2017,
+ông được tiếp nhận và bổ nhiệm chức Phó
+Tổng Giám đốc Công ty Cổ phần Phân bón Dầu
+khí Cà Mau.
+GIỚI THIỆU BAN ĐIỀU HÀNH
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 
 66   Tổng quan ngành Phân bón năm 2023
 74   Triển vọng ngành Phân bón năm 2024
 80   Phân tích SWOT
 86   Chuỗi Giá trị Bền vững PVCFC
 88   Định hướng phát triển
-CHIẾN LƯỢC PHÁT TRIỂN
-2
 PHỤNG SỰ NỀN NÔNG NGHIỆP
 KIẾN TẠO GIẢI PHÁP
 
-Cao su với hơn 930.000 ha, tập trung ở các 
-tỉnh vùng Đông Nam Bộ; ngoài ra còn có các 
-cây trồng khác như tiêu, điều, chè, sắn và các 
-loại cây ăn trái có giá trị cao. Nhìn chung, 
-nhu cầu về tiêu thụ phân NPK, SA, Kali cho 
-các cây công nghiệp rất lớn ở 2 khu vực này 
-và hứa hẹn nhiều tiềm năng phát triển nông 
+NPK Việt Nhật 16-16-8+13S, nhà máy
+NPK Bình Điền 16-16-8+13S, nhà máy
+NPK Baconco 16-16-8+13S hạt, nhà máy
+GIÁ KALI TẠI THỊ TRƯỜNG VIỆT NAM TRONG 2 NĂM 2022 - 2023
+GIÁ NPK TẠI THỊ TRƯỜNG VIỆT NAM TRONG 2 NĂM 2022 - 2023
+TỔNG QUAN
+NGÀNH PHÂN BÓN NĂM 2023
+THỊ TRƯỜNG PHÂN BÓN VIỆT NAM
+THỊ TRƯỜNG KALI
+Theo AgroMonitor, giá Kali tại Việt Nam 2023 giảm liên tục
+nhưng không trở về mức giá trước khủng hoảng năng lượng
+của tháng 02/2021, dù giá Urê và DAP đã gần ngang bằng mức
+đó vào các tháng 06 - 07/2023. Giao dịch Kali ít sôi động do
+lo ngại rủi ro giá giảm, khiến các nhà phân phối hạn chế mua
+lượng lớn. Lượng tiêu thụ Kali cho cây trồng tăng nhẹ 5%,
+trong khi sử dụng trong sản xuất NPK giảm khoảng 15%. Tổng
+nhu cầu Kali giảm 17,3% so với năm trước, trong khi tổng cung
+cũng giảm 3,8%, chủ yếu do tồn kho đầu năm thấp, mặc dù
+nhập khẩu tăng 25% trong 5 tháng cuối năm. Tồn kho Kali giảm
+trong 7 tháng đầu năm do giải phóng hàng tồn kho giá cao và
+nhập khẩu hạn chế, nhưng tăng dần từ tháng 8 đến tháng 10,
+đạt mức cao nhất 252 nghìn tấn vào cuối tháng 10 và duy trì ở
+mức 228 - 238 nghìn tấn trong tháng 11 - 12.
+THỊ TRƯỜNG NPK
+Theo AgroMonitor, thị trường NPK 2023 tại Việt Nam chứng
+kiến sự biến động cả cung và cầu. Tồn kho đầu năm giảm 16%
+so với đầu năm 2022, với 279 nghìn tấn. Tổng sản xuất NPK
+trong nước tăng nhẹ 1,36% lên 2,63 triệu tấn, bất chấp tác
+động từ sự suy giảm giá phân đơn nhanh hơn so với phân hỗn
+hợp, dẫn đến tiêu thụ phân NPK chưa hồi phục hoàn toàn.
+Sản xuất của các nhà máy thuộc Tập đoàn Hóa Chất giảm 7%
+xuống còn khoảng 1,05 triệu tấn, trong khi các nhà máy khác
+tăng 7,8% lên 1,58 triệu tấn.
+Nhập khẩu NPK trong năm tăng đáng kể 46,7% lên 548 nghìn
+tấn, với nhập khẩu từ Trung Quốc và Nga tăng lần lượt 43%
+và 86%. Giá nhập khẩu trung bình giảm so với năm 2022, thúc
+đẩy nhập khẩu. Cụ thể, giá NPK từ Nga là 508 USD/tấn và từ
+Trung Quốc là 524 USD/tấn, dù giảm so với năm 2022 nhưng
+vẫn cao hơn so với năm 2021.
+Diễn biến giá Kali trong nước (ĐVT: đồng/kg)
+Diễn biến giá NPK trong nước (ĐVT: đồng/kg)
+(Nguồn: Tổng hợp từ AgroMonitor)
+(Nguồn: Tổng hợp từ AgroMonitor)
+Kali Israel miểng
+Kali Nga miểng
+Kali Israel bột đỏ
+Kali Nga bột đỏ
+TỔNG SẢN XUẤT
+NPK TRONG NƯỚC
+TRIỆU TẤN
+SO VỚI NĂM 2022
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+TRIỂN VỌNG
+NGÀNH PHÂN BÓN 2024
+THỊ TRƯỜNG PHÂN BÓN THẾ GIỚI
+THỊ TRƯỜNG URÊ
+Công suất các nhà máy Urê thế giới năm 2024 ước đạt 237,232 triệu tấn, tiếp tục xu hướng tăng
+so với năm 2023.
+Đông Nam Á duy trì nguồn cung ổn định ở mức 17,151 triệu tấn; Nam Á tăng lên 40,163 triệu tấn;
+Đông Á tăng lên 77,098 triệu tấn, Châu Phi tăng lên mức 17,025 triệu tấn.
+Nhu cầu tiêu thụ Urê thế giới năm 2024 ước đạt 189 triệu tấn,
+tăng nhẹ so với năm 2023, trong đó nhu cầu Urê sử dụng phân
+bón trực tiếp dự đoán khoảng 146 triệu tấn.
+Mức tăng trưởng nhu cầu, được dự báo vào khoảng 2,2 triệu
+tấn mỗi năm trong cùng kỳ (con số này bao gồm cả phân bón
+và Urê công nghiệp) đang thấp hơn mức tăng trưởng cung
+(công suất), vào khoảng 6,3 triệu tấn mỗi năm. Điều đó cho
+thấy sự cạnh tranh khắc nghiệt hơn trong tương lai đối với thị
+trường Urê.
+Châu Á vẫn sẽ là thị trường lớn nhất về sử dụng Urê trực tiếp
+và cũng sẽ thống trị tăng trưởng trong hai thập kỷ tới về tổng
+khối lượng mặc dù tốc độ tăng trưởng phần trăm được dự báo
+sẽ ở mức vừa phải, chỉ 0,7% mỗi năm, với mức tăng khối lượng
+lớn nhất cho đến nay là ở Nam Á. Trung Quốc có tốc độ tăng
+trưởng chậm lại do sự bão hòa của thị trường kết hợp với sự
+can thiệp của chính phủ.
+Dự báo tăng trưởng mạnh mẽ ở Châu Mỹ Latinh và Châu Phi,
+những khu vực có nhiều tiềm năng phát triển nhất trong lĩnh
+vực nông nghiệp.
+(Nguồn: Mosaic)
+NHU CẦU SỬ DỤNG PHÂN BÓN TRỰC TIẾP (ĐVT: TRIỆU TẤN)
+(Nguồn: Fertecon)
+Solid fertilizer        Industrial        UAN
+CÔNG SUẤT CÁC
+NHÀ MÁY URÊ
+TRIỆU TẤN
+NHU CẦU TIÊU THỤ
+TRIỆU TẤN
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+TRIỂN VỌNG
+NGÀNH PHÂN BÓN 2024
+THỊ TRƯỜNG DAP THẾ GIỚI
+Dự báo nhu cầu DAP toàn cầu năm 2024 khoảng 73-76
+triệu tấn, tăng nhẹ so với năm ngoái do dự báo triển vọng
+mùa vụ và diện tích canh tác nông nghiệp thế giới được mở
+rộng hơn. Ngoài ra, do giá DAP liên tục giảm, góp phần kích
+thích nhu cầu tiêu dùng DAP trong khi giá một số nông sản
+chính như ngô, đậu tương so với giá DAP vẫn ở mức hấp dẫn
+với nông dân ở các thị trường tiêu thụ chính.
+Nhìn chung, dự báo nhu cầu tiếp tục cải thiện ở các thị
+trường lớn Brazil, Argentina, Bắc Mỹ, Châu Á trong khi mức
+tiêu thụ ở Ấn Độ, Trung Quốc có phần chậm hơn so với phần
+còn lại của thế giới.
+THỊ TRƯỜNG KALI THẾ GIỚI
+Nhu cầu tiêu thụ Kali toàn cầu cải thiện mạnh trong năm
+2024, ước đạt 68-72 triệu tấn, trong đó các thị trường tiêu
+thụ chính vẫn giữ được đà tăng trưởng, đáng kể phải kể tới là
+Mỹ Latinh (15-16 triệu tấn); Trung Quốc (14-16 triệu tấn); Bắc
+Mỹ (8,5-9,5 triệu tấn); Ấn Độ (2,6-3,2 triệu tấn); các nước
+Châu Á khác (8,5-9,2 triệu tấn)…
+(Nguồn: Mosaic)
+(Nguồn: Mosaic)
+NHU CẦU SỬ DỤNG DAP THẾ GIỚI (ĐVT: TRIỆU TẤN)
+NHU CẦU SỬ DỤNG KALI THẾ GIỚI (ĐVT: TRIỆU TẤN)
+DỰ BÁO NHU CẦU
+DAP TOÀN CẦU
+TRIỆU TẤN
+DỰ BÁO NHU CẦU
+KALI TOÀN CẦU
+TRIỆU TẤN
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+THỊ TRƯỜNG PHÂN BÓN TRONG NƯỚC
+THỊ TRƯỜNG URÊ VIỆT NAM
+Năm 2024, dự báo nhu cầu Urê tại
+Việt Nam hồi phục sau 2 năm đối
+mặt với “bão giá”. Tuy nhiên, tăng
+trưởng này dự kiến không quá
+mạnh do giá Urê vẫn còn cao trong
+nửa đầu năm 2023. AgroMonitor
+dự báo tiêu thụ Urê trong nước tại
+Việt Nam năm 2024 sẽ ở mức 2,05-
+2,11 triệu tấn, tăng so với 1,74-1,93
+triệu tấn trong năm 2022 - 2023.
+Xuất khẩu Urê của Việt Nam năm
+2024 dự báo sẽ tăng nhẹ hoặc
+ổn định so với năm 2023, với
+nguồn cung Nitơ toàn cầu dự kiến
+tăng. Khu vực Châu Á dự kiến sẽ
+chứng kiến sự gia tăng sản lượng
+THỊ TRƯỜNG KALI VIỆT NAM
+Triển vọng nguồn cung Kali tại
+Việt Nam trong năm 2024 dự kiến
+sẽ chịu ảnh hưởng bởi tình hình
+nguồn cung và giá cả Kali trên thế
+giới. Giá Kali dự báo sẽ ổn định
+hơn sau xu hướng giảm từ cuối
+năm 2023 đến đầu năm 2024, tiến
+gần về mức giá trước khủng hoảng
+năng lượng. AgroMonitor dự báo
+tiêu thụ Kali trong nước cho cây
+trồng và nguyên liệu sản xuất sẽ
+tăng, với lượng tiêu thụ dự kiến đạt
+250-300 nghìn tấn cho cây trồng
+và 500-550 nghìn tấn cho nguyên
+liệu sản xuất.
+THỊ TRƯỜNG DAP VIỆT NAM
+Năm 2024, dự báo nhập khẩu DAP
+tại Việt Nam có thể tăng so với
+năm 2023, với khả năng phục hồi
+mạnh mẽ trong nửa sau của năm
+do các yếu tố như chính sách xuất
+khẩu của Trung Quốc và tình hình
+tại biển Đỏ. Dự kiến nhập khẩu DAP
+sẽ đạt 440-460 nghìn tấn. Trung
+Quốc, là nhà cung cấp lớn nhất,
+dự kiến hạn chế xuất khẩu trong
+quý 1 nhưng tăng sau mùa xuân.
+Nga, một nguồn cung quan trọng
+khác, sẽ tiếp tục áp thuế xuất
+khẩu, với cước vận chuyển dự kiến
+tăng do căng thẳng tại biển Đỏ.
+Hàn Quốc, mặc dù là thị trường lớn
+thứ 3, vẫn đối mặt với vấn đề hàm
+lượng Cadimi cao trong sản phẩm.
+THỊ TRƯỜNG NPK VIỆT NAM
+Dự báo năm 2024, tiêu thụ và sản
+xuất NPK tăng, với tiêu thụ tăng
+11-15% lên 2,9-3 triệu tấn và sản
+xuất tăng 1-3% lên 2,63-2,65 triệu
+tấn. NPK Cà Mau và NPK Phú Mỹ
+dự kiến tăng sản lượng.
+Về nhập khẩu, dự kiến sẽ duy trì
+hoặc giảm nhẹ so với năm 2023,
+với nguồn cung chính từ Trung
+Quốc và Nga. Dự báo nhập khẩu
+tấn, giảm so với 548 nghìn tấn năm
+2023, tiếp tục xu hướng đa dạng
+hóa sản phẩm và phân phối hàng
+hóa nhập khẩu.
+TRIỂN VỌNG
+NGÀNH PHÂN BÓN 2024
+từ các nhà máy Urê mới, đặc biệt
+là Ấn Độ và Bangladesh, điều này
+có thể sẽ tạo ra thêm cạnh tranh
+cho Việt Nam nhưng thị trường
+Campuchia vẫn mang lại tiềm năng
+xuất khẩu. Dự kiến xuất khẩu Urê
+của Việt Nam năm 2024 ở mức
+550-570 nghìn tấn.
+Nguồn cung Urê trong nước dự
+kiến đạt 2,2-2,4 triệu tấn. Dự báo
+nhập khẩu Urê năm 2024 giảm so
+nghìn tấn, phản ánh sự chậm lại sau
+một năm sôi động và sẽ phụ thuộc
+vào cạnh tranh từ sản xuất nội địa
+và chính sách giá.
+Về nhu cầu, giá DAP thế giới dự
+kiến tăng trong quý 1/2024 nhưng
+giảm sau đó, hỗ trợ nhu cầu tiêu thụ
+DAP nội địa, đặc biệt vào đầu quý
+2, khi bước vào vụ Hè Thu. Nhu cầu
+phân bón chứa P2O5 toàn cầu cũng
+dự kiến tăng nhẹ, với khu vực Đông
+Á, Nam Á, và Tây Á đều có sự gia
+tăng. Tiêu thụ DAP nội địa dự kiến
+tăng lên 620-660 nghìn tấn, so với
+530 nghìn tấn năm 2023.
+Sản xuất DAP nội địa dự kiến sẽ gia
+tăng, với các nhà máy điều chỉnh
+sản xuất theo tình hình cung cầu
+và xu hướng giá. Sản lượng dự kiến
+đạt 400-420 nghìn tấn, tăng so
+với 362 nghìn tấn năm 2023.
+Sản lượng sản xuất MOP của Lào,
+với kế hoạch mở rộng sản xuất, dự
+kiến sẽ tăng cung cho thị trường
+Đông Nam Á và ảnh hưởng đến
+dòng chảy thương mại khu vực.
+Điều này có thể tạo áp lực giá và
+cạnh tranh với các nhà cung cấp
+khác. Dự kiến lượng nhập khẩu Kali
+của Việt Nam trong năm 2024 sẽ
+tăng lên mức 800-850 nghìn tấn,
+phản ánh sự gia tăng nhập khẩu từ
+Lào và khả năng giảm nhập khẩu từ
+các nước như Nga, Canada, Israel,
+Belarus, và Uzbekistan do tác động
+của các vấn đề địa chính trị và cước
+vận chuyển có thể tăng.
+TIÊU THỤ URÊ
+TRONG NƯỚC
+TRIỆU TẤN
+LƯỢNG KALI
+TIÊU THỤ
+DỰ KIẾN ĐẠT
+NGHÌN TẤN
+CHO CÂY TRỒNG
+NHẬP KHẨU
+NGHÌN TẤN
+SẢN LƯỢNG
+DAP NỘI ĐỊA
+DỰ KIẾN
+NGHÌN TẤN
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+PHÂN TÍCH SWOT
+DUY TRÌ VỊ THẾ DẪN ĐẦU THỊ TRƯỜNG
+Thời gian qua, nói riêng về thị trường Urê,
+PVCFC là một trong những đơn vị tiên phong
+đi đầu trong việc định vị, dẫn dắt thị trường
+này về thị phần, thương hiệu, chính sách bán
+hàng và khả năng điều chỉnh linh hoạt giá bán.
+PVCFC bảo đảm được khả năng cạnh tranh
+với các nhà sản xuất trong nước; từng bước
+cạnh tranh tốt với sản phẩm nhập khẩu. Duy
+trì khoảng cách giá bán nhất định so với sản
+phẩm cùng loại, hạn chế tham gia vào cuộc
+chiến về giá theo hướng tiêu cực, suy giảm nội
+lực và bất lợi cho doanh nghiệp.
+Với việc đưa Nhà máy NPK Cà Mau đi vào
+hoạt động, PVCFC đang cụ thể hóa vai trò
+tiên phong, đi đầu trong việc khẳng định vị
+thế là nhà sản xuất kinh doanh phân bón hàng
+đầu tại Việt Nam và xa hơn là khu vực Đông
+HỆ THỐNG PHÂN PHỐI CẤP 1 VÀ CẤP 2
+VỮNG MẠNH, BAO PHỦ THỊ TRƯỜNG
+Hệ thống phân phối cấp 1 và cấp 2 vững mạnh
+và bao phủ thị trường nhất là tại các thị trường
+trọng điểm khu vực ĐBSCL, Campuchia tạo
+nền tảng quan trọng giúp PVCFC triển khai
+chiến lược kinh doanh tập trung, có lựa chọn
+và ưu tiên nhằm tối ưu hóa doanh thu, giá bán,
+hiệu quả kinh doanh. Hiện trên 2/3 doanh số
+của PVCFC đến từ thị trường vùng ĐBSCL, do
+đó, việc hoạch định bài toán phân phối luôn có
+vị trí quan trọng trong chiến lược kinh doanh
+của đơn vị.
+TỔ CHỨC BỘ MÁY KINH DOANH, BÁN
+HÀNG GỌN NHẸ, TIẾT GIẢM CHI PHÍ
+Trong thời gian tới, để phát huy hơn nữa để
+tối ưu hóa mô hình phân phối, PVCFC tiếp tục
+nghiên cứu và ứng dụng các hình thức phân
+phối mới, ứng dụng công nghệ trên cơ sở bảo
+đảm lợi ích hài hòa giữa nhà sản xuất - nhà
+phân phối - người tiêu dùng. Với việc tăng
+cường ứng dụng hệ thống CNTT vào quản trị
+sản xuất, bán hàng, phân phối, PVCFC coi đây
+là một trong những công cụ hữu hiệu, quan
+trọng cần áp dụng thường xuyên.
+Hiện nay, hệ thống phân phối được tổ chức gọn
+nhẹ, ưu tiên sử dụng đội ngũ bán hàng bản địa,
+am hiểu thị trường, ngành hàng, văn hóa vùng
+miền; phát huy vai trò chủ động, năng động,
+sáng tạo của đội ngũ quản lý các cấp; đồng
+thời động viên, khích lệ nhân viên bán hàng
+theo định hướng kết quả và thù lao tương
+xứng với nỗ lực phấn đấu của nhân viên.
+Trên hết, việc thiết lập hệ thống bán hàng tinh
+gọn phải bảo đảm cập nhật diễn biến kịp thời từ
+thị trường và đối thủ cạnh tranh; đáp ứng nhu
+cầu đa dạng, đòi hỏi khắt khe từ hệ thống phân
+phối và người tiêu dùng.
+GIÁ THÀNH SẢN XUẤT VẪN TƯƠNG ĐỐI
+BẤT LỢI SO VỚI CÁC NƯỚC KHÁC
+Do nhiều nguyên nhân, hiện tại giá thành sản
+xuất Urê của PVCFC so với một số nước trên thế
+giới vẫn khá cao. Chi phí giá thành ở một số nước
+dưới 200 USD/tấn do có lợi thế về tài nguyên,
+chi phí đầu tư ít hơn. Nhiều nước trong số này
+hiện diện ở khu vực Trung Đông, Baltic có lợi thế
+sở hữu về nguồn năng lượng dầu mỏ, khí đốt và
+có ngành công nghiệp dầu khí phát triển.
+Tại Châu Á, một số nhà máy ở các nước
+Indonesia, Malaysia, Trung Quốc, Brunei có chi
+phí sản xuất cạnh tranh và thấp hơn so với chi
+phí của PVCFC. Do đó, việc cạnh tranh trên thị
+trường xuất khẩu của PVCFC ở một số thời
+điểm sẽ gặp bất lợi nhất định so với các đối
+thủ trong khu vực.
+CHI PHÍ LOGISTIC VẪN CHIẾM TỶ TRỌNG
+CAO, HẠN CHẾ KHẢ NĂNG CẠNH TRANH
+VỀ DÀI HẠN
+Hoạt động logistic trong chuỗi cung ứng, phân
+phối hàng hóa phân bón từ Nhà máy Đạm Cà Mau
+đến nhiều thị trường trong nước thực hiện bằng
+đa phương thức làm phát sinh chi phí logistic
+không hề nhỏ cho doanh nghiệp. Thời gian tới,
+việc này chưa thể sớm khắc phục và phụ thuộc
+vào nhiều đầu mối trung gian, từ đó ảnh hưởng
+nhất định đến chi phí phân phối sản phẩm của
+PVCFC đến tay người tiêu dùng trong nước.
+TỪNG BƯỚC CẢI THIỆN HIỆU QUẢ KINH
+DOANH TÀI SẢN HỮU HÌNH, GIA TĂNG GIÁ
+TRỊ TÀI SẢN VÔ HÌNH
+PVCFC luôn phấn đấu và bảo đảm mục tiêu
+quan trọng dành cho các cổ đông; không
+ngừng cải thiện chỉ số về tài chính như ROA,
+ROE, EPS… Thông qua các buổi làm việc với
+các tổ chức, định chế tài chính, quỹ đầu tư
+nước ngoài, nhìn chung, nhiều đánh giá đồng
+tình về việc PVCFC đang từng bước cải thiện
+các chỉ số về tài chính, kinh doanh.
+Trong thời gian tới, PVCFC phấn đấu gia tăng
+hơn nữa giá trị tài sản vô hình như thương hiệu,
+bản quyền, bí quyết, công nghệ, bằng sáng chế,
+giải pháp hữu ích trong toàn thể chuỗi giá trị
+của doanh nghiệp nhằm gia tăng giá trị tài sản
+ròng của doanh nghiệp trên thị trường.
+ĐIỂM MẠNH
+ĐIỂM YẾU
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+LUẬT THUẾ VAT CÓ THỂ ĐƯỢC QUỐC HỘI
+SỚM THÔNG QUA
+Từ năm 2014 đến nay, Luật thuế VAT áp cho
+các đơn vị sản xuất kinh doanh phân bón
+thuộc đối tượng không chịu thuế VAT, do đó
+PVCFC và nhiều đơn vị sản xuất kinh doanh
+trong ngành vẫn phải chịu các chi phí đầu vào
+khá lớn, và hàng năm, ước tính khoản chi phí
+đầu vào không được khấu trừ từ 500-700 tỷ
+đồng. Điều này gây khó khăn nhất định cho
+hoạt động SXKD của đơn vị trong bối cảnh
+cạnh tranh ngày càng gay gắt cả trong nước
+và quốc tế.
+Tuy nhiên, hiện nay Luật này đang được các
+bộ ngành báo cáo Chính phủ trình Quốc hội
+xem xét, sửa đổi để phân bón là đối tượng
+chịu thuế VAT với mức thuế suất hợp lý tạo
+điều kiện hỗ trợ ngành sản xuất phân bón
+trong nước.
+Theo các chuyên gia đánh giá, đạo luật này
+đang nhận được sự quan tâm, ủng hộ lớn từ
+phía Quốc hội, các bộ ngành và có thể sớm
+được thông qua trong các kỳ họp tới đây. Nếu
+khả thi, đây là cơ hội lớn đối với các đơn vị
+hoạt động trong ngành SXKD phân bón trong
+nước, tạo thuận lợi cho việc tiết giảm chi phí
+đầu vào, hạ giá thành sản phẩm, qua đó không
+chỉ nâng cao hiệu quả sản xuất của đơn vị, mà
+còn giúp đẩy mạnh lượng tiêu thụ nội địa.
+KHAI THÁC TỐT CƠ HỘI TỪ PHÂN KHÚC
+LÚA VÀ CÂY ĂN TRÁI TẠI ĐBSCL
+Đồng bằng sông Cửu Long (ĐBSCL) là thị
+trường tiêu thụ phân bón lớn nhất cả nước với
+nhu cầu tiêu thụ Urê từ nông dân đạt 680.000
+- 390.000 tấn/năm; phân Kali từ 220.000 -
+1.100.000 tấn/năm và các phân bón khác từ
+Nhà máy Đạm Cà Mau nằm ở ĐBSCL là thị
+trường có tiềm năng phát triển nông nghiệp,
+thủy hải sản lớn nhất cả nước, trong đó có mặt
+hàng sản xuất - xuất khẩu lúa gạo, cây ăn trái
+từ lâu vốn là thế mạnh chính của vùng. Hàng
+năm, diện tích canh tác lúa của vùng ổn định ở
+mức 1,6 triệu ha với 2 vụ chính Đông Xuân và
+Hè Thu, chưa kể vụ 3 với diện tích từ 650.000
+- 750.000 ha hoạt động theo định hướng xuất
+khẩu (gạo xuất khẩu của ĐBSCL chiếm 80%
+tổng lượng xuất khẩu gạo cả nước hàng năm
+từ 6 - 7 triệu tấn, trị giá hơn 3 tỷ USD/năm).
+Có thể thấy, với quy mô thị phần Urê chiếm
+bình quân 60% - 65% thị phần tại ĐBSCL,
+đây là một lợi thế mà nhiều đơn vị sản xuất
+trong ngành khó có thể đạt được.
+Về thị trường cây ăn trái, với quy mô diện tích
+cây ăn trái của ĐBSCL chiếm hơn 60% quy
+mô diện tích cây ăn trái cả nước hơn 1 triệu ha,
+trong đó nhiều sản phẩm có giá trị cung cấp cho
+các nhà máy chế biến trong vùng phục vụ tiêu
+thụ nội địa và xuất khẩu. Phân khúc thị trường
+này chiếm vị trí quan trọng đối với các dòng sản
+phẩm mới và sản phẩm NPK Cà Mau của PVCFC
+trong các năm tới.
+Theo nhiều chuyên gia kinh tế và đội ngũ nghiên
+cứu khoa học, nếu được đầu tư xứng đáng thì
+hiệu quả kinh tế thu được từ thị trường cây ăn
+trái còn cao hơn nữa so với hiệu quả trồng lúa,
+do đó, tiềm năng phát triển thị trường cây ăn
+trái tại ĐBSCL còn nhiều cơ hội khai thác và
+cải thiện trong tương lai.
+Điều này giúp PVCFC tận dụng cơ hội cải thiện
+phân khúc tiêu thụ dòng sản phẩm phân bón
+mới, sản phẩm NPK và đưa ra các giải pháp
+dinh dưỡng hữu hiệu phục vụ nhu cầu phát
+triển của vùng trong tương lai.
+Về thị trường rau màu, với diện tích canh tác
+lớn, phân bố tại các vùng đất màu mỡ trải dài
+trên các vùng đất trũng tập trung dọc lưu vực
+hệ thống sông Tiền Giang, sông Hậu Giang với
+thời gian canh tác ngắn ngày tạo thuận lợi cho
+PVCFC mở rộng cung ứng sản phẩm phân bón
+mới, phân hữu cơ có giá trị cao, góp phần quan
+trọng hỗ trợ cho chuỗi cung ứng đầu ra sản
+phẩm rau màu “xanh - sạch - đẹp” phù hợp với
+thị hiếu của người tiêu dùng và từng bước đáp
+ứng nhu cầu cho chuỗi hệ thống siêu thị bán
+lẻ của các tập đoàn lớn trong và ngoài nước.
+Với mạng lưới hệ thống phân phối đại lý cấp 1
+và cấp 2 lớn nhất cả nước, PVCFC đã và đang
+từng bước duy trì, phát triển thị phần các dòng
+sản phẩm phân bón chiến lược, góp phần quan
+trọng vào cơ cấu tiêu thụ sản phẩm của vùng
+này cũng như trong toàn Công ty. Ngoài ra, với
+lợi thế nằm cạnh Campuchia, các tỉnh vùng
+ĐBSCL đã và đang tích cực mở rộng hệ thống
+thương mại với các đối tác ở nước bạn trong các
+lĩnh vực; tăng cường liên kết thị trường chặt
+chẽ giữa ĐBSCL và Campuchia, tạo lợi thế bền
+vững cho việc duy trì và phát triển thương mại
+giữa hai nước nói chung và các thương nhân ở
+các tỉnh vùng biên giới nói riêng.
+TẬN DỤNG CƠ HỘI TỪ PHÂN KHÚC
+CÂY CÔNG NGHIỆP TẠI ĐÔNG NAM BỘ VÀ
+TÂY NGUYÊN
+Khu vực Đông Nam Bộ và Tây Nguyên (ĐNB
+& TN) là thị trường tiêu thụ phân bón đầy
+tiềm năng cho các cây công nghiệp, trong
+đó nhu cầu tiêu thụ cao điểm các loại phân
+bón như Urê từ 180.000 - 220.000 tấn/năm;
+phân Kali từ 130.000 - 160.000 tấn/năm;
+phân DAP từ 40.000 - 50.000 tấn/năm và
+phân bón khác từ 500.000 - 650.000 tấn/
+năm. Theo thống kê, phần lớn diện tích cây cà
+phê, cao su ở Việt Nam tập trung ở khu vực
+các tỉnh ĐNB & TN, trong đó riêng cà phê tập
+trung tại 3 tỉnh khu vực Tây Nguyên gồm Đắk
+Lắk, Gia Lai, Lâm Đồng với hơn 600.000 ha.
+PHÂN TÍCH SWOT
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+Cao su với hơn 930.000 ha, tập trung ở các
+tỉnh vùng Đông Nam Bộ; ngoài ra còn có các
+cây trồng khác như tiêu, điều, chè, sắn và các
+loại cây ăn trái có giá trị cao. Nhìn chung,
+nhu cầu về tiêu thụ phân NPK, SA, Kali cho
+các cây công nghiệp rất lớn ở 2 khu vực này
+và hứa hẹn nhiều tiềm năng phát triển nông
 nghiệp trong tương lai.
-PVCFC đang tập trung nguồn lực phát triển kênh 
-phân phối, cung cấp sản phẩm khác có giá trị cao 
-dựa trên gốc Urê, NPK, sản phẩm vi sinh, hữu 
-cơ để thích ứng với sự đa dạng về hệ cây trồng 
-phong phú cũng như điều kiện thổ nhưỡng, khí 
-hậu đặc thù ở vùng đất này. Dòng sản phẩm NPK 
-đang được nhiều đại lý và người tiêu dùng phản 
-hồi tích cực bởi phù hợp về chất lượng, mẫu mã 
-và giá thành và thổ nhưỡng, cây trồng ở Tây 
-Nguyên. Đó là điểm nhấn quan trọng để thúc đẩy 
-PVCFC không ngừng nỗ lực phát huy hơn nữa 
-tiềm năng và lợi thế của Công ty đồng hành lâu 
-dài với đại lý và bà con nông dân ở vùng Đông 
+PVCFC đang tập trung nguồn lực phát triển kênh
+phân phối, cung cấp sản phẩm khác có giá trị cao
+dựa trên gốc Urê, NPK, sản phẩm vi sinh, hữu
+cơ để thích ứng với sự đa dạng về hệ cây trồng
+phong phú cũng như điều kiện thổ nhưỡng, khí
+hậu đặc thù ở vùng đất này. Dòng sản phẩm NPK
+đang được nhiều đại lý và người tiêu dùng phản
+hồi tích cực bởi phù hợp về chất lượng, mẫu mã
+và giá thành và thổ nhưỡng, cây trồng ở Tây
+Nguyên. Đó là điểm nhấn quan trọng để thúc đẩy
+PVCFC không ngừng nỗ lực phát huy hơn nữa
+tiềm năng và lợi thế của Công ty đồng hành lâu
+dài với đại lý và bà con nông dân ở vùng Đông
 Nam Bộ và Tây Nguyên trong thời gian tới.
-MỞ RỘNG VÀ PHÁT TRIỂN THỊ PHẦN TẠI 
+MỞ RỘNG VÀ PHÁT TRIỂN THỊ PHẦN TẠI
 CAMPUCHIA, THỊ TRƯỜNG QUỐC TẾ
-Campuchia từ lâu luôn là thị trường mục tiêu quan 
-trọng trong chiến lược phát triển của PVCFC với 
-nhu cầu tiêu thụ phân bón không ngừng tăng 
-trưởng liên tục và hàng năm bình quân tiêu thụ 
-Urê từ 380.000 - 410.000 tấn/năm; phân DAP 
-từ 250.000 - 280.000 tấn/năm; phân NPK 
-từ 260.000 - 300.000 tấn/năm, chưa kể các 
-chủng loại phân bón khác thì việc khai thác tốt 
-cơ hội thị trường này góp phần quan trọng cho 
-PVCFC chinh phục, mở rộng thị phần thương 
-hiệu “Phân bón Cà Mau” với khách hàng 
+Campuchia từ lâu luôn là thị trường mục tiêu quan
+nhu cầu tiêu thụ phân bón không ngừng tăng
+trưởng liên tục và hàng năm bình quân tiêu thụ
+Urê từ 380.000 - 410.000 tấn/năm; phân DAP
+từ 260.000 - 300.000 tấn/năm, chưa kể các
+chủng loại phân bón khác thì việc khai thác tốt
+cơ hội thị trường này góp phần quan trọng cho
+PVCFC chinh phục, mở rộng thị phần thương
+hiệu “Phân bón Cà Mau” với khách hàng
 tại Campuchia.
-Urê Cà Mau chiếm thị phần từ 35% - 40%/năm 
-và trong thời gian tới, PVCFC định hướng phát 
-triển tiêu thụ NPK từ 15% - 20% thị phần tại 
-Campuchia với mục tiêu tạo bước đột phá về 
-chiến lược kinh doanh tại Campuchia nói riêng 
-và Đông Nam Á nói chung trong chiến lược 
+Urê Cà Mau chiếm thị phần từ 35% - 40%/năm
+và trong thời gian tới, PVCFC định hướng phát
+triển tiêu thụ NPK từ 15% - 20% thị phần tại
+Campuchia với mục tiêu tạo bước đột phá về
+chiến lược kinh doanh tại Campuchia nói riêng
+và Đông Nam Á nói chung trong chiến lược
 phát triển thị trường quốc tế.
 CHI PHÍ NGUYÊN LIỆU ĐẦU VÀO
-Nhìn chung, dự báo về nguyên liệu đầu vào của ngành 
-sản xuất Urê vẫn gặp nhiều khó khăn do giá dầu vẫn 
-ở mức cao 75-80 USD/thùng. Điều này sẽ tác động 
-vào giá thành sản xuất, ảnh hưởng đến khả năng 
-cạnh tranh của Công ty, giảm lợi thế cạnh tranh so 
-với các nhà máy ở Trung Đông, Baltic và Đông Nam 
-Á, trong đó có Nga và Iran là những nước có chi phí 
-thấp và luôn sẵn sàng hạ giá mạnh để đạt được các 
-thương vụ hấp dẫn trong khi vẫn thu được lợi nhuận 
+Nhìn chung, dự báo về nguyên liệu đầu vào của ngành
+sản xuất Urê vẫn gặp nhiều khó khăn do giá dầu vẫn
+ở mức cao 75-80 USD/thùng. Điều này sẽ tác động
+vào giá thành sản xuất, ảnh hưởng đến khả năng
+cạnh tranh của Công ty, giảm lợi thế cạnh tranh so
+với các nhà máy ở Trung Đông, Baltic và Đông Nam
+Á, trong đó có Nga và Iran là những nước có chi phí
+thấp và luôn sẵn sàng hạ giá mạnh để đạt được các
+thương vụ hấp dẫn trong khi vẫn thu được lợi nhuận
 biên hợp lý.
-ÁP LỰC TỪ CẠNH TRANH Ở KHU VỰC CHÂU Á  
-Nhà máy BFI, Brunei, công suất 1,27 triệu tấn/năm, 
-một trong các nhà máy mới đi vào hoạt động trong 
-giai đoạn gần đây nhưng đang tạo ra áp lực cho nhà 
-sản xuất Urê khu vực Đông Nam Á do có lợi thế về 
-chi phí thấp và nhận được sự hỗ trợ lớn từ Chính phủ 
-Brunei. Hiện BFI đã triển khai xâm nhập thị trường 
-Việt Nam với các lô hàng nhỏ và vừa, chủ yếu phục 
-vụ cho nhu cầu làm nguyên liệu của nhà máy sản 
+ÁP LỰC TỪ CẠNH TRANH Ở KHU VỰC CHÂU Á
+Nhà máy BFI, Brunei, công suất 1,27 triệu tấn/năm,
+một trong các nhà máy mới đi vào hoạt động trong
+giai đoạn gần đây nhưng đang tạo ra áp lực cho nhà
+sản xuất Urê khu vực Đông Nam Á do có lợi thế về
+chi phí thấp và nhận được sự hỗ trợ lớn từ Chính phủ
+Brunei. Hiện BFI đã triển khai xâm nhập thị trường
+Việt Nam với các lô hàng nhỏ và vừa, chủ yếu phục
+vụ cho nhu cầu làm nguyên liệu của nhà máy sản
 xuất NPK phía Nam.
-Về phía Trung Quốc, tiếp tục đổi mới ngành sản xuất 
-kinh doanh phân bón trong nước, đầu tư nhiều hơn 
-vào các máy chạy khí, thân thiện với môi trường và 
-thế mạnh lớn nhất của Trung Quốc là lợi thế theo quy 
-mô. Hiện Trung Quốc vẫn chủ trương duy trì chính 
-sách kiểm soát hạn ngạch xuất khẩu phân bón ra thị 
-trường quốc tế nhưng chính sách này có thể thay đổi 
-từ đầu quý 2/2024, từ đó có thể tạo ra sức ép vô 
+Về phía Trung Quốc, tiếp tục đổi mới ngành sản xuất
+kinh doanh phân bón trong nước, đầu tư nhiều hơn
+vào các máy chạy khí, thân thiện với môi trường và
+thế mạnh lớn nhất của Trung Quốc là lợi thế theo quy
+mô. Hiện Trung Quốc vẫn chủ trương duy trì chính
+sách kiểm soát hạn ngạch xuất khẩu phân bón ra thị
+trường quốc tế nhưng chính sách này có thể thay đổi
+từ đầu quý 2/2024, từ đó có thể tạo ra sức ép vô
 cùng lớn với các khu vực khác trên thế giới.
 PHÂN TÍCH SWOT
-PVCFC mở rộng thị trường sang các nước 
-khu vực Đông Nam Á, Nam Á, Mỹ La Tinh như 
-Thái Lan, Myanmar, Philippines, Bangladesh, 
-Nepal, Sri Lanka, Ấn Độ, Brazil. Đây được xem 
-là thị trường có quy mô tiêu thụ phân bón lớn, 
-ổn định, phát huy được lợi thế cạnh tranh về 
-giá bán, chất lượng sản phẩm và được người 
-tiêu dùng đánh giá tích cực trong thói quen sử 
-dụng đạm hạt đục. Trong các năm tới, PVCFC 
-tiếp tục mở rộng thị trường mới ở Châu Âu, 
-Châu Đại Dương và Bắc Mỹ. Những tháng đầu 
-quý 1/2024, PVCFC đã triển khai ký kết một 
-số hợp đồng quan trọng cung ứng hàng hóa đi 
-thị trường khó tính như Úc, New Zealand và hy 
-vọng sẽ tiếp tục đạt kết quả khả quan hơn nữa 
+PVCFC mở rộng thị trường sang các nước
+khu vực Đông Nam Á, Nam Á, Mỹ La Tinh như
+Thái Lan, Myanmar, Philippines, Bangladesh,
+Nepal, Sri Lanka, Ấn Độ, Brazil. Đây được xem
+là thị trường có quy mô tiêu thụ phân bón lớn,
+ổn định, phát huy được lợi thế cạnh tranh về
+giá bán, chất lượng sản phẩm và được người
+tiêu dùng đánh giá tích cực trong thói quen sử
+dụng đạm hạt đục. Trong các năm tới, PVCFC
+tiếp tục mở rộng thị trường mới ở Châu Âu,
+Châu Đại Dương và Bắc Mỹ. Những tháng đầu
+quý 1/2024, PVCFC đã triển khai ký kết một
+số hợp đồng quan trọng cung ứng hàng hóa đi
+thị trường khó tính như Úc, New Zealand và hy
+vọng sẽ tiếp tục đạt kết quả khả quan hơn nữa
 trong giai đoạn tới.
-Việc đa dạng hóa thị trường quốc tế giúp 
-PVCFC giảm rủi ro trong kinh doanh trong bối 
-cảnh thị trường nội địa bão hòa, cạnh tranh 
-quyết liệt ở Đông Nam Á và Châu Á khi có 
-thêm nhiều nhà máy mới đi vào hoạt động. Bên 
-cạnh đó, khắc phục được phần nào tính chu 
-kỳ mùa vụ, nhất là giai đoạn thấp điểm trong 
-nước, nhằm duy trì tốt hơn vị thế cạnh tranh 
-trên trường quốc tế; đồng thời, chủ động tham 
-gia sâu hơn vào mạng lưới kinh doanh toàn 
-cầu, hướng tới các chuẩn mực cao hơn của 
+Việc đa dạng hóa thị trường quốc tế giúp
+PVCFC giảm rủi ro trong kinh doanh trong bối
+cảnh thị trường nội địa bão hòa, cạnh tranh
+quyết liệt ở Đông Nam Á và Châu Á khi có
+thêm nhiều nhà máy mới đi vào hoạt động. Bên
+cạnh đó, khắc phục được phần nào tính chu
+kỳ mùa vụ, nhất là giai đoạn thấp điểm trong
+nước, nhằm duy trì tốt hơn vị thế cạnh tranh
+trên trường quốc tế; đồng thời, chủ động tham
+gia sâu hơn vào mạng lưới kinh doanh toàn
+cầu, hướng tới các chuẩn mực cao hơn của
 ngành trong tình hình mới.
-GIÁ NÔNG SẢN XUẤT KHẨU DỰ BÁO CẢI 
+GIÁ NÔNG SẢN XUẤT KHẨU DỰ BÁO CẢI
 THIỆN HƠN TRONG NĂM 2024
-Với đà phục hồi từ thị trường nông sản các 
-năm qua, xuất khẩu nông sản Việt Nam được 
-kỳ vọng tiếp tục cải thiện trong năm 2024, 
-qua đó tạo sự ổn định về tâm lý tốt hơn cho 
-nông dân; gây dựng niềm tin lớn hơn cho 
-nông dân và các doanh nghiệp; từ đó, giúp các 
-địa phương, doanh nghiệp và nông dân tăng 
-cường đổi mới khoa học kỹ thuật, đầu tư nhiều 
-hơn cho lĩnh vực sản xuất nông nghiệp, cũng 
-như tranh thủ thế và lợi từ điều kiện thị trường 
-quốc tế nhằm đẩy mạnh hoạt động xuất khẩu 
-nông sản ra thị trường thế giới trong bối cảnh 
-nhiều quốc gia đang có nhu cầu cao về các mặt 
+Với đà phục hồi từ thị trường nông sản các
+năm qua, xuất khẩu nông sản Việt Nam được
+kỳ vọng tiếp tục cải thiện trong năm 2024,
+qua đó tạo sự ổn định về tâm lý tốt hơn cho
+nông dân; gây dựng niềm tin lớn hơn cho
+nông dân và các doanh nghiệp; từ đó, giúp các
+địa phương, doanh nghiệp và nông dân tăng
+cường đổi mới khoa học kỹ thuật, đầu tư nhiều
+hơn cho lĩnh vực sản xuất nông nghiệp, cũng
+như tranh thủ thế và lợi từ điều kiện thị trường
+quốc tế nhằm đẩy mạnh hoạt động xuất khẩu
+nông sản ra thị trường thế giới trong bối cảnh
+nhiều quốc gia đang có nhu cầu cao về các mặt
 hàng này.
-Giá cả một số nông sản chính sau Tết 
-Nguyên đán như lúa gạo, cà phê, sầu 
-riêng, tiêu, một số cây ăn trái khác 
-đều tăng cao sau dịp Tết Nguyên đán 
-do thị trường Trung Quốc phục hồi trở 
-lại và có nhu cầu nhập khẩu nhiều hơn 
-các mặt hàng nông sản từ nước ngoài. 
-Giá lúa gạo có chiều hướng tăng do Ấn 
-Độ vẫn duy trì hạn ngạch xuất khẩu 
-gạo và nguồn cung xuất khẩu gạo thế 
-giới chưa có dấu hiệu cải thiện. Chiến 
-sự giữa Nga - Ukraine vẫn tiếp diễn 
-và chưa có dấu hiệu hòa hoãn, điều 
-đó làm tiềm ẩn nguy cơ gây gián đoạn 
-chuỗi cung ứng nông sản thế giới. Do 
-ảnh hưởng bởi lạm phát và giá hàng 
-hóa thiết yếu vẫn là mặt hàng ưu tiên 
-ở nhiều nước nên nhu cầu các mặt 
+Giá cả một số nông sản chính sau Tết
+Nguyên đán như lúa gạo, cà phê, sầu
+riêng, tiêu, một số cây ăn trái khác
+đều tăng cao sau dịp Tết Nguyên đán
+do thị trường Trung Quốc phục hồi trở
+lại và có nhu cầu nhập khẩu nhiều hơn
+các mặt hàng nông sản từ nước ngoài.
+Giá lúa gạo có chiều hướng tăng do Ấn
+Độ vẫn duy trì hạn ngạch xuất khẩu
+gạo và nguồn cung xuất khẩu gạo thế
+giới chưa có dấu hiệu cải thiện. Chiến
+sự giữa Nga - Ukraine vẫn tiếp diễn
+và chưa có dấu hiệu hòa hoãn, điều
+đó làm tiềm ẩn nguy cơ gây gián đoạn
+chuỗi cung ứng nông sản thế giới. Do
+ảnh hưởng bởi lạm phát và giá hàng
+hóa thiết yếu vẫn là mặt hàng ưu tiên
+ở nhiều nước nên nhu cầu các mặt
 hàng này ổn định.
 THÁCH THỨC
-85
-84
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
+
+Thời gian qua, PVCFC đã và đang tiến hành
+đầu tư nhất định cho hoạt động chuyển đổi số
+trên cơ sở triển khai và áp dụng các dự án lớn
+như: Hệ thống quản trị ERP, Big Data, DMS…
+với nhiều cấp độ khác nhau nhằm khai thác
+hiệu quả thông tin, dữ liệu từ thị trường, nhà
+phân phối, nông dân và bước đầu đã mang lại
+những hiệu quả nhất định trong nội bộ đơn vị.
+Trong năm 2024 và các năm tới đây, PVCFC
+sẽ cam kết tham gia sâu hơn nữa vào ngành
+Nông nghiệp Việt Nam, trọng tâm hướng tới
+việc thu thập, khai thác dữ liệu về khí hậu, môi
+trường, cây trồng, thổ nhưỡng ở một số khu
+vực trọng điểm thông qua các công cụ, phần
+mềm, cảm biến, camera, thiết bị điều khiển tự
+động dựa trên sự phối hợp đồng bộ với các
+cơ quan ban ngành, doanh nghiệp, khách hàng
+nhằm ứng dụng hiệu quả hơn nữa việc chuyển
+đổi số cho doanh nghiệp và khách hàng.
+Tiếp tục đầu tư và nâng cấp dự án về “Người
+nhân tạo” và các dự án mới nhằm cải thiện hơn
+nữa kênh giao tiếp, phản hồi với nông dân và
+nhà phân phối dựa trên nền tảng trực tuyến
+giúp người dùng gửi phản hồi, đặt câu hỏi cho
+hệ thống, qua đó cũng ghi nhận và phản hồi
+nhanh chóng cho các đối tượng. Về phía nông
+dân sẽ sớm nhận được thông tin kịp thời về
+sản phẩm, chất lượng, giá cả, hướng dẫn sử
+dụng phân bón trên các đối tượng cây trồng
+khác nhau, từ đó giúp nâng cao hiệu quả canh
+tác, giảm thiểu rủi ro hơn nữa cho nông dân
+trong quá trình sản xuất, trồng trọt.
+Hoàn thiện thủ tục tiếp nhận, chuyển giao
+các dự án M&A đã thực hiện trong năm 2023
+của đơn vị nhằm sớm ổn định tổ chức bộ máy
+sản xuất, kinh doanh trong toàn hệ thống của
+PVCFC trên cơ sở tận dụng lợi thế sẵn có, hạn
+chế và cắt giảm chi phí không cần thiết nhằm
+hướng tới hiệu quả tối ưu của hệ thống.
+Nghiên cứu, tìm kiếm các dự án đầu tư mới gắn
+với chuỗi giá trị của đơn vị, nhất là dự án về
+kho bãi, vận chuyển, sản xuất, phân phối trong
+nước nhằm phục vụ cho nhiệm vụ, mục tiêu
+mở rộng địa bàn, lĩnh vực hoạt động ở các thị
+trường trong nước, kịp thời đáp ứng nhu cầu
+đa dạng của khách hàng.
+Để đảm bảo sự chủ động, linh hoạt về nguồn
+cung ứng nguyên vật liệu đầu vào phục vụ cho
+quá trình sản xuất trong thời gian tới, đơn vị
+cần tìm kiếm thêm một số cơ hội từ các dự án
+tiềm năng ở nước ngoài; đánh giá tính khả thi
+và hiệu quả của dự án đó nhằm xem xét mua
+một số dự án có cơ hội, tiềm năng cao để tạo
+lợi thế cạnh tranh dài hạn so với đối thủ trên
+thị trường.
+Một trong những giải pháp giảm lượng khí thải
+carbon hiện nay là triển khai các biện pháp tiết
+kiệm năng lượng trong sản xuất. Ý thức được
+điều này, từ nhiều năm nay, PVCFC chú trọng
+đầu tư vào các sáng kiến, giải pháp kỹ thuật
+tới tất cả các bộ phận sản xuất của Nhà máy
+Đạm Cà Mau, trong đó có nhiều giải pháp thực
+tế có hiệu quả cao, giúp tiết giảm chi phí và
+năng lượng cho Nhà máy; nâng cao hiệu quả
+sử dụng đầu ra đối các quy trình và sản phẩm
+của Phân bón Cà Mau.
+Tận dụng triệt để nguồn khí thải do Nhà máy
+thải ra làm nhiên liệu để sản xuất phân bón, tiết
+kiệm được chi phí đáng kể cho Công ty, giúp bảo
+vệ được môi trường. Đội ngũ kỹ sư đã mạnh dạn
+nghiên cứu, ứng dụng thành công thu hồi và
+tinh chế được nguồn khí giàu CO2. Thành công
+bước đầu này không những đã giúp tiết giảm chi
+phí nhiên liệu, làm lợi cho Công ty hàng chục
+tỷ đồng mỗi năm, giảm thiểu lượng CO2 phát
+thải ra môi trường. Ngoài ra, hiện PVCFC đang
+trong quá trình nghiên cứu tiền khả thi các dự
+án sản xuất khí công nghiệp (Nitơ, Argon, Hydro
+xanh) và CO2 thực phẩm để tiếp tục ứng dụng
+hơn nữa các giải pháp R&D hướng tới nâng cao
+hiệu quả sản xuất xanh, bền vững.
+Về sản phẩm phân bón, PVCFC đã phát triển
+bộ giải pháp dinh dưỡ ng tổng hợp với công
+nghệ Bio-Coating, phức hợp Humate, công
+nghệ sinh học, công nghệ phân bón nhả chậm
+CRF và SRF và công nghệ BioMix,… để phát
+triển các dòng phân bón mang lại hiệu quả
+cao cho bà con nông dân, tăng năng suất cây
+trồng và khả năng chống chịu sâu bệnh, đồng
+thời đóng góp tích cực và hiệu quả trong giảm
+phát thải khí nhà kính.
+Đặc biệt, việc áp dụng công nghệ Bio-Coating
+đã giúp PVCFC tạo ra các dòng sản phẩm đạm
+tiết kiệm (N.46 Plus), đạm kích kháng (N46.
+True), đạm sinh học (N.46 Rich), đạm vi sinh
+(Urê BiO) giúp giảm lượ ng phân đạm Urê bón
+từ 15 - 20%, phù hợp với các chươ ng trình
+giảm phát thải khí nhà kính nói chung và tăng
+hiệu quả kinh tế cho nông dân.
+PVCFC cũng xây dựng bản đồ dinh dưỡ ng đất
+theo vùng sinh thái tích hợp với cơ sở dữ liệu
+hệ thống theo thời gian thực số hóa cơ sở dữ
+liệu đất và nhu cầu dinh dưỡ ng cây trồng để
+góp phần nâng cao hiệu quả sử dụng phân bón
+và giảm phát thải khí nhà kính.
+VỀ HOẠT ĐỘNG CHUYỂN ĐỔI SỐ
+VỀ HOẠT ĐỘNG ĐẦU TƯ
+VỀ SẢN XUẤT XANH VÀ ÁP DỤNG
+MÔ HÌNH KINH TẾ TUẦN HOÀN
+Phát triển sản phẩm thân thiện
+môi trường
+ĐỊNH HƯỚNG PHÁT TRIỂN 2024
+Trong năm 2024, PVCFC sẽ tập trung
+vào 3 mũi nhọn chính gồm: thúc đẩy
+hoạt động đầu tư; chuyển đổi số toàn
+diện, sâu rộng đến các mảng hoạt động
+chính như sản xuất, kinh doanh, quản
+trị, logistic; xây dựng chiến lược phát
+triển bền vững, tập trung vào phát triển
+theo định hướng xanh, sạch, đồng thời
+giảm phát thải khí nhà kính.
+ĐỊNH HƯỚNG PHÁT TRIỂN
+ĐỊNH HƯỚNG PHÁT TRIỂN
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+ĐỊNH HƯỚNG PHÁT TRIỂN
+ĐỊNH HƯỚNG PHÁT TRIỂN GIAI ĐOẠN 2023 - 2025
+PVCFC kiên định với định hướng phát triển của Công ty dựa trên các quan điểm sau:
+Phù hợp với sứ mệnh
+của PVCFC, tập trung
+sản xuất, kinh doanh
+và xuất nhập khẩu
+phân bón, phục vụ
+nông nghiệp hiệu quả
+với chuỗi sản phẩm
+chất lượng cao ưu
+việt, góp phần đảm
+bảo an ninh lương thực
+và nâng tầm thương
+mại Việt Nam trên thị
+trường quốc tế.
+Nâng cao hiệu quả
+kinh
+doanh,
+tăng
+trưởng
+doanh
+giảm thiểu chi phí, gia
+tăng lợi ích cho các
+cổ đông, sự hài lòng
+cho các khách hàng
+tin cậy, hướng đến
+sự phát triển thịnh
+vượng, bền vững.
+Đẩy mạnh chuyển đổi
+số, tăng cường ứng
+dụng hệ thống công
+nghệ thông tin trong
+hoạt động sản xuất
+kinh doanh, quản trị,
+truyền
+thông
+giúp
+Công ty vận hành
+hiệu quả, góp phần gìn
+giữ môi trường, tiên
+phong xanh hóa nền
+nông nghiệp nước nhà.
+Tích cực tham gia
+vào các hoạt động an
+sinh xã hội, vun đắp
+các giá trị nhân văn
+ý nghĩa, san sẻ khó
+khăn, đồng hành sát
+cánh vì một cuộc sống
+tốt đẹp hơn.
+Trở thành thương
+hiệu hàng đầu
+khu vực trong
+lĩnh
+xuất, kinh doanh
+phân bón; thực
+hiện sứ mệnh của
+người tiên phong
+cung
+giải
+pháp dinh dưỡng
+toàn
+diện
+cây trồng.
+Phát huy tinh
+thần sáng tạo,
+tiềm
+tàng, sẵn sàng
+đổi thay để phát
+triển,
+không
+ngừng
+vươn lên chinh
+phục những đỉnh
+cao mới, ghi dấu
+bằng những sáng
+chế, giải pháp
+nhằm
+tối ưu hoạt động
+sản xuất và chất
+lượng sản phẩm
+của PVCFC.
+Tiếp
+dựng và hoàn
+thiện văn hóa
+doanh nghiệp với
+bản sắc riêng,
+nền tảng vững
+chắc, là điểm tựa
+và đòn bẩy giúp
+Công
+phát
+triển mạnh mẽ,
+dựng
+trường gắn kết
+nơi nhân viên có
+thể tận tâm cống
+hiến, sống với
+các giá trị cốt
+lõi “Tiên Phong -
+Trách Nhiệm - Ân
+Cần - Hài Hòa”.
+Liên tục cải tiến
+và tối ưu hóa sản
+xuất, tiết kiệm
+năng lượng đến
+năm 2025 tiết
+giảm được 5%
+so với định mức
+Chú trọng xây
+dựng khung và
+chiến lược phát
+triển bền vững,
+triển khai thực
+hành ESG, tạo
+ra giá trị lâu dài,
+phần
+dựng một tương
+xanh,
+vững
+người và hành
+tinh.
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 
 VỀ THỊ TRƯỜNG MỤC TIÊU
-Các thị trường mục tiêu chiến lược của PVCFC trong thời gian tới tập 
-trung vào khu vực ĐBSCL, ĐNB & TN, Campuchia. Ngoài các thị trường 
-này, PVCFC chủ động mở rộng, khai thác, xâm nhập các thị trường quốc tế 
+Các thị trường mục tiêu chiến lược của PVCFC trong thời gian tới tập
+trung vào khu vực ĐBSCL, ĐNB & TN, Campuchia. Ngoài các thị trường
+này, PVCFC chủ động mở rộng, khai thác, xâm nhập các thị trường quốc tế
 có nhiều tiềm năng ở Nam Á, Mỹ La Tinh, Châu Đại Dương, Châu Âu.
 VỀ CHỈ TIÊU TĂNG TRƯỞNG
-Phấn đấu tăng trưởng sản lượng kinh doanh các dòng sản phẩm phân bón 
-từ 6-10%/năm, tùy theo cơ cấu sản phẩm cụ thể và tỷ trọng từng sản 
+Phấn đấu tăng trưởng sản lượng kinh doanh các dòng sản phẩm phân bón
+từ 6-10%/năm, tùy theo cơ cấu sản phẩm cụ thể và tỷ trọng từng sản
 phẩm nhằm bảo đảm hoàn thành mục tiêu doanh thu và lợi nhuận.
-Về doanh thu, cải thiện tốc độ tăng trưởng từ 5-10%/năm và phấn đấu đến 
-năm 2025, PVCFC là một trong năm đơn vị có quy mô kinh doanh hàng 
+Về doanh thu, cải thiện tốc độ tăng trưởng từ 5-10%/năm và phấn đấu đến
+năm 2025, PVCFC là một trong năm đơn vị có quy mô kinh doanh hàng
 đầu Việt Nam về doanh thu.
 VỀ CHỈ TIÊU THỊ PHẦN
 Duy trì thị phần phân bón trong nước tối thiểu 10%/năm trên quy mô toàn quốc.
 Về Urê, duy trì tỷ lệ thị phần nội địa từ 30%-35%/năm.
-Về NPK, phấn đấu đáp ứng từ 10%-20% thị phần trong nước và tập trung 
+Về NPK, phấn đấu đáp ứng từ 10%-20% thị phần trong nước và tập trung
 chiếm lĩnh thị trường mục tiêu trong nước ít nhất 30%/thị trường.
-Về các dòng sản phẩm phân bón khác: Phấn đấu đáp ứng từ 15%-20% tùy 
+Về các dòng sản phẩm phân bón khác: Phấn đấu đáp ứng từ 15%-20% tùy
 theo phân khúc sản phẩm cụ thể.
 VỀ CƠ CẤU SẢN PHẨM
-Tiếp tục duy trì sản xuất, kinh doanh, phân phối sản phẩm cốt lõi Urê tại 
-thị trường trong nước. Tùy thời kỳ, để giảm nguy cơ dư thừa nguồn cung 
-Urê trong nước, PVCFC chủ động triển khai kênh xuất khẩu hợp lý và bảo 
+Tiếp tục duy trì sản xuất, kinh doanh, phân phối sản phẩm cốt lõi Urê tại
+thị trường trong nước. Tùy thời kỳ, để giảm nguy cơ dư thừa nguồn cung
+Urê trong nước, PVCFC chủ động triển khai kênh xuất khẩu hợp lý và bảo
 đảm cân đối cung cầu nội địa ở mức hợp lý.
-Về NPK, PVCFC phấn đấu gia tăng sản lượng tiêu thụ tại thị trường trong 
-nước, nhất là các thị trường mục tiêu vùng ĐBSCL, khu vực ĐNB & TN và 
+Về NPK, PVCFC phấn đấu gia tăng sản lượng tiêu thụ tại thị trường trong
+nước, nhất là các thị trường mục tiêu vùng ĐBSCL, khu vực ĐNB & TN và
 thị trường chiến lược ở Campuchia.
-Bên cạnh dòng sản phẩm vô cơ, PVCFC từng bước mở rộng danh mục và 
-khai thác phân khúc phân bón hữu cơ với sản phẩm OM CAMAU nhằm 
+Bên cạnh dòng sản phẩm vô cơ, PVCFC từng bước mở rộng danh mục và
+khai thác phân khúc phân bón hữu cơ với sản phẩm OM CAMAU nhằm
 thích nghi với sự thay đổi của môi trường kinh doanh trong tình hình mới.
-Ngoài ra, để chủ động trong việc kinh doanh các sản phẩm phân bón khác, 
-PVCFC nghiên cứu, khai thác thêm mảng xuất nhập khẩu để tổ chức nhập 
-khẩu các nguồn hàng phân bón DAP, Kali, NPK, SA phục vụ nhu cầu về 
+Ngoài ra, để chủ động trong việc kinh doanh các sản phẩm phân bón khác,
+PVCFC nghiên cứu, khai thác thêm mảng xuất nhập khẩu để tổ chức nhập
+khẩu các nguồn hàng phân bón DAP, Kali, NPK, SA phục vụ nhu cầu về
 nguyên liệu của Nhà máy NPK và các nhà phân phối khác trong nước.
 ĐỊNH HƯỚNG PHÁT TRIỂN
 VỀ PHÁT TRIỂN KÊNH PHÂN PHỐI
-Tiếp tục kiện toàn, phát triển và mở rộng hệ thống phân phối các cấp, định 
-hướng giai đoạn 2021 - 2025, tăng trưởng hệ thống phân phối cấp 1 gấp 2 
-lần so với hiện tại và tăng trưởng hệ thống phân phối cấp 2 hàng năm đạt 
+Tiếp tục kiện toàn, phát triển và mở rộng hệ thống phân phối các cấp, định
+hướng giai đoạn 2021 - 2025, tăng trưởng hệ thống phân phối cấp 1 gấp 2
+lần so với hiện tại và tăng trưởng hệ thống phân phối cấp 2 hàng năm đạt
 6-10%/năm và mục tiêu ít nhất có 15.000 đại lý cấp 2.
-Việc phát triển thống phân phối là hết sức cần thiết nhằm đẩy mạnh tiêu 
-thụ sản phẩm NPK và các sản phẩm khác trong bối cảnh PVCFC bước vào 
+Việc phát triển thống phân phối là hết sức cần thiết nhằm đẩy mạnh tiêu
+thụ sản phẩm NPK và các sản phẩm khác trong bối cảnh PVCFC bước vào
 giai đoạn phát triển mới với nhiều mục tiêu thách thức mới.
-Về thị trường mục tiêu, trọng tâm vẫn là ưu tiêu phát triển, kiện toàn hệ 
-thống phân phối các cấp tại khu vực ĐBSCL, ĐNB & TN, Campuchia, song 
-song với việc phát triển mô hình hệ thống phân phối trên nền tảng ứng dụng 
-hiệu quả CNTT vào công tác bán hàng, quản trị hệ thống phân phối nhằm 
+Về thị trường mục tiêu, trọng tâm vẫn là ưu tiêu phát triển, kiện toàn hệ
+thống phân phối các cấp tại khu vực ĐBSCL, ĐNB & TN, Campuchia, song
+song với việc phát triển mô hình hệ thống phân phối trên nền tảng ứng dụng
+hiệu quả CNTT vào công tác bán hàng, quản trị hệ thống phân phối nhằm
 vươn lên làm chủ thị trường và cạnh tranh thắng lợi so với các đối thủ.
 VỀ CÔNG TÁC NGHIÊN CỨU VÀ PHÁT TRIỂN (R&D)
-Đẩy mạnh công tác nghiên cứu và phát triển trên cơ sở dành thêm nhiều 
-nguồn lực từ vật chất, phát triển nhân sự, bổ sung trang thiết bị, phòng 
-thí nghiệm tiên tiến, hiện đại phục vụ tối đa cho R&D. Mục tiêu ưu tiên của 
-R&D là đưa ra các dòng sản phẩm phân bón mới có giá trị cao hơn sản 
-phẩm hiện tại, giá thành cạnh tranh và đáp ứng nhu cầu của nông dân và 
-hệ thống phân phối, bảo đảm hiệu quả kinh tế và quy mô kinh doanh ở từng 
+Đẩy mạnh công tác nghiên cứu và phát triển trên cơ sở dành thêm nhiều
+nguồn lực từ vật chất, phát triển nhân sự, bổ sung trang thiết bị, phòng
+thí nghiệm tiên tiến, hiện đại phục vụ tối đa cho R&D. Mục tiêu ưu tiên của
+R&D là đưa ra các dòng sản phẩm phân bón mới có giá trị cao hơn sản
+phẩm hiện tại, giá thành cạnh tranh và đáp ứng nhu cầu của nông dân và
+hệ thống phân phối, bảo đảm hiệu quả kinh tế và quy mô kinh doanh ở từng
 thị trường.
-Về giải pháp, ngoài nguồn lực nội bộ, PVCFC còn phối hợp với các tổ chức 
-Viện, Trường, Trung tâm cả trong và ngoài nước thông qua đội ngũ chuyên 
-gia, nhà khoa học uy tín nhằm mục tiêu chế tạo sản phẩm/giải pháp dinh 
-dưỡng chất lượng cao, đáp ứng nhu cầu khắt khe của thị trường và khách 
+Về giải pháp, ngoài nguồn lực nội bộ, PVCFC còn phối hợp với các tổ chức
+Viện, Trường, Trung tâm cả trong và ngoài nước thông qua đội ngũ chuyên
+gia, nhà khoa học uy tín nhằm mục tiêu chế tạo sản phẩm/giải pháp dinh
+dưỡng chất lượng cao, đáp ứng nhu cầu khắt khe của thị trường và khách
 hàng trong tương lai.
 VỀ MUA BÁN, SÁP NHẬP (M&A)
-Dựa trên nguồn lực tài chính mạnh mẽ, PVCFC tiếp tục nghiên cứu và 
-triển khai các dự án mua bán, sáp nhập doanh nghiệp (M&A) có tính khả 
-thi cao nhằm đa dạng hóa chuỗi cung ứng của đơn vị, ưu tiên tối đa cho thị 
-trường trong nước. Mục tiêu của hoạt động M&A là ngoài đáp ứng mục tiêu 
-tài chính, kinh doanh còn đảm bảo cạnh tranh dài hạn, nhất là phát triển 
-thương hiệu, kiểm soát hệ thống phân phối và trên hết bảo đảm duy trì khả 
+Dựa trên nguồn lực tài chính mạnh mẽ, PVCFC tiếp tục nghiên cứu và
+triển khai các dự án mua bán, sáp nhập doanh nghiệp (M&A) có tính khả
+thi cao nhằm đa dạng hóa chuỗi cung ứng của đơn vị, ưu tiên tối đa cho thị
+trường trong nước. Mục tiêu của hoạt động M&A là ngoài đáp ứng mục tiêu
+tài chính, kinh doanh còn đảm bảo cạnh tranh dài hạn, nhất là phát triển
+thương hiệu, kiểm soát hệ thống phân phối và trên hết bảo đảm duy trì khả
 năng cạnh tranh dài hạn của PVCFC trên thị trường.
-Trong giai đoạn trung và dài hạn tới đây, nhất là giai đoạn 
-2023 - 2025, PVCFC tập trung hướng tới các mục tiêu lớn, 
-mang tính chiến lược và định hướng tổng thể cho các hoạt 
+Trong giai đoạn trung và dài hạn tới đây, nhất là giai đoạn
+2023 - 2025, PVCFC tập trung hướng tới các mục tiêu lớn,
+mang tính chiến lược và định hướng tổng thể cho các hoạt
 động của đơn vị trong tình hình mới.
-93
-92
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
 
-DANH SÁCH BAN ĐIỀU HÀNH 
-STT
+96     Tình hình hoạt động SXKD trong năm 2023
+101    Tình hình đầu tư thực hiện dự án
+102   Tổ chức và nhân sự
+110    Cơ cấu cổ đông, thay đổi vốn đầu tư của chủ sở hữu
+112    Báo cáo của Ban Tổng Giám đốc
+132   Báo cáo của Hội đồng quản trị
+136   Báo cáo của Ban Kiểm soát
+BÁO CÁO HOẠT ĐỘNG NĂM 2023
+TỪ NỖ LỰC KHÔNG NGỪNG
+KIẾN TẠO THÀNH CÔNG
+
+NGHÌN TẤN
+NGHÌN TẤN
+NGHÌN TẤN
+DOANH THU
+NGHÌN TẤN
+Nhận xét
+VỀ KẾT QUẢ HOẠT ĐỘNG CỦA CÔNG TY MẸ
+Sản lượng sản xuất Urê đạt 955,57 nghìn tấn,
+đạt 101% so với kế hoạch, đạt 104% so với
+cùng kỳ năm 2022.
+Tổng doanh thu đạt 13.048,39 tỷ đồng, đạt
+97% so với kế hoạch, đạt 80% so với cùng kỳ
+năm 2022. Nguyên nhân doanh thu năm 2023
+thấp hơn kế hoạch đặt ra và cùng kỳ do mùa
+vụ đến trễ so với dự báo, giá bán quay đầu
+giảm mạnh.
+Sản lượng tiêu thụ Urê đạt 866,03 nghìn tấn,
+đạt 100,5% so với kế hoạch, đạt 103% so với
+cùng kỳ năm 2022.
+Sản lượng sản xuất NPK đạt 151,11 nghìn tấn
+đạt 103% so với kế hoạch, đạt 131% so với
+cùng kỳ năm 2022.
+Lợi nhuận trước thuế là 1.252,19 tỷ đồng, đạt
+122% so với kế hoạch, đạt 27% so với cùng kỳ
+năm 2022. Nguyên nhân lợi nhuận năm 2023
+giảm so với cùng kỳ do giá bán giảm quá sâu,
+mặc dù Công ty đã tăng cường công tác bán
+hàng và triển khai các hoạt động tối ưu hóa
+tiết kiệm, tiết giảm, linh hoạt trong hoạt động
+quản trị điều hành nhưng vẫn không bù đắp
+được phần giá bán giảm sâu.
+Sản lượng tiêu thụ NPK đạt 138,61 nghìn tấn, đánh dấu
+sự xâm nhập thị trường ấn tượng của NPK Cà Mau, trong
+bối cảnh cạnh tranh khốc liệt với các đơn vị sản xuất kinh
+doanh NPK uy tín và lâu đời trên thị trường.
+SẢN LƯỢNG
+SẢN XUẤT
+URÊ ĐẠT
+DOANH THU
+SẢN LƯỢNG
+TIÊU THỤ
+URÊ ĐẠT
+SẢN LƯỢNG
+SẢN XUẤT
+NPK ĐẠT
+LỢI NHUẬN
+TRƯỚC THUẾ
+SẢN LƯỢNG
+TIÊU THỤ
+NPK ĐẠT
+LỢI NHUẬN
+TRƯỚC THUẾ
+VỀ KẾT QUẢ HOẠT ĐỘNG CỦA CÔNG TY CON
+Công ty Cổ phần Bao bì Dầu khí Việt Nam (PPC)
+PPC đã nỗ lực hoàn thành các chỉ tiêu được Công ty mẹ giao: đạt
+kế hoạch và cùng kỳ về chỉ tiêu sản lượng sản xuất bao bì, cung
+cấp kịp thời, đảm bảo chất lượng bao bì cho PVCFC; doanh thu
+tăng 4% so với kế hoạch và 2% so với cùng kỳ năm 2022; lợi
+nhuận trước thuế tăng 26% so với kế hoạch và 18% so với cùng
+Việc chủ động tìm kiếm thị trường bên ngoài; gia tăng công tác tự
+doanh; tiết kiệm tối ưu hóa chi phí giúp công ty con PPC đạt được
+mức tăng trưởng lợi nhuận rất ấn tượng.
+Bên cạnh đó, PPC luôn nghiên cứu cải tiến chất lượng bao bì, phối
+hợp PVCFC để thử nghiệm các ứng dụng như dán RFID lên bao bì
+sản phẩm, gia công sản xuất thử nghiệm các dòng phân bón mới
+theo định hướng chiến lược của PVCFC.
+SO VỚI KẾ HOẠCH
+TÌNH HÌNH
+HOẠT ĐỘNG SXKD TRONG NĂM 2023
+III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
+V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+DANH SÁCH BAN ĐIỀU HÀNH
 Họ và tên
 Chức vụ
-Số cổ phiếu  
+Số cổ phiếu
 sở hữu cuối kỳ
-Tỷ lệ sở hữu  
-cổ phiếu cuối kỳ 
-1
+Tỷ lệ sở hữu
+cổ phiếu cuối kỳ
 Ông Văn Tiến Thanh
 Tổng Giám đốc
-109.000
-0,020589%
-2
 Ông Trần Chí Nguyện
 Phó TGĐ
-1.600
-0,000302% 
-3
 Ông Lê Ngọc Minh Trí
 Phó TGĐ
-1.600
-0,000302%
-4
 Ông Nguyễn Tuấn Anh
 Phó TGĐ
-0
-0,000000%
-5
 Bà Nguyễn Thị Hiền
 Phó TGĐ
-0
-0,000000%
-6
 Ông Nguyễn Thanh Tùng
 Phó TGĐ
-5.003
-0,000945%
-7
 Ông Đinh Như Cường
 Kế toán trưởng
-2.900 
-0,000548%
 NHỮNG THAY ĐỔI TRONG BAN ĐIỀU HÀNH
 Trong năm 2023, PVCFC không có thay đổi về nhân sự của Ban Điều hành
 BÁO CÁO NHÂN SỰ NĂM 2023
-Tính đến thời điểm ngày 31/12/2023, 
-tổng số lao động của Công ty là 
-1.096 NGƯỜI
+Tính đến thời điểm ngày 31/12/2023,
+tổng số lao động của Công ty là
 Nhân sự nữ
-203 NGƯỜI
 Nhân sự nam
-893 NGƯỜI
-Cơ cấu lao động của Công ty được thể hiện như sau: 
+Cơ cấu lao động của Công ty được thể hiện như sau:
 Phân theo thời hạn hợp đồng lao động
 Phân theo trình độ chuyên môn
 Phân theo giới tính
-Chính sách nhân sự của Công ty luôn 
-nhất quán và tuân thủ các quy định 
-về quyền con người, không phân biệt 
-đối xử về giới tính, tôn giáo, quan điểm 
-chính trị hay độ tuổi, không sử dụng 
-lao động trẻ em, lao động cưỡng bức 
+Chính sách nhân sự của Công ty luôn
+nhất quán và tuân thủ các quy định
+về quyền con người, không phân biệt
+đối xử về giới tính, tôn giáo, quan điểm
+chính trị hay độ tuổi, không sử dụng
+lao động trẻ em, lao động cưỡng bức
 hoặc bắt buộc.
-Công ty đã ban hành quy chế tuyển 
-dụng lao động, trong đó điều kiện và 
-tiêu chuẩn đối với ứng viên thể hiện rõ 
-chính sách của Công ty về nhân sự để 
+Công ty đã ban hành quy chế tuyển
+dụng lao động, trong đó điều kiện và
+tiêu chuẩn đối với ứng viên thể hiện rõ
+chính sách của Công ty về nhân sự để
 làm căn cứ thực hiện.
-Công ty ban hành quy chế quản lý cán 
-bộ trong đó quy định rõ việc tiếp nhận, 
-bổ nhiệm, bổ nhiệm lại, sắp xếp và bố 
-trí, đánh giá cán bộ đảm bảo phù hợp 
-với nhu cầu và định hướng phát triển 
+Công ty ban hành quy chế quản lý cán
+bộ trong đó quy định rõ việc tiếp nhận,
+bổ nhiệm, bổ nhiệm lại, sắp xếp và bố
+trí, đánh giá cán bộ đảm bảo phù hợp
+với nhu cầu và định hướng phát triển
 của Công ty.
 TỔNG QUAN LỰC LƯỢNG LAO ĐỘNG
-  Không ký Hợp đồng lao động 
-      (do PVN bổ nhiệm và KSV kiêm nhiệm...)
-  Hợp đồng lao động không xác định thời hạn
-  Hợp đồng lao động có thời hạn xác định 1-3  năm
-  Hợp đồng ngắn hạn dưới 01 năm
-  Trên đại học
-  Đại học
-  Cao đẳng, trung cấp, sơ cấp
-  Lao động phổ thông
-  Nam
-  Nữ
-80,93%
-17,70%
-1,37%
-0%
-56,29%
-34,31%
-8,76%
-0,64%
-81,48%
-18,52%
+Không ký Hợp đồng lao động
+(do PVN bổ nhiệm và KSV kiêm nhiệm...)
+Hợp đồng lao động không xác định thời hạn
+Hợp đồng lao động có thời hạn xác định 1-3  năm
+Hợp đồng ngắn hạn dưới 01 năm
+Trên đại học
+Đại học
+Cao đẳng, trung cấp, sơ cấp
+Lao động phổ thông
 19,04% - Quản lý
 13,30% - Quản lý
 80,96% - Nhân viên
 86,70% - Nhân viên
-TỔ CHỨC  
+TỔ CHỨC
 VÀ NHÂN SỰ
-103
-102
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
 
-Công tác tái cấu trúc
-Tái cấu trúc doanh nghiệp là hoạt động rất 
-quan trọng để thích ứng với môi trường kinh 
-doanh thay đổi, nắm bắt cơ hội mới và nâng 
-cao hiệu quả và khả năng cạnh tranh tổng thể. 
-Với Phân bón Cà Mau, Chúng tôi tiến hành 
-xây dựng một “thể trạng” tốt hơn cho doanh 
-nghiệp dựa trên nền tảng, tầm nhìn, sứ mệnh 
-và định hướng chiến lược có sẵn của doanh 
-nghiệp. Do vậy ngoài việc kiện toàn cơ cấu, lựa 
-chọn, quy hoạch và đào tạo con người, PVCFC 
-tái cấu trúc và hoàn thiện nền tảng nhằm phục 
-vụ hoạt động quản trị và sản xuất kinh doanh 
-trong môi trường thay đổi nhanh chóng như 
-hiện nay, điển hình như:
-	 Hoàn thiện các thông tin về PVCFC để công 
-bố, thu hút Nhà đầu tư nước ngoài trên 
-không gian số; gặp gỡ các nhà đầu tư tiềm 
-năng; Ứng dụng phương pháp Đồng hợp 
-Malik để xây dựng chiến lược phát triển 
-BÁO CÁO CỦA 
-BAN TỔNG GIÁM ĐỐC 
-ĐÁNH GIÁ CHI TIẾT CÁC NHIỆM VỤ TRỌNG TÂM NHƯ SAU (TIẾP THEO)
-Các hoạt động quản lý khác (tiếp theo)
-TÌNH HÌNH HOẠT ĐỘNG SXKD NĂM 2023 (TIẾP THEO)
-đến năm 2035, tầm nhìn đến năm 2045 với 
-các mục tiêu phát triển phù hợp với những 
-biến động của tình hình kinh tế cùng với sự 
-chuyển dịch năng lượng, chuyển đổi số...
-	 Hoàn thành Giai đoạn 1 dư án Quản lý hệ 
-thống vận hành sản xuất - EPMS trên nền 
-tảng PI system của Osisoft. Hoàn thiện các 
-công cụ quản trị toàn diện hệ thống ERP, hệ 
-thống văn phòng điện tử (Eoffice), hệ thống 
-số hóa hoạt động kinh doanh (DMS), Quản lý 
-quan hệ khách hàng (CRM), hệ thống quản 
-lý nhân sự (HRM), App 2Nông và mới đây 
-nhất là ứng dụng người nhân tạo “Anh Hai Cà 
-Mau”... và đầu tư nâng cấp hạ tầng, triển khai 
-các hệ thống backup trên môi trường Cloud, 
-xây dựng phần mềm quản trị rủi ro sẵn sàng 
-cho nhu cầu tích hợp hệ thống trong tương 
-lai và đảm bảo tính bảo mật, dự phòng cho 
-hệ thống.
-Công tác nghiên cứu và phát triển
-PVCFC tiếp tục sản xuất và kinh doanh thử 
-nghiệm đối với dòng sản phẩm tăng cường tính 
-chống chịu đổ ngã, tăng khả năng đề kháng 
-cây trồng trong điều kiện hạn mặn (N46.True 
-và N46 C+), triển khai mô hình trình diễn tại 
-các tỉnh ĐBSCL, đang tiến hành ghi nhận kết 
-quả, theo dõi và đánh giá hiệu quả trên từng 
-đối tượng cây trồng. 
-Song song với quá trình kinh doanh thử nghiệm 
-dòng sản phẩm phân bón hữu cơ trong nước, 
-PVCFC tích cực tìm kiếm lựa chọn nhóm sản 
-phẩm hữu cơ vi sinh từ Châu Âu có đặc tính, 
-thành phần phù hợp với thị trường nội địa và 
-nhập khẩu phân phối. Ngoài ra với định hướng 
-thúc đẩy mảng Nông nghiệp đô thị, bước đầu 
-nghiên cứu về công nghệ bảo quản, chế biến 
-sau thu hoạch các loại nông sản làm tiền đề 
-mở ra cơ hội kinh doanh mới cho Công ty và 
-tham gia vào chuỗi giá trị nông nghiệp.
-Nghiên cứu cơ hội sản xuất các sản phẩm hóa 
-dầu như sản xuất khí Argon, sản xuất Sorbitol.
-Công tác quản lý chi phí, tiết kiệm/tiết giảm
-PVCFC thực hiện đồng bộ và linh hoạt các giải 
-pháp tối ưu tiết kiệm năng lượng và nâng cao 
-hiệu suất của nhà máy, thực hiện tốt công tác 
-quản lý chi phí và giá thành sản phẩm thông 
-qua việc giao kế hoạch chi phí chi tiết đến 
-từng bộ phận để làm cơ sở kiểm soát, đánh 
-giá việc thực hiện, sử dụng chi phí hợp lý. 
-Xây dựng dữ liệu nhà cung cấp để luôn có lựa 
-chọn tối ưu trong việc mua sắm thuê dịch vụ; 
-xây dựng định mức tồn kho tối ưu cũng như 
-quản trị hiệu quả dòng tiền giúp tối đa doanh 
-thu tài chính. Do vậy trong năm 2023 tổng số 
-tiền tiết kiệm/tiết giảm đạt 152,59 tỷ đồng.
-Công tác đào tạo, phát triển nguồn nhân lực, xây dựng đội ngũ chuyên gia 
-PVCFC đặc biệt chú trọng việc nuôi dưỡng và 
-phát triển đội ngũ nhân sự bằng các hoạt động 
-đào tạo đối với các vị trí nhân sự chủ chốt đều 
-có thể đảm nhận được nhiều cương vị công 
-việc và luân chuyển công việc. Đã ban hành 
-Phê duyệt bổ sung lĩnh vực và nhân sự quy 
-hoạch chuyên gia đến năm 2025 theo quyết 
-định số 1235/QĐ-PVCFC TGĐ phê duyệt ngày 
-22/05/2023. Hiện nay số chuyên gia được 
-công nhận chính thức là 06 và có 02 chuyên 
-gia đang bảo lưu kết quả. Hàng năm, Công 
-ty đều tiến hành rà soát điều chỉnh, bổ sung 
-đội ngũ chuyên gia được quy hoạch. Tổng số 
-lượng nhân sự quy hoạch chuyên gia đến năm 
-2025 là 64 người thuộc 25 lĩnh vực. 
-Ngoài việc đảm bảo duy trì vận hành an toàn 
-ổn định nhà máy, PVCFC cử nhân sự tham gia 
-bảo dưỡng, sửa chữa tại các Nhà máy trong 
-ngành gia tăng chuỗi liên kết. Trong năm cử 
-hơn 30 lượt nhân sự tham gia công tác bảo 
-dưỡng tại Nhà máy Lọc dầu Nghi Sơn, BSR; 
-Nhà máy nhiệt điện Thái Bình, Vũng Áng. 
-Ngoài ra định kỳ tổ chức giao lưu chia sẻ trao 
-đổi kinh nghiệm vận hành, bảo dưỡng với các 
-đơn vị tương tự như PVFCCo; tổ chức hội thi 
-tay nghề để nâng cao trình độ chuyên môn và 
-khả năng xử lý các tình huống trong công việc. 
-Củng cố nhân sự cho các mảng sau thu hoạch 
-và phát triển nghiên cứu kinh doanh sản phẩm 
-cho Nông nghiệp đô thị. Ngoài việc đảm bảo 
-chính sách lương thưởng đảm bảo CBCNV yên 
-tâm công tác; PVCFC triển khai dự án khung 
-năng lực nhằm mô tả chính xác công việc theo 
-người, theo vị trí tiến tới trả lương 3P.
-119
-118
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
+Phân theo độ tuổi
+Phân theo cấp quản lý
+Theo khối chức năng
+Vùng miền
+Trên 55
+dưới 30
+Ban Điều hành
+Trưởng phó ban và tương đương
+Trưởng phó phòng và tương đương
+Trưởng ca xưởng, đội trưởng,trưởng ca nhà máy
+Nhân viên
+Ban Quản lý điều hành
+Khối Kinh doanh
+Khối sản xuất
+Khối Quản trị
+Các chi nhánh
+Miền Bắc
+Miền Đông Nam Bộ
+Miền Trung
+Miền Tây Nam Bộ (Cà Mau: 35,04%, các tỉnh khác: 14,06%)
+Nước ngoài
+Tăng nhân sự
+0% - Quản lý
+93,75% - Nhân viên
+100% - Nhân viên
+6,25% - Quản lý
+Giảm nhân sự
+0% - Quản lý
+83,33% - Nhân viên
+100% - Nhân viên
+16,67% - Quản lý
+TỔ CHỨC
+VÀ NHÂN SỰ
+BÁO CÁO NHÂN SỰ NĂM 2023 (TIẾP THEO)
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
 
-BÁO CÁO CỦA 
-BAN TỔNG GIÁM ĐỐC 
-NHỮNG SÁNG KIẾN VÀ GIẢI PHÁP CÔNG NGHỆ MỚI ĐẠT ĐƯỢC TRONG 
-NĂM 2023
-Từ đầu năm 2023 đến nay, giàn cấp khí bị sự 
-cố nhiều lần ảnh hưởng Nhà máy hạ nguồn, ảnh 
-hưởng lớn đến sản lượng sản xuất của Nhà 
-máy Đạm Cà Mau. Cùng với đó, giá bán bình 
-quân giảm 13% (1.497 đ/kg) so với kế hoạch 
-trong khi giá khí/chi phí khí trên đơn vị sản 
-phẩm tăng 11% so với kế hoạch, song với tinh 
-thần nỗ lực không ngừng nghỉ sự quyết tâm 
-bền chí của Ban Lãnh đạo và tập thể người lao 
-động. Một cuộc dấn thân khẳng định vị thế, liên 
-tục cải tiến tối ưu hóa sản xuất để tiết kiệm/
-tiết giảm, nâng cao công suất. Huy động khí 
-tối đa để tăng công suất, xây dựng phương án 
-bảo dưỡng trong thời gian ngắn nhất. Chính vì 
-vậy Nhà máy Đạm Cà Mau luôn duy trì hoạt 
-động an toàn, ổn định, công suất cao, tiết kiệm 
-nguyên liệu. Công suất bình quân từ đầu năm 
-đến nay của xưởng NH3 đạt trên 113% cao hơn 
-cùng kỳ do Nhà máy thực hiện nhiều giải pháp 
-tối ưu hóa, tháo gỡ các điểm nút thắt giúp vận 
-hành ổn định, công suất cao.
-Trong những năm vừa qua Nhà máy Đạm Cà 
-Mau đã luôn nỗ lực, duy trì và triển khai đồng bộ 
-các hoạt động “đổi mới sáng tạo”, nghiên cứu, 
-đề tài nghiên cứu khoa học nhằm tối ưu hóa 
-công nghệ, tăng công suất Nhà máy, tiết giảm 
-chi phí nguyên liệu. Năm 2023, Nhà máy Đạm 
-Cà Mau tiếp tục được nhà bản quyền Haldo 
-Topsoe trao chứng nhận vận hành liên tục, ổn 
-định hơn 350 ngày. Ban Lãnh đạo đã xây dựng 
-chiến lược cụ thể trong việc phát triển nguồn 
-nhân sự “Chất lượng cao” là yếu tố “nòng 
-cốt” phát triển PVCFC lâu dài và bền vững. 
-Một cuộc đầu tư chất xám dựa trên nguyên lý 
-“Mọi phát triển đều dựa vào nguồn lực con 
-người”, định hướng đến năm 2025 có 30 
-chuyên gia với 22 lĩnh vực không chỉ đảm bảo 
-nhu cầu của PVCFC mà còn hướng đến thực 
-hiện các dịch vụ bên ngoài. Do đó, trong chiến 
-lược phát triển Công ty, nguồn nhân lực phải 
-được quan tâm tạo mọi điều kiện thuận lợi để 
-nâng cao năng lực về trí tuệ, ý chí và niềm tin.
-Với sức mạnh nội sinh, Nhà máy Đạm Cà Mau 
-đã đẩy mạnh công tác nghiên cứu đa dạng hóa 
-nguồn nguyên, nhiên liệu cho sản xuất urê, NPK 
-tăng tính linh hoạt, chủ động và bền vững trong 
-hoạt động sản xuất. Đội ngũ chuyên gia Nhà 
-máy không ngừng nghiên cứu sáng tạo và tiếp 
-tục triển khai các dự án tận dụng và thu hồi tối 
-đa nguồn CO2 dư cũng như CO2 từ khí thải để 
-gia tăng sản lượng urê và sản xuất CO2 thực 
-phẩm; tận dụng nhiệt thừa để phát điện cũng 
-như nghiên cứu chuyển đổi sang sử dụng năng 
-lượng xanh ″Ứng dụng Hydro xanh tại Nhà máy 
-đạm″ hay nghiên cứu khả năng sản xuất Hydro 
-từ nguồn khí Offgas.
-Mặc dù là đơn vị sử dụng năng lượng hóa thạch (khí tự nhiên, 
-điện...) nhưng PVCFC luôn không ngừng cải tiến kỹ thuật và áp 
-dụng nhiều sáng kiến nhằm để tối ưu năng lượng/tiết giảm tiêu 
-hao nguyên vật liệu.
-CẢI TẠO BÌNH TÁCH LỎNG MÁY NÉN K04431 VÀ K06101
-Thời điểm đưa vào hoạt động: 08/2023
-Hiệu quả kỹ thuật: 
-	 Nâng cao độ tin cậy cho hoạt động máy nén K04431, K06101 khi vận hành ở tải cao, giảm 
-thiểu rủi ro ăn mòn máy nén.
-HOÀN THÀNH THAY THẾ CHỦNG LOẠI ĐỆM MỚI CHO THÁP LÀM MÁT
-Thời điểm đưa vào hoạt động: 08/2023
-Hiệu quả kỹ thuật:
-	 Nâng cao độ tin cậy, nâng cao hiệu suất giải nhiệt tháp Cooling tower.
-	 Hệ thống đã đưa vào hoạt động, theo kết quả ghi nhận, Nhiệt độ nước làm mát quy về 
-cùng điều kiện đã giảm khoảng 1,5oC => Giúp cải thiện nâng công suất giải nhiệt hệ 
-thống, qua đó hỗ trợ quá trình tăng tải.
-XỬ LÝ ĐIỂM NGHẼN MÁY NÉN K04421
-Thời điểm đưa vào hoạt động: 08/2023
-Hiệu quả kỹ thuật:
-Trong BDTT 2023 đã thực hiện:
-	 Thực hiện kiểm tra/mô phỏng dải hoạt động của bộ QIC khi thay đổi range bộ đo chênh áp.
-	 Thực hiện điều chỉnh giá trị K2 của bộ QIC máy nén K04421 từ 6144.2 sang 6089. Hệ 
-thống hoạt động ổn định, giá trị QIC giảm khoảng 650-700 kg/h tương đương ~ 1% tải.
-Tiếp tục thực hiện:
-	 BDTT 2024: Thực hiện di dời và thay mới bộ đo lưu lượng 04FT4209.
-	 Triển khai giải pháp nâng cấp hệ thống bình tách máy nén K04421.
-LẮP ĐẶT HỆ THỐNG MÁY ÉP BAO PE (4 LINE XƯỞNG SẢN PHẨM; 2 LINE NPK)
-Thời điểm đưa vào hoạt động: 12/2023
-Hiệu quả kỹ thuật:
-	 Hoàn thành lắp đặt bổ sung 6 line ép bao PE, giúp 100% sản phẩm đóng bao tại nhà máy 
-được ép bao PE trước khi xuất ra thị trường.
-	 Giúp ổn định chất lượng sản phẩm Urea, NPK Nhà máy.
-HOÀN THÀNH CẢI TẠO HỆ THỐNG NẠP TE PHÂN XƯỞNG NPK
-Thời điểm đưa vào hoạt động: 11/2023
-Hiệu quả kỹ thuật:
-	 Nâng cao độ tin cậy hệ thống, tối ưu quá trình bổ sung TE sản xuất NPK.
-	 Cải thiện môi trường làm việc cho người lao động, giúp hạn chế thời gian làm việc với 
-hóa chất.
-Trong năm 2023, các đơn vị đã hoàn thiện lắp đặt và đưa một số hạng mục cải hoán vào hoạt 
-động. Hiệu quả kỹ thuật thực tế mang lại khi đưa hạng mục này vào hoạt động như sau:
-01
-02
-03
-04
-05
-123
-122
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
+CHÍNH SÁCH, PHÚC LỢI ĐỐI VỚI NGƯỜI LAO ĐỘNG (TIẾP THEO)
+Chính sách bảo hiểm và phúc lợi
+PVCFC thực hiện đầy đủ chế độ chính sách đối với người lao động theo quy định. Công ty thực
+hiện đầy đủ các chế độ bảo hiểm theo quy định của Bộ luật Lao động và Luật BHXH, như: BHXH,
+BHYT, BHTN, trợ cấp hưu trí, thai sản,...
+Chế độ nghỉ thai sản trong năm 2023
+Những thay đổi trong chính sách với người lao động
+Trong năm 2023, Công ty đã thực hiện một số cải tiến thuộc lĩnh vực tiền lương, chế độ chính
+sách phục vụ cho chiến lược phát triển nguồn nhân lực của Công ty như: Rà soát Quy định trả
+lương, trả thưởng đối với chức danh Quản lý khu vực, quản lý khách hàng của Ban Kinh doanh;
+Dự thảo sửa đổi Quy chế Quản lý tiền lương, tiền thưởng và chế độ phúc lợi, Chính sách nhân
+viên của Công ty…
+Chính sách đào tạo
+Công tác đào tạo và phát triển nguồn nhân lực
+luôn được lãnh đạo Công ty quan tâm, hàng
+năm Công ty đều xây dựng Kế hoạch đào tạo
+và phát triển nhân lực bao gồm các nội dung
+đào tạo chuyên sâu, quản lý - lãnh đạo, bồi
+dưỡng thường xuyên, kỹ năng làm việc, ngoại
+ngữ và đào tạo nội bộ để CBCNV nâng cao
+trình độ chuyên môn nghiệp vụ, kiến thức, kỹ
+năng, trình độ tay nghề đảm bảo hoạt động
+sản xuất kinh doanh. Ngoài ra, Công ty còn
+định hướng đào tạo/hỗ trợ đào tạo đến các
+đối tượng khác như học sinh địa phương, sinh
+viên thực tập sinh…
+Hình thức đào tạo
+Cử CBCNV đi học các lớp do các đơn vị/
+viện/trường đào tạo chuyên nghiệp; đào
+tạo nội bộ qua hình thức chia sẻ trực tiếp,
+coaching, đào tạo online hoặc elearning, tạo
+điều kiện thuận lợi nhất cho người lao động
+tham dự, phát huy hiệu quả của công tác
+đào tạo và duy trì tốt hoạt động sản xuất
+kinh doanh.
+Hướng dẫn, đào tạo sinh viên thực tập tại
+nhà máy/phòng ban Công ty.
+Tặng học bổng cho học sinh/sinh viên tại địa
+phương và một số trường Đại học/Cao đẳng.
+Chế độ BHXH, BHYT, BHTN
+Tham gia bảo hiểm
+BHXH
+BHYT
+BHTN
+Trong năm 2023, Công ty đã thực hiện
+công tác đào tạo cụ thể như sau:
+Số giờ đào tạo trung bình là
+26giờ/người/năm.
+Lãnh đạo cấp cao
+(Ban Điều hành, Trưởng phó ban và
+tương đương)
+996 giờ/năm
+Lãnh đạo cấp trung
+(Trưởng phó phòng và tương đương,
+Trưởng ca xưởng, đội trưởng)
+1.690giờ/năm
+Nhân viên
+Bên ngoài
+Nội bộ
+Số khóa đào tạo:
+Tổng số nhân viên quay lại làm việc sau khi
+kết thúc thời gian nghỉ thai sản là 08/13
+người,  05/13 người theo quy định sẽ quay lại
+việc trong năm 2024, tỷ lệ quay lại làm việc
+và được giữ lại của nhân viên đã nghỉ thai sản
+trong năm 2023 là 100%.
+Tổng số nhân viên
+được nghỉ thai sản:
+13 người
+số tiền hưởng
+chế độ là:
+TỔ CHỨC
+VÀ NHÂN SỰ
+BÁO CÁO NHÂN SỰ NĂM 2023 (TIẾP THEO)
 III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
 V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-BÁO CÁO CỦA 
-BAN TỔNG GIÁM ĐỐC 
-NHỮNG SÁNG KIẾN VÀ GIẢI PHÁP CÔNG NGHỆ MỚI ĐẠT ĐƯỢC TRONG  
-NĂM 2023 (TIẾP THEO)
-THIẾT KẾ VÀ LẮP ĐẶT HỆ THỐNG XUẤT HÀNG XÁ NHÀ MÁY ĐẠM CÀ MAU
-Thời điểm đưa vào hoạt động: 10/2023
-Hiệu quả kỹ thuật: 
-	 Giúp Nhà máy nâng cao năng lực và tiết giảm chi phí xuất hàng.
-	 Hệ thống băng tải xuất hàng xá ngắn hạn đã hoàn thành lắp đặt và nghiệm thu.
-Đối với thiết kế dài hạn xuất hàng xá trực tiếp từ Nhà máy ra tàu, Nhà máy đã bàn giao hồ 
-sơ Ban QLDACN để triển khai thủ tục tiếp theo.
-LẮP ĐẶT THÊM VAN BLOCK AND BLEED TRƯỚC R04204
-Thời điểm đưa vào hoạt động: 08/2023
-Hiệu quả kỹ thuật: 
-	 Giúp Nhà máy rút ngắn thời gian dừng máy, tiết giảm tiêu hao năng lượng trong quá 
-trình dừng máy.
-	 Giảm nhân lực trực trong lúc dừng máy để xoay bích mù khi thực hiện dừng máy.
-KẾT NỐI ĐƯỜNG ỐNG GIÀU OXY TỪ CỤM SẢN XUẤT N2 ĐẾN K06102
-Thời điểm đưa vào hoạt động: 09/2023
-Hiệu quả kỹ thuật: 
-	 Giúp tăng lưu lượng oxy cấp cho E06101 phục vụ passivation E06101, hạn chế ăn mòn 
-do thiếu oxy.
-THAY THẾ BURNER MỚI CHO THIẾT BỊ REFORMING THỨ CẤP
-Thời điểm đưa vào hoạt động: 09/2024
-Hiệu quả kỹ thuật: 
-	 Giúp hệ thống Reforming thứ cấp hoạt động với mức độ tin cậy và an toàn cao, góp phần 
-tăng hiệu suất chuyển hóa, tiết giảm tiêu hao năng lượng.
-	 Hoàn thành công tác thiết kế, mua sắm, chế tạo. Thiết bị đang vận chuyển về Nhà máy 
-để thi công trong BDTT 2024.
-LẮP ĐẶT VÀ ĐƯA HỆ THỐNG NẠP LIỆU MỚI CỦA PHÂN XƯỞNG NPK VÀO HOẠT ĐỘNG
-Thời điểm đưa vào hoạt động: 04/2024
-Hiệu quả kỹ thuật: 
-	 Giúp xưởng NPK đa dạng hóa nguồn nguyên liệu đầu vào xưởng NPK, linh hoạt trong 
-các chế độ vận hành.
-	 Hiện tại đã hoàn thành công tác mua sắm và gia công thiết bị. Tổ xây dựng đang triển 
-khai thi công nền móng, triển khai tiếp trong 2024.
-Các hạng mục cải hoán này đã được hoàn thành và đưa vào hoạt động kịp thời, giúp tối ưu công 
-suất Xưởng Amo ở tải 114,2% tải sản lượng (mức tải tối ưu và cao nhất từ trước đến nay), ngoại 
-trừ mục 9 và 10 sẽ tiếp tục triển khai năm 2024.
-Việc hoàn thành các hạng mục cải hoán này, giúp Nhà máy linh động và tối ưu các chế độ vận 
-hành khác nhau, tùy theo sự biến động giá của các sản phẩm và nhu cầu thị trường.
-06
-07
-08
-09
-10
-KẾ HOẠCH SXKD NĂM 2024
-Bước sang năm 2024, nền kinh tế thế giới dự báo còn nhiều khó 
-khăn, thách thức các động lực tăng trưởng toàn cầu đều đã tới 
-hạn; Dự báo lạm phát sẽ giảm tuy nhiên xung đột địa chính trị 
-vẫn tiềm ẩn rủi ro đặc biệt đối với ngành Năng lượng và Lương 
-thực thực phẩm. Trong khi đó bức tranh nền kinh tế Việt Nam 
-được dự báo khá lạc quan, có sự phục hồi mạnh mẽ hơn so với 
-năm 2023. Đối với PVCFC, năm 2024 là năm then chốt, cần thiết 
-phải tăng tốc và bứt phá để thực hiện thắng lợi các mục tiêu, 
-nhiệm vụ, chỉ tiêu kế hoạch 5 năm 2021 - 2025, và định hướng 
-phát triển với 3 mũi chiến lược chính cần tập trung trong năm là: 
-Đầu tư, phát triển bền vững và chuyển đổi số. 
-Kế thừa những kết quả đã đạt được trong năm qua, PVCFC xác 
-định năm 2024 tiếp tục “Kiến tạo giá trị bền vững hơn, thịnh 
-vượng hơn” để duy trì và vun bồi thêm những giá trị cốt lõi của 
-doanh nghiệp. Đồng hành cùng với mục tiêu của Chính phủ, 
-Tập đoàn Dầu khí Việt Nam cùng với Công ty Cổ phần Phân bón 
-Cà Mau tiếp tục đặt ra kế hoạch 2024 với các nhóm nhiệm vụ 
-mục tiêu, giải pháp và chỉ tiêu tương đối thách thức để trình 
-ĐHĐCĐ, cụ thể:
-125
-124
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-Dự án chuẩn bị đầu tư 
-Stt
-Tên dự án
-Nhóm
-Mục đích đầu tư
-Tổng mức  
-đầu tư
-1
-Dự án sản xuất 
-phân bón hòa tan 
-và phân bón lá
-B
-Thực hiện chiến lược đa dạng hóa sản 
-phẩm phân bón, gia tăng lợi thế cạnh tranh, 
-mở rộng chuỗi giá trị, giảm thiểu rủi ro thị 
-trường và đảm bảo chỉ tiêu tăng trưởng 
-doanh thu theo chiến lược kinh doanh dài 
-hạn của Công ty.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-2
-Dự án kho đầu mối 
-(Khu vực TP. HCM 
-và lân cận)
-B
-Bổ sung và hoàn thiện hệ thống kho chứa, 
-giúp Công ty chủ động trong tổ chức thực 
-hiện kế hoạch SXKD và tạo điều kiện thuận 
-lợi trong công tác tồn trữ - cung ứng hàng 
-hóa, làm đầu mối giao nhận phục vụ tại các 
-thị trường mục tiêu.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-3
-Dự án Kho khu 
-vực An Giang/
-Đồng Tháp
-B
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-4
-Dự án Kho khu 
-vực Cần Thơ
-B
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-5
-Dự án Kho khu 
-vực Tây Nguyên
-B
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-6
-Dự án sản xuất 
-Hydro xanh (Green 
-Hydro)
-B
-Tối ưu hóa hiệu quả sử dụng của các nguồn 
-nguyên liệu đầu vào của Nhà máy Đạm theo 
-định hướng chuyển dịch năng lượng của 
-Tập đoàn, góp phần ứng dụng công nghệ 
-xanh vào dây chuyền sản xuất hiện hữu của 
-Nhà máy.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-Stt
-Tên dự án
-Nhóm
-Mục đích đầu tư
-Tổng mức  
-đầu tư
-7
-Nhà máy sản xuất 
-Khí Công nghiệp
-B
-Thực hiện theo mục tiêu chiến lược đa dạng 
-hóa nguồn nguyên liệu sản xuất, Công ty 
-thực hiện nghiên cứu thu hồi Nitrogen, Argon 
-từ nguồn Offgas và tinh chế đạt tiêu chuẩn 
-khí công nghiệp, đáp ứng nhu cầu tăng tải 
-xưởng Urê và xưởng Ammonia trong tương 
-lai cũng như đáp ứng nhu cầu thị trường khí 
-công nghiệp trong nước, góp phần nâng cao 
-hiệu quả nguồn nguyên liệu theo định hướng 
-chuyển dịch năng lượng của Tập đoàn.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-8
-Dự án tìm nguồn 
-nguyên liệu thay 
-thế
-B
-Tiếp tục tìm kiếm các nguyên liệu thay thế 
-cho nguồn khí hiện hữu, nhằm giảm sự phụ 
-thuộc vào một nguồn nguyên liệu duy nhất 
-đang cạn kiệt dần.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-9
-Dự án sản xuất 
-Kali Sulfat (SOP)
-B
-Tận dụng thế mạnh của Công ty để mở rộng 
-sản xuất kinh doanh dòng phân bón cao cấp 
-Kali Sulfat (SOP) nhằm đón đầu xu thế thị 
-trường theo định hướng chiến lược về phát 
-triển và đa dạng hóa sản phẩm của Công ty, 
-góp phần gia tăng doanh thu và lợi nhuận.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-10
-Dự án Nhà máy 
-chế biến nông sản 
-xuất khẩu
-B
-Tham gia thị trường chế biến và xuất khẩu 
-nông sản theo định hướng chiến lược của 
-Công ty trên cơ sở tận dụng thế mạnh hiện 
-có để góp phần hỗ trợ và tạo thêm giá trị 
-gia tăng cho nông sản, tạo doanh thu và lợi 
-nhuận cho Công ty.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-11
-Nhà máy sản xuất 
-phân bón hữu cơ 
-vi sinh (M&A, góp 
-vốn, hợp tác)
-Hiện PVCFC đang kinh doanh thử nghiệm 
-sản phẩm hữu cơ vi sinh để đánh giá mức 
-độ hấp thụ của thị trường để tìm kiếm cơ hội 
-phát triển thêm sản phẩm theo hướng hữu 
-cơ, tiến tới M&A hoặc góp vốn hợp tác mở 
-rộng quy mô và chủng loại sản phẩm.
-Ghi đầu mục 
-để nghiên cứu 
-thực hiện
-BÁO CÁO CỦA 
-BAN TỔNG GIÁM ĐỐC 
-KẾ HOẠCH SXKD NĂM 2024 (TIẾP THEO)
-131
-130
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-BÁO CÁO CỦA 
-HỘI ĐỒNG QUẢN TRỊ 
-ĐÁNH GIÁ CỦA HĐQT VỀ CÁC MẶT HOẠT ĐỘNG CỦA CÔNG TY      
-Tiếp nối thành công của năm 
-2022, năm 2023 mặc dù gặp 
-không ít khó khăn thách thức 
-nhưng PVCFC đã tận dụng 
-những cơ hội hiếm có để vừa 
-củng cố nền tảng, tăng cường 
-nội lực, vừa duy trì hoạt động 
-theo hướng bền vững, hiệu quả 
-nhằm thay đổi để phát triển tạo 
-thế và lực cho giai đoạn tăng 
-trưởng mới, khẳng định vị thế 
-hàng đầu trên thị trường.
-DOANH THU 
-13.172 TỶ ĐỒNG
-LỢI NHUẬN TRƯỚC THUẾ 
-1.255 TỶ ĐỒNG
-VỀ CÔNG TÁC ĐIỀU HÀNH
-Tổng Giám đốc và Ban Điều hành đã điều hành các hoạt động SXKD của Công ty một cách linh 
-hoạt, nỗ lực không ngừng để vượt qua khó khăn, thách thức hoàn thành tốt các chỉ tiêu được 
-HĐQT giao. Trong giai đoạn thị trường trong nước khó khăn, Ban Điều hành đã tìm kiếm những 
-thị trường mới để gia tăng xuất khẩu, tiếp cận những thị trường khó tính và mở ra những hướng 
-đi mới cho giai đoạn tiếp theo. Năm 2023, Công ty đã đạt mức tổng doanh thu: 13.172 tỷ đồng, 
-lợi nhuận trước thuế 1.255 tỷ đồng
-VỀ CÔNG TÁC QUẢN TRỊ
-HĐQT đã luôn theo sát mọi diễn biến hoạt động kinh doanh Công ty, định hướng, theo dõi, chỉ 
-đạo, giám sát Ban Điều hành triển khai thực hiện kế hoạch kinh doanh năm 2023 và theo Nghị 
-quyết đã được ĐHĐCĐ thông qua.
-HĐQT phát huy tốt vai trò và trách nhiệm trong việc xây dựng và ban hành hệ thống các quy chế 
-quản lý nội bộ, tiếp cận và vận hành hệ thống quản trị theo thông lệ tốt nhằm tạo ra cơ chế quản 
-trị thống nhất và xuyên suốt, kiểm soát vận hành hiệu quả và giám sát hoạt động của mô hình quản 
-trị, đảm bảo lợi ích của cổ đông và hài hòa lợi ích của các bên liên quan bao gồm khách hàng, người 
-lao động và cổ đông.
-HĐQT đã định hướng hoạt động cho năm 2024 và các năm tiếp theo cho Ban Điều hành quyết 
-tâm hoàn thành các mục tiêu chiến lược phát triển Công ty.
-HĐQT đã chỉ đạo tập trung đẩy mạnh các hoạt động quản trị theo thông lệ tốt, kiện toàn các ủy 
-ban trực thuộc và thành lập Ủy ban ESG, từng bước xây dựng khung và chiến lược ESG để triển 
-khai thực hành.
-Tiếp tục đảm bảo quyền lợi của cổ đông, trong năm 2023, PVCFC đã hoàn thành việc chi trả 
-cổ tức năm 2022 bằng tiền với tỷ lệ 30%. Việc chi trả được thực hiện vào ngày 11/09/2023, 
-11 ngày sau ngày chốt danh sách cổ đông (30/08/2023).
-Trong năm 2024, Công ty dự kiến chi trả 10% cổ tức bằng tiền mặt cho các cổ đông.
-VỀ TRÁCH NHIỆM LIÊN QUAN ĐẾN MÔI TRƯỜNG 
-VÀ XÃ HỘI
-Trong bất kỳ hoàn cảnh nào, PVCFC luôn gắn trách 
-nhiệm với môi trường và xã hội song hành cùng hoạt 
-động kinh doanh của Công ty. Năm 2023, PVCFC đã 
-thực hiện tốt trách nhiệm về môi trường và xã hội, 
-triển khai thực hiện các chương trình về an sinh xã 
-hội, hỗ trợ địa phương xây dựng bệnh viện, trường 
-học… tuân thủ các chỉ tiêu về môi trường trong xử 
-lý phát thải, xả thải, tham gia chương trình trồng 
-cây xanh…
-133
-132
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-ĐỊNH HƯỚNG VÀ KẾ HOẠCH HOẠT ĐỘNG CỦA HĐQT NĂM 2024
-Năm 2024, với các mục tiêu, nhiệm vụ, chỉ tiêu kế hoạch 5 năm 2021 - 2025, định hướng phát 
-triển với 3 mũi chiến lược chính cần tập trung gồm: Đầu tư, phát triển bền vững và chuyển đổi 
-số, HĐQT xác định những mục tiêu cụ thể sau:
-CÔNG TÁC SẢN XUẤT KINH DOANH
-	 Chỉ đạo công tác vận hành, sản xuất các mặt hàng phân bón an toàn, ổn định.
-	 Nghiên cứu đa dạng hóa nguồn nguyên, nhiên liệu cho sản xuất Urê, NPK, định 
-hướng đến giải pháp dịch chuyển sản xuất xanh.
-	 Đa dạng hóa nhóm sản phẩm phân bón trên nền tảng Urê, NPK; Phát triển các 
-dòng sản phẩm hữu cơ sinh học, hữu cơ vi sinh; Dòng sản phẩm kích thích sinh 
-trưởng và phân bón lá; Dòng sản phẩm phân bón hòa tan.
-	 Phát triển bộ giải pháp nông nghiệp: giải pháp dinh dưỡng cho cây trồng, bộ giải 
-pháp cải tạo đất. 
-	 Phát triển thị trường NPK ở các khu vực Đông Nam bộ và Tây Nguyên. Hoàn 
-thành chiến lược phát triển thương hiệu, triển khai phát triển thương hiệu cho 
-các nhóm sản phẩm, ngành hàng.
-	 Đẩy mạnh các dự án đầu tư mở rộng hoạt động sản xuất kinh doanh.
-CÔNG TÁC CHUYỂN ĐỔI SỐ
-	 Tiếp tục hoàn thiện xây dựng cơ sở dữ liệu data warehouse và kết nối các hệ 
-thống ứng dụng trên nền tảng công nghệ thông tin. Xây dựng giải pháp về đảm 
-bảo an toàn dữ liệu và an toàn tổng thể hệ thống.
-	 Tiếp tục hoàn thiện và nâng cao giá trị của các ứng dụng số trong hoạt động 
-quản lý kênh phân phối, khách hàng...
-CÔNG TÁC QUẢN TRỊ CÔNG TY 
-	 Tiếp tục xây dựng hệ thống Quản trị Công ty theo thông lệ tốt. 
-	 Tiếp tục giám sát các nhóm rủi ro trọng yếu đối với các hoạt động của Công ty 
-như: rủi ro chiến lược, rủi ro hoạt động, rủi ro tuân thủ, rủi ro tài chính và rủi ro 
-về biến đổi khí hậu,…
-	 Xây dựng và phê duyệt khung, chiến lược Phát triển bền vững (ESG) và triển 
-khai thực hành ESG.
-	 Tiếp tục duy trì văn hóa Công ty, văn hóa HĐQT tạo môi trường và động lực phát 
-triển bền vững. Rà soát, giám sát việc thực hiện kế hoạch, chiến lược Công ty. 
-BÁO CÁO CỦA 
-HỘI ĐỒNG QUẢN TRỊ 
-HOẠT ĐỘNG GIÁM SÁT CỦA HĐQT ĐỐI VỚI BAN TGĐ
-Căn cứ Điều lệ Công ty và Quy chế nội bộ về Quản trị Công ty, HĐQT đã thực hiện việc kiểm tra, 
-giám sát hoạt động của Tổng Giám đốc và Ban Điều hành trong việc điều hành sản xuất kinh 
-doanh và triển khai các nghị quyết của ĐHĐCĐ và HĐQT trong năm 2023 như sau:
-PHƯƠNG THỨC GIÁM SÁT
-	 HĐQT phân công cho từng thành viên HĐQT phụ trách từng lĩnh vực cụ thể và thông qua các 
-Ủy ban để thực hiện việc giám sát Tổng Giám đốc và Ban Điều hành trong tổ chức, triển khai 
-và thực hiện các nghị quyết của HĐQT. HĐQT đưa ra các nội dung mà Ban Điều hành phải 
-chuẩn bị để trình bày/thảo luận/chất vấn tại cuộc họp HĐQT. Tại các cuộc họp, HĐQT đều 
-soát xét tình hình thực hiện các nghị quyết, tình hình SXKD của tháng, quý và lũy kế, thảo luận 
-và quyết định thông qua các nghị quyết để Tổng Giám đốc và Ban Điều hành làm cơ sở triển 
-khai thực hiện. Ngoài ra, các Ủy ban của HĐQT cũng trao đổi với thành viên Ban Điều hành về 
-các nội dung, vấn đề quan tâm giám sát.
-	 Tham dự các cuộc họp thường kỳ của Ban Điều hành về hoạt động SXKD và giao ban định kỳ 
-hàng quý.
-	 Việc giám sát các hoạt động của Tổng Giám đốc và Ban Điều hành được HĐQT thực hiện 
-thường xuyên, liên tục, đảm bảo cho việc điều hành toàn bộ các hoạt động của Công ty được 
-thông suốt.
-NỘI DUNG GIÁM SÁT
-	 Giám sát về hoạt động sản xuất kinh doanh, tình hình triển khai thực hiện các Nghị quyết/
-Quyết định, chủ trương của HĐQT, tình hình đảm bảo việc làm cho người lao động, an toàn lao 
-động, quyền con người, chế độ lương thưởng…
-	 Cập nhật, ban hành các Nghị quyết, Quyết định, Quy chế thuộc thẩm quyền của HĐQT phù hợp 
-với tình hình mới, phân cấp quản lý để tạo điều kiện thuận lợi cho TGĐ triển khai thực hiện. 
-	 Hỗ trợ kịp thời đảm bảo hiệu quả hoạt động điều hành của TGĐ, bộ máy giúp việc cho TGĐ và 
-Người đại diện phần vốn tại doanh nghiệp có vốn góp của Công ty.
-	 Xem xét, giám sát các báo cáo về tình hình hoạt động SXKD hàng tháng năm 2023, báo cáo 
-tài chính quý 1, 2, 3/2023, quý 4/2022 và BCTC năm 2022 của Công ty.
-KẾT QUẢ GIÁM SÁT
-	 Với những kết quả đạt được trong năm 2023, HĐQT đã thảo luận và đánh giá: TGĐ 
-và BĐH đã đảm bảo được hoạt động sản xuất kinh doanh liên tục, hoàn thành xuất 
-sắc các chỉ tiêu sản xuất, tiêu thụ, đảm bảo việc làm cho người lao động, đảm bảo 
-an toàn sức khỏe nhân viên và kinh doanh có trách nhiệm cao với các bên liên quan, 
-tuân thủ nghiêm chỉnh các quy định pháp luật hiện hành và quy chế hoạt động của 
-Công ty.
-	 Trong năm 2023, Công ty không vi phạm các quy định của pháp luật về an toàn lao động, 
-quyền con người; không sử dụng lao động trẻ em và không cưỡng bức lao động; không vi phạm 
-quy định và không bị phạt về vấn đề môi trường.
-135
-134
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-THẨM ĐỊNH BÁO CÁO TÀI CHÍNH
-Ban Kiểm soát đã tiến hành thẩm định báo cáo tài chính quý, bán niên, năm 2023 đảm bảo cẩn 
-trọng, đúng đắn, minh bạch trong các báo cáo. Kết quả thẩm định như sau:
-	 Báo cáo Tài chính đã phản ánh đầy đủ, trung thực, hợp lý trên khía cạnh trọng yếu tình hình tài 
-chính của Công ty tại thời điểm ngày 31/12/2023, cũng như kết quả hoạt động sản xuất kinh 
-doanh năm 2023.
-	 Việc ghi chép, mở sổ kế toán, phân loại các nội dung kinh tế phù hợp với chuẩn mực kế toán và 
-chế độ kế toán hiện hành. 
-	 Các chỉ số tài chính rất tốt cho thấy tình hình tài chính của Công ty lành mạnh, đảm bảo thanh 
-toán tốt các khoản nợ, bảo toàn và ngày càng phát triển vốn của chủ sở hữu, cụ thể:
-BÁO CÁO CỦA 
-BAN KIỂM SOÁT
-KẾT QUẢ GIÁM SÁT TÌNH HÌNH HOẠT ĐỘNG VÀ TÌNH HÌNH TÀI CHÍNH NĂM 2023 
-(TIẾP THEO)
-TÌNH HÌNH SẢN XUẤT KINH DOANH (TIẾP THEO)
-	 Tiếp tục chuẩn hóa mô hình quản trị rủi ro theo mô hình 3 tuyến của COSO; hoàn thiện theo 
-hướng tinh gọn toàn bộ hệ thống văn bản quy phạm nội bộ (Chuỗi giá trị, Khung quy chế, …) 
-của Công ty theo mô hình kinh doanh và chuỗi giá trị, tiến tới hoàn thiện mô hình quản trị theo 
-thông lệ tốt. Bên cạnh đó, PVCFC triển khai dự án đánh giá, xây dựng lộ trình và kiện toàn 
-công tác quản trị Công ty theo thông lệ quốc tế tốt dựa trên khung ACGS. Đào tạo “Tổng quan 
-về ESG và những vấn đề liên quan đến PVN và lĩnh vực phân bón hóa chất”, tích hợp ESG 
-trong hoạt động quản trị điều hành, hướng tới mục tiêu phát triển bền vững, đóng góp cho quá 
-trình chuyển đổi xanh và tăng trưởng bền vững của nền kinh tế.
-Công tác đầu tư tài chính
-Tính đến ngày 31/12/2023, PVCFC chỉ đầu tư vào một (01) Công ty con - Công ty Cổ phần Bao 
-bì Dầu khí Việt Nam (PPC), với số vốn góp là 20,83 tỷ đồng, chiếm 51,03% vốn điều lệ. Trong 
-năm 2023, PPC đã hoàn thành các chỉ tiêu kế hoạch sản xuất kinh doanh, lợi nhuận sau thuế 
-năm 2023 là 8,02 tỷ đồng đạt 124,09% kế hoạch, tỷ suất lợi nhuận sau thuế trên vốn điều lệ 
-đạt 16,71% (LNST/VCSH đạt 11,96%).
-Đánh giá hệ thống Kiểm soát nội bộ, Kiểm toán nội bộ và Quản lý rủi ro
-	 Hệ thống Kiểm soát nội bộ, Kiểm toán nội bộ và Quản lý rủi ro của Công ty hiện vận hành tốt 
-và phát huy hiệu quả đảm bảo tính tuân thủ, ngăn ngừa các rủi ro, gian lận. Với mô hình quản 
-trị 3 tuyến, đơn vị đã chú trọng việc kiểm tra, kiểm toán tuân thủ, hoạt động, tài chính và quản 
-trị rủi ro.
- PVCFC đã xây dựng các quy trình nội bộ, hệ thống quản lý rủi ro theo chuẩn COSO với đầy đủ 
-quy trình nghiệp vụ phù hợp với cơ cấu, chức năng nhiệm vụ của các bộ phận. Đơn vị đã thuê 
-tư vấn triển khai dự án tinh gọn và chuẩn hóa hệ thống văn bản quy phạm nội bộ của Công ty; 
-theo đó đã rà soát, cập nhật, sửa đổi hệ thống quy chế, quy trình theo mô hình kinh doanh và 
-chuỗi giá trị. 
-	 Công tác Quản trị rủi ro tại đơn vị được theo dõi, nhận diện sớm và báo cáo kịp thời cho Ban 
-Lãnh đạo Công ty để có giải pháp ứng phó phù hợp.
-	 Năm 2023, Công tác Kiểm toán nội bộ đang hoạt động theo kế hoạch kiểm toán nội bộ 3 năm 
-(2022 - 2024) và kế hoạch kiểm toán năm 2023 được HĐQT phê duyệt. Định kỳ đơn vị thực 
-hiện kiểm toán theo kế hoạch và báo cáo kết quả kiểm toán cho HĐQT/UBKT&QTRR, kết quả 
-kiểm toán đều được HĐQT/UBKT&QTRR chỉ đạo nghiêm túc thực hiện. Ngày 27/12/2023 
-HĐQT đã có quyết định số 3420/QĐ-PVCFC phê duyệt kế hoạch kiểm toán nội bộ 3 năm 
-(2024 - 2026).
-	 Hiện nay hệ thống Kiểm soát nội bộ, Kiểm toán nội bộ và Quản trị rủi ro tại Công ty vận hành 
-và phát huy tốt tính hiệu lực, hiệu quả của hệ thống.
-Tỷ số thanh toán 
-hiện hành đạt 
-Tỷ suất LNST hợp nhất 
-trên vốn chủ sở hữu  
-bình quân (ROE) đạt
-Hệ số nợ/Tổng tài sản 
-đạt 
-Hệ số bảo toàn vốn tại 
-thời điểm 31/12/2023 đạt
-Hệ số nợ/Vốn chủ sở 
-hữu đạt 
-(VCSH hợp nhất tại ngày 31/12/2023  
-là 9.963,38 tỷ đồng/VCSH hợp nhất 
-tại 31/12/2022 là 10.605,45 tỷ đồng).
-Tỷ số thanh toán 
-nhanh đạt 
-Tỷ suất LNST hợp nhất 
-trên tổng tài sản  
-bình quân (ROA) đạt 
-2,99
-lần 
-10,79%
-7,55%
-0,94
-lần 
-2,51
-lần 
-0,35
-lần 
-0,53
-lần 
-139
-138
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-ĐÁNH GIÁ VAI TRÒ, TRÁCH NHIỆM VÀ 
-TÍNH ĐỘC LẬP CỦA KIỂM TOÁN ĐỘC LẬP
-Trên cơ sở Báo cáo kiểm toán, Thư quản lý, 
-Bảng tổng hợp kết quả kiểm toán, Ban Kiểm 
-soát tổng hợp thông tin thực hiện đánh giá 
-tính độc lập và hiệu quả của Kiểm toán độc lập 
-theo các tiêu chí quy định tại Biểu mẫu BM01/
-ĐHĐCĐ.03.02 và BM02/ĐHĐCĐ.03.02 của 
-Quy trình tổ chức Đại hội đồng cổ đông ban 
-hành theo Quyết định số 399/QĐ-PVCFC 
-ngày 03/03/2023 và Báo cáo tại ĐHĐCĐ 
-với kết quả như sau: 
-Công ty TNHH Kiểm toán Deloitte Việt Nam 
-được lựa chọn kiểm toán Báo cáo Tài chính 
-năm 2023 của PVCFC và đã thực hiện soát 
-xét,  kiểm toán BCTC bán niên, năm 2023 một 
-cách cẩn trọng, độc lập, khách quan. Đơn vị 
-kiểm toán đã tuân thủ chuẩn mực và các quy 
-định đạo đức nghề nghiệp trong quá trình thực 
-hiện kiểm toán. Kết quả kiểm toán Báo cáo Tài 
-chính đã phản ánh một cách đầy đủ, trung 
-thực, hợp lý tình hình tài chính cũng như kết 
-quả hoạt động sản xuất kinh doanh của Công 
-ty trong năm 2023.
-ĐÁNH GIÁ KẾT QUẢ HOẠT ĐỘNG VÀ BÁO 
-CÁO CỦA HỘI ĐỒNG QUẢN TRỊ, TỔNG 
-GIÁM ĐỐC VÀ NGƯỜI ĐIỀU HÀNH KHÁC 
-Trong năm 2023, HĐQT đã ban hành 86 Nghị 
-quyết/Quyết định về các mặt hoạt động của 
-Công ty theo đúng trình tự, thẩm quyền quy 
-định của Luật Doanh nghiệp và Điều lệ Công 
-ty. HĐQT đã thực hiện vai trò, trách nhiệm 
-một cách cẩn trọng, trung thực. HĐQT đã ban 
-hành các chính sách, quy chế, đã chỉ đạo và 
-giám sát thực hiện chính sách, quy chế, thực 
-hiện định hướng chiến lược, kế hoạch sản xuất 
-BÁO CÁO CỦA 
-BAN KIỂM SOÁT
-tiềm ẩn nhằm nâng cao hiệu quả hoạt động, 
-đảm bảo tuân thủ đúng và đầy đủ các quy định 
-hiện hành Nhà nước, Công ty.
-HĐQT, Ban TGĐ đã phối hợp chặt chẽ và tạo 
-điều kiện thuận lợi cho BKS trong việc thực 
-hiện công tác kiểm tra, giám sát; cung cấp đầy 
-đủ thông tin, tài liệu liên quan, mời tham gia 
-đầy đủ các cuộc họp và thực hiện các khuyến 
-nghị của BKS.
-BKS đã thực hiện hiện đầy đủ nghĩa vụ báo 
-cáo với cổ đông theo quy định của Luật Doanh 
-nghiệp và Điều lệ Công ty. 
-KẾ HOẠCH HOẠT ĐỘNG CỦA BAN KIỂM 
-SOÁT NĂM 2024 
-Trong năm 2024, thực hiện đúng quyền hạn 
-và trách nhiệm của Ban Kiểm soát theo quy 
-định tại Luật Doanh nghiệp, Điều lệ Công ty 
-và nhiệm vụ ĐHĐCĐ thường niên, Ban Kiểm 
-soát tập trung kiểm tra giám sát các nội dung 
-chính sau:
-	 Kiểm tra/giám sát tình hình thực hiện và 
-tuân thủ Luật Doanh nghiệp, Pháp luật Nhà 
-nước; tình hình thực hiện và tuân thủ Nghị 
-quyết ĐHĐCĐ, Điều lệ, Quy chế, Quy định, 
-Quyết định, Chỉ thị của Công ty.
-kinh doanh được ĐHĐCĐ thông qua đồng thời 
-cũng tạo mọi điều kiện thuận lợi để TGĐ triển 
-khai thực hiện.
-HĐQT luôn chú trọng việc nâng cao năng lực 
-và quản trị Công ty thông lệ tốt. Các thành 
-viên HĐQT (bao gồm thành viên HĐQT độc 
-lập) tham gia đầy đủ các cuộc họp và làm việc 
-với tinh thần trách nhiệm cao, hoàn thành tốt 
-nhiệm vụ.
-Các Ủy ban trực thuộc HĐQT đã phát huy tốt 
-vai trò, thực hiện đúng chức năng, nhiệm vụ để 
-đảm bảo lợi ích chung của Công ty và cổ đông.
-Ban TGĐ nghiêm túc thực hiện các Nghị quyết, 
-Quyết định, Chỉ thị của HĐQT và ĐHĐCĐ; điều 
-hành hoạt động SXKD của Công ty một cách 
-linh hoạt, chủ động và đã hoàn thành vượt 
-mức các chỉ tiêu SXKD năm 2023.
-Các báo cáo của HĐQT và Tổng Giám đốc 
-trình ĐHĐCĐ đã phản ánh đầy đủ, trung thực 
-công tác quản lý, điều hành và kết quả hoạt 
-động của Công ty.
-ĐÁNH GIÁ SỰ PHỐI HỢP HOẠT ĐỘNG GIỮA 
-BAN KIỂM SOÁT, HỘI ĐỒNG QUẢN TRỊ, 
-BAN TỔNG GIÁM ĐỐC VÀ CÁC CỔ ĐÔNG 
-Sự phối hợp hoạt động giữa BKS đối với hoạt 
-động của HĐQT, Ban TGĐ dựa trên nguyên 
-tắc minh bạch, rõ ràng, tuân thủ các quy định 
-Pháp luật, quy định Công ty nhằm đảm bảo lợi 
-ích hợp pháp cao nhất của Công ty và cổ đông.
-BKS đã phối hợp chặt chẽ với HĐQT, Ban TGĐ 
-trong công tác kiểm tra, giám sát tại Công ty 
-để có những biện pháp xử lý kịp thời những 
-vấn đề chưa tuân thủ, gian lận và các rủi ro 
-	 Kiểm tra/giám sát, đánh giá tình hình tài 
-chính, cân đối vốn và quản lý dòng tiền, hiệu 
-quả hoạt động và khả năng thanh toán nợ, 
-tình hình quản lý và sử dụng vốn, bảo toàn 
-và phát triển vốn; việc quản lý phần vốn của 
-Công ty đầu tư vào các doanh nghiệp khác.
-	 Kiểm tra, giám sát tình hình thực hiện kế 
-hoạch SXKD; công tác nghiên cứu phát 
-triển, tình hình quản lý và triển khai các các 
-dự án đầu tư và một số hoạt động khác tại 
-Công ty.
-	 Rà soát, kiểm tra và đánh giá hiệu lực và 
-hiệu quả của hệ thống kiểm soát nội bộ, kiểm 
-toán nội bộ, quản lý rủi ro và cảnh báo sớm 
-của Công ty.
-	 Rà soát/khuyến nghị về hợp đồng, giao dịch 
-với người có liên quan thuộc thẩm quyền 
-phê duyệt của HĐQT hoặc ĐHĐCĐ và công 
-tác công bố thông tin về người có liên quan 
-và giao dịch với người có liên quan.
-	 Thẩm định báo cáo tài chính bán niên, năm.
-	 Lập các báo cáo trình ĐHĐCĐ và thực các 
-nhiệm vụ khác theo đúng quy định hiện hành 
-của Luật Doanh nghiệp và Điều lệ Công ty.
-ĐỀ XUẤT LỰA CHỌN ĐƠN VỊ KIỂM TOÁN
-Trên cơ sở xem xét và đánh giá năng lực các công ty Kiểm toán độc lập, đồng thời để nâng cao 
-hiệu quả công tác kiểm toán BCTC và tạo điều kiện thuận lợi cho việc lựa chọn đơn vị kiểm toán 
-độc lập, Ban Kiểm soát Công ty Cổ phần Phân bón Dầu khí Cà Mau kính trình ĐHĐCĐ ủy quyền 
-cho HĐQT lựa chọn một trong các công ty kiểm toán sau: Công ty TNHH Deloitte Việt Nam, 
-Công ty TNHH KPMG (Việt Nam), Công ty TNHH Ernst & Young Việt Nam, Công ty TNHH PwC 
-(Việt Nam) thực hiện kiểm toán báo cáo tài chính năm 2024.
-KẾT QUẢ GIÁM SÁT TÌNH HÌNH HOẠT ĐỘNG VÀ TÌNH HÌNH TÀI CHÍNH NĂM 2023 
-(TIẾP THEO)
-141
-140
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-CÁC ỦY BAN TRỰC THUỘC HĐQT 
-THÔNG TIN VỀ SỐ CUỘC HỌP VÀ SỰ THAM GIA CỦA CÁC THÀNH VIÊN TRONG 
-ỦY BAN (TRONG NĂM 2023)
-BAN KIỂM TOÁN NỘI BỘ
-	 Công ty hiện có 03 Ủy ban trực thuộc HĐQT: (i) Ủy ban Kiểm toán và Quản trị rủi ro (KT&QTRR); 
-(ii) Ủy ban Nhân sự và Lương thưởng (NS&LT) và Ủy ban ESG (thành lập tháng 03/2024).
-	 Thành viên của các Ủy ban đều là thành viên HĐQT không điều hành và Chủ tịch Ủy ban 
-KT&QTRR là TV HĐQT độc lập - Đỗ Thị Hoa, Chủ tịch Ủy ban NS&LT là TV HĐQT độc lập - 
-Trương Hồng. Thành viên Ủy ban NS&LT đều là thành viên HĐQT độc lập.
-	 Cơ cấu, quy mô thành phần của các Ủy ban là phù hợp với điều kiện thực tế của Công ty. Hoạt 
-động của các Ủy ban giúp HĐQT phát huy được sức mạnh tổng hợp, nâng cao vai trò và phát 
-huy hiệu quả năng lực quản trị của Công ty.
-UB KT&QTRR
-Số cuộc họp : 04
-Ghi chú
-TV HĐQT độc lập Đỗ Thị Hoa - Chủ tịch
-4/4
-TV HĐQT Trần Mỹ
-2/2
-TV HĐQT Lê Đức Quang
-4/4
-UB QTNS&LT
-Số cuộc họp : 02
-TV HĐQT độc lập Trương Hồng - Chủ tịch
-2/2
-TV HĐQT Trần Mỹ
-1/1
-Từ nhiệm từ 01/08/2023
-TV HĐQT Nguyễn Đức Hạnh
-2/2
-Ghi chú: 	 Năm 2023, Ủy ban Kiểm toán và Quản trị rủi ro đã tổ chức 4 cuộc họp, gồm 3 cuộc 
-họp trực tiếp và 1 cuộc họp trực tuyến.
-	 Ban Kiểm toán nội bộ: Được thành lập tháng 11/2020, trực thuộc HĐQT để thực hiện công việc 
-kiểm toán nội bộ toàn Công ty theo quy định Nghị định 05/2019/NĐ-CP. Ban Kiểm toán nội bộ 
-gồm 5 thành viên có chuyên môn về các lĩnh vực: Luật, Tài chính, Kiểm toán, Kế toán, Kỹ thuật 
-công nghệ.
-	 Trưởng Ban Kiểm toán nội bộ là ông Vũ Chí Dương- Thạc sĩ Tài chính - Ngân hàng, Cử nhân 
-Kiểm toán- Kế toán, Cử nhân Luật. Ông Vũ Chí Dương có nhiều kinh nghiệm trong các lĩnh vực 
-pháp chế, tài chính kế toán, kiểm soát nội bộ, quản trị rủi ro, kiểm toán. 
-	 Quá trình làm việc của ông Vũ Chí Dương:
-Thời gian công tác
-Chức danh, chức vụ, đơn vị công tác
-03/2001 - 01/2004
-Chuyên viên Pháp chế, CTCP Nhiệt điện Bà Rịa
-02/2004 - 11/2007
-Chuyên viên Kinh tế Hợp đồng, Ban Quản lý cụm dự án Khí Điện Đạm 
-Cà Mau
-12/2007 - 12/2008
-Chuyên viên Tín dụng doanh nghiệp, CTCP Tài chính Dầu khí - Chi 
-nhánh Vũng Tàu
-12/2008 - 08/2009
-Chuyên viên Kế toán phụ trách Chi nhánh TP. HCM, CTCP Dịch vụ 
-Kỹ thuật Điện lực Dầu khí
-09/2009 - 11/2011
-Tổ trưởng Kế toán thanh toán & thương mại, Nhà máy Đạm Phú Mỹ- 
-CTCP Phân bón & Hóa chất Dầu khí
-12/2011 - 06/2015
-Chuyên viên 2 Ban Kiểm soát nội bộ, Tổng Công ty Dầu Việt Nam
-07/2015 - 07/2017
-Tổ trưởng Kiểm tra Tuân thủ - Ban KSNB, CTCP Phân bón Dầu khí 
-Cà Mau. 
-Kiêm nhiệm Thành viên Ban Kiểm soát, CTCP Bao bì Dầu khí Việt 
-Nam.
-08/2017 - 05/2018
-Phó Trưởng phòng Kiểm tra Tuân thủ, Ban KSNB, CTCP Phân bón 
-Dầu khí Cà Mau. 
-Kiêm nhiệm Thành viên Ban Kiểm soát, CTCP Bao bì Dầu khí Việt 
-Nam.
-06/2018 - 11/2020
-Trưởng phòng Quản lý rủi ro, Ban KSNB, CTCP Phân bón Dầu khí Cà 
-Mau.
-Kiêm nhiệm Trưởng Ban Kiểm soát, CTCP Bao bì Dầu khí Việt Nam.
-12/2020 - 07/2021
-Kiểm toán viên nội bộ- Ban Kiểm toán nội bộ, CTCP Phân bón Dầu 
-khí Cà Mau.
-Kiêm nhiệm Trưởng Ban Kiểm soát, CTCP Bao bì Dầu khí Việt Nam
-08/2021 - 06/2022
-Phó Trưởng Ban phụ trách Ban Kiểm toán nội bộ, CTCP Phân bón 
-Dầu khí Cà Mau.
-Kiêm nhiệm Trưởng Ban Kiểm soát, CTCP Bao bì Dầu khí Việt Nam.
-06/2022 - 06/2023
-Trưởng Ban Kiểm toán nội bộ, CTCP Phân bón Dầu khí Cà Mau.
-Kiêm nhiệm Trưởng Ban Kiểm soát, CTCP Bao bì Dầu khí Việt Nam.
-07/2023 - nay
-Trưởng Ban Kiểm toán nội bộ, CTCP Phân bón Dầu khí Cà Mau.
-CƠ CẤU VÀ HOẠT ĐỘNG 
-CỦA HỘI ĐỒNG QUẢN TRỊ 
-153
-152
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-CÁC CUỘC HỌP VÀ HOẠT ĐỘNG CỦA HĐQT
-Hoạt động của HĐQT
-STT
-Thành viên HĐQT
-Số buổi họp  
-tham dự
-Tỷ lệ
-1
-Ông Trần Ngọc Nguyên
-13/13
-100%
-2
-Ông Văn Tiến Thanh
-13/13
-100%
-3
-Ông Trần Mỹ (*)
-8/8
-100%
-4
-Ông Nguyễn Đức Hạnh
-13/13
-100%
-5
-Ông Lê Đức Quang
-13/13
-100%
-6
-Ông Trương Hồng
-13/13
-100%
-7
-Bà Đỗ Thị Hoa
-13/13
-100%
-Các thành viên HĐQT tham dự đầy đủ các phiên 
-họp của HĐQT, tài liệu phiên họp được gửi đến 
-các thành viên trước khi họp 05 ngày và cập 
-nhật đến trước khi họp. 
-Các thành viên HĐQT trong năm 2023 không 
-nắm giữ các chức vụ quản lý, điều hành tại 
-các công ty khác liên quan; không sở hữu 
-chéo đối với nhà cung cấp hoặc các bên liên 
-quan. Riêng TV HĐQT Nguyễn Đức Thuận 
-được bầu từ ngày 10/01/2024 hiện đang kiêm 
-giữ chức Chủ tịch HĐQT của Công ty Cổ phần 
-Bao bì Dầu khí Việt Nam, một công ty con 
-của PVCFC.
-Ngày 29/01/2024, dưới sự chủ trì của Chủ 
-tịch HĐQT, các TV HĐQT không điều hành đã 
-họp riêng và trao đổi các vấn đề liên quan đến 
-công tác điều hành của Tổng Giám đốc, rà soát 
-công tác quy hoạch các chức danh trong Công ty 
-thuộc quyền quản lý của HĐQT. 
-Ngày 12/06/2023, Công ty đã tổ chức thành 
-công ĐHĐCĐ thường niên năm 2023 đúng thời 
-gian quy định. 
-HĐQT quyết định thực hiện việc chốt danh sách 
-cổ đông được hưởng quyền nhận cổ tức năm 
-2022 bằng tiền ngày 17/07/2023 và thực hiện 
-chi trả ngày 11/09/2023 đúng theo quy định tại 
-Điều lệ Công ty (chi trả trong vòng 3 tháng kể từ 
-ngày được ĐHĐCĐ thông qua).
-Trong năm 2023, HĐQT đã chỉ đạo và giám sát 
-giao dịch mua lại 100% phần vốn góp tại công 
-ty TNHH Phân bón Hàn Việt (KVF). Đây là giao 
-dịch thuộc thẩm quyền của HĐQT và giúp Công 
-ty tăng sản lượng, mở rộng thị trường… Việc mua 
-lại được đơn vị độc lập tư vấn thẩm định, đánh 
-giá đảm bảo sự minh bạch và giá mua lại phù hợp 
-với thị trường.
-HĐQT bao gồm cả các thành viên HĐQT độc lập 
-cũng tìm kiếm các ứng viên từ mạng lưới của 
-mình cũng như trao đổi với các tổ chức nghề 
-nghiệp khác để có thêm thông tin. Kết quả là ông 
-Nguyễn Đức Thuận được đề cử bởi cổ đông lớn 
-và được ĐHĐCĐ thông qua.
-HĐQT nhận thức rằng biến đổi khí hậu là vấn đề 
-trọng yếu hiện nay, mặc dù công tác về an toàn, 
-sức khỏe và môi trường luôn được HĐQT và Lãnh 
-đạo Công ty quan tâm thực hiện trong thời gian 
-qua, nhưng trong năm 2023 HĐQT đã triển khai 
-các hành động quyết liệt và rõ ràng hơn trong 
-vấn đề định hướng, xây dựng chiến lược và triển 
-khai thực hành ESG. 
-	 Tại phiên họp định kỳ tháng 11/2023, HĐQT đã 
-thống nhất phân công cho TV HĐQT Nguyễn 
-Đức Hạnh phụ trách dự án triển khai ESG. Tất 
-cả các thành viên HĐQT đều được đào tạo về 
-ESG và tổ chức đào tạo/phổ biến ESG tới các 
-bộ phận trong Công ty. 
-	 Tại phiên họp ĐHĐCĐ bất thường ngày 
-10/01/2024, cổ đông đã đặt các câu hỏi thể 
-hiện sự quan tâm tới vấn đề ESG và Ban Lãnh 
-đạo Công ty đã chia sẻ thông tin về tình hình 
-thực hiện ESG của Công ty và cam kết triển 
-khai thực hành quản trị Công ty và ESG theo 
-thông lệ tốt.
-Công ty xây dựng chuyên mục về Sức khỏe - An 
-toàn - Môi trường (QHSE) trên website, trong đó 
-cập nhật các kết quả về đo đạc môi trường định 
-kỳ hàng quý thể hiện sự cam kết và tuân thủ tốt 
-các vấn đề về môi trường và biến đổi khí hậu. 
-Đồng thời, các hoạt động mà công ty thực hiện, 
-hướng tới quản lý và giảm các tác động của biến 
-đổi khí hậu.
-Ngoài các cuộc họp ĐHĐCĐ, Công ty đã tổ chức 
-các buổi gặp mặt nhà đầu tư theo hình thức tập 
-trung hoặc riêng lẻ để tạo điều kiện cho cổ đông/
-nhà đầu tư có thể nắm bắt và trao đổi thông tin 
-tình hình hoạt động sản xuất kinh doanh của 
-Công ty. Trong năm 2023, Công ty đã thực hiện 1 
-cuộc gặp gỡ chính thức và tập trung với các nhà 
-đầu tư/các đơn vị phân tích vào tháng 11/2023, 
-để cung cấp và cập nhật thông tin một cách 
-kịp thời. Các cuộc gặp gỡ này được thông báo 
-rộng rãi trên website của Công ty. Công ty cũng 
-thường xuyên gặp gỡ/trao đổi với nhà đầu tư/
-HĐQT, với sự hỗ trợ của Thư ký Công ty giám 
-sát việc tuân thủ các quy định và khung quản 
-trị công ty được lựa chọn. Tại PVCFC, Chúng tôi 
-cam kết tuân thủ các quy định về quản trị công 
-ty theo quy định tại Việt Nam đồng thời hướng 
-tới tuân thủ tối đa các thông lệ tốt được giới 
-thiệu trong Bộ Thẻ điểm Quản trị Công ty ASEAN 
-2023. Trong năm 2023, PVCFC tuân thủ 100% 
-các quy định về QTCT theo quy định của Việt 
-Nam. Mức độ đáp ứng của PVCFC với bộ thẻ điểm 
-ACGS 2023 được trình bày tại mục 4.7. Các hoạt 
-động quản trị của Công ty được quy định tại Điều 
-lệ, Quy chế Nội bộ về quản trị Công ty của Công 
-ty bao gồm các quy định cơ bản về: vai trò, quyền 
-hạn, cấu trúc của các bên tham gia vào quản trị 
-Công ty như ĐHĐCĐ, HĐQT, các Ủy ban trực 
-thuộc HĐQT, BKS, Ban Điều hành…; Cách thức 
-công ty được kiểm soát (môi trường kiểm soát) 
-gồm các vấn đề như quản lý rủi ro, kiểm soát nội 
-bộ, kiểm toán nội bộ, kiểm toán độc lập…; nguyên 
-tắc và cơ chế đánh giá, khen thưởng…
-Một trong những hoạt động của HĐQT trong năm 
-2023 là tìm ứng viên thay thế cho ông Trần Mỹ đã 
-từ nhiệm từ tháng 8/2023 để trình lên ĐHĐCĐ 
-bỏ phiếu phê duyệt trong kỳ họp bất thường 
-vào tháng 01/2024. Ngoài việc đề cử từ các cổ 
-đông/nhóm cổ đông sở hữu từ 10% vốn trở lên, 
-đơn vị phân tích trong phạm vi nhỏ hơn để trả 
-lời/cung cấp thông tin cho nhà đầu tư theo yêu 
-cầu. Cập nhật thông cáo/bản tin định kỳ về tình 
-hình hoạt động SXKD của Công ty.
-HĐQT thực hiện việc rà soát chiến lược kinh doanh 
-ít nhất 6 tháng một lần thông qua các cuộc họp 
-HĐQT. Để thực hiện hoạt động này một cách hiệu 
-quả, trước cuộc họp HĐQT, BĐH cần cung cấp báo 
-cáo về việc triển khai chiến lược kinh doanh đã 
-được HĐQT phê duyệt và gửi cho các thành viên 
-HĐQT xem qua kèm theo các khuyến nghị. HĐQT 
-cũng phân công các cá nhân phụ trách việc rà soát 
-chiến lược kinh doanh để báo cáo lại cho HĐQT. 
-Hoạt động này giúp HĐQT có các điều chỉnh kịp 
-thời hoặc gia tăng các nguồn lực cần thiết, để đảm 
-bảo rằng các hoạt động của Công ty phù hợp với 
-chiến lược phát triển Công ty.
-Hàng quý, trên cơ sở báo cáo QTRR của TGĐ, Ban 
-KTNB và UB KT&QTRR, HĐQT đánh giá tính hiệu 
-quả và phù hợp của hệ thống quản lý rủi ro và 
-kiểm soát nội bộ để đảm bảo kiểm soát tốt các 
-rủi ro trọng yếu của Công ty. Các rủi ro trọng yếu 
-trong năm 2023 được HĐQT tập trung kiểm soát 
-bao gồm các rủi ro về thị trường, rủi ro về nguyên 
-liệu đầu vào, rủi ro về biến đổi khí hậu, rủi ro về 
-công nghệ thông tin (gồm cả bảo mật thông tin và 
-tính liên tục của hoạt động), rủi ro về an toàn sản 
-xuất… HĐQT định kỳ rà soát việc quản lý các rủi 
-ro trọng yếu trong các cuộc họp HĐQT.  HĐQT tin 
-tưởng rằng trong năm 2023, hệ thống quản lý rủi 
-ro và kiểm soát nội bộ của Công ty là hiệu quả.
-Là một hoạt động hàng năm, HĐQT cũng đánh giá 
-lại nguồn vốn cũng như cơ cấu vốn của PVCFC 
-để đảm bảo phù hợp với chiến lược kinh doanh 
-dài hạn của Công ty cũng như khẩu vị rủi ro được 
-xác định của Công ty. HĐQT tin tưởng rằng cơ 
-cấu vốn và nợ hiện tại của công ty là phù hợp với 
-các nội dung trên và giúp Công ty có thể chuẩn 
-bị tốt cho các tình huống bất lợi có thể có trong 
-tương lai.
-Thực hiện việc công bố thông tin theo quy định đầy 
-đủ, đúng hạn và không bị phạt hay bị nhắc nhở.
-Công ty chưa ghi nhận bất kỳ thông tin/kết án 
-nào về giao dịch nội gián liên quan đến người nội 
-bộ và nhân viên Công ty trong 3 năm qua. 
-HĐQT ban hành Kế hoạch hoạt động cho 3 năm 
-2024 - 2026 trong đó xác định các nội dung chính 
-trong các buổi họp HĐQT cho từng tháng. 
-CƠ CẤU VÀ HOẠT ĐỘNG 
-CỦA HỘI ĐỒNG QUẢN TRỊ 
-(*) Lý do không tham dự đầy đủ: 
-Từ nhiệm từ ngày 01/08/2023
-Các cuộc họp của HĐQT
-155
-154
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-HOẠT ĐỘNG CỦA CÁC ỦY BAN THUỘC HĐQT
-HOẠT ĐỘNG CỦA ỦY BAN KIỂM TOÁN VÀ QUẢN TRỊ RỦI RO (UB KT&QTRR)
-Ủy ban KT&QTRR thực hiện giám sát thông 
-qua: (i) Trực tiếp theo dõi hoạt động của HĐQT 
-thông qua các cuộc họp, trao đổi, cách thức 
-đưa ra Nghị quyết của HĐQT; (ii) Giám sát 
-hoạt động của BĐH thông qua việc chấp hành 
-các Nghị quyết/Quyết định của HĐQT cũng 
-như cơ chế phân quyền giữa HĐQT và TGĐ; 
-(iii) Giám sát thông qua kênh báo cáo và tiếp 
-xúc với các thành viên BĐH, Kế toán trưởng, 
-Ban Kiểm toán nội bộ, Trưởng ban Pháp chế 
-và Tuân thủ; (iv) Giám sát thông qua kênh báo 
-cáo của Kiểm toán độc lập. 
-	 Ngoài việc trao đổi, thảo luận thường 
-xuyên từng vấn đề cụ thể, trong năm 2023 
-UB KT&QTRR đã họp 04 phiên, trong đó: 
-(i) Xem xét các vấn đề trọng yếu về quản 
-trị rủi ro qua đó đưa ra các nhận xét kiến 
-nghị để Ban Điều hành tổ chức thực hiện; (ii) 
-Đánh giá tình hình thực hiện kế hoạch công 
-tác kiểm toán nội bộ của Ban Kiểm toán nội 
-bộ trong hoạt động sản xuất, kinh doanh 
-theo kế hoạch đã phê duyệt.
-	 Xem xét và đánh giá các rủi ro trọng yếu 
-của Công ty; giám sát việc quản lý các rủi 
-ro trọng yếu đảm bảo rằng các rủi ro này 
-được quản lý phù hợp với khẩu vị rủi ro của 
-Công ty; giám sát để đảm bảo rằng các hoạt 
-động kiểm soát nội bộ giúp Công ty quản lý 
-tốt các rủi ro đã phát hiện.
-	 Phê duyệt Quy trình kiểm toán nội bộ, thông 
-qua báo cáo từng cuộc kiểm toán, phê duyệt 
-chỉ thị thực hiện kiến nghị của KTNB, chỉ đạo 
-Ban TGĐ tổ chức thực hiện các kiến nghị 
-của KTNB, có biện pháp xử lý kịp thời khi 
-có các kiến nghị, đề xuất của KTNB và đánh 
-giá hiệu quả hoạt động của KTNB hàng năm.
-	 Hỗ trợ HĐQT trong việc cập nhật và phê 
-duyệt Quy chế Quản trị rủi ro, Quy chế 
-Kiểm toán nội bộ. UB KT&QTRR chịu trách 
-nhiệm đề xuất về cơ cấu, tổ chức của Ban 
-Kiểm toán nội bộ về bổ nhiệm, miễn nhiệm, 
-cho thôi chức đối với Trưởng kiểm toán nội 
-bộ đến HĐQT.
-	 UB KT&QTRR đã báo cáo HĐQT về đánh 
-giá công tác kiểm toán và quản trị rủi ro của 
-Công ty trong năm 2023 trên các khía cạnh 
-: (i) Thù lao, chi phí hoạt động và các lợi ích 
-khác của UB KT&QTRR và từng thành viên UB 
-KT&QTRR; (ii) Tổng kết các cuộc họp, các kết 
-luận và kiến nghị của UB KT&QTRR; (iii) Giám 
-sát đối với kiểm toán độc lập và báo cáo tài 
-chính, tình hình hoạt động, tình hình tài chính 
-của Công ty; (iv) Kiểm soát giao dịch với các 
-bên liên quan, gồm: Đánh giá về giao dịch giữa 
-Công ty, công ty con, công ty khác do Công ty 
-nắm quyền kiểm soát trên 50% trở lên vốn điều 
-lệ với TV HĐQT, Tổng Giám đốc, người điều 
-hành khác của doanh nghiệp và những người 
-có liên quan của đối tượng đó; (v) giao dịch giữa 
-Công ty với công ty trong đó TV HĐQT, Tổng 
-Giám đốc, người điều hành khác của doanh 
-nghiệp là thành viên sáng lập hoặc là người 
-quản lý doanh nghiệp trong thời gian 03 năm 
-gần nhất trước thời điểm giao dịch; (vi) Đánh 
-giá về hệ thống kiểm soát nội bộ, kiểm toán nội 
-bộ và quản lý rủi ro của Công ty; (vii) Đánh giá 
-sự phối hợp hoạt động giữa Ủy ban KT&QTRR 
-với HĐQT, TGĐ và các cổ đông; (viii) Kế hoạch 
-hoạt động của Ủy ban trong năm 2024. 
-Kết quả đánh giá, giám sát
-	 Giám sát với đơn vị kiểm toán độc lập: UBKT 
-được giao nhiệm vụ giám sát tính độc lập của 
-đơn vị kiểm toán độc lập bao gồm cả việc đánh 
-giá các dịch vụ phi kiểm toán và báo cáo cho 
-HĐQT. Trong năm 2023, đơn vị kiểm toán độc 
-lập có cung cấp dịch vụ phi kiểm toán với các 
-mức phí dịch vụ như sau:
-HOẠT ĐỘNG CỦA ỦY BAN QUẢN TRỊ, NHÂN SỰ VÀ LƯƠNG THƯỞNG (UB QTNS&LT)
-Ngoài việc trao đổi/thảo luận thường 
-xuyên từng vấn đề cụ thể, trong năm 2023 
-UB QTNS&LT đã họp 2 lần, đã đánh giá và 
-báo cáo HĐQT về các vấn đề liên quan đến 
-quản trị, nhân sự và lương thưởng.
-Trong năm 2023, Ủy ban đã triển khai thực 
-hiện các nhiệm vụ được quy định tại Quy chế 
-ban hành theo Quyết định số 1733 QĐ/PVCFC 
-ngày 04/08/2021 của HĐQT Công ty, cụ thể 
-với các hoạt động sau:
-	 Rà soát và đánh giá về chính sách quản trị 
-Công ty và giám sát các vấn đề về quản trị 
-Công ty. Công ty đang từng bước áp dụng 
-số hóa trong nhiều khâu trong hoạt động 
-quản lý điều hành, kinh doanh thương mại, 
-sản xuất, hỗ trợ kỹ thuật đã thực sự đóng 
-góp hiệu quả trong quá trình quản lý sản 
-xuất và kinh doanh của đơn vị.
-	 Giám sát việc tuân thủ chính sách (sổ tay) 
-quản trị Công ty và Bộ quy tắc đạo đức kinh 
-doanh của Công ty: Hiện các chính sách 
-quản trị Công ty và Bộ quy tắc đạo đức 
-HOẠT ĐỘNG CỦA ỦY BAN ESG
-Năm 2023, với định hướng xây dựng khung và chiến lược phát triển triển bền vững, HĐQT đã 
-thành lập Tổ công tác ESG do TV HĐQT - Nguyễn Đức Hạnh phụ trách để triển khai thực hiện. 
-Tháng 03/2024, Ủy ban ESG chính thức được thành lập và TV HĐQT - Nguyễn Đức Hạnh giữ 
-vai trò Chủ tịch Ủy ban để tiếp tục thực thi các kế hoạch về ESG đã đề ra.
-CƠ CẤU VÀ HOẠT ĐỘNG 
-CỦA HỘI ĐỒNG QUẢN TRỊ 
-Trong năm 2023, theo quy định tại Quy chế hoạt động, các Ủy ban trực thuộc HĐQT đã thực hiện 
-các hoạt động sau.
-Phí dịch vụ kiểm toán: 927,8 triệu đồng (đã bao gồm VAT)
-Phí dịch vụ phi kiểm toán: 333,7 triệu đồng.
-	 Giám sát đối với báo cáo tài chính và tình hình tài chính của Công ty: Báo cáo tài chính của 
-Công ty được lập trên cơ sở các chuẩn mực kế toán và chế độ kế toán hiện hành, phản ánh 
-đầy đủ, trung thực, hợp lý trên khía cạnh trọng yếu tình hình tài chính của Công ty; Tình hình 
-tài chính và các chỉ số đánh giá tài chính của Công ty mẹ lành mạnh, đảm bảo khả năng thanh 
-toán, bảo toàn và phát triển vốn.
-	 Sự phối hợp hoạt động giữa Ủy ban KT&QTRR đối với hoạt động của HĐQT, Tổng Giám đốc 
-và các cổ đông chặt chẽ, dựa trên nguyên tắc minh bạch, rõ ràng, tuân thủ các quy định Pháp 
-luật, quy định Công ty nhằm đảm bảo lợi ích hài hòa của Công ty và các cổ đông.
-	 Ủy ban đã nhận được sự hợp tác, tạo điều kiện từ HĐQT, Ban Tổng Giám đốc trong việc thực 
-hiện nhiệm vụ của mình.
-kinh doanh vẫn được UB QTNS&LT giám 
-sát chặt chẽ và luôn đảm bảo tính tuân thủ.
-	 Tham mưu, tư vấn cho HĐQT về lĩnh vực tổ 
-chức, nhân sự, lương thưởng và các chế độ 
-chính sách của Công ty. UB QTNS&LT tham 
-mưu cho HĐQT về nhân sự cấp Ban Điều 
-hành và Hội đồng quản trị.
-	 Rà soát, đánh giá các vấn đề liên quan đến 
-lương thưởng và chế độ chính sách đối với 
-Ban QLĐH và cán bộ quản lý khi được trình 
-lên HĐQT xem xét, quyết định.
-	 Giám sát việc quản lý kế hoạch tiền lương 
-thù lao, tiền thưởng và chính sách phúc lợi 
-của Công ty.
-	 Rà soát các nội dung về chính sách và hoạt 
-động lương thưởng, chế độ chính sách trong 
-báo cáo thường niên của Công ty.
-	 Đánh giá năm 2023 đối với HĐQT, thành 
-viên HĐQT và các Ủy ban, thành viên các 
-Ủy ban trực thuộc HĐQT.
-157
-156
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-HOẠT ĐỘNG CỦA TỪNG THÀNH VIÊN HĐQT
-HĐQT đã phân công cho từng TV HĐQT phụ trách chuyên môn cho từng lĩnh vực. Theo đó các 
-TV HĐQT đã chủ động lên kế hoạch làm việc và định kỳ kiểm tra, giám sát, đôn đốc BĐH trong 
-việc triển khai thực hiện các Nghị quyết/Quyết định của HĐQT, chủ động trao đổi, thảo luận để 
-kịp thời đưa ra các phương hướng hoạt động SXKD, cụ thể như:
-STT
-Thành viên HĐQT
-Chức vụ
-Lĩnh vực phụ trách
-1
-Ông Trần Ngọc Nguyên
-Chủ tịch 
-HĐQT
-Thực hiện chức năng, nhiệm vụ, quyền hạn 
-của Chủ tịch HĐQT theo quy định tại Điều 
-lệ Công ty và các văn bản Pháp luật hiện 
-hành. Chịu trách nhiệm trước ĐHĐCĐ về các 
-hoạt động của HĐQT Công ty theo Điều lệ 
-Công ty. 
-Giám sát và chỉ đạo tổng thể việc thực hiện 
-các công việc thuộc thẩm quyền của HĐQT, 
-bao gồm việc xây dựng, triển khai và giám 
-sát chiến lược Công ty.
-2
-Ông Văn Tiến Thanh
-TV HĐQT 
-Tổng Giám đốc
-Thực hiện chức năng, nhiệm vụ TV HĐQT/
-Tổng Giám đốc Công ty theo quy định của 
-Pháp luật, Điều lệ Công ty. Chịu trách nhiệm 
-trước ĐHĐCĐ, HĐQT và v về công tác điều 
-hành hoạt động sản xuất kinh doanh của 
-Công ty.
-Chịu trách nhiệm thực hiện hiệu quả các 
-Nghị quyết, Quyết định của HĐQT.
-3
-Ông Trần Mỹ
-TV HĐQT
-Giám sát và chỉ đạo thực hiện các công việc 
-thuộc thẩm quyền của HĐQT liên quan đến 
-các lĩnh vực: Kế hoạch, Đầu tư, Bảo hiểm, 
-Quan hệ cổ đông, công tác nội chính văn 
-phòng thuộc HĐQT và các nhiệm vụ khác tại 
-các Ủy ban: KT&QTRR và QTNS&LT.
-STT
-Thành viên HĐQT
-Chức vụ
-Lĩnh vực phụ trách
-4
-Ông Nguyễn Đức Hạnh
-TV HĐQT
-Giám sát và chỉ đạo thực hiện các công việc 
-thuộc thẩm quyền của HĐQT liên quan đến 
-các lĩnh vực: Kinh doanh, marketing, công 
-nghệ thông tin, thương mại dịch vụ, đào tạo, 
-an sinh xã hội, văn hóa doanh nghiệp, công 
-tác đoàn thể, công tác xây dựng hệ thống 
-quản trị theo thông lệ tốt/tiên phong của 
-HĐQT.
-Phụ trách việc triển khai xây dựng và thực 
-hành ESG, bao gồm cả biến đổi khí hậu. Từ 
-khi thành lập Ủy ban ESG, ông Hạnh kiêm 
-giữ vai trò Chủ tịch Ủy ban ESG.
-5
-Ông Lê Đức Quang
-TV HĐQT
-Giám sát và chỉ đạo thực hiện các công 
-việc thuộc thẩm quyền của HĐQT liên quan 
-đến các lĩnh vực: Hoạt động của Nhà máy 
-Đạm Cà Mau, các nhà máy của Công ty con 
-PPC, công tác an ninh, an toàn sức khỏe môi 
-trường, phòng cháy chữa cháy, định mức 
-kinh tế kỹ thuật, ISO, pháp chế, tuân thủ và 
-thực hiện các nhiệm vụ khác tại Ủy ban Kiểm 
-toán và Quản trị rủi ro.
-6
-Ông Trương Hồng
-TV HĐQT  
-độc lập
-Giám sát và chỉ đạo thực hiện các công việc 
-thuộc thẩm quyền của HĐQT liên quan đến 
-lĩnh vực: Nghiên cứu phát triển (R&D). 
-Chủ tịch Ủy ban Quản trị - Nhân sự và Lương 
-thưởng.
-7
-Bà Đỗ Thị Hoa
-TV HĐQT  
-độc lập
-Giám sát và chỉ đạo thực hiện các công việc 
-thuộc thẩm quyền của HĐQT liên quan đến 
-các lĩnh vực: Tài chính kế toán, kiểm toán, 
-kiểm tra, giám sát, Kiểm soát nội bộ, QTRR. 
-Chủ tịch Ủy ban Kiểm toán và Quản trị rủi ro
-Trong thời gian TV HĐQT - Trần Mỹ từ nhiệm để nghỉ hưu theo chế độ (từ 01/08/2023), các 
-công việc của ông Trần Mỹ được HĐQT phân công cho TV HĐQT Nguyễn Đức Hạnh đảm nhiệm.
-Tất cả các thành viên HĐQT trên cơ sở nhiệm vụ được phân công đã thực hiện tốt vai trò và 
-trách nhiệm của mình, góp phần giúp Công ty hoàn thành xuất sắc các chỉ tiêu kế hoạch năm 
-2023 được ĐHĐCĐ giao.
-CƠ CẤU VÀ HOẠT ĐỘNG 
-CỦA HỘI ĐỒNG QUẢN TRỊ 
-159
-158
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-CƠ CẤU VÀ HOẠT ĐỘNG 
-CỦA BAN KIỂM SOÁT
-THÀNH VIÊN VÀ CƠ CẤU CỦA BKS
-STT
-Họ và tên
-Chức vụ
-Ngày bắt đầu/không còn là 
-thành viên BKS
-Tỷ lệ sở hữu 
-cổ phiếu 
-cuối kỳ
-Ngày bổ 
-nhiệm
-Ngày miễn 
-nhiệm
-1
-Bà Phan Thị Cẩm Hương 
-Trưởng Ban 
-Kiểm soát
-09/01/2015
-0,000038%
-2
-Ông Đỗ Minh Đương 
-Kiểm soát viên
-27/04/2021
-0,000378%
-3
-Ông Trần Văn Bình (*)
-Kiểm soát viên
-27/04/2021
-12/06/2023
-0,000002%
-4
-Ông Lê Cảnh Khánh (**)
-Kiểm soát viên 12/06/2023
-0,000000%
-(*), (**) Ngày 12/06/2023, tại phiên họp ĐHĐCĐ thường niên, ĐHĐCĐ đã miễn nhiệm KSV Trần Văn Bình 
-và bầu ông Lê Cảnh Khánh làm KSV Công ty
-HOẠT ĐỘNG CỦA BAN KIỂM SOÁT
-Dựa trên Quy chế tổ chức hoạt động và kế hoạch hoạt động của Ban Kiểm soát (BKS) được 
-ĐHĐCĐ thông qua tại phiên họp ĐHĐCĐ thường niên năm 2023, các hoạt động trong năm của 
-BKS như sau:
-	 BKS đã chủ động triển khai công tác kiểm tra, giám sát việc quản lý, điều hành của HĐQT, Ban 
-TGĐ; kiểm tra, giám sát việc tuân thủ các quy định của Pháp luật, Điều lệ Công ty, Nghị quyết 
-ĐHĐCĐ, Quy chế, Quy định của Công ty; kiểm tra, giám sát việc triển khai hoạt động sản xuất 
-kinh doanh và tình hình tài chính, công tác đầu tư… của Công ty một cách thường xuyên, liên 
-tục và chặt chẽ. Thực hiện quyền hạn và trách nhiệm một cách trung thực, cẩn trọng, tuân thủ 
-quy định của Pháp luật, Điều lệ Công ty, Quy chế hoạt động của BKS.
-	 Công tác kiểm tra, giám sát được thực hiện thông qua việc xem xét, phân tích, đánh giá và 
-có ý kiến, khuyến nghị đối với các văn bản, quy chế trình HĐQT phê duyệt, thông qua; Giám 
-sát công tác đầu tư xây dựng và triển khai định hướng chiến lược, kế hoạch sản xuất kinh 
-doanh thông qua việc tham dự các cuộc họp, hội thảo và xem xét các báo cáo liên quan; Thẩm 
-định các báo cáo về hoạt động sản xuất kinh doanh và báo cáo tài chính hàng quý, bán niên, 
-năm của Công ty một cách cẩn trọng, trung thực, khách quan; Thực hiện kiểm tra hoạt động, 
-chuyên đề tại một số ban chức năng, đơn vị trực thuộc và đơn vị thành viên của Công ty; Giám 
-sát việc thực hiện kiến nghị các đoàn thanh tra, kiểm tra; Tham gia đầy đủ các cuộc họp của 
-HĐQT, các cuộc họp giao ban và các cuộc họp khác có liên quan của Công ty. 
-	 Trên cơ sở các hoạt động kiểm tra giám sát tình hình hoạt động thực tế tại đơn vị nêu trên, BKS 
-đã có những đánh giá cụ thể về kết quả hoạt động tại đơn vị, kịp thời phát hiện những sai sót, hạn 
-chế, gian lận, những rủi ro tiềm ẩn và có cảnh báo sớm cũng như góp ý, khuyến nghị đến HĐQT, 
-TGĐ Công ty trong công tác quản lý, điều hành hoạt động sản xuất kinh doanh tại Công ty.
-Với công tác kiểm tra, giám sát một cách chủ động và bám sát nghị quyết của ĐHĐCĐ, trong 
-năm 2023 BKS đã hoàn thành tốt kế hoạch hoạt động đã được ĐHĐCĐ thông qua.
-HOẠT ĐỘNG CỦA TỪNG THÀNH VIÊN BAN KIỂM SOÁT
-Ban Kiểm soát gồm có 03 thành viên, các Kiểm soát viên thực hiện chức trách, nhiệm vụ một 
-cách độc lập dựa trên sự phân công công việc cụ thể như sau:
-Phụ trách chung trong việc điều hành hoạt động của BKS trong năm như: Triệu 
-tập các cuộc họp BKS, tham khảo ý kiến với chủ tịch HĐQT đối với các báo cáo 
-của BKS trình ĐHĐCĐ và các công việc chung khác thuộc thẩm quyền Trưởng 
-Ban Kiểm soát. 
-Tổ chức xây dựng kế hoạch kiểm tra giám sát năm 2023 trình ĐHĐCĐ và đã 
-được thông qua, chủ trì tổ chức triển khai thực hiện đúng tiến độ.
-Giám sát công tác kinh doanh, marketing; công tác tài chính, kế toán, thống kê của 
-công ty; chủ trì thẩm định các báo cáo tài chính quý, bán niên, năm của Công ty.
-Giám sát triển khai thực hiện kế hoạch sản xuất kinh doanh năm 2023 và tình 
-hình xây dựng kế hoạch năm 2024 của Công ty.
-Rà soát, kiểm tra và đánh giá hiệu lực và hiệu quả của hệ thống kiểm soát nội bộ, 
-kiểm toán nội bộ, quản lý rủi ro và cảnh báo sớm của PVCFC trong năm 2023. 
-Xem xét, đề xuất lựa chọn đơn vị kiểm toán độc lập thực hiện kiểm toán BCTC 
-năm 2023 của Công ty và trao đổi, thảo luận với kiểm toán độc lập những vấn 
-đề tồn tại, vướng mắc trong quá trình soát xét và kiểm toán BCTC.
-Trình các báo cáo của BKS năm 2023 lên ĐHĐCĐ, cổ đông lớn và chủ trị lập 
-các báo cáo năm 2024 theo quy định của Luật Doanh nghiệp và Điều lệ Công ty 
-và Quy chế BKS.
-Tham gia các cuộc họp HĐQT, các cuộc họp giao ban và các cuộc họp khác của 
-Công ty trong năm 2023 đầy đủ.
-BÀ PHAN THỊ CẨM HƯƠNG  
-Trưởng Ban Kiểm soát chuyên trách
-171
-170
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-QUẢN TRỊ 
-RỦI RO
-Hệ thống quản trị rủi ro doanh nghiệp PVCFC đã sớm được xây 
-dựng từ năm 2018. Từ đó đến nay, công tác quản trị rủi ro luôn 
-được chú trọng và ngày càng hoàn thiện. Năm 2019, Công ty đã 
-tự nghiên cứu và xây dựng thành công phần mềm quản trị rủi ro, 
-chính thức đưa vào sử dụng từ năm 2020. Đây là bước ngoặt đánh 
-dấu sự nỗ lực tiên phong nhằm gắn hoạt động quản trị rủi ro đi 
-liền với vận hành thực tiễn hàng ngày của Công ty, đồng thời tạo 
-dấu mốc một bước chuyển đổi số mạnh mẽ trong hoạt động quản 
-trị rủi ro. 
-PVCFC áp dụng mô hình “Ba tuyến” để hỗ trợ HĐQT và Tổng Giám đốc chịu trách nhiệm giám 
-sát và vận hành hoạt động QTRR, thông qua việc nhận diện các yếu tố có thể gây ảnh hưởng tới 
-việc thực hiện sứ mệnh, tầm nhìn, các mục tiêu chiến lược của Công ty và đưa ra các biện pháp 
-xử lý để giảm thiểu các mối đe dọa, tận dụng được các cơ hội.
-MÔ HÌNH BA TUYẾN GỒM
-TUYẾN THỨ NHẤT
-là các Đơn vị trực 
-thuộc Ban Điều hành, 
-là các chủ sở hữu  
-rủi ro.
-TUYẾN THỨ HAI
-là Ban PCTT, thực hiện 
-chức năng kiểm tra 
-giám sát, tư vấn cho 
-tuyến thứ nhất. 
-TUYẾN THỨ BA 
-là Ban Kiểm toán nội bộ 
-- UB KT&QTRR thuộc 
-HĐQT, thực hiện chức 
-năng kiểm toán nội bộ 
-đối với tuyến thứ nhất 
-và thứ hai.
-HỘI ĐỒNG QUẢN TRỊ
-ỦY BAN NHÂN SỰ VÀ 
-LƯƠNG THƯỞNG
-ỦY BAN MÔI TRƯỜNG  
-XÃ HỘI VÀ QUẢN TRỊ
-ỦY BAN KIỂM TOÁN VÀ 
-QUẢN TRỊ RỦI RO
-BAN TỔNG GIÁM ĐỐC
-KIỂM TOÁN NỘI BỘ
-QUẢN TRỊ RỦI RO
-KIỂM SOÁT HOẠT ĐỘNG
-TỰ KIỂM TRA, ĐÁNH GIÁ
-QUẢN TRỊ RỦI RO  
-TRONG CÁC HOẠT ĐỘNG 
-NGHIỆP VỤ
-TUYẾN THỨ NHẤT
-Kiểm tra công tác QTRR 
-của tuyến thứ 1
-Kiểm tra công tác QTRR 
-của tuyến thứ 1 và 2
-TUYẾN THỨ HAI
-TUYẾN THỨ BA
-Hình: Mô hình 3 tuyến của PVCFC
-185
-184
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-QUẢN TRỊ 
-RỦI RO
-CÁC HOẠT ĐỘNG RÀ SOÁT, ĐÁNH GIÁ RỦI RO TRONG NĂM 2023
-Từ khi triển khai quản trị rủi ro, Công ty đã ban hành Tuyên ngôn về Khẩu vị rủi ro, Mức độ chấp 
-nhận rủi ro và Thước đo rủi ro; xây dựng quy chế cho hoạt động quản trị rủi ro, quy trình thực 
-hiện cũng như ban hành Hồ sơ rủi ro cấp Công ty và cấp đơn vị. 
-Thực tiễn vận hành qua các năm, khung cơ sở pháp lý về quản trị rủi ro trên luôn được Công ty 
-rà soát, cập nhật lại cho phù hợp mục tiêu chiến lược của Công ty trong từng thời kỳ. Năm 2023, 
-trước những khó khăn trong nước và thế giới đặt ra ngày càng nhiều thách thức cho hoạt động 
-sản xuất kinh doanh phân bón, để đáp ứng yêu cầu tình hình mới, Công ty đã rà soát, đánh giá, 
-cập nhật lại các văn bản, quy định hiện hành có liên quan hoạt động rủi ro. 
-Trong năm vừa qua, Hội đồng quản trị Công ty đã ban hành cập nhật lại Quy chế quản trị rủi 
-ro, đồng thời cập nhật lại Tuyên ngôn về Khẩu vị rủi ro, Mức độ chấp nhận rủi ro và Thước đo 
-rủi ro. Trên cơ sở đó, Tổng Giám đốc ban hành lại Quy trình quản trị rủi ro. Ban Điều hành rà 
-soát, đánh giá, nhận diện và ban hành Hồ sơ rủi ro cấp Công ty và Hồ sơ rủi ro cấp Đơn vị, theo 
-đó giúp nhận diện từng nguyên nhân gốc rễ dẫn tới rủi ro, đề ra các giải pháp ứng phó và hành 
-động chi tiết, phân công các đơn vị đầu mối và đơn vị phối hợp nhằm đảm bảo hiệu quả mục tiêu 
-kiểm soát rủi ro.
-Trên cơ sở phân loại rủi ro theo 4 nhóm chính tại Quy chế quản trị rủi ro, PVCFC đã nhận diện 
-các rủi ro trọng yếu cấp Công ty như sau:
-Rủi ro về biến động giá trong hoạt động kinh doanh hàng tự doanh (Kali, DAP, v.v) 
-ảnh hưởng đến kế hoạch lợi nhuận được phê duyệt: Khả năng biến động giá làm 
-giảm hiệu quả hoạt động kinh doanh hàng tự doanh (Kali, DAP, v.v) dẫn đến giảm lợi 
-nhuận đã được phê duyệt theo kế hoạch của Công ty.
-Rủi ro về cạnh tranh trong việc tiêu thụ sản phẩm với các nhà sản xuất trong khu 
-vực: Khả năng xảy ra cạnh tranh trong việc thụ sản phẩm với các nhà sản xuất 
-trong khu vực gây ảnh hưởng tiêu cực tới kế hoạch doanh thu và sản lượng đã 
-được phê duyệt.
-RỦI RO CHIẾN LƯỢC
-Rủi ro về nguy cơ dừng máy, giảm tải do sự cố giàn cấp khí dẫn đến mất sản lượng: 
-Khả năng dừng máy do gián đoạn nguồn khí (giàn bị sự cố có thời gian khắc phục 
->24h hoặc thiếu khí) dẫn đến mất sản lượng.
-Rủi ro hư hỏng dây chuyền máy móc thiết bị sản xuất dẫn đến mất sản lượng: Khả 
-năng dây chuyền máy móc thiết bị sản xuất ở nhà máy bị hư hỏng rất khó có thể 
-thay thế hoặc mất nhiều thời gian sửa chữa dẫn đến mất sản lượng.
-Rủi ro dòng sản phẩm mang thương hiệu Phân bón Cà Mau của Công ty (Hữu cơ, 
-NPK) không đạt chất lượng hóa tính và/hoặc lý tính theo tiêu chuẩn công bố: Khả 
-năng dòng sản phẩm mang thương hiệu Phân bón Cà Mau của Công ty (Hữu cơ, NPK) 
-không đạt chất lượng hóa tính và/hoặc lý tính theo tiêu chuẩn công bố, gây ảnh 
-hưởng đến danh tiếng và phát sinh các chi phí liên quan đến thu hồi sản phẩm, đền 
-bù cho khách hàng.
-Rủi ro an ninh mạng và bảo mật thông tin: 
-	»
-Khả năng các vụ tấn công mạng và lỗ hổng an ninh mạng khi xảy ra có thể đe dọa 
-đến tính toàn vẹn của các tài sản trí tuệ và các thông tin nhạy cảm khác, làm gián 
-đoạn hoạt động của Công ty, cũng như ảnh hưởng đến tình hình tài chính và kết 
-quả hoạt động của Công ty. 
-	»
-Khả năng bị tấn công mạng do Ransomware làm hệ thống mã hóa các nền tảng hệ 
-thống máy chủ, lưu trữ và các hệ thống ứng dụng, dữ liệu, backup.
-	»
-Khả năng các thông tin mật liên quan đến nhân viên, khách hàng hoặc hoạt động 
-của Công ty bị thất thoát ra bên ngoài dẫn đến những thiệt hại về doanh thu, tài 
-sản, danh tiếng và các vấn đề khác.
-RỦI RO HOẠT ĐỘNG 
-RỦI RO CHIẾN LƯỢC
-RỦI RO TUÂN THỦ
-RỦI RO TÀI CHÍNH
-RỦI RO HOẠT ĐỘNG
-187
-186
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-QUẢN TRỊ 
-RỦI RO
-CÁC HOẠT ĐỘNG RÀ SOÁT, ĐÁNH GIÁ RỦI RO TRONG NĂM 2023 (TIẾP THEO)
-QUẢN TRỊ RỦI RO THEO ĐỊNH HƯỚNG ESG
-Rủi ro vi phạm quy định về an toàn, sức khỏe và môi trường: Khả năng Công ty vi 
-phạm các quy định về môi trường, sức khỏe, an toàn, an ninh và các yêu cầu về giấy 
-phép hoặc không đảm bảo các trách nhiệm về môi trường. Từ đó, dẫn đến các chấn 
-thương cá nhân nghiêm trọng, thiệt hại về người, gián đoạn hoạt động sản xuất kinh 
-doanh, gây ra các tổn thất lớn về tài chính.
-RỦI RO TUÂN THỦ
-PVCFC đang thực hiện quản trị tốt tài chính Công ty nên chưa nhận diện rủi ro trọng 
-yếu cấp Công ty liên quan về tài chính.
-Các rủi ro trên được đánh giá xếp hạng về khả năng xảy ra và mức độ ảnh hưởng trên Bản đồ 
-nhiệt rủi ro cấp Công ty:
-RỦI RO TÀI CHÍNH
-5 - Rất cao
-00.13
-00.10    00.16
-4 - Cao
-00.12
-00.7    00.11
-3 - Trung bình
-00.17
-2 - Thấp
-1 - Rất thấp
-1 - Rất thấp
-2 - Thấp
-3 - Trung Bình
-4 - Cao
-5 - Rất cao
-Mức độ ảnh hưởng
-Khả năng xảy ra
-BẢN ĐỒ NHIỆT RỦI RO CẤP CÔNG TY CỦA PVCFC
-Theo nhu cầu tất yếu của xu hướng phát triển bền vững đối với mọi doanh nghiệp, PVCFC ngày 
-càng quan tâm hơn đến công tác quản trị dựa trên 3 yếu tố: Môi trường, xã hội và quản trị (ESG). 
-Công ty ý thức rằng việc thực hành ESG mang đến nhiều cơ hội hơn, từ những lợi ích về tài chính 
-như mở rộng cơ hội thu hút vốn đầu tư hay những giá trị kinh tế lâu dài như duy trì hoạt động 
-kinh doanh bền vững, đảm bảo uy tín và nâng cao thương hiệu doanh nghiệp. 
-Trên cơ sở hệ thống quản trị rủi ro đã được xây dựng từ sớm, PVCFC luôn thực hiện rà soát, 
-đánh giá lại các rủi ro trọng yếu định kỳ hàng năm. Thực hành ESG, PVCFC phân loại danh mục 
-rủi ro theo 3 yếu tố E - S - G giúp cho việc quản lý, kiểm soát các rủi ro tiềm ẩn bám sát theo 
-định hướng về môi trường, xã hội và quản trị. 
-Riêng về môi trường, PVCFC luôn đảm bảo hoạt động vận hành được an toàn, đáp ứng các quy 
-định của Nhà nước về khí thải, chất thải, các tiêu chuẩn QHSE và các tiêu chuẩn liên quan. Do 
-đó, rủi ro về vi phạm an toàn, sức khỏe và môi trường luôn được kiểm soát chặt chẽ, không để 
-xảy ra sự cố hay vi phạm vượt ngưỡng cho phép.
-Với lợi ích to lớn mà ESG mang lại, PVCFC luôn sẵn sàng hoàn thiện, nâng cao hơn công tác 
-quản trị doanh nghiệp nói chung, quản trị rủi ro nói riêng, với mong muốn trở thành một trong 
-những đơn vị tiên phong về thực hành ESG trong Tập đoàn nói riêng, tại Việt Nam nói chung 
-cũng như ngày càng nâng cao hơn vị thế của mình trong khu vực, vị thế của sự phát triển bền 
-vững và thịnh vượng hơn.
-189
-188
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-CÁC HOẠT ĐỘNG 
-KIỂM SOÁT NỘI BỘ TẠI PVCFC
-Trong quá trình hoạt động luôn tiềm ẩn các rủi ro có thể ảnh hưởng đến việc đạt được các mục tiêu 
-của doanh nghiệp. PVCFC nhận thức rõ một hệ thống kiểm soát nội bộ hiệu quả phải đảm bảo ngăn 
-ngừa và giảm thiểu được các rủi ro có thể xảy ra. Để đảm bảo ổn định trong điều kiện hiện nay và 
-phát triển bền vững trong tương lai, PVCFC xây dựng, hoàn thiện và chuẩn hóa hệ thống kiểm soát 
-nội bộ theo mô hình tiên tiến hiện nay là mô hình 3 tuyến (được ban hành tháng 07/2020 bởi Hiệp 
-hội Kiểm toán Nội bộ Hoa Kỳ - IIA) trên cơ sở phù hợp với đặc thù của doanh nghiệp.
-Theo thông lệ tốt, PVCFC tập trung thiết lập hoàn thiện hệ thống các quy tắc, cơ chế, chính sách 
-nhằm tối ưu hoạt động và giảm thiểu các rủi ro trọng yếu, tạo ra nhiều giá trị gia tăng và nâng cao 
-vị thế cạnh tranh của Công ty so với các đối thủ cùng ngành. PVCFC đã triển khai Dự án khung 
-chính sách để kiện toàn lại hệ thống quản trị của Công ty với lộ trình bao gồm 4 hạng mục:
-1
-2
-3
-4
-Chuẩn hóa lại 
-chuỗi giá trị
-Chuẩn hóa lại Hệ 
-thống 
-văn 
-bản 
-quy phạm nội bộ 
-và xây dựng Bảng 
-phân quyền RACI 
-cho các quy chế
-Xây dựng Ma trận 
-rủi ro kiểm soát 
-cho các quy trình
-Số hóa các quy 
-trình nghiệp vụ. 
-Theo đó, chuẩn hóa lại chuỗi giá trị là tiền đề để hoạch định lại các hoạt động liên quan đến việc 
-tập trung tạo ra hoặc gia tăng thêm giá trị cho sản phẩm và dịch vụ mà Công ty cung cấp và các 
-hoạt động trọng yếu có khả năng mang lợi thế cạnh tranh bền vững của Công ty 
-Dựa trên chuỗi giá trị, PVCFC tiến tới ban hành Bảng phân quyền (RACI) cho các quy chế để 
-giúp Hội đồng quản trị, Tổng Giám đốc và các ban, đơn vị trong việc phân cấp, phân quyền thực 
-hiện theo từng hoạt động của chuỗi giá trị chứ không thực hiện rời rạc theo từng phòng ban chức 
-năng. Tiếp đến, PVCFC xác định các chốt kiểm soát trọng yếu và xây dựng ma trận kiểm soát 
-cho các quy trình. Điều này giúp tuyến 1 (các phòng ban) xác định được các rủi ro trong nghiệp 
-vụ công việc và các giải pháp ứng phó khi rủi ro này xảy ra; tuyến 2, 3 đồng bộ dữ liệu về hồ sơ 
-rủi ro hoạt động/quy trình đầu vào phục vụ cho công tác kiểm tra giám sát theo định hướng rủi 
-ro cũng như tạo điều kiện giúp việc ra quyết định của cấp có thẩm quyền nhanh chóng hơn nhờ 
-lược bỏ bớt các chốt chặn hoặc các điểm kiểm soát không cần thiết. Trên kết quả đạt được, sau 
-khi các quy trình được chuẩn hóa, là bước số hóa quy trình nghiệp vụ thông qua phần mềm văn 
-phòng điện tử (EO), ERP và các phần mềm khác, giúp các thông tin, dữ liệu được kết nối thông 
-suốt, hỗ trợ đẩy nhanh công tác phối hợp giữa các phòng ban và quá trình ra quyết định của cấp 
-có thẩm quyền.
-ĐƠN VỊ GIÁM SÁT (HĐQT)
-Chịu trách nhiệm với các bên liên quan trong việc giám sát Công ty
-BAN ĐIỀU HÀNH
-Đưa ra kế hoạch hành động (bao gồm quản trị 
-rủi ro) để đạt được các mục tiêu của Công ty
-VAI TRÒ  
-TUYỀN ĐẦU TIÊN
-Xây dựng và duy trì 
-cấu trúc và quy trình 
-cho việc vận hành và 
-quản trị rủi ro; thực 
-hiện tuân thủ theo các 
-vấn đề về luật, quy 
-định và đạo đức
-VAI TRÒ  
-TUYỀN THỨ HAI
-Hỗ trợ chuyên môn, 
-giám sát, và xử lý về 
-các vấn đề liên quan 
-đến rủi ro bao gồm: 
-hệ thống QTRR doanh 
-nghiệp, quản lý tuân 
-thủ; đảm bảo chất 
-lượng, phát triển bền 
-vững; phân tích và 
-báo cáo về hệ thống 
-kiểm soát nội bộ
-VAI TRÒ  
-TUYỀN THỨ BA
-Đảm bảo tính độc 
-lập, khách quan và 
-tư vấn về các vấn đề 
-liên quan đến việc đạt 
-được mục tiêu được 
-đề ra của Công ty
-KIỂM TOÁN NỘI BỘ
-Chức năng đánh giá 
-độc lập
-Dịch vụ đảm bảo độc lập
-Vai trò: Tính liêm chính, đường lối lãnh đạo và sự minh bạch
-Chú thích
- Chịu trách nhiệm, luồng báo cáo
- Giao trách nhiệm, hướng dẫn, cung cấp tài nguyên, giám sát
- Sắp xếp, phối hợp giao tiếp, hợp tác
-Hình: Mô hình 3 tuyến
-ĐÁNH GIÁ TÌNH HÌNH THỰC HIỆN QUẢN TRỊ 
-CÔNG TY DỰA TRÊN THẺ ĐIỂM QUẢN TRỊ CÔNG 
-TY KHU VỰC ASEAN
-Báo cáo về tình hình thực hiện Thẻ điểm Quản trị công ty khu vực ASEAN được trình bày chi tiết 
-tại link: https://www.pvcfc.com.vn/quan-he-dau-tu/phat-trien-ben-vung/thuc-hien-acgs
-191
-190
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH
-
-ĐỊNH HƯỚNG CHIẾN LƯỢC PHÁT TRIỂN BỀN VỮNG
-TỔNG QUAN
-PHÁT TRIỂN BỀN VỮNG VÀ CHUỖI GIÁ TRỊ
-KHUNG 
-PHÁT TRIỂN BỀN VỮNG CỦA PVCFC
-Phân tích tác động của các hoạt động của PVCFC 
-xuyên suốt chuỗi giá trị của Công ty
-Phân tích kỳ vọng và mối quan tâm của 
-các bên có lợi ích liên quan
-Phân tích các quy định của luật pháp Việt Nam 
-Tầm nhìn và sứ mệnh của Công ty
-Chiến lược kinh doanh dài hạn của Công ty
-Phân tích bối cảnh PTBV ở quy mô quốc tế, 
-trong nước cũng như trong ngành Phân bón
-Định hướng PTBV của PVCFC đảm bảo gắn với tầm nhìn, mục tiêu chung là tạo ra giá trị thực 
-cho các đối tượng có lợi ích liên quan và tính đến các xu hướng của ngành và thế giới bao gồm 
-nhưng không giới hạn ở các vấn đề như Biến đổi khí hậu, năng lượng, kinh tế tuần hoàn, xử lý 
-chất thải, quyền và phúc lợi của nhân viên,…
-Là một doanh nghiệp sản xuất và kinh doanh trong lĩnh vực phân bón, các hoạt động của PVCFC 
-có các tác động đến môi trường và xã hội xuyên suốt chuỗi giá trị. Chúng tôi ý thức được tầm 
-quan trọng của việc nhận biết, đánh giá và quản lý tác động của các hoạt động sản xuất kinh 
-doanh của PVCFC đến các yếu tố môi trường và xã hội xuyên suốt chuỗi giá trị của PVCFC.
-PVCFC xác định  
-định hướng chiến lược 
-PTBV của mình dựa 
-trên các yếu tố sau:
-R&D
-NGUYÊN LIỆU 
-ĐẦU VÀO
-SẢN XUẤT
-PHÂN PHỐI
-SỬ DỤNG
-QUẢN LÝ
-CHẤT THẢI
-R&D
-Ngay từ khâu nghiên cứu, Chúng tôi đã phân tích các ảnh hưởng của sản phẩm của Chúng tôi tới 
-các yếu tố như phát thải khí nhà kính, nước, sức khỏe đất cũng như đa dạng sinh học. Dựa trên 
-các hiểu biết của Chúng tôi về các tác động này, Chúng tôi tạo ra các sản phẩm thân thiện hơn 
-với môi trường và với những người nông dân. 
-Nguyên liệu đầu vào - Sản xuất - Phân phối
-Chúng tôi hiểu được tác động của việc sử dụng nguyên liệu đầu vào tới môi trường cũng như các 
-tác động khác trong quá trình sản xuất. Do đó Chúng tôi luôn đặt mục tiêu hàng năm để tiết kiệm 
-nguyên vật liệu đầu vào cũng như tăng cường hiệu quả sử dụng năng lượng trong quá trình sản 
-xuất. PVCFC thực hiện hàng loạt các sáng kiến để cải tiến hiệu suất sử dụng nguyên liệu đầu 
-vào và giảm năng lượng tiêu thụ bình quân trên sản phẩm.
-Sử dụng
-Chúng tôi cũng hiểu được các tác động của việc sử dụng các sản phẩm phân bón đến môi trường, 
-nước, đất và đa dạng sinh học. Chúng tôi cũng đã, đang và sẽ thực hiện nhiều biện pháp để tăng 
-cường hiểu biết và thực hành sử dụng phân bón bền vững của người nông dân qua đó giảm thiểu 
-tác động đến môi trường từ việc sử dụng phân bón.
-Quản lý chất thải
-Chúng tôi cũng đang trong quá trình phân tích và quản lý các tác động của các chất thải trong 
-chuỗi giá trị của Chúng tôi. Chúng tôi đã quản lý và xử lý các chất thải trong quá trình sản 
-xuất theo như quy định của luật pháp. Chúng tôi đang nghiên cứu các tác động của chất thải 
-trong quá trình sử dụng phân bón, gồm cả các tác động của các bao bì phân bón đến môi trường 
-và xã hội.
-199
-198
-PHÂN BÓN CÀ MAU   BÁO CÁO THƯỜNG NIÊN 2023
-I - TỔNG QUAN VỀ PVCFC
-II -  CHIẾN LƯỢC PHÁT TRIỂN
-III - BÁO CÁO HOẠT ĐỘNG NĂM 2023
-IV - QUẢN TRỊ CÔNG TY
-V - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-VI - BÁO CÁO TÀI CHÍNH

@@ -1,140 +1,192 @@
-18
-19
 1.4	 Định hướng phát triển
-1.4.1	 Các mục tiêu tài chính tín dụng chủ 
+1.4.1	 Các mục tiêu tài chính tín dụng chủ
 yếu năm 2022
 •	 Tổng tài sản tăng 11%, ước đạt 588.187 tỷ đồng;
 •	 Tiền gửi khách hàng tăng 11%, ước đạt 421.897 tỷ đồng;
 •	 Dư nợ cho vay tăng 10% (*), ước đạt 398.299 tỷ đồng;
 •	 Lợi nhuận trước thuế Tập đoàn khoảng 15.018 tỷ đồng;
 •	 Tỷ lệ nợ xấu dưới 2%.
-(*) Theo Công văn số 856/NHNN-CSTT ngày 
-21/02/2022 v/v tăng trưởng tín dụng năm 2022. Chỉ 
-tiêu này sẽ được điều chỉnh tăng đến mức cao hơn khi 
-có sự chấp thuận của Ngân hàng Nhà nước Việt Nam. 
-1.4.2  Chiến lược phát triển trung và dài hạn
-ACB trong chiến lược phát triển 5 năm, giai đoạn 
-2019-2024, có tầm nhìn là ngân hàng bán lẻ hàng đầu, 
-có tăng trưởng tổng thu nhập ở mức cao, đem lại trải 
-nghiệm khách hàng tốt nhất, và có tỷ suất lợi nhuận 
-trên vốn chủ sở hữu (ROE) từ 20%/năm trở lên; tập 
-trung cho các phân đoạn mục tiêu ở khách hàng cá 
-nhân, doanh nghiệp nhỏ và vừa, đồng thời phát triển 
+(*) Theo Công văn số 856/NHNN-CSTT ngày
+21/02/2022 v/v tăng trưởng tín dụng năm 2022. Chỉ
+tiêu này sẽ được điều chỉnh tăng đến mức cao hơn khi
+có sự chấp thuận của Ngân hàng Nhà nước Việt Nam.
+2019-2024, có tầm nhìn là ngân hàng bán lẻ hàng đầu,
+có tăng trưởng tổng thu nhập ở mức cao, đem lại trải
+nghiệm khách hàng tốt nhất, và có tỷ suất lợi nhuận
+trên vốn chủ sở hữu (ROE) từ 20%/năm trở lên; tập
+trung cho các phân đoạn mục tiêu ở khách hàng cá
+nhân, doanh nghiệp nhỏ và vừa, đồng thời phát triển
 có chọn lọc khách hàng doanh nghiệp lớn.
-Để hiện thực hóa tầm nhìn đó, ACB đặt ra mục tiêu 
+Để hiện thực hóa tầm nhìn đó, ACB đặt ra mục tiêu
 tăng trưởng như sau:
 •	Tổng tài sản dự kiến tăng bình quân 15%/năm;
 •	Huy động tăng 15%/năm;
 •	Dư nợ cho vay tăng 15%/năm;
 •	Lợi nhuận trước thuế tăng khoảng 12% - 20%/năm;
 •	Tỷ lệ nợ xấu dưới 2%.
-1.4.3	 Tình hình thực hiện các dự án chiến 
+1.4.3	 Tình hình thực hiện các dự án chiến
 lược trong năm 2021
-Trong năm 2021, ACB tiếp tục thực hiện chiến lược 5 năm 
-(2019 – 2024) thông qua các dự án (sáng kiến) chiến lược 
+Trong năm 2021, ACB tiếp tục thực hiện chiến lược 5 năm
+(2019 – 2024) thông qua các dự án (sáng kiến) chiến lược
 do Văn phòng Quản lý Chuyển đổi (TMO) phụ trách.
-1.4.4	 Các dự án chiến lược đang triển khai 
-1.4.4.1	 Phát triển Hệ giá trị mang lại cho khách hàng 
-cá nhân 
-Trong năm 2021, ACB đã triển khai các giải pháp như 
-hành trình vay mua nhà trực tuyến và thẻ phi vật lý phát 
-hành trực tuyến. Dự án phát triển ứng dụng ngân hàng 
-số mới cũng được khởi tạo và sẽ có những giao phẩm 
+1.4.4	 Các dự án chiến lược đang triển khai
+1.4.4.1	 Phát triển Hệ giá trị mang lại cho khách hàng
+cá nhân
+Trong năm 2021, ACB đã triển khai các giải pháp như
+hành trình vay mua nhà trực tuyến và thẻ phi vật lý phát
+hành trực tuyến. Dự án phát triển ứng dụng ngân hàng
+số mới cũng được khởi tạo và sẽ có những giao phẩm
 thử nghiệm và chính thức trong năm 2022.
-1.4.4.2	 Phát triển Hệ giá trị mang lại cho khách hàng 
-doanh nghiệp 
-ACB đã triển khai giải pháp cho trường học, trong đó có 
-kết nối API cung cấp giải pháp thanh toán. TMO cũng 
-tiếp tục cải tiến và bổ sung tính năng cho các giải pháp 
-đã ra mắt trong những năm trước như giải pháp ngân 
-hàng giao dịch, quy trình mở tài khoản trực tuyến, v.v. 
-Dự án đang trong quá trình chuẩn bị và dự kiến triển 
-khai trong năm 2022 bao gồm giải pháp cho doanh 
-nghiệp bán lẻ. 
+1.4.4.2	 Phát triển Hệ giá trị mang lại cho khách hàng
+doanh nghiệp
+ACB đã triển khai giải pháp cho trường học, trong đó có
+kết nối API cung cấp giải pháp thanh toán. TMO cũng
+tiếp tục cải tiến và bổ sung tính năng cho các giải pháp
+đã ra mắt trong những năm trước như giải pháp ngân
+hàng giao dịch, quy trình mở tài khoản trực tuyến, v.v.
+Dự án đang trong quá trình chuẩn bị và dự kiến triển
+khai trong năm 2022 bao gồm giải pháp cho doanh
+nghiệp bán lẻ.
 1.4.4.3	 Cải tiến năng suất kênh bán hàng
-Sáng kiến thực thi này đã đem lại tiến triển trong việc 
-chuyển dịch giao dịch từ kênh truyền thống sang kênh 
-thay thế. Việc số hoá quy trình cũng là một phần của 
-sáng kiến này với các dự án như giải ngân tự động, số 
-hoá quy trình dịch vụ, v.v. ACB cũng đang khởi tạo một 
-số dự án số hóa quy trình, số hóa dịch vụ tại quầy sẽ 
+Sáng kiến thực thi này đã đem lại tiến triển trong việc
+chuyển dịch giao dịch từ kênh truyền thống sang kênh
+thay thế. Việc số hoá quy trình cũng là một phần của
+sáng kiến này với các dự án như giải ngân tự động, số
+hoá quy trình dịch vụ, v.v. ACB cũng đang khởi tạo một
+số dự án số hóa quy trình, số hóa dịch vụ tại quầy sẽ
 được triển khai trong năm 2022.
 1.4.4.4	 Chuyển đổi Quy trình tín dụng
-Sáng kiến thực thi này đã có một số thành tựu trong 
-năm 2021 với việc hoàn thành dự án mở thẻ tín dụng 
-trực tuyến, triển khai giai đoạn 1 dự án chấm điểm tín 
-dụng DNNVV. Trong năm 2022, ACB sẽ tiếp tục triển 
-khai sáng kiến này, hỗ trợ cho giải pháp hệ giá trị mang 
-lại cho khách hàng. 
+Sáng kiến thực thi này đã có một số thành tựu trong
+năm 2021 với việc hoàn thành dự án mở thẻ tín dụng
+trực tuyến, triển khai giai đoạn 1 dự án chấm điểm tín
+dụng DNNVV. Trong năm 2022, ACB sẽ tiếp tục triển
+khai sáng kiến này, hỗ trợ cho giải pháp hệ giá trị mang
+lại cho khách hàng.
 1.4.5 Các mục tiêu phát triển bền vững
-(môi trường, xã hội và cộng đồng) và 
-chương trình liên kết đến ngắn hạn và trung 
+(môi trường, xã hội và cộng đồng) và
+chương trình liên kết đến ngắn hạn và trung
 hạn của Ngân hàng
-Trong quá trình hoạt động kinh doanh, các nỗ lực của 
-ACB sẽ hướng đến các mục tiêu phát triển bền vững 
-sau đây, để góp phần vào việc thực hiện các mục tiêu 
-phát triển bền vững đất nước: 
-•	Đảm bảo cân bằng giữa an toàn (tuân thủ), hiệu quả 
+Trong quá trình hoạt động kinh doanh, các nỗ lực của
+ACB sẽ hướng đến các mục tiêu phát triển bền vững
+sau đây, để góp phần vào việc thực hiện các mục tiêu
+phát triển bền vững đất nước:
+•	Đảm bảo cân bằng giữa an toàn (tuân thủ), hiệu quả
 và khả năng cạnh tranh lâu dài.
-•	Đảm bảo chế độ đãi ngộ giúp cho nhân viên có điều 
+•	Đảm bảo chế độ đãi ngộ giúp cho nhân viên có điều
 kiện sống thích đáng.
-•	Đảm bảo tạo cơ hội học tập cho nhân viên để phát 
+•	Đảm bảo tạo cơ hội học tập cho nhân viên để phát
 triển nghề nghiệp hiện tại và tương lai.
-•	Chính sách tuyển dụng, đãi ngộ tôn trọng nguyên tắc 
+•	Chính sách tuyển dụng, đãi ngộ tôn trọng nguyên tắc
 bình đẳng giới.
-•	Thường xuyên cải tiến nhằm tăng năng suất để nhân 
+•	Thường xuyên cải tiến nhằm tăng năng suất để nhân
 viên thực hiện công việc tốt hơn và có thu nhập tốt hơn.
-•	Có chủ trương và ngân sách dành cho các hoạt động 
+•	Có chủ trương và ngân sách dành cho các hoạt động
 bảo vệ môi trường.
-•	Có chủ trương và ngân sách dành cho các hoạt động 
-xã hội từ thiện, tập trung cho lĩnh vực giáo dục và giúp 
+•	Có chủ trương và ngân sách dành cho các hoạt động
+xã hội từ thiện, tập trung cho lĩnh vực giáo dục và giúp
 người nghèo.
 1.5	 Các rủi ro trọng yếu
 1.5.1	 Rủi ro tín dụng
-Chiến lược quản lý rủi ro tín dụng của ACB có các cấu 
+Chiến lược quản lý rủi ro tín dụng của ACB có các cấu
 phần chính như sau:
-•	Duy trì tỷ lệ nợ xấu, tỷ lệ cấp tín dụng xấu cho các đối 
-tượng khách hàng, ngành, lĩnh vực kinh tế theo tuyên 
-bố khẩu vị rủi ro được Hội đồng quản trị phê duyệt 
+•	Duy trì tỷ lệ nợ xấu, tỷ lệ cấp tín dụng xấu cho các đối
+tượng khách hàng, ngành, lĩnh vực kinh tế theo tuyên
+bố khẩu vị rủi ro được Hội đồng quản trị phê duyệt
 hằng năm.
-•	Áp dụng các hình thức đảm bảo tiền vay khác nhau và 
+•	Áp dụng các hình thức đảm bảo tiền vay khác nhau và
 theo từng thời kỳ.
-•	Quy định cụ thể thẩm quyền phê duyệt cấp tín dụng 
-(bao gồm cả thẩm quyền phê duyệt các biện pháp 
+•	Quy định cụ thể thẩm quyền phê duyệt cấp tín dụng
+(bao gồm cả thẩm quyền phê duyệt các biện pháp
 giảm thiểu rủi ro tín dụng).
-•	Xây dựng hệ thống báo cáo nhằm quản lý danh mục 
-tín dụng, phân tích và cảnh báo sớm cho danh mục 
-cũng như cho các khoản vay có dấu hiệu suy giảm 
-chất lượng, để có kế hoạch phòng ngừa và xử lý rủi 
+•	Xây dựng hệ thống báo cáo nhằm quản lý danh mục
+tín dụng, phân tích và cảnh báo sớm cho danh mục
+cũng như cho các khoản vay có dấu hiệu suy giảm
+chất lượng, để có kế hoạch phòng ngừa và xử lý rủi
 ro kịp thời.
-•	Xây dựng, theo dõi và quản lý hạn mức rủi ro tín dụng, 
-gồm: (i) Hạn mức cấp tín dụng theo đối tượng khách 
-hàng, ngành hoặc lĩnh vực kinh tế trên cơ sở khả năng 
-trả nợ của khách hàng, rủi ro tín dụng của ngành hoặc 
-lĩnh vực kinh tế; (ii) Hạn mức cấp tín dụng theo sản 
-phẩm và hình thức bảo đảm trên cơ sở rủi ro tín dụng 
+•	Xây dựng, theo dõi và quản lý hạn mức rủi ro tín dụng,
+gồm: (i) Hạn mức cấp tín dụng theo đối tượng khách
+hàng, ngành hoặc lĩnh vực kinh tế trên cơ sở khả năng
+trả nợ của khách hàng, rủi ro tín dụng của ngành hoặc
+lĩnh vực kinh tế; (ii) Hạn mức cấp tín dụng theo sản
+phẩm và hình thức bảo đảm trên cơ sở rủi ro tín dụng
 tương ứng của sản phẩm và hình thức bảo đảm.
 1.5.2	 Rủi ro hoạt động (vận hành)
-Chiến lược quản lý rủi ro hoạt động của ACB có các cấu 
+Chiến lược quản lý rủi ro hoạt động của ACB có các cấu
 phần chính như sau:
-•	Thiết lập các nguyên tắc quản lý rủi ro hoạt động 
-thông qua các quy định, quy trình, hạn mức và phân 
+•	Thiết lập các nguyên tắc quản lý rủi ro hoạt động
+thông qua các quy định, quy trình, hạn mức và phân
 định rõ ràng trách nhiệm quản lý trong từng khâu/
 đơn vị.
-•	Xây dựng các nguyên tắc sử dụng hoạt động thuê 
-ngoài đảm bảo nhận diện, đo lường, theo dõi và kiểm 
-soát những rủi ro hoạt động có khả năng phát sinh từ 
-hoạt động thuê ngoài. 
-•	Mua bảo hiểm để giảm thiểu tổn thất trong trường 
-hợp có sự kiện rủi ro hoạt động xảy ra, nhưng không 
-sử dụng việc mua bảo hiểm để thay thế công tác 
+•	Xây dựng các nguyên tắc sử dụng hoạt động thuê
+ngoài đảm bảo nhận diện, đo lường, theo dõi và kiểm
+soát những rủi ro hoạt động có khả năng phát sinh từ
+hoạt động thuê ngoài.
+•	Mua bảo hiểm để giảm thiểu tổn thất trong trường
+hợp có sự kiện rủi ro hoạt động xảy ra, nhưng không
+sử dụng việc mua bảo hiểm để thay thế công tác
 quản lý rủi ro hoạt động.
- 
-•	Xây dựng các quy định quản lý rủi ro công nghệ thông 
-tin, trong đó phân tách công tác phát triển, vận hành 
+•	Xây dựng các quy định quản lý rủi ro công nghệ thông
+tin, trong đó phân tách công tác phát triển, vận hành
 hệ thống/ứng dụng và hoạt động quản lý rủi ro.
-•	Xây dựng kế hoạch duy trì hoạt động liên tục tối thiểu 
-trong các trường hợp như mất tài liệu hoặc cơ sở dữ 
-liệu quan trọng, hệ thống công nghệ thông tin bị sự 
+•	Xây dựng kế hoạch duy trì hoạt động liên tục tối thiểu
+trong các trường hợp như mất tài liệu hoặc cơ sở dữ
+liệu quan trọng, hệ thống công nghệ thông tin bị sự
 cố, hoặc xảy ra các sự kiện bất khả kháng, v.v.
 THÔNG TIN CHUNG
+
+•	Không ngừng cập nhật, nâng cao kiến thức về
+nghiệp vụ chuyên môn cho người lao động trong
+lĩnh vực phụ trách, cũng như các kiến thức về nội
+quy, quy định phát sinh trong quan hệ lao động để
+người lao động tự tin trong công việc.
+•	Tạo môi trường và điều kiện làm việc thuận lợi
+để người lao động có thể thực hiện công việc tốt
+nhất và phát triển năng lực bản thân.
+•	Tổ chức các hoạt động xã hội và bảo vệ môi
+trường, tạo điều kiện và khuyến khích người lao
+động tham gia nhằm nâng cao tinh thần trách
+nhiệm và chia sẻ với cộng đồng. ACB luôn chú
+trọng và tuân thủ các quy định của pháp luật và
+các văn bản hướng dẫn thi hành nhằm đảm bảo
+các vấn đề về việc làm, tiền lương, tiền công, bảo
+hiểm xã hội, an toàn - vệ sinh lao động và các
+quyền lợi khác cho người lao động.
+Trong năm 2021, trách nhiệm này gồm có: tổ chức các
+khóa đào tạo để nâng cao trình độ chuyên môn, kiến
+thức, kỹ năng của nhân viên; điều chỉnh lương và thực
+thi chính sách đãi ngộ phù hợp với công việc và thành
+tích, và có tính cạnh tranh trên thị trường; tiếp tục cải
+thiện môi trường làm việc thông thoáng, đảm bảo an
+toàn lao động; thực thi chính sách chăm sóc, bảo vệ
+đội ngũ nhân viên trong đại dịch Covid-19.
+ACB đã được HR Asia vinh danh là “Nơi làm việc tốt
+nhất châu Á” trong ba năm liên tiếp.
+3.6.3	 Đánh giá liên quan đến trách nhiệm xã hội của ACB đối với cộng
+ACB cam kết thực thi trách nhiệm xã hội doanh
+nghiệp đối với môi trường và cộng đồng / địa phương
+cần hỗ trợ.
+•	Hành trình Gần Lại O với các mục tiêu chính là
+giảm thiểu lượng rác thải nhựa, giấy in, v.v. được
+ACB thực hiện trong nhiều năm qua đã được
+nâng tầm trong năm 2021, đó là đưa giải thưởng
+O-Branch vào hạng mục các giải thưởng quan
+trọng của năm để khuyến khích tất cả các đơn vị
+chủ động trong việc thực thi trách nhiệm xã hội
+đối với môi trường nơi mình đang hoạt động. Có
+thể nói ACB là doanh nghiệp đầu tiên tại Việt Nam
+và đầu tiên của ngành ngân hàng đưa ra một giải
+thưởng như vậy. Tinh thần bảo vệ môi trường của
+người ACB luôn được nuôi dưỡng để trở thành
+một nét văn hóa. Đối với khách hàng và cộng đồng
+bên ngoài, ACB tiếp tục thực hiện các hoạt động
+truyền thông nâng cao nhận thức và đến nay tặng
+hơn 25.000 bộ công cụ giảm rác thải nhựa.
+•	Các hoạt động tài trợ giáo dục, xây dựng nhà tình
+thương, cơ sở vật chất, trường học và hỗ trợ các
+đối tượng chính sách và người nghèo tiếp tục được
+ACB thực hiện trong khả năng tài chính của mình.
+Trách nhiệm xã hội của ACB được ghi nhận qua giải
+thưởng Ngân hàng thực hiện trách nhiệm xã hội tốt
+nhất 2021 (Best CSR Bank Vietnam 2021) từ Global
+Banking & Finance Review.
+BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH

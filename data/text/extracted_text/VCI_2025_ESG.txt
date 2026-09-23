@@ -1,7 +1,5 @@
-MỤC LỤC
 TẦM NHÌN LÃNH ĐẠO
 NỀN TẢNG PHÁT TRIỂN
-DẤU ẤN CHUYỂN MÌNH
 TRỤ CỘT VỮNG CHẮC
 DẪN DẮT TẦM NHÌN
 ĐỊNH HÌNH TRIỂN VỌNG
@@ -15,27 +13,14 @@ Tham chiếu chỉ số GRI
 CHỦ ĐỘNG BỨT PHÁ
 Thông tin cổ phiếu và hoạt động quan hệ nhà đầu tư
 Cơ cấu cổ đông
-Báo cáo tài chính
-08
-07
-06
-01
-03
-04
-02
-05
 CHUYỂN MÌNH
 TOÀN DIỆN
 CỦNG CỐ
-NỘI LỰC 
+NỘI LỰC
 SẴN SÀNG
 VƯƠN XA
 NỀN TẢNG
-CHUYỂN MÌNH 
-78 - 104
-06 - 24
-32 - 71
-110 - 136
+CHUYỂN MÌNH
 Thông điệp Chủ tịch HĐQT
 Lời mở đầu
 18 năm kiến tạo phát triển
@@ -44,7 +29,7 @@ Tổng quan thị trường năm 2025
 Nhân sự
 Ngân hàng Đầu tư
 Tư vấn Tài chính Doanh Nghiệp
-Tư vấn Đầu tư 
+Tư vấn Đầu tư
 Giao dịch Chứng khoán & Khách hàng Tổ chức
 Nghiên cứu & Phân tích
 Tự doanh
@@ -53,44 +38,6 @@ An toàn thông tin
 Đổi mới sáng tạo
 Thông tin doanh nghiệp
 Tầm nhìn - Sứ mệnh - Giá trị cốt lõi
-Dấu ấn tự hào
-Diễn giải báo cáo tài chính 2025
-06
-08
-10
-12
-18
-21
-22
-24
-32
-38
-48
-52
-54
-61
-62
-64
-66
-69
-71
-78
-82
-86
-88
-90
-100
-102
-104
-110
-112
-114
-119
-121
-130
-133
-134
-136
 Vị thế tài chính
 Quản trị rủi ro
 Đạo đức nghề nghiệp
@@ -106,442 +53,664 @@ NGUYỄN THANH PHƯỢNG
 Chủ tịch Hội đồng Quản trị
 Kính gửi Quý Cổ đông,
 Quý Khách hàng và Quý Đồng nghiệp,
-Năm 2025 đánh dấu bước phục hồi mạnh mẽ và bứt phá rõ nét 
-của nền kinh tế Việt Nam. Với mức tăng trưởng GDP xấp xỉ 8%, 
-nền kinh tế cho thấy sức bật đáng kể của sản xuất, xuất khẩu và 
-tiêu dùng nội địa, tạo nên một chu kỳ tăng trưởng mới trong bối 
-cảnh kinh tế thế giới vẫn tiềm ẩn nhiều bất định. Đà phục hồi lan 
-tỏa đồng đều ở các ngành trọng yếu, đặc biệt là sản xuất và dịch 
-vụ, đã củng cố nền tảng tăng trưởng vững chắc trong suốt các 
-quý của năm. Việt Nam tiếp tục khẳng định vị thế là điểm đến hấp 
-dẫn của dòng vốn đầu tư khi duy trì được ổn định vĩ mô, cải thiện 
-cán cân thương mại và giữ nhịp tăng trưởng tích cực của đầu tư 
-trực tiếp nước ngoài. Những yếu tố này không chỉ tạo dư địa cho 
-hoạt động sản xuất, kinh doanh, mà còn đóng vai trò quan trọng 
-trong việc nâng cao quy mô, chiều sâu và sức hấp dẫn của thị 
+Năm 2025 đánh dấu bước phục hồi mạnh mẽ và bứt phá rõ nét
+của nền kinh tế Việt Nam. Với mức tăng trưởng GDP xấp xỉ 8%,
+nền kinh tế cho thấy sức bật đáng kể của sản xuất, xuất khẩu và
+tiêu dùng nội địa, tạo nên một chu kỳ tăng trưởng mới trong bối
+cảnh kinh tế thế giới vẫn tiềm ẩn nhiều bất định. Đà phục hồi lan
+tỏa đồng đều ở các ngành trọng yếu, đặc biệt là sản xuất và dịch
+vụ, đã củng cố nền tảng tăng trưởng vững chắc trong suốt các
+quý của năm. Việt Nam tiếp tục khẳng định vị thế là điểm đến hấp
+dẫn của dòng vốn đầu tư khi duy trì được ổn định vĩ mô, cải thiện
+cán cân thương mại và giữ nhịp tăng trưởng tích cực của đầu tư
+trực tiếp nước ngoài. Những yếu tố này không chỉ tạo dư địa cho
+hoạt động sản xuất, kinh doanh, mà còn đóng vai trò quan trọng
+trong việc nâng cao quy mô, chiều sâu và sức hấp dẫn của thị
 trường vốn.
-Trên nền tảng ổn định của kinh tế vĩ mô và sự cải thiện rõ nét của 
-môi trường đầu tư, thị trường chứng khoán Việt Nam trong năm 
-2025 tiếp tục duy trì trạng thái vận hành an toàn, minh bạch và có 
-tính thanh khoản cao. Chỉ số VN-Index liên tục xác lập những cột 
-mốc mới, tính đến cuối tháng 12 tăng gần 41% so với cuối năm 
-trước, phản ánh niềm tin ngày càng gia tăng của nhà đầu tư vào 
-triển vọng tăng trưởng của nền kinh tế. Thanh khoản thị trường 
-duy trì ở mức cao, với giá trị giao dịch bình quân cả năm 2025 trên 
-tổng 3 sàn đạt hơn 29.500 tỷ đồng mỗi phiên, tăng trên 40% so 
-với năm 2024, cho thấy sự lan tỏa mạnh mẽ của dòng tiền trên 
-toàn thị trường. Quy mô vốn hóa thị trường cổ phiếu theo đó 
-cũng ghi nhận mức tăng khoảng 39% so với thời điểm cuối năm 
-2024, cùng với sự mở rộng nhanh chóng của cơ sở nhà đầu tư khi 
-số lượng tài khoản đạt hơn 11,9 triệu, vượt mục tiêu đặt ra trong 
-Chiến lược phát triển thị trường chứng khoán đến năm 2030. Đặc 
-biệt, việc tổ chức xếp hạng FTSE Russell chính thức công bố 
-nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận 
-biên lên thị trường mới nổi thứ cấp đã tạo thêm lực đẩy quan 
-trọng, góp phần củng cố niềm tin, thu hút dòng vốn và thúc đẩy 
+Trên nền tảng ổn định của kinh tế vĩ mô và sự cải thiện rõ nét của
+môi trường đầu tư, thị trường chứng khoán Việt Nam trong năm
+2025 tiếp tục duy trì trạng thái vận hành an toàn, minh bạch và có
+tính thanh khoản cao. Chỉ số VN-Index liên tục xác lập những cột
+mốc mới, tính đến cuối tháng 12 tăng gần 41% so với cuối năm
+trước, phản ánh niềm tin ngày càng gia tăng của nhà đầu tư vào
+triển vọng tăng trưởng của nền kinh tế. Thanh khoản thị trường
+duy trì ở mức cao, với giá trị giao dịch bình quân cả năm 2025 trên
+tổng 3 sàn đạt hơn 29.500 tỷ đồng mỗi phiên, tăng trên 40% so
+với năm 2024, cho thấy sự lan tỏa mạnh mẽ của dòng tiền trên
+toàn thị trường. Quy mô vốn hóa thị trường cổ phiếu theo đó
+cũng ghi nhận mức tăng khoảng 39% so với thời điểm cuối năm
+2024, cùng với sự mở rộng nhanh chóng của cơ sở nhà đầu tư khi
+số lượng tài khoản đạt hơn 11,9 triệu, vượt mục tiêu đặt ra trong
+biệt, việc tổ chức xếp hạng FTSE Russell chính thức công bố
+nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận
+biên lên thị trường mới nổi thứ cấp đã tạo thêm lực đẩy quan
+trọng, góp phần củng cố niềm tin, thu hút dòng vốn và thúc đẩy
 sự phát triển tích cực của thị trường trong suốt năm 2025.
-Trong bối cảnh đó, Vietcap đã chủ động nắm bắt các cơ hội triển 
-khai linh hoạt các chiến lược kinh doanh và tiếp tục củng cố nền 
-tảng vận hành. Nhờ cách tiếp cận thận trọng nhưng chủ động, 
-doanh nghiệp ghi nhận kết quả tăng trưởng khả quan trên nhiều 
-mảng hoạt động cốt lõi, tạo đà cho sự phát triển bền vững trong 
+Trong bối cảnh đó, Vietcap đã chủ động nắm bắt các cơ hội triển
+khai linh hoạt các chiến lược kinh doanh và tiếp tục củng cố nền
+tảng vận hành. Nhờ cách tiếp cận thận trọng nhưng chủ động,
+doanh nghiệp ghi nhận kết quả tăng trưởng khả quan trên nhiều
+mảng hoạt động cốt lõi, tạo đà cho sự phát triển bền vững trong
 giai đoạn tiếp theo.
-Trong cả năm 2025, lợi nhuận trước thuế đạt 1.629 tỷ đồng, 
-tương ứng hoàn thành khoảng 115% kế hoạch lợi nhuận cả năm. 
-Doanh thu hoạt động đạt 4.980 tỷ đồng, phản ánh hiệu quả từ 
-việc đa dạng hóa nguồn thu và tận dụng tốt diễn biến tích cực 
+Trong cả năm 2025, lợi nhuận trước thuế đạt 1.629 tỷ đồng,
+tương ứng hoàn thành khoảng 115% kế hoạch lợi nhuận cả năm.
+Doanh thu hoạt động đạt 4.980 tỷ đồng, phản ánh hiệu quả từ
+việc đa dạng hóa nguồn thu và tận dụng tốt diễn biến tích cực
 của thị trường.
-Các mảng kinh doanh cốt lõi như môi giới, cho vay ký quỹ và đầu 
-tư đều ghi nhận sự cải thiện rõ rệt cả về quy mô lẫn hiệu quả. 
-Vietcap tiếp tục giữ vững vị thế trong nhóm các công ty chứng 
-khoán dẫn đầu về thị phần khách hàng tổ chức, đồng thời từng 
-bước mở rộng thị phần ở phân khúc khách hàng cá nhân. Dư nợ 
-cho vay ký quỹ duy trì ở mức cao, cho thấy niềm tin ngày càng gia 
-tăng của nhà đầu tư đối với uy tín thương hiệu và năng lực vận 
+Các mảng kinh doanh cốt lõi như môi giới, cho vay ký quỹ và đầu
+tư đều ghi nhận sự cải thiện rõ rệt cả về quy mô lẫn hiệu quả.
+Vietcap tiếp tục giữ vững vị thế trong nhóm các công ty chứng
+khoán dẫn đầu về thị phần khách hàng tổ chức, đồng thời từng
+bước mở rộng thị phần ở phân khúc khách hàng cá nhân. Dư nợ
+cho vay ký quỹ duy trì ở mức cao, cho thấy niềm tin ngày càng gia
+tăng của nhà đầu tư đối với uy tín thương hiệu và năng lực vận
 hành của công ty.
-06
-07
 TẦM NHÌN LÃNH ĐẠO
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 NGUYỄN THANH PHƯỢNG
 Chủ tịch Hội đồng Quản trị
-Năm 2025 đánh dấu sự chuyển mình rõ nét của Vietcap trong 
-cách tiếp cận và triển khai chiến lược phát triển, khi công nghệ 
-và các ứng dụng trí tuệ nhân tạo ngày càng đóng vai trò trung 
-tâm trong hoạt động tài chính, chứng khoán. Bước sang năm 
-thứ 18 trên thị trường, Vietcap tiếp tục đẩy mạnh chiến lược 
-chuyển đổi số với hệ sinh thái công nghệ phân tích và Smart 
-Data. Bộ ba nền tảng Vietcap IQ, Vietcap AI News và AI Trading 
-được phát triển nhằm đồng hành cùng nhà đầu tư trong bối 
-cảnh thị trường biến động nhanh và đòi hỏi phản ứng linh hoạt 
-hơn. Thông qua việc ứng dụng các giải pháp công nghệ và AI vào 
-dịch vụ tài chính, Vietcap hướng tới nâng cao khả năng cá nhân 
-hóa, tăng tính chủ động cho nhà đầu tư, đồng thời tối ưu hiệu 
-quả vận hành và quản trị rủi ro. 
-Xuyên suốt hành trình chuyển mình, Vietcap kiên định với nền 
-tảng phát triển lấy con người làm trung tâm, đồng thời lựa chọn 
-đầu tư dài hạn vào các năng lực công nghệ vận hành như một 
-động lực cốt lõi cho giai đoạn phát triển tiếp theo. Trong bối 
-cảnh ngành tài chính, chứng khoán đang tái định hình mạnh mẽ, 
-Vietcap xác định tăng trưởng bền vững không chỉ đến từ hệ 
-thống hay nền tảng, mà trước hết đến từ năng lực con người 
-trong việc làm chủ tri thức, thích ứng với thay đổi và đưa ra 
-những quyết định có giá trị dài hạn. Theo đó, công nghệ được 
-Vietcap phát triển như một bệ đỡ chiến lược trong việc nâng cao 
-chất lượng phân tích, chuẩn hóa quy trình, gia tăng tốc độ và độ 
-chính xác trong vận hành, đồng thời mở rộng khả năng cá nhân 
-hóa trải nghiệm cho nhà đầu tư. Khi được đặt trong tay đội ngũ 
-giàu chuyên môn và tư duy đổi mới, các nền tảng số và ứng dụng 
-thông minh không chỉ tối ưu hiệu quả hoạt động, mà còn hỗ trợ 
-con người phát huy tốt hơn vai trò tư vấn, quản trị rủi ro và kiến 
-tạo giải pháp phù hợp với từng nhóm khách hàng. Mọi thay đổi 
-về mô hình, quy trình và nền tảng vì thế đều được triển khai xoay 
-quanh mục tiêu nâng cao trải nghiệm khách hàng, tạo dựng giá 
-trị bền vững cho cổ đông và phát huy tối đa năng lực của đội ngũ 
-trong một môi trường số hóa. Sự kết hợp hài hòa giữa con người 
-và công nghệ chính là nền tảng để Vietcap củng cố nội lực, nâng 
-cao năng lực cạnh tranh và sẵn sàng bước vào giai đoạn tiếp 
+Năm 2025 đánh dấu sự chuyển mình rõ nét của Vietcap trong
+và các ứng dụng trí tuệ nhân tạo ngày càng đóng vai trò trung
+tâm trong hoạt động tài chính, chứng khoán. Bước sang năm
+thứ 18 trên thị trường, Vietcap tiếp tục đẩy mạnh chiến lược
+chuyển đổi số với hệ sinh thái công nghệ phân tích và Smart
+Data. Bộ ba nền tảng Vietcap IQ, Vietcap AI News và AI Trading
+được phát triển nhằm đồng hành cùng nhà đầu tư trong bối
+cảnh thị trường biến động nhanh và đòi hỏi phản ứng linh hoạt
+hơn. Thông qua việc ứng dụng các giải pháp công nghệ và AI vào
+dịch vụ tài chính, Vietcap hướng tới nâng cao khả năng cá nhân
+hóa, tăng tính chủ động cho nhà đầu tư, đồng thời tối ưu hiệu
+quả vận hành và quản trị rủi ro.
+Xuyên suốt hành trình chuyển mình, Vietcap kiên định với nền
+tảng phát triển lấy con người làm trung tâm, đồng thời lựa chọn
+đầu tư dài hạn vào các năng lực công nghệ vận hành như một
+động lực cốt lõi cho giai đoạn phát triển tiếp theo. Trong bối
+cảnh ngành tài chính, chứng khoán đang tái định hình mạnh mẽ,
+Vietcap xác định tăng trưởng bền vững không chỉ đến từ hệ
+thống hay nền tảng, mà trước hết đến từ năng lực con người
+những quyết định có giá trị dài hạn. Theo đó, công nghệ được
+Vietcap phát triển như một bệ đỡ chiến lược trong việc nâng cao
+chất lượng phân tích, chuẩn hóa quy trình, gia tăng tốc độ và độ
+chính xác trong vận hành, đồng thời mở rộng khả năng cá nhân
+hóa trải nghiệm cho nhà đầu tư. Khi được đặt trong tay đội ngũ
+giàu chuyên môn và tư duy đổi mới, các nền tảng số và ứng dụng
+thông minh không chỉ tối ưu hiệu quả hoạt động, mà còn hỗ trợ
+con người phát huy tốt hơn vai trò tư vấn, quản trị rủi ro và kiến
+tạo giải pháp phù hợp với từng nhóm khách hàng. Mọi thay đổi
+về mô hình, quy trình và nền tảng vì thế đều được triển khai xoay
+quanh mục tiêu nâng cao trải nghiệm khách hàng, tạo dựng giá
+trị bền vững cho cổ đông và phát huy tối đa năng lực của đội ngũ
+trong một môi trường số hóa. Sự kết hợp hài hòa giữa con người
+và công nghệ chính là nền tảng để Vietcap củng cố nội lực, nâng
+cao năng lực cạnh tranh và sẵn sàng bước vào giai đoạn tiếp
 theo với tầm nhìn dài hạn và định hướng rõ ràng.
-Khép lại một năm nhiều chuyển biến và bước vào chặng đường 
-phát triển mới, thay mặt Hội đồng Quản trị, tôi xin trân trọng cảm 
-ơn Quý cổ đông, Quý khách hàng và Quý đối tác đã luôn tin 
-tưởng, đồng hành cùng Vietcap trong suốt thời gian qua. Sự tin 
-cậy và gắn bó bền vững của Quý vị chính là nền tảng để Vietcap 
-không ngừng đổi mới, nâng cao năng lực và chủ động thích ứng 
+Khép lại một năm nhiều chuyển biến và bước vào chặng đường
+phát triển mới, thay mặt Hội đồng Quản trị, tôi xin trân trọng cảm
+ơn Quý cổ đông, Quý khách hàng và Quý đối tác đã luôn tin
+tưởng, đồng hành cùng Vietcap trong suốt thời gian qua. Sự tin
+cậy và gắn bó bền vững của Quý vị chính là nền tảng để Vietcap
+không ngừng đổi mới, nâng cao năng lực và chủ động thích ứng
 trước những thay đổi của thị trường.
-Hướng tới chặng đường phía trước, Vietcap tin tưởng vào triển 
-vọng tích cực của nền kinh tế Việt Nam cũng như sự phát triển 
-của cộng đồng doanh nghiệp. Với tinh thần đổi mới, minh bạch 
-và phát triển bền vững, chúng tôi cam kết tiếp tục nâng cao giá 
-trị doanh nghiệp, đồng hành cùng Quý vị và vững bước trên hành 
+Hướng tới chặng đường phía trước, Vietcap tin tưởng vào triển
+vọng tích cực của nền kinh tế Việt Nam cũng như sự phát triển
+của cộng đồng doanh nghiệp. Với tinh thần đổi mới, minh bạch
+và phát triển bền vững, chúng tôi cam kết tiếp tục nâng cao giá
+trị doanh nghiệp, đồng hành cùng Quý vị và vững bước trên hành
 trình kiến tạo những giá trị dài hạn trong tương lai.
 Trân trọng,
-“
-Với tinh thần đổi mới, minh bạch 
-và phát triển bền vững, chúng 
-tôi cam kết tiếp tục nâng cao 
+Với tinh thần đổi mới, minh bạch
+và phát triển bền vững, chúng
+tôi cam kết tiếp tục nâng cao
 giá trị doanh nghiệp, đồng hành
-cùng Quý vị và vững bước trên 
-hành trình kiến tạo những giá trị 
+cùng Quý vị và vững bước trên
+hành trình kiến tạo những giá trị
 dài hạn trong tương lai.
 
+ĐẠO ĐỨC
+NGHỀ NGHIỆP
+Trải qua hành trình hơn 18 năm hình thành và phát triển, với tầm nhìn
+dài hạn và tinh thần đổi mới không ngừng, Vietcap luôn kiên định quan
+điểm rằng  đạo đức nghề nghiệp, trách nhiệm và tính chính trực là nền
+Chúng tôi theo đuổi cách tiếp cận hài hòa lợi ích của Khách hàng, đối
+tác, đội ngũ nhân sự, cổ đông và cộng đồng, coi đây là kim chỉ nam
+ĐỐI VỚI
+KHÁCH HÀNG
+Cung cấp các sản phẩm và dịch vụ đạt tiêu
+chuẩn cao, đáp ứng nhu cầu ngày càng đa dạng
+của nhà đầu tư.
+Không ngừng nâng cao uy tín, trách nhiệm và
+chất lượng phục vụ.
+Thực hiện cam kết một cách chuyên nghiệp,
+minh bạch và hiệu quả.
+Bảo mật tuyệt đối thông tin Khách hàng theo
+các quy định và chuẩn mực cao nhất.
+ĐỐI VỚI
+ĐỐI TÁC VÀ CỘNG SỰ
+Duy trì tính chính trực, minh bạch và phong
+cách làm việc chuyên nghiệp trong mọi hoạt
+động hợp tác.
+Cam kết phòng ngừa và không để phát sinh các
+xung đột lợi ích.
+Áp dụng các biện pháp xử lý sai phạm phù hợp,
+công bằng và nhất quán (nếu có).
+ĐỐI VỚI
+CỔ ĐÔNG
+Tuân thủ đầy đủ các quy định pháp luật, chính sách
+nội bộ và chuẩn mực đạo đức kinh doanh.
+Nỗ lực bảo toàn và gia tăng giá trị đầu tư, hướng tới
+lợi ích bền vững và dài hạn cho cổ đông.
+ĐỐI VỚI
+Tuân thủ nghiêm ngặt các quy định về phòng
+chống rửa tiền, tham nhũng và tài trợ khủng bố.
+Hoạt động trên cơ sở tôn trọng các chuẩn mực,
+thông lệ và quy ước quốc tế.
+Chủ động tham gia và thúc đẩy các hoạt động trách
+nhiệm xã hội, đóng góp tích cực cho cộng đồng.
+DẪN DẮT TẦM NHÌN
+
 TÁC ĐỘNG TÍCH CỰC TỚI
-THỊ TRƯỜNG 
+THỊ TRƯỜNG
 • Duy trì tỷ lệ cổ tức ổn định cho cổ đông
-• Cung cấp những sản phẩm/dịch vụ chất lượng 
+• Cung cấp những sản phẩm/dịch vụ chất lượng
 cao đáp ứng nhu cầu Khách hàng
 • Kết nối cơ hội đầu tư
-• Tham gia xây dựng đóng góp phát triển thị 
-trường, trở thành kênh huy động vốn hiệu quả cho 
+• Tham gia xây dựng đóng góp phát triển thị
+trường, trở thành kênh huy động vốn hiệu quả cho
 nền kinh tế
-• Hỗ trợ doanh nghiệp có nhu cầu tư vấn về chiến 
+• Hỗ trợ doanh nghiệp có nhu cầu tư vấn về chiến
 lược và giải pháp tài chính.
 TÁC ĐỘNG TÍCH CỰC TỚI
-XÃ HỘI
 TÁC ĐỘNG TÍCH CỰC TRONG
 DOANH NGHIỆP
-• Thực hiện đầy đủ nghĩa vụ, trách nhiệm đối với 
+• Thực hiện đầy đủ nghĩa vụ, trách nhiệm đối với
 Nhà nước
 • Chiến lược “đầu tư xanh”
 • Bảo vệ môi trường
 • Tổ chức các hoạt động chia sẻ với cộng đồng.
 • Tăng trưởng ổn định
-• Đảm bảo thu nhập và lợi ích kinh tế cho người 
+• Đảm bảo thu nhập và lợi ích kinh tế cho người
 lao động
 • Chăm lo đời sống cho người lao động
-• Phát triển đội ngũ, tìm kiếm và nuôi dưỡng tài 
+• Phát triển đội ngũ, tìm kiếm và nuôi dưỡng tài
 năng trong đội ngũ
 • Quản trị rủi ro và kiểm soát tuân thủ
 • Tăng cường tính minh bạch trong mọi hoạt động.
 ĐỊNH HƯỚNG
 PHÁT TRIỂN BỀN VỮNG
-Kiên định với mục tiêu phát triển bền vững, chúng tôi hiểu rằng, tinh thần trách nhiệm, đoàn kết và 
-chính trực từ đội ngũ lãnh đạo và toàn thể nhân sự của Công ty là những yếu tố nòng cốt góp phần 
+Kiên định với mục tiêu phát triển bền vững, chúng tôi hiểu rằng, tinh thần trách nhiệm, đoàn kết và
+chính trực từ đội ngũ lãnh đạo và toàn thể nhân sự của Công ty là những yếu tố nòng cốt góp phần
 tạo nên một doanh nghiệp vững mạnh.
- Song hành cùng nội lực đó là sự tin tưởng và đồng hành của các đối tác liên quan, bao gồm Khách hàng, 
-cổ đông, đối tác và người lao động. Mối quan hệ hợp tác dựa trên niềm tin, lợi ích hài hòa và cam kết dài 
+Song hành cùng nội lực đó là sự tin tưởng và đồng hành của các đối tác liên quan, bao gồm Khách hàng,
+cổ đông, đối tác và người lao động. Mối quan hệ hợp tác dựa trên niềm tin, lợi ích hài hòa và cam kết dài
 hạn là động lực quan trọng giúp Vietcap từng bước vươn xa trên hành trình phát triển bền vững.
-Sứ mệnh của Vietcap là cung cấp những dịch vụ chất lượng tối ưu với phong cách phục vụ chuyên 
-nghiệp, bảo tín cho sự tăng trưởng vượt trội và bền vững mà chúng tôi đã và đang nỗ lực xây dựng mỗi 
-ngày. Công ty luôn phấn đấu duy trì mối quan hệ chất lượng và hoạt động kinh doanh tốt nhất vì sự 
+Sứ mệnh của Vietcap là cung cấp những dịch vụ chất lượng tối ưu với phong cách phục vụ chuyên
+nghiệp, bảo tín cho sự tăng trưởng vượt trội và bền vững mà chúng tôi đã và đang nỗ lực xây dựng mỗi
+ngày. Công ty luôn phấn đấu duy trì mối quan hệ chất lượng và hoạt động kinh doanh tốt nhất vì sự
 phát triển bền vững của các đối tác liên quan.
-“Trở thành một trong những đơn vị tài 
-chính với nghiệp vụ ngân hàng đầu tư uy tín 
-Việt Nam là tầm nhìn mục tiêu của Công ty 
+“Trở thành một trong những đơn vị tài
+chính với nghiệp vụ ngân hàng đầu tư uy tín
+Việt Nam là tầm nhìn mục tiêu của Công ty
 Cổ phần Chứng khoán Vietcap (Vietcap).”
-114
-115
 PHÁT TRIỂN BỀN VỮNG
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 MÔ HÌNH QUẢN TRỊ
 VỀ PHÁT TRIỂN BỀN VỮNG
 NGUYÊN TẮC
 PHÁT TRIỂN BỀN VỮNG
 HỘI ĐỒNG QUẢN TRỊ
-Chỉ đạo chung về các vấn đề chiến 
-lược của Công ty liên quan đến 
+Chỉ đạo chung về các vấn đề chiến
+lược của Công ty liên quan đến
 phát triển bền vững.
-Phê duyệt các mục tiêu và kế 
+Phê duyệt các mục tiêu và kế
 hoạch hành động.
 TỔNG GIÁM ĐỐC VÀ BAN ĐIỀU HÀNH QUẢN TRỊ
-Xây dựng và trình HĐQT các mục 
-tiêu và kế hoạch hành động về 
+Xây dựng và trình HĐQT các mục
+tiêu và kế hoạch hành động về
 phát triển bền vững của Công ty.
-Chia sẻ chiến lược, mục tiêu và kế 
-hoạch phát triển bền vững trong 
+Chia sẻ chiến lược, mục tiêu và kế
+hoạch phát triển bền vững trong
 toàn Công ty.
-Đảm bảo kế hoạch phát triển bền 
+Đảm bảo kế hoạch phát triển bền
 vững đạt mục tiêu đề ra.
 CÁC KHỐI VÀ BỘ PHẬN CHỨC NĂNG
-Triển khai và hiện thực hóa kế hoạch phát triển bền vững theo định 
+Triển khai và hiện thực hóa kế hoạch phát triển bền vững theo định
 hướng của Tổng giám đốc và Ban điều hành.
 NHÂN VIÊN
-Thực hiện các nhiệm vụ cụ thể hàng ngày liên quan đến các mục tiêu 
+Thực hiện các nhiệm vụ cụ thể hàng ngày liên quan đến các mục tiêu
 về phát triển bền vững của Công ty.
 ĐỐI VỚI
 Khách hàng
-Cung cấp các sản phẩm, dịch vụ về tài chính đáp ứng nhu cầu của Khách hàng và 
-mang đến cho Khách hàng những khuyến nghị hợp lý, nhanh chóng, tiện lợi, hiệu 
+Cung cấp các sản phẩm, dịch vụ về tài chính đáp ứng nhu cầu của Khách hàng và
+mang đến cho Khách hàng những khuyến nghị hợp lý, nhanh chóng, tiện lợi, hiệu
 quả với chi phí cạnh tranh.
 ĐỐI VỚI
 NHÂN VIÊN
-Mang đến cho nhân viên môi trường làm việc rộng mở, với mức thù lao cạnh 
-tranh, tạo cơ hội công bằng để mọi thành viên có điều kiện phát triển sự nghiệp, 
+Mang đến cho nhân viên môi trường làm việc rộng mở, với mức thù lao cạnh
+tranh, tạo cơ hội công bằng để mọi thành viên có điều kiện phát triển sự nghiệp,
 phát triển năng lực cá nhân.
 ĐỐI VỚI
 CỔ ĐÔNG
 Đảm bảo khoản đầu tư của các cổ đông và mang lại lợi nhuận vượt trội, bền vững.
 ĐỐI VỚI
 ĐỐI TÁC
-Tìm kiếm mối quan hệ song phương cùng có lợi với các đối tác. 
+Tìm kiếm mối quan hệ song phương cùng có lợi với các đối tác.
 Luôn tuân thủ quy tắc đạo đức hướng tới mối quan hệ bền vững giữa hai bên.
 ĐỐI VỚI
-XÃ HỘI
-Hoạt động kinh doanh như một thành viên có trách nhiệm trong xã hội nói chung 
+Hoạt động kinh doanh như một thành viên có trách nhiệm trong xã hội nói chung
 cũng như trong cộng đồng mà Công ty đang hoạt động.
 Thực hiện các cam kết trên cơ sở tuân thủ các quy định và quy ước quốc tế.
-116
-117
 PHÁT TRIỂN BỀN VỮNG
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 MỤC TIÊU CÁC HOẠT ĐỘNG
-PHÁT TRIỂN BỀN VỮNG TẠI VIETCAP 
-“Vietcap đã và đang không ngừng đầu tư 
-nghiên cứu triển khai nhiều sáng kiến nhằm 
-thúc đẩy tối đa cơ hội tăng trưởng tại thị 
-trường chứng khoán trong nước cũng như 
+PHÁT TRIỂN BỀN VỮNG TẠI VIETCAP
+“Vietcap đã và đang không ngừng đầu tư
+nghiên cứu triển khai nhiều sáng kiến nhằm
+thúc đẩy tối đa cơ hội tăng trưởng tại thị
+trường chứng khoán trong nước cũng như
 đóng góp vào sự phát triển kinh tế xã hội mới.”
-Thông qua đó, 
-Vietcap đã có 
-những đóng góp 
-đáng kể trên các 
+Thông qua đó,
+Vietcap đã có
+những đóng góp
+đáng kể trên các
 phương diện sau
 Tạo cơ hội việc làm ổn định cho người lao động.
 Đóng góp vào sự tăng trưởng và phát triển của ngành Tài chính Chứng khoán.
 Huy động vốn cho nền kinh tế Việt Nam.
 TỔNG QUAN
 BÁO CÁO
-Vietcap thực hiện báo cáo này dựa trên Hướng dẫn lập Báo cáo Phát 
-triển bền vững của Tổ chức Sáng kiến toàn cầu (Global Reporting 
-Initiative - GRI). Các vấn đề báo cáo được chi tiết hóa theo hệ thống tiêu 
-chuẩn công bố thông tin G4. Vietcap lựa chọn nguyên tắc Phù hợp - Cốt 
-lõi cho báo cáo năm 2025, tập trung vào các lĩnh vực: hiệu quả hoạt 
-động kinh tế, việc làm, giáo dục và đào tạo, thông tin nhãn hàng sản 
+Vietcap thực hiện báo cáo này dựa trên Hướng dẫn lập Báo cáo Phát
+triển bền vững của Tổ chức Sáng kiến toàn cầu (Global Reporting
+Initiative - GRI). Các vấn đề báo cáo được chi tiết hóa theo hệ thống tiêu
+chuẩn công bố thông tin G4. Vietcap lựa chọn nguyên tắc Phù hợp - Cốt
+lõi cho báo cáo năm 2025, tập trung vào các lĩnh vực: hiệu quả hoạt
+động kinh tế, việc làm, giáo dục và đào tạo, thông tin nhãn hàng sản
 phẩm và dịch vụ, cộng đồng địa phương.
-Báo cáo được thực hiện bởi Nhóm Báo cáo Phát triển bền vững - Công ty 
-Cổ phần Chứng khoán Vietcap, bao gồm các thành viên đến từ phòng 
-Truyền thông, phòng Kế toán, phòng Nhân sự và Thư ký HĐQT. Đây là 
-những bộ phận chịu trách nhiệm về phần lớn các số liệu, thông tin liên 
-quan đến các lĩnh vực trọng yếu trong hoạt động phát triển bền vững 
+Báo cáo được thực hiện bởi Nhóm Báo cáo Phát triển bền vững - Công ty
+Cổ phần Chứng khoán Vietcap, bao gồm các thành viên đến từ phòng
+Truyền thông, phòng Kế toán, phòng Nhân sự và Thư ký HĐQT. Đây là
+những bộ phận chịu trách nhiệm về phần lớn các số liệu, thông tin liên
+quan đến các lĩnh vực trọng yếu trong hoạt động phát triển bền vững
 của Công ty.
 PHẠM VI BÁO CÁO
-Báo cáo Phát triển bền vững Vietcap 2025 được xem như một tài liệu bổ 
-sung, một phần không thể thiếu và có sự gắn kết chặt chẽ với Báo cáo 
-thường niên và Báo cáo tài chính năm 2025 của Công ty.
-Báo cáo phản ánh các kết quả hoạt động trong năm 2025, đồng thời đề 
-cập đến định hướng và mục tiêu của Vietcap trong những năm tới đối với 
-vấn đề phát triển bền vững. Báo cáo được thực hiện cho phạm vi toàn bộ 
-Công ty, bao gồm trụ sở chính và tất cả các chi nhánh, phòng giao dịch 
+Báo cáo Phát triển bền vững Vietcap 2025 được xem như một tài liệu bổ
+sung, một phần không thể thiếu và có sự gắn kết chặt chẽ với Báo cáo
+Báo cáo phản ánh các kết quả hoạt động trong năm 2025, đồng thời đề
+cập đến định hướng và mục tiêu của Vietcap trong những năm tới đối với
+vấn đề phát triển bền vững. Báo cáo được thực hiện cho phạm vi toàn bộ
+Công ty, bao gồm trụ sở chính và tất cả các chi nhánh, phòng giao dịch
 của Vietcap trên cả nước
-Việc triển khai các hoạt động phát triển bền vững có liên quan chặt chẽ 
-với chiến lược về trách nhiệm xã hội của doanh nghiệp, xuất phát từ sứ 
-mệnh và tầm nhìn của Vietcap, cũng như đảm bảo tuân thủ các quy định 
-và quy trình về kiểm soát nội bộ, các quy định chung của quốc gia và quốc 
+Việc triển khai các hoạt động phát triển bền vững có liên quan chặt chẽ
+với chiến lược về trách nhiệm xã hội của doanh nghiệp, xuất phát từ sứ
+mệnh và tầm nhìn của Vietcap, cũng như đảm bảo tuân thủ các quy định
+và quy trình về kiểm soát nội bộ, các quy định chung của quốc gia và quốc
 tế về cạnh tranh, quyền con người, luật môi trường…
-Báo cáo Phát triển bền vững năm 2025 phản ánh định 
-hướng phát triển bền vững và cung cấp cái nhìn tổng quan 
-về một năm hoạt động tích cực và hiệu quả của Vietcap, 
-đồng thời rà soát những hạn chế cần khắc phục và hoạch 
+Báo cáo Phát triển bền vững năm 2025 phản ánh định
+hướng phát triển bền vững và cung cấp cái nhìn tổng quan
+về một năm hoạt động tích cực và hiệu quả của Vietcap,
+đồng thời rà soát những hạn chế cần khắc phục và hoạch
 định kế hoạch hoạt động trong tương lai.
-Hỗ trợ tăng trưởng của các mảng kinh doanh thông qua việc sử dụng nguồn 
+Hỗ trợ tăng trưởng của các mảng kinh doanh thông qua việc sử dụng nguồn
 vốn hiệu quả hơn.
 Tăng cường quản trị doanh nghiệp và minh bạch trong kinh doanh.
 Thúc đẩy các cơ hội phát triển và trao quyền cho thế hệ trẻ.
 Hỗ trợ cộng đồng nâng cao chất lượng cuộc sống.
 Liên hệ
-Mọi thông tin, ý kiến đóng góp cho Báo cáo 
+Mọi thông tin, ý kiến đóng góp cho Báo cáo
 Phát triển bền vững Vietcap, vui lòng liên hệ:
 Công ty CỔ PHẦN CHỨNG KHOÁN VIETCAP
 www.info@vietcap.com.vn
 Tháp Tài chính Bitexco, tầng 15, Số 2 Hải Triều,
 Phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam.
-118
-119
 PHÁT TRIỂN BỀN VỮNG
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
+
+GẮN KẾT CÁC BÊN LIÊN QUAN
+VỚI MỤC TIÊU
+PHÁT TRIỂN BỀN VỮNG
+Để đảm bảo phát triển toàn diện, cân đối và bền vững
+trong các mối liên kết tổng thể, Vietcap trực tiếp thực
+hiện và tổ chức các hoạt động tương tác gắn kết với các
+bên liên quan:
+• Đại hội cổ đông thường niên
+• Gặp gỡ trực tiếp nhà đầu tư
+• Các buổi thuyết trình cho nhà đầu tư về
+tình hình hoạt động kinh doanh của Công ty
+• Hỏi đáp qua website Vietcap
+• Email gửi cổ đông và nhà đầu tư.
+• Hỗ trợ các hoạt động của giới trẻ qua các tổ chức thanh
+niên, sinh viên tại các trường đại học
+• Tham gia các hoạt động phát triển và hỗ trợ cộng đồng,
+chia sẻ khó khăn với những hoàn cảnh thiếu may mắn
+• Tham gia các hoạt động môi trường và cộng đồng.
+• Họp tổng kết hàng quý, tổng kết năm
+• Gặp gỡ trao đổi trực tiếp với Ban Tổng Giám đốc
+• Thông tin, trao đổi qua điện thoại, email nội bộ
+• Chương trình teambuilding, tiệc tất niên, gắn kết đội ngũ
+• Các hoạt động giao lưu được tổ chức hàng quý hoặc các
+sự kiện ngày gia đình, thiếu nhi…
+• Hội thảo
+• Gặp gỡ trao đổi, tư vấn trực tiếp
+• Trao đổi qua điện thoại với nhân viên kinh doanh, trung
+tâm chăm sóc Khách hàng cá nhân và phòng Dịch vụ
+• Hỗ trợ Khách hàng qua nền tảng công nghệ tiên tiến của
+Vietcap: Website, Ứng dụng, Vietcap Trading
+• Email gửi Khách hàng
+• Hộp thư góp ý đặt tại các phòng Giao dịch.
+BÁO CÁO
+HOẠT ĐỘNG BỀN VỮNG
+Với vị thế là một doanh nghiệp hoạt động hiệu quả và phát
+triển bền vững, Vietcap luôn tuân thủ đầy đủ các nghĩa vụ
+thuế và các khoản nộp ngân sách Nhà nước, duy trì mức đóng
+góp tăng trưởng ổn định qua các năm.
+Năm 2025 đánh dấu giai đoạn nền kinh tế Việt Nam từng bước
+phục hồi trong bối cảnh kinh tế toàn cầu tiếp tục tiềm ẩn nhiều
+biến động và rủi ro khó lường. Trên nền tảng chiến lược dài hạn
+và quản trị thận trọng, Vietcap duy trì hiệu quả sử dụng vốn, đảm
+bảo an toàn tài chính và hiệu suất sinh lời bền vững, qua đó đóng
+góp đều đặn và có trách nhiệm vào ngân sách Nhà nước.
+Nhận thức rõ trách nhiệm đối với nhà đầu tư, tổ chức phát
+hành, cơ quan quản lý và sự phát triển chung của thị trường
+vốn, Vietcap không chỉ tuân thủ nghiêm túc các quy định
+pháp luật về chứng khoán mà còn chủ động tham gia đóng
+góp ý kiến trong quá trình xây dựng và hoàn thiện khung
+pháp lý cho thị trường.
+Thông qua các hoạt động tư vấn, phản biện chính sách và chia
+sẻ kinh nghiệm thực tiễn, Vietcap góp phần nâng cao tính minh
+bạch, hiệu quả vận hành và tính bền vững của thị trường chứng
+khoán Việt Nam trong bối cảnh hội nhập ngày càng sâu rộng.
+Song song đó, trong những năm qua và đặc biệt là năm 2025,
+Vietcap tiếp tục đầu tư mạnh mẽ cho hạ tầng công nghệ thông
+tin. Hệ thống giao dịch lõi và hạ tầng dữ liệu được nâng cấp
+toàn diện, cải thiện đáng kể tốc độ xử lý và chất lượng giao dịch,
+đáp ứng các yêu cầu ngày càng cao của thị trường trong giai
+đoạn tái cấu trúc hạ tầng. Trung tâm dữ liệu dự phòng tiếp tục
+được hoàn thiện, đảm bảo an toàn thông tin, khả năng sao lưu
+và ứng phó rủi ro trước các sự cố hệ thống và thiên tai.
+Vietcap xác định mọi hoạt động của Công ty đều có liên
+quan và ảnh hưởng đến các đối tượng trong và ngoài
+Công ty, bao gồm nhân viên, cổ đông, Khách hàng/nhà
+đầu tư và cộng đồng xã hội.
+Đóng góp ngân sách nhà nước
+Chủ động, tích cực tham gia
+xây dựng thị trường
+Riêng trong năm 2025, Vietcap đã đóng góp vào ngân sách Nhà
+CỔ ĐÔNG
+NHÂN VIÊN
+Khách hàng
+NHÀ ĐẦU TƯ
+PHÁT TRIỂN BỀN VỮNG
+
+cổ đông
+Với định hướng “Lấy Khách hàng làm trọng tâm trên hành trình phát triển
+bền vững”, Vietcap cam kết không chỉ mang lại hiệu quả đầu tư ổn định mà
+còn bảo vệ tài sản của nhà đầu tư trước các rủi ro tiềm ẩn.
+Thông qua hệ thống quy trình minh bạch, chặt chẽ từ đầu tư, quản trị rủi ro
+đến kiểm soát nội bộ, Vietcap kiên định mục tiêu xây dựng niềm tin dài hạn
+và gia tăng giá trị tài sản một cách bền vững cho nhà đầu tư, phù hợp với
+các chuẩn mực quản trị ngày càng tiệm cận quốc tế.
+Sau 18 năm hình thành và phát triển, Vietcap đã từng bước xây dựng nền
+tảng hoạt động vững chắc dựa trên quan điểm xuyên suốt: tăng trưởng
+doanh nghiệp phải song hành cùng các giá trị bền vững và trách nhiệm đối
+với cổ đông, thị trường và cộng đồng. Ngay từ những ngày đầu, Vietcap
+kiên định theo đuổi phương châm “Tất cả vì quyền lợi cổ đông” như một trụ
+cột trong chiến lược phát triển dài hạn.Trong bối cảnh thị trường tài chính
+– chứng khoán liên tục đối mặt với những biến động phức tạp và khó lường,
+Vietcap xác định việc bảo vệ quyền và lợi ích hợp pháp của cổ đông, đối
+tác, Khách hàng và đội ngũ nhân sự là ưu tiên hàng đầu. Chính sự nhất
+quán này đã tạo nên sức mạnh nội tại, giúp Công ty duy trì sự ổn định và
+khả năng thích ứng trước những thách thức của thời cuộc. Trên nền tảng
+đó, Vietcap tập trung đảm bảo sự ổn định, minh bạch, công bằng và an
+toàn cho mọi chủ thể đầu tư trong suốt quá trình đồng hành cùng Công ty.
+Qua từng giai đoạn phát triển, Vietcap ngày càng nhận thức rõ rằng việc
+bảo vệ vững chắc quyền và lợi ích chính đáng của nhà đầu tư  là điều kiện
+tiên quyết để kiến tạo một thị trường chứng khoán lành mạnh và phát triển
+bền vững. Các chính sách bảo vệ quyền lợi cổ đông và đảm bảo bình đẳng
+giữa các cổ đông luôn được Vietcap  triển khai nhất quán theo quy định
+của pháp luật và Điều lệ Công ty. Tính đến ngày 09.01.2026, Vietcap có
+36.229 cổ đông,  bao gồm 194 cổ đông tổ chức và 36.035 cổ đông cá nhân.
+Cổ đông của Vietcap được đảm bảo đầy đủ các quyền theo quy định, bao
+gồm quyền tham dự và biểu quyết tại Đại hội đồng cổ đông; quyền nhận cổ
+tức theo nghị quyết được thông qua; quyền ưu tiên mua cổ phần phát
+hành thêm tương ứng với tỷ lệ sở hữu; quyền tự do chuyển nhượng cổ
+phần; và quyền tham gia vào các quyết định quan trọng liên quan đến sự
+phát triển của Công ty.
+Quản lý tài sản của nhà đầu tư
+An toàn, minh bạch
+KIẾN TẠO NIỀM TIN –
+GIA TĂNG GIÁ TRỊ BỀN VỮNG
+Mọi hoạt động quản trị và các quyết định của Hội đồng quản trị được thực
+hiện trên cơ sở công khai, minh bạch và bình đẳng, tuân thủ chặt chẽ các
+chuẩn mực quản trị doanh nghiệp. Vietcap cam kết không áp dụng bất kỳ
+cơ chế ưu đãi đặc biệt nào đối với từng nhóm cổ đông, đảm bảo sự công
+bằng và niềm tin lâu dài cho tất cả các bên liên quan
+Nhằm đáp ứng nhu cầu cập nhật và nắm bắt thông tin thị trường kịp thời,
+chính xác để tối ưu hóa hiệu quả đầu tư của cổ đông, Vietcap chủ động đầu
+tư và tiên phong nghiên cứu ứng dụng hạ tầng công nghệ 4.0. Hệ sinh thái
+công nghệ liên tục được nâng cấp, đồng thời đa dạng hóa các kênh cung
+cấp thông tin như website, email và ứng dụng di động, bảo đảm tính an
+toàn, bảo mật cao, mang lại trải nghiệm thân thiện và thuận tiện cho mọi
+đối tượng sử dụng. Bên cạnh việc đầu tư cho nền tảng công nghệ và chất
+lượng thông tin, Vietcap duy trì chính sách chi trả cổ tức ổn định, được xây
+dựng trên nguyên tắc hài hòa giữa lợi ích ngắn hạn của cổ đông và mục
+tiêu tích lũy nguồn lực cho tăng trưởng dài hạn. Chính sách này góp phần
+đáp ứng hiệu quả nhu cầu đầu tư sinh lời, đồng thời củng cố nền tảng tài
+chính cho sự phát triển bền vững của Công ty.Việc đảm bảo minh bạch
+thông tin, hiệu quả đầu tư và chính sách cổ tức ổn định được Vietcap xác
+định là những tiêu chí cốt lõi, tạo dựng niềm tin và giá trị dài hạn cho cổ
+đông, đồng thời là cơ sở quan trọng để nhà đầu tư lựa chọn cổ phiếu
+Vietcap cho mục tiêu đầu tư bền vững.
+Chi trả cổ tức đợt 2
+năm 2024 bằng tiền
+Tạm ứng cổ tức đợt 1
+năm 2025 bằng tiền
+Tính đến ngày 09.01.2026, Vietcap có
+cổ đông là
+tổ chức
+cổ đông là
+cá nhân
+PHÁT TRIỂN BỀN VỮNG
+
+HOẠT ĐỘNG NỘI BỘ
+BỀN BỈ TỪ NỘI LỰC
+Ở Vietcap,  mỗi thành viên được gọi bằng cái tên Vietcaptain –
+những “chiến binh” cùng chung khát vọng, tinh thần kỷ luật và
+niềm tin vào sức mạnh tập thể. Con người luôn là trung tâm trong
+không chỉ đồng hành trong công việc mà còn cùng sẻ chia, gắn
+kết và lan tỏa những giá trị tích cực trong đời sống nội bộ, tạo nên
+danh và truyền cảm hứng
+AWAYDAY  - HÀNH TRÌNH GẮN KẾT VÀ
+TÁI TẠO NĂNG LƯỢNG
+Vietcap Awayday 2025 tại Đà Nẵng là hoạt động trọng tâm tiếp
+theo, mang đến không gian trải nghiệm, kết nối và tái tạo năng
+lượng cho toàn thể đội ngũ không chỉ là chuyến đi tập thể, Away-
+day là dịp để các Vietcaptain tăng cường tinh thần đồng đội, chia
+sẻ giá trị chung và củng cố sức mạnh nội tại, tạo nền tảng vững
+chắc cho những mục tiêu bứt phá trong tương lai. Lan tỏa tinh
+thần thể thao và lối sống tích cực. Các Câu lạc bộ thể thao của
+Vietcap tiếp tục phát triển sôi nổi, bao gồm Bóng đá, Cầu lông và
+Pickleball. Các đội tuyển Vietcap đã đạt nhiều thành tích ấn
+GẮN KẾT GIA ĐÌNH – TRÁCH NHIỆM CỘNG ĐỒNG
+Vietcap chú trọng nuôi dưỡng văn hóa doanh nghiệp mang tính nhân văn thông qua các chương trình gắn kết gia đình và hoạt động
+xã hội. Các sự kiện như Ngày hội Gia đình, chương trình Go Green Go Up – phủ xanh Việt Nam với hơn 6.000 cây xanh được trồng tại
+Rừng phòng hộ Dầu Tiếng (Tây Ninh), cùng sự tham gia của các Vietcaptain và đối tác, thể hiện cam kết lâu dài của Vietcap trong phát
+triển bền vững và trách nhiệm với cộng đồng.
+“ We will rock you ”
+Đêm tiệc Year End Party 2025
+tượng tại Hội thao VSD Open và D1 Friendship 2025, góp phần lan
+tỏa tinh thần đoàn kết, bền bỉ và thông điệp “We Are One” trong
+toàn Công ty.
+Bên cạnh đó, Vietcap triển khai  đa dạng hoạt động nâng cao sức
+khỏe thể chất và tinh thần cho cán bộ nhân viên như workshop về
+dinh dưỡng và lối sống lành mạnh, trải nghiệm Pilates dành cho
+nhân viên văn phòng, góp phần xây dựng môi trường làm việc cân
+bằng và tích cực.
+Đêm tiệc Year End 2025 với chủ đề “ We will rock you ” là điểm
+nhấn văn hóa nội bộ quan trọng, ghi dấu một năm  nỗ lực và
+thành tựu mà tập thể Vietcap đã cùng nhau kiến tạo trong
+năm. Thông qua ngôn ngữ âm nhạc và nghệ thuật, chương
+trình khắc họa tinh thần đồng đội, sự gắn kết và niềm tự hào
+của mỗi Vietcaptain, đồng thời tiếp thêm động lực và khơi dậy
+cảm hứng cho hành trình phát triển phía trước.
+PHÁT TRIỂN BỀN VỮNG
+
+LAN TỎA TINH THẦN
+THỂ THAO VÀ LỐI SỐNG
+TÍCH CỰC
+Các Câu lạc bộ thể thao của Vietcap
+tiếp tục phát triển sôi nổi, bao gồm
+Bóng đá, Cầu lông và Pickleball. Các
+đội tuyển Vietcap đã đạt nhiều thành
+tích ấn tượng tại Hội thao VSD Open
+và D1 Friendship 2025, góp phần lan
+tỏa tinh thần đoàn kết, bền bỉ và
+thông điệp “We Are One” trong toàn
+Công ty.
+Song song đó, Vietcap triển khai
+nhiều hoạt động nâng cao sức khỏe
+thể chất và tinh thần cho cán bộ nhân
+viên như workshop về dinh dưỡng và
+lối sống lành mạnh, trải nghiệm
+Pilates dành cho nhân viên văn
+phòng, góp phần xây dựng môi
+trường làm việc cân bằng và tích cực.
+NỐI VÒNG TAY THƯƠNG
+TRAO CƠ HỘI,
+KIẾN TẠO TƯƠNG LAI
+Với định hướng phát triển bền vững gắn liền trách nhiệm xã hội, Vietcap kiên định đồng hành
+cùng các hoạt động hỗ trợ cộng đồng, đặc biệt là trẻ em yếu thế – những mầm non cần được
+nâng đỡ để có cơ hội bước tiếp trên hành trình trưởng thành. Trong chuỗi hoạt động đó,
+chương trình “Nối vòng tay thương” là sáng kiến mang ý nghĩa nhân văn sâu sắc, được
+Vietcap duy trì liên tục từ năm 2021. Trong năm 2025, Vietcap và các đối tác tiếp tục trao gói
+bảo trợ dài hạn cho 808 trẻ em mồ côi do ảnh hưởng của đại dịch Covid-19, với tổng giá trị
+bảo trợ đạt 20.133.500.000 đồng. Chương trình được thiết kế theo hướng đồng hành cùng
+các em từ hôm nay cho đến khi đủ 18 tuổi, góp phần đảm bảo điều kiện sống ổn định, duy trì
+cơ hội học tập và hỗ trợ các em phát triển toàn diện trong dài hạn.
+CHUYẾN XE MÙA XUÂN ĐƯA CÔNG NHÂN VỀ QUÊ ĐÓN TẾT BÍNH NGỌ 2026
+Tiếp tục cam kết đồng hành cùng người lao động, Vietcap hỗ trợ
+chương trình “Chuyến xe mùa xuân – Đưa công nhân về quê đón
+Tết Bính Ngọ 2026” do Thành đoàn TP. Hồ Chí Minh và Liên đoàn
+Lao động TP. Hồ Chí Minh tổ chức.
+TẾT ẤM ÁP –
+CHIA SẺ YÊU THƯƠNG,
+GẮN KẾT CỘNG ĐỒNG
+Nhằm chăm lo cho các đối tượng yếu thế trong xã hội, Vietcap phối hợp cùng Thành
+đoàn TP. Hồ Chí Minh tổ chức chương trình “Tết ấm áp”, tập trung hỗ trợ các Bà mẹ Việt
+Nam Anh hùng, gia đình chính sách, người cao tuổi neo đơn và các hộ gia đình có hoàn
+cảnh khó khăn.
+Thông qua việc trao tặng các phần quà thiết thực, chương trình góp phần mang đến một
+mùa Tết đầm ấm, đồng thời thể hiện trách nhiệm xã hội và cam kết lâu dài của Vietcap
+trong việc đồng hành cùng cộng đồng.
+Chương trình góp phần hỗ trợ công nhân, người lao động xa quê
+có điều kiện trở về sum họp cùng gia đình, qua đó lan tỏa giá trị
+sẻ chia, gắn kết cộng đồng và đảm bảo an sinh xã hội trong dịp
+Tết cổ truyền.
+Thông qua “Nối vòng tay thương”, Vietcap hướng đến việc tạo dựng nền tảng vững chắc
+cho các em trên hành trình trưởng thành, không chỉ hỗ trợ trước mắt mà còn đồng hành
+lâu dài để các em có thêm cơ hội vươn lên và xây dựng tương lai tốt đẹp hơn.
+PHÁT TRIỂN BỀN VỮNG
 
 THAM CHIẾU CHỈ SỐ GRI
 CÁC NỘI DUNG CỤ THỂ
-GRI 
-Sự tham vấn của các bên liên quan 
-Hồ sơ báo cáo 
-Quản trị 
-Vai trò của cơ quan quản trị cao nhất trong việc thiết lập mục đích, giá trị và chiến lược 
-G4-24 
-G4-25 
-G4-26 
-G4-27 
+Sự tham vấn của các bên liên quan
+Hồ sơ báo cáo
+Quản trị
+Vai trò của cơ quan quản trị cao nhất trong việc thiết lập mục đích, giá trị và chiến lược
 Thông tin công bố
 Nội dung trong báo cáo
 Số trang
-Danh sách nhóm các bên liên quan với 
-Doanh nghiệp 
+Danh sách nhóm các bên liên quan với
+Doanh nghiệp
 Cơ sở lựa chọn và xác định các bên liên quan
-Phương pháp tiếp nhận đối với sự tham gia 
-của các bên liên quan 
-Các chủ đề và mối quan tâm chính được nêu 
-ra trong quá trình tham gia của các bên liên 
-quan, doanh nghiệp phản hồi thế nào với nội 
-dung trên (bao gồm phản hồi qua báo cáo) 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-Gắn kết các bên liên quan vì 
+Phương pháp tiếp nhận đối với sự tham gia
+của các bên liên quan
+Các chủ đề và mối quan tâm chính được nêu
+ra trong quá trình tham gia của các bên liên
+quan, doanh nghiệp phản hồi thế nào với nội
+dung trên (bao gồm phản hồi qua báo cáo)
+Gắn kết các bên liên quan vì
 mục tiêu phát triển bền vững
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-110
-109
-109
-113
-GRI 
-Hiệu quả kinh tế 
-Các ảnh hưởng kinh tế trực tiếp 
-Cách đối xử với người lao động và việc làm bền vững 
-G4-EC1 
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Hiệu quả kinh tế
+Các ảnh hưởng kinh tế trực tiếp
+Cách đối xử với người lao động và việc làm bền vững
 Thông tin công bố
 Nội dung trong báo cáo
 Số trang
-Các giá trị kinh tế trực tiếp được 
-tạo ra và phân bổ 
-Tăng trưởng bền vững về kinh tế 
-G4-EC8 
-Những tác động gián tiếp về kinh tế 
-Tăng trưởng bền vững về kinh tế 
-G4-LA1 
-Tổng số lực lượng lao động, tỷ lệ tuyển dụng mới, 
-tỷ lệ việc phân loại theo độ tuổi, giới tính, khu vực 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-Việc làm 
-Giáo dục đào tạo 
-G4-28 
-G4-29 
-G4-30 
-G4-31 
-G4-34
- 
-G4-37 
-Giai đoạn báo cáo 
-Thời gian báo cáo gần nhất 
-Chu kỳ báo cáo 
-Địa chỉ liên hệ 
+Các giá trị kinh tế trực tiếp được
+tạo ra và phân bổ
+Tăng trưởng bền vững về kinh tế
+Những tác động gián tiếp về kinh tế
+Tăng trưởng bền vững về kinh tế
+Tổng số lực lượng lao động, tỷ lệ tuyển dụng mới,
+tỷ lệ việc phân loại theo độ tuổi, giới tính, khu vực
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Việc làm
+Giáo dục đào tạo
+Giai đoạn báo cáo
+Thời gian báo cáo gần nhất
+Chu kỳ báo cáo
+Địa chỉ liên hệ
 Báo cáo cơ cấu quản trị của tổ chức
- 
-Báo cáo các quy trình tham vấn các bên liên 
-quan và cơ quan quản trị cao nhất về các chủ 
-đề kinh tế, môi trường và xã hội  
-Báo cáo vai trò cơ quan quản trị cao nhất 
-trong việc xác định và quản trị các tác động, 
-rủi ro và cơ hội kinh tế, môi trường và xã hội 
-Hoạt động quản trị rủi ro - Báo 
-cáo thường niên 
-Quản trị Doanh nghiệp hướng 
-tới phát triển bền vững 
-Tổng quan về báo cáo 
-Năm 2025 (thực hiện báo cáo 
-cho năm 2025) 
-Thường niên 
-Tổng quan về báo cáo 
-80
-43
-43
-G4-LA2 
-Phúc lợi đã cung cấp cho người lao động toàn thời 
-gian theo địa điểm hoạt động trọng yếu 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-48
-Tính đa dạng và cơ hội nghề nghiệp bình đẳng 
-G4-LA9 
-Giờ đào tạo mỗi năm cho người lao động 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-G4-LA11 
-Tỷ lệ phần trăm người lao động được đánh giá hiệu 
-quả công việc và phát triển nghề nghiệp định kỳ, 
-theo giới tính và danh mục người lao động 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-39
-G4-LA12 
-Thành phần các cấp quản lý và danh sách chi tiết 
-người lao động trong từng danh mục người lao 
-động theo giới tính, nhóm tuổi, thành viên nhóm 
-thiểu số và các chỉ số về tính đa dạng khác 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-39
-Công bằng thù lao cho Nữ và Nam 
-G4-LA13 
-Tỷ lệ lương và thù lao cơ bản của phụ nữ so với 
-nam giới theo danh mục người lao động, và theo 
-địa điểm hoạt động quan trọng 
-Gắn kết các bên liên quan vì 
-mục tiêu phát triển bền vững 
-43
-Cộng đồng địa phương 
-G4-LA13 
-Tỷ lệ phần trăm các hoạt động có sự tham gia của 
-cộng đồng địa phương, đánh giá tác động của các 
-chương trình phát triển đã thực hiện  
-Hành động vì cộng đồng 
-Trách nhiệm đối với sản phẩm 
-G4-S01 
-Kết quả khảo sát đánh giá mức độ hài lòng của 
-Khách hàng 
-Hành động vì Khách hàng 
-70
-G4-45 
-Thù lao và các khoản lợi ích 
-Báo cáo cơ chế thù lao cho cơ quan 
-quản trị cao nhất và các giám đốc 
-điều hành cấp cao 
-Thù lao và các khoản lợi ích 
-của HĐQT & BKS - Báo cáo 
-thường niên 
-86
-G4-51 
-MỤC TIÊU KINH TẾ  
-MỤC TIÊU KINH TẾ  
-130
-131
+Báo cáo các quy trình tham vấn các bên liên
+quan và cơ quan quản trị cao nhất về các chủ
+đề kinh tế, môi trường và xã hội
+Báo cáo vai trò cơ quan quản trị cao nhất
+trong việc xác định và quản trị các tác động,
+rủi ro và cơ hội kinh tế, môi trường và xã hội
+Hoạt động quản trị rủi ro - Báo
+cáo thường niên
+Quản trị Doanh nghiệp hướng
+tới phát triển bền vững
+Năm 2025 (thực hiện báo cáo
+cho năm 2025)
+Thường niên
+Phúc lợi đã cung cấp cho người lao động toàn thời
+gian theo địa điểm hoạt động trọng yếu
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Tính đa dạng và cơ hội nghề nghiệp bình đẳng
+Giờ đào tạo mỗi năm cho người lao động
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Tỷ lệ phần trăm người lao động được đánh giá hiệu
+quả công việc và phát triển nghề nghiệp định kỳ,
+theo giới tính và danh mục người lao động
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Thành phần các cấp quản lý và danh sách chi tiết
+người lao động trong từng danh mục người lao
+động theo giới tính, nhóm tuổi, thành viên nhóm
+thiểu số và các chỉ số về tính đa dạng khác
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Công bằng thù lao cho Nữ và Nam
+Tỷ lệ lương và thù lao cơ bản của phụ nữ so với
+nam giới theo danh mục người lao động, và theo
+địa điểm hoạt động quan trọng
+Gắn kết các bên liên quan vì
+mục tiêu phát triển bền vững
+Cộng đồng địa phương
+Tỷ lệ phần trăm các hoạt động có sự tham gia của
+cộng đồng địa phương, đánh giá tác động của các
+chương trình phát triển đã thực hiện
+Hành động vì cộng đồng
+Trách nhiệm đối với sản phẩm
+Kết quả khảo sát đánh giá mức độ hài lòng của
+Khách hàng
+Hành động vì Khách hàng
+Thù lao và các khoản lợi ích
+Báo cáo cơ chế thù lao cho cơ quan
+quản trị cao nhất và các giám đốc
+điều hành cấp cao
+Thù lao và các khoản lợi ích
+của HĐQT & BKS - Báo cáo
+thường niên
+MỤC TIÊU KINH TẾ
+MỤC TIÊU KINH TẾ
 PHÁT TRIỂN BỀN VỮNG
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-Tóm lược về Công ty và Bộ máy 
-tổ chức - Báo cáo thường niên
- 
+Tóm lược về Công ty và Bộ máy
 Ứng xử với các bên liên quan

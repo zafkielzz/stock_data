@@ -1,719 +1,668 @@
-Báo cáo thường niên Vinamilk 2024
-178
-179
 Luôn cầu tiến
-Báo cáo tài chính
-Báo cáo Kiểm toán 
-độc lập
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Sữa Việt Nam (“Công ty”) và các công ty con 
-(gọi chung là “Tập đoàn”), bao gồm báo cáo tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt 
-động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày và các thuyết minh kèm theo được 
-Ban Điều hành Công ty phê duyệt phát hành ngày 28 tháng 2 năm 2025, được trình bày từ trang 6 đến trang 62.
-Ban Điều hành Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn 
-mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày 
-báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo việc lập báo cáo 
-tài chính hợp nhất không có sai sót trọng yếu do gian lận hay nhầm lẫn.
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chúng tôi. Chúng 
-tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam.  Các chuẩn mực này yêu cầu chúng tôi tuân thủ 
-chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp 
-lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.  
-Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết 
-minh trong báo cáo tài chính.  Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót 
-trọng yếu trong báo cáo tài chính do gian lận hoặc nhầm lẫn.  Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm 
-soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm 
-toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. 
-Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các 
-ước tính kế toán của Ban Điều hành của Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
-Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của 
-chúng tôi. 
-Kính gửi các Cổ đông                  
+Báo cáo hoạt động
+Báo cáo về các giao dịch giữa
+Công Ty với các bên có liên quan
+Trong năm 2024, Hội Đồng Quản Trị cam kết mọi giao dịch với các bên liên quan của thành viên HĐQT và BĐH là hợp lý và theo
+cơ chế thị trường, công khai, minh bạch và phục vụ lợi ít tốt nhất của Công ty và cổ đông.  Tất cả giao dịch với các bên có liên
+quan đều được soát xét và phê duyệt theo đúng thẩm quyền, được Công ty công bố tại thuyết minh của báo cáo tài chính được
+kiểm toán bán niên và cả năm 2024. Vui lòng xem thuyết minh báo cáo tài chính năm 2024 tại đường dẫn sau tại đường dẫn sau
+https://www.vinamilk.com.vn/vi/quan-he-co-dong/bao-cao-tai-chinh
+Thù lao, chi phí hoạt động và các lợi ích khác của Hội Đồng
+Quản Trị và từng thành viên Hội Đồng Quản Trị
+Tổng kết các cuộc họp của Hội Đồng Quản Trị và các quyết định
+của Hội Đồng Quản Trị
+Hoạt động của Ủy ban kiểm toán và các Ủy ban khác thuộc Hội
+Thù lao cho Hội Đồng Quản Trị năm 2024 đã được Đại hội đồng cổ đông thường niên của Công ty phê duyệt là 25 tỷ đồng, tính
+theo số lượng 11 thành viên. Thù lao HĐQT sẽ được tính và chi trả tương ứng với số lượng thành viên thực tế. Mức thù lao thực
+chi trả cho từng thành viên sẽ do Ủy ban Lương thưởng đề xuất cho HĐQT xét duyệt dựa trên vai trò, nhiệm vụ, kết quả hoạt
+động của từng cá nhân và của Công ty trong năm, và tạo động lực để HĐQT lãnh đạo Công ty đạt được cả mục tiêu ngắn hạn và
+dài hạn. Ngoài thù lao, các thành viên HĐQT được tham gia vào Chương trình Bảo hiểm sức khỏe & Tai nạn dành cho bản thân
+và người thân gia đình trực hệ theo chính sách Bảo hiểm chung của Công ty.
+Các nội dung này đã được trình bày chi tiết như sau:
+Hoạt động của Ủy ban kiểm toán: Vui lòng xem chi tiết trong Báo cáo của Ủy ban kiểm toán tại trang 71-74.
+Hoạt động của Ủy ban nhân sự: Vui lòng xem chi tiết trong Báo cáo Quản trị công ty tại trang 146-147.
+Hoạt động của Ủy ban lương thưởng: Vui lòng xem chi tiết trong Báo cáo Quản trị công ty tại trang 147-148.
+Hoạt động của Ủy ban chiến lược: Vui lòng xem chi tiết trong Báo cáo Quản trị công ty tại trang 149.
+Ngoài ra, chi phí hoạt động của HĐQT trong năm 2024 là 4,17 tỷ đồng. Chi phí hoạt động của HĐQT chủ yếu là công tác phí như
+vé máy bay, phí lưu trú khách sạn cho các cuộc họp của HĐQT và các chuyến công tác đến các đơn vị như nhà máy, trang trại,
+các đơn vị thành viên trong tập đoàn.
+Thù lao của từng thành viên HĐQT đã trả trong năm 2024 được trình bày tại trang 138.
+Số Nghị quyết
+Ngày
+Nội dung
+Tỷ lệ
+thông qua
+Tình hình
+thực hiện
+01/NQ-CTS.HĐQT/2024
+Thưởng cho Tổng Giám đốc và ban Điều hành
+theo kết quả hoạt động năm 2023
+Đã hoàn tất
+02/NQ-CTS.HĐQT/2024
+Ngày tổ chức ĐHĐCĐ thường niên năm 2024
+Đã hoàn tất
+03/NQ-CTS.HĐQT/2024
+Điều chỉnh ngày chốt danh sách cổ đông nhận
+tạm ứng cổ tức đợt 3/2023
+Đã hoàn tất
+04/NQ-CTS.HĐQT/2024
+Thù lao còn lại năm 2023 của HĐQT
+Đã hoàn tất
+05/NQ-CTS.HĐQT/2024
+Điều chỉnh thù lao Thư ký Công ty
+Đã hoàn tất
+06/NQ-CTS.HĐQT/2024
+Đề cử nhân sự tham gia HĐQT của 02 công ty
+con là Vilico và Mộc Châu Milk
+Đã hoàn tất
+07/NQ-CTS.HĐQT/2024
+Bổ nhiệm bổ sung Thư ký Công ty
+Đã hoàn tất
+08/NQ-CTS.HĐQT/2024
+Đề cử nhân sự tham gia HĐQT & bổ nhiệm người
+đại diện vốn tại công ty con Vietsugar
+Đã hoàn tất
+09/NQ-CTS.HĐQT/2024
+Lựa chọn đơn vị kiểm toán 2024
+Đã hoàn tất
+10/NQ-CTS.HĐQT/2024
+Dự án nhà máy sữa Tây Ninh
+Đang
+triển khai
+11/NQ-CTS.HĐQT/2024
+Tăng vốn điều lệ cho công ty con Bò Sữa Việt
+Đang
+triển khai
+12/NQ-CTS.HĐQT/2024
+Đề cử ông Đoàn Quốc Khánh vào thành viên
+HĐQT của công ty con Lao Jagro
+Đã hoàn tất
+13/NQ-CTS.HĐQT/2024
+Chi trả cổ tức
+Đã hoàn tất
+14/NQ-CTS.HĐQT/2024
+Bổ nhiệm Tổng Giám đốc là người đại diện vốn
+các công ty con và liên kết
+Đã hoàn tất
+15/NQ-CTS.HĐQT/2024
+Tạm ứng cổ tức đợt 2 năm 2024 (tỷ lệ 5%)
+Đã hoàn tất
+16/NQ-CTS.HĐQT/2024
+Thông qua giao dịch với các bên liên quan
+Đã hoàn tất
+17/NQ-CTS.HĐQT/2024
+Bổ nhiệm Giám đốc Điều hành Phát triển
+Vùng nguyên liệu
+Đã hoàn tất
+18/NQ-CTS.HĐQT/2024
+Dừng liên doanh tại Philippines
+Đang
+triển khai
+
+Luôn cầu tiến
+Báo cáo hoạt động
+Đánh giá các hệ số tài chính chủ yếu
+Các chỉ tiêu tài chính quan trọng
+1. Chỉ tiêu về khả năng thanh toán
+Hệ số thanh toán ngắn hạn
+Hệ số thanh toán nhanh
+2. Chỉ tiêu về cơ cấu vốn
+Hệ số nợ/Tổng tài sản
+Hệ số nợ/Vốn chủ sở hữu
+3. Chỉ tiêu về năng lực hoạt động
+Vòng quay hàng tồn kho
+Vòng quay các khoản phải thu
+Vòng quay các khoản phải trả
+Vòng quay tổng tài sản
+Tỷ suất lợi nhuận trên tài sản (ROA)
+Tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE)
+4. Chỉ tiêu về khả năng sinh lời
+Hệ số LNST/Doanh thu thuần
+Hệ số LNST/Vốn chủ sở hữu
+Hệ số LNST/Tổng tài sản
+Hệ số Lợi nhuận từ HĐKD/Doanh thu thuần
+Các hệ số về khả năng thanh toán năm 2024 được duy trì ổn
+định so với cùng kỳ, đảm bảo thanh khoản phục vụ sản xuất
+kinh doanh và chi trả cổ tức cho cổ đông.
+Các hệ số về cơ cấu vốn năm 2024 tăng nhẹ so với cùng kỳ
+để tối ưu cấu trúc vốn, đồng thời phù hợp với điều kiện lãi suất
+trong năm. Tổng số dư các khoản vay ngắn và dài hạn tại thời
+điểm 31/12/2024 là 9.273 tỷ đồng, tăng 9,7% so với cùng kỳ.
+Chi tiết các khoản vay được trình bày tại thuyết minh số V.15
+Các hệ số về năng lực hoạt động năm 2024 không thay đổi
+đáng kể so với cùng kỳ do công ty duy trì chính sách quản lý
+hàng tồn kho và công nợ. Vòng quay tổng tài sản năm 2024
+thay đổi nhẹ so với cùng kỳ do Công ty mở rộng đầu tư tài sản
+cố định thuộc các dự án trọng điểm để xây dựng nguồn tăng
+trưởng cho tương lai, do đó không ảnh hưởng đến hiệu quả sử
+dụng tài sản. Trong năm, Công ty không ghi nhận các khoản
+nợ phải trả, phải thu xấu hoặc tài sản xấu có ảnh hưởng trọng
+yếu đến kết quả kinh doanh.
+Chi phí lãi vay và chênh lệch tỷ giá hối đoái năm 2024 được
+nhất năm 2024 tại đường dẫn sau https://www.vinamilk.com.
+vn/vi/quan-he-co-dong/bao-cao-tai-chinh.
+Công tác quan hệ nhà đầu tư đã đạt được nhiều kết quả nổi
+bật. Đầu tiên, Vinamilk đã tổ chức thành công Đại Hội Đồng Cổ
+Đông Thường Niên năm 2024 của Vinamilk và hai công ty con
+niêm yết là Vilico và Sữa Mộc Châu theo hình thức trực tuyến,
+tạo điều kiện thuận lợi cho tất cả cổ đông cùng tham dự. Công
+ty cũng đảm bảo tuân thủ các quy định về công bố thông tin
+định kỳ và bất thường, góp phần nâng cao uy tín và niềm tin
+của cổ đông đối với Công ty.
+Hoạt động kết nối trực tiếp với nhà đầu tư đã được Công ty
+hết sức chú trọng nhằm gia tăng độ phủ về câu chuyện cổ
+phiếu của Vinamilk và cải thiện thanh khoản. Cụ thể, công ty
+đã tổ chức 160 cuộc gặp và tham gia 8 hội nghị đầu tư tại
+Việt Nam và các thị trường tài chính trọng điểm như Singapore
+(tháng 8/2024), Hong Kong (tháng 9/2024), Anh, Mỹ (tháng
+11/2024), đồng thời duy trì tương tác thường xuyên qua email
+với hơn 600 nhà đầu tư tổ chức và 10.000 nhà đầu tư cá nhân.
+Công ty cũng đặt mục tiêu công bố thông tin vượt trên tuân
+thủ với 4 bản tin nhà đầu tư và 4 cuộc họp chuyên viên phân
+tích (analyst meeting) định kỳ hàng quý với sự tham gia của
+các đại diện Ban Điều hành. Các tài liệu công bố đều đã được
+công bố trên website Công ty tại đường dẫn sau:
+https://www.vinamilk.com.vn/vi/quan-he-co-dong.
+Bên cạnh đó, ban quan hệ nhà đầu tư đã phối hợp hiệu quả
+với phòng ban nội bộ khác để theo dõi và kiểm soát các thông
+tin sai lệch về Vinamilk trên báo chí, mạng xã hội nhằm bảo vệ
+quyền lợi của cổ đông.
+Với những nỗ lực trên, Vinamilk tự hào khi đạt thứ hạng cao
+trong cuộc bình chọn Doanh Nghiệp Niêm Yết 2024 do Sở
+GDCK Tp.HCM và Báo Đầu tư tổ chức, bao gồm các giải
+tuân thủ”. Công ty cũng nhận được 2 giải thưởng về hoạt động
+quan hệ nhà đầu tư tốt nhất dành cho doanh nghiệp vốn hóa
+lớn trong cuộc bình chọn IR Awards của Vietstock do các định
+chế tài chính và nhà đầu tư cá nhân bình chọn.
+Quan hệ nhà đầu tư
+
+Luôn cầu tiến
+Công bố thông tin về họp ĐHĐCĐ hoặc Thông báo mời họp
+ĐHĐCĐ của Công ty sẽ thực hiện đồng thời bằng 02 ngôn ngữ
+là tiếng Việt và Tiếng Anh như đã được trình bày ở trong báo
+cáo này tại mục A.2.12/A.2.13/A.2.14: Công bố thông tin về họp
+ĐHĐCĐ thường niên.
+Theo đó, công bố thông tin về họp ĐHĐCĐ thường niên 2024
+và 2025 đã được Vinamilk thực hiện song ngữ (Việt – Anh).
+Trong năm, Công ty không có phát sinh giao dịch làm tăng
+hoặc giảm vốn điều lệ và chỉ có một loại cổ phần phổ thông.
+A.6 Các nội dung khác liên quan đến ĐHĐCĐ
+A.7 Giao dịch cổ phiếu Vinamilk của Cổ đông/nhóm Cổ
+đông lớn, Người nội bộ của Công ty và người có liên
+quan của Người nội bộ
+A.6.1 Vấn đề trình ĐHĐCĐ phê duyệt và ban hành nghị quyết
+cho vấn đề đó.
+A.6.3 Công bố thông tin ứng viên bầu cử thành viên HĐQT
+A.6.4 Vấn đề trình lựa chọn đơn vị kiểm toán độc lập
+A.6.5 Giấy ủy quyền tham dự và biểu quyết tại ĐHĐCĐ
+A.6.2 Ngôn ngữ của thông báo họp ĐHĐCĐ
+Nội dung công bố thông tin hoặc thư mời họp ĐHĐCĐ thông
+thường thì sẽ không bao gồm thông tin về hồ sơ ứng viên bầu
+cử thành viên HĐQT. Nội dung này sẽ được trình bày tại mục
+bầu cử thành viên HĐQT D.3.10 bên dưới.
+Việc chọn đơn vị kiểm toán độc lập là một vấn đề trình ĐHĐCĐ
+và được trình bày trong tài liệu họp ĐHĐCĐ và được Công ty
+công bố chậm nhất hai mươi mốt (21) ngày trước ngày khai
+mạc đại hội.
+Trong tài liệu họp ĐHĐCĐ thường niên 2024, việc trình lựa
+chọn đơn vị kiểm toán độc lập được trình bày tại mục “Vấn đề
+8. Lựa chọn đơn vị kiểm toán độc lập cho năm tài chính 2024”.
+Nhằm tạo điều kiện cho các Cổ đông ủy quyền cho mình tham
+dự ĐHĐCĐ trong trường hợp Cổ đông không tham dự được thì
+Vinamilk có công bố mẫu giấy ủy quyền để Cổ đông tham khảo
+và sử dụng. Giấy ủy quyền tham dự và biểu quyết tại ĐHĐCĐ
+cũng là một phần của bộ tài liệu phục vụ ĐHĐCĐ và được Công
+ty công bố chậm nhất hai mươi mốt (21) ngày trước ngày khai
+mạc đại hội. Cổ đông cũng có thể tự lập giấy ủy quyền theo
+quy định của pháp luật về dân sự và phải nêu rõ tên cá nhân,
+tổ chức được ủy quyền và số lượng cổ phần được ủy quyền.
+Căn cứ theo Thông tư 96/2020/TT-BTC ngày 16/11/2020 của
+Bộ Tài chính và tại Mục D của Quy chế CBTT của Vinamilk
+ban hành theo Nghị quyết số 13/NQ-CTS.HĐQT/2022 ngày
+20/10/2022 của HĐQT Vinamilk qui định:
+Công ty chỉ có thể tăng, giảm Vốn Điều Lệ của mình khi
+được ĐHĐCĐ thông qua và phù hợp với các quy định của
+Pháp Luật.
+Trong quá trình hoạt động của mình, Công ty có thể phát
+hành cổ phần ưu đãi khác sau khi có sự chấp thuận của
+ĐHĐCĐ và phù hợp với các quy định của Pháp Luật.
+Theo qui định của pháp luật hiện hành và thông lệ quản trị
+tại Vinamilk, từng vấn để trình cho ĐHĐCĐ phê duyệt phải
+là riêng biệt, độc lập và được trình bày theo từng vấn đề
+biểu quyết trong tài liệu họp ĐHĐCĐ, không được gộp từ
+hay (02) hay nhiều vấn đề độc lập với nhau vào một (01)
+vấn đề để trình ĐHĐCĐ phê duyệt.
+Điều 4.9.d) của Quy chế Nội bộ về QTCT của Vinamilk
+qui định: Khi tiến hành biểu quyết tại Đại hội, Cổ đông
+và Người Được Ủy Quyền Dự Họp thực hiện biểu quyết
+cho từng vấn đề trong nội dung chương trình họp trên
+Phiếu biểu quyết. Việc biểu quyết được tiến hành bằng
+cách đánh dấu vào một trong các tình trạng biểu quyết
+“tán thành”, “không tán thành” hoặc “không có ý kiến”
+cho từng vấn đề. Đồng thời, các Cổ đông và Người Được
+Ủy Quyền Dự Họp phải tuân theo sự hướng dẫn của Ban
+kiểm phiếu.
+Nghị quyết ĐHĐCĐ thông thường sẽ được Vinamilk ban
+hành thành một (01) nghị quyết hành để ghi nhận kết quả
+biểu quyết/bầu cử đã được ĐHĐCĐ thông qua và không
+thông qua. Trong trường hợp cần thiết (nếu có) thì ĐHĐCĐ
+có thể ban hành nhiều hơn một (01) nghị quyết để thực
+hiện. ĐHĐCĐ thường niên  2024 của Vinamilk chỉ ban hành
+một (01) Nghị quyết số 01/NQ-CTS.ĐHĐCĐ/2024 ngày
+Người nội bộ của Công ty và người có liên quan của các
+đối tượng này (sau đây gọi chung là người có liên quan)
+phải CBTT, báo cáo trước và sau khi thực hiện giao dịch
+cho UBCKNN, SGDCK và Công ty khi giá trị giao dịch dự
+kiến trong ngày từ 50 triệu đồng trở lên hoặc giá trị giao
+dịch dự kiến trong từng tháng từ 200 triệu đồng trở lên tính
+theo mệnh giá, kể cả trường hợp chuyển nhượng không
+thông qua hệ thống giao dịch tại, cụ thể gồm những nội
+dung chính như sau:
+Trước ngày dự kiến thực hiện giao dịch tối thiểu ba
+(03) ngày làm việc, người nội bộ và người có liên quan
+phải CBTT về việc dự kiến giao dịch;
+Thời hạn thực hiện giao dịch không được quá ba mươi
+(30) ngày, kể từ ngày đăng ký thực hiện giao dịch.
+Người nội bộ và người có liên quan phải thực hiện theo
+thời gian, khối lượng, giá trị do SGDCK đã CBTT và chỉ
+được thực hiện giao dịch đầu tiên vào ngày giao dịch
+liền sau ngày có thông tin công bố từ SGDCK;
+Người nội bộ và người có liên quan không được đồng
+thời đăng ký, giao dịch mua và bán cổ phiếu trong
+cùng một đợt đăng ký, giao dịch và chỉ được đăng ký,
+thực hiện giao dịch tiếp theo khi đã báo cáo kết thúc
+đợt giao dịch trước đó;
+HĐQT phê duyệt các dự án mua bán và sáp nhập khác còn
+lại, trừ các giao dịch đã quy định ở trên.
+Đối với các giao dịch mua bán và sáp nhập thuộc thẩm quyền
+phê duyệt của ĐHĐCĐ thì bắt buộc Công ty phải thuê đơn vị tư
+vấn độc lập để xác định giá trị giao dịch hợp lý.
+Trong năm 2024, Vinamilk không có phát sinh giao dịch mua
+bán và sáp nhập.
+Tại Điều 6 của Điều lệ hoạt động của Công ty qui định:
+Để thúc đẩy tiếp cận hiệu quả việc đối thoại giữa Cổ đông,
+Nhà đầu tư và các bên có liên quan với Công ty, Vinamilk luôn
+bảo đảm có được sự tiếp cận dễ dàng và không phân biệt đối
+xử với những thông tin đã được công bố bằng các công cụ
+truyền thông đa dạng. Ngoài ra, Vinamilk có ban chuyên trách
+về công tác Quan hệ Nhà đầu tư  luôn sẵn sàng tiếp đón Cổ
+đông, Nhà đầu tư và các bên liên quan như dưới đây:
+Ngoài cuộc họp ĐHĐCĐ thường niên ngày 25/04/2024, Công
+ty đã thực hiện các hoạt động Quan hệ Nhà đầu tư  trong năm
+2024 như sau:
+Ghi chú: Kết quả kinh doanh Q4/2024 sẽ được Công ty tổ
+chức họp trong tháng 2/2025.
+Vinamilk duy trì kênh công bố thông tin bằng nhiều hình
+thức như:
+Vinamilk cam kết luôn công bố thông tin song ngữ
+(Tiếng Việt và Tiếng Anh) để Cổ đông và Nhà đầu tư nước
+ngoài có thể cập nhật được thông tin nhanh nhất, thuận
+tiện nhất.
+Thông qua Ban Quan hệ Nhà đầu tư  (IR) của Công ty
+như sau:
+Thực hiện và tuân thủ đầy đủ nghĩa vụ công bố thông tin
+của công ty đại chúng theo luật pháp hiện hành quy định;
+Tổ chức 04 cuộc họp định kỳ để thông tin kết quả hoạt
+động kinh doanh của Công ty trong quý sau khi công bố
+người tham  gia (Cổ đông, nhà phân tích tài chính, nhà đầu
+Phát hành 04 bản tin nhà đầu tư vào ngày 30/01, 26/04,
+30/07 và 30/10 để cung cấp thông tin về kết quả kinh
+doanh của Công ty sau mỗi quý tương ứng Q4/2023,
+Q1/2024, Q2/2024 và Q3/2024. Ngoài ra, Bản tin nhà
+đầu tư về thông tin kết quả kinh doanh Q4/2024 cũng
+đã được Công ty phát hành vào ngày 24/01/2025. Tất cả
+các bản tin này cũng đã được công bố trên website của
+Công ty.
+Tổ chức 160 cuộc gặp trực tiếp và trực tuyến với Cổ đông,
+nhà đầu tư và tham gia 8 hội nghị đầu tư tại Việt Nam và
+các thị trường tài chính trọng điểm như Singapore (tháng
+8/2024), Hong Kong (tháng 9/2024), Anh, Mỹ (tháng
+Duy trì kênh tương tác thường xuyên qua email với hơn
+600 nhà đầu tư tổ chức và 10.000 nhà đầu tư cá nhân;
+Vốn Điều Lệ của Công ty là: 20.899.554.450.000 đồng
+(Bằng chữ: Hai mươi nghìn tám trăm chín mươi chín tỷ năm
+trăm năm mươi bốn triệu bốn trăm năm mươi nghìn đồng).
+Mệnh giá của cổ phần là 10.000 (mười nghìn) đồng/cổ
+phần. Tổng số cổ phần của Công ty bằng với Vốn Điều Lệ
+của Công ty chia cho mệnh giá của cổ phần.
+Các cổ phần của Công ty vào ngày thông qua Điều Lệ này
+đều là cổ phần phổ thông.
+Tất cả Cổ đông được Công ty đối xử bình đẳng. Theo đó,
+mỗi cổ phần của cùng một loại đều tạo cho Cổ đông sở
+hữu các quyền, nghĩa vụ và lợi ích ngang nhau. Trường hợp
+Công ty có các loại cổ phần ưu đãi, các quyền và nghĩa
+vụ gắn liền với các loại cổ phần ưu đãi phải được ĐHĐCĐ
+thông qua và công bố đầy đủ cho Cổ đông (trích Điều 9.2.i
+của Điều lệ Vinamilk);
+Họp lần 1: tháng 2/2024 thông tin về kết quả kinh
+Họp lần 2: tháng 5/2024 thông tin về kết quả kinh
+Họp lần 3: tháng 8/2024 thông tin về kết quả kinh
+Họp lần 4: tháng 11/2024 thông tin về kết quả kinh
+Trên website của Công ty tại đường dẫn https://www.
+vinamilk.com.vn/vi/quan-he-co-dong
+Trên website của HOSE tại đường dẫn https://www.
+hsx.vn/Modules/Listed/Web/SymbolView/128
+A.4 Công tác chuyên trách về Quan hệ Nhà đầu tư
+A.5 Cổ phần và quyền biểu quyết
+Thành viên HĐQT, Tổng Giám đốc, Giám Đốc Điều
+Hành và Người Có Liên Quan của các đối tượng này;
+Cổ đông, người đại diện theo ủy quyền của Cổ đông
+sở hữu trên 10% tổng vốn cổ phần phổ thông của
+Công Ty và những Người Có Liên Quan của họ;
 Công ty Cổ phần Sữa Việt Nam
-Trách nhiệm của Ban Điều hành
-Trách nhiệm của kiểm toán viên
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình 
-tài chính hợp nhất của Công ty Cổ phần Sữa Việt Nam và các công ty con tại ngày 31 tháng 12 năm 2024, kết quả hoạt động 
-kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con trong năm kết thúc cùng ngày, phù hợp với 
-các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và 
-trình bày báo cáo tài chính.
-Bản đầy đủ của báo cáo tài chính Riêng và Hợp Nhất đã kiểm toán của Công ty năm 2024 đã được công 
-bố trên website của Công ty vào ngày 28 tháng 02 năm 2024, bao gồm: Bảng cân đối kế toán; Báo cáo 
-kết quả hoạt động kinh doanh; Báo cáo lưu chuyển tiền tệ; Bản thuyết minh Báo cáo tài chính theo quy 
-định pháp luật về kế toán và kiểm toán. Vui lòng xem chi tiết tại đường dẫn sau: https://www.vinamilk.
-com.vn/vi/quan-he-co-dong/bao-cao-tai-chinh hoặc quét mã QR bên cạnh.
-Báo cáo kiểm toán số: 22-01-00293-25-2
-Triệu Tích Quyền
-Nguyễn Thùy Ninh
-Giấy Chứng nhận Đăng ký Hành nghề
-Kiểm toán số 4629-2023-007-1
-Phó Tổng Giám đốc
-Giấy Chứng nhận Đăng ký Hành nghề
-Kiểm toán số 4623-2023-007-1
-Ý kiến của kiểm toán viên 
-Chi nhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh, Việt Nam
-Thành phố Hồ Chí Minh, ngày 28 tháng 2 năm 2025
-KPMG Limited Branch
-10th Floor, Sun Wah Tower
-115 Nguyen Hue Street, Ben Nghe Ward
-District 1, Ho Chi Minh City, Vietnam
-+84 (28) 3821 9266 | kpmg.com.vn
+10 Tân Trào, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh
+Nhân sự phụ trách: Ông Đồng Quang Trung, Trưởng
+ban IR
+Email: dqtrung@vinamilk.com.vn
+Trong thời hạn năm (05) ngày làm việc, kể từ ngày
+hoàn tất giao dịch (trường hợp giao dịch kết thúc
+trước thời hạn đăng ký) hoặc kết thúc thời hạn dự
+kiến giao dịch, người nội bộ và người có liên quan
+phải CBTT về kết quả giao dịch đồng thời giải trình
+nguyên nhân không thực hiện được giao dịch hoặc
+không thực hiện hết khối lượng đăng ký (nếu có);
+dịch phát sinh trong vòng 12 tháng kể từ ngày thực hiện
+giao dịch đầu tiên có giá trị từ hai mươi phần trăm (20%)
+nhất của Công Ty và các đối tượng sau:
+tư, báo chí,…) và có sự tham gia của Ban Điều hành Công
+ty như Tổng Giám đốc, Giám đốc Điều hành Tài chính,
+Giám đốc Điều hành Marketing:
+Cổ đông lớn, nhóm người có liên quan sở hữu từ năm phần
+trăm (05%) trở lên số cổ phiếu có quyền biểu quyết của
+Công ty phải CBTT và báo cáo về giao dịch cho Công
+ty, công ty quản lý quỹ đầu tư chứng khoán, UBCKNN và
+SGDCK trong thời hạn năm (05) ngày làm việc, kể từ ngày
+trở thành hoặc không còn là Cổ đông lớn hoặc khi có thay
+đổi về số lượng cổ phiếu sở hữu qua các ngưỡng một phần
+trăm (1%) số cổ phiếu có quyền biểu quyết.
 
-Báo cáo thường niên Vinamilk 2024
-180
-181
 Luôn cầu tiến
-Báo cáo tài chính
-31/12/2024
-Triệu VND
-31/12/2023
-Triệu VND
-Tài sản ngắn hạn
-37.501.520
-35.931.145
-Tiền và các khoản tương đương tiền
- 2.225.944 
-2.912.027
-Các khoản đầu tư khác
- 23.260.089 
-20.137.243
-Phải thu khách hàng và phải thu khác
- 6.380.777 
-6.799.642
-Hàng tồn kho
- 5.634.710 
-6.082.233
-Tài sản dài hạn
-19.491.725
-18.301.346
-Các khoản đầu tư khác
- 750.966 
-228.636
-Phải thu khách hàng và phải thu khác
- 368.084 
-437.546
-Quyền sử dụng tài sản
- 1.158.883 
-979.312
-Nhà xưởng, máy móc và thiết bị
- 11.852.774 
-11.514.220
-Tài sản sinh học
- 1.488.268 
-1.383.074
-Tài sản vô hình và lợi thế thương mại
- 3.106.730 
-3.087.920
-Bất động sản đầu tư
- 53.618 
-55.594
-Đầu tư vốn được hạch toán theo 
-phương pháp vốn chủ sở hữu
- 622.224
- 
-602.591 
-Tài sản thuế thu nhập hoãn lại
- 90.178 
-12.453
-Tổng tài sản
-56.993.245
-54.232.491
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo tình hình tài chính hợp nhất 
-tại ngày 31 tháng 12 năm 2024
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo tình hình tài chính hợp nhất 
-tại ngày 31 tháng 12 năm 2024 (tiếp theo)
-31/12/2024
-Triệu VND
-31/12/2023
-Triệu VND
-Nợ phải trả và vốn chủ sở hữu
-Nợ phải trả
-19.827.315
-18.448.765
-Nợ ngắn hạn
-18.500.425
-17.182.479
-Vay ngắn hạn
- 9.115.435 
-8.271.117
-Phải trả người bán và phải trả khác
- 8.130.526 
-7.778.770
-Nợ thuê tài sản
- 48.650 
--
-Thuế thu nhập doanh nghiệp phải nộp
- 885.059 
-803.305
-Thuế phải nộp khác
- 129.419 
-164.574
-Người mua trả tiền trước
- 191.336 
-164.713
-Nợ dài hạn
-1.326.890
-1.266.286
-Vay dài hạn
- 157.904 
-238.476
-Phải trả người bán và phải trả khác
- 723 
-1.063
-Nợ thuê tài sản
- 737.077 
-588.616
-Dự phòng trợ cấp thôi việc
- 174.701 
-168.733
-Thuế thu nhập hoãn lại phải trả
- 256.485 
-269.398
-Vốn chủ sở hữu
-37.165.930
-35.783.726
-Vốn chủ sở hữu của cổ đông Công ty
-33.199.680
-32.391.741
-Vốn cổ phần
- 20.899.554 
-20.899.554
-Thặng dư vốn cổ phần
- 34.111 
-34.111
-Vốn khác của chủ sở hữu
- 499.081 
-499.081
-Chênh lệch giá trị hợp lý
- (15.048)
-(14.950)
-Chênh lệch quy đổi tiền tệ
- 295.165 
-174.150
-Các quỹ khác
- 7.079.115 
-6.163.736
-Lợi nhuận chưa phân phối
- 4.407.702 
-4.636.059
-Lợi ích cổ đông không kiểm soát
-3.966.250
-3.391.985
-Tổng nợ phải trả và vốn chủ sở hữu
-56.993.245
-54.232.491
-Báo cáo tài chính hợp nhất cho năm  
-kết thúc ngày 31 tháng 12 năm 2024
-Lập theo Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS)
+Thành viên HĐQT không được quyền biểu quyết về các
+hợp đồng hoặc giao dịch mà thành viên đó hoặc Người
+Có Liên Quan tới thành viên đó có lợi ích và lợi ích đó
+mâu thuẫn hoặc có thể mâu thuẫn với lợi ích của Công
+ty. Thành viên HĐQT không được tính vào số lượng đại
+biểu tối thiểu cần thiết có mặt để có thể tổ chức cuộc họp
+HĐQT về những quyết định mà thành viên đó không có
+quyền biểu quyết.
+Theo quy định này, khi có vấn đề phát sinh trong một cuộc
+họp của HĐQT liên quan đến lợi ích của thành viên HĐQT
+hoặc liên quan đến quyền biểu quyết một thành viên mà
+những vấn đề đó không được giải quyết bằng việc tự
+nguyện từ bỏ quyền biểu quyết của thành viên HĐQT có
+liên quan, những vấn đề phát sinh đó được chuyển tới cho
+chủ toạ cuộc họp quyết định. Phán quyết của chủ toạ liên
+quan đến vấn đề này có giá trị là quyết định cuối cùng trừ
+trường hợp tính chất hoặc phạm vi lợi ích của thành viên
+HĐQT liên quan chưa được công bố đầy đủ.
+Trong cuộc họp ngày 29/01/2024 thì HĐQT có biểu quyết
+cho nội dung thưởng kết quả kinh doanh năm 2023 cho
+TGĐ và Ban Điều hành. Theo đó, Bà Mai Kiều Liên và Ông
+Lê Thành Liêm là thành viên HĐQT điều hành nên đã
+không tham gia biểu quyết cho nội dung này vì có lợi ích
+liên quan.
+Ngoài ra, biến động về số lượng cổ phiếu mà Người nội bộ
+và người có liên quan sở hữu tại Vinamilk cũng được công
+bố định kỳ 06 tháng và cả năm trong Báo cáo QTCT trên
+website của Công ty.
+Vinamilk đã ban hành chính sách kiểm soát giao dịch
+với các bên liên quan số 06/TTISO/12/KSNB/23 ngày
+14/12/2023. Nội dung chính của chính sách bao gồm:
+Trong năm 2024, Công ty cam kết mọi giao dịch với các bên
+liên quan được thực hiện theo cách đảm bảo rằng những
+giao dịch đó là hợp lý và theo cơ chế thị trường, công khai,
+minh bạch. Tất cả giao dịch với các bên có liên quan đều
+được Ủy ban Kiểm toán soát xét nhằm đảm bảo các nội
+dung trên và được trình bày tại thuyết minh của báo cáo tài
+chính được kiểm toán bán niên và hàng năm. Báo cáo tài
+chính được kiểm toán năm phải trình cho tất cả thành viên
+HĐQT xem xét và trình cho ĐHĐCĐ thông qua hàng năm.
+Khoản 2, Điều 12, Điều lệ Công ty qui định Cổ đông không
+có quyền tham gia biểu quyết trong trường hợp phát sinh
+các giao dịch mà Cổ đông hoặc Người Có Liên Quan đến
+Cổ đông có quyền và lợi ích liên quan. Các vấn đề đã trình
+cho ĐHĐCĐ thì không có Cổ đông nào có quyền và lợi ích
+liên quan và không tham gia biểu quyết.
+A.8 Giao dịch với các bên liên quan của thành viên
+HĐQT và BĐH.
+A.9 Bảo vệ Cổ đông thiểu số khỏi những hành vi lạm
+dụng liên quan đến giao dịch với các bên liên quan.
+A.8.1 Điều 12.3 của Quy chế Nội bộ về QTCT qui định rằng
+HĐQT giao UBKT trách nhiệm rà soát giao dịch với người có liên
+quan (bao gồm giao dịch giữa Công ty với thành viên HĐQT,
+với thành viên BĐH, với Người nội bộ khác hoặc người có liên
+với Người nội bộ) thuộc thẩm quyền phê duyệt của HĐQT hoặc
+ĐHĐCĐ và đưa ra khuyến nghị về những giao dịch cần có phê
+duyệt của HĐQT hoặc ĐHĐCĐ.
+Trong năm 2024, Công ty cam kết mọi giao dịch với các bên
+liên quan của thành viên HĐQT và BĐH là hợp lý và theo cơ
+chế thị trường, công khai, minh bạch và phục vụ lợi ít tốt nhất
+của Công ty và Cổ đông.  Ngoài ra, tất cả giao dịch với các bên
+có liên quan đều được trình bày tại thuyết minh của báo cáo
+tài chính được kiểm toán bán niên và cả năm 2024. Báo cáo
+tài chính được kiểm toán năm 2024 cũng phải trình cho tất cả
+thành viên HĐQT xem xét và trình cho ĐHĐCĐ thường niên
+2024 thông qua.
+A.8.2 Điểm e và g, Điều 11.5 của Quy chế Nội bộ về QTCT
+qui định:
+A.8.3 Công ty không cấp các khoản vay hoặc bảo lãnh cho
+các thành viên HĐQT, Tổng Giám đốc, Giám đốc Điều Hành
+và Người Có Liên Quan của họ hoặc bất kỳ pháp nhân nào mà
+ở đó những người này có các lợi ích tài chính, trừ trường hợp
+các khoản vay hoặc bảo lãnh nêu trên đã được ĐHĐCĐ chấp
+thuận. Từ trước đến nay, Vinamilk không có phát sinh các giao
+dịch này.
+Trong năm 2024, Người nội bộ và người có liên quan đã thực hiện đúng và đầy đủ nghĩa vụ CBTT liên quan đến giao dịch cổ
+phiếu Vinamilk và không có giao dịch nào được ghi nhận. Thông tin sở hữu cổ phiếu Vinamilk của Người nội bộ và người có liên
+quan trong năm 2024 như sau:
+Người nội bộ và người có liên quan
+Số cổ phiếu sở hữu đầu năm 2024
+Số cổ phiếu sở hữu cuối năm 2024
+Số cổ phiếu
+Số cổ phiếu
+Thành viên Hội Đồng Quản Trị
+Mai Kiều Liên
+Lê Thành Liêm
+Ban Điều hành
+Bùi Thị Hương
+Nguyễn Quốc Khánh
+Nguyễn Quang Trí
+Lê Hoàng Minh
+Đoàn Quốc Khánh
+Thư ký Công ty
+Lê Quang Thanh Trúc
+Người có liên quan của Người nội bộ
+Tổng công ty Đầu tư và kinh doanh
+vốn Nhà Nước (“SCIC”)
+(Liên quan với Ông Lê Thành Liêm,
+Bà Đặng Thị Thu Hà và Ông Hoàng
+Ngọc Thạch)
+F&N Dairy Investments Pte Ltd
+F&NBev Manufacturing Pte. Ltd.
+PLATINUM VICTORY PTE.LTD.
+(Liên quan với Ông Alain Xavier
+Cany)
+Mai Quang Liêm
+(Em trai Bà Mai Kiều Liên)
+Lê Thị Ngọc Thúy
+(Em dâu Bà Mai Kiều Liên)
+Mục đích: i) nhằm đảm bảo các giao dịch với các bên
+có liên quan được nhận diện, kiểm soát giao dịch
+được thực hiện theo cơ chế thị trường, công khai,
+minh bạch; ii) nhận diện các đối tượng là các bên có
+liên quan và iii) việc trình bày và công bố theo luật
+định, chuẩn mực kế toán và đảm bảo quyền, lợi ích
+hợp pháp của Công ty và Cổ đông.
+Đối tượng và phạm vi áp dụng:
+Các nguyên tắc thực hiện:
+Cổ đông nắm giữ trên 10% số cổ phần của Công ty;
+Thành viên HĐQT, Tổng Giám đốc, Ban Điều
+hành, Kế toán trưởng, Giám đốc chi nhánh, Giám
+đốc phòng chức năng đơn vị, các cấp quản lý
+còn lại của Công ty từ cấp Trưởng Ban trở lên;
+Công ty con và công ty liên kết;
+Người có liên quan với các đối tượng i), ii) và iii)
+ở trên theo qui định của pháp luật và theo chính
+sách kiểm soát giao dịch với các liên quan của
+Vinamilk.
+Chính sách được xác lập trên cơ sở phạm vi bắt
+buộc của pháp luật và ý chí quản trị của Công ty.
+Công ty đã ban hành Thủ tục kiểm soát giao
+dịch với các bên có liên quan số QP-74-05 và
+các văn bản và biểu mẫu hướng dẫn cần thiết
+để thực thi Chính sách này. Toàn bộ tài liệu được
+công bố công khai trên cổng thông tin nội bộ của
+Vinamilk.
+Công ty sẽ tổ chức thực hiện các biện pháp kiểm
+soát để nhận diện, phê duyệt, giải trình và công
+bố trên cơ sở kê khai của các đối tượng.
+Không có bất cứ ngoại lệ nào trong việc kiểm
+soát giao dịch với các bên có liên quan.
+Chính sách này sẽ được soát xét hàng năm và
+điều chỉnh (nếu có) để phù hợp với tình hình thực
+tế và các thay đổi về luật định.
+Cổ đông lớn của Công ty đều đồng thời là người có liên
+quan đến Người nội bộ như đã trình bày bảng trên.
 
-Báo cáo thường niên Vinamilk 2024
-182
-183
 Luôn cầu tiến
-Báo cáo tài chính
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo kết quả hoạt động kinh doanh
-và thu nhập toàn diện khác hợp nhất 
-cho năm kết thúc ngày 31 tháng 12 năm 2024
-2024
-Triệu VND
-2023
-Triệu VND
-I. Báo cáo lãi lỗ
-Doanh thu
-52.576.991
-51.465.324
-Giá vốn hàng bán và dịch vụ cung cấp
-(37.410.722)
-(36.962.188)
-Lợi nhuận gộp
-15.166.269
-14.503.136
-Thu nhập khác
- 116.826 
-247.786
-Chi phí bán hàng
- (3.728.884)
-(3.746.874)
-Chi phí quản lý doanh nghiệp
- (1.784.433)
-(1.738.545)
-Chi phí khác
-(105.888)
-(149.501)
-Lợi nhuận từ hoạt động kinh doanh
-9.663.890
-9.116.002
-Doanh thu hoạt động tài chính
-1.456.409
-1.546.046
-Chi phí tài chính
- (319.296)
-(385.730)
-Thu nhập tài chính thuần
-1.137.113
-1.160.316
-Lãi/(lỗ) được chia từ phần đầu tư vốn 
-được hạch toán theo phương pháp vốn chủ sở hữu
-32.003
-(80.631)
-Lợi nhuận trước thuế
-10.833.006
-10.195.687
-Thuế thu nhập doanh nghiệp
-(2.146.761)
-(1.948.545)
-Lợi nhuận thuần
-8.686.245
-8.247.142
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo kết quả hoạt động kinh doanh
-và thu nhập toàn diện khác hợp nhất
-cho năm kết thúc ngày 31 tháng 12 năm 2024 (tiếp theo)
-2024
-Triệu VND
-2023
-Triệu VND
-II. Báo cáo thu nhập toàn diện khác
-Các khoản mục sẽ không được phân loại lại 
-vào báo cáo lãi lỗ
-Các khoản đầu tư vốn FVOCI – thay đổi thuần 
-trong giá trị hợp lý
-(98)
-(133)
-Các khoản mục có thể được phân loại lại 
-vào báo cáo lãi lỗ
-Hoạt động ở nước ngoài – chênh lệch quy đổi ngoại tệ
-133.327
-81.624
-Tổng các nhóm thu nhập
-8.819.474
-8.328.633
-Lợi nhuận thuần phân bổ cho:
-Cổ đông Công ty
- 8.632.482 
-8.118.863
-Cổ đông không kiểm soát
- 53.763 
-128.279
-Lợi nhuận thuần
-8.686.245
-8.247.142
-Tổng các nhóm thu nhập phân bổ cho:
-Chủ sở hữu của Công ty
- 8.765.711 
-8.200.354
-Lợi ích cổ đông không kiểm soát
- 53.763 
-128.279
-Tổng thu nhập toàn diện
-8.819.474
-8.328.633
-Lãi trên cổ phiếu
-Lãi cơ bản trên cổ phiếu (VND)
-4.130
-3.885
-
-Báo cáo thường niên Vinamilk 2024
-184
-185
-Luôn cầu tiến
-Báo cáo tài chính
-2024
-Triệu VND
-2023
-Triệu VND
-Lưu chuyển tiền từ hoạt động kinh doanh
-Lợi nhuận trước thuế
-10.833.006
-10.195.687
-Điều chỉnh cho các khoản
-Khấu hao và phân bổ
-2.163.203
-2.088.980
-Các khoản dự phòng
-33.128
--
-(Lãi)/lỗ chênh lệch tỷ giá do đánh giá lại các khoản 
-mục tiền tệ có gốc ngoại tệ 
-(13.349)
-58.958
-Lỗ từ thanh lý và xóa sổ nhà xưởng, máy móc, thiết 
-bị và tài sản sinh học
-79.411 
-65.792
-Chi phí lãi vay
-319.138
-354.821
-Thu nhập từ cổ tức, lãi tiền gửi và hoạt động đầu 
-tư khác
-(1.414.894)
-(1.584.513)
-(Lãi)/lỗ được chia từ phần đầu tư vốn được hạch 
-toán theo phương pháp vốn chủ sở hữu
-(32.003)
-80.631
-Lợi nhuận từ hoạt động kinh doanh trước những 
-thay đổi vốn lưu động
-11.967.640 
-11.260.356 
-Biến động các khoản phải thu
- 446.865 
-(204.546)
-Biến động hàng tồn kho
- (82.651)
-(992.516)
-Biến động các khoản phải trả và nợ phải trả khác
- (96.887)
-(208.771)
-12.234.967
-9.854.523
-Tiền lãi vay đã trả
- (336.688)
-(302.708)
-Thuế thu nhập doanh nghiệp đã nộp
- (2.127.692)
-(1.564.074)
-Lưu chuyển tiền thuần từ hoạt động kinh doanh
-9.770.587
-7.987.741
-2024
-Triệu VND
-2023
-Triệu VND
-Lưu chuyển tiền từ hoạt động đầu tư
-Tiền chi mua nhà xưởng, máy móc và thiết bị, tài 
-sản vô hình và tài sản sinh học
-(1.741.502)
-(1.579.637)
-Tiền thu từ thanh lý nhà xưởng, máy móc và thiết 
-bị và tài sản sinh học
-113.649
-104.881
-Tiền chi đầu tư góp vốn vào các đơn vị khác
--
-(35.769)
-Tiền thu hồi đầu tư góp vốn vào các đơn vị khác
-35.705
-10.570
-Tiền chi tiền gửi có kỳ hạn – thuần
-(3.620.023)
-(2.856.304)
-Tiền thu lãi tiền gửi và cổ tức
-1.473.078
-1.367.711
-Lưu chuyển tiền thuần từ hoạt động đầu tư
-(3.739.093)
-(2.988.548)
-Lưu chuyển tiền từ hoạt động tài chính
-Tiền nhận góp vốn của cổ đông không kiểm soát 
-vào một công ty con
-722.407
-489.787
-Tiền hoàn trả vốn góp cho cổ đông không kiểm 
-soát của công ty con đã giải thể
--
-(142.548)
-Tiền thu từ đi vay
- 17.420.429 
-11.788.417
-Tiền chi trả nợ gốc vay
-(16.624.470)
-(8.276.833)
-Tiền chi trả nợ thuê tài sản
-(84.309)
-(67.784)
-Tiền chi trả cổ tức
- (8.046.326)
-(8.046.328)
-Tiền chi trả cổ tức của các công ty con chia cho 
-cổ đông không kiểm soát
- (113.351)
-(105.268)
-Lưu chuyển tiền thuần từ hoạt động tài chính
-(6.725.620)
-(4.360.557)
-Lưu chuyển tiền thuần trong năm
-(694.126)
-638.636
-Tiền và các khoản tương đương tiền đầu năm
-2.912.027
-2.299.944
-Ảnh hưởng của thay đổi tỷ giá đối với tiền và
-các khoản tương đương tiền
-672
-(673)
-Chênh lệch quy đổi tiền tệ
-7.371
-(25.880)
-Tiền và các khoản tương đương tiền cuối năm
-2.225.944
-2.912.027
- 
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo kết quả hoạt động kinh doanh
-và thu nhập toàn diện khác hợp nhất 
-cho năm kết thúc ngày 31 tháng 12 năm 2024 (tiếp  theo)
-Công ty Cổ phần Sữa Việt Nam và các công ty con
-Báo cáo kết quả hoạt động kinh doanh
-và thu nhập toàn diện khác hợp nhất 
-cho năm kết thúc ngày 31 tháng 12 năm 2024 (tiếp  theo)
-
-Địa chỉ 
-liên hệ
-Trụ sở
-Chi nhánh bán hàng
-Các đơn vị trực thuộc
-Các đơn vị trực thuộc
-10 Tân Trào, Phường Tân Phú, 
-Quận 7, TP. Hồ Chí Minh
-ĐT: (+84. 28) 54 155 555
-Fax: (+84. 28) 54 161 226
-Tầng 11, Tháp B, Tòa nhà Handi 
-Resco, 521 Kim Mã, Phường 
-Ngọc Khánh, Quận Ba Đình,
-TP. Hà Nội
-ĐT: (+84. 24) 37 246 019
-Fax: (+84. 24) 37 246 005
-Khu Công nghiệp Trà Nóc, 
-Phường Trà Nóc, Quận Bình 
-Thủy, TP. Cần Thơ
-ĐT: (+84. 292) 6 258 555
-Fax: (+84. 292) 6 255 998
-Lô A-4,5,6,7-CN, Đường NA7, 
-KCN Mỹ Phước 2, Phường Mỹ 
-Phước, TP. Bến Cát, Tỉnh Bình 
-Dương
-ĐT: (+84. 274) 3 559 988
-Fax: (+84. 274) 3 559 960
-Lô 1-18 Khu G1- KCN Tân Thới 
-Hiệp, Hương lộ 80, Phường Hiệp 
-Thành, Quận 12, TP. HCM
-ĐT: (+84. 28) 62 528 555
-Fax: (+84. 28) 37 176 353
-Km 10, Quốc lộ 5, Xã Dương Xá, 
-Quận Gia Lâm, TP. Hà Nội
-ĐT: (+84. 24) 36 789 489
-Fax: (+84. 24) 38 276 966
-Đường Sào Nam, Phường
-Nghi Thu, Thị Xã Cửa Lò,
-Tỉnh Nghệ An
-ĐT: (+84. 238) 6 259 555
-Fax: (+84. 238) 3 824 717
-32 Đặng Văn Bi, Phường Trường 
-Thọ, TP. Thủ Đức, TP. Hồ Chí 
-Minh
-ĐT: (+84. 28) 62 526 555
-Fax: (+84. 28) 38 960 804
-87 Hoàng Văn Thụ, Phường 
-Quang Trung, TP. Quy Nhơn, 
-Tỉnh Bình Định
-ĐT: (+84. 256) 6 253 555
-Fax: (+84. 256) 3 746 065
-KCN Biên Hòa 1, Xa lộ Hà Nội, 
-Phường An Bình, TP. Biên Hòa, 
-Tỉnh Đồng Nai
-ĐT: (+84. 251) 6 256 555
-Fax: (+84. 251) 3 836 015
-184-186-188 Nguyễn Đình 
-Chiểu, Phường 6, Quận 3,
-TP. Hồ Chí Minh
-ĐT: (+84. 28) 39 302 785
-Fax: (+84. 28) 39 302 708
-Khu Công nghiệp Tiên Sơn,
-Xã Hoàn Sơn, Huyện Tiên Du,
-Tỉnh Bắc Ninh
-ĐT: (+84. 222) 3 739 568
-Fax: (+84. 222) 3 714 814
-Số 9, Đại lộ Tự Do, KCN Việt 
-Nam - Singapore, Phường Bình 
-Hòa, TP. Thuận An, Tỉnh Bình 
-Dương
-ĐT: (+84. 274) 3 799 628
-Fax: (+84. 274) 3 799 625
-Lô B14-1-B14-2, đường D4,
-KCN Đông Nam, xã Hòa Phú, 
-huyện Củ Chi, TP. Hồ Chí Minh
-ĐT: (+84. 292) 3735 0030
-Khu Công nghiệp Lễ Môn,
-TP. Thanh Hóa, Tỉnh
-Thanh Hóa
-ĐT: (+84. 237) 3 912 540
-Fax: (+84. 237) 3 912 541
-32 Đặng Văn Bi, Phường Trường 
-Thọ, TP. Thủ Đức, TP. Hồ Chí 
-Minh
-ĐT: (+84. 28) 62 527 555
-Fax: (+84. 28) 38 966 884
-Lô A, Đường NA7, KCN Mỹ 
-Phước 2, Phường Mỹ Phước,
-TP. Bến Cát, Tỉnh Bình Dương
-ĐT: (+84. 274) 3 556 839
-Fax: (+84. 274) 3 556 890
-12 Đặng Văn Bi, Phường Trường 
-Thọ, TP. Thủ Đức, TP. Hồ Chí 
-Minh
-ĐT: (+84. 28) 62 529 555
-Fax: (+84. 28) 62 885 727
-Lô Q, Đường số 7, KCN Hòa 
-Khánh, Phường Hòa Khánh Bắc, 
-Quận Liên Chiểu, TP. Đà Nẵng
-ĐT: (+84. 236) 6 259 777
-Fax: (+84. 236) 6 259 555
-Tầng 7, tòa nhà Bưu điện, 271 
-Nguyễn Văn Linh, Phường Vĩnh 
-Trung, Quận Thanh Khê,
-TP. Đà Nẵng
-ĐT: (+84. 236) 3 584 848
-Fax: (+84. 236) 3 897 223
-Tầng 4-5-6, số 77-77B 
-Đường Võ Văn Tần, Phường 
-Tân An, Quận Ninh Kiều,
-TP. Cần Thơ
-ĐT: (+84. 292) 6 256 555
-Fax: (+84. 292) 6 255 969
-1. Chi nhánh CTCP Sữa 
-Việt Nam tại Hà Nội
-1. Nhà máy sữa
-Cần Thơ
-7. Nhà máy sữa
-Việt Nam
-4. Nhà máy sữa
-Sài Gòn
-15. Xí nghiệp Kho Vận
-Hà Nội
-11. Nhà máy sữa
-Nghệ An
-14. Xí nghiệp Kho Vận 
-HCM
-10. Nhà máy sữa
-Bình Định
-5. Nhà máy sữa
-Dielac
-16. Phòng khám
-An Khang
-12. Nhà máy sữa
-Tiên Sơn
-6. Nhà máy sữa bột
-Việt Nam
-17. Trung tâm sữa tươi 
-nguyên liệu Củ Chi 
-13. Nhà máy sữa
-Lam Sơn
-2. Nhà máy sữa
-Trường Thọ
-8. Nhà máy nước giải 
-khát Việt Nam
-3. Nhà máy sữa
-Thống Nhất
-9. Nhà máy sữa
-Đà Nẵng
-2. Chi nhánh CTCP Sữa 
-Việt Nam tại Đà Nẵng
-3. Chi nhánh CTCP Sữa 
-Việt Nam tại Cần Thơ
-187
-Báo cáo thường niên Vinamilk 2024
-186
-Luôn cầu tiến
-
-Các Công ty con, 
-liên kết trong nước
-Các Công ty con, 
-liên kết nước ngoài
-10 Tân Trào, Phường Tân Phú, 
-Quận 7, TP. Hồ Chí Minh
-ĐT: (+84. 28) 54 155 555
-Fax: (+84. 28) 54 161 226
-10724 Giao lộ Lower Azusa, El 
-Monte, California 91734-1390, 
-Mỹ
-ĐT: (+1) 1 800 864 6455
-Website: www.driftwooddairy.
-com
-Làng Boungvene, quận Paek, 
-tỉnh Xiêng Khoảng, Lào.
-ĐT: (+856) 21563053
-Fax: (+856) 21563054
-Email: laojagro@yahoo.com
-Lô EI-2, EI-3, EI-4, KCN
-Giao Long, Giai Đoạn II, Xã An 
-Phước, Huyện Châu Thành, 
-Tỉnh Bến Tre
-ĐT: (+84. 275) 3 656 999
-Fax: (+84. 275) 3 626 999 
-Website: www.acp.com.vn
-Khu phố 1, Thị trấn Thống Nhất, 
-Huyện Yên Định, Tỉnh Thanh Hóa
-ĐT: (+84. 237) 3 514 020
-Fax: (+84. 237) 3 599 008
-Lô P2-096 và P2-097, Đặc khu 
-kinh tế Phnom Penh (PPSEZ), 
-Quốc lộ 4, Sangkat, Phleung 
-Chhes Totes, Khan PoSenChey, 
-Thủ đô Phnom Penh, Campuchia
-ĐT: (+855) 24683 9999
-Website: www.angkormilk.com.
-kh
-Tầng 5, Tòa nhà JY Campos 
-Centre, Đại lộ 9, Góc phố 30, 
-Thành phố Bonifacio Global, 
-Tỉnh Taguig, Nước cộng hòa 
-Philippines
-Email: feedback@delmonte-phil.
-com
-Website: https://lifegetsbetter.
-ph/our-products/dairy
-Số 18A-18B VSIP II-A, đường số 
-27, khu công nghiệp Việt Nam 
-- Singapore II-A, Phường Vĩnh 
-Tân, Thành phố Tân Uyên, Tỉnh 
-Bình Dương, Việt Nam
-ĐT: (+84. 274) 54 165 166
-Fax: (+84. 274) 54 111 066 
-Website: www.apis-corp.com
-Thôn Thủy Xương, Xã Suối Hiệp, 
-Huyện Diên Khánh, Tỉnh
-Khánh Hòa
-ĐT: (+84. 258) 3 745 453 – 
-(+84. 258) 3 745 424
-Fax: (+84. 258) 3 744 440 
-Website: www.vietsugar.com.vn
-108 Tuwharetoa, Po Box 740, 
-Taupo 3351, New Zealand
-ĐT: (+64) 7 376 0075
-Fax: (+64) 7 377 0694
-Website: www.miraka.co.nz
-519 Minh Khai, Phường Vĩnh 
-Tuy, Quận Hai Bà Trưng, 
-Hà Nội
-ĐT: (+84. 24) 38621814
-Fax: (+84. 24) 38621688
-Website: www.vilico.vn
-1. Công ty TNHH MTV
-Bò sữa Việt Nam
-1. Driftwood Dairy 
-Holding Corporation
-3. Lao-Jagro 
-Development 
-Xiengkhouang Co., Ltd.
-4. Công ty Cổ phần chế 
-biến dừa Á Châu
-2. Công ty TNHH MTV
-Bò sữa Thống Nhất 
-Thanh Hoá
-4. Angkor Dairy Products 
-Co., Ltd.
-5. Del Monte Vinamilk 
-Dairy Philippines Inc.
-5. Công ty Cổ phần APIS
-3. Công ty Cổ phần 
-Đường Việt Nam
-2. Miraka Holdings 
-Limited
-6. Tổng Công ty Chăn 
-nuôi Việt Nam - CTCT
-189
-Luôn cầu tiến
-Báo cáo thường niên Vinamilk 2024
-188
+C.2.5 Thông tin giới thiệu về nhân sự chủ chốt của Công ty
+C.3 Thù lao của thành viên HĐQT và thu nhập của Ban
+Điều hành
+C.2.6 Tuyên bố xác nhận chính sách quản trị doanh nghiệp
+Công ty đã giới thiệu chi tiết tiểu sử bao gồm như họ tên đầy
+đủ, chức vụ hiện tại tại Vinamilk, độ tuổi, ngày bổ nhiệm đầu
+tiên đối với thành viên HĐQT, trình độ chuyên môn, quá trình
+công tác và chức vụ tại các tổ chức khác (nếu có) của tất cả
+thành viên HĐQT, Ban Điều hành, Thư ký Công ty, Người phụ
+trách QTCT, Kế toán trưởng và Giám đốc Kiểm toán nội bộ.
+Thù lao cho HĐQT năm 2024 đã được ĐHĐCĐ thường niên của
+Công ty phê duyệt là 25 tỷ đồng, tính theo số lượng 11 thành
+viên. Thù lao HĐQT sẽ được tính và chi trả tương ứng với số
+lượng thành viên thực tế. Mức thù lao thực chi trả cho từng
+thành viên sẽ do Ủy ban Lương thưởng đề xuất cho HĐQT xét
+duyệt dựa trên vai trò, nhiệm vụ, kết quả hoạt động của từng
+cá nhân và của Công ty trong năm, và tạo động lực để HĐQT
+lãnh đạo Công ty đạt được cả mục tiêu ngắn hạn và dài hạn.
+Bên cạnh các lợi ích nêu dưới đây, các thành viên HĐQT và
+Ban Điều hành được tham gia vào Chương trình Bảo hiểm sức
+khỏe & Tai nạn dành cho bản thân và người thân gia đình trực
+hệ theo chính sách Bảo hiểm chung của Công ty.
+Căn cứ theo tổng thù lao đã được ĐHCĐ phê duyệt, HĐQT
+đã ban hành nghị quyết số 08 /NQ-CTS.HĐQT/2022 ngày
+18/06/2022 để qui định chi tiết cơ cấu của thù lao HĐQT
+như sau:
+Thù lao của từng thành viên HĐQT đã trả trong năm 2024
+như sau:
+Vui lòng xem thông tin chi tiết tại phần giới thiệu nhân sự chủ
+chốt từ trang 38 đến trang 55 của báo cáo này.
+Họ & tên
+Thù lao (triệu đồng)
+Ghi chú
+Ông Nguyễn Hạnh Phúc
+Chủ tịch HĐQT, Chủ tịch UBNS
+Bà Mai Kiều Liên (*)
+Thành viên HĐQT,
+Chủ tịch UBCL, Tổng Giám đốc
+Ông Alain Xavier Cany
+Thành viên HĐQT
+Ông Michael Chye Hin Fah
+Thành viên HĐQT
+Bà Đặng Thị Thu Hà
+Thành viên HĐQT
+Ông Đỗ Lê Hùng
+Thành viên HĐQT, Chủ tịch UBKT
+Ông Lê Thành Liêm (*)
+Thành viên HĐQT, GĐĐH Tài chính
+Ông Lee Meng Tat
+Thành viên HĐQT
+Bà Tiêu Yến Trinh
+Thành viên HĐQT, Chủ tịch UBLT
+Ông Hoàng Ngọc Thạch
+Thành viên HĐQT
+(*): TV HĐQT điều hành
+C.4 Công bố giao dịch với các bên liên quan (RPT)
+C.5 Giao dịch cổ phiếu Công ty của thành viên HĐQT
+và BĐH
+C.6 Kiểm toán độc lập và báo cáo của kiểm toán độc
+Vui lòng xem nội dung đã trình bày tại mục A.8 Giao dịch với
+các bên liên quan của thành viên HĐQT và BĐH.
+Vui lòng xem nội dung đã trình bày tại mục “A.7 Giao dịch cổ
+phiếu Vinamilk của Người nội bộ của Công ty và người có liên
+quan của Người nội bộ”.
+HĐQT đã thiết lập các tiêu chí lựa chọn công ty kiểm toán độc
+lập, đánh giá chất lượng công việc của kiểm toán độc lập cũng
+như qui trình để theo dõi việc thực hiện các khuyến nghị mà
+kiểm toán độc lập đưa ra.
+Khi thực hiện nhiệm vụ lựa chọn kiểm toán độc lập của
+Công ty, UBKT xem xét năng lực, trình độ chuyên môn của
+ứng viên kiểm toán độc lập, thành tích được công nhận
+trong quá khứ và tính độc lập trong việc cung cấp dịch vụ
+kiểm toán mà không có quan hệ hay lợi ích với Công ty,
+bao gồm các dịch vụ phi kiểm toán sẽ ảnh hưởng đến tính
+ĐHĐCĐ thường niên năm 2024 và HĐQT đã phê chuẩn
+chọn Công ty TNHH KPMG Việt Nam (KPMG) là đơn vị
+kiểm toán độc lập cho năm tài chính 2024. Theo đánh giá
+của UBKT và đã có báo cáo cho HĐQT về chất lượng và
+và năm cho Công ty trong năm là đạt yêu cầu của Công ty.
+UBKT họp định kỳ với đơn vị kiểm toán độc lập hàng quý
+họp này, UBKT sẽ xem xét tất cả các nội dung liên quan
+chặt của UBKT, Công ty không có ghi nhận được các kiến
+nghị nào cần cải thiện của đơn vị kiểm toán độc lập trong
+Họ và tên
+Khung thu nhập
+Lương
+Thu nhập theo kết quả
+hoạt động kinh doanh
+Phụ cấp
+Các lợi
+ích khác
+Bà Mai Kiều Liên
+Bà Bùi Thị Hương
+Ông Đoàn Quốc Khánh
+Ông Nguyễn Quốc Khánh
+Ông Lê Thành Liêm
+Ông Lê Hoàng Minh
+Ông Nguyễn Quang Trí
+Thù lao tháng
+a. Thù lao thành viên HĐQT
+Thành viên điều hành
+Thành viên không điều hành
+Chủ tịch
+b. Thù lao cho Ủy ban kiểm toán
+Thành viên Ủy ban kiểm toán
+Chủ tịch Ủy ban kiểm toán
+c. Thù lao 3 Ủy ban khác
+Thành viên Ủy ban
+Chủ tịch Ủy ban
+d. Thù lao họp HĐQT là 20 triệu đồng/kỳ họp/ thành viên
+Hiện nay, Công ty không có chính sách thưởng cho thành viên
+HĐQT không điều hành.
+Đối với Ban Điều Hành, các GĐĐH là đội ngũ quan trọng của
+Công ty trong môi trường cạnh tranh cao về nguồn nhân lực,
+cùng với bản chất bảo mật của chính sách đãi ngộ và thu nhập
+của từng cá nhân, để hài hòa giữa các yếu tố và các bên liên
+quan, Công ty thực hiện công bố theo từng dải khung thu nhập
+thực nhận của từng cá nhân trong năm tài chính 2024 như bên
+dưới. Trong đó, thu nhập theo kết quả hoạt động kinh doanh
+là có bao gồm thưởng. Chính sách thưởng cho GĐĐH sẽ căn
+Khung thu nhập:
+“A”: tổng thu nhập trong khoảng 1.000.000.000 đồng đến 4.000.000.000 đồng
+“B”: tổng thu nhập trong khoảng 4.000.000.000 đồng đến 10.000.000.000 đồng
+“C”: tổng thu nhập trong khoảng 10.000.000.000 đồng đến 16.000.000.000 đồng
+Đối với phụ cấp: theo chính sách chung của Công ty. Bao gồm
+các khoản phụ cấp như phương tiện đi lại làm việc, xăng xe,
+cước điện thoại, tiền ăn giữa ca và bảo hiểm sức khỏe cho cá
+nhân và người thân.
+độc lập của kiểm toán viên. Quy trình đấu thầu lựa chọn
+công ty kiểm toán đã được triển khai tại Công ty với tính
+chuyên nghiệp, công khai và minh bạch cao.
+cứ vào i) kết quả hoạt động kinh doanh chung của Công ty và
+ii) mức độ hoàn thành các chỉ tiêu (KPIs) của từng cá nhân đã
+được xây dựng hàng năm. UBLT sẽ làm việc với Tổng Giám đốc
+để xem xét và đề xuất mức thưởng cụ thể cho từng cá nhân để
+trình cho HĐQT quyết định hàng năm.
+Phí kiểm toán và phi kiểm toán trong năm 2024 lần lượt là 1,63
+tỷ đồng và 1,97 tỷ đồng. Phí phi kiểm toán chủ yếu là cung cấp
+dịch vụ tư vấn thuế thường xuyên, dịch vụ hỗ trợ tuân thủ xác
+định giá trị giao dịch liên kết và dịch vụ thẩm định giá trị doanh
+nghiệp. Tất cả các dịch vụ tư vấn phi kiểm toán trong năm

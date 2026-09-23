@@ -1,457 +1,402 @@
-5
-MỤC LỤC
-01
 Về chúng tôi
-02
 Tiến bước số
 Định vị Ngân hàng xanh
-38     Mô hình hoạt động kinh doanh và các yếu tố kiến tạo giá trị 	
-40    Chiến lược giai đoạn	
+38     Mô hình hoạt động kinh doanh và các yếu tố kiến tạo giá trị
+40    Chiến lược giai đoạn
 43    Các chủ đề trọng yếu
 14     Chặng đường phát triển
-15     Dấu ấn tiêu biểu năm 2023
-18     Tổng quan về MB
 20    Cơ cấu quản trị tập đoàn
-03
-05
-06
-07
-Vững vàng tiến bước trước 
+Vững vàng tiến bước trước
 thách thức
 Tiến bước kiến tạo giá trị
 bền vững
-Báo cáo tài chính hợp nhất
 Thông tin về báo cáo
 76       Hoạt động của Hội đồng Quản trị
-84      Hoạt động của các Ủy ban thuộc HĐQT	
-86      Hoạt động của Ban Kiểm soát và cơ quan Kiểm toán nội bộ	
+84      Hoạt động của các Ủy ban thuộc HĐQT
+86      Hoạt động của Ban Kiểm soát và cơ quan Kiểm toán nội bộ
 88      Hoạt động của Quản trị rủi ro và Kiểm soát nội bộ
 99      Tiêu chí đề cử và lựa chọn Quản trị cấp cao
 100    Phòng chống tham nhũng
 101      Hạ tầng cơ sở dữ liệu
 102     Quản lý xung đột lợi ích
 103      Các giao dịch, lương, thù lao và các khoản lợi ích đối với
-           HĐQT, BKS, BĐH
+HĐQT, BKS, BĐH
 104      Bảo đảm lợi ích và đối xử công bằng với cổ đông
 105      Cơ chế khiếu nại và báo cáo sai phạm
-04
-Nâng tầm quản trị tiến bước 
+Nâng tầm quản trị tiến bước
 tương lai
-48     Tình hình hoạt động trong năm	
+48     Tình hình hoạt động trong năm
 53     Cơ cấu Cổ đông, thay đổi Vốn đầu tư của Chủ sở hữu
-54     Tình hình đầu tư, thực hiện các dự án	
-65     Báo cáo đánh giá của BĐH	
+54     Tình hình đầu tư, thực hiện các dự án
+65     Báo cáo đánh giá của BĐH
 70     Báo cáo đánh giá của HĐQT
 108     Thông điệp của lãnh đạo về Phát triển bền vững
 109     Định hướng và Mục tiêu Phát triển bền vững
 112      Đóng góp tiêu biểu về Phát triển bền vững trong năm 2023
-114      Quản trị Phát triển bền vững	
-120     Thúc đẩy tài chính xanh bền vững	
+114      Quản trị Phát triển bền vững
+120     Thúc đẩy tài chính xanh bền vững
 122      Hành trình chuyển đổi số với khách hàng là trọng tâm
-127      Phát triển nhân tài	
+127      Phát triển nhân tài
 129     Trách nhiệm bảo vệ quyền con người
-132     Trách nhiệm đóng góp cộng đồng và xã hội	
+132     Trách nhiệm đóng góp cộng đồng và xã hội
 135     Trách nhiệm bảo vệ môi trường
 139     Trách nhiệm đóng góp kinh tế
 143       Thông tin chung
 145      Báo cáo của Ban Điều hành
 146      Báo cáo kiểm toán độc lập
-148      Báo cáo tình hình tài chính hợp nhất	
-151      Báo cáo kết quả hoạt động hợp nhất	
+148      Báo cáo tình hình tài chính hợp nhất
+151      Báo cáo kết quả hoạt động hợp nhất
 152      Báo cáo lưu chuyển tiền tệ hợp nhất
-154      Thuyết minh báo cáo tài chính hợp nhất
 156       Nội dung và kỳ báo cáo
 156      Tiêu chuẩn áp dụng
 156      Phạm vi báo cáo
-156      Phương pháp hợp nhất thông tin phát triển bền vững	
-156      Áp dụng tiêu chuẩn GRI	
+156      Phương pháp hợp nhất thông tin phát triển bền vững
+156      Áp dụng tiêu chuẩn GRI
 VIẾT TẮT
 DIỄN GIẢI
-API
 Giao diện lập trình ứng dụng (Application Programming Interface)
 ATTT
 An toàn thông tin
 BaaS
 Hình thức tích hợp các dịch vụ thanh toán của MB trực tiếp trên
 phần mềm quản lý của đối tác thông qua kết nối API
-BCTC 
-Báo cáo tài chính 
-BĐH 
-Ban Điều hành 
-BKS 
-Ban Kiểm soát 
-BLĐ
+BCTC
+Ban Điều hành
+Ban Kiểm soát
 Ban Lãnh đạo
-CAR 
-Tỷ lệ an toàn vốn 
-CIB
-Khách hàng lớn 
-CBNV 
-Cán bộ, nhân viên 
+Tỷ lệ an toàn vốn
+Khách hàng lớn
+CBNV
+Cán bộ, nhân viên
 CBQL
 Cán bộ quản lý
-CNTT 
-Công nghệ thông tin 
-COP
+CNTT
+Công nghệ thông tin
 Hội nghị các Bên tham gia Công ước Khung của Liên Hợp Quốc về
 Biến đổi khí hậu
 CQQLNN
 Cơ quan quản lý nhà nước
 CSKH
-Chăm sóc khách hàng 
-ĐHĐCĐ 
-Đại hội đồng cổ đông 
-ESG 
-Môi trường, Xã hội và Quản trị 
+Chăm sóc khách hàng
+ĐHĐCĐ
+Đại hội đồng cổ đông
+Môi trường, Xã hội và Quản trị
 HĐKD
 Hoạt động kinh doanh
-HĐQT 
-Hội đồng Quản trị 
-KHCN 
-Khách hàng cá nhân 
-KHDN 
-Khách hàng doanh nghiệp 
+HĐQT
+Hội đồng Quản trị
+KHCN
+Khách hàng cá nhân
+KHDN
+Khách hàng doanh nghiệp
 KSNB
-Kiểm soát Nội bộ 
-KTNB 
-Kiểm toán Nội bộ 
-KH
+Kiểm soát Nội bộ
+KTNB
+Kiểm toán Nội bộ
 Khách hàng
-MB
 Ngân hàng Thương mại Cổ phần Quân đội
-LC
 Thư tín dụng
-LNTT 
-Lợi nhuận trước thuế 
+LNTT
+Lợi nhuận trước thuế
 LNST
 Lợi nhuận sau thuế
-LSCV 
-Lãi suất cho vay 
-MB
+LSCV
+Lãi suất cho vay
 Ngân hàng Thương mại Cổ phần Quân đội
-MB247
 Tổng đài giải đáp hỗ trợ khách hàng MB 24/7
-M&A
 Mua bán & Sáp nhập
 MBer
 Người MB
 Micro SME
-Doanh nghiệp siêu nhỏ 
-NDC
+Doanh nghiệp siêu nhỏ
 Đóng góp do quốc gia cam kết về ứng phó với khí hậu
-NLĐ
 Người lao động
-NHNN 
-Ngân hàng Nhà nước Việt Nam 
+NHNN
+Ngân hàng Nhà nước Việt Nam
 NHTM
 Ngân hàng thương mại
 PTBV
 Phát triển bền vững
-QLRR 
-Quản lý rủi ro 
-ROA 
-Tỷ lệ lợi nhuận trên tổng tài sản 
-ROE 
-Tỷ lệ lợi nhuận trên vốn chủ sở hữu 
-RRHĐ 
-Rủi ro hoạt động 
-RRTD 
-Rủi ro tín dụng 
+QLRR
+Quản lý rủi ro
+Tỷ lệ lợi nhuận trên tổng tài sản
+Tỷ lệ lợi nhuận trên vốn chủ sở hữu
+RRHĐ
+Rủi ro hoạt động
+RRTD
+Rủi ro tín dụng
 Smartbank
 Điểm giao dịch tự phục vụ Smartbank của MB
-SME 
-Doanh nghiệp nhỏ và vừa 
-TCKT 
-Tổ chức kinh tế 
-TCTD 
-Tổ chức tín dụng 
-TGĐ 
-Tổng Giám đốc 
-TMCP 
-Thương mại Cổ phần 
-TNHH 
-Trách nhiệm hữu hạn 
+Doanh nghiệp nhỏ và vừa
+TCKT
+Tổ chức kinh tế
+TCTD
+Tổ chức tín dụng
+Tổng Giám đốc
+TMCP
+Thương mại Cổ phần
+TNHH
+Trách nhiệm hữu hạn
 TSĐB
 Tài sản đảm bảo
 UBKT
 Ủy ban kiểm toán
-VCSH 
-Vốn chủ sở hữu 
-VQR
+VCSH
+Vốn chủ sở hữu
 Một ứng dụng thanh toán di động của Việt Nam
 DANH MỤC TỪ VIẾT TẮT
 
 THÔNG ĐIỆP CỦA
 CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
 Kính gửi Quý Cổ đông, Nhà đầu tư và Đối tác,
- 
-Năm 2023 là một năm khó chung cho nền kinh tế thế giới, 
-với sự giảm sút mạnh về tăng trưởng GDP, thương mại và 
-đầu tư toàn cầu; trong khi nợ xấu tăng, lạm phát vẫn duy trì 
-ở mức cao. Kinh tế Việt Nam bị ảnh hưởng bởi tình hình kinh 
-tế thế giới; tuy nhiên với các xu hướng tích cực trong các 
-tháng cuối năm 2023 đã giúp tăng trưởng kinh tế nước ta 
-cả năm đạt mức ~5,05%, tăng trưởng khá cao so với nhiều 
-nước trên thế giới và khu vực. Lạm phát được kiểm soát, CPI 
-bình quân ước tăng ~3,5%. Sức hấp thụ vốn và cầu tín dụng 
-toàn hệ thống ~13,5%, so với chỉ tiêu định hướng đầu năm 
-~14%; tăng trưởng huy động vốn ~10,85%, thanh khoản nền 
-kinh tế gặp khó khăn cục bộ tại khu vực bất động sản, thị 
-trường trái phiếu doanh nghiệp. Nhiều chủ trương và chính 
-sách mới của Đảng, Nhà nước tiếp tục được triển khai sâu 
-rộng, NHNN điều hành chủ động linh hoạt để ổn định kinh tế 
-vĩ mô, hỗ trợ phục hồi tăng trưởng kinh tế. 
- 
-Năm 2023 đánh dấu sự chuyển giao thế hệ của MB. Theo đó, 
-được sự tin tưởng của Quân ủy trung ương, Bộ Quốc phòng, 
-Hội đồng Quản trị (HĐQT) và người tiền nhiệm - Nguyên 
-Thứ trưởng BQP - Thượng tướng Lê Hữu Đức, tôi đã được 
-giao trọng trách giữ chức Chủ tịch HĐQT; Thượng tá Phạm 
-Như Ánh được giao nhiệm vụ giữ chức Tổng Giám đốc MB. 
-Kế thừa và tiếp nối các giá trị của thế hệ lãnh đạo đi trước, 
-MB tiếp tục 01 mục tiêu chiến lược “Trở thành Doanh nghiệp 
-số - Tập đoàn Tài chính dẫn đầu”, 06 giá trị cốt lõi, 08 định 
-hướng chiến lược và 08 phương pháp làm việc khoa học với 
-kỳ vọng đưa MB trở thành tổ chức phát triển bền vững, là tổ 
-chức mang lại giá trị cho khách hàng, mang lại hạnh phúc 
-cho CBNV. Với sự đoàn kết, đồng lòng trong quản trị - điều 
-hành của Hội đồng Quản trị, Ban Kiểm soát, Ban Điều hành, 
-Tập đoàn MB đã từng bước hiện thực hóa Chiến lược Phát 
-triển giai đoạn 2022 – 2026 với những dấu ấn: Lợi nhuận 
-trước thuế (LNTT) Tập đoàn đạt 26.306 tỷ đồng; LNTT riêng 
-Ngân hàng ước đạt 24.688 tỷ đồng; LNTT các công ty thành 
-viên đạt 2.046 tỷ đồng. Duy trì vị thế Top đầu các chỉ tiêu 
-hiệu quả như ROE ~25%. Trích lập dự phòng đầy đủ và đảm 
-bảo quy định pháp luật. Vị thế và uy tín của ngân hàng ngày 
-càng nâng cao. MB đứng đầu về tăng trưởng quy mô, Top 3 
-về Lợi nhuận trước thuế trong các ngân hàng thương mại; 
-MB thu hút thêm 6,2 triệu khách hàng mới (lũy kế quy mô 
-khách hàng đạt trên 26,5 triệu) với tỷ lệ giao dịch trên kênh 
-số đạt trên 96,7%. 
- 
-Bên cạnh hoàn thành xuất sắc kế hoạch kinh doanh, HĐQT 
-đã triển khai hiệu quả các quyết nghị của ĐHĐCĐ năm 2023 
-giao phó, thực hiện đầy đủ các quyền của cổ đông theo quy 
-định của pháp luật. 
- 
-MB đã đóng góp tích cực cho Ngân sách nhà nước với tổng 
-số tiền ~7.518 tỷ đồng, thực hiện công tác an sinh xã hội, đền 
-ơn đáp nghĩa với hơn 100 chương trình, tổng kinh phí thực 
-hiện là ~200 tỷ đồng. Phát động chiến dịch HiGreen - Bình 
-Minh Xanh - chiến dịch “Trách nhiệm xã hội cộng hưởng 
-(Participatory CSR)”, nhằm truyền tải thông điệp sống bền 
-vững, quan tâm tới môi trường và cộng đồng đến khách 
-hàng và xã hội. 
-  
-Năm 2024 là một năm đặc biệt khi MB đón chào tuổi 30 với 
-những thử thách lớn hơn và giấc mơ lớn hơn với thông điệp 
-Move for Big – Tiến bước vững vàng. Đồng thời, cũng là năm 
-nhiệm kỳ mới HĐQT, BKS giai đoạn 2024 – 2029. Theo đó, MB 
-đặt ra các mục tiêu cụ thể là: Top 3 ngân hàng về hiệu quả 
-và an toàn, phấn đấu lợi nhuận trước thuế Tập đoàn đạt 
-30 nghìn tỷ đồng, chinh phục cột mốc 30 triệu khách hàng. 
-Ngân hàng MB sẽ triển khai nhiều chương trình, 
-dự án hướng đến các nhóm đối tượng: Đất nước và Cộng 
-đồng: Move for Big Vietnam – Tiến bước vì một Việt Nam 
-hùng cường; CBNV: Move for Big Ambition - Tiến bước 
-Diệu kỳ; Khách hàng: Move for Big Generation - Tiến bước 
-Thành công. Đồng thời, MB sẽ tiếp tục hoàn thiện và triển 
-khai mạnh mẽ, tối ưu các Sáng kiến Chiến lược thuộc Chiến 
-lược tập đoàn giai đoạn 2022 - 2026, đẩy mạnh “Hiệp lực 
+Năm 2023 là một năm khó chung cho nền kinh tế thế giới,
+với sự giảm sút mạnh về tăng trưởng GDP, thương mại và
+đầu tư toàn cầu; trong khi nợ xấu tăng, lạm phát vẫn duy trì
+ở mức cao. Kinh tế Việt Nam bị ảnh hưởng bởi tình hình kinh
+tế thế giới; tuy nhiên với các xu hướng tích cực trong các
+tháng cuối năm 2023 đã giúp tăng trưởng kinh tế nước ta
+cả năm đạt mức ~5,05%, tăng trưởng khá cao so với nhiều
+nước trên thế giới và khu vực. Lạm phát được kiểm soát, CPI
+bình quân ước tăng ~3,5%. Sức hấp thụ vốn và cầu tín dụng
+toàn hệ thống ~13,5%, so với chỉ tiêu định hướng đầu năm
+~14%; tăng trưởng huy động vốn ~10,85%, thanh khoản nền
+kinh tế gặp khó khăn cục bộ tại khu vực bất động sản, thị
+trường trái phiếu doanh nghiệp. Nhiều chủ trương và chính
+sách mới của Đảng, Nhà nước tiếp tục được triển khai sâu
+rộng, NHNN điều hành chủ động linh hoạt để ổn định kinh tế
+vĩ mô, hỗ trợ phục hồi tăng trưởng kinh tế.
+Năm 2023 đánh dấu sự chuyển giao thế hệ của MB. Theo đó,
+được sự tin tưởng của Quân ủy trung ương, Bộ Quốc phòng,
+Hội đồng Quản trị (HĐQT) và người tiền nhiệm - Nguyên
+Thứ trưởng BQP - Thượng tướng Lê Hữu Đức, tôi đã được
+giao trọng trách giữ chức Chủ tịch HĐQT; Thượng tá Phạm
+Như Ánh được giao nhiệm vụ giữ chức Tổng Giám đốc MB.
+Kế thừa và tiếp nối các giá trị của thế hệ lãnh đạo đi trước,
+MB tiếp tục 01 mục tiêu chiến lược “Trở thành Doanh nghiệp
+số - Tập đoàn Tài chính dẫn đầu”, 06 giá trị cốt lõi, 08 định
+hướng chiến lược và 08 phương pháp làm việc khoa học với
+kỳ vọng đưa MB trở thành tổ chức phát triển bền vững, là tổ
+chức mang lại giá trị cho khách hàng, mang lại hạnh phúc
+cho CBNV. Với sự đoàn kết, đồng lòng trong quản trị - điều
+hành của Hội đồng Quản trị, Ban Kiểm soát, Ban Điều hành,
+Tập đoàn MB đã từng bước hiện thực hóa Chiến lược Phát
+trước thuế (LNTT) Tập đoàn đạt 26.306 tỷ đồng; LNTT riêng
+Ngân hàng ước đạt 24.688 tỷ đồng; LNTT các công ty thành
+viên đạt 2.046 tỷ đồng. Duy trì vị thế Top đầu các chỉ tiêu
+hiệu quả như ROE ~25%. Trích lập dự phòng đầy đủ và đảm
+bảo quy định pháp luật. Vị thế và uy tín của ngân hàng ngày
+càng nâng cao. MB đứng đầu về tăng trưởng quy mô, Top 3
+về Lợi nhuận trước thuế trong các ngân hàng thương mại;
+MB thu hút thêm 6,2 triệu khách hàng mới (lũy kế quy mô
+khách hàng đạt trên 26,5 triệu) với tỷ lệ giao dịch trên kênh
+số đạt trên 96,7%.
+Bên cạnh hoàn thành xuất sắc kế hoạch kinh doanh, HĐQT
+đã triển khai hiệu quả các quyết nghị của ĐHĐCĐ năm 2023
+giao phó, thực hiện đầy đủ các quyền của cổ đông theo quy
+định của pháp luật.
+MB đã đóng góp tích cực cho Ngân sách nhà nước với tổng
+số tiền ~7.518 tỷ đồng, thực hiện công tác an sinh xã hội, đền
+ơn đáp nghĩa với hơn 100 chương trình, tổng kinh phí thực
+hiện là ~200 tỷ đồng. Phát động chiến dịch HiGreen - Bình
+Minh Xanh - chiến dịch “Trách nhiệm xã hội cộng hưởng
+(Participatory CSR)”, nhằm truyền tải thông điệp sống bền
+vững, quan tâm tới môi trường và cộng đồng đến khách
+hàng và xã hội.
+Năm 2024 là một năm đặc biệt khi MB đón chào tuổi 30 với
+những thử thách lớn hơn và giấc mơ lớn hơn với thông điệp
+Move for Big – Tiến bước vững vàng. Đồng thời, cũng là năm
+nhiệm kỳ mới HĐQT, BKS giai đoạn 2024 – 2029. Theo đó, MB
+đặt ra các mục tiêu cụ thể là: Top 3 ngân hàng về hiệu quả
+và an toàn, phấn đấu lợi nhuận trước thuế Tập đoàn đạt
+30 nghìn tỷ đồng, chinh phục cột mốc 30 triệu khách hàng.
+Ngân hàng MB sẽ triển khai nhiều chương trình,
+dự án hướng đến các nhóm đối tượng: Đất nước và Cộng
+đồng: Move for Big Vietnam – Tiến bước vì một Việt Nam
+hùng cường; CBNV: Move for Big Ambition - Tiến bước
+Diệu kỳ; Khách hàng: Move for Big Generation - Tiến bước
+Thành công. Đồng thời, MB sẽ tiếp tục hoàn thiện và triển
+khai mạnh mẽ, tối ưu các Sáng kiến Chiến lược thuộc Chiến
+lược tập đoàn giai đoạn 2022 - 2026, đẩy mạnh “Hiệp lực
 Tập đoàn”.
- 
-Tuy chặng đường phía trước còn nhiều khó khăn với các 
-vấn đề nóng về biến đổi khí hậu, rủi ro địa chính trị, và các 
-rủi ro chuyển đổi mới nổi khác, MB sẽ tiếp tục nghiên cứu 
-và triển khai các giải pháp đóng góp gián tiếp cho lộ trình 
-thực hiện cam kết đạt lượng phát thải ròng bằng 0 vào năm 
-2050 của quốc gia. 
- 
-Thay mặt HĐQT, tôi xin chân thành cảm ơn sự ủng hộ và 
-tin tưởng của Quý Cổ đông, Nhà Đầu tư, Đối tác, các khách 
-hàng và đặc biệt là toàn thể cán bộ nhân viên MB đã đồng 
-hành cùng chúng tôi trong năm qua và chúng tôi hy vọng sẽ 
-tiếp tục nhận được sự chung sức, đồng lòng và niềm tin của 
-các Quý vị trong năm tới. 
+Tuy chặng đường phía trước còn nhiều khó khăn với các
+vấn đề nóng về biến đổi khí hậu, rủi ro địa chính trị, và các
+rủi ro chuyển đổi mới nổi khác, MB sẽ tiếp tục nghiên cứu
+và triển khai các giải pháp đóng góp gián tiếp cho lộ trình
+thực hiện cam kết đạt lượng phát thải ròng bằng 0 vào năm
+2050 của quốc gia.
+Thay mặt HĐQT, tôi xin chân thành cảm ơn sự ủng hộ và
+tin tưởng của Quý Cổ đông, Nhà Đầu tư, Đối tác, các khách
+hàng và đặc biệt là toàn thể cán bộ nhân viên MB đã đồng
+hành cùng chúng tôi trong năm qua và chúng tôi hy vọng sẽ
+tiếp tục nhận được sự chung sức, đồng lòng và niềm tin của
+các Quý vị trong năm tới.
 Ông Lưu Trung Thái
 Chủ tịch Hội đồng Quản trị
 
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
 THƯ CỦA
 TỔNG GIÁM ĐỐC
 Ông Phạm Như Ánh
 Tổng giám đốc
 Kính gửi Quý Cổ đông, Nhà đầu tư, Đối tác và Khách hàng,
-Trong bối cảnh nền kinh tế toàn cầu năm 2023 đối mặt với 
-những thách thức không nhỏ từ sự suy giảm kinh tế toàn 
-cầu, Ngân hàng TMCP Quân Đội (MB) không chỉ vững vàng 
-vượt qua khó khăn mà còn tạo ra những đột phá trong chiến 
-lược chuyển đổi số – thể hiện qua cú nhảy vọt về quy mô 
-khách hàng, lũy kế đến năm 2023 đạt 26,5 triệu khách hàng, 
-tăng gấp 8 lần so với năm 2017 và là ngân hàng có số lượng 
+Trong bối cảnh nền kinh tế toàn cầu năm 2023 đối mặt với
+những thách thức không nhỏ từ sự suy giảm kinh tế toàn
+cầu, Ngân hàng TMCP Quân Đội (MB) không chỉ vững vàng
+vượt qua khó khăn mà còn tạo ra những đột phá trong chiến
+lược chuyển đổi số – thể hiện qua cú nhảy vọt về quy mô
+khách hàng, lũy kế đến năm 2023 đạt 26,5 triệu khách hàng,
+tăng gấp 8 lần so với năm 2017 và là ngân hàng có số lượng
 khách hàng lớn nhất Việt Nam.
-Đến cuối năm 2023, tổng tài sản MB tăng 29% đạt xấp xỉ 950 
-nghìn tỷ đồng; tín dụng tăng hơn 28,8% đạt 615 nghìn tỷ dư 
-nợ cho vay đối với nền kinh tế; lợi nhuận toàn tập đoàn đạt 
-hơn 26 nghìn tỷ đồng. 
-MB là ngân hàng top đầu về việc cung cấp dịch vụ và sản 
-phẩm đa dạng, an toàn; sở hữu hạ tầng công nghệ thông 
-tin hiện đại; mở rộng mạnh mẽ các phân khúc thị trường 
-mới bên cạnh thị trường truyền thống của một ngân hàng 
-thương mại. Với lợi thế đó, MB đã kết nối dịch vụ BaaS 
-đến doanh nghiệp từ đa dạng các lĩnh vực như: Tài chính, 
-logistics, chứng khoán… thông qua hơn 600 bộ APIs - một 
-trong những ngân hàng sở hữu lượng API đa dạng nhất. 
-Chúng tôi kỳ vọng dịch vụ BaaS của MB sẽ từng bước chuyển 
-mình mạnh mẽ, khẳng định cam kết đồng hành cùng doanh 
+Đến cuối năm 2023, tổng tài sản MB tăng 29% đạt xấp xỉ 950
+nghìn tỷ đồng; tín dụng tăng hơn 28,8% đạt 615 nghìn tỷ dư
+nợ cho vay đối với nền kinh tế; lợi nhuận toàn tập đoàn đạt
+hơn 26 nghìn tỷ đồng.
+MB là ngân hàng top đầu về việc cung cấp dịch vụ và sản
+phẩm đa dạng, an toàn; sở hữu hạ tầng công nghệ thông
+tin hiện đại; mở rộng mạnh mẽ các phân khúc thị trường
+mới bên cạnh thị trường truyền thống của một ngân hàng
+thương mại. Với lợi thế đó, MB đã kết nối dịch vụ BaaS
+đến doanh nghiệp từ đa dạng các lĩnh vực như: Tài chính,
+logistics, chứng khoán… thông qua hơn 600 bộ APIs - một
+trong những ngân hàng sở hữu lượng API đa dạng nhất.
+Chúng tôi kỳ vọng dịch vụ BaaS của MB sẽ từng bước chuyển
+mình mạnh mẽ, khẳng định cam kết đồng hành cùng doanh
 nghiệp trong quá trình chuyển đổi số.
-Bên cạnh đó, đội ngũ MB đã tập trung xây dựng và phát triển 
-Chợ ứng dụng Mini App (MB Market Place) với mục tiêu góp 
-phần chuyển đổi App MBBank thành một nền tảng siêu ứng 
-dụng, tích hợp nhiều dịch vụ non-bank (phi ngân hàng) trên 
-một nền tảng để phục vụ các nhu cầu khác nhau hàng ngày 
-của hơn 20 triệu người dùng. 
-Trong bối cảnh chuyển đổi số hóa mạnh mẽ, MB không chỉ 
-đặt mục tiêu tăng trưởng kinh doanh mà còn chú trọng đến 
-vai trò của doanh nghiệp đối với xã hội và môi trường. Đầu 
-năm 2023, ngân hàng đã thể hiện cam kết mạnh mẽ đối với 
-chiến lược ESG (Môi trường, Xã hội và Quản trị), tuân theo 
-các chuẩn đo lường quốc tế, nhấn mạnh vào việc tạo ra tác 
+Bên cạnh đó, đội ngũ MB đã tập trung xây dựng và phát triển
+Chợ ứng dụng Mini App (MB Market Place) với mục tiêu góp
+phần chuyển đổi App MBBank thành một nền tảng siêu ứng
+dụng, tích hợp nhiều dịch vụ non-bank (phi ngân hàng) trên
+một nền tảng để phục vụ các nhu cầu khác nhau hàng ngày
+của hơn 20 triệu người dùng.
+Trong bối cảnh chuyển đổi số hóa mạnh mẽ, MB không chỉ
+đặt mục tiêu tăng trưởng kinh doanh mà còn chú trọng đến
+vai trò của doanh nghiệp đối với xã hội và môi trường. Đầu
+năm 2023, ngân hàng đã thể hiện cam kết mạnh mẽ đối với
+chiến lược ESG (Môi trường, Xã hội và Quản trị), tuân theo
+các chuẩn đo lường quốc tế, nhấn mạnh vào việc tạo ra tác
 động tích cực cho khách hàng và môi trường.
-Theo định hướng của Chính phủ và Ngân hàng Nhà nước, 
-MB đã nghiên cứu và hoàn thiện cơ chế chính sách tín dụng 
-gắn với quản lý môi trường - xã hội, hướng tới mục tiêu 
-ngân hàng xanh, tín dụng xanh, cung cấp dịch vụ tín dụng 
-và thanh toán trong các lĩnh vực thân thiện với môi trường. 
-MB đã đạt được những bước tiến lớn trong việc phát triển 
-tín dụng xanh, với tổng giá trị đạt 56,829 tỷ đồng, tăng 22% 
-so với năm 2022. Điều này tập trung vào các lĩnh vực năng 
-lượng sạch, tái tạo và công nghiệp, phản ánh rõ ràng sự 
-chuyển hướng mạnh mẽ của ngân hàng đối với các hoạt 
-động tài chính bền vững. MB cũng đã áp dụng số hoá trong 
-90% hoạt động nội bộ, giảm bớt sự phụ thuộc vào giấy tờ 
-và hướng tới một môi trường làm việc xanh, với mục tiêu đạt 
-tỷ lệ 100%. 
-Vào cuối năm 2023, MB đã phát động chiến dịch Hi-Green, 
-chiến dịch trách nhiệm xã hội cộng hưởng thuộc chiến lược 
-ESG của ngân hàng. HiGreen thu hút người tham gia vận 
-động thể thao, ủng hộ trực tiếp và tích luỹ thiện nguyện 
-thông minh. Theo đó, với mỗi km chạy bộ hoặc đi bộ hợp lệ, 
-MB sẽ ủng hộ 3.000 VNĐ từ quỹ Từ thiện xã hội của tập đoàn 
-tài trợ cho các đơn vị biến đổi các bãi rác tự phát thành 
-không gian sinh thái cộng đồng, sân chơi công cộng. Sau 
-khoảng 2 tháng, chiến dịch đã hoàn thành mục tiêu 8,1 tỷ để 
-biến bãi rác tự phát thành sân chơi sinh thái cho cộng đồng. 
-Với những bước phát triển mạnh mẽ và bền vững trong năm 
-2023, uy tín thương hiệu của MB tiếp tục được khẳng định ở 
-những bảng xếp hạng và giải thưởng uy tín trong và ngoài 
-nước. MB là một trong 6 ngân hàng được tạp chí Forbes xếp 
-hạng là 6 ngân hàng niêm yết tốt nhất Việt Nam trong 3 năm 
-liền (2021-2023) dựa theo các tiêu chí về hiệu quả hoạt động 
-và lợi nhuận. Bên cạnh đó, mô hình ngân hàng tự động MB 
-SmartBank được nhận hai giải thưởng quốc tế từ The Asset 
-Tripple A Award - Best Digital Branch Project và The Global 
-Economics - Digital Transformation Bank of the Year – đây 
-là minh chứng rõ nét cho những nỗ lực chuyển đổi số, đặt 
-khách hàng làm trung tâm của MB. 
-Năm 2024, MB tiếp tục kiên định với tầm nhìn đến năm 2026 
-“Trở thành Doanh nghiệp số, Tập đoàn tài chính dẫn đầu” 
-cùng mục tiêu chiến lược nằm trong “Top 3 thị trường về hiệu 
-quả, hướng đến Top đầu châu Á.” 
-Chiến lược của MB được xây dựng trên cơ sở Tập trung vào 
-trải nghiệm của khách hàng; Sáng tạo ra các giá trị mới 
-phục vụ khách hàng từ đó gia tăng giá trị cho MB. Xuyên 
-suốt theo đó là một văn hóa quản trị thống nhất, lấy triết lý 
+Theo định hướng của Chính phủ và Ngân hàng Nhà nước,
+MB đã nghiên cứu và hoàn thiện cơ chế chính sách tín dụng
+gắn với quản lý môi trường - xã hội, hướng tới mục tiêu
+ngân hàng xanh, tín dụng xanh, cung cấp dịch vụ tín dụng
+và thanh toán trong các lĩnh vực thân thiện với môi trường.
+MB đã đạt được những bước tiến lớn trong việc phát triển
+tín dụng xanh, với tổng giá trị đạt 56,829 tỷ đồng, tăng 22%
+so với năm 2022. Điều này tập trung vào các lĩnh vực năng
+lượng sạch, tái tạo và công nghiệp, phản ánh rõ ràng sự
+chuyển hướng mạnh mẽ của ngân hàng đối với các hoạt
+động tài chính bền vững. MB cũng đã áp dụng số hoá trong
+90% hoạt động nội bộ, giảm bớt sự phụ thuộc vào giấy tờ
+và hướng tới một môi trường làm việc xanh, với mục tiêu đạt
+tỷ lệ 100%.
+Vào cuối năm 2023, MB đã phát động chiến dịch Hi-Green,
+chiến dịch trách nhiệm xã hội cộng hưởng thuộc chiến lược
+ESG của ngân hàng. HiGreen thu hút người tham gia vận
+động thể thao, ủng hộ trực tiếp và tích luỹ thiện nguyện
+thông minh. Theo đó, với mỗi km chạy bộ hoặc đi bộ hợp lệ,
+MB sẽ ủng hộ 3.000 VNĐ từ quỹ Từ thiện xã hội của tập đoàn
+tài trợ cho các đơn vị biến đổi các bãi rác tự phát thành
+không gian sinh thái cộng đồng, sân chơi công cộng. Sau
+khoảng 2 tháng, chiến dịch đã hoàn thành mục tiêu 8,1 tỷ để
+biến bãi rác tự phát thành sân chơi sinh thái cho cộng đồng.
+Với những bước phát triển mạnh mẽ và bền vững trong năm
+2023, uy tín thương hiệu của MB tiếp tục được khẳng định ở
+những bảng xếp hạng và giải thưởng uy tín trong và ngoài
+nước. MB là một trong 6 ngân hàng được tạp chí Forbes xếp
+hạng là 6 ngân hàng niêm yết tốt nhất Việt Nam trong 3 năm
+liền (2021-2023) dựa theo các tiêu chí về hiệu quả hoạt động
+và lợi nhuận. Bên cạnh đó, mô hình ngân hàng tự động MB
+SmartBank được nhận hai giải thưởng quốc tế từ The Asset
+Tripple A Award - Best Digital Branch Project và The Global
+Economics - Digital Transformation Bank of the Year – đây
+là minh chứng rõ nét cho những nỗ lực chuyển đổi số, đặt
+khách hàng làm trung tâm của MB.
+Năm 2024, MB tiếp tục kiên định với tầm nhìn đến năm 2026
+“Trở thành Doanh nghiệp số, Tập đoàn tài chính dẫn đầu”
+cùng mục tiêu chiến lược nằm trong “Top 3 thị trường về hiệu
+quả, hướng đến Top đầu châu Á.”
+Chiến lược của MB được xây dựng trên cơ sở Tập trung vào
+trải nghiệm của khách hàng; Sáng tạo ra các giá trị mới
+phục vụ khách hàng từ đó gia tăng giá trị cho MB. Xuyên
+suốt theo đó là một văn hóa quản trị thống nhất, lấy triết lý
 “Khách hàng là trung tâm” dựa trên các yếu tố:
-(1) Hấp dẫn khách hàng: Xây dựng trải nghiệm xuất sắc - 
-Xuất phát từ nhu cầu và vươn tới kỳ vọng của khách hàng. 
-(2) Linh hoạt, nhanh nhạy: Đón bắt nhanh - Tận dụng triệt để 
+(1) Hấp dẫn khách hàng: Xây dựng trải nghiệm xuất sắc -
+Xuất phát từ nhu cầu và vươn tới kỳ vọng của khách hàng.
+(2) Linh hoạt, nhanh nhạy: Đón bắt nhanh - Tận dụng triệt để
 - Khai thác hiệu quả công nghệ, thị trường, nhu cầu khách hàng.
-(3) Hiệp lực tập đoàn: Toàn Tập đoàn kết nối, xây dựng trải 
+(3) Hiệp lực tập đoàn: Toàn Tập đoàn kết nối, xây dựng trải
 nghiệm số One ID; đề xuất giá trị tập đoàn xuất sắc.
-Với mục tiêu phục vụ 30 triệu khách hàng vào năm 2024, lợi 
-nhuận hợp nhất dự kiến đạt 30.000 tỷ và tổng tài sản đạt 1 
-triệu tỷ, MB đang hướng tới việc không chỉ là ngân hàng dẫn 
-đầu trong lĩnh vực số hóa mà còn là ngân hàng tiên phong 
-trong việc phát triển bền vững và có trách nhiệm xã hội. MB, 
-với những bước tiến mạnh mẽ và chiến lược đổi mới, đang 
-khẳng định vị thế của mình trên thị trường tài chính và sẵn 
-sàng đón nhận những cơ hội mới trong tương lai của ngành 
+Với mục tiêu phục vụ 30 triệu khách hàng vào năm 2024, lợi
+nhuận hợp nhất dự kiến đạt 30.000 tỷ và tổng tài sản đạt 1
+triệu tỷ, MB đang hướng tới việc không chỉ là ngân hàng dẫn
+đầu trong lĩnh vực số hóa mà còn là ngân hàng tiên phong
+trong việc phát triển bền vững và có trách nhiệm xã hội. MB,
+với những bước tiến mạnh mẽ và chiến lược đổi mới, đang
+khẳng định vị thế của mình trên thị trường tài chính và sẵn
+sàng đón nhận những cơ hội mới trong tương lai của ngành
 ngân hàng số.
 
-15
 Chương 1: Về chúng tôi
-14
-Báo cáo thường niên 2023
 CHẶNG ĐƯỜNG PHÁT TRIỂN
-Từ một ngân hàng chỉ với 25 nhân sự và 20 tỷ đồng vốn điều lệ, sau 29 năm, MB chuyển mình thành một tập đoàn tài chính đa năng, không 
-ngừng tăng tốc chuyển đổi số, hướng tới mục tiêu mang tới cho khách hàng những trải nghiệm tốt nhất. Với tư cách là hội viên của Hiệp hội 
-Ngân hàng Việt Nam, MB đã và đang góp phần tích cực vào sự phát triển của ngành Tài chính ngân hàng. 
-Ngày 4/11/1994, Ngân hàng Thương mại Cổ phần Quân đội (MB) được thành lập với 
-số vốn gần 20 tỷ đồng, 25 nhân sự và một điểm giao dịch duy nhất tại 28A Điện Biên 
-Phủ, Hà Nội. 
-Mười năm đầu (1994-2004) là giai đoạn mang tính “mở lối” định hình phương châm 
-hoạt động, xác định chiến lược kinh doanh và xác định thương hiệu. Năm 2004, tròn 
-10 năm thành lập, tổng vốn huy động của MB tăng gấp trên 500 lần, tổng tài sản 
-trên 7.000 tỷ đồng, lợi nhuận trên 500 tỷ đồng và khai trương trụ sở mới tại số 3 Liễu 
+Từ một ngân hàng chỉ với 25 nhân sự và 20 tỷ đồng vốn điều lệ, sau 29 năm, MB chuyển mình thành một tập đoàn tài chính đa năng, không
+ngừng tăng tốc chuyển đổi số, hướng tới mục tiêu mang tới cho khách hàng những trải nghiệm tốt nhất. Với tư cách là hội viên của Hiệp hội
+Ngân hàng Việt Nam, MB đã và đang góp phần tích cực vào sự phát triển của ngành Tài chính ngân hàng.
+Ngày 4/11/1994, Ngân hàng Thương mại Cổ phần Quân đội (MB) được thành lập với
+số vốn gần 20 tỷ đồng, 25 nhân sự và một điểm giao dịch duy nhất tại 28A Điện Biên
+Phủ, Hà Nội.
+Mười năm đầu (1994-2004) là giai đoạn mang tính “mở lối” định hình phương châm
+hoạt động, xác định chiến lược kinh doanh và xác định thương hiệu. Năm 2004, tròn
+10 năm thành lập, tổng vốn huy động của MB tăng gấp trên 500 lần, tổng tài sản
+trên 7.000 tỷ đồng, lợi nhuận trên 500 tỷ đồng và khai trương trụ sở mới tại số 3 Liễu
 Giai, Ba Đình, Hà Nội.
-Trong giai đoạn 2005-2009, MB áp dụng một loạt các giải pháp đổi mới tổng thể từ 
-mở rộng quy mô hoạt động, phát triển mạng lưới, đầu tư công nghệ, và nâng cao 
-quản trị toàn hàng. 
-Có thể nói, đây là giai đoạn tạo cơ sở vững chắc để MB đẩy mạnh triển khai các sáng 
-kiến chiến lược sau này, góp phần đưa MB trở thành một trong những định chế tài 
-chính hàng đầu Việt Nam hiện nay. Năm 2009, đánh dấu 15 năm phát triển, MB vinh 
+Trong giai đoạn 2005-2009, MB áp dụng một loạt các giải pháp đổi mới tổng thể từ
+mở rộng quy mô hoạt động, phát triển mạng lưới, đầu tư công nghệ, và nâng cao
+quản trị toàn hàng.
+Có thể nói, đây là giai đoạn tạo cơ sở vững chắc để MB đẩy mạnh triển khai các sáng
+kiến chiến lược sau này, góp phần đưa MB trở thành một trong những định chế tài
+chính hàng đầu Việt Nam hiện nay. Năm 2009, đánh dấu 15 năm phát triển, MB vinh
 dự nhận Huân chương Lao động Hạng Ba do Chủ tịch nước trao tặng.
-Ngày 1/11/2011, MB đã thực hiện thành công việc niêm yết cổ phiếu MBB trên Sở giao 
-dịch chứng khoán Tp. HCM. Trong bối cảnh nền kinh tế bước vào giai đoạn khó khăn, 
-ngành ngân hàng dưới áp lực tái cấu trúc mạnh mẽ, MB kiên định với chiến lược phát 
-triển bền vững, an toàn đã vươn lên dẫn đầu về nhiều chỉ tiêu tài chính quan trọng, 
-hoàn thành mục tiêu nằm trong Top 3 Ngân hàng thương mại cổ phần không do nhà 
-nước nắm cổ phần chi phối vào năm 2013. 
-Với những thành quả đạt được, MB vinh dự đón nhận Huân chương Lao động Hạng 
-Nhất vào năm 2014 và Danh hiệu Anh Hùng Lao động vào năm 2015. 
-Trong giai đoạn này, dù gặp nhiều khó khăn bởi đại dịch Covid-19 toàn cầu, MB đã 
-có sự tăng trưởng mạnh mẽ, bứt phá trong hoạt động kinh doanh và đánh dấu bước 
-chuyển mình thay đổi Nhận diện thương hiệu mới thành công từ năm 2019, lột xác 
-thành một ngân hàng năng động, trẻ trung – lọt vào Top 2 thương hiệu được yêu thích 
-nhất. Giá trị thương hiệu tăng gấp đôi, tăng 127 bậc so với năm 2020, lọt vào Top 300 
-thương hiệu ngân hàng có giá trị và mạnh nhất thế giới (theo báo cáo Banking 500 
-2022 của Brand Finance). MB tự hào tiếp tục nằm trong Top doanh nghiệp đạt lợi 
+Ngày 1/11/2011, MB đã thực hiện thành công việc niêm yết cổ phiếu MBB trên Sở giao
+dịch chứng khoán Tp. HCM. Trong bối cảnh nền kinh tế bước vào giai đoạn khó khăn,
+ngành ngân hàng dưới áp lực tái cấu trúc mạnh mẽ, MB kiên định với chiến lược phát
+triển bền vững, an toàn đã vươn lên dẫn đầu về nhiều chỉ tiêu tài chính quan trọng,
+hoàn thành mục tiêu nằm trong Top 3 Ngân hàng thương mại cổ phần không do nhà
+nước nắm cổ phần chi phối vào năm 2013.
+Với những thành quả đạt được, MB vinh dự đón nhận Huân chương Lao động Hạng
+Nhất vào năm 2014 và Danh hiệu Anh Hùng Lao động vào năm 2015.
+Trong giai đoạn này, dù gặp nhiều khó khăn bởi đại dịch Covid-19 toàn cầu, MB đã
+có sự tăng trưởng mạnh mẽ, bứt phá trong hoạt động kinh doanh và đánh dấu bước
+chuyển mình thay đổi Nhận diện thương hiệu mới thành công từ năm 2019, lột xác
+thành một ngân hàng năng động, trẻ trung – lọt vào Top 2 thương hiệu được yêu thích
+nhất. Giá trị thương hiệu tăng gấp đôi, tăng 127 bậc so với năm 2020, lọt vào Top 300
+thương hiệu ngân hàng có giá trị và mạnh nhất thế giới (theo báo cáo Banking 500
+2022 của Brand Finance). MB tự hào tiếp tục nằm trong Top doanh nghiệp đạt lợi
 nhuận trên 10.000 tỷ đồng, Top 5 các Ngân hàng tốt nhất Việt Nam.
-Sau giai đoạn 2017 – 2021 tiền đề chuyển đổi số của MB, giai đoạn 2022-2026, MB tiếp tục trên 
-con đường chuyển đổi số mạnh mẽ hơn với phương châm “Tăng tốc số – Hấp dẫn khách hàng 
-– Hiệp lực tập đoàn – An toàn bền vững”. Năm 2022, MB đã xuất sắc về đích với vị trí Top 5 
-về lợi nhuận, Top đầu về tỷ suất sinh lời trên vốn và nằm trong Top đầu về các chỉ số an toàn, 
+Sau giai đoạn 2017 – 2021 tiền đề chuyển đổi số của MB, giai đoạn 2022-2026, MB tiếp tục trên
+con đường chuyển đổi số mạnh mẽ hơn với phương châm “Tăng tốc số – Hấp dẫn khách hàng
+– Hiệp lực tập đoàn – An toàn bền vững”. Năm 2022, MB đã xuất sắc về đích với vị trí Top 5
+về lợi nhuận, Top đầu về tỷ suất sinh lời trên vốn và nằm trong Top đầu về các chỉ số an toàn,
 chất lượng tín dụng.
-Sang năm 2023, MB xuất sắc về đích các danh hiệu, giải thưởng uy tín: Top 3 về lợi nhuận trong 
-hệ thống các Ngân hàng thương mại và Top 2 thương hiệu mạnh nhất Việt Nam. Hơn nữa, 
-MB là một trong số ít các ngân hàng có hệ sinh thái đầy đủ nhất và số hóa đồng bộ nhất Việt 
-Nam. Chuyển đổi số cũng đạt được nhiều thành tựu đáng kể: APP MBBank và BIZ MBBank đạt 
-nhiều giải thưởng uy tín trong nước và quốc tế, App thiện nguyện được vinh danh là Dự án kịp 
-thời tại Human Act Prize 2023, chiến dịch Hi Green - Bình Minh Xanh là chiến dịch trách nhiệm 
-xã hội cộng hưởng đầu tiên do MB tổ chức và tài trợ, có sức ảnh hưởng truyền thông lớn đến 
-cộng đồng. Năm 2023, được sự tin tưởng của Quân ủy trung ương, Bộ Quốc phòng, MB đã 
-thực hiện chuyển giao nhân sự cấp cao thành công, mở ra một chương mới cho MB, tiếp tục 
-hành trình chinh phục tầm nhìn không chỉ trở thành “Doanh nghiệp số, Tập đoàn tài chính dẫn 
-đầu”, mà còn là một doanh nghiệp có chiến lược ESG bài bản, quan tâm đến sự phát triển bền 
-vững của cộng đồng, môi trường, xã hội. 
-1994 – 2004
-2005 - 2009
-2010 – 2016
-2017 – 2021
-2022 – 2023
+Sang năm 2023, MB xuất sắc về đích các danh hiệu, giải thưởng uy tín: Top 3 về lợi nhuận trong
+hệ thống các Ngân hàng thương mại và Top 2 thương hiệu mạnh nhất Việt Nam. Hơn nữa,
+MB là một trong số ít các ngân hàng có hệ sinh thái đầy đủ nhất và số hóa đồng bộ nhất Việt
+Nam. Chuyển đổi số cũng đạt được nhiều thành tựu đáng kể: APP MBBank và BIZ MBBank đạt
+nhiều giải thưởng uy tín trong nước và quốc tế, App thiện nguyện được vinh danh là Dự án kịp
+thời tại Human Act Prize 2023, chiến dịch Hi Green - Bình Minh Xanh là chiến dịch trách nhiệm
+xã hội cộng hưởng đầu tiên do MB tổ chức và tài trợ, có sức ảnh hưởng truyền thông lớn đến
+cộng đồng. Năm 2023, được sự tin tưởng của Quân ủy trung ương, Bộ Quốc phòng, MB đã
+thực hiện chuyển giao nhân sự cấp cao thành công, mở ra một chương mới cho MB, tiếp tục
+hành trình chinh phục tầm nhìn không chỉ trở thành “Doanh nghiệp số, Tập đoàn tài chính dẫn
+đầu”, mà còn là một doanh nghiệp có chiến lược ESG bài bản, quan tâm đến sự phát triển bền
+vững của cộng đồng, môi trường, xã hội.
 Giải thưởng
-DẤU ẤN TIÊU BIỂU NĂM 2023
 NGÂN HÀNG
 CHUYỂN
-ĐỔI SỐ
 TIÊU BIỂU
 Hội đồng Quản trị
-của năm với hạng mục 
-Hội đồng Quản trị có 
+của năm với hạng mục
+Hội đồng Quản trị có
 tính đa dạng cao
-TOP 3
 Doanh nghiệp
 có vốn hóa lớn
 được nhà đầu tư
@@ -463,56 +408,39 @@ nợ dài hạn của MB từ
 mức B+ lên BB-,
 triển vọng Tích cực
 Hội đồng Quản trị
-cam kết thực hành 
+cam kết thực hành
 tốt thông lệ quản trị
-TOP 3
 nơi làm việc
 tốt nhất Việt Nam
 ngành Ngân hàng
-2023
-TOP 50
 CÔNG TY
 NIÊM YẾT
 TỐT NHẤT
 DOANH NGHIỆP
 XUẤT SẮC
-CHÂU Á
-2023
 Kết quả Tập đoàn
-26.306 tỷ đồng
 Lợi nhuận trước thuế
-  15,7%
-30,5%
 Huy động vốn tăng trưởng
-ROE
-23,9%
 Top đầu chỉ tiêu hiệu quả
 Top đầu về tăng trưởng Quy mô
-28,1%
-Thị phần tín dụng cao hơn nhiều  
+Thị phần tín dụng cao hơn nhiều
 so với mức bình quân ngành ~13,71%
-~1,6%
 Tỷ lệ nợ xấu 1
-   Tỷ lệ nợ xấu không bao gồm 
+Tỷ lệ nợ xấu không bao gồm
 Trái phiếu tổ chức kinh tế
-1
 
-20
-21
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
-CƠ CẤU QUẢN TRỊ TẬP ĐOÀN	
+CƠ CẤU QUẢN TRỊ TẬP ĐOÀN
 Sơ đồ tổ chức - mô hình quản trị
 * Đối với Chi nhánh/ VP Đại diện nước ngoài: triển khai công tác quản lý trục dọc theo quy định của MB từng thời kỳ
 * Khối Pháp chế và Tuân thủ có quyết định thành lập từ T1.2024.
-Khối nguồn 
+Khối nguồn
 vốn và
 kinh doanh
 tiền tệ
 Khối
 Hành chính
-Ban
-Khách hàng 
+Khách hàng
 chiến lược
 Khối
 Tổ chức
@@ -520,7 +448,6 @@ nhân sự
 Khối
 Ngân hàng số
 Văn phòng
-CEO
 Khối
 Khách hàng
 cá nhân
@@ -534,30 +461,23 @@ Khối
 Dữ liệu
 Khối
 Khách hàng
-lớn
 BAN KIỂM SOÁT
 CƠ QUAN
 KIỂM TOÁN
-NỘI BỘ
-1
-Uỷ ban quản 
+Uỷ ban quản
 trị cấp cao
-2
 Uỷ ban
 nhân sự
-3
-Uỷ ban 
-quản lý 
-rủi ro 
-4
-Uỷ ban 
-công nghệ & 
-chuyển đổi số 
+Uỷ ban
+quản lý
+rủi ro
+Uỷ ban
+công nghệ &
+chuyển đổi số
 Khối
 Công nghệ
 thông tin
- Ban
-Kế hoạch và 
+Kế hoạch và
 Marketing
 Khối
 Vận hành
@@ -578,38 +498,23 @@ và Quản lý
 chất lượng
 báo cáo trực tiếp
 báo cáo gián tiếp
-HỘI ĐỒNG
 QUẢN TRỊ
-TỔNG
 GIÁM ĐỐC
-CÔNG TY 
+CÔNG TY
 THÀNH VIÊN
-VĂN
-PHÒNG 
+PHÒNG
 HĐQT
-KHỐI
-ĐẦU TƯ
 CHI NHÁNH/
 PHÒNG GIAO DỊCH/
 VĂN PHÒNG ĐẠI DIỆN
 NƯỚC NGOÀI
-1
-Hội đồng 
 ALCO
-2
-Hội đồng 
-rủi ro 
-3
-Hội đồng 
+rủi ro
 quản lý vốn
-ĐẠI HỘI ĐỒNG 
 CỔ ĐÔNG
 
-28
-29
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
-Thành viên các Ủy ban thuộc Hội đồng Quản trị	
+Thành viên các Ủy ban thuộc Hội đồng Quản trị
 ỦY BAN QUẢN TRỊ CẤP CAO
 ỦY BAN NHÂN SỰ
 Ông Lưu Trung Thái
@@ -654,8 +559,8 @@ Trưởng ban Kiểm soát
 Khách mời đương nhiên
 Chủ nhiệm Ủy ban (từ 08/06/2023)
 Chủ nhiệm Ủy ban (từ 08/06/2023)
-Thành viên Ủy ban 
-Thành viên Ủy ban 
+Thành viên Ủy ban
+Thành viên Ủy ban
 ỦY BAN CÔNG NGHỆ
 VÀ CHUYỂN ĐỔI SỐ
 ỦY BAN QUẢN LÝ RỦI RO
@@ -698,74 +603,62 @@ Trưởng ban Kiểm soát
 Khách mời đương nhiên
 Chủ nhiệm Ủy ban
 Chủ nhiệm Ủy ban
-Thành viên Ủy ban 
+Thành viên Ủy ban
 Thành viên Ủy ban
 
-32
-33
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
-Thành viên Ban Điều hành	
+Thành viên Ban Điều hành
 Ông PHẠM NHƯ ÁNH
 Tổng Giám đốc
 Năm sinh: 1980
 Ngày bổ nhiệm: 18/05/2023
 Trình độ chuyên môn:
-•	
 Cử nhân Quản trị kinh doanh – Đại học Kinh tế Đà Nẵng
-•	
-Thạc sỹ Quản trị kinh doanh - Học viện Quản trị kinh 
+Thạc sỹ Quản trị kinh doanh - Học viện Quản trị kinh
 doanh UBI (Bỉ)
 Kinh nghiệm:
-Ông có gần 20 năm kinh nghiệm làm việc trong ngành tài 
-chính, ngân hàng. Tại MB, ông từng đảm nhiệm nhiều vị trí 
-chuyên môn và quản lý của ngân hàng như Giám đốc Chi 
-nhánh, Giám đốc khối Hội sở, đến thành viên Ban điều hành 
-phụ trách toàn bộ hoạt động kinh doanh khu vực phía Nam. 
-Với sự dẫn dắt của ông, các đơn vị luôn hoàn thành vượt mức 
-kế hoạch được giao, mang lại hiệu quả cho MB. Tháng 5.2023, 
+Ông có gần 20 năm kinh nghiệm làm việc trong ngành tài
+chính, ngân hàng. Tại MB, ông từng đảm nhiệm nhiều vị trí
+chuyên môn và quản lý của ngân hàng như Giám đốc Chi
+nhánh, Giám đốc khối Hội sở, đến thành viên Ban điều hành
+phụ trách toàn bộ hoạt động kinh doanh khu vực phía Nam.
+Với sự dẫn dắt của ông, các đơn vị luôn hoàn thành vượt mức
+kế hoạch được giao, mang lại hiệu quả cho MB. Tháng 5.2023,
 Ông được tín nhiệm giao trọng trách Tổng giám đốc MB.
 Trình độ chuyên môn:
-•	
 Cử nhân Kinh tế – Học viện Ngân hàng
-•	
 Thạc sỹ Kinh tế – Đại học Kinh tế Quốc dân
 Kinh nghiệm:
-Hơn 26 năm kinh nghiệm làm việc tại MB. Bà từng giữ nhiều 
-vị trí quan trọng tại MB như Trưởng phòng Quản lý tín dụng, 
-Giám đốc Khối QTRR. Với những đóng góp xuất sắc cho sự 
-phát triển chung của MB, tháng 4/2011, Bà được bổ nhiệm 
-vào vị trí Phó TGĐ. Với những thành tích tại mảng công việc 
-được phân công, tháng 5/2023 bà Hà được bổ nhiệm lại tại 
-vị trí Phó TGĐ phụ trách Khối QTRR, Ban Pháp chế của MB, 
+Hơn 26 năm kinh nghiệm làm việc tại MB. Bà từng giữ nhiều
+vị trí quan trọng tại MB như Trưởng phòng Quản lý tín dụng,
+Giám đốc Khối QTRR. Với những đóng góp xuất sắc cho sự
+phát triển chung của MB, tháng 4/2011, Bà được bổ nhiệm
+vào vị trí Phó TGĐ. Với những thành tích tại mảng công việc
+được phân công, tháng 5/2023 bà Hà được bổ nhiệm lại tại
+vị trí Phó TGĐ phụ trách Khối QTRR, Ban Pháp chế của MB,
 và giữ vị trí Giám đốc rủi ro Tập đoàn.
 Bà PHẠM THỊ TRUNG HÀ
-Phó Tổng giám đốc 
+Phó Tổng giám đốc
 Năm sinh: 1975
 Ngày bổ nhiệm: 27/04/2011
-Ông LÊ QUỐC MINH 
+Ông LÊ QUỐC MINH
 Phó Tổng giám đốc
- 
 Năm sinh: 1979
 Ngày bổ nhiệm: 26/11/2015
 Trình độ chuyên môn:
-•	
 Cử nhân Kinh tế – Đại học Kinh tế Quốc dân
-•	
 Thạc sĩ Quản trị Kinh doanh - Đại học Kinh tế Quốc dân
-•	
 Tiến sĩ ngành Tài chính Ngân hàng - Học viện Hậu cần
 Kinh nghiệm:
-Hơn 18 năm công tác tại MB, ông Lê Quốc Minh đã nắm giữ 
-nhiều vị trí quan trọng như Giám đốc Chi nhánh Ninh Bình; 
-Phó Giám đốc Khối Doanh nghiệp lớn và các Định chế tài 
-chính; Giám đốc Khối Khách hàng lớn. Tháng 11/2015, ông Lê 
-Quốc Minh chính thức được giao nhiệm vụ Phó TGĐ MB. Hiện 
-tại, Ông là Phó Tổng Giám đốc MB phụ trách Khối Thẩm định, 
+Hơn 18 năm công tác tại MB, ông Lê Quốc Minh đã nắm giữ
+nhiều vị trí quan trọng như Giám đốc Chi nhánh Ninh Bình;
+Phó Giám đốc Khối Doanh nghiệp lớn và các Định chế tài
+chính; Giám đốc Khối Khách hàng lớn. Tháng 11/2015, ông Lê
+Quốc Minh chính thức được giao nhiệm vụ Phó TGĐ MB. Hiện
+tại, Ông là Phó Tổng Giám đốc MB phụ trách Khối Thẩm định,
 Ban Khách hàng chiến lược.
 Bà NGUYỄN MINH CHÂU
 Phó Tổng giám đốc
- 
 Năm sinh: 1973
 Ngày bổ nhiệm: 23/11/2009
 Ông TRẦN MINH ĐẠT
@@ -773,242 +666,200 @@ Phó Tổng giám đốc
 Năm sinh: 1968
 Ngày bổ nhiệm: 01/11/2014
 Trình độ chuyên môn:
-•	
 Cử nhân Tín dụng – Học viện Ngân hàng
-•	
 Thạc sỹ Tài chính – Đại học Kinh tế Quốc dân
 Kinh nghiệm:
-Từng giữ nhiều vị trí quan trọng tại MB từ năm 2008 như Giám 
-đốc Chi nhánh Hai Bà Trưng, Giám đốc Chi nhánh Điện Biên 
-Phủ. Tháng 11/2014, Ông được bổ nhiệm chức vụ Phó TGĐ của 
-MB. Ngoài ra ông Đạt là Chủ Tịch Hội đồng thành viên – Công 
-ty TNHH Quản lý nợ và Khai thác tài sản Ngân hàng TMCP 
+Từng giữ nhiều vị trí quan trọng tại MB từ năm 2008 như Giám
+đốc Chi nhánh Hai Bà Trưng, Giám đốc Chi nhánh Điện Biên
+Phủ. Tháng 11/2014, Ông được bổ nhiệm chức vụ Phó TGĐ của
+MB. Ngoài ra ông Đạt là Chủ Tịch Hội đồng thành viên – Công
+ty TNHH Quản lý nợ và Khai thác tài sản Ngân hàng TMCP
 Quân đội (MBAMC).
 Trình độ chuyên môn:
-•	
 Cử nhân Ngoại ngữ – Đại học Tổng hợp Hà Nội
-•	
-Thạc sĩ Ngân hàng Tài chính - Đại học kinh tế Paris 
-Dauphine (Pháp) và Trường cao học quản lý kinh tế 
+Thạc sĩ Ngân hàng Tài chính - Đại học kinh tế Paris
+Dauphine (Pháp) và Trường cao học quản lý kinh tế
 Châu Âu ESCP (EAP)
 Kinh nghiệm:
-Hơn 28 năm trong lĩnh vực ngân hàng, nguồn vốn và ngoại 
-hối. Bà chính thức trở thành thành viên của MB từ tháng 
-11/2009 với vị trí Phó TGĐ, phụ trách hoạt động Khối Nguồn 
+Hơn 28 năm trong lĩnh vực ngân hàng, nguồn vốn và ngoại
+hối. Bà chính thức trở thành thành viên của MB từ tháng
+11/2009 với vị trí Phó TGĐ, phụ trách hoạt động Khối Nguồn
 vốn và Kinh doanh tiền tệ.
 Ông HÀ TRỌNG KHIÊM
 Phó Tổng giám đốc
- 
 Năm sinh: 1973
 Ngày bổ nhiệm: 26/11/2015
 Trình độ chuyên môn:
-•	
 Cử nhân Luật – Đại học Luật Hà Nội
-•	
 Thạc sỹ Tài chính – Đại học Kinh tế Quốc dân
 Kinh nghiệm:
-Gia nhập MB từ năm 1996. Trong hơn 27 năm công tác tại MB, 
-ông Hà Trọng Khiêm đã nắm giữ nhiều vị trí quan trọng như 
-Giám đốc Chi nhánh Cần Thơ, Giám đốc Chi nhánh Sài Gòn, 
-Giám đốc phụ trách Kinh doanh Khu vực phía Nam. Ông đã có 
-nhiều đóng góp quan trọng trong sự phát triển kinh doanh của 
-MB tại Khu vực phía Nam. Từ tháng 3/2019, Ông được giao vị 
+Gia nhập MB từ năm 1996. Trong hơn 27 năm công tác tại MB,
+ông Hà Trọng Khiêm đã nắm giữ nhiều vị trí quan trọng như
+Giám đốc Chi nhánh Cần Thơ, Giám đốc Chi nhánh Sài Gòn,
+Giám đốc phụ trách Kinh doanh Khu vực phía Nam. Ông đã có
+nhiều đóng góp quan trọng trong sự phát triển kinh doanh của
+MB tại Khu vực phía Nam. Từ tháng 3/2019, Ông được giao vị
 trí Phó TGĐ MB kiêm Giám đốc CN Sở giao dịch 2.
 
-34
-35
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
 Bà TRẦN THỊ BẢO QUẾ
 Thành viên Ban điều hành
- 
 Năm sinh: 1977
 Ngày bổ nhiệm: 14/02/2019
 Trình độ chuyên môn:
-•	
 Cử nhân Ngoại ngữ – Đại học Ngoại ngữ
-•	
 Thạc sĩ Kinh tế – Đại học Ngoại thương
 Kinh nghiệm:
-Một trong những nhân sự được MB đào tạo từ khi còn trẻ, đã 
-trưởng thành từ môi trường của MB và có nhiều đóng góp 
-cho MB. Bà Bảo Quế đã có hơn 23 năm gắn bó với MB và 
-nhiều năm liền nắm giữ các vị trí quan trọng tại MB như Giám 
-đốc Nhân sự, Lãnh đạo Dự án đào tạo. Bà đã thành công 
-trong việc ghi dấu ấn trong hoạt động triển khai các Dự án 
-về chuyển đổi, gắn kết sức mạnh nguồn lực toàn MB. Tháng 
-02/2019, Bà Quế được bổ nhiệm Thành viên BĐH phụ trách 
-Khối Mạng lưới và Quản lý chất lượng, Khối Hành chính, Văn 
+Một trong những nhân sự được MB đào tạo từ khi còn trẻ, đã
+trưởng thành từ môi trường của MB và có nhiều đóng góp
+cho MB. Bà Bảo Quế đã có hơn 23 năm gắn bó với MB và
+nhiều năm liền nắm giữ các vị trí quan trọng tại MB như Giám
+đốc Nhân sự, Lãnh đạo Dự án đào tạo. Bà đã thành công
+về chuyển đổi, gắn kết sức mạnh nguồn lực toàn MB. Tháng
+02/2019, Bà Quế được bổ nhiệm Thành viên BĐH phụ trách
+Khối Mạng lưới và Quản lý chất lượng, Khối Hành chính, Văn
 phòng Đại diện Nga, Chi nhánh Lào.
 Trình độ chuyên môn:
-•	
 Kỹ sư Công nghệ Tự động hóa – Đại học Bách Khoa
-•	
-Thạc sĩ Quản trị Kinh doanh – Đại học Northcentral 
+Thạc sĩ Quản trị Kinh doanh – Đại học Northcentral
 (Hoa Kỳ)
 Kinh nghiệm:
-Hơn 27 năm kinh nghiệm trong ngành Tài chính – Ngân hàng, 
-đặc biệt là lĩnh vực hiện đại hóa ngân hàng và áp dụng các 
-chuẩn mực quốc tế về công tác quản trị các hoạt động tài 
-chính, ngân hàng. Năm 2017, Ông chính thức gia nhập MB với 
-vị trí là thành viên BĐH. Hiện Ông Lê Xuân Vũ là Thành viên 
+Hơn 27 năm kinh nghiệm trong ngành Tài chính – Ngân hàng,
+đặc biệt là lĩnh vực hiện đại hóa ngân hàng và áp dụng các
+chuẩn mực quốc tế về công tác quản trị các hoạt động tài
+chính, ngân hàng. Năm 2017, Ông chính thức gia nhập MB với
+vị trí là thành viên BĐH. Hiện Ông Lê Xuân Vũ là Thành viên
 Ban triển khai Đề án S600, Trưởng Ban trù bị Đề án S600.
 Ông VŨ THÀNH TRUNG
 Thành viên Ban điều hành
 Năm sinh: 1981
 Ngày bổ nhiệm: 18/08/2020
 Trình độ chuyên môn:
-•	
 Cử nhân Kinh tế – Đại học Ngoại thương
-•	
 Thạc sĩ Quản trị kinh doanh – Đại học Quốc tế Nhật Bản
 Kinh nghiệm
-Gần 13 năm công tác tại MB Group. Ông Trung từng là Phó Tổng 
-Giám đốc MBCapital, Phó Giám đốc Khối Đầu tư, Chánh Văn 
-phòng CEO. Năm 2017, Ông Trung được giao trọng trách tổ chức 
-các hoạt động Ngân hàng số tại MB và là Giám đốc Khối Ngân 
-hàng số, từ tháng 01/2019 đồng thời là Phó Chủ tịch HĐQT của 
-Công ty MBS. Dưới sự dẫn dắt của Ông Trung, Khối Ngân hàng 
-số đã liên tục phát triển và ra mắt những tính năng mới, xây dựng 
-vị thế hàng đầu của nền tảng số MB trên thị trường, cũng như tạo 
-ra những thành công ban đầu trong việc triển khai các Dự án 
-về chuyển đổi số tại MB. Từ tháng 08/2020, Ông Trung được bổ 
-nhiệm vị trí Thành viên Ban điều hành, hiện Ông đang phụ trách 
-Khối Ngân hàng số, Khối Khách hàng cá nhân, Ban Kế hoạch và 
+Gần 13 năm công tác tại MB Group. Ông Trung từng là Phó Tổng
+Giám đốc MBCapital, Phó Giám đốc Khối Đầu tư, Chánh Văn
+phòng CEO. Năm 2017, Ông Trung được giao trọng trách tổ chức
+các hoạt động Ngân hàng số tại MB và là Giám đốc Khối Ngân
+hàng số, từ tháng 01/2019 đồng thời là Phó Chủ tịch HĐQT của
+Công ty MBS. Dưới sự dẫn dắt của Ông Trung, Khối Ngân hàng
+số đã liên tục phát triển và ra mắt những tính năng mới, xây dựng
+vị thế hàng đầu của nền tảng số MB trên thị trường, cũng như tạo
+ra những thành công ban đầu trong việc triển khai các Dự án
+về chuyển đổi số tại MB. Từ tháng 08/2020, Ông Trung được bổ
+nhiệm vị trí Thành viên Ban điều hành, hiện Ông đang phụ trách
+Khối Ngân hàng số, Khối Khách hàng cá nhân, Ban Kế hoạch và
 Marketing của MB.
 Ông LÊ XUÂN VŨ
-Thành viên Ban điều hành 
+Thành viên Ban điều hành
 Năm sinh: 1971
 Ngày bổ nhiệm: 03/06/2017
 Trình độ chuyên môn:
-•	
 Cử nhân Kinh tế – Đại học Ngoại thương
-•	
-Thạc sĩ Kinh tế Ngân hàng và Tài chính – Đại học 
+Thạc sĩ Kinh tế Ngân hàng và Tài chính – Đại học
 Paris Dauphine và ESCP EUROPE
 Kinh nghiệm:
-Hơn 16 năm làm việc tại MB Group, Ông được ghi nhận là 
-nhân tố trẻ thực hiện xuất sắc các vị trí quan trọng như Chánh 
-Văn phòng HĐQT MB, TGĐ Công ty TNHH Bảo hiểm nhân thọ 
-MB Ageas. Hoạt động của MB Ageas Life dưới sự điều hành 
-của Ông Vũ Hồng Phú đã có lãi sau 3 năm hoạt động, giúp 
-nâng cao vị thế tập đoàn tài chính đa năng cho MB Group. 
-Tháng 08/2020, Ông Phú được bổ nhiệm Thành viên BĐH 
-phụ trách Khối Khách hàng vừa và nhỏ của MB đồng thời là 
-Phó Chủ tịch HĐTV, TGĐ Công ty TNHH Bảo hiểm nhân thọ 
+Hơn 16 năm làm việc tại MB Group, Ông được ghi nhận là
+nhân tố trẻ thực hiện xuất sắc các vị trí quan trọng như Chánh
+Văn phòng HĐQT MB, TGĐ Công ty TNHH Bảo hiểm nhân thọ
+MB Ageas. Hoạt động của MB Ageas Life dưới sự điều hành
+của Ông Vũ Hồng Phú đã có lãi sau 3 năm hoạt động, giúp
+nâng cao vị thế tập đoàn tài chính đa năng cho MB Group.
+Tháng 08/2020, Ông Phú được bổ nhiệm Thành viên BĐH
+phụ trách Khối Khách hàng vừa và nhỏ của MB đồng thời là
+Phó Chủ tịch HĐTV, TGĐ Công ty TNHH Bảo hiểm nhân thọ
 MB Ageas.
 Bà NGUYỄN THỊ THANH NGA
 Giám đốc Tài chính
- 
 Năm sinh: 1981
 Ngày bổ nhiệm: 10/04/2019
 Trình độ chuyên môn:
-•	
 Cử nhân Tài chính Ngân hàng – Đại học Kinh tế Quốc dân
-•	
 Thạc sĩ Quản lý kinh tế – Đại học Kinh tế Quốc dân
 Kinh nghiệm:
-Nhiều năm kinh nghiệm trong hoạt động Ngân hàng và từng 
-đảm nhiệm nhiều vị trí chủ chốt và có nhiều đóng góp với MB 
-như Phó Giám đốc Khối QTRR, Phó Giám đốc Khối Thẩm định 
-và phê duyệt tín dụng, Giám đốc Khối Đầu tư. Tháng 04/2019 
-Bà Nga được bổ nhiệm Giám đốc Tài chính phụ trách Khối 
-Tài chính Kế toán, thực hiện nhiệm vụ Giám đốc Tài chính Tập 
+Nhiều năm kinh nghiệm trong hoạt động Ngân hàng và từng
+đảm nhiệm nhiều vị trí chủ chốt và có nhiều đóng góp với MB
+như Phó Giám đốc Khối QTRR, Phó Giám đốc Khối Thẩm định
+và phê duyệt tín dụng, Giám đốc Khối Đầu tư. Tháng 04/2019
+Bà Nga được bổ nhiệm Giám đốc Tài chính phụ trách Khối
+Tài chính Kế toán, thực hiện nhiệm vụ Giám đốc Tài chính Tập
 đoàn.
 Ông NGUYỄN XUÂN HỌC
-Thành viên Ban điều hành 
+Thành viên Ban điều hành
 Năm sinh: 1980
 Ngày bổ nhiệm: 14/03/2022
 Trình độ chuyên môn:
-•	
 Cử nhân Toán tin ứng dụng – Đại học Bách Khoa Hà Nội
-•	
 Thạc sỹ Quản trị kinh doanh – Đại học Bách Khoa Hà Nội
 Kinh nghiệm:
-Hơn 20 năm gắn bó và làm việc tại MB. Ông từng giữ nhiều 
-vị trí quan trọng tại MB như Trưởng phòng Phát triển CBS, 
-Trưởng phòng Quản trị Công nghệ thông tin (mô hình 2012 – 
-2017), Phó Giám đốc Trung tâm Vận hành và Hỗ trợ (mô hình 
-2012 – 2017), Phó Giám đốc Khối CNTT, Giám đốc Khối CNTT 
-kiêm Giám đốc CNTT tập đoàn và nhiều năm hoàn thành 
-xuất sắc các nhiệm vụ được giao. Từ tháng 03/2022, Ông Học 
-được bổ nhiệm Thành viên BĐH kiêm Giám đốc CNTT Tập 
-đoàn. Ông Học hiện đang phụ trách Văn phòng chuyển đổi, 
+Hơn 20 năm gắn bó và làm việc tại MB. Ông từng giữ nhiều
+vị trí quan trọng tại MB như Trưởng phòng Phát triển CBS,
+Trưởng phòng Quản trị Công nghệ thông tin (mô hình 2012 –
+2017), Phó Giám đốc Trung tâm Vận hành và Hỗ trợ (mô hình
+2012 – 2017), Phó Giám đốc Khối CNTT, Giám đốc Khối CNTT
+kiêm Giám đốc CNTT tập đoàn và nhiều năm hoàn thành
+xuất sắc các nhiệm vụ được giao. Từ tháng 03/2022, Ông Học
+được bổ nhiệm Thành viên BĐH kiêm Giám đốc CNTT Tập
+đoàn. Ông Học hiện đang phụ trách Văn phòng chuyển đổi,
 Khối Dữ liệu và Khối Vận hành.
 Ông VŨ HỒNG PHÚ
 Thành viên Ban điều hành
 Năm sinh: 1983
 Ngày bổ nhiệm: 18/08/2020
 
-40
-41
-Báo cáo thường niên 2023
 Chương 1: Về chúng tôi
 CHIẾN LƯỢC GIAI ĐOẠN
 Phân tích cơ hội và thách thức của bối cảnh kinh doanh của Ngân hàng
 Kết quả triển khai các dự án chiến lược trong năm 2023
-Trong năm 2023, ngành ngân hàng trong nước đã đối mặt với một loạt thách thức và tác động đáng kể từ môi trường kinh tế toàn 
+Trong năm 2023, ngành ngân hàng trong nước đã đối mặt với một loạt thách thức và tác động đáng kể từ môi trường kinh tế toàn
 cầu. Tổng cầu thế giới suy giảm, lạm phát hạ nhiệt tại các nền kinh tế lớn nhưng vẫn chưa đạt mục tiêu.
-Trong nước, Chính phủ và NHNN đã ban hành nhiều thay đổi trong quy định nhằm thúc đẩy nền kinh tế. Các chính sách nổi bật bao 
+Trong nước, Chính phủ và NHNN đã ban hành nhiều thay đổi trong quy định nhằm thúc đẩy nền kinh tế. Các chính sách nổi bật bao
 gồm: Luật các tổ chức tín dụng sửa đổi, tiếp tục triển khai Nghị quyết 42/2017/QH14 về xử lý nợ xấu đến 31/12/2023, Nghị quyết 59/
-NQ-CP hỗ trợ khách hàng vay, Nghị quyết 33/NQ-CP thúc đẩy thị trường bất động sản, Thông tư 02/2023/TT-NHNN về cơ cấu trả 
-nợ cho khách hàng, Thông tư 03/2023/TT-NHNN về cho vay bất động sản và trái phiếu, NHNN hạ lãi suất điều hành 4 lần liên tiếp 
+NQ-CP hỗ trợ khách hàng vay, Nghị quyết 33/NQ-CP thúc đẩy thị trường bất động sản, Thông tư 02/2023/TT-NHNN về cơ cấu trả
+nợ cho khách hàng, Thông tư 03/2023/TT-NHNN về cho vay bất động sản và trái phiếu, NHNN hạ lãi suất điều hành 4 lần liên tiếp
 với mức giảm 1,25-2,0%/năm.
-Các động lực của nền kinh tế còn yếu. Đầu tư công chưa phát huy vai trò dẫn dắt. Thặng dư thương mại đạt mức cao nhưng quy 
-mô xuất nhập khẩu giảm. Dòng vốn từ trái phiếu doanh nghiệp và thị trường chứng khoán cũng đã giảm, trong khi thị trường bất 
+Các động lực của nền kinh tế còn yếu. Đầu tư công chưa phát huy vai trò dẫn dắt. Thặng dư thương mại đạt mức cao nhưng quy
+mô xuất nhập khẩu giảm. Dòng vốn từ trái phiếu doanh nghiệp và thị trường chứng khoán cũng đã giảm, trong khi thị trường bất
 động sản có dấu hiệu trầm lắng, tiềm ẩn rủi ro.
-Khả năng hấp thụ vốn của nền kinh tế thấp. Tín dụng tăng trưởng ở mức 13,5%, thấp hơn so với mức 14,5% năm 2022. Sự gia tăng mạnh 
+Khả năng hấp thụ vốn của nền kinh tế thấp. Tín dụng tăng trưởng ở mức 13,5%, thấp hơn so với mức 14,5% năm 2022. Sự gia tăng mạnh
 mẽ của quy mô nợ xấu cũng là một vấn đề đáng lo ngại, khi tỷ lệ nợ xấu của toàn ngành đã tăng đến 3,6%, so với 1,6% vào cuối năm trước.
-Trong bối cảnh các thách thức kinh tế toàn cầu và nội địa, MB đã kiên cường và linh hoạt trong việc đối phó và vượt qua những rủi 
-ro để đạt được mức tăng trưởng ổn định, với tỷ lệ nợ xấu được duy trì ở mức thấp. Trong năm 2023, MB đã triển khai các dự án – 
+Trong bối cảnh các thách thức kinh tế toàn cầu và nội địa, MB đã kiên cường và linh hoạt trong việc đối phó và vượt qua những rủi
+ro để đạt được mức tăng trưởng ổn định, với tỷ lệ nợ xấu được duy trì ở mức thấp. Trong năm 2023, MB đã triển khai các dự án –
 sáng kiến đạt chất lượng, bám sát chiến lược giai đoạn 2022-2026:
-Tăng tốc thu hút 
-khách hàng và tạo 
+Tăng tốc thu hút
+khách hàng và tạo
 doanh thu từ
 phân khúc
- khách hàng
+khách hàng
 cá nhân
-Tăng tốc thu hút 
-và tạo doanh thu 
-từ khách hàng 
-cá nhân cao cấp 
+Tăng tốc thu hút
+và tạo doanh thu
+từ khách hàng
+cá nhân cao cấp
 (Priority và
 Private)
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-Tăng tốc thu hút 
-khách hàng và đề 
-xuất giá trị mới 
+Tăng tốc thu hút
+khách hàng và đề
+xuất giá trị mới
 phân khúc SME
-Nền tảng Ngân hàng 
+Nền tảng Ngân hàng
 Giao dịch CIB
-Chi nhánh 
+Chi nhánh
 tương lai
 Nhà máy số
 Hệ sinh thái Số
-Ngân hàng dịch 
+Ngân hàng dịch
 vụ (BAAS)
 Công nghệ agility
 Dữ liệu tập đoàn
-Củng cố hoạt động 
-quản trị và Văn hoá 
+Củng cố hoạt động
+quản trị và Văn hoá
 doanh nghiệp
-11 SÁNG KIẾN 
+11 SÁNG KIẾN
 CHIẾN LƯỢC
-►	
 Mục tiêu chiến lược: Top 3 thị trường về hiệu quả, hướng đến Top đầu Châu Á
-►	
 Định vị giá trị: Cung cấp các sản phẩm tài chính xuất sắc
-►	
 Phương châm:
 Hấp dẫn khách hàng
 Hiệp lực tập đoàn
@@ -1016,561 +867,376 @@ An toàn bền vững
 Tăng tốc số
 ►  Gia tăng giá trị cho khách hàng trên các nền tảng số
 ►  Mô hình Dữ liệu
-Với mục tiêu trở thành ngân hàng số hàng đầu, ngân 
-hàng kinh doanh nền tảng, MB chú trọng tạo ra các giá 
-trị vượt trội và tập trung hoàn thiện các trải nghiệm, dịch 
-vụ chăm sóc khách hàng trên các nền tảng APP MBBank 
-dành cho KHCN, BIZ MBBank dành cho KHDN và nền 
-tảng BaaS để cung cấp sản phẩm, dịch vụ MB trên các 
+Với mục tiêu trở thành ngân hàng số hàng đầu, ngân
+hàng kinh doanh nền tảng, MB chú trọng tạo ra các giá
+trị vượt trội và tập trung hoàn thiện các trải nghiệm, dịch
+vụ chăm sóc khách hàng trên các nền tảng APP MBBank
+dành cho KHCN, BIZ MBBank dành cho KHDN và nền
+tảng BaaS để cung cấp sản phẩm, dịch vụ MB trên các
 nền tảng của đối tác.
-Năm 2023 MB thu hút mới hơn 6,2 triệu tài khoản APP 
-MBBank, 78.000 tài khoản BIZ MBBank và liên kết mới với 
-hơn 173 đối tác BaaS. Các sản phẩm, tính năng vượt trội 
-trên các nền tảng số như: thẻ ảo (virtual); chuyển tiền quốc 
-tế online; cho vay và giải ngân online; tư vấn LC online và 
-phát triển 54 Mini-apps đáp ứng nhu cầu phi tài chính cho 
-khách hàng... MB đã có hơn 86% khách hàng sử dụng APP 
-MBBank/ BIZ MBBank, 96,7% giao dịch được thực hiện 
+Năm 2023 MB thu hút mới hơn 6,2 triệu tài khoản APP
+MBBank, 78.000 tài khoản BIZ MBBank và liên kết mới với
+hơn 173 đối tác BaaS. Các sản phẩm, tính năng vượt trội
+trên các nền tảng số như: thẻ ảo (virtual); chuyển tiền quốc
+tế online; cho vay và giải ngân online; tư vấn LC online và
+phát triển 54 Mini-apps đáp ứng nhu cầu phi tài chính cho
+khách hàng... MB đã có hơn 86% khách hàng sử dụng APP
+MBBank/ BIZ MBBank, 96,7% giao dịch được thực hiện
 kênh số, doanh thu kênh số chiếm 24,4%.
-TOP 1
-78.000
-các ứng dụng Tài chính 
+các ứng dụng Tài chính
 trên App Store
 tài khoản BIZ MBBank
 APP MBBank
-Tại phân khúc KHCN: Tỷ lệ phê duyệt tự động đạt 59,5% 
-và 71% phương án được giải ngân Online trên APP 
+Tại phân khúc KHCN: Tỷ lệ phê duyệt tự động đạt 59,5%
+và 71% phương án được giải ngân Online trên APP
 MBBank
 Năm 2023, MB tiếp tục tổ chức triển khai 11 sáng kiến chiến lược và các dự án đồng bộ với những kết quả ấn tượng:
-Hoàn thiện nền tảng, kiến trúc và quản trị dữ liệu theo 
-thông lệ tiên tiến nhằm đáp ứng yêu cầu quản trị, phân 
-tích dữ liệu, phục vụ nhu cầu cá nhân hóa sản phẩm, dịch 
-vụ đến khách hàng đồng thời kiện toàn các văn bản quy 
-chế, quy trình đảm bảo tuân thủ các quy định của pháp 
+Hoàn thiện nền tảng, kiến trúc và quản trị dữ liệu theo
+thông lệ tiên tiến nhằm đáp ứng yêu cầu quản trị, phân
+tích dữ liệu, phục vụ nhu cầu cá nhân hóa sản phẩm, dịch
+vụ đến khách hàng đồng thời kiện toàn các văn bản quy
+chế, quy trình đảm bảo tuân thủ các quy định của pháp
 luật và NHNN về bảo vệ dữ liệu cá nhân.
-Ứng dụng mạnh các mô hình, phân tích dữ liệu số lớn để 
-đánh giá nhu cầu, mức độ rủi ro của khách hàng, từ đó 
-nâng cao trải nghiệm của khách hàng như: các sản phẩm 
-phê duyệt trước (thẻ tín dụng, ô tô, hạn mức sản xuất kinh 
-doanh…), các sản phẩm vay được xét duyệt và giải ngân 
+Ứng dụng mạnh các mô hình, phân tích dữ liệu số lớn để
+đánh giá nhu cầu, mức độ rủi ro của khách hàng, từ đó
+nâng cao trải nghiệm của khách hàng như: các sản phẩm
+phê duyệt trước (thẻ tín dụng, ô tô, hạn mức sản xuất kinh
+doanh…), các sản phẩm vay được xét duyệt và giải ngân
 online trên kênh số.
-Tại phân khúc Khách hàng Micro SME: Tỷ lệ phê 
-duyệt tự động đối với phương án cấp mới ~13%, tái 
-cấp ~20% và 65% phương án được giải ngân online 
+Tại phân khúc Khách hàng Micro SME: Tỷ lệ phê
+duyệt tự động đối với phương án cấp mới ~13%, tái
+cấp ~20% và 65% phương án được giải ngân online
 trên BIZ MBBank
 ►  Nền tảng hạ tầng và giải pháp công nghệ hiện đại
-Nâng cấp hệ thống Core Banking T24 sẵn sàng phục vụ 30 
-triệu khách hàng, với năng lực xử lý giao dịch đồng thời 
-TPS (Transaction Processing System) với tỷ lệ xử lý thành 
-công đạt 99,98%. Các giải pháp định danh sử dụng OCR 
-(Optical Character Recognition), video KyC (electronic 
-Know Your Customer), NFC (Near Field Communication), 
-Digital OTP (One-time password) đã giúp khách hàng thực 
-hiện các giao dịch dễ dàng và an toàn nhất. Các công nghệ 
-tiên tiến như RPA (Robotic process automation), Mbot, AI, 
-Machine Learning, Deep Learning được ứng dụng để nâng 
-cao hiệu quả hoạt động chăm sóc, tư vấn khách hàng và 
+Nâng cấp hệ thống Core Banking T24 sẵn sàng phục vụ 30
+triệu khách hàng, với năng lực xử lý giao dịch đồng thời
+TPS (Transaction Processing System) với tỷ lệ xử lý thành
+công đạt 99,98%. Các giải pháp định danh sử dụng OCR
+(Optical Character Recognition), video KyC (electronic
+Know Your Customer), NFC (Near Field Communication),
+Digital OTP (One-time password) đã giúp khách hàng thực
+hiện các giao dịch dễ dàng và an toàn nhất. Các công nghệ
+tiên tiến như RPA (Robotic process automation), Mbot, AI,
+Machine Learning, Deep Learning được ứng dụng để nâng
+cao hiệu quả hoạt động chăm sóc, tư vấn khách hàng và
 gia tăng tốc độ, sự chính xác trong thực thi quy trình.
-Hoàn thành triển khai giải pháp ZTNA (Zero Trust Network 
-Access) kiểm soát các truy cập từ xa, truy cập ứng dụng 
-nội bộ nhằm nâng cao năng lực bảo vệ hệ thống mạng, 
-cơ sở dữ liệu và các hệ thống thông tin trao đổi dữ liệu 
-trên môi trường mạng. Hơn nữa, 100% sản phẩm dịch vụ 
-của MB được đánh giá, đảm bảo an toàn thông tin trước 
-khi golive, hệ thống CNTT/dịch vụ mở cho khách hàng luôn 
+Hoàn thành triển khai giải pháp ZTNA (Zero Trust Network
+Access) kiểm soát các truy cập từ xa, truy cập ứng dụng
+nội bộ nhằm nâng cao năng lực bảo vệ hệ thống mạng,
+cơ sở dữ liệu và các hệ thống thông tin trao đổi dữ liệu
+trên môi trường mạng. Hơn nữa, 100% sản phẩm dịch vụ
+của MB được đánh giá, đảm bảo an toàn thông tin trước
+khi golive, hệ thống CNTT/dịch vụ mở cho khách hàng luôn
 được đảm bảo an toàn thông tin - giám sát liên tục 24/7.
-►  Tăng cường năng lực vận hành, nâng cao chất  	     	
-     lượng dịch vụ
-Chất lượng dịch vụ đạt ở mức cao so với trung bình 
-ngành, chỉ số hài lòng của khách hàng (CSAT) toàn 
-ngân hàng đạt 88,7%. Vượt trội về thời gian xử lý dịch 
-vụ chuyển tiền quốc tế và tư vấn thư tín dụng (LC) 
+►  Tăng cường năng lực vận hành, nâng cao chất
+lượng dịch vụ
+Chất lượng dịch vụ đạt ở mức cao so với trung bình
+ngành, chỉ số hài lòng của khách hàng (CSAT) toàn
+ngân hàng đạt 88,7%. Vượt trội về thời gian xử lý dịch
+vụ chuyển tiền quốc tế và tư vấn thư tín dụng (LC)
 online, 100% các giao dịch được xử lý dưới 60 phút.
-Chuyển dịch số mạnh mẽ hoạt động vận hành giúp 
-giảm 20% thời gian định danh khách hàng mới tại quầy 
-giao dịch, tỷ lệ giao dịch tiền mặt trên kênh số đạt 93%, 
-tỷ lệ trả lời tự động cho khách hàng bằng Chatbot đạt 
-gần 80%.
+Chuyển dịch số mạnh mẽ hoạt động vận hành giúp
+giảm 20% thời gian định danh khách hàng mới tại quầy
+giao dịch, tỷ lệ giao dịch tiền mặt trên kênh số đạt 93%,
+tỷ lệ trả lời tự động cho khách hàng bằng Chatbot đạt
 
-42
-43
-Báo cáo thường niên 2023
 Chương 2: Tiến bước số - Định vị Ngân hàng xanh
 Định hướng phát triển của Ngân hàng trong năm 2024
 Mục tiêu năm 2024
-Các ngân hàng tiếp tục xu hướng chuyển đổi số 
-mạnh mẽ và ứng dụng trí tuệ nhân tạo (AI) vào hoạt 
-động của ngân hàng, nhằm tối ưu hóa dịch vụ và 
-quy trình. Năm 2024, tín dụng dự báo tăng trưởng ở 
-mức 15%, mặt bằng lãi suất duy trì ở mức thấp, tạo 
-điều kiện thuận lợi cho hoạt động vay vốn và đầu 
-tư. Thị trường bất động sản dù cải thiện nhưng còn 
-trầm lắng. Đặc biệt là trái phiếu Bất động sản đáo 
-hạn lớn vào năm 2024, gây ra một thách thức mới. 
-Quy mô nợ xấu của các ngân hàng đang tăng mạnh, 
-đặc biệt là khi các khoản nợ xấu tiềm ẩn theo quy 
-định tại Thông tư 02/2023/TT-NHNN sẽ hết hạn hoãn 
-giãn nợ. 
-Thị trường trái phiếu doanh nghiệp đang được tháo 
-gỡ và tăng cường công tác thanh tra, giám sát, tuy 
-nhiên, khối lượng phát hành vẫn còn ít. Các nguồn 
-thu từ các dịch vụ phí như phân phối bảo hiểm qua 
-kênh ngân hàng (Bancassurance), ngân hàng đầu tư, 
-và thanh toán cũng được dự báo giảm, tạo ra áp lực 
-trong việc tìm kiếm nguồn thu thay thế và tối ưu hóa 
-chi phí. 
+Các ngân hàng tiếp tục xu hướng chuyển đổi số
+mạnh mẽ và ứng dụng trí tuệ nhân tạo (AI) vào hoạt
+động của ngân hàng, nhằm tối ưu hóa dịch vụ và
+quy trình. Năm 2024, tín dụng dự báo tăng trưởng ở
+mức 15%, mặt bằng lãi suất duy trì ở mức thấp, tạo
+điều kiện thuận lợi cho hoạt động vay vốn và đầu
+tư. Thị trường bất động sản dù cải thiện nhưng còn
+trầm lắng. Đặc biệt là trái phiếu Bất động sản đáo
+hạn lớn vào năm 2024, gây ra một thách thức mới.
+Quy mô nợ xấu của các ngân hàng đang tăng mạnh,
+đặc biệt là khi các khoản nợ xấu tiềm ẩn theo quy
+định tại Thông tư 02/2023/TT-NHNN sẽ hết hạn hoãn
+giãn nợ.
+Thị trường trái phiếu doanh nghiệp đang được tháo
+gỡ và tăng cường công tác thanh tra, giám sát, tuy
+nhiên, khối lượng phát hành vẫn còn ít. Các nguồn
+thu từ các dịch vụ phí như phân phối bảo hiểm qua
+kênh ngân hàng (Bancassurance), ngân hàng đầu tư,
+và thanh toán cũng được dự báo giảm, tạo ra áp lực
+trong việc tìm kiếm nguồn thu thay thế và tối ưu hóa
+chi phí.
 DỰ ĐOÁN NGÀNH NGÂN HÀNG
-BỐI CẢNH THỊ TRƯỜNG 
-Năm 2024 dự đoán có nhiều cơ hội phát triển đáng 
-chú ý, nhưng cũng đối diện với những thách thức 
-không nhỏ từ môi trường kinh tế toàn cầu và trong 
-nước. Triển vọng các quốc gia lớn nới lỏng dần 
-chính sách tiền tệ, nhu cầu thị trường thế giới hồi 
-phục, có tác động tốt tới xuất khẩu tại Việt Nam. 
-GDP Việt Nam dự kiến tăng 6 - 6,5% và chỉ số giá 
-tiêu dùng (CPI) bình quân dự kiến tăng 4 - 4,5%, 
-cùng với tăng trưởng tín dụng ước tính ở mức 15%, 
+BỐI CẢNH THỊ TRƯỜNG
+Năm 2024 dự đoán có nhiều cơ hội phát triển đáng
+chú ý, nhưng cũng đối diện với những thách thức
+không nhỏ từ môi trường kinh tế toàn cầu và trong
+nước. Triển vọng các quốc gia lớn nới lỏng dần
+chính sách tiền tệ, nhu cầu thị trường thế giới hồi
+phục, có tác động tốt tới xuất khẩu tại Việt Nam.
+GDP Việt Nam dự kiến tăng 6 - 6,5% và chỉ số giá
+tiêu dùng (CPI) bình quân dự kiến tăng 4 - 4,5%,
+cùng với tăng trưởng tín dụng ước tính ở mức 15%,
 cho thấy tiềm năng tăng trưởng tích cực.
-Tuy nhiên, cũng không thể phủ nhận những thách 
-thức mà thị trường Việt Nam sẽ phải đối mặt trong 
-năm 2024. Kinh tế toàn cầu vẫn còn nhiều rủi ro 
-và bất định, đặc biệt là trong bối cảnh biến động 
-chính sách từ các quốc gia lớn và các rủi ro địa 
-chính trị vẫn còn diễn ra. Cơ chế chính sách và giải 
-ngân vốn đầu tư công có thể không đạt được yêu 
-cầu, gây ra sự lãng phí và không hiệu quả trong 
-việc sử dụng nguồn lực. 
-MỤC 
-TIÊU
-Vững vàng tiến bước với 30 năm 
-phát triển, MB lấy công nghệ làm 
-nền tảng dẫn dắt sự phát triển, bám 
-sát mục tiêu chiến lược giai đoạn 2022 – 
-2026 và triển khai có hiệu quả 11 sáng kiến 
-chiến lược nhằm hiện thực hóa tầm nhìn 
-“Trở thành Doanh nghiệp số, Tập đoàn 
-tài chính dẫn đầu” hướng tới mục 
-tiêu “Top 3 thị trường về hiệu 
+Tuy nhiên, cũng không thể phủ nhận những thách
+thức mà thị trường Việt Nam sẽ phải đối mặt trong
+năm 2024. Kinh tế toàn cầu vẫn còn nhiều rủi ro
+và bất định, đặc biệt là trong bối cảnh biến động
+chính sách từ các quốc gia lớn và các rủi ro địa
+chính trị vẫn còn diễn ra. Cơ chế chính sách và giải
+ngân vốn đầu tư công có thể không đạt được yêu
+cầu, gây ra sự lãng phí và không hiệu quả trong
+việc sử dụng nguồn lực.
+Vững vàng tiến bước với 30 năm
+phát triển, MB lấy công nghệ làm
+nền tảng dẫn dắt sự phát triển, bám
+sát mục tiêu chiến lược giai đoạn 2022 –
+2026 và triển khai có hiệu quả 11 sáng kiến
+chiến lược nhằm hiện thực hóa tầm nhìn
+“Trở thành Doanh nghiệp số, Tập đoàn
+tài chính dẫn đầu” hướng tới mục
+tiêu “Top 3 thị trường về hiệu
 quả và an toàn”.
-Trọng tâm đầu tư cho các dự án nền 
-tảng số (APP MBBank, BIZ MBBank, 
-BaaS) là các nền tảng chính kết nối giữa 
-MB, khách hàng và nhà cung cấp, nhằm 
-tạo giá trị và trải nghiệm xuất sắc cho 
-khách hàng. Thu hút khách hàng mới, 
-mục tiêu đạt 30 triệu khách hàng. Tỷ 
-lệ doanh thu kênh số chiếm 30% 
+Trọng tâm đầu tư cho các dự án nền
+tảng số (APP MBBank, BIZ MBBank,
+BaaS) là các nền tảng chính kết nối giữa
+MB, khách hàng và nhà cung cấp, nhằm
+tạo giá trị và trải nghiệm xuất sắc cho
+khách hàng. Thu hút khách hàng mới,
+mục tiêu đạt 30 triệu khách hàng. Tỷ
+lệ doanh thu kênh số chiếm 30%
 tổng doanh thu.
-Chú trọng xây dựng Văn hóa doanh 
-nghiệp số, áp dụng triệt để và sáng tạo 
-các phương pháp làm việc tạo bản 
-sắc người MB. Triển khai xây dựng 
-chiến lược ESG toàn diện toàn 
+Chú trọng xây dựng Văn hóa doanh
+nghiệp số, áp dụng triệt để và sáng tạo
+các phương pháp làm việc tạo bản
+sắc người MB. Triển khai xây dựng
+chiến lược ESG toàn diện toàn
 tập đoàn.
-“Ma trận trọng yếu cho năm 2023 được xác định trên cơ sở rà soát và đánh giá lại tác động trọng yếu của các chủ đề Phát triển bền vững các 
+“Ma trận trọng yếu cho năm 2023 được xác định trên cơ sở rà soát và đánh giá lại tác động trọng yếu của các chủ đề Phát triển bền vững các
 năm trước. Cơ chế xác định được trình bày chi tiết ở trang sau.”
 Ma trận trọng yếu 2023
 Ảnh hưởng tới MB
-1
-2
-2
-3
-4
-5
-3
-4
-5
 Ảnh hưởng tới các bên liên quan
 Tín dụng xanh
-An ninh mạng và 
+An ninh mạng và
 bảo mật dữ liệu
 Đạo đức
-doanh nghiệp 
-Nâng cao chất lượng 
+doanh nghiệp
+Nâng cao chất lượng
 quản trị ngân hàng
 Quản trị rủi ro hệ thống
-Đào tạo và phát 
+Đào tạo và phát
 triển nhân tài
 Trách nhiệm cộng đồng
-Bảo vệ và tôn trọng 
+Bảo vệ và tôn trọng
 quyền con người
 Quản trị PTBV
-Quản lý năng lượng 
+Quản lý năng lượng
 và tài nguyên
-Chống biến đổi khí 
+Chống biến đổi khí
 hậu và
 chiến lược Net-zero
-Chuyển đổi số nâng cao 
+Chuyển đổi số nâng cao
 trải nghiệm khách hàng
 CÁC CHỦ ĐỀ TRỌNG YẾU
 
-44
-45
-Báo cáo thường niên 2023
 Chương 2: Tiến bước số - Định vị Ngân hàng xanh
 Cơ chế xác định các lĩnh vực trọng yếu
 ►  Khách hàng: Trọng tâm của sản phẩm dịch vụ MB.
 ►  Chuyển đổi số: Cốt lõi giúp MB phát triển và đổi mới.
 ►  Tín dụng xanh: Thúc đẩy giá trị bền vững của MB.
-►  Quản trị ngân hàng: Nền tảng hỗ trợ MB phát  	
-	
-      triển  bền vững.
-►  Quản trị an ninh mạng: Nền tảng tạo ra sản phẩm 	
-      
+►  Quản trị ngân hàng: Nền tảng hỗ trợ MB phát
+triển  bền vững.
+►  Quản trị an ninh mạng: Nền tảng tạo ra sản phẩm
 dịch vụ an toàn, có giá trị.
 ►  Phát triển nhân tài: Động lực bứt phá tương lai.
-Phương pháp đánh giá dựa trên bản đồ chuỗi giá trị giúp MB 
-xác định các bên liên quan trọng yếu, yếu tố tác động để đưa 
+Phương pháp đánh giá dựa trên bản đồ chuỗi giá trị giúp MB
+xác định các bên liên quan trọng yếu, yếu tố tác động để đưa
 vào đánh giá mức độ ảnh hưởng.
-Mục tiêu của phương pháp này giúp MB nhận diện các chủ đề 
+Mục tiêu của phương pháp này giúp MB nhận diện các chủ đề
 phát triển bền vững quan trọng của toàn hàng.
-MB sử dụng nhiều phương pháp để phân tích và gắn kết 
-các bên liên quan, đảm bảo chiến lược Phát triển bền vững 
-toàn hàng phù hợp với nhu cầu và mối quan tâm của các 
+MB sử dụng nhiều phương pháp để phân tích và gắn kết
+toàn hàng phù hợp với nhu cầu và mối quan tâm của các
 bên liên quan.
-Phương pháp tiếp cận để thấu hiểu mối quan tâm của các 
+Phương pháp tiếp cận để thấu hiểu mối quan tâm của các
 bên liên quan chính là:
-BƯỚC 1
-BƯỚC 2
 CẬP NHẬT CÁC CHỦ ĐỀ
 PHÂN TÍCH TRỌNG YẾU
 GẮN KẾT CÁC BÊN LIÊN QUAN
-Dựa trên chuỗi giá trị và các mối quan hệ kinh doanh bền 
-vững, MB cập nhật các yếu tố tác động hướng tới Phát triển 
-bền vững, trong đó các yếu tố quan trọng được xác định trong 
-năm 2023 là:
-►  Xác định cách thức tham vấn: Xây dựng kênh trực 	
-      
-tiếp và gián tiếp để lấy ý kiến phản hồi về các chủ 	
-      
+Dựa trên chuỗi giá trị và các mối quan hệ kinh doanh bền
+vững, MB cập nhật các yếu tố tác động hướng tới Phát triển
+bền vững, trong đó các yếu tố quan trọng được xác định trong
+►  Xác định cách thức tham vấn: Xây dựng kênh trực
+tiếp và gián tiếp để lấy ý kiến phản hồi về các chủ
 đề trọng yếu mà các bên đặc biệt quan tâm.
-►  Xác định nội dung quan tâm: Đảm bảo chiến lược 	
-      
+►  Xác định nội dung quan tâm: Đảm bảo chiến lược
 phát triển bền vững phù hợp với kỳ vọng.
-►  Xây dựng cách thức phản hồi: Cân bằng lợi ích 	
-       	
-      giữa các bên liên quan.
-(Nội dung chi tiết tham khảo tại Chương 6 - Gắn kết các bên liên 
+►  Xây dựng cách thức phản hồi: Cân bằng lợi ích
+giữa các bên liên quan.
+(Nội dung chi tiết tham khảo tại Chương 6 - Gắn kết các bên liên
 quan trong báo cáo này)
-MB nhận diện và phân tích các chủ đề Phát triển bền vững có 
-ảnh hưởng đến hoạt động của MB và các bên liên quan thông 
-qua lăng kính quản lý rủi ro, giúp MB nắm bắt cơ hội và ứng 
+MB nhận diện và phân tích các chủ đề Phát triển bền vững có
+ảnh hưởng đến hoạt động của MB và các bên liên quan thông
+qua lăng kính quản lý rủi ro, giúp MB nắm bắt cơ hội và ứng
 phó rủi ro kịp thời.
-MB đánh giá lại mức độ tác động của các chủ đề được xác 
+MB đánh giá lại mức độ tác động của các chủ đề được xác
 định, căn cứ vào:
-Ma trận các chủ đề trọng yếu được xây dựng dựa trên kết quả 
-phân tích và đánh giá các chủ đề trọng yếu cho năm 2023. 
-Các chủ đề được phân loại theo: 
-BƯỚC 4
-BƯỚC 3
+Ma trận các chủ đề trọng yếu được xây dựng dựa trên kết quả
+phân tích và đánh giá các chủ đề trọng yếu cho năm 2023.
+Các chủ đề được phân loại theo:
 XÂY DỰNG MA TRẬN TRỌNG YẾU
-ĐÁNH GIÁ LẠI CÁC CHỦ ĐỀ HƯỚNG 
+ĐÁNH GIÁ LẠI CÁC CHỦ ĐỀ HƯỚNG
 TỚI PHÁT TRIỂN BỀN VỮNG
 ►  Mối quan tâm của các bên liên quan
 ►  Rủi ro và cơ hội của ngành
 ►  Xu hướng và cơ hội hiện tại ở Việt Nam và khu vực
-►  Chiến lược phát triển chung của MB hướng tới 	
-	
-       Phát triển bền vững
-Mục đích của hoạt động này giúp MB xác định các chủ đề 
-trọng yếu có tác động lớn nhất đến MB và các bên liên quan 
-và có kế hoạch triển khai các sáng kiến hoặc giải quyết các 
-chủ đề hướng tới tăng cường Phát triển bền vững trong năm 
-2023.
-►  Mức độ quan trọng đối với MB 
+Phát triển bền vững
+Mục đích của hoạt động này giúp MB xác định các chủ đề
+trọng yếu có tác động lớn nhất đến MB và các bên liên quan
+và có kế hoạch triển khai các sáng kiến hoặc giải quyết các
+chủ đề hướng tới tăng cường Phát triển bền vững trong năm
+►  Mức độ quan trọng đối với MB
 ►  Tầm ảnh hưởng đến các bên liên quan
-Mục đích xây dựng ma trận giúp MB và các bên liên quan dễ 
-dàng hình dung và xác định các chủ đề cần ưu tiên giải quyết 
-để phân bổ nguồn lực hiệu quả để giải quyết các chủ đề trọng 
+Mục đích xây dựng ma trận giúp MB và các bên liên quan dễ
+dàng hình dung và xác định các chủ đề cần ưu tiên giải quyết
+để phân bổ nguồn lực hiệu quả để giải quyết các chủ đề trọng
 yếu trong năm 2023.
 
 Chương 3: Vững vàng tiến bước trước thách thức
-49
 TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM
 Tình hình tài chính
 Chỉ tiêu tài chính
 Đơn vị tính
-Năm 2021
-Năm 2022
-Năm 2023
 % tăng/
 giảm
 1. Quy mô vốn
 Vốn chủ sở hữu
-tỷ đồng
-62.486 
-79.613 
- 96.711 
-21,5
 Trong đó: Vốn điều lệ
-tỷ đồng
-37.783 
-45.340 
-52.141 
-15,0
-Tổng tài sản 
-tỷ đồng
-607.140 
-728.532 
-944.954 
-29,7
+Tổng tài sản
 Tỷ lệ an toàn Vốn CAR**
-%
-11,28
-11,53
-10,75
-(0,78)
 2. Kết quả hoạt động kinh doanh
 Tiền gửi của TCKT và cá nhân
-tỷ đồng
-384.692 
-443.606 
-567.533 
-27,9
 Tổng dư nợ cho vay
-tỷ đồng
-363.555 
-460.574 
- 611.049 
-32,7
 Tổng thu nhập hoạt động (Doanh thu)
-tỷ đồng
-36.934 
-45.593 
-47.306 
-3,8
-Lợi nhuận từ HĐKD trước chi phí dự 
+Lợi nhuận từ HĐKD trước chi phí dự
 phòng rủi ro
-tỷ đồng
-24.557 
-30.777 
-32.393 
-5,3
 Thuế và các khoản phải nộp
-tỷ đồng
- 5.144 
- 6.788 
-7.722
-13,8
 Lợi nhuận trước thuế
-tỷ đồng
-16.527 
-22.729 
-26.306 
-15,7
 Lợi nhuận sau thuế
-tỷ đồng
-13.221 
- 18.155 
-21.054 
-16,0
 ROE (LNST/VCSH bình quân)
-%
-23,49
-25,55
-23,88
-(1,67)
 Hệ số LNST/Tổng thu nhập hoạt động
-%
-35,80
-39,82
-44,51
-4,69
 ROA (LNST/Tổng tài sản bình quân)
-%
-2,40
-2,72
-2,52
-(0,20)
-Hệ số LN từ HĐKD trước chi phí dự 
+Hệ số LN từ HĐKD trước chi phí dự
 phòng rủi ro/Tổng thu nhập hoạt động
-%
-66,49
-67,50
-68,48
-0,97
 Chi phí dự phòng rủi ro
-tỷ đồng
-8.030 
- 8.048 
-6.087 
-(24,4)
-Tỷ lệ nợ xấu 2 
-%
-0,90
-1,09
-1,60
-0,51
-EPS
-Đồng/cổ phiếu
-3.133 
-3.085 
-3.966 
-2,9
+Tỷ lệ nợ xấu 2
 3. Khả năng thanh khoản*
 Tỷ lệ dự trữ thanh khoản (>=10%)
-%
-15,42
-14,10
-16,67
-2,57
 Tỷ lệ chi trả 30D VND (>=50%)
-%
-117,91
-75,63
-87,35
-11,72
 Tỷ lệ chi trả 30D ngoại tệ (>=10%)
-%
-166,42
-(745,99)
-104,31
-850,30
 4. Kết quả dự án tín dụng xanh
 Tổng số vốn cho vay dự án
-tỷ đồng
-41.436
-44.148
-64.960
-47,14
-Tỷ trọng vốn cho vay dự án xanh/Tổng 
+Tỷ trọng vốn cho vay dự án xanh/Tổng
 vốn cho vay
-%
-10,92
-9,26
-10,55
-1,29
 2 Tỷ lệ nợ xấu không bao gồm Trái phiếu tổ chức kinh tế.
 * Riêng Ngân hàng
 ** Hợp nhất theo thông tư 41
-48
-Báo cáo thường niên 2023
 3 Dư nợ tín dụng bao gồm: Dư nợ cho vay khách hàng, dư nợ trái phiếu tổ chức kinh tế và mua nợ (bao gồm Chi nhánh tại Lào).
-Năm 2023 là một năm đầy thách thức đối với ngành Tài chính - ngân hàng Việt Nam với những tác động ảnh hưởng từ tỷ giá biến 
-động tăng mạnh cùng với điều hành lãi suất FED luôn duy trì mức cao trong suốt năm 2023. Trước những khó khăn chung của hệ 
+Năm 2023 là một năm đầy thách thức đối với ngành Tài chính - ngân hàng Việt Nam với những tác động ảnh hưởng từ tỷ giá biến
+động tăng mạnh cùng với điều hành lãi suất FED luôn duy trì mức cao trong suốt năm 2023. Trước những khó khăn chung của hệ
 thống ngân hàng, MB vẫn hoàn thành 100% kế hoạch Đại hội đồng Cổ đông.
-Doanh thu Tập đoàn vẫn duy 
-trì tăng trưởng trong bối cảnh 
-nền kinh tế gặp nhiều khó khăn 
+Doanh thu Tập đoàn vẫn duy
+trì tăng trưởng trong bối cảnh
+nền kinh tế gặp nhiều khó khăn
 trong năm 2023.
-Thực hiện trong năm 2023 theo 
-phương án Đại hội đồng cổ 
-đông phê duyệt, MB đã chia 
-cổ tức bằng cổ phiếu với tỷ 
-lệ 15%, vốn điều lệ tăng thêm 
-6.801 tỷ đồng.
-Lợi nhuận trước thuế hợp nhất 
-của MB năm 2023 thuộc Top 
-các Ngân hàng thương mại, 
-tăng 15,7% nhờ đẩy mạnh tăng 
-trưởng hoạt động cho vay và 
+Thực hiện trong năm 2023 theo
+phương án Đại hội đồng cổ
+đông phê duyệt, MB đã chia
+cổ tức bằng cổ phiếu với tỷ
+lệ 15%, vốn điều lệ tăng thêm
+Lợi nhuận trước thuế hợp nhất
+của MB năm 2023 thuộc Top
+các Ngân hàng thương mại,
+tăng 15,7% nhờ đẩy mạnh tăng
+trưởng hoạt động cho vay và
 quản trị hiệu quả chi phí.
-Dư nợ tín dụng hợp nhất toàn 
-hàng đạt 651.346 tỷ đồng, 
-trong đó dư nợ tín dụng riêng 
-ngân hàng đạt 616.126 tỷ đồng, 
+Dư nợ tín dụng hợp nhất toàn
+hàng đạt 651.346 tỷ đồng,
+trong đó dư nợ tín dụng riêng
+ngân hàng đạt 616.126 tỷ đồng,
 tăng 28,3% so với năm 2022.
-Tổng tài sản MB tăng 29,7% 
-so với năm 2022, đứng Top 5 
-toàn ngành có tổng tài sản 
-lớn nhất, chỉ sau 4 ngân hàng 
+Tổng tài sản MB tăng 29,7%
+so với năm 2022, đứng Top 5
+toàn ngành có tổng tài sản
+lớn nhất, chỉ sau 4 ngân hàng
 quốc doanh.
-Hoạt động huy động vốn tăng 
-trưởng tích cực, phù hợp với tăng 
-trưởng tín dụng của ngân hàng 
+Hoạt động huy động vốn tăng
+trưởng tích cực, phù hợp với tăng
+trưởng tín dụng của ngân hàng
 trong năm 2023.
-47.306
-52.141
-3,7%
-15%
 DOANH THU
 VỐN ĐIỀU LỆ
 LỢI NHUẬN
-TRƯỚC THUẾ 
+TRƯỚC THUẾ
 DƯ NỢ TÍN DỤNG 3
 TỔNG TÀI SẢN
 HỢP NHẤT TẬP ĐOÀN
 HUY ĐỘNG VỐN
-Tỷ đồng
-Tỷ đồng
-Tỷ đồng
-Tỷ đồng
-Tỷ đồng
-Tỷ đồng
-26.306
-651.346
-944.954
-671.154
 * So sánh với số liệu năm 2022
 Chương 3: Vững vàng tiến bước trước thách thức
-49
-15,7%
-28,1%
-29,7%
-30,54%
 
 Chương 3: Vững vàng tiến bước trước thách thức
-54
-55
-Báo cáo thường niên 2023
-TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN 
+TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
 Các khoản đầu tư lớn
-Trong năm 2023, MB chú trọng nguồn lực vào các dự án được coi là trọng điểm nhằm đạt 
+Trong năm 2023, MB chú trọng nguồn lực vào các dự án được coi là trọng điểm nhằm đạt
 được mục tiêu và tầm nhìn chiến lược. Trong đó có thể kể đến các khoản mục đầu tư lớn về:
-Triển khai dự án xây dựng 
-chiến lược ESG toàn diện toàn 
+Triển khai dự án xây dựng
+chiến lược ESG toàn diện toàn
 tập đoàn.
-Xây dựng ứng dụng số trên nền 
-tảng Flutter tối ưu trải nghiệm 
+Xây dựng ứng dụng số trên nền
+tảng Flutter tối ưu trải nghiệm
 và nâng cao bảo mật.
-Ứng dụng AI, Machine Learning, 
-Deep Learning trong các hoạt 
+Ứng dụng AI, Machine Learning,
+Deep Learning trong các hoạt
 động của Ngân hàng.
-Tiếp tục triển khai các dự án IFRS 
-(chuyển đổi báo cáo tài chính theo 
-IFRS), DC (Debt Collection), FCRM 
-(quản trị rủi ro phòng chống tội 
-phạm tài chính), hoàn thành đưa 
+Tiếp tục triển khai các dự án IFRS
+IFRS), DC (Debt Collection), FCRM
+(quản trị rủi ro phòng chống tội
+phạm tài chính), hoàn thành đưa
 vào ứng dụng trong năm 2024.
-Xây dựng công cụ tính toán các 
-tiêu chuẩn theo Basel III như 
-NSFR, LCR, công cụ tính vốn theo 
-yêu cầu cho rủi ro thị trường. 
-Thực hiện dự án tư vấn Chuyển 
-đổi hoạt động vận hành đến 
-năm 2026.
+Xây dựng công cụ tính toán các
+tiêu chuẩn theo Basel III như
+NSFR, LCR, công cụ tính vốn theo
+yêu cầu cho rủi ro thị trường.
+Thực hiện dự án tư vấn Chuyển
+đổi hoạt động vận hành đến
 
 Chương 3: Vững vàng tiến bước trước thách thức
-58
-59
-Báo cáo thường niên 2023
 Công ty cổ phần Quản lý Quỹ Đầu tư MB (MB Capital)
 Kết quả hoạt động
-MB Capital là một trong số những Công ty quản lý quỹ đầu tiên 
-tại Việt Nam được Ủy ban Chứng khoán Nhà nước cấp phép 
-hoạt động tất cả các nghiệp vụ dành cho công ty quản lý quỹ. 
-Giai đoạn 2022-2026, MB Capital xác định những mục tiêu chiến 
-lược quan trọng nhất là vươn lên Top 03 Công ty quản lý quỹ về 
-hiệu quả hoạt động, Chuyển dịch số toàn diện trong kinh doanh 
-và tăng cường mở rộng quy mô tài sản quản lý nhằm đáp ứng tối 
+MB Capital là một trong số những Công ty quản lý quỹ đầu tiên
+tại Việt Nam được Ủy ban Chứng khoán Nhà nước cấp phép
+hoạt động tất cả các nghiệp vụ dành cho công ty quản lý quỹ.
+Giai đoạn 2022-2026, MB Capital xác định những mục tiêu chiến
+lược quan trọng nhất là vươn lên Top 03 Công ty quản lý quỹ về
+hiệu quả hoạt động, Chuyển dịch số toàn diện trong kinh doanh
+và tăng cường mở rộng quy mô tài sản quản lý nhằm đáp ứng tối
 đa nhu cầu đầu tư, ủy thác của khách hàng.
-Năm 2023 nhất quán với chiến lược kinh doanh trước biến động 
-phức tạp của thị trường, MB Capital đã tích cực triển khai sản 
-phẩm mới nhằm đa dạng hóa sản phẩm cho khách hàng như 
-Quỹ mở Đầu tư tăng trưởng Bordier - MB Flagship (sản phẩm 
-hợp tác với Ngân hàng tư nhân Thụy Sĩ Bordier và MB. Hoạt 
-động phân phối chứng chỉ Quỹ cổ phiếu MBVF và BMFF, Quỹ 
-trái phiếu MBBOND, được đẩy mạnh trên nền tảng trực tuyến. 
+Năm 2023 nhất quán với chiến lược kinh doanh trước biến động
+phức tạp của thị trường, MB Capital đã tích cực triển khai sản
+phẩm mới nhằm đa dạng hóa sản phẩm cho khách hàng như
+Quỹ mở Đầu tư tăng trưởng Bordier - MB Flagship (sản phẩm
+hợp tác với Ngân hàng tư nhân Thụy Sĩ Bordier và MB. Hoạt
+động phân phối chứng chỉ Quỹ cổ phiếu MBVF và BMFF, Quỹ
+trái phiếu MBBOND, được đẩy mạnh trên nền tảng trực tuyến.
 Mục tiêu đề ra
-Năm 2024, năm thứ 3 trong quá trình triển khai chiến lược giai 
-đoạn 2022-2026, với mục tiêu “Tăng trưởng nhanh, an toàn, bền 
-vững”, Công ty sẽ tập trung triển khai huy động vốn và quản trị 
-rủi ro hiệu quả, tăng cường phối hợp bán chéo trong hệ sinh thái 
-MB Group nhằm gia tăng giá trị tài sản quản lý, xây dựng thương 
-hiệu trên thị trường với hình ảnh hệ sinh thái MB. Bên cạnh đó, 
-Công ty cũng ưu tiên đầu tư nâng cấp hệ thống công nghệ thông 
-tin, phấn đấu số hóa toàn diện, tăng trải nghiệm khách hàng, tối 
-ưu hóa hoạt động quản trị, đáp ứng tốt hơn nữa kỳ vọng của các 
+Năm 2024, năm thứ 3 trong quá trình triển khai chiến lược giai
+đoạn 2022-2026, với mục tiêu “Tăng trưởng nhanh, an toàn, bền
+vững”, Công ty sẽ tập trung triển khai huy động vốn và quản trị
+rủi ro hiệu quả, tăng cường phối hợp bán chéo trong hệ sinh thái
+MB Group nhằm gia tăng giá trị tài sản quản lý, xây dựng thương
+hiệu trên thị trường với hình ảnh hệ sinh thái MB. Bên cạnh đó,
+Công ty cũng ưu tiên đầu tư nâng cấp hệ thống công nghệ thông
+tin, phấn đấu số hóa toàn diện, tăng trải nghiệm khách hàng, tối
+ưu hóa hoạt động quản trị, đáp ứng tốt hơn nữa kỳ vọng của các
 nhà đầu tư.
 TÊN ĐẦY ĐỦ
 Công ty cổ phần Quản lý Quỹ Đầu tư MB
@@ -1579,108 +1245,96 @@ MB Capital Management Joint Stock Company
 TÊN VIẾT TẮT
 MB Capital
 GIẤY PHÉP HOẠT ĐỘNG
-Giấy phép số 21/UBCK-GPHĐQLQ do Ủy Ban Chứng 
-khoán Nhà nước cấp ngày 15/11/2007 
+Giấy phép số 21/UBCK-GPHĐQLQ do Ủy Ban Chứng
+khoán Nhà nước cấp ngày 15/11/2007
 LĨNH VỰC KINH DOANH
-Quản lý quỹ đầu tư, quản lý danh mục đầu tư, tư vấn 
-đầu tư 
+Quản lý quỹ đầu tư, quản lý danh mục đầu tư, tư vấn
+đầu tư
 VỐN ĐIỀU LỆ
-356,17 tỷ đồng 
 TỶ LỆ SỞ HỮU
-90,8%
 CÔNG TY QUẢN LÝ QUỸ
 TRIỂN KHAI HIỆU QUẢ
 DỊCH VỤ QUẢN LÝ
 QUỸ HƯU TRÍ BỔ SUNG
 TỰ NGUYỆN NĂM 2023
 CÔNG TY QUẢN LÝ
-QUỸ QUẢN LÝ CÁC QUỸ 
-MỞ/QUỸ ETF CÓ TÀI SẢN 
+QUỸ QUẢN LÝ CÁC QUỸ
+MỞ/QUỸ ETF CÓ TÀI SẢN
 RÒNG LỚN NHẤT 2023
 Giải thưởng
 Công ty Cổ phần Chứng khoán MB (MBS)
 Kết quả hoạt động
-MBS là một trong những Công ty Chứng khoán đầu tiên được 
-thành lập trên thị trường chứng khoán Việt Nam với hơn 20 năm 
-kinh nghiệm và phát triển. Từ năm 2022, MBS bắt đầu thực hiện 
-Chiến lược phát triển mới giai đoạn 2022-2026 với tầm nhìn trở 
-thành công ty chứng khoán có nền tảng giao dịch và chất lượng 
-tư vấn tốt nhất Việt Nam, mục tiêu Top 3 thị trường chứng khoán 
-Việt Nam về hiệu quả hoạt động và Top 5 thị phần môi giới. 
-Với mục tiêu lấy khách hàng là trung tâm, MBS đã nỗ lực triển khai 
-các giải pháp chuyển đổi số, đầu tư hạ tầng công nghệ thông tin đáp 
-ứng hoạt động kinh doanh, nâng cao trải nghiệm khách hàng, tăng 
-số lượng tài khoản mở mới: Mobile App, webtrading, nâng cao năng 
-lực hệ thống lõi,… Bên cạnh đó, công tác bán chéo đa chiều trong MB 
-Group cũng luôn được MBS đẩy mạnh nhằm cung cấp các sản phẩm 
-toàn diện đến khách hàng. 
+MBS là một trong những Công ty Chứng khoán đầu tiên được
+thành lập trên thị trường chứng khoán Việt Nam với hơn 20 năm
+kinh nghiệm và phát triển. Từ năm 2022, MBS bắt đầu thực hiện
+thành công ty chứng khoán có nền tảng giao dịch và chất lượng
+tư vấn tốt nhất Việt Nam, mục tiêu Top 3 thị trường chứng khoán
+Việt Nam về hiệu quả hoạt động và Top 5 thị phần môi giới.
+Với mục tiêu lấy khách hàng là trung tâm, MBS đã nỗ lực triển khai
+các giải pháp chuyển đổi số, đầu tư hạ tầng công nghệ thông tin đáp
+ứng hoạt động kinh doanh, nâng cao trải nghiệm khách hàng, tăng
+số lượng tài khoản mở mới: Mobile App, webtrading, nâng cao năng
+lực hệ thống lõi,… Bên cạnh đó, công tác bán chéo đa chiều trong MB
+Group cũng luôn được MBS đẩy mạnh nhằm cung cấp các sản phẩm
+toàn diện đến khách hàng.
 Mục tiêu đề ra
-Năm 2024, năm thứ ba trong quá trình triển khai chiến lược giai đoạn 
-2022-2026, MBS sẽ tiếp tục triển khai giải pháp thúc đẩy hoạt động 
-kinh doanh lõi, tăng cường chuyển dịch số, nâng cao chất lượng dịch 
-vụ và tiện ích cho khách hàng, quản trị rủi ro chặt chẽ, tiếp tục khẳng 
+Năm 2024, năm thứ ba trong quá trình triển khai chiến lược giai đoạn
+2022-2026, MBS sẽ tiếp tục triển khai giải pháp thúc đẩy hoạt động
+kinh doanh lõi, tăng cường chuyển dịch số, nâng cao chất lượng dịch
+vụ và tiện ích cho khách hàng, quản trị rủi ro chặt chẽ, tiếp tục khẳng
 định uy tín, thương hiệu của MBS với đối tác và khách hàng.
 TÊN ĐẦY ĐỦ
 Công ty Cổ phần Chứng khoán MB
 TÊN TIẾNG ANH
 MB Securities Joint Stock Company
 TÊN VIẾT TẮT
-MBS
 GIẤY PHÉP HOẠT ĐỘNG
-Giấy phép số 116/GP-UBCK do Ủy ban Chứng khoán 
-Nhà nước cấp lần đầu ngày 9/12/2013 
+Giấy phép số 116/GP-UBCK do Ủy ban Chứng khoán
+Nhà nước cấp lần đầu ngày 9/12/2013
 LĨNH VỰC KINH DOANH
 Môi giới đầu tư và kinh doanh chứng khoán
 VỐN ĐIỀU LỆ
-4.376,7 tỷ đồng
 TỶ LỆ SỞ HỮU
-79,7%
 GIẢI THƯỞNG
 SAO KHUÊ VỀ GIẢI
-PHÁP XUẤT SẮC 
-CỦA NGÀNH 
+PHÁP XUẤT SẮC
+CỦA NGÀNH
 PHẦN MỀM
 NỀN TẢNG
 GIAO DỊCH ONLINE
 SÁNG TẠO NHẤT
-VN 2023
 Giải thưởng
 Định vị
-TOP 7
-Thị phần môi giới 
+Thị phần môi giới
 cổ phiếu trên HSX
-TOP 5
-Thị phần môi giới cổ 
+Thị phần môi giới cổ
 phiếu trên HNX
 
 Chương 3: Vững vàng tiến bước trước thách thức
-60
-61
-Báo cáo thường niên 2023
 Công ty Tài chính TNHH MB Shinsei (MCredit)
 Kết quả hoạt động
-Gia nhập thị trường tài chính tiêu dùng từ năm 2016, Mcredit được 
-thành lập trên cơ sở hợp tác liên doanh giữa MB và Ngân hàng SBI 
-Shinsei Bank (Nhật Bản). 
-Nhất quán với chiến lược kinh doanh “Khách hàng là trung tâm”, 
-Mcredit cung cấp các giải pháp tài chính thuận tiện cho khách 
-hàng bằng ứng dụng công nghệ số thông minh, chiến lược sản 
-phẩm toàn diện và trải nghiệm khách hàng tốt nhất. Đồng thời, để 
-tạo thuận lợi tối đa trong việc thanh toán của khách hàng, đến hết 
-năm 2023 công ty đã kết nối gần 27 nghìn điểm thanh toán Payoo, 
-MoMo, Viettel, VnPost và hệ thống chi nhánh, phòng giao dịch của 
-MB trên toàn quốc cũng như triển khai hợp tác với VNVC, VinFast, 
-Công ty Cổ phần Thanh toán Quốc gia Việt Nam (NAPAS)... nhằm 
-góp phần mang đến những giải pháp tài chính nhanh chóng và 
-thuận tiện tới khách hàng. 
+Gia nhập thị trường tài chính tiêu dùng từ năm 2016, Mcredit được
+thành lập trên cơ sở hợp tác liên doanh giữa MB và Ngân hàng SBI
+Shinsei Bank (Nhật Bản).
+Nhất quán với chiến lược kinh doanh “Khách hàng là trung tâm”,
+Mcredit cung cấp các giải pháp tài chính thuận tiện cho khách
+hàng bằng ứng dụng công nghệ số thông minh, chiến lược sản
+phẩm toàn diện và trải nghiệm khách hàng tốt nhất. Đồng thời, để
+tạo thuận lợi tối đa trong việc thanh toán của khách hàng, đến hết
+năm 2023 công ty đã kết nối gần 27 nghìn điểm thanh toán Payoo,
+MoMo, Viettel, VnPost và hệ thống chi nhánh, phòng giao dịch của
+MB trên toàn quốc cũng như triển khai hợp tác với VNVC, VinFast,
+Công ty Cổ phần Thanh toán Quốc gia Việt Nam (NAPAS)... nhằm
+góp phần mang đến những giải pháp tài chính nhanh chóng và
+thuận tiện tới khách hàng.
 Mục tiêu đề ra
-Giai đoạn 2022-2026, Mcredit xác định một trong những mục tiêu 
-chiến lược quan trọng nhất là vươn lên số 1 về mặt hiệu quả, Top 2 về 
-quy mô trong ngành tài chính tiêu dùng và phục vụ 8-10 triệu khách 
-hàng. Trong năm tới, Mcredit tiếp tục kiên định định hướng triển khai 
-6 chuyển dịch chiến lược, bao gồm: Lấy khách hàng làm trung tâm, 
-Chuyển đổi số, Dữ liệu xuất sắc, Quản trị rủi ro và thu hồi nợ thông 
-minh, Hiệp lực tập đoàn và đối tác chiến lược, và Quản trị công ty 
+Giai đoạn 2022-2026, Mcredit xác định một trong những mục tiêu
+chiến lược quan trọng nhất là vươn lên số 1 về mặt hiệu quả, Top 2 về
+quy mô trong ngành tài chính tiêu dùng và phục vụ 8-10 triệu khách
+hàng. Trong năm tới, Mcredit tiếp tục kiên định định hướng triển khai
+6 chuyển dịch chiến lược, bao gồm: Lấy khách hàng làm trung tâm,
+Chuyển đổi số, Dữ liệu xuất sắc, Quản trị rủi ro và thu hồi nợ thông
+minh, Hiệp lực tập đoàn và đối tác chiến lược, và Quản trị công ty
 tiên tiến để hoàn thành mục tiêu chiến lược đã đề ra.
 TÊN ĐẦY ĐỦ
 Công ty tài chính TNHH MB Shinsei
@@ -1689,121 +1343,105 @@ MB Shinsei Finance Limited Liability Company
 TÊN VIẾT TẮT
 MS FINANCE
 GIẤY PHÉP HOẠT ĐỘNG
-Giấy phép số 58/GP-NHNN do Ngân hàng Nhà Nước 
-Việt Nam cấp lần đầu ngày 21/9/2017 
+Giấy phép số 58/GP-NHNN do Ngân hàng Nhà Nước
+Việt Nam cấp lần đầu ngày 21/9/2017
 LĨNH VỰC KINH DOANH
 Tài chính tiêu dùng
 VỐN ĐIỀU LỆ
-1.600 tỷ đồng
 TỶ LỆ SỞ HỮU
-50%
-CÔNG TY TÀI 
-CHÍNH TIÊU 
-DÙNG TỐT 
-NHẤT 2023 
-(THE GLOBAL 
+CÔNG TY TÀI
+CHÍNH TIÊU
+DÙNG TỐT
+(THE GLOBAL
 ECONOMICS)
-TỔ CHỨC TÀI 
+TỔ CHỨC TÀI
 CHÍNH
-TĂNG TRƯỞNG 
-ẤN TƯỢNG 
-DOANH SỐ GIAO 
-DỊCH THẺ 2022
+TĂNG TRƯỞNG
+ẤN TƯỢNG
+DOANH SỐ GIAO
 Giải thưởng
 Định vị
-TOP 2
-Thị trường tài chính 
+Thị trường tài chính
 tiêu dùng
 Tổng công ty Cổ phần Bảo hiểm Quân đội (MIC)
 Kết quả hoạt động
-Bám theo chiến lược giai đoạn 2022-2026, MIC kiên định, tập trung 
-thực thi nhanh các giải pháp sáng kiến chiến lược: lấy khách hàng 
-làm trọng tâm; phát triển đa kênh; chú trọng hệ sinh thái số với 
-các tập đoàn/đối tác lớn và ứng dụng nền tảng công nghệ hàng 
-đầu nhằm mang lại cho khách hàng những trải nghiệm được tư 
-vấn và bảo vệ tận tâm thông qua hệ thống dịch vụ đa kênh tích 
-hợp. 
-Bắt kịp những xu hướng trải nghiệm mới của khách hàng trên nền 
-tảng số hiện nay, MIC đã phát triển, cải tiến các ứng dụng số, gia 
-tăng sự tín nhiệm và mở rộng quan hệ với các đối tác, khai thác 
-tối đa hệ sinh thái của MB; kết nối với các ngân hàng lớn như TPB, 
-TCB, VPB, Sacombank, Bản Việt… và các tập đoàn lớn cũng như 
-hệ sinh thái số (chương trình liên doanh độc quyền OPes - VPBank, 
-VNPost, Thế giới di động, VietnamAirlines, Tiki, Shopee… và nhiều 
-đối tác khác). Nhờ đó, khách hàng của MIC tăng trưởng nhanh lên 
-tới 3 triệu khách hàng. 
+Bám theo chiến lược giai đoạn 2022-2026, MIC kiên định, tập trung
+thực thi nhanh các giải pháp sáng kiến chiến lược: lấy khách hàng
+làm trọng tâm; phát triển đa kênh; chú trọng hệ sinh thái số với
+các tập đoàn/đối tác lớn và ứng dụng nền tảng công nghệ hàng
+đầu nhằm mang lại cho khách hàng những trải nghiệm được tư
+vấn và bảo vệ tận tâm thông qua hệ thống dịch vụ đa kênh tích
+Bắt kịp những xu hướng trải nghiệm mới của khách hàng trên nền
+tảng số hiện nay, MIC đã phát triển, cải tiến các ứng dụng số, gia
+tăng sự tín nhiệm và mở rộng quan hệ với các đối tác, khai thác
+tối đa hệ sinh thái của MB; kết nối với các ngân hàng lớn như TPB,
+TCB, VPB, Sacombank, Bản Việt… và các tập đoàn lớn cũng như
+hệ sinh thái số (chương trình liên doanh độc quyền OPes - VPBank,
+VNPost, Thế giới di động, VietnamAirlines, Tiki, Shopee… và nhiều
+đối tác khác). Nhờ đó, khách hàng của MIC tăng trưởng nhanh lên
+tới 3 triệu khách hàng.
 Mục tiêu đề ra
-Năm 2024, MIC xác định lấy công nghệ, đổi mới sáng tạo làm đòn 
-bẩy cho sự vươn tầm. Đặt nhiệm vụ chuyển đổi số lên toàn bộ 
-chu trình hoạt động, không ngừng tiếp cận các tinh hoa, giá trị 
-công nghệ, từng bước hướng đến mục tiêu Top 3 về thị phần trong 
-ngành bảo hiểm phi nhân thọ; Số 1 về chuyển đổi số. Tất cả nhằm 
-mang lại những sản phẩm, dịch vụ giá trị, góp phần kiến tạo cuộc 
-sống tốt đẹp hơn. 
+Năm 2024, MIC xác định lấy công nghệ, đổi mới sáng tạo làm đòn
+bẩy cho sự vươn tầm. Đặt nhiệm vụ chuyển đổi số lên toàn bộ
+chu trình hoạt động, không ngừng tiếp cận các tinh hoa, giá trị
+công nghệ, từng bước hướng đến mục tiêu Top 3 về thị phần trong
+ngành bảo hiểm phi nhân thọ; Số 1 về chuyển đổi số. Tất cả nhằm
+mang lại những sản phẩm, dịch vụ giá trị, góp phần kiến tạo cuộc
+sống tốt đẹp hơn.
 TÊN ĐẦY ĐỦ
 Tổng công ty Cổ phần Bảo hiểm Quân đội
 TÊN TIẾNG ANH
 Military Insurance Corporation
 TÊN VIẾT TẮT
-MIC
 GIẤY PHÉP HOẠT ĐỘNG
-Giấy phép số 43 GP/KDBH do Bộ Tài Chính cấp lần 
-đầu ngày 8/10/2007
+Giấy phép số 43 GP/KDBH do Bộ Tài Chính cấp lần
 LĨNH VỰC KINH DOANH
 Kinh doanh bảo hiểm Phi nhân thọ
 VỐN ĐIỀU LỆ
-1.726,7 tỷ đồng
 TỶ LỆ SỞ HỮU
-68,4%
-TOP 3
-Nơi làm việc tốt nhất 
-ngành bảo hiểm do 
+Nơi làm việc tốt nhất
+ngành bảo hiểm do
 Anphabe công bố
-TOP 5
-DN bảo hiểm phi nhân 
-thọ uy tín do Vietnam 
+DN bảo hiểm phi nhân
+thọ uy tín do Vietnam
 Report công bố
 Giải thưởng
 Định vị
-TOP 5
-Thị phần bảo hiểm 
+Thị phần bảo hiểm
 phi nhân thọ
 
 Chương 3: Vững vàng tiến bước trước thách thức
-62
-63
-Báo cáo thường niên 2023
 Công ty TNHH Bảo hiểm nhân thọ MB Ageas
 Kết quả hoạt động
-Gia nhập thị trường bảo hiểm nhân thọ Việt Nam từ năm 2016, MBAL 
-được thành lập trên cơ sở hợp tác liên doanh giữa MB, Tập đoàn 
-bảo hiểm Ageas đến từ Vương quốc Bỉ và Muang Thai Life Assurance 
-(MTL) của Thái Lan. Giai đoạn 2022-2026, MBAL xác định tầm nhìn 
-chiến lược trở thành Doanh nghiệp bảo hiểm nhân thọ được tin yêu 
-nhất, Top 5 thị trường về doanh thu khai thác mới, Top 3 về hiệu quả 
-hoạt động. 
-Trong năm 2023, MBAL đã có bước chuyển đổi số toàn diện, triển 
-khai dịch vụ bảo hiểm kỹ thuật số hoàn chỉnh đáp ứng các yêu cầu 
-từ đầu đến cuối để triển khai, quản lý yêu cầu bồi thường và hỗ trợ 
-khách hàng đơn giản hơn, giúp tối ưu hoá hoạt động kinh doanh tại 
-MB (MB Top 2 Ngân hàng trên thị trường Bancassurance) và mở rộng 
-hoạt động kinh doanh với hàng loạt đối tác thương mại điện tử như 
-Shopee, Zalo… các ví điện tử như Epass và Appota… Đồng thời Công 
-ty đẩy mạnh tận dụng hệ sinh thái của đối tác mạng viễn thông, đưa 
-sản phẩm bảo hiểm số lên các Super App viễn thông như My Viettel, 
-My Mobifone, My Vinaphone, My iTel và My Viettel Post. Bên cạnh đó, 
-Công ty đã ký kết hợp tác với ngân hàng Đại chúng TNHH Kasikorn 
-(Kbank) để cung cấp các gói sản phẩm bảo hiểm đồng thương hiệu 
-tới hơn 1,5 triệu khách hàng của ngân hàng uy tín số 1 Thái Lan tại 
-Việt Nam. Với các giải pháp kinh doanh hiệu quả, Công ty đã duy trì 
-vị trí Top 8 về doanh thu khai thác mới và góp phần đưa MB đạt vị trí 
+Gia nhập thị trường bảo hiểm nhân thọ Việt Nam từ năm 2016, MBAL
+được thành lập trên cơ sở hợp tác liên doanh giữa MB, Tập đoàn
+bảo hiểm Ageas đến từ Vương quốc Bỉ và Muang Thai Life Assurance
+(MTL) của Thái Lan. Giai đoạn 2022-2026, MBAL xác định tầm nhìn
+chiến lược trở thành Doanh nghiệp bảo hiểm nhân thọ được tin yêu
+nhất, Top 5 thị trường về doanh thu khai thác mới, Top 3 về hiệu quả
+hoạt động.
+Trong năm 2023, MBAL đã có bước chuyển đổi số toàn diện, triển
+khai dịch vụ bảo hiểm kỹ thuật số hoàn chỉnh đáp ứng các yêu cầu
+từ đầu đến cuối để triển khai, quản lý yêu cầu bồi thường và hỗ trợ
+khách hàng đơn giản hơn, giúp tối ưu hoá hoạt động kinh doanh tại
+MB (MB Top 2 Ngân hàng trên thị trường Bancassurance) và mở rộng
+hoạt động kinh doanh với hàng loạt đối tác thương mại điện tử như
+Shopee, Zalo… các ví điện tử như Epass và Appota… Đồng thời Công
+ty đẩy mạnh tận dụng hệ sinh thái của đối tác mạng viễn thông, đưa
+sản phẩm bảo hiểm số lên các Super App viễn thông như My Viettel,
+My Mobifone, My Vinaphone, My iTel và My Viettel Post. Bên cạnh đó,
+Công ty đã ký kết hợp tác với ngân hàng Đại chúng TNHH Kasikorn
+(Kbank) để cung cấp các gói sản phẩm bảo hiểm đồng thương hiệu
+tới hơn 1,5 triệu khách hàng của ngân hàng uy tín số 1 Thái Lan tại
+Việt Nam. Với các giải pháp kinh doanh hiệu quả, Công ty đã duy trì
+vị trí Top 8 về doanh thu khai thác mới và góp phần đưa MB đạt vị trí
 Top 2 thị trường về Bancassurance.
 Mục tiêu đề ra
-Năm 2024, MBAL đặt mục tiêu tăng trưởng nhanh, an toàn, bền vững, 
-trong đó tập trung đẩy mạnh doanh thu khai thác mới, ưu tiên đầu tư 
-năng lực công nghệ thông tin với chiến lược chuyển dịch số tập trung 
-vào chất lượng dịch vụ khách hàng, gia tăng trải nghiệm khách hàng, 
-đáp ứng tối đa nhu cầu của khách hàng. 
+Năm 2024, MBAL đặt mục tiêu tăng trưởng nhanh, an toàn, bền vững,
+trong đó tập trung đẩy mạnh doanh thu khai thác mới, ưu tiên đầu tư
+năng lực công nghệ thông tin với chiến lược chuyển dịch số tập trung
+vào chất lượng dịch vụ khách hàng, gia tăng trải nghiệm khách hàng,
+đáp ứng tối đa nhu cầu của khách hàng.
 TÊN ĐẦY ĐỦ
 Công ty TNHH Bảo hiểm nhân thọ MB Ageas
 TÊN TIẾNG ANH
@@ -1811,56 +1449,48 @@ MB Ageas Life Insurance Company Limited
 TÊN VIẾT TẮT
 MB Ageas Life
 GIẤY PHÉP HOẠT ĐỘNG
-Giấy phép số 74/GP/KDBH do Bộ Tài Chính cấp 
-lần đầu ngày 21/07/2016
+Giấy phép số 74/GP/KDBH do Bộ Tài Chính cấp
 LĨNH VỰC KINH DOANH
-Kinh doanh bảo hiểm nhân thọ, bảo hiểm sức 
-khỏe, phụ trợ bảo hiểm và đầu tư tài chính 
+Kinh doanh bảo hiểm nhân thọ, bảo hiểm sức
+khỏe, phụ trợ bảo hiểm và đầu tư tài chính
 VỐN ĐIỀU LỆ
-1.500 tỷ đồng
 TỶ LỆ SỞ HỮU
-61%
-TOP 10
-Nhãn hiệu hàng đầu Việt 
-Nam - Ngành Bảo hiểm - Tài 
+Nhãn hiệu hàng đầu Việt
+Nam - Ngành Bảo hiểm - Tài
 Chính
-TOP 10
 Công ty bảo hiểm
 nhân thọ uy tín
-năm 2023
 Giải thưởng
-TOP 6
 Thị trường bảo hiểm
 về Bancassurance
-TOP 8
-Thị trường bảo hiểm về doanh 
+Thị trường bảo hiểm về doanh
 thu khai thác mới
 Định vị
 Ngân hàng đại chúng TNHH MB Campuchia (MBCambodia)
 Kết quả hoạt động
-Năm 2023 là năm đầu tiên hoạt động của MBCambodia sau khi được 
-chuyển đổi từ Chi nhánh thành Ngân hàng 100% vốn của MB tại 
-Campuchia. Sau khi thành lập, Công ty đã tập trung kiện toàn cơ cấu 
-tổ chức và khung pháp lý hoạt động, vận hành ổn định và làm chủ hệ 
-thống công nghệ thông tin lõi, hướng tới cung cấp sản phẩm dịch vụ 
-thuận tiện cho người dùng. 
-Với mục tiêu trở thành Ngân hàng thương mại hoạt động hiệu quả 
-và thuận tiện cho khách hàng, tháng 9/2023 MBCambodia đã chính 
-thức ra mắt App Mobile và bước đầu thu hút được gần 13.000 khách 
-hàng cá nhân trên kênh số. Ngoài ra, Công ty cũng tiếp tục tập trung 
-nguồn lực triển khai hoàn thiện các tính năng/ứng dụng trên kênh số, 
-hướng tới mục tiêu đẩy mạnh gia tăng số lượng khách hàng trong 
-các năm tiếp theo. 
+Năm 2023 là năm đầu tiên hoạt động của MBCambodia sau khi được
+chuyển đổi từ Chi nhánh thành Ngân hàng 100% vốn của MB tại
+Campuchia. Sau khi thành lập, Công ty đã tập trung kiện toàn cơ cấu
+tổ chức và khung pháp lý hoạt động, vận hành ổn định và làm chủ hệ
+thống công nghệ thông tin lõi, hướng tới cung cấp sản phẩm dịch vụ
+thuận tiện cho người dùng.
+Với mục tiêu trở thành Ngân hàng thương mại hoạt động hiệu quả
+và thuận tiện cho khách hàng, tháng 9/2023 MBCambodia đã chính
+thức ra mắt App Mobile và bước đầu thu hút được gần 13.000 khách
+hàng cá nhân trên kênh số. Ngoài ra, Công ty cũng tiếp tục tập trung
+nguồn lực triển khai hoàn thiện các tính năng/ứng dụng trên kênh số,
+hướng tới mục tiêu đẩy mạnh gia tăng số lượng khách hàng trong
+các năm tiếp theo.
 Mục tiêu đề ra
-Năm 2024, MBCambodia tiếp tục triển khai các định hướng kinh 
-doanh chính bao gồm: Tập trung nguồn lực triển khai các mô hình 
-bán mới trong đó ưu tiên phát triển kênh số; tập trung khai thác mô 
-hình hợp tác với các đối tác chiến lược như Metfone, Emoney; Tăng 
-trưởng đi đôi với quản trị chất lượng nợ và đảm bảo các chỉ tiêu 
-hiệu quả tốt hơn năm trước và hướng tới tiệm cận trung bình ngành; 
-Nâng cao năng lực hệ thống công nghệ thông tin, chuẩn hóa quy 
-trình, đảm bảo tính đồng bộ và an toàn của hệ thống, phục vụ tối ưu 
-nhu cầu kinh doanh và quản trị. 
+Năm 2024, MBCambodia tiếp tục triển khai các định hướng kinh
+doanh chính bao gồm: Tập trung nguồn lực triển khai các mô hình
+bán mới trong đó ưu tiên phát triển kênh số; tập trung khai thác mô
+hình hợp tác với các đối tác chiến lược như Metfone, Emoney; Tăng
+trưởng đi đôi với quản trị chất lượng nợ và đảm bảo các chỉ tiêu
+hiệu quả tốt hơn năm trước và hướng tới tiệm cận trung bình ngành;
+Nâng cao năng lực hệ thống công nghệ thông tin, chuẩn hóa quy
+trình, đảm bảo tính đồng bộ và an toàn của hệ thống, phục vụ tối ưu
+nhu cầu kinh doanh và quản trị.
 TÊN ĐẦY ĐỦ
 Ngân hàng đại chúng TNHH MB Campuchia
 TÊN TIẾNG ANH
@@ -1868,983 +1498,774 @@ MB Bank (Cambodia) Plc
 TÊN VIẾT TẮT
 MB Cambodia
 GIẤY PHÉP HOẠT ĐỘNG
-MOC-00021616 ngày 02 tháng 01 năm 2023 do Bộ 
 Thương mại Campuchia cấp
 LĨNH VỰC KINH DOANH
 Ngân hàng thương mại
 VỐN ĐIỀU LỆ
-76.552.197 USD
 TỶ LỆ SỞ HỮU
-100%
 NƠI LÀM VIỆC
 TỐT NHẤT CHÂU Á
 DO HR ASIA AWARD TRAO TẶNG
 Giải thưởng
 
 Chương 3: Vững vàng tiến bước trước thách thức
-64
-65
-Báo cáo thường niên 2023
 Công ty TNHH Quản lý nợ và Khai thác tài sản Ngân hàng TMCP Quân Đội (MBAMC)
 Kết quả hoạt động
-Với tầm nhìn chiến lược 2022-2026 “Trở thành “Công ty AMC số 
-1 tại Việt Nam” và là đơn vị cung cấp giải pháp, dịch vụ xuất sắc 
-nhất cho MB Group; năm 2023 AMC tiếp tục giữ vững vai trò 
-là một khâu quan trọng trong quy trình tín dụng của MB, cung 
-cấp các sản phẩm và dịch vụ chuyên nghiệp, góp phần hỗ trợ 
-phát triển kinh doanh và ngăn ngừa rủi ro cho hệ thống MB với 
-doanh số xử lý nợ năm 2023 tăng trưởng 40% so với cùng kỳ. 
-Ngoài ra, trong năm 2023 AMC cũng đã triển khai nhiều giải 
-pháp kinh doanh đồng bộ, linh hoạt nhằm tối ưu hóa nguồn 
-lực, rút ngắn thời gian xử lý và nâng cao hiệu quả thu hồi nợ. 
+Với tầm nhìn chiến lược 2022-2026 “Trở thành “Công ty AMC số
+1 tại Việt Nam” và là đơn vị cung cấp giải pháp, dịch vụ xuất sắc
+nhất cho MB Group; năm 2023 AMC tiếp tục giữ vững vai trò
+là một khâu quan trọng trong quy trình tín dụng của MB, cung
+cấp các sản phẩm và dịch vụ chuyên nghiệp, góp phần hỗ trợ
+phát triển kinh doanh và ngăn ngừa rủi ro cho hệ thống MB với
+doanh số xử lý nợ năm 2023 tăng trưởng 40% so với cùng kỳ.
+Ngoài ra, trong năm 2023 AMC cũng đã triển khai nhiều giải
+pháp kinh doanh đồng bộ, linh hoạt nhằm tối ưu hóa nguồn
+lực, rút ngắn thời gian xử lý và nâng cao hiệu quả thu hồi nợ.
 Mục tiêu đề ra
-Sang năm 2024, MB AMC đặt mục tiêu tăng trưởng toàn diện 
-và bền vững, tập trung vào hoạt động kinh doanh lõi gồm xử 
-lý nợ, tư vấn thẩm định và quản lý, khai thác tài sản với 02 nền 
-tảng: Nền tảng số và Quản trị rủi ro tiên tiến; Trọng tâm vào 04 
-chuyển dịch then chốt: Chuyển dịch số toàn diện, Quản trị rủi 
-ro tiên tiến, Nâng cao năng lực quản trị, Nâng cao chất lượng 
-dịch vụ các hoạt động kinh doanh. 
+Sang năm 2024, MB AMC đặt mục tiêu tăng trưởng toàn diện
+và bền vững, tập trung vào hoạt động kinh doanh lõi gồm xử
+lý nợ, tư vấn thẩm định và quản lý, khai thác tài sản với 02 nền
+tảng: Nền tảng số và Quản trị rủi ro tiên tiến; Trọng tâm vào 04
+chuyển dịch then chốt: Chuyển dịch số toàn diện, Quản trị rủi
+ro tiên tiến, Nâng cao năng lực quản trị, Nâng cao chất lượng
+dịch vụ các hoạt động kinh doanh.
 TÊN ĐẦY ĐỦ
-Công ty TNHH Quản lý Nợ và Khai thác Tài sản Ngân 
+Công ty TNHH Quản lý Nợ và Khai thác Tài sản Ngân
 hàng TMCP Quân Đội
 TÊN TIẾNG ANH
 Military Bank Assets Management Company Limited
 TÊN VIẾT TẮT
 MBAMC CO., LTD
 GIẤY PHÉP HOẠT ĐỘNG
-Đăng ký kinh doanh số 0105281799 do Sở kế hoạch và 
+Đăng ký kinh doanh số 0105281799 do Sở kế hoạch và
 Đầu tư thành phố Hà Nội cấp lần đầu ngày 11/9/2002
 LĨNH VỰC KINH DOANH
 Quản lý nợ, tư vấn thẩm định và khai thác tài sản
 VỐN ĐIỀU LỆ
-665,9 tỷ đồng
 TỶ LỆ SỞ HỮU
-100%
 BÁO CÁO ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
 Tình hình kinh doanh riêng Ngân hàng
 4 Dư nợ tín dụng bao gồm: Dư nợ cho vay khách hàng, dư nợ trái phiếu tổ chức kinh tế và mua nợ (bao gồm Chi nhánh tại Lào).
 5 Tỷ lệ nợ xấu không bao gồm Trái phiếu tổ chức kinh tế.
 Tín dụng4
-Theo giới hạn của 
+Theo giới hạn của
 NHNN
-616.126
-28,3%
-Tổng thu nhập 
+Tổng thu nhập
 hoạt động
-Hoàn thành 98,7% 
+Hoàn thành 98,7%
 kế hoạch
-39.073
-8,8%
-Lợi nhuận 
+Lợi nhuận
 trước thuế
-Vượt 4,6% kế 
+Vượt 4,6% kế
 hoạch
-24.688
-21,5%
 Khách hàng
 + 6,2 triệu khách hàng
 Trên 26,5 triệu
 CASA
-Tỷ lệ CASA 
-40,1%
-228.674
+Tỷ lệ CASA
 Smartbank
-68
 Tỷ lệ nợ xấu5
-1,41%
 Huy động vốn
-Phù hợp nhu cầu 
+Phù hợp nhu cầu
 sử dụng vốn
-669.570
-29,5%
-tỷ đồng
-tỷ đồng
-tỷ đồng
-tỷ đồng
-tỷ đồng
 
 Chương 3: Vững vàng tiến bước trước thách thức
-66
-67
-Báo cáo thường niên 2023
 Tổng tài sản:
-Tổng tài sản riêng Ngân hàng đạt 902 nghìn tỷ, tăng 30,6% 
-so với năm 2022. Trong đó, cho vay khách hàng tăng trưởng 
-mạnh ~34% so với 2022. MB thuộc top các ngân hàng có tăng 
+Tổng tài sản riêng Ngân hàng đạt 902 nghìn tỷ, tăng 30,6%
+so với năm 2022. Trong đó, cho vay khách hàng tăng trưởng
+mạnh ~34% so với 2022. MB thuộc top các ngân hàng có tăng
 trưởng tín dụng trong năm 2023.
 Tín dụng:
-Dư nợ tăng trưởng nhờ cho vay các gói ưu đãi lãi 
-suất, tập trung nhóm cho vay ngắn và dài hạn, trong 
-đó chương trình cho vay hỗ trợ trong lĩnh vực nông 
-nghiệp, nông thôn, tín dụng xanh theo định hướng của 
-Chính phủ chiếm ~10,6% tổng dư nợ, tăng 47% so với 
-năm 2022. Dư nợ cho vay các lĩnh vực ưu tiên tăng 
-trưởng ở mức cao (Giáo dục & đào tạo tăng 46,0%, 
-nông lâm nghiệp thủy sản tăng 36,7%, Y tế & hoạt động 
-trợ giúp xã hội tăng 26,6%). Kiểm soát tốt chất lượng 
+Dư nợ tăng trưởng nhờ cho vay các gói ưu đãi lãi
+suất, tập trung nhóm cho vay ngắn và dài hạn, trong
+đó chương trình cho vay hỗ trợ trong lĩnh vực nông
+nghiệp, nông thôn, tín dụng xanh theo định hướng của
+Chính phủ chiếm ~10,6% tổng dư nợ, tăng 47% so với
+năm 2022. Dư nợ cho vay các lĩnh vực ưu tiên tăng
+trưởng ở mức cao (Giáo dục & đào tạo tăng 46,0%,
+nông lâm nghiệp thủy sản tăng 36,7%, Y tế & hoạt động
+trợ giúp xã hội tăng 26,6%). Kiểm soát tốt chất lượng
 tín dụng với tỷ lệ nợ xấu riêng ngân hàng ~1,41%.
 Huy động vốn:
-Tăng trưởng nhờ tăng quy mô và chất lượng khách hàng, 
-trong đó quy mô tiền gửi nhóm KHCN tăng 34,3% so với 2022, 
-từ đó đóng góp quan trọng để MB đạt được mức tăng trưởng 
-ấn tượng 29,5%, vẫn đảm bảo duy trì chi phí vốn ở nhóm thấp 
-trong toàn ngành ngân hàng. Tỷ lệ CASA tiếp tục được duy trì 
-so với năm 2022 ghi nhận sự nỗ lực của ngân hàng đưa MB 
+Tăng trưởng nhờ tăng quy mô và chất lượng khách hàng,
+trong đó quy mô tiền gửi nhóm KHCN tăng 34,3% so với 2022,
+từ đó đóng góp quan trọng để MB đạt được mức tăng trưởng
+ấn tượng 29,5%, vẫn đảm bảo duy trì chi phí vốn ở nhóm thấp
+trong toàn ngành ngân hàng. Tỷ lệ CASA tiếp tục được duy trì
+so với năm 2022 ghi nhận sự nỗ lực của ngân hàng đưa MB
 trở thành ngân hàng chính của khách hàng.
 LNTT và thu thuần từ phi tín dụng:
-Tốc độ tăng trưởng lợi nhuận trước thuế đạt 21,5% do kết 
-quả tích cực từ hoạt động tín dụng và huy động vốn, hoàn 
-thành vượt kế hoạch ĐHĐCĐ đề ra mặc dù trong năm ngành 
-ngân hàng còn gặp nhiều khó khăn và thách thức. Biên lợi 
-nhuận ròng (NIM) cũng thu hẹp về các tháng cuối của năm, 
-đạt 4,27% do việc giảm lãi suất cho vay theo định hướng của 
-Chính phủ, NHNN. Tỷ suất sinh lời trên vốn chủ sở hữu (ROE) 
-và tỷ lệ an toàn vốn (CAR) được duy trì cao hơn so với mục 
-tiêu và đảm bảo quy định của NHNN. 
-MB là Ngân hàng phục vụ lượng khách hàng lớn nhất cả 
+Tốc độ tăng trưởng lợi nhuận trước thuế đạt 21,5% do kết
+quả tích cực từ hoạt động tín dụng và huy động vốn, hoàn
+thành vượt kế hoạch ĐHĐCĐ đề ra mặc dù trong năm ngành
+ngân hàng còn gặp nhiều khó khăn và thách thức. Biên lợi
+nhuận ròng (NIM) cũng thu hẹp về các tháng cuối của năm,
+đạt 4,27% do việc giảm lãi suất cho vay theo định hướng của
+Chính phủ, NHNN. Tỷ suất sinh lời trên vốn chủ sở hữu (ROE)
+và tỷ lệ an toàn vốn (CAR) được duy trì cao hơn so với mục
+tiêu và đảm bảo quy định của NHNN.
+MB là Ngân hàng phục vụ lượng khách hàng lớn nhất cả
 nước:
-Bên cạnh việc tăng trưởng hiệu quả kinh doanh, ngân hàng 
-đã tiếp tục thúc đẩy quá trình chuyển đổi số, ứng dụng công 
-nghệ vào các quy trình, sản phẩm giúp tối ưu hóa năng suất 
-lao động. Ngân hàng giao dịch phục vụ hơn 26,5 triệu khách 
-hàng nhờ nền tảng công nghệ thông tin được tiêu chuẩn. Hệ 
-thống Smartbank – mô hình ngân hàng tự động của MB hiện 
+Bên cạnh việc tăng trưởng hiệu quả kinh doanh, ngân hàng
+đã tiếp tục thúc đẩy quá trình chuyển đổi số, ứng dụng công
+nghệ vào các quy trình, sản phẩm giúp tối ưu hóa năng suất
+lao động. Ngân hàng giao dịch phục vụ hơn 26,5 triệu khách
+hàng nhờ nền tảng công nghệ thông tin được tiêu chuẩn. Hệ
+thống Smartbank – mô hình ngân hàng tự động của MB hiện
 có mặt tại 68 điểm (tăng 16 điểm so với năm 2022).
 Tình hình hoạt động quản lý
-Bám sát các chỉ đạo của HĐQT, Chiến lược MB 2022-2026 và kế hoạch kinh doanh năm 2023, Ban Điều hành đã tích 
+Bám sát các chỉ đạo của HĐQT, Chiến lược MB 2022-2026 và kế hoạch kinh doanh năm 2023, Ban Điều hành đã tích
 cực chủ động thực thi kế hoạch kinh doanh ngay từ đầu năm:
 Nhân sự - con người:
-Triển khai chương trình Flexi Z thu hút ~1.700 nhân sự tập đoàn với 
-mục tiêu đào tạo nhân sự 9x cho vị trí lãnh đạo cấp cao của MB Group 
-tạo hiệu ứng toàn tập đoàn. Đào tạo bồi dưỡng nâng cao chất lượng 
-nguồn lực thông qua chuỗi các chương trình đào tạo MB Leader, năng 
+Triển khai chương trình Flexi Z thu hút ~1.700 nhân sự tập đoàn với
+mục tiêu đào tạo nhân sự 9x cho vị trí lãnh đạo cấp cao của MB Group
+tạo hiệu ứng toàn tập đoàn. Đào tạo bồi dưỡng nâng cao chất lượng
+nguồn lực thông qua chuỗi các chương trình đào tạo MB Leader, năng
 lực Digital, Bee Smart...
 Hoạt động cộng đồng:
-Giữ vững chính trị và ổn định văn hóa MB. Nền tảng xã hội thiện 
-nguyện đã thu hút hơn 1 triệu thành viên, cung cấp tiện ích cho gần 
-1.200 tổ chức và cá nhân; gây quỹ, tổ chức hơn 3.200 chiến dịch. Các 
-Giải thưởng: (i) Giải thưởng Hành động vì cộng đồng do Báo Nhân 
-dân tổ chức; (ii) Nền tảng được vinh danh hạng mục Dự án kịp thời tại 
+Giữ vững chính trị và ổn định văn hóa MB. Nền tảng xã hội thiện
+nguyện đã thu hút hơn 1 triệu thành viên, cung cấp tiện ích cho gần
+1.200 tổ chức và cá nhân; gây quỹ, tổ chức hơn 3.200 chiến dịch. Các
+Giải thưởng: (i) Giải thưởng Hành động vì cộng đồng do Báo Nhân
+dân tổ chức; (ii) Nền tảng được vinh danh hạng mục Dự án kịp thời tại
 Human Act Prize 2023.
 Hệ thống mạng lưới:
-Kênh tự phục vụ với 429 máy nộp và rút tiền tự động (CRM), tăng 56 
+Kênh tự phục vụ với 429 máy nộp và rút tiền tự động (CRM), tăng 56
 máy so với 2022. Số lượng giao dịch ATM/CRM tăng 16% so với 2022.
 Năng lực công nghệ và vận hành:
-Duy trì vị thế dẫn đầu về ứng dụng công nghệ mới, xây dựng hệ thống 
-trung gian thanh toán Payment Hub, cho phép hợp nhất cách thức 
-giao tiếp, nhận và xử lý dữ liệu trong cùng một nền tảng trung tâm, 
+Duy trì vị thế dẫn đầu về ứng dụng công nghệ mới, xây dựng hệ thống
+trung gian thanh toán Payment Hub, cho phép hợp nhất cách thức
+giao tiếp, nhận và xử lý dữ liệu trong cùng một nền tảng trung tâm,
 nâng cao tốc độ xử lý của hệ thống.
 Quản trị rủi ro:
-Chủ động xây dựng công cụ tính toán các tiêu chuẩn theo Basel III 
-như NSFR, LCR, công cụ tính vốn theo yêu cầu cho rủi ro thị trường. 
-Ứng dụng mạnh mẽ các mô hình lượng hóa rủi ro để kết nối giữa 
-nhu cầu kinh doanh và quản trị, cùng với việc triển khai ICAAP trên 
-nền tảng OFSAA, MB là ngân hàng đầu tiên áp dụng hệ thống chuẩn 
+Chủ động xây dựng công cụ tính toán các tiêu chuẩn theo Basel III
+như NSFR, LCR, công cụ tính vốn theo yêu cầu cho rủi ro thị trường.
+Ứng dụng mạnh mẽ các mô hình lượng hóa rủi ro để kết nối giữa
+nhu cầu kinh doanh và quản trị, cùng với việc triển khai ICAAP trên
+nền tảng OFSAA, MB là ngân hàng đầu tiên áp dụng hệ thống chuẩn
 Triển khai các dự án – sáng kiến đạt chất lượng:
-Một trong các Ngân hàng tiên phong trong triển khai chiến lược ESG 
-toàn diện trên toàn hàng, xây dựng và ban hành các chính sách, sản 
+Một trong các Ngân hàng tiên phong trong triển khai chiến lược ESG
+toàn diện trên toàn hàng, xây dựng và ban hành các chính sách, sản
 phẩm tài chính bền vững.
 Chuyển đổi số mạnh mẽ
-với tỷ lệ giao dịch trên kênh số ~96,7%, tự chủ triển khai công nghệ 
-với 888 API tự phát triển, tăng 2 lần so với 2022. Mở rộng hệ sinh thái 
-Ngân hàng số đảm bảo thuận tiện, dễ sử dụng, linh hoạt trên 2 nền 
+với tỷ lệ giao dịch trên kênh số ~96,7%, tự chủ triển khai công nghệ
+với 888 API tự phát triển, tăng 2 lần so với 2022. Mở rộng hệ sinh thái
+Ngân hàng số đảm bảo thuận tiện, dễ sử dụng, linh hoạt trên 2 nền
 tảng phục vụ khách hàng APP MBBank và BIZ MBBank.
 
 Chương 3: Vững vàng tiến bước trước thách thức
-69
-MB đã xây dựng Kế hoạch với định hướng tăng trưởng các chỉ tiêu quy mô, lợi nhuận trước thuế cao hơn bình quân ngành; tận dụng 
-các cơ hội để mở rộng không gian phát triển mới; tập trung rà soát củng cố chất lượng các sản phẩm dịch vụ đáp ứng nhu cầu trải 
-nghiệm của khách hàng. Mục tiêu tăng trưởng tín dụng an toàn, hiệu quả, chọn lọc các phân khúc khách hàng, ngành sản xuất kinh 
-doanh, các lĩnh vực ưu tiên; xây dựng và tổ chức thực hiện các giải pháp hỗ trợ đồng hành cùng khách hàng khắc phục khó khăn và 
+MB đã xây dựng Kế hoạch với định hướng tăng trưởng các chỉ tiêu quy mô, lợi nhuận trước thuế cao hơn bình quân ngành; tận dụng
+các cơ hội để mở rộng không gian phát triển mới; tập trung rà soát củng cố chất lượng các sản phẩm dịch vụ đáp ứng nhu cầu trải
+nghiệm của khách hàng. Mục tiêu tăng trưởng tín dụng an toàn, hiệu quả, chọn lọc các phân khúc khách hàng, ngành sản xuất kinh
+doanh, các lĩnh vực ưu tiên; xây dựng và tổ chức thực hiện các giải pháp hỗ trợ đồng hành cùng khách hàng khắc phục khó khăn và
 phát triển sản xuất kinh doanh; tiếp tục hỗ trợ vốn, tín dụng, miễn, giảm lãi suất theo đúng quy định của pháp luật.
 Kế hoạch phát triển trong năm 2024
 Chỉ tiêu kế hoạch tài chính
-CÁC CHỈ TIÊU HIỆU QUẢ 
+CÁC CHỈ TIÊU HIỆU QUẢ
 (ROE, ROA, CIR):
-68
-Báo cáo thường niên 2023
 TỔNG TÀI SẢN
 TÍN DỤNG
-TOP ĐẦU NGÀNH 
+TOP ĐẦU NGÀNH
 NGÂN HÀNG
 HUY ĐỘNG VỐN
 LỢI NHUẬN TRƯỚC THUẾ
 TỶ LỆ NỢ XẤU
 CAR: tối thiểu
-13%
-15 - 16%
-6 - 8%
-≤2%
-9%
 (Theo giới hạn tăng trưởng tín dụng của NHNN)
 (tuân thủ Basel II)
 Tăng trưởng phù hợp với nhu cầu sử dụng vốn
-Xây dựng và triển khai chiến 
-lược Thương hiệu MB với thông 
-điệp “Bền vững - Hiện đại”. 
-Tiếp tục triển khai các sáng kiến 
-chiến lược giai đoạn 2022-2026, 
-trọng tâm các dự án nhà máy 
-số, hợp nhất định danh khách 
-hàng và khai thác toàn diện 
-sức mạnh hệ sinh thái. Tăng tốc 
-chuyển đổi số toàn diện và đầu 
-tư nền tảng CNTT, tăng tỷ lệ tự 
-động hóa trong công tác quản 
-trị và vận hành. Từ đó, Ngân 
-hàng phấn đấu kiểm soát chỉ 
-số chi phí trên thu nhập (CIR) 
-<30%, nâng cao chất lượng 
-hoạt động và tăng tiện ích cho 
+Xây dựng và triển khai chiến
+lược Thương hiệu MB với thông
+điệp “Bền vững - Hiện đại”.
+Tiếp tục triển khai các sáng kiến
+chiến lược giai đoạn 2022-2026,
+trọng tâm các dự án nhà máy
+số, hợp nhất định danh khách
+hàng và khai thác toàn diện
+sức mạnh hệ sinh thái. Tăng tốc
+chuyển đổi số toàn diện và đầu
+tư nền tảng CNTT, tăng tỷ lệ tự
+động hóa trong công tác quản
+trị và vận hành. Từ đó, Ngân
+hàng phấn đấu kiểm soát chỉ
+số chi phí trên thu nhập (CIR)
+<30%, nâng cao chất lượng
+hoạt động và tăng tiện ích cho
 khách hàng.
-Nâng cao tiêu chuẩn quản 
-trị công ty thành viên, đảm 
-bảo hiệu quả hoạt động, dịch 
-chuyển mạnh doanh thu lên 
-kênh số. Kiểm soát chất lượng 
-danh mục, giới hạn chi phí 
-trong ngưỡng quản trị tương 
-đương Top 2 ngành. Tăng 
-cường phối hợp bán chéo Tập 
+Nâng cao tiêu chuẩn quản
+trị công ty thành viên, đảm
+bảo hiệu quả hoạt động, dịch
+chuyển mạnh doanh thu lên
+kênh số. Kiểm soát chất lượng
+danh mục, giới hạn chi phí
+trong ngưỡng quản trị tương
+đương Top 2 ngành. Tăng
+cường phối hợp bán chéo Tập
 đoàn, quản trị rủi ro chặt chẽ.
-Tăng trưởng tín dụng cao 
-và có chất lượng, tập trung 
-các nhóm ngành trọng 
-tâm theo định hướng của 
-NHNN. Đồng thời, nâng 
-cao 
-chất 
-lượng 
-khách 
-hàng song song với thu hút 
-khách hàng mới, tăng số 
-lượng sản phẩm bình quân/ 
-khách hàng trên từng nhóm 
-KHCN và SME, đảm bảo 
-tăng trưởng đồng đều tại 
-các khu vực/loại hình chi 
-nhánh. 
-Kiểm 
-soát 
-chất 
-lượng tín dụng chặt chẽ, tỷ 
+Tăng trưởng tín dụng cao
+và có chất lượng, tập trung
+các nhóm ngành trọng
+tâm theo định hướng của
+NHNN. Đồng thời, nâng
+chất
+lượng
+khách
+hàng song song với thu hút
+khách hàng mới, tăng số
+lượng sản phẩm bình quân/
+khách hàng trên từng nhóm
+KHCN và SME, đảm bảo
+tăng trưởng đồng đều tại
+các khu vực/loại hình chi
+nhánh.
+Kiểm
+soát
+chất
+lượng tín dụng chặt chẽ, tỷ
 lệ nợ xấu tập đoàn ≤2%.
-Tăng trưởng huy động vốn 
-phù hợp nhu cầu sử dụng vốn, 
-cơ cấu huy động hợp lý, tăng 
-CASA để tối ưu chi phí vốn, 
-đảm bảo các chỉ số an toàn 
-của NHNN và thanh khoản 
+Tăng trưởng huy động vốn
+phù hợp nhu cầu sử dụng vốn,
+cơ cấu huy động hợp lý, tăng
+CASA để tối ưu chi phí vốn,
+đảm bảo các chỉ số an toàn
+của NHNN và thanh khoản
 toàn tập đoàn.
-Tăng cường đào tạo chuyên 
-môn nâng cao chất lượng 
-nguồn lực, bồi dưỡng và thu 
-hút nhân tài ưu tiên cho nhóm 
-Kinh doanh, Công nghệ - Dữ 
+Tăng cường đào tạo chuyên
+môn nâng cao chất lượng
+nguồn lực, bồi dưỡng và thu
+hút nhân tài ưu tiên cho nhóm
+Kinh doanh, Công nghệ - Dữ
 liệu - Số.
-Tiếp tục tìm kiếm cơ hội đầu 
-tư trụ sở tại khu vực phía Nam 
-và các địa bàn tiềm năng (Huế, 
-Bắc Giang, Lạng Sơn, Nghệ An, 
+Tiếp tục tìm kiếm cơ hội đầu
+tư trụ sở tại khu vực phía Nam
+và các địa bàn tiềm năng (Huế,
+Bắc Giang, Lạng Sơn, Nghệ An,
 Vĩnh Phúc, Điện Biên…).
 Giải pháp cụ thể
 
 Chương 3: Vững vàng tiến bước trước thách thức
-70
-71
-Báo cáo thường niên 2023
-	
-►
-MB tiếp tục duy trì đà tăng trưởng quy mô và doanh thu cao, cơ bản hoàn 
-thành mục tiêu kế hoạch đề ra. Trong đó, Lợi nhuận trước thuế (LNTT) 
-Tập đoàn đạt 26.306 tỷ đồng, tăng 15,7% so với 2022 và đạt 100,8% 
-kế hoạch năm 2023; LNTT riêng Ngân hàng đạt 24.688 tỷ đồng đạt 
+MB tiếp tục duy trì đà tăng trưởng quy mô và doanh thu cao, cơ bản hoàn
+thành mục tiêu kế hoạch đề ra. Trong đó, Lợi nhuận trước thuế (LNTT)
+Tập đoàn đạt 26.306 tỷ đồng, tăng 15,7% so với 2022 và đạt 100,8%
+kế hoạch năm 2023; LNTT riêng Ngân hàng đạt 24.688 tỷ đồng đạt
 104,6% kế hoạch; LNTT các công ty thành viên ước đạt 2.046 tỷ đồng.
-	
-►
-MB duy trì vị thế Top đầu các chỉ tiêu hiệu quả như ROE ~23,9%, ROA 
-~2,5%. MB trích lập dự phòng đầy đủ và đảm bảo quy định pháp luật, 
-tỷ lệ nợ xấu ở mức 1,6%. Vị thế và uy tín của Ngân hàng ngày càng 
+MB duy trì vị thế Top đầu các chỉ tiêu hiệu quả như ROE ~23,9%, ROA
+~2,5%. MB trích lập dự phòng đầy đủ và đảm bảo quy định pháp luật,
+tỷ lệ nợ xấu ở mức 1,6%. Vị thế và uy tín của Ngân hàng ngày càng
 được nâng cao.
-	
-►
-Hội đồng Quản trị chỉ đạo triển khai phương án tăng vốn điều lệ của MB 
-theo Nghị quyết ĐHĐCĐ 2023. Đến cuối năm 2023, MB đã hoàn thành 
-phương án chi trả cổ tức 5% bằng tiền mặt; hoàn thành phương án 
-phát hành cổ phiếu để trả cổ tức tỷ lệ 15%, nâng vốn điều lệ từ 45.339,86 
-tỷ đồng lên mức 52.140,84 tỷ đồng. Các phương án phát hành riêng lẻ 
-cho các đối tác và ESOP đang được tiếp tục triển khai các thủ tục liên 
-quan, đảm bảo phù hợp quy định pháp luật, MB và Nghị quyết ĐHĐCĐ. 
-Ngoài ra, để bổ sung nguồn vốn cho hoạt động, tận dụng các cơ hội của 
-thị trường, Hội đồng Quản trị thông qua việc triển khai phương án phát 
-hành mới năm 2023-2024 và mua lại trái phiếu vốn cấp 2 của MB trên 
+Hội đồng Quản trị chỉ đạo triển khai phương án tăng vốn điều lệ của MB
+theo Nghị quyết ĐHĐCĐ 2023. Đến cuối năm 2023, MB đã hoàn thành
+phương án chi trả cổ tức 5% bằng tiền mặt; hoàn thành phương án
+phát hành cổ phiếu để trả cổ tức tỷ lệ 15%, nâng vốn điều lệ từ 45.339,86
+tỷ đồng lên mức 52.140,84 tỷ đồng. Các phương án phát hành riêng lẻ
+cho các đối tác và ESOP đang được tiếp tục triển khai các thủ tục liên
+quan, đảm bảo phù hợp quy định pháp luật, MB và Nghị quyết ĐHĐCĐ.
+Ngoài ra, để bổ sung nguồn vốn cho hoạt động, tận dụng các cơ hội của
+thị trường, Hội đồng Quản trị thông qua việc triển khai phương án phát
+hành mới năm 2023-2024 và mua lại trái phiếu vốn cấp 2 của MB trên
 cơ sở phù hợp Chiến lược giai đoạn 2022-2026 và quy định pháp luật.
 BÁO CÁO ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ
 Về kết quả kinh doanh năm 2023
 Về kết quả quản trị năm 2023
-►	
-Chiến lược giai đoạn 2022-2026 được HĐQT định hướng, giám sát triển khai đúng tiến độ, hiệu quả các sáng kiến Chiến lược, đảm 
+Chiến lược giai đoạn 2022-2026 được HĐQT định hướng, giám sát triển khai đúng tiến độ, hiệu quả các sáng kiến Chiến lược, đảm
 bảo hoàn thành các mục tiêu KPIs Chiến lược; đẩy mạnh Hiệp lực và tăng sức cạnh tranh của Tập đoàn.
-►	
-ĐHĐCĐ thường niên 2023 của MB và các công ty thành viên (MBS, MBCapital, MIC) được tổ chức thành công, phù hợp quy định và đã 
-thông qua các nội dung quan trọng về kế hoạch kinh doanh, phương án tăng vốn, phương án sử dụng vốn chủ sở hữu, các phương 
+ĐHĐCĐ thường niên 2023 của MB và các công ty thành viên (MBS, MBCapital, MIC) được tổ chức thành công, phù hợp quy định và đã
+thông qua các nội dung quan trọng về kế hoạch kinh doanh, phương án tăng vốn, phương án sử dụng vốn chủ sở hữu, các phương
 án nhân sự cấp cao.
-►	
-Trên cơ sở quyết nghị của ĐHĐCĐ 2023, chấp thuận của Cơ quan quản lý nhà nước, HĐQT đã hoàn thành công tác chuyển giao/bổ 
-nhiệm nhân sự lãnh đạo cấp cao là Chủ tịch HĐQT, Tổng Giám đốc MB (bầu Chủ tịch HĐQT đối với Ông Lưu Trung Thái, bổ nhiệm 
-TGĐ MB đối với Ông Phạm Như Ánh); kiện toàn phân công nhiệm vụ cho các Thành viên HĐQT và tổ chức, hoạt động của các Ủy ban 
-thuộc HĐQT. Các ủy ban trực thuộc HĐQT đã tích cực triển khai nhiệm vụ theo kế hoạch, kịp thời tham mưu có chất lượng tới HĐQT 
-các nội dung theo thẩm quyền (chi tiết tại Mục Hoạt động các Ủy ban thuộc HĐQT ). 
-►	
-Áp dụng đánh giá tính hiệu quả của hệ thống quản trị công ty của Ngân hàng theo Thẻ điểm Quản trị Công ty ASEAN, dựa trên 06 
-khía cạnh: Quyền của Cổ đông, Đối xử công bằng giữa các Cổ đông, Vai trò của các bên có quyền lợi liên quan, Công bố thông tin 
+Trên cơ sở quyết nghị của ĐHĐCĐ 2023, chấp thuận của Cơ quan quản lý nhà nước, HĐQT đã hoàn thành công tác chuyển giao/bổ
+nhiệm nhân sự lãnh đạo cấp cao là Chủ tịch HĐQT, Tổng Giám đốc MB (bầu Chủ tịch HĐQT đối với Ông Lưu Trung Thái, bổ nhiệm
+TGĐ MB đối với Ông Phạm Như Ánh); kiện toàn phân công nhiệm vụ cho các Thành viên HĐQT và tổ chức, hoạt động của các Ủy ban
+thuộc HĐQT. Các ủy ban trực thuộc HĐQT đã tích cực triển khai nhiệm vụ theo kế hoạch, kịp thời tham mưu có chất lượng tới HĐQT
+các nội dung theo thẩm quyền (chi tiết tại Mục Hoạt động các Ủy ban thuộc HĐQT ).
+Áp dụng đánh giá tính hiệu quả của hệ thống quản trị công ty của Ngân hàng theo Thẻ điểm Quản trị Công ty ASEAN, dựa trên 06
+khía cạnh: Quyền của Cổ đông, Đối xử công bằng giữa các Cổ đông, Vai trò của các bên có quyền lợi liên quan, Công bố thông tin
 minh bạch; Tính bền vững & khả năng phục hồi và Vai trò, trách nhiệm của Hội đồng Quản trị.
-HĐQT MB đã thực hiện nhiệm vụ giám sát cấp cao về tình hình thực thi chiến lược, giải pháp kinh doanh; định hướng chỉ đạo công 
-tác chuyển đổi số; chỉ đạo thực hiện quyết liệt các Quyết nghị của ĐHĐCĐ; triển khai hoạt động quản trị doanh nghiệp khác theo 
-chức năng, nhiệm vụ trên cơ sở quy định pháp luật và quy định nội bộ của MB, đảm bảo hoạt động Ngân hàng có sự tăng trưởng 
+HĐQT MB đã thực hiện nhiệm vụ giám sát cấp cao về tình hình thực thi chiến lược, giải pháp kinh doanh; định hướng chỉ đạo công
+tác chuyển đổi số; chỉ đạo thực hiện quyết liệt các Quyết nghị của ĐHĐCĐ; triển khai hoạt động quản trị doanh nghiệp khác theo
+chức năng, nhiệm vụ trên cơ sở quy định pháp luật và quy định nội bộ của MB, đảm bảo hoạt động Ngân hàng có sự tăng trưởng
 ổn định trong bối cảnh khó khăn của nền kinh tế. Một số kết quả cụ thể:
 doanh liên tục, an toàn hiệu quả, hoàn thành mục tiêu kế hoạch được ĐHĐCĐ phê duyệt.
-►	
-Ngoài ra, HĐQT đã thông qua Kế hoạch năm 2023 của Tập đoàn, MB và các Công ty thành viên bám sát các định hướng Chiến 
-lược và Nghị quyết của ĐHĐCĐ 2023; Phê duyệt định hướng Tín dụng năm 2023 căn cứ theo Chỉ thị 01/CT-NHNN về tổ chức 
+Ngoài ra, HĐQT đã thông qua Kế hoạch năm 2023 của Tập đoàn, MB và các Công ty thành viên bám sát các định hướng Chiến
+lược và Nghị quyết của ĐHĐCĐ 2023; Phê duyệt định hướng Tín dụng năm 2023 căn cứ theo Chỉ thị 01/CT-NHNN về tổ chức
 thực hiện các nhiệm vụ trọng tâm của ngành ngân hàng năm 2023.
-►	
-Quản trị nhân sự cấp cao và nhân sự toàn hệ thống MB Group được HĐQT quan tâm với các định hướng quản trị mới hướng 
-đến các thông lệ tốt trên cơ sở duy trì và phát huy các giá trị cốt lõi tốt đẹp đã được củng cố trong gần 30 năm phát triển. Trong 
-năm 2023, HĐQT định hướng phát huy Văn hóa Kỷ luật, Sáng tạo; phát triển nhân sự với năng lực “chiến lược, dẫn dắt tổ chức, 
-thực thi”; cải tiến chế độ cho người lao động, thúc đẩy phát huy năng lực, tìm kiếm, thu hút và phát triển nhân tài. 
-►	
-Về việc triển khai phương án chuyển giao bắt buộc 1 tổ chức tín dụng và Dự án MBCambodia theo Nghị quyết ĐHĐCĐ: HĐQT 
-đã chỉ đạo việc kiện toàn nhân sự Ban Chỉ đạo, Ban Triển khai và Ban Trù bị Đề án và định hướng/chỉ đạo Ban Triển khai hoàn 
-thiện Phương án Chuyển giao bắt buộc trên cơ sở ý kiến của NHNN, phù hợp Nghị quyết ĐHĐCĐ; thông qua việc triển khai 
-Phương án chuyển nhượng vốn và liên doanh Ngân hàng MBCambodia trên cơ sở đảm bảo quyền lợi MB, phù hợp quy định 
-pháp luật. 
+Quản trị nhân sự cấp cao và nhân sự toàn hệ thống MB Group được HĐQT quan tâm với các định hướng quản trị mới hướng
+đến các thông lệ tốt trên cơ sở duy trì và phát huy các giá trị cốt lõi tốt đẹp đã được củng cố trong gần 30 năm phát triển. Trong
+năm 2023, HĐQT định hướng phát huy Văn hóa Kỷ luật, Sáng tạo; phát triển nhân sự với năng lực “chiến lược, dẫn dắt tổ chức,
+thực thi”; cải tiến chế độ cho người lao động, thúc đẩy phát huy năng lực, tìm kiếm, thu hút và phát triển nhân tài.
+Về việc triển khai phương án chuyển giao bắt buộc 1 tổ chức tín dụng và Dự án MBCambodia theo Nghị quyết ĐHĐCĐ: HĐQT
+đã chỉ đạo việc kiện toàn nhân sự Ban Chỉ đạo, Ban Triển khai và Ban Trù bị Đề án và định hướng/chỉ đạo Ban Triển khai hoàn
+thiện Phương án Chuyển giao bắt buộc trên cơ sở ý kiến của NHNN, phù hợp Nghị quyết ĐHĐCĐ; thông qua việc triển khai
+Phương án chuyển nhượng vốn và liên doanh Ngân hàng MBCambodia trên cơ sở đảm bảo quyền lợi MB, phù hợp quy định
+pháp luật.
 Quản trị tập đoàn – tăng cường quản lý và hỗ trợ hoạt động các công ty thành viên
-Triển khai chiến lược giai 
-đoạn 2022-2026 gắn kết với 
-chiến lược chung của Tập 
-đoàn; hướng đến chuyển đổi 
-số toàn diện, triển khai mạnh 
-các mô hình kinh doanh số, 
-quản trị dữ liệu thông minh, 
-hiệp lực Tập đoàn để khai 
-thác toàn diện hệ sinh thái 
-theo định hướng Chiến lược 
-Tập đoàn. 
-Tăng cường vai trò định 
-hướng, điều phối và nâng 
-cao năng lực giám sát của 
-các Cơ quan Tập đoàn MB 
-trong các mảng trọng yếu 
-như Tài chính kế toán, Quản 
-trị rủi ro, Pháp chế, Công 
-nghệ thông tin, Tổ chức 
-nhân sự … theo hướng MB 
-xây dựng các tiêu chuẩn và 
-thông lệ tiên tiến giúp các 
-công ty nhanh chóng hoàn 
-thiện, kiện toàn hệ thống 
-tinh gọn, hiệu quả, đáp ứng 
-tốt yêu cầu quản trị và kinh 
-doanh, phù hợp với quy định 
-pháp luật. 
-Tăng cường gắn kết trong 
-hoạt động thường xuyên 
-giữa các công ty thành 
-viên với MB, đẩy mạnh hoạt 
-động đào tạo, chia sẻ và 
-dùng chung nguồn lực của 
-hệ thống; tăng cường bán 
-chéo phát triển dịch vụ của 
+Triển khai chiến lược giai
+đoạn 2022-2026 gắn kết với
+chiến lược chung của Tập
+đoàn; hướng đến chuyển đổi
+số toàn diện, triển khai mạnh
+các mô hình kinh doanh số,
+quản trị dữ liệu thông minh,
+hiệp lực Tập đoàn để khai
+thác toàn diện hệ sinh thái
+theo định hướng Chiến lược
+Tập đoàn.
+Tăng cường vai trò định
+hướng, điều phối và nâng
+cao năng lực giám sát của
+các Cơ quan Tập đoàn MB
+trong các mảng trọng yếu
+như Tài chính kế toán, Quản
+trị rủi ro, Pháp chế, Công
+nghệ thông tin, Tổ chức
+nhân sự … theo hướng MB
+xây dựng các tiêu chuẩn và
+thông lệ tiên tiến giúp các
+công ty nhanh chóng hoàn
+thiện, kiện toàn hệ thống
+tinh gọn, hiệu quả, đáp ứng
+tốt yêu cầu quản trị và kinh
+doanh, phù hợp với quy định
+pháp luật.
+Tăng cường gắn kết trong
+hoạt động thường xuyên
+giữa các công ty thành
+viên với MB, đẩy mạnh hoạt
+động đào tạo, chia sẻ và
+dùng chung nguồn lực của
+hệ thống; tăng cường bán
+chéo phát triển dịch vụ của
 Tập đoàn.
 
+Chương 3: Vững vàng tiến bước trước thách thức
+Doanh nghiệp
+tài chính có
+Báo cáo
+thường niên
+xuất sắc
+“Hội đồng Quản trị có tính đa dạng
+cao” và được tôn vinh là một trong
+mười hai “Hội đồng Quản trị cam
+kết thực hành tốt Quản trị công
+ty” của năm trong khuôn khổ Diễn
+đàn thường niên lần thứ 6 do Viện
+Thành viên HĐQT Việt Nam tổ chức.
+Top 10 Doanh nghiệp tài chính có
+khuôn khổ Cuộc Bình chọn Doanh
+nghiệp niêm yết 2023 do HSX đầu
+mối tổ chức (VLCA 2023) trong 2
+năm liên tiếp 2022-2023.
+Top 3 Doanh nghiệp niêm yết
+được nhà đầu tư yêu thích nhất
+(theo cuộc bình chọn thường niên
+về hoạt động IR - IR Awards 2023
+do Hiệp hội các Nhà quản trị Tài
+chính Việt Nam và Vietstock đồng
+tổ chức).
+Các giải thưởng
+Doanh nghiệp
+niêm yết được
+nhà đầu tư
+yêu thích nhất
+Quản trị
+có tính
+đa dạng cao
+Phương hướng phát triển năm 2024
+Quản trị Tập đoàn
+Trên cơ sở dự báo tình hình kinh tế năm 2024, MB triển khai nhiệm vụ bám sát phương châm “Tăng trưởng an toàn,
+bền vững”, kiên định mục tiêu chuyển đổi số để trở thành “Doanh nghiệp số dẫn đầu”, ưu tiên xây dựng các mục tiêu
+phát triển bền vững, củng cố chất lượng các mặt hoạt động, đầu tư nguồn lực, các nền tảng cho chiến lược phát triển
+dài hạn. Hướng tới mốc son kỷ niệm 30 năm thành lập, MB tiếp tục bám sát mục tiêu Chiến lược giai đoạn 2022-2026.
+Ngân hàng cũng đã xây dựng Kế hoạch với định hướng tăng trưởng cụ thể cho năm 2024. Đặc biệt, MB tiếp tục
+chú trọng đầu tư xây dựng giá trị thương hiệu với quy mô tầm khu vực; đầu tư chiều sâu về con người, đổi mới
+sáng tạo và làm chủ công nghệ để tạo năng lực cạnh tranh bền vững; hoàn thiện và phát triển các hành trình tích
+hợp, hiệp lực tạo ra sự tăng trưởng mạnh mẽ về doanh thu, tối ưu hiệu quả chi phí... từ đó, gia tăng các giá trị của
+tập đoàn; tạo ra trải nghiệm khác biệt; tiếp tục mở rộng và phát triển hệ sinh thái Số cùng các đối tác đa dạng, uy
+tín trong các lĩnh vực bao gồm: Thương mại điện tử, Viễn thông/Thanh toán, Vận tải hành khách, Y tế, Giáo dục,…
+Năm 2024 cũng là giai đoạn chuyển giao nhiệm kỳ. Trên cơ sở tổng kết và phát huy các kết quả của nhiệm kỳ 2019-
+2024, HĐQT và BKS xây dựng phương hướng hoạt động cho nhiệm kỳ mới, báo cáo ĐHĐCĐ thông qua. Với sự tin
+tưởng của các bên liên quan, HĐQT cam kết lãnh đạo, chỉ đạo kịp thời, sát sao và đồng hành cùng BĐH, đưa MB vững
+bước tiến lên hoàn thành, hoàn thành xuất sắc các nhiệm vụ và kế hoạch được giao. Đồng thời các công ty thành viên
+phấn đấu bám đuổi mục tiêu hiệu quả mà MB đang duy trì, tập trung các hoạt động cốt lõi, tăng cường công tác phối
+hợp/hợp tác với các đơn vị trong toàn hệ thống MB, góp phần cung cấp các giải pháp tiện ích tới khách hàng, giúp
+gia tăng giá trị cho cổ đông và các nhà đầu tư.
+Với định hướng hoạt động theo mô hình Tập đoàn (MB
+Group) trong đó Công ty mẹ Ngân hàng thương mại
+cổ phần Quân đội là hạt nhân và vệ tinh là các công ty
+thành viên hoạt động bao phủ trong hầu hết các mảng
+tài chính gồm ngân hàng, đầu tư, chứng khoán, quản
+lý quỹ, bảo hiểm và tài chính tiêu dùng. Hơn nữa, trong
+năm 2023 MB trở thành Tập đoàn tài chính đa quốc gia
+với việc đưa vào hoạt động MBCambodia, trước mắt
+tập trung vào thị trường Đông Nam Á. Khách hàng của
+MB nói chung và thị trường Campuchia nói riêng sẽ
+được hưởng lợi từ các tiện ích tối ưu, đặc biệt trong
+các hoạt động chuyển tiền, đầu tư, hỗ trợ các doanh
+nghiệp liên thị trường…
+Năm 2024, MB Group tiếp tục đẩy nhanh việc hoàn
+thiện hệ sinh thái tài chính số, triển khai hoạt động kinh
+doanh hướng tới quản lý hoạt động đầu tư toàn Tập
+đoàn thông qua việc ban hành quy định, chính sách,
+định hướng đầu tư và giám sát việc thực thi theo các
+quy định pháp luật, tiêu chuẩn của Tập đoàn. Ngoài ra,
+hoàn thiện mô hình tập đoàn tài chính trên ứng dụng
+số, hiệp lực bán chéo trong Tập đoàn và tập trung vào
+trải nghiệm của khách hàng, thúc đẩy gia tăng các giá
+trị mới, qua đó tăng khối lượng khách hàng giao dịch,
+khai thác sâu danh mục khách hàng trên tất cả các
+phân khúc.
+Tập đoàn cũng sẽ nghiên cứu thực hiện các phương
+án M&A, tìm kiếm đối tác chiến lược nhằm nâng cao
+năng lực hoạt động quản trị, kinh doanh của MB và các
+Công ty thành viên, tối ưu lợi ích Tập đoàn. Chú trọng
+các giải pháp cải thiện thị phần, chuyển dịch số mạnh
+mẽ, nâng cao năng lực quản trị và tối ưu mô hình hoạt
+động từ đó nâng cao năng suất lao động.
+
 Chương 4: Nâng tầm quản trị tiến bước tương lai
-76
-77
-Báo cáo thường niên 2023
-HĐQT là cơ quan quản lý của MB, được ĐHĐCĐ bầu ra; chịu trách nhiệm trước ĐHĐCĐ trong việc thực hiện nhiệm vụ, quyền hạn 
-được giao. HĐQT thực hiện nhiệm vụ quản trị Ngân hàng phù hợp quy định tại Điều lệ, Quy chế Quản trị và các quy định nội bộ có 
-liên quan của MB, quy định pháp luật, thông lệ quản trị tiên tiến phù hợp tại MB. HĐQT quyết định các vấn đề, trừ những vấn đề 
+HĐQT là cơ quan quản lý của MB, được ĐHĐCĐ bầu ra; chịu trách nhiệm trước ĐHĐCĐ trong việc thực hiện nhiệm vụ, quyền hạn
+được giao. HĐQT thực hiện nhiệm vụ quản trị Ngân hàng phù hợp quy định tại Điều lệ, Quy chế Quản trị và các quy định nội bộ có
+liên quan của MB, quy định pháp luật, thông lệ quản trị tiên tiến phù hợp tại MB. HĐQT quyết định các vấn đề, trừ những vấn đề
 thuộc thẩm quyền ĐHĐCĐ.
-HĐQT đã chỉ đạo/định hướng hoàn thiện hệ thống quy trình/quy chế/chính sách phù hợp quy định pháp luật: xây dựng và ban hành 
+HĐQT đã chỉ đạo/định hướng hoàn thiện hệ thống quy trình/quy chế/chính sách phù hợp quy định pháp luật: xây dựng và ban hành
 mới Quy chế tổ chức và hoạt động của Ủy ban Công nghệ & Chuyển đổi số; quyết định ban hành chính thức các văn bản cập nhật/
-sửa đổi Quy chế Quản lý thông tin và thực hiện quyền của cổ đông, Quy chế Quản lý Công ty thành viên của MB, Nội quy Lao động, 
-Quy chế Quản lý hệ thống mạng lưới và một số quy định nội bộ khác. Cơ chế quản trị điều hành/tổ chức vận hành của MB được 
-HĐQT định hướng, chỉ đạo hoàn thiện trên cơ sở rà soát, cập nhật quy định mới của pháp luật, đáp ứng yêu cầu thực tiễn, nâng 
-cao hiệu quả quản lý, tiệm cận các thông lệ quản trị tốt: hoàn thiện quy định về nguyên tắc, nội dung/hình thức đãi ngộ phù hợp 
-các định hướng/Chiến lược về nhân sự của HĐQT; định hướng xây dựng lộ trình áp dụng Basel III tại MB phù hợp định hướng của 
-NHNN; và rà soát, kiện toàn mô hình tổ chức một số đơn vị thuộc Hội sở để đáp ứng yêu cầu quản trị, định hướng triển khai Chiến 
+sửa đổi Quy chế Quản lý thông tin và thực hiện quyền của cổ đông, Quy chế Quản lý Công ty thành viên của MB, Nội quy Lao động,
+Quy chế Quản lý hệ thống mạng lưới và một số quy định nội bộ khác. Cơ chế quản trị điều hành/tổ chức vận hành của MB được
+HĐQT định hướng, chỉ đạo hoàn thiện trên cơ sở rà soát, cập nhật quy định mới của pháp luật, đáp ứng yêu cầu thực tiễn, nâng
+cao hiệu quả quản lý, tiệm cận các thông lệ quản trị tốt: hoàn thiện quy định về nguyên tắc, nội dung/hình thức đãi ngộ phù hợp
+các định hướng/Chiến lược về nhân sự của HĐQT; định hướng xây dựng lộ trình áp dụng Basel III tại MB phù hợp định hướng của
+NHNN; và rà soát, kiện toàn mô hình tổ chức một số đơn vị thuộc Hội sở để đáp ứng yêu cầu quản trị, định hướng triển khai Chiến
 lược giai đoạn 2022 - 2026.
-Bên cạnh việc phối hợp tích cực với BKS trong chỉ đạo tổ chức các chương trình kiểm tra, kiểm toán toàn diện/đột xuất/chuyên đề 
-trong MBGroup, HĐQT thường xuyên trao đổi để kịp thời nắm bắt, hỗ trợ BĐH, Người đại diện MB tại các Công ty thành viên và 
-các đơn vị giải quyết vướng mắc, đáp ứng hoạt động kinh doanh. Trong năm, các cuộc họp HĐQT và các Ủy ban của HĐQT được 
-tổ chức định kỳ hàng quý; HĐQT vận hành cơ chế tổ chức lấy ý kiến thường xuyên để giải quyết kịp thời các nội dung thuộc thẩm 
-quyền theo quy định; các Ủy ban của HĐQT (Ủy ban Quản trị cấp cao, Ủy ban Quản lý rủi ro, Ủy ban Nhân sự, Ủy ban Công nghệ 
-và Chuyển đổi số) cũng tổ chức họp thường xuyên/đột xuất để kịp thời tham mưu/tư vấn cho HĐQT/Chủ tịch HĐQT đối với các nội 
+Bên cạnh việc phối hợp tích cực với BKS trong chỉ đạo tổ chức các chương trình kiểm tra, kiểm toán toàn diện/đột xuất/chuyên đề
+trong MBGroup, HĐQT thường xuyên trao đổi để kịp thời nắm bắt, hỗ trợ BĐH, Người đại diện MB tại các Công ty thành viên và
+các đơn vị giải quyết vướng mắc, đáp ứng hoạt động kinh doanh. Trong năm, các cuộc họp HĐQT và các Ủy ban của HĐQT được
+tổ chức định kỳ hàng quý; HĐQT vận hành cơ chế tổ chức lấy ý kiến thường xuyên để giải quyết kịp thời các nội dung thuộc thẩm
+quyền theo quy định; các Ủy ban của HĐQT (Ủy ban Quản trị cấp cao, Ủy ban Quản lý rủi ro, Ủy ban Nhân sự, Ủy ban Công nghệ
+và Chuyển đổi số) cũng tổ chức họp thường xuyên/đột xuất để kịp thời tham mưu/tư vấn cho HĐQT/Chủ tịch HĐQT đối với các nội
 dung liên quan.
-Ngoài ra, Chủ tịch HĐQT và các Thành viên HĐQT tích cực phát huy vai trò và dành nhiều thời gian làm việc trực tiếp với các đơn 
-vị để đánh giá chính xác tình hình hoạt động và định hướng/chỉ đạo phù hợp với thực tế; phối hợp với BKS trong định hướng Chiến 
-lược Kiểm toán nội bộ giai đoạn 2022 - 2026 và Kế hoạch kiểm toán hàng năm đảm bảo phù hợp, phát huy hiệu quả các mô hình 
+Ngoài ra, Chủ tịch HĐQT và các Thành viên HĐQT tích cực phát huy vai trò và dành nhiều thời gian làm việc trực tiếp với các đơn
+vị để đánh giá chính xác tình hình hoạt động và định hướng/chỉ đạo phù hợp với thực tế; phối hợp với BKS trong định hướng Chiến
+lược Kiểm toán nội bộ giai đoạn 2022 - 2026 và Kế hoạch kiểm toán hàng năm đảm bảo phù hợp, phát huy hiệu quả các mô hình
 kiểm soát, giám sát rủi ro.
-Thành viên HĐQT có trách nhiệm công khai các lợi ích có liên quan theo Luật các TCTD và văn bản hướng dẫn thi hành.Trong năm 
-2023, HĐQT đã tổ chức 29 phiên họp để định hướng, chỉ đạo hoạt động của MB và các Công ty thành viên, xem xét quyết định các 
-công việc thuộc thẩm quyền xử lý của HĐQT, phù hợp quy định pháp luật, quy định nội bộ của MB, hỗ trợ hiệu quả cho BĐH, những 
+Thành viên HĐQT có trách nhiệm công khai các lợi ích có liên quan theo Luật các TCTD và văn bản hướng dẫn thi hành.Trong năm
+2023, HĐQT đã tổ chức 29 phiên họp để định hướng, chỉ đạo hoạt động của MB và các Công ty thành viên, xem xét quyết định các
+công việc thuộc thẩm quyền xử lý của HĐQT, phù hợp quy định pháp luật, quy định nội bộ của MB, hỗ trợ hiệu quả cho BĐH, những
 người đại diện MB tại Công ty thành viên và các đơn vị giải quyết vướng mắc, đáp ứng hoạt động kinh doanh.
 HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ
 Vai trò và trách nhiệm Hội đồng Quản trị
 Hoạt động tại MB
 
 Chương 4: Nâng tầm quản trị tiến bước tương lai
-78
-79
-Báo cáo thường niên 2023
-STT 
 Thành viên HĐQT
-Chức vụ (thành 
-viên HĐQT độc 
-lập, thành viên 
-HĐQT không 
+Chức vụ (thành
+viên HĐQT độc
+lập, thành viên
+HĐQT không
 điều hành)
 Ngày bắt đầu/
-không còn là 
+không còn là
 thành viên HĐQT
-Số 
-buổi 
-họp 
-/ủy 
-quyền 
-tham 
-dự 
-Tỷ lệ 
-tham 
-dự 
-họp
-Lý do 
-không 
-tham dự 
-họp
+buổi
+quyền
+tham
+Tỷ lệ
+tham
+Lý do
+không
+tham dự
 Ghi chú
-1
 Lê Hữu Đức
-Chủ tịch HĐQT 
-đến 12/04/2023
-Thành viên 
-HĐQT không 
-điều hành từ 
-12/04/2023 đến 
-25/04/2023
-Bắt đầu là Thành 
-viên HĐQT từ 
-28/04/2011
- 
-Thôi là Thành 
-viên HĐQT từ 
-25/04/2023
-05/05
-100%
- 
-Chủ nhiệm Ủy ban Quản trị 
-cấp cao, Ủy ban Nhân sự, Hội 
-đồng Xử lý rủi ro, Hội đồng thi 
-đua khen thưởng cấp HĐQT, 
-Trưởng Ban Chỉ đạo Xây dựng 
-Chiến lược MB 2022-2026 đến 
-12/04/2023
-2
+Chủ tịch HĐQT
+Thành viên
+HĐQT không
+điều hành từ
+Bắt đầu là Thành
+viên HĐQT từ
+Thôi là Thành
+viên HĐQT từ
+Chủ nhiệm Ủy ban Quản trị
+cấp cao, Ủy ban Nhân sự, Hội
+đồng Xử lý rủi ro, Hội đồng thi
+đua khen thưởng cấp HĐQT,
+Trưởng Ban Chỉ đạo Xây dựng
+Chiến lược MB 2022-2026 đến
 Lưu Trung Thái
-(Người được ủy quyền 
-CBTT đến 12/04/2023, 
-Người phụ trách 
-quản trị Công ty đến 
-08/06/2023)
-Phó Chủ tịch 
-kiêm TGĐ đến 
-12/04/2023
-Chủ tịch HĐQT, 
-Thành viên 
-HĐQT không 
-điều hành từ 
-12/04/2023
-Bắt đầu là Thành 
-viên HĐQT từ 
-23/04/2014
-21/21
-100%
-TV HĐQT và các Ủy ban, Hội 
-đồng xử lý rủi ro, Hội đồng thi 
-đua khen thưởng cấp HĐQT, 
-Phó Ban Chỉ đạo - Trưởng 
-Ban Triển khai Chiến lược MB 
-2022-2026 đến 08/06/2023
-Chủ nhiệm Ủy ban Quản trị 
-cấp cao, Ủy ban Nhân sự, Hội 
-đồng Thi đua khen thưởng 
-cấp HĐQT, Trưởng Ban Chỉ 
-đạo Chiến lược MB 2022-2026 
-và Ban Chỉ đạo Đề án S600 
-từ 08/06/2023. Chủ nhiệm Ủy 
-ban Công nghệ & Chuyển đổi 
-số từ 10/07/2023
-3
+(Người được ủy quyền
+Người phụ trách
+Phó Chủ tịch
+kiêm TGĐ đến
+Chủ tịch HĐQT,
+Thành viên
+HĐQT không
+điều hành từ
+Bắt đầu là Thành
+viên HĐQT từ
+TV HĐQT và các Ủy ban, Hội
+đồng xử lý rủi ro, Hội đồng thi
+đua khen thưởng cấp HĐQT,
+Phó Ban Chỉ đạo - Trưởng
+Ban Triển khai Chiến lược MB
+Chủ nhiệm Ủy ban Quản trị
+cấp cao, Ủy ban Nhân sự, Hội
+đồng Thi đua khen thưởng
+cấp HĐQT, Trưởng Ban Chỉ
+đạo Chiến lược MB 2022-2026
+và Ban Chỉ đạo Đề án S600
+từ 08/06/2023. Chủ nhiệm Ủy
+ban Công nghệ & Chuyển đổi
 Đỗ Minh Phương
-Phó Chủ tịch, 
-Thành viên 
-HĐQT không 
+Phó Chủ tịch,
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27/04/2019
-12/16
-75%
-Lịch 
-công 
-tác
-TV HĐQT, Ủy ban Quản trị cấp 
-cao, Ủy ban Nhân sự, Thành 
-viên Ban Chỉ đạo xây dựng 
+Bắt đầu là
+Thành viên HĐQT
+Lịch
+công
+TV HĐQT, Ủy ban Quản trị cấp
+cao, Ủy ban Nhân sự, Thành
+viên Ban Chỉ đạo xây dựng
 Chiến lược MB 2022-2026
-TV Ủy ban Công nghệ & 
+TV Ủy ban Công nghệ &
 Chuyển đổi số từ 10/07/2023
-4
 Vũ Thị Hải Phượng
-(Người được ủy quyền 
-CBTT từ 31/05/2023)
-Phó Chủ tịch, 
-Thành viên 
-HĐQT không 
+(Người được ủy quyền
+Phó Chủ tịch,
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27/04/2019
-29/29
-100%
-TV HĐQT, Ủy ban Quản trị 
-cấp cao, Ủy ban Nhân sự, Hội 
-đồng thi đua khen thưởng 
-cấp HĐQT, Thành viên Ban 
-Chỉ đạo xây dựng Chiến lược 
-MB 2022-2026.Thành viên Ủy 
-ban Công nghệ & Chuyển đổi 
-số từ 10/07/2023
-TV Hội đồng xử lý rủi ro 
-đến 08/06/2023; Chủ tịch 
-Hội đồng Xử lý rủi ro từ 
-08/06/2023
-Chủ nhiệm Ủy ban QLRR và 
-Chủ tịch Hội đồng Thi đua 
-khen thưởng cấp cơ sở các 
-cơ quan HĐQT, BKS và các 
+Bắt đầu là
+Thành viên HĐQT
+TV HĐQT, Ủy ban Quản trị
+cấp cao, Ủy ban Nhân sự, Hội
+đồng thi đua khen thưởng
+cấp HĐQT, Thành viên Ban
+Chỉ đạo xây dựng Chiến lược
+MB 2022-2026.Thành viên Ủy
+ban Công nghệ & Chuyển đổi
+TV Hội đồng xử lý rủi ro
+Hội đồng Xử lý rủi ro từ
+Chủ nhiệm Ủy ban QLRR và
+Chủ tịch Hội đồng Thi đua
+khen thưởng cấp cơ sở các
+cơ quan HĐQT, BKS và các
 công tythành viên
 Chi tiết các phiên họp Hội đồng Quản trị và các Ủy ban, Hội đồng thuộc Hội đồng Quản trị 2023, như sau:
-HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ (TIẾP THEO) 
-STT 
+HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ (TIẾP THEO)
 Thành viên HĐQT
-Chức vụ (thành 
-viên HĐQT độc 
-lập, thành viên 
-HĐQT không 
+Chức vụ (thành
+viên HĐQT độc
+lập, thành viên
+HĐQT không
 điều hành)
 Ngày bắt đầu/
-không còn là 
+không còn là
 thành viên HĐQT
-Số 
-buổi 
-họp 
-/ủy 
-quyền 
-tham 
-dự 
-Tỷ lệ 
-tham 
-dự 
-họp
-Lý do 
-không 
-tham dự 
-họp
+buổi
+quyền
+tham
+Tỷ lệ
+tham
+Lý do
+không
+tham dự
 Ghi chú
-5
 Nguyễn Thị Ngọc
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-23.04.2014
-Tái bổ nhiệm ngày 
-27/04/2019
-27/27
-100%
-Thành viên HĐQT, Ủy ban Quản 
-trị cấp cao, Ủy ban QLRR, Ủy ban 
-Nhân sự, Hội đồng xử lý rủi ro, Hội 
-đồng thi đua khen thưởng cấp 
-HĐQT, Hội đồng Thi đua khen 
-thưởng cấp cơ sở các cơ quan 
-HĐQT, BKS và các công ty thành 
-viên, Thành viên Ban Chỉ đạo xây 
+Tái bổ nhiệm ngày
+Thành viên HĐQT, Ủy ban Quản
+trị cấp cao, Ủy ban QLRR, Ủy ban
+Nhân sự, Hội đồng xử lý rủi ro, Hội
+đồng thi đua khen thưởng cấp
+HĐQT, Hội đồng Thi đua khen
+thưởng cấp cơ sở các cơ quan
+HĐQT, BKS và các công ty thành
+viên, Thành viên Ban Chỉ đạo xây
 dựng Chiến lược MB 2022-2026
-6
 Nguyễn Thị Thủy
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-23.04.2014
-Tái bổ nhiệm ngày 
-27/04/2019
-27/27
-100%
- 
-Thành viên HĐQT, Ủy ban Quản 
-trị cấp cao, Ủy ban QLRR, Ủy ban 
-Nhân sự, Hội đồng xử lý rủi ro, Hội 
-đồng thi đua khen thưởng cấp 
-HĐQT, Hội đồng Thi đua khen 
-thưởng cấp cơ sở các cơ quan 
-HĐQT, BKS và các công ty thành 
-viên, Thành viên Ban Chỉ đạo xây 
+Tái bổ nhiệm ngày
+Thành viên HĐQT, Ủy ban Quản
+trị cấp cao, Ủy ban QLRR, Ủy ban
+Nhân sự, Hội đồng xử lý rủi ro, Hội
+đồng thi đua khen thưởng cấp
+HĐQT, Hội đồng Thi đua khen
+thưởng cấp cơ sở các cơ quan
+HĐQT, BKS và các công ty thành
+viên, Thành viên Ban Chỉ đạo xây
 dựng Chiến lược MB 2022-2026
-7
 Lê Viết Hải
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27.04.2019
-27/27
-100%
-Thành viên HĐQT, Ủy ban Quản 
-trị cấp cao, Ủy ban QLRR, Ủy ban 
-Nhân sự, Hội đồng xử lý rủi ro, Hội 
-đồng thi đua khen thưởng cấp 
-HĐQT, Hội đồng Thi đua khen 
-thưởng cấp cơ sở các cơ quan 
-HĐQT, BKS và các công ty thành 
-viên, Thành viên Ban Chỉ đạo xây 
+Bắt đầu là
+Thành viên HĐQT
+Thành viên HĐQT, Ủy ban Quản
+trị cấp cao, Ủy ban QLRR, Ủy ban
+Nhân sự, Hội đồng xử lý rủi ro, Hội
+đồng thi đua khen thưởng cấp
+HĐQT, Hội đồng Thi đua khen
+thưởng cấp cơ sở các cơ quan
+HĐQT, BKS và các công ty thành
+viên, Thành viên Ban Chỉ đạo xây
 dựng Chiến lược MB 2022-2026
-8
 Kiều Đặng Hùng
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27.04.2019
-6/6
-100%
+Bắt đầu là
 Thành viên HĐQT
-9
+Thành viên HĐQT
 Ngô Minh Thuấn
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27.04.2019
-6/6
-100%
+Bắt đầu là
 Thành viên HĐQT
-10
+Thành viên HĐQT
 Vũ Thái Huyền
-Thành viên 
-HĐQT không 
+Thành viên
+HĐQT không
 điều hành
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27.04.2019
-13/14
-Lịch công 
-tác
+Bắt đầu là
 Thành viên HĐQT
-TV Ủy ban Quản trị cấp cao, Ủy 
+Lịch công
+Thành viên HĐQT
+TV Ủy ban Quản trị cấp cao, Ủy
 ban QLRR
-11
 Trần Trung Tín
-Thành viên 
-HĐQT độc lập 
-Bắt đầu là 
-Thành viên HĐQT 
-từ 27.04.2019
-12/12
-100%
+Thành viên
+HĐQT độc lập
+Bắt đầu là
+Thành viên HĐQT
 Thành viên HĐQT, Ủy ban QLRR
 
 Chương 4: Nâng tầm quản trị tiến bước tương lai
-84
-85
-Báo cáo thường niên 2023
 HOẠT ĐỘNG CÁC UỶ BAN THUỘC HĐQT
 ỦY BAN QUẢN TRỊ CẤP CAO
-Tham mưu, tư vấn cho HĐQT, Chủ tịch HĐQT các vấn 
-đề thuộc nhiệm vụ, quyền hạn của HĐQT, Chủ tịch HĐQT; 
-giúp HĐQT giải quyết kịp thời các công việc và giám sát 
-của quản lý cấp cao. Năm 2023, Ủy ban đã tổ chức họp 03 
-cuộc và lấy ý kiến bằng văn bản 05 lần; thực hiện các công 
-việc thuộc thẩm quyền của Ủy ban, gồm: tham vấn ý kiến 
-cho HĐQT/Chủ tịch HĐQT về công tác tổ chức ĐHĐCĐ 
-thường niên 2023 của MB và các công ty thành viên, 
-định hướng xây dựng Kế hoạch 2024 của Tập đoàn và 
-MB, các phương án mua sắm và kết quả lựa chọn 
+Tham mưu, tư vấn cho HĐQT, Chủ tịch HĐQT các vấn
+đề thuộc nhiệm vụ, quyền hạn của HĐQT, Chủ tịch HĐQT;
+giúp HĐQT giải quyết kịp thời các công việc và giám sát
+của quản lý cấp cao. Năm 2023, Ủy ban đã tổ chức họp 03
+cuộc và lấy ý kiến bằng văn bản 05 lần; thực hiện các công
+việc thuộc thẩm quyền của Ủy ban, gồm: tham vấn ý kiến
+cho HĐQT/Chủ tịch HĐQT về công tác tổ chức ĐHĐCĐ
+thường niên 2023 của MB và các công ty thành viên,
+định hướng xây dựng Kế hoạch 2024 của Tập đoàn và
+MB, các phương án mua sắm và kết quả lựa chọn
 nhà cung cấp theo quy định.
 ỦY BAN NHÂN SỰ
-Có chức năng tham mưu, tư vấn HĐQT/Chủ tịch HĐQT các vấn đề liên 
-quan đến tổ chức, nhân sự, đãi ngộ của MB và các công ty thành viên; trợ 
-giúp HĐQT thực hiện giám sát của quản lý cấp cao về các vấn đề tổ chức, 
-nhân sự, đãi ngộ… Năm 2023, Ủy ban thực hiện hiệu quả các công việc 
-thuộc thẩm quyền, gồm:  tổ chức họp 09 cuộc và lấy ý kiến bằng văn bản 
-01 lần; xem xét đánh giá thi đua khen thưởng năm 2022, kỳ 1. 2023; xem xét 
-các đề xuất danh hiệu khen thưởng ngoài MB năm 2023, tham vấn các nội 
-dung thuộc thẩm quyền HĐQT (Mô hình tổ chức của Khối Pháp chế và Tuân 
-thủ; Mô hình tổ chức toàn hàng sau khi thành lập Khối Pháp chế và Tuân 
-thủ; cơ cấu, số lượng, tiêu chuẩn, điều kiện đối với nhân sự dự kiến bầu 
-HĐQT, BKS MB nhiệm kỳ 2024 - 2029...) và các nội dung thuộc thẩm 
-quyền Chủ tịch HĐQT (định hướng bổ nhiệm nhân sự một số vị trí 
-Giám đốc và Phó Khối Hội sở, một số Giám đốc Chi nhánh, 
+Có chức năng tham mưu, tư vấn HĐQT/Chủ tịch HĐQT các vấn đề liên
+quan đến tổ chức, nhân sự, đãi ngộ của MB và các công ty thành viên; trợ
+giúp HĐQT thực hiện giám sát của quản lý cấp cao về các vấn đề tổ chức,
+nhân sự, đãi ngộ… Năm 2023, Ủy ban thực hiện hiệu quả các công việc
+thuộc thẩm quyền, gồm:  tổ chức họp 09 cuộc và lấy ý kiến bằng văn bản
+01 lần; xem xét đánh giá thi đua khen thưởng năm 2022, kỳ 1. 2023; xem xét
+các đề xuất danh hiệu khen thưởng ngoài MB năm 2023, tham vấn các nội
+dung thuộc thẩm quyền HĐQT (Mô hình tổ chức của Khối Pháp chế và Tuân
+thủ; Mô hình tổ chức toàn hàng sau khi thành lập Khối Pháp chế và Tuân
+thủ; cơ cấu, số lượng, tiêu chuẩn, điều kiện đối với nhân sự dự kiến bầu
+HĐQT, BKS MB nhiệm kỳ 2024 - 2029...) và các nội dung thuộc thẩm
+quyền Chủ tịch HĐQT (định hướng bổ nhiệm nhân sự một số vị trí
+Giám đốc và Phó Khối Hội sở, một số Giám đốc Chi nhánh,
 Lãnh đạo cấp cao của các công ty thành viên…)…
 ỦY BAN QUẢN LÝ RỦI RO
-Có chức năng tham mưu cho HĐQT các vấn đề về hệ thống 
-QLRR và tuân thủ của Tập đoàn, MB, công ty thành viên; giúp 
-việc HĐQT thực hiện giám sát của quản lý cấp cao về hệ thống 
-kiểm soát nội bộ, hệ thống QLRR, tuân thủ và đánh giá nội bộ về 
-mức đủ vốn. Năm 2023, Ủy ban đã thực hiện hiệu quả các công việc 
-thuộc thẩm quyền, gồm: tổ chức họp 06 cuộc; thực hiện các công 
-việc thuộc thẩm quyền của Ủy ban, gồm: xem xét, đánh giá về tình 
-hình rủi ro và tuân thủ đến hết Quý IV/2022, các quý I, II và III 
-năm 2023 của MB và các Công ty thành viên; nghiên cứu, thảo 
-luận theo các chuyên đề (dự thảo Chính sách QLRR sửa đổi, 
-dự án Khung tuân thủ, Nghị định 13/2023/NĐ-CP ngày 
-17/04/2023 về Bảo vệ Dữ liệu cá nhân, phương án và 
+Có chức năng tham mưu cho HĐQT các vấn đề về hệ thống
+QLRR và tuân thủ của Tập đoàn, MB, công ty thành viên; giúp
+việc HĐQT thực hiện giám sát của quản lý cấp cao về hệ thống
+kiểm soát nội bộ, hệ thống QLRR, tuân thủ và đánh giá nội bộ về
+mức đủ vốn. Năm 2023, Ủy ban đã thực hiện hiệu quả các công việc
+thuộc thẩm quyền, gồm: tổ chức họp 06 cuộc; thực hiện các công
+việc thuộc thẩm quyền của Ủy ban, gồm: xem xét, đánh giá về tình
+hình rủi ro và tuân thủ đến hết Quý IV/2022, các quý I, II và III
+năm 2023 của MB và các Công ty thành viên; nghiên cứu, thảo
+luận theo các chuyên đề (dự thảo Chính sách QLRR sửa đổi,
+dự án Khung tuân thủ, Nghị định 13/2023/NĐ-CP ngày
+17/04/2023 về Bảo vệ Dữ liệu cá nhân, phương án và
 lộ trình dự kiến triển khai Basel III…..)
 ỦY BAN CÔNG NGHỆ VÀ CHUYỂN ĐỔI SỐ
-Được HĐQT thông qua việc thành lập ngày 
-08/06/2023; có chức năng tham mưu, tư vấn và trợ 
-giúp cho HĐQT/Chủ tịch HĐQT trong lĩnh vực/hoạt 
-động công nghệ, dữ liệu, chuyển đổi số của MB, công 
-ty thành viên, Tập đoàn. Năm 2023, Ủy ban Công 
-nghệ & Chuyển đổi số đã tổ chức 02 lần họp để 
-tham mưu định hướng về: việc triển khai Nghị 
-định 13/2023/NĐ-CP tại MB; Kế hoạch công 
+Được HĐQT thông qua việc thành lập ngày
+08/06/2023; có chức năng tham mưu, tư vấn và trợ
+giúp cho HĐQT/Chủ tịch HĐQT trong lĩnh vực/hoạt
+động công nghệ, dữ liệu, chuyển đổi số của MB, công
+ty thành viên, Tập đoàn. Năm 2023, Ủy ban Công
+nghệ & Chuyển đổi số đã tổ chức 02 lần họp để
+tham mưu định hướng về: việc triển khai Nghị
+định 13/2023/NĐ-CP tại MB; Kế hoạch công
 nghệ, số và dữ liệu năm 2024.
-Số cuộc họp 
+Số cuộc họp
 trong năm
-03 
-Số cuộc họp 
+Số cuộc họp
 trong năm
-06 
-Số cuộc họp 
+Số cuộc họp
 trong năm
-02 
-Số cuộc họp 
+Số cuộc họp
 trong năm
-09
 
 Chương 4: Nâng tầm quản trị tiến bước tương lai
-86
-87
-Báo cáo thường niên 2023
-Tại MB, cơ quan Kiểm toán nội bộ là đơn vị trực thuộc Ban Kiểm soát, đóng vai trò tuyến bảo vệ thứ ba trong mô hình 3 tuyến bảo vệ, 
-thực hiện kiểm toán nội bộ và rà soát độc lập về hiệu quả hoạt động của tuyến bảo vệ thứ nhất và tuyến bảo vệ thứ hai; thực hiện 
-kiểm toán và tư vấn về hoạt động giám sát của quản lý cấp cao đối với Hội đồng quản trị, Tổng Giám đốc. Cơ quan Kiểm toán nội 
-bộ thực hiện rà soát, đánh giá độc lập, khách quan đối với hệ thống kiểm soát nội bộ; đánh giá độc lập về tính thích hợp và sự tuân 
-thủ quy định, chính sách nội bộ, thủ tục, quy trình đã được thiết lập; đưa ra kiến nghị nhằm nâng cao hiệu quả của các hệ thống, quy 
+Tại MB, cơ quan Kiểm toán nội bộ là đơn vị trực thuộc Ban Kiểm soát, đóng vai trò tuyến bảo vệ thứ ba trong mô hình 3 tuyến bảo vệ,
+thực hiện kiểm toán nội bộ và rà soát độc lập về hiệu quả hoạt động của tuyến bảo vệ thứ nhất và tuyến bảo vệ thứ hai; thực hiện
+kiểm toán và tư vấn về hoạt động giám sát của quản lý cấp cao đối với Hội đồng quản trị, Tổng Giám đốc. Cơ quan Kiểm toán nội
+bộ thực hiện rà soát, đánh giá độc lập, khách quan đối với hệ thống kiểm soát nội bộ; đánh giá độc lập về tính thích hợp và sự tuân
+thủ quy định, chính sách nội bộ, thủ tục, quy trình đã được thiết lập; đưa ra kiến nghị nhằm nâng cao hiệu quả của các hệ thống, quy
 trình, quy định, góp phần bảo đảm MB hoạt động an toàn, hiệu quả, đúng pháp luật.
 Hoạt động của Cơ quan kiểm toán nội bộ
-Năm 2023 nền kinh tế Việt Nam tiếp tục đối mặt với nhiều thách thức: tăng trưởng GDP và mức độ hấp thụ vốn của nền kinh tế đạt 
-mức thấp; tăng trưởng tín dụng không đạt mục tiêu của Chính phủ; nợ xấu tăng cao; tình hình hoạt động của các doanh nghiệp tiếp 
-tục khó khăn. Đối mặt với những thách thức và khó khăn chung, BKS MB đã chủ động triển khai nhiệm vụ bám sát tình hình hoạt 
-động của MB trên cơ sở tuân thủ quy định Pháp luật, Điều lệ MB, Quy chế tổ chức và hoạt động của BKS và Quyết nghị của Đại hội 
-đồng cổ đông.
+Năm 2023 nền kinh tế Việt Nam tiếp tục đối mặt với nhiều thách thức: tăng trưởng GDP và mức độ hấp thụ vốn của nền kinh tế đạt
+mức thấp; tăng trưởng tín dụng không đạt mục tiêu của Chính phủ; nợ xấu tăng cao; tình hình hoạt động của các doanh nghiệp tiếp
+tục khó khăn. Đối mặt với những thách thức và khó khăn chung, BKS MB đã chủ động triển khai nhiệm vụ bám sát tình hình hoạt
+động của MB trên cơ sở tuân thủ quy định Pháp luật, Điều lệ MB, Quy chế tổ chức và hoạt động của BKS và Quyết nghị của Đại hội
 Tổng hợp thông tin các buổi họp của BKS trong năm 2023 như sau:
-Trong năm qua, BKS đã tổ chức 12 phiên làm việc định kỳ hàng quý và đột xuất để triển khai nhiệm vụ giám sát cấp cao đối với MB và 
-hoạt động kiểm toán nội bộ; phối hợp hiệu quả với HĐQT và BĐH trong triển khai nhiệm vụ giám sát; định hướng, chỉ đạo hoạt động 
-kiểm toán nội bộ MB và người đại diện của MB là Trưởng BKS/Kiểm soát viên/ Chủ nhiệm UBKT tại các Công ty thành viên triển khai 
-và hoàn thành tốt kế hoạch năm 2023. Bên cạnh đó, BKS đã chỉ đạo tổ chức các chương trình tọa đàm, chia sẻ, học tập nâng cao 
-năng lực hoạt động kiểm soát, kiểm toán nội bộ với các đối tác là các Công ty Tư vấn – Kiểm toán đa quốc gia về các chủ đề như: Xu 
+Trong năm qua, BKS đã tổ chức 12 phiên làm việc định kỳ hàng quý và đột xuất để triển khai nhiệm vụ giám sát cấp cao đối với MB và
+hoạt động kiểm toán nội bộ; phối hợp hiệu quả với HĐQT và BĐH trong triển khai nhiệm vụ giám sát; định hướng, chỉ đạo hoạt động
+kiểm toán nội bộ MB và người đại diện của MB là Trưởng BKS/Kiểm soát viên/ Chủ nhiệm UBKT tại các Công ty thành viên triển khai
+và hoàn thành tốt kế hoạch năm 2023. Bên cạnh đó, BKS đã chỉ đạo tổ chức các chương trình tọa đàm, chia sẻ, học tập nâng cao
+năng lực hoạt động kiểm soát, kiểm toán nội bộ với các đối tác là các Công ty Tư vấn – Kiểm toán đa quốc gia về các chủ đề như: Xu
 thế kiểm soát, kiểm toán theo thông lệ tốt; kiểm toán BCTC theo IFRS…
 HOẠT ĐỘNG CỦA BKS VÀ CƠ QUAN KIỂM TOÁN NỘI BỘ
 Hoạt động của Ban kiểm soát
-STT
 Thành viên BKS
 Chức vụ
 Ngày bắt đầu/
-không còn là 
+không còn là
 thành viên BKS
-Số buổi họp tham 
-dự/ủy quyền tham 
-dự, đóng góp ý 
+Số buổi họp tham
+dự/ủy quyền tham
+dự, đóng góp ý
 kiến tại buổi họp
-Tỷ lệ tham dự/ủy 
-quyền tham dự, 
-đóng góp ý kiến 
+Tỷ lệ tham dự/ủy
+quyền tham dự,
+đóng góp ý kiến
 trong buổi họp
-Lý do không tham 
+Lý do không tham
 dự họp
-1
 Lê Thị Lợi
 Trưởng BKS
-27/04/2019
-12/12
-100%
-Có lịch công tác 
-và đã gửi ý kiến, 
-ủy quyền chỉ đạo 
-triển khai cuộc 
+Có lịch công tác
+và đã gửi ý kiến,
+ủy quyền chỉ đạo
+triển khai cuộc
 họp (1 lần)
-2
 Nguyễn Thị An Bình
 Phó Trưởng BKS
-24/06/2020
-12/12
-100%
-Có lịch công tác 
-và đã gửi ý kiến 
-bằng văn bản (1 
-lần)
-3
+Có lịch công tác
+và đã gửi ý kiến
+bằng văn bản (1
 Đỗ Thị Tuyết Mai
 Thành viên BKS
-27/04/2019
-12/12
-100%
-4
 Đỗ Văn Hưng
 Thành viên BKS
-29/03/2018
-Tái bổ nhiệm ngày 
-27/04/2019
-12/12
-100%
-Năm 2023, Cơ quan Kiểm toán nội bộ đã nỗ lực triển khai các chương trình kiểm toán/tư vấn vượt kế hoạch đề ra, đồng thời triển 
-khai kịp thời các yêu cầu kiểm tra, rà soát của các cơ quan quản lý. Nội dung các chương trình kiểm toán/tư vấn/rà soát tập trung 
-vào các mảng hoạt động lõi của Ngân hàng như hoạt động cho vay và bảo lãnh, triển khai kinh doanh trên nền tảng số, quản lý về 
-công nghệ thông tin, ứng dụng mô hình trong hoạt động… Chất lượng tham mưu, tư vấn thông qua kết quả kiểm toán tiếp tục được 
-duy trì và phát huy, kết quả kiểm toán giúp MB kiện toàn hệ thống kiểm soát nội bộ và quản lý rủi ro, các kiến nghị/tư vấn được Ban 
-lãnh đạo, các đơn vị ghi nhận, đánh giá cao và tích cực chỉnh sửa, qua đó góp phần tăng doanh thu, tối ưu chi phí, nâng cao hiệu 
-quả hoạt động quản trị điều hành tại MB. 
-Bên cạnh đó, Cơ quan Kiểm toán nội bộ đẩy mạnh việc triển khai các giải pháp Chiến lược với mục tiêu chuyển đổi năng lực và nâng 
-mức độ trưởng thành của hoạt động kiểm toán nội bộ, trong đó tập trung vào: kiện toàn nguồn nhân lực kiểm toán nội bộ, tăng 
-cường tự động hóa và ứng dụng công cụ phân tích dữ liệu lớn vào các chương trình kiểm toán, nghiên cứu đổi mới phương pháp 
+Tái bổ nhiệm ngày
+Năm 2023, Cơ quan Kiểm toán nội bộ đã nỗ lực triển khai các chương trình kiểm toán/tư vấn vượt kế hoạch đề ra, đồng thời triển
+khai kịp thời các yêu cầu kiểm tra, rà soát của các cơ quan quản lý. Nội dung các chương trình kiểm toán/tư vấn/rà soát tập trung
+vào các mảng hoạt động lõi của Ngân hàng như hoạt động cho vay và bảo lãnh, triển khai kinh doanh trên nền tảng số, quản lý về
+công nghệ thông tin, ứng dụng mô hình trong hoạt động… Chất lượng tham mưu, tư vấn thông qua kết quả kiểm toán tiếp tục được
+duy trì và phát huy, kết quả kiểm toán giúp MB kiện toàn hệ thống kiểm soát nội bộ và quản lý rủi ro, các kiến nghị/tư vấn được Ban
+lãnh đạo, các đơn vị ghi nhận, đánh giá cao và tích cực chỉnh sửa, qua đó góp phần tăng doanh thu, tối ưu chi phí, nâng cao hiệu
+quả hoạt động quản trị điều hành tại MB.
+Bên cạnh đó, Cơ quan Kiểm toán nội bộ đẩy mạnh việc triển khai các giải pháp Chiến lược với mục tiêu chuyển đổi năng lực và nâng
+mức độ trưởng thành của hoạt động kiểm toán nội bộ, trong đó tập trung vào: kiện toàn nguồn nhân lực kiểm toán nội bộ, tăng
+cường tự động hóa và ứng dụng công cụ phân tích dữ liệu lớn vào các chương trình kiểm toán, nghiên cứu đổi mới phương pháp
 kiểm toán nội bộ theo hướng Agile để tăng hiệu quả kiểm toán, sớm đưa ra các vấn đề nhận diện để các đơn vị chỉnh sửa kịp thời.
-
-Chương 4: Nâng tầm quản trị tiến bước tương lai
-88
-89
-Báo cáo thường niên 2023
-Với tầm nhìn chiến lược trở thành tập đoàn tài chính, doanh nghiệp chuyển đổi số toàn diện giai đoạn 2022 – 2026 của MB, Quản trị 
-rủi ro thông minh và vượt trội luôn là nền tảng trọng yếu ở các giai đoạn chiến lược. Trong năm 2023, công tác quản trị rủi ro tại MB 
-đã ứng dụng mạnh mẽ dữ liệu, mô hình, công cụ đo lường rủi ro vừa đảm bảo nâng cao năng lực quản trị nội bộ vừa hỗ trợ hoạt 
-động kinh doanh toàn diện của ngân hàng. MB luôn là ngân hàng tiên phong ứng dụng các tiêu chuẩn quản trị rủi ro theo thông lệ 
-quốc tế, trở thành một trong những ngân hàng đầu tiên đáp ứng tiêu chuẩn Basel II cho cả 3 trụ cột từ năm 2020 và tiếp tục ứng 
-dụng các tiêu chuẩn này trong hoạt động của MB, chuẩn bị tiệm cận triển khai Basel III trong những năm tiếp theo.
-Với việc tuân thủ các nội dung quy định tại Thông tư 13 của NHNN và áp dụng các thông lệ của Ủy ban Basel, MB tiếp tục tổ chức 
-kiện toàn bộ máy quản lý thông qua việc ứng dụng mô hình 3 tuyến bảo vệ đảm bảo phân tách rõ ràng chức năng, nhiệm vụ của 
-các đơn vị, tăng ý thức trách nhiệm của toàn Ngân hàng trong việc nhận diện, đánh giá, theo dõi và kiểm soát rủi ro. Trong đó, các 
-khâu tiềm ẩn rủi ro xung đột lợi ích (bán hàng, thẩm định, phê duyệt và vận hành) được thực hiện bởi các đơn vị độc lập nhau, đảm 
-bảo khách quan, minh bạch. Đồng thời, để kiểm soát tốt rủi ro, hạn chế phát sinh lỗi do sai sót/cố ý vi phạm, MB đã ứng dụng các hệ 
-thống công nghệ tiên tiến, tổ chức tập trung tại Hội sở các chức năng: thẩm định, phê duyệt, vận hành; kế toán – tài chính, nhân sự, 
-công nghệ thông tin. Theo đó, các chi nhánh, đơn vị kinh doanh của MB được giải phóng nguồn lực tối đa để phát triển kinh doanh, 
-nhưng vẫn đảm bảo rủi ro được kiểm soát khi quy mô kinh doanh và khối lượng giao dịch/số lượng khách hàng ngày càng lớn.
-Tại MB, hoạt động giám sát và báo cáo được triển khai bao gồm các báo cáo rủi ro nội bộ đến HĐQT, Ủy ban Quản lý rủi ro và báo 
-cáo hàng năm về quản lý rủi ro gửi NHNN , trong đó các báo cáo luôn cập nhật kịp thời các tồn tại, hạn chế trong công tác quản lý rủi 
-ro, nhận diện các rủi ro mới phát sinh tại MB và toàn Tập đoàn, là cơ sở để các cấp thẩm quyền ra quyết định trong toàn ngân hàng.
-Quản trị rủi ro
-Cơ cấu quản trị rủi ro
-Cấp
-HĐQT/
-BKS
-Cấp
-Ban
-điều
-hành
-Cấp
-Nghiệp
-vụ
-Chức 
-năng kinh 
-doanh tạo 
-ra doanh 
-thu, thực 
-hiện 
-quyết 
-định có 
-rủi ro
-Chức năng phân 
-bổ hạn mức rủi ro, 
-kiểm soát rủi ro 
-với từng loại giao 
-dịch, hoạt động
-kinh doanh
-Chức 
-năng 
-kế toán, 
-nhân sự
-Cấp
-Thực Thi
-“Thực hiện 
-QLRR”
-Giám sát 
-của Quản 
-lý cấp cao
-“Truyền 
-thông từ 
-cấp cao” 
-(“Tone 
-from the 
-top)
-Vòng (tuyến)
-bảo vệ thứ nhất
-Hội 
-đồng
-rủi ro
-Hội 
-đồng
-ALCO
-Uỷ ban 
-quản lý 
-rủi ro 
-Các chức năng 
-khác sở hữu và 
-quản lý rủi ro - đối 
-mặt trực tiếp với 
-rủi ro trong hoạt 
-động kinh doanh, 
-hỗ trợ và
-vận hành
-Kiểm 
-toán
-nội bộ
-Vòng (tuyến)
-bảo vệ thứ ba
-Quản lý rủi ro
-Tuân thủ
-Quản trị chất lượng
-Kiểm soát tài chính
-An ninh, an toàn
-Thanh tra/Điều tra
-Vòng (tuyến)
-bảo vệ thứ hai
-Hội 
-đồng
-quản lý
-vốn
-Hội 
-đồng
-khác
-BAN
-KIỂM 
-SOÁT
-HỘI 
-ĐỒNG 
-QUẢN 
-TRỊ
-TỔNG
-GIÁM 
-ĐỐC
-Uỷ ban
-nhân sự
-Uỷ ban
-khác
-Luồng báo cáo trực tiếp
-Luồng trao đổi, hỗ trợ thông tin
-Cơ cấu quản trị rủi ro
-HOẠT ĐỘNG CỦA QUẢN TRỊ RỦI RO VÀ KIỂM SOÁT NỘI BỘ

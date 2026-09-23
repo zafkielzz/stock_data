@@ -1,1049 +1,29 @@
-051
-BÁO CÁO THƯỜNG NIÊN 2021
-Báo cáo kiểm toán độc lập 
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (“Công 
-ty”) và các công ty con được lập ngày 31 tháng 12 năm 2021 và được Ban Tổng Giám đốc của Công ty phê chuẩn 
-ngày 7 tháng 3 năm 2022. Báo cáo tài chính hợp nhất này bao gồm: bảng cân đối kế toán hợp nhất tại ngày 31 
-tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho 
-năm tài chính kết thúc cùng ngày nêu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách 
-kế toán chủ yếu từ trang 5 đến trang 41.
-Ban Tổng Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính 
-hợp nhất của Công ty và các công ty con theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp 
-Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách 
-nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo 
-cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
-Trách nhiệm của Ban Tổng Giám đốc 
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. 
-Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng 
-tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để 
-đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Công ty và các công ty con có còn sai 
-sót trọng yếu hay không.
-Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và 
-thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm 
-toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm 
-lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty và các công ty 
-con liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục 
-kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát 
-nội bộ của Công ty và các công ty con. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các 
-chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc của Công ty 
-cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.  
-Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm 
-cơ sở cho ý kiến kiểm toán của chúng tôi.
-Trách nhiệm của Kiểm toán viên
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng 
-yếu, tình hình tài chính hợp nhất của Công ty và các công ty con tại ngày 31 tháng 12 năm 2021, cũng như kết 
-quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng 
-ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy 
-định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
-Ý kiến của Kiểm toán viên
-
-052
-BÁO CÁO THƯỜNG NIÊN 2021
-Báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 
-2020 đã được Công ty TNHH Deloitte Việt Nam kiểm toán và phát hành báo cáo kiểm toán với ý kiến kiểm toán 
-chấp nhận toàn phần vào ngày 30 tháng 3 năm 2021.
-Vấn đề khác
-Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
-Lương Thị Ánh Tuyết
-Số Giấy CN ĐKHN kiểm toán:
-3048-2019-006-1
-Chữ ký được ủy quyền
-Số hiệu báo cáo kiểm toán: HCM 11466
-TP. Hồ Chí Minh, ngày 7 tháng 3 năm 2022 
-Trần Khắc Thể
-Số Giấy CN ĐKHN kiểm toán:
-2043-2018-006-1
-
-053
-BÁO CÁO THƯỜNG NIÊN 2021
-Bảng cân đối kế toán hợp nhất
-Mẫu Số B 01-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-TÀI SẢN NGẮN HẠN
-Tiền và các khoản tương đương tiền
-Tiền
-Các khoản tương đương tiền
-Đầu tư tài chính ngắn hạn
-Đầu tư nắm giữ đến ngày đáo hạn
-Các khoản phải thu ngắn hạn
-Phải thu ngắn hạn của khách hàng
-Trả trước cho người bán ngắn hạn
-Phải thu về cho vay ngắn hạn
-Phải thu ngắn hạn khác
-Dự phòng phải thu ngắn hạn khó đòi
-Hàng tồn kho
-Hàng tồn kho
-Dự phòng giảm giá hàng tồn kho
-Tài sản ngắn hạn khác
-Chi phí trả trước ngắn hạn
-Thuế Giá trị Gia tăng (“GTGT”) được khấu trừ
-Thuế và các khoản khác phải thu Nhà nước
-TÀI SẢN DÀI HẠN
-Các khoản phải thu dài hạn
-Phải thu dài hạn khác
-Tài sản cố định
-Tài sản cố định hữu hình
-Nguyên giá
-Giá trị khấu hao lũy kế
-Tài sản cố định vô hình
-Nguyên giá
-Giá trị khấu hao lũy kế
-Tài sản dở dang dài hạn
-Chi phí xây dựng cơ bản dở dang
-Tài sản dài hạn khác
-Chi phí trả trước dài hạn
-Tài sản thuế thu nhập hoãn lại
-TỔNG TÀI SẢN
- 
- 
-100
-110
-111
-112
-120
-123
-130
-131
-132
-135
-136
-137
-140
-141
-149
-150
-151
-152
-153
-200
-210
-216
-220
-221
-222
-223
-227
-228
-229
-240
-242
-260
-261
-262
-270
-10.221.931.678.747
-1.105.209.549.882 
-679.938.797.236
-425.270.752.646 
-1.820.500.000.000 
-1.820.500.000.000 
-1.985.364.755.551
-80.725.494.654
-165.586.893.749 
-1.560.000.000.000 
-186.801.082.361
-(7.748.715.213)
-4.930.359.332.607 
- 4.975.973.822.810 
- (45.614.490.203)
-380.498.040.707 
- 163.029.953.119 
- 217.235.680.315 
- 232.407.273 
-564.137.050.760
-136.776.859.874
-136.776.859.874
-171.953.389.004 
-16.347.092.175 
-29.304.852.301 
-(12.957.760.126)
-155.606.296.829 
-162.787.719.740 
-(7.181.422.911)
-90.909.091
-90.909.091
-255.315.892.791
-254.447.768.017 
-868.124.774
-10.786.068.729.507 
-4.959.999.144.880
-701.504.239.398
-551.504.239.398
-150.000.000.000
-788.158.684.912
-788.158.684.912
-1.498.241.305.903
-172.584.643.781
- 93.596.830.533
- 885.000.000.000
- 405.045.636.978
- (57.985.805.389)
-1.826.717.690.762
- 1.853.134.198.142
-(26.416.507.380) 
-145.377.223.905
- 119.330.193.082
-26.045.172.004
- 1.858.819
-427.578.741.148
-116.400.384.163
- 116.400.384.163
-50.627.870.323
-8.708.246.794
- 14.159.992.286
-(5.451.745.492)
-41.919.623.529 
-46.875.627.990
- (4.956.004.461)
-0
-0
-260.550.486.662
-257.565.908.116
- 2.984.578.546
-5.387.577.886.028  
- 
-4
-5
-6
-7
-8
-9(a)
-10
-11
-12(a)
-16(a)
-9(b)
-13(a)
-13(b)
-12(b)
-TÀI SẢN
-Mã
-số
-Thuyết
-minh
-năm 2021
-năm 2020
-Đơn vị: VNĐ
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-
-054
-BÁO CÁO THƯỜNG NIÊN 2021
-Mẫu Số B 01-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-NỢ PHẢI TRẢ
-Nợ ngắn hạn
-Phải trả người bán ngắn hạn
-Người mua trả tiền trước ngắn hạn
-Thuế và các khoản phải nộp Nhà nước
-Phải trả người lao động
-Chi phí phải trả ngắn hạn
-Doanh thu chưa thực hiện ngắn hạn
-Phải trả ngắn hạn khác
-Vay ngắn hạn
-Quỹ khen thưởng, phúc lợi
-Nợ dài hạn
-  Phải trả dài hạn khác
-VỐN CHỦ SỞ HỮU
-Vốn chủ sở hữu
-Vốn góp của chủ sở hữu
-Cổ phiếu phổ thông có quyền biểu quyết
-Lợi nhuận sau thuế (“LNST”) chưa phân phối
-LNST chưa phân phối của các năm trước
- LNST chưa phân phối của năm nay
-Lợi ích cổ đông không kiểm soát
-TỔNG NGUỒN VỐN
-300
-310
-311
-312
-313
-314
-315
-318
-319
-320
-322
-330
-337
-400
-410
-411
-411a
-421
-421a
-421b
-429
-440
-9.106.794.490.746
-9.106.707.790.746
- 2.335.742.934.745
- 54.005.913.363
- 71.323.601.688
- 408.611.138.142
- 89.076.542.455
- 205.650.000
- 85.527.316.976
- 6.047.406.062.780
- 14.808.630.597
-86.700.000
-86.700.000
-1.679.274.238.761
- 1.679.274.238.761
-789.817.920.000
-789.817.920.000
-872.390.396.152
-423.908.570.033 
-448.481.826.119
-17.065.922.609
- 
-10.786.068.729.507
-4.162.447.981.264
-4.162.447.981.264
-1.214.790.045.465
-28.401.024.82
-31.619.901.384
-1.577.532.062
-219.972.444.070
-0
-162.944.770.886
- 2.485.948.231.980
- 17.194.030.597
-0
-0
- 
-1.225.129.904.764
- 1.225.129.904.764
-789.817.920.000
-789.817.920.000
- 423.908.570.033
- 404.926.443.124
-18.982.126.909
-11.403.414.731
- 
-5.387.577.886.028
- 
-14
-15
-16(b)
-17
-18
-19
-20, 21
-21
-NGUỒN VỐN
-Mã
-số
-Thuyết
-minh
-năm 2021
-năm 2020
-Đơn vị: VNĐ
-Bảng cân đối kế toán hợp nhất (tiếp theo)
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-Trần Thị Nga
-Người lập biểu/
-Kế toán trưởng
-Phạm Duy Hoàng Nam
-Giám đốc Tài chính
-Hoàng Trung Kiên
-Tổng Giám đốc
-Ngày 7 tháng 3 năm 2022
-
-055
-BÁO CÁO THƯỜNG NIÊN 2021
-Báo cáo kết quả hoạt động KD hợp nhất
-Mẫu Số B 02-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-Doanh thu bán hàng và cung cấp dịch vụ
-Các khoản giảm trừ doanh thu
-Doanh thu thuần về bán hàng và
-cung cấp dịch vụ
-Giá vốn hàng bán và dịch vụ cung cấp
-Lợi nhuận gộp về bán hàng và cung cấp DV
-Doanh thu hoạt động tài chính
-Chi phí tài chính
-- Trong đó: Chi phí lãi vay 
-Chi phí bán hàng
-Chi phí quản lý doanh nghiệp
-Lợi nhuận thuần từ hoạt động kinh doanh
-Thu nhập khác
-Chi phí khác
-Lợi nhuận/(lỗ) khác
-Tổng lợi nhuận kế toán trước thuế
-Chi phí thuế thu nhập doanh nghiệp
-(“TNDN”) hiện hành
-(Chi phí)/thu nhập thuế TNDN hoãn lại
-Lợi nhuận sau thuế TNDN
-Phân bổ cho:
-Cổ đông của Công ty mẹ
-Cổ đông không kiểm soát
-Lãi cơ bản trên cổ phiếu
-Lãi suy giảm trên cổ phiếu
-01
-02
-10               
-11
-20
-21
-22
-23
-25
-26
-30
-31
-32
- 
-40
-50
-51
-52
-60
-61
-62
-70
-71
-22.619.505.421.050 
-(124.544.012.968)
-22.494.961.408.082 
-(19.343.448.146.483)
-3.151.513.261.599 
-197.580.982.169 
-(146.245.489.692)
-(132.229.176.761)
- (2.071.124.789.339)
- (585.528.444.388)
-546.195.520.349 
-9.425.637.534 
-(1.480.892.306)
-7.944.745.228 
-554.140.265.577 
-(108.125.465.377)
-(2.116.453.772)
-443.898.346.428 
-443.732.167.619 
-166.178.809 
-5.618 
-5.618 
- 14.799.952.534.765
- 138.535.502.543 
- 14.661.417.032.222
- 
- 12.620.414.733.505
- 
- 2.041.002.298.717
- 70.749.420.260 
- 133.811.898.461 
- 113.682.404.790 
- 1.565.736.555.190 
- 397.884.049.877 
- 14.319.215.449
- 14.991.747.878 
- 883.584.837
- 
- 14.108.163.041
- 28.427.378.490
- 27.474.628.269
- (9.263.980.305)
- 10.216.730.526
- 
-24.718.596.246
- (14.501.865.720)
- 266
-266 
-24
-25
-26
-27
-28
-29
-30
-30
-22(a)
-22(b)
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
-năm 2021
-năm 2020
-Đơn vị: VNĐ
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-Trần Thị Nga
-Người lập biểu/
-Kế toán trưởng
-Phạm Duy Hoàng Nam
-Giám đốc Tài chính
-Hoàng Trung Kiên
-Tổng Giám đốc
-Ngày 7 tháng 3 năm 2022
-
-056
-BÁO CÁO THƯỜNG NIÊN 2021
-Báo cáo lưu chuyển tiền tệ hợp nhất
-Mẫu Số B 03-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG
-KINH DOANH 
-Lợi nhuận kế toán trước thuế
-Điều chỉnh cho các khoản:
-Khấu hao tài sản cố định (“TSCĐ”)
-(Hoàn nhập)/trích lập các khoản dự phòng
-Lỗ/(lãi) chênh lệch tỷ giá hối đoái do đánh giá
-lại các khoản mục tiền tệ có gốc ngoại tệ
-Lãi từ hoạt động đầu tư
-Chi phí lãi vay
-Lợi nhuận từ hoạt động kinh doanh trước
-những thay đổi vốn lưu động
-Giảm/(tăng) các khoản phải thu
-(Tăng)/giảm hàng tồn kho
-Tăng các khoản phải trả
-(Tăng)/giảm chi phí trả trước
-Tiền lãi vay đã trả
-Thuế TNDN đã nộp
-Tiền chi khác từ hoạt động kinh doanh
-Lưu chuyển tiền thuần từ hoạt động KD
-LƯU CHUYỂN TIỀN TỪ HOẠT
-ĐỘNG ĐẦU TƯ
-Tiền chi để mua sắm, xây dựng TSCĐ
-Tiền chi cho vay, mua các công cụ nợ của
-đơn vị khác
-Tiền thu hồi cho vay, bán lại các công cụ nợ
-của đơn vị khác
-Tiền chi đầu tư góp vốn vào đơn vị khác
-Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia
-Lưu chuyển tiền thuần từ hoạt động đầu tư
-01
-02
-03
-04
-05
-06
-08
-09
-10
-11
-12
-14
-15
-17
-20
-21
-23
-24
-25
-27
-30
-554.140.265.577 
-3.810.973.807
-(31.039.107.353)
-7.513.094.690 
-(169.344.292.160)
-132.229.176.761 
-497.310.111.322
-51.733.888.537
- (3.122.839.624.668)
- 1.353.540.747.211 
- (40.581.619.938)
- (120.489.823.926)
- (90.641.021.151)
-(2.385.400.000)
-(1.474.352.742.613)
-(2.087.950.766)
-(12.892.435.886.578)
-11.185.094.571.490
- 
-(120.627.928.834)
- 143.926.511.675 
- (1.686.130.683.013)
-28.427.378.490
- 1.372.163.399 
- 34.392.956.980 
- (75.365.966)
- (55.870.719.645)
- 113.682.404.790 
-121.928.818.048
- (79.329.822.257)
- 1.545.958.217.975 
- 65.446.926.710 
- 8.228.059.824 
- (114.531.622.270)
- (23.606.280.229)
- (5.761.400.376)
-  1.518.332.897.425  
- (3.429.075.142)
- (1.549.982.232.750)
- 1.098.825.790.697
-0
- 58.323.657.870 
-  (396.261.859.325) 
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
-năm 2021
-năm 2020
-Đơn vị: VNĐ
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-Trần Thị Nga
-Người lập biểu/
-Kế toán trưởng
-Phạm Duy Hoàng Nam
-Giám đốc Tài chính
-Hoàng Trung Kiên
-Tổng Giám đốc
-Ngày 7 tháng 3 năm 2022
-
-057
-BÁO CÁO THƯỜNG NIÊN 2021
-Mẫu Số B 03-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG
-TÀI CHÍNH
-Tiền thu từ phát hành cổ phiếu, nhận vốn góp
-của chủ sở hữu
-Tiền thu đi vay
-Tiền chi trả nợ gốc vay
-Tiền chi trả cổ tức, lợi nhuận đã trả cho 
-chủ sở hữu
-Lưu chuyển tiền thuần từ hoạt động
-tài chính
-Lưu chuyển tiền thuần trong năm
-Tiền và tương đương tiền đầu năm
-Ảnh hưởng của thay đổi tỷ giá hối đoái
- quy đổi ngoại tệ 
-Tiền và tương đương tiền cuối năm
-31
-33
-34
-36
-40
-50
-60
-61
-70
-4
-4
- 
-10.244.000.000
- 14.976.648.751.486 
- (11.422.699.256.314)
-0
-3.564.193.495.172
-403.710.069.546 
-701.504.239.398 
-(4.759.062)
-1.105.209.549.882 
-18.232.000.000
- 10.586.373.171.060 
- (11.798.460.513.115)
-(78.981.792.000)
-(1.272.837.134.055)
-(150.766.095.955)
-852.194.969.387
-75.365.966
-    
-701.504.239.398
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
-năm 2021
-năm 2020
-Đơn vị: VNĐ
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-Báo cáo lưu chuyển tiền tệ hợp nhất (tiếp theo)
-Trần Thị Nga
-Người lập biểu/
-Kế toán trưởng
-Phạm Duy Hoàng Nam
-Giám đốc Tài chính
-Hoàng Trung Kiên
-Tổng Giám đốc
-Ngày 7 tháng 3 năm 2022
-
-058
-BÁO CÁO THƯỜNG NIÊN 2021
-Mẫu Số B 09-DN/HN
-Tại ngày 31 tháng 12 năm 2020/2021
-Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này
-Thuyết minh báo cáo tài chính hợp nhất
-Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (“Công ty”) là một công ty cổ phần được thành lập tại nước CHXHCN Việt 
-Nam theo Giấy chứng nhận đăng ký doanh nghiệp số 0311609355 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí 
-Minh cấp lần đầu ngày 8 tháng 3 năm 2012 và Giấy chứng nhận đăng ký doanh nghiệp được thay đổi gần nhất (lần 
-thứ 51) vào ngày 18 tháng 3 năm 2021.
-Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt 
-Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Báo cáo tài chính 
-hợp nhất được lập theo nguyên tắc giá gốc.
-Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động kinh 
-doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước 
-và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể 
-khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
-Cơ sở của việc lập báo cáo tài chính hợp nhất
-Ngày 17 tháng 4 năm 2018, cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán thành phố Hồ Chí 
-Minh theo quyết định số 139/QĐ-SGDHCM với mã giao dịch cổ phiếu là FRT. 
-Hoạt động chính của Công ty là kinh doanh bán lẻ các sản phẩm kỹ thuật số di động bao gồm Điện thoại di động, 
-Máy tính bảng, Laptop, Phụ kiện, Dịch vụ công nghệ, hoạt động viễn thông không dây và hoạt động dịch vụ tài 
-chính khác.
-Chu kỳ sản xuất kinh doanh thông thường của Công ty và các công ty con là 12 tháng. 
-Tại ngày 31 tháng 12 năm 2021, 
-Công ty và các công ty con có 
-10.078 nhân viên (tại ngày 31 
-tháng 12 năm 2020: 7.123 nhân 
-viên).
-Đặc điểm hoạt động của công ty
-Các chính sách kế toán chủ yếu 
-Tên công ty
-Hoạt động chính
-Nơi thành lập,
-đăng ký
-hoạt động
-Tỷ lệ sở hữu và
-biểu quyết nắm giữ
-Năm 2021
-Năm 2020
-Công ty CP Dược phẩm
-FPT Long Châu
-Kinh doanh
-dược phẩm
-Thành phố 
-Hồ Chí Minh
-85,07%
-88.5%
-Công ty CP Hữu Nghị Việt Hàn
-(công ty con được mua trong năm 2021)
-Dịch vụ kho bãi
-Thành phố 
-Hà Nội
-99,98%
-0%
-2
-2020
-2021
-4
-6
-8
-10
-12
-7.123
-10.078
-2.955
-Nhân viên
-
-059
-BÁO CÁO THƯỜNG NIÊN 2021
-Công ty và các công ty con sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính hợp nhất là Đồng 
-Việt Nam (“VND” hoặc “Đồng”). 
-Năm tài chính
-Đơn vị tiền tệ sử dụng trong kế toán
-Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp 
-vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả 
-hoạt động kinh doanh hợp nhất.
-Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán hợp nhất lần lượt được quy đổi 
-theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty và các công ty con thường xuyên có 
-giao dịch áp dụng tại ngày bảng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân hàng tại ngày của bảng cân 
-đối kế toán hợp nhất được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty và các công ty con 
-mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong 
-báo cáo kết quả hoạt động kinh doanh hợp nhất.
-Các loại tỷ giá hối đoái áp dụng trong kế toán
-Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp 
-vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả 
-hoạt động kinh doanh hợp nhất.
-Công ty con là doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh 
-nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nắm giữ hơn 
-một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc 
-được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không. Công ty 
-con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao cho Công ty. Việc hợp nhất chấm dứt kể từ 
-lúc quyền kiểm soát không còn.
-Phương pháp kế toán mua được Công ty sử dụng để hạch toán việc mua công ty con. Chi phí mua được ghi nhận 
-theo giá trị hợp lý của các tài sản đem trao đổi, công cụ vốn được phát hành và các khoản nợ phải trả đã phát sinh 
-hoặc đã thừa nhận tại ngày diễn ra việc trao đổi, cộng với các chi phí liên quan trực tiếp đến việc mua. Các tài sản 
-xác định được, nợ phải trả và những khoản nợ tiềm tàng đã được thừa nhận khi hợp nhất kinh doanh được xác định 
-trước hết theo giá trị hợp lý tại ngày mua không kể đến lợi ích của cổ đông không kiểm soát. Khoản vượt trội giữa 
-chi phí mua so với phần sở hữu của bên mua trong giá trị tài sản thuần được xem là lợi thế thương mại. Nếu phần 
-sở hữu của bên mua trong giá trị hợp lý tài sản thuần lớn hơn chi phí mua, phần chênh lệch được ghi nhận ngay vào 
-báo cáo kết quả hoạt động kinh doanh hợp nhất.
-Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa Công ty và các công ty con được 
-loại trừ khi hợp nhất.  
-Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất quán với chính sách kế toán 
-đang được Công ty áp dụng.
-Cơ sở hợp nhất báo cáo tài chính
-Năm tài chính của Công ty và các công ty con bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12
-Công ty con
-Công ty áp dụng chính sách cho các nghiệp vụ đối với cổ đông không kiểm soát giống như nghiệp vụ với các bên 
-không thuộc Công ty và các công ty con.
-Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong tài sản 
-thuần của đơn vị bị mua lại tại ngày mua. 
-Những giao dịch làm thay đổi tỷ lệ sở hữu của công ty mẹ trong công ty con mà không dẫn đến mất quyền kiểm 
-soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của 
-công ty mẹ trong tài sản thuần của công ty con và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận 
-vào lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu. 
-Nghiệp vụ và lợi ích của cổ đông không kiểm soát 
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-060
-BÁO CÁO THƯỜNG NIÊN 2021
-Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các 
-khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng. 
-Tiền và các khoản tương đương tiền
-Các khoản phải thu 
-Hàng tồn kho
-Đầu tư tài chính
-Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn 
-lại của các khoản phải thu tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thu hồi. 
-Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được 
-xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua và các chi phí khác có được hàng tồn 
-kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong 
-năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu 
-thụ.  
-Công ty và các công ty con áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho. 
-Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hỏng. Chênh lệch giữa khoản dự phòng phải 
-lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm giá 
-vốn hàng bán trong năm.
-Các khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty và các công ty con có ý định và có 
-khả năng giữ đến ngày đáo hạn.
-Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn trên ba tháng, trái 
-phiếu, thương phiếu mà bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai, cho vay 
-nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ, và các khoản đầu tư nắm giữ đến ngày đáo hạn khác. Các 
-khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với 
-tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.
-Những giao dịch làm thay đổi tỷ lệ sở hữu của công ty mẹ trong công ty con dẫn đến việc mất quyền kiểm soát đối 
-với công ty con, thì chênh lệch giữa giá trị thay đổi phần sở hữu của công ty mẹ trong tài sản thuần của công ty con 
-và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp 
-nhất. Phần sở hữu còn lại trong công ty này sẽ được hạch toán như một khoản đầu tư tài chính thông thường hoặc 
-kế toán theo phương pháp vốn chủ sở hữu kể từ khi công ty mẹ không còn nắm quyền kiểm soát công ty con.
-Các khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính 
-chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính 
-thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó 
-đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính 
-đến việc gia hạn nợ giữa các bên). Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ. 
-Dự phòng giảm giá đầu tư nắm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một 
-phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối năm kế 
-toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong 
-năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
-Các khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp 
-nhất căn cứ theo kỳ hạn còn lại của các khoản đầu tư nắm giữ đến ngày đáo hạn tại ngày của bảng cân đối kế toán 
-hợp nhất.
-Đầu tư nắm giữ đến ngày đáo hạn
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-061
-BÁO CÁO THƯỜNG NIÊN 2021
-Cho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch 
-mua, bán trên thị trường như chứng khoán. 
-Cho vay được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các 
-khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối năm kế toán. Dự phòng các khoản 
-cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu 
-(không tính đến việc gia hạn nợ giữa các bên) hoặc căn cứ vào mức tổn thất dự kiến có thể xảy ra. Chênh lệch giữa 
-khoản dự phòng lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng 
-hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
-Cho vay 
-Tài sản cố định (“TSCĐ”)
-Cho vay được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các 
-khoản cho vay tại ngày của bảng cân đối kế toán hợp nhất đến ngày tới hạn thu hồi.
-TSCĐ được phản ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến 
-việc có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng 
-nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các 
-chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong năm.
-Lãi hoặc lỗ phát sinh do thanh lý, nhượng bán tài sản cố định được xác định bằng số chênh lệch giữa số tiền thu 
-thuần do thanh lý với giá trị còn lại của tài sản cố định và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết 
-quả hoạt động kinh doanh hợp nhất.
-Quyền sử dụng đất bao gồm quyền sử dụng đất nhận chuyển nhượng hợp pháp, và tiền sử dụng đất đã trả trước 
-cho các hợp đồng thuê đất có hiệu lực trước ngày hiệu lực của luật đất đai 2003 (tức là ngày 1 tháng 7 năm 2004) 
-và được cấp Giấy chứng nhận quyền sử dụng đất.
-Quyền sử dụng đất có thời hạn được phản ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá của quyền sử dụng 
-đất bao gồm giá mua và các chi phí liên quan trực tiếp đến việc có được quyền sử dụng đất. Quyền sử dụng đất 
-được khấu hao theo phương pháp đường thẳng trong suốt thời hạn của quyền sử dụng đất.
-Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
-TSCĐ hữu hình và TSCĐ vô hình
-Tài sản cố định được khấu hao theo phương pháp đường thẳng để giảm dần nguyên giá tài sản trong suốt thời gian 
-hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:
-Khấu hao
-Thanh lý 
-Nhà cửa, vật kiến trúc
-Máy móc thiết bị
-Phương tiện vận tải
-Thiết bị văn phòng
-Phần mềm máy tính
-2,04%
-16,67% - 33,33%
-13,33% - 16,67%
-16,67% - 33,33%
-10% - 33,33%
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-062
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản 
-thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt 
-động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
-Thuê tài sản 
-Nợ phải trả
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Các khoản vay được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại 
-của các khoản vay tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
-Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn 
-hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung 
-trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Công ty và 
-các công ty con xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền 
-phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ 
-lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng đặc biệt phục vụ cho 
-mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh 
-doanh hợp nhất khi phát sinh.
-Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa, cung 
-cấp dịch vụ;
-Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua hàng hóa, và 
-cung cấp dịch vụ.
-Vay bao gồm các khoản tiền vay từ các ngân hàng.
-Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bảng cân đối kế toán hợp 
-nhất. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng 
-dựa trên thời gian hữu dụng ước tính.
-Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn 
-còn lại của các khoản phải trả tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
-Chi phí trả trước
-Vay
-Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm báo cáo 
-nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán. Chi phí phải trả được ghi nhận 
-vào chi phí sản xuất, kinh doanh của năm báo cáo.
-Chi phí phải trả
-Các khoản dự phòng được ghi nhận khi Công ty và các công ty con có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đới, 
-phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh 
-tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cậy. Dự phòng không được ghi nhận cho các khoản 
-lỗ hoạt động trong tương lai.
-Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ.  Nếu ảnh hưởng về giá trị thời 
-gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phản 
-ánh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng 
-lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng phải lập 
-ở cuối năm kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối năm kế toán trước được ghi nhận tăng hoặc 
-giảm chi phí sản xuất, kinh doanh trong năm.
-Các khoản dự phòng
-Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
-
-063
-BÁO CÁO THƯỜNG NIÊN 2021
-Vốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phản ánh theo mệnh giá của cổ 
-phiếu.
-Vốn chủ sở hữu 
-Phân chia lợi nhuận
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi đồng thời thỏa mãn 
-tất cả năm (5) điều kiện sau:
-Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán 
-hàng hoặc khả năng hàng bán bị trả lại. 
-• Công ty và các công ty con đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc 
-hàng hóa cho người mua;
-• Công ty và các công ty con không còn nắm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản 
-phẩm hoặc hàng hóa hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
-• Doanh thu được xác định tương đối chắc chắn;
-• Công ty và các công ty con sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
-• Xác định được chi phí liên quan đến giao dịch bán hàng.
-Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau: 
-Thu nhập lãi được ghi nhận khi được hưởng.
-• Doanh thu được xác định tương đối chắc chắn;
-• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
-• Xác định được phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán hợp nhất; và
-• Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
-LNST chưa phân phối phản ánh kết quả kinh doanh (lãi hoặc lỗ) sau thuế TNDN của Công ty và các công ty con tại 
-thời điểm báo cáo.
-Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính hợp nhất của năm kế toán mà cổ 
-tức được thông qua tại Đại hội đồng Cổ đông.
-LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích 
-lập các quỹ theo điều lệ của Công ty và các công ty con và các quy định của pháp luật Việt Nam.
-Công ty và các công ty con trích lập quỹ sau:
-Quỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Công ty và các công ty con và được các cổ đông phê 
-duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bảng cân đối kế toán hợp nhất. Quỹ 
-được sử dụng để khen thưởng, cải thiện và nâng cao đời sống người lao động.
-Ghi nhận doanh thu
-Doanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng hàng hóa. 
-Trường hợp Công ty và các công ty con dùng hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua 
-hàng của Công ty và các công ty con thì Công ty và các công ty con phân bổ số tiền thu được để tính doanh thu 
-cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt 
-động kinh doanh hợp nhất.
-Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã 
-được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung 
-cấp so với tổng khối lượng dịch vụ phải cung cấp. 
-Quỹ khen thưởng, phúc lợi
-Doanh thu bán hàng
-Doanh thu cung cấp dịch vụ 
-Thu nhập lãi
-
-064 BÁO CÁO THƯỜNG NIÊN 2021
-Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản 
-giảm trừ doanh thu phát sinh cùng năm tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh 
-thu năm phát sinh. 
-Các khoản giảm trừ doanh thu
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công 
-ty hoặc công ty con, hoặc chịu sự kiểm soát của Công ty hoặc công ty con, hoặc cùng chung sự kiểm soát với Công 
-ty và các công ty con, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan của Công ty hoặc 
-công ty con. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nắm quyền biểu quyết của Công ty hoặc công 
-ty con mà có ảnh hưởng đáng kể đối với Công ty và các công ty con, những cá nhân quản lý chủ chốt bao gồm Hội 
-đồng Quản trị, Ban Tổng Giám đốc, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên 
-liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan. 
-Trong việc xem xét từng mối quan hệ của các bên liên quan, Công ty và các công ty con căn cứ vào bản chất của 
-mối quan hệ chứ không chỉ hình thức pháp lý của các quan hệ đó.
-Giá vốn hàng bán và dịch vụ cung cấp
-Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hoá, dịch vụ tiêu thụ trong năm phát sinh sau ngày của bảng 
-cân đối kế toán hợp nhất nhưng trước thời điểm phát hành báo cáo tài chính hợp nhất được ghi nhận điều chỉnh 
-giảm doanh thu của năm lập báo cáo.
-Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của hàng hóa, vật tư xuất bán và dịch vụ cung cấp 
-cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
-Chi phí tài chính
-Chi phí tài chính phản ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm lãi vay 
-và lỗ do chênh lệch tỷ giá hối đoái.
-Chi phí bán hàng
-Chi phí bán hàng phản ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá, cung cấp dịch vụ 
-của Công ty và các công ty con.
-Thuế TNDN hiện hành và thuế TNDN hoãn lại
-Các bên liên quan
-Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi 
-phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
-Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế 
-TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi 
-xác định lợi nhuận hoặc lỗ của năm phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc 
-sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm hay một năm khác. 
-Thuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính dựa trên các khoản chênh lệch tạm thời 
-giữa giá trị ghi sổ của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính hợp nhất và cơ sở tính thuế TNDN 
-của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh 
-từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp 
-nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm 
-phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản 
-được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại 
-ngày của bảng cân đối kế toán hợp nhất.
-Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử 
-dụng những chênh lệch tạm thời được khấu trừ.
-
-065
-BÁO CÁO THƯỜNG NIÊN 2021
-Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty và các công ty con tham gia vào việc bán hàng 
-hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ 
-trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi 
-ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Công ty và các công ty con là dựa theo bộ phận 
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty và các công ty con tham gia vào việc bán hàng
+hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ
+trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi
+ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Công ty và các công ty con là dựa theo bộ phận
 chia theo hoạt động kinh doanh.
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 Báo cáo bộ phận
 Mua Công ty Cổ phần Hữu Nghị Việt Hàn
 Ước tính kế toán trọng yếu
-Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp 
-Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban 
-Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các 
-khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm kế toán cũng như các số liệu về doanh thu và chi phí trong 
-suốt năm tài chính. 
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp
+Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban
+Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các
+khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm kế toán cũng như các số liệu về doanh thu và chi phí trong
+suốt năm tài chính.
 Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
-Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao 
-gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Công ty và các công 
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao
+gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Công ty và các công
 ty con và được Ban Tổng Giám đốc đánh giá là hợp lý.
-Ngày 1 tháng 8 năm 2021, Công ty đã mua lại 99,98% vốn chủ sở hữu của Công ty Cổ phần Hữu Nghị Việt Hàn. 
+Ngày 1 tháng 8 năm 2021, Công ty đã mua lại 99,98% vốn chủ sở hữu của Công ty Cổ phần Hữu Nghị Việt Hàn.
 Việc hợp nhất kinh doanh này có ảnh hưởng đến tài sản và nợ phải trả tại ngày mua như sau:
 Dự phòng phải thu khó đòi (Thuyết minh 10);
 Dự phòng giảm giá hàng tồn kho (Thuyết minh 11)
 Hợp nhất kinh doanh
 Tài sản
-Giá trị ghi sổ 
+Giá trị ghi sổ
 tại ngày mua
-Giá trị hợp lý 
+Giá trị hợp lý
 có thể xác định được
 tại ngày mua
 Tài sản
@@ -1054,179 +34,70 @@ Nợ phải trả
 Tài sản thuần
 Lợi ích cổ đông không kiểm soát
 Tổng giá mua
-8.070.529.120
-669.148
-8.027.359.972
-42.500.000
-8.070.529.120
-0
-0
-123.091.710.870
-669.148
-123.048.541.722
-42.500.000
-123.091.710.870
-1.987.570
-123.089.723.300
 Đơn vị: VNĐ
 
-066
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Năm 2021
-Năm 2020
 Tiền mặt
 Tiền gửi ngân hàng không kỳ hạn
 Các khoản tương đương tiền (*)
-94.202.833.015
-585.735.964.221
-425.270.752.646
-1.105.209.549.882
- 92.761.711.237
- 458.742.528.161
- 150.000.000.000
-701.504.239.398
-Năm 2021
-Năm 2020
-Bên thứ ba 
+Bên thứ ba
 Trong đó:
 - Công ty TNHH Phát triển Công nghệ và
-Thương mại Ánh Dương 
+Thương mại Ánh Dương
 - Khác
 Bên liên quan (Thuyết minh 33(b))
 Dự phòng phải thu khó đòi
-75.835.832.022
-7.176.025.000
- 
-68.659.807.022
-4.889.662.632
-80.725.494.654
-(7.748.715.213)
-72.976.779.441
-  167.919.922.181
- 33.331.056.000
-134.588.866.181
-4.664.721.600
-    172.584.643.781
-(42.442.229.096)
-130.142.414.685
 Tiền và các khoản tương đương tiền
 Đầu tư nắm giữ đến ngày đáo hạn
 Phải thu ngắn hạn của khách hàng
-(*) Các khoản tương đương tiền bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc từ 1 đến 3 tháng với lãi suất 
+(*) Các khoản tương đương tiền bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc từ 1 đến 3 tháng với lãi suất
 từ 3,8%/năm đến 4%/năm.
-Bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc hơn 3 tháng và kỳ hạn còn lại không quá 12 tháng với lãi suất 
+Bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc hơn 3 tháng và kỳ hạn còn lại không quá 12 tháng với lãi suất
 từ 4%/năm đến 7,5%/năm.
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Tiền gửi ngân hàng có kỳ hạn
-1.820.500.000.000 
-788.158.684.912
 Đơn vị: VNĐ
 Đơn vị: VNĐ
 
-067
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Năm 2021
-Năm 2020
-Bên thứ ba 
+Bên thứ ba
 Trong đó:
 - Công ty Cổ phần Dịch vụ Di động Trực tuyến
 - Công ty TNHH MTV Thương mại Giá trị Điện tử
 - Khác
- 165.586.893.749
- 51.800.000.000
- 27.041.202.822
- 86.745.690.927
-165.586.893.749
- 93.596.830.533
-0
- 57.806.224.234
- 35.790.606.299
-93.596.830.533
 Trả trước cho người bán ngắn hạn
-Phải thu về cho vay ngắn hạn 
+Phải thu về cho vay ngắn hạn
 Phải thu khác
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
-Bên liên quan (Thuyết minh 33(b)) (*) 
+Bên liên quan (Thuyết minh 33(b)) (*)
 Bên thứ ba (**)
- 1.520.000.000.000
-40.000.000.000
-1.560.000.000.000
-  845.000.000.000
- 40.000.000.000
-885.000.000.000
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
-Ngắn hạn 
+Ngắn hạn
 Bên thứ ba
 Trong đó:
 - Phải thu hỗ trợ từ nhà cung cấp
 - Phải thu thanh toán qua thẻ tín dụng chưa về
-tài khoản công ty 
+tài khoản công ty
 - Lãi tiền gửi dự thu
 - Khác
 Bên liên quan (Thuyết minh 33(b))
 Dự phòng phải thu khó đòi
 Dài hạn
-Ký quỹ, ký cược 
- 
-172.583.394.537 
-76.540.710.343
-44.226.857.200
-30.939.219.179
-20.876.607.815
-14.217.687.824
-186.801.082.361
-0
-186.801.082.361
-136.776.859.874
-   
-402.725.604.791 
-324.270.355.462
-22.347.299.800
-18.337.181.394
-37.770.768.135
-2.320.032.187
- 405.045.636.978 
-(15.543.576.293)
- 389.502.060.685
-116.400.384.163
+Ký quỹ, ký cược
 Đơn vị: VNĐ
-(*) Cho vay bên liên quan là khoản cho vay không tài sản đảm bảo với thời hạn không quá 6 tháng và lãi suất cho 
+(*) Cho vay bên liên quan là khoản cho vay không tài sản đảm bảo với thời hạn không quá 6 tháng và lãi suất cho
 vay từ 4%/năm đến 6%/năm.
-(**) Cho vay bên thứ ba: là khoản cho vay cá nhân không tài sản đảm bảo với thời hạn vay là 6 tháng và lãi suất cho 
+(**) Cho vay bên thứ ba: là khoản cho vay cá nhân không tài sản đảm bảo với thời hạn vay là 6 tháng và lãi suất cho
 vay là 6%/năm nhằm mục đích hỗ trợ hoạt động kinh doanh của Công ty.
 
-068 BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 Nợ khó đòi
 Hàng tồn kho
-Giá trị có thể 
+Giá trị có thể
 thu hồi
 Giá gốc
 Dự phòng
 - Trên 1 năm đến 2 năm
 - Dưới 1 năm
- 
-0
-1.196.649.436
-1.196.649.436
-  
-4.030.404.110
-4.914.960.539
-8.945.364.649
- 
-(4.030.404.110)
-(3.718.311.103)
-(7.748.715.213)
 Đơn vị: VNĐ
-Giá trị có thể 
+Giá trị có thể
 thu hồi
 Giá gốc
 Dự phòng
@@ -1234,52 +105,14 @@ Dự phòng
 - Trên 2 năm đến 3 năm
 - Trên 1 năm đến 2 năm
 - Dưới 1 năm
- 
-0
-101.150.900
- 188.797.266
- 38.807.893.904
- 39.097.842.070
-  
-1.551.089.909
-27.048.938.948
- 13.230.823.504
- 55.252.795.098
- 97.083.647.459
- 
-(1.551.089.909)
- (26.947.788.048)
- (13.042.026.238)
- (16.444.901.194)
-(57.985.805.389)
 Đơn vị: VNĐ
 Công cụ, dụng cụ
 Hàng hóa
-3.034.573.631
-2.906.430.105
-1.847.193.194.406
-1.853.134.198.142
-0
-0
-(45.614.490.203)
-(45.614.490.203)
-28.704.901.610
-13.315.930.516
-4.933.952.990.684
-4.975.973.822.810
-0
-0
-(26.416.507.380)
-(26.416.507.380)
 Giá gốc
 Dự phòng
-Năm 2020
 Giá gốc
 Dự phòng
-Năm 2021
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Tổng giá trị các khoản phải thu quá hạn
 thanh toán cần lập dự phòng:
 Tổng giá trị các khoản phải thu quá hạn
@@ -1287,139 +120,27 @@ thanh toán cần lập dự phòng:
 Hàng mua đang đi
 trên đường
 
-069
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 Biến động về dự phòng giảm giá hàng tồn kho trong năm như sau:
-Năm 2021
-Năm 2020
 Số dư đầu năm
 Tăng dự phòng
 Số dư cuối năm
-26.416.507.380
-19.197.982.823
-45.614.490.203
-  15.550.241.137
-10.866.266.243
-26.416.507.380
 Đơn vị: VNĐ
 Chi phí trả trước
-Năm 2021
-Năm 2020
-Ngắn hạn 
+Ngắn hạn
 Tiền thuê cửa hàng, văn phòng
 Khác
 Dài hạn
 Chi phí đầu tư ban đầu các cửa hàng
 Khác
- 
-139.948.553.693
-23.081.399.426
-163.029.953.119
-230.848.195.101
-23.599.572.916
-254.447.768.017
-   
-99.848.698.434
-19.481.494.648
-119.330.193.082
-236.246.329.995
- 21.319.578.121
-257.565.908.116
 Đơn vị: VNĐ
 
-070
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Tài sản cố định
-Nguyên giá
-Tại ngày 1 tháng 1 năm 2021
-Mua trong năm
-Tăng từ mua công ty con
-Tại ngày 31 tháng 12 năm 2021
-Giá trị khấu hao lũy kế
-Tại ngày 1 tháng 1 năm 2021
-Khấu hao trong năm
-Tăng từ mua công ty con
-Tại ngày 31 tháng 12 năm 2021
-Giá trị còn lại
-Tại ngày 1 tháng 1 năm 2021
-Tại ngày 31 tháng 12 năm 2021
-14.159.992.286
- 1.787.640.766
-13.357.219.249
-29.304.852.301
-(5.451.745.492)
-(1.701.339.289)
-(5.804.675.345)
-(12.957.760.126)
-8.708.246.794
-16.347.092.175
-Tổng cộng
-2.012.617.384
-0
-2.012.617.384
-0
-(524.722.242)
-(352.250.848)
-0
-(876.973.090)
-1.487.895.142
-1.135.644.294
-Thiết bị 
-văn phòng
-2.371.118.183
- 1.054.843.636
- 192.727.272
-3.618.689.091
-(535.199.966)
-(503.536.000)
-(192.727.272)
-(1.231.463.238)
-1.835.918.217
-2.387.225.853
-Phương tiện
- vận tải
-5.156.533.386
- 732.797.130
- 544.921.000
-6.434.251.516
-(4.208.411.497)
-(581.356.704) 
-(235.338.658)
-(5.025.106.859)
-948.121.889
-1.409.144.657
-Máy móc và
-thiết bị
-4.619.723.333
-0
-12.619.570.977
-17.239.294.310
-(183.411.787)
-(264.195.737)
-(5.376.609.415)
-(5.824.216.939)
-4.436.311.546
-11.415.077.371
-Nhà cửa và
- vật kiến trúc
 Đơn vị: VNĐ
-Tài sản cố định hữu hình
-Tại ngày 31 tháng 12 năm 2021, nguyên giá của tài sản cố định đã khấu hao hết nhưng vẫn còn sử dụng là 3.892.424.499 VND (tại ngày 31 tháng 12 năm 2020: 
-3.892.424.499 VND).
-
-071
-BÁO CÁO THƯỜNG NIÊN 2021
-Đơn vị: VNĐ
-Tại ngày 31 tháng 12 năm 2021, nguyên giá của tài sản cố định vô hình đã khấu hao hết nhưng vẫn còn sử dụng là 
-4.187.737.990 VND (tại ngày 31 tháng 12 năm 2020: 4.187.737.990 VND).
+Tại ngày 31 tháng 12 năm 2021, nguyên giá của tài sản cố định vô hình đã khấu hao hết nhưng vẫn còn sử dụng là
 Tài sản cố định vô hình
-Phần mềm 
+Phần mềm
 máy tính
 Quyền
 sử dụng đất
-Tổng cộng
 Nguyên giá
 Tại ngày 1 tháng 1 năm 2021
 Mua trong năm
@@ -1433,113 +154,34 @@ Tại ngày 31 tháng 12 năm 2021
 Giá trị còn lại
 Tại ngày 1 tháng 1 năm 2021
 Tại ngày 31 tháng 12 năm 2021
-  
- 6.581.627.990
-300.310.000
-0
-6.881.937.990
-(4.956.004.461)
-(553.111.467)
-0
-(5.509.115.928)
-1.625.623.529
-1.372.822.062
-40.294.000.000
-0
-115.611.781.750
-155.905.781.750
-0
-(1.556.523.051)
-(115.783.932)
-(1.672.306.983)
-40.294.000.000
-154.233.474.767
- 
-46.875.627.990
-300.310.000
-115.611.781.750
-162.787.719.740
-(4.956.004.461)
-(2.109.634.518)
-(115.783.932)
-(7.181.422.911)
-41.919.623.529
-155.606.296.829
 Phải trả người bán ngắn hạn
-Năm 2021
-Năm 2020
 Bên thứ ba
 Trong đó:
-- Công ty TNHH Apple Việt Nam 
-- Công ty TNHH Phân phối Synnex FPT 
-- Khác 
+- Công ty TNHH Apple Việt Nam
+- Công ty TNHH Phân phối Synnex FPT
+- Khác
 Bên liên quan (Thuyết minh 33(b))
- 2.322.984.054.198
- 1.011.857.464.046
- 229.740.525.153
- 1.081.386.064.999
- 12.758.880.547
- 2.335.742.934.745
- 1.201.589.167.787
- 698.805.678.162
- 88.288.124.092
- 414.495.365.533
- 13.200.877.678
- 1.214.790.045.465
 Đơn vị: VNĐ
 Người mua trả tiền trước ngắn hạn
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Bên thứ ba
-54.005.913.363
- 28.401.024.820
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 
-072
-BÁO CÁO THƯỜNG NIÊN 2021
 Đơn vị: VNĐ
 Thuế và các khoản phải thu/phải nộp nhà nước
 Chi phí phải trả ngắn hạn
 Phải trả ngắn hạn khác
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Lương thưởng cho nhân viên
 Hỗ trợ trả góp cho khách hàng
-Chi phí lãi vay 
+Chi phí lãi vay
 Khác
-0
- 22.329.785.576
- 21.142.678.689
- 45.604.078.190
- 89.076.542.455
-  171.944.481.045
- 14.944.768.814
- 9.403.325.854
- 23.679.868.357
-219.972.444.070
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Bên thứ ba
 Trong đó:
 - Tiền thu hộ đối tác (*)
 - Kinh phí công đoàn
 - Khác
 Bên liên quan (Thuyết minh 33(b))
- 85.303.308.892
- 72.242.013.475
- 7.217.876.724
- 5.843.418.693
-224.008.084
-85.527.316.976
-  162.752.449.642
- 151.511.990.695
- 9.140.617.504
- 2.099.841.443
-192.321.244
-162.944.770.886
 Phải thu
 Thuế GTGT đầu vào
 Phải trả
@@ -1548,68 +190,28 @@ Thuế TNDN
 Thuế thu nhập cá nhân
 Thuế nhà thầu
 Thuế khác
- 
-(2.778.549.417.100)
-(2.878.385.483.279)
- (90.641.021.151)
- (23.552.117.094)
- (2.174.957.644)
- (846.500.000)
- (2.995.600.079.168)
- 
-2.969.739.925.411
-2.900.125.181.585
- 108.125.465.377
- 23.957.508.375
- 2.249.124.135
- 846.500.000
- 3.035.303.779.472
-26.045.172.004
-20.211.571.952
- 9.770.069.555
-1.408.378.126
- 229.881.751
-0
- 31.619.901.384
-217.235.680.315
-41.951.270.258
- 27.254.513.781
- 1.813.769.407
- 304.048.242
-0
- 71.323.601.688
 Tháng 1
-Năm 2021
 Số phải thu/
 phải nộp
 trong năm
 Tháng 12
-Năm 2021
 Số đã
 thực thu/
 nộp trong năm
 Biến động về thuế và các khoản phải thu/phải nộp Nhà nước như sau:
-(*) Đây là các khoản Công ty thu hộ tiền dịch vụ (nạp ví điện tử, thanh toán hóa đơn điện, nước,…) cho đối tác 
-(Momo, Payoo, Viettel,..) và sẽ hoàn trả lại cho các đối tác sau khi thực hiện đối soát định kỳ. 
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
+(*) Đây là các khoản Công ty thu hộ tiền dịch vụ (nạp ví điện tử, thanh toán hóa đơn điện, nước,…) cho đối tác
+(Momo, Payoo, Viettel,..) và sẽ hoàn trả lại cho các đối tác sau khi thực hiện đối soát định kỳ.
 
 Vay ngắn hạn
 Vay ngân hàng
-6.047.406.062.780
 Tháng 12
-Năm 2021
-7.508.335.628
 Chênh lệch
-đánh giá 
+đánh giá
 lại tỷ giá cuối năm
-(11.422.699.256.314)
 Trả gốc
-14.976.648.751.486
 Vay mới
 trong năm
-2.485.948.231.980
 Tháng 1
-Năm 2021
 Đơn vị: VNĐ
 Ngân hàng TNHH HSBC Việt Nam
 Ngân hàng TNHH Standard Chartered Việt Nam
@@ -1627,358 +229,49 @@ Ngân hàng TNHH Shinhan Việt Nam
 Ngân hàng TNHH MUFG Malaysia
 Ngân hàng TMCP Ngoại thương Việt Nam
 Ngân hàng TMCP Quân đội
- 490.684.808.587
- 534.648.135.082
- 49.847.750.000
- 226.561.148.882
- 78.714.685.589
- 22.244.411.809
-0
-0
- 155.394.435.708
-0
- 562.274.015.157
- 104.854.033.166
- 32.769.220.000
- 150.620.000.000
- 56.222.672.000
- 21.112.916.000
- 2.485.948.231.980
- 965.071.770.189
- 805.213.806.201
- 754.185.900.000
- 733.996.638.175
- 675.590.482.714
- 499.895.880.990
- 452.856.707.633
- 294.274.500.000
- 239.656.027.975
- 224.680.800.000
- 155.649.655.165
- 126.337.061.708
- 119.996.832.030
-0
-0
-0
-6.047.406.062.780
 Ngân hàng
-Năm 2021
-Năm 2020
 Đơn vị: VNĐ
-Vay ngân hàng là các khoản vay không có tài sản đảm bảo với thời gian đáo hạn dưới 01 năm và lãi suất theo từng khế ước vay, nhằm mục đích bổ sung vốn kinh 
-doanh cho Công ty và các công ty con. Các khoản vay bằng USD có lãi suất từ 1,80%/năm đến 2,67%/năm (2020: 2,20%/năm đến 2,35%/năm), các khoản vay bằng 
+Vay ngân hàng là các khoản vay không có tài sản đảm bảo với thời gian đáo hạn dưới 01 năm và lãi suất theo từng khế ước vay, nhằm mục đích bổ sung vốn kinh
+doanh cho Công ty và các công ty con. Các khoản vay bằng USD có lãi suất từ 1,80%/năm đến 2,67%/năm (2020: 2,20%/năm đến 2,35%/năm), các khoản vay bằng
 VND có lãi suất từ 1,90%/năm đến 4,50%/năm (2020: 1,90%/năm đến 4,10%/năm). Chi tiết vay ngân hàng như sau:
-073
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 
-074
-BÁO CÁO THƯỜNG NIÊN 2021
-Đơn vị: Cổ phiếu phổ thông
-Vốn góp của chủ sở hữu
-Năm 2021
-Năm 2020
-Số lượng cổ phiếu đăng ký
-Số lượng cổ phiếu đã phát hành 
-Số lượng cổ phiếu đang lưu hành
-78.981.792
-78.981.792
-78.981.792
-78.981.792
-78.981.792
-78.981.792
-Đơn vị: VNĐ
-Số cổ phiếu
-Giá trị cổ phiếu
-Tại ngày 1 tháng 1 năm 2020
-Tại ngày 31 tháng 12 năm 2020
-Tại ngày 31 tháng 12 năm 2021
-78.981.792
-78.981.792
-78.981.792
-789.817.920.000
-789.817.920.000
-789.817.920.000
-Đơn vị: VNĐ
-Năm 2021
-Giá trị
-Tỉ lệ
-Công ty Cổ phần FPT
-VOF Investment Limited
-Các cổ đông khác
-Số lượng cổ phiếu đang lưu hành
-46,53
-0
-53,47
-100,00
-367.540.000.000
-0
-422.277.920.000
-789.817.920.000
-Năm 2020t
-Giá trị
-Tỉ lệ
-46,53
-7,63
-45,84
-100,00
- 367.540.000.000
- 60.281.340.000
- 361.996.580.000
-789.817.920.000
-Số lượng cổ phiếu
-Chi tiết vốn góp của chủ sở hữu
-Tình hình biến động của vốn cổ phần
-Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-Tình hình tăng giảm nguồn vốn chủ sở hữu
-075
-BÁO CÁO THƯỜNG NIÊN 2021
-Tại ngày 1 tháng 1 năm 2020
-Công ty con tăng vốn
-Ảnh hưởng do công ty con tăng vốn
-Lợi nhuận/(lỗ) thuần trong năm
-Chia cổ tức
-Trích lập các quỹ
-Tại ngày 31 tháng 12 năm 2020
-Công ty con tăng vốn và mua thêm công ty con
-Ảnh hưởng do công ty con tăng vốn
-Lợi nhuận thuần trong năm
-Tại ngày 31 tháng 12 năm 2021
- 1.279.363.319.277
-4.232.000.000
- 14.000.000.000
-10.216.730.526
- (78.981.792.000)
- (3.700.353.039)
- 1.225.129.904.764
- 10.245.987.569
-0
- 443.898.346.428
-1.679.274.238.761
-Tổng cộng
-vốn chủ sở hữu
- 5.637.164.154
-4.232.000.000
- 16.036.116.297
-(14.501.865.720)
- 0
- 0
- 11.403.414.731
- 10.245.987.569
-(4.749.658.500)
- 166.178.809
-17.065.922.609
-Lợi ích cổ đông
-không kiểm soát
- 483.908.235.123
-0
- (2.036.116.297)
-24.718.596.246 
- (78.981.792.000)
- (3.700.353.039)
- 423.908.570.033
-0
-4.749.658.500
- 443.732.167.619
-872.390.396.152
-LNST chưa
-phân phối
-789.817.920.000
-0
-0
-0
-0
-0
-789.817.920.000
-0
-0
-0
-789.817.920.000
-Vốn góp của
-chủ sở hữu
-Đơn vị: VNĐ
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-076
-BÁO CÁO THƯỜNG NIÊN 2021
-Đơn vị: VNĐ
-Lãi trên cổ phiếu
-Các khoản mục ngoài bảng cân đối kế toán
-Năm 2021
-Năm 2020
-Lợi nhuận thuần phân bổ cho các cổ đông (VND) 
-Số trích quỹ khen thưởng, phúc lợi (VND)
-Lợi nhuận để tính lãi cơ bản trên cổ phiếu
-Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu)
-Lãi cơ bản trên mỗi cổ phiếu (VND)
-443.732.167.619
-0
-443.732.167.619
-78.981.792
-5.618
-24.718.596.246
-(3.700.353.039)
-21.018.243.207
-78.981.792
-266
-Đơn vị: VNĐ
-Năm 2021
-Năm 2020
-Ngân hàng TMCP Tiên Phong
-Ngân hàng TNHH HSBC Hong Kong
-Ngân hàng TNHH HSBC Việt Nam
-Ngân hàng TNHH MUFG Việt Nam
-Ngân hàng TMCP Việt Nam Thịnh vượng
-Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
-Ngân hàng TMCP Kỹ thương Việt Nam 
-Ngân hàng TMCP Hàng hải Việt Nam
-Ngân hàng TNHH United Oversea Bank
- 560.781.467.260
- 415.000.000.000
-100.000.000.000
-100.000.000.000
-22.888.399.876
- 12.000.000.000
-10.000.000.000
-3.500.000.000
-0
-1.224.169.867.136
- 9.850.000.000
- 425.000.000.000
-100.000.000.000
-100.000.000.000
-28.428.256.000
-26.603.612.800
-0
-0
-190.000.000.000
-879.881.868.800
-Đơn vị: Đô la
-Năm 2021
-Năm 2020
-Ngoại tệ
-Đô la Mỹ 
-111.506 
-296.019
-Lãi cơ bản trên cổ phiếu
-Ngoại tệ các loại 
-Chứng thư bảo lãnh
-Lãi suy giảm trên cổ phiếu
-Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông chia cho số lượng 
-bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, điều chỉnh cho cổ phiếu thưởng phát 
-hành trong năm trừ đi cổ phiếu quỹ. Chi tiết như sau:
-Công ty không có cổ phiếu phổ thông tiềm tàng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính 
-hợp nhất này. Do đó, lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.             
-Các ngân hàng đã phát hành chứng thư bảo lãnh thanh toán cho các đối tác của Công ty và các công ty con. Số 
-dư bảo lãnh của các chứng thư cuối năm như sau:
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-077
-BÁO CÁO THƯỜNG NIÊN 2021
 Đơn vị: VNĐ
 Doanh thu thuần về bán hàng và cung cấp dịch vụ
 Giá vốn hàng bán và dịch vụ cung cấp
 Doanh thu hoạt động tài chính
 Chi phí tài chính
-Năm 2021
-Năm 2020
 Doanh thu
 Doanh thu bán hàng hóa và cung cấp dịch vụ
 Các khoản giảm trừ
 Hàng bán bị trả lại
 Doanh thu thuần
 Doanh thu thuần về bán hàng hóa và cung cấp dịch vụ
-22.619.505.421.050
-(124.544.012.968)
-22.494.961.408.082
-14.799.952.534.765
-(138.535.502.543)
-14.661.417.032.222
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Giá vốn của hàng hóa đã bán và dịch vụ đã cung cấp
 Trích lập dự phòng giảm giá hàng tồn kho
-19.324.250.163.660
-19.197.982.823
-19.343.448.146.483
-12.609.548.467.262
-10.866.266.243
-12.620.414.733.505
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Lãi tiền gửi, tiền cho vay
 Lãi chênh lệch tỷ giá hối đoái đã thực hiện
 Chiết khấu thanh toán
-169.344.292.160
-12.526.015.220
-15.710.674.789
-197.580.982.169
- 55.870.719.645 
-1.840.576.402
- 13.038.124.213
-70.749.420.260
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Chi phí lãi vay
 Lỗ chênh lệch tỷ giá hối đoái đã thực hiện
 Lỗ thuần do đánh giá lại các khoản có gốc ngoại tệ cuối năm
- 132.229.176.761
- 6.503.218.241
- 7.513.094.690
-146.245.489.692 
-113.682.404.790
-20.129.493.671
-0
-133.811.898.461
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 
-078
-BÁO CÁO THƯỜNG NIÊN 2021
 Đơn vị: VNĐ
 Chi phí bán hàng
 Chi phí quản lý doanh nghiệp
 Thuế TNDN
-Năm 2021
-Năm 2020
 Chi phí nhân viên
 Chi phí thuê, sửa chữa cửa hàng
-Chi phí quảng cáo, tiếp thị 
+Chi phí quảng cáo, tiếp thị
 Chi phí dịch vụ mua ngoài
 Khác
- 997.590.881.056
- 658.127.060.678
- 190.112.141.580
- 92.531.227.549
- 132.763.478.476
- 2.071.124.789.339
- 647.222.355.812
- 601.528.487.368
- 140.443.210.118
- 95.147.885.017
- 81.394.616.875
- 1.565.736.555.190
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Chi phí nhân viên
 Chi phí dịch vụ mua ngoài
 Khác
- 239.385.428.225 
- 64.517.488.425
- 93.981.133.227
-397.884.049.877
- 367.909.128.839
-122.613.273.995
- 95.006.041.554
-585.528.444.388
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Lợi nhuận kế toán trước thuế
 Thuế tính ở thuế suất 20%
 Điều chỉnh:
@@ -1990,51 +283,21 @@ Lỗ tính thuế mà không được ghi nhận thuế
 TNDN hoãn lại
 Dự phòng thừa của năm trước
 Chi phí thuế TNDN (*)
-554.140.265.577 
-110.828.053.115 
- 2.455.030.728 
- (3.351.189.477)
-310.024.783
-0
-0
-110.241.919.149 
- 28.427.378.490
-5.685.475.698
-9.298.052.928
-0
-0
-13.361.693.857
- (10.134.574.519)
-18.210.647.964
-Số thuế TNDN trên lợi nhuận trước thuế của Công ty và các công ty con khác với số thuế khi được tính theo thuế 
-suất phổ thông áp dụng 20% được thể hiện như sau: 
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
+Số thuế TNDN trên lợi nhuận trước thuế của Công ty và các công ty con khác với số thuế khi được tính theo thuế
+suất phổ thông áp dụng 20% được thể hiện như sau:
 
-079
-BÁO CÁO THƯỜNG NIÊN 2021
-Năm 2021
-Năm 2020
 Chi phí thuế TNDN ghi nhận trong báo cáo kết quả
-Thuế TNDN - hiện hành 
+Thuế TNDN - hiện hành
 Thuế TNDN - hoãn lại
-108.125.465.377
-2.116.453.772
-110.241.919.149
- 
-27.474.628.269
- (9.263.980.305)
-18.210.647.964
 hoạt động kinh doanh hợp nhất:
-(*)  Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh 
+(*)  Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh
 tùy thuộc vào sự kiểm tra của cơ quan thuế.
 Chi phí kinh doanh theo yếu tố
 Báo cáo bộ phận
-Chi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm từ hoạt động kinh doanh của Công ty và 
+Chi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm từ hoạt động kinh doanh của Công ty và
 các công ty con. Chi tiết được trình bày như sau:
 Đơn vị: VNĐ
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Chi phí của hàng hóa đã bán và dịch vụ đã cung cấp
 Chi phí nhân viên
 Chi phí thuê, sửa chữa cửa hàng, văn phòng
@@ -2042,184 +305,12 @@ Chi phí dịch vụ mua ngoài
 Chi phí quảng cáo, tiếp thị
 Chi phí khấu hao TSCĐ
 Trích lập dự phòng
-19.324.250.163.660
-1.365.500.009.895
-709.255.448.094
-406.919.121.229
-190.332.503.749
-3.810.973.807
- 19.844.904.919
- 22.019.913.125.353
-12.609.548.467.262
-886.607.784.037
-644.380.961.379
-267.289.795.397
-140.443.210.118
-1.372.163.399
-34.392.956.980
-14.584.035.338.572
 Báo cáo bộ phận theo khu vực địa lý
 Báo cáo bộ phận theo lĩnh vực kinh doanh
-Công ty và các công ty con chỉ tiến hành hoạt động kinh doanh trong lãnh thổ Việt Nam, do vậy, báo cáo tài chính 
+Công ty và các công ty con chỉ tiến hành hoạt động kinh doanh trong lãnh thổ Việt Nam, do vậy, báo cáo tài chính
 hợp nhất không trình bày báo cáo bộ phận theo khu vực địa lý.
 Báo cáo bộ phận theo lĩnh vực kinh doanh của Công ty và các công ty con như sau:
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 
-080 BÁO CÁO THƯỜNG NIÊN 2021
-Doanh thu thuần từ bán hàng
-ra bên ngoài 
-Tổng doanh thu theo bộ phận
-Chi phí giá vốn phân bổ trực tiếp
-theo bộ phận
-Chi phí hoạt động phân bổ trực tiếp
-theo bộ phận
-Chi phí khấu hao TSCĐ và
-chi phí trả trước
-Tổng chi phí theo bộ phận
-Lợi nhuận thuần từ hoạt động
-kinh doanh theo bộ phận
-Lợi nhuận trước thuế
-theo bộ phận
-Tài sản theo bộ phận
-tại ngày 31.12.2021
-Nợ phải trả theo bộ phận
-tại ngày 31.12.2021
-22.494.961.408.082
-22.494.961.408.082
-(19.343.448.146.483)
- (1.989.205.632.290)
- (616.112.108.960)
- (21.948.765.887.733)
-546.195.520.349
- 554.140.265.577
-10.786.068.729.507
- 
- 9.106.794.490.746 
-Tổng cộng
-(41.558.599.498)
-(41.558.599.498)
-3.011.358.137
- 38.547.241.361
- (1.550.123.911)
- 40.008.475.587
- (1.550.123.911)
- (1.550.123.911)
- (276.587.595.892)
- (41.968.930.431)
-Loại trừ
- khi hợp nhất
-1.247.259.969
-1.247.259.969
- (613.762.320)
- 7.636.124
-(256.040.370)
- (862.166.566)
-385.093.403
- 384.972.340
-9.411.807.289
- 1.033.324.510
-Khác
- 3.977.188.956.083
-3.977.188.956.083
-(3.146.773.576.050)
- (673.480.411.376)
- (153.318.406.552)
-(3.972.958.631.658)
-4.230.324.425
- 4.902.147.319
- 2.144.392.568.351
- 2.030.070.417.549
-Dược phẩm
-18.558.083.791.528
-18.558.083.791.528
-(16.199.685.928.570)
- (1.354.280.098.399)
- (460.987.538.127)
- (18.014.953.565.096)
-543.130.226.432
- 550.403.269.829
-8.908.851.949.759
- 7.117.659.679.118
-Thiết bị tin học,
-điện thoại, linh
-kiện, phụ kiện
-có liên quan
-Đơn vị: VNĐ
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-081
-BÁO CÁO THƯỜNG NIÊN 2021
-Doanh thu thuần từ bán hàng
-ra bên ngoài 
-Tổng doanh thu theo bộ phận
-Chi phí giá vốn phân bổ trực tiếp
-theo bộ phận
-Chi phí hoạt động phân bổ trực tiếp
-theo bộ phận
-Chi phí khấu hao TSC
- và chi phí trả trước
-Tổng chi phí theo bộ phận
-Lợi nhuận/(lỗ) thuần từ hoạt động
-kinh doanh theo bộ phận
-Lợi nhuận/(lỗ) trước thuế
-theo bộ phận
-Tài sản theo bộ phận
-tại ngày 31.12.2020
-Nợ phải trả theo bộ phận
-tại ngày 31.12.2020
-14.661.417.032.222
-14.661.417.032.222
-(12.620.414.733.505)
- (1.380.929.958.490)
- (645.753.124.778)
- (14.647.097.816.773)
-14.319.215.449
- 28.427.378.490
- 5.387.577.886.028
- 4.162.447.981.264
-Tổng cộng
-(5.150.801.556)
-(5.150.801.556)
-4.821.179.011
- 329.622.545
-0
- 5.150.801.556
- 0
-0
- (235.069.973.317)
- (10.069.973.316)
-Loại trừ
- khi hợp nhất
-1.190.840.333.140
-1.190.840.333.140
-(987.883.216.341)
- (229.294.008.992)
- (89.442.052.008)
- (1.306.619.277.341)
-(115.778.944.201)
- (113.128.370.810)
- 636.972.909.585
- 537.796.906.102
-Dược phẩm
-13.475.727.500.638
-13.475.727.500.638
-(11.637.352.696.175)
- (1.151.965.572.043)
- (556.311.072.770)
- (13.345.629.340.988)
-130.098.159.650
- 141.555.749.300
- 4.985.674.949.760
- 3.634.721.048.478
-Thiết bị tin học,
-điện thoại, linh
-kiện, phụ kiện
-có liên quan
-Đơn vị: VNĐ
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-
-082
-BÁO CÁO THƯỜNG NIÊN 2021
 Thuyết minh về các bên liên quan
 Công ty là một công ty cổ phần. Chi tiết của các bên liên quan chính và mối quan hệ sau:
 Bên liên quan
@@ -2239,8 +330,6 @@ Công ty con của Cổ đông lớn
 Giao dịch với các bên liên quan
 Trong năm, các giao dịch chủ yếu sau đây được thực hiện với các bên liên quan:
 Đơn vị: VNĐ
-Năm 2021
-Năm 2020
 Doanh thu bán hàng và cung cấp dịch vụ
 Công ty TNHH Hệ thống Thông tin FPT
 Công ty Cổ phần Viễn thông FPT
@@ -2259,41 +348,7 @@ Thu hồi khoản cho vay
 Công ty Cổ phần FPT
 Lãi thu từ cho vay
 Công ty Cổ phần FPT
-20.174.714.370 
-18.515.512.616 
-12.847.329.911 
-1.961.281.827
- 1.462.483.282
- 54.961.322.006
-27.300.099.659 
- 22.979.339.495 
-11.502.666.620
- 6.583.146.704
-68.365.252.478
-8.050.000.000.000 
-7.375.000.000.000
-75.509.835.604
-38.870.367.632
-8.484.046.728
-4.532.520.292
-15.348.307.183
- 389.388.452
- 67.624.630.287
-11.877.045.435
- 17.212.553.787
- 0
-5.643.237.739
-34.732.836.961
-1.660.000.000.000
-1.035.000.000.000
-13.769.640.729
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
 
-083
-BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Năm 2021
-Năm 2020
 Đi vay
 Công ty Cổ phần FPT
 Thanh toán gốc vay
@@ -2302,16 +357,6 @@ Lãi vay
 Công ty Cổ phần FPT
 Chia cổ tức
 Công ty Cổ phần FPT
-450.000.000.000
-450.000.000.000
-4.976.273.973
-36.754.000.000
-0
-0
-0
-0
-Năm 2021
-Năm 2020
 Phải thu ngắn hạn của khách hàng (Thuyết minh 6)
 Công ty TNHH Hệ thống Thông tin FPT
 Khác
@@ -2320,104 +365,19 @@ Công ty Cổ phần FPT
 Phải thu ngắn hạn khác (Thuyết minh 9(a))
 Công ty Cổ phần FPT
 Công ty Cổ phần Viễn Thông FPT
- 2.667.252.351
- 1.997.469.249
-4.664.721.600
-845.000.000.000
-1.401.945.124
- 918.087.063
-2.320.032.187
-2.696.446.629
-2.193.216.003
-4.988.226.732
-1.520.000.000.000
- 
-14.217.687.824
-0
-14.217.687.824
-Trong năm, Hội đồng Quản trị và Ban Kiểm soát không nhận thù lao. Tiền lương và quyền lợi gộp khác của Ban Tổng 
+Trong năm, Hội đồng Quản trị và Ban Kiểm soát không nhận thù lao. Tiền lương và quyền lợi gộp khác của Ban Tổng
 Giám đốc và người quản lý khác như sau:
-Năm 2021
 Chức danh
 Họ và tên
-Năm 2020
 Ông Hoàng Trung Kiên
 Ông Nguyễn Việt Anh
 Ông Phạm Duy Hoàng Nam
 Bà Trần Thị Nga
 Tổng Giám đốc
-Phó Tổng Giám đốc 
+Phó Tổng Giám đốc
 Giám đốc Tài chính
 Kế toán trưởng
-4.201.000.000
-2.298.475.000
- 1.491.000.000
- 721.475.164
-8.711.950.164
-  1.912.000.000
- 1.166.700.000
- 692.000.000
- 416.266.227
-4.186.966.227
 Đơn vị: VNĐ
 Đơn vị: VNĐ
 Các khoản chi cho nhân sự quản lý chủ chốt
 Số dư cuối năm với các bên liên quan
-
-084 BÁO CÁO THƯỜNG NIÊN 2021
-Thuyết minh báo cáo tài chính hợp nhất (tiếp theo)
-Năm 2021
-Năm 2020
-Phải trả người bán ngắn hạn (Thuyết minh 14)
-Công ty TNHH Phần mềm FPT
-Công ty TNHH Hệ thống Thông tin FPT
-Khác
-Phải trả ngắn hạn khác (Thuyết minh 18)
-Công ty Cổ phần Viễn Thông FPT
-0
- 11.216.576.470
- 1.984.301.208
- 13.200.877.678
-192.321.244
-10.179.505.370
-0
- 2.579.375.177
- 12.758.880.547
-224.008.084
-Năm 2021
-Năm 2020
-Dưới 1 năm 
-Từ 1 đến 5 năm
-Trên 5 năm
-Tổng cộng các khoản thanh toán tối thiểu
-505.873.799.081
-757.202.862.748
-31.265.991.156
-1.294.342.652.985
-530.184.460.947 
-1.143.935.757.165
-0
-1.674.120.218.112
-Cam kết thuê hoạt động
-Công ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang, chủ yếu là thuê cửa hàng và 
-văn phòng, trong tương lai như sau:
-Báo cáo tài chính hợp nhất đã được Ban Tổng Giám đốc của Công ty phê chuẩn ngày 7 tháng 3 năm 2022.
-Đơn vị: VNĐ
-Báo cáo tài chính riêng đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-được đăng tải trên website công ty tại: http://frt.vn/bao-cao-tai-chinh/
-Trần Thị Nga
-Người lập biểu/
-Kế toán trưởng
-Phạm Duy Hoàng Nam
-Giám đốc Tài chính
-Hoàng Trung Kiên
-Tổng Giám đốc
-Ngày 7 tháng 3 năm 2022
-
-CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
-261 - 263 Khánh Hội, Phường 02, Quận 4,
-Thành phố Hồ Chí Minh
-(+84-28) 7302 3456
-http://frt.vn
-2021
-BÁO CÁO THƯỜNG NIÊN

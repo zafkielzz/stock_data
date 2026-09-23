@@ -1,57 +1,104 @@
-CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT 
- 
- 2 
-BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC 
- 
-TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC CỦA CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH 
-HỢP NHẤT 
- 
-Ban Tổng Giám đốc của Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (“Công ty”) chịu trách nhiệm 
-lập và trình bày báo cáo tài chính hợp nhất của Công ty và các công ty con thể hiện trung thực 
-và hợp lý tình hình tài chính hợp nhất của Công ty và các công ty con tại ngày 31 tháng 12 
-năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ 
-hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc cùng ngày nêu trên. Trong 
-việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải: 
- 
- 
-chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán; 
- 
-thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và 
- 
-lập báo cáo tài chính hợp nhất trên cơ sở Công ty và các công ty con hoạt động liên tục trừ 
-khi giả định Công ty và các công ty con hoạt động liên tục là không phù hợp. 
- 
-Ban Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các sổ sách kế toán đúng đắn 
-đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Công ty và các công ty 
-con với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính hợp nhất 
-tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính hợp nhất. 
-Ban Tổng Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của 
-Công ty và các công ty con và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các 
-gian lận hoặc nhầm lẫn. 
- 
-PHÊ CHUẨN BÁO CÁO TÀI CHÍNH HỢP NHẤT 
- 
-Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đính kèm từ trang 5 đến trang 43. 
-Báo cáo tài chính hợp nhất này phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của 
-Công ty và các công ty con tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh 
-doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con cho 
-năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế 
-độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình 
-bày báo cáo tài chính hợp nhất. 
- 
-Thay mặt Ban Tổng Giám đốc 
- 
- 
- 
- 
- 
- 
- 
-──────────────────────  
- 
- 
-Hoàng Trung Kiên 
-Tổng Giám đốc 
- 
-Thành phố Hồ Chí Minh, nước CHXHCN Việt Nam 
+CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC CỦA CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH
+HỢP NHẤT
+Ban Tổng Giám đốc của Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (“Công ty”) chịu trách nhiệm
+lập và trình bày báo cáo tài chính hợp nhất của Công ty và các công ty con thể hiện trung thực
+và hợp lý tình hình tài chính hợp nhất của Công ty và các công ty con tại ngày 31 tháng 12
+năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ
+hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc cùng ngày nêu trên. Trong
+việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+lập báo cáo tài chính hợp nhất trên cơ sở Công ty và các công ty con hoạt động liên tục trừ
+khi giả định Công ty và các công ty con hoạt động liên tục là không phù hợp.
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các sổ sách kế toán đúng đắn
+đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Công ty và các công ty
+con với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính hợp nhất
+tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính hợp nhất.
+Ban Tổng Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của
+Công ty và các công ty con và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các
+gian lận hoặc nhầm lẫn.
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đính kèm từ trang 5 đến trang 43.
+Báo cáo tài chính hợp nhất này phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của
+Công ty và các công ty con tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh
+doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con cho
+năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế
+độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình
+Thay mặt Ban Tổng Giám đốc
+Hoàng Trung Kiên
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, nước CHXHCN Việt Nam
 Ngày 24 tháng 3 năm 2023
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+GỬI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Bán lẻ Kỹ
+thuật số FPT (“Công ty”) và các công ty con được lập ngày 31 tháng 12 năm 2022 và được
+Ban Tổng Giám đốc của Công ty phê chuẩn ngày       tháng 3 năm 2023. Báo cáo tài chính hợp
+nhất này bao gồm: bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022, báo cáo kết
+quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính
+kết thúc cùng ngày nêu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính
+sách kế toán chủ yếu từ trang 5 đến trang 43.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý
+báo cáo tài chính hợp nhất của Công ty và các công ty con theo các Chuẩn mực Kế toán Việt
+Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc
+lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban
+Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính
+hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả
+cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam.
+Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề
+nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc
+liệu báo cáo tài chính hợp nhất của Công ty và các công ty con có còn sai sót trọng yếu hay
+không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán
+về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa
+chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong
+báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này,
+kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty và các công ty con liên quan đến việc
+lập và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm
+toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả
+của kiểm soát nội bộ của Công ty và các công ty con. Công việc kiểm toán cũng bao gồm việc
+đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước
+tính kế toán của Ban Tổng Giám đốc của Công ty cũng như đánh giá việc trình bày tổng thể
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ
+và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+Công ty TNHH PwC (Việt Nam)
+Số 29, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+
+CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+Báo cáo bộ phận
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty và các công ty con
+tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt
+động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ
+thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích
+khác biệt với các bộ phận khác. Báo cáo bộ phận chính yếu của Công ty và các công ty
+con là dựa theo bộ phận chia theo hoạt động kinh doanh.
+Ước tính kế toán trọng yếu
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế
+độ Kế toán Doanh nghiệp  Việt Nam và các quy định pháp lý có liên quan đến việc lập và
+trình bày báo cáo tài chính hợp nhất yêu cầu Ban Tổng Giám đốc phải có những ước tính
+và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc  trình bày các khoản công
+nợ và tài sản tiềm tàng tại ngày kết thúc kỳ kế toán cũng như  các số liệu về doanh thu và
+chi phí trong suốt năm tài chính.
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao
+Dự phòng phải thu khó đòi (Thuyết minh 9);
+Dự phòng giảm giá hàng tồn kho (Thuyết minh 10);
+Thời gian sử dụng hữu ích của TSCĐ (Thuyết minh 12); và
+Ước tính thuế TNDN (Thuyết minh 28).
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá
+khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới
+báo cáo tài chính hợp nhất của Công ty và các công ty con và được Ban Tổng Giám đốc
+đánh giá là hợp lý.
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Tiền mặt
+Tiền gửi ngân hàng không kỳ hạn
+Tiền đang chuyển
+Các khoản tương đương tiền (*)
+(*)  Các khoản tương đương tiền bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc từ
+1 đến 3 tháng với lãi suất là 6%/năm (2021: từ 3,8%/năm đến 4%/năm).

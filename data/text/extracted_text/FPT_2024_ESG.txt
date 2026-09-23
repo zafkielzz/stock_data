@@ -1,1379 +1,931 @@
-17
-02
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-Dấu ấn 2024
-Tổng quan về FPT
-02
-DẤU ẤN 2024 VÀ TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-06
-BÁO CÁO ESG
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
+GIẢI THƯỞNG TIÊU BIỂU
+CÔNG NGHỆ
+ĐẲNG CẤP
+KINH DOANH VÀ
+QUẢN TRỊ
+MÔI TRƯỜNG LÀM VIỆC
+ĐẲNG CẤP
+PHÁT TRIỂN
+BỀN VỮNG
+tảng
+toàn
+(Software Reviews)
+•	Bằng sáng chế AI tại Mỹ, Nhật Bản
+(USPTO, JPO)
+•	Doanh
+nghiệp
+Sáng
+trong
+Chuyển đổi số, Dịch vụ Tư vấn chuyển
+đổi số (Stevie Awards)
+•	Top 50 Công ty dịch vụ CNTT châu Á
+(Gartner)
+•	Top 8 Nhà tư vấn tốt nhất về IoT hàng
+đầu khu vực châu Á Thái Bình Dương
+(Forrester)
+•	Công ty dịch vụ CNTT lớn nhất tại
+Đông Nam Á (Fortune)
+•	Top 100 Công ty CNTT hàng đầu tại
+Pháp (Numeum và KPMG France)
+•	Top 10 Doanh nghiệp công nghệ số
+xuất sắc Việt Nam (VINASA)
+•	Top 10 Sao Khuê (VINASA)
+•	Top 10 Thương hiệu bền vững Better
+Choice Awards (NIC, VCorp, MIC)
+•	FPT.AI Sản phẩm công nghệ số
+tiêu biểu Make in Viet Nam giai
+•	akaBot lần thứ hai liên tiếp có mặt
+trong báo cáo Gartner® Peer Insights™
+•	Top 5 Thương hiệu mạnh nhất Việt Nam
+(Brand Finance)
+•	Top 10 Sao Vàng đất Việt (Báo Đầu tư)
+•	Top 50 Công ty kinh doanh hiệu quả
+nhất Việt Nam (Tạp chí Nhịp cầu Đầu tư
+và Công ty Chứng khoán Thiên Việt)
+•	Doanh nghiệp đạt Chuẩn công bố
+thông tin (Vietstock, Hiệp hội VAFE và
+Tạp chí điện tử Fili)
+•	Top 10 Công ty đại chúng uy tín và
+hiệu quả (Vietnam Report)
+•	Top 50 Công ty niêm yết tốt nhất
+Việt Nam (Forbes Việt Nam)
+•	Top 50 Doanh nghiệp niêm yết thực
+•	Top 3 Doanh nghiệp nhóm vốn hóa lớn
+có hoạt động IR được nhà đầu tư yêu
+thích nhất (Vietstock, Hiệp hội VAFE và
+Tạp chí điện tử Fili)
+•	Top 3 Doanh nghiệp nhóm vốn hóa lớn
+có hoạt động IR được Định chế tài chính
+đánh giá cao nhất (Vietstock, Hiệp hội
+VAFE và Tạp chí điện tử Fili)
+•	Top 10 Doanh nghiệp nhóm vốn hóa
+•	Top 10 Nơi làm việc tốt nhất
+Việt Nam (Anphabe)
+•	Nơi làm việc tốt nhất tại Đức,
+Philippines, Nhật Bản, Singapore,
+Mỹ (Great Place To Work®)
+•	Nơi làm việc tốt nhất cho phụ nữ tại
+Nhật Bản (Great Place To Work®)
+•	Top 1 Nhà tuyển dụng được yêu thích
+nhất ngành Công nghệ thông tin
+(CareerViệt)
+•	Top 1 Nhà tuyển dụng được yêu thích
+nhất ngành Viễn thông (CareerViet và
+Amco Việt Nam)
+•	Chuẩn quốc tế ISO 45001:2018 về
+An toàn sức khỏe nghề nghiệp (ISO)
+•	Hạng Bạc Kinh doanh phát triển
+bền vững Ecovadis
+•	Doanh nghiệp có đóng góp xuất sắc
+về Môi trường, Xã hội và Quản trị tại
+Việt Nam (AmCham)
+•	Doanh nghiệp CSR tiêu biểu của
+Việt Nam và Hoạt động cộng đồng
+ấn tượng nhất toàn cầu (Hội nghị
+CSR & ESG toàn cầu)
+•	Cổ phiếu công nghệ duy nhất được
+xếp trong danh mục 20 cổ phiếu thành
+phần chỉ số VNSI (HoSE)
+•	Top 10 Thương hiệu bền vững nhờ
+đổi mới sáng tạo (Trung tâm Đổi mới
+sáng tạo Quốc gia và VCCorp)
+•	Top 50 Doanh nghiệp phát triển bền
+vững tiêu biểu Việt Nam (Tạp chí
+Nhịp cầu đầu tư)
+
 BAN HÀNH CHÍNH SÁCH ESG, CAM KẾT NETZERO 2040
-Lần đầu tiên FPT công bố định hướng ESG với các chương trình hành động và mục tiêu 
-cụ thể. Đặc biệt, FPT đã đưa ra cam kết tiên phong ở Việt Nam trong các hoạt động nhằm 
-giảm tác động phát thải khí nhà kính. FPT cũng khẳng định ESG là yếu tố quan trọng 
-để phát huy giá trị cốt lõi, tiếp tục thực hiện sứ mệnh Tập đoàn toàn cầu trường tồn và 
+Lần đầu tiên FPT công bố định hướng ESG với các chương trình hành động và mục tiêu
+cụ thể. Đặc biệt, FPT đã đưa ra cam kết tiên phong ở Việt Nam trong các hoạt động nhằm
+giảm tác động phát thải khí nhà kính. FPT cũng khẳng định ESG là yếu tố quan trọng
+để phát huy giá trị cốt lõi, tiếp tục thực hiện sứ mệnh Tập đoàn toàn cầu trường tồn và
 hạnh phúc.
-Tập đoàn cam kết phát triển bền vững theo chuẩn ESG thể hiện qua bốn khía cạnh trọng 
-yếu: Quản trị xuất sắc, Môi trường làm việc đẳng cấp, Hoạt động môi trường và Song 
-hành vì sự phát triển của cộng đồng. Trong năm 2024, FPT ban hành và sửa đổi các chính 
-sách liên quan đến ESG, đồng thời triển khai đào tạo trên toàn tập đoàn bộ chính sách 
-ESG với tỷ lệ hoàn thành khoá học đạt 97,5%. FPT là công ty công nghệ đầu tiên của Việt 
-Nam tham gia hợp tác với Chương trình Năng lượng phát thải thấp Việt Nam II (V-LEEP II) 
-hướng tới mục tiêu đạt NetZero vào năm 2040. Đồng thời, với mong muốn nâng cao nhận 
-thức về tầm quan trọng của ESG trong cộng đồng doanh nghiệp và nhà đầu tư, xây dựng 
-hệ sinh thái ESG, Tổng giám đốc FPT Nguyễn Văn Khoa đã tham gia và trở thành thành 
+Tập đoàn cam kết phát triển bền vững theo chuẩn ESG thể hiện qua bốn khía cạnh trọng
+yếu: Quản trị xuất sắc, Môi trường làm việc đẳng cấp, Hoạt động môi trường và Song
+hành vì sự phát triển của cộng đồng. Trong năm 2024, FPT ban hành và sửa đổi các chính
+sách liên quan đến ESG, đồng thời triển khai đào tạo trên toàn tập đoàn bộ chính sách
+ESG với tỷ lệ hoàn thành khoá học đạt 97,5%. FPT là công ty công nghệ đầu tiên của Việt
+Nam tham gia hợp tác với Chương trình Năng lượng phát thải thấp Việt Nam II (V-LEEP II)
+hướng tới mục tiêu đạt NetZero vào năm 2040. Đồng thời, với mong muốn nâng cao nhận
+thức về tầm quan trọng của ESG trong cộng đồng doanh nghiệp và nhà đầu tư, xây dựng
+hệ sinh thái ESG, Tổng giám đốc FPT Nguyễn Văn Khoa đã tham gia và trở thành thành
 viên sáng lập Hội đồng cấp cao Diễn đàn ESG Việt Nam.
 SONG HÀNH CỘNG ĐỒNG, TÁI THIẾT SAU SIÊU BÃO YAGI
-Các hoạt động trách nhiệm xã hội của FPT luôn hướng đến việc tạo ra những giá trị lâu dài 
-cho xã hội và có tính truyền cảm hứng cao hướng đến mục tiêu song hành vì sự phát triển 
-cộng đồng, đóng góp vì một quốc gia hạnh phúc như: Dự án trường Hy Vọng, nhận nuôi 
-trẻ em mồ côi do Covid-19; Chương trình Chắp cánh ước mơ, Ánh sáng học đường rút 
-ngắn khoảng cách về điều kiện học tập vùng khó khăn …. Đặc biệt, trong cơn bão Yagi, 
-cơn bão mạnh nhất 30 năm qua, FPT đã tham gia Chiến dịch “Cùng đồng bào vượt lũ” 
-do Quỹ Hy Vọng phát động thông qua việc tái thiết các trường học, hỗ trợ học sinh, giáo 
-viên bị ảnh hưởng bởi bão Yagi. Bên cạnh đó, Tập đoàn cũng đã hỗ trợ hơn 1.400 gia đình 
+Các hoạt động trách nhiệm xã hội của FPT luôn hướng đến việc tạo ra những giá trị lâu dài
+cho xã hội và có tính truyền cảm hứng cao hướng đến mục tiêu song hành vì sự phát triển
+cộng đồng, đóng góp vì một quốc gia hạnh phúc như: Dự án trường Hy Vọng, nhận nuôi
+trẻ em mồ côi do Covid-19; Chương trình Chắp cánh ước mơ, Ánh sáng học đường rút
+ngắn khoảng cách về điều kiện học tập vùng khó khăn …. Đặc biệt, trong cơn bão Yagi,
+cơn bão mạnh nhất 30 năm qua, FPT đã tham gia Chiến dịch “Cùng đồng bào vượt lũ”
+do Quỹ Hy Vọng phát động thông qua việc tái thiết các trường học, hỗ trợ học sinh, giáo
+viên bị ảnh hưởng bởi bão Yagi. Bên cạnh đó, Tập đoàn cũng đã hỗ trợ hơn 1.400 gia đình
 CBNV bị ảnh hưởng do bão Yagi.
 
-61
-04
-Đánh giá của HĐQT về hoạt động của 
+Trong suốt 36 năm qua, FPT luôn khẳng định vị thế tiên phong, dẫn đầu trong
+các lĩnh vực Công nghệ, Viễn thông và Giáo dục. Đón đầu xu hướng công nghệ,
+thị trường, FPT đã tạo dựng Hệ sinh thái dịch vụ, sản phẩm, giải pháp, nền tảng
+Made by FPT thúc đẩy phát triển, tăng trưởng bền vững của các tổ chức, doanh
+nghiệp cũng như mang đến những trải nghiệm mới, khác biệt cho người dùng.
+NGÀNH NGHỀ KINH DOANH
+VỊ THẾ TRÊN THỊ TRƯỜNG
+•	Top 50 Công ty dịch vụ CNTT châu Á;
+•	Công ty dịch vụ CNTT lớn nhất Đông Nam Á;
+•	Top 1 công ty tư vấn chuyển đổi số và chuyển đổi xanh cho các tổ chức, doanh nghiệp
+Việt Nam thuộc nhiều lĩnh vực như Sản xuất, Nông nghiệp, Năng lượng,
+Bất động sản …;
+•	Đối tác tin cậy, cùng kiến tạo các giá trị mới bằng công nghệ của các doanh nghiệp
+và tổ chức dẫn đầu Việt Nam và trên toàn cầu;
+•	Nhà cung cấp dịch vụ Trí tuệ nhân tạo và Điện toán đám mây đẳng cấp thế giới.
+DỊCH VỤ, GIẢI PHÁP TIÊU BIỂU
+Công nghệ
+Nền tảng AI toàn cầu
+Nhân lực công nghệ
+Nền tảng, giải pháp,
+sản phẩm Made by FPT
+Chứng chỉ NVIDIA
+02 Nhà máy AI
+Tổ hợp đào tạo và
+công viên phần mềm
+Tại Việt Nam và Nhật Bản
+Nhóm dịch vụ
+•	Tư vấn Chuyển đổi số, Chuyển đổi xanh và Chuyển đổi trí tuệ nhân tạo;
+•	Thiết kế, triển khai, tích hợp, vận hành, bảo trì, kiểm thử ... các hệ thống CNTT;
+•	Dịch vụ an toàn, an ninh mạng;
+•	Cung cấp các giải pháp dựa trên các nền tảng công nghệ: NVIDIA, Landing AI, SAP,
+Oracle, Microsoft, ESRI ….
+Nhóm sản phẩm, giải pháp
+•	Cung cấp các nền tảng công nghệ tiên tiến như: nền tảng trí tuệ nhân tạo FPT.AI, nền
+tảng điện toán đám mây FPT Cloud, nền tảng quản trị doanh nghiệp Base.vn;
+•	Phát triển Chíp nguồn và Chíp IoT;
+•	Sản phẩm, giải pháp chuyển đổi số tích hợp công nghệ AI, AI tạo sinh (Generative
+AI), tự động hóa (RPA), kết nối vạn vật (IoT) … chuyên sâu cho các lĩnh vực như:
+Chính phủ, Viễn thông, Ngân hàng - Tài chính, Y tế, Giao thông vận tải, Tài chính công,
+Năng lượng, Doanh nghiệp, Ô tô …;
+•	Sản phẩm, giải pháp tiên tiến giải quyết các bài toán nghiệp vụ chuyên sâu của doanh
+nghiệp như: quản lý chuỗi cung ứng, quản lý tài chính, quản lý nguồn nhân lực, quản
+lý quan hệ khách hàng & trải nghiệm người dùng, quản lý phát triển bền vững, chuyển
+đổi quy trình kinh doanh ….
+
+Người học quy đổi
+trên toàn hệ thống
+Quốc gia có hợp tác đào tạo
+Tỉnh, thành có
+cơ sở đào tạo
+Đối tác quốc tế
+Giáo dục
+VỊ THẾ TRÊN THỊ TRƯỜNG
+•	Tổ chức giáo dục và Trường Đại học có tầm ảnh hưởng khu vực châu Á – Thái Bình Dương
+do BrandLaureate đánh giá;
+•	Đạt thứ hạng 401-600 trong bảng xếp hạng đại học toàn cầu về phát triển bền vững
+The Impact Rankings 2024 và xếp hạng 101-200: SDG4 (chất lượng giáo dục), SDG11
+(cộng đồng bền vững) và SDG16 (tổ chức vững mạnh);
+•	03 chương trình đào tạo chuyên sâu ngành chip và bán dẫn tại: Trường Đại học FPT,
+Cao đẳng BTEC FPT	 và Jetking FPT.
+CÁC KHỐI ĐÀO TẠO
+•	Giáo dục Phổ thông;
+•	Giáo dục Nghề nghiệp;
+•	Giáo dục Đại học.
+
+Bối cảnh kinh tế vĩ mô
+của FPT
+Tiềm năng và cơ hội phát triển của
+ngành CNTT
+TIỀM NĂNG VÀ CƠ HỘI PHÁT TRIỂN CỦA NGÀNH CNTT
+CHI TIÊU CHO DỊCH VỤ CNTT
+TOÀN CẦU TĂNG TRƯỞNG 9,0%
+Theo báo cáo của Gartner, năm 2024, lần đầu tiên dịch vụ CNTT trở thành lĩnh vực
+chi tiêu lớn nhất trong ngành CNTT, đạt 1.588 tỷ USD, chiếm 31% tổng thị trường CNTT
+toàn cầu, tăng 5,6% so với cùng kỳ. Gartner dự báo xu hướng này sẽ tiếp tục trong
+năm 2025 với mức chi tiêu cho lĩnh vực dịch vụ CNTT toàn cầu đạt 1.731 tỷ USD, tăng 9,0%
+so với năm 2024. Tăng trưởng này chủ yếu nhờ vào xu hướng ứng dụng AI trong vận hành
+doanh nghiệp, thúc đẩy nhu cầu về hạ tầng trung tâm dữ liệu và gia tăng chi phí dịch vụ
+thường xuyên liên quan đến AI.
+DỰ BÁO CHI TIÊU CNTT TOÀN CẦU 2024-2025
+Tăng
+trưởng
+Tăng
+trưởng
+Trung tâm Dữ liệu
+Phần cứng
+Phần mềm
+Dịch vụ Công nghệ Thông tin
+Dịch vụ Viễn thông
+Tổng
+Nguồn: Gartner (Tháng 1/2025)
+Đơn vị: tỷ USD
+Theo IDC, chi tiêu toàn cầu cho chuyển đổi số dự kiến đạt gần 4.000 tỷ USD vào năm
+2027, với tốc độ tăng trưởng kép 16,2% trong giai đoạn 2022-2027. Dự báo với xu hướng
+ưu tiên số hóa các hoạt của doanh nghiệp, đầu tư cho chuyển đổi số sẽ đạt hoặc thậm
+chí vượt mức 2/3 tổng chi tiêu cho CNTT-TT vào năm 2027.
+Các doanh nghiệp đầu tư mạnh nhất vào chuyển đổi số dự kiến thuộc lĩnh vực Sản xuất rời
+rạc (Discrete Manufacturing) và Dịch vụ tài chính. Trong Sản xuất rời rạc, đầu tư chuyển
+đổi số sẽ tập trung vào gia tăng trải nghiệm và phát triển bền vững. Trong Dịch vụ tài
+chính, đầu tư chuyển đổi số chủ yếu vào việc xử lý khiếu nại tự động bằng robot, tư vấn
+tài chính theo thời gian thực và trải nghiệm ngân hàng kỹ thuật số với tốc độ tăng trưởng
+kép lần lượt là 29,5% và 29,3%.
+CHI TIÊU CHO CHUYỂN ĐỔI SỐ
+TĂNG TRƯỞNG KÉP 16,2%
+Chi tiêu cho chuyển đổi số
+Tổng chi tiêu cho CNTT-TT
+Đơn vị: tỷ USD
+Chi tiêu do chuyển đổi số
+Nguồn IDC
+Cũng theo Gartner, năm 2025, chi tiêu cho CNTT của doanh nghiệp dự kiến tăng 1,7%
+so với năm trước. Các mảng công nghệ đầu tư nhiều nhất là AI tạo sinh (tăng 32%),
+AI (tăng 30%) và bảo mật thông tin, an ninh mạng (tăng 29%).
+
+Bối cảnh kinh tế vĩ mô
+của FPT
+Tiềm năng và cơ hội phát triển của
+ngành CNTT
+Thị trường bán dẫn Việt Nam
+31,4 Tỷ USD
+vào năm 2029
+Trí tuệ nhân tạo đóng góp
+79,3 Tỷ USD
+cho Việt Nam vào năm 2030
+Theo Grand View Research, quy mô thị trường phần mềm ô tô toàn cầu được định
+giá 29,3 tỷ USD vào năm 2024 và dự kiến sẽ tăng trưởng kép 15,0% trong giai đoạn
+2025-2030. Còn Gartner nhận định phần mềm và điện khí hóa sẽ vẫn là hai động lực
+chính thúc đẩy sự chuyển đổi của ngành ô tô.
+Công nghệ tự động hóa và hệ thống hỗ trợ lái tiên tiến (ADAS) đang được tập trung phát
+triển nhằm nâng cao mức độ an toàn và trải nghiệm lái xe. Các hãng xe lớn đẩy mạnh
+đầu tư vào xe tự lái, hướng đến cấp độ có thể vận hành hoàn toàn không cần con người
+can thiệp (cấp độ 4 và 5). Bên cạnh đó, ngành ô tô đang tích hợp Internet vạn vật, giúp
+phương tiện kết nối với điện thoại, nhà thông minh và thiết bị khác, tạo nên hệ sinh thái
+tiện ích toàn diện toàn diện cho người dùng.
+Báo cáo của IDTechEx dự báo có sự tăng trưởng đáng kể trong thị trường ô tô SDV
+(Phương tiện được xác định bằng phần mềm) và AI cho lĩnh vực ô tô, với giá trị ước tính
+hơn 700 tỷ USD vào năm 2034.
+Theo Grand View Research, thị trường công nghệ xanh và phát triển bền vững toàn
+cầu đạt 19,1 tỷ USD vào năm 2023 và dự kiến đạt tốc độ tăng trưởng kép 22,9%
+trong giai đoạn 2024-2030 nhờ nhận thức môi trường gia tăng và mối lo ngại về biến đổi
+khí hậu trong các tổ chức, cá nhân.
+Việc tích hợp IoT, AI, Blockchain giúp giảm lãng phí năng lượng, dự báo biến đổi
+môi trường và nâng cao hiệu suất công nghệ xanh. Đồng thời, việc định giá carbon
+và hệ thống giao dịch khí thải sẽ khuyến khích doanh nghiệp giảm phát thải nhờ
+công nghệ kỹ thuật số.
+Chính phủ toàn cầu đang triển khai chính sách ưu đãi nhằm hạn chế khí thải carbon và
+thúc đẩy năng lượng sạch, qua đó tăng nhu cầu về công nghệ xanh, giải pháp bền vững.
+THỊ TRƯỜNG PHẦN MỀM Ô TÔ
+TĂNG 15,0% TRONG 05 NĂM TỚI
+CHUYỂN ĐỔI XANH, PHÁT TRIỂN
+BỀN VỮNG LÀ XU HƯỚNG TẤT YẾU
+VIỆT NAM LÀ TÂM ĐIỂM CỦA TRÍ TUỆ
+NHÂN TẠO VÀ BÁN DẪN
+Việt Nam hiện thu hút 174 dự án FDI trong lĩnh vực bán dẫn với tổng vốn đăng ký
+gần 11,6 tỷ USD. Doanh thu thị trường bán dẫn Việt Nam dự kiến đạt 18,2 tỷ USD vào năm
+2024 và 31,4 tỷ USD vào năm 2029 với tốc độ tăng trưởng kép 11,48% trong giai đoạn
+2024-2029. Việt Nam hiện có hơn 50 doanh nghiệp thiết kế vi mạch với khoảng 6.000
+kỹ sư. Lĩnh vực đóng gói và kiểm thử có bảy nhà máy với khoảng 6.000 kỹ sư và hơn
+10.000 kỹ thuật viên.
+Trong lĩnh vực AI, theo Báo cáo Cơ hội AI cho Việt Nam của Google, tiềm năng của
+công nghệ này tại Việt Nam là rất lớn. Dự kiến, AI có thể đóng góp 79,3 tỷ USD cho nền
+kinh tế Việt Nam, tương đương 12% GDP vào năm 2030. Báo cáo này cũng chỉ ra rằng,
+Việt Nam đang thiếu hụt nghiêm trọng nguồn lực AI.
+Theo Chương trình Phát triển Nguồn nhân lực ngành công nghiệp bán dẫn đến
+năm 2030, định hướng đến năm 2050, Việt Nam cần ít nhất 50.000 kỹ sư bán dẫn và
+5.000 kỹ sư có chuyên môn sâu về AI vào năm 2030 để có chỗ đứng trên bản đồ AI,
+bán dẫn thế giới.
+
+Đánh giá của HĐQT về hoạt động của
 Tập đoàn
-Báo cáo của Ban Điều hành về kết quả 
+Báo cáo của Ban Điều hành về kết quả
 kinh doanh 2024 và nhận định 2025
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-06
-BÁO CÁO ESG
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
+ĐÁNH GIÁ CHUNG
+BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ
+KINH DOANH 2024 VÀ NHẬN ĐỊNH 2025
+Bối cảnh chung
+Kết quả kinh doanh
+Năm 2024 mở ra trong bối cảnh kinh tế toàn cầu tiếp tục chịu tác động sâu rộng từ các
+biến động vĩ mô và địa chính trị. Tăng trưởng kinh tế tại các nền kinh tế chủ chốt như
+Hoa Kỳ, Liên minh châu Âu và Trung Quốc đang có dấu hiệu suy giảm do các chính sách
+tiền tệ thắt chặt kéo dài nhằm kiểm soát lạm phát. Cùng với đó, sự phân mảnh của hệ
+thống thương mại quốc tế và sự bất định trong chính sách tài khóa đã gây ảnh hưởng
+đáng kể đến niềm tin của nhà đầu tư và các hoạt động sản xuất, kinh doanh trên phạm vi
+toàn cầu. Những biến động địa chính trị kéo dài làm gián đoạn chuỗi cung ứng và gia tăng
+chi phí giao thương, tạo thách thức lớn cho doanh nghiệp trong việc duy trì ổn định sản
+xuất và chuỗi giá trị. Tuy nhiên, xu hướng dịch chuyển chuỗi cung ứng nhằm giảm thiểu
+rủi ro cũng mang lại cơ hội cho các nền kinh tế mới nổi như Việt Nam, giúp thu hút đầu tư
+nước ngoài, phát triển công nghệ cao và thúc đẩy năng lực sản xuất trong nước.
+Mặc dù chịu ảnh hưởng từ những biến động toàn cầu, nền kinh tế Việt Nam vẫn duy trì
+tốc độ tăng trưởng tích cực, nhờ vào sự linh hoạt trong điều hành chính sách và khả năng
+thích ứng của cộng đồng doanh nghiệp. GDP năm 2024 ước tính tăng 7,1% so với năm
+trước với các động lực chính bao gồm xuất khẩu công nghệ cao, dòng vốn đầu tư trực
+tiếp nước ngoài (FDI) ổn định và sự phục hồi của tiêu dùng nội địa. Chính phủ tiếp tục cải
+cách thể chế, đẩy mạnh đầu tư vào hạ tầng số, phát triển công nghệ cao và nâng cao chất
+lượng nguồn nhân lực, đặc biệt trong lĩnh vực công nghệ thông tin. Đồng thời, các chính
+sách hỗ trợ doanh nghiệp, kiểm soát lạm phát và ổn định tỷ giá đang tạo điều kiện thuận
+lợi cho các doanh nghiệp công nghệ, trong đó có FPT, mở rộng hoạt động và đóng góp
+vào quá trình chuyển đổi số quốc gia.
+Trong bối cảnh đó, FPT tiếp tục khẳng định vai trò tiên phong trong hệ sinh thái công nghệ
+của Việt Nam, đóng góp tích cực vào tiến trình chuyển đổi số của quốc gia. Với chiến
+lược tập trung vào các lĩnh vực cốt lõi như công nghệ thông tin, viễn thông và giáo dục,
+Tập đoàn không chỉ duy trì tốc độ tăng trưởng ổn định mà còn mở rộng sự hiện diện trên
+thị trường quốc tế. FPT tận dụng hiệu quả xu hướng tái cơ cấu chuỗi cung ứng toàn cầu
+và sự phát triển của công nghệ AI để đẩy mạnh năng lực cạnh tranh, đồng thời nâng cao
+giá trị gia tăng trong các sản phẩm và dịch vụ công nghệ cao.
+FPT ghi nhận kết quả kinh doanh ấn tượng với doanh thu đạt 62.849 tỷ đồng và lợi nhuận
+trước thuế (LNTT) đạt 11.070 tỷ đồng, tăng trưởng lần lượt 19,4% vào 20,3% so với năm
+2023, vượt 102% mục tiêu kế hoạch đã đề ra tại Đại hội đồng Cổ đông (ĐHĐCĐ) thường
+niên 2024. Đóng vai trò then chốt trong sự tăng trưởng này là lĩnh vực Dịch vụ CNTT cho
+thị trường nước ngoài với doanh thu tăng trưởng 27,4% so với năm trước, đạt 30.953 tỷ
+đồng (tương đương 1,2 tỷ USD). Thành công này chủ yếu nhờ vào làn sóng chuyển đổi số
+bùng nổ trên toàn cầu, đặc biệt tại thị trường Nhật Bản với mức tăng trưởng 32,2% và khu
+vực châu Á Thái Bình Dương tăng trưởng 34,8%.
+Đáng chú ý, mảng Dịch vụ Chuyển đổi số ghi nhận doanh thu 14.340 tỷ đồng, tăng trưởng
+37,6% so với năm trước và chiếm 46,3% tổng doanh thu từ Dịch vụ CNTT cho thị trường
+nước ngoài. Kết quả này không chỉ phản ánh nhu cầu chuyển đổi số ngày càng tăng mà
+còn khẳng định vị thế dẫn đầu và năng lực cung cấp dịch vụ công nghệ tiên tiến của FPT
+trên thị trường quốc tế. Bên cạnh việc đẩy mạnh hoạt động kinh doanh, FPT cũng tích
+cực mở rộng hợp tác chiến lược với các đối tác lớn trên toàn cầu nhằm gia tăng phạm vi
+hoạt động, đồng thời nâng cao năng lực công nghệ để theo kịp những đổi mới và sáng
+tạo không ngừng trong ngành.
+Nhờ chủ động ứng dụng công nghệ để tối ưu hóa vận hành và nắm bắt cơ hội, khối
+Viễn thông và khối Giáo dục, Đầu tư và Khác tiếp tục duy trì mức tăng trưởng ổn định.
+Doanh thu khối Viễn thông tăng trưởng 11,4%; khối Giáo dục, Đầu tư và Khác đạt mức
+tăng trưởng 14,3%. Những kết quả này cho thấy khả năng thích ứng và sức chống chịu tốt
+của FPT trước những biến động của nền kinh tế trong nước và quốc tế, đồng thời khẳng
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+MỘT SỐ CHỈ TIÊU HOẠT ĐỘNG KINH DOANH CHÍNH TRONG NĂM 2024
+(*) Riêng Lãi cơ bản trên cổ phiếu đơn vị là: VNĐ
+Chỉ tiêu
+Tăng/Giảm
+Tổng tài sản
+Doanh thu
+Lợi nhuận từ hoạt động kinh doanh
+LNTT, lãi vay và khấu hao (EBITDA)
+LNTT
+LNST
+Lãi cơ bản trên cổ phiếu (*)
+Cổ tức tiền mặt trả trong năm
+Tỷ lệ lợi nhuận trả cổ tức
+Đơn vị: VNĐ
+Các chỉ tiêu tài chính chủ yếu
+CHỈ TIÊU VỀ KHẢ NĂNG THANH TOÁN
+Hệ số thanh toán ngắn hạn và Hệ số thanh toán nhanh đều được cải thiện so với năm
+trước, lần lượt đạt 1,31 lần và 1,25 lần. Sự cải thiện trong các chỉ tiêu thanh toán với các
+hệ số đều nằm ở mức an toàn trên 1,0 lần, cho thấy FPT tiếp tục duy trì tình hình tài chính
+lành mạnh nhờ khả năng quản lý dòng tiền hiệu quả, qua đó tạo dư địa về mặt tài chính
+để mở rộng hoạt động sản xuất kinh doanh và đầu tư.
+CHỈ TIÊU VỀ CƠ CẤU VỐN
+Các chỉ tiêu Nợ/Tổng tài sản và Nợ/Vốn chủ sở tiếp tục được cải thiện so với năm trước,
+thể hiện sự phát triển bền vững của Tập đoàn, góp phần giảm áp lực tài chính và rủi ro từ
+biến động lãi suất. Cuối năm 2024, lượng tiền mặt ròng đạt 16.153 tỷ đồng, tăng 56,3%
+so với năm 2023.
+CHỈ TIÊU VỀ NĂNG LỰC HOẠT ĐỘNG
+Vòng quay tiền mặt của FPT giảm từ 51,3 ngày xuống còn 47,1 ngày cho thấy cải thiện
+đáng kể về hiệu quả vận hành với việc quản lý hàng tồn kho tốt hơn, chính sách kiểm soát
+công nợ hiệu quả và tối ưu hóa dòng tiền. Qua đó, FPT đảm bảo ổn định hoạt động kinh
+doanh, giảm thiểu rủi ro và áp lực vốn lưu động.
+CHỈ TIÊU VỀ KHẢ NĂNG SINH LỜI
+Các chỉ tiêu về khả năng sinh lời đều được cải thiện so với năm trước, cho thấy hiệu quả
+hoạt động của FPT dù môi trường kinh doanh có nhiều biến động. Tỷ suất sinh lời trên vốn
+chủ sở hữu (ROE) tiếp tục được cải thiện trong năm 2024 khi FPT mở rộng quy mô, đạt
+28,5%, cho thấy khả năng quản lý và sử dụng vốn hiệu quả, qua đó tối đa hóa lợi nhuận
+và tạo giá trị gia tăng cho nhà đầu tư.
+Chỉ tiêu
+1. Chỉ tiêu về khả năng thanh toán
+Hệ số thanh toán ngắn hạn (lần)
+Hệ số thanh toán nhanh (lần)
+2. Chỉ tiêu về cơ cấu vốn và đảm bảo lãi vay
+Hệ số Nợ/Tổng tài sản
+Hệ số Nợ/Vốn chủ sở hữu
+Hệ số Nợ thuần/Vốn chủ sở hữu
+3. Chỉ tiêu về năng lực hoạt động
+Vòng quay hàng tồn kho (lần)
+Vòng quay khoản phải thu (lần)
+Vòng quay khoản phải trả (lần)
+Vòng quay tiền mặt (ngày)
+4. Chỉ tiêu về khả năng sinh lời
+Tỷ suất lợi nhuận từ hoạt động kinh doanh
+Tỷ suất lợi nhuận trước thuế
+Tỷ suất lợi nhuận sau thuế
+Tỷ suất sinh lời trên VCSH (ROE)
+Tỷ suất sinh lời trên vốn đầu tư (ROCE)
+Tỷ suất sinh lời trên tổng tài sản (ROA)
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+Ông NGUYỄN HOÀNG MINH
+Tổng giám đốc FPT IS, Tập đoàn FPT
+Năm 2024, với năng lực công nghệ và kinh nghiệm triển khai thực tiễn, FPT tiếp tục đồng hành
+cùng Chính phủ, doanh nghiệp để tháo gỡ rào cản, thúc đẩy quá trình chuyển đổi số một cách
+hiệu quả và bền vững. Năm 2025, trước những cơ hội to lớn trong bối cảnh kỷ nguyên vươn
+mình của dân tộc, kỷ nguyên của công nghệ AI trên toàn cầu, FPT cam kết tiếp tục là đối tác
+đồng hành tin cậy của Chính phủ, địa phương và doanh nghiệp nhằm khai phá sức mạnh của
+công nghệ, kiến tạo các giá trị mới.
+LĨNH VỰC DỊCH VỤ CNTT CHO THỊ TRƯỜNG TRONG NƯỚC
+Năm 2024, doanh thu và LNTT lĩnh vực Dịch vụ CNTT cho thị trường trong nước của FPT
+đạt lần lượt 8.157 tỷ đồng và 461 tỷ đồng, tăng trưởng 13,9% và 21,1% so với cùng kỳ.
+Sự tăng trưởng này chủ yếu nhờ nhu cầu đầu tư vào công nghệ mới phục hồi mạnh mẽ
+từ khối ngân hàng - tài chính và các doanh nghiệp sau giai đoạn trầm lắng trước đó. Bên
+cạnh đó, các mảng tư vấn chuyển đổi số, cùng với giải pháp AI và Cloud, cũng ghi nhận
+kết quả tích cực, góp phần thúc đẩy đà tăng trưởng bền vững cho FPT trong năm 2024.
+Dịch chuyển mạnh mẽ cho định hướng tập trung vào hệ sinh thái sản phẩm Made
+by FPT
+Năm 2024, hệ sinh thái sản phẩm Made by FPT ghi nhận doanh thu 2.267 tỷ đồng, tăng
+trưởng 31,0% so với cùng kỳ, tiếp tục đóng vai trò quan trọng trong việc thúc đẩy tăng
+trưởng và thể hiện sự dịch chuyển mạnh mẽ trong chiến lược phát triển sản phẩm của
+Tập đoàn.
+Dựa trên các công nghệ lõi, FPT không ngừng mở rộng hệ sinh thái sản phẩm, dịch
+vụ, giải pháp Made by FPT đáp ứng nhu cầu chuyển đổi số và phát triển bền vững của
+các doanh nghiệp, tổ chức và cá nhân trên toàn cầu. Trong năm, FPT đã ra mắt bộ giải
+pháp The Next for Enterprise - bộ giải pháp bao gồm nền tảng giao kết số toàn trình
+Kyta Platform, nền tảng quản lý quan hệ khách hàng ứng dụng AI tiên tiến FPT CX Suite
+và giải pháp tự động hoá kiểm kê khí nhà kính VertZéro. Bên cạnh đó, các nền tảng số do
+FPT phát triển như Anzinsu, TradeFlat, FPT.eSign... đạt cột mốc quan trọng với 30 triệu
+người dùng và 252.000 khách hàng doanh nghiệp.
+Khẳng định vị thế dẫn đầu về nền tảng AI, Cloud và mảng bán dẫn
+Năm 2024, nhờ những nỗ lực không ngừng của đội ngũ nghiên cứu và phát triển, FPT ghi
+nhận sự tăng trưởng vượt bậc trong mảng AI và Cloud, với doanh thu ký đạt hơn 1.200 tỷ
+đồng và doanh thu thực nhận đạt 615 tỷ đồng, tăng trưởng 45,9% so với năm 2023. FPT
+chính thức ra mắt hai nền tảng giải pháp mới, đánh dấu bước tiến quan trọng trong việc
+ứng dụng công nghệ AI vào doanh nghiệp gồm:
+•	FPT GenAI, nền tảng phát triển trên công nghệ Generative AI của FPT, giúp nâng cao
+năng lực cho các sản phẩm và giải pháp AI, từ đó thúc đẩy trải nghiệm khách hàng, đột
+phá hiệu suất vận hành và nâng cao trải nghiệm nhân viên.
+•	FPT AI Agents, nền tảng hỗ trợ doanh nghiệp xây dựng và vận hành “nhân sự AI” đa ngôn
+ngữ, sử dụng Generative AI tiên tiến để tối ưu hóa quy trình làm việc và cộng tác giữa con
+người và AI.
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+FPT đã triển khai thành công nhiều giải pháp công nghệ tiên tiến nâng cao chất lượng
+dịch vụ và tối ưu hóa quy trình kinh doanh cho khách hàng trong và ngoài nước. Một số
+dự án tiêu biểu như:
+•	Triển khai FPT AI Engage (voicebot) vào hệ thống tổng đài, giúp tạo trợ lý ảo thông minh,
+nâng cao hiệu quả tương tác với khách hàng cho Eximbank;
+•	Áp dụng hệ thống “Tổng đài không phím” thế hệ mới, tăng khả năng hỗ trợ tức thì và tối
+ưu hóa quy trình xử lý thắc mắc của khách hàng cho Sacombank;
+•	Sử dụng AI Mentor để đào tạo nhân lực chất lượng cao trong ngành bán lẻ tại Học viện
+Aristino cho K&G Việt Nam.
+Tháng 04, FPT công bố hợp tác với NVIDIA xây dựng 02 Nhà máy AI tại Nhật Bản và Việt
+Nam, trở thành doanh nghiệp Việt đầu tiên và duy nhất đầu tư mạnh vào hạ tầng AI, tạo
+nền tảng cho chính mình và doanh nghiệp khác tiến vào kỷ nguyên mới của AI.
+Bên cạnh AI, FPT tiếp tục đẩy mạnh hệ sinh thái Cloud, giúp doanh nghiệp nâng cao
+năng lực công nghệ, tối ưu chi phí và tăng tốc chuyển đổi số. Trong năm, Tập đoàn đã ghi
+nhận sự tăng trưởng mạnh mẽ trong mảng dịch vụ Cloud nhờ vào chiến lược mở rộng quy
+mô và phục vụ đa dạng nhóm khách hàng từ tập đoàn lớn đến doanh nghiệp vừa và nhỏ
+(SME). Không chỉ tập trung vào phát triển công nghệ, FPT còn tiên phong trong chiến
+lược phát triển bền vững thông qua việc áp dụng Green Cloud, hướng tới giảm thiểu tác
+động môi trường của điện toán đám mây
+Trong lĩnh vực chip bán dẫn, năm 2024, Tập đoàn đã mở rộng hợp tác với các khách
+hàng, đối tác tại các thị trường lớn như Nhật Bản, Hàn Quốc, Đài Loan … Tại thị trường
+trong nước, FPT trở thành đối tác chiến lược cùng Sở Thông tin và Truyền thông, Tp.Đà
+Nẵng đào tạo nguồn nhân lực và thúc đẩy phát triển công nghệ, đặc biệt là công nghệ AI,
+chip bán dẫn.
+Về phát triển nguồn nhân lực bán dẫn, FPT triển khai chương trình đào tạo chuyên sâu từ
+bậc đại học, cao đẳng đến các khóa học hợp tác với chuyên gia Việt Kiều và các trường
+đại học quốc tế. Sinh viên được tạo điều kiện thực hành tại các doanh nghiệp trong và
+ngoài nước. Mô hình này giúp mở rộng nhanh chóng lực lượng kỹ sư bán dẫn hỗ trợ mục
+tiêu của Chính phủ Việt Nam là đào tạo 50.000 nhân lực ngành bán dẫn vào năm 2030,
+góp phần đưa Việt Nam trở thành trung tâm sản xuất và phát triển công nghệ bán dẫn
+trong khu vực.
+Song hành cùng Chính phủ, địa phương và doanh nghiệp, dẫn dắt “kỷ nguyên vươn
+mình” với sức mạnh công nghệ
+Trong mảng Chính phủ, FPT đã ký kết thỏa thuận hợp tác chuyển đổi số với 31 địa
+phương và đào tạo nhận thức chuyển đổi số cho hàng chục nghìn cán bộ lãnh đạo trên
+toàn quốc. FPT tự hào tiên phong trong các chương trình thúc đẩy Đề án 06 của Chính phủ
+đi vào thực tiễn. Giải pháp xác thực căn cước công dân gắn chip ghi nhận 9,6 triệu lượt sử
+dụng, khẳng định giá trị thực tiễn trong các lĩnh vực ngân hàng tài chính, bảo hiểm, giáo
+dục, chứng khoán …. FPT song hành với UBND Tp.HCM phát triển và ra mắt ứng dụng
+Công dân số Tp.HCM, kênh kết nối số giữa người dân và chính quyền thành phố, giúp
+tăng tốc cho mục tiêu xây dựng chính quyền số. Bên cạnh đó, FPT cùng với UBND Tp.Hà
+Nội nghiên cứu và xây dựng mô hình dịch vụ công một cấp phi địa giới hành chính đầu
+tiên của cả nước, sẵn sàng vận hành ngay đầu năm 2025, đồng thời, song hành phát triển
+Hệ thống thông tin giải quyết Thủ tục hành chính của thành phố.
+Trong lĩnh vực ngân hàng, FPT khẳng định vị thế đối tác dài hạn của các ngân hàng lớn
+trong nước với số lượng dự án và doanh số ký đạt kỷ lục. FPT tập trung vào các bài toán
+trọng điểm của ngành như: phòng chống rửa tiền, quản trị quan hệ khách hàng, hệ thống
+lõi tài chính … với các dự án tiêu biểu như Phòng chống rửa tiền AML cho Vietcombank;
+Hệ thống quản lý quan hệ khách hàng Salesforce CRM cho VPBank; Hệ thống Core Finex
+cho HDBank và Sacombank. FPT cho ra mắt giải pháp Volar Finex, sản phẩm core tài
+chính Make in Viet Nam đầu tiên và duy nhất trên thị trường, cung cấp cho các tổ chức tài
+chính hệ thống lõi toàn diện theo các nghiệp vụ phức tạp.
+Trong lĩnh vực y tế, FPT hoàn tất triển khai Hệ thống quản lý bệnh viện và Bệnh án điện
+tử cho 14 bệnh viện và 08 phòng khám của Tập đoàn Y khoa Hoàn Mỹ; vận hành thành
+công các dự án bệnh án điện tử và bệnh viện thông minh tại Quảng Ninh và Tp.HCM.
+Về chuyển đổi xanh, FPT sở hữu đội ngũ chuyên gia cấp cao am hiểu sâu sắc về thực
+hành ESG cùng giải pháp công nghệ hàng đầu. Tập đoàn song hành cùng nhiều doanh
+nghiệp nâng cao nhận thức và xây dựng lộ trình chuẩn bị sẵn sàng đáp ứng các tiêu
+chuẩn xanh quốc tế. Tiêu biểu, FPT hợp tác cùng Tập đoàn Trần Đức tiên phong triển khai
+dự án Giải pháp kiểm kê khí nhà kính trong lĩnh vực sản xuất, kiến trúc và xây dựng, sẵn
+sàng chinh phục các tiêu chuẩn khắt khe của thị trường quốc tế để dẫn đầu cơ hội kinh
+doanh mới.
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+Khối Viễn thông
+LĨNH VỰC DỊCH VỤ VIỄN THÔNG
+Năm 2024, doanh thu và LNTT lĩnh vực Dịch vụ Viễn thông lần lượt đạt 16.906 tỷ đồng và
+3.420 tỷ đồng, tăng trưởng 11,3% và 18,1% so với cùng kỳ.
+Bứt phá với Dịch vụ Broadband
+Mảng kinh doanh Dịch vụ Broadband ghi nhận mức tăng trưởng doanh thu tốt hơn các
+năm trước, tăng trưởng 12,3% so với năm 2023, đạt 8.800 tỷ đồng nhờ những nỗ lực mở
+rộng và bám sát các địa phương, đảm bảo duy trì thị phần toàn quốc. FPT cũng trở thành
+đơn vị tiên phong triển khai công nghệ Wi-Fi 6 vào các hộ gia đình, nâng cao trải nghiệm
+người dùng và đưa tốc độ bán hàng quay trở lại mức đỉnh cao trong vòng 5 năm gần đây,
+khẳng định vị thế dẫn đầu của FPT trong việc áp dụng công nghệ internet tiên tiến. Điều
+này củng cố vị thế dẫn đầu của FPT trong việc ứng dụng công nghệ internet tiên tiến và
+mang lại dấu ấn mạnh mẽ trong hành trình phổ cập kết nối băng thông rộng tại Việt Nam.
+Dẫn đầu công nghệ truyền hình và nội dung số
+Khẳng định vị thế tiên phong trong lĩnh vực truyền hình và nội dung bản quyền, FPT đã
+giành quyền phát sóng độc quyền hai giải bóng đá danh giá tại Việt Nam: Giải vô địch
+các Câu lạc bộ Đông Nam Á Shopee Cup™ 2024/25 và Giải vô địch bóng đá Đông Nam Á
+Mitsubishi Electric Cup™ 2024. Trong bối cảnh đội tuyển Việt Nam thi đấu thăng hoa, các
+giải đấu này đã giúp nền tảng của FPT tăng mạnh sức hút, góp phần đưa FPT trở thành
+thương hiệu duy nhất nhận danh hiệu “Nền tảng giải trí Việt của năm” tại Vietnam iContent
+Awards 2024. Được công nhận là ứng dụng thuần Việt hàng đầu trong lĩnh vực phát trực
+tuyến phim và đạt vị trí số 01 về lượng thảo luận trong mảng giải trí, FPT tiếp tục củng cố
+vị thế tiên phong trên thị trường nội dung số, mang đến trải nghiệm giải trí vượt trội cho
+người dùng.
+Trung tâm dữ liệu - Đón đầu nhu cầu dữ liệu bùng nổ
+Nhờ chủ động đầu tư, đón đầu nhu cầu sử dụng dữ liệu ngày càng tăng, mảng kinh doanh
+Trung tâm dữ liệu ghi nhận mức tăng trưởng gần 50%. Thời gian tới, FPT sẽ tiếp tục hoàn
+thiện và mở rộng hệ thống hạ tầng Trung tâm dữ liệu, dự kiến cuối năm 2025 đưa vào
+hoạt động Trung tâm dữ liệu tại Quận 9 - một trong những Trung tâm dữ liệu lớn nhất tại
+Việt Nam với quy mô hơn 3.000 tủ rack, tập trung vươn tới vị thế nhà cung cấp số 01 về
+Dịch vụ Trung tâm dữ liệu tại Việt Nam và khu vực.
+Với các chiến lược đầu tư bài bản và đột phá công nghệ, FPT tiếp tục khẳng định vị thế dẫn
+đầu trong lĩnh vực viễn thông, truyền hình và hạ tầng dữ liệu, đáp ứng nhu cầu ngày càng
+cao của thị trường và người dùng.
+Ông HOÀNG VIỆT ANH
+Chủ tịch FPT Telecom, Tập đoàn FPT
+Một trong những thử thách lớn nhất đối với công ty trong năm 2024 là cơn bão Yagi. Trong tình
+huống khó khăn chưa từng có, FPT đã huy động gần 1.000 CBNV từ miền Trung và miền Nam ra
+miền Bắc để ứng cứu giúp gần một triệu khách hàng khôi phục dịch vụ trong thời gian ngắn nhất.
+Năm 2025, Công ty đặt mục tiêu tăng trưởng vượt trội trong phát triển thuê bao, hướng tới mục
+tiêu phát triển bền vững, khẳng định vị thế là một trong những nhà cung cấp dịch vụ Internet hàng
+đầu. Để đạt được mục tiêu này, một trong những hành động trọng tâm của Công ty là đẩy mạnh thử
+nghiệm các mô hình kinh doanh mới, hợp tác đầu tư cho các sản phẩm, dịch vụ mới có tiềm năng
+tạo động lực tăng trưởng cao.
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+Lĩnh vực Giáo dục
+Năm 2024, với chiến lược đổi mới chương trình đào tạo, ứng dụng công nghệ AI và mở rộng
+hợp tác quốc tế, chúng tôi tiếp tục nâng cao chất lượng giảng dạy, phát triển nguồn nhân
+lực đáp ứng nhu cầu thị trường và khẳng định vị thế tiên phong trong giáo dục. Năm 2025,
+hệ thống giáo dục của FPT tập trung vào ba từ khóa quan trọng đó là: hệ thống rộng khắp,
+trải nghiệm vượt trội và thầy trò hạnh phúc nhằm tiếp tục đưa trí tuệ Việt Nam vươn xa, vươn
+cao trên toàn cầu
+Tính đến hết năm 2024, FPT tiếp tục ghi nhận những kỷ lục mới trong lĩnh vực giáo dục
+với 67 điểm trường trên toàn quốc; mở rộng vùng phủ đến 28 tỉnh, thành; 152.000 người
+học quy đổi trên toàn hệ thống.
+Mở rộng quy mô - Đáp ứng nhu cầu nhân lực công nghệ cao
+Thể hiện quyết tâm đồng hành, góp phần đảm bảo nguồn nhân lực cho sự phát triển bền
+vững của các tỉnh, thành phố, đặc biệt là nhân lực thành thạo công nghệ cao như AI,
+STEM, Robotic, FPT tiếp tục mở rộng quy mô tại các tỉnh, thành trên cả nước.
+Trong năm 2024, hai trường phổ thông liên cấp Bắc Từ Liêm và Thanh Hóa chính thức
+đi vào hoạt động. Các cơ sở tại Hậu Giang và Thừa Thiên Huế sẵn sàng đón học sinh
+vào năm 2025. Đồng thời, FPT đã ký kết hợp tác để mở rộng hệ thống tại Đà Nẵng,
+Sóc Trăng và Nghệ An.
+Nhờ tốc độ triển khai thần tốc, tổng diện tích sàn xây dựng của hệ thống giáo dục FPT đã
+đạt 600.000 m², đáp ứng nhu cầu học tập ngày càng tăng trên toàn quốc.
+Đào tạo nhân lực bán dẫn - Đón đầu xu hướng công nghệ
+Hưởng ứng định hướng từ Chính phủ để nâng tầm năng lực cạnh tranh quốc gia, cũng
+như nhu cầu nhân lực bán dẫn của thị trường, FPT triển khai đồng loạt ba chương trình
+đào tạo chuyên sâu về bán dẫn tại Trường Đại học FPT, Cao đẳng BTEC FPT và Jetking.
+Trong năm 2024, có gần 1.600 sinh viên theo học các chương trình này, góp phần cung
+cấp nguồn nhân lực chất lượng cao cho ngành công nghiệp bán dẫn, đáp ứng xu hướng
+phát triển của thị trường trong nước và quốc tế.
+Khẳng định vị thế trên bảng xếp hạng quốc tế
+Nhờ những nỗ lực cải thiện trải nghiệm cho học sinh, sinh viên, FPT tiếp tục khẳng định vị
+thế trong lĩnh vực giáo dục và đào tạo khi được xếp hạng 401-600 THE Impact Rankings
+2024, trong đó nổi bật với ba mục tiêu đạt thứ hạng 101-200: SDG4 (chất lượng giáo
+dục), SDG11 (cộng đồng bền vững) và SDG16 (tổ chức vững mạnh).
+Những thành tựu này tiếp tục khẳng định vị thế hàng đầu của FPT trong lĩnh vực giáo dục,
+đồng thời góp phần thúc đẩy sự phát triển bền vững và nâng cao năng lực cạnh tranh
+quốc gia.
+Ông LÊ TRƯỜNG TÙNG
+Tổng giám đốc FPT Education, Tập đoàn FPT
+Số người học quy đổi
+Đơn vị: Người học quy đổi
+SỐ NGƯỜI HỌC QUY ĐỔI TRÊN TOÀN HỆ THỐNG GIAI ĐOẠN 2020-2024
+
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
 TÌNH HÌNH THỰC HIỆN CÁC DỰ ÁN ĐẦU TƯ
 Khối
 Kế hoạch 2024
 Giải ngân 2024
 So với kế hoạch
 Công nghệ
-2.200
- 1.410 
-64,1%
 Viễn thông
-2.300
- 1.032 
-44,9%
 Giáo dục
-2.000
- 724 
-36,2%
 HOẠT ĐỘNG ESG
-Cùng với việc đảm bảo sự tăng trưởng vững chắc về kinh tế, định hướng và những ưu tiên về ESG được 
-xem là một phần quan trọng trong chiến lược phát triển, theo đó, FPT lựa chọn bốn vấn đề trọng yếu 
-trong phát triển bền vững bao gồm: Quản trị hướng đến phát triển bền vững; Xây dựng môi trường làm 
+Cùng với việc đảm bảo sự tăng trưởng vững chắc về kinh tế, định hướng và những ưu tiên về ESG được
+xem là một phần quan trọng trong chiến lược phát triển, theo đó, FPT lựa chọn bốn vấn đề trọng yếu
+trong phát triển bền vững bao gồm: Quản trị hướng đến phát triển bền vững; Xây dựng môi trường làm
 việc đẳng cấp, hạnh phúc; Hoạt động vì môi trường xanh và Song hành vì sự phát triển của cộng đồng.
-Năm 2024, FPT tiếp tục đẩy mạnh quản trị theo OKRs, đảm bảo mục tiêu cá nhân gắn kết với chiến lược 
-chung của Tập đoàn, nâng cao hiệu quả và năng suất. Các mục tiêu được theo dõi, đánh giá trực tuyến 
+Năm 2024, FPT tiếp tục đẩy mạnh quản trị theo OKRs, đảm bảo mục tiêu cá nhân gắn kết với chiến lược
+chung của Tập đoàn, nâng cao hiệu quả và năng suất. Các mục tiêu được theo dõi, đánh giá trực tuyến
 giúp đo lường chính xác kết quả, với 95% - 97% cá nhân hoàn thành mục tiêu.
-Với đặc thù nguồn nhân lực làm việc trên quy mô toàn cầu, FPT đã phát huy được trí tuệ và sức mạnh của 
-nguồn nhân lực đa dạng, khẳng định vị thế tập đoàn toàn cầu, không chỉ dẫn đầu trong lĩnh vực công 
-nghệ mà còn tiên phong trong việc kiến tạo môi trường làm việc đẳng cấp, hạnh phúc cho nhân viên. 
-Hiện, FPT có 54.687 nhân sự làm việc tại trên 30 quốc gia. Trong đó, có 3.489 nhân sự người nước ngoài 
+Với đặc thù nguồn nhân lực làm việc trên quy mô toàn cầu, FPT đã phát huy được trí tuệ và sức mạnh của
+nguồn nhân lực đa dạng, khẳng định vị thế tập đoàn toàn cầu, không chỉ dẫn đầu trong lĩnh vực công
+nghệ mà còn tiên phong trong việc kiến tạo môi trường làm việc đẳng cấp, hạnh phúc cho nhân viên.
+Hiện, FPT có 54.687 nhân sự làm việc tại trên 30 quốc gia. Trong đó, có 3.489 nhân sự người nước ngoài
 với 87 quốc tịch, chủ yếu từ các quốc gia như Mỹ, Nhật Bản, Slovakia, Malaysia, Mexico, Philipines ….
-Đối với vấn đề môi trường, FPT hiểu rằng giám sát, thích ứng và ứng dụng linh hoạt công nghệ trong 
-sử dụng năng lượng, tài nguyên là cần thiết để giảm tác động môi trường, ứng phó dịch bệnh, biến đổi 
-khí hậu. Năm 2024, FPT đã chủ động kiểm kê phát thải khí nhà kính của toàn Tập đoàn, bao gồm trụ sở 
-chính, các toà nhà, địa điểm kinh doanh tại Việt Nam của các công ty thành viên. 
-Đối với cộng đồng, FPT và hàng chục nghìn CBNV đã triển khai nhiều chương trình trách nhiệm xã hội 
-mang lại những giá trị cả về vật chất và tinh thần thiết thực nhất. Đặc biệt, FPT đã tham gia Chiến dịch 
-“Cùng đồng bào vượt lũ” do Quỹ Hy Vọng phát động tái thiết các trường học, hỗ trợ học sinh, giáo viên 
+Đối với vấn đề môi trường, FPT hiểu rằng giám sát, thích ứng và ứng dụng linh hoạt công nghệ trong
+sử dụng năng lượng, tài nguyên là cần thiết để giảm tác động môi trường, ứng phó dịch bệnh, biến đổi
+khí hậu. Năm 2024, FPT đã chủ động kiểm kê phát thải khí nhà kính của toàn Tập đoàn, bao gồm trụ sở
+chính, các toà nhà, địa điểm kinh doanh tại Việt Nam của các công ty thành viên.
+Đối với cộng đồng, FPT và hàng chục nghìn CBNV đã triển khai nhiều chương trình trách nhiệm xã hội
+mang lại những giá trị cả về vật chất và tinh thần thiết thực nhất. Đặc biệt, FPT đã tham gia Chiến dịch
+“Cùng đồng bào vượt lũ” do Quỹ Hy Vọng phát động tái thiết các trường học, hỗ trợ học sinh, giáo viên
 và hỗ trợ hơn 1.400 gia đình CBNV bị ảnh hưởng do bão Yagi - cơn bão mạnh nhất 30 năm qua.
 Đơn vị: VNĐ
-Mô hình văn phòng xanh được FPT chú trọng triển khai trên toàn cầu 
+Mô hình văn phòng xanh được FPT chú trọng triển khai trên toàn cầu
 kiến tạo môi trường làm việc đẳng cấp, hạnh phúc cho nhân viên.
 
-87
-05
-Quản trị công ty năm 2024
-Mô hình quản trị và vai trò của các bên
+Đánh giá của HĐQT về hoạt động của
+Tập đoàn
+Báo cáo của Ban Điều hành về kết quả
+kinh doanh 2024 và nhận định 2025
+ĐÁNH GIÁ KẾT QUẢ KINH DOANH
+ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG
+CỦA TẬP ĐOÀN
+Nhờ chiến lược linh hoạt, tinh thần đổi mới sáng tạo không ngừng và sự quyết tâm của
+toàn thể CBNV, FPT đã hoàn thành tốt các mục tiêu cam kết tại ĐHĐCĐ với doanh thu
+và lợi nhuận trước thuế đạt 102% so với kế hoạch, các khối kinh doanh đều tăng trưởng
+hai chữ số.
+Tập đoàn cũng đã có sự chuyển dịch mạnh mẽ từ mô hình triển khai dự án truyền thống
+sang tư vấn chiến lược và thực hiện các dự án chuyển đổi số dựa trên công nghệ tiên tiến
+với quy mô lớn, từ hàng chục đến hàng trăm triệu USD. Đồng thời, FPT tiếp tục duy trì lợi
+thế cạnh tranh tại những thị trường trọng điểm, đặc biệt là tại thị trường Nhật Bản, ghi
+nhận mức tăng trưởng 36,3% theo Yên Nhật, tiệm cận cột mốc doanh thu 500 triệu USD.
+Năm qua, FPT tiếp tục đóng vai trò quan trọng tham gia giải bài toán của các ngành, của
+quốc gia. Ứng dụng Công dân số Tp.HCM thu hút 718.000 lượt truy cập và 262.000 lượt
+tải ứng dụng sau 03 tháng hoạt động, FPT.IDCheck - giải pháp chống giả mạo căn cước
+gắn chip ứng dụng dữ liệu dân cư trong định danh và xác thực điện tử có 9,6 triệu lượt sử
+dụng dịch vụ.
+Để đảm bảo phát triển bền vững trong dài dạn, Tập đoàn tiếp tục đẩy mạnh phát triển
+nguồn nhân lực chất lượng cao thông qua các chương trình đào tạo nội bộ, chính sách
+đãi ngộ hấp dẫn và tăng cường thu hút đội ngũ chuyên gia người nước ngoài.
+Tuy nhiên, để tạo đà tăng trưởng bền vững trong dài hạn, FPT cần tiếp tục gia tăng tỷ
+trọng đóng góp của các hướng đi chiến lược mới vào tổng doanh thu và lợi nhuận của
+toàn Tập đoàn.
+Với chiến lược phát triển đúng đắn, sự linh hoạt trong quản lý và cam kết đổi mới sáng
+tạo không ngừng, Hội đồng Quản trị tin tưởng rằng, FPT sẽ tiếp tục duy trì đà tăng trưởng
+mạnh mẽ, mở rộng quy mô và khẳng định vị thế hàng đầu trong ngành công nghệ tại Việt
+Nam cũng như trên thị trường quốc tế.
+
 Báo cáo của HĐQT
 Báo cáo của Ban Kiểm soát
-05
-QUẢN TRỊ CÔNG TY
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-06
-BÁO CÁO ESG
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
+Theo đánh giá của các chuyên gia, các doanh nghiệp
+quản trị tốt cũng là các doanh nghiệp được định giá tốt
+hơn, nhận được sự quan tâm chú ý của nhà đầu tư và
+gia tăng cơ hội tiếp cận nguồn vốn dài hạn từ thị trường.
+chế để bảo vệ quyền lợi các nhà đầu tư và các bên liên
+quan tốt hơn cũng như đảm bảo sự phát triển bền vững,
+khả năng phục hồi tốt hơn cho doanh nghiệp.
+FPT tuân thủ tất cả các quy định trọng yếu của pháp luật
+các quy định quản trị đối với công ty niêm yết. Đồng thời,
+FPT  tiếp tục nâng cao chất lượng quản trị theo chuẩn
+quốc tế, thông qua việc ngày càng bám sát các tiêu chí
+trong Nguyên tắc Quản trị quốc tế của OECD, Thẻ điểm
+trị công ty theo thông lệ tốt nhất của Việt Nam do Ủy ban
+Chứng khoán Nhà nước và Công ty Tài chính quốc tế (IFC)
+phối hợp soạn thảo.
+Năm 2024, FPT được vinh danh ở hai hạng mục Top
+tốt nhất trong khuôn khổ sự kiện Hội nghị Doanh
+nghiệp niêm yết và Lễ Trao giải Cuộc Bình chọn
+doanh nghiệp niêm yết (VLCA), do Sở Giao dịch
+Chứng khoán Thành phố Hồ Chí Minh (HoSE) tổ chức.
+Đồng thời, Tập đoàn cũng được ghi nhận là Doanh
+nghiệp đạt Chuẩn công bố thông tin do Vietstock,
+Hiệp hội VAFE và Tạp chí điện tử Fili phối hợp đánh giá.
+Hiện nay, đối chiếu với các tiêu chí của Bộ Nguyên tắc
+những nỗ lực trong việc cải thiện tình hình quản trị công
+ty trong nhiều năm qua và đang tiệm cận gần như đầy
+đủ với các chuẩn mực của khu vực.
+tham chiếu với các nội dung của Bộ Nguyên tắc Quản
+trị công ty theo thông lệ tốt nhất của Việt Nam gồm:
+Trách nhiệm của HĐQT; Môi trường kiểm soát; Công
+bố thông tin và Minh bạch; Quyền của Cổ đông và
+Quan hệ với các bên có quyền lợi liên quan.
+
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+NGUYÊN TẮC    02
+•	HĐQT nhiệm kỳ 2022-2027 của FPT gồm bảy thành viên, đảm bảo các nguyên tắc đa dạng về kinh nghiệm chuyên môn, số lượng thành viên HĐQT độc lập và thành viên HĐQT
+không điều hành. Đồng thời, đảm bảo tính khách quan, tính chuyên nghiệp và hiệu quả vì sự phát triển bền vững của Tập đoàn và lợi ích cao nhất của cổ đông và các bên liên quan.
+Năm 2024, HĐQT vẫn giữ nguyên bảy thành viên không thay đổi từ đầu nhiệm kỳ 2022-2027.
+•	Về đào tạo quản trị, tính đến thời điểm 31/12/2024, Tập đoàn có hai cán bộ là thành viên, Ban Kiểm soát có chứng chỉ đào tạo về quản trị công ty, bao gồm: (1) Ông Đỗ Cao Bảo, Ủy
+viên HĐQT, (2) Ông Nguyễn Việt Thắng, Trưởng Ban Kiểm soát. Hiện nay, các thành viên còn lại của HĐQT, Ban Kiểm soát và Ban Điều hành vẫn liên tục cập nhật và tuân thủ theo các
+quy định của pháp luật về quản trị công ty. Trong thời gian tới, các thành viên này sẽ sắp xếp thời gian để tham gia khóa học đào tạo về quản trị công ty.
+Thành viên HĐQT
+Chức vụ
+Ngày bắt
+đầu là thành
+Kinh nghiệm
+chuyên môn
+Tỷ lệ
+sở hữu
+Chức danh kiêm nhiệm trong HĐQT của công ty khác
+Ông Trương Gia Bình
+Chủ tịch HĐQT
+Tái bầu cử
+CNTT
+•	Thành viên HĐQT FPT Telecom;
+•	Chủ tịch HĐTV FPT Education;
+•	 Thành viên HĐQT ĐH FPT.
+Ông Bùi Quang Ngọc
+Phó chủ tịch HĐQT
+Tái bầu cử
+CNTT
+•	Thành viên HĐQT ĐH FPT.
+Ông Đỗ Cao Bảo
+Ủy viên HĐQT
+Tái bầu cử
+CNTT
+•	Ủy viên HĐQT Công ty Cổ phần Đô thị FPT Đà Nẵng.
+Ông Jean-Charles Belliol
+Ủy viên HĐQT độc lập
+Tái bầu cử
+Tài chính
+Ông Hiroshi Yokotsuka
+Ủy viên HĐQT độc lập
+CNTT
+Ông Hampapur Rangadore Binod
+Ủy viên HĐQT độc lập
+CNTT
+Bà Trần Thị Hồng Lĩnh
+Ủy viên HĐQT
+Đầu tư và quản
+trị doanh nghiệp
+•	Thành viên HĐQT FPT Telecom (Tính từ 25/04/2023).
+Thiết lập một HĐQT có năng lực và chuyên nghiệp
+
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+NGUYÊN TẮC    08
+Tăng cường hoạt động công bố thông tin
+Tập đoàn cam kết luôn tuân thủ việc minh bạch và công bằng trong việc công bố thông
+tin đến tất cả các cổ đông và các bên có quyền lợi liên quan khác. Trong năm 2024, Tập
+đoàn không có bất cứ vi phạm nào về quy định công bố thông tin.
+Tập đoàn có bộ phận Quan hệ nhà đầu tư (IR) và bộ phận Công bố thông tin chịu trách
+nhiệm cập nhật thông tin đầy đủ, chính xác, kịp thời và giám sát truyền thông ra bên
+ngoài cho các cổ đông và lưu trữ thông tin theo quy định của pháp luật. Trong nhiều năm
+qua, FPT luôn nằm trong Top 50 Công ty niêm yết tốt nhất Việt Nam và đứng trong Top 3
+Doanh nghiệp nhóm vốn hóa lớn có hoạt động IR được nhà đầu tư yêu thích nhất và được
+Định chế tài chính đánh giá cao nhất.
+100% các nội dung thông tin công bố được cập nhật chính xác và tuân thủ theo đúng
+các quy định liên quan về công bố thông tin đối với công ty niêm yết trên website của Tập
+đoàn và các kênh liên quan bằng cả tiếng Việt và tiếng Anh. Các thông tin liên quan và
+trọng yếu về hoạt động kinh doanh của Tập đoàn được công bố kịp thời thông qua nhiều
+kênh như website, kênh truyền thông đại chúng, gặp gỡ định kỳ với nhà đầu tư, phóng
+viên và các bên liên quan khác.
+Trong tất cả các cuộc trao đổi, gặp gỡ với nhà đầu tư và tại ĐHĐCĐ thường niên, nhà đầu
+tư được quyền chủ động đặt câu hỏi liên quan đến hoạt động của Tập đoàn và được lãnh
+đạo công ty giải đáp trực tiếp ngay tại sự kiện. Đồng thời, Biên bản và Nghị quyết của
+ĐHĐCĐ thường niên được đăng tải công khai và đầy đủ trên website của Tập đoàn giúp
+các cổ đông, nhà đầu tư chủ động nắm bắt thông tin.
+Thông tin về cấu trúc sở hữu và mô hình hoạt động của Tập đoàn; dữ liệu về cổ đông lớn,
+cổ đông nội bộ, thành viên HĐQT và Ban Điều hành; giao dịch với các bên liên quan được
+công bố cập nhật công khai trong Báo cáo thường niên và website của Tập đoàn.
+Thông tin về tác động môi trường và xã hội cũng như các hoạt động trách nhiệm xã hội
+của FPT được công bố công khai và cập nhật trong Báo cáo thường niên của Tập đoàn.
+CÔNG BỐ THÔNG TIN VÀ MINH BẠCH
+FPT luôn tuân thủ đầy đủ, chính xác và đúng thời hạn các quy định về công bố thông tin đối với công ty niêm yết. Đồng thời, tất cả các bên liên quan đều có thể tiếp cận thông tin phải
+công bố của FPT một cách cập nhật trên website của Tập đoàn.
+
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+NGUYÊN TẮC    10
+QUAN HỆ VỚI CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN
+Song song với việc đảm bảo tăng trưởng ổn định trước
+tình hình địa chính trị phức tạp và nền kinh tế trì trệ, các
+hoạt động kinh doanh của Tập đoàn đều được thực hiện
+trên nguyên tắc đảm bảo lợi ích cao nhất cho các bên
+liên quan. Đồng thời, để các bên liên quan có thể lên
+tiếng và/hoặc khiếu kiện về những vi phạm có thể xảy ra
+đối với quyền lợi của họ, FPT công khai thông tin liên hệ
+theo từng lĩnh vực trên website của Tập đoàn tại địa chỉ:
+https://fpt.com/vi/lien-he.
+Bên liên quan
+Cam kết của FPT
+Khách hàng
+Đầu tư phát triển các nền tảng, giải pháp, sản phẩm công nghệ, viễn thông, giáo
+dục đáp ứng nhu cầu của khách hàng và không ngừng nâng cao uy tín thương hiệu,
+chất lượng nguồn nhân lực nhằm đảm bảo uy tín với khách hàng.
+Cổ đông, nhà đầu tư
+Minh bạch hóa thông tin và nỗ lực mang lại lợi ích cao nhất cho cổ đông, nhà đầu tư.
+Cán bộ nhân viên
+Tạo điều kiện tốt nhất để CBNV phát huy thế mạnh và thành công.
+Ứng dụng công nghệ kết nối cộng đồng, mang lại những giá trị tốt đẹp hơn cho
+cuộc sống và trở thành điểm tựa tin cậy cho sự phát triển của cộng đồng.
+Chính phủ và các bộ,
+ban ngành
+Luôn đồng hành với các chương trình, đề án lớn của Quốc gia hướng đến mục tiêu
+vì một Việt Nam hùng cường.
+Đối tác, nhà cung cấp
+Nỗ lực thiết lập quan hệ với các đối tác trên cơ sở thấu hiểu sâu sắc, phát huy tối
+đa sức mạnh hợp tác, gắn bó lâu dài, cùng thành công và phát triển bền vững.
+Báo chí và cơ quan
+truyền thông
+Cung cấp kịp thời và minh bạch các thông tin liên quan đến hoạt động của FPT
+cũng như các CTTV.
+HĐQT cũng đã ban hành Nghị quyết Quản lý giao dịch với các bên liên quan đối với các giao dịch nhỏ hơn 35% tổng giá
+trị tài sản của Tập đoàn được ghi trong Báo cáo Tài chính tại thời điểm gần nhất. Trong năm 2024, FPT không phát hiện
+bất kỳ giao dịch nào có xung đột lợi ích với Tập đoàn. Chính sách chống tham nhũng và chống hối lộ cũng được Tập đoàn
+thực hiện nghiêm ngặt.
+Tăng cường tham gia hiệu quả của các bên có quyền lợi liên quan
+
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
 CHÍNH SÁCH QUẢN TRỊ NỘI BỘ
-Quản trị bằng OKRs: FPT đã ứng dụng hiệu quả phương 
-pháp quản trị OKRs đồng bộ trên toàn Tập đoàn trong suốt 
-05 năm qua. Hệ thống OKRs phân cấp giúp cá nhân chủ 
-động thiết lập và đánh giá mục tiêu hàng quý dưới sự hỗ 
-trợ sát sao từ cấp quản lý. 
-Luân chuyển cán bộ: FPT tiếp tục ủng hộ và đẩy mạnh 
-việc hoàn thiện cơ cấu lãnh đạo, bồi dưỡng thế hệ lãnh 
-đạo kế cận thông qua chương trình luân chuyển cán bộ. 
-Nổi bật là việc bổ nhiệm ông Phạm Minh Tuấn, Tổng giám 
-đốc FPT Software giữ vị trí Phó tổng giám đốc Tập đoàn, 
-phụ trách thúc đẩy kinh doanh quốc tế, tối ưu hóa lợi thế 
-cạnh tranh. Trong năm 2024, FPT cũng bổ nhiệm một số 
-vị trí cấp cao khác như Giám đốc Truyền thông FPT, Giám 
-đốc Nhân sự và Giám đốc Sản xuất tại FPT Software … thể 
-hiện sự linh hoạt và chủ động trong điều chỉnh cơ cấu tổ 
+Quản trị bằng OKRs: FPT đã ứng dụng hiệu quả phương
+pháp quản trị OKRs đồng bộ trên toàn Tập đoàn trong suốt
+05 năm qua. Hệ thống OKRs phân cấp giúp cá nhân chủ
+động thiết lập và đánh giá mục tiêu hàng quý dưới sự hỗ
+trợ sát sao từ cấp quản lý.
+Luân chuyển cán bộ: FPT tiếp tục ủng hộ và đẩy mạnh
+việc hoàn thiện cơ cấu lãnh đạo, bồi dưỡng thế hệ lãnh
+đạo kế cận thông qua chương trình luân chuyển cán bộ.
+Nổi bật là việc bổ nhiệm ông Phạm Minh Tuấn, Tổng giám
+đốc FPT Software giữ vị trí Phó tổng giám đốc Tập đoàn,
+phụ trách thúc đẩy kinh doanh quốc tế, tối ưu hóa lợi thế
+cạnh tranh. Trong năm 2024, FPT cũng bổ nhiệm một số
+vị trí cấp cao khác như Giám đốc Truyền thông FPT, Giám
+đốc Nhân sự và Giám đốc Sản xuất tại FPT Software … thể
+hiện sự linh hoạt và chủ động trong điều chỉnh cơ cấu tổ
 chức, sẵn sàng vượt qua thách thức và đón đầu cơ hội mới.
-Nâng cao năng lực ngành dọc hỗ trợ kinh doanh: 
-FPT tập trung phát triển năng lực ngành dọc thông qua các 
-chương trình tập huấn, đào tạo, đặc biệt ưu tiên các ngành 
-dọc đóng vai trò chiến lược như công nghệ, tài chính và 
-nhân sự. Những nỗ lực này tạo tiền đề vững chắc cho sự 
+Nâng cao năng lực ngành dọc hỗ trợ kinh doanh:
+FPT tập trung phát triển năng lực ngành dọc thông qua các
+chương trình tập huấn, đào tạo, đặc biệt ưu tiên các ngành
+dọc đóng vai trò chiến lược như công nghệ, tài chính và
+nhân sự. Những nỗ lực này tạo tiền đề vững chắc cho sự
 phát triển bền vững của Tập đoàn.
-Thúc đẩy phong trào khởi nghiệp và các sáng kiến nội 
-bộ: FPT tiếp tục đẩy mạnh đầu tư vào các dự án tiềm năng, 
-phong trào khởi nghiệp nội bộ, các sáng kiến tối ưu vận 
-hành, tối đa lợi nhuận. Chương trình iKhiến, sau tám năm 
-triển khai, đã thu hút 9.300 sáng kiến, đặc biệt, năm 2024 
-ghi nhận 3.352 sáng kiến, mang lại lợi nhuận hơn 800 tỷ 
-đồng cho Tập đoàn.  
-Thúc đẩy các hoạt động ESG: FPT đã tích hợp các tiêu chí 
-ESG vào mọi hoạt động quản trị, từ xây dựng chính sách 
-đến triển khai các chương trình hành động cụ thể. FPT 
-đang đầu tư vào các dự án về tiết kiệm năng lượng, năng 
-lượng tái tạo và tăng cường đào tạo nội bộ giúp CBNV hiểu 
-rõ vai trò và trách nhiệm trong việc bảo vệ môi trường và 
-phát triển bền vững. Năm 2024, FPT được biết đến với môi 
-trường làm việc lý tưởng, hạnh phúc, nơi mà 90% nhân 
-viên cảm thấy hài lòng. Đồng thời, FPT cũng được vinh 
-danh trong Top 50 doanh nghiệp phát triển bền vững tiêu 
+Thúc đẩy phong trào khởi nghiệp và các sáng kiến nội
+bộ: FPT tiếp tục đẩy mạnh đầu tư vào các dự án tiềm năng,
+phong trào khởi nghiệp nội bộ, các sáng kiến tối ưu vận
+hành, tối đa lợi nhuận. Chương trình iKhiến, sau tám năm
+triển khai, đã thu hút 9.300 sáng kiến, đặc biệt, năm 2024
+ghi nhận 3.352 sáng kiến, mang lại lợi nhuận hơn 800 tỷ
+đồng cho Tập đoàn.
+Thúc đẩy các hoạt động ESG: FPT đã tích hợp các tiêu chí
+ESG vào mọi hoạt động quản trị, từ xây dựng chính sách
+đến triển khai các chương trình hành động cụ thể. FPT
+đang đầu tư vào các dự án về tiết kiệm năng lượng, năng
+lượng tái tạo và tăng cường đào tạo nội bộ giúp CBNV hiểu
+rõ vai trò và trách nhiệm trong việc bảo vệ môi trường và
+phát triển bền vững. Năm 2024, FPT được biết đến với môi
+trường làm việc lý tưởng, hạnh phúc, nơi mà 90% nhân
+viên cảm thấy hài lòng. Đồng thời, FPT cũng được vinh
+danh trong Top 50 doanh nghiệp phát triển bền vững tiêu
 biểu Việt Nam 2024.
 Ủy ban Chính sách Phát triển
-Cùng với việc hoàn thành tốt vai trò Thư ký Tập đoàn và hỗ 
-trợ HĐQT trong các hoạt động nghiệp vụ, trong năm 2024, 
-Văn phòng Chủ tịch HĐQT cũng đã tích cực tham gia duy 
-trì và thúc đẩy công tác đối ngoại phục vụ phát triển kinh 
-doanh. Đồng thời, Văn phòng HĐQT cũng đảm bảo việc 
-cung cấp thông tin kịp thời, chính xác giúp việc công bố 
-thông tin các nghị quyết, báo cáo quản trị công ty được 
-triển khai đúng thời hạn, quy định liên quan. Năm 2024, 
-Văn phòng HĐQT cũng phối hợp với các bên liên quan tổ 
+Cùng với việc hoàn thành tốt vai trò Thư ký Tập đoàn và hỗ
+trợ HĐQT trong các hoạt động nghiệp vụ, trong năm 2024,
+Văn phòng Chủ tịch HĐQT cũng đã tích cực tham gia duy
+trì và thúc đẩy công tác đối ngoại phục vụ phát triển kinh
+doanh. Đồng thời, Văn phòng HĐQT cũng đảm bảo việc
+cung cấp thông tin kịp thời, chính xác giúp việc công bố
+triển khai đúng thời hạn, quy định liên quan. Năm 2024,
+Văn phòng HĐQT cũng phối hợp với các bên liên quan tổ
 chức thành công ĐHĐCĐ 2024 vào tháng 04/2024.
 Văn phòng Chủ tịch HĐQT
-CHÍNH SÁCH PHÁT TRIỂN KINH DOANH 
-FPT đã linh hoạt mở rộng thị trường quốc tế bất chấp 
-bối cảnh địa chính trị bất ổn và suy thoái kinh tế kéo dài. 
-Chiến lược M&A và liên doanh được đẩy mạnh, nổi bật 
-với việc mua lại toàn bộ Next Advanced Communication 
-(NAC) và liên doanh với Konica Minolta, giúp FPT tận 
-dụng nguồn lực chuyên gia và mở rộng năng lực tư vấn, 
-thiết kế và vận hành hệ thống công nghệ. FPT cũng mở 
-rộng mạnh mẽ mạng lưới chi nhánh toàn cầu thông qua 
-việc mở văn phòng tại các thị trường tiềm năng như Nhật 
-Bản, Đài Loan, Malaysia, Thụy Điển, Arab Saudi …. Bên 
-cạnh đó, FPT tích cực đưa các sản phẩm hệ sinh thái 
-“Made by FPT” ra thị trường quốc tế nhằm mở rộng thị 
-phần, tăng trưởng doanh thu và lợi nhuận, đồng thời 
+CHÍNH SÁCH PHÁT TRIỂN KINH DOANH
+FPT đã linh hoạt mở rộng thị trường quốc tế bất chấp
+bối cảnh địa chính trị bất ổn và suy thoái kinh tế kéo dài.
+Chiến lược M&A và liên doanh được đẩy mạnh, nổi bật
+với việc mua lại toàn bộ Next Advanced Communication
+(NAC) và liên doanh với Konica Minolta, giúp FPT tận
+dụng nguồn lực chuyên gia và mở rộng năng lực tư vấn,
+thiết kế và vận hành hệ thống công nghệ. FPT cũng mở
+rộng mạnh mẽ mạng lưới chi nhánh toàn cầu thông qua
+việc mở văn phòng tại các thị trường tiềm năng như Nhật
+Bản, Đài Loan, Malaysia, Thụy Điển, Arab Saudi …. Bên
+cạnh đó, FPT tích cực đưa các sản phẩm hệ sinh thái
+“Made by FPT” ra thị trường quốc tế nhằm mở rộng thị
+phần, tăng trưởng doanh thu và lợi nhuận, đồng thời
 khẳng định vị thế thương hiệu FPT trên toàn cầu.
-Đồng thời, Tập đoàn cũng tiếp tục đẩy mạnh các hướng 
-chiến lược chủ lực trong lĩnh vực AI, bán dẫn, công nghệ 
-ô tô số, chuyển đổi số, chuyển đổi xanh, trung tâm dữ liệu 
-và viễn thông. Các dự án chiến lược của Chương trình DC5 
-được triển khai hiệu quả, thu hút người dùng nội bộ và đạt 
+Đồng thời, Tập đoàn cũng tiếp tục đẩy mạnh các hướng
+chiến lược chủ lực trong lĩnh vực AI, bán dẫn, công nghệ
+ô tô số, chuyển đổi số, chuyển đổi xanh, trung tâm dữ liệu
+và viễn thông. Các dự án chiến lược của Chương trình DC5
+được triển khai hiệu quả, thu hút người dùng nội bộ và đạt
 nhiều thỏa thuận hợp tác với các đối tác lớn.
-Toàn cảnh khu campus F-Ville 2 quy mô hơn 68.000 m2 
+Toàn cảnh khu campus F-Ville 2 quy mô hơn 68.000 m2
 của FPT tại Khu Công nghệ cao Hòa Lạc, Tp.Hà Nội.
 
-95
-06
 Song hành vì sự phát triển cộng đồng
 Thông điệp và Định hướng ESG
 Quản trị hướng đến phát triển bền vững
 Môi trường làm việc đẳng cấp, hạnh phúc
 Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-THÔNG ĐIỆP VÀ ĐỊNH HƯỚNG ESG
-THÔNG ĐIỆP PHÓ TỔNG GIÁM ĐỐC
-Kính thưa Quý cổ đông và các bên liên quan khác, 
-Tại FPT, chúng tôi tin tưởng sâu sắc ESG, không chỉ 
-là những cam kết về trách nhiệm và đạo đức của các 
-doanh nghiệp mà còn đóng vai trò tích cực làm cho 
-thế giới mà chúng ta đang sống và làm việc sẽ bền 
-vững, thịnh vượng và hạnh phúc hơn. 
-Năm 2024 là năm thứ 4 liên tiếp, chúng tôi thông qua 
-thực hành ESG trên mọi lĩnh vực, mọi đối tượng từ nội 
-bộ đến các đối tác, khẳng định mạnh mẽ cam kết 
-của một tập đoàn toàn cầu sử dụng sức mạnh của 
-công nghệ/AI, của quản trị bền vững, minh bạch để 
-hướng tới tăng trưởng bền vững. 
-Năm 2024, chúng tôi đã bắt đầu chú trọng triển 
-khai nhiều hoạt động liên quan đến môi trường từ 
-chính sách, ứng dụng công nghệ trong quản lý phát 
-thải carbon, đầu tư hệ thống điện xanh đến sử dụng 
-ESG giúp chúng tôi phát triển bền vững đầy sáng tạo.
-vật liệu tái chế ..., khẳng định cam kết nổi bật của 
-FPT trong lộ trình quản trị giảm phát thải khí nhà kính, 
-hướng tới mục tiêu NetZero vào năm 2040.
-Bên cạnh đó, chúng tôi vẫn luôn tự hào là tập đoàn 
-theo đuổi giá trị văn hóa trường tồn để ở đó người lao 
-động được thỏa sức học tập, sáng tạo, phát triển và 
-thể hiện tài năng một cách tự do và công bằng. Và 
-FPT cũng luôn là tập đoàn tiên phong tại Việt Nam 
-mang lại những đầu tư tốt đẹp, hạnh phúc nhất cho 
-trẻ em, cộng đồng, môi trường và xã hội. 
-ESG đang giúp chúng tôi phát triển bền vững đầy 
-sáng tạo và tôi tin chắc chắn việc gắn ESG vào hoạt 
-động kinh doanh cốt lõi, chúng tôi có thể nâng cao 
-giá trị dài hạn và cơ hội tăng trưởng của Tập đoàn.
-NGUYỄN THẾ PHƯƠNG
-PHÓ TỔNG GIÁM ĐỐC
-
-97
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-Hoạt động nổi bật	
-NHẬN CHỨNG NHẬN “DOANH NGHIỆP CÓ NHỮNG 
-ĐÓNG GÓP XUẤT SẮC VỀ MÔI TRƯỜNG, XÃ HỘI VÀ 
-QUẢN TRỊ TẠI VIỆT NAM”
-Đây là năm thứ hai liên tiếp FPT được trao chứng nhận 
-này, ghi nhận những nỗ lực không ngừng trong việc thúc 
-đẩy phát triển bền vững thông qua các giải pháp công 
-nghệ số tiên tiến.
-FPT được vinh danh vì chiến lược “Digital ESG”, một 
-chiến lược tích hợp công nghệ vào các mục tiêu phát 
-triển bền vững, giúp các doanh nghiệp tại Việt Nam đạt 
-được những mục tiêu môi trường, xã hội và quản trị. Trong 
-năm 2024, công ty đã triển khai hàng loạt hoạt động thiết 
-thực để hỗ trợ doanh nghiệp tích hợp các giải pháp công 
-nghệ vào chiến lược ESG. Cùng với việc phát hành hàng 
-trăm ấn phẩm báo cáo DxReports và các bài viết chuyên 
-sâu DxArticles, FPT còn tổ chức nhiều buổi tọa đàm, hội 
-thảo; các khóa tập huấn về ESG giúp doanh nghiệp hiểu 
-rõ hơn về các cơ chế như CBAM, hướng dẫn kiểm kê khí 
-nhà kính, chứng chỉ công trình xanh, từ đó cải thiện hiệu 
-quả công tác quản trị môi trường, xã hội và quản trị.
-HỢP TÁC VỚI USAID THÚC ĐẨY TRIỂN KHAI NĂNG 
-LƯỢNG SẠCH, GIẢM PHÁT THẢI KHÍ NHÀ KÍNH
-Tập đoàn ký kết thỏa thuận hợp tác với Cơ quan Phát triển 
-Quốc tế Hoa Kỳ (USAID) thông qua Chương trình Năng 
-lượng phát thải thấp Việt Nam II (V-LEEP II), nhằm mục tiêu 
-hỗ trợ FPT thiết lập kế hoạch đạt NetZero vào năm 2040. 
-FPT là công ty công nghệ đầu tiên của Việt Nam tham gia 
-hợp tác với Chương trình V-LEEP II. Đội ngũ chuyên gia 
-của V-LEEP II sẽ cung cấp các kiến thức toàn diện cho 
-FPT về chiến lược NetZero, phát triển năng lượng tái tạo.
-Tập đoàn đã và đang áp dụng nhiều biện pháp để giảm 
-thiểu tiêu thụ năng lượng, giảm phát thải khí nhà kính như: 
-Xây dựng văn phòng làm việc, cơ sở đào tạo xanh; ứng 
-dụng công nghệ mới, chất liệu thân thiện và tận dụng tối 
-đa nguồn năng lượng tự nhiên. Đồng thời, FPT cũng phát 
-triển các giải pháp hỗ trợ doanh nghiệp chuyển đổi xanh 
-như: Tư vấn lộ trình triển khai ESG, giải pháp kiểm kê khí 
-nhà kính VertZéro giúp các doanh nghiệp tự động hóa, 
-số hóa toàn bộ quy trình báo cáo khí thải và theo dõi tiến 
-trình thực hiện cam kết, đảm bảo quy chuẩn quốc tế ….
-TRỞ THÀNH THÀNH VIÊN CỦA HỘI ĐỒNG CẤP CAO 
-DIỄN ĐÀN ESG VIỆT NAM
-Là thành viên Hội đồng cấp cao Diễn đàn ESG Việt Nam, 
-Tổng giám đốc FPT Nguyễn Văn Khoa nói riêng và Tập 
-đoàn FPT nói chung sẽ đóng góp tích cực cho Diễn đàn. 
-Hội đồng cấp cao Diễn đàn ESG Việt Nam có chức năng 
-định hướng chiến lược phát triển cho Diễn đàn; kết nối và 
-hợp tác giữa các bên liên quan trong lĩnh vực ESG; tham 
-gia các hoạt động thúc đẩy phát triển bền vững tại Việt 
-Nam; nâng cao nhận thức về tầm quan trọng của ESG 
-trong cộng đồng doanh nghiệp và nhà đầu tư đồng thời 
-góp phần xây dựng hệ sinh thái ESG tại Việt Nam.
-Nhiều năm qua, FPT nhận định ESG luôn là phần quan 
-trọng trong chiến lược phát triển của Tập đoàn và phản 
-ánh vai trò và trách nhiệm với các bên liên quan trọng yếu. 
-Do đó, khi xác lập những ưu tiên chương trình hành động 
-trọng yếu về ESG, FPT đã nghiên cứu và tham chiếu với 
-các bộ tiêu chuẩn phát triển bền vững đang được nhiều 
-doanh nghiệp, quốc gia áp dụng.
-
-98
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-THÔNG TIN CHUNG VỀ BÁO CÁO
-Phạm vi báo cáo
-•	Thời gian báo cáo: 01/01/2024 - 31/12/2024. 
-•	Chu kỳ báo cáo: Thường niên.
-•	Phạm vi báo cáo: Báo cáo dựa trên hoạt động của Tập đoàn, các công ty thành viên tại 
-Việt Nam và một số thị trường trọng yếu.
-Thông qua Báo cáo Môi trường - Trách nhiệm xã hội - Quản trị (Báo cáo ESG), FPT có cơ 
-hội đánh giá toàn diện về các hoạt động liên quan môi trường, trách nhiệm xã hội, quản 
-trị, từ đó điều chỉnh và cân bằng chiến lược, kế hoạch kinh doanh hướng đến mục tiêu 
-phát triển bền vững cho chính Tập đoàn và cộng đồng. 
-Báo cáo được xây dựng trên nguyên tắc đảm bảo các yếu tố sau: tính chính xác, tính 
-toàn diện, tính rõ ràng, tính cập nhật và tính tin cậy. Đồng thời tham chiếu theo bộ 
-tiêu chuẩn GRI Standards của Tổ chức Sáng kiến toàn cầu (GRI).
-Thông tin liên hệ: 
-Để gửi các câu hỏi, khuyến nghị liên quan đến hoạt động ESG của FPT cũng như nội dung 
-chi tiết của Báo cáo ESG, vui lòng liên hệ với chúng tôi theo thông tin như sau:
-•	Bà: Mai Thị Lan Anh - Người Ủy quyền Công bố thông tin, Công ty Cổ phần FPT.
-•	Địa chỉ: Số 10 phố Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, Tp.Hà Nội.
-•	Điện thoại: +84 24 7300 7300
-•	Email: fptnews@fpt.com
-
-100
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-Định hướng ESG (tiếp theo)
-Để thực hiện định hướng ESG, trong năm 2024, FPT đã ban hành và 
-sửa đổi các chính sách liên quan đến ESG, tập trung vào bốn hạng 
-mục chủ chốt gồm quản trị, nhân sự, môi trường và cộng đồng. Các 
-chính sách này cũng được Tập đoàn triển khai đào tạo trên toàn hệ 
-thống với tỷ lệ hoàn thành đạt 97,5%. Song song, Tập đoàn cũng đã 
-hợp tác với USAID thông qua Chương trình Năng lượng phát thải thấp 
-Việt Nam II (V-LEEP II) để tiếp cận các kiến thức toàn diện về chiến lược 
-NetZero, phát triển năng lượng tái tạo, bao gồm: cơ chế mua bán điện 
-trực tiếp với đơn vị phát điện năng lượng tái tạo, chứng chỉ năng lượng 
-tái tạo, hệ thống lưu trữ năng lượng bằng pin, điện mặt trời mái nhà tự 
-dùng và các chủ đề liên quan khác. 
-Với những nỗ lực trong triển khai các hoạt động phát triển bền vững, 
-FPT được vinh danh Doanh nghiệp có đóng góp xuất sắc về Môi trường, 
-Xã hội và Quản trị tại Việt Nam (Amcham); Doanh nghiệp CSR tiêu biểu 
-của Việt Nam và Hoạt động cộng đồng ấn tượng nhất toàn cầu (Hội 
-nghị CSR & ESG toàn cầu); Top 10 thương hiệu bền vững nhờ đổi mới 
-sáng tạo (Trung tâm Đổi mới sáng tạo Quốc gia và VCCorp); Top 50 
-Doanh nghiệp phát triển bền vững tiêu biểu Việt Nam (Tạp chí Nhịp cầu 
-đầu tư). FPT tiếp tục là cổ phiếu công nghệ duy nhất trong danh mục 
-20 cổ phiếu thành phần của chỉ số phát triển bền vững VNSI do Sở Giao 
-dịch Chứng khoán Tp.HCM (HoSE) đánh giá trong năm 2024.
-Góc văn phòng trong Khu CNTT tập trung FPT Complex 
-của FPT tại Đà Nẵng. FPT Complex có quy mô 59.000 m2 
-cung cấp chỗ làm việc cho 10.000 nhân sự.
-
-101
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-Cam kết, mục tiêu và kết quả nổi bật
-QUẢN TRỊ XUẤT SẮC
-Vấn đề trọng yếu 
-Cam kết
-Mục tiêu
-    Kết quả nổi bật 2024
-Quản trị công ty
-Quản trị công ty xuất sắc 
-hướng tới sự phát triển 
-bền vững. 
-•	Không ngừng nâng cao năng lực quản trị 
-đáp ứng lợi ích của tất các bên liên quan.
-•	Đáp ứng 100% tiêu chuẩn quản trị theo yêu cầu của luật pháp Việt Nam; 
-•	Cải tiến hoạt động quản trị theo các tiêu chuẩn tiên tiến;
-•	Ứng dụng công nghệ vào thực tiễn quản trị để đảm bảo tính minh bạch, 
-công bằng và quyền lợi của các bên liên quan;
-•	Tiên phong nghiên cứu và ứng dụng AI trong Quản lý tài chính như: Dự 
-báo hàng tồn kho, điểm đặt hàng; quản lý dòng tiền và tối ưu thanh 
-khoản; phân tích tài chính và chatbot phân tích tài chính.
-Quản trị dữ liệu
-Đảm bảo an toàn và quyền 
-riêng tư dữ liệu. 
-•	Tuân thủ 100% quy định của luật pháp về 
-quyền riêng tư của khách hàng.
-•	Hướng dẫn, tư vấn triển khai tuân thủ quy định pháp luật và quy định nội 
-bộ về bảo vệ dữ liệu cá nhân cho các CTTV; 
-•	Triển khai công cụ phân quyền, kiểm duyệt sử dụng dữ liệu giữa các CTTV 
-trong Tập đoàn. 
-Quản trị rủi ro, 
-chống tham nhũng
-Cam kết tuân thủ pháp luật 
-và duy trì tiêu chuẩn đạo đức 
-cao nhất trong tất cả các hoạt 
-động kinh doanh. FPT không 
-chấp nhận hành vi vi phạm các 
-quy định về đạo đức của bất kỳ 
-cá nhân nào trong tổ chức.
-•	100% cán bộ quản lý được đào tạo về 
-chống gian lận và tham nhũng;
-•	100% các trường hợp liên quan đến xung 
-đột lợi tích và gian lận được xử lý;
-•	Triển khai AI trong quản trị tài 
-chính, mua sắm.
-•	Đẩy mạnh đào tạo, truyền thông để duy trì văn hóa chống tham nhũng;
-•	Tổ chức bộ máy, xây dựng quy trình quy định, chế tài xử lý các vấn đề liên 
-quan đến xung đột lợi ích và tham nhũng; 
-•	Ứng dụng AI trong mua sắm giúp kiểm soát chênh lệch giá;
-•	Ra mắt kênh iNghe - Nền tảng ghi nhận mọi ý kiến và đóng góp thẳng thắn 
-của CBNV, góp ý hoặc phản ánh khi phát hiện những vấn đề tiêu cực.
-Quản trị an 
-toàn thông tin
-Cam kết hệ thống hiện đại, tập 
-trung, bảo mật.
-•	Số sự cố an toàn thông tin ảnh hưởng 
-danh tiếng của Tập đoàn bằng 0;
-•	100% CBNV được đào tạo nâng cao 
-nhận thức để ngăn chặn vi phạm an toàn 
-thông tin.
-•	Không xảy ra sự cố an toàn thông tin ảnh hưởng đến danh tiếng 
-của Tập đoàn;
-•	Ban hành và áp dụng bộ chính sách, tiêu chuẩn an ninh bảo mật về ứng 
-dụng, hạ tầng; 
-•	Thực hiện 12 Bản tin An ninh bảo mật; 04 chiến dịch mô phỏng tấn công 
-lừa đảo Phishing.
-Quản trị mua 
-sắm bền vững
-Tính bền vững trong chuỗi 
-cung ứng. 
-•	Xây dựng các chính sách liên quan đến 
-nguồn cung ứng nhằm đáp ứng mục tiêu 
-Mua sắm bền vững của FPT và hướng tới 
-áp dụng chính sách này cho 60% nhà 
-cung cấp trọng yếu vào năm 2025.
-•	Ban hành chính sách Mua sắm bền vững, ưu tiên hàng hóa dịch vụ và nhà 
-cung cấp xanh; 
-•	Đào tạo, hướng dẫn về phát triển bền vững, mục tiêu mua sắm bền vững 
-tới đội ngũ lãnh đạo và cán bộ quản lý mua sắm;
-•	Ứng dụng AI minh bạch hoá hoạt động mua sắm như: AI gợi ý nhà cung 
-cấp; AI kiểm soát chênh lệch giá.
-
-103
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH
-Vấn đề trọng yếu 
-Cam kết
-Mục tiêu
-    Kết quả nổi bật 2024
-Bảo vệ môi trường
-Không ngừng cải thiện 
-môi trường làm việc 
-hướng tới môi trường 
-làm việc xanh, an toàn, 
-lành mạnh.
-•	Mục tiêu ngắn hạn: Đến năm 
-2030, bằng nguồn lực của FPT 
-giảm 15,8% tổng lượng khí thải 
-khí nhà kính phù hợp với mục 
-tiêu chung của Việt Nam;
-•	Mục tiêu dài hạn đến năm 2040 
-là NetZero (Cắt giảm lượng 
-khí thải gây hiệu ứng nhà kính 
-xuống bằng 0) như cam kết của 
-Chính phủ Việt Nam tại COP 26.
-•	Ban hành Chính sách môi trường; 
-•	Chuẩn hoá phương pháp kiểm kê dữ liệu phát thải khí nhà kính cho phạm vi phát thải 
-01 và phạm vi phát thải 02;
-•	100% số liệu sử dụng năng lượng tại FPT được giám sát;
-•	Triển khai sử dụng 100% bóng đèn Led trong các cơ sở xây mới;
-•	Triệt để triển khai các chương trình xanh hoá như: 100% sử dụng cốc bằng vật liệu 
-thân thiện môi trường, 100% không sử dụng chai nhựa trong văn phòng, 100% túi 
-đựng rác trong văn phòng bằng các vật liệu có thể tái chế; 
-•	100% CBNV được đào tạo về chính sách môi trường và bảo vệ môi trường hàng năm.
-VÌ SỰ PHÁT TRIỂN CỦA CỘNG ĐỒNG
-Vấn đề trọng yếu 
-Cam kết
-Mục tiêu
-    Kết quả nổi bật 2024
-Đào tạo nguồn 
-nhân lực công nghệ 
-chất lượng cao
-Là đơn vị dẫn đầu 
-trong đào tạo công 
-dân số có năng lực 
-cạnh tranh toàn cầu.
-•	Đào tạo 10.000 kỹ sư bán dẫn, 
-50.000 kỹ sư AI vào năm 2030;
-•	Đào tạo 01 triệu công dân số 
-toàn cầu vào năm 2030.
-•	Nghiên cứu, ứng dụng và phát triển các giải pháp công nghệ tiên tiến nhất, gia tăng 
-tương tác và cá nhân hóa trải nghiệm của người học; Đưa AI vào đào tạo từ Phổ thông 
-tới Đại học, triển khai các buổi hướng dẫn ứng dụng các công cụ AI cho sinh viên;
-•	Mở chuyên ngành đào tạo bán dẫn và triển khai ba chương trình đào tạo bán dẫn 
-chuyên sâu. Năm 2024 tuyển sinh 1.600 sinh viên ngành bán dẫn;
-•	Đẩy mạnh các chương trình học bổng tài năng: Trung tâm bồi dưỡng tài năng trẻ 
-FPT (FYT), học bổng Nguyễn Văn Đạo và các chương trình tín dụng sinh viên để 
-tạo cơ hội học tập cho sinh viên. Năm 2024, FPT đã trao 168,1 tỷ đồng học bổng 
-Nguyễn Văn Đạo.
-Tạo điều kiện tốt 
-nhất để trẻ em Việt 
-Nam có cơ hội tiếp 
-cận giáo dục chất 
-lượng và bền vững
-Định hướng hoạt 
-động CSR vào hỗ trợ 
-điều kiện học tập tốt 
-hơn cho các hoàn 
-cảnh yếu thế tại các 
-khu vực kinh tế khó 
-khăn, thuộc vùng núi, 
-vùng sâu, vùng xa.
-Tiếp tục duy trì quỹ dành cho các 
-hoạt động phát triển vì cộng đồng 
-tập trung chủ yếu vào các hoạt 
-động giáo dục.
-•	 Sử dụng 66,3 tỷ đồng cho các hoạt động trách nhiệm xã hội;
-•	Đẩy mạnh xây dựng và nâng cấp các cơ sở giáo dục dành cho trẻ em; cung cấp môi 
-trường học tập an toàn, toàn diện và hiệu quả cho tất cả mọi người với các dự án 
-Ánh sáng học đường, Chắp cánh ước mơ, Vệ sinh học đường, trường Hy Vọng .... 
-Tổng số học sinh tại trường Hy Vọng hết năm 2024 là 307 học sinh.
-
-105
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-GẮN KẾT VỚI CÁC BÊN LIÊN QUAN
-FPT xác định các bên liên quan là những bên có ảnh hưởng hoặc bị ảnh hưởng ở một mức độ nhất định từ hoạt động kinh doanh của Tập đoàn. Do đó, thông tin, ý kiến phản hồi, nhu 
-cầu và mối quan tâm của các bên liên quan là những yếu tố quan trọng tác động đến tư duy, cách thức hành động của FPT trong việc quản lý và vận hành các hoạt động cũng như xây 
-dựng chiến lược phát triển trong dài hạn của Tập đoàn. FPT cam kết song hành cùng các bên liên quan kiến tạo một môi trường sống, làm việc hạnh phúc dựa trên những giải pháp, 
-sản phẩm, dịch vụ công nghệ sáng tạo, đột phá.
-07 bên liên quan trọng yếu đối với FPT bao gồm: Khách hàng; Cổ đông và Nhà đầu tư; Cán bộ nhân viên; Chính phủ, Ban Ngành; Đối tác và Nhà cung cấp; Cộng đồng; Báo chí.
-Khách hàng
-Chương trình hành động nổi bật
-    Kết quả năm 2024
-Đẩy mạnh cung cấp dịch vụ tư vấn và triển khai chuyển 
-đổi số, góp phần hướng tới xây dựng một xã hội số 
-tốt đẹp hơn
-•	Tiếp tục đẩy mạnh ký kết thỏa thuận hợp tác chuyển đổi số với các tỉnh, thành trên toàn quốc. Tính đến hết 2024, 
-Tập đoàn FPT đã xúc tiến ký kết thỏa thuận hợp tác chuyển đổi số với 31 địa phương và đào tạo nhận thức chuyển 
-đổi số cho hàng chục nghìn cán bộ lãnh đạo các cấp trên toàn quốc;
-•	Đối tác tư vấn chuyển đổi số toàn diện của nhiều doanh nghiệp TOP VNR500 như: Petrolimex, PV Oil, T&T, TTC, Ba 
-Huân, Thiên Long, Tân Long, Flamingo, An Gia, Vinaseed, Coteccons, EVNGENCO1 ...;
-•	Đối tác tư vấn và triển khai các giải pháp chuyển đổi xanh và phát triển bền vững cho các khách hàng thuộc đa 
-dạng lĩnh vực: Tài chính ngân hàng, Dược, Sản xuất công nghiệp, Gỗ, Chế tạo, Nông nghiệp;
-•	Doanh thu ký mới từ dịch vụ CNTT nước ngoài đã vượt mốc 1,3 tỷ USD, tăng 13,0% so với cùng kỳ.
-Nâng cấp các sản phẩm, dịch vụ, giải pháp dựa trên các 
-xu hướng công nghệ mới đem lại hiệu quả và năng suất 
-cho khách hàng
-•	Hợp tác toàn diện với NVIDIA thúc đẩy phát triển AI và điện toán đám mây trên toàn cầu; 
-•	Ra mắt hai Nhà máy AI tại Việt Nam và Nhật Bản;
-•	FPT.AI được vinh danh Sản phẩm công nghệ số tiêu biểu Make in Viet Nam giai đoạn 2018-2024;
-•	akaBot lần thứ hai liên tiếp có mặt trong báo cáo Gartner® Peer Insights™;
-•	Ra mắt FPT AI Agents - Nền tảng AI thế hệ mới dành cho doanh nghiệp; 
-•	Hệ sinh thái công nghệ Made by FPT với gần 250 dịch vụ, sản phẩm, giải pháp; 
-•	Nền tảng Base.vn thu hút hơn 10.000 doanh nghiệp sử dụng.
-Nâng cao uy tín thương hiệu của FPT
-•	Tiếp tục khẳng định vị thế doanh nghiệp đầu ngành với những giải thưởng uy tín về quản trị, kinh doanh, công 
-nghệ trên toàn cầu như: Top 50 Công ty dịch vụ CNTT châu Á, Công ty dịch vụ CNTT lớn nhất Đông Nam Á, Top 5 
-thương hiệu mạnh nhất Việt Nam, Top 10 Doanh nghiệp quản trị công ty tốt nhất nhóm vốn hóa lớn, Top 10 Sao 
-Vàng Đất Việt, Top 10 Nơi làm việc tốt nhất Việt Nam.
-
-106
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-Cổ đông và nhà đầu tư
-Chương trình hành động nổi bật
-    Kết quả năm 2024
-Xây dựng định hướng, chiến lược kinh doanh bám sát 
-theo xu hướng thị trường, xu hướng công nghệ trong nước 
-và thế giới
-•	Công bố chiến lược "AI - Bán - Xe - Số - Xanh" nhằm định hướng tăng trưởng dài hạn và mở rộng vào các lĩnh vực 
-công nghệ cao như AI, bán dẫn và công nghệ ô tô số, đồng thời duy trì tốc độ tăng trưởng mạnh mẽ trong chuyển 
-đổi số và phát triển bền vững. 
-Xây dựng các chương trình hành động, giải pháp đảm bảo 
-hiện thực hóa các mục tiêu kinh doanh theo định hướng, 
-chiến lược
-•	Tiếp tục tăng trưởng ổn định với doanh thu và lợi nhuận trước thuế tăng trưởng lần lượt 19,4% và 20,3% so với 
-cùng kỳ. Lợi nhuận sau thuế cho cổ đông công ty mẹ đạt 7.857 tỷ VNĐ, tăng trưởng 21,5% so với cùng kỳ.
-Đảm bảo quyền lợi của cổ đông
-•	Chi trả 2.741 tỷ VNĐ cổ tức bằng tiền mặt:
-•	Lãi cơ bản trên cổ phiếu (EPS) đạt 4.944 VNĐ, tăng 22,0% so với cùng kỳ;
-•	Giữ vững vị trí trong Top 20 cổ phiếu xanh VNSI (công cụ tham khảo hoặc để làm tài sản cơ sở cho các sản phẩm 
-đầu tư như ETF (Exchange Traded Fund - Quỹ hoán đổi danh mục) và phái sinh chỉ số trong tương lai).
-Cung cấp, cập nhật thông tin hai chiều kịp thời, đầy đủ và 
-minh bạch với cổ đông
-•	Đảm bảo công bố thông tin bất thường và định kỳ theo quy định đúng thời hạn đáp ứng yêu cầu của Sở Giao dịch 
-Chứng khoán Tp.HCM, UBCKNN và cung cấp thông tin kịp thời, minh bạch cho nhà đầu tư, cổ đông và các bên 
-liên quan khác;
-•	Tất cả các cổ đông, nhà đầu tư đều có quyền tiếp cận những thông tin FPT phải công bố theo quy định thông qua 
-Bộ phận Quan hệ nhà đầu tư, Báo cáo thường niên, website của Tập đoàn; 
-•	Được vinh danh ở cả hai hạng mục: Top 3 Doanh nghiệp có hoạt động IR được nhà đầu tư yêu thích nhất và Top 3 
-Doanh nghiệp có hoạt động IR được Định chế tài chính đánh giá cao nhất.
-Cán bộ nhân viên
-Chương trình hành động nổi bật
-    Kết quả năm 2024
-Xây dựng môi trường đẳng cấp, đảm bảo công 
-bằng, bình đẳng không phân biệt giới tính, tuổi 
-tác, trình độ
-•	Top 10 Nơi làm việc tốt nhất Việt Nam, dẫn đầu trong lĩnh vực Công nghệ thông tin/Phần mềm và 
- Ứng dụng/Thương mại điện tử;
-•	Top 100 Nơi làm việc tốt nhất tại Việt Nam, Mỹ, Nhật Bản, Singapore;
-•	Tỷ lệ CBNV nữ chiếm 37,1% tổng nhân sự (cao hơn so với tỷ lệ chung của ngành CNTT thế giới là 25%);
-•	Thu hút nhân tài thuộc 87 quốc tịch trên toàn cầu, tăng 19,3% so với cùng kỳ.
-Xây dựng môi trường minh bạch, thân thiện 
-và hạnh phúc
-•	Ra mắt kênh iNghe - Nền tảng ghi nhận mọi ý kiến và đóng góp thẳng thắn của CBNV, góp ý hoặc phản ánh khi phát 
-hiện những vấn đề tiêu cực;
-•	Ý kiến góp ý nhằm duy trì các giá trị cốt lõi của công ty và góp ý cải tiến giúp quy trình làm việc trở nên hiệu quả hơn.
-
-111
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-XÁC ĐỊNH CÁC VẤN ĐỀ TRỌNG YẾU
-Các vấn đề trọng yếu trong hoạt động 
-ESG được xác định dựa trên nguyên tắc 
-phù hợp với hoạt động kinh doanh hướng 
-tới sự phát triển bền vững của Tập đoàn 
-và chia sẻ lợi ích, đảm bảo quyền lợi cao 
-nhất cho các bên liên quan và cộng đồng, 
-đồng thời tuân thủ các quy định pháp luật 
-liên quan.
-VAI TRÒ VÀ TRÁCH NHIỆM CỦA CÁC BÊN TRONG QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG
-Bộ phận chịu 
-trách nhiệm
-Vai trò và trách nhiệm
-HĐQT
-Phê duyệt, ban hành chiến lược và định hướng phát triển bền vững trong toàn Tập đoàn.
-Ban Điều hành
-Đảm bảo việc triển khai chiến lược phát triển bền vững thông qua các hoạt động:
-•	Xây dựng mục tiêu phát triển bền vững cụ thể cho Tập đoàn và CTTV;
-•	Chỉ đạo triển khai các chương trình hiện thực hóa chiến lược phát triển bền vững của Tập đoàn;
-•	Giám sát kết quả thực hiện mục tiêu phát triển bền vững của Tập đoàn và CTTV.
-Công ty thành viên
-•	Đảm bảo hiện thực hóa các mục tiêu phát triển bền vững theo định hướng và chiến lược chung của Tập đoàn;
-•	Thực hiện báo cáo định kỳ về tình hình triển khai chiến lược phát triển bền vững của đơn vị.
-QUY TRÌNH XÁC ĐỊNH CÁC VẤN ĐỀ TRỌNG YẾU 
-BƯỚC    01
-BƯỚC    02
-BƯỚC    03
-Xác định các vấn đề chính có ảnh hưởng lớn đến hoạt 
-động kinh doanh của Tập đoàn và lợi ích của các bên 
-liên quan.
-•	Bám sát các diễn biến kinh tế, chính trị, xã hội, môi trường 
-của Việt Nam và thế giới;
-•	Nghiên cứu thông tin từ các báo cáo kinh tế - xã hội, báo 
-cáo thị trường, báo cáo ngành do các tổ chức uy tín đưa ra;
-•	Phân tích các báo cáo đánh giá, khảo sát khách hàng 
-của Tập đoàn;
-•	Phân tích đặc thù kinh doanh của ngành và các lĩnh vực 
-hoạt động cụ thể của Tập đoàn;
-•	Phản hồi từ cổ đông, nhà đầu tư và các bên liên quan khác;
-•	Tìm hiểu các hướng dẫn về xây dựng báo cáo phát 
-triển bền vững.
-Phân tích và xác định các vấn đề trọng yếu được các 
-bên quan tâm.
-•	Lựa chọn các vấn đề trọng yếu mà các bên quan tâm 
-theo bốn nội dung gồm: Đảm bảo giá trị cốt lõi trong 
-quản trị được tiếp tục gìn giữ, phát huy hướng đến phát 
-triển bền vững; Thúc đẩy Chuyển đổi số Quốc gia; Đầu 
-tư cho giáo dục thế hệ trẻ; Hoạt động bảo vệ môi trường.
-Phân tích các vấn đề trọng yếu trong mối quan hệ với 
-các bên liên quan.
-•	Xây dựng ma trận các vấn đề trọng yếu;
-•	Lựa chọn các vấn đề trọng yếu.
-Dựa trên nguyên tắc và quy trình xác định các vấn đề 
-trọng yếu nêu trên, FPT lựa chọn 04 vấn đề trọng yếu gồm: 
-Quản trị hướng đến phát triển bền vững; Xây dựng môi 
-trường làm việc đẳng cấp, hạnh phúc; Hoạt động vì môi 
-trường xanh và Song hành vì sự phát triển của cộng đồng.
-Như được đề cập ở trên, FPT tập trung xây dựng, triển khai 
-các kế hoạch, chương trình hành động phù hợp hướng 
-đến mục tiêu cao nhất là đảm bảo tăng trưởng vững chắc 
-về kinh tế và mang lại những giá trị thiết thực cho các bên 
-liên quan.
-
-112
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-QUẢN TRỊ HƯỚNG ĐẾN PHÁT TRIỂN BỀN VỮNG
-ÁP DỤNG CÁC QUY TRÌNH QUẢN TRỊ THEO CHUẨN QUỐC TẾ
-Các quy trình quản trị chuẩn mực là công cụ quan trọng để Tập đoàn đảm bảo tính 
-tuân thủ, hiệu quả trong việc thực hiện các mục tiêu phát triển bền vững nâng cao 
-năng lực cạnh tranh, vị thế của công ty cũng như mang lại giá trị cho các bên liên quan. 
-Năm 2024, FPT tiếp tục đẩy mạnh triển khai phương pháp quản trị bằng mục tiêu và kết 
-quả then chốt (OKRs) trong toàn Tập đoàn giúp thiết lập mục tiêu thống nhất của từng 
-STT
-Khối Kinh doanh
-Chứng chỉ/Chứng nhận
-1
-Tập đoàn
-•	ISO 9001:2015 - Tiêu chuẩn về Hệ thống quản lý chất lượng;
-•	OKRs - Bộ tiêu chuẩn đánh giá chất lượng theo mục tiêu và kết quả 
-then chốt.
-2
-Khối Công nghệ 
-•	ISO 9001:2015 - Tiêu chuẩn về Hệ thống quản lý chất lượng;
-•	ISO/IEC 27001:2022 - Tiêu chuẩn quốc tế về thông tin và quản lý 
-an toàn thông tin;
-•	ISO 22301 - Tiêu chuẩn quốc tế về Hệ thống quản lý kinh doanh 
-liên tục;
-•	ISO/IEC 27017 - Tiêu chuẩn Quốc tế về Kiểm soát Bảo mật 
-An toàn Thông tin cho Dịch vụ Đám mây;
-•	HIPAA - Đạo luật về Trách nhiệm giải trình và cung cấp thông tin bảo 
-hiểm y tế 1996 của Mỹ; 
-•	CMMiDEV/5 - Mô hình năng lực trưởng thành tích hợp cấp độ 5 dành 
-cho các doanh nghiệp phần mềm;
-•	ISO/IEC 20000-1:2018 - Tiêu chuẩn quốc tế về Hệ thống Quản lý dịch 
-vụ công nghệ thông tin;
-•	TMMi Certitiec level 5 - Tích hợp mô hình trưởng thành kiểmthử 
-cấp độ 5;
-•	A-SPICE (Automotive - Software Process Improvement and 
-Capability dEtermination) - Tiêu chuẩn đánh giá quy trình phát triển 
-phần mềm trong ngành ô tô;
-•	TISAX-Level 3 - Hệ thống trao đổi đánh giá bảo mật thông tin;
-•	ISO 14001:2015 - Tiêu chuẩn quốc tế về Hệ thống quản lý môi trường;
-•	ISO 13485 - Tiêu chuẩn quốc tế về hệ thống quản lý an toàn cho 
-trang thiết bị y tế;
-•	ISO/IEC 30107-3:2017 - Tiêu chuẩn Chống giả mạo sinh trắc; 
-•	CREST - Council of Registered Ethical Security Testers cho dịch vụ SOC 
-(Giám sát và ứng cứu sự cố ANTT);
-•	PCI DSS - Tiêu chuẩn bảo mật dành cho các tổ chức trong quá trình xử lý 
-thẻ thanh toán quốc tế;
-•	SOC 2 type 2 - Bộ tiêu chí đánh giá độ tin cậy về dịch vụ quản lý dữ liệu 
-khách hàng được phát triển bởi Viện Kế toán Công chứng Hoa Kỳ (AICPA);
-•	ISO/IEC 27018:2019 - Tiêu chuẩn Thực hành bảo vệ thông tin định đanh 
-cá nhân trên dịch vụ điện toán đám mây;
-•	ISO/IEC 27701:2019 - Tiêu chuẩn về Hệ thống quản lý thông tin cá nhân;
-•	HITRUST r2: HITRUST CSF® v9.3 Risk-based, 2-year;
-•	ISO 45001:2018 – Tiêu chuẩn quốc tế về Hệ thống quản lý sức khỏe và 
-an toàn lao động.
-cá nhân với mục tiêu của phòng ban/CTTV/Tập đoàn đảm bảo đi theo đúng chiến lược, 
-định hướng chung, góp phần nâng cao hiệu quả hoạt động và năng suất lao động. 
-Bên cạnh đó, hoạt động của Tập đoàn nói chung và mỗi lĩnh vực hoạt động cốt lõi nói 
-riêng cũng đang áp dụng và đạt được các chứng nhận tiêu chuẩn quốc tế uy tín.
-
-117
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-Tên rủi ro
-Nội dung
-Biện pháp quản trị
-Rủi ro về chiến 
-lược, tầm nhìn
-Rủi ro về chiến lược, tầm nhìn thường dẫn 
-tới việc xác định sai đường hướng phát 
-triển, từ đó đầu tư phân bổ nguồn lực không 
-hợp lý, không phát triển được những mảng 
-kinh doanh mới tiềm năng, hoặc không đưa 
-ra được các sản phẩm/dịch vụ mới có hàm 
-lượng công nghệ cao đáp ứng tốt hơn nhu 
-cầu của thị trường.
-•	Tham gia các sự kiện kinh tế, công nghệ lớn tại Việt Nam và trên thế giới để nắm bắt các xu hướng công 
-nghệ mới, tìm kiếm cơ hội phát triển cho Tập đoàn;
-•	Tổ chức Hội nghị chiến lược định kỳ hàng năm để cập nhật những xu hướng mới nhất trong kinh doanh và 
-công nghệ nhằm đảm bảo tầm nhìn và định hướng chiến lược của Tập đoàn là đúng đắn.
-Rủi ro suy 
-giảm năng lực 
-cạnh tranh
-Đa phần các lĩnh vực kinh doanh của Tập 
-đoàn có rào cản gia nhập ngành thấp, đã 
-và đang đối diện với những khó khăn lớn khi 
-các công ty nước ngoài hoặc các công ty 
-mới nổi, năng động ở trong nước phát triển 
-nhanh chóng, giành thị phần.
-•	Đưa ra chiến lược cung cấp dịch vụ toàn diện và từng bước nâng cao vị thế trong chuỗi giá trị dịch vụ công 
-nghệ thông tin. Chiến lược này sẽ giúp FPT không ngừng cải tiến và nâng cao năng lực cạnh tranh;
-•	Tăng cường đào tạo, phát triển đội ngũ cán bộ đặc biệt là đội ngũ cán bộ công nghệ nhằm nâng cao năng 
-lực công nghệ mới, đáp ứng nhu cầu cạnh tranh;
-•	Liên tục cải tiến mô hình kinh doanh, cải tiến hệ thống thông tin, quy trình nội bộ để tối ưu hóa việc vận 
-hành và tối ưu hóa chi phí dựa trên hệ thống quản trị hiện đại;
-•	Đẩy mạnh chuyển đổi số nội bộ nhằm đảm bảo hoạt động của Tập đoàn được thống nhất, thông suốt và 
-minh bạch hướng đến mô hình công ty hoạt động theo thời gian thực. 
-Rủi ro chiến lược
-QUẢN TRỊ RỦI RO
-Tùy theo đặc thù ngành nghề kinh doanh, từng mảng kinh doanh, khung quản lý rủi ro của Tập đoàn sẽ được Tổng giám đốc chỉ đạo xây dựng, phê duyệt và cải tiến định kỳ hàng năm. 
-Trong đó, đối với phát triển bền vững, Tập đoàn xác định có năm nhóm rủi ro chính bao gồm: Rủi ro chiến lược, Rủi ro hoạt động, Rủi ro tài chính, Rủi ro luật định và Rủi ro môi trường, 
-thiên tai, dịch bệnh.
-
-122
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-KIỂM SOÁT NỘI BỘ
-Tiếp tục khẳng định năng lực quản trị của Tập đoàn và các công ty thành viên (CTTV), 
-đảm bảo tính minh bạch và quyền lợi của cổ đông cũng như các bên liên quan, FPT thiết 
-kế hệ thống kiểm soát nội bộ tuân thủ các quy định pháp luật liên quan và quy chiếu với 
-các quy chuẩn quốc tế.
-Để đảm bảo hoạt động kiểm soát nội bộ được hiệu quả và giảm thiểu rủi ro đặc biệt liên 
-quan đến phát triển bền vững, Tập đoàn đã: 
-Chủ thể
-Nội dung
-Tổng giám đốc
-•	Phê duyệt kế hoạch kiểm soát tuân thủ; 
-•	Chỉ đạo giải quyết các tồn tại cũng như cải tiến hệ thống;
-•	Xây dựng, phê duyệt, triển khai và kiểm soát khung quản 
-lý rủi ro của Tập đoàn.
-Trưởng Ban Giám 
-sát tuân thủ
-•	Hoạch định và tổ chức kiểm soát việc tuân thủ các yêu 
-cầu của pháp luật, kiểm soát các lĩnh vực/hoạt động có 
-rủi ro cao trong hệ thống quản trị của Tập đoàn;
-•	Tổ chức các đợt kiểm soát đột xuất theo yêu cầu của Ban 
-Điều hành.
-Giám đốc Ban Đảm bảo 
-chất lượng
-•	Hoạch định và tổ chức kiểm soát việc tuân thủ các yêu 
-cầu của hệ thống quản trị của Tập đoàn;
-•	Tổ chức các đợt kiểm soát theo yêu cầu của Ban Điều hành.
-Trưởng các bộ phận 
-chức năng ngành dọc 
-•	Rà soát và cập nhật hệ thống tài liệu quản trị của Tập 
-đoàn trong phạm vi phụ trách nhằm đảm bảo sự phù hợp 
-với yêu cầu luật pháp, tiêu chuẩn quốc gia/quốc tế liên 
-quan và phù hợp với thực tế hoạt động; 
-•	Phối hợp với Ban Đảm bảo chất lượng, Ban Giám sát tuân 
-thủ trong các hoạt động kiểm soát và giải quyết các tồn 
-tại cũng như cải tiến hệ thống.
-Mô hình kiểm soát nội bộ
-•	Kiện toàn hệ thống kiểm soát nội bộ và triển khai chính sách quản trị rủi ro;
-•	Xây dựng kế hoạch chi tiết hoạt động của bộ máy kiểm soát nội. Theo đó, Trưởng Ban 
-Giám sát tuân thủ, Giám đốc Ban Đảm bảo chất lượng và Trưởng các bộ phận chức năng 
-ngành dọc có trách nhiệm xây dựng kế hoạch kiểm soát tuân thủ tương ứng với phạm vi/
-lĩnh vực phụ trách quản lý. Đồng thời, Tập đoàn cũng đã triển khai các đợt kiểm soát đột 
-xuất để có điều chỉnh kịp thời về hệ thống kiểm soát. 
-Năm 2024, Tập đoàn đã triển khai nhiều hoạt động kiểm soát trọng điểm để kiến nghị 
-giải pháp quản lý rủi ro tiềm tàng có thể xảy ra trong tương lai đối với hoạt động của Tập 
-đoàn/CTTV như: 
-•	Giám sát việc tuân thủ các quy định pháp luật, các quy định/chính sách vận hành trong 
-việc quản lý điều hành hoạt động sản xuất kinh doanh của Tập đoàn và các CTTV; 
-•	Đánh giá theo từng chủ đề như mua sắm, xây dựng đột xuất và định kỳ các CTTV với sự 
-phối hợp với các bộ phận chuyên môn trong Tập đoàn;
-•	Giám sát và quản trị các hoạt động giữa Tập đoàn/CTTV và các nhà cung cấp, đối tác 
-để đảm bảo công bằng, minh bạch cho các đối tác và nhà cung cấp, trên tinh thần hợp 
-tác cùng có lợi và phòng ngừa và giảm thiểu rủi ro trong các mảng hoạt động sản xuất 
-kinh doanh.
-Bên cạnh đó, FPT đang gấp rút triển khai các kênh khiếu nại vi phạm cho các bên liên 
-quan trong và ngoài Tập đoàn thông qua các hình thức sau: đường dây trợ giúp qua điện 
-thoại; email; đối thoại; khảo sát ý kiến, như một cơ chế báo cáo vấn đề vi phạm một cách 
-bảo mật. Bất kỳ vi phạm nào được báo cáo, FPT sẽ thực hiện điều tra thông qua các biện 
-pháp thích hợp, cung cấp phản hồi sớm và có hành động khắc phục ngay khi vấn đề 
-được xác nhận.
-
-126
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-FPT luôn nỗ lực tạo môi trường tốt nhất để người lao động phát huy tài năng và có cơ hội 
-thăng tiến sự nghiệp thông qua chương trình luân chuyển cán bộ và các cuộc thi trên 
-toàn Tập đoàn.
-Luân chuyển nội bộ không chỉ là huyết mạch của sự phát triển mà còn là chìa khóa để cán 
-bộ lãnh đạo, quản lý có được những trải nghiệm phong phú, nâng cao năng lực lãnh đạo, 
-Luân chuyển, thăng tiến
-điều hành. Qua đó, FPT có thể phát hiện, bồi dưỡng và xây dựng đội ngũ cán bộ quản lý 
-kế cận, tạo nền tảng vững chắc cho sự phát triển bền vững.
-Năm 2024, hàng trăm cán bộ lãnh đạo, quản lý các cấp được luân chuyển và bổ nhiệm, 
-thăng tiến minh chứng cho sự hiệu quả của chương trình này. Các trường hợp tiêu biểu 
-như: Phó tổng giám đốc FPT, Trưởng ban Mua sắm FPT, Trưởng ban Giám sát tuân thủ và 
-Pháp chế FPT, Giám đốc Nhân sự FPT Software, Giám đốc Sản xuất FPT Software ....
-
-130
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH 
-FPT cam kết giảm thiểu tác động môi trường thông qua việc giám sát, thích ứng và áp dụng công nghệ linh hoạt trong sử dụng năng lượng, tài nguyên. Theo đó, Tập đoàn triển khai 
-nhất quán và tổng thể các giải pháp tổng thể được tuyên bố trong Chính sách môi trường. 
-Đồng thời, với đặc thù hoạt động trong lĩnh vực công nghệ, FPT không sử dụng nguyên vật liệu đầu vào trực tiếp trong quá trình nghiên cứu, phát triển sản phẩm, dịch vụ, giải pháp, 
-qua đó góp phần giảm thiểu nhu cầu tiêu thụ tài nguyên và hạn chế tác động đến môi trường. 
-FPT hướng tới các mục tiêu trọng điểm trong hoạt động bảo vệ môi trường bao gồm: (1) Ban hành chính sách môi trường, (2) Tuân thủ pháp luật, (3) Quản lý hiệu quả tiêu thụ năng 
-lượng và thực hiện kiểm kê khí nhà kính, (4) Xây dựng môi trường làm việc xanh. 
-Năm 2024, FPT đã ban hành Chính sách môi trường, tập trung vào các vấn đề trọng yếu 
-như: giảm tiêu thụ năng lượng; hạn chế sử dụng hoá chất độc hại; kiểm soát và xử lý chất 
-thải; thúc đẩy hoạt động tái chế; kiểm soát phát thải khí nhà kính và thúc đẩy tiêu dùng 
-bền vững. Đồng thời, FPT cam kết nâng cao nhận thức về môi trường trong toàn Tập đoàn 
-thông qua các hoạt động truyền thông và đào tạo. 
-Chính sách này đưa ra các cam kết và lộ trình cụ thể, bám sát các mục tiêu môi trường 
-của Quốc gia. FPT đặt mục tiêu đến năm 2026, 2,5% tổng lượng điện tiêu thụ sẽ đến từ 
-nguồn năng lượng tái tạo và toàn bộ hệ thống chiếu sáng sẽ được chuyển đổi sang 100% 
-đèn Led. Đặc biệt, đến năm 2030, FPT cam kết cắt giảm 15,8% tổng lượng phát thải khí 
-nhà kính, góp phần thực hiện cam kết giảm phát thải chung của Việt Nam. 
-Thông qua các hành động này, FPT khẳng định vai trò tiên phong trong bảo vệ môi trường 
-và thúc đẩy sự phát triển bền vững.
-Trong nhiều năm qua, Tập đoàn FPT bao gồm các công ty thành viên không ghi nhận bất 
-kỳ biên bản hay thông báo nào liên quan đến việc vi phạm các điều Luật và Quy định về 
-môi trường. Thông tin này được FPT khẳng định dựa trên các tài liệu, văn bản đến và đi 
-được lưu trữ chặt chẽ trên hệ thống thông tin dữ liệu của Tập đoàn. 
-Một số hoạt động quan trọng liên quan đến môi trường được FPT triển khai thường xuyên: 
-CHÍNH SÁCH MÔI TRƯỜNG
-TUÂN THỦ PHÁP LUẬT
-•	Thực hiện Báo cáo đánh giá tác động môi trường tất cả các dự án theo quy định Luật bảo 
-vệ môi trường 2020 có hiệu lực 01/01/2022 và Nghị định 08/2022/NĐ-CP quy định chi tiết 
-một số điều của Luật bảo vệ môi trường;  
-•	Tổ chức thu gom, phân loại, lưu giữ, vận chuyển và xử lý toàn bộ chất thải rắn sinh hoạt, 
-chất thải rắn công nghiệp, chất thải nguy hại và các loại chất thải khác phát sinh đảm bảo 
-theo đúng các quy định tại Nghị định số 38/2015/NĐ-CP và Thông tư 36/2015/TT-BTNMT; 
-•	Thực hiện nghiêm ngặt công tác quản lý và vận hành hệ thống thu gom, xử lý nước thải 
-đảm bảo các nguồn nước thải phát sinh trong quá trình vận hành dự án được xử lý đạt 
-Quy chuẩn kỹ thuật Quốc gia về nước thải sinh hoạt (QCVN 14:2008/BTNMT) trước khi 
-thải ra môi trường; 
-•	Triển khai các biện pháp phòng ngừa, giảm thiểu tác động tiêu cực và phòng ngừa, ứng 
-phó rủi ro, sự cố môi trường;
-•	Thực hiện quản lý và giám sát định kỳ với tất cả thông tin về môi trường được cập nhật, lưu 
-trữ tại các dự án và gửi đến Sở Tài nguyên và Môi trường kiểm tra, giám sát theo quy định.
-
-131
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-QUẢN LÝ HIỆU QUẢ TIÊU THỤ NĂNG LƯỢNG VÀ KIỂM KÊ KHÍ NHÀ KÍNH
-2024 là năm thứ hai FPT triển khai kiểm kê khí nhà kính trên phạm vi toàn Tập đoàn
-Phạm vi và phương pháp
-Dữ liệu phát thải FPT 2024
-100%
-143.574 tấn CO2
-100% 
-100% 
-Cơ sở thuộc quyền kiểm soát vận hành của FPT 
-được tiến hành kiểm kê khí nhà kính
-Tổng phát thải khí nhà kính thuộc phạm vi 1 và 2
-Dữ liệu phát thải khí nhà kính phạm vi 1,2 và 3 
-được chuẩn hoá và triển khai đồng bộ tới CTTV 
-Dữ liệu phát thải phạm vi 1 và 2 được thu thập, tính toán
-Phạm vi 3
-Triển khai thí điểm tại CTTV
-Lượng phát thải chủ yếu đến từ điện năng phục vụ sản 
-xuất kinh doanh của FPT (Phạm vi 2 chiếm 96,6%). Lượng 
-phát thải từ điện năng này tăng 16% so với năm 2023, tỷ lệ 
-thuận với xu hướng tăng trưởng của FPT trong năm 2024)
-FPT đang tích cực triển khai các biện pháp để giảm 
-thiểu phát thải khí nhà kính từ điện năng nói riêng và tất 
-cả các nguồn phát thải nói chung, phục vụ mục tiêu đạt 
-NetZero vào 2040.
-Các nguồn phát thải khí nhà kính được FPT thực 
-hiện bao gồm:
-Phạm vi 2
-Phạm vi 1
-4.826
-138.748
-Đơn vị: Tấn CO2 quy đổi tương đương
-•	Phạm vi 1 - Phát thải khí nhà kính trực tiếp phát sinh từ 
-các nguồn do FPT sở hữu hoặc kiểm soát.
-•	Phạm vi 2 - Phát thải khí nhà kính gián tiếp phát sinh từ 
-việc sử dụng điện, hơi nước, nhiệt được mua từ nhà cung 
-cấp bên ngoài.
-•	Phạm vi 3 - Phát thải khí nhà kính gián tiếp khác đến từ 
-chuỗi giá trị của FPT.
-
-132
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-FPT cũng đã xây dựng kế hoạch giảm thiểu lượng phát thải khí nhà kính từ hai nguồn phát sinh lớn nêu trên, cũng như từ 
-tất cả các nguồn phát sinh khác, cụ thể như sau:
-PHẠM VI 1 - TẬP TRUNG GIẢM LƯỢNG XĂNG, DẦU  
-CỦA PHƯƠNG TIỆN VÀ MÁY MÓC VỚI CÁC GIẢI PHÁP
-•	Khảo sát CBNV khối Văn phòng về phương tiện đi lại hàng 
-ngày lấy dữ liệu đầu vào xây dựng các chương trình/hoạt 
-động khuyến khích sử dụng phương tiện thân thiện với 
-môi trường. 
-•	Triển khai một số hoạt động khuyến khích CBNV sử dụng 
-xe điện như: lắp đặt trạm sạc tại một số tòa nhà văn phòng; 
-hợp tác với Vinfast triển khai chương trình ưu đãi mua xe 
-và sử dụng dịch vụ vận chuyển bằng xe điện;
-•	Khuyến khích CBNV sử dụng phương tiện công cộng, bố 
-trí xe bus đưa đón CBNV tập trung hoặc các tuyến xe tại 
-các điểm trung chuyển gần khu vực lưu trú của CBNV, cấp 
-tài khoản xe công nghệ;
-•	Rà soát phương tiện thuộc sở hữu của Tập đoàn, xe thuê 
-dịch vụ để đề xuất phương án nâng cấp phù hợp giúp giảm 
-tiêu hao năng lượng.
-PHẠM VI 3 - FPT CHƯA THỰC HIỆN TRIỂN KHAI  
-KIỂM KÊ KHÍ NHÀ KÍNH TRÊN TOÀN TẬP ĐOÀN,  
-TUY NHIÊN FPT TIÊN PHONG THỰC HIỆN CÁC  
-HOẠT ĐỘNG NHƯ SAU:
-•	Nghiên cứu Dự án tín chỉ carbon rừng nhằm trung hoà/bù 
-trừ lượng phát thải khí nhà kính. FPT đã tham vấn đơn vị 
-tư vấn chuyên môn và tiến hành khảo sát tại một số địa 
-phương như Quảng Bình, Quảng Trị và Thanh Hóa để lên 
-kế hoạch tổng thể triển khai Dự án tín chỉ carbon trong 
-thời gian tới; 
-•	Thực hiện thành công các hoạt động trồng rừng tại Sóc 
-Trăng, Thừa Thiên Huế, Thanh Hóa với 4.500 cây được 
-trồng tại các khu vực rừng ngập mặn, khu bảo tồn thiên 
-nhiên góp phần tích cực chống biến đổi khí hậu, bảo vệ 
-hệ sinh thái vì lợi ích của con người và thiên nhiên;
-•	Đối với mục tiêu trung hoà Carbon, FPT tiên phong xây 
-dựng các tổ hợp đào tạo và công viên phần mềm, các văn 
-phòng làm việc xanh sử dụng hệ thống điện mặt trời; 
-•	Áp dụng các sáng kiến, giải pháp nhằm giảm thiểu khí 
-nhà kính như: trồng cây xanh; sử dụng năng lượng/tài 
-nguyên tái tạo; xây dựng văn phòng làm việc xanh, văn 
-phòng làm việc không giấy tờ; tăng cường hình thức họp 
-trực tuyến thay cho họp trực tiếp ....
-PHẠM VI 2 - TRIỂN KHAI CÁC GIẢI PHÁP GIẢM TIÊU 
-THỤ ĐIỆN NĂNG
-•	Xây dựng các phương án tiết kiệm điện phù hợp với điều 
-kiện thực tế của Tập đoàn và CTTV. Đơn cử, tại tòa nhà 
-FPT Tower - Trụ sở chính của Tập đoàn đã thực hiện điều 
-chỉnh khung giờ bật/tắt các hệ thống kỹ thuật, hệ thống 
-chiếu sáng, tận dụng các nguồn ánh sáng tự nhiên cho 
-văn phòng trong giờ làm việc; 
-•	Tổ chức hội thảo về Chuyển đổi xanh, Tiết kiệm điện năng 
-… cung cấp kiến thức, tìm kiếm những giải pháp giúp giảm 
-thải, tiết kiệm điện năng;
-•	Lắp đặt hệ thống điện năng lượng mặt trời, hệ thống kiểm 
-soát điện thông minh tại một số cơ sở; 
-•	Theo dõi tiêu thụ điện năng hàng tháng chặt chẽ; sử dụng 
-hệ thống điều khiển các thiết bị điện, nước thông minh; 
-định kỳ làm vệ sinh các dàn trao đổi nhiệt, đặc biệt các 
-dàn nóng giải nhiệt gió không để bám bụi bẩn làm giảm 
-khả năng trao đổi nhiệt; duy trì, sửa chữa các hỏng hóc 
-kịp thời để tránh tổn thất năng lượng cho hệ thống; thay 
-thế việc sử dụng các bình đun nước nóng cục bộ bằng 
-việc sử dụng trung tâm cung cấp nước nóng tập trung, có 
-sử dụng năng lượng mặt trời;
-•	Nâng cao tính chuyên nghiệp của đội ngũ nhân sự liên 
-quan đảm bảo quản lý và vận hành một cách đúng đắn, 
-khoa học, hệ thống điều hòa không khí và thông gió trong 
-các tòa nhà, cơ sở đào tạo thuộc sở hữu của Tập đoàn.
-
-136
-06
-Song hành vì sự phát triển cộng đồng
-Thông điệp và Định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp, hạnh phúc
-Hoạt động vì môi trường xanh
-06
-BÁO CÁO ESG
-01
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-02
-DẤU ẤN 2024 & TỔNG QUAN VỀ FPT
-04
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-05
-QUẢN TRỊ CÔNG TY
-07
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN 2024
-03
-CHIẾN LƯỢC PHÁT TRIỂN
-SONG HÀNH VÌ SỰ PHÁT TRIỂN CỘNG ĐỒNG
-Cùng với việc đảm bảo sự tăng trưởng vững chắc về kinh tế, FPT luôn chú trọng đến các 
-hoạt động hỗ trợ cộng đồng dựa trên chính thế mạnh công nghệ và đảm bảo hỗ trợ cao 
-nhất cho cộng đồng xã hội. Theo đó, trong suốt 36 năm, FPT luôn kiên trì thực hiện các 
-hoạt động phát triển bền vững với định hướng con người là yếu tố then chốt. Mỗi năm, 
-CBNV cùng Tập đoàn tích cực tham gia các hoạt động trách nhiệm xã hội cũng như đóng 
-góp tài chính, hướng đến mục tiêu mang lại giá trị thiết thực nhất cho cộng đồng, đóng 
-góp vì một quốc gia hạnh phúc.
-Cùng với sự chung tay của CBNV, trong năm 2024, FPT đã hỗ trợ 66,3 tỷ đồng cho các 
-sự kiện, hoạt động trách nhiệm xã hội, mang lại những giá trị cả về vật chất và tinh thần 
-thiết thực nhất cho 62.540 người trên phạm vi toàn quốc thông qua nhiều sự kiện, hoạt 
-động ý nghĩa. 
-Ngoài ra, trong năm 2024, FPT đã dành 168,1 tỷ đồng để trao học bổng Nguyễn Văn Đạo 
-cho gần 8.233 bạn trẻ.
-TẠO CƠ HỘI HỌC TẬP, PHÁT TRIỂN 
-TÀI NĂNG TRẺ CHO ĐẤT NƯỚC
-TRUNG TÂM BỒI DƯỠNG TÀI NĂNG TRẺ FPT (FYT)
-Với mong muốn tạo điều kiện cho sinh viên trẻ tài năng trên toàn quốc phát triển một 
-cách toàn diện và trưởng thành qua các dự án lớn, mỗi năm Trung tâm bồi dưỡng tài năng 
-trẻ FPT (FYT) dành một khoản học bổng cho những sinh viên có thành tích học tập cao, 
-đạt giải thưởng quốc gia, quốc tế. Hiện có hơn 600 thành viên đã và đang tham gia FYT, 
-trong đó, có rất nhiều thành viên đã trưởng thành và trở thành những nhà sáng lập, nhà 
-quản lý, nhà khoa học và chuyên gia có tầm ảnh hưởng trong và ngoài nước. Trong năm 
-2024, FYT đã cấp 44 học bổng với tổng số tiền tương ứng 316,8 triệu đồng, đồng thời, 
-hỗ trợ chi phí, cơ sở vật chất, kết nối cựu học viên là các chuyên gia trong một số lĩnh vực 
-giúp các học viên theo đuổi khát vọng, mở rộng kết nối, phát triển các kỹ năng mềm thiết 
-yếu cho tương lai.
-HỌC BỔNG NGUYỄN VĂN ĐẠO
-Với mong muốn giúp thế hệ trẻ có cơ hội học tập, tiếp cận công nghệ mới, phát triển 
-tài năng, FPT triển khai thường niên học bổng Nguyễn Văn Đạo. Trong năm 2024, đã có 
-8.233 học bổng được trao tới các bạn sinh viên khó khăn có thành tích học tập xuất sắc 
-hoặc có tài năng nổi trội tại nhiều tỉnh thành trên toàn quốc, tương đương 168,1 tỷ đồng, 
-tăng hơn 8% so với năm 2023.

@@ -88,7 +88,7 @@ def compile_financial_texts(text_dir: str = "data/text/extracted_text", processe
     return df
 
 
-def download_and_extract_all(symbols: list, years: list = [2023, 2022, 2021]):
+def download_and_extract_all(symbols: list, years: list = [2025, 2024, 2023, 2022, 2021], force_reextract: bool = False):
     pdf_dir = "data/text/raw_pdf"
     text_dir = "data/text/extracted_text"
     processed_dir = "data/processed"
@@ -99,7 +99,7 @@ def download_and_extract_all(symbols: list, years: list = [2023, 2022, 2021]):
     extractor = FinancialReportExtractor()
     records = []
 
-    print(f"\n=== BẮT ĐẦU PIPELINE TẢI VÀ BÓC TÁCH VĂN BẢN ({len(symbols)} mã, Năm: {years}) ===")
+    print(f"\n=== BẮT ĐẦU PIPELINE TẢI VÀ BÓC TÁCH VĂN BẢN ({len(symbols)} mã, Năm: {years}, Re-extract={force_reextract}) ===")
 
     for year in sorted(years, reverse=True):
         print(f"\n>>> ĐANG XỬ LÝ NĂM {year} <<<")
@@ -108,21 +108,22 @@ def download_and_extract_all(symbols: list, years: list = [2023, 2022, 2021]):
             notes_file = os.path.join(text_dir, f"{sym}_{year}_NOTES.txt")
             esg_file = os.path.join(text_dir, f"{sym}_{year}_ESG.txt")
 
-            # 1. Đọc lại từ cache nếu đã bóc tách
-            if (os.path.exists(mda_file) and os.path.getsize(mda_file) > 1000) or \
-               (os.path.exists(notes_file) and os.path.getsize(notes_file) > 1000):
-                records.append({
-                    "ticker": sym,
-                    "year": year,
-                    "mda_len": os.path.getsize(mda_file) if os.path.exists(mda_file) else 0,
-                    "notes_len": os.path.getsize(notes_file) if os.path.exists(notes_file) else 0,
-                    "esg_len": os.path.getsize(esg_file) if os.path.exists(esg_file) else 0,
-                    "status": "cached",
-                    "mda_path": mda_file,
-                    "notes_path": notes_file,
-                    "esg_path": esg_file
-                })
-                continue
+            # 1. Đọc lại từ cache nếu đã bóc tách và không yêu cầu re-extract
+            if not force_reextract:
+                if (os.path.exists(mda_file) and os.path.getsize(mda_file) > 1000) or \
+                   (os.path.exists(notes_file) and os.path.getsize(notes_file) > 1000):
+                    records.append({
+                        "ticker": sym,
+                        "year": year,
+                        "mda_len": os.path.getsize(mda_file) if os.path.exists(mda_file) else 0,
+                        "notes_len": os.path.getsize(notes_file) if os.path.exists(notes_file) else 0,
+                        "esg_len": os.path.getsize(esg_file) if os.path.exists(esg_file) else 0,
+                        "status": "cached",
+                        "mda_path": mda_file,
+                        "notes_path": notes_file,
+                        "esg_path": esg_file
+                    })
+                    continue
 
             # 2. Kiểm tra nếu file PDF đã có sẵn trên máy
             pdf_path = os.path.join(pdf_dir, f"{sym}_BCTN_{year}.pdf")
@@ -170,6 +171,8 @@ def download_and_extract_all(symbols: list, years: list = [2023, 2022, 2021]):
 
 
 if __name__ == "__main__":
+    import sys
+    force_re = "--reextract" in sys.argv
     symbols = load_universe("stocks_universe.json")
     # Mở rộng toàn diện cho tất cả các năm đã khép sổ: 2021 -> 2025
-    download_and_extract_all(symbols, years=[2025, 2024, 2023, 2022, 2021])
+    download_and_extract_all(symbols, years=[2025, 2024, 2023, 2022, 2021], force_reextract=force_re)

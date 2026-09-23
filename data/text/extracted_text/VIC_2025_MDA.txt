@@ -1,12 +1,9 @@
-BAN
 KIỂM SOÁT
 KIỂM TOÁN
-NỘI BỘ
-BỘ MÁY
 TRUNG ƯƠNG
 KHỐI PHÁT TRIỂN NGUỒN VỐN
 QUỐC TẾ VÀ KHỐI ĐẦU TƯ
-BAN TÀI CHÍNH 
+BAN TÀI CHÍNH
 BAN PHÁP CHẾ
 BAN TRUYỀN THÔNG
 BỘ PHẬN MÔI TRƯỜNG –
@@ -15,10 +12,8 @@ BỘ PHẬN QUẢN TRỊ RỦI RO
 HẠ TẦNG
 CTCP ĐẦU TƯ VÀ PHÁT TRIỂN
 ĐƯỜNG SẮT CAO TỐC
-VINSPEED* 
-ĐẠI HỘI ĐỒNG
- CỔ ĐÔNG
-HỘI ĐỒNG
+VINSPEED*
+CỔ ĐÔNG
 QUẢN TRỊ
 CHỦ TỊCH HĐQT
 PHẠM NHẬT VƯỢNG
@@ -47,7 +42,6 @@ HỆ THỐNG TRƯỜNG
 QUỐC TẾ BRIGHTON
 COLLEGE VIETNAM
 THIỆN NGUYỆN
-XÃ HỘI
 CTCP BỆNH VIỆN ĐA KHOA
 QUỐC TẾ VINMEC
 CÔNG TY TNHH DỊCH VỤ
@@ -63,7 +57,6 @@ XANH
 CTCP NĂNG LƯỢNG
 VINENERGO*
 CÔNG NGHỆ
-–
 CÔNG NGHIỆP
 CTCP NGHIÊN CỨU PHÁT TRIỂN
 VÀ ỨNG DỤNG NGƯỜI MÁY
@@ -84,426 +77,389 @@ CTCP NGHIÊN CỨU PHÁT TRIỂN
 VÀ ỨNG DỤNG ROBOT
 HÌNH NGƯỜI VINDYNAMICS
 CTCP VINSPACE
-VINGROUP - BÁO CÁO THƯỜNG NIÊN 2025
 CHƯƠNG 02
-76
-77
 Mô hình Qu)n tr*
-Vingroup ,ang kinh doanh các l'nh v(c c%t lõi do các trung tâm 
-l0i nhu8n ,+c l8p (P&L) ,iều hành t( ch:, h3ch toán riêng và t( 
+Vingroup ,ang kinh doanh các l'nh v(c c%t lõi do các trung tâm
+l0i nhu8n ,+c l8p (P&L) ,iều hành t( ch:, h3ch toán riêng và t(
 ch*u trách nhi6m về k. ho3ch và k.t qu) kinh doanh.
-Các phòng, ban t3i B+ máy Trung /ơng có ch5c n1ng hN tr0, 
-giám sát và t/ vấn ho3t ,+ng cho các P&L, cSng nh/ ,óng vai 
-trò dVn dGt trong các H+i ,-ng và t# công tác ,& thBm ,*nh, 
-theo dõi và phê duy6t các quy.t ,*nh liên quan ,.n ho3t ,+ng 
+Các phòng, ban t3i B+ máy Trung /ơng có ch5c n1ng hN tr0,
+giám sát và t/ vấn ho3t ,+ng cho các P&L, cSng nh/ ,óng vai
+trò dVn dGt trong các H+i ,-ng và t# công tác ,& thBm ,*nh,
+theo dõi và phê duy6t các quy.t ,*nh liên quan ,.n ho3t ,+ng
 t3i T8p ,oàn hoDc các P&L.
-Cơ cấu qu)n tr* c:a T8p ,oàn Vingroup ,/0c mô t) theo sơ ,- 
+Cơ cấu qu)n tr* c:a T8p ,oàn Vingroup ,/0c mô t) theo sơ ,-
 d/Ci ,ây:
 * Công ty liên k.t trong h6 sinh thái
 
-C1n c5 theo ba t4ng phòng v6 ,/0c thi.t l8p nh/ trên, cơ cấu t# ch5c QTRR c:a T8p ,oàn 
+C1n c5 theo ba t4ng phòng v6 ,/0c thi.t l8p nh/ trên, cơ cấu t# ch5c QTRR c:a T8p ,oàn
 Vingroup ,/0c cụ th& nh/ sau:
-T3i Vingroup, mô hình QTRR ,/0c xây d(ng xuyên su%t tK T8p ,oàn ,.n các ,ơn v* thành viên ,)m 
+T3i Vingroup, mô hình QTRR ,/0c xây d(ng xuyên su%t tK T8p ,oàn ,.n các ,ơn v* thành viên ,)m
 b)o s( th%ng nhất và liên tục.
 C7 quan, b+ ph3n
 Vai trò qu(n tr0 rủi ro
-H7QT
-Ban hành quy ch., chi.n l/0c, chính sách QTRR, 
-quy.t ,*nh cơ cấu t# ch5c, ch5c n1ng, nhi6m vụ c:a 
+Ban hành quy ch., chi.n l/0c, chính sách QTRR,
+quy.t ,*nh cơ cấu t# ch5c, ch5c n1ng, nhi6m vụ c:a
 b+ máy QTRR
 T#ng Giám ,%c
-Giám sát, ,)m b)o ho3t ,+ng QTRR ,/0c th(c hi6n 
+Giám sát, ,)m b)o ho3t ,+ng QTRR ,/0c th(c hi6n
 phù h0p vCi chi.n l/0c và chính sách QTRR
-B+ ph8n Qu)n tr* R:i ro, B+ ph8n KTNB t3i BMTW và 
+B+ ph8n Qu)n tr* R:i ro, B+ ph8n KTNB t3i BMTW và
 phòng QTRR t3i các P&L
-Ph%i h0p vCi các ban, th(c hi6n QTRR bHng vi6c sZ 
-dụng các công cụ, h3n m5c r:i ro, quy trình QTRR t3i 
+Ph%i h0p vCi các ban, th(c hi6n QTRR bHng vi6c sZ
+dụng các công cụ, h3n m5c r:i ro, quy trình QTRR t3i
 T8p ,oàn và các P&L
 Mô hình t# ch5c qu)n tr* r:i ro
-Mô hình QTRR t3i Vingroup ,/0c xây d(ng b9i ba t4ng phòng v6, ,)m b)o tính ,+c l8p, khách 
+Mô hình QTRR t3i Vingroup ,/0c xây d(ng b9i ba t4ng phòng v6, ,)m b)o tính ,+c l8p, khách
 quan c:a b+ ph8n QTRR.
-T4ng phòng v6 th5 nhất bao g-m T#ng Giám ,%c, 
-phòng, ban t3i T8p ,oàn và các P&L, có trách nhi6m 
-,4u tiên và tr(c ti.p ,%i vCi vi6c s9 hữu và qu)n tr* r:i 
-ro trong ho3t ,+ng c:a mình. 
-T4ng phòng v6 th5 hai bao g-m H7QT (thành viên 
-chuyên trách) và b+ ph8n QTRR, có trách nhi6m xây 
-d(ng chính sách, quy trình, th: tục và công cụ QTRR, 
-hN tr0 tri&n khai công tác QTRR t3i BMTW và các P&L. 
-T4ng phòng v6 th5 ba bao g-m B+ ph8n Ki&m toán 
-N+i b+, có trách nhi6m ,ánh giá tính hi6u qu) và hi6u 
-l(c c:a ho3t ,+ng QTRR trong T8p ,oàn. 
+T4ng phòng v6 th5 nhất bao g-m T#ng Giám ,%c,
+phòng, ban t3i T8p ,oàn và các P&L, có trách nhi6m
+,4u tiên và tr(c ti.p ,%i vCi vi6c s9 hữu và qu)n tr* r:i
+ro trong ho3t ,+ng c:a mình.
+T4ng phòng v6 th5 hai bao g-m H7QT (thành viên
+chuyên trách) và b+ ph8n QTRR, có trách nhi6m xây
+d(ng chính sách, quy trình, th: tục và công cụ QTRR,
+hN tr0 tri&n khai công tác QTRR t3i BMTW và các P&L.
+T4ng phòng v6 th5 ba bao g-m B+ ph8n Ki&m toán
+N+i b+, có trách nhi6m ,ánh giá tính hi6u qu) và hi6u
+l(c c:a ho3t ,+ng QTRR trong T8p ,oàn.
 TỔNG GIÁM ĐỐC
 BỘ MÁY TRUNG ƯƠNG
 CÁC P&L
-1
 HỘI ĐỒNG QUẢN TRỊ
 BAN QUẢN TRỊ RỦI RO
-2
 KIỂM TOÁN NỘI BỘ
-3
 Nhận diện rủi ro
-1
 Phân tích rủi ro
-2
 Đánh giá thứ tự ưu tiên rủi ro
-3
 Xử lý rủi ro
-4
-6
 Truyền thông
 & tham vấn
 rủi ro
-5
 Giám sát
 rủi ro
-Quy trình 
+Quy trình
 qu)n tr* r:i ro
-T8p ,oàn sZ dụng h6 th%ng quy trình QTRR 
-g-m sáu ti&u quy trình. Quy trình ,/a ra 
-ph/ơng pháp có h6 th%ng và logic ,& nh8n 
-di6n, phân tích, ,ánh giá th5 t( /u tiên, xZ lR, 
-giám sát và truyền thông r:i ro, nhHm cung cấp 
-thông tin cho Lãnh ,3o T8p ,oàn khi ra quy.t 
-,*nh và ph)n h-i k*p thFi không ch; vCi r:i ro mà 
+T8p ,oàn sZ dụng h6 th%ng quy trình QTRR
+g-m sáu ti&u quy trình. Quy trình ,/a ra
+ph/ơng pháp có h6 th%ng và logic ,& nh8n
+di6n, phân tích, ,ánh giá th5 t( /u tiên, xZ lR,
+giám sát và truyền thông r:i ro, nhHm cung cấp
+thông tin cho Lãnh ,3o T8p ,oàn khi ra quy.t
+,*nh và ph)n h-i k*p thFi không ch; vCi r:i ro mà
 còn vCi cơ h+i.
-H6 th%ng sáu ti&u quy trình ,/0c xây d(ng d(a 
-trên nền t)ng là các nguyên tGc, h/Cng dVn 
-c:a tiêu chuBn ISO 31000 cSng nh/ thông l6 
-QTRR chuBn m(c. Chính sách QTRR ,/0c T#ng 
-Giám ,%c ,6 trình cho H7QT phê duy6t t%i 
-thi&u m+t n1m/l4n. Danh mục r:i ro ch: y.u 
-c:a T8p ,oàn th/Fng xuyên ,/0c rà soát, ,ánh 
+H6 th%ng sáu ti&u quy trình ,/0c xây d(ng d(a
+trên nền t)ng là các nguyên tGc, h/Cng dVn
+c:a tiêu chuBn ISO 31000 cSng nh/ thông l6
+QTRR chuBn m(c. Chính sách QTRR ,/0c T#ng
+Giám ,%c ,6 trình cho H7QT phê duy6t t%i
+thi&u m+t n1m/l4n. Danh mục r:i ro ch: y.u
+c:a T8p ,oàn th/Fng xuyên ,/0c rà soát, ,ánh
 giá t%i thi&u m+t quR/l4n.
-T# ch5c các ho3t ,+ng truyền thông, ,ào t3o 
-nhHm nâng cao nh8n th5c, hi&u bi.t c:a CBNV 
-về r:i ro và các quy trình QTRR; tr/ng c4u và 
-cân nhGc R ki.n c:a các bên liên quan, ,)m 
-b)o mNi bên liên quan ,ều nh8n th5c ,4y ,: 
+T# ch5c các ho3t ,+ng truyền thông, ,ào t3o
+nhHm nâng cao nh8n th5c, hi&u bi.t c:a CBNV
+về r:i ro và các quy trình QTRR; tr/ng c4u và
+cân nhGc R ki.n c:a các bên liên quan, ,)m
+b)o mNi bên liên quan ,ều nh8n th5c ,4y ,:
 về vai trò và trách nhi6m QTRR
-Xác ,*nh 9 m5c t%i ,a các r:i ro có th& )nh 
-h/9ng ,.n mục tiêu c:a T8p ,oàn, ngu-n g%c 
-và kh) n1ng )nh h/9ng c:a các r:i ro thông qua 
-nghiên c5u, tìm hi&u trong tKng l'nh v(c kinh 
-doanh, soát xét danh mục và nhóm r:i ro, nh8n 
-di6n các y.u t% về r:i ro và c8p nh8t danh mục 
-r:i ro c:a T8p ,oàn, ,)m b)o tính ,+c l8p, khách 
+Xác ,*nh 9 m5c t%i ,a các r:i ro có th& )nh
+h/9ng ,.n mục tiêu c:a T8p ,oàn, ngu-n g%c
+và kh) n1ng )nh h/9ng c:a các r:i ro thông qua
+nghiên c5u, tìm hi&u trong tKng l'nh v(c kinh
+doanh, soát xét danh mục và nhóm r:i ro, nh8n
+di6n các y.u t% về r:i ro và c8p nh8t danh mục
+r:i ro c:a T8p ,oàn, ,)m b)o tính ,+c l8p, khách
 quan c:a b+ ph8n QTRR.
 Nh3n di"n rủi ro
-1
-X.p h3ng và ,ánh giá th5 t( /u tiên c:a r:i 
-ro d(a trên các tiêu chí ,ánh giá r:i ro ,/0c 
-xây d(ng trên nhiều ph/ơng di6n, bao g-m c) 
+X.p h3ng và ,ánh giá th5 t( /u tiên c:a r:i
+ro d(a trên các tiêu chí ,ánh giá r:i ro ,/0c
+xây d(ng trên nhiều ph/ơng di6n, bao g-m c)
 ,*nh l/0ng và ,*nh tính
 Đánh giá th8 tự 4u tiên rủi ro
-3
-Liên tục soát xét nhHm ,)m b)o tính phù h0p và 
+Liên tục soát xét nhHm ,)m b)o tính phù h0p và
 hi6u qu) c:a ch/ơng trình QTRR nhHm mục tiêu:
 • C)i ti.n liên tục ho3t ,+ng QTRR c:a T8p ,oàn
 • 7)m b)o hi6u qu) c:a các ho3t ,+ng QTRR
-• Giám sát ti.n ,+ và hi6u qu) c:a những 
+• Giám sát ti.n ,+ và hi6u qu) c:a những
 chi.n l/0c xZ lR r:i ro
-• D( báo và ph)n 5ng vCi các s( ki6n r:i ro 
-(n.u x)y ra), và xác ,*nh nguyên nhân g%c rd 
+• D( báo và ph)n 5ng vCi các s( ki6n r:i ro
+(n.u x)y ra), và xác ,*nh nguyên nhân g%c rd
 ,& có th& qu)n lR t%t hơn trong t/ơng lai
 Giám sát rủi ro
-5
-Xác ,*nh ph/ơng án xZ lR r:i ro, ,ánh giá, l(a 
-ch2n gi)i pháp và tri&n khai k. ho3ch xZ lR r:i 
-ro t/ơng 5ng, vCi mục tiêu nGm bGt cơ h+i, 
-,-ng thFi gi)m thi&u những tác ,+ng tiêu c(c 
+Xác ,*nh ph/ơng án xZ lR r:i ro, ,ánh giá, l(a
+ch2n gi)i pháp và tri&n khai k. ho3ch xZ lR r:i
+ro t/ơng 5ng, vCi mục tiêu nGm bGt cơ h+i,
+,-ng thFi gi)m thi&u những tác ,+ng tiêu c(c
 mà r:i ro gây ra
 Xr lí rủi ro
-4
 Truy&n thông và tham vấn rủi ro
-6
-Xem xét ngu-n g%c c:a r:i ro, phân tích m5c 
-,+ )nh h/9ng và t4n suất x)y ra r:i ro trên hai 
+Xem xét ngu-n g%c c:a r:i ro, phân tích m5c
+,+ )nh h/9ng và t4n suất x)y ra r:i ro trên hai
 khía c3nh ,*nh l/0ng và ,*nh tính
 Phân tích rủi ro
-2
-VINGROUP - BÁO CÁO THƯỜNG NIÊN 2025
 CHƯƠNG 04
-172
-173
 
 Qu)n tr* các nhóm r:i ro chính n1m 2025
-Những y.u t% quan tr2ng c:a nền kinh t. nh/ 
-t%c ,+ t1ng tr/9ng, l3m phát, t1ng tr/9ng tín 
-dụng, tJ giá, ch; s% giá tiêu dùng, tJ l6 ti.t 
-ki6m, ,4u t/ hay tJ l6 thất nghi6p ,ều có )nh 
-h/9ng ,.n ho3t ,+ng và k.t qu) kinh doanh 
-c:a Vingroup. Trong n1m 2025, kinh t. th. giCi 
-ti.p tục ch5ng ki.n nhiều bi.n ,+ng lCn vCi 
-làn sóng áp thu. quan trên di6n r+ng c:a Mỹ, 
-c1ng thLng và xung ,+t ,*a chính tr* t3i nhiều 
-khu v(c, cùng vCi những bất ,*nh trong th/ơng 
-m3i và chuNi cung 5ng toàn c4u. Các b+ ph8n 
-chuyên môn giám sát môi tr/Fng kinh t. v' mô 
-và t/ vấn cho BG7 T8p ,oàn, các P&L sE d( báo 
-xu h/Cng kinh t. v' mô trong t/ơng lai và những 
-tác ,+ng ,.n l'nh v(c kinh doanh tr2ng y.u, tK 
+Những y.u t% quan tr2ng c:a nền kinh t. nh/
+t%c ,+ t1ng tr/9ng, l3m phát, t1ng tr/9ng tín
+dụng, tJ giá, ch; s% giá tiêu dùng, tJ l6 ti.t
+ki6m, ,4u t/ hay tJ l6 thất nghi6p ,ều có )nh
+h/9ng ,.n ho3t ,+ng và k.t qu) kinh doanh
+c:a Vingroup. Trong n1m 2025, kinh t. th. giCi
+ti.p tục ch5ng ki.n nhiều bi.n ,+ng lCn vCi
+làn sóng áp thu. quan trên di6n r+ng c:a Mỹ,
+c1ng thLng và xung ,+t ,*a chính tr* t3i nhiều
+khu v(c, cùng vCi những bất ,*nh trong th/ơng
+m3i và chuNi cung 5ng toàn c4u. Các b+ ph8n
+chuyên môn giám sát môi tr/Fng kinh t. v' mô
+và t/ vấn cho BG7 T8p ,oàn, các P&L sE d( báo
+xu h/Cng kinh t. v' mô trong t/ơng lai và những
+tác ,+ng ,.n l'nh v(c kinh doanh tr2ng y.u, tK
 ,ó ,/a ra quy.t sách và chi.n l/0c phù h0p.
-Tr/Cc những bi.n ,+ng và r:i ro c:a nền kinh 
-t. th. giCi, T8p ,oàn ,ã ,a d3ng hóa ngu-n 
-doanh thu tK nhiều l'nh v(c kinh doanh tK 
-nhiều th* tr/Fng. Bên c3nh ba trụ c+t kinh 
-doanh cS, n1m 2025, T8p ,oàn ,ã m9 r+ng 
-sang các l'nh v(c mCi vCi ba trụ c+t chi.n l/0c 
-g-m H3 t4ng, N1ng l/0ng xanh và V1n hóa. Vi6c 
-này không ch; giúp góp ph4n thúc ,By t1ng 
-tr/9ng kinh t. c:a ,ất n/Cc, nhanh chóng bGt 
-k*p vCi xu h/Cng phát tri&n công ngh6 chung 
-và xu h/Cng xanh hóa c:a kinh t. th. giCi mà 
-còn góp ph4n giúp T8p ,oàn ch: ,+ng trong 
-vi6c h3n ch. )nh h/9ng tK r:i ro t8p trung m+t 
+Tr/Cc những bi.n ,+ng và r:i ro c:a nền kinh
+t. th. giCi, T8p ,oàn ,ã ,a d3ng hóa ngu-n
+doanh thu tK nhiều l'nh v(c kinh doanh tK
+nhiều th* tr/Fng. Bên c3nh ba trụ c+t kinh
+doanh cS, n1m 2025, T8p ,oàn ,ã m9 r+ng
+sang các l'nh v(c mCi vCi ba trụ c+t chi.n l/0c
+g-m H3 t4ng, N1ng l/0ng xanh và V1n hóa. Vi6c
+này không ch; giúp góp ph4n thúc ,By t1ng
+tr/9ng kinh t. c:a ,ất n/Cc, nhanh chóng bGt
+k*p vCi xu h/Cng phát tri&n công ngh6 chung
+và xu h/Cng xanh hóa c:a kinh t. th. giCi mà
+còn góp ph4n giúp T8p ,oàn ch: ,+ng trong
+vi6c h3n ch. )nh h/9ng tK r:i ro t8p trung m+t
 ngành trong h6 th%ng kinh doanh.
-Bất ,+ng s)n ti.p tục là l'nh v(c kinh doanh 
-chi.m tJ tr2ng lCn trong doanh thu c:a 
-Vingroup nh/ng có xu h/Cng bi.n ,+ng theo 
-tình hình kinh t. v' mô. T8p ,oàn luôn sáng t3o 
-,& ,a d3ng hóa s)n phBm bất ,+ng s)n và ,a 
-d3ng hóa ngu-n thu tK vi6c kinh doanh bất 
-,+ng s)n. TK n1m 2018, Vinhomes ,ã chuy&n 
-d*ch sang mô hình các ,3i ,ô th* ,a trung tâm 
-lân c8n các trung tâm kinh t. lCn nh/ Vinhomes 
-Ocean Park 1, 2, và 3 hay Vinhomes Grand Park. 
-Các khu ,ô th* này ,/0c thi.t k. ,-ng b+ về 
-c)nh quan, h3 t4ng, và tích h0p ti6n ích tK h6 
-sinh thái Vingroup nhHm xây d(ng c+ng ,-ng 
-dân c/ v1n minh. N1m 2025, Vinhomes ti.p 
-tục chi.n l/0c phát tri&n này vCi hàng lo3t 
-các d( án lCn ,/0c kh9i công nh/ Vinhomes 
-Green City (Tây Ninh), Vinhomes Wonder City 
-(Hà N+i), Vinhomes Golden City (H)i Phòng), 
-hay Vinhomes Green Paradise (TPHCM). 7-ng 
-thFi Vinhomes cSng tích c(c tìm ki.m các ,%i 
-tác có kh) n1ng h0p tác phát tri&n các cấu 
-ph4n nhX trong tKng d( án song song vCi vi6c 
-bán tr(c ti.p các s)n phBm bất ,+ng s)n tCi 
-tay ng/Fi mua nhà nhHm ,a d3ng hóa ngu-n 
-doanh thu cSng nh/ ,a d3ng hóa s)n phBm 
+Bất ,+ng s)n ti.p tục là l'nh v(c kinh doanh
+chi.m tJ tr2ng lCn trong doanh thu c:a
+Vingroup nh/ng có xu h/Cng bi.n ,+ng theo
+tình hình kinh t. v' mô. T8p ,oàn luôn sáng t3o
+,& ,a d3ng hóa s)n phBm bất ,+ng s)n và ,a
+d3ng hóa ngu-n thu tK vi6c kinh doanh bất
+,+ng s)n. TK n1m 2018, Vinhomes ,ã chuy&n
+d*ch sang mô hình các ,3i ,ô th* ,a trung tâm
+lân c8n các trung tâm kinh t. lCn nh/ Vinhomes
+Ocean Park 1, 2, và 3 hay Vinhomes Grand Park.
+Các khu ,ô th* này ,/0c thi.t k. ,-ng b+ về
+c)nh quan, h3 t4ng, và tích h0p ti6n ích tK h6
+sinh thái Vingroup nhHm xây d(ng c+ng ,-ng
+dân c/ v1n minh. N1m 2025, Vinhomes ti.p
+tục chi.n l/0c phát tri&n này vCi hàng lo3t
+các d( án lCn ,/0c kh9i công nh/ Vinhomes
+Green City (Tây Ninh), Vinhomes Wonder City
+(Hà N+i), Vinhomes Golden City (H)i Phòng),
+hay Vinhomes Green Paradise (TPHCM). 7-ng
+thFi Vinhomes cSng tích c(c tìm ki.m các ,%i
+tác có kh) n1ng h0p tác phát tri&n các cấu
+ph4n nhX trong tKng d( án song song vCi vi6c
+bán tr(c ti.p các s)n phBm bất ,+ng s)n tCi
+tay ng/Fi mua nhà nhHm ,a d3ng hóa ngu-n
+doanh thu cSng nh/ ,a d3ng hóa s)n phBm
 cho khách hàng cu%i.
-T8p ,oàn ,ã phân tích, ,ánh giá, theo dõi và qu)n lR các r:i ro )nh h/9ng lCn ,.n chi.n l/0c và 
+T8p ,oàn ,ã phân tích, ,ánh giá, theo dõi và qu)n lR các r:i ro )nh h/9ng lCn ,.n chi.n l/0c và
 ho3t ,+ng kinh doanh, bao g-m:
 Rủi ro v& kinh t' va mô
-1
 Ho3t ,+ng qu)n tr* r:i ro n1m 2025
-N1m 2025, Vingroup ti.p tục c8p nh8t quy 
-trình QTRR cho toàn b+ h6 th%ng, b)o ,)m 
-,-ng b+ vCi chi.n l/0c phát tri&n dài h3n và 
-phù h0p vCi quy mô m9 r+ng c:a các trụ c+t 
-kinh doanh trong b%i c)nh tri&n khai ,-ng thFi 
+N1m 2025, Vingroup ti.p tục c8p nh8t quy
+trình QTRR cho toàn b+ h6 th%ng, b)o ,)m
+,-ng b+ vCi chi.n l/0c phát tri&n dài h3n và
+phù h0p vCi quy mô m9 r+ng c:a các trụ c+t
+kinh doanh trong b%i c)nh tri&n khai ,-ng thFi
 nhiều d( án tr2ng ,i&m.
-Song song vCi vai trò ki&m soát và phòng ngKa 
-r:i ro, b+ ph8n QTRR ch: ,+ng tham gia t/ 
-vấn cho H+i ,-ng Qu)n tr* và Ban T#ng Giám 
-,%c trong quá trình xây d(ng và hình thành 
-các trụ c+t kinh doanh mCi, qua ,ó ,)m b)o 
-r:i ro ,/0c nh8n di6n và qu)n tr* ngay tK giai 
-,o3n chi.n l/0c, phù h0p vCi ,*nh h/Cng phát 
-tri&n bền vững, dài h3n và gGn k.t vCi mục tiêu 
-phát tri&n c:a qu%c gia. Ngoài ra, khi có các 
-giao d*ch lCn, các bi.n ,+ng trên th* tr/Fng 
-hoDc thay ,#i về hành lang pháp lR, BMTW và 
-các P&L ,ã k*p thFi tham vấn b+ ph8n QTRR và 
-các phòng, ban ch5c n1ng t3i T8p ,oàn (nh/ 
-Ban Pháp ch. và Ban Tài chính) theo quy trình 
-,& ,ánh giá và xZ lR k*p thFi. Bên c3nh ,ó, T8p 
-,oàn th/Fng xuyên t# ch5c các bu#i h+i th)o, 
-,ào t3o, truyền thông về các r:i ro mCi, các 
-thay ,#i về môi tr/Fng pháp lR, lu8t pháp cho 
+Song song vCi vai trò ki&m soát và phòng ngKa
+r:i ro, b+ ph8n QTRR ch: ,+ng tham gia t/
+vấn cho H+i ,-ng Qu)n tr* và Ban T#ng Giám
+,%c trong quá trình xây d(ng và hình thành
+các trụ c+t kinh doanh mCi, qua ,ó ,)m b)o
+r:i ro ,/0c nh8n di6n và qu)n tr* ngay tK giai
+,o3n chi.n l/0c, phù h0p vCi ,*nh h/Cng phát
+tri&n bền vững, dài h3n và gGn k.t vCi mục tiêu
+phát tri&n c:a qu%c gia. Ngoài ra, khi có các
+giao d*ch lCn, các bi.n ,+ng trên th* tr/Fng
+hoDc thay ,#i về hành lang pháp lR, BMTW và
+các P&L ,ã k*p thFi tham vấn b+ ph8n QTRR và
+các phòng, ban ch5c n1ng t3i T8p ,oàn (nh/
+Ban Pháp ch. và Ban Tài chính) theo quy trình
+,& ,ánh giá và xZ lR k*p thFi. Bên c3nh ,ó, T8p
+,oàn th/Fng xuyên t# ch5c các bu#i h+i th)o,
+,ào t3o, truyền thông về các r:i ro mCi, các
+thay ,#i về môi tr/Fng pháp lR, lu8t pháp cho
 Ban lãnh ,3o và toàn th& CBNV.
-Các r:i ro tài chính c:a Vingroup bao g-m r:i 
-ro về thanh kho)n, lãi suất và ngo3i t6. 7*nh kU 
-mNi quR, Ban Tài chính và Phòng, Ban chuyên 
-môn ,ánh giá tình hình th* tr/Fng v%n và tài 
-chính ,& ch: ,+ng ,iều ch;nh danh mục t#ng 
-n0 vay và ngh'a vụ ph)i tr) m+t cách h0p lR. 
-Tr/Cc mNi giao d*ch có giá tr* lCn hoDc bHng 
-ngo3i t6, Ban Tài chính tham vấn các Phòng, 
-Ban chuyên môn và các chuyên gia tài chính 
-ngân hàng trong n/Cc và qu%c t. ,& ,ề xuất 
-gi)i pháp qu)n tr* r:i ro n.u c4n thi.t và tri&n 
-khai qu)n tr* r:i ro vCi những công cụ thích 
-h0p nh/ h0p ,-ng phái sinh. 7& gi)m r:i ro về 
-thanh kho)n, Vingroup luôn ch: ,+ng qu)n lR 
-dòng tiền và giám sát chDt chE các ngh'a vụ 
+Các r:i ro tài chính c:a Vingroup bao g-m r:i
+ro về thanh kho)n, lãi suất và ngo3i t6. 7*nh kU
+mNi quR, Ban Tài chính và Phòng, Ban chuyên
+môn ,ánh giá tình hình th* tr/Fng v%n và tài
+chính ,& ch: ,+ng ,iều ch;nh danh mục t#ng
+n0 vay và ngh'a vụ ph)i tr) m+t cách h0p lR.
+Tr/Cc mNi giao d*ch có giá tr* lCn hoDc bHng
+ngo3i t6, Ban Tài chính tham vấn các Phòng,
+Ban chuyên môn và các chuyên gia tài chính
+ngân hàng trong n/Cc và qu%c t. ,& ,ề xuất
+gi)i pháp qu)n tr* r:i ro n.u c4n thi.t và tri&n
+khai qu)n tr* r:i ro vCi những công cụ thích
+h0p nh/ h0p ,-ng phái sinh. 7& gi)m r:i ro về
+thanh kho)n, Vingroup luôn ch: ,+ng qu)n lR
+dòng tiền và giám sát chDt chE các ngh'a vụ
 ph)i tr).
-Các ngành kinh doanh c:a Vingroup th/Fng có 
-m5c ,+ c3nh tranh cao, ,i&n hình là S)n xuất 
-Công nghi6p, Bất ,+ng s)n, và Du l*ch Ngh; 
-d/Yng. Trong mNi l'nh v(c, ,%i th: c3nh tranh 
-c:a Vingroup là những t8p ,oàn ,a qu%c gia 
-hoDc ,%i th: trong n/Cc kinh doanh s)n phBm, 
-d*ch vụ t/ơng t(. Tr/Cc b%i c)nh ,ó, Vingroup 
-duy trì chi.n l/0c ,#i mCi liên tục và nâng cao 
-giá tr* c%t lõi c:a s)n phBm – d*ch vụ, t8p trung 
-vào chất l/0ng, tính c3nh tranh về chi phí và tr)i 
-nghi6m khách hàng toàn di6n, bao g-m c) các 
+Các ngành kinh doanh c:a Vingroup th/Fng có
+m5c ,+ c3nh tranh cao, ,i&n hình là S)n xuất
+Công nghi6p, Bất ,+ng s)n, và Du l*ch Ngh;
+d/Yng. Trong mNi l'nh v(c, ,%i th: c3nh tranh
+c:a Vingroup là những t8p ,oàn ,a qu%c gia
+hoDc ,%i th: trong n/Cc kinh doanh s)n phBm,
+d*ch vụ t/ơng t(. Tr/Cc b%i c)nh ,ó, Vingroup
+duy trì chi.n l/0c ,#i mCi liên tục và nâng cao
+giá tr* c%t lõi c:a s)n phBm – d*ch vụ, t8p trung
+vào chất l/0ng, tính c3nh tranh về chi phí và tr)i
+nghi6m khách hàng toàn di6n, bao g-m c) các
 ch/ơng trình h8u mãi và d*ch vụ sau bán hàng.
-Trong trụ c+t Công ngh6 – Công nghi6p, 
-VinFast ,ã hoàn thi6n d)i s)n phBm ô tô ,i6n 
-thông minh tr)i r+ng trên nhiều phân khúc, tK 
-xe cY nhX ,.n h3ng E, tích h0p các công ngh6 
-tiên ti.n nhHm ,áp 5ng ,a d3ng nhu c4u sZ 
-dụng c:a th* tr/Fng. N1m 2025, VinFast ti.p 
-tục m9 r+ng danh mục s)n phBm vCi vi6c ra 
-mGt và bàn giao dòng ô tô ,i6n Green, ,/0c 
-thi.t k. chuyên bi6t và t%i /u cho ho3t ,+ng 
-kinh doanh d*ch vụ v8n t)i, g-m b%n mVu xe. 
-Trong ,ó, VinFast Limo Green – mVu MPV 7 
-chN – ghi nh8n k.t qu) th* tr/Fng tích c(c, khi 
-liên tục nHm trong nhóm xe bán ch3y nhất t3i 
-Vi6t Nam trong ba tháng cu%i n1m 2025, ph)n 
-ánh m5c ,+ phù h0p c:a s)n phBm vCi nhu c4u 
-th(c t. c:a th* tr/Fng n+i ,*a.  
-Bên c3nh ,ó, các P&L c:a Vingroup liên tục 
-h0p tác vCi các ,%i tác trong và ngoài n/Cc ,& 
-gia t1ng l0i th. c3nh tranh. Trong m)ng Du l*ch 
-Ngh; d/Yng, vi6c h0p tác vCi hai ,ơn v* qu)n 
-lR khách s3n hàng ,4u th. giCi là Marriott và 
-Meliá giúp Vinpearl vKa t8n dụng ,/0c th. 
-m3nh th/ơng hi6u c:a các ,%i tác qu%c t., vKa 
-khai thác hi6u qu) s( am hi&u th* tr/Fng n+i ,*a. 
-Vinpearl ,/0c ,*nh v* là mô hình du l*ch ,a tr)i 
-nghi6m ki&u mCi, thông qua vi6c phát tri&n h6 
-sinh thái toàn di6n trong l'nh v(c du l*ch – ngh; 
-d/Yng, gi)i trí và v1n hóa ngh6 thu8t. Bên c3nh 
-h6 th%ng khách s3n và khu ngh; d/Yng cao 
-cấp, Vinpearl t3o l0i th. c3nh tranh khác bi6t 
-thông qua các t# h0p vui chơi gi)i trí quy mô 
-lCn VinWonders và các không gian, s( ki6n v1n 
-hóa – ngh6 thu8t ,Dc sGc nh/ 8Wonder, qua 
-,ó gia t1ng giá tr* tr)i nghi6m cho du khách và 
+Trong trụ c+t Công ngh6 – Công nghi6p,
+VinFast ,ã hoàn thi6n d)i s)n phBm ô tô ,i6n
+thông minh tr)i r+ng trên nhiều phân khúc, tK
+xe cY nhX ,.n h3ng E, tích h0p các công ngh6
+tiên ti.n nhHm ,áp 5ng ,a d3ng nhu c4u sZ
+dụng c:a th* tr/Fng. N1m 2025, VinFast ti.p
+tục m9 r+ng danh mục s)n phBm vCi vi6c ra
+mGt và bàn giao dòng ô tô ,i6n Green, ,/0c
+thi.t k. chuyên bi6t và t%i /u cho ho3t ,+ng
+kinh doanh d*ch vụ v8n t)i, g-m b%n mVu xe.
+Trong ,ó, VinFast Limo Green – mVu MPV 7
+chN – ghi nh8n k.t qu) th* tr/Fng tích c(c, khi
+liên tục nHm trong nhóm xe bán ch3y nhất t3i
+Vi6t Nam trong ba tháng cu%i n1m 2025, ph)n
+ánh m5c ,+ phù h0p c:a s)n phBm vCi nhu c4u
+th(c t. c:a th* tr/Fng n+i ,*a.
+Bên c3nh ,ó, các P&L c:a Vingroup liên tục
+h0p tác vCi các ,%i tác trong và ngoài n/Cc ,&
+gia t1ng l0i th. c3nh tranh. Trong m)ng Du l*ch
+Ngh; d/Yng, vi6c h0p tác vCi hai ,ơn v* qu)n
+lR khách s3n hàng ,4u th. giCi là Marriott và
+Meliá giúp Vinpearl vKa t8n dụng ,/0c th.
+m3nh th/ơng hi6u c:a các ,%i tác qu%c t., vKa
+khai thác hi6u qu) s( am hi&u th* tr/Fng n+i ,*a.
+Vinpearl ,/0c ,*nh v* là mô hình du l*ch ,a tr)i
+nghi6m ki&u mCi, thông qua vi6c phát tri&n h6
+sinh thái toàn di6n trong l'nh v(c du l*ch – ngh;
+d/Yng, gi)i trí và v1n hóa ngh6 thu8t. Bên c3nh
+h6 th%ng khách s3n và khu ngh; d/Yng cao
+cấp, Vinpearl t3o l0i th. c3nh tranh khác bi6t
+thông qua các t# h0p vui chơi gi)i trí quy mô
+lCn VinWonders và các không gian, s( ki6n v1n
+hóa – ngh6 thu8t ,Dc sGc nh/ 8Wonder, qua
+,ó gia t1ng giá tr* tr)i nghi6m cho du khách và
 nâng cao hi6u qu) khai thác h6 sinh thái.
-7-ng thFi, Vingroup t%i /u hóa l0i th. tK h6 
-sinh thái ,a ngành, hN tr0 lVn nhau trong cung 
-cấp s)n phBm và d*ch vụ, qua ,ó t%i /u chi phí 
-và nâng cao n1ng l(c c3nh tranh thông qua 
+7-ng thFi, Vingroup t%i /u hóa l0i th. tK h6
+sinh thái ,a ngành, hN tr0 lVn nhau trong cung
+cấp s)n phBm và d*ch vụ, qua ,ó t%i /u chi phí
+và nâng cao n1ng l(c c3nh tranh thông qua
 các ch/ơng trình kích c4u bán chéo s)n phBm.
-Trong trụ c+t Công ngh6 – Công nghi6p, 
-VinFast ti.p tục ,By m3nh m9 r+ng ho3t ,+ng 
-sang các th* tr/Fng trong khu v(c 7ông Nam 
-Á và cn 7+. 7ây là các th* tr/Fng chi.n l/0c 
-trong khu v(c có tiềm n1ng cao, m5c ,+ sZ 
-dụng ô tô ,i6n thấp, và h/9ng l0i m3nh mE tK 
-Chính ph: trong xu h/Cng “chuy&n ,#i xanh”. 
-Chi.n l/0c m9 r+ng theo khu v(c cSng t3o 
-,iều ki6n ,& VinFast khai thác l0i th. quy mô, 
-phát tri&n m3ng l/Ci phân ph%i, t%i /u hóa 
-chuNi cung 5ng và tKng b/Cc nâng cao n1ng 
+Trong trụ c+t Công ngh6 – Công nghi6p,
+VinFast ti.p tục ,By m3nh m9 r+ng ho3t ,+ng
+sang các th* tr/Fng trong khu v(c 7ông Nam
+Á và cn 7+. 7ây là các th* tr/Fng chi.n l/0c
+trong khu v(c có tiềm n1ng cao, m5c ,+ sZ
+dụng ô tô ,i6n thấp, và h/9ng l0i m3nh mE tK
+Chính ph: trong xu h/Cng “chuy&n ,#i xanh”.
+Chi.n l/0c m9 r+ng theo khu v(c cSng t3o
+,iều ki6n ,& VinFast khai thác l0i th. quy mô,
+phát tri&n m3ng l/Ci phân ph%i, t%i /u hóa
+chuNi cung 5ng và tKng b/Cc nâng cao n1ng
 l(c c3nh tranh.
 Rủi ro tài chính
 Rủi ro v& c)nh tranh
-2
-3
-VINGROUP - BÁO CÁO THƯỜNG NIÊN 2025
 CHƯƠNG 04
-174
-175
 
-Trong l'nh v(c Công ngh6 – Công nghi6p, các 
-nhà máy s)n xuất c:a T8p ,oàn có th& ch*u r:i 
-ro về chuNi cung 5ng nh/ thi.u hụt linh ki6n, 
-nguyên v8t li6u, r:i ro về v8n hành nh/ tai n3n 
-công nghi6p, hXng hóc thi.t b*. NhHm gi)m 
-thi&u các r:i ro về chuNi cung 5ng, T8p ,oàn 
-th(c hi6n l8p k. ho3ch s)n xuất hàng n1m, ch: 
-,+ng xây d(ng khu công nghi6p phụ tr0, m9 
-r+ng ho3t ,+ng theo ngành d2c, ,& ch: ,+ng 
-trong ngu-n cung 5ng. 7& ,áp 5ng nhu c4u 
-t1ng tr/9ng m3nh mE, ,-ng thFi chia sT cơ 
-h+i phát tri&n cho các doanh nghi6p Vi6t Nam, 
-VinFast ,ã m9 r+ng chuNi cung 5ng n+i ,*a, vCi 
-các /u ,ãi, ,iều ki6n hN tr0 ,Dc bi6t dành cho 
-các doanh nghi6p trong n/Cc. Song song ,ó, 
-Vingroup luôn áp dụng các tiêu chuBn ,)m 
-b)o chất l/0ng và quy trình ki&m tra nghiêm 
-ngDt và th(c hi6n vi6c rà soát, ki&m tra ,*nh kU 
-,& gi)m thi&u các r:i ro v8n hành trong quá 
-trình s)n xuất. 
-Vi6c ho3ch ,*nh chi.n l/0c kinh doanh, ,4u t/ 
-vào d( án mCi ,/0c T8p ,oàn th(c hi6n ,*nh 
-kU vào ,4u n1m. MNi d( án ,4u t/ ph)i có giá 
-tr* về mDt tài chính so vCi bình quân chi phí 
-v%n c:a T8p ,oàn hoDc P&L ngành d2c, hoDc 
-có R ngh'a về mDt chi.n l/0c. Bên c3nh vi6c 
-xem xét về hi6u qu) ,4u t/, tr/Cc khi tri&n khai 
-mNi d( án mCi, những r:i ro c:a d( án nh/ tình 
-hình th* tr/Fng, hành lang pháp lR, giấy phép, 
-thu. hay v8n hành ,ều ,/0c thBm ,*nh m+t 
-cách kỹ l/Yng và các gi)i pháp xZ lR r:i ro ,/0c 
-,ề xuất n.u c4n thi.t. T8p ,oàn luôn tham vấn 
-các chuyên gia tài chính, chuyên gia pháp lR, 
-t/ vấn thu. có uy tín và có quy trình thBm tra 
-chi ti.t ,%i vCi mNi d( án mua bán, sáp nh8p 
+Trong l'nh v(c Công ngh6 – Công nghi6p, các
+nhà máy s)n xuất c:a T8p ,oàn có th& ch*u r:i
+ro về chuNi cung 5ng nh/ thi.u hụt linh ki6n,
+nguyên v8t li6u, r:i ro về v8n hành nh/ tai n3n
+công nghi6p, hXng hóc thi.t b*. NhHm gi)m
+thi&u các r:i ro về chuNi cung 5ng, T8p ,oàn
+th(c hi6n l8p k. ho3ch s)n xuất hàng n1m, ch:
+,+ng xây d(ng khu công nghi6p phụ tr0, m9
+r+ng ho3t ,+ng theo ngành d2c, ,& ch: ,+ng
+trong ngu-n cung 5ng. 7& ,áp 5ng nhu c4u
+t1ng tr/9ng m3nh mE, ,-ng thFi chia sT cơ
+h+i phát tri&n cho các doanh nghi6p Vi6t Nam,
+VinFast ,ã m9 r+ng chuNi cung 5ng n+i ,*a, vCi
+các /u ,ãi, ,iều ki6n hN tr0 ,Dc bi6t dành cho
+các doanh nghi6p trong n/Cc. Song song ,ó,
+Vingroup luôn áp dụng các tiêu chuBn ,)m
+b)o chất l/0ng và quy trình ki&m tra nghiêm
+ngDt và th(c hi6n vi6c rà soát, ki&m tra ,*nh kU
+,& gi)m thi&u các r:i ro v8n hành trong quá
+trình s)n xuất.
+Vi6c ho3ch ,*nh chi.n l/0c kinh doanh, ,4u t/
+vào d( án mCi ,/0c T8p ,oàn th(c hi6n ,*nh
+kU vào ,4u n1m. MNi d( án ,4u t/ ph)i có giá
+tr* về mDt tài chính so vCi bình quân chi phí
+v%n c:a T8p ,oàn hoDc P&L ngành d2c, hoDc
+có R ngh'a về mDt chi.n l/0c. Bên c3nh vi6c
+xem xét về hi6u qu) ,4u t/, tr/Cc khi tri&n khai
+mNi d( án mCi, những r:i ro c:a d( án nh/ tình
+hình th* tr/Fng, hành lang pháp lR, giấy phép,
+thu. hay v8n hành ,ều ,/0c thBm ,*nh m+t
+cách kỹ l/Yng và các gi)i pháp xZ lR r:i ro ,/0c
+,ề xuất n.u c4n thi.t. T8p ,oàn luôn tham vấn
+các chuyên gia tài chính, chuyên gia pháp lR,
+t/ vấn thu. có uy tín và có quy trình thBm tra
+chi ti.t ,%i vCi mNi d( án mua bán, sáp nh8p
 tiềm n1ng.
-Vingroup ,ã xây d(ng quy trình qu)n lR d( 
-án chDt chE bao g-m nhiều ti&u quy trình ,& 
-l8p ngân sách, qu)n lR chi phí và qu)n lR chất 
-l/0ng, ti.n ,+, k.t qu) thi công cSng nh/ ,áp 
-5ng yêu c4u về th: tục pháp lR. T8p ,oàn áp 
-dụng những tiêu chí chDt chE về kinh nghi6m 
-và uy tín ,& ch2n nhà th4u cho d( án và có 
-,+i ngS giám sát th/Fng xuyên. Lãnh ,3o b+ 
-ph8n Ki&m soát xây d(ng t3i các công ty trong 
-T8p ,oàn là những chuyên gia về ki.n trúc, cơ 
-khí và kỹ s/ giàu kinh nghi6m trong vi6c thBm 
-,*nh các thi.t k. và chất l/0ng c:a nhà th4u 
+Vingroup ,ã xây d(ng quy trình qu)n lR d(
+án chDt chE bao g-m nhiều ti&u quy trình ,&
+l8p ngân sách, qu)n lR chi phí và qu)n lR chất
+l/0ng, ti.n ,+, k.t qu) thi công cSng nh/ ,áp
+5ng yêu c4u về th: tục pháp lR. T8p ,oàn áp
+dụng những tiêu chí chDt chE về kinh nghi6m
+và uy tín ,& ch2n nhà th4u cho d( án và có
+,+i ngS giám sát th/Fng xuyên. Lãnh ,3o b+
+ph8n Ki&m soát xây d(ng t3i các công ty trong
+T8p ,oàn là những chuyên gia về ki.n trúc, cơ
+khí và kỹ s/ giàu kinh nghi6m trong vi6c thBm
+,*nh các thi.t k. và chất l/0ng c:a nhà th4u
 bên ngoài.
 Rủi ro trong s(n xuất
 Rủi ro v& *Du t4 dự án
 Rủi ro phát tri1n dự án
-4
-5
-6
-7& thu hút nhân s( cấp cao, có chất l/0ng và 
-t3o ,+ng l(c cho ng/Fi lao ,+ng, Vingroup có 
-chính sách ,ãi ng+ c3nh tranh và minh b3ch, 
-d(a vào k.t qu) lao ,+ng. T8p ,oàn xây d(ng 
-thành công môi tr/Fng v1n hóa ,Dc tr/ng c:a 
-Vingroup thông qua các ho3t ,+ng v1n hóa, 
-t8p th&, bi.n Vingroup thành Ngôi nhà chung 
-c:a mNi CBNV, t3o s( gGn bó lâu dài vCi T8p 
-,oàn. 7& b)o ,)m ngu-n nhân s( chất l/0ng 
-và #n ,*nh trong khi liên tục b5t phá về mDt quy 
-mô ho3t ,+ng, Vingroup ,ã phát ,+ng phong 
-trào h2c t8p trên toàn T8p ,oàn. B+ ph8n 
-Nhân s( t3i các P&L th/Fng xuyên t# ch5c các 
-ch/ơng trình ,ào t3o quy mô lCn k.t h0p vCi 
-,ào t3o tr(c tuy.n cho CBNV và ,ào t3o CBL7 
-k. c8n, ,Dc bi6t là lãnh ,3o trT tài n1ng làm 
-nòng c%t trong t/ơng lai. 
-Vingroup ,Dc bi6t quan tâm ,.n tác ,+ng về 
-môi tr/Fng trong mNi d( án (ô nhidm không 
-khí, ti.ng -n, ngu-n n/Cc) có th& làm thay ,#i 
-tài nguyên, môi tr/Fng sinh thái 9 những vùng 
-phụ c8n hoDc thay ,#i môi tr/Fng kinh t., xã 
-h+i, nhân sinh quanh khu v(c d( án. Vì v8y, mNi 
-d( án c:a T8p ,oàn ,ều áp dụng tiêu chuBn 
-tiên ti.n nhất về thi.t k. và sZ dụng nguyên v8t 
-li6u ít gây ô nhidm trong quy trình xây d(ng, 
-,-ng thFi ,/0c những chuyên gia uy tín trong 
-và ngoài n/Cc ,ánh giá tác ,+ng môi tr/Fng 
+7& thu hút nhân s( cấp cao, có chất l/0ng và
+t3o ,+ng l(c cho ng/Fi lao ,+ng, Vingroup có
+chính sách ,ãi ng+ c3nh tranh và minh b3ch,
+d(a vào k.t qu) lao ,+ng. T8p ,oàn xây d(ng
+thành công môi tr/Fng v1n hóa ,Dc tr/ng c:a
+Vingroup thông qua các ho3t ,+ng v1n hóa,
+t8p th&, bi.n Vingroup thành Ngôi nhà chung
+c:a mNi CBNV, t3o s( gGn bó lâu dài vCi T8p
+,oàn. 7& b)o ,)m ngu-n nhân s( chất l/0ng
+và #n ,*nh trong khi liên tục b5t phá về mDt quy
+mô ho3t ,+ng, Vingroup ,ã phát ,+ng phong
+trào h2c t8p trên toàn T8p ,oàn. B+ ph8n
+Nhân s( t3i các P&L th/Fng xuyên t# ch5c các
+ch/ơng trình ,ào t3o quy mô lCn k.t h0p vCi
+,ào t3o tr(c tuy.n cho CBNV và ,ào t3o CBL7
+k. c8n, ,Dc bi6t là lãnh ,3o trT tài n1ng làm
+nòng c%t trong t/ơng lai.
+Vingroup ,Dc bi6t quan tâm ,.n tác ,+ng về
+môi tr/Fng trong mNi d( án (ô nhidm không
+khí, ti.ng -n, ngu-n n/Cc) có th& làm thay ,#i
+tài nguyên, môi tr/Fng sinh thái 9 những vùng
+phụ c8n hoDc thay ,#i môi tr/Fng kinh t., xã
+h+i, nhân sinh quanh khu v(c d( án. Vì v8y, mNi
+d( án c:a T8p ,oàn ,ều áp dụng tiêu chuBn
+tiên ti.n nhất về thi.t k. và sZ dụng nguyên v8t
+li6u ít gây ô nhidm trong quy trình xây d(ng,
+,-ng thFi ,/0c những chuyên gia uy tín trong
+và ngoài n/Cc ,ánh giá tác ,+ng môi tr/Fng
 tr/Cc khi th(c hi6n.
-R:i ro thiên tai, d*ch b6nh là những r:i ro bất 
-kh) kháng và nHm ngoài t4m ki&m soát c:a T8p 
-,oàn. 7%i vCi những r:i ro này, Vingroup theo 
-dõi sâu sát didn bi.n, ,/a ra các bi6n pháp 
-phòng ch%ng k*p thFi và h0p lR, ,-ng thFi áp 
-dụng các sáng ki.n kinh doanh giúp gi)m thi&u 
-m5c ,+ )nh h/9ng c:a s( ki6n ,.n k.t qu) 
-kinh doanh c:a T8p ,oàn.  
+R:i ro thiên tai, d*ch b6nh là những r:i ro bất
+kh) kháng và nHm ngoài t4m ki&m soát c:a T8p
+,oàn. 7%i vCi những r:i ro này, Vingroup theo
+dõi sâu sát didn bi.n, ,/a ra các bi6n pháp
+phòng ch%ng k*p thFi và h0p lR, ,-ng thFi áp
+dụng các sáng ki.n kinh doanh giúp gi)m thi&u
+m5c ,+ )nh h/9ng c:a s( ki6n ,.n k.t qu)
+kinh doanh c:a T8p ,oàn.
 Rủi ro v& nhân sự
-Rủi ro v& môi tr4ờng 
+Rủi ro v& môi tr4ờng
 và xã h+i
-Rủi ro v& thiên tai, 
+Rủi ro v& thiên tai,
 d0ch b"nh
-7
-8
-9
-VINGROUP - BÁO CÁO THƯỜNG NIÊN 2025
 CHƯƠNG 04
-176
-177

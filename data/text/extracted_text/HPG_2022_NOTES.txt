@@ -1,2241 +1,118 @@
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
-BÁO CÁO TÀI CHÍNH
-7
-BÁO CÁO CỦA BAN GIÁM ĐỐC
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
-BÁO CÁO KẾT QUẢ KINH DOANH HỢP NHẤT
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH
-Báo cáo tài chính hợp nhất và Báo cáo tài chính Công ty 
-mẹ năm 2022 đã kiểm toán được đăng tải trên website của 
-Công ty tại địa chỉ: www.hoaphat.com.vn
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-98
-99
-Ban Giám đốc Công ty Cổ phần Tập đoàn Hòa Phát (“Công ty”) trình bày báo cáo này và báo cáo tài chính 
-hợp nhất của Công ty và các công ty con (được gọi chung là “Tập đoàn”) cho năm kết thúc ngày 31 tháng 12 
-năm 2022. 
-Các thành viên của Hội đồng Quản trị và Ban Giám đốc đã điều hành Công ty và Tập đoàn trong năm và tại ngày 
+Ban Giám đốc Công ty Cổ phần Tập đoàn Hòa Phát (“Công ty”) trình bày báo cáo này và báo cáo tài chính
+hợp nhất của Công ty và các công ty con (được gọi chung là “Tập đoàn”) cho năm kết thúc ngày 31 tháng 12
+Các thành viên của Hội đồng Quản trị và Ban Giám đốc đã điều hành Công ty và Tập đoàn trong năm và tại ngày
 lập báo cáo này như sau:
-Công ty có tiền thân là Công ty Cổ phần Thép Hòa Phát được thành lập theo Luật Doanh nghiệp của Việt Nam 
-và hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh lần đầu số 0503000008 do Sở Kế hoạch và Đầu tư Tỉnh 
-Hưng Yên cấp ngày 26 tháng 10 năm 2001. Theo Giấy chứng nhận Đăng ký Kinh doanh thay đổi lần thứ 8 số 
-0503000008 do Sở Kế hoạch và Đầu tư Tỉnh Hưng Yên cấp ngày 9 tháng 1 năm 2007, Công ty Cổ phần Thép Hòa 
+Công ty có tiền thân là Công ty Cổ phần Thép Hòa Phát được thành lập theo Luật Doanh nghiệp của Việt Nam
+và hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh lần đầu số 0503000008 do Sở Kế hoạch và Đầu tư Tỉnh
+Hưng Yên cấp ngày 26 tháng 10 năm 2001. Theo Giấy chứng nhận Đăng ký Kinh doanh thay đổi lần thứ 8 số
+0503000008 do Sở Kế hoạch và Đầu tư Tỉnh Hưng Yên cấp ngày 9 tháng 1 năm 2007, Công ty Cổ phần Thép Hòa
 Phát đã chuyển đổi thành Công ty Cổ phần Tập đoàn Hòa Phát.
-Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần và lần điều chỉnh mới nhất là 
-Giấy Chứng nhận Đăng ký Doanh nghiệp số 0900189284 ngày 27 tháng 7 năm 2022. Giấy Chứng nhận Đăng ký 
+Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần và lần điều chỉnh mới nhất là
+Giấy Chứng nhận Đăng ký Doanh nghiệp số 0900189284 ngày 27 tháng 7 năm 2022. Giấy Chứng nhận Đăng ký
 Doanh nghiệp do Sở Kế hoạch và Đầu tư Tỉnh Hưng Yên cấp.
-Công ty có trụ sở đăng ký tại Khu Công nghiệp Phố Nối A, Xã Giai Phạm, Huyện Yên Mỹ, Tỉnh Hưng Yên, 
+Công ty có trụ sở đăng ký tại Khu Công nghiệp Phố Nối A, Xã Giai Phạm, Huyện Yên Mỹ, Tỉnh Hưng Yên,
 Việt Nam.
 Các công ty con của Công ty được trình bày tại Thuyết minh 1.4 trong báo cáo tài chính hợp nhất.
-Hội đồng Quản trị 	
-Ông Trần Đình Long	 	
-	
-	
+Hội đồng Quản trị
+Ông Trần Đình Long
 Chủ tịch
-	
-	
-	
-Ông Trần Tuấn Dương	
-	
-	
-Phó Chủ tịch 
-	
-	
-	
-Ông Nguyễn Mạnh Tuấn	
-	
-	
-Phó Chủ tịch 
-	
-	
-	
-Ông Doãn Gia Cường		
-	
-	
+Ông Trần Tuấn Dương
 Phó Chủ tịch
-	
-	
-	
-Ông Nguyễn Ngọc Quang	
-	
-	
+Ông Nguyễn Mạnh Tuấn
+Phó Chủ tịch
+Ông Doãn Gia Cường
+Phó Chủ tịch
+Ông Nguyễn Ngọc Quang
 Thành viên
-	
-	
-	
-Ông Hoàng Quang Việt	
-	
-	
+Ông Hoàng Quang Việt
 Thành viên
-	
-	
-	
-Ông Nguyễn Việt Thắng	
-	
-	
+Ông Nguyễn Việt Thắng
 Thành viên
-Ban Giám đốc		
-Ông Nguyễn Việt Thắng	
-	
-	
-Tổng Giám đốc 
-	
-	
-	
-Bà Nguyễn Thị Thảo Nguyên		
-	
+Ban Giám đốc
+Ông Nguyễn Việt Thắng
+Tổng Giám đốc
+Bà Nguyễn Thị Thảo Nguyên
 Phó Tổng Giám đốc
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT 
-BÁO CÁO CỦA BAN GIÁM ĐỐC 
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+BÁO CÁO CỦA BAN GIÁM ĐỐC
 KẾT QUẢ HOẠT ĐỘNG KINH DOANH VÀ CỔ TỨC
-Lợi nhuận thuần hợp nhất thuộc về các cổ đông của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2022 là 
-8.483.511 triệu VND (2021: 34.478.143 triệu VND).
-Ngày 24 tháng 5 năm 2022, Đại hội đồng Cổ đông của Công ty đã thông qua phương án chi trả cổ tức năm 2021 
-cho các cổ đông theo tỷ lệ 35% bao gồm 30% bằng cổ phiếu (cổ đông sở hữu 10 cổ phiếu thường được nhận 3 cổ 
-phiếu phát hành thêm để trả cổ tức) và 5% bằng tiền (cổ đông sở hữu 1 cổ phiếu thường được nhận 500 đồng). 
-Phương án chi trả cổ tức này đã được Hội đồng Quản trị Công ty ra nghị quyết thực hiện vào ngày 26 tháng 5 năm 
-2022. Ngày 20 tháng 6 năm 2022, Công ty đã chốt danh sách cổ đông để trả cổ tức bằng tiền mặt và phát hành cổ 
-phiếu để trả cổ tức. Ngày 18 tháng 7 năm 2022, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh đã chấp thuận 
-cho Công ty được thay đổi niêm yết liên quan đến việc phát hành cổ phiếu để trả cổ tức này. Theo đó, số lượng 
-chứng khoán niêm yết thêm là 1.341.862.994 cổ phiếu, tương đương với 13.418.629.940.000 VND. 
-CÁC SỰ KIỆN SAU NGÀY KẾT THÚC KỲ KẾ TOÁN 
-Không có sự kiện trọng yếu nào xảy ra sau ngày kết thúc kỳ kế toán năm cần phải điều chỉnh hay thuyết minh trong 
-báo cáo tài chính hợp nhất.
+Lợi nhuận thuần hợp nhất thuộc về các cổ đông của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2022 là
+Ngày 24 tháng 5 năm 2022, Đại hội đồng Cổ đông của Công ty đã thông qua phương án chi trả cổ tức năm 2021
+cho các cổ đông theo tỷ lệ 35% bao gồm 30% bằng cổ phiếu (cổ đông sở hữu 10 cổ phiếu thường được nhận 3 cổ
+phiếu phát hành thêm để trả cổ tức) và 5% bằng tiền (cổ đông sở hữu 1 cổ phiếu thường được nhận 500 đồng).
+Phương án chi trả cổ tức này đã được Hội đồng Quản trị Công ty ra nghị quyết thực hiện vào ngày 26 tháng 5 năm
+2022. Ngày 20 tháng 6 năm 2022, Công ty đã chốt danh sách cổ đông để trả cổ tức bằng tiền mặt và phát hành cổ
+phiếu để trả cổ tức. Ngày 18 tháng 7 năm 2022, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh đã chấp thuận
+cho Công ty được thay đổi niêm yết liên quan đến việc phát hành cổ phiếu để trả cổ tức này. Theo đó, số lượng
+chứng khoán niêm yết thêm là 1.341.862.994 cổ phiếu, tương đương với 13.418.629.940.000 VND.
+CÁC SỰ KIỆN SAU NGÀY KẾT THÚC KỲ KẾ TOÁN
+Không có sự kiện trọng yếu nào xảy ra sau ngày kết thúc kỳ kế toán năm cần phải điều chỉnh hay thuyết minh trong
 ĐƠN VỊ KIỂM TOÁN
 Đơn vị kiểm toán của Công ty và Tập đoàn là Công ty TNHH KPMG.
-CÔNG BỐ TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC CÔNG TY ĐỐI VỚI BÁO CÁO TÀI 
-CHÍNH HỢP NHẤT 
-Ban Giám đốc Công ty chịu trách nhiệm lập và trình bày báo cáo tài chính hợp nhất để phản ánh trung thực và hợp 
-lý tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2022 kết quả hoạt động kinh doanh hợp nhất và tình hình 
-lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt 
-Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo 
+CÔNG BỐ TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC CÔNG TY ĐỐI VỚI BÁO CÁO TÀI
+CHÍNH HỢP NHẤT
+Ban Giám đốc Công ty chịu trách nhiệm lập và trình bày báo cáo tài chính hợp nhất để phản ánh trung thực và hợp
+lý tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2022 kết quả hoạt động kinh doanh hợp nhất và tình hình
+lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt
+Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo
 cáo tài chính. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Giám đốc Công ty cần phải:
-•	
 Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
-•	
 Thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
-•	
-Nêu rõ các chuẩn mực kế toán áp dụng cho Tập đoàn có được tuân thủ hay không và tất cả những sai 	
-	
-lệch trọng yếu so với những chuẩn mực này được trình bày và giải thích trong báo cáo tài chính hợp 	
-	
+Nêu rõ các chuẩn mực kế toán áp dụng cho Tập đoàn có được tuân thủ hay không và tất cả những sai
+lệch trọng yếu so với những chuẩn mực này được trình bày và giải thích trong báo cáo tài chính hợp
 nhất; và
-•	
-Lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho 
-	
+Lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho
 rằng Tập đoàn sẽ tiếp tục hoạt động.
-Ban Giám đốc Công ty chịu trách nhiệm đảm bảo việc các sổ sách kế toán được lập và lưu giữ để phản ánh tình 
-hình tài chính của Tập đoàn, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các sổ sách 
-kế toán tuân thủ với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định 
-pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Giám đốc Công ty cũng chịu trách nhiệm về 
-việc quản lý các tài sản của Tập đoàn và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện 
+Ban Giám đốc Công ty chịu trách nhiệm đảm bảo việc các sổ sách kế toán được lập và lưu giữ để phản ánh tình
+hình tài chính của Tập đoàn, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các sổ sách
+kế toán tuân thủ với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định
+pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Giám đốc Công ty cũng chịu trách nhiệm về
+việc quản lý các tài sản của Tập đoàn và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện
 các hành vi gian lận và những vi phạm khác.
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT 
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
 BÁO CÁO CỦA BAN GIÁM ĐỐC (TIẾP THEO)
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-100
-101
-Hưng Yên, ngày 16 tháng 3 năm 2023
- 
-Nguyễn Việt Thắng
-Tổng Giám đốc
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT 
-BÁO CÁO CỦA BAN GIÁM ĐỐC (TIẾP THEO) 
-Ban Giám đốc Công ty cam kết với Hội đồng Quản trị và các Cổ đông của Công ty rằng Tập đoàn đã tuân thủ 
-những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất.
-PHÊ DUYỆT BÁO CÁO TÀI CHÍNH HỢP NHẤT 
-Chúng tôi phê duyệt báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2022 đính kèm. Báo cáo 
-này đã phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2022, 
-kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày phù 
-hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên 
-quan đến việc lập và trình bày báo cáo tài chính.
-Thay mặt và đại diện Ban Giám đốc
-KÍNH GỬI CÁC CỔ ĐÔNG VÀ HỘI ĐỒNG QUẢN TRỊ
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Tập đoàn Hòa Phát 
-(“Công ty”) và các công ty con, bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022, báo cáo 
-kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất liên quan cho năm kết thúc cùng 
-ngày và các thuyết minh kèm theo được Ban Giám đốc Công ty phê duyệt phát hành ngày 16 tháng 3 năm 2023, 
-được trình bày từ trang 6 đến trang 67.
-TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC
-Ban Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo 
-các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan 
-đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là 
-cần thiết để đảm bảo việc lập báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hay nhầm lẫn.
-TRÁCH NHIỆM CỦA KIỂM TOÁN VIÊN
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chúng 
-tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu 
-cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm 
-toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.
-Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu 
-và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao 
-gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc nhầm lẫn. Khi thực hiện các đánh 
-giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo 
-tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không 
-nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm 
-việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của 
-Ban Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
-Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến 
-kiểm toán của chúng tôi.
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-102
-103
-PHẠM THỊ THÙY LINH	
-Giấy chứng nhận đăng ký hành nghề	
-kiểm toán số:3065-2019-007-1
-Phó Tổng Giám đốc
-PHAN MỸ LINH
-Giấy chứng nhận đăng ký hành nghề 
-kiểm toán số: 3064-2019-007-1
-Hà Nội, ngày 16 tháng 3 năm 2023
-Ý KIẾN CỦA KIỂM TOÁN VIÊN
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng 
-yếu, tình hình tài chính hợp nhất của Công ty Cổ phần Tập đoàn Hòa Phát và các công ty con tại ngày 31 tháng 
-12 năm 2022, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con cho 
-năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam 
-và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
-CÔNG TY TNHH KPMG
-Việt Nam
-BÁO CÁO KIỂM TOÁN SỐ: 22-02-00117-23-2
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT TẠI NGÀY 31 THÁNG 12 NĂM 2022
-Mẫu B 01 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-TÀI SẢN
-TÀI SẢN NGẮN HẠN 
-(100 = 110 + 120 + 130 + 140 + 150)
-Tiền và các khoản tương đương tiền
-Tiền 
-Các khoản tương đương tiền
-Đầu tư tài chính ngắn hạn
-Đầu tư nắm giữ đến ngày đáo hạn
-Các khoản phải thu ngắn hạn
-Phải thu ngắn hạn của khách hàng
-Trả trước cho người bán ngắn hạn
-Phải thu về cho vay ngắn hạn
-Phải thu ngắn hạn khác
-Dự phòng các khoản phải thu ngắn 
-hạn khó đòi
-Tài sản thiếu chờ xử lý
-Hàng tồn kho
-Hàng tồn kho
-Dự phòng giảm giá hàng tồn kho
-Tài sản ngắn hạn khác
-Chi phí trả trước ngắn hạn 
-Thuế giá trị gia tăng được khấu trừ
-Thuế và các khoản khác phải thu 
-Nhà nước 
-100
-110
-111
-112
-120
-123
-130
-131
-132
-135
-136
-137
-139
-140
-141
-149
-150
-151
-152
-153
-	
-5
-6
-7
-10
-8.1
-9
-15.1
-20
-80.514.710.854.456
-8.324.588.920.227
-3.458.049.733.104
-4.866.539.187.123
-26.268.246.676.354
-26.268.246.676.354
-9.892.869.502.309
-2.958.587.125.337
-5.366.254.068.739
-124.200.000.000
-1.482.978.249.031
-(41.074.336.139)
-1.924.395.341
-34.491.111.096.123
-35.727.277.739.296
-(1.236.166.643.173)
-1.537.894.659.443
-320.077.470.557
-1.117.646.951.943
-100.170.236.943
-94.154.859.648.304
-22.471.375.562.130
- 6.316.299.666.510 
- 16.155.075.895.620 
-18.236.152.616.078
-18.236.152.616.078
-7.662.680.796.645
- 4.973.095.672.343 
- 1.722.371.823.278 
- 23.521.740.500 
-981.799.066.828
-(39.275.168.162)
-1.167.661.858
-42.134.493.932.210
- 42.370.012.405.544 
- (235.518.473.334)
-3.650.156.741.241
- 296.697.348.350 
- 3.335.690.250.424 
-17.769.142.467
-Mã số
-Thuyết 
-minh
-31/12/2022
-VND
-1/1/2022
-VND
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-104
-105
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT TẠI NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 01 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-TÀI SẢN DÀI HẠN 
-(200 = 210 + 220 + 230 + 240 + 250 + 260)
-Các khoản phải thu dài hạn
-Phải thu về cho vay dài hạn
-Phải thu dài hạn khác
-Tài sản cố định
-Tài sản cố định hữu hình
-Nguyên giá
-Giá trị hao mòn lũy kế
-Tài sản cố định vô hình
-Nguyên giá
-Giá trị hao mòn lũy kế
-Bất động sản đầu tư
-Nguyên giá
-Giá trị hao mòn lũy kế
-Tài sản dở dang dài hạn
-Chi phí sản xuất, kinh doanh 
-dở dang dài hạn
-Xây dựng cơ bản dở dang
-Đầu tư tài chính dài hạn
-Đầu tư vào các công ty liên kết
-Đầu tư góp vốn vào đơn vị khác
-Tài sản dài hạn khác
-Chi phí trả trước dài hạn
-Tài sản thuế thu nhập hoãn lại
-Lợi thế thương mại
-TỔNG TÀI SẢN (270 = 100 + 200)
-200
-210
-215
-216
-220
-221
-222
-223
-227
-228
-229
-230
-231
-232
-240
-241
-242
-250
-252
-253
-260
-261
-262
-269
-270
-10
-8.2
-11
-12
-13
-14
-15.2
-16
-17
-89.820.810.782.676
-894.484.456.379
-101.693.561.714
-792.790.894.665
-70.832.915.657.865
-70.199.153.681.536
-98.976.369.133.844
-(28.777.215.452.308)
-633.761.976.329
-744.538.077.973
-(110.776.101.644)
-629.111.776.960
-859.667.015.615
-(230.555.238.655)
-13.363.274.912.355
-28.953.988.212
-13.334.320.924.143
-700.000.000
--
-700.000.000
-4.100.323.979.117
-3.929.243.956.403
-83.071.062.718
-88.008.959.996
-170.335.521.637.132
-84.081.562.709.945
-809.234.947.969
- 118.401.369.280 
- 690.833.578.689 
-69.280.841.784.004
-68.744.125.939.109
- 91.026.106.008.677 
- (22.281.980.069.568)
-536.715.844.895
- 618.321.659.402 
- (81.605.814.507)
-548.210.755.123
- 698.820.145.314 
- (150.609.390.191)
-9.698.699.397.713
-1.409.414.047.105
-8.289.285.350.608
-6.715.955.617
- 6.015.955.617 
- 700.000.000 
-3.737.859.869.519
- 3.171.382.188.206 
- 529.355.730.648 
- 37.121.950.665 
-178.236.422.358.249
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT TẠI NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 01 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-NGUỒN VỐN
-NỢ PHẢI TRẢ (300 = 310 + 330)
-Nợ ngắn hạn
-Phải trả người bán ngắn hạn
-Người mua trả tiền trước ngắn hạn
-Thuế và các khoản phải nộp Nhà nước
-Phải trả người lao động
-Chi phí phải trả ngắn hạn
-Doanh thu chưa thực hiện ngắn hạn
-Phải trả ngắn hạn khác
-Vay ngắn hạn
-Dự phòng phải trả ngắn hạn
-Quỹ khen thưởng, phúc lợi
-Nợ dài hạn
-Chi phí phải trả dài hạn
-Doanh thu chưa thực hiện dài hạn
-Phải trả dài hạn khác
-Vay dài hạn
-Thuế thu nhập hoãn lại phải trả
-Dự phòng phải trả dài hạn
-300
-310
-311
-312
-313
-314
-315
-318
-319
-320
-321
-322
-330
-333
-336
-337
-338
-341
-342
-18
-19
-20
-21.1
-22.1
-23.1
-24
-25
-21.2
-22.2
-23.2
-24
-74.222.582.021.349
-62.385.392.809.685
-11.107.162.924.326
-860.793.139.245
-648.407.591.981
-306.208.839.467
-460.508.546.638
-16.974.936.888
-418.512.269.668
-46.748.670.400.471
-5.198.833.687
-1.812.955.327.314
-11.837.189.211.664
-531.620.146.455
-4.109.316.288
-61.033.120.562
-11.151.651.204.402
-31.207.164.756
-57.568.259.201
-87.455.796.846.810
-73.459.315.876.441
- 23.729.142.569.420 
- 788.002.603.134 
-796.022.241.121
- 816.457.005.628 
- 772.615.123.352 
-16.951.911.160
-1.047.158.508.079
-43.747.643.082.356
- 4.755.735.476 
- 1.740.567.096.715 
-13.996.480.970.369
- 410.407.940.262 
- 8.803.217.550 
- 63.027.061.241 
- 13.464.931.998.700 
--
-49.310.752.616
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-Mã số
-Mã số
-Thuyết 
-minh
-Thuyết 
-minh
-31/12/2022
-VND
-31/12/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-106
-107
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT TẠI NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Ngày 16 tháng 3 năm 2023 
-	
-     Người lập:	
-	
-	
-	
-Người duyệt:
-	
-Trần Xuân Mai	 	
-	
-	
-	
-Phạm Thị Kim Oanh	
-Nguyễn Việt Thắng
-	
-Kế toán tổng hợp	
-	
-	
-	
-Kế toán trưởng	
-            Tổng Giám đốc
-VỐN CHỦ SỞ HỮU (400 = 410)
-Vốn chủ sở hữu
-Vốn cổ phần
-- Cổ phiếu phổ thông có quyền 
-   biểu quyết
-Thặng dư vốn cổ phần
-Chênh lệch tỷ giá
-Quỹ đầu tư phát triển
-Lợi nhuận sau thuế chưa phân phối
--	 LNST chưa phân phối đến 
-cuối năm trước
--	 LNST năm nay
-Lợi ích cổ đông không kiểm soát
-TỔNG NGUỒN VỐN 
-(440 = 300 + 400)
-400
-410
-411
-411a
-412
-417
-418
-421
-421a
-421b
-429
-440
-	
-26
-27
-96.112.939.615.783
-96.112.939.615.783
-58.147.857.000.000
-58.147.857.000.000
-3.211.560.416.270
-(20.652.355.005)
-834.782.434.216
-33.833.829.973.987
-25.350.319.419.956
-8.483.510.554.031
-105.562.146.315
-170.335.521.637.132
-90.780.625.511.439
-90.780.625.511.439
-44.729.227.060.000
-44.729.227.060.000
- 3.211.560.416.270 
- (1.925.960.852)
- 923.549.304.122 
-41.763.425.970.912
-7.285.282.773.452
-34.478.143.197.460
-154.788.720.987
-178.236.422.358.249
-Mẫu B 01 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Mẫu B 02 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Doanh thu bán hàng và cung cấp 
-dịch vụ
-Các khoản giảm trừ doanh thu
-Doanh thu thuần về bán hàng và 
-cung cấp dịch vụ (10 = 01 - 02)
-Giá vốn hàng bán và dịch vụ cung cấp
-Lợi nhuận gộp (20 = 10 - 11)
-Doanh thu hoạt động tài chính
-Chi phí tài chính
-Trong đó: Chi phí đi vay
-Phần (lỗ)/lãi trong công ty liên kết 
-Chi phí bán hàng
-Chi phí quản lý doanh nghiệp
-Lợi nhuận thuần từ hoạt động 
-kinh doanh 
-{30 = 20 + (21 - 22) + 24 - (25 + 26)}
-Thu nhập khác
-Chi phí khác
-Kết quả từ hoạt động khác 
-(40 = 31 - 32)
-Lợi nhuận kế toán trước thuế
-(50 = 30 + 40)
-Chi phí thuế TNDN hiện hành
-Chi phí/(lợi ích) thuế TNDN hoãn lại
-Lợi nhuận sau thuế TNDN 
-(mang sang trang sau) 
-(60 = 50 - 51 - 52)
-01
-02
-10
-11
-20
-21
-22
-23
-24
-25
-26
-30
-31
-32
-40
-50
-51
-52
-60
-30
-30
-30
-31
-32
-33
-34
-35
-36
-37
-39
-39
-142.770.810.676.858
-1.361.536.216.226
-141.409.274.460.632
-124.645.848.221.080
-16.763.426.239.552
-3.743.650.707.331
-7.026.723.285.241
-3.083.638.131.818
-(1.072.667.584)
-2.665.806.087.302
-1.019.444.279.447
-9.794.030.627.309
-872.024.724.926
-743.114.224.951
-128.910.499.975
-9.922.941.127.284
-1.001.020.240.086
-477.491.832.682
-8.444.429.054.516
-150.865.359.967.200
-1.185.569.987.855
-149.679.789.979.345
-108.571.380.446.353
-41.108.409.532.992
- 3.071.440.640.188 
- 3.731.542.257.873 
-2.525.823.258.237
- 4.465.302.865 
- 2.120.068.223.228 
- 1.324.261.548.679 
-37.008.443.446.265
-796.666.105.925
-748.331.838.000
-48.334.267.925
-37.056.777.714.190
-2.855.306.347.167
-(319.483.564.275)
-34.520.954.931.298
-Mã số
-Thuyết 
-minh
-2022
-VND
-2021
-VND
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO NĂM KẾT THÚC 
-NGÀY 31 THÁNG 12 NĂM 2022
-Mã số
-Thuyết 
-minh
-31/12/2022
-VND
-1/1/2022
-VND
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-108
-109
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO NĂM KẾT THÚC 
-NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 02 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Lợi nhuận sau thuế TNDN 
-(mang từ trang trước sang) 
-(60 = 50 - 51 - 52)
-Phân bổ cho:
-Cổ đông của công ty mẹ
-Cổ đông không kiểm soát
-Lãi cơ bản trên cổ phiếu
-60
-61
-62
-70
-	
-40.2
-8.444.429.054.516
-8.483.510.554.031
-(39.081.499.515)
-1.452
-34.520.954.931.298
-34.478.143.197.460
-42.811.733.838
-Đã điều chỉnh lại
-5.636
-Mã số
-Mã số
-Thuyết 
-minh
-Thuyết 
-minh
-2022
-VND
-2022
-VND
-2021
-VND
-2021
-VND
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-Ngày 16 tháng 3 năm 2023
-	
-     Người lập:	
-	
-	
-	
-Người duyệt:
-	
-Trần Xuân Mai	 	
-	
-	
-	
-Phạm Thị Kim Oanh	
-Nguyễn Việt Thắng
-	
-Kế toán tổng hợp	
-	
-	
-	
-Kế toán trưởng	
-            Tổng Giám đốc
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 
-(PHƯƠNG PHÁP GIÁN TIẾP)
-Lợi nhuận trước thuế
-Điều chỉnh cho các khoản
-Khấu hao và phân bổ
-Phân bổ lợi thế thương mại
-Các khoản dự phòng
-Lỗ chênh lệch tỷ giá do đánh giá lại 
-các khoản mục tiền tệ có gốc ngoại tệ
-Lãi từ hoạt động đầu tư 
-Chi phí đi vay
-Lợi nhuận từ hoạt động kinh doanh 
-trước những thay đổi vốn lưu động
-Biến động các khoản phải thu 
-Biến động hàng tồn kho 
-Biến động các khoản phải trả và 
-nợ phải trả khác 
-Biến động chi phí trả trước 
-Tiền lãi vay đã trả
-Thuế thu nhập doanh nghiệp đã nộp
-Tiền chi khác cho hoạt động
-kinh doanh
-Lưu chuyển tiền thuần từ hoạt động 
-kinh doanh
-01
-02
-02
-03
-04
-05
-06
-08
-09
-10
-11
-12
-14
-15
-17
-20
-9.922.941.127.284
-6.759.462.100.582
-12.678.796.368
-1.010.922.330.886
-333.983.153.559
-(1.832.298.259.730)
-3.083.638.131.818
-19.291.327.380.767
-4.711.117.735.355 
-8.023.194.725.141
-(14.666.409.808.394)
-2.624.176.162
-17.361.854.209.031
-(3.061.103.919.849)
-(1.246.302.085.368)
-(776.811.527.307)
-12.277.636.676.507 
-37.056.777.714.190
- 6.076.516.295.417 
- 5.988.000.000 
-163.177.531.627
-41.938.831.417
-(1.661.082.595.981)
-2.525.823.258.237
-44.209.139.034.907
-(3.039.385.771.765)
-(16.949.192.989.135)
-9.250.111.116.260
-(813.988.306.614)
-32.656.683.083.653
-(2.567.276.431.082)
-(2.743.083.962.430)
-(625.409.387.033)
-26.720.913.303.108
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-Mẫu B 03 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-110
-111
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 
-(PHƯƠNG PHÁP GIÁN TIẾP - TIẾP THEO)
-Tiền chi mua sắm, xây dựng tài sản cố 
-định và tài sản dài hạn khác 
-Tiền thu từ thanh lý tài sản cố định và 
-tài sản dài hạn khác 
-Tiền chi mua các công cụ nợ của 
-các đơn vị khác
-Tiền thu hồi cho vay, bán lại các công 
-cụ nợ của các đơn vị khác
-Tiền thu hồi đầu tư góp vốn vào các 
-đơn vị khác
-Tiền thu lãi tiền gửi và cho vay
-Mua công ty con (đã trừ đi số dư tiền 
-của công ty con được mua)
-Lưu chuyển tiền thuần từ hoạt động 
-đầu tư
-21
-22
-23
-24
-26
-27
-30
-(17.887.504.647.036) 
-21.712.492.859
-(55.505.793.882.381) 
-47.412.529.370.171 
-6.672.170.842
-1.697.815.926.948
-(371.644.175.956)
-(24.626.212.744.553)
-(11.621.470.092.371)
-49.348.550.223
-(41.061.488.333.969)
-31.076.412.522.291
-833.829.028.281
-1.053.915.562.539
--
-(19.669.452.763.006)
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
-	
-Mẫu B 03 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 
-(PHƯƠNG PHÁP GIÁN TIẾP - TIẾP THEO)
-Tiền thu từ phát hành cổ phiếu, nhận 
-vốn góp từ cổ đông không kiểm soát
-Tiền thu từ đi vay
-Tiền trả nợ gốc vay 
-Tiền trả cổ tức
-Lưu chuyển tiền thuần từ hoạt động 
-tài chính
-Lưu chuyển tiền thuần trong năm
-(50 = 20 + 30 + 40)
-Tiền và các khoản tương đương tiền 
-đầu năm
-Ảnh hưởng của thay đổi tỷ giá quy đổi 
-ngoại tệ 
-Tiền và các khoản tương đương tiền 
-cuối năm (70 = 50 + 60 + 61)
-31
-33
-34
-36
-40
-50
-60
-61
-70
-4.075.000.000
-135.250.023.212.840
-(134.770.628.364.289)
-(2.261.459.543.241)
-(1.777.989.694.690)
-(14.126.565.762.736)
-22.471.375.562.130
-(20.220.879.167)
-8.324.588.920.227
-10.630.000.000
-125.075.421.125.272
-(121.652.859.327.347)
-(1.693.086.647.969)
-1.740.105.149.956
-8.791.565.690.058
-13.696.099.298.228
-(16.289.426.156)
-22.471.375.562.130
-Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
-	
-5
-Mẫu B 03 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Ngày 16 tháng 3 năm 2023 
-	
-     Người lập:	
-	
-	
-	
-Người duyệt:
-	
-Trần Xuân Mai	 	
-	
-	
-	
-Phạm Thị Kim Oanh	
-Nguyễn Việt Thắng
-	
-Kế toán tổng hợp	
-	
-	
-	
-Kế toán trưởng	
-            Tổng Giám đốc
-Mã số
-Mã số
-Thuyết 
-minh
-Thuyết 
-minh
-2022
-VND
-2022
-VND
-2021
-VND
-2021
-VND
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-112
-113
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất đính kèm.
-1.	
-ĐƠN VỊ BÁO CÁO
-1.1	
-Hình thức sở hữu vốn
-Công ty Cổ phần Tập đoàn Hòa Phát (“Công ty”) là một công ty cổ phần được thành lập tại Việt Nam. 
-Báo cáo tài chính hợp nhất của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2022 bao gồm Công ty 
-và các công ty con (được gọi chung là “Tập đoàn”) và các lợi ích của Tập đoàn trong các công ty liên kết.
-1.2	
-Hoạt động chính
-Các hoạt động chính của Tập đoàn là: 
-•	
-Cho thuê văn phòng;
-•	
-Đầu tư tài chính;
-•	
-Đầu tư và xây dựng đồng bộ hạ tầng, kỹ thuật khu công nghiệp và khu đô thị;
-•	
-Sản xuất thùng, bể chứa và các dụng cụ chứa đựng bằng kim loại;
-•	
-Sản xuất các cấu kiện bằng kim loại;
-•	
-Thăm dò, khai thác khoáng sản;
-•	
-Dịch vụ cho thuê máy móc, thiết bị và phương tiện;
-•	
-Buôn bán ôtô, xe máy, thiết bị phụ tùng, ngành công nghiệp vận tải, khai thác mỏ và phương tiện 
-	
-vận tải;
-•	
-Sản xuất và kinh doanh các loại máy xây dựng và máy khai thác mỏ;
-•	
-Buôn bán đồ điện, điện tử, các thiết bị y tế và quang học;
-•	
-Sản xuất, kinh doanh, lắp ráp, lắp đặt, sửa chữa và bảo hành hàng điện, điện tử, điện lạnh, điện 
-	
-dân dụng và điều hòa không khí;
-•	
-Sản xuất và kinh doanh nguyên vật liệu và các sản phẩm nhựa plastic;
-•	
-Các hoạt động quảng cáo;
-•	
-Xây dựng công nghiệp và dân dụng;
-•	
-Khai thác cát, đá và sỏi;
-•	
-Sản xuất, kinh doanh và lắp ráp các sản phẩm nội thất và thiết bị xây dựng;
-•	
-Kinh doanh bất động sản (không bao gồm hoạt động tư vấn về giá đất);
-•	
-Tư vấn đầu tư trong và ngoài nước (không bao gồm tư vấn pháp luật);
-•	
-Sản xuất và mua bán kim loại màu các loại, phế liệu kim loại màu;
-•	
-Buôn bán và xuất nhập khẩu thép, vật tư thiết bị luyện và cán thép;
-•	
-Sản xuất cán kéo thép và sản xuất tôn lợp;
-•	
-Khai thác quặng kim loại;
-•	
-Mua bán kim loại, quặng kim loại và sắt thép phế liệu;
-•	
-Luyện gang thép, đúc gang và sắt, thép;
-•	
-Sản xuất ống thép không mạ và có mạ, ống inox;
-•	
-Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh;
-•	
-Dịch vụ thể dục, thể thao (đào tạo, tổ chức thi đấu và chuyển giao vận động viên);
-•	
-Xây dựng, cho thuê sân tập và sân thi đấu thể thao;
-•	
-Ủy thác xuất – nhập khẩu;
-•	
-Chăn nuôi lợn;
-•	
-Chăn nuôi bò;
-•	
-Chăn nuôi gia cầm;
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-•	
-Chăn nuôi khác;
-•	
-Hoạt động dịch vụ chăn nuôi;
-•	
-Chế biến, bảo quản thịt và các sản phẩm từ thịt;
-•	
-Sản xuất thức ăn gia súc, gia cầm và thủy sản;
-•	
-Sản xuất phân bón và hợp chất ni tơ;
-•	
-Buôn bán máy móc, thiết bị và phụ tùng máy nông nghiệp;
-•	
-Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương; và
-•	
-Xuất, nhập khẩu, mua bán, phân phối hàng hóa không thuộc danh mục hàng hóa cấm kinh doanh 
-	
-theo quy định của Pháp luật.
-1.3	
-Chu kỳ sản xuất kinh doanh thông thường
-Chu kỳ sản xuất kinh doanh thông thường của Tập đoàn nằm trong phạm vi 12 tháng.
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-114
-115
-tv
-tv
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-1.4	
-Cấu trúc Tập đoàn
-Tại ngày 31 tháng 12 năm 2022, Tập đoàn có các công ty con sau:
-Công ty con cấp 1
-STT
-Hoạt động chính
-1/1/2022
-31/12/2022
-Tỷ lệ lợi ích và quyền biểu 
-quyết của Tập đoàn
-1
-2
-3
-4
-5
-99,998%
-99,994%
-99,999%
-99,967%
-99,900%
-99,998%
-99,994%
-99,999%
-99,900%
-99,900%
-Công ty CP Gang thép Hòa Phát
-Công ty CP Sản phẩm thép Hòa Phát 
-Công ty CP Phát triển Nông nghiệp 
-Hòa Phát
-Công ty CP Phát triển Bất động sản 
-Hòa Phát (i)
-Công ty CP Điện máy Gia dụng Hòa Phát (i)
-Đầu tư, sản xuất, kinh doanh thép xây dựng và các hoạt động phụ trợ.
-Đầu tư, sản xuất, kinh doanh ống thép, tôn mạ màu và các hoạt động phụ trợ.
-Chăn nuôi gia súc, gia cầm; trồng trọt; các hoạt động dịch vụ trồng trọt, chăn nuôi, sau thu 
-hoạch; sản xuất thức ăn gia súc, gia cầm và thủy sản.
-Đầu tư, xây dựng, kinh doanh bất động sản và các hoạt động phụ trợ.
-Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy – gia dụng.
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-STT
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Công ty con cấp 2
-Hoạt động chính
-1/1/2022
-31/12/2022
-Tỷ lệ lợi ích của Tập đoàn
-99,958%
-99,997%
-99,998%
-99,998%
-99,517%
-99,969%
-99,960%
-99,994%
-99,827%
-99,910%
-99,794%
-99,899%
-99,974%
-99,999%
-99,999%
-99,746%
-99,800%
-99,800%
-0%
-99,958%
-99,997%
-99,998%
-99,998%
-99,518%
-99,971%
-99,969%
-99,994%
-99,734%
-99,910%
-99,794%
-99,916%
-99,974%
-99,999%
-99,999%
-99,936%
-99,867%
-99,930%
-99,967%
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-Công ty CP Đầu tư Khoáng sản An Thông
-Công ty CP Thép Hòa Phát Hải Dương
- 
-Công ty CP Thép Hòa Phát Dung Quất 
-Công ty TNHH Thép Hòa Phát Hưng Yên
-Công ty CP Vận tải biển Hòa Phát (ii)
-Công ty CP Đầu tư Nước ngoài Hòa Phát 
-(trước đây là Công ty CP Khoáng sản Bắc 
-Úc) (ii)
-Công ty TNHH Ống thép Hòa Phát
-Công ty TNHH Tôn Hòa Phát 
-Công ty TNHH Điện lạnh Hòa Phát (iii)
-Công ty TNHH Chế tạo Kim loại 
-Hòa Phát
-Công ty CP Sản xuất Container Hòa Phát 
-Công ty TNHH Thương mại Hòa Phát
-Công ty CP Phát triển Chăn nuôi 
-Hòa Phát
-Công ty TNHH Thức ăn Chăn nuôi 
-Hòa Phát Hưng Yên
-Công ty TNHH Gia cầm Hòa Phát 
-Công ty CP Xây dựng và Phát triển 
-Đô thị Hòa Phát 
-Công ty CP Phát triển Bất động sản 
-Hòa Phát Sài Gòn
-Công ty CP Phát triển Bất động sản 
-Hòa Phát Hà Nội 
-Công ty TNHH Đầu tư Phát triển 
-Thành phố mới (iv)
-Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ 
-yếu là quặng sắt.
-Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và 
-quặng kim loại; và sản xuất, mua bán than cốc.
-Sản xuất sắt, thép, gang, khai thác quặng sắt; bán buôn kim loại và quặng kim loại; sản xuất 
-mua bán than cốc và các ngành nghề liên quan khác. 
-Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại.
-Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương.
-Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sản xuất kim loại màu và kim loại 
-quý.
-Sản xuất và kinh doanh thương mại ống thép.
-Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh.
-Sản xuất và kinh doanh thương mại sản phẩm điện lạnh.
-Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác 
-khoáng sản loại nhỏ và vừa.
-Sản xuất và kinh doanh Container.
-Chăn nuôi trâu, bò; hoạt động dịch vụ trồng trọt, chăn nuôi và sau thu hoạch.
-Chăn nuôi, cung cấp heo giống, heo thịt.
-Sản xuất, buôn bán thức ăn và nguyên liệu làm thức ăn gia súc, gia cầm và thủy sản.
-Chăn nuôi gia cầm.
-Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu 
-hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-116
-117
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-tv
-Công ty con cấp 3
-STT
-Hoạt động chính
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-Công ty TNHH MTV Bình Vàng
-Công ty CP Khoáng sản Hòa Phát Mitraco
-Công ty CP Năng lượng Hòa Phát
-Công ty CP Hợp kim sắt Hòa Phát Dung Quất
-Công ty CP Ống thép Hòa Phát Dung Quất
-Công ty CP Tôn Hòa Phát Dung Quất
-Hoa Phat Trading International Pte Ltd.
-Công ty CP Cảng Tổng hợp Hòa Phát
-Công ty TNHH Harmonia
-Công ty TNHH MTV Hòa Phát Bình Định
-Công ty TNHH Thương mại Dịch vụ 
-Nhơn Trạch
-Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sản xuất kim loại màu và kim loại quý, 
-khai thác quặng kim loại quý hiếm.
-Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiếm; bán buôn kim loại và quặng kim loại.
-Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm dầu mỏ tinh chế; 
-bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc và than các loại.
-Sản xuất sắt, thép, gang.
-Sản xuất sắt, thép, gang.
-Sản xuất sắt, thép, gang.
-Kinh doanh thương mại sắt, thép, gang.
-Dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy.
-Dịch vụ khách sạn.
-Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại.
-Kho bãi và lưu giữ hàng hóa; bốc xếp hàng hóa.
-1/1/2022
-31/12/2022
-Tỷ lệ lợi ích của Tập đoàn
-99,958%
-98,379%
-99,887%
-99,985%
-99,985%
-99,988%
-99,998%
-99,998%
-99,998%
-99,998%
-99,968%
-99,958%
-98,379%
-99,887%
-99,988%
-99,985%
-99,988%
-99,998%
-99,998%
-99,998%
-99,998%
-99,968%
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-tv
-STT
-Công ty con cấp 2
-Hoạt động chính
-1/1/2022
-31/12/2022
-Tỷ lệ lợi ích của Tập đoàn
-20
-21
-22
-23
-24
-Công ty CP Phát triển Đô thị Hòa Phát 
-Yên Mỹ (v)
-Công ty CP Phát triển Hạ tầng 
-Khu công nghiệp Đồng Phúc (v)
-Công ty CP Phát triển Đô thị Hòa Phát 
-Bắc Giang (v)
-Công ty CP Điện máy Gia dụng Hòa Phát 
-Hà Nam 
-Công ty CP Điện lạnh Hòa Phát Phú Mỹ 
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê, 
-kinh doanh bất động sản.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy, gia dụng.
-Sản xuất tủ đông, tủ mát.
-0%
-0%
-0%
-99,800%
-99,764%
-99,867%
-99,867%
-99,867%
-99,800%
-99,800%
-tv
-STT
-Công ty con cấp 3
-Hoạt động chính
-1/1/2022
-31/12/2022
-Tỷ lệ lợi ích của Tập đoàn
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-Dragon Resource Investment Pty Ltd.
-Công ty TNHH Thép Cán nguội Hòa Phát
-Công ty TNHH MTV Ống thép Hòa Phát 
-Bình Dương
-Công ty TNHH Ống thép Hòa Phát Đà Nẵng 
-Công ty TNHH MTV Ống thép Hòa Phát 
-Long An
-Công ty CP Sản phẩm thép Hòa Phát 
-Long An 
-Công ty TNHH Thép dây Hòa Phát 
-Công ty TNHH Chế tạo Cơ khí Hòa Phát
-Công ty TNHH MTV Thép dự ứng lực 
-Hòa Phát
-Công ty TNHH Phụ kiện Cơ khí Hòa Phát 
-Công ty TNHH Phát triển Hạ tầng KCN 
-Hòa Phát Hưng Yên
-Công ty TNHH Quản lý Khai thác 
-Khu công nghiệp Hòa Mạc
-Công ty CP Golden Gain Việt Nam
-Công ty CP Xây dựng Long Việt 
-Công ty TNHH Thức ăn chăn nuôi Hòa Phát 
-Đồng Nai
-Công ty TNHH Thức ăn chăn nuôi Hòa Phát 
-Phú Thọ
-Công ty TNHH Chăn nuôi Hòa Phát
-Quảng Bình
-Xuất, nhập khẩu, mua bán, phân phối hàng hóa; hoạt động vận tải, đại lý vận tải.
-Sản xuất sản phẩm thép cán nguội.
-Sản xuất và kinh doanh thương mại ống thép.
-Sản xuất và kinh doanh thương mại ống thép.
-Sản xuất và kinh doanh thương mại ống thép.
-Sản xuất và kinh doanh thương mại ống thép.
-Sản xuất, kinh doanh các loại máy xây dựng và khai thác mỏ; sản xuất động cơ, tua bin.
-Sửa chữa và sản xuất các sản phẩm cơ khí; dịch vụ cho thuê máy móc, thiết bị, phương tiện.
-Sản xuất sắt, thép, gang.
-Sản xuất phụ kiện cơ khí.
-Xây dựng công trình dân dụng, công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi 
-thuê, cho thuê nhà xưởng, văn phòng, đầu tư và xây dựng đồng bộ hạ tầng kỹ thuật, kinh doanh nước 
-sạch, thu gom rác thải, khai thác, xử lý và cung cấp nước và nhà hàng.
-Xây dựng công trình dân dụng, công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi 
-thuê, cho thuê nhà xưởng, văn phòng, đầu tư và xây dựng đồng bộ hạ tầng kỹ thuật, kinh doanh nước 
-sạch, thu gom rác thải, khai thác, xử lý và cung cấp nước.
-Kinh doanh bất động sản.
-Xây dựng công trình dân dụng, công nghiệp.
-Sản xuất và chế biến thức ăn gia súc, gia cầm và thủy sản.
-Sản xuất thức ăn chăn nuôi.
-Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt.
-99,969%
-99,960%
-99,960%
-99,938%
-99,960%
-99,950%
-99,910%
-99,864%
-99,910%
-99,910%
-99,746%
-99,746%
-99,736%
-99,547%
-99,999%
-99,999%
-72,647%
-99,971%
-99,969%
-99,969%
-99,946%
-99,969%
-99,959%
-99,910%
-99,864%
-99,910%
-99,910%
-99,936%
-99,936%
-99,926%
-99,736%
-99,999%
-99,999%
-72,659%
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-118
-119
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-95,016%
-99,637%
-99,969%
-0%
-99,899%
-99,899%
-99,899%
-99,899%
-99,974%
-99,974%
-99,974%
-99,974%
-99,972%
-99,999%
-95,016%
-95,197%
-99,826%
-99,971%
-99,826%
-99,916%
-99,916%
-99,916%
-99,916%
-99,974%
-99,974%
-99,974%
-99,974%
-99,972%
-99,999%
-95,197%
-1
-2
-3
-4
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-1
-Công ty CP Đầu tư và Dịch vụ Hà Nội
-Công ty CP Vận tải và Dịch vụ Thương mại 
-Hà Nội 
-Northern Territory Iron Ore Pty Ltd,
-Công ty CP Phát triển Đô thị Mỹ Hào (v)
-Công ty TNHH Chăn nuôi Việt Hùng 
-Công ty TNHH Chăn nuôi Đồng Phát 
-Dragon Trading and Investment Pty Ltd.
-Công ty TNHH MTV Gia cầm
-Hòa Phát Đồng Nai
-Công ty TNHH Chăn nuôi Thái Thụy 
-Công ty TNHH Chăn nuôi Lạc Thủy 
-Công ty TNHH MTV Chăn nuôi Hòa Yên
-Công ty TNHH Chăn nuôi Sơn Động 
-Công ty TNHH Chăn nuôi Hòa Phước
-Công ty TNHH MTV Gia cầm
-Hòa Phát Phú Thọ
-Công ty TNHH Kinh doanh Dịch vụ 
-Bảo vệ Hà Nội
-Hoạt động thể thao, giải trí, tennis, cầu lông, bida, bơi, thể dục thể hình, games, bất động sản.
-Vận tải hàng hóa bằng ô tô, vận tải khách liên tỉnh bằng ô tô, sửa chữa máy móc, thiết bị, dịch vụ lữ 
-hành nội địa, đại lý kinh doanh xăng dầu, dịch vụ đại lý vận tải và dịch vụ trông giữ xe ô tô, văn phòng, 
-kho bãi và bất động sản.
-Thăm dò, khai thác khoáng sản.
-Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
-Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt.
-Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt.
-Xuất, nhập khẩu, mua bán, phân phối gia súc, gia cầm, sản phẩm nông nghiệp khác, quặng, than, 
-sắt thép.
-Chăn nuôi gia cầm, chăn nuôi khác.
-Chăn nuôi lợn, chăn nuôi gia cầm, chăn nuôi khác.
-Chăn nuôi gia cầm, chăn nuôi khác.
-Chăn nuôi lợn, chăn nuôi khác.
-Chăn nuôi lợn, chăn nuôi gia cầm, chăn nuôi khác.
-Chăn nuôi heo giống và heo thịt.
-Chăn nuôi gia cầm, chăn nuôi khác.
-Dịch vụ bảo vệ.
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-tv
-tv
-tv
-Công ty con cấp 4
-Công ty con cấp 3
-Công ty con cấp 5
-STT
-STT
-STT
-Hoạt động chính
-Hoạt động chính
-Hoạt động chính
-1/1/2022
-1/1/2022
-1/1/2022
-31/12/2022
-31/12/2022
-31/12/2022
-Tỷ lệ lợi ích của Tập đoàn
-Tỷ lệ lợi ích của Tập đoàn
-Tỷ lệ lợi ích của Tập đoàn
-(i)	
-Trong năm kết thúc ngày 31 tháng 12 năm 2022, Công ty Cổ phần Tập đoàn Hòa Phát đã góp bổ sung 4.000.000.000.000 VND vào Công ty CP Phát triển Bất động sản 
-	
-Hòa Phát và 617.000.000.000 VND vào Công ty CP Điện máy Gia dụng Hòa Phát. Tại ngày 31 tháng 12 năm 2022, Công ty đã góp đủ vốn vào các công ty con này.
-(ii)	
-Đây là các công ty con cấp 3 tại ngày 31 tháng 12 năm 2021 được điều chuyển nội bộ thành công ty con cấp 2 trong năm kết thúc ngày 31 tháng 12 năm 2022. 
-(iii)	
-Đây là công ty con cấp 2 được điều chuyển nội bộ từ Công ty CP Sản phẩm thép Hòa Phát sang Công ty CP Điện máy Gia dụng Hòa Phát.
-(iv)	
-Đây là công ty con cấp 2 mới mua trong năm.
-(v)	
-Đây là các công ty con mới thành lập trong năm.
-Các công ty con của Tập đoàn đều được thành lập tại Việt Nam, trừ Hoa Phat Trading International Pte Ltd. được thành lập tại Singapore, Dragon Resource Investment Pty Ltd., 
-Dragon Trading and Investment Pty Ltd., và Northern Territory Iron Ore Pty Ltd. được thành lập tại Úc.
-Tại ngày 31 tháng 12 năm 2022, Tập đoàn có 28.535 nhân viên (1/1/2022: 27.651 nhân viên).
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-120
-121
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-2.	
-CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
-2.1	
-Tuyên bố về tuân thủ
-Báo cáo tài chính hợp nhất được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp 
-Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. 
-2.2	
-Cơ sở đo lường
-Báo cáo tài chính hợp nhất, trừ báo cáo lưu chuyển tiền tệ hợp nhất, được lập trên cơ sở dồn tích theo 
-nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ hợp nhất được lập theo phương pháp gián tiếp.
-2.3	
-Kỳ kế toán năm
-Kỳ kế toán năm của Tập đoàn là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
-2.4	
-Đơn vị tiền tệ kế toán
-Đơn vị tiền tệ kế toán của Tập đoàn là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng cho 
-mục đích lập và trình bày báo cáo tài chính hợp nhất này. 
-3.	
-TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU 
-Sau đây là những chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp 
-nhất này.
-3.1	
-Cơ sở hợp nhất
-(a)	
-Công ty con
-Công ty con là các đơn vị chịu sự kiểm soát của Tập đoàn. Báo cáo tài chính của công ty con được hợp 
-nhất trong báo cáo tài chính hợp nhất kể từ ngày kiểm soát bắt đầu có hiệu lực cho tới ngày quyền kiểm 
-soát chấm dứt.
-(b)	
-Lợi ích cổ đông không kiểm soát
-Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong 
-tài sản thuần của đơn vị bị mua lại tại ngày mua.
-Việc thoái vốn của Tập đoàn trong công ty con mà không dẫn đến mất quyền kiểm soát được kế toán 
-tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của Tập đoàn 
-trong tài sản thuần của công ty con và số thu hoặc chi từ việc thoái vốn tại công ty con được ghi nhận vào 
-lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu.
-(c)	
-Mất quyền kiểm soát
-Khi mất quyền kiểm soát tại một công ty con, Tập đoàn dừng ghi nhận tài sản và nợ phải trả của công 
-ty con cũng như lợi ích cổ đông không kiểm soát và các cấu phần vốn chủ sở hữu khác. Lãi hoặc lỗ phát 
-sinh từ sự kiện này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau khi thoái vốn 
-phần lợi ích còn lại trong công ty con trước đó (nếu có) được ghi nhận theo giá trị ghi sổ còn lại của khoản 
-đầu tư trên báo cáo tài chính hợp nhất của công ty mẹ, sau khi được điều chỉnh theo tỷ lệ tương ứng cho 
-những thay đổi trong vốn chủ sở hữu kể từ ngày mua nếu Tập đoàn vẫn còn ảnh hưởng đáng kể trong đơn 
-vị nhận đầu tư, hoặc trình bày theo giá gốc của khoản đầu tư còn lại nếu không còn ảnh hưởng đáng kể.
-(d)	
-Các giao dịch được loại trừ khi hợp nhất
-Các số dư và giao dịch trong nội bộ Tập đoàn và các khoản thu nhập và chi phí chưa thực hiện từ các giao 
-dịch nội bộ được loại trừ khi lập báo cáo tài chính hợp nhất. Khoản lãi và lỗ chưa thực hiện phát sinh từ các 
-giao dịch với công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu được trừ vào khoản đầu 
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-tư trong phạm vi lợi ích của Tập đoàn tại công ty liên kết.
-(e)	
-Hợp nhất kinh doanh
-Hợp nhất kinh doanh được hạch toán theo phương pháp mua tại ngày mua, là ngày mà quyền kiểm soát 
-được chuyển giao cho Tập đoàn. Sự kiểm soát tồn tại khi Tập đoàn có quyền chi phối các chính sách tài 
-chính và hoạt động của đơn vị nhằm thu được lợi ích kinh tế từ các hoạt động của đơn vị đó. Khi đánh giá 
-quyền kiểm soát, Tập đoàn phải xem xét quyền bỏ phiếu tiềm năng có thể thực hiện được tại thời điểm 
-hiện tại.
-Giá phí hợp nhất kinh doanh (giá phí mua) gồm tổng của giá trị hợp lý, tại ngày trao đổi, của các tài sản 
-đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận, các công cụ vốn do bên mua phát 
-hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh 
-doanh. Các chi phí giao dịch, ngoại trừ các chi phí liên quan đến việc phát hành công cụ nợ hoặc chứng 
-khoán vốn của Tập đoàn liên quan đến việc hợp nhất kinh doanh, bao gồm các chi phí liên quan trực tiếp 
-đến việc hợp nhất kinh doanh, như chi phí trả cho tư vấn tài chính, tư vấn pháp lý, thẩm định viên về giá 
-và các nhà tư vấn liên quan đến hợp nhất kinh doanh. Các chi phí giao dịch này được tính vào giá phí hợp 
-nhất kinh doanh. Các chi phí quản lý chung và các chi phí khác không liên quan trực tiếp đến giao dịch 
-hợp nhất kinh doanh cụ thể đang được ghi nhận thì không được tính vào chi phí mua, mà được ghi nhận 
-là chi phí phát sinh trong năm.
-Các tài sản, nợ phải trả có thể xác định được và các khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh 
-doanh được ghi nhận theo giá trị hợp lý tại ngày mua. Nếu việc kế toán ban đầu đối với giao dịch hợp nhất 
-kinh doanh chưa hoàn thành trước thời điểm cuối kỳ kế toán mà giao dịch hợp nhất kinh doanh diễn ra do 
-giá trị hợp lý của tài sản, nợ phải trả có thể xác định được hoặc nợ tiềm tàng của bên bị mua hoặc giá phí 
-hợp nhất kinh doanh chỉ được xác định tạm thời, Tập đoàn sẽ kế toán giao dịch hợp nhất kinh doanh theo 
-các giá trị tạm thời đó. Trong vòng 12 tháng kể từ ngày mua (giai đoạn sử dụng giá trị tạm thời), Tập đoàn 
-sẽ điều chỉnh hồi tố các giá trị tạm thời đã ghi nhận tại ngày mua.
-Bất kỳ khoản lợi thế thương mại nào phát sinh thể hiện khoản chênh lệch giữa giá phí mua và lợi ích của 
-Tập đoàn trong giá trị hợp lý thuần của các tài sản, nợ phải trả và nợ tiềm tàng của đơn vị bị mua được 
-ghi nhận vào bảng cân đối kế toán hợp nhất, sau đó được phân bổ vào kết quả hoạt động kinh doanh hợp 
-nhất (xem Thuyết minh 3.12). Khoản chênh lệch âm (lãi từ giao dịch mua giá rẻ) được ghi nhận vào báo cáo 
-kết quả hoạt động kinh doanh hợp nhất của năm hiện tại sau khi đã tiến hành soát xét lại nhằm đảm bảo 
-việc xác định giá trị của tài sản, nợ phải trả có thể xác định được, nợ tiềm tàng và việc xác định giá phí hợp 
-nhất kinh doanh đã phản ánh phù hợp việc cân nhắc tất cả thông tin có tại ngày mua.
-Mua tài sản
-Tại thời điểm mua, Tập đoàn sẽ xác định liệu việc mua công ty con có phải là giao dịch hợp nhất kinh 
-doanh hay không. Việc mua công ty con không được coi là giao dịch hợp nhất kinh doanh nếu công ty con 
-không có các hoạt động sản xuất kinh doanh gắn liền với tài sản được mua.
-Nếu việc mua lại công ty con không phải là giao dịch hợp nhất kinh doanh, giao dịch đó được hạch toán 
-như là một giao dịch mua một nhóm các tài sản và nợ phải trả. Giá phí mua được phân bổ vào các tài sản 
-và nợ phải trả có thể xác định riêng rẽ trong nhóm tài sản đó dựa trên giá trị hợp lý tương ứng tại ngày 
-mua, và không có lợi thế thương mại được ghi nhận.
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-122
-123
-3.2	
-Ngoại tệ
-(a)	
-Các giao dịch bằng ngoại tệ
-Các giao dịch bằng các đơn vị tiền khác VND trong năm được quy đổi sang VND theo tỷ giá xấp xỉ với tỷ 
-giá thực tế tại ngày giao dịch.
-Các khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND theo 
-tỷ giá mua chuyển khoản (đối với các khoản mục tài sản) và tỷ giá bán chuyển khoản (đối với các khoản 
-mục nợ phải trả) của ngân hàng thương mại nơi Công ty và các công ty con thường xuyên có giao dịch tại 
-ngày kết thúc kỳ kế toán.
-Tất cả các khoản chênh lệch tỷ giá được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
-(b)	
-Hoạt động ở nước ngoài
-Các tài sản và nợ phải trả của các hoạt động ở nước ngoài, bao gồm lợi thế thương mại và các điều chỉnh 
-giá trị hợp lý phát sinh trong quá trình mua, được quy đổi sang VND theo tỷ giá hối đoái tại ngày kết thúc 
-kỳ kế toán năm. Thu nhập và chi phí của các hoạt động ở nước ngoài được quy đổi sang VND theo tỷ giá 
-hối đoái tại ngày giao dịch. 
-Các chênh lệch tỷ giá hối đoái phát sinh do việc quy đổi các hoạt động ở nước ngoài được ghi nhận vào 
-khoản mục “Chênh lệch tỷ giá hối đoái” thuộc nguồn vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất.
-3.3	
-Tiền và các khoản tương đương tiền
-Tiền bao gồm tiền mặt, tiền đang chuyển và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương 
-tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng 
-tiền xác định, không có nhiều rủi ro về thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết 
-chi tiền ngắn hạn hơn là cho mục đích đầu tư hay là các mục đích khác.
-3.4	
-Các khoản đầu tư
-(a)	
-Đầu tư nắm giữ đến ngày đáo hạn
-Đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Giám đốc của Công ty và các công ty con 
-dự định và có khả năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn phản ánh tiền gửi 
-ngân hàng có kỳ hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng cho các khoản 
-phải thu khó đòi.
-(b)	
-Đầu tư góp vốn vào các đơn vị khác
-Đầu tư vào các công cụ vốn chủ sở hữu của các đơn vị khác được ghi nhận ban đầu theo giá gốc bao gồm 
-giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác 
-định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư. 
-Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ dẫn đến Tập đoàn có khả năng 
-mất vốn, trừ khi có bằng chứng rằng giá trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá đầu tư 
-được hoàn nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự 
-phòng trước kia. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của khoản đầu 
-tư không vượt quá giá trị ghi sổ của chúng khi giả định không có khoản dự phòng nào đã được ghi nhận.
-3.5	
-Các khoản phải thu
-Các khoản phải thu khách hàng và các khoản phải thu khác được phản ánh theo giá gốc trừ đi dự phòng 
-phải thu khó đòi.
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Dự phòng phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ sáu tháng 
-trở lên hoặc cho các khoản mà tại ngày kết thúc kỳ kế toán Tập đoàn dự kiến không có khả năng thu hồi. 
-Tăng hoặc giảm số dư tài khoản dự phòng phải thu khó đòi được ghi nhận vào chi phí quản lý doanh 
-nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm.
-3.6	
-Hàng tồn kho 
-Hàng tồn kho được phản ánh theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá 
-gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được 
-hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được ước tính dựa vào giá 
-bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí ước tính để 
-bán sản phẩm.
-Dự phòng cho hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong 
-giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời…) có thể xảy ra đối với hàng tồn kho thuộc quyền sở 
-hữu của Tập đoàn dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc kỳ kế toán. Số tăng 
-hoặc giảm số dư tài khoản dự phòng giảm giá hàng tồn kho được ghi nhận vào giá vốn hàng bán trong 
-báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm.
-Hàng tồn kho được sản xuất và để bán
-Đối với thành phẩm và sản phẩm sản xuất dở dang, giá gốc bao gồm nguyên vật liệu, chi phí nhân công 
-trực tiếp và các chi phí sản xuất chung đã được phân bổ.
-Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
-Bất động sản xây dựng để bán trong tương lai
-Giá gốc được tính theo phương pháp đích danh và bao gồm chi phí đất, chi phí xây dựng cơ sở hạ tầng, 
-các chi phí trực tiếp khác và các chi phí sản xuất chung được phân bổ.
-3.7	
-Tài sản cố định hữu hình
-(a)	
-Nguyên giá
-Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản 
-cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí 
-liên quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến. Các 
-chi phí phát sinh sau khi tài sản cố định hữu hình đã được đưa vào hoạt động như chi phí sửa chữa và bảo 
-dưỡng, ngoại trừ chi phí đại tu và sửa chữa lớn được ghi nhận vào chi phí trả trước dài hạn (Thuyết minh 
-3.11(b)), được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chi phí phát 
-sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi 
-ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt 
-động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá 
-tăng thêm của tài sản cố định hữu hình.
-(b)	
-Khấu hao
-Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố 
-định hữu hình. Thời gian hữu dụng ước tính như sau:
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-124
-125
-•	
-nhà cửa	
-	
-	
-5 – 50 năm
-•	
-máy móc và thiết bị 	
-	
-1 – 25 năm
-•	
-phương tiện vận chuyển 	
-1 – 30 năm
-•	
-dụng cụ văn phòng 	
-	
-2 – 12 năm
-•	
-vật nuôi	
-	
-	
-3 – 5 năm 
-•	
-tài sản cố định khác	
-	
-2 – 12 năm
-3.8	
-Tài sản cố định vô hình
-(a)	
-Quyền sử dụng đất
-Quyền sử dụng đất được thể hiện theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá ban đầu của 
-quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp tới việc có được quyền sử dụng đất. 
-Đối với quyền sử dụng đất với thời hạn xác định, khấu hao được tính theo phương pháp đường thẳng trong 
-vòng từ 10 đến 50 năm. Quyền sử dụng đất vô thời hạn không được khấu hao.
-(b)	
-Phần mềm máy vi tính
-Giá mua phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng 
-có liên quan thì được vốn hóa và hạch toán như tài sản cố định vô hình. Phần mềm máy vi tính được tính 
-khấu hao theo phương pháp đường thẳng trong thời gian từ 3 đến 8 năm.
-3.9	
-Bất động sản đầu tư cho thuê
-(a)	
-Nguyên giá 
-Bất động sản đầu tư cho thuê được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá 
-ban đầu của bất động sản đầu tư cho thuê bao gồm giá mua, chi phí quyền sử dụng đất, chi phí xây dựng 
-và các chi phí liên quan trực tiếp đến việc đưa tài sản đến điều kiện cần thiết để tài sản có thể hoạt động 
-theo cách thức đã dự kiến bởi Ban Giám đốc. Các chi phí phát sinh sau khi bất động sản đầu tư cho thuê 
-đã được đưa vào hoạt động như chi phí sửa chữa và bảo trì được ghi nhận vào báo cáo kết quả hoạt động 
-kinh doanh hợp nhất trong năm mà các chi phí này phát sinh. Trong các trường hợp có thể chứng minh một 
-cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc 
-sử dụng bất động sản đầu tư cho thuê vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, 
-thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của bất động sản đầu tư cho thuê.
-(b)	
-Khấu hao
-Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của bất động 
-sản đầu tư cho thuê. Thời gian hữu dụng ước tính như sau:
-•	
-nhà cửa 	
-	
-	
-3 – 49 năm
-Quyền sử dụng đất vô thời hạn xác định không được khấu hao. 
-3.10	
-Xây dựng cơ bản dở dang 
-Xây dựng cơ bản dở dang phản ánh (i) các khoản chi phí xây dựng hoặc triển khai tài sản cố định hữu hình 
-và tài sản cố định vô hình và (ii) các khoản chi phí liên quan trực tiếp đến việc chăn nuôi lợn giống đang 
-lớn và chưa sẵn sàng tạo ra sản phẩm. Tập đoàn không tính khấu hao cho xây dựng cơ bản dở dang trong 
-quá trình xây dựng, lắp đặt và trong giai đoạn lợn giống chưa sẵn sàng tạo ra sản phẩm. 
-3.11	
-Chi phí trả trước dài hạn
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-(a)	
-Công cụ và dụng cụ
-Công cụ và dụng cụ bao gồm các tài sản Tập đoàn nắm giữ để sử dụng trong quá trình hoạt động kinh 
-doanh bình thường, là những tư liệu lao động không có đủ các tiêu chuẩn về giá trị và thời gian sử dụng 
-quy định đối với tài sản cố định. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp 
-đường thẳng trong thời gian tối đa là 3 năm.
-(b)	
-Chi phí đại tu, sửa chữa lớn
-Chi phí đại tu, sửa chữa lớn tài sản bao gồm các chi phí chính phát sinh định kỳ trong thời gian sử dụng 
-của tài sản. Các chi phí này được ghi nhận ban đầu theo nguyên giá và được phân bổ vào báo cáo kết quả 
-hoạt động kinh doanh hợp nhất trong thời gian từ 2 đến 3 năm.
-(c)	
-Chi phí đất trả trước
-Chi phí đất trả trước bao gồm tiền thuê đất trả trước, kể cả các khoản liên quan đến đất thuê mà Tập đoàn 
-đã nhận được giấy chứng nhận quyền sử dụng đất nhưng không đủ điều kiện ghi nhận tài sản cố định vô 
-hình theo các quy định hiện hành, và các chi phí phát sinh khác liên quan đến việc bảo đảm cho việc sử 
-dụng đất thuê. Các chi phí này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo 
-phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất.
-(d)	
-Chi phí giải phóng mặt bằng
-Chi phí giải phóng mặt bằng phản ánh chi phí bồi thường giải phóng mặt bằng do Tập đoàn chi trả. Các 
-chi phí này được ghi nhận theo giá gốc và phân bổ theo phương pháp đường thẳng dựa trên thời hạn thuê 
-đất.
-(e)	
-Chi phí trước hoạt động
-Chi phí trước hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh, ngoại trừ chi phí 
-thành lập, chi phí đào tạo, quảng cáo phát sinh từ ngày thành lập cho tới ngày bắt đầu hoạt động. Các chi 
-phí này được ghi nhận là chi phí trả trước dài hạn, được phản ánh theo nguyên giá và được phân bổ theo 
-phương pháp đường thẳng trong thời gian tối đa là 3 năm. 
-3.12	
-Lợi thế thương mại
-Lợi thế thương mại phát sinh trong việc mua lại công ty con. Lợi thế thương mại được xác định theo giá 
-gốc trừ đi giá trị hao mòn lũy kế. Giá gốc của lợi thế thương mại là khoản chênh lệch giữa chi phí mua 
-và lợi ích của Tập đoàn trong giá trị hợp lý thuần của các tài sản, nợ phải trả và nợ tiềm tàng của đơn vị 
-bị mua. Khoản chênh lệch âm (lãi từ giao dịch mua giá rẻ) được ghi nhận ngay vào báo cáo kết quả hoạt 
-động kinh doanh hợp nhất. 
-Lợi thế thương mại phát sinh khi mua công ty con được phân bổ theo phương pháp đường thẳng trong 
-vòng 10 năm. Giá trị ghi sổ của lợi thế thương mại phát sinh khi mua công ty con được ghi giảm xuống 
-bằng giá trị có thể thu hồi khi Ban Giám đốc xác định khoản lợi thế thương mại không thể thu hồi toàn bộ.
-3.13	
-Các khoản phải trả người bán và các khoản phải trả khác 
-Các khoản phải trả người bán và các khoản phải trả khác được thể hiện theo giá gốc.
-3.14	
-Dự phòng
-Ngoại trừ những khoản dự phòng được trình bày ở các thuyết minh khác, một khoản dự phòng được ghi 
-nhận nếu, do kết quả của một sự kiện trong quá khứ, Tập đoàn có nghĩa vụ pháp lý hiện tại hoặc liên đới 
-có thể ước tính một cách đáng tin cậy và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để 
-thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu 
-dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phản ánh đánh giá của thị trường 
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-126
-127
-ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
-Chi phí bảo hành
-Khoản dự phòng về chi phí bảo hành liên quan chủ yếu tới hàng hóa đã bán ra và dịch vụ đã cung cấp 
-trong năm. Khoản dự phòng được lập dựa trên ước tính xuất phát từ các dữ liệu thống kê lịch sử về chi phí 
-bảo hành đã phát sinh liên quan tới các sản phẩm và dịch vụ tương tự.
-3.15	
-Vốn cổ phần
-(a)	
-Cổ phiếu phổ thông
-Cổ phiếu phổ thông được ghi nhận theo mệnh giá. Phần giá phát hành vượt trên mệnh giá được ghi vào 
-thặng dư vốn cổ phần. Các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh 
-hưởng thuế, được ghi giảm thặng dư vốn cổ phần.
-	
-3.16	
-Thuế
-Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ hợp nhất của năm bao gồm thuế thu nhập hiện 
-hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt 
-động kinh doanh hợp nhất ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản 
-mục được ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các khoản thuế thu nhập này cũng được ghi nhận 
-thẳng vào vốn chủ sở hữu.
-Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng 
-các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp 
-liên quan đến những năm trước.
-Thuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm thời 
-giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản 
-mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu 
-hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có 
-hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
-Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong 
-tương lai để tài sản thuế thu nhập này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm 
-trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
-3.17	
-Doanh thu và thu nhập khác
-(a)	
-Doanh thu bán hàng
-Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phần lớn rủi 
-ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa được chuyển giao cho người mua. Doanh 
-thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu 
-hồi các khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu bán hàng được ghi nhận 
-theo số thuần sau khi đã trừ đi số chiết khấu giảm giá.
-(b)	
-Doanh thu cung cấp dịch vụ
-Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo tỷ 
-lệ phần trăm hoàn thành của dịch vụ. Tỷ lệ phần trăm hoàn thành công việc được đánh giá dựa trên khảo 
-sát các công việc đã được thực hiện. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc 
-chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-(c)	
-Doanh thu cho thuê lại đất thuê
-Doanh thu cho thuê lại đất thuê được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi 
-thỏa mãn đồng thời các điều kiện sau:
-•	
-Thời gian cho thuê lại lớn hơn 90% thời gian hữu dụng của quyền sử dụng đất;
-•	
-Bên thuê không có quyền hủy bỏ hợp đồng thuê đất và bên cho thuê không có nghĩa vụ hoàn trả 
-	
-số tiền nhận trước trong bất cứ trường hợp nào và dưới bất kỳ hình thức nào;
-•	
-Số tiền thuê đất nhận trước không nhỏ hơn 90% tổng khoản thanh toán tiền thuê ước tính nhận 
-	
-được theo hợp đồng trong thời hạn thuê đất và bên thuê phải trả toàn bộ khoản thanh toán tiền 
-	
-thuê trong vòng 12 tháng kể từ ngày bắt đầu thuê đất;
-•	
-Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu quyền sử dụng đất được chuyển giao cho bên 
-	
-thuê; và
-•	
-Tập đoàn có thể ước tính được một cách đáng tin cậy các chi phí phát sinh liên quan đến hợp 
-	
-đồng thuê đất.
-(d)	
-Doanh thu cho thuê
-Trừ trường hợp được mô tả trong mục 3.17(c) doanh thu cho thuê tài sản được ghi nhận trong báo cáo kết 
-quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. 
-Các khoản hoa hồng cho thuê được ghi nhận như là một bộ phận hợp thành của tổng doanh thu cho thuê.
-(e)	
-Doanh thu bán căn hộ
-Doanh thu bán căn hộ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phần lớn 
-rủi ro và lợi ích gắn liền với quyền sở hữu được chuyển giao cho người mua. Doanh thu không được ghi 
-nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải 
-thu. Việc chuyển giao phần lớn rủi ro và lợi ích được xác định tại thời điểm hoàn thành bàn giao căn hộ.
-(f)	
-Thu nhập từ tiền lãi
-Thu nhập từ tiền lãi được ghi nhận trên cơ sở thời gian, dựa trên số dư gốc và lãi suất áp dụng. Thu nhập 
-từ lãi tiền gửi trong giai đoạn đầu tư xây dựng cơ bản được bù trừ với chi phí đi vay đủ điều kiện vốn hóa, 
-sau khi bù trừ phần chênh lệch còn lại được ghi giảm giá trị đầu tư.
-(g)	
-Thu nhập từ cổ tức
-Thu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. 
-3.18	
-Thuê tài sản
-Các khoản thanh toán tiền thuê
-Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp 
-nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê 
-được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất như là một bộ phận hợp thành của 
-tổng chi phí thuê, trong suốt thời hạn thuê.
-3.19	
-Chi phí đi vay
-Chi phí đi vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí 
-đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì 
-khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
-3.20	
-Lãi trên cổ phiếu
-Tập đoàn trình bày lãi cơ bản trên cổ phiếu cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ phiếu được 
-tính bằng cách lấy lãi hoặc lỗ thuộc về cổ đông phổ thông của Công ty (sau khi đã trừ đi khoản phân bổ 
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-128
-129
-vào quỹ khen thưởng phúc lợi cho kỳ kế toán báo cáo) chia cho số lượng cổ phiếu phổ thông bình quân 
-gia quyền lưu hành trong năm. Trong năm, Công ty không có các cổ phiếu tiềm năng, do vậy yêu cầu trình 
+vào quỹ khen thưởng phúc lợi cho kỳ kế toán báo cáo) chia cho số lượng cổ phiếu phổ thông bình quân
+gia quyền lưu hành trong năm. Trong năm, Công ty không có các cổ phiếu tiềm năng, do vậy yêu cầu trình
 bày lãi suy giảm trên cổ phiếu không áp dụng.
-3.21	
-Các bên liên quan 
-Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm 
-soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, 
+Các bên liên quan
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm
+soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động,
 hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung.
-Các bên liên quan có thể là các cá nhân có quyền trực tiếp hoặc gián tiếp biểu quyết dẫn đến có ảnh 
-hưởng đáng kể đối với Tập đoàn, các nhân viên quản lý chủ chốt của Tập đoàn, các thành viên gia đình 
+Các bên liên quan có thể là các cá nhân có quyền trực tiếp hoặc gián tiếp biểu quyết dẫn đến có ảnh
+hưởng đáng kể đối với Tập đoàn, các nhân viên quản lý chủ chốt của Tập đoàn, các thành viên gia đình
 thân cận của các cá nhân được coi là liên quan của Tập đoàn.
-3.22	
 Thông tin so sánh
-Thông tin so sánh trong báo cáo tài chính này được trình bày dưới dạng dữ liệu tương ứng. Theo phương 
-pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của báo 
-cáo tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của năm 
-hiện tại. Theo đó, thông tin so sánh trong báo cáo tài chính này không nhằm mục đích trình bày về tình 
+Thông tin so sánh trong báo cáo tài chính này được trình bày dưới dạng dữ liệu tương ứng. Theo phương
+pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của báo
+cáo tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của năm
+hiện tại. Theo đó, thông tin so sánh trong báo cáo tài chính này không nhằm mục đích trình bày về tình
 hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ hợp nhất của Tập đoàn trong năm trước.
-4.	
 BÁO CÁO BỘ PHẬN
-4.1	
 Bộ phận chia theo hoạt động kinh doanh
-Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản 
-phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc 
-dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro 
-và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận chính yếu của Tập đoàn là dựa 
-theo bộ phận chia theo hoạt động kinh doanh. Tập đoàn có các bộ phận chia theo hoạt động kinh doanh 
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản
+phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc
+dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro
+và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận chính yếu của Tập đoàn là dựa
+theo bộ phận chia theo hoạt động kinh doanh. Tập đoàn có các bộ phận chia theo hoạt động kinh doanh
 chính như sau:
-•	
-Sản xuất và kinh doanh thép: luyện gang thép, đúc gang, sắt, thép, buôn bán và xuất nhập khẩu 
-	
-thép, vật tư thiết bị luyện, cán thép, sản xuất thép công nghiệp, bao gồm thép tấm, thép cuộn 
-	
-cán nóng, thép cuộn cán nguội, thép ống hàn, phế liệu và phôi thép, sản xuất và kinh doanh 
-	
+Sản xuất và kinh doanh thép: luyện gang thép, đúc gang, sắt, thép, buôn bán và xuất nhập khẩu
+thép, vật tư thiết bị luyện, cán thép, sản xuất thép công nghiệp, bao gồm thép tấm, thép cuộn
+cán nóng, thép cuộn cán nguội, thép ống hàn, phế liệu và phôi thép, sản xuất và kinh doanh
 thương mại ống thép, sản xuất máy rút thép sợi;
-•	
-Nông nghiệp: chăn nuôi lợn, bò, gia cầm; hoạt động dịch vụ chăn nuôi; chế biến, bảo quản thịt 
-	
-và các sản phẩm từ thịt; sản xuất thức ăn gia súc, gia cầm và thủy sản; sản xuất phân bón và hợp 
-	
-chất ni tơ; bán buôn máy móc, thiết bị và phụ tùng nông nghiệp; các ngành phụ trợ liên quan 
-	
+Nông nghiệp: chăn nuôi lợn, bò, gia cầm; hoạt động dịch vụ chăn nuôi; chế biến, bảo quản thịt
+và các sản phẩm từ thịt; sản xuất thức ăn gia súc, gia cầm và thủy sản; sản xuất phân bón và hợp
+chất ni tơ; bán buôn máy móc, thiết bị và phụ tùng nông nghiệp; các ngành phụ trợ liên quan
 khác; và
-•	
-Bất động sản: xây dựng dân dụng, xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền 
-	
+Bất động sản: xây dựng dân dụng, xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền
 sở hữu hoặc đi thuê, cho thuê nhà, văn phòng, đầu tư và xây đồng bộ hạ tầng kỹ thuật.
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Sản xuất và 
+Sản xuất và
 kinh doanh thép
-VND
-6.757.321.041.790
-593.568.970
-6.757.914.610.760
-60.112.060.947
-5.435.913.098
-(2.803.299.749)
-(1.072.667.584)
-(35.805.597.826)
-(3.415.404.852)
-22.451.004.034
-5.494.788.455.690
-2.056.900.663.753
-396.376.468.893
-591.513.520.660
-477.790.624
-- 
-134.011.067.013.727
-22.585.997.542.311
-156.597.064.556.038
-13.063.886.618.755
-865.767.378.550
-(746.476.011.293)
-3.105.560
-(856.187.502.888)
-(59.128.768.252)
-12.267.864.820.432
-164.480.959.635.592
-78.026.736.749.444
-17.460.454.673.944
-6.092.405.371.501
-27.376.539.849
-55.008.790.769
 Doanh thu thuần ra bên ngoài
 Doanh thu thuần giữa các bộ phận
 Tổng doanh thu của bộ phận
@@ -2249,123 +126,32 @@ Lợi nhuận thuần sau thuế
 Tài sản của bộ phận
 Nợ phải trả của bộ phận
 Chi tiêu vốn
-Khấu hao tài sản cố định hữu hình và 
+Khấu hao tài sản cố định hữu hình và
 bất động sản đầu tư
 Khấu hao tài sản cố định vô hình
 Phân bổ chi phí đất trả trước dài hạn
- 
 Bất động sản
-VND
--
-(22.632.135.727.343)
-(22.632.135.727.343)
-(3.764.585.297.932)
-(74.343.942)
-6.757.272.463
-(3.105.560)
--
-(386.492.909.442)
-(4.144.398.384.413)
-(7.885.416.110.161)
-(7.665.749.341.609)
-(12.156.261.861)
-(30.860.349.213)
-1.324.303.438
-(1.543.960.392)
- Nông nghiệp
-VND
-640.886.405.115
-45.544.616.062
-686.431.021.177
-435.689.913.123
-895.777.220
-(592.186.372)
--
-(109.027.139.372)
-(28.454.750.136)
-298.511.614.463
-8.245.189.656.011
-1.804.693.949.761
-42.829.766.060
-59.771.149.460
-36.653.226
-- 
+Nông nghiệp
 Loại trừ
-VND
-141.409.274.460.632
--
-141.409.274.460.632
-9.795.103.294.893
-872.024.724.926
-(743.114.224.951)
-(1.072.667.584)
-(1.001.020.240.086)
-(477.491.832.682)
-8.444.429.054.516
-170.335.521.637.132
-74.222.582.021.349
-17.887.504.647.036
-6.712.829.692.408
-29.215.287.137
-53.464.830.377
- 
 Hợp nhất
-VND
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
 THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-tv
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-130
-131
-Sản xuất và 
+Sản xuất và
 kinh doanh thép
-VND
-7.965.299.897.301
-1.123.181.111
-7.966.423.078.412
-785.581.688.132
- 4.029.020.878 
- (32.867.382.715)
- 4.465.302.865 
- (50.291.071.876)
- 7.497.797.454 
-718.415.354.738
-6.739.950.813.015
-2.716.416.880.066
-564.376.985.019
-566.063.167.113
-644.333.131
-7.538.249.435
- 140.074.742.351.975 
- 27.746.186.109.678 
-167.820.928.461.653
-44.976.166.806.986
- 791.808.510.874 
- (714.474.346.318)
- (3.105.560)
- (2.679.933.606.708)
- 42.861.929.677 
-42.416.426.188.951
-182.140.501.672.091
-95.945.837.928.553
-11.027.958.527.854 
-5.494.898.151.540
-14.939.190.675
-23.262.371.403
 Doanh thu thuần ra bên ngoài
 Doanh thu thuần giữa các bộ phận
 Tổng doanh thu của bộ phận
-Lợi nhuận thuần từ hoạt động 
+Lợi nhuận thuần từ hoạt động
 kinh doanh của bộ phận
 Thu nhập khác
 Chi phí khác
@@ -2379,201 +165,70 @@ Chi tiêu vốn
 Khấu hao tài sản cố định hữu hình và bất động sản đầu tư
 Khấu hao tài sản cố định vô hình
 Phân bổ chi phí đất trả trước dài hạn
- 
 Bất động sản
-VND
--
-(27.784.523.101.379)
-(27.784.523.101.379)
-(9.386.154.043.217)
- (28.469.000)
-- 
- 3.105.560 
-- 
- 264.251.603.800 
-(9.121.927.802.857)
-(15.741.965.033.367)
-(13.793.117.334.946)
-(6.341.848.269)
-(75.094.111.183)
-(512.913.690)
-(15.881.111.559)
- Nông nghiệp
-VND
-1.639.747.730.069
-37.213.810.590
-1.676.961.540.659
-628.383.691.499
- 857.043.173 
- (990.108.967)
- -
- (125.081.668.583)
- 4.872.233.344 
-508.041.190.466
-5.097.934.906.510
-2.586.659.373.137
-35.476.427.767 
-66.262.923.958
-81.222.371
--
+Nông nghiệp
 Loại trừ
-VND
-149.679.789.979.345
--
-149.679.789.979.345
-37.003.978.143.400
- 796.666.105.925 
- (748.331.838.000)
- 4.465.302.865 
- (2.855.306.347.167)
- 319.483.564.275 
-34.520.954.931.298
-178.236.422.358.249
-87.455.796.846.810
-11.621.470.092.371 
-6.052.130.131.428
-15.151.832.487
-14.919.509.279
- 
 Hợp nhất
-VND
-CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021	
+CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
 TẠI NGÀY 1 THÁNG 1 NĂM 2022
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
 THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-tv
-tv
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022
 CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 Tổng doanh thu của bộ phận
 Tổng doanh thu của bộ phận
 Đô la Mỹ (“USD”)
-Đồng Euro (“EUR”)
 Đô la Úc (“AUD”)
 Nhân dân tệ (“CNY”)
 Đô la Singapore (“SGD”)
-31.547.065.123.552
-48.952.057.881.939
-Ngoài Việt Nam 
-VND
-109.862.209.337.080
-100.727.732.097.406
-Việt Nam 
-VND
-90.449.660
-2.136
-1.862.137
-945
-5.674 
-30.460.731
-840.482
- 8.163 
- 945 
- 4.380 
-141.409.274.460.632
-149.679.789.979.345
-Hợp nhất 
-VND
-2.047.780.302.400
-54.235.176
-30.270.899.072
-3.343.523
-94.113.276
-2.078.202.893.447
-715.764.020.461
-19.955.619.269
-146.871.923
-3.146.850
-75.361.682
-735.945.020.185
-31/12/2022
+Ngoài Việt Nam
+Việt Nam
+Hợp nhất
 Nguyên tệ
 Nguyên tệ
-1/1/2022
 Tương đương
-VND
 Tương đương
-VND
-4.2	
 Bộ phận chia theo vùng địa lý
-Bộ phận theo vùng địa lý được căn cứ vào khu vực phát sinh doanh thu. Theo đó, Ban giám đốc xác định 
+Bộ phận theo vùng địa lý được căn cứ vào khu vực phát sinh doanh thu. Theo đó, Ban giám đốc xác định
 bộ phận bao gồm Việt Nam và ngoài lãnh thổ Việt Nam.
-tv
-tv
-5.	
 TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
 5.1   Tiền và các khoản tương đương tiền bằng ngoại tệ
 Tiền mặt
 Tiền gửi ngân hàng
 Tiền đang chuyển
 Các khoản tương đương tiền
-16.256.228.796
-3.218.311.462.148
-223.482.042.160
-4.866.539.187.123
-8.324.588.920.227
- 18.025.793.073 
- 6.298.237.554.627 
- 36.318.810 
-16.155.075.895.620 
-22.471.375.562.130
-31/12/2022
-VND
-1/1/2022
-VND
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-132
-133
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁTTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-6. 	
-ĐẦU TƯ NẮM GIỮ ĐẾN NGÀY ĐÁO HẠN
-Giá gốc
-VND
-Giá gốc
-VND
-31/12/2022
-Giá hợp lý
-VND
-Giá hợp lý
-VND
-1/1/2022
-Tiền gửi có kỳ hạn
-18.236.152.616.078
-18.236.152.616.078
-26.268.246.676.354
-26.268.246.676.354
-Đây là các khoản tiền gửi có kỳ hạn còn lại không quá 12 tháng tại các ngân hàng, hưởng lãi suất từ 2,95% đến 11,60 %/năm (1/1/2022: từ 2,30% đến 7,80%/năm).
-	
-Tiền gửi có kỳ hạn gốc trên 3 tháng và có kỳ hạn còn lại không quá 12 tháng tại ngày 31 tháng 12 năm 2022 bao gồm 5,7 tỷ VND được dùng để làm tài sản đảm bảo tại các 
-ngân hàng cho việc sử dụng hạn mức tín dụng của Tập đoàn (1/1/2022: 7.935 tỷ VND).
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁTTHUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-7.	
+ĐẦU TƯ NẮM GIỮ ĐẾN NGÀY ĐÁO HẠN
+Giá gốc
+Giá gốc
+Giá hợp lý
+Giá hợp lý
+Tiền gửi có kỳ hạn
+Đây là các khoản tiền gửi có kỳ hạn còn lại không quá 12 tháng tại các ngân hàng, hưởng lãi suất từ 2,95% đến 11,60 %/năm (1/1/2022: từ 2,30% đến 7,80%/năm).
+Tiền gửi có kỳ hạn gốc trên 3 tháng và có kỳ hạn còn lại không quá 12 tháng tại ngày 31 tháng 12 năm 2022 bao gồm 5,7 tỷ VND được dùng để làm tài sản đảm bảo tại các
+ngân hàng cho việc sử dụng hạn mức tín dụng của Tập đoàn (1/1/2022: 7.935 tỷ VND).
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22/12/2014 của Bộ Tài chính)
 TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
-8.	
 PHẢI THU KHÁC
-8.1	
 Phải thu ngắn hạn khác
-8.2	
 Phải thu dài hạn khác
 Primetals Technologies Japan, Ltd.
 WISDRI Engineering & Research Incorporation Limited
@@ -2589,117 +244,20 @@ Vật tư mang đi gia công
 Phải thu khác
 Ký cược, ký quỹ
 Phải thu khác
- 835.873.879.418
- 1.471.610.192.280 
--
--
-3.058.769.997.041
-5.366.254.068.739
-641.212.190.371
-335.273.941.954
-143.419.634.515
- 174.227.326.070 
- 77.173.983 
- 5.677.208 
-188.762.304.930
-1.482.978.249.031
-792.790.894.665
--
-792.790.894.665
--
-2.514.146.400
- 109.182.908.120 
- 119.503.943.780 
-1.491.170.824.978
-1.722.371.823.278
- 339.306.417.657 
--
- 394.586.677.130 
- 168.319.816.181 
- 6.057.510.914 
- 3.303.243.506 
- 70.225.401.440 
-981.799.066.828
- 690.130.186.939 
- 703.391.750 
-690.833.578.689
-31/12/2022
-VND
-31/12/2022
-VND
-31/12/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-(*) 	
-Đây là khoản tiền hỗ trợ bồi thường cho người dân liên quan tới việc thu hồi đất để thực hiện các dự án Khu đô 
-	
-thị và Khu công nghiệp theo các phương án đã được phê duyệt bởi Ủy ban Nhân dân các huyện có đất được 
-	
+Đây là khoản tiền hỗ trợ bồi thường cho người dân liên quan tới việc thu hồi đất để thực hiện các dự án Khu đô
+thị và Khu công nghiệp theo các phương án đã được phê duyệt bởi Ủy ban Nhân dân các huyện có đất được
 thu hồi trên địa bàn tỉnh Hưng Yên.
-tv
-tv
-tv
-tv
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-134
-135
-tv
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-9.	
 HÀNG TỒN KHO
 Dự phòng
-VND
 Dự phòng
-VND
-1/1/2022
 Giá gốc
-VND
 Giá gốc
-VND
-31/12/2022
-1.346.127.360.014
-16.409.046.019.836
-2.008.076.820.620
-3.371.506.019.747
-10.205.803.163.816
-1.864.233.223.065
-522.485.132.198
-35.727.277.739.296
-6.128.452.680.205
-19.939.178.885.669
-1.849.900.700.667
-3.043.096.589.398
-10.037.870.269.495
-1.127.956.910.057
-243.556.370.053
-42.370.012.405.544
-(12.439.054.970)
-(368.537.012.356)
-(3.995.499.637)
-(53.641.052.029)
-(779.983.411.482)
- (16.211.243.554)
- (1.359.369.145)
-(1.236.166.643.173)
- (416.901.609)
-(121.536.162.441)
- (4.818.123.110)
- (57.194.686.036)
- (49.715.666.081)
- (1.836.934.057)
--
-(235.518.473.334)
 Hàng mua đang đi trên đường
 Nguyên vật liệu
 Công cụ và dụng cụ
@@ -2707,955 +265,37 @@ Chi phí sản xuất kinh doanh dở dang
 Thành phẩm
 Hàng hóa
 Hàng gửi đi bán
-Trong hàng tồn kho tại ngày 31 tháng 12 năm 2022 có 19.244 tỷ VND hàng tồn kho (1/1/2022: 2.756 tỷ VND) 
+Trong hàng tồn kho tại ngày 31 tháng 12 năm 2022 có 19.244 tỷ VND hàng tồn kho (1/1/2022: 2.756 tỷ VND)
 được ghi nhận theo giá trị thuần có thể thực hiện được.
-Tại ngày 31 tháng 12 năm 2022, hàng tồn kho có giá trị ghi sổ là 15.603 tỷ VND (1/1/2022: 15.947 tỷ VND) 
+Tại ngày 31 tháng 12 năm 2022, hàng tồn kho có giá trị ghi sổ là 15.603 tỷ VND (1/1/2022: 15.947 tỷ VND)
 được thế chấp tại các ngân hàng để đảm bảo cho các khoản vay của Tập đoàn.
-tv
 Phải thu về cho vay ngắn hạn
 Phạm Minh Tân (*)
 Nguyễn Thị Tố Hoài (**)
 Ngô Xuân Cường (**)
 Nguyễn Tiên Phong
 Autralian Cattle Enterprises (NT) Pty. Ltd.
-Phải thu về cho vay dài hạn 
+Phải thu về cho vay dài hạn
 Nguyễn Thị Tố Hoài (**)
 Australian Cattle Enterprises (NT) Pty. Ltd.
 Công ty TNHH Minh Hoa – Nguyên Hòa
-114.700.000.000
-8.000.000.000
-1.500.000.000
--
--
-124.200.000.000
-101.693.561.714
--
--
-101.693.561.714
-VND
-VND
-VND
-VND
-AUD
-VND
-AUD
-VND
- -
- -
- 3.000.000.000 
- 5.000.000.000 
-15.521.740.500
-23.521.740.500
- 112.804.791.280 
-5.034.078.000
-562.500.000
-118.401.369.280
-6%
-5,5%
-6%
-6%
-6%
-5,5%
-6%
-5,5%
-31/12/2022
-VND
 Loại tiền
-1/1/2022
-VND
 Lãi suất năm
-(*) 	
-Đây là khoản cho vay một đối tác cá nhân. Các khoản cho vay này sẽ đáo hạn trong năm 2023, 
-	
+Đây là khoản cho vay một đối tác cá nhân. Các khoản cho vay này sẽ đáo hạn trong năm 2023,
 được hưởng lãi suất 6%/năm và có tài sản đảm bảo.
-(**) 	
-Các khoản cho vay này phản ánh khoản cho cá nhân vay nhằm mục đích xây dựng và đầu tư các 
-	
-hạng mục chuồng trại, cơ sở hạ tầng và cơ sở vật chất mà sau đó Tập đoàn sẽ thuê lại. Theo các 
-	
-điều khoản của hợp đồng cho vay và hợp đồng thuê tài sản, gốc và lãi vay của các khoản cho vay 
-	
+Các khoản cho vay này phản ánh khoản cho cá nhân vay nhằm mục đích xây dựng và đầu tư các
+hạng mục chuồng trại, cơ sở hạ tầng và cơ sở vật chất mà sau đó Tập đoàn sẽ thuê lại. Theo các
+điều khoản của hợp đồng cho vay và hợp đồng thuê tài sản, gốc và lãi vay của các khoản cho vay
 này sẽ được cấn trừ với tiền thuê trang trại trong suốt thời gian thuê.
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-10.	
 PHẢI THU VỀ CHO VAY DÀI HẠN
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-136
-137
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Nhà cửa
-VND
-Máy móc và thiết bị
-VND
-Phương tiện vận chuyển
-VND
-Nguyên giá
-Số dư đầu năm
-Tăng trong năm
-Chuyển từ xây dựng cơ bản dở dang
-Mua công ty con
-Chuyển sang bất động sản đầu tư
-Thanh lý và xóa sổ 
-Phân loại lại
-Biến động khác
-Số dư cuối năm
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-Khấu hao trong năm
-Mua công ty con
-Chuyển sang bất động sản đầu tư
-Thanh lý và xóa sổ
-Phân loại lại
-Biến động khác
-Số dư cuối năm
-Giá trị còn lại
-Số dư đầu năm
-Số dư cuối năm
-54.746.423.943.951
- 654.324.642.688 
- 5.515.985.877.510 
--
- -
- (61.043.238.457)
- 4.110.130.708 
- 50.913.358.540 
-60.910.714.714.940
-16.399.432.528.037
- 4.466.132.528.763 
--
--
- (50.041.791.406)
- 3.437.248.049 
- 18.569.272.706 
- 20.837.529.786.149 
- 
-38.346.991.415.914
- 40.073.184.928.791
-32.284.724.791.769
-10.987.122.534
- 1.366.743.103.885 
-288.673.818.187
- (160.585.796.644)
--
- 241.200.000 
- 364.704.545 
-33.791.148.944.276
- 
-4.694.633.383.095 
- 1.693.193.672.615 
-11.413.818.187
- (46.949.310.565)
- -
- 23.990.323 
-218.822.727
- 6.352.534.376.382 
-27.590.091.408.674
- 27.438.614.567.894 
-3.661.855.610.408
- 202.176.063.068 
- 28.140.372.056 
--
--
- (29.286.098.585)
- (4.096.652.713)
- 1.055.471.520 
-3.859.844.765.754
-936.551.540.284
- 445.518.832.081 
--
--
- (28.194.244.908)
- (3.168.078.119)
- (98.479.474)
- 1.350.609.569.864 
- 
- 2.725.304.070.124
- 2.509.235.195.890 
-11.	
-TÀI SẢN CỐ ĐỊNH HỮU HÌNH
-Trong tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2022 có các tài sản với nguyên giá 8.834 tỷ VND 
-đã khấu hao hết nhưng vẫn đang được sử dụng (1/1/2022: 4.862 tỷ VND).
-Tại ngày 31 tháng 12 năm 2022, tài sản cố định hữu hình có giá trị còn lại là 46.291 tỷ VND (1/1/2022: 47.698 
-tỷ VND) được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Tập đoàn.
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-Tài sản cố định khác
-VND
-Dụng cụ văn phòng
-VND
-Tổng cộng
-VND
-Vật nuôi
-VND
-189.248.798.911
- 65.880.829.072 
- 136.088.572 
--
--
- (335.687.680)
- (254.677.995)
- (1.018.509.461)
-253.656.841.419
-115.698.518.296
- 43.676.803.220 
--
--
- (335.687.680)
- (293.160.253)
- (3.852.399.625)
- 154.894.073.958 
- 73.550.280.615 
- 98.762.767.461 
-7.716.326.497
- 138.532.726 
--
--
--
--
--
--
-7.854.859.223
-3.984.892.419
- 1.102.522.914 
--
--
--
--
--
- 5.087.415.333 
- 
-3.731.434.078 
- 2.767.443.890 
-136.136.537.141
- 3.056.000.000 
- 99.284.242.822 
--
--
- (85.327.771.731)
--
--
-153.149.008.232
-131.679.207.437
- 30.208.794.916 
--
--
- (85.327.771.731)
--
--
- 76.560.230.622 
- 
-4.457.329.704 
- 76.588.777.610 
-91.026.106.008.677
-936.563.190.088
- 7.010.289.684.845 
-288.673.818.187
- (160.585.796.644)
- (175.992.796.453)
- -
- 51.315.025.144 
-98.976.369.133.844
-22.281.980.069.568
- 6.679.833.154.509 
-11.413.818.187
- (46.949.310.565)
- (163.899.495.725)
- -
-14.837.216.334
- 28.777.215.452.308 
- 
-68.744.125.939.109 
- 70.199.153.681.536 
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-138
-139
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-12.	
-TÀI SẢN CỐ ĐỊNH VÔ HÌNH 
-Phần mềm 
-máy vi tính
-VND
-Tổng cộng
-VND
-Quyền 
-sử dụng đất
-VND
-Tài sản khác
-VND
-182.748.460.798
-39.421.336.733
-24.512.999.900
--
--
-246.682.797.431
-24.445.778.365
-4.170.762.321
--
-28.616.540.686
-158.302.682.433 
-218.066.256.745
-349.941.539.189
-6.481.120.000
--
--
-(11.829.316.370)
-344.593.342.819
-3.914.604.839
-170.079.924
--
-4.084.684.763
- 346.026.934.350 
-340.508.658.056
-85.631.659.415
-4.800.652.000
-62.874.626.308
-(45.000.000)
--
-153.261.937.723
-53.245.431.303
-24.874.444.892
-(45.000.000)
-78.074.876.195
- 32.386.228.112 
-75.187.061.528
-618.321.659.402
-50.703.108.733
-87.387.626.208
-(45.000.000)
-(11.829.316.370)
-744.538.077.973
-81.605.814.507
-29.215.287.137
-(45.000.000)
-110.776.101.644
- 536.715.844.895 
-633.761.976.329
-Nguyên giá
-Số dư đầu năm
-Tăng trong năm
-Chuyển từ xây dựng cơ bản 
-dở dang
-Xóa sổ
-Giảm khác
-Số dư cuối năm
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-Khấu hao trong năm
-Thanh lý, xóa sổ
-Số dư cuối năm
-Giá trị còn lại
-Số dư đầu năm
-Số dư cuối năm
-Trong tài sản cố định vô hình có các tài sản với nguyên giá 39 tỷ VND đã được khấu hao hết tại ngày 31 
-tháng 12 năm 2022 (1/1/2022: 34 tỷ VND), nhưng vẫn đang được sử dụng.
-Tại ngày 31 tháng 12 năm 2022, tài sản cố định vô hình có giá trị còn lại là 47 tỷ VND (1/1/2022: 48 tỷ VND) 
-được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Tập đoàn. 
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-13.	
-BẤT ĐỘNG SẢN ĐẦU TƯ 
-Bất động sản đầu tư cho thuê
-Nhà cửa
-VND
-Tổng cộng
-VND
-Quyền 
-sử dụng đất 
-VND
-55.702.700.965
--
--
-55.702.700.965
--
--
--
--
-55.702.700.965
- 55.702.700.965 
-643.117.444.349
- 261.073.657 
- 160.585.796.644 
-803.964.314.650
-150.609.390.191
-32.996.537.899
-46.949.310.565
-230.555.238.655
- 492.508.054.158 
- 573.409.075.995 
-698.820.145.314
- 261.073.657 
- 160.585.796.644 
-859.667.015.615
-150.609.390.191
-32.996.537.899
-46.949.310.565
-230.555.238.655
- 548.210.755.123 
- 629.111.776.960 
-Nguyên giá
-Số dư đầu năm
-Tăng trong năm
-Chuyển từ tài sản cố định hữu hình
-Số dư cuối năm
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-Khấu hao trong năm
-Chuyển từ tài sản cố định hữu hình
-Số dư cuối năm
-Giá trị còn lại
-Số dư đầu năm
-Số dư cuối năm
-Bất động sản đầu tư của Tập đoàn và các công ty con bao gồm:
-•	
-Quyền sử dụng đất và nhà xưởng cho thuê tại Khu Công nghiệp Phố Nối A, Xã Giai Phạm, Huyện Yên Mỹ, 
-	
-Tỉnh Hưng Yên, Việt Nam; Khu Công nghiệp Hòa Mạc, Thị trấn Hòa Mạc, Huyện Duy Tiên, Tỉnh Hà Nam.
-•	
-Quyền sử dụng đất và diện tích cho thuê thương mại bao gồm tầng hầm thuộc Dự án Khu phức hợp 
-	
-Mandarin Garden 1 tại Khu đô thị Đông Nam Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội;
-	
-Dự án Khu phức hợp Mandarin Garden 2 tại 493 Trương Định, Quận Hoàng Mai, Hà Nội, Việt Nam và khu 
-	
-Chung cư tại 70 Nguyễn Đức Cảnh, Quận Hoàng Mai, Hà Nội, Việt Nam và văn phòng cho thuê tại 257 Giải 
-	
-Phóng, Quận Hai Bà Trưng, Hà Nội.
-Tại ngày 31 tháng 12 năm 2022, bất động sản đầu tư của Tập đoàn có giá trị 7,6 tỷ VND (1/1/2022: 10,2 tỷ VND) 
-được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của một Công ty con.
-Bất động sản đầu tư là quyền sử dụng đất có thời hạn không xác định nên Tập đoàn không thực hiện trích khấu 
-hao.
-Tại ngày báo cáo, Tập đoàn không xác định giá trị hợp lý của bất động sản đầu tư do không có thị trường hoạt 
-động để xác định giá trị hợp lý cho các loại bất động sản đầu tư này một cách đáng tin cậy.
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-140
-141
-14.	
-XÂY DỰNG CƠ BẢN DỞ DANG
-Số dư đầu năm
-Tăng trong năm
-Lãi vay vốn hóa trong năm
-Chuyển sang tài sản cố định hữu hình 
-Chuyển sang tài sản cố định vô hình
-Chuyển sang bất động sản đầu tư
-Chuyển sang chi phí trả trước dài hạn
-Chuyển sang chi phí trả trước ngắn hạn
-Thanh lý công ty con
-Biến động khác
-Số dư cuối năm
-Dự án Khu liên hợp Gang thép tại Dung Quất
-Dự án Khu liên hợp Gang thép tại Hải Dương 
-Dự án Nhà máy Container
-Dự án Nông nghiệp
-Dự án Điện máy Gia dụng
-Dự án Nhà máy Thép rút dây
-Dự án mở rộng Nhà máy Ống thép
-Các dự án khác
-8.289.285.350.608
-12.147.703.322.549
-167.022.195.814
- (7.010.289.684.845)
- (87.387.626.208)
--
- (133.400.191.290)
- (39.572.853.695)
--
-960.411.210
-13.334.320.924.143
-  9.430.353.764.134 
- 598.816.769.508 
- 1.563.980.305.010 
- 324.820.870.360 
- 616.644.675.694 
- 337.419.541.564 
-71.381.509.664
- 390.903.488.209 
-13.334.320.924.143 
- 5.328.742.775.048 
- 12.251.686.124.554 
- 46.425.435.938 
- (9.118.590.721.168)
- (3.715.200.000)
- (16.888.300.558)
- (146.789.239.046)
- (49.928.909.135)
- (27.841.423.494)
- 26.184.808.469 
-8.289.285.350.608
- 7.202.433.561.139 
- 371.576.201.031 
--
-257.309.221.899
- 11.324.331.405 
- 4.906.808.197 
-187.646.206.964
-254.089.019.973
-8.289.285.350.608
-2022
-VND
-31/12/2022
-VND
-2021
-VND
-1/1/2022
-VND
-Các công trình xây dựng cơ bản dở dang lớn như sau:
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-15.	
-CHI PHÍ TRẢ TRƯỚC 
-15.1	
-Chi phí trả trước ngắn hạn
-15.2	
-Chi phí trả trước dài hạn
-31/12/2022
-VND
-1/1/2022
-VND
-Công cụ và dụng cụ
-Chi phí bảo dưỡng, sửa chữa tài sản 
-Chi phí khác
- 59.481.774.221 
- 91.168.730.259 
- 169.426.966.077 
-320.077.470.557
-57.049.396.049 
- 40.021.578.255 
- 199.626.374.046 
-296.697.348.350
-Công cụ 
-và dụng cụ
-VND
-166.355.835.146
- 142.862.484.097 
- 8.500.705.889 
- (135.762.599.421)
- (698.464.516)
- 4.403.323.606 
- 59.923.274 
-185.721.208.075
-Số dư đầu năm
-Tăng trong năm
-Chuyển từ xây dựng cơ bản dở dang
-Phân bổ trong năm
-Thanh lý
-Phân loại lại
-Biến động khác
-Số dư cuối năm
-Chi phí giải 
-phóng mặt bằng
-VND
-322.302.941.827
- 86.571.890 
- - 
- (13.895.402.301)
--
--
--
-308.494.111.416
-Chi phí đại tu,
-sửa chữa lớn
-VND
-867.387.279.680
- 64.219.946.761 
- 94.348.923.525 
-(154.629.128.330)
- -
-(319.185.537.832)
- (18.436.840.715)
-533.704.643.089
-Chi phí 
-trước hoạt động
-VND
-53.708.395.069
- 2.628.345.609 
- 41.839.026 
- (30.823.299.563)
--
- (5.730.610.402)
- -
-19.824.669.739
-Chi phí đất 
-trả trước
-VND
-1.646.342.339.253
- 818.527.638.942 
- 3.880.350 
- (53.464.830.377)
--
- 319.631.361.958 
- -
-2.731.040.390.126
-Chi phí 
-trả trước khác
-VND
-Tổng cộng
-VND
-115.285.397.231
- 71.262.173.848 
- 30.504.842.500 
- (64.568.958.063)
--
- 881.462.670 
- (2.905.984.228)
-150.458.933.958
-3.171.382.188.206
- 1.099.587.161.147 
- 133.400.191.290 
- (453.144.218.055)
- (698.464.516)
- -
- (21.282.901.669)
-3.929.243.956.403
-Tại ngày 31 tháng 12 năm 2022, chi phí trả trước dài hạn có giá trị còn lại là 32 tỷ VND được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Tập đoàn 
-(1/1/2022: 33 tỷ VND).
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-142
-143
-16.	
-TÀI SẢN THUẾ THU NHẬP HOÃN LẠI 
-Tài sản thuế thu nhập hoãn lại được ghi nhận đối với các khoản mục sau:
-Chi phí phải trả
-Lợi nhuận chưa thực hiện phát sinh từ giao dịch giữa các 
-công ty trong Tập đoàn
-Khác
-43.104.605.729
-36.305.373.498
-3.661.083.491
-83.071.062.718
-  40.762.252.184
- 
- 488.875.055.211
-(281.576.747)
-529.355.730.648
-31/12/2022
-VND
-1/1/2022
-VND
-17.	
-LỢI THẾ THƯƠNG MẠI
-Giá gốc
-Số dư đầu năm
-Tăng trong năm
-Số dư cuối năm
-Phân bổ lũy kế
-Số dư đầu năm
-Phân bổ trong năm
-Số dư cuối năm
-Giá trị ghi sổ
-Số dư đầu năm
-Số dư cuối năm
-Công ty 
-CP Xây dựng 
-Long Việt
-VND
-Công ty TNHH 
-Thương mại Dịch 
-vụ Nhơn Trạch
-VND
-59.880.000.000
--
-59.880.000.000
-22.954.000.000
- 5.988.000.000 
-28.942.000.000
-36.926.000.000
-30.938.000.000
-195.950.665
--
-195.950.665
--
--
--
-195.950.665
-195.950.665
-Công ty TNHH 
-Đầu tư phát triển 
-Thành phố mới
-VND
-Tổng cộng
-VND
--
-63.565.805.699
-63.565.805.699
--
-  6.690.796.368
-6.690.796.368
--
-56.875.009.331
-60.075.950.665
-63.565.805.699
-123.641.756.364
-22.954.000.000
-12.678.796.368
-35.632.796.368
- 37.121.950.665 
-88.008.959.996
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-31/12/2022
-VND
-31/12/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-18.	
-PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
-19.	
-NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN
- 1.240.694.224.566 
- 281.752.354.017 
- 203.524.879.856 
-9.381.191.465.887
-11.107.162.924.326
-146.683.950.571
- 144.695.040.000 
- 103.688.723.875 
-465.725.424.799
-860.793.139.245
- 395.058.068.205 
- 258.072.188.777 
- 308.764.331.577 
-22.767.247.980.861
-23.729.142.569.420
-8.714.824.949
--
--
-779.287.778.185 
-788.002.603.134
-Kru Oversea Limited
-Công ty TNHH Sản xuất và Thương mại Thiên Trường
-Danieli & C. Offcine Meccaniche S.p.A
-Khác
-Infrabuild Steel
-7000Rr Enterprise
-Công ty TNHH Hyosung Việt Nam
-Khác
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-144
-145
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-20.	
-THUẾ VÀ CÁC KHOẢN PHẢI NỘP NGÂN SÁCH NHÀ NƯỚC
-Số phải thu
-VND
-1/1/2022
-31/12/2022
-  425.650.100
-478.701.807
- - 
- 482.959.432 
- 13.940.385.310
- 3.000.000 
-19.988.250
- 1.956.526.626 
- 452.862.462 
- 9.068.480 
-17.769.142.467
-Thuế giá trị gia tăng
-Thuế giá trị gia tăng hàng nhập khẩu
-Thuế tiêu thụ đặc biệt
-Thuế xuất nhập khẩu
-Thuế thu nhập doanh nghiệp
-Thuế nhà thầu
-Thuế thu nhập cá nhân
-Thuế tài nguyên
-Tiền thuê đất
-Các loại thuế khác
-Số đã nộp 
-trong năm
-VND
- (592.968.462.713)
- (8.252.565.764.079)
- (111.919.078.414)
- (317.328.340.899)
-(1.246.302.085.368)
- (162.760.996.311)
-(218.121.202.060)
- (135.042.583.714)
- (45.493.903.513)
- (160.220.651.501)
-(11.242.723.068.572)
-Số phải nộp
-VND
-  57.732.566.179
-89.478.192.885
- 453.045.073 
- 384.187.170 
- 601.813.986.413 
- 20.332.960.380 
- 20.542.730.975 
- 3.379.814.291 
- 11.353.424 
- 1.893.404.331 
-796.022.241.121
-Biến động khác
-VND
--
--
--
--
-684.161.016
--
-(237.970.385)
--
--
--
-446.190.631
-Số phải nộp/
-bù trừ với thuế 
-được khấu trừ 
-trong năm
-VND
- 724.314.595.746 
- 8.164.760.373.661 
- 112.361.427.406 
- 317.418.824.354 
-1.001.020.240.086
- 163.916.186.008 
- 178.742.675.933 
- 143.782.298.049 
- 45.544.591.589 
- 160.399.921.493 
-11.012.261.134.325
-Số phải thu
-VND
-Số phải nộp
-VND
- 425.650.100 
- 478.701.807 
- - 
- 8.288.807 
- 76.689.115.718 
- - 
- 22.162.984.369 
- - 
- 396.427.662 
- 9.068.480 
-100.170.236.943
- 189.078.699.212 
- 1.672.802.467 
- 895.394.065 
- - 
- 419.965.032.555 
- 21.485.150.077 
- 3.069.230.582 
- 10.163.002.000 
- 5.606.700 
- 2.072.674.323 
-648.407.591.981
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-31/12/2022
-VND
-31/12/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-21.	
-CHI PHÍ PHẢI TRẢ
-21.1	
-Chi phí phải trả ngắn hạn
-21.2	
-Chi phí phải trả dài hạn
- 252.454.295.802 
- 5.869.340.691 
- 89.620.707.873 
- 54.033.193.903 
- 10.376.602.030 
- 2.237.848.886 
- 45.916.557.453 
-460.508.546.638
-423.103.164.377
-42.000.000.000
-66.516.982.078
-531.620.146.455
- 181.989.777.531 
- 30.478.358.863 
- 79.409.516.211 
- 45.725.293.340 
- 46.854.451.971 
- 2.543.655.503 
- 385.614.069.933 
-772.615.123.352
-  306.228.033.632 
- 36.000.000.000 
-68.179.906.630
-410.407.940.262
-Chi phí lãi vay
-Tiền điện 
-Chi phí khuyến mại
-Chi phí phải trả cho nhà thầu
-Phí vận chuyển
-Lương và thưởng
-Chi phí phải trả khác
-Chi phí trích trước tạm tính giá vốn đất khu công nghiệp
-Chi phí bảo dưỡng cơ sở hạ tầng
-Trích trước chi phí thuê đất
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-146
-147
-22.	
 PHẢI TRẢ KHÁC
-22.1	
 Phải trả ngắn hạn khác
-22.2	
 Phải trả dài hạn khác
 Chiết khấu thương mại
 Kinh phí công đoàn, bảo hiểm xã hội và bảo hiểm y tế
@@ -3666,231 +306,91 @@ Các khoản phải trả khác
 Quỹ bảo trì căn hộ
 Cổ tức phải trả
 Các khoản phải trả khác
-  -
- 82.442.379.267 
- 186.834.010.427 
- 2.702.476.305 
-7.402.727.113
-139.130.676.556
-418.512.269.668
- 35.988.226.008 
- 932.539.334 
- 24.112.355.220 
-61.033.120.562
- 150.245.690 
- 62.206.016.627 
- 861.674.580.250 
- 1.324.190.958 
- 19.079.614.518 
-102.723.860.036 
-1.047.158.508.079
- 34.943.752.025 
--
- 28.083.309.216 
-63.027.061.241
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-31/12/2022
-VND
-31/12/2022
-VND
-1/1/2022
-VND
-1/1/2022
-VND
-Số dư vay ngắn hạn tại ngày 31 tháng 12 năm 2022 bao gồm các khoản vay bằng VND và các khoản vay bằng USD với giá trị tương ứng là 24.834 tỷ VND và 14.270 tỷ VND 
-(1/1/2022: 17.703 tỷ VND và 19.844 tỷ VND).
-Tại ngày 31 tháng 12 năm 2022, các khoản vay ngắn hạn bằng VND và USD với giá trị ghi sổ tương ứng là 19.282 tỷ VND và 5.470 tỷ VND (1/1/2022: 12.998 tỷ VND và 6.357 tỷ 
-VND) được bảo đảm bằng một số khoản tiền gửi có kỳ hạn còn lại dưới 12 tháng (Thuyết minh 6), phải thu khách hàng ngắn hạn với giá trị ghi sổ là 553 tỷ VND (1/1/2022: 649 tỷ 
-VND), hàng tồn kho (Thuyết minh 9), tài sản cố định hữu hình và vô hình (Thuyết minh 11 và 12), xây dựng cơ bản dở dang của một số dự án thuộc Tập đoàn và các tài sản hình 
-thành trong tương lai từ một số dự án thuộc Tập đoàn (Thuyết minh 14), chi phí trả trước dài hạn (Thuyết minh 15.2), quyền phải thu và một số cổ phiếu của Công ty Cổ phần 
-Tập đoàn Hòa Phát (“cổ phiếu HPG”) thuộc sở hữu của một số thành viên Hội đồng Quản trị của Công ty. 
-Các khoản vay ngắn hạn còn lại không được bảo đảm. 
-Các khoản vay bằng VND chịu lãi suất từ 3,47% đến 8,5%/năm (1/1/2022: từ 2,40% đến 6,5%/năm). Các khoản vay bằng USD chịu lãi suất từ 1,6% đến 6,1%/năm (1/1/2022: từ 
+Số dư vay ngắn hạn tại ngày 31 tháng 12 năm 2022 bao gồm các khoản vay bằng VND và các khoản vay bằng USD với giá trị tương ứng là 24.834 tỷ VND và 14.270 tỷ VND
+Tại ngày 31 tháng 12 năm 2022, các khoản vay ngắn hạn bằng VND và USD với giá trị ghi sổ tương ứng là 19.282 tỷ VND và 5.470 tỷ VND (1/1/2022: 12.998 tỷ VND và 6.357 tỷ
+VND) được bảo đảm bằng một số khoản tiền gửi có kỳ hạn còn lại dưới 12 tháng (Thuyết minh 6), phải thu khách hàng ngắn hạn với giá trị ghi sổ là 553 tỷ VND (1/1/2022: 649 tỷ
+VND), hàng tồn kho (Thuyết minh 9), tài sản cố định hữu hình và vô hình (Thuyết minh 11 và 12), xây dựng cơ bản dở dang của một số dự án thuộc Tập đoàn và các tài sản hình
+thành trong tương lai từ một số dự án thuộc Tập đoàn (Thuyết minh 14), chi phí trả trước dài hạn (Thuyết minh 15.2), quyền phải thu và một số cổ phiếu của Công ty Cổ phần
+Tập đoàn Hòa Phát (“cổ phiếu HPG”) thuộc sở hữu của một số thành viên Hội đồng Quản trị của Công ty.
+Các khoản vay ngắn hạn còn lại không được bảo đảm.
+Các khoản vay bằng VND chịu lãi suất từ 3,47% đến 8,5%/năm (1/1/2022: từ 2,40% đến 6,5%/năm). Các khoản vay bằng USD chịu lãi suất từ 1,6% đến 6,1%/năm (1/1/2022: từ
 1,2% đến 2,3%/năm).
-23.	
-VAY	
-23.1	
 Vay ngắn hạn
-1/1/2022
-31/12/2022
 Biến động trong năm
- 39.103.657.252.968 
-7.645.013.147.503
-46.748.670.400.471
-(128.495.542.588.052)
-(6.275.085.776.237)
-(134.770.628.364.289)
 Giảm
-VND
-  140.645.521.386
-52.078.653.880
-192.724.175.266
-Chênh lệch tỷ giá do 
+Chênh lệch tỷ giá do
 đánh giá lại
-VND
-  129.911.545.929.678
-7.667.385.577.460
-137.578.931.507.138
 Tăng
-VND
- 37.547.008.389.956 
- 6.200.634.692.400 
-43.747.643.082.356
-Giá trị ghi sổ và số có 
+Giá trị ghi sổ và số có
 khả năng trả nợ
-VND
-Giá trị ghi sổ và số có 
+Giá trị ghi sổ và số có
 khả năng trả nợ
-VND
 Vay ngắn hạn
 Vay dài hạn đến hạn trả (Thuyết minh 23.2)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
 THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-148
-149
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-23.2	
 Vay dài hạn
 Vay dài hạn
 Hoàn trả trong vòng 12 tháng (Thuyết minh 24.1)
 Hoàn trả sau 12 tháng
-Ngân hàng TMCP Công thương 
+Ngân hàng TMCP Công thương
 Việt Nam - Chi nhánh Hà Nội
-Ngân hàng TMCP Ngoại thương 
+Ngân hàng TMCP Ngoại thương
 Việt Nam - Chi nhánh Thành Công
 Ngân hàng BNP Paribas (i)
-Ngân hàng TNHH Woori Việt Nam - chi nhánh 
-Bắc Ninh 
-Ngân hàng TNHH MTV HSBC 
+Ngân hàng TNHH Woori Việt Nam - chi nhánh
+Bắc Ninh
+Ngân hàng TNHH MTV HSBC
 Việt Nam (ii)
 Quỹ bảo vệ môi trường
-Ngân hàng TNHH Woori Việt Nam - chi nhánh 
+Ngân hàng TNHH Woori Việt Nam - chi nhánh
 Bắc Ninh (iii)
-Ngân hàng TMCP Đầu tư và Phát triển Việt 
+Ngân hàng TMCP Đầu tư và Phát triển Việt
 Nam - Chi nhánh Hà Thành
-Ngân hàng TMCP Kỹ thương Việt Nam 
+Ngân hàng TMCP Kỹ thương Việt Nam
 Nguyễn Thị Tố Hoài
- 18.796.664.351.905 
- (7.645.013.147.503)
-11.151.651.204.402
-5.199.401.952.435
-5.164.540.368.584
-1.460.307.693.293
-761.750.000.000
-3.482.825.007.264
-10.118.000.000
-949.200.000.000
-659.896.665.647
-783.624.664.682
-325.000.000.000
-18.796.664.351.905
- 19.665.566.691.100 
-(6.200.634.692.400)
-13.464.931.998.700
- 
-7.364.401.952.435 
- 
-6.823.526.045.304 
- 2.820.923.077.452 
- 697.584.670.366 
- 
-1.313.484.789.216 
- 14.130.000.000 
--
- 617.768.311.677 
- 13.747.844.650 
--
-19.665.566.691.100
-31/12/2022
-VND
 Loại tiền
-VND
-VND
-USD
-VND
-VND
-VND
-USD
-VND
-VND
-VND
-1/1/2022
-VND
-Năm
 đáo hạn
-2025
-2025
-2023
-2024 - 2026
-2024 - 2027
-2025
-2027
-2025
-2026
-2024
 Điều khoản và điều kiện của các khoản vay dài hạn còn số dư như sau:
-(i)	
-Khoản vay này có hạn mức là 200 triệu Đô la Mỹ, do Ngân hàng BNP Paribas – Chi nhánh Singapore làm đại 	
-	
-diện cho các bên cho vay. Khoản vay được bảo lãnh bởi hai công ty con là Công ty Cổ phần Thép Hải Dương và 	
-	
+Khoản vay này có hạn mức là 200 triệu Đô la Mỹ, do Ngân hàng BNP Paribas – Chi nhánh Singapore làm đại
+diện cho các bên cho vay. Khoản vay được bảo lãnh bởi hai công ty con là Công ty Cổ phần Thép Hải Dương và
 Công ty TNHH Ống Thép Hòa Phát. Khoản vay này chịu lãi suất LIBOR + 2,05%/năm cho toàn bộ thời hạn vay.
-	
-Ngoại trừ khoản vay với Ngân hàng BNP Paribas như trình bày ở (i), các khoản vay dài hạn còn lại được đảm 	
-	
-bảo bằng một số tiền gửi có kỳ hạn còn lại trên 12 tháng (Thuyết minh 6), hàng tồn kho (Thuyết minh 9), tài 	
-	
-sản cố định hữu hình và vô hình (Thuyết minh 11 và 12) và xây dựng cơ bản dở dang của một số dự án thuộc 	
-	
-Tập đoàn (Thuyết minh 14). Bên cạnh đó, các khoản vay còn được đảm bảo bổ sung bằng một số tài sản và 	
-	
-điều kiện cụ thể như sau: 
-(ii)	
-Khoản vay dài hạn này được bảo lãnh bởi một công ty con trong Tập đoàn và được đảm bảo bởi máy móc thiết 	
-	
-bị dây chuyền sản xuất cốc 3 và máy móc thiết bị dây chuyền điện giai đoạn 5 của một công ty con khác với giá 	
-	
-trị ghi sổ tại ngày 31 tháng 12 năm 2022 là 740 tỷ VND (1/1/2022: 831 tỷ VND). 
-31/12/2022
-VND
-1/1/2022
-VND
+Ngoại trừ khoản vay với Ngân hàng BNP Paribas như trình bày ở (i), các khoản vay dài hạn còn lại được đảm
+bảo bằng một số tiền gửi có kỳ hạn còn lại trên 12 tháng (Thuyết minh 6), hàng tồn kho (Thuyết minh 9), tài
+sản cố định hữu hình và vô hình (Thuyết minh 11 và 12) và xây dựng cơ bản dở dang của một số dự án thuộc
+Tập đoàn (Thuyết minh 14). Bên cạnh đó, các khoản vay còn được đảm bảo bổ sung bằng một số tài sản và
+điều kiện cụ thể như sau:
+Khoản vay dài hạn này được bảo lãnh bởi một công ty con trong Tập đoàn và được đảm bảo bởi máy móc thiết
+bị dây chuyền sản xuất cốc 3 và máy móc thiết bị dây chuyền điện giai đoạn 5 của một công ty con khác với giá
+trị ghi sổ tại ngày 31 tháng 12 năm 2022 là 740 tỷ VND (1/1/2022: 831 tỷ VND).
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-(iii) 	
-Khoản vay này được đảm bảo bằng một số tài sản là các hệ thống, các máy móc và thiết bị cụ thể nhất định 	
-	
-cấu thành nên, gắn liền với, hoặc được sử dụng liên quan đến Nhà Máy Container của một công ty con trong 	
-	
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
+Khoản vay này được đảm bảo bằng một số tài sản là các hệ thống, các máy móc và thiết bị cụ thể nhất định
+cấu thành nên, gắn liền với, hoặc được sử dụng liên quan đến Nhà Máy Container của một công ty con trong
 Tập đoàn. Khoản vay này chịu lãi suất SOFR kỳ hạn 3 tháng + 2,25% một năm (2021: Không).
-	
 Các khoản vay dài hạn bằng VND chịu lãi suất từ 2,6% đến 8,4%/năm (1/1/2022: từ 2,6% đến 8,4%/năm).
-24.	
 DỰ PHÒNG
-25.	
 QUỸ KHEN THƯỞNG, PHÚC LỢI
-Quỹ này được trích lập từ lợi nhuận sau thuế theo sự phê duyệt của Đại hội đồng Cổ đông, Quỹ được sử 
-dụng để chi trả các khoản khen thưởng, phúc lợi và thù lao cho Hội đồng Quản trị, Ban Giám đốc và các 
-nhân viên của Công ty và các công ty con theo chính sách khen thưởng và phúc lợi của Tập đoàn. Biến 
+Quỹ này được trích lập từ lợi nhuận sau thuế theo sự phê duyệt của Đại hội đồng Cổ đông, Quỹ được sử
+dụng để chi trả các khoản khen thưởng, phúc lợi và thù lao cho Hội đồng Quản trị, Ban Giám đốc và các
+nhân viên của Công ty và các công ty con theo chính sách khen thưởng và phúc lợi của Tập đoàn. Biến
 động của quỹ khen thưởng, phúc lợi trong năm như sau:
 Số dư đầu năm
 Dự phòng lập trong năm
@@ -3905,445 +405,25 @@ Trích lập trong năm
 Sử dụng trong năm
 Thanh lý công ty con
 Số dư cuối năm
-35.137.040.401
- 2.322.357.442 
--
- (1.251.761.800)
-36.207.636.043
- -
- 36.207.636.043 
- 1.740.567.096.715 
- 761.164.438.000 
- (688.776.207.401)
--
-1.812.955.327.314
-18.929.447.691
-10.189.119.245
-(1.000.000.000)
- (1.559.110.091)
-26.559.456.845
- 5.198.833.687 
- 21.360.623.158 
-54.066.488.092
-12.511.476.687
-(1.000.000.000)
- (2.810.871.891)
-62.767.092.888
- 5.198.833.687 
- 57.568.259.201 
- 1.133.445.419.487 
- 1.248.866.057.413 
- (611.355.535.679)
- (30.388.844.506)
-1.740.567.096.715
-Chi phí 
+Chi phí
 bảo hành
-VND
-Dự phòng khôi phục 
+Dự phòng khôi phục
 môi trường
-VND
-2022
-VND
-Tổng cộng
-VND
-2021
-VND
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-150
-151
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-26.	
-THAY ĐỔI VỐN CHỦ SỞ HỮU
-33.132.826.590.000
--
--
-11.596.400.470.000
--
--
--
--
--
--
--
-44.729.227.060.000
-Số dư tại ngày 1/1/2021
-Góp vốn
-Lợi nhuận thuần trong năm
-Trả cổ tức bằng cổ phiếu
-Trả cổ tức bằng tiền 
-Phân bổ vào quỹ khen thưởng, phúc lợi
-Phân bổ vào quỹ đầu tư phát triển
-Công ty con trả cổ tức cho cổ đông không 
-kiểm soát
-Ảnh hưởng của việc chuyển đổi đồng tiền 
-báo cáo
-Thanh lý công ty con
-Biến động khác
-Số dư tại ngày 31/12/2021
-928.641.612.156
--
--
--
--
--
-5.000.000.000
--
--
--
-(10.092.308.034)
-923.549.304.122
-3.211.560.416.270
--
--
--
--
--
--
--
--
--
--
-3.211.560.416.270
-21.792.442.633.285
--
-34.478.143.197.460
-(11.596.400.470.000)
-(1.656.641.329.500)
-(1.247.766.885.013)
-(3.636.000.000)
--
--
--
-(2.715.175.320)
-41.763.425.970.912
-5.568.369.072
--
--
--
--
--
--
--
-(7.494.329.924)
--
--
-(1.925.960.852)
-148.746.685.328
-10.630.000.000
-42.811.733.838
--
--
-(1.099.172.400)
-(1.364.000.000)
-(43.147.732.864)
--
-(1.681.609.544)
-(107.183.371)
-154.788.720.987
-59.219.786.306.111
-10.630.000.000
-34.520.954.931.298
--
-(1.656.641.329.500)
-(1.248.866.057.413)
--
-(43.147.732.864)
-(7.494.329.924)
-(1.681.609.544)
-(12.914.666.725)
-90.780.625.511.439
-Vốn cổ phần
-VND
-Quỹ đầu tư 
-phát triển
-VND
-Thặng dư 
-vốn cổ phần
-VND
-Lợi nhuận 
-chưa phân phối
-VND
-Chênh lệch
-tỷ giá
-VND
-Lợi ích cổ đông 
-không kiểm soát
-VND
-Tổng cộng
-VND
-44.729.227.060.000
--
--
-13.418.629.940.000
--
--
--
--
--
--
-58.147.857.000.000
-Số dư tại ngày 1/1/2022
-Góp vốn
-Lợi nhuận thuần trong năm
-Trả cổ tức bằng cổ phiếu
-(Thuyết minh 28)
-Trả cổ tức bằng tiền 
-(Thuyết minh 28)
-Phân bổ vào quỹ khen thưởng, phúc lợi
-Công ty con trả cổ tức cho cổ đông không 
-kiểm soát
-Sử dụng quỹ trong năm
-Ảnh hưởng của việc chuyển đổi đồng tiền 
-báo cáo
-Biến động khác
-Số dư tại ngày 31/12/2022
-923.549.304.122
--
--
--
--
--
--
-(88.766.869.906)
--
--
-834.782.434.216
-3.211.560.416.270
--
--
--
--
--
--
--
--
--
-3.211.560.416.270
-41.763.425.970.912
--
- 8.483.510.554.031 
-(13.418.629.940.000)
-(2.236.461.353.000)
-(761.164.438.000)
--
--
--
-3.149.180.044
-33.833.829.973.987
-(1.925.960.852)
--
--
--
--
--
--
--
-(18.726.394.153)
--
-(20.652.355.005)
-154.788.720.987
- 4.075.000.000 
- (39.081.499.515)
--
--
--
-(14.253.842.170)
--
--
-33.767.013
-105.562.146.315
-90.780.625.511.439
- 
-4.075.000.000 
- 8.444.429.054.516 
--
-(2.236.461.353.000)
-(761.164.438.000)
-(14.253.842.170)
-(88.766.869.906)
-(18.726.394.153)
-3.182.947.057
-96.112.939.615.783
-Vốn cổ phần
-VND
-Quỹ đầu tư 
-phát triển
-VND
-Thặng dư 
-vốn cổ phần
-VND
-Lợi nhuận 
-chưa phân phối
-VND
-Chênh lệch
-tỷ giá
-VND
-Lợi ích cổ đông 
-không kiểm soát
-VND
-Tổng cộng
-VND
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-152
-153
-27.	
-VỐN CỔ PHẦN
-Vốn cổ phần được duyệt và đã phát hành của Công ty là:
-28.	
-CỔ TỨC
-Ngày 24 tháng 5 năm 2022, Đại hội đồng Cổ đông của Công ty đã thông qua phương án chi trả cổ tức năm 
-2021 cho các cổ đông theo tỷ lệ 35% bao gồm 30% bằng cổ phiếu (cổ đông sở hữu 10 cổ phiếu thường 
-được nhận 3 cổ phiếu phát hành thêm để trả cổ tức) và 5% bằng tiền (cổ đông sở hữu 1 cổ phiếu thường 
-được nhận 500 đồng). Phương án chi trả cổ tức này đã được Hội đồng Quản trị Công ty ra nghị quyết thực 
-hiện vào ngày 26 tháng 5 năm 2022. Ngày 20 tháng 6 năm 2022, Công ty đã chốt danh sách cổ đông để 
-trả cổ tức bằng tiền mặt và phát hành cổ phiếu để trả cổ tức.
-Vốn cổ phần được duyệt
-Vốn cổ phần đã phát hành
-Cổ phiếu phổ thông
-Số cổ phiếu đang lưu hành
-Cổ phiếu phổ thông
-Số dư đầu năm
-Trả cổ tức bằng cổ phiếu
-Số dư cuối năm
-44.729.227.060.000 
-44.729.227.060.000 
-44.729.227.060.000 
-  58.147.857.000.000 
- 
- 58.147.857.000.000 
- 
- 58.147.857.000.000 
-44.729.227.060.000
-13.418.629.940.000
-58.147.857.000.000
-33.132.826.590.000
-11.596.400.470.000
-44.729.227.060.000
- 4.472.922.706 
- 4.472.922.706 
- 4.472.922.706 
-  5.814.785.700 
-5.814.785.700 
- 5.814.785.700 
-4.472.922.706
-1.341.862.994
-5.814.785.700
- 3.313.282.659 
- 1.159.640.047 
-4.472.922.706
-VND
-Mệnh giá
-VND
-VND
-Mệnh giá
-VND
-31/12/2022
-2022
-1/1/2022
-2021
-Số cổ phiếu
-Số cổ phiếu
-Số cổ phiếu
-Số cổ phiếu
-Cổ phiếu phổ thông có mệnh giá là 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại 
-các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất 
-cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty.  
-Biến động của vốn cổ phần trong năm như sau:
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-29.	
-CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
-29.1	
-Cam kết chi tiêu vốn
-Tại ngày báo cáo, Tập đoàn có các cam kết vốn sau đã được duyệt nhưng chưa được phản ánh trong bảng 
-cân đối kế toán hợp nhất:
-29.2	
-Cam kết hợp đồng thuê
-Tại ngày báo cáo, Tập đoàn có các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động 
-không được hủy ngang như sau:
-Đã được duyệt nhưng chưa ký kết hợp đồng 
-Đã được duyệt và đã ký kết hợp đồng
-Trong vòng một năm
-Trong vòng hai đến năm năm
-Sau năm năm
-55.287.258.993.990
-15.889.050.872.609
-71.176.309.866.599
- 241.583.367.687 
- 815.528.108.477 
- 217.973.178.396 
-1.275.084.654.560
-27.785.373.507.899
-47.328.997.174.855
-75.114.370.682.754
-328.611.773.551
-980.324.692.266
-427.808.012.911
-1.736.744.478.728
-1/1/2022
-VND
-1/1/2022
-VND
-31/12/2022
-VND
-31/12/2022
-VND
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-Ngày 18 tháng 7 năm 2022, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh đã chấp thuận cho Công ty 
-được thay đổi niêm yết liên quan đến việc phát hành cổ phiếu để trả cổ tức này. Theo đó, số lượng chứng 
-khoán niêm yết thêm là 1.341.862.994 cổ phiếu, tương đương với 13.418.629.940.000 VND.
-Ngày 27 tháng 7 năm 2022, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp sửa đổi lần 
-thứ 35, trong đó vốn điều lệ của Công ty tăng từ 44.729.227.060.000 VND lên 58.147.857.000.000 VND do 
-kết quả của việc phát hành cổ tức để trả cổ phiếu.
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-154
-155
-30.	
 DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
-Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp không bao gồm thuế giá trị gia 
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp không bao gồm thuế giá trị gia
 tăng. Doanh thu thuần gồm:
-31.	
 GIÁ VỐN HÀNG BÁN
 Tổng doanh thu
-•	
 Bán hàng
-•	
 Cung cấp dịch vụ
-•	
 Doanh thu cho thuê lại đất thuê
-•	
 Cho thuê bất động sản đầu tư
-•	
 Doanh thu bán bất động sản
-•	
 Doanh thu khác
 Trừ đi các khoản giảm trừ doanh thu
-•	
 Chiết khấu thương mại
-•	
 Giảm giá hàng bán
-•	
 Hàng bán bị trả lại
 Thành phẩm và hàng hóa đã bán
 Dịch vụ đã cung ứng
@@ -4352,86 +432,23 @@ Giá vốn bất động sản đầu tư cho thuê
 Giá vốn của bất động sản đã bán
 Giá vốn khác
 Dự phòng giảm giá hàng tồn kho
-149.550.845.147.961
-405.022.678.003
-828.849.613.625
-68.963.681.744
-10.461.623.597
-1.217.222.270
-150.865.359.967.200
- (1.128.759.484.800)
-(2.633.787.116)
-(54.176.715.939)
-(1.185.569.987.855)
-149.679.789.979.345
-107.762.174.428.029
-244.734.893.391
-359.788.513.664
-43.568.788.153
-6.011.447.368
-932.500.000
-154.169.875.748
-108.571.380.446.353
-141.636.397.790.261
-595.250.665.982
-440.143.243.792
-92.582.398.187
--
-6.436.578.636
-142.770.810.676.858
-(1.260.395.096.431)
-(182.659.645)
-(100.958.460.150)
-(1.361.536.216.226)
-141.409.274.460.632
-122.995.394.974.254
-262.042.913.991
-192.319.379.126
-55.080.204.169
--
-140.362.579.701
-1.000.648.169.839
-124.645.848.221.080
-2021
-VND
-2021
-VND
-2021
-VND
-2021
-VND
-2021
-VND
-2022
-VND
-2022
-VND
-2022
-VND
-2022
-VND
-2022
-VND
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-32.	
 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
-33.	
 CHI PHÍ TÀI CHÍNH
-34.	
 CHÍ PHÍ BÁN HÀNG
-Lãi tiền gửi 
+Lãi tiền gửi
 Lãi chênh lệch tỷ giá đã thực hiện
 Lãi chênh lệch tỷ giá chưa thực hiện
 Doanh thu hoạt động tài chính khác
 Lãi chuyển nhượng các khoản đầu tư
-Chi phí đi vay 
+Chi phí đi vay
 Chiết khấu thanh toán
 Lỗ chênh lệch tỷ giá đã thực hiện
 Lỗ chênh lệch tỷ giá chưa thực hiện
 Chi phí tài chính khác
-Chi phí nhân viên 
+Chi phí nhân viên
 Chi phí khấu hao
 Chi phí bảo hành
 Chi phí vận chuyển
@@ -4439,198 +456,27 @@ Chi phí quảng cáo
 Chi phí khuyến mại
 Chi phí xuất khẩu
 Chi phí dịch vụ mua ngoài và chi phí bán hàng khác
- 1.194.370.878.477 
- 1.259.713.002.137 
- 46.626.960.525 
- 66.508.449.795 
- 504.221.349.254 
-3.071.440.640.188
-  2.525.823.258.237
--
-992.505.816.602
-88.565.791.942
- 124.647.391.092 
-3.731.542.257.873
- 121.782.917.386 
- 28.027.285.866 
- 15.616.398.467 
- 159.054.938.974 
- 57.786.593.049 
- 3.184.969.884 
- 1.430.561.778.794 
- 304.053.340.808 
-2.120.068.223.228
-1.822.022.852.374
-1.886.624.826.804
-11.596.235.876
-21.677.909.468
-1.728.882.809
-3.743.650.707.331
-3.083.638.131.818
-14.473.105
-3.411.297.421.437
-345.579.389.435
-186.193.869.446
-7.026.723.285.241
-139.149.951.552
-45.528.087.562
-22.829.070.482
-964.081.140.495
-76.800.398.827
-7.950.081.683
-1.087.981.953.732
-321.485.402.969
-2.665.806.087.302
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
 KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-156
-157
-35.	
-CHI PHÍ QUẢN LÝ DOANH NGHIỆP
-36.	
-THU NHẬP KHÁC 
-37.	
-CHI PHÍ KHÁC 
-Phân bổ lợi thế thương mại
-Chi phí nhân viên
-Chi phí khấu hao
-Chi phí dịch vụ mua ngoài và chi phí quản lý khác
-Lãi thanh lý tài sản cố định và xây dựng cơ bản dở dang
-Thu nhập từ bán điện, nước và cung cấp dịch vụ
-Tiền bồi thường nhận được từ các đơn vị khác
-Thu nhập khác
-Lỗ thanh lý tài sản cố định và xây dựng cơ bản dở dang
-Giá vốn của điện, nước và các dịch vụ cung cấp
-Bồi thường cho các đơn vị khác
-Chi phí khác
- 5.988.000.000 
- 445.223.263.481 
- 82.560.915.012 
- 790.489.370.186 
-1.324.261.548.679
-3.231.976.849
- 565.649.257.613 
- 64.804.862.273 
- 162.980.009.190 
-796.666.105.925
- 45.206.911.464 
- 565.703.833.458 
--
- 137.421.093.078 
-748.331.838.000
-12.678.796.368
-297.087.934.340
-82.377.602.282
-627.299.946.457
-1.019.444.279.447
-9.721.447.305
-517.588.030.296
-47.182.410.010
-297.532.837.315
-872.024.724.926
-102.255.174
-489.162.011.250
-20.114.451.948
-233.735.506.579
-743.114.224.951
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-38.	
-CHI PHÍ SẢN XUẤT VÀ KINH DOANH THEO YẾU TỐ
-39.	
-THUẾ THU NHẬP
-39.1	
-Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
-Chi phí nguyên vật liệu trong chi phí sản xuất và
-mua hàng hóa để bán lại
-Chi phí nhân viên
-Chi phí khấu hao
-Chi phí dịch vụ mua ngoài
-Chi phí khác
-Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành
-Năm hiện hành
-Thuế TNDN trích bổ sung cho năm trước
-Chi phí/(lợi ích) thuế TNDN hoãn lại
-Phát sinh và hoàn nhập các chênh lệch tạm thời
-Chi phí thuế TNDN
-92.299.082.082.245
-3.614.414.404.721
- 6.076.516.295.417 
- 11.779.494.682.520 
-4.145.874.734.810
- 2.853.588.302.885 
- 1.718.044.282 
-2.855.306.347.167
-(319.483.564.275)
-2.535.822.782.892
-98.655.446.509.628
-4.292.129.016.610
-6.759.462.100.582
-12.103.510.397.646
-3.659.447.771.171
-919.511.290.552
-81.508.949.534
-1.001.020.240.086
-477.491.832.682
-1.478.512.072.768
-Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
-ngày 22/12/2014 của Bộ Tài chính)
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-2021
-VND
-2021
-VND
-2021
-VND
-2021
-VND
-2021
-VND
-2022
-VND
-2022
-VND
-2022
-VND
-2022
-VND
-2022
-VND
-
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-158
-159
-39.2	
-Thuế thu nhập doanh nghiệp 
-39.3	
+Thuế thu nhập doanh nghiệp
 Thuế suất áp dụng
-Theo các điều khoản trong Luật thuế thu nhập hiện hành, Công ty có nghĩa vụ phải nộp Ngân sách Nhà 
-nước thuế thu nhập bằng 20% trên lợi nhuận tính thuế. 
-Các công ty con của Tập đoàn có nghĩa vụ phải nộp Ngân sách Nhà nước thuế thu nhập theo mức thuế 
-suất và hưởng các ưu đãi thuế theo quy định trong các giấy Chứng nhận Đầu tư và các quy định thuế hiện 
+Theo các điều khoản trong Luật thuế thu nhập hiện hành, Công ty có nghĩa vụ phải nộp Ngân sách Nhà
+nước thuế thu nhập bằng 20% trên lợi nhuận tính thuế.
+Các công ty con của Tập đoàn có nghĩa vụ phải nộp Ngân sách Nhà nước thuế thu nhập theo mức thuế
+suất và hưởng các ưu đãi thuế theo quy định trong các giấy Chứng nhận Đầu tư và các quy định thuế hiện
 hành
 Lợi nhuận kế toán trước thuế
 Các điều chỉnh tăng/(giảm) lợi nhuận kế toán
-Chi phí không được khấu trừ 
+Chi phí không được khấu trừ
 Phân bổ lợi thế thương mại
 Trích lập/(hoàn nhập) dự phòng
-Chênh lệch tỷ giá chưa thực hiện 
+Chênh lệch tỷ giá chưa thực hiện
 Hoàn nhập trích trước giá vốn của bất động sản đã bán
 Hoàn nhập và phát sinh các chênh lệch tạm thời khác
 Lỗ/(lãi) được chia từ các công ty liên kết
@@ -4640,166 +486,71 @@ Biến động khác
 Lỗ năm trước chuyển sang
 Thu nhập chịu thuế năm hiện hành
 Chi phí thuế TNDN tính theo thuế suất của Công ty
-Ưu đãi thuế của các công ty con 
+Ưu đãi thuế của các công ty con
 Ảnh hưởng của mức thuế suất khác áp dụng cho các công ty con
 Giảm 30% thuế TNDN theo Nghị quyết 116/2020/QH14
-Tài sản thuế thu nhập hoãn lại không được ghi nhận trên lỗ tính 
-thuế của các công ty con và tài sản thuế hoãn lại khác chưa được 
+Tài sản thuế thu nhập hoãn lại không được ghi nhận trên lỗ tính
+thuế của các công ty con và tài sản thuế hoãn lại khác chưa được
 ghi nhận
 Chi phí/(lợi ích) thuế TNDN hoãn lại
 Thuế TNDN trích bổ sung cho năm trước
 Biến động khác
-Chi phí thuế thu nhập doanh nghiệp 
-37.056.777.714.190
-366.366.941.960
- 5.988.000.000 
- (10.459.361.152)
- 10.593.009.528 
--
- 247.457.571.330 
-(4.465.302.865)
-(1.523.166.771)
-69.409.553.460
--
-37.740.144.959.680
-(1.229.162.534)
-37.738.915.797.146
- 7.547.783.159.429 
-(4.692.083.776.183)
-(3.948.948.464)
-(3.603.773.229)
-5.959.614.572
- (319.483.564.275)
- 1.718.044.282 
- (517.973.240)
-2.535.822.782.892
-9.922.941.127.284
-192.548.472.715
-12.678.796.368
-1.200.205.279.187
-32.856.692.417
-6.000.000.000
-(460.505.386.870)
-1.072.667.584
-(12.116.960.089)
-432.976.013.791
-(3.045.970.341)
-11.325.610.732.046
-(15.153.791.872)
-11.310.456.940.174
-2.262.091.388.035
-(1.384.478.329.956)
-1.899.807.318
--
-41.134.110.531
-477.491.832.682
-81.508.949.534
-(1.135.685.376)
-1.478.512.072.768
+Chi phí thuế thu nhập doanh nghiệp
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-40.	
 LÃI CƠ BẢN TRÊN CỔ PHIẾU
-Việc tính toán lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 năm 2022 được dựa trên số lợi 
-nhuận thuần hợp nhất thuộc về các cổ đông phổ thông sau điều chỉnh trích lập quỹ khen thưởng phúc 
+Việc tính toán lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 năm 2022 được dựa trên số lợi
+nhuận thuần hợp nhất thuộc về các cổ đông phổ thông sau điều chỉnh trích lập quỹ khen thưởng phúc
 lợi của Công ty và số lượng cổ phiếu phổ thông bình quân gia quyền trong năm, chi tiết như sau:
-40.1	
 Số lượng cổ phiếu phổ thông bình quân gia quyền
-40.2	
 Lãi cơ bản trên cổ phiếu
 Cổ phiếu phổ thông đã phát hành đầu năm
-Ảnh hưởng của việc trả cổ tức bằng cổ phiếu 
+Ảnh hưởng của việc trả cổ tức bằng cổ phiếu
 (tỷ lệ 35%) trong năm 2021 (Thuyết minh 27)
-Ảnh hưởng của việc trả cổ tức bằng cổ phiếu 
+Ảnh hưởng của việc trả cổ tức bằng cổ phiếu
 (tỷ lệ 30%) trong năm 2022 (Thuyết minh 28)
-Số lượng bình quân gia quyền của cổ phiếu 
+Số lượng bình quân gia quyền của cổ phiếu
 phổ thông lưu hành trong năm
 Lợi nhuận thuần thuộc về các cổ đông của Công ty (VND)
 Số phân bổ vào quỹ khen thưởng, phúc lợi (VND)
-Số lượng bình quân gia quyền của cổ phiếu phổ thông lưu 
+Số lượng bình quân gia quyền của cổ phiếu phổ thông lưu
 hành trong năm (số cổ phiếu)
 Lãi cơ bản trên cổ phiếu (VND)
-3.313.282.659
-1.159.640.047
-1.341.862.994
-5.814.785.700
-34.478.143.197.460
-(1.704.030.495.413)
-32.774.112.702.047
-5.814.785.700
-5.636
-4.472.922.706
--
-1.341.862.994
-5.814.785.700
-8.483.510.554.031
-(42.200.000.000)
-8.441.310.554.031
-5.814.785.700
-1.452
-2021
 (Số cổ phiếu)
 Đã điều chỉnh lại
-2021
-VND
 Đã điều chỉnh lại
-2022
 (Số cổ phiếu)
-2022
-VND
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
-2021
-VND
-2022
-VND
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 
-TẬP ĐOÀN HÒA PHÁT - BÁO CÁO THƯỜNG NIÊN 2022      
-160
-161
-40.3	
-Điều chỉnh lại số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho cho năm kết 	
-	
+Điều chỉnh lại số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho cho năm kết
 thúc ngày 31 tháng 12 năm 2021
-Số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho cho năm kết thúc ngày 31 
-tháng 12 năm 2021 được điều chỉnh lại do ảnh hưởng của việc trả cổ tức bằng cổ phiếu trong năm 2022 
+Số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho cho năm kết thúc ngày 31
+tháng 12 năm 2021 được điều chỉnh lại do ảnh hưởng của việc trả cổ tức bằng cổ phiếu trong năm 2022
 (Thuyết minh 28) như sau:
-41.	
-CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN 
-Ngoài các số dư với bên liên quan được trình bày tại các thuyết minh khác của báo cáo tài chính hợp nhất, 
+CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN
+Ngoài các số dư với bên liên quan được trình bày tại các thuyết minh khác của báo cáo tài chính hợp nhất,
 trong năm Tập đoàn có các giao dịch chủ yếu sau với các bên liên quan:
 Số báo cáo trước đây
 Ảnh hưởng của việc trả cổ tức bằng cổ phiếu trong năm 2022
-Ảnh hưởng của việc điều chỉnh phân bổ lợi nhuận sau thuế 
+Ảnh hưởng của việc điều chỉnh phân bổ lợi nhuận sau thuế
 vào quỹ khen thưởng phúc lợi
 Số điều chỉnh lại
-7.166
-(1.691)
-161
-5.636
-4.472.922.706
-1.341.862.994
--
-5.814.785.700
-Lãi cơ bản 
+Lãi cơ bản
 trên cổ phiếu
-VND
-Số cổ phiếu phổ thông 
+Số cổ phiếu phổ thông
 bình quân gia quyền
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Thành viên của Hội đồng Quản trị
 Thù lao
 Ban Giám đốc
@@ -4808,56 +559,23 @@ Thành viên của Ban Kiểm soát
 Thù lao, lương và thưởng
 Cán bộ quản lý chủ chốt khác
 Lương và thưởng
-117.810.000.000
-3.890.000.000
-1.753.916.438
-2.324.804.000
--
-5.262.000.000
-2.238.830.339
-2.612.084.207
-2021
-VND
 Giá trị giao dịch
-2022
-VND
-42.	
 CÁC GIAO DỊCH PHI TIỀN TỆ TỪ HOẠT ĐỘNG TÀI CHÍNH
-43.	
-THÔNG TIN SO SÁNH 
-Thông tin so sánh tại ngày 1 tháng 1 năm 2022 được mang sang từ số liệu trình bày trong báo cáo tài 
+THÔNG TIN SO SÁNH
+Thông tin so sánh tại ngày 1 tháng 1 năm 2022 được mang sang từ số liệu trình bày trong báo cáo tài
 chính hợp nhất của Tập đoàn tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2021.
-2022
-VND
-13.418.629.940.000
 Trả cổ tức bằng cổ phiếu
-2021
-VND
-11.596.400.470.000
 Mẫu B 09 – DN/HN
-(Ban hành theo Thông tư số 202/2014/TT-BTC 
+(Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
 CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM 
-KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO) 
+KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2022 (TIẾP THEO)
 Ngày 16 tháng 3 năm 2023
-	
-     Người lập:	 	
-	
-	
+Người lập:
 Người duyệt:
-	
-Trần Xuân Mai	 	
-	
-	
-	
-Phạm Thị Kim Oanh	
+Trần Xuân Mai
+Phạm Thị Kim Oanh
 Nguyễn Việt Thắng
-	
-Kế toán tổng hợp	
-	
-	
-	
-Kế toán trưởng	
-            Tổng Giám đốc
-
+Kế toán tổng hợp
+Kế toán trưởng
+Tổng Giám đốc

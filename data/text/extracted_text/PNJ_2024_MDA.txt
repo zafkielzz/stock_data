@@ -1,24 +1,18 @@
 BCTC
-Báo cáo tài chính
-BĐH
 Ban điều hành
-BST
 Bộ sưu tập
 CTCP
 Công ty Cổ phần
-CP
 Cổ phiếu
 CBNV
 Cán bộ nhân viên
-CSR
-Trách nhiệm xã hội của 
+Trách nhiệm xã hội của
 doanh nghiệp
 ĐHĐCĐ
 Đại hội đồng Cổ đông
-ĐVT
 Đơn vị tính
 HOSE
-Sở Giao dịch Chứng 
+Sở Giao dịch Chứng
 khoán Tp. Hồ Chí Minh
 HĐQT
 Hội đồng quản trị
@@ -28,13 +22,10 @@ GPKD
 Giấy phép kinh doanh
 KTNB
 Kiểm toán nội bộ
-QĐ
 Quyết định
 QTCT
-Quản trị Công ty
 PTBV
 Phát triển bền vững
-TGĐ
 Tổng Giám đốc
 TMCP
 Thương mại Cổ phần
@@ -44,309 +35,256 @@ VHDN
 Văn hoá doanh nghiệp
 UBKT
 Ủy ban Kiểm toán
-03
-Báo cáo  
+Báo cáo
 của Ban Điều hành
-04
-Báo cáo  
+Báo cáo
 Hội đồng Quản trị
-02
-Tình hình hoạt động 
+Tình hình hoạt động
 trong năm 2024
-01
 Thông tin chung
-05
-Quản trị Công ty & 
-Báo cáo tác động liên 
-quan đến môi trường 
+Báo cáo tác động liên
+quan đến môi trường
 và xã hội
-Mục lục
-và
-Danh mục từ 
+Danh mục từ
 viết tắt
-Chính sách  
+Chính sách
 liên quan đến môi trường
-143
-Định hướng hoạt động  
+Định hướng hoạt động
 của Hội đồng quản trị năm 2025
-140
-Tạo đà gia nhập 
+Tạo đà gia nhập
 thị trường vốn xanh
-165
-Báo cáo người lao động  
+Báo cáo người lao động
 trong năm 2024
-150
-Báo cáo an sinh - xã hội  
+Báo cáo an sinh - xã hội
 trong năm 2024
-160
 Thông điệp ESG
 Mức độ tích hợp ESG
 vào chiến lược dài hạn
-142
-Báo cáo môi trường  
+Báo cáo môi trường
 trong năm 2024
-144
-Thông tin về ngành nghề  
+Thông tin về ngành nghề
 kinh doanh, sản xuất và thị trường
-28
 Quá trình hình thành
 phát triển
-24
 Mô hình quản trị,
 cơ cấu bộ máy quản lý
-32
 Mô hình Quản trị
 rủi ro Doanh nghiệp
-38
-Định hướng 
-chiến lược phát triển dài hạn
-46
+Định hướng
 Chiến lược ESG tích hợp với
 chiến lược dài hạn
-60
-Thông tin khái quát  
+Thông tin khái quát
 về Công ty
-10
-Báo cáo của  
+Báo cáo của
 Ủy ban Kiểm toán
-118
-Đánh giá Hội đồng quản trị  
+Đánh giá Hội đồng quản trị
 Báo cáo tình hình thực
 hiện nghị quyết ĐHĐCĐ
-năm 2024
-104
-Nâng cao hiệu quả  
-quản trị Công ty
-132
-Hoạt động  
+Nâng cao hiệu quả
+Hoạt động
 quan hệ nhà đầu tư
-136
-Đánh giá của Hội đồng quản trị về 
-Quản trị Công ty
-106
-Thông tin thù lao và lương thưởng 
+Đánh giá của Hội đồng quản trị về
+Thông tin thù lao và lương thưởng
 và giao dịch nội bộ
-122
-Các lợi thế cạnh tranh bền vững 
+Các lợi thế cạnh tranh bền vững
 và cơ hội chiến lược
-88
 Thông điệp
 Tổng Giám đốc
-76
-Đánh giá của Ban điều hành  
+Đánh giá của Ban điều hành
 về vấn đề môi trường
-96
-Đánh giá của Ban điều hành  
+Đánh giá của Ban điều hành
 về vấn đề người lao động
-98
-Đánh giá của Ban điều hành  
-liên quan đến trách nhiệm  
+Đánh giá của Ban điều hành
+liên quan đến trách nhiệm
 với cộng đồng địa phương
-100
-Báo cáo Ban điều hành về  
+Báo cáo Ban điều hành về
 hoạt động sản xuất kinh doanh năm 2024
-78
 Những cải tiến về cơ cấu tổ chức,
 chính sách quản lý công ty
-90
-Kết quả hoạt động sản xuất  
+Kết quả hoạt động sản xuất
 kinh doanh trong năm 2024
-64
 Danh mục đầu tư
-68
 Thông tin cổ phiếu,
 cơ cấu cổ đông, thay
 đổi vốn đầu tư của
 chủ sở hữu, thông tin
 cổ phiếu quỹ
-69
 
-Năm 2024 đã khép lại, để lại dấu ấn đậm nét về một hành 
-trình vượt qua muôn trùng thử thách. Thế giới chứng kiến 
-những biến động sâu rộng từ kinh tế, địa chính trị cho đến 
-thiên tai và những bất ổn kéo dài, tác động trực tiếp đến mọi 
+trình vượt qua muôn trùng thử thách. Thế giới chứng kiến
+những biến động sâu rộng từ kinh tế, địa chính trị cho đến
+thiên tai và những bất ổn kéo dài, tác động trực tiếp đến mọi
 lĩnh vực, đặc biệt là thương mại - dịch vụ và ngành bán lẻ.
-Trong bối cảnh ấy, thị trường kim hoàn Việt Nam chứng kiến 
-sự dịch chuyển lớn, khi thị trường vàng ngày càng minh bạch, 
-mở ra cơ hội cho các doanh nghiệp có nội lực và chiến lược 
-rõ ràng. Tuy nhiên, sự khan hiếm nguồn nguyên liệu, sức mua 
-suy giảm và các áp lực từ chuỗi cung ứng đã đặt PNJ vào thế 
+Trong bối cảnh ấy, thị trường kim hoàn Việt Nam chứng kiến
+sự dịch chuyển lớn, khi thị trường vàng ngày càng minh bạch,
+mở ra cơ hội cho các doanh nghiệp có nội lực và chiến lược
+rõ ràng. Tuy nhiên, sự khan hiếm nguồn nguyên liệu, sức mua
+suy giảm và các áp lực từ chuỗi cung ứng đã đặt PNJ vào thế
 phải “chèo lái” khéo léo giữa muôn trùng sóng gió.
-Bằng bản lĩnh kiên cường và tư duy thích ứng, PNJ đã vững 
-tay lái, vượt qua mọi trở ngại để hoàn thành các mục tiêu 
-chiến lược đề ra. Doanh thu thuần đạt 37.823 tỷ đồng, tăng 
-14,1% so với năm 2023; lợi nhuận sau thuế đạt 2.113 tỷ 
-đồng, tăng 7,2% - những con số không chỉ phản ánh kết 
-quả kinh doanh ấn tượng mà còn là minh chứng cho một 
-hành trình bền bỉ và nỗ lực phi thường. Đây cũng là mức cao 
+Bằng bản lĩnh kiên cường và tư duy thích ứng, PNJ đã vững
+tay lái, vượt qua mọi trở ngại để hoàn thành các mục tiêu
+chiến lược đề ra. Doanh thu thuần đạt 37.823 tỷ đồng, tăng
+14,1% so với năm 2023; lợi nhuận sau thuế đạt 2.113 tỷ
+đồng, tăng 7,2% - những con số không chỉ phản ánh kết
+quả kinh doanh ấn tượng mà còn là minh chứng cho một
+hành trình bền bỉ và nỗ lực phi thường. Đây cũng là mức cao
 nhất trong lịch sử 37 năm hình thành và phát triển của PNJ.
-SUỐT HÀNH TRÌNH ẤY, CÓ MỘT ĐIỀU KHÔNG 
+SUỐT HÀNH TRÌNH ẤY, CÓ MỘT ĐIỀU KHÔNG
 BAO GIỜ THAY ĐỔI - ĐÓ LÀ NIỀM TIN.
-Niềm tin của khách hàng, cổ đông, đối tác, và đặc biệt 
-là niềm tin giữa Ban lãnh đạo và mỗi cán bộ nhân viên 
-- chính là nền tảng làm nên mọi thành tựu. Triết lý “Giữ 
-trọn niềm tin - Tôn vinh vẻ đẹp” đã ăn sâu vào từng hành 
-động, từng quyết sách của PNJ, giúp chúng tôi xây dựng 
-nền tảng quản trị minh bạch, kiểm soát rủi ro hiệu quả và 
+Niềm tin của khách hàng, cổ đông, đối tác, và đặc biệt
+là niềm tin giữa Ban lãnh đạo và mỗi cán bộ nhân viên
+- chính là nền tảng làm nên mọi thành tựu. Triết lý “Giữ
+trọn niềm tin - Tôn vinh vẻ đẹp” đã ăn sâu vào từng hành
+động, từng quyết sách của PNJ, giúp chúng tôi xây dựng
+nền tảng quản trị minh bạch, kiểm soát rủi ro hiệu quả và
 định hướng phát triển bền vững theo chuẩn mực quốc tế.
-Năm 2024 cũng đánh dấu một bước ngoặt quan trọng khi 
-PNJ không chỉ giữ vững vị thế hàng đầu trong nước mà 
-còn từng bước định vị Việt Nam trên bản đồ kim hoàn thế 
-giới. Các giải thưởng uy tín, những kỷ lục về sản xuất, bán 
-lẻ, marketing, chuyển đổi số, chuỗi cung ứng, nhân sự... 
-không chỉ là niềm tự hào mà còn là sự khẳng định vị thế 
+Năm 2024 cũng đánh dấu một bước ngoặt quan trọng khi
+PNJ không chỉ giữ vững vị thế hàng đầu trong nước mà
+còn từng bước định vị Việt Nam trên bản đồ kim hoàn thế
+giới. Các giải thưởng uy tín, những kỷ lục về sản xuất, bán
+lẻ, marketing, chuyển đổi số, chuỗi cung ứng, nhân sự...
+không chỉ là niềm tự hào mà còn là sự khẳng định vị thế
 PNJ trong tầm vóc quốc gia và khu vực.
-TẬP THỂ PNJ LUÔN LÀ NGUỒN TÀI SẢN QUÝ GIÁ 
+TẬP THỂ PNJ LUÔN LÀ NGUỒN TÀI SẢN QUÝ GIÁ
 CÙNG NHAU TẠO NÊN KỲ TÍCH.
-37 năm qua, từng thế hệ cán bộ nhân viên PNJ đã góp 
-sức bền bỉ để thắp sáng ngọn lửa đam mê, sáng tạo và 
-dấn thân. Tình cảm và sự đồng lòng giữa người lao động 
+37 năm qua, từng thế hệ cán bộ nhân viên PNJ đã góp
+sức bền bỉ để thắp sáng ngọn lửa đam mê, sáng tạo và
+dấn thân. Tình cảm và sự đồng lòng giữa người lao động
 và Ban lãnh đạo là cội nguồn của mọi thành tựu.
-Song hành với phát triển kinh doanh, PNJ không ngừng 
-lan tỏa giá trị nhân văn qua hàng loạt hoạt động vì cộng 
-đồng, an sinh xã hội và bảo vệ môi trường. Với định 
-hướng phát triển bền vững (ESG), PNJ đã và đang tiên 
-phong trong việc thực thi trách nhiệm doanh nghiệp một 
+Song hành với phát triển kinh doanh, PNJ không ngừng
+lan tỏa giá trị nhân văn qua hàng loạt hoạt động vì cộng
+đồng, an sinh xã hội và bảo vệ môi trường. Với định
+hướng phát triển bền vững (ESG), PNJ đã và đang tiên
+phong trong việc thực thi trách nhiệm doanh nghiệp một
 cách bài bản và có chiều sâu.
-Không dừng lại ở đó, PNJ tiếp tục được ghi nhận với 
+Không dừng lại ở đó, PNJ tiếp tục được ghi nhận với
 hàng loạt danh hiệu danh giá như:
 •	 Thương hiệu Quốc gia
 •	 Top 50 Doanh nghiệp Kinh doanh hiệu quả nhất,
-•	 Top 500 Doanh nghiệp lớn nhất Đông Nam Á 
+•	 Top 500 Doanh nghiệp lớn nhất Đông Nam Á
 (Fortune 500)
-•	 Top 10 Doanh nghiệp bền vững trong lĩnh vực 
+•	 Top 10 Doanh nghiệp bền vững trong lĩnh vực
 thương mại - dịch vụ
-•	 Top 10 Quản trị Công ty tốt nhất nhóm vốn hóa 
 lớn (Large Cap 2024)...
-Những vinh danh đó không chỉ là kết quả của hiện tại, mà 
-là lời cam kết mạnh mẽ cho tương lai: PNJ sẽ tiếp tục phát 
-triển có trách nhiệm - vì một tương lai thịnh vượng, xanh 
+Những vinh danh đó không chỉ là kết quả của hiện tại, mà
+là lời cam kết mạnh mẽ cho tương lai: PNJ sẽ tiếp tục phát
+triển có trách nhiệm - vì một tương lai thịnh vượng, xanh
 và bền vững.
-Hướng đến năm 2025, mặc dù dự báo sức mua giảm, 
-tình hình giá vàng thế giới tăng cao và khó khăn trong việc 
-mua vàng nguyên liệu, và vẫn còn nhiều bất định về kinh 
-tế toàn cầu, nhưng PNJ chọn bước tiếp bằng niềm tin và 
-trí tuệ. Mục tiêu tăng trưởng năm 2025 là một thách thức 
-lớn đòi hỏi sự nỗ lực và quyết tâm cao của toàn thể lãnh 
-đạo và đội ngũ PNJ, nhằm tiếp tục đóng góp cho ngân 
-sách quốc gia, tạo dựng giá trị bền vững cho xã hội và 
-nâng cao chất lượng sống cho đội ngũ nhân sự - đây vốn 
+Hướng đến năm 2025, mặc dù dự báo sức mua giảm,
+tình hình giá vàng thế giới tăng cao và khó khăn trong việc
+mua vàng nguyên liệu, và vẫn còn nhiều bất định về kinh
+tế toàn cầu, nhưng PNJ chọn bước tiếp bằng niềm tin và
+trí tuệ. Mục tiêu tăng trưởng năm 2025 là một thách thức
+lớn đòi hỏi sự nỗ lực và quyết tâm cao của toàn thể lãnh
+đạo và đội ngũ PNJ, nhằm tiếp tục đóng góp cho ngân
+sách quốc gia, tạo dựng giá trị bền vững cho xã hội và
+nâng cao chất lượng sống cho đội ngũ nhân sự - đây vốn
 là tài sản quý giá nhất của doanh nghiệp.
-Thay mặt Hội đồng Quản trị, tôi xin gửi lời tri ân sâu sắc 
-đến Quý cổ đông, Quý khách hàng, Quý đối tác và toàn 
-thể CBNV PNJ đã luôn tin tưởng và đồng hành trên hành 
-trình kiến tạo vẻ đẹp, khơi nguồn cảm hứng, và khẳng 
+Thay mặt Hội đồng Quản trị, tôi xin gửi lời tri ân sâu sắc
+đến Quý cổ đông, Quý khách hàng, Quý đối tác và toàn
+thể CBNV PNJ đã luôn tin tưởng và đồng hành trên hành
+trình kiến tạo vẻ đẹp, khơi nguồn cảm hứng, và khẳng
 định bản lĩnh Việt.
-Kính chúc Quý vị và gia đình một năm mới an khang - 
+Kính chúc Quý vị và gia đình một năm mới an khang -
 thịnh vượng - hạnh phúc.
 Trân trọng,
 CAO THỊ NGỌC DUNG
 Chủ tịch Hội đồng Quản trị
-“BẰNG BẢN LĨNH KIÊN CƯỜNG VÀ TƯ DUY  
-THÍCH ỨNG, PNJ ĐÃ VỮNG TAY LÁI, VƯỢT QUA 
-MỌI TRỞ NGẠI ĐỂ HOÀN THÀNH CÁC MỤC TIÊU 
+“BẰNG BẢN LĨNH KIÊN CƯỜNG VÀ TƯ DUY
+THÍCH ỨNG, PNJ ĐÃ VỮNG TAY LÁI, VƯỢT QUA
+MỌI TRỞ NGẠI ĐỂ HOÀN THÀNH CÁC MỤC TIÊU
 CHIẾN LƯỢC ĐỀ RA.”
 THÔNG ĐIỆP
 CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
-Cao Thị Ngọc Dung 
+Cao Thị Ngọc Dung
 Chủ tịch Hội đồng quản trị
-Kính gửi Quý Cổ đông, Quý Khách hàng, Quý Đối tác và toàn thể Cán bộ 
+Kính gửi Quý Cổ đông, Quý Khách hàng, Quý Đối tác và toàn thể Cán bộ
 Nhân viên PNJ,
-7
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
 
 THÀNH VIÊN HỘI ĐỒNG QUẢN TRỊ PNJ
 TRÌNH ĐỘ HỌC VẤN
-Cử nhân Khoa Ngoại ngữ, Đại học Sư phạm 
-TP.HCM. 
-Kinh nghiệm ngành nghề: Nhân sự,  
+Cử nhân Khoa Ngoại ngữ, Đại học Sư phạm
+TP.HCM.
+Kinh nghiệm ngành nghề: Nhân sự,
 Tiêu dùng nhanh.
 QUÁ TRÌNH CÔNG TÁC
-	»
-Hiện là Tổng Giám đốc CTCP Kết Nối 
-Nhân Tài (TalentNet), Thành viên độc lập 
+Hiện là Tổng Giám đốc CTCP Kết Nối
+Nhân Tài (TalentNet), Thành viên độc lập
 HĐQT CTCP Sữa Việt Nam (Vinamilk).
-	»
-Từ tháng 06/2020 đến nay, bà đảm nhận vai 
-trò Thành viên độc lập HĐQT Công ty Cổ 
+Từ tháng 06/2020 đến nay, bà đảm nhận vai
+trò Thành viên độc lập HĐQT Công ty Cổ
 phần Vàng bạc Đá quý Phú Nhuận (PNJ).
-	»
-Bà có trên 27 năm kinh nghiệm 
-trong lĩnh vực tư vấn nhân sự, trong 
-đó có 11 năm công tác tại Công ty 
+Bà có trên 27 năm kinh nghiệm
+trong lĩnh vực tư vấn nhân sự, trong
+đó có 11 năm công tác tại Công ty
 PricewaterhouseCoopers Việt Nam (PwC).
 TRÌNH ĐỘ HỌC VẤN
-Cử nhân Kinh tế Thương nghiệp, Đại học Kinh tế TP.HCM. 
+Cử nhân Kinh tế Thương nghiệp, Đại học Kinh tế TP.HCM.
 Kinh nghiệm ngành nghề:
 Kinh tế, Tài chính, Thương mại.
 QUÁ TRÌNH CÔNG TÁC
-	» Bà là nhà sáng lập, giữ chức vụ Chủ tịch HĐQT kiêm TGĐ từ năm 2004 
+» Bà là nhà sáng lập, giữ chức vụ Chủ tịch HĐQT kiêm TGĐ từ năm 2004
 đến năm 2018.
-	» Từ tháng 04/2018 đến nay, bà đảm nhận vai trò Chủ tịch HĐQT Công 
-ty Cổ phần Vàng bạc Đá quý Phú Nhuận (PNJ), Chủ tịch HĐTV Công ty 
+» Từ tháng 04/2018 đến nay, bà đảm nhận vai trò Chủ tịch HĐQT Công
+ty Cổ phần Vàng bạc Đá quý Phú Nhuận (PNJ), Chủ tịch HĐTV Công ty
 TNHH MTV Chế tác và Kinh doanh Trang sức PNJ (PNJP).
-	» Ngoài PNJ, bà còn đảm nhận vai trò Phó Chủ tịch Hiệp hội Nữ Doanh 
-nhân Việt Nam - VAWE từ năm 2014 đến nay, và là Chủ tịch Hội Nữ Doanh 
+» Ngoài PNJ, bà còn đảm nhận vai trò Phó Chủ tịch Hiệp hội Nữ Doanh
+nhân Việt Nam - VAWE từ năm 2014 đến nay, và là Chủ tịch Hội Nữ Doanh
 nhân TP.HCM - HAWEE từ năm 2015 đến nay.
-	» Trước khi thành lập Công ty PNJ, bà từng công tác tại CTCP Năng Lượng 
-Đại Việt, CTCP Địa ốc Đông Á, Ngân hàng TMCP Đông Á, Công ty 
+» Trước khi thành lập Công ty PNJ, bà từng công tác tại CTCP Năng Lượng
+Đại Việt, CTCP Địa ốc Đông Á, Ngân hàng TMCP Đông Á, Công ty
 Thương mại Phú Nhuận, Trung tâm Tín dụng Phú Gia.
 Bà CAO THỊ NGỌC DUNG
 Chủ tịch Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
-Kỹ sư Công nghệ hóa học, Đại học Bách Khoa 
-- ĐH Quốc gia TP.HCM. Thạc sĩ Quản trị Kinh 
+Kỹ sư Công nghệ hóa học, Đại học Bách Khoa
+- ĐH Quốc gia TP.HCM. Thạc sĩ Quản trị Kinh
 doanh, Đại học Oxford, Vương Quốc Anh.
-Kinh nghiệm ngành nghề: FMCG, Tài chính, 
+Kinh nghiệm ngành nghề: FMCG, Tài chính,
 Bán lẻ, Đầu tư, Tư vấn chiến lược, Công nghệ.
 QUÁ TRÌNH CÔNG TÁC
-	»
-Từ năm 2017, ông tham gia PNJ với vai trò Phó 
-Chủ tịch HĐQT và năm 2018, ông kiêm chức 
-danh Tổng Giám đốc Công ty Cổ phần Vàng bạc 
-Đá quý Phú Nhuận, là Thành viên HĐTV Công 
-ty TNHH MTV Chế tác và Kinh doanh Trang sức 
+Từ năm 2017, ông tham gia PNJ với vai trò Phó
+Chủ tịch HĐQT và năm 2018, ông kiêm chức
+danh Tổng Giám đốc Công ty Cổ phần Vàng bạc
+Đá quý Phú Nhuận, là Thành viên HĐTV Công
+ty TNHH MTV Chế tác và Kinh doanh Trang sức
 PNJ (PNJP).
-	»
-Ngoài PNJ, hiện nay ông còn giữ chức danh  
-Chủ tịch Hội Doanh nhân Trẻ TP.HCM, Ủy viên 
-Đoàn Chủ tịch Hội Doanh nhân Trẻ Việt Nam, 
-Phó chủ tịch Hội Hàng Việt Nam Chất lượng cao, 
-Phó Chủ tịch Hiệp hội Kinh Doanh Vàng Việt 
-Nam, Phó Chủ tịch Hiệp hội các Nhà Đầu tư tài 
+Ngoài PNJ, hiện nay ông còn giữ chức danh
+Chủ tịch Hội Doanh nhân Trẻ TP.HCM, Ủy viên
+Đoàn Chủ tịch Hội Doanh nhân Trẻ Việt Nam,
+Phó chủ tịch Hội Hàng Việt Nam Chất lượng cao,
+Phó Chủ tịch Hiệp hội Kinh Doanh Vàng Việt
+Nam, Phó Chủ tịch Hiệp hội các Nhà Đầu tư tài
 chính Việt Nam (VAFI).
-	»
-Trước khi gia nhập PNJ, ông từng công tác 
-tại Prudential Việt Nam, Tập đoàn The Boston 
-Consulting Group (BCG) Việt Nam, Ngân 
-hàng TMCP Đông Á, Công ty Kiều hối Đông Á. 
+Trước khi gia nhập PNJ, ông từng công tác
+tại Prudential Việt Nam, Tập đoàn The Boston
+Consulting Group (BCG) Việt Nam, Ngân
+hàng TMCP Đông Á, Công ty Kiều hối Đông Á.
 Ông LÊ TRÍ THÔNG
 Phó Chủ tịch Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
-Cử nhân Kinh tế và Quản trị kinh doanh, 
-Đại học Oxford, Vương quốc Anh. Tiến sĩ 
-Kinh tế học, Đại học Harvard, Hoa Kỳ. 
-Kinh nghiệm ngành nghề: Kinh tế, Tài 
+Cử nhân Kinh tế và Quản trị kinh doanh,
+Đại học Oxford, Vương quốc Anh. Tiến sĩ
+Kinh tế học, Đại học Harvard, Hoa Kỳ.
+Kinh nghiệm ngành nghề: Kinh tế, Tài
 chính, Tư vấn chiến lược.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ năm 2019, bà tham gia PNJ với vai trò 
+» Từ năm 2019, bà tham gia PNJ với vai trò
 Giám đốc cao cấp - Chuyển đổi số hóa.
-	» Từ tháng 06/2020 đến tháng 04/2023, 
-bà đảm nhận vai trò Thành viên HĐQT 
-Công ty Cổ phần Vàng bạc Đá quý Phú 
+bà đảm nhận vai trò Thành viên HĐQT
+Công ty Cổ phần Vàng bạc Đá quý Phú
 Nhuận (PNJ).
-	» Từ ngày 27/04/2023, bà được bầu là 
-Phó Chủ Tịch HĐQT Công ty Cổ phần 
+» Từ ngày 27/04/2023, bà được bầu là
+Phó Chủ Tịch HĐQT Công ty Cổ phần
 Vàng bạc Đá quý Phú Nhuận (PNJ)
-	» Từ tháng 2/2025, bà được bổ nhiệm 
-làm Tổng Giám đốc Công ty TNHH Một 
-thành viên Chế tác và Kinh doanh Trang 
+» Từ tháng 2/2025, bà được bổ nhiệm
+làm Tổng Giám đốc Công ty TNHH Một
+thành viên Chế tác và Kinh doanh Trang
 sức PNJ (PNJP)
-	» Trước khi gia nhập PNJ, bà từng công 
-tác tại Trường Đại học Kinh Tế TP.HCM, 
-Ngân hàng TMCP Đông Á và Tập đoàn 
+» Trước khi gia nhập PNJ, bà từng công
+tác tại Trường Đại học Kinh Tế TP.HCM,
+Ngân hàng TMCP Đông Á và Tập đoàn
 Ngân hàng Úc và New Zealand (ANZ).
-Bà TRẦN PHƯƠNG NGỌC THẢO 
+Bà TRẦN PHƯƠNG NGỌC THẢO
 Phó Chủ tịch Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
 Thạc sĩ Quản trị Kinh doanh Quốc tế,
@@ -355,79 +293,75 @@ Kinh nghiệm ngành nghề: Đầu tư Tài
 chính, Bất động sản,
 Dịch vụ Khách sạn Du lịch.
 QUÁ TRÌNH CÔNG TÁC
-	» Hiện là Chủ tịch HĐQT CTCP Đầu tư 
+» Hiện là Chủ tịch HĐQT CTCP Đầu tư
 Alphanam.
-	» Từ tháng 06/2020 đến nay, ông đảm 
-nhận vai trò Thành viên độc lập HĐQT 
-Công ty Cổ phần Vàng bạc Đá quý Phú 
+» Từ tháng 06/2020 đến nay, ông đảm
+nhận vai trò Thành viên độc lập HĐQT
+Công ty Cổ phần Vàng bạc Đá quý Phú
 Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông là sáng 
-lập viên - chủ sở hữu của nhiều doanh 
+» Trước khi gia nhập PNJ, ông là sáng
+lập viên - chủ sở hữu của nhiều doanh
 nghiệp vàng bạc, sản xuất, khách sạn.
 Ông NGUYỄN TUẤN HẢI
-Trưởng thành viên độc lập  
+Trưởng thành viên độc lập
 Hội đồng Quản trị
-Bà TIÊU YẾN TRINH 
+Bà TIÊU YẾN TRINH
 Thành viên độc lập Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
 Kỹ sư Công nghệ Hạt nhân,
 Đại học Khoa học Tự nhiên Hà Nội.
 Kinh nghiệm ngành nghề: Công nghệ thông tin.
-Thạc sĩ Quản trị kinh doanh, Viện Công nghệ 
+Thạc sĩ Quản trị kinh doanh, Viện Công nghệ
 châu Á (AIT)
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 08/2020 đến nay, ông tham 
-gia PNJ với vai trò Giám đốc Cao Cấp - 
+» Từ tháng 08/2020 đến nay, ông tham
+gia PNJ với vai trò Giám đốc Cao Cấp -
 Công nghệ thông tin.
-	» Từ ngày 27/04/2023, ông được bổ nhiệm 
-là Thành viên HĐQT Công ty Cổ phần 
+» Từ ngày 27/04/2023, ông được bổ nhiệm
+là Thành viên HĐQT Công ty Cổ phần
 Vàng bạc Đá quý Phú Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông từng công 
-tác tại Tập đoàn Sơn Kim, Công ty MGI 
-Global, Công ty Central Retail Việt Nam 
-(Central Group tại Thái Lan), Công ty 
-Noble Việt Nam, Công ty Ebizviet, Ngân 
-hàng TMCP Đại Dương, Tập đoàn Điện 
+» Trước khi gia nhập PNJ, ông từng công
+tác tại Tập đoàn Sơn Kim, Công ty MGI
+Global, Công ty Central Retail Việt Nam
+(Central Group tại Thái Lan), Công ty
+Noble Việt Nam, Công ty Ebizviet, Ngân
+hàng TMCP Đại Dương, Tập đoàn Điện
 lực Việt Nam.
-Ông ĐẶNG HẢI ANH 
+Ông ĐẶNG HẢI ANH
 Thành viên Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
-Cử nhân Quản trị Kinh doanh, Đại học Kinh 
+Cử nhân Quản trị Kinh doanh, Đại học Kinh
 tế TP.HCM.
 Kinh nghiệm ngành nghề: Tài chính, Sản xuất.
 QUÁ TRÌNH CÔNG TÁC
-	»
-Từ năm 1990 đến nay, bà làm việc tại PNJ qua 
-các vị trí như: Kế toán vật tư, Phó phòng Kế 
-toán, Kế toán Trưởng, Giám đốc Khối Tài chính 
+Từ năm 1990 đến nay, bà làm việc tại PNJ qua
+các vị trí như: Kế toán vật tư, Phó phòng Kế
+toán, Kế toán Trưởng, Giám đốc Khối Tài chính
 Kế toán, Giám đốc Khối Tài chính - Vận hành.
-	»
-Đến tháng 04/2019, bà đảm nhận vai trò 
-Thành viên HĐQT Công ty Cổ phần Vàng bạc 
-Đá quý Phú Nhuận (PNJ). Ngoài PNJ, bà còn 
+Đến tháng 04/2019, bà đảm nhận vai trò
+Thành viên HĐQT Công ty Cổ phần Vàng bạc
+Đá quý Phú Nhuận (PNJ). Ngoài PNJ, bà còn
 là Thành viên sáng lập CLB CFO Vietnam.
-	»
-Trước khi gia nhập PNJ, bà từng công tác 
-tại BQL Công ty Đay IndiraGranhdi và CTCP 
+Trước khi gia nhập PNJ, bà từng công tác
+tại BQL Công ty Đay IndiraGranhdi và CTCP
 Nhiên liệu Sài Gòn.
-	»
-Tháng 1/2025, bà thôi giữ chức Giám đốc 
-cao cấp - Tài chính, chuyển qua giữ chức 
-Chủ tịch kiêm người đại diện theo ủy quyền 
-của PNJ tại Công ty TNHH Một thành viên 
+Tháng 1/2025, bà thôi giữ chức Giám đốc
+cao cấp - Tài chính, chuyển qua giữ chức
+Chủ tịch kiêm người đại diện theo ủy quyền
+của PNJ tại Công ty TNHH Một thành viên
 Giám định PNJ (PNJL)
-Bà ĐẶNG THỊ LÀI 
+Bà ĐẶNG THỊ LÀI
 Thành viên Hội đồng Quản trị
 Thành viên Ủy ban Kiểm toán
 TRÌNH ĐỘ HỌC VẤN
 Thạc sĩ Tài chính, Đại học Hofstra, Hoa Kỳ.
 Kinh nghiệm ngành nghề: Giáo dục, Tài chính, Tư vấn chiến lược.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ năm 2016, ông tham gia PNJ với vai trò Giám đốc Cao Cấp - Chiến 
+» Từ năm 2016, ông tham gia PNJ với vai trò Giám đốc Cao Cấp - Chiến
 lược.
-	» Trước khi gia nhập PNJ, ông từng công tác tại Trường Đại học Kinh tế 
+» Trước khi gia nhập PNJ, ông từng công tác tại Trường Đại học Kinh tế
 TP.HCM, Ngân hàng TMCP Đông Á và Công ty TNHH Kiên Anh.
-Ông ĐÀO TRUNG KIÊN 
+Ông ĐÀO TRUNG KIÊN
 Thành viên Hội đồng Quản trị
 TRÌNH ĐỘ HỌC VẤN
 Kỹ sư Xây dựng Thủy Lợi,
@@ -437,280 +371,238 @@ Washington State, Hoa Kỳ.
 Kinh nghiệm ngành nghề: Giáo dục,
 Xây dựng, Tư vấn quản lý doanh nghiệp.
 QUÁ TRÌNH CÔNG TÁC
-	» Hiện là Chủ tịch HĐQT CTCP Tư vấn Quản lý BDSC, Thành viên HĐQT 
-CTCP Bất động sản Phát Đạt, Thành viên HĐQT CTCP Đầu tư và Xây 
+» Hiện là Chủ tịch HĐQT CTCP Tư vấn Quản lý BDSC, Thành viên HĐQT
+CTCP Bất động sản Phát Đạt, Thành viên HĐQT CTCP Đầu tư và Xây
 dựng Tây Hồ, Thành viên HĐQT CTCP Kỹ nghệ lạnh SEAREFICO.
-	» Từ tháng 04/2016 đến nay, ông đảm nhận vai trò Thành viên độc lập 
+» Từ tháng 04/2016 đến nay, ông đảm nhận vai trò Thành viên độc lập
 HĐQT Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông từng công tác tại Công ty XDCT 507 và Công 
-ty XDCT 586, Tổng Công ty XDCT GT 5 (CIENCO 5), Trường Doanh nhân 
+» Trước khi gia nhập PNJ, ông từng công tác tại Công ty XDCT 507 và Công
+ty XDCT 586, Tổng Công ty XDCT GT 5 (CIENCO 5), Trường Doanh nhân
 PACE.
-Ông LÊ QUANG PHÚC 
+Ông LÊ QUANG PHÚC
 Thành viên độc lập Hội đồng Quản trị
 Chủ tịch Ủy ban Kiểm toán
-17
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 TRÌNH ĐỘ HỌC VẤN
 Thạc sĩ Quản trị Kinh doanh,
 Đại học Hawaii, Hoa Kỳ.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 09/2022 đến tháng 03/2023, 
-ông tham gia PNJ với vai trò Giám đốc 
+ông tham gia PNJ với vai trò Giám đốc
 Chiến lược Tiếp thị.
-	» Từ ngày 26/03/2023, ông được bổ 
-nhiệm vai trò Giám đốc Cao Cấp - 
-Marketing tại Công ty Cổ phần Vàng bạc 
+» Từ ngày 26/03/2023, ông được bổ
+nhiệm vai trò Giám đốc Cao Cấp -
+Marketing tại Công ty Cổ phần Vàng bạc
 Đá quý Phú Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông từng là 
-đồng sáng lập, Tổng Giám đốc điều 
+» Trước khi gia nhập PNJ, ông từng là
+đồng sáng lập, Tổng Giám đốc điều
 hành Công ty Isobar Việt Nam.
 THÀNH VIÊN BAN ĐIỀU HÀNH PNJ
 TRÌNH ĐỘ HỌC VẤN
 Kỹ sư Công nghệ hóa học, Đại học Bách Khoa - Đại học Quốc gia TP.HCM
 Thạc sĩ Quản trị Kinh doanh, Đại học Oxford, Vương Quốc Anh.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ năm 2017, ông tham gia PNJ với vai trò Phó Chủ tịch HĐQT và năm 
-2018 ông kiêm chức danh Tổng Giám đốc Công ty Cổ phần Vàng bạc Đá 
-quý Phú Nhuận, là Thành viên HĐTV Công ty TNHH MTV Chế tác và Kinh 
-doanh Trang sức PNJ (PNJP). 
-	» Ngoài PNJ, hiện nay ông còn giữ chức danh Chủ tịch Hội Doanh nhân Trẻ 
-TP.HCM, Ủy viên Đoàn Chủ tịch Hội Doanh nhân Trẻ Việt Nam, Phó chủ tịch 
-Hội Hàng Việt Nam Chất lượng cao, Phó Chủ tịch Hiệp hội Kinh Doanh Vàng 
+» Từ năm 2017, ông tham gia PNJ với vai trò Phó Chủ tịch HĐQT và năm
+2018 ông kiêm chức danh Tổng Giám đốc Công ty Cổ phần Vàng bạc Đá
+quý Phú Nhuận, là Thành viên HĐTV Công ty TNHH MTV Chế tác và Kinh
+doanh Trang sức PNJ (PNJP).
+» Ngoài PNJ, hiện nay ông còn giữ chức danh Chủ tịch Hội Doanh nhân Trẻ
+TP.HCM, Ủy viên Đoàn Chủ tịch Hội Doanh nhân Trẻ Việt Nam, Phó chủ tịch
+Hội Hàng Việt Nam Chất lượng cao, Phó Chủ tịch Hiệp hội Kinh Doanh Vàng
 Việt Nam, Phó Chủ tịch Hiệp hội các Nhà Đầu tư tài chính Việt Nam (VAFI).
-	» Trước khi gia nhập PNJ, ông từng công tác tại Prudential Việt Nam, Tập 
-đoàn The Boston Consulting Group (BCG) Việt Nam, Ngân hàng TMCP 
+» Trước khi gia nhập PNJ, ông từng công tác tại Prudential Việt Nam, Tập
+đoàn The Boston Consulting Group (BCG) Việt Nam, Ngân hàng TMCP
 Đông Á, Công ty Kiều hối Đông Á.
-Ông LÊ TRÍ THÔNG 
+Ông LÊ TRÍ THÔNG
 Tổng Giám đốc
 TRÌNH ĐỘ HỌC VẤN
-Cử Nhân Tài Chính Ngân Hàng ĐH Kinh 
+Cử Nhân Tài Chính Ngân Hàng ĐH Kinh
 Tế TPHCM
-Thạc Sĩ Quản Trị Kinh Doanh Đại Học 
-Leeds UK, Thành Viên Hiệp Hội Kế Toán 
+Thạc Sĩ Quản Trị Kinh Doanh Đại Học
+Leeds UK, Thành Viên Hiệp Hội Kế Toán
 Quản Trị Công Chứng Anh (CIMA)
 QUÁ TRÌNH CÔNG TÁC
-	»
-Từ tháng 2 - 12/2024, ông giữ chức vụ Giám 
-đốc Chiến lược Đầu tư tài chính tại PNJ. Và 
-từ tháng 1/2025, ông được bổ nhiệm vai trò 
-Giám đốc cao cấp - Tài chính Công ty Cổ 
+Từ tháng 2 - 12/2024, ông giữ chức vụ Giám
+đốc Chiến lược Đầu tư tài chính tại PNJ. Và
+từ tháng 1/2025, ông được bổ nhiệm vai trò
+Giám đốc cao cấp - Tài chính Công ty Cổ
 phần Vàng bạc Đá quý Phú Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông từng giữ 
-chức vụ Giám đốc Tài chính ở nhiều công 
-ty khác nhau như Nova Consumer, Pizza 
-4Ps, Golden Gate, Uniben, Unilever Asia 
+» Trước khi gia nhập PNJ, ông từng giữ
+chức vụ Giám đốc Tài chính ở nhiều công
+ty khác nhau như Nova Consumer, Pizza
+4Ps, Golden Gate, Uniben, Unilever Asia
 Pte Ltd, Unilever Vietnam International Ltd.
 Ông NGUYỄN MINH HẢI
 Giám đốc cao cấp - Tài chính
 TRÌNH ĐỘ HỌC VẤN
 Thạc sĩ Tài chính, Đại học Hofstra, Hoa Kỳ.
-Kinh nghiệm ngành nghề: Giáo dục, Tài 
+Kinh nghiệm ngành nghề: Giáo dục, Tài
 chính, Tư vấn chiến lược.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ năm 2016, ông tham gia PNJ với vai 
+» Từ năm 2016, ông tham gia PNJ với vai
 trò Giám đốc Cao Cấp - Chiến lược.
-	» Trước khi gia nhập PNJ, ông từng công 
-tác tại Trường Đại học Kinh tế TP.HCM, 
-Ngân hàng TMCP Đông Á và Công ty 
+» Trước khi gia nhập PNJ, ông từng công
+tác tại Trường Đại học Kinh tế TP.HCM,
+Ngân hàng TMCP Đông Á và Công ty
 TNHH Kiên Anh.
-Ông ĐÀO TRUNG KIÊN 
+Ông ĐÀO TRUNG KIÊN
 Giám đốc cao cấp - Vận hành
 TRÌNH ĐỘ HỌC VẤN
 Cử nhân Kinh tế, Đại học Kinh tế TP.HCM.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ năm 1997 đến nay, ông làm việc tại 
-PNJ qua các vai trò như: Nhân viên Kế 
-toán tổng hợp, Phó phòng Kế toán, Phó 
-phòng Tài chính kế toán, Trưởng phòng 
+» Từ năm 1997 đến nay, ông làm việc tại
+PNJ qua các vai trò như: Nhân viên Kế
+toán tổng hợp, Phó phòng Kế toán, Phó
+phòng Tài chính kế toán, Trưởng phòng
 Kế toán.
-	» Từ ngày 01/03/2017 đến nay, ông được 
-bổ nhiệm vai trò Kế toán Trưởng Công 
-ty Cổ phần Vàng bạc Đá quý Phú Nhuận 
-(PNJ).
-Ông DƯƠNG QUANG HẢI 
+» Từ ngày 01/03/2017 đến nay, ông được
+bổ nhiệm vai trò Kế toán Trưởng Công
+ty Cổ phần Vàng bạc Đá quý Phú Nhuận
+Ông DƯƠNG QUANG HẢI
 Kế toán Trưởng
-Ông NGUYỄN KHOA HỒNG THÀNH 
+Ông NGUYỄN KHOA HỒNG THÀNH
 Giám đốc cao cấp - Marketing
 TRÌNH ĐỘ HỌC VẤN
 Cử nhân Kinh tế,
 Đại học Kinh tế Quốc dân Hà Nội.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 09/2023 đến nay, ông tham 
-gia PNJ với vai trò Giám đốc cao cấp - 
-Nguồn Nhân lực tại CTCP Vàng bạc Đá 
+» Từ tháng 09/2023 đến nay, ông tham
+gia PNJ với vai trò Giám đốc cao cấp -
+Nguồn Nhân lực tại CTCP Vàng bạc Đá
 quý Phú Nhuận (PNJ).
-	» Trước khi gia nhập PNJ, ông từng công tác 
-tại CTCP One Mount Group, Công ty TNHH 
-Thời trang & Mỹ Phẩm Âu Châu (ACFC 
-thuộc Tập đoàn IPP), Công ty Tài chính 
-TNHH MTV Ngân hàng Việt Nam Thịnh 
-vượng (FE Credit), Ngân hàng TMCP Việt 
-Nam Thịnh vượng (VP Bank), Công ty 
-TNHH Syngenta Việt Nam, Công ty TNHH 
-Vinataba Philip Morris CN  TP. Hồ Chí Minh, 
+» Trước khi gia nhập PNJ, ông từng công tác
+tại CTCP One Mount Group, Công ty TNHH
+Thời trang & Mỹ Phẩm Âu Châu (ACFC
+thuộc Tập đoàn IPP), Công ty Tài chính
+TNHH MTV Ngân hàng Việt Nam Thịnh
+vượng (FE Credit), Ngân hàng TMCP Việt
+Nam Thịnh vượng (VP Bank), Công ty
+TNHH Syngenta Việt Nam, Công ty TNHH
+Vinataba Philip Morris CN  TP. Hồ Chí Minh,
 Công ty TNHH Unilever Việt Nam.
-Ông NGUYỄN CHÍ KIÊN 
-Giám đốc cao cấp -  
+Ông NGUYỄN CHÍ KIÊN
+Giám đốc cao cấp -
 Nguồn nhân lực
 TRÌNH ĐỘ HỌC VẤN
 Thạc sĩ Quản Trị Kinh Doanh,
 Đại Học Adelaide, Úc.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 08/2022, bà tham gia PNJ với 
-vai trò Giám Đốc Cao Cấp - TT. Phát 
+» Từ tháng 08/2022, bà tham gia PNJ với
+vai trò Giám Đốc Cao Cấp - TT. Phát
 Triển Kinh Doanh Quốc Tế.
-	» Từ tháng 01/2024, ngoài vị trí tại TT. 
-Phát Triển Kinh Doanh Quốc Tế, bà kiêm 
-nhiệm thêm vị trí Giám Đốc Cao Cấp - 
+» Từ tháng 01/2024, ngoài vị trí tại TT.
+Phát Triển Kinh Doanh Quốc Tế, bà kiêm
+nhiệm thêm vị trí Giám Đốc Cao Cấp -
 Khối Khách Hàng & Bán Lẻ.
-	» Trước khi gia nhập PNJ, bà từng công 
-tác tại Tập đoàn Alibaba | Lazada 
-Vietnam, Tập đoàn Vingroup, Tập đoàn 
-Lux Asia | L Beauty Vietnam, Tập đoàn 
+» Trước khi gia nhập PNJ, bà từng công
+tác tại Tập đoàn Alibaba | Lazada
+Vietnam, Tập đoàn Vingroup, Tập đoàn
+Lux Asia | L Beauty Vietnam, Tập đoàn
 Imex Pan Pacific | ACFC Vietnam.
-Bà TRƯƠNG HOÀI ANH 
-Giám đốc cao cấp -  
+Bà TRƯƠNG HOÀI ANH
+Giám đốc cao cấp -
 Khách hàng & bán lẻ
 TRÌNH ĐỘ HỌC VẤN
 Kỹ sư Công nghệ Hạt nhân,
 Đại học Khoa học Tự nhiên Hà Nội.
 Thạc sĩ Quản trị kinh doanh, Viện Công nghệ châu Á (AIT)
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 08/2020 đến nay, ông tham gia PNJ với vai trò Giám đốc Cao 
+» Từ tháng 08/2020 đến nay, ông tham gia PNJ với vai trò Giám đốc Cao
 Cấp - Công nghệ thông tin.
-	» Từ ngày 27/04/2023, ông được bổ nhiệm là Thành viên HĐQT Công ty Cổ 
-phần Vàng bạc Đá quý Phú Nhuận (PNJ). 
-	» Trước khi gia nhập PNJ, ông từng công tác tại Tập đoàn Sơn Kim, Công ty 
-MGI Global, Công ty Central Retail Việt Nam (Central Group tại Thái Lan), 
-Công ty Noble Việt Nam, Công ty Ebizviet, Ngân hàng TMCP Đại Dương, 
+» Từ ngày 27/04/2023, ông được bổ nhiệm là Thành viên HĐQT Công ty Cổ
+phần Vàng bạc Đá quý Phú Nhuận (PNJ).
+» Trước khi gia nhập PNJ, ông từng công tác tại Tập đoàn Sơn Kim, Công ty
+MGI Global, Công ty Central Retail Việt Nam (Central Group tại Thái Lan),
+Công ty Noble Việt Nam, Công ty Ebizviet, Ngân hàng TMCP Đại Dương,
 Tập đoàn Điện lực Việt Nam.
-Ông ĐẶNG HẢI ANH 
+Ông ĐẶNG HẢI ANH
 Giám đốc cao cấp - Công nghệ thông tin
 TRÌNH ĐỘ HỌC VẤN
 Thạc sỹ Kỹ Thuật Hệ Thống Công Nghiệp, Đại học Bách Khoa TP.HCM.
 QUÁ TRÌNH CÔNG TÁC
-	» Từ tháng 12/2019 đến nay, ông tham gia PNJ với vai trò Giám đốc - Kế 
+» Từ tháng 12/2019 đến nay, ông tham gia PNJ với vai trò Giám đốc - Kế
 hoạch, Hậu cần & Tối ưu hóa.
-	» Từ 16/02/2023, ông được bổ nhiệm vai trò Giám đốc Cao Cấp - Cung ứng 
-Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (PNJ). 
-	» Trước khi gia nhập PNJ, ông từng công tác tại CTCP Việt Thái Quốc Tế, 
+» Từ 16/02/2023, ông được bổ nhiệm vai trò Giám đốc Cao Cấp - Cung ứng
+Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (PNJ).
+» Trước khi gia nhập PNJ, ông từng công tác tại CTCP Việt Thái Quốc Tế,
 CTCP Dược phẩm Pharmacity,
-Ông NGUYỄN NGỌC VĂN QUÂN 
+Ông NGUYỄN NGỌC VĂN QUÂN
 Giám đốc cao cấp - Cung ứng
-21
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-TĂNG TRƯỞNG MẠNH MẼ 
-XÁC LẬP NỀN MÓNG PHÁT TRIỂN BỀN VỮNG 
-2009 - 2018
-Niêm yết cổ phiếu tại HoSE, 
-doanh nghiệp kim hoàn đầu tiên 
-và duy nhất niêm yết trên sàn 
+TĂNG TRƯỞNG MẠNH MẼ
+XÁC LẬP NỀN MÓNG PHÁT TRIỂN BỀN VỮNG
+Niêm yết cổ phiếu tại HoSE,
+doanh nghiệp kim hoàn đầu tiên
+và duy nhất niêm yết trên sàn
 chứng khoán cho đến nay.
-2009
-Thành lập Công ty TNHH MTV 
+Thành lập Công ty TNHH MTV
 Thời trang CAO.
-08/2009
-Khánh thành Xí nghiệp PNJ 
-Production (PNJP) và định hướng 
+Khánh thành Xí nghiệp PNJ
+Production (PNJP) và định hướng
 trở thành nhà bán lẻ trang sức.
-2012
-Tham gia Hội đồng Doanh nghiệp 
+Tham gia Hội đồng Doanh nghiệp
 vì sự phát triển bền vững Việt Nam.
-2016
-Đoạt giải Doanh nghiệp xuất sắc 
-ASEAN và Top 3 Nhà bán lẻ xuất 
+Đoạt giải Doanh nghiệp xuất sắc
+ASEAN và Top 3 Nhà bán lẻ xuất
 sắc Châu Á do JNA bình chọn.
-2017
-Kỷ niệm 30 năm hành trình giữ  
-trọn niềm tin vàng. Báo cáo PTBV 
-đạt giải nhất Châu Á với hạng mục  
-phù hợp với 17 tiêu chí PTBV của  
+Kỷ niệm 30 năm hành trình giữ
+trọn niềm tin vàng. Báo cáo PTBV
+đạt giải nhất Châu Á với hạng mục
+phù hợp với 17 tiêu chí PTBV của
 Liên Hiệp Quốc.
-2018
-Xây dựng sứ mệnh  
+Xây dựng sứ mệnh
 “Tôn vinh giá trị đích thực”.
-2013
 TỎA SÁNG TRƯỜNG TỒN
 CHIẾN LƯỢC F5 REFRESH KIẾN TẠO KỲ TÍCH MỚI
-2018 - 2024
-“Nhấn nút tái tạo - F5 Refresh” tạo đà bứt phá 
-cho chiến lược 5 năm tiếp theo. Trở thành nhà 
-bán lẻ xuất sắc nhất ngành kim hoàn châu Á, 
+“Nhấn nút tái tạo - F5 Refresh” tạo đà bứt phá
+cho chiến lược 5 năm tiếp theo. Trở thành nhà
+bán lẻ xuất sắc nhất ngành kim hoàn châu Á,
 hợp tác với đối tác quốc tế Walt Disney.
-2019
-Công bố tầm nhìn mới, chính thức trở thành 
-Doanh nghiệp xuất sắc nhất ngành kim hoàn châu 
-Á - Thái Bình Dương, được Forbes Việt Nam định 
-giá 93,1 triệu USD. Là doanh nghiệp 5 năm liền 
+Công bố tầm nhìn mới, chính thức trở thành
+Doanh nghiệp xuất sắc nhất ngành kim hoàn châu
+Á - Thái Bình Dương, được Forbes Việt Nam định
+giá 93,1 triệu USD. Là doanh nghiệp 5 năm liền
 nằm trong top 10 doanh nghiệp PTBV Việt Nam.
-2020
-Vinh danh Nhà sản xuất, chế tác trang sức xuất 
-sắc nhất năm 2021 - giải thưởng ngành kim hoàn 
-thế giới JWA. Top 10 Doanh nghiệp đạt chuẩn 
-văn hóa kinh doanh theo Bộ tiêu chuẩn của  
-Thủ tướng Chính phủ. Top 2 doanh nghiệp PTBV 
+Vinh danh Nhà sản xuất, chế tác trang sức xuất
+sắc nhất năm 2021 - giải thưởng ngành kim hoàn
+thế giới JWA. Top 10 Doanh nghiệp đạt chuẩn
+văn hóa kinh doanh theo Bộ tiêu chuẩn của
+Thủ tướng Chính phủ. Top 2 doanh nghiệp PTBV
 trong ngành thương mại dịch vụ.
-2021
-PNJ đạt cột mốc 400 cửa hàng tại 55/63 tỉnh thành 
-trên cả nước. 
-2023
-Lần đầu tiên PNJ vào danh sách Fortune 500  
-Đông Nam Á; Top 10 Sao Vàng Đất Việt; PNJ được 
-vinh danh ở 3 hạng mục E (Môi trường), S (Xã hội)  
-và G (Quản trị) tại giải thưởng phát triển bền vững 
-TOP50 CSA; Giá trị thương hiệu của PNJ  
-tăng 12% so với năm 2023 đạt 480 triệu USD,  
-giữ vị thế đơn vị bán lẻ trang sức giá trị nhất Việt Nam  
+PNJ đạt cột mốc 400 cửa hàng tại 55/63 tỉnh thành
+trên cả nước.
+Lần đầu tiên PNJ vào danh sách Fortune 500
+Đông Nam Á; Top 10 Sao Vàng Đất Việt; PNJ được
+vinh danh ở 3 hạng mục E (Môi trường), S (Xã hội)
+và G (Quản trị) tại giải thưởng phát triển bền vững
+TOP50 CSA; Giá trị thương hiệu của PNJ
+tăng 12% so với năm 2023 đạt 480 triệu USD,
+giữ vị thế đơn vị bán lẻ trang sức giá trị nhất Việt Nam
 (Theo Brand Finance).
-2024
-Top 5 “Doanh nghiệp niêm yết quản trị tốt”.  
-Top 20 doanh nghiệp Phát triển Bền vững trên sàn 
-HoSE. Top 1 Khối Thương mại Dịch vụ trong 100 
-Công ty PTBV tại Việt Nam.  
-Giải thưởng Nhân sự vì Sự phát triển Bền vững 
+Top 5 “Doanh nghiệp niêm yết quản trị tốt”.
+Top 20 doanh nghiệp Phát triển Bền vững trên sàn
+HoSE. Top 1 Khối Thương mại Dịch vụ trong 100
+Công ty PTBV tại Việt Nam.
+Giải thưởng Nhân sự vì Sự phát triển Bền vững
 Việt Nam tại HR Award.
-2022
-QUÁ TRÌNH  
-HÌNH THÀNH VÀ PHÁT TRIỂN 
-5
-27
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
+QUÁ TRÌNH
+HÌNH THÀNH VÀ PHÁT TRIỂN
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-MÔ HÌNH QUẢN TRỊ,  
+MÔ HÌNH QUẢN TRỊ,
 CƠ CẤU BỘ MÁY QUẢN LÝ
-ĐẠI HỘI ĐỒNG 
 CỔ ĐÔNG
-Văn phòng  
+Văn phòng
 Hội đồng Quản trị
-Ủy ban 
+Ủy ban
 Kiểm toán
-Ban  
 Kiểm toán Nội bộ
-Ủy ban 
-Chiến lược  
+Ủy ban
+Chiến lược
 và Tài chính
 Khối
 Tài chính
@@ -718,230 +610,175 @@ Khối
 Vận hành
 Khối
 Marketing
-Khối  
+Khối
 Chiến lược
-Khối  
+Khối
 Cung ứng
 Khối
-Nguồn  
+Nguồn
 nhân lực
 Khối
-Công nghệ 
+Công nghệ
 Thông tin
-Trung tâm 
+Trung tâm
 Quản lý Rủi ro và Tuân thủ
-Trung tâm Phát triển  
+Trung tâm Phát triển
 Kinh doanh Quốc tế
 Trung tâm
 Truyền thông & Đối ngoại
 Các Chi nhánh
-Ủy ban 
+Ủy ban
 Nguồn nhân lực
-Ủy ban 
-ESG
-HỘI ĐỒNG  
+Ủy ban
 QUẢN TRỊ
-TỔNG  
 GIÁM ĐỐC
 Khối
-Khách hàng 
+Khách hàng
 & Bán lẻ
-33
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 KHUNG QUẢN TRỊ DOANH NGHIỆP
 06 TRỤ CỘT
 TRONG KHUNG QUẢN TRỊ DOANH NGHIỆP
 TẠI PNJ
-QUYỀN  
+QUYỀN
 CỔ ĐÔNG
-QUAN HỆ  
-VỚI CÁC BÊN  
+QUAN HỆ
+VỚI CÁC BÊN
 HỮU QUAN
-CÔNG BỐ  
+CÔNG BỐ
 THÔNG TIN
-QUẢN TRỊ  
-RỦI RO TOÀN 
-DOANH NGHIỆP
-PHÁT TRIỂN  
-BỀN VỮNG
-HỘI ĐỒNG  
 QUẢN TRỊ
-KHUNG QUẢN TRỊ CÔNG TY CỦA PNJ LÀ NỀN TẢNG CHO 
+RỦI RO TOÀN
+DOANH NGHIỆP
+PHÁT TRIỂN
+BỀN VỮNG
+QUẢN TRỊ
 MÔI TRƯỜNG KIỂM SOÁT VÀ GIÁM SÁT HIỆU QUẢ
-PNJ thiết lập Khung và các Nguyên tắc Quản 
-trị Công ty với 6 trụ cột nền tảng là (1) quyền cổ 
-đông, (2) HĐQT, (3) phát triển bền vững, (4) quản 
-trị rủi ro toàn doanh nghiệp, (5) công bố thông tin, 
-và (6) quan hệ với các bên hữu quan. Khung và 
-các Nguyên tắc quản trị này giúp HĐQT PNJ vận 
-hành nhất quán, ra quyết định có trách nhiệm, 
-quản trị rủi ro chủ động và tăng cường minh bạch, 
-từ đó củng cố niềm tin của cổ đông và các bên liên 
-quan, đồng thời tiệm cận các thông lệ quản trị quốc 
+PNJ thiết lập Khung và các Nguyên tắc Quản
+trị Công ty với 6 trụ cột nền tảng là (1) quyền cổ
+đông, (2) HĐQT, (3) phát triển bền vững, (4) quản
+trị rủi ro toàn doanh nghiệp, (5) công bố thông tin,
+và (6) quan hệ với các bên hữu quan. Khung và
+các Nguyên tắc quản trị này giúp HĐQT PNJ vận
+hành nhất quán, ra quyết định có trách nhiệm,
+quản trị rủi ro chủ động và tăng cường minh bạch,
+từ đó củng cố niềm tin của cổ đông và các bên liên
+quan, đồng thời tiệm cận các thông lệ quản trị quốc
 tế như OECD, IFC và ACGS.
-HĐQT đã thực hiện tốt vai trò giám sát và đồng hành 
-cùng Ban điều hành trong việc triển khai chiến lược 
-kinh doanh, đối phó với biến động của thị trường và tối 
+HĐQT đã thực hiện tốt vai trò giám sát và đồng hành
+cùng Ban điều hành trong việc triển khai chiến lược
+kinh doanh, đối phó với biến động của thị trường và tối
 ưu hóa vận hành doanh nghiệp.
-1
-Quyền cổ đông 
-HĐQT luôn tuân thủ cơ chế công 
-bố thông tin minh bạch và kịp 
-thời. Ngoài ra, hoạt động Quan 
-hệ Nhà đầu tư (IR) được tổ chức 
-chuyên nghiệp, giúp cổ đông tiếp 
-cận thông tin kịp thời và chính xác. 
-Công ty luôn duy trì chính sách cổ 
-tức minh bạch và công bằng, đảm 
-bảo tối đa hóa lợi ích của cổ đông 
-trong khi vẫn cân bằng với chiến 
-lược tăng trưởng dài hạn. 
-4
-Quản trị rủi ro  
+Quyền cổ đông
+HĐQT luôn tuân thủ cơ chế công
+bố thông tin minh bạch và kịp
+thời. Ngoài ra, hoạt động Quan
+hệ Nhà đầu tư (IR) được tổ chức
+chuyên nghiệp, giúp cổ đông tiếp
+cận thông tin kịp thời và chính xác.
+Công ty luôn duy trì chính sách cổ
+tức minh bạch và công bằng, đảm
+bảo tối đa hóa lợi ích của cổ đông
+trong khi vẫn cân bằng với chiến
+lược tăng trưởng dài hạn.
+Quản trị rủi ro
 toàn doanh nghiệp
-HĐQT vận dụng linh hoạt Mô hình ba 
-tuyến để tăng cường sự trao đổi giữa 
-QTRR và KTNB hiệu quả bằng cách 
-làm rõ vai trò và nhiệm vụ của các 
-bên liên quan. Xây dựng, vận hành hệ 
-thống QTRR và KTNB tại Công ty mẹ 
-và các Công ty thành viên trong hoạt 
-động của các Công ty thành viên, từ 
-đó, đảm bảo sự thống nhất, ổn định, 
-phù hợp với mục tiêu phát triển chung 
-của cả tập đoàn. Việc giám sát không 
-chỉ tập trung vào tuân thủ mà còn 
-hướng đến cải tiến liên tục, phát hiện 
-sớm rủi ro và tạo điều kiện để Ban điều 
-hành chủ động điều chỉnh, đảm bảo 
-hiệu quả thực thi và tính minh bạch 
-trong toàn bộ hệ thống. Đây chính là 
-nền tảng giúp duy trì khả năng phản 
-ứng nhanh, kiểm soát rủi ro và kiến tạo 
-giá trị bền vững cho doanh nghiệp.  
-2
+HĐQT vận dụng linh hoạt Mô hình ba
+tuyến để tăng cường sự trao đổi giữa
+QTRR và KTNB hiệu quả bằng cách
+làm rõ vai trò và nhiệm vụ của các
+bên liên quan. Xây dựng, vận hành hệ
+thống QTRR và KTNB tại Công ty mẹ
+và các Công ty thành viên trong hoạt
+động của các Công ty thành viên, từ
+đó, đảm bảo sự thống nhất, ổn định,
+phù hợp với mục tiêu phát triển chung
+của cả tập đoàn. Việc giám sát không
+chỉ tập trung vào tuân thủ mà còn
+hướng đến cải tiến liên tục, phát hiện
+sớm rủi ro và tạo điều kiện để Ban điều
+hành chủ động điều chỉnh, đảm bảo
+hiệu quả thực thi và tính minh bạch
+trong toàn bộ hệ thống. Đây chính là
+nền tảng giúp duy trì khả năng phản
+ứng nhanh, kiểm soát rủi ro và kiến tạo
+giá trị bền vững cho doanh nghiệp.
 Hội đồng quản trị
-HĐQT xây dựng nền tảng vững 
-chắc để chuyển đổi từ giám sát 
-sang kiến tạo. HĐQT tập trung 
-nâng cao năng lực lãnh đạo, áp 
-dụng chuẩn mực quốc tế và thúc 
-đẩy đổi mới sáng tạo hướng đến 
-năm 2025 sẽ trở thành một HĐQT 
-kiến tạo thực thụ, chủ động dẫn 
-dắt chiến lược phát triển bền 
-vững và gia tăng giá trị dài hạn 
-cho công ty. 
-5
+HĐQT xây dựng nền tảng vững
+chắc để chuyển đổi từ giám sát
+sang kiến tạo. HĐQT tập trung
+nâng cao năng lực lãnh đạo, áp
+dụng chuẩn mực quốc tế và thúc
+đẩy đổi mới sáng tạo hướng đến
+năm 2025 sẽ trở thành một HĐQT
+kiến tạo thực thụ, chủ động dẫn
+vững và gia tăng giá trị dài hạn
+cho công ty.
 Công bố thông tin
-HĐQT và Công ty đảm bảo công bố 
-thông tin của Công ty đến cổ đông, 
-nhà đầu tư và các bên hữu quan 
-một cách kịp thời, minh bạch, hiệu 
-quả và liên tục đảm bảo tính tuân 
-thủ hướng đến sự xuất sắc thông 
-qua việc thiết lập và triển khai chính 
-sách công bố thông tin và hệ thống 
-truyền thông đa dạng, tiếp cận dễ 
+HĐQT và Công ty đảm bảo công bố
+thông tin của Công ty đến cổ đông,
+nhà đầu tư và các bên hữu quan
+một cách kịp thời, minh bạch, hiệu
+quả và liên tục đảm bảo tính tuân
+thủ hướng đến sự xuất sắc thông
+qua việc thiết lập và triển khai chính
+sách công bố thông tin và hệ thống
+truyền thông đa dạng, tiếp cận dễ
 dàng và bình đẳng.
-6
 Quan hệ với các bên hữu quan
-HĐQT và Công ty quan tâm và tôn 
-trọng quyền và lợi ích, theo luật định 
-hoặc thoả thuận song phương, của 
-các bên hữu quan và thúc đẩy/tăng 
-cường sự tham hiệu quả của các 
-bên hữu quan dựa trên nguyên tắc 
-cân bằng lợi ích của Công ty và các 
-bên hữu quan. Cơ chế kiểm soát 
-các giao dịch với bên liên quan đã 
-được tối ưu hóa, giúp ngăn ngừa 
-xung đột lợi ích và đảm bảo sự 
+HĐQT và Công ty quan tâm và tôn
+trọng quyền và lợi ích, theo luật định
+hoặc thoả thuận song phương, của
+các bên hữu quan và thúc đẩy/tăng
+cường sự tham hiệu quả của các
+bên hữu quan dựa trên nguyên tắc
+cân bằng lợi ích của Công ty và các
+bên hữu quan. Cơ chế kiểm soát
+các giao dịch với bên liên quan đã
+được tối ưu hóa, giúp ngăn ngừa
+xung đột lợi ích và đảm bảo sự
 minh bạch trong quản trị.
-3
 Phát triển bền vững
-HĐQT đã đẩy mạnh việc phát triển 
-văn hóa doanh nghiệp hướng đến 
-sự phát triển bền vững, tích hợp rõ 
-nét các định hướng phát triển bền 
-vững vào chiến lược quản trị tổng 
-thể, thể hiện qua cách tiếp cận toàn 
-diện đối với từng lĩnh vực Môi trường 
+HĐQT đã đẩy mạnh việc phát triển
+văn hóa doanh nghiệp hướng đến
+sự phát triển bền vững, tích hợp rõ
+nét các định hướng phát triển bền
+vững vào chiến lược quản trị tổng
+thể, thể hiện qua cách tiếp cận toàn
+diện đối với từng lĩnh vực Môi trường
 (E), Xã hội (S) và Quản trị (G).
-35
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 MÔ HÌNH
-QUẢN TRỊ RỦI RO  
+QUẢN TRỊ RỦI RO
 DOANH NGHIỆP
 HĐQT THIẾT LẬP VÀ GIÁM SÁT TỔNG THỂ HOẠT ĐỘNG
 QUẢN TRỊ RỦI RO (QTRR) THEO THÔNG LỆ QUỐC TẾ
-C
-Ấ
-U 
-T
-R
-Ú
-C 
-Q
-U
-Ả
-N 
-T
-RỊ
- R
-ỦI
- R
-O
-Chính sách 
+Chính sách
 Quy trình
-Hệ thống 
-văn bản gồm 
-chính sách, 
-Quy trình, Quy 
-định, thủ tục, 
+Hệ thống
+văn bản gồm
+chính sách,
+Quy trình, Quy
+định, thủ tục,
 báo cáo
-Công cụ 
+Công cụ
 Quản trị rủi ro
-Hệ thống công 
-nghệ thông tin 
+Hệ thống công
+nghệ thông tin
 quản trị
-Hệ thống 
-truyền tải 
+Hệ thống
+truyền tải
 thông tin rủi ro
 Con người
-Nhận thức, 
-kiến thức, kỹ 
-năng về rủi ro 
+Nhận thức,
+kiến thức, kỹ
+năng về rủi ro
 và tuân thủ
-CH
-IẾ
-N 
-LƯ
-ỢC
- Q
-UẢ
-N T
-RỊ
- R
-ỦI 
-RO
-MỤC TIÊU  
+MỤC TIÊU
 & GIÁ TRỊ CỐT LÕI
 THIẾT LẬP MÔ HÌNH KHUNG QUẢN TRỊ RỦI RO THEO THÔNG LỆ TỐT BAO GỒM:
 •	 Chiến lược quản trị rủi ro được xây dựng phù hợp với chiến lược kinh doanh của PNJ.
@@ -949,8 +786,8 @@ THIẾT LẬP MÔ HÌNH KHUNG QUẢN TRỊ RỦI RO THEO THÔNG LỆ TỐT BAO G
 •	 Các chính sách, thủ tục, báo cáo bao gồm các chính sách, thủ tục được văn bản hoá và các kênh báo cáo.
 •	 Công cụ quản trị rủi ro sử dụng để phát hiện, tổng hợp, đánh giá và giảm thiểu rủi ro.
 •	 Hệ thống công nghệ thông tin hỗ trợ và tự động hoá hoạt động quản trị rủi ro.
-HĐQT THIẾT LẬP CẤU TRÚC QUẢN TRỊ RỦI RO  
-NHẰM ĐẢM BẢO SỰ THỐNG NHẤT, ĐỒNG BỘ GIỮA CÔNG TY MẸ  
+HĐQT THIẾT LẬP CẤU TRÚC QUẢN TRỊ RỦI RO
+NHẰM ĐẢM BẢO SỰ THỐNG NHẤT, ĐỒNG BỘ GIỮA CÔNG TY MẸ
 VÀ CÁC CÔNG TY THÀNH VIÊN
 TỔNG GIÁM ĐỐC
 ĐẠI HỘI ĐỒNG CỔ ĐÔNG
@@ -971,24 +808,16 @@ Kiểm soát nội bộ
 Kiểm soát nội bộ
 Kiểm toán nội bộ
 Kiểm soát
-Báo cáo thường niên
 Báo cáo định kỳ
 Báo cáo chuyên môn
 Kiểm soát quản lý
 Kiểm toán nội bộ
-Tổng Giám đốc ban hành quy trình quản trị rủi ro để kịp thời  
-nhận diện, đánh giá và đo lường các rủi ro hiện hữu và tiềm tàng,  
-từ đó có phương án ứng phó, ngăn chặn, giảm thiểu khả năng  
-xảy ra tổn thất (tổn thất tài chính và phi tài chính) hoặc hạn chế  
+Tổng Giám đốc ban hành quy trình quản trị rủi ro để kịp thời
+nhận diện, đánh giá và đo lường các rủi ro hiện hữu và tiềm tàng,
+từ đó có phương án ứng phó, ngăn chặn, giảm thiểu khả năng
+xảy ra tổn thất (tổn thất tài chính và phi tài chính) hoặc hạn chế
 khả năng đạt được mục tiêu kinh doanh của doanh nghiệp.
-39
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 THỂ HIỆN SỰ CHÍNH TRỰC, KHẢ NĂNG LÃNH ĐẠO VÀ SỰ MINH BẠCH
@@ -996,440 +825,399 @@ TUYẾN 1
 TUYẾN 2
 TUYẾN 3
 MÔ HÌNH BA TUYẾN
-HĐQT TĂNG CƯỜNG HIỆU QUẢ  
+HĐQT TĂNG CƯỜNG HIỆU QUẢ
 HOẠT ĐỘNG KIỂM SOÁT NỘI BỘ
-•	 Thiết lập môi trường kiểm soát thông qua các 
-chuẩn mực, quy trình và cơ cấu tổ chức, đảm bảo 
-mọi thành viên đều hiểu về việc thực hiện trách 
-nhiệm và ra quyết định nhằm đạt được mục tiêu 
-chung trong chiến lược phát triển của PNJ.
-•	 Đánh giá rủi ro liên tục thông qua việc nhận dạng 
-và phân tích những rủi ro để xác định phương án 
+•	 Thiết lập môi trường kiểm soát thông qua các
+chuẩn mực, quy trình và cơ cấu tổ chức, đảm bảo
+mọi thành viên đều hiểu về việc thực hiện trách
+nhiệm và ra quyết định nhằm đạt được mục tiêu
+•	 Đánh giá rủi ro liên tục thông qua việc nhận dạng
+và phân tích những rủi ro để xác định phương án
 quản lý đối với từng loại rủi ro.
-•	
-Phát triển hoạt động kiểm soát thông qua hoạt động 
-phê chuẩn, uỷ quyền, đánh giá hiệu quả, phân công 
-nhiệm vụ... theo các chính sách đã được ban hành và 
+Phát triển hoạt động kiểm soát thông qua hoạt động
+phê chuẩn, uỷ quyền, đánh giá hiệu quả, phân công
+nhiệm vụ... theo các chính sách đã được ban hành và
 triển khai nhằm phát hiện các biến động bất thường.
-•	
-Thu thập, truyền đạt thông tin thích hợp, chính xác, kịp 
-thời và dễ dàng truy cập về các vấn đề ảnh hưởng đến 
+Thu thập, truyền đạt thông tin thích hợp, chính xác, kịp
+thời và dễ dàng truy cập về các vấn đề ảnh hưởng đến
 kiểm soát nội bộ đến người bên trong và ngoài nội bộ.
-•	 Đánh giá chất lượng của hệ thống kiểm soát 
-nội bộ thông qua hoạt động giám sát thường 
-xuyên và định kỳ để có những biện pháp khắc 
+•	 Đánh giá chất lượng của hệ thống kiểm soát
+nội bộ thông qua hoạt động giám sát thường
+xuyên và định kỳ để có những biện pháp khắc
 phục kịp thời.
-HĐQT PHÁT HUY CƠ CHẾ TƯƠNG HỖ GIỮA HỆ 
+HĐQT PHÁT HUY CƠ CHẾ TƯƠNG HỖ GIỮA HỆ
 THỐNG QUẢN TRỊ RỦI RO VÀ KIỂM SOÁT NỘI BỘ
-•	 HĐQT vận dụng linh hoạt Mô hình ba tuyến  
-để tăng cường sự trao đổi giữa quản trị  
-rủi ro và kiểm soát nội bộ hiệu quả bằng cách 
-làm rõ vai trò và nhiệm vụ của các bên  
-liên quan. 
-•	 Xây dựng, vận hành hệ thống quản trị rủi ro và 
-kiểm soát nội bộ tại công ty mẹ và các công 
-ty thành viên trong hoạt động của các công ty 
-thành viên, từ đó, đảm bảo sự thống nhất,  
-ổn định, phù hợp với mục tiêu phát triển chung 
+•	 HĐQT vận dụng linh hoạt Mô hình ba tuyến
+để tăng cường sự trao đổi giữa quản trị
+rủi ro và kiểm soát nội bộ hiệu quả bằng cách
+làm rõ vai trò và nhiệm vụ của các bên
+liên quan.
+•	 Xây dựng, vận hành hệ thống quản trị rủi ro và
+kiểm soát nội bộ tại công ty mẹ và các công
+ty thành viên trong hoạt động của các công ty
+thành viên, từ đó, đảm bảo sự thống nhất,
+ổn định, phù hợp với mục tiêu phát triển chung
 của cả tập đoàn.
-1
-THIẾT LẬP  
+THIẾT LẬP
 BỐI CẢNH
-6
-GIÁM SÁT VÀ 
+GIÁM SÁT VÀ
 BÁO CÁO
-5
-CÁC HOẠT 
-ĐỘNG KIỂM 
-SOÁT
-4
-QUY TRÌNH 
-QUẢN TRỊ 
+CÁC HOẠT
+ĐỘNG KIỂM
+QUY TRÌNH
+QUẢN TRỊ
 RỦI RO
-3
-ĐÁNH GIÁ  
+ĐÁNH GIÁ
 RỦI RO
-2
-NHẬN DIỆN 
+NHẬN DIỆN
 RỦI RO
-Bao gồm xác định mức độ,  
-phạm vi chấp nhận rủi ro,  
+Bao gồm xác định mức độ,
+phạm vi chấp nhận rủi ro,
 thước đo rủi ro.
-Lựa chọn một hoặc nhiều phương án  
-giảm thiểu rủi ro và xây dựng kế hoạch hành động 
+Lựa chọn một hoặc nhiều phương án
+giảm thiểu rủi ro và xây dựng kế hoạch hành động
 để triển khai các phương án này.
-Nhận diện các rủi ro có khả 
-năng xảy ra tổn thất (tổn thất 
-tài chính và phi tài chính) 
-hoặc hạn chế khả năng đạt 
-được mục tiêu kinh doanh của 
+Nhận diện các rủi ro có khả
+năng xảy ra tổn thất (tổn thất
+tài chính và phi tài chính)
+hoặc hạn chế khả năng đạt
+được mục tiêu kinh doanh của
 doanh nghiệp.
-Giúp đảm bảo các thay 
-đổi trong danh mục 
-rủi ro, xếp hạng rủi ro, 
-tiến độ kế hoạch hành 
-động xử lý rủi ro được 
-ghi nhận và thực hiện 
-đầy đủ/ hoặc được điều 
-chỉnh kịp thời trước 
-những thay đổi của tổ 
-chức, con người, quy 
-trình, hệ thống, mục 
-tiêu kinh doanh hay các 
-tác động từ môi tường 
+Giúp đảm bảo các thay
+đổi trong danh mục
+rủi ro, xếp hạng rủi ro,
+tiến độ kế hoạch hành
+động xử lý rủi ro được
+ghi nhận và thực hiện
+đầy đủ/ hoặc được điều
+chỉnh kịp thời trước
+những thay đổi của tổ
+chức, con người, quy
+trình, hệ thống, mục
+tiêu kinh doanh hay các
+tác động từ môi tường
 bên ngoài.
-Xây dựng các công cụ định 
-lượng và định tính nhằm đo 
-lường khả năng/tần suất 
-xảy ra rủi ro và mức độ ảnh 
+Xây dựng các công cụ định
+lượng và định tính nhằm đo
+lường khả năng/tần suất
+xảy ra rủi ro và mức độ ảnh
 hưởng/tổn thất của rủi ro.
-Tránh rủi ro, giảm thiểu khả 
-năng xảy ra hoặc tác động của 
-rủi ro hoặc cả hai, chuyển giao 
+Tránh rủi ro, giảm thiểu khả
+năng xảy ra hoặc tác động của
+rủi ro hoặc cả hai, chuyển giao
 rủi ro, chấp nhận rủi ro.
 BAN ĐIỀU HÀNH
-Thực hiện các nhiệm vụ QTRR để đạt được các mục tiêu phát triển một 
+Thực hiện các nhiệm vụ QTRR để đạt được các mục tiêu phát triển một
 cách an toàn, bền vững
 HỘI ĐỒNG QUẢN TRỊ
 Chịu trách nhiệm trước các bên liên quan trong vai trò giám sát tổ chức
 ỦY BAN KIỂM TOÁN
 CÁC BÊN CUNG CẤP DỊCH VỤ BẢO ĐẢM
 Chịu trách nhiệm báo cáo
-Định hướng, Ủy quyền, 
+Định hướng, Ủy quyền,
 Chỉ đạo, Cung cấp nguồn lực, Giám sát.
-Có trách nhiệm xây dựng và 
-áp dụng quy trình QTRR về 
-vận hành trong các công việc 
+Có trách nhiệm xây dựng và
+áp dụng quy trình QTRR về
+vận hành trong các công việc
 tại đơn vị.
-Đảm bảo tuân thủ ở cấp độ 
-vận hành cho các quy trình, 
-kiểm soát và báo cáo các 
-vấn đề, sự kiện liên quan 
+Đảm bảo tuân thủ ở cấp độ
+vận hành cho các quy trình,
+kiểm soát và báo cáo các
+vấn đề, sự kiện liên quan
 đến rủi ro.
-CÁC ĐƠN VỊ CHỨC NĂNG,  
+CÁC ĐƠN VỊ CHỨC NĂNG,
 CHI NHÁNH, CÔNG TY THÀNH VIÊN
 Xây dựng khung QTRR
-Triển khai, theo dõi và cải thiện 
-liên tục cho công tác QTRR trên 
-toàn tập đoàn theo thước đo và 
+Triển khai, theo dõi và cải thiện
+liên tục cho công tác QTRR trên
+toàn tập đoàn theo thước đo và
 khẩu vị rủi ro được xác định.
-Giám sát, đánh giá, tuân thủ 
-các quy trình hoạt động, độ 
+Giám sát, đánh giá, tuân thủ
+các quy trình hoạt động, độ
 hiệu quả của kiểm soát
 TRUNG TÂM QTRR
-Đảm bảo tính bao quát, độc 
-lập, hiệu quả và hoàn chỉnh 
+Đảm bảo tính bao quát, độc
+lập, hiệu quả và hoàn chỉnh
 của hệ thống QTRR.
-Đưa ra các đánh giá và tư 
-vấn độc lập, khách quan về 
-sự phù hợp và hiệu quả của 
-hệ thống QTRR ở phạm vi 
+Đưa ra các đánh giá và tư
+vấn độc lập, khách quan về
+sự phù hợp và hiệu quả của
+hệ thống QTRR ở phạm vi
 toàn tập đoàn.
 KIỂM TOÁN NỘI BỘ
-Căn cứ vào các điều khoản trong Điều lệ tổ chức và hoạt động của Công ty Cổ phần 
-Vàng bạc Đá quý Phú Nhuận về thành phẩn Ủy ban kiểm toán, quyền và nghĩa vụ 
-của Ủy ban kiểm toán và TGĐ, cơ cấu tổ chức quản lý và điều hành doanh nghiệp. 
-Căn cứ vào Chương VII của Quy chế nội bộ về quản trị công ty về phối hợp  
+Căn cứ vào các điều khoản trong Điều lệ tổ chức và hoạt động của Công ty Cổ phần
+Vàng bạc Đá quý Phú Nhuận về thành phẩn Ủy ban kiểm toán, quyền và nghĩa vụ
+của Ủy ban kiểm toán và TGĐ, cơ cấu tổ chức quản lý và điều hành doanh nghiệp.
+Căn cứ vào Chương VII của Quy chế nội bộ về quản trị công ty về phối hợp
 hoạt động HĐQT, UBKT và TGĐ.
 Liên kết, Trao đổi, Phối hợp và Hợp tác
-41
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-CÁC RỦI RO TRỌNG YẾU 
+CÁC RỦI RO TRỌNG YẾU
 TRONG NĂM 2024
-CÁC RỦI RO TRỌNG YẾU ĐƯỢC PNJ NHẬN DIỆN,  
-ĐÁNH GIÁ THƯỜNG XUYÊN MỘT CÁCH HỆ THỐNG,  
-ĐẢM BẢO TẤT CẢ CÁC RỦI RO  
+CÁC RỦI RO TRỌNG YẾU ĐƯỢC PNJ NHẬN DIỆN,
+ĐÁNH GIÁ THƯỜNG XUYÊN MỘT CÁCH HỆ THỐNG,
+ĐẢM BẢO TẤT CẢ CÁC RỦI RO
 ĐƯỢC KIỂM SOÁT KỊP THỜI, HIỆU QUẢ.
 NHẬN DIỆN RỦI RO
 GIÁM SÁT VÀ QUẢN LÝ RỦI RO
-RỦI RO  
+RỦI RO
 NGOẠI CẢNH
-Các yếu tố bên ngoài có thể ảnh hưởng lớn 
-đến hoạt động kinh doanh của PNJ, bao 
-gồm các yếu tố như kinh tế, chính trị, chính 
-sách, biến động của thị trường tài chính, 
-môi trường, xã hội, hành vi tiêu dùng của 
-khách hàng, và tác động của thiên tai hoặc 
+Các yếu tố bên ngoài có thể ảnh hưởng lớn
+đến hoạt động kinh doanh của PNJ, bao
+gồm các yếu tố như kinh tế, chính trị, chính
+sách, biến động của thị trường tài chính,
+môi trường, xã hội, hành vi tiêu dùng của
+khách hàng, và tác động của thiên tai hoặc
 dịch bệnh.
-Thiết lập hệ thống theo dõi và cảnh báo liên 
-tục các yếu tố bên ngoài có thể ảnh hưởng 
-đến PNJ. Ngoài ra, PNJ phát triển các kế 
-hoạch ứng phó linh hoạt và đa dạng hóa hoạt 
-động kinh doanh giúp giảm thiểu tác động tiêu 
-cực từ những biến động không lường trước 
+Thiết lập hệ thống theo dõi và cảnh báo liên
+tục các yếu tố bên ngoài có thể ảnh hưởng
+đến PNJ. Ngoài ra, PNJ phát triển các kế
+hoạch ứng phó linh hoạt và đa dạng hóa hoạt
+động kinh doanh giúp giảm thiểu tác động tiêu
+cực từ những biến động không lường trước
 nhằm đảm bảo mục tiêu kinh doanh.
-RỦI RO  
+RỦI RO
 HOẠT ĐỘNG
-Hoạt động kinh doanh hàng hóa có giá trị 
-cao luôn có rủi ro về an ninh, thất thoát,  
-chất lượng sản phẩm, và hiệu quả chi phí 
+Hoạt động kinh doanh hàng hóa có giá trị
+cao luôn có rủi ro về an ninh, thất thoát,
+chất lượng sản phẩm, và hiệu quả chi phí
 trong quá trình vận hành.
-Xây dựng các công cụ nhận diện, đo lường, 
+Xây dựng các công cụ nhận diện, đo lường,
 cảnh báo sớm các chỉ số rủi ro chính (KRIs).
-Thiết lập hệ thống an ninh và giám sát cảnh 
-báo an ninh tiên tiến. Triển khai lực lượng 
-kiểm tra kiểm soát hệ thống kinh doanh xuyên 
-suốt các chi nhánh trên toàn quốc. 
-Áp dụng quy trình kiểm soát chất lượng 
-nghiêm ngặt từ khâu nhập nguyên liệu đến 
-sản xuất và giao hàng. 
-RỦI RO  
-THANH 
+Thiết lập hệ thống an ninh và giám sát cảnh
+báo an ninh tiên tiến. Triển khai lực lượng
+kiểm tra kiểm soát hệ thống kinh doanh xuyên
+suốt các chi nhánh trên toàn quốc.
+Áp dụng quy trình kiểm soát chất lượng
+nghiêm ngặt từ khâu nhập nguyên liệu đến
+sản xuất và giao hàng.
+RỦI RO
+THANH
 KHOẢN
-Hoạt động mua lại hàng hóa từ khách hàng 
+Hoạt động mua lại hàng hóa từ khách hàng
 có thể gây ra rủi ro thanh khoản cho PNJ.
-PNJ xây dựng các công cụ đo lường và cảnh 
-báo các chỉ số về mua lại hàng hóa. Định kỳ 
-PNJ dự báo dòng tiền trong hoạt động kinh 
-doanh, tương ứng sẽ xây dựng danh mục 
-tài sản thanh khoản phù hợp để ứng phó với 
+PNJ xây dựng các công cụ đo lường và cảnh
+báo các chỉ số về mua lại hàng hóa. Định kỳ
+PNJ dự báo dòng tiền trong hoạt động kinh
+doanh, tương ứng sẽ xây dựng danh mục
+tài sản thanh khoản phù hợp để ứng phó với
 việc mua lại hàng hóa từ khách hàng.
-RỦI RO  
-NGUỒN NHÂN 
-LỰC
-Công ty có thể gặp phải các vấn đề từ quản 
-lý và sử dụng lao động, thiếu hụt nhân sự 
-kỹ năng cao, giữ chân nhân tài, lưu chuyển 
-nhân sự cao, và rủi ro liên quan đến an toàn 
+RỦI RO
+NGUỒN NHÂN
+Công ty có thể gặp phải các vấn đề từ quản
+lý và sử dụng lao động, thiếu hụt nhân sự
+kỹ năng cao, giữ chân nhân tài, lưu chuyển
+nhân sự cao, và rủi ro liên quan đến an toàn
 và sức khỏe của nhân viên.
-Xây dựng chính sách nhân sự rõ ràng, chú 
-trọng vào việc đào tạo và phát triển kỹ năng 
-cho nhân viên, cũng như tạo dựng một môi 
-trường làm việc an toàn và tích cực để thu 
+Xây dựng chính sách nhân sự rõ ràng, chú
+trọng vào việc đào tạo và phát triển kỹ năng
+cho nhân viên, cũng như tạo dựng một môi
+trường làm việc an toàn và tích cực để thu
 hút và giữ chân nhân tài.
-RỦI RO  
-CÔNG NGHỆ 
+RỦI RO
+CÔNG NGHỆ
 THÔNG TIN
-Với sự phát triển nhanh của công nghệ 
-thông tin, PNJ có thể sẽ gặp phải thách thức 
-về chi phí đầu tư hợp lý cho công nghệ và 
-nguồn nhân lực, liên kết đồng bộ các  
-hệ thống thông tin, tối ưu hóa dữ liệu phục 
-vụ cho hoạt động sản xuất, kinh doanh. 
-Ngoài ra công ty có thể gặp phải các rủi ro 
-về an ninh mạng và bảo mật làm cho thông 
-tin có thể bị rò rỉ do tấn công mạng hoặc lỗi 
+Với sự phát triển nhanh của công nghệ
+thông tin, PNJ có thể sẽ gặp phải thách thức
+về chi phí đầu tư hợp lý cho công nghệ và
+nguồn nhân lực, liên kết đồng bộ các
+hệ thống thông tin, tối ưu hóa dữ liệu phục
+vụ cho hoạt động sản xuất, kinh doanh.
+Ngoài ra công ty có thể gặp phải các rủi ro
+về an ninh mạng và bảo mật làm cho thông
+tin có thể bị rò rỉ do tấn công mạng hoặc lỗi
 bảo mật.
-Xác định các công nghệ mang lại giá trị tối 
-ưu nhất và đầu tư ưu tiên vào những lĩnh 
-vực đó, đảm bảo rằng mọi khoản đầu tư đều 
-hợp lý và phục vụ trực tiếp cho mục tiêu sản 
-xuất kinh doanh. Xây dựng hệ thống bảo 
-mật để bảo vệ thông tin khách hàng và dữ 
-liệu công ty khỏi các cuộc tấn công mạng. 
-Đánh giá định kỳ hệ thống IT, phát triển và 
-thực hiện các chính sách bảo mật thông tin 
-chặt chẽ. Áp dụng các biện pháp như mã 
-hóa dữ liệu, quản lý truy cập, và phân quyền 
-sử dụng hợp lý. Ngoài ra, đào tạo nhân viên 
-về an ninh mạng và nhận thức về rủi ro công 
-nghệ là yếu tố quan trọng để giảm thiểu rủi 
+Xác định các công nghệ mang lại giá trị tối
+ưu nhất và đầu tư ưu tiên vào những lĩnh
+vực đó, đảm bảo rằng mọi khoản đầu tư đều
+hợp lý và phục vụ trực tiếp cho mục tiêu sản
+xuất kinh doanh. Xây dựng hệ thống bảo
+mật để bảo vệ thông tin khách hàng và dữ
+liệu công ty khỏi các cuộc tấn công mạng.
+Đánh giá định kỳ hệ thống IT, phát triển và
+thực hiện các chính sách bảo mật thông tin
+chặt chẽ. Áp dụng các biện pháp như mã
+hóa dữ liệu, quản lý truy cập, và phân quyền
+sử dụng hợp lý. Ngoài ra, đào tạo nhân viên
+về an ninh mạng và nhận thức về rủi ro công
+nghệ là yếu tố quan trọng để giảm thiểu rủi
 ro từ nguồn nhân lực.
 NHẬN DIỆN RỦI RO
 GIÁM SÁT VÀ QUẢN LÝ RỦI RO
-RỦI RO  
+RỦI RO
 DANH TIẾNG
-Các vấn đề liên quan đến chất lượng  
-sản phẩm hoặc dịch vụ, hành vi không 
-đạo đức của nhân viên hoặc lãnh đạo, 
-các vụ việc pháp lý, và sự tiếp xúc  
-tiêu cực trên truyền thông xã hội. An ninh 
-công nghệ thông tin là mối quan tâm 
-hàng đầu của PNJ khi công ty ghi nhận 
-nhiều trường hợp tấn công qua email 
-chứa mã độc, giả mạo thương hiệu PNJ 
+Các vấn đề liên quan đến chất lượng
+sản phẩm hoặc dịch vụ, hành vi không
+đạo đức của nhân viên hoặc lãnh đạo,
+các vụ việc pháp lý, và sự tiếp xúc
+tiêu cực trên truyền thông xã hội. An ninh
+công nghệ thông tin là mối quan tâm
+hàng đầu của PNJ khi công ty ghi nhận
+nhiều trường hợp tấn công qua email
+chứa mã độc, giả mạo thương hiệu PNJ
 trên mạng.
-Thực hiện giám sát truyền thông liên tục, 
-đánh giá và phản hồi kịp thời đối với các 
-thông tin tiêu cực. Đồng thời phối hợp 
-với các cơ quan chức năng để xử lý,  
-đối phó với các hành vi gây ảnh hưởng 
+Thực hiện giám sát truyền thông liên tục,
+đánh giá và phản hồi kịp thời đối với các
+thông tin tiêu cực. Đồng thời phối hợp
+với các cơ quan chức năng để xử lý,
+đối phó với các hành vi gây ảnh hưởng
 tiêu cực đến thương hiệu PNJ.
-RỦI RO  
+RỦI RO
 MÔI TRƯỜNG
 Phát thải khí nhà kính
-PNJ phát thải lượng khí nhà kính  
-(chủ yếu là CO₂) từ hoạt động sản xuất 
-và kinh doanh, trong đó phát thải  
-Scope 2 (từ tiêu thụ năng lượng)  
+PNJ phát thải lượng khí nhà kính
+(chủ yếu là CO₂) từ hoạt động sản xuất
+và kinh doanh, trong đó phát thải
+Scope 2 (từ tiêu thụ năng lượng)
 chiếm tỷ trọng lớn.
-PNJ cam kết giảm phát thải khí nhà kính 
-theo lộ trình quốc gia thông qua việc  
-minh bạch kiểm kê khí nhà kính trong hoạt 
-động kinh doanh, đồng thời triển khai các 
+PNJ cam kết giảm phát thải khí nhà kính
+theo lộ trình quốc gia thông qua việc
+minh bạch kiểm kê khí nhà kính trong hoạt
+động kinh doanh, đồng thời triển khai các
 dự án cắt giảm phát thải khí nhà kính.
 Sử dụng năng lượng
-Với đặc thù doanh nghiệp sản xuất và 
-kinh doanh bán lẻ, nguồn năng lượng 
-được sử dụng ở PNJ được đa dạng từ 
-các nguồn khác nhau dựa vào mục đích 
+Với đặc thù doanh nghiệp sản xuất và
+kinh doanh bán lẻ, nguồn năng lượng
+được sử dụng ở PNJ được đa dạng từ
+các nguồn khác nhau dựa vào mục đích
 sử dụng như điện, xăng, dầu, khí gas.
-PNJ thúc đẩy việc sử dụng hiệu quả 
-năng lượng và tài nguyên thông qua việc 
-kiểm toán năng lượng, dòng vật liệu,  
-và cắt bỏ lãng phí đồng thời hướng đến 
+PNJ thúc đẩy việc sử dụng hiệu quả
+năng lượng và tài nguyên thông qua việc
+kiểm toán năng lượng, dòng vật liệu,
+và cắt bỏ lãng phí đồng thời hướng đến
 sử dụng năng lượng tái tạo hợp lý.
-Quản lý chất thải 
-Sản xuất và kinh doanh tại PNJ phát sinh 
-nhiều loại chất thải, bao gồm cả chất thải 
-nguy hại. Cần thiết phải quản lý chất thải 
+Quản lý chất thải
+Sản xuất và kinh doanh tại PNJ phát sinh
+nhiều loại chất thải, bao gồm cả chất thải
+nguy hại. Cần thiết phải quản lý chất thải
 hiệu quả nhằm bảo vệ môi trường.
-PNJ thúc đẩy mô hình kinh tế tuần hoàn 
-bằng việc tối đa hóa giá trị vòng đời  
-sản phẩm, sử dụng tài nguyên thiên nhiên  
-một cách có trách nhiệm và giảm thiểu 
-chất thải. Đồng thời, tăng cường  
-giám sát và báo cáo minh bạch về  
+PNJ thúc đẩy mô hình kinh tế tuần hoàn
+bằng việc tối đa hóa giá trị vòng đời
+sản phẩm, sử dụng tài nguyên thiên nhiên
+một cách có trách nhiệm và giảm thiểu
+chất thải. Đồng thời, tăng cường
+giám sát và báo cáo minh bạch về
 quản lý chất thải.
 Biến đổi khí hậu
-Biến đổi khí hậu làm tăng tần suất xảy 
-ra thiên tai như lũ lụt, bão, hạn hán ảnh 
-hưởng đến cơ sở hạ tầng, nhà máy, cửa 
-hàng của PNJ, và có thể làm thay đổi 
-hoạt động sản xuất, kinh doanh theo các 
+Biến đổi khí hậu làm tăng tần suất xảy
+ra thiên tai như lũ lụt, bão, hạn hán ảnh
+hưởng đến cơ sở hạ tầng, nhà máy, cửa
+hàng của PNJ, và có thể làm thay đổi
+hoạt động sản xuất, kinh doanh theo các
 chính sách, quy định mới về môi trường.
-Công ty liên tục theo dõi các dự báo về 
-thiên tai, đánh giá tác động của các  
-quy định mới về môi trường, đồng thời  
-xây dựng kế hoạch ứng phó khẩn cấp và  
-tăng cường đầu tư vào hạ tầng, công nghệ 
+Công ty liên tục theo dõi các dự báo về
+thiên tai, đánh giá tác động của các
+quy định mới về môi trường, đồng thời
+xây dựng kế hoạch ứng phó khẩn cấp và
+tăng cường đầu tư vào hạ tầng, công nghệ
 để sản xuất kinh doanh bền vững.
-43
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 ĐỊNH HƯỚNG
-QUẢN TRỊ RỦI RO  
-NĂM 2025
+QUẢN TRỊ RỦI RO
 TRONG NĂM 2025,
 PNJ SẼ PHẢI ĐỐI MẶT VỚI MỘT LOẠT CÁC THÁCH THỨC
 CÓ THỂ ẢNH HƯỞNG ĐẾN HOẠT ĐỘNG KINH DOANH
 VÀ HIỆU QUẢ TÀI CHÍNH CỦA CÔNG TY.
 NHỮNG THÁCH THỨC BAO GỒM:
-1
-Tình hình địa chính trị thế giới biến động và có thể ảnh hưởng 
-đến giá vàng, các chính sách điều hành kinh tế vĩ mô của 
-Chính phủ có thể ảnh hưởng lớn đến chi phí hoạt động và  
+Tình hình địa chính trị thế giới biến động và có thể ảnh hưởng
+đến giá vàng, các chính sách điều hành kinh tế vĩ mô của
+Chính phủ có thể ảnh hưởng lớn đến chi phí hoạt động và
 giá cả sản phẩm của PNJ.
-2
-3
-Suy thoái kinh tế có khả năng ảnh hưởng đến sức mua của 
-khách hàng, PNJ phải thích ứng với thị hiếu và khả năng  
+Suy thoái kinh tế có khả năng ảnh hưởng đến sức mua của
+khách hàng, PNJ phải thích ứng với thị hiếu và khả năng
 chi tiêu của người tiêu dùng.
-Chủ trương của Nhà nước trong việc tăng cường  
+Chủ trương của Nhà nước trong việc tăng cường
 các biện pháp quản lý thị trường vàng.
-Để giảm thiểu các rủi ro và đảm bảo lợi nhuận và mục tiêu kinh doanh, PNJ sẽ triển khai 
-các phương án theo dõi chi tiết, cảnh báo sớm, mô hình dự báo và chuẩn bị sẵn sàng 
+Để giảm thiểu các rủi ro và đảm bảo lợi nhuận và mục tiêu kinh doanh, PNJ sẽ triển khai
+các phương án theo dõi chi tiết, cảnh báo sớm, mô hình dự báo và chuẩn bị sẵn sàng
 các phương án ứng phó linh hoạt với các biến động của thị trường.
-CÁC HOẠT ĐỘNG TRỌNG ĐIỂM  
+CÁC HOẠT ĐỘNG TRỌNG ĐIỂM
 TRONG CÔNG TÁC QUẢN TRỊ RỦI RO NĂM 2024
-TĂNG CƯỜNG KIỂM TRA KIỂM SOÁT  
+TĂNG CƯỜNG KIỂM TRA KIỂM SOÁT
 THEO XẾP HẠNG RỦI RO Ở CỬA HÀNG
-PNJ tăng cường triển khai kiểm tra và kiểm soát rủi ro 
-dựa trên xếp hạng rủi ro tại các cửa hàng nhằm mục 
-tiêu quản trị rủi ro và tăng cường các biện pháp phòng 
-ngừa để đảm bảo hoạt động kinh doanh diễn ra an toàn 
-và hiệu quả. Các biện pháp được hỗ trợ bởi công nghệ 
-tiên tiến, giúp giảm thiểu sự can thiệp thủ công và nâng 
+PNJ tăng cường triển khai kiểm tra và kiểm soát rủi ro
+dựa trên xếp hạng rủi ro tại các cửa hàng nhằm mục
+tiêu quản trị rủi ro và tăng cường các biện pháp phòng
+ngừa để đảm bảo hoạt động kinh doanh diễn ra an toàn
+và hiệu quả. Các biện pháp được hỗ trợ bởi công nghệ
+tiên tiến, giúp giảm thiểu sự can thiệp thủ công và nâng
 cao khả năng giám sát rủi ro một cách chính xác hơn.
-•	 Ứng dụng công nghệ: Sử dụng phần mềm quản trị 
-rủi ro để tự động hóa việc thu thập và phân tích dữ 
-liệu rủi ro, từ đó phát hiện sớm các rủi ro tiềm tàng. 
-Triển khai hệ thống giám sát camera và phân tích 
-dữ liệu trong thời gian thực tại các điểm bán hàng 
-để nâng cao khả năng phát hiện gian lận và ứng 
+•	 Ứng dụng công nghệ: Sử dụng phần mềm quản trị
+rủi ro để tự động hóa việc thu thập và phân tích dữ
+liệu rủi ro, từ đó phát hiện sớm các rủi ro tiềm tàng.
+Triển khai hệ thống giám sát camera và phân tích
+dữ liệu trong thời gian thực tại các điểm bán hàng
+để nâng cao khả năng phát hiện gian lận và ứng
 phó với các sự kiện rủi ro.
-•	
-Tối ưu hóa hiệu suất kiểm soát: Thực hiện đánh giá 
-rủi ro định kỳ và thực hiện các biện pháp phòng ngừa 
-& phát hiện tại từng cửa hàng. Tổ chức các buổi đào 
-tạo thường xuyên cho nhân viên tại cửa hàng về các 
+Tối ưu hóa hiệu suất kiểm soát: Thực hiện đánh giá
+rủi ro định kỳ và thực hiện các biện pháp phòng ngừa
+& phát hiện tại từng cửa hàng. Tổ chức các buổi đào
+tạo thường xuyên cho nhân viên tại cửa hàng về các
 tiêu chuẩn an toàn, rủi ro và cách ứng phó hiệu quả.
-RÀ SOÁT RỦI RO CNTT,  
+RÀ SOÁT RỦI RO CNTT,
 BẢO MẬT THÔNG TIN KHÁCH HÀNG
-Trong bối cảnh tình hình an ninh mạng ngày càng 
-phức tạp, PNJ cam kết thực hiện rà soát toàn diện 
-các rủi ro liên quan đến công nghệ thông tin và bảo 
-mật thông tin của khách hàng nhằm nâng cao chất 
-lượng bảo vệ dữ liệu và hệ thống IT, đảm bảo sự 
-an toàn và bảo mật thông tin không chỉ cho khách 
+Trong bối cảnh tình hình an ninh mạng ngày càng
+phức tạp, PNJ cam kết thực hiện rà soát toàn diện
+các rủi ro liên quan đến công nghệ thông tin và bảo
+mật thông tin của khách hàng nhằm nâng cao chất
+lượng bảo vệ dữ liệu và hệ thống IT, đảm bảo sự
+an toàn và bảo mật thông tin không chỉ cho khách
 hàng mà còn cho chính tổ chức, đảm bảo tuân thủ.
-•	 Phân tích Rủi ro: Thực hiện đánh giá toàn diện các 
-hệ thống IT hiện có để xác định các điểm yếu, lỗ 
-hổng bảo mật và tiềm năng rủi ro tiềm ẩn. Đánh 
-giá này sẽ dựa trên các chuẩn mực bảo mật quốc 
-tế và kinh nghiệm thực tiễn từ các chuyên gia an 
+•	 Phân tích Rủi ro: Thực hiện đánh giá toàn diện các
+hệ thống IT hiện có để xác định các điểm yếu, lỗ
+hổng bảo mật và tiềm năng rủi ro tiềm ẩn. Đánh
+giá này sẽ dựa trên các chuẩn mực bảo mật quốc
+tế và kinh nghiệm thực tiễn từ các chuyên gia an
 ninh mạng.
-•	 Cập nhật Công nghệ: Áp dụng các giải pháp bảo 
-mật tiên tiến như mã hóa dữ liệu, tường lửa, và hệ 
-thống phát hiện xâm nhập để bảo vệ dữ liệu khách 
-hàng và các tài sản thông tin. 
-•	 Giám sát và Kiểm soát: Thiết lập hệ thống giám 
-sát liên tục để phát hiện sớm các hành vi đáng 
-ngờ và các mối đe dọa an ninh mạng, giúp phản 
-ứng nhanh chóng khi có sự cố. Định kỳ rà soát 
-và kiểm tra lại các biện pháp bảo mật đã áp dụng 
+•	 Cập nhật Công nghệ: Áp dụng các giải pháp bảo
+mật tiên tiến như mã hóa dữ liệu, tường lửa, và hệ
+thống phát hiện xâm nhập để bảo vệ dữ liệu khách
+hàng và các tài sản thông tin.
+•	 Giám sát và Kiểm soát: Thiết lập hệ thống giám
+sát liên tục để phát hiện sớm các hành vi đáng
+ngờ và các mối đe dọa an ninh mạng, giúp phản
+ứng nhanh chóng khi có sự cố. Định kỳ rà soát
+và kiểm tra lại các biện pháp bảo mật đã áp dụng
 để đảm bảo hoạt động vẫn hiệu quả và phù hợp.
-TĂNG CƯỜNG HIỆU QUẢ QTRR  
+TĂNG CƯỜNG HIỆU QUẢ QTRR
 DỰA TRÊN DỮ LIỆU
-PNJ đã tăng cường sự hỗ trợ của công nghệ thông tin 
-trong mọi công việc tại công ty, trong đó có công tác quản 
-trị rủi ro và tuân thủ. 
+PNJ đã tăng cường sự hỗ trợ của công nghệ thông tin
+trong mọi công việc tại công ty, trong đó có công tác quản
+trị rủi ro và tuân thủ.
 •	 Hỗ trợ việc ra quyết định và đánh giá
-	»
-Dựa Trên Dữ Liệu, QTRR cung cấp thông tin 
-chuyên sâu và cập nhật tới các cấp quản lý và 
-nhân viên hỗ trợ việc ra các quyết định dựa trên 
-các thông số về rủi ro và tổn thất, từ đó giảm 
-thiểu các hoạt động kiểm soát được quyết định 
+Dựa Trên Dữ Liệu, QTRR cung cấp thông tin
+chuyên sâu và cập nhật tới các cấp quản lý và
+nhân viên hỗ trợ việc ra các quyết định dựa trên
+các thông số về rủi ro và tổn thất, từ đó giảm
+thiểu các hoạt động kiểm soát được quyết định
 triển khai dựa trên cảm tính.
-	»
-Tạo điều kiện cho việc đánh giá rủi ro một cách toàn 
-diện và minh bạch, giúp xác định được những vấn 
+Tạo điều kiện cho việc đánh giá rủi ro một cách toàn
+diện và minh bạch, giúp xác định được những vấn
 đề tiềm ẩn có thể ảnh hưởng đến công ty.
 •	 Tối ưu hóa hiệu suất
-	»
-Giúp giảm thiểu rủi ro thông qua việc phát hiện sớm 
+Giúp giảm thiểu rủi ro thông qua việc phát hiện sớm
 và áp dụng các biện pháp ngăn chặn kịp thời.
-	»
-Tối ưu hiệu suất làm việc của nhân sự có vai trò 
-kiểm tra kiểm soát khi dựa vào kết quả phân tích 
+Tối ưu hiệu suất làm việc của nhân sự có vai trò
+kiểm tra kiểm soát khi dựa vào kết quả phân tích
 dữ liệu để chọn mẫu đánh giá và kiểm tra.
-NÂNG CAO NĂNG LỰC  
+NÂNG CAO NĂNG LỰC
 XỬ LÝ RỦI RO Ở CẢ 3 TUYẾN
-Quản trị rủi ro kết hợp và đồng hành với Kiểm toán 
-nội bộ đã thực hiện các buổi đào tạo nâng cao về kiến 
-thức và kỹ năng quản lý, ứng phó với các sự cố có thể 
-xảy ra tại công ty. Nhân viên PNJ sau khi được đào tạo 
+Quản trị rủi ro kết hợp và đồng hành với Kiểm toán
+nội bộ đã thực hiện các buổi đào tạo nâng cao về kiến
+thức và kỹ năng quản lý, ứng phó với các sự cố có thể
+xảy ra tại công ty. Nhân viên PNJ sau khi được đào tạo
 đã nắm vững kiến thức về:
-•	 Phương pháp nhận diện, báo cáo và ứng phó 
+•	 Phương pháp nhận diện, báo cáo và ứng phó
 rủi ro.
 •	 Kỹ năng kiểm tra kiểm soát trên hệ thống ERP.
 •	 Nội quy lao động công ty.
 •	 Phương thức báo cáo sai phạm.
 •	 Các chế tài khi vi phạm kỷ luật lao động.
-45
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 ĐỊNH HƯỚNG
@@ -1438,179 +1226,99 @@ PHÁT TRIỂN
 DÀI HẠN
 BỐI CẢNH KINH TẾ
 VIỆT NAM VÀ THẾ GIỚI 2024
-Năm 2024, các nền kinh tế lớn trên thế giới như Mỹ, Châu Âu, Anh phục hồi nhẹ trong khi một số nền kinh tế lớn của 
-Châu Á như Trung Quốc và Nhật Bản tăng trưởng chậm lại. Thế giới chứng kiến nhiều thay đổi địa chính trị, xung đột vũ 
-trang leo thang khiến chuỗi cung ứng bị đứt gãy ở nhiều mắt xích quan trọng trong một số khoảng thời gian nhất định. 
+Năm 2024, các nền kinh tế lớn trên thế giới như Mỹ, Châu Âu, Anh phục hồi nhẹ trong khi một số nền kinh tế lớn của
+Châu Á như Trung Quốc và Nhật Bản tăng trưởng chậm lại. Thế giới chứng kiến nhiều thay đổi địa chính trị, xung đột vũ
+trang leo thang khiến chuỗi cung ứng bị đứt gãy ở nhiều mắt xích quan trọng trong một số khoảng thời gian nhất định.
 BỐI CẢNH THẾ GIỚI
-TĂNG TRƯỞNG GDP CÁC NƯỚC 
-QUA NĂM 2023 - 2024
-GDP các nền kinh tế lớn phục hồi 
-nhẹ, riêng Trung Quốc và Nhật 
+TĂNG TRƯỞNG GDP CÁC NƯỚC
+GDP các nền kinh tế lớn phục hồi
+nhẹ, riêng Trung Quốc và Nhật
 Bản tăng trưởng thấp hơn kỳ vọng.
- 2023
- 2024
-Mỹ
-Anh
-EU
 Trung Quốc
 Nhật Bản
 Việt Nam
-2,5%
-2,8%
-0,3%
-1,0%
-0,4%
-0,7%
-5,2%
-5,0%
-1,9%
-0,3%
-5,1%
-7,1%
 Nguồn: Worldbank và các báo cáo vĩ mô
-Lạm phát nhiều nước trên thế giới được kiểm soát trong năm 2024. Nhờ đó, các nước bắt đầu giảm lãi suất 
-để kích thích nền kinh tế vào Q3.2024. Tuy nhiên, Trung Quốc, nền kinh tế lớn thứ 2 thế giới, đối diện với rủi ro 
-giảm phát do nền kinh tế và thị trường bất động sản chậm phục hồi và tiêu dùng còn dè dặt. 
-TỶ LỆ LẠM PHÁT TRUNG BÌNH  
+Lạm phát nhiều nước trên thế giới được kiểm soát trong năm 2024. Nhờ đó, các nước bắt đầu giảm lãi suất
+để kích thích nền kinh tế vào Q3.2024. Tuy nhiên, Trung Quốc, nền kinh tế lớn thứ 2 thế giới, đối diện với rủi ro
+giảm phát do nền kinh tế và thị trường bất động sản chậm phục hồi và tiêu dùng còn dè dặt.
+TỶ LỆ LẠM PHÁT TRUNG BÌNH
 TÍNH THEO CPI CÁC NƯỚC NĂM 2023 - 2024
-Lạm phát được kéo giảm trong 
-năm 2024. Trung Quốc đối mặt với 
+Lạm phát được kéo giảm trong
+năm 2024. Trung Quốc đối mặt với
 nguy cơ giảm phát.
-4,1%
-2,9%
-7,3%
-2,5%
-5,5%
-2,4%
-0,7%
-0,2%
-3,2%
-2,7%
-3,3%
-3,6%
- 2023
- 2024
-Mỹ
-Anh
-EU
 Trung Quốc
 Nhật Bản
 Việt Nam
 Nguồn: Worldbank và các báo cáo vĩ mô
-Chênh lệch giữa thời điểm cao nhất và thấp nhất trong 
-năm lên tới 40% (1.992 USD/ounce - T2.2024 vs. 2.786 
-USD/ounce - T10.2024).  
-Tính thời điểm đầu năm đến cuối năm, giá vàng tăng 27% 
-từ mức 2.059 USD/ounce lên mức 2.624 USD/ounce. 
-TRONG BỐI CẢNH BẤT ỔN CỦA ĐỊA CHÍNH 
-TRỊ VÀ CÁC CHÍNH SÁCH ĐIỀU HÀNH CỦA 
-CÁC NƯỚC TRÊN THẾ GIỚI, GIÁ VÀNG THẾ 
+Chênh lệch giữa thời điểm cao nhất và thấp nhất trong
+năm lên tới 40% (1.992 USD/ounce - T2.2024 vs. 2.786
+USD/ounce - T10.2024).
+Tính thời điểm đầu năm đến cuối năm, giá vàng tăng 27%
+từ mức 2.059 USD/ounce lên mức 2.624 USD/ounce.
+TRONG BỐI CẢNH BẤT ỔN CỦA ĐỊA CHÍNH
+TRỊ VÀ CÁC CHÍNH SÁCH ĐIỀU HÀNH CỦA
+CÁC NƯỚC TRÊN THẾ GIỚI, GIÁ VÀNG THẾ
 GIỚI TĂNG MẠNH TRONG NĂM 2024
 Nguồn: Investing.com
-GIÁ VÀNG THẾ GIỚI TRONG NĂM 2024,  
+GIÁ VÀNG THẾ GIỚI TRONG NĂM 2024,
 USD/OUNCE
-Bất ổn địa chính trị và nền kinh tế 
+Bất ổn địa chính trị và nền kinh tế
 làm giá vàng tăng phi mã.
-1/1/2024
-12/2/2024
-25/3/2024
-7/5/2024
-18/6/2024
-30/7/2024
-10/9/2024
-22/10/2024
-31/12/2024
-2.058,88
-2.7886,19
-2.623,81
-47
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
 
-TRIỂN VỌNG 
-KINH TẾ VIỆT NAM  
-NĂM 2025
+TRIỂN VỌNG
+KINH TẾ VIỆT NAM
 BỐI CẢNH THẾ GIỚI
-Dự báo năm 2025, nền kinh tế toàn cầu tiếp tục đối mặt với nhiều thách thức, 
-nổi bật bao gồm: Rủi ro chiến tranh thương mại do các thay đổi trong chính sách 
-thuế quan của Chính quyền Trump 2.0 từ đó gây khó khăn trong việc kiểm soát 
-lạm phát các nước; Xung đột quân sự kéo dài tại Nga - Ukraine, và Trung đông 
-Israel - Palestine. Từ đó, dự báo tăng trưởng GDP các nước 2025  
-chưa có nhiều khởi sắc. 
-DỰ BÁO TỐC ĐỘ TĂNG TRƯỞNG GDP 2025, 
+Dự báo năm 2025, nền kinh tế toàn cầu tiếp tục đối mặt với nhiều thách thức,
+nổi bật bao gồm: Rủi ro chiến tranh thương mại do các thay đổi trong chính sách
+thuế quan của Chính quyền Trump 2.0 từ đó gây khó khăn trong việc kiểm soát
+lạm phát các nước; Xung đột quân sự kéo dài tại Nga - Ukraine, và Trung đông
+Israel - Palestine. Từ đó, dự báo tăng trưởng GDP các nước 2025
+chưa có nhiều khởi sắc.
+DỰ BÁO TỐC ĐỘ TĂNG TRƯỞNG GDP 2025,
 SO SÁNH CÁC NĂM TRƯỚC, %
- 2023
- 2024
- 2025
-2,9% 2,8%
-2,4%
-0,4%
-0,7%
-1,2%
-0,3%
-1,0% 1,1%
-5,2% 5,0% 5,2%
-1,9%
-0,3%
-1,2%
-5,1%
-7,1%
-8,0%
-Mỹ
-Anh
-EU
 Trung Quốc
 Nhật Bản
 Việt Nam
-Nguồn: Citi 2025 Wealth Outlook,  
+Nguồn: Citi 2025 Wealth Outlook,
 The Japan Times, PNJ tổng hợp
 BỐI CẢNH VIỆT NAM
-TRIỂN VỌNG KINH TẾ VIỆT NAM NĂM 2025 
-CÓ MỘT SỐ ĐIỂM SÁNG TUY NHIÊN 
-VẪN TIỀM ẨN CÁC RỦI RO TỪ BIẾN ĐỘNG 
-CỦA NỀN KINH TẾ THẾ GIỚI VÀ 
-NGUY CƠ CHIẾN TRANH THƯƠNG MẠI. 
-8,0%
+TRIỂN VỌNG KINH TẾ VIỆT NAM NĂM 2025
+CÓ MỘT SỐ ĐIỂM SÁNG TUY NHIÊN
+VẪN TIỀM ẨN CÁC RỦI RO TỪ BIẾN ĐỘNG
+CỦA NỀN KINH TẾ THẾ GIỚI VÀ
+NGUY CƠ CHIẾN TRANH THƯƠNG MẠI.
 MỤC TIÊU TĂNG TRƯỞNG GDP
-Đối với Việt Nam, triển vọng kinh tế năm 2025 dự báo có một số điểm sáng, tuy 
-nhiên vẫn tiềm ẩn các rủi ro từ biến động của nền kinh tế thế giới và nguy cơ 
-chiến tranh thương mại. Mục tiêu tăng trưởng GDP 8,0% của Chính phủ có thể 
-được thúc đẩy bởi cam kết đầu tư công, cùng với những kỳ vọng về sự phục 
-hồi của thị trường bất động sản và tiêu dùng trong nước. Tuy nhiên, việc hồi 
-phục sức mua cho ngành hàng trang sức và hàng xa xỉ dự kiến sẽ có độ trễ đi 
-sau 1 nhịp so với sức mua tiêu dùng chung. Trong trường hợp khả quan, sức 
-mua có thể bắt đầu hồi phục trong nửa năm sau 2025. Trong kịch bản kém lạc 
-quan hơn, nguy cơ chiến tranh thương mại giữa Mỹ và các đối tác lớn trong đó 
-có Việt Nam có thể ảnh hưởng đến hoạt động xuất khẩu và sản xuất của Việt 
-Nam và dẫn đến sự hồi phục sức mua hàng trang sức và xa xỉ phẩm có thể kéo 
+Đối với Việt Nam, triển vọng kinh tế năm 2025 dự báo có một số điểm sáng, tuy
+nhiên vẫn tiềm ẩn các rủi ro từ biến động của nền kinh tế thế giới và nguy cơ
+chiến tranh thương mại. Mục tiêu tăng trưởng GDP 8,0% của Chính phủ có thể
+được thúc đẩy bởi cam kết đầu tư công, cùng với những kỳ vọng về sự phục
+hồi của thị trường bất động sản và tiêu dùng trong nước. Tuy nhiên, việc hồi
+phục sức mua cho ngành hàng trang sức và hàng xa xỉ dự kiến sẽ có độ trễ đi
+sau 1 nhịp so với sức mua tiêu dùng chung. Trong trường hợp khả quan, sức
+mua có thể bắt đầu hồi phục trong nửa năm sau 2025. Trong kịch bản kém lạc
+quan hơn, nguy cơ chiến tranh thương mại giữa Mỹ và các đối tác lớn trong đó
+có Việt Nam có thể ảnh hưởng đến hoạt động xuất khẩu và sản xuất của Việt
+Nam và dẫn đến sự hồi phục sức mua hàng trang sức và xa xỉ phẩm có thể kéo
 dài hơn đến tận giữa năm 2026.
-51
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-Giai đoạn 2025-2030 được đánh giá sẽ tiếp tục là thời kỳ tăng trưởng mạnh mẽ và  
-chuyển mình sâu rộng của thị trường bán lẻ và tiêu dùng tại Việt Nam, đặc biệt là trong  
-bối cảnh hội nhập kinh tế quốc tế ngày càng sâu sắc, tầng lớp trung lưu mở rộng  
-nhanh chóng và xu hướng tiêu dùng ngày càng tinh tế, cá nhân hóa. Trong bức tranh  
-sôi động đó, cạnh tranh giữa các doanh nghiệp đầu ngành sẽ trở nên quyết liệt hơn  
-bao giờ hết - một cuộc đua không chỉ về thị phần, mà còn về tốc độ chuyển đổi, năng lực 
+Giai đoạn 2025-2030 được đánh giá sẽ tiếp tục là thời kỳ tăng trưởng mạnh mẽ và
+chuyển mình sâu rộng của thị trường bán lẻ và tiêu dùng tại Việt Nam, đặc biệt là trong
+bối cảnh hội nhập kinh tế quốc tế ngày càng sâu sắc, tầng lớp trung lưu mở rộng
+nhanh chóng và xu hướng tiêu dùng ngày càng tinh tế, cá nhân hóa. Trong bức tranh
+sôi động đó, cạnh tranh giữa các doanh nghiệp đầu ngành sẽ trở nên quyết liệt hơn
+bao giờ hết - một cuộc đua không chỉ về thị phần, mà còn về tốc độ chuyển đổi, năng lực
 sáng tạo và khả năng kiến tạo giá trị bền vững.
-Trong vai trò là doanh nghiệp dẫn đầu ngành bán lẻ trang sức tại Việt Nam, PNJ đã  
-liên tục vượt trội so với tốc độ tăng trưởng bình quân của thị trường. Thành tựu này là  
-kết quả của chiến lược phát triển có tầm nhìn dài hạn, được hoạch định bài bản, linh hoạt 
-thích ứng nhưng vẫn kiên định về giá trị cốt lõi. Trong giai đoạn vừa qua, PNJ đã xây dựng 
-vững chắc những nền tảng cho một năng lực mới liên quan đến bán lẻ trang sức,  
-từng bước chuyển mình trở thành một doanh nghiệp có khả năng tích hợp công nghệ - 
-con người - dữ liệu trong toàn bộ hành trình phục vụ khách hàng. Đây là những tiền đề 
+Trong vai trò là doanh nghiệp dẫn đầu ngành bán lẻ trang sức tại Việt Nam, PNJ đã
+liên tục vượt trội so với tốc độ tăng trưởng bình quân của thị trường. Thành tựu này là
+kết quả của chiến lược phát triển có tầm nhìn dài hạn, được hoạch định bài bản, linh hoạt
+thích ứng nhưng vẫn kiên định về giá trị cốt lõi. Trong giai đoạn vừa qua, PNJ đã xây dựng
+vững chắc những nền tảng cho một năng lực mới liên quan đến bán lẻ trang sức,
+từng bước chuyển mình trở thành một doanh nghiệp có khả năng tích hợp công nghệ -
+con người - dữ liệu trong toàn bộ hành trình phục vụ khách hàng. Đây là những tiền đề
 quan trọng để PNJ bước vào một giai đoạn phát triển mới với khát vọng cao hơn.
-CHIẾN LƯỢC PHÁT TRIỂN 
-GIAI ĐOẠN 2025-2030
-TĂNG TRƯỞNG 
+TĂNG TRƯỞNG
 VỮNG CHẮC
 LÀM GIÀU
 TÀI NGUYÊN
@@ -1618,1346 +1326,1082 @@ CHUẨN BỊ
 TƯƠNG LAI
 PHÁT TRIỂN
 NĂNG LỰC
-PHÁT TRIỂN 
+PHÁT TRIỂN
 KINH DOANH MỚI
-BƯỚC VÀO GIAI ĐOẠN CHIẾN LƯỢC 2022-2027, HƯỚNG ĐẾN 2030,  
-PNJ TIẾP TỤC TRIỂN KHAI LỘ TRÌNH PHÁT TRIỂN CHIẾN LƯỢC MỚI, 
+BƯỚC VÀO GIAI ĐOẠN CHIẾN LƯỢC 2022-2027, HƯỚNG ĐẾN 2030,
+PNJ TIẾP TỤC TRIỂN KHAI LỘ TRÌNH PHÁT TRIỂN CHIẾN LƯỢC MỚI,
 DỰA TRÊN 5 ĐỊNH HƯỚNG CHIẾN LƯỢC:
 TĂNG TRƯỞNG VỮNG CHẮC
-PNJ sẽ tiếp tục đầu tư mạnh mẽ để tiếp tục dẫn dắt thị 
-trường bán lẻ trang sức thông qua mở rộng quy mô chuỗi 
-bán lẻ, nâng cao hiệu quả vận hành, mở rộng mạng lưới 
-phân phối và không ngừng nâng cao trải nghiệm khách 
-hàng. Đồng thời, PNJ sẽ tăng thêm hàm lượng các giá 
-trị sáng tạo trong thiết kế sản phẩm, tạo ra các bộ sưu 
-tập đậm tính nghệ thuật và khác biệt hoá trải nghiệm tiêu 
-dùng. Song song, việc mở rộng danh mục sản phẩm từ 
-trang sức sang các sản phẩm phong cách sống (lifestyle) 
+PNJ sẽ tiếp tục đầu tư mạnh mẽ để tiếp tục dẫn dắt thị
+trường bán lẻ trang sức thông qua mở rộng quy mô chuỗi
+bán lẻ, nâng cao hiệu quả vận hành, mở rộng mạng lưới
+phân phối và không ngừng nâng cao trải nghiệm khách
+hàng. Đồng thời, PNJ sẽ tăng thêm hàm lượng các giá
+trị sáng tạo trong thiết kế sản phẩm, tạo ra các bộ sưu
+tập đậm tính nghệ thuật và khác biệt hoá trải nghiệm tiêu
+dùng. Song song, việc mở rộng danh mục sản phẩm từ
+trang sức sang các sản phẩm phong cách sống (lifestyle)
 sẽ là động lực tăng trưởng quan trọng trong giai đoạn tới.
-PHÁT TRIỂN NĂNG LỰC 
-PNJ sẽ kiên định đầu tư mạnh mẽ để phát triển năng 
-lực chiến lược mới bằng sự kết hợp chặt chẽ giữa con 
-người và công nghệ, tận dụng các nền tảng về năng lực 
-và nguồn lực chiến lược đã được chuẩn bị và đầu tư từ 
-những năm vừa qua để đi trước một bước trong ứng 
-dụng công nghệ vào vận hành, quản trị và phục vụ khách 
-hàng. Hệ thống dữ liệu thông minh và năng lực tự động 
-hoá sẽ được triển khai mạnh mẽ hơn để nâng cao hiệu 
+PHÁT TRIỂN NĂNG LỰC
+PNJ sẽ kiên định đầu tư mạnh mẽ để phát triển năng
+lực chiến lược mới bằng sự kết hợp chặt chẽ giữa con
+người và công nghệ, tận dụng các nền tảng về năng lực
+và nguồn lực chiến lược đã được chuẩn bị và đầu tư từ
+những năm vừa qua để đi trước một bước trong ứng
+dụng công nghệ vào vận hành, quản trị và phục vụ khách
+hàng. Hệ thống dữ liệu thông minh và năng lực tự động
+hoá sẽ được triển khai mạnh mẽ hơn để nâng cao hiệu
 quả và tính linh hoạt trong mọi tình huống thị trường.
 LÀM GIÀU TÀI NGUYÊN
-Trong giai đoạn tới, PNJ sẽ chú trọng mở rộng hệ sinh thái 
-lifestyle, phát triển các nền tảng dữ liệu người dùng và thúc 
-đẩy các chiến lược hợp tác - liên kết với các đối tác chiến 
-lược trong và ngoài ngành để cùng nhau tạo dựng một hệ 
-sinh thái mở, đồng sáng tạo và bền vững. Đồng thời, PNJ 
-sẽ tiếp tục làm giàu và phát triển các tài sản và tài nguyên 
-vô hình như thương hiệu, dữ liệu, và niềm tin người tiêu 
+Trong giai đoạn tới, PNJ sẽ chú trọng mở rộng hệ sinh thái
+lifestyle, phát triển các nền tảng dữ liệu người dùng và thúc
+đẩy các chiến lược hợp tác - liên kết với các đối tác chiến
+lược trong và ngoài ngành để cùng nhau tạo dựng một hệ
+sinh thái mở, đồng sáng tạo và bền vững. Đồng thời, PNJ
+sẽ tiếp tục làm giàu và phát triển các tài sản và tài nguyên
+vô hình như thương hiệu, dữ liệu, và niềm tin người tiêu
 dùng - những tài nguyên có giá trị dài hạn và bền vững.
 CHUẨN BỊ CHO TƯƠNG LAI
-PNJ hướng đến việc đón đầu các công nghệ mới, tăng 
-cường hợp tác quốc tế và đầu tư vào nguồn nhân lực 
-chất lượng cao - đủ năng lực để chinh phục thị trường 
-đang mở rộng và biến đổi nhanh chóng. PNJ sẽ chủ 
-động dự báo các xu hướng tiêu dùng, công nghệ và xã 
-hội để thiết kế các kịch bản tăng trưởng linh hoạt, từ 
-đó chủ động thích ứng và bứt phá trong mọi điều kiện 
-thị trường. PNJ sẽ chú trọng đầu tư vào nghiên cứu và 
-phát triển (R&D), sáng tạo sản phẩm mới, và chuẩn bị 
+PNJ hướng đến việc đón đầu các công nghệ mới, tăng
+cường hợp tác quốc tế và đầu tư vào nguồn nhân lực
+chất lượng cao - đủ năng lực để chinh phục thị trường
+đang mở rộng và biến đổi nhanh chóng. PNJ sẽ chủ
+động dự báo các xu hướng tiêu dùng, công nghệ và xã
+hội để thiết kế các kịch bản tăng trưởng linh hoạt, từ
+đó chủ động thích ứng và bứt phá trong mọi điều kiện
+thị trường. PNJ sẽ chú trọng đầu tư vào nghiên cứu và
+phát triển (R&D), sáng tạo sản phẩm mới, và chuẩn bị
 sẵn sàng cho các mô hình kinh doanh đột phá.
 PHÁT TRIỂN KINH DOANH MỚI
-Đa dạng hóa danh mục đầu tư, phát triển các lĩnh vực 
-kinh doanh phụ trợ có tính cộng hưởng cao với ngành 
-cốt lõi như công nghệ bán lẻ, sản phẩm tiêu dùng cao 
-cấp và dịch vụ trải nghiệm cá nhân hóa. Đây là đòn bẩy 
-quan trọng để PNJ mở rộng không gian tăng trưởng và 
+Đa dạng hóa danh mục đầu tư, phát triển các lĩnh vực
+kinh doanh phụ trợ có tính cộng hưởng cao với ngành
+cốt lõi như công nghệ bán lẻ, sản phẩm tiêu dùng cao
+cấp và dịch vụ trải nghiệm cá nhân hóa. Đây là đòn bẩy
+quan trọng để PNJ mở rộng không gian tăng trưởng và
 gia tăng giá trị cho cổ đông.
-Để tiếp tục phát triển lên một tầm cao mới, PNJ xác 
-định cần “Khai phóng và Sáng tạo” - tạo ra những 
-cơ chế làm việc mới để thu hút nhân tài, xây dựng 
-thể chế đồng kiến tạo - đồng sở hữu, nhằm thu 
-hút một thế hệ các founders mới và đội ngũ nhân 
-sự chủ chốt mang tinh thần doanh chủ, năng lực 
-sáng tạo cao và cam kết dài hạn cùng đồng hành 
+Để tiếp tục phát triển lên một tầm cao mới, PNJ xác
+định cần “Khai phóng và Sáng tạo” - tạo ra những
+cơ chế làm việc mới để thu hút nhân tài, xây dựng
+thể chế đồng kiến tạo - đồng sở hữu, nhằm thu
+hút một thế hệ các founders mới và đội ngũ nhân
+sự chủ chốt mang tinh thần doanh chủ, năng lực
+sáng tạo cao và cam kết dài hạn cùng đồng hành
 vì tương lai.
-CAM KẾT PHÁT TRIỂN BỀN VỮNG: 
+CAM KẾT PHÁT TRIỂN BỀN VỮNG:
 GIÁ TRỊ TỪ SỰ HÀI HÒA LỢI ÍCH
-Chiến lược phát triển của PNJ không chỉ tập trung vào tăng trưởng kinh tế mà còn đặt trọng tâm vào 
-phát triển bền vững - yếu tố cốt lõi trong triết lý kinh doanh của công ty: “Đặt lợi ích của khách hàng và 
+Chiến lược phát triển của PNJ không chỉ tập trung vào tăng trưởng kinh tế mà còn đặt trọng tâm vào
+phát triển bền vững - yếu tố cốt lõi trong triết lý kinh doanh của công ty: “Đặt lợi ích của khách hàng và
 xã hội vào lợi ích của doanh nghiệp.”
-PNJ cam kết tạo ra giá trị lâu dài cho tất cả các bên liên quan thông qua việc cân bằng giữa hiệu quả 
-tài chính, sự hài lòng của khách hàng, phát triển con người và trách nhiệm với cộng đồng - từ đó xây dựng 
+PNJ cam kết tạo ra giá trị lâu dài cho tất cả các bên liên quan thông qua việc cân bằng giữa hiệu quả
+tài chính, sự hài lòng của khách hàng, phát triển con người và trách nhiệm với cộng đồng - từ đó xây dựng
 một doanh nghiệp không chỉ lớn mạnh về quy mô, mà còn trường tồn bằng uy tín, niềm tin và giá trị nhân văn.
-53
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-ĐÁNH GIÁ VIỆC TRIỂN KHAI 
-CÁC CHIẾN LƯỢC  
+ĐÁNH GIÁ VIỆC TRIỂN KHAI
+CÁC CHIẾN LƯỢC
 KINH DOANH 2024
-Trong bối cảnh kinh doanh với nhiều khó khăn thách thức của năm 2024 với nhiều biến số phát sinh 
-của thị trường vàng cũng như sự “khô hạn sức mua” từ năm 2023 kéo dài sang 2024, Hội đồng quản 
-trị và Ban Điều hành PNJ đã quyết đoán và quyết tâm trong việc cập nhật & triển khai các chiến lược 
+Trong bối cảnh kinh doanh với nhiều khó khăn thách thức của năm 2024 với nhiều biến số phát sinh
+của thị trường vàng cũng như sự “khô hạn sức mua” từ năm 2023 kéo dài sang 2024, Hội đồng quản
+trị và Ban Điều hành PNJ đã quyết đoán và quyết tâm trong việc cập nhật & triển khai các chiến lược
 với tinh thần Tăng cấp tái tạo - Bứt phá vươn tầm. Cụ thể:
-ĐẦU TƯ PHÁT TRIỂN SẢN PHẨM, ĐỔI MỚI CÔNG NGHỆ  
+ĐẦU TƯ PHÁT TRIỂN SẢN PHẨM, ĐỔI MỚI CÔNG NGHỆ
 VÀ PHƯƠNG THỨC TRUYỀN THÔNG, TIẾP THỊ
-TỐI ƯU HÓA DOANH THU ĐIỂM BÁN, MỞ RỘNG MẠNG LƯỚI CỬA HÀNG VÀ  
+TỐI ƯU HÓA DOANH THU ĐIỂM BÁN, MỞ RỘNG MẠNG LƯỚI CỬA HÀNG VÀ
 NÂNG CAO CHẤT LƯỢNG DỊCH VỤ
-PNJ tối ưu hóa doanh thu điểm bán thông qua việc nâng 
-cao chất lượng dịch vụ. PNJ đã tiếp tục phát triển & củng 
-cố hệ thống phân phối trên toàn quốc bằng cách nhân 
-rộng các mô hình cửa hàng thành công, nâng cấp không 
-gian và trải nghiệm mua sắm để xây dựng gắn kết bền 
-chặt với nhóm khách hàng cũ, đồng thời thu hút thêm 
-nhiều đối tượng khách hàng mới. Trong năm 2024 đã mở 
-mới 41 cửa hàng để tăng cường độ phủ, thành công với 
-chiến lược mở rộng hệ thống cửa hàng tại các địa bàn 
-mới tiềm năng, còn nhiều dư địa thị trường. Công ty cũng 
-đã chuyển đổi mô hình kinh doanh của 01 cửa hàng độc 
-lập PNJ Style, 01 cửa hàng độc lập PNJ Silver để tối ưu 
-hiệu quả chi phí. Tính đến cuối tháng 12/2024, PNJ đã 
-chạm mốc 429 cửa hàng tại 58/63 tỉnh thành. Điều này 
-giúp công ty tiếp cận được nhiều khách hàng hơn và tăng 
-cơ hội bán hàng. 
-Trước bối cảnh thị trường còn nhiều thách thức do nguồn 
-cung nguyên liệu hạn chế và sức mua giảm sút, PNJ đã 
-kịp thời điều chỉnh chiến lược và tối ưu hóa danh mục sản 
-phẩm để phù hợp với xu hướng tiêu dùng. Những nỗ lực 
-này đã mang lại những phản hồi tích cực từ phía khách 
-hàng. Năm 2024 được ghi nhận là năm thành công của 
-PNJ, với nhiều dòng sản phẩm nhận được sự quan tâm 
-lớn từ thị trường. Đặc biệt, bộ sưu tập trang sức cưới 
-“Trầu Cau PNJ” tiếp tục khẳng định chỗ đứng, trở thành 
-lựa chọn phổ biến của nhiều khách hàng trong mùa cưới 
-năm 2024. Bộ sưu tập này không chỉ tạo tiếng vang lớn 
-trong lĩnh vực trang sức cưới mà còn vinh dự đạt giải 
-thưởng Best Contemporary Heritage Wedding Jewelry 
-tại Lễ trao giải Vietnam Wedding Award 2024. Hướng tới 
-nhóm khách hàng trẻ tuổi, PNJ tiếp tục đầu tư phát triển 
-nhãn hiệu STYLE by PNJ, cho ra mắt các sản phẩm thiết 
-kế hiện đại, mang tính độc đáo và theo kịp xu hướng thời 
-đại. Công ty cũng duy trì hợp tác với các thương hiệu quốc 
-tế, góp phần tạo dấu ấn với các bộ sưu tập mới như It’s 
-Sakura Time, The Shining Princess, Thẻ may mắn Hello 
-Kitty, Tiny Pearl và Marvel Watch, đem đến trải nghiệm độc 
-đáo cho khách hàng và khẳng định vị thế dẫn đầu ngành. 
-Song song đó, PNJ tích cực ứng dụng công nghệ trong 
-việc thiết kế các sản phẩm mang tính cá nhân hóa, phù 
-hợp với từng phân khúc khách hàng. Những chiến lược 
-truyền thông sáng tạo và các chương trình bán hàng dựa 
-trên nền tảng công nghệ hiện đại đã giúp PNJ không chỉ 
-mở rộng tệp khách hàng mới mà còn nâng cao tỷ lệ khách 
-hàng thân thiết quay lại, góp phần quan trọng vào sự phát 
+PNJ tối ưu hóa doanh thu điểm bán thông qua việc nâng
+cao chất lượng dịch vụ. PNJ đã tiếp tục phát triển & củng
+cố hệ thống phân phối trên toàn quốc bằng cách nhân
+rộng các mô hình cửa hàng thành công, nâng cấp không
+gian và trải nghiệm mua sắm để xây dựng gắn kết bền
+chặt với nhóm khách hàng cũ, đồng thời thu hút thêm
+nhiều đối tượng khách hàng mới. Trong năm 2024 đã mở
+mới 41 cửa hàng để tăng cường độ phủ, thành công với
+chiến lược mở rộng hệ thống cửa hàng tại các địa bàn
+mới tiềm năng, còn nhiều dư địa thị trường. Công ty cũng
+đã chuyển đổi mô hình kinh doanh của 01 cửa hàng độc
+lập PNJ Style, 01 cửa hàng độc lập PNJ Silver để tối ưu
+hiệu quả chi phí. Tính đến cuối tháng 12/2024, PNJ đã
+chạm mốc 429 cửa hàng tại 58/63 tỉnh thành. Điều này
+giúp công ty tiếp cận được nhiều khách hàng hơn và tăng
+cơ hội bán hàng.
+Trước bối cảnh thị trường còn nhiều thách thức do nguồn
+cung nguyên liệu hạn chế và sức mua giảm sút, PNJ đã
+kịp thời điều chỉnh chiến lược và tối ưu hóa danh mục sản
+phẩm để phù hợp với xu hướng tiêu dùng. Những nỗ lực
+này đã mang lại những phản hồi tích cực từ phía khách
+hàng. Năm 2024 được ghi nhận là năm thành công của
+PNJ, với nhiều dòng sản phẩm nhận được sự quan tâm
+lớn từ thị trường. Đặc biệt, bộ sưu tập trang sức cưới
+“Trầu Cau PNJ” tiếp tục khẳng định chỗ đứng, trở thành
+lựa chọn phổ biến của nhiều khách hàng trong mùa cưới
+năm 2024. Bộ sưu tập này không chỉ tạo tiếng vang lớn
+trong lĩnh vực trang sức cưới mà còn vinh dự đạt giải
+thưởng Best Contemporary Heritage Wedding Jewelry
+tại Lễ trao giải Vietnam Wedding Award 2024. Hướng tới
+nhóm khách hàng trẻ tuổi, PNJ tiếp tục đầu tư phát triển
+nhãn hiệu STYLE by PNJ, cho ra mắt các sản phẩm thiết
+kế hiện đại, mang tính độc đáo và theo kịp xu hướng thời
+đại. Công ty cũng duy trì hợp tác với các thương hiệu quốc
+Sakura Time, The Shining Princess, Thẻ may mắn Hello
+Kitty, Tiny Pearl và Marvel Watch, đem đến trải nghiệm độc
+đáo cho khách hàng và khẳng định vị thế dẫn đầu ngành.
+Song song đó, PNJ tích cực ứng dụng công nghệ trong
+việc thiết kế các sản phẩm mang tính cá nhân hóa, phù
+hợp với từng phân khúc khách hàng. Những chiến lược
+truyền thông sáng tạo và các chương trình bán hàng dựa
+trên nền tảng công nghệ hiện đại đã giúp PNJ không chỉ
+mở rộng tệp khách hàng mới mà còn nâng cao tỷ lệ khách
+hàng thân thiết quay lại, góp phần quan trọng vào sự phát
 triển bền vững của thương hiệu.
-TĂNG TỐC PHÁT TRIỂN NĂNG LỰC CHIẾN LƯỢC,  
+TĂNG TỐC PHÁT TRIỂN NĂNG LỰC CHIẾN LƯỢC,
 PHÁT TRIỂN CÔNG NGHỆ BÁN LẺ HIỆN ĐẠI
-Những năm qua, PNJ đã không ngừng nỗ lực học hỏi, 
-đổi mới và hoàn thiện để xây dựng nền tảng năng lực cốt 
-lõi vững chắc. Đây là yếu tố then chốt giúp công ty tiến 
-gần hơn đến mục tiêu trở thành thương hiệu bán lẻ và 
-chế tác trang sức cao cấp hàng đầu, khẳng định vị thế 
-trên thị trường quốc tế. Trong năm qua, PNJ tiếp tục đầu 
-tư mạnh mẽ vào công nghệ và chuyển đổi số, từng bước 
-triển khai ứng dụng các giải pháp AI vào hoạt động kinh 
-doanh và vận hành. Các sáng kiến này không chỉ tạo ra 
-sự hiệu quả vượt trội trong quy trình nội bộ mà còn nâng 
-cao trải nghiệm khách hàng, giúp công ty thích nghi với 
-sự thay đổi nhanh chóng của thị trường. 
-Bên cạnh đó, PNJ đã đẩy mạnh nâng tầm các năng lực 
-cốt lõi, bao gồm: hoàn thiện năng lực quản trị tài chính 
-tuân theo các chuẩn mực quốc tế; chuyển đổi tích cực 
-trong chiến lược Marketing với sự nhấn mạnh vào yếu 
-tố sáng tạo đột phá; tối ưu hóa hiệu quả hoạt động chuỗi 
-cung ứng thông qua tự động hóa; và nâng cao chất 
-lượng hoạt động bán lẻ để phục vụ tốt hơn nhu cầu của 
-người tiêu dùng. PNJ tiếp tục đầu tư vào việc phát triển 
-đội ngũ lãnh đạo ở mọi cấp độ. Các chương trình huấn 
-luyện chuyên biệt được triển khai nhằm xây dựng thế hệ 
-lãnh đạo có năng lực toàn diện, sẵn sàng dẫn dắt công ty 
+Những năm qua, PNJ đã không ngừng nỗ lực học hỏi,
+đổi mới và hoàn thiện để xây dựng nền tảng năng lực cốt
+lõi vững chắc. Đây là yếu tố then chốt giúp công ty tiến
+gần hơn đến mục tiêu trở thành thương hiệu bán lẻ và
+chế tác trang sức cao cấp hàng đầu, khẳng định vị thế
+trên thị trường quốc tế. Trong năm qua, PNJ tiếp tục đầu
+tư mạnh mẽ vào công nghệ và chuyển đổi số, từng bước
+triển khai ứng dụng các giải pháp AI vào hoạt động kinh
+doanh và vận hành. Các sáng kiến này không chỉ tạo ra
+sự hiệu quả vượt trội trong quy trình nội bộ mà còn nâng
+cao trải nghiệm khách hàng, giúp công ty thích nghi với
+sự thay đổi nhanh chóng của thị trường.
+Bên cạnh đó, PNJ đã đẩy mạnh nâng tầm các năng lực
+cốt lõi, bao gồm: hoàn thiện năng lực quản trị tài chính
+tuân theo các chuẩn mực quốc tế; chuyển đổi tích cực
+trong chiến lược Marketing với sự nhấn mạnh vào yếu
+tố sáng tạo đột phá; tối ưu hóa hiệu quả hoạt động chuỗi
+cung ứng thông qua tự động hóa; và nâng cao chất
+lượng hoạt động bán lẻ để phục vụ tốt hơn nhu cầu của
+người tiêu dùng. PNJ tiếp tục đầu tư vào việc phát triển
+đội ngũ lãnh đạo ở mọi cấp độ. Các chương trình huấn
+luyện chuyên biệt được triển khai nhằm xây dựng thế hệ
+lãnh đạo có năng lực toàn diện, sẵn sàng dẫn dắt công ty
 trong bối cảnh kinh doanh đầy cạnh tranh.
 TỐI ƯU HIỆU QUẢ HOẠT ĐỘNG, TỐI ƯU HIỆU QUẢ CHI PHÍ
-Trong năm vừa qua, PNJ tiếp tục đặt trọng tâm vào 
-các dự án chiến lược nhằm tối ưu hiệu quả hoạt động 
-và kiểm soát chi phí một cách hiệu quả. Những nỗ lực 
-này đóng vai trò quan trọng trong việc nâng cao năng 
-suất lao động, tiết giảm chi phí vận hành cũng như 
-tăng cường khả năng cạnh tranh của công ty trong 
-bối cảnh thị trường có nhiều thách thức. PNJ đã triển 
-khai các nguồn lực để phát triển chiều sâu thông qua 
-việc tái thiết kế phương thức vận hành để tập trung tối 
-ưu hóa mọi khía cạnh từ quy trình làm việc đến cấu 
-trúc vận hành, với sự hỗ trợ của công nghệ hiện đại. 
-Đây là nền tảng giúp PNJ không chỉ cải thiện hiệu suất 
-hoạt động mà còn tiết giảm đáng kể chi phí nhân sự 
-và chi phí quản lý. Trong bối cảnh nhiều bất ổn, những 
-chiến lược tối ưu hiệu quả đã mang lại cho PNJ sự chủ 
-động, linh hoạt và khả năng ứng phó nhanh trong điều 
-kiện thị trường đầy biến động. Những điều chỉnh và cải 
-tiến này không chỉ góp phần hoàn thành mục tiêu kinh 
-doanh năm 2024 mà còn đặt nền móng vững chắc cho 
-sự tăng trưởng dài hạn. 
-KIÊN ĐỊNH MỤC TIÊU PHÁT TRIỂN BỀN VỮNG, 
+Trong năm vừa qua, PNJ tiếp tục đặt trọng tâm vào
+các dự án chiến lược nhằm tối ưu hiệu quả hoạt động
+và kiểm soát chi phí một cách hiệu quả. Những nỗ lực
+này đóng vai trò quan trọng trong việc nâng cao năng
+suất lao động, tiết giảm chi phí vận hành cũng như
+tăng cường khả năng cạnh tranh của công ty trong
+bối cảnh thị trường có nhiều thách thức. PNJ đã triển
+khai các nguồn lực để phát triển chiều sâu thông qua
+việc tái thiết kế phương thức vận hành để tập trung tối
+ưu hóa mọi khía cạnh từ quy trình làm việc đến cấu
+trúc vận hành, với sự hỗ trợ của công nghệ hiện đại.
+Đây là nền tảng giúp PNJ không chỉ cải thiện hiệu suất
+hoạt động mà còn tiết giảm đáng kể chi phí nhân sự
+và chi phí quản lý. Trong bối cảnh nhiều bất ổn, những
+chiến lược tối ưu hiệu quả đã mang lại cho PNJ sự chủ
+động, linh hoạt và khả năng ứng phó nhanh trong điều
+kiện thị trường đầy biến động. Những điều chỉnh và cải
+tiến này không chỉ góp phần hoàn thành mục tiêu kinh
+doanh năm 2024 mà còn đặt nền móng vững chắc cho
+sự tăng trưởng dài hạn.
+KIÊN ĐỊNH MỤC TIÊU PHÁT TRIỂN BỀN VỮNG,
 LÀM GIÀU VỐN XÃ HỘI PNJ
-PNJ tiếp tục giữ vững niềm tin và cam kết theo đuổi các 
-mục tiêu phát triển bền vững, hướng đến tầm nhìn trở 
-thành thương hiệu bán lẻ Lifestyle hàng đầu khu vực. 
-PNJ không ngừng nỗ lực để tôn vinh vẻ đẹp con người 
-và cuộc sống, đồng thời gia tăng giá trị vốn xã hội thông 
-qua các chiến lược dài hạn. Trong năm qua, PNJ đã đẩy 
-mạnh việc triển khai các sáng kiến ESG nhằm hướng tới 
-tăng trưởng bền vững và bảo vệ môi trường. Thành quả 
-từ những cam kết bền bỉ được cụ thể hóa bằng việc công 
-ty lần thứ hai liên tiếp ghi nhận thành tích nổi bật tại giải 
-thưởng Phát triển bền vững Top 50 CSA 2024 với cả ba 
-hạng mục: Môi trường (E), Xã hội (S) và Quản trị (G), do 
-tạp chí Nhịp cầu đầu tư bình chọn và trao tặng. Đồng thời, 
-năm 2024, PNJ đánh dấu 9 năm liên tiếp trong top 10 
-doanh nghiệp bền vững trong lĩnh vực thương mại - dịch 
-vụ trong 100 Doanh nghiệp Phát triển bền vững và xuất 
-sắc được biểu dương là Doanh nghiệp tiên phong xây 
+PNJ tiếp tục giữ vững niềm tin và cam kết theo đuổi các
+mục tiêu phát triển bền vững, hướng đến tầm nhìn trở
+thành thương hiệu bán lẻ Lifestyle hàng đầu khu vực.
+PNJ không ngừng nỗ lực để tôn vinh vẻ đẹp con người
+và cuộc sống, đồng thời gia tăng giá trị vốn xã hội thông
+qua các chiến lược dài hạn. Trong năm qua, PNJ đã đẩy
+mạnh việc triển khai các sáng kiến ESG nhằm hướng tới
+tăng trưởng bền vững và bảo vệ môi trường. Thành quả
+từ những cam kết bền bỉ được cụ thể hóa bằng việc công
+ty lần thứ hai liên tiếp ghi nhận thành tích nổi bật tại giải
+thưởng Phát triển bền vững Top 50 CSA 2024 với cả ba
+hạng mục: Môi trường (E), Xã hội (S) và Quản trị (G), do
+tạp chí Nhịp cầu đầu tư bình chọn và trao tặng. Đồng thời,
+năm 2024, PNJ đánh dấu 9 năm liên tiếp trong top 10
+doanh nghiệp bền vững trong lĩnh vực thương mại - dịch
+vụ trong 100 Doanh nghiệp Phát triển bền vững và xuất
+sắc được biểu dương là Doanh nghiệp tiên phong xây
 dựng, thực hiện tính đa dạng, công bằng và bao trùm.
-PNJ không chỉ là thương hiệu dẫn đầu trong lĩnh 
-vực bán lẻ Lifestyle tại Việt Nam mà còn vượt ra khỏi 
-phạm vi kinh doanh truyền thống để khẳng định tầm 
-vóc qua chuỗi các sáng kiến CSR (trách nhiệm xã hội 
-doanh nghiệp), đóng góp tích cực cho cộng đồng. 
-Thành tựu nổi bật gần đây nhất là danh hiệu “Social 
-Empowerment” (Trao quyền và nâng cao giá trị cộng 
-đồng) tại giải thưởng Jewellery World Awards (JWA) 
-2024, một trong những giải thưởng danh giá nhất của 
-ngành trang sức toàn cầu. Với rất nhiều dự án được 
-triển khai thành công, giá trị thương hiệu của PNJ theo 
-báo cáo Brand Finance năm 2024 đạt 480 triệu USD, 
-ghi nhận mức tăng trưởng 12% so với năm trước. 
-Đáng chú ý, giá trị thương hiệu đã tăng gấp 10 lần chỉ 
-trong vòng một thập kỷ. Theo báo cáo Brand Finance, 
-Chỉ số BSI (Brand Strength Index) của PNJ năm nay 
-cũng tăng 0,5 điểm, đạt 74,7 điểm, giúp PNJ cải thiện 
+PNJ không chỉ là thương hiệu dẫn đầu trong lĩnh
+vực bán lẻ Lifestyle tại Việt Nam mà còn vượt ra khỏi
+phạm vi kinh doanh truyền thống để khẳng định tầm
+vóc qua chuỗi các sáng kiến CSR (trách nhiệm xã hội
+doanh nghiệp), đóng góp tích cực cho cộng đồng.
+Thành tựu nổi bật gần đây nhất là danh hiệu “Social
+Empowerment” (Trao quyền và nâng cao giá trị cộng
+đồng) tại giải thưởng Jewellery World Awards (JWA)
+2024, một trong những giải thưởng danh giá nhất của
+ngành trang sức toàn cầu. Với rất nhiều dự án được
+triển khai thành công, giá trị thương hiệu của PNJ theo
+báo cáo Brand Finance năm 2024 đạt 480 triệu USD,
+ghi nhận mức tăng trưởng 12% so với năm trước.
+Đáng chú ý, giá trị thương hiệu đã tăng gấp 10 lần chỉ
+trong vòng một thập kỷ. Theo báo cáo Brand Finance,
+Chỉ số BSI (Brand Strength Index) của PNJ năm nay
+cũng tăng 0,5 điểm, đạt 74,7 điểm, giúp PNJ cải thiện
 thứ hạng sức mạnh thương hiệu từ AA lên AA+.
-55
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
 MỤC TIÊU, KẾ HOẠCH
-2025
-Năm 2025 được dự báo là một năm đầy biến động đối 
-với nền kinh tế toàn cầu, với nhiều thách thức ngày 
-càng trở nên khó đoán. Sự leo thang của căng thẳng 
-địa chính trị tiếp tục tạo ra những tác động tiêu cực 
-đến niềm tin và dòng chảy thương mại quốc tế. Các 
-dấu hiệu suy giảm trong thương mại toàn cầu, làm việc 
-kiểm soát lạm phát khó khăn hơn, định hình một bức 
-tranh kinh tế năm 2025 không quá khả quan so với năm 
-trước. Đồng thời, các cuộc chiến tranh thương mại 
-đang có dấu hiệu lan rộng, với phạm vi và mức độ ảnh 
-hưởng ngày càng tăng. Những yếu tố bất ổn này ảnh 
-hưởng tiêu cực đến triển vọng tăng trưởng thế giới. 
-Đối với Việt Nam, mặc dù vẫn còn nhiều thách thức, 
-nền kinh tế được kỳ vọng trở thành một điểm sáng khu 
-vực với triển vọng tăng trưởng kinh tế năm 2025 tích 
-cực hơn so với 2024 với mục tiêu tăng trưởng kinh tế 
+Năm 2025 được dự báo là một năm đầy biến động đối
+với nền kinh tế toàn cầu, với nhiều thách thức ngày
+càng trở nên khó đoán. Sự leo thang của căng thẳng
+địa chính trị tiếp tục tạo ra những tác động tiêu cực
+đến niềm tin và dòng chảy thương mại quốc tế. Các
+dấu hiệu suy giảm trong thương mại toàn cầu, làm việc
+kiểm soát lạm phát khó khăn hơn, định hình một bức
+tranh kinh tế năm 2025 không quá khả quan so với năm
+trước. Đồng thời, các cuộc chiến tranh thương mại
+đang có dấu hiệu lan rộng, với phạm vi và mức độ ảnh
+hưởng ngày càng tăng. Những yếu tố bất ổn này ảnh
+hưởng tiêu cực đến triển vọng tăng trưởng thế giới.
+Đối với Việt Nam, mặc dù vẫn còn nhiều thách thức,
+nền kinh tế được kỳ vọng trở thành một điểm sáng khu
+vực với triển vọng tăng trưởng kinh tế năm 2025 tích
+cực hơn so với 2024 với mục tiêu tăng trưởng kinh tế
 GDP kế hoạch 8%.
-Bước vào năm 2025, ngành trang sức bán lẻ được 
-dự báo tiếp tục đối mặt với những thách thức kéo dài. 
-Nguồn cung nguyên liệu - vốn đã gặp nhiều khó khăn 
-từ giữa năm 2024 - được dự đoán sẽ còn chịu áp lực, 
-khiến thiếu hụt nguyên liệu sản xuất cũng như chi phí 
-sản xuất gia tăng. Ở chiều ngược lại, sức mua trong 
-ngành trang sức có thể đi ngang do tác động của hai 
-yếu tố ngược chiều. Một mặt, tổng mức bán lẻ dự kiến 
-tăng trưởng tốt theo mục tiêu của chính phủ, từ đó cải 
-thiện sức mua. Mặt khác, giá vàng tiếp tục tăng cao 
-làm giảm nhu cầu mua trang sức của người tiêu dùng. 
-Ngoài ra, một số rủi ro về chiến tranh thương mại, áp 
-lực tỷ giá và lạm phát cũng có thể ảnh hưởng đến mục 
-tiêu tăng trưởng của Chính Phủ. Kịch bản này đặt ra 
-cho PNJ bài toán lớn về chiến lược kinh doanh hiệu 
+Bước vào năm 2025, ngành trang sức bán lẻ được
+dự báo tiếp tục đối mặt với những thách thức kéo dài.
+Nguồn cung nguyên liệu - vốn đã gặp nhiều khó khăn
+từ giữa năm 2024 - được dự đoán sẽ còn chịu áp lực,
+khiến thiếu hụt nguyên liệu sản xuất cũng như chi phí
+sản xuất gia tăng. Ở chiều ngược lại, sức mua trong
+ngành trang sức có thể đi ngang do tác động của hai
+yếu tố ngược chiều. Một mặt, tổng mức bán lẻ dự kiến
+tăng trưởng tốt theo mục tiêu của chính phủ, từ đó cải
+thiện sức mua. Mặt khác, giá vàng tiếp tục tăng cao
+làm giảm nhu cầu mua trang sức của người tiêu dùng.
+Ngoài ra, một số rủi ro về chiến tranh thương mại, áp
+lực tỷ giá và lạm phát cũng có thể ảnh hưởng đến mục
+tiêu tăng trưởng của Chính Phủ. Kịch bản này đặt ra
+cho PNJ bài toán lớn về chiến lược kinh doanh hiệu
 quả và tối ưu hóa chi phí để duy trì lợi nhuận.
-•	 Tiếp tục phát triển chiều sâu và chiều rộng thị 
-trường trang sức với những mô hình bán hàng 
-mới, tối ưu hiệu quả điểm bán, tăng tốc phát triển 
-các mảng kinh doanh mới. 
-•	 Làm giàu tài sản quan hệ khách hàng thông qua 
-hướng tiếp cận và tương tác mới. Nâng cao năng 
-lực bán lẻ hiện đại, gia tăng trải nghiệm khách 
-hàng với chất lượng dịch vụ khách hàng vượt trội, 
-phát triển hiệu quả các kênh & công cụ tiếp cận 
-khách hàng hiện đại. Thực hiện các chiến dịch 
-marketing một cách sáng tạo, hiệu quả, tạo dấu ấn 
+•	 Tiếp tục phát triển chiều sâu và chiều rộng thị
+trường trang sức với những mô hình bán hàng
+mới, tối ưu hiệu quả điểm bán, tăng tốc phát triển
+các mảng kinh doanh mới.
+•	 Làm giàu tài sản quan hệ khách hàng thông qua
+hướng tiếp cận và tương tác mới. Nâng cao năng
+lực bán lẻ hiện đại, gia tăng trải nghiệm khách
+hàng với chất lượng dịch vụ khách hàng vượt trội,
+phát triển hiệu quả các kênh & công cụ tiếp cận
+khách hàng hiện đại. Thực hiện các chiến dịch
 vượt trội trong lòng khách hàng.
-•	 Đổi mới cải tiến sản phẩm và dịch vụ mới đáp ứng 
-kịp thời nhu cầu khách hàng, cải tiến công nghệ 
-sản xuất để đáp ứng nhu cầu ngày càng biến đổi 
+•	 Đổi mới cải tiến sản phẩm và dịch vụ mới đáp ứng
+kịp thời nhu cầu khách hàng, cải tiến công nghệ
+sản xuất để đáp ứng nhu cầu ngày càng biến đổi
 của thị trường.
-•	
-Tiếp tục tối ưu hóa hoạt động thông qua các chương 
-trình mới, cách làm mới đem lại hiệu quả cao hơn với 
-chi phí tối ưu. Tối ưu hóa vận hành, hoàn thiện mô 
-hình hoạt động, bộ máy tổ chức của công ty, tạo nền 
-tảng để áp dụng các mô hình quản trị, kinh doanh 
-mới hiện đại, linh động & hiệu quả. Làm mới cách 
-thức thực hiện & phối hợp công việc trên quy mô tập 
-đoàn bằng cách tái thiết kế các quy trình làm việc, tối 
-ưu hóa vận hành dựa trên ứng dụng công nghệ, từ 
+Tiếp tục tối ưu hóa hoạt động thông qua các chương
+trình mới, cách làm mới đem lại hiệu quả cao hơn với
+chi phí tối ưu. Tối ưu hóa vận hành, hoàn thiện mô
+hình hoạt động, bộ máy tổ chức của công ty, tạo nền
+tảng để áp dụng các mô hình quản trị, kinh doanh
+mới hiện đại, linh động & hiệu quả. Làm mới cách
+thức thực hiện & phối hợp công việc trên quy mô tập
+đoàn bằng cách tái thiết kế các quy trình làm việc, tối
+ưu hóa vận hành dựa trên ứng dụng công nghệ, từ
 đó tối ưu chi phí nhân sự cũng như chi phí vận hành.
-•	 Phát triển năng lực chiến lược cốt lõi, nâng tầm 
-lãnh đạo các cấp thông qua các chương trình, huấn 
-luyện “thực chiến” được thiết kế riêng cho từng cấp 
-độ. Phát huy tinh thần doanh chủ, cập nhật và tinh 
-chỉnh các chế độ, chính sách tưởng thưởng & ghi 
-nhận tạo động lực phát huy năng lực tối đa của đội 
-ngũ nhân viên, gia tăng mức độ gắn kết nhân viên. 
-VỚI TINH THẦN F5-REFRESH  
-“TĂNG CẤP TÁI TẠO -  
-BỨT PHÁ VƯƠN TẦM”  
-TRONG NĂM 2025,  
-PNJ KỲ VỌNG TIẾP TỤC  
-TIẾN LÊN TRÊN TẤT CẢ 
-MẢNG HOẠT ĐỘNG,  
-DUY TRÌ VỊ THẾ CÔNG TY 
-CÔNG TY 
+•	 Phát triển năng lực chiến lược cốt lõi, nâng tầm
+lãnh đạo các cấp thông qua các chương trình, huấn
+luyện “thực chiến” được thiết kế riêng cho từng cấp
+độ. Phát huy tinh thần doanh chủ, cập nhật và tinh
+chỉnh các chế độ, chính sách tưởng thưởng & ghi
+nhận tạo động lực phát huy năng lực tối đa của đội
+ngũ nhân viên, gia tăng mức độ gắn kết nhân viên.
+VỚI TINH THẦN F5-REFRESH
+“TĂNG CẤP TÁI TẠO -
+BỨT PHÁ VƯƠN TẦM”
+TRONG NĂM 2025,
+PNJ KỲ VỌNG TIẾP TỤC
+TIẾN LÊN TRÊN TẤT CẢ
+MẢNG HOẠT ĐỘNG,
+DUY TRÌ VỊ THẾ CÔNG TY
+CÔNG TY
 BÁN LẺ TRANG SỨC SỐ 1
-BÁN LẺ TRANG SỨC SỐ 1  
-THỊ TRƯỜNG VIỆT NAM 
-VƯƠN TẦM THẾ GIỚI VÀ 
-THEO SÁT ĐỊNH HƯỚNG 
-CHIẾN LƯỢC 2023-2027  
-TẦM NHÌN 2030 CỦA  
-HỘI ĐỒNG QUẢN TRỊ ĐÃ 
-THÔNG QUA.	
-•	 Phát triển hiệu quả hoạt động kinh doanh các 
-Công ty thành viên, tăng tốc chiếm lĩnh thị phần 
-kênh sỉ, nâng cao hiệu quả sản xuất và tính  
+BÁN LẺ TRANG SỨC SỐ 1
+THỊ TRƯỜNG VIỆT NAM
+VƯƠN TẦM THẾ GIỚI VÀ
+THEO SÁT ĐỊNH HƯỚNG
+TẦM NHÌN 2030 CỦA
+HỘI ĐỒNG QUẢN TRỊ ĐÃ
+THÔNG QUA.
+•	 Phát triển hiệu quả hoạt động kinh doanh các
+Công ty thành viên, tăng tốc chiếm lĩnh thị phần
+kênh sỉ, nâng cao hiệu quả sản xuất và tính
 sáng tạo trong thiết kế, sản xuất sản phẩm.
-•	 Tiếp tục làm giàu tài sản thương hiệu PNJ, gia 
-tăng tính tích hợp các chương trình, đẩy mạnh 
-hiệu quả các chương trình CSR, tăng cường các 
-biện pháp bền vững trong hoạt động kinh doanh, 
-bao gồm giảm thiểu tác động môi trường, và  
-tăng cường trách nhiệm xã hội của doanh nghiệp. 
+•	 Tiếp tục làm giàu tài sản thương hiệu PNJ, gia
+tăng tính tích hợp các chương trình, đẩy mạnh
+hiệu quả các chương trình CSR, tăng cường các
+biện pháp bền vững trong hoạt động kinh doanh,
+bao gồm giảm thiểu tác động môi trường, và
+tăng cường trách nhiệm xã hội của doanh nghiệp.
 MỘT SỐ MỤC TIÊU VÀ HÀNH ĐỘNG
-59
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
-CHIẾN LƯỢC 
-ESG TÍCH HỢP VỚI  
+CHIẾN LƯỢC
+ESG TÍCH HỢP VỚI
 CHIẾN LƯỢC DÀI HẠN
-Với triết lý về phát triển bền vững 
-“ĐẶT LỢI ÍCH CỦA KHÁCH HÀNG VÀ XÃ HỘI 
+Với triết lý về phát triển bền vững
+“ĐẶT LỢI ÍCH CỦA KHÁCH HÀNG VÀ XÃ HỘI
 VÀO LỢI ÍCH CỦA DOANH NGHIỆP”
-PNJ xây dựng chiến lược phát triển bền vững dựa trên ba trụ cột:  
-Môi trường (Environmental), Xã hội (Social) và Quản trị (Governance). Chiến lược  
-phát triển bền vững của PNJ bám sát bộ khung 17 mục tiêu phát triển bền vững của 
-Liên Hợp Quốc, tiêu chuẩn GRI, các mục tiêu phát triển bền vững của Việt Nam,  
+Môi trường (Environmental), Xã hội (Social) và Quản trị (Governance). Chiến lược
+phát triển bền vững của PNJ bám sát bộ khung 17 mục tiêu phát triển bền vững của
+Liên Hợp Quốc, tiêu chuẩn GRI, các mục tiêu phát triển bền vững của Việt Nam,
 các mong đợi của các bên liên quan, và thực trạng nội tại của doanh nghiệp.
 TUYÊN BỐ ESG
-“PNJ HÀNH ĐỘNG CÓ TRÁCH NHIỆM ĐỂ TÔN VINH VẺ ĐẸP CỦA CON 
+“PNJ HÀNH ĐỘNG CÓ TRÁCH NHIỆM ĐỂ TÔN VINH VẺ ĐẸP CỦA CON
 NGƯỜI VÀ CUỘC SỐNG MỘT CÁCH BỀN VỮNG”
 PNJ XÁC ĐỊNH 12
-•	 Thúc đẩy mô hình kinh tế tuần 
-hoàn bằng việc tối đa hóa giá 
-trị vòng đời của sản phẩm, sử 
-dụng tài nguyên thiên nhiên 
-một cách có trách nhiệm và 
+•	 Thúc đẩy mô hình kinh tế tuần
+hoàn bằng việc tối đa hóa giá
+trị vòng đời của sản phẩm, sử
+dụng tài nguyên thiên nhiên
+một cách có trách nhiệm và
 giảm thiểu chất thải.
-•	 Cam kết giảm phát thải khí 
-nhà kính theo lộ trình quốc gia 
-thông qua việc minh bạch kiểm 
-kê phát thải khí nhà kính trong 
-hoạt động kinh doanh đồng 
-thời triển khai các dự án cắt 
+•	 Cam kết giảm phát thải khí
+nhà kính theo lộ trình quốc gia
+thông qua việc minh bạch kiểm
+kê phát thải khí nhà kính trong
+hoạt động kinh doanh đồng
+thời triển khai các dự án cắt
 giảm phát thải khí nhà kính.
-•	 Cam kết tuân thủ các quy định 
-của pháp luật về quản lý nguồn 
-thải và hướng đến giảm phát 
-thải ròng về “không” theo chiến 
-lược Môi trường Quốc gia của 
+•	 Cam kết tuân thủ các quy định
+của pháp luật về quản lý nguồn
+thải và hướng đến giảm phát
+thải ròng về “không” theo chiến
+lược Môi trường Quốc gia của
 Chính phủ Việt Nam.
-•	 Nâng cao việc sử dụng hiệu 
-quả năng lượng và tài nguyên 
-thông qua việc kiểm toán năng 
-lượng, dòng vật liệu, và cắt bỏ 
-lãng phí đồng thời hướng đến 
-sử dụng năng lượng tái tạo 
+•	 Nâng cao việc sử dụng hiệu
+quả năng lượng và tài nguyên
+thông qua việc kiểm toán năng
+lượng, dòng vật liệu, và cắt bỏ
+lãng phí đồng thời hướng đến
+sử dụng năng lượng tái tạo
 hợp lý.
-•	 PNJ tạo dựng môi trường đa 
-dạng, công bằng và hòa hợp 
-trong doanh nghiệp bằng việc 
-lắng nghe và tôn trọng sự khác 
-biệt, trao quyền có trách nhiệm, 
-khuyến khích tạo cơ hội và ghi 
+•	 PNJ tạo dựng môi trường đa
+dạng, công bằng và hòa hợp
+trong doanh nghiệp bằng việc
+lắng nghe và tôn trọng sự khác
+biệt, trao quyền có trách nhiệm,
+khuyến khích tạo cơ hội và ghi
 nhận xứng đáng.
-•	 PNJ quan tâm chăm sóc cho 
-đội ngũ về nhiều khía cạnh như 
-sức khỏe tinh thần, kết nối xã 
-hội, sự bền vững về tài chính 
-thông qua các chương trình 
+•	 PNJ quan tâm chăm sóc cho
+đội ngũ về nhiều khía cạnh như
+sức khỏe tinh thần, kết nối xã
+hội, sự bền vững về tài chính
+thông qua các chương trình
 phúc lợi cho nhân viên.
-•	 PNJ không ngừng đầu tư vào 
-phát triển nguồn nhân lực toàn 
-diện, cả bên trong lẫn bên ngoài 
-Công ty, thông qua chiến lược 
-quản trị nhân tài bài bản và hệ 
-sinh thái học tập nhằm thúc đẩy 
-sự trưởng thành bền vững của 
+•	 PNJ không ngừng đầu tư vào
+phát triển nguồn nhân lực toàn
+diện, cả bên trong lẫn bên ngoài
+Công ty, thông qua chiến lược
+quản trị nhân tài bài bản và hệ
+sinh thái học tập nhằm thúc đẩy
+sự trưởng thành bền vững của
 cá nhân, tổ chức và cộng đồng.
-•	 PNJ tích hợp việc tôn vinh vẻ 
-đẹp và sự nhân văn vào các 
-hoạt động kinh doanh và lan 
-tỏa các giá trị tốt đẹp bằng các 
-sáng kiến thực thi trách nhiệm 
+•	 PNJ tích hợp việc tôn vinh vẻ
+đẹp và sự nhân văn vào các
+hoạt động kinh doanh và lan
+tỏa các giá trị tốt đẹp bằng các
+sáng kiến thực thi trách nhiệm
 xã hội (CSR).
-•	
-PNJ tăng cường hiệu quả hoạt 
-động của Hội đồng quản trị thông 
-qua mô hình quản trị phù hợp 
-theo thông lệ quốc tế, cơ chế 
-trách nhiệm giải trình và tương tác 
+PNJ tăng cường hiệu quả hoạt
+động của Hội đồng quản trị thông
+qua mô hình quản trị phù hợp
+theo thông lệ quốc tế, cơ chế
+trách nhiệm giải trình và tương tác
 hiệu quả với các bên liên quan.
-•	 PNJ thúc đẩy cân bằng lợi ích 
-của Công ty, cổ đông với lợi ích 
-của các bên hữu quan bằng 
-các cơ chế kiểm soát lợi ích, rủi 
-ro công bằng và minh bạch, và 
-việc tham vấn các bên có liên 
+•	 PNJ thúc đẩy cân bằng lợi ích
+của Công ty, cổ đông với lợi ích
+của các bên hữu quan bằng
+các cơ chế kiểm soát lợi ích, rủi
+ro công bằng và minh bạch, và
+việc tham vấn các bên có liên
 quan đến hoạt động kinh doanh.
-•	 PNJ cam kết thực hành các 
-thông lệ tốt về kế toán thông 
-qua việc áp dụng các chuẩn 
-mực kế toán quốc tế và hệ 
-thống báo cáo tài chính, kế toán 
-minh bạch và công khai theo 
-yêu cầu và khuyến nghị của các 
+•	 PNJ cam kết thực hành các
+thông lệ tốt về kế toán thông
+qua việc áp dụng các chuẩn
+mực kế toán quốc tế và hệ
+minh bạch và công khai theo
+yêu cầu và khuyến nghị của các
 cơ quan quản lý nhà nước.
-•	
-PNJ cam kết minh bạch thông tin 
-doanh nghiệp và tuân thủ pháp 
-luật bằng việc trình bày và công 
-khai đầy đủ, kịp thời các thông 
-tin doanh nghiệp và tuân thủ tất 
-cả các quy định pháp luật liên 
+PNJ cam kết minh bạch thông tin
+doanh nghiệp và tuân thủ pháp
+luật bằng việc trình bày và công
+khai đầy đủ, kịp thời các thông
+tin doanh nghiệp và tuân thủ tất
+cả các quy định pháp luật liên
 quan đến hoạt động kinh doanh.
 CHỦ ĐỀ TRỌNG YẾU
-MÔI TRƯỜNG 
+MÔI TRƯỜNG
 (ENVIRONMENT)
-XÃ HỘI 
 (SOCIAL)
-QUẢN TRỊ 
+QUẢN TRỊ
 (GOVERNANCE)
-Cùng với tuyên bố ESG, PNJ đã hoạch định chiến 
-lược và các mục tiêu ESG ngắn hạn và trung hạn, 
-chia các giai đoạn trong hành trình thực hành ESG từ 
-2022 đến 2027:
-2022 - 2023
-2024 - 2025
-2026 - 2027
+Cùng với tuyên bố ESG, PNJ đã hoạch định chiến
+lược và các mục tiêu ESG ngắn hạn và trung hạn,
+chia các giai đoạn trong hành trình thực hành ESG từ
 XÂY DỰNG VÀ CHUẨN HÓA
 TẠO TÁC ĐỘNG TÍCH CỰC
 HƯỚNG ĐẾN CHUẨN MỰC QUỐC TẾ
-61
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-5
-2   
 THÔNG TIN CHUNG
 
+KẾT QUẢ HOẠT ĐỘNG SẢN XUẤT KINH DOANH
+TRONG NĂM 2024
+TÌNH HÌNH TÀI CHÍNH
+Tình hình tài chính
+tăng/giảm
+Doanh thu thuần
+Lợi nhuận thuần từ hoạt
+động kinh doanh
+Lợi nhuận khác
+Lợi nhuận trước thuế
+Thuế thu nhập doanh
+nghiệp
+Lợi nhuận sau thuế
+Tỷ lệ chi trả cổ tức tiền mặt
+CÁC CHỈ TIÊU TÀI CHÍNH CHỦ YẾU
+Khả năng thanh khoản
+tăng/giảm
+Hệ số thanh toán ngắn hạn
+(hiện hành)
+Hệ số thanh toán nhanh
+Tài sản lưu động không tính
+hàng tồn kho
+Nợ ngắn hạn
+Hệ số thanh toán ngắn hạn (hiện hành) của PNJ năm 2024 mặc dù giảm nhẹ 0,17 lần so với năm 2023, nhưng
+vẫn duy trì ở mức ổn định đạt 2,64 lần. Tương tự, hệ số thanh toán nhanh cũng ổn định ở mức 0,45 lần. Khoản
+ứng trước nhà cung ứng nhập khẩu chuẩn bị mùa kinh doanh cao điểm và giá vàng tăng cao là các yếu tố dẫn
+đến tài sản lưu động không tính hàng tồn kho tăng 32,7%. Với các chỉ số thanh toán duy trì tích cực, PNJ tiếp tục
+đảm bảo khả năng thanh toán và duy trì hoạt động kinh doanh ổn định trong cả năm mặc dù phải liên tục đối mặt
+với nhiều biến động bất lợi.
+Cơ cấu vốn
+tăng/giảm
+Hệ số nợ/Tổng tài sản
+Hệ số Nợ/Vốn chủ sở hữu
+Kết thúc năm 2024, hệ số nợ/tổng tài sản của PNJ duy trì ổn định đạt 0,35 lần. Hệ số nợ/vốn chủ sở hữu cũng
+duy trì ở mức 0,5 lần, cho thấy sự ổn định trong cơ cấu tài trợ vốn của công ty. Những chỉ số này minh chứng cho
+khả năng quản lý cơ cấu nợ và vốn chủ sở hữu hiệu quả của Ban điều hành PNJ, giúp công ty duy trì sự ổn định
+và phát triển bền vững.
+Năng lực hoạt động
+tăng/giảm
+Vòng quay hàng tồn kho
+Hàng tồn kho bình quân
+Doanh thu thuần/
+Tổng tài sản
+Số ngày hàng tồn kho
+ngày
+Năm 2024, PNJ gặp rất nhiều khó khăn do ảnh hưởng kép cụ thể là
+sức mua chưa hồi phục, đặc biệt các mặt hàng trong ngành xa xỉ, và
+nguồn cung đầu vào bị hạn chế do ảnh hưởng bởi chính sách kiểm
+soát nguồn nguyên liệu. Tuy nhiên, PNJ vẫn duy trì vị thế dẫn đầu
+trong ngành trang sức bán lẻ với tốc độ tăng trưởng doanh thu và
+lợi nhuận ổn định.
+Doanh thu thuần cả năm 2024 của PNJ tăng 14,1% so với năm 2023, đạt
+37.823 tỷ đồng, hoàn thành 101,8% kế hoạch năm, chủ yếu nhờ vào tăng
+trưởng ổn định của kênh bán lẻ. Lợi nhuận sau thuế tiếp tục tăng 7,2%
+so với năm 2023, đạt 2.113 tỷ đồng, hoàn thành 101,1% kế hoạch năm.
+Kết quả này phản ánh sự kiên định và nỗ lực không ngừng của Ban lãnh
+đạo cùng toàn thể nhân viên PNJ trong việc sáng tạo tìm kiếm cơ hội tăng
+trưởng mới, duy trì hiệu quả vận hành và sáng kiến sáng tạo trong tối ưu
+chi phí, bất chấp những thách thức từ thị trường và sự biến động của giá
+vàng đầu vào.
+DOANH THU THUẦN
+LỢI NHUẬN SAU THUẾ
+CHƯƠNG
+TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2024
+
 THÔNG ĐIỆP TỔNG GIÁM ĐỐC
-KHÔNG CÓ ÁP SUẤT VÀ NHIỆT ĐỘ THÌ KHÔNG CÓ 
-KIM CƯƠNG... NHỮNG THÁCH THỨC CỦA NĂM 2024 
-ĐÃ MỘT LẦN NỮA CHỨNG MINH CHO Ý CHÍ VÀ 
+KHÔNG CÓ ÁP SUẤT VÀ NHIỆT ĐỘ THÌ KHÔNG CÓ
+KIM CƯƠNG... NHỮNG THÁCH THỨC CỦA NĂM 2024
+ĐÃ MỘT LẦN NỮA CHỨNG MINH CHO Ý CHÍ VÀ
 NĂNG LỰC CỦA NGƯỜI PNJ.
-Lê Trí Thông 
+Lê Trí Thông
 Tổng Giám đốc
-nhất nhóm vốn hóa lớn (Large Cap), Chứng nhận Nơi 
-làm việc xuất sắc 2024 (Great Place to Work), TOP 1 
-Employer Of Choice ngành bán lẻ - bán sỉ 2024... 
-Không có áp suất và nhiệt độ thì không có kim 
-cương...Những thách thức của năm 2024 đã một lần 
-nữa chứng minh cho ý chí và năng lực của người PNJ, 
-cho những nền tảng vững chắc đã được làm mới trong 
-quá trình Nhấn Nút Tái Tạo liên tục. Nhờ đó, PNJ đã có 
-những bứt phá mạnh mẽ trong khúc quanh khắc nghiệt 
-của ngành, kết tinh thêm những “viên kim cương của 
-thành quả sáng lấp lánh” khi vẫn tiếp tục “vững vàng tay 
-lái, kiên định vượt khó” để chinh phục những mốc kỷ lục 
-mới về doanh số, lợi nhuận, cùng niềm tin yêu của khách 
-hàng và đối tác. 
-Nhìn về năm 2025 khi bối cảnh kinh tế Việt Nam và thế 
-giới vẫn tiếp tục có nhiều khó khăn thách thức khắc 
-nghiệt, đội ngũ PNJ càng thấy mình phải tiếp tục dấn 
-bước mạnh hơn nữa để “tăng cấp tái tạo” chính mình tốc 
-độ hơn nữa... để có thể tiếp tục bứt phá trong khúc quanh 
-gió ngược 2025 nâng cao hơn nữa những vị thế cạnh 
-tranh chiến lược trong dài hạn của PNJ trong ngành trang 
-sức và tiếp tục “mở rộng bờ cõi” sang những ngành hàng 
+nhất nhóm vốn hóa lớn (Large Cap), Chứng nhận Nơi
+làm việc xuất sắc 2024 (Great Place to Work), TOP 1
+Employer Of Choice ngành bán lẻ - bán sỉ 2024...
+Không có áp suất và nhiệt độ thì không có kim
+cương...Những thách thức của năm 2024 đã một lần
+nữa chứng minh cho ý chí và năng lực của người PNJ,
+cho những nền tảng vững chắc đã được làm mới trong
+quá trình Nhấn Nút Tái Tạo liên tục. Nhờ đó, PNJ đã có
+những bứt phá mạnh mẽ trong khúc quanh khắc nghiệt
+của ngành, kết tinh thêm những “viên kim cương của
+thành quả sáng lấp lánh” khi vẫn tiếp tục “vững vàng tay
+lái, kiên định vượt khó” để chinh phục những mốc kỷ lục
+mới về doanh số, lợi nhuận, cùng niềm tin yêu của khách
+hàng và đối tác.
+Nhìn về năm 2025 khi bối cảnh kinh tế Việt Nam và thế
+giới vẫn tiếp tục có nhiều khó khăn thách thức khắc
+nghiệt, đội ngũ PNJ càng thấy mình phải tiếp tục dấn
+bước mạnh hơn nữa để “tăng cấp tái tạo” chính mình tốc
+độ hơn nữa... để có thể tiếp tục bứt phá trong khúc quanh
+gió ngược 2025 nâng cao hơn nữa những vị thế cạnh
+tranh chiến lược trong dài hạn của PNJ trong ngành trang
+sức và tiếp tục “mở rộng bờ cõi” sang những ngành hàng
 mới theo đúng tầm nhìn chiến lược PNJ 2030.
-Thay mặt PNJ, tôi xin trân trọng gửi lời tri ân và lòng cảm 
-kích của mình đến Quý khách hàng, Quý cổ đông, Quý 
-đối tác đã luôn dành sự ủng hộ cho PNJ chúng tôi. Xin 
-chân thành cảm ơn các thành viên Hội đồng quản trị 
-và toàn thể thành viên Đại Gia Đình PNJ đã luôn cùng 
-đồng lòng, kề vai sát cánh đối mặt với những thách thức 
-cũng như khi đón nhận và chia sẻ cùng nhau những 
-thành tựu rất đáng tự hào của công ty. 
-Có được sự đồng hành, tin tưởng và ủng hộ của Quý 
-khách hàng, Quý đối tác, Quý cổ đông và của mỗi thành 
-viên Đại Gia Đình, PNJ chúng ta sẽ có thêm niềm tin và 
-sức mạnh để luôn giữ cho mình “vững vàng tay lái, 
-kiên định vượt khó” để lại tiếp tục vượt gió ngược 
+Thay mặt PNJ, tôi xin trân trọng gửi lời tri ân và lòng cảm
+kích của mình đến Quý khách hàng, Quý cổ đông, Quý
+đối tác đã luôn dành sự ủng hộ cho PNJ chúng tôi. Xin
+chân thành cảm ơn các thành viên Hội đồng quản trị
+và toàn thể thành viên Đại Gia Đình PNJ đã luôn cùng
+đồng lòng, kề vai sát cánh đối mặt với những thách thức
+cũng như khi đón nhận và chia sẻ cùng nhau những
+thành tựu rất đáng tự hào của công ty.
+Có được sự đồng hành, tin tưởng và ủng hộ của Quý
+khách hàng, Quý đối tác, Quý cổ đông và của mỗi thành
+viên Đại Gia Đình, PNJ chúng ta sẽ có thêm niềm tin và
+sức mạnh để luôn giữ cho mình “vững vàng tay lái,
+kiên định vượt khó” để lại tiếp tục vượt gió ngược
 chinh phục các tầm cao mới cho tương lai.
 Thân ái và trân trọng,
 Thay mặt Ban điều hành
 Tổng Giám đốc
 LÊ TRÍ THÔNG
-Liên tiếp tạo ra những kỳ tích mới trong suốt các năm 
-qua, ngay cả trong năm đặc biệt khó khăn như năm 
-2024, PNJ một lần nữa chứng tỏ khả năng ứng biến 
-linh hoạt dựa trên những nền tảng nội lực mạnh mẽ đã 
-được tái tạo và tôi luyện trong hành trình “Nhấn Nút Tái 
+Liên tiếp tạo ra những kỳ tích mới trong suốt các năm
+qua, ngay cả trong năm đặc biệt khó khăn như năm
+2024, PNJ một lần nữa chứng tỏ khả năng ứng biến
+linh hoạt dựa trên những nền tảng nội lực mạnh mẽ đã
+được tái tạo và tôi luyện trong hành trình “Nhấn Nút Tái
 Tạo” liên tục trong những năm vừa qua.
-Năng lực bán lẻ chuyên nghiệp được “làm mới” kết hợp 
-cùng với đội ngũ nhân viên tận tâm và gắn bó đã giúp cho 
-PNJ liên tục sáng tạo nên những phương thức tiếp cận 
-khách hàng với độ sắc nét ngày càng cao, giúp cho PNJ 
-tiếp tục tăng trưởng đáng kể số lượng khách hàng mới 
-cũng như khách hàng cũ quay trở lại. Mô hình bán hàng 
-hợp kênh với các nền tảng công nghệ liên tuc được cải 
-tiến đã giúp PNJ tiếp tục lội ngược dòng gia tăng doanh 
-số bán lẻ, từ đó, chiếm lĩnh thêm thị phần mạnh mẽ. 
-Những thành quả trên đã tạo ra các ưu thế cạnh tranh 
-dài hạn mới và có tính bền vững hơn nữa cho PNJ. Đồng 
-thời, nó cũng tạo nên các nền tảng vững chắc để công ty 
-tiếp tục phát triển và mở rộng các mảng kinh doanh mới. 
-Sở hữu mạng lưới gần 430 cửa hàng trên cả nước với 
-diện tích tối ưu và đa dạng mô hình, PNJ mang đến 
-những trải nghiệm khác biệt, sẵn sàng phục vụ nhiều 
-nhóm khách hàng khác nhau. Cùng với chiến lược tiếp 
-cận khách hàng phù hợp nhu cầu tiêu dùng, quy trình 
-tư vấn và chăm sóc khách hàng được nâng cấp và tiêu 
-chuẩn hoá, PNJ tiếp tục được ghi nhận sự gia tăng về 
-sự hài lòng của khách hàng, trải nghiệm khách hàng 
-(CX)... Các chương trình marketing và truyền thông 
-thương hiệu sáng tạo với nhiều sáng kiến mới áp dụng 
-công nghệ và công cụ số hoá đã giúp PNJ giữ được 
-sự kết nối, tương tác chủ động với khách hàng đưa 
-PNJ liên tục nằm ở vị trí dẫn đầu về social brand voice, 
-vượt xa phần còn lại của thị trường. Những nội lực liên 
-tục được làm mới và mài bén đó đã giúp cho giá trị 
-thương hiệu PNJ năm 2024 được định giá là 480 triệu 
-USD, tăng 12% so với năm 2023 (theo Brand Finance). 
-Đối mặt với khó khăn do chi phí nguyên liệu và chi phí 
-vận hành tăng cao, PNJ năm 2024 đã liên tục đưa ra các 
-sáng kiến, tái tạo lại quá trình vận hành để tối ưu hóa các 
-quy trình hoạt động vận hành, quá trình nghiên cứu và 
-phát triển sản phẩm mới được tái thiết kế, một loạt các 
-sáng kiến tiết kiệm và tối ưu chi phí được thực hiện trên 
-khắp các đơn vị đã giúp cho công ty duy trì được tỷ suất 
-lợi nhuận tốt, giúp cho lợi nhuận không những không bị 
+Năng lực bán lẻ chuyên nghiệp được “làm mới” kết hợp
+cùng với đội ngũ nhân viên tận tâm và gắn bó đã giúp cho
+PNJ liên tục sáng tạo nên những phương thức tiếp cận
+khách hàng với độ sắc nét ngày càng cao, giúp cho PNJ
+tiếp tục tăng trưởng đáng kể số lượng khách hàng mới
+cũng như khách hàng cũ quay trở lại. Mô hình bán hàng
+hợp kênh với các nền tảng công nghệ liên tuc được cải
+tiến đã giúp PNJ tiếp tục lội ngược dòng gia tăng doanh
+số bán lẻ, từ đó, chiếm lĩnh thêm thị phần mạnh mẽ.
+Những thành quả trên đã tạo ra các ưu thế cạnh tranh
+dài hạn mới và có tính bền vững hơn nữa cho PNJ. Đồng
+thời, nó cũng tạo nên các nền tảng vững chắc để công ty
+tiếp tục phát triển và mở rộng các mảng kinh doanh mới.
+Sở hữu mạng lưới gần 430 cửa hàng trên cả nước với
+diện tích tối ưu và đa dạng mô hình, PNJ mang đến
+những trải nghiệm khác biệt, sẵn sàng phục vụ nhiều
+nhóm khách hàng khác nhau. Cùng với chiến lược tiếp
+cận khách hàng phù hợp nhu cầu tiêu dùng, quy trình
+tư vấn và chăm sóc khách hàng được nâng cấp và tiêu
+chuẩn hoá, PNJ tiếp tục được ghi nhận sự gia tăng về
+sự hài lòng của khách hàng, trải nghiệm khách hàng
+(CX)... Các chương trình marketing và truyền thông
+thương hiệu sáng tạo với nhiều sáng kiến mới áp dụng
+công nghệ và công cụ số hoá đã giúp PNJ giữ được
+sự kết nối, tương tác chủ động với khách hàng đưa
+PNJ liên tục nằm ở vị trí dẫn đầu về social brand voice,
+vượt xa phần còn lại của thị trường. Những nội lực liên
+tục được làm mới và mài bén đó đã giúp cho giá trị
+thương hiệu PNJ năm 2024 được định giá là 480 triệu
+USD, tăng 12% so với năm 2023 (theo Brand Finance).
+Đối mặt với khó khăn do chi phí nguyên liệu và chi phí
+vận hành tăng cao, PNJ năm 2024 đã liên tục đưa ra các
+sáng kiến, tái tạo lại quá trình vận hành để tối ưu hóa các
+quy trình hoạt động vận hành, quá trình nghiên cứu và
+phát triển sản phẩm mới được tái thiết kế, một loạt các
+sáng kiến tiết kiệm và tối ưu chi phí được thực hiện trên
+khắp các đơn vị đã giúp cho công ty duy trì được tỷ suất
+lợi nhuận tốt, giúp cho lợi nhuận không những không bị
 ảnh hưởng mà còn tiếp tục chinh phục đỉnh cao mới.
-Những nỗ lực của PNJ trên khắp các lĩnh vực đã 
-được công nhận và tưởng thưởng bằng rất nhiều giải 
-thưởng danh giá trong và ngoài nước trên khắp các 
-lĩnh vực như: Top 500 công ty, tập đoàn lớn nhất khu 
-vực Đông Nam Á (Fortune 500), Top 50 Doanh nghiệp 
-Kinh doanh hiệu quả nhất năm 2024, Top 100 Thương 
-hiệu giá trị nhất Việt Nam, Top 10 Quản trị công ty tốt 
-Kính gửi Quý khách hàng và Đối tác, Quý cổ đông 
-và các thành viên Đại gia đình PNJ thân yêu. 
-Năm 2024 vừa qua là một năm đặc biệt áp lực đối với 
-ngành vàng bạc đá quý và kinh doanh trang sức Việt 
-Nam khi phải đối mặt với “cơn bão kép” đến từ sự 
-khan hiếm của nguồn cung vàng nguyên liệu do giá 
-vàng tăng cao đến mức kỷ lục cùng với các hoạt động 
-siết chặt kiểm soát thị trường, song song đó ở phía 
-đầu cầu, sức mua chung của ngành trang sức vàng 
-và ngành bán lẻ xa xỉ vẫn tiếp tục suy giảm mạnh. 
-Rất nhiều doanh nghiệp trong ngành đã phải thu hẹp, 
-đóng cửa hay chuyển hướng kinh doanh sang các 
-ngành nghề khác...Chính trong áp lực khắc nghiệt 
-đó, tinh thần chiến binh kiên định và sự vững vàng 
-linh hoạt của người PNJ lại một lần nữa được thể 
-hiện để giúp cho công ty tiếp tục “vững vàng tay lái, 
-kiên định vượt khó” để tiếp tục tiến lên, chinh phục 
-những đỉnh cao mới. 
-Đối mặt với thử thách khắc nghiệt, Ban điều hành 
-cùng toàn thể nhân viên PNJ đã nắm chặt tay nhau 
-để lại tiếp tục “Tăng Cấp Tái Tạo” chính mình, linh 
-hoạt lèo lái và ứng phó với các biến động liên tục 
-của thị trường để cùng nhau liên tục đổi mới các hoạt 
-động tiếp thị, liên tục mài sắc bén các sáng kiến mới 
-giúp cho công ty PNJ vượt qua những “cơn lốc và gió 
-ngược” để lại tiếp tục chinh phục những cột mốc kỷ 
-lục mới về doanh số khi đạt doanh thu 37.823 tỷ đồng 
-và lợi nhuận sau thuế 2.113 tỷ đồng, tương ứng mức 
-tăng trưởng lần lượt là 14,1% và 7,2% so với mức kỷ 
-lục trước đó của năm 2023.  
-77
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
+Những nỗ lực của PNJ trên khắp các lĩnh vực đã
+được công nhận và tưởng thưởng bằng rất nhiều giải
+thưởng danh giá trong và ngoài nước trên khắp các
+lĩnh vực như: Top 500 công ty, tập đoàn lớn nhất khu
+vực Đông Nam Á (Fortune 500), Top 50 Doanh nghiệp
+Kinh doanh hiệu quả nhất năm 2024, Top 100 Thương
+Kính gửi Quý khách hàng và Đối tác, Quý cổ đông
+và các thành viên Đại gia đình PNJ thân yêu.
+Năm 2024 vừa qua là một năm đặc biệt áp lực đối với
+ngành vàng bạc đá quý và kinh doanh trang sức Việt
+Nam khi phải đối mặt với “cơn bão kép” đến từ sự
+khan hiếm của nguồn cung vàng nguyên liệu do giá
+vàng tăng cao đến mức kỷ lục cùng với các hoạt động
+siết chặt kiểm soát thị trường, song song đó ở phía
+đầu cầu, sức mua chung của ngành trang sức vàng
+và ngành bán lẻ xa xỉ vẫn tiếp tục suy giảm mạnh.
+Rất nhiều doanh nghiệp trong ngành đã phải thu hẹp,
+đóng cửa hay chuyển hướng kinh doanh sang các
+ngành nghề khác...Chính trong áp lực khắc nghiệt
+đó, tinh thần chiến binh kiên định và sự vững vàng
+linh hoạt của người PNJ lại một lần nữa được thể
+hiện để giúp cho công ty tiếp tục “vững vàng tay lái,
+kiên định vượt khó” để tiếp tục tiến lên, chinh phục
+những đỉnh cao mới.
+Đối mặt với thử thách khắc nghiệt, Ban điều hành
+cùng toàn thể nhân viên PNJ đã nắm chặt tay nhau
+để lại tiếp tục “Tăng Cấp Tái Tạo” chính mình, linh
+hoạt lèo lái và ứng phó với các biến động liên tục
+của thị trường để cùng nhau liên tục đổi mới các hoạt
+động tiếp thị, liên tục mài sắc bén các sáng kiến mới
+giúp cho công ty PNJ vượt qua những “cơn lốc và gió
+ngược” để lại tiếp tục chinh phục những cột mốc kỷ
+lục mới về doanh số khi đạt doanh thu 37.823 tỷ đồng
+và lợi nhuận sau thuế 2.113 tỷ đồng, tương ứng mức
+tăng trưởng lần lượt là 14,1% và 7,2% so với mức kỷ
+lục trước đó của năm 2023.
 CHƯƠNG
-3
-4
-2   
 BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
 
-BÁO CÁO BAN ĐIỀU HÀNH 
+BÁO CÁO BAN ĐIỀU HÀNH
 VỀ HOẠT ĐỘNG SẢN XUẤT KINH DOANH NĂM 2024
 BÁO CÁO KẾT QUẢ KINH DOANH HỢP NHẤT CỦA PNJ NĂM 2024
 Chỉ tiêu
-2023
-2024
 % thay đổi
-% thực hiện kế 
-hoạch 2024
-Doanh thu thuần 
-33.136.929
-37.822.837
-+14,1%
-101,8%
-Lợi nhuận thuần từ hoạt động kinh doanh 
-2.484.131
-2.652.129
-+6,8%
- 
-Lợi nhuận khác 
-4.629
-(1.117)
- 
- 
-Lợi nhuận trước thuế 
-2.488.760
-2.651.012
-+6,5%
- 
-Lợi nhuận sau thuế 
-1.971.099
-2.112.916
-+7,2%
-101,1%
+% thực hiện kế
+Doanh thu thuần
+Lợi nhuận thuần từ hoạt động kinh doanh
+Lợi nhuận khác
+Lợi nhuận trước thuế
+Lợi nhuận sau thuế
 Tỷ lệ chi trả cổ tức tiền mặt
-20%
-20%
 (Nguồn: BCTC hợp nhất)
-Năm 2024, ngành trang sức đối mặt với những khó khăn 
-khắc nghiệt chưa từng có của một “cơn bão kép” đến từ 
-cả 2 đầu cung (nguồn nguyên vật liệu khan hiếm do giá 
-vàng tăng) và đầu cầu (sức mua chung của ngành trang 
-sức, ngành bán lẻ hàng xa xỉ suy giảm). Rất nhiều doanh 
-nghiệp trong ngành đã đóng cửa, chuyển ngành nghề 
-hay thu hẹp đáng kể hoạt động kinh doanh của mình. 
-Doanh thu mảng bán lẻ (Trang sức và Vàng 24k) tiếp 
-tục đóng góp phần lớn doanh thu của PNJ năm 2024. 
-Doanh thu mảng bán lẻ chiếm 89,1% tổng doanh thu và 
-tăng trưởng 13,4% so với cùng kỳ. Trong đó, doanh thu 
-bán lẻ trang sức chiếm 58,3% tổng doanh thu và bán lẻ 
-vàng 24k chiếm 31% tổng doanh thu. Hai mảng này lần 
-lượt tăng trưởng 14,4% và tăng 11,5% so với cùng kỳ. Các 
+Năm 2024, ngành trang sức đối mặt với những khó khăn
+khắc nghiệt chưa từng có của một “cơn bão kép” đến từ
+cả 2 đầu cung (nguồn nguyên vật liệu khan hiếm do giá
+vàng tăng) và đầu cầu (sức mua chung của ngành trang
+sức, ngành bán lẻ hàng xa xỉ suy giảm). Rất nhiều doanh
+nghiệp trong ngành đã đóng cửa, chuyển ngành nghề
+hay thu hẹp đáng kể hoạt động kinh doanh của mình.
+Doanh thu mảng bán lẻ (Trang sức và Vàng 24k) tiếp
+tục đóng góp phần lớn doanh thu của PNJ năm 2024.
+Doanh thu mảng bán lẻ chiếm 89,1% tổng doanh thu và
+tăng trưởng 13,4% so với cùng kỳ. Trong đó, doanh thu
+bán lẻ trang sức chiếm 58,3% tổng doanh thu và bán lẻ
+vàng 24k chiếm 31% tổng doanh thu. Hai mảng này lần
+lượt tăng trưởng 14,4% và tăng 11,5% so với cùng kỳ. Các
 động lực tăng trưởng chính của doanh thu bán lẻ bao gồm:
-•	 Chiến lược phát triển hệ thống cửa hàng với những 
-mô hình bán lẻ khác nhau. Trong năm 2024, Công ty 
-mở mới 41 cửa hàng, nâng tổng số lượng cửa hàng 
-cuối năm 2024 lên 429, hiện diện tại 58/63 tỉnh và 
-thành phố của Việt Nam (tăng 2 tỉnh/thành so với năm 
-2023). Đồng thời, công ty cũng nghiên cứu để đóng và 
-chuyển đổi 12 cửa hàng để tối ưu hiệu quả vận hành. 
-Trong hệ sinh thái cửa hàng và nhãn hàng, PNJ chủ 
-động phát triển các mô hình cửa hàng khác nhau cả 
-về vị trí, quy mô và nhận diện thương hiệu để khai 
-thác tối đa điểm chạm với các nhóm khách hàng 
-khác nhau, đồng thời tối ưu hóa diện tích cửa hàng 
-và chi phí đầu tư. Việc phát triển hệ thống cửa hàng 
-sẽ giúp Công ty khai thác được thị trường trang sức 
-Việt Nam với dư địa phát triển. Theo số liệu của 
-World Gold Council, năm 2024, tiêu dùng vàng trang 
-sức bình quân đầu người của Việt Nam đạt 0,13 
-gram/người/năm. Chỉ số này thấp hơn các nước 
-Trung Đông như UAE 3,15 gram, các nước Châu 
-Âu và Châu Mỹ như Mỹ 0,38 gram, Ý 0,30 gram, 
-Anh 0,25 gram, các nước Châu Á như Singapore 
-1,17 gram, Ấn Độ 0,39 gram, Trung Quốc 0,36 gram, 
-và Malaysia 0,32 gram. 
-Trong bối cảnh hết sức khó khăn đó, PNJ đã phải xoay trở 
-linh hoạt, tiến hành một loạt các đổi mới và tự cải cách để 
-tái tạo chính mình một cách mạnh mẽ để có thể tiếp tục 
-duy trì sức tăng trưởng tốt một cách bền vững trong cả 
-doanh thu và lợi nhuận. Năm 2024, Doanh thu thuần đạt 
-37.823 tỷ đồng, tăng trưởng 14,1% so với cùng kỳ; và lợi 
+mô hình bán lẻ khác nhau. Trong năm 2024, Công ty
+mở mới 41 cửa hàng, nâng tổng số lượng cửa hàng
+cuối năm 2024 lên 429, hiện diện tại 58/63 tỉnh và
+thành phố của Việt Nam (tăng 2 tỉnh/thành so với năm
+2023). Đồng thời, công ty cũng nghiên cứu để đóng và
+chuyển đổi 12 cửa hàng để tối ưu hiệu quả vận hành.
+Trong hệ sinh thái cửa hàng và nhãn hàng, PNJ chủ
+động phát triển các mô hình cửa hàng khác nhau cả
+về vị trí, quy mô và nhận diện thương hiệu để khai
+thác tối đa điểm chạm với các nhóm khách hàng
+khác nhau, đồng thời tối ưu hóa diện tích cửa hàng
+và chi phí đầu tư. Việc phát triển hệ thống cửa hàng
+sẽ giúp Công ty khai thác được thị trường trang sức
+Việt Nam với dư địa phát triển. Theo số liệu của
+World Gold Council, năm 2024, tiêu dùng vàng trang
+sức bình quân đầu người của Việt Nam đạt 0,13
+gram/người/năm. Chỉ số này thấp hơn các nước
+Trung Đông như UAE 3,15 gram, các nước Châu
+Âu và Châu Mỹ như Mỹ 0,38 gram, Ý 0,30 gram,
+Anh 0,25 gram, các nước Châu Á như Singapore
+1,17 gram, Ấn Độ 0,39 gram, Trung Quốc 0,36 gram,
+và Malaysia 0,32 gram.
+Trong bối cảnh hết sức khó khăn đó, PNJ đã phải xoay trở
+linh hoạt, tiến hành một loạt các đổi mới và tự cải cách để
+tái tạo chính mình một cách mạnh mẽ để có thể tiếp tục
+duy trì sức tăng trưởng tốt một cách bền vững trong cả
+doanh thu và lợi nhuận. Năm 2024, Doanh thu thuần đạt
+37.823 tỷ đồng, tăng trưởng 14,1% so với cùng kỳ; và lợi
 nhuận sau thuế đạt 2.113 tỷ đồng, tăng 7,2% so với 2023.
 DOANH THU THUẦN
 DOANH THU KÊNH LẺ
-•	 Nghiên cứu những khu vực còn dư địa để tiếp tục 
-tạo ra những trải nghiệm khách hàng phù hợp, thu 
-hút khách hàng mới và nâng cao hiệu quả chăm 
-sóc khách hàng hiện tại. Trong năm, PNJ tổ chức 
-“Hành trình trang sức xuyên Việt” để tiếp tục mang 
-trang sức đến với khách hàng khắp mọi miền đất 
-nước và được sự chào đón nhiệt tình của khách 
-hàng mới. Công ty tiếp tục cá nhân hóa chương trình 
-chăm sóc khách hàng và đa dạng hóa các chương 
-trình khuyến mãi, quà tặng cho khách hàng khi tham 
-gia chương trình Khách hàng thân thiết của PNJ. 
-Kết quả, số lượng khách hàng cũ và khách hàng mới 
-đều tăng trưởng tốt trong năm 2024. 
-•	 PNJ tiếp tục khai thác và phát triển nền tảng dữ liệu 
-và công nghệ mà công ty đã chuẩn bị trong nhiều 
-năm để gia tăng độ phân giải trong phân tích nhu 
-cầu thị trường. Đặc biệt, trong một năm nhiều luồng 
-gió ngược như 2024, PNJ đã đặt những đề bài có 
-độ phân giải sâu và sử dụng nền tảng dữ liệu để 
-đưa ra lời giải cho thị trường. PNJ đã giới thiệu 
-các bộ sưu tập mới và triển khai các chương trình 
-truyền thông sáng tạo, hướng tới cảm xúc khách 
-hàng, góp phần gia tăng giá trị thương hiệu của 
-PNJ. Theo Brand Finance, giá trị thương hiệu PNJ 
-tăng 10 lần trong vòng một thập kỷ. Giai đoạn tăng 
-trưởng mạnh nhất được ghi nhận trong hai năm trở 
-lại đây, định giá năm năm 2023 đạt 428 triệu USD 
-và năm 2024 lên đến 480 triệu USD, tức tăng hơn 
-30% giai đoạn 2022 - 2024. Ngoài ra, trong nguyên 
-năm 2024, PNJ liên tục dẫn đầu về social brand of 
-voice với khoảng cách gấp nhiều lần so với đối thủ 
+•	 Nghiên cứu những khu vực còn dư địa để tiếp tục
+tạo ra những trải nghiệm khách hàng phù hợp, thu
+hút khách hàng mới và nâng cao hiệu quả chăm
+sóc khách hàng hiện tại. Trong năm, PNJ tổ chức
+“Hành trình trang sức xuyên Việt” để tiếp tục mang
+trang sức đến với khách hàng khắp mọi miền đất
+nước và được sự chào đón nhiệt tình của khách
+hàng mới. Công ty tiếp tục cá nhân hóa chương trình
+chăm sóc khách hàng và đa dạng hóa các chương
+trình khuyến mãi, quà tặng cho khách hàng khi tham
+gia chương trình Khách hàng thân thiết của PNJ.
+Kết quả, số lượng khách hàng cũ và khách hàng mới
+đều tăng trưởng tốt trong năm 2024.
+•	 PNJ tiếp tục khai thác và phát triển nền tảng dữ liệu
+và công nghệ mà công ty đã chuẩn bị trong nhiều
+năm để gia tăng độ phân giải trong phân tích nhu
+cầu thị trường. Đặc biệt, trong một năm nhiều luồng
+gió ngược như 2024, PNJ đã đặt những đề bài có
+độ phân giải sâu và sử dụng nền tảng dữ liệu để
+đưa ra lời giải cho thị trường. PNJ đã giới thiệu
+các bộ sưu tập mới và triển khai các chương trình
+truyền thông sáng tạo, hướng tới cảm xúc khách
+hàng, góp phần gia tăng giá trị thương hiệu của
+PNJ. Theo Brand Finance, giá trị thương hiệu PNJ
+tăng 10 lần trong vòng một thập kỷ. Giai đoạn tăng
+trưởng mạnh nhất được ghi nhận trong hai năm trở
+lại đây, định giá năm năm 2023 đạt 428 triệu USD
+và năm 2024 lên đến 480 triệu USD, tức tăng hơn
+30% giai đoạn 2022 - 2024. Ngoài ra, trong nguyên
+năm 2024, PNJ liên tục dẫn đầu về social brand of
+voice với khoảng cách gấp nhiều lần so với đối thủ
 theo sau.
-Một số hoạt động nổi bật của PNJ trong năm 
+Một số hoạt động nổi bật của PNJ trong năm
 bao gồm:
-•	 Trong Chương trình Xuân - Thần Tài đầu năm 2024, 
-PNJ đã tăng tốc với thông điệp “Vui như Tết - Quý 
-như vàng” và giới thiệu Bộ sưu tập Kim Bảo Như Ý, 
-Long Đáo Kim Niên và Tiểu Lộc Đại Phát. MV dẫn 
-đầu tỷ lệ thảo luận thị phần trang sức và đạt top 8 
+•	 Trong Chương trình Xuân - Thần Tài đầu năm 2024,
+PNJ đã tăng tốc với thông điệp “Vui như Tết - Quý
+như vàng” và giới thiệu Bộ sưu tập Kim Bảo Như Ý,
+Long Đáo Kim Niên và Tiểu Lộc Đại Phát. MV dẫn
+đầu tỷ lệ thảo luận thị phần trang sức và đạt top 8
 các video chiến dịch Tết 2024 (Brand Vietnam).
-•	 Trong mùa cưới 2024, PNJ giới thiệu MV “Chỉ cần 
-có nhau” gần gũi và có mức lan tỏa cao trên các 
-nền tảng mạng xã hội của giới trẻ như Youtube, 
-Zing MP3 và TikTok. Chiến dịch truyền thông chiến 
-thắng giải thưởng truyền thông lớn Grand Prix Vạn 
-Xuân 2024. Ngoài ra, Bộ Sưu Tập Trang sức cưới 
-Trầu cau PNJ tiếp tục nhận được sự yêu mến của 
-khách hàng và đạt giải Best Contemporary Heritage 
-Wedding Jewelry tại lễ trao giải Vietnam Wedding 
+•	 Trong mùa cưới 2024, PNJ giới thiệu MV “Chỉ cần
+có nhau” gần gũi và có mức lan tỏa cao trên các
+nền tảng mạng xã hội của giới trẻ như Youtube,
+Zing MP3 và TikTok. Chiến dịch truyền thông chiến
+thắng giải thưởng truyền thông lớn Grand Prix Vạn
+Xuân 2024. Ngoài ra, Bộ Sưu Tập Trang sức cưới
+Trầu cau PNJ tiếp tục nhận được sự yêu mến của
+khách hàng và đạt giải Best Contemporary Heritage
+Wedding Jewelry tại lễ trao giải Vietnam Wedding
 Awards 2024.
-•	 Thương hiệu PNJ ghi dấu với những giải thưởng lớn 
-quốc tế; đạt giải Thương hiệu truyền cảm hứng tại 
-Lễ trao giải Doanh nghiệp châu Á - APEA AWARDS 
-2024 và Giải thưởng “Excellence In Magical 
-Storytelling” tại The Walt Disney Showcase 2025 
-Sản phẩm 24k: Trong năm 2024, công ty đã nhạy 
-bén nắm bắt được xu hướng thay đổi của thị 
-trường vàng và trang sức trong nước để có kế 
-hoạch đẩy mạnh doanh thu nhóm sản phẩm vàng 
-24k ngay trong nửa đầu năm. PNJ tiếp tục giới thiệu 
-đến khách hàng nhiều mẫu mã đa dạng dựa trên sự 
-phân tích về nhu cầu của nhiều nhóm khách hàng; 
-sản phẩm nghệ thuật PNJ Art tiếp tục chinh phục 
-thêm nhiều KH mới với các sản phẩm đặc sắc như: 
-phiên bản giới hạn “Kim Long Phi Vân” và đồng vàng 
-“Kim Long Đại Cát”. Nhờ đó, lũy kế 6 tháng đầu năm 
-2024, doanh thu bán lẻ sản phẩm vàng 24k tăng 
-trưởng kỷ lục 81% so với cùng kỳ, tăng trưởng 11,5% 
+•	 Thương hiệu PNJ ghi dấu với những giải thưởng lớn
+quốc tế; đạt giải Thương hiệu truyền cảm hứng tại
+Lễ trao giải Doanh nghiệp châu Á - APEA AWARDS
+2024 và Giải thưởng “Excellence In Magical
+Storytelling” tại The Walt Disney Showcase 2025
+Sản phẩm 24k: Trong năm 2024, công ty đã nhạy
+bén nắm bắt được xu hướng thay đổi của thị
+trường vàng và trang sức trong nước để có kế
+hoạch đẩy mạnh doanh thu nhóm sản phẩm vàng
+24k ngay trong nửa đầu năm. PNJ tiếp tục giới thiệu
+đến khách hàng nhiều mẫu mã đa dạng dựa trên sự
+phân tích về nhu cầu của nhiều nhóm khách hàng;
+sản phẩm nghệ thuật PNJ Art tiếp tục chinh phục
+thêm nhiều KH mới với các sản phẩm đặc sắc như:
+phiên bản giới hạn “Kim Long Phi Vân” và đồng vàng
+“Kim Long Đại Cát”. Nhờ đó, lũy kế 6 tháng đầu năm
+2024, doanh thu bán lẻ sản phẩm vàng 24k tăng
+trưởng kỷ lục 81% so với cùng kỳ, tăng trưởng 11,5%
 nguyên năm 2024 so với năm 2023.
-DOANH THU MẢNG BÁN LẺ 
+DOANH THU MẢNG BÁN LẺ
 (TRANG SỨC VÀ VÀNG 24K) TĂNG
-13,4%
 SO VỚI CÙNG KỲ
-79
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-2   
 BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
 
-ĐÁNH GIÁ CHUNG  
-NHỮNG ĐIỂM SÁNG  
-TRONG NĂM 2024 
-Trong bối cảnh kinh doanh với nhiều thách thức của năm 2024, 
-với vị thế doanh nghiệp bán lẻ trang sức hàng đầu Việt Nam 
-có chuỗi 429 cửa hàng phủ khắp 58/63 tỉnh thành Việt Nam,  
-PNJ đã đạt được những tiến bộ bao gồm: 
-PNJ ĐÃ TIẾP TỤC PHÁT TRIỂN & CỦNG CỐ HỆ THỐNG PHÂN PHỐI TRÊN TOÀN QUỐC 
-VỚI VIỆC GIA TĂNG SỐ LƯỢNG 29 CỬA HÀNG ĐỂ TĂNG CƯỜNG ĐỘ PHỦ, THÀNH CÔNG 
-VỚI CHIẾN LƯỢC MỞ RỘNG HỆ THỐNG CỬA HÀNG TẠI CÁC ĐỊA BÀN TIER 2, 3, 
+Dựa trên nền tảng đã được củng cố trong năm 2023, PNJ
+đã tận dụng được những điều kiện thuận lợi nửa cuối
+năm 2024 để tăng tốc khi nhu cầu thị trường sỉ chuyển
+sang cho các sản phẩm có nguồn gốc xuất xứ rõ ràng,
+minh bạch khi các chính sách về quản lý thị trường vàng
+được siết chặt mạnh mẽ. Theo đó, PNJ đã phát triển
+danh mục hàng hóa sỉ đa dạng và phù hợp với nhu cầu
+khách hàng dựa trên nền tảng phân tích dữ liệu và cắt lớp
+nhu cầu thị trường. Công ty cũng làm mới thương hiệu
+PNJP trên thị trường bán sỉ và phát triển bền vững mạng
+lưới khách hàng. Kết quả năm 2024, doanh thu kênh sỉ
+đạt hơn 3.900 tỷ, tăng trưởng 34,6% so với cùng kỳ.
+DOANH THU KÊNH SỈ
+DOANH THU KÊNH SỈ
+tăng trưởng 34,6%
+so với cùng kỳ
+DOANH THU THUẦN PNJ TĂNG TRƯỞNG
+BỀN VỮNG QUA CÁC NĂM (Đơn vị: Tỷ VND)
+Doanh thuTẦM CAO mới
+LỢI NHUẬN SAU THUẾ PNJ TĂNG TRƯỞNG
+BỀN VỮNG QUA CÁC NĂM (Đơn vị: Tỷ VND)
+Lợi nhuậnTẦM CAO mới
+Độ phủ khắp Việt Nam:
+Cửa hàng 58/63 tỉnh thành
+SỐ LƯỢNG CỬA HÀNG PNJ TĂNG TRƯỞNG
+QUA CÁC NĂM
+CƠ CẤU DOANH THU PNJ QUA CÁC NĂM
+Doanh thu bán lẻ
+tiếp tục giữ tỷ trọng chi phối
+Bán lẻ trang sức
+Bán lẻ vàng 24k
+Bán sỉ
+Khác
+CHƯƠNG
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+
+GIÁ TRỊ THƯƠNG HIỆU THEO BRAND FINANCE
+(Đơn vị: Triệu USD)
+Giá trị thương hiệu
+TĂNG TRƯỞNG
+liên tục
+TIÊU DÙNG TRANG SỨC VÀNG TRUNG BÌNH CÁC NƯỚC
+TRONG NĂM 2024 (Đơn vị: Gram/Người)
+Thị trường Việt Nam
+còn nhiều dư địa để phát triển
+Nguồn: World Gold Council, Worldometers
+Thái Lan
+Việt Nam
+Hàn Quốc
+Pháp
+Trung Quốc
+Malaysia
+Ấn ĐộSingapore
+Trong năm 2024, lợi nhuận gộp của công ty đã tăng
+10,2% so với cùng kỳ, đạt 6.672 tỷ đồng. Biên lợi
+nhuận gộp năm 2024 đạt 17,6%, giảm 0,7 điểm phần
+trăm so với năm 2023.
+Sự giảm sút này chủ yếu do (1) chi phí nguyên vật liệu
+đầu vào tăng cao và (2) công ty cũng tiến hành tăng
+cường tái kinh doanh hàng mua lại để bổ sung nguồn
+cung nguyên liệu đang hạn chế, vì vậy tăng chi phí dự
+phòng xử lý hàng hóa.
+Trong năm 2024, PNJ tiếp tục duy trì hiệu quả vận hành
+và cải tiến sáng tạo trong tối ưu hóa quy trình sản xuất
+và cung ứng. Ngoài ra, PNJ cũng tái cấu trúc danh mục
+sản phẩm để phù hợp với tình hình thị trường trang
+sức nhằm cải thiện biên lợi nhuận gộp.
+LỢI NHUẬN GỘP
+Chi phí bán hàng và quản lý doanh nghiệp trên lợi nhuận
+gộp tăng từ 58,2% lên 60,1% trong năm 2024. Sự gia
+tăng này do mở rộng hệ thống cửa hàng và nâng cấp cơ
+sở hạ tầng một số cửa hàng hiện hữu, đồng thời PNJ gia
+tăng đầu tư nhận diện thương hiệu, cải thiện chất lượng
+sản phẩm và  nâng cao trải nghiệm khách hàng từ đó
+tăng cường sự hài lòng và mức độ gắn bó của khách
+hàng. PNJ cũng ứng dụng công nghệ thông tin trong
+hoạt động vận hành kinh doanh để duy trì sự phát triển
+ổn định trong tương lai. Đồng thời công ty vẫn liên tục có
+các sáng kiến tối ưu vận hành để kiếm soát và duy trì tỷ lệ
+tăng này trong mức phù hợp.
+CHI PHÍ BÁN HÀNG VÀ QUẢN LÝ DOANH NGHIỆP
+TRÊN LỢI NHUẬN GỘP
+Trong bối cảnh ảnh hưởng kép từ thị trường, PNJ
+đã vượt qua thách thức và đạt được những kết quả
+ổn định trong năm 2024. Lợi nhuận sau thuế tăng
+trưởng 7,2% so với năm 2023, đạt 2.113 tỷ đồng,
+hoàn thành 101% kế hoạch năm. Biên lợi nhuận sau
+thuế trên doanh thu thuần giảm từ 5,9% còn 5,6%,
+giảm gần 0,4 điểm phần trăm. Điều này phản ánh
+những thách thức mà công ty phải đối mặt trong việc
+LỢI NHUẬN SAU THUẾ
+duy trì biên lợi nhuận, bao gồm chi phí nguyên vật
+liệu tăng cao, chi phí vận hành và quản lý gia tăng,
+nhu cầu tiêu dùng chưa ổn định, cùng với áp lực
+cạnh tranh ngày càng gay gắt từ các đối thủ trong
+ngành. Dù vậy, PNJ vẫn thể hiện sự kiên cường và
+khả năng thích ứng, tiếp tục tìm kiếm các giải pháp
+sáng tạo để nâng cao hiệu quả hoạt động và duy trì
+vị thế dẫn đầu trên thị trường.
+GIÁ TRỊ THƯƠNG HIỆU
+TRIỆU USD
+LỢI NHUẬN GỘP
+LỢI NHUẬN SAU THUẾ
+CHƯƠNG
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+
+ĐÁNH GIÁ CHUNG
+NHỮNG ĐIỂM SÁNG
+TRONG NĂM 2024
+Trong bối cảnh kinh doanh với nhiều thách thức của năm 2024,
+với vị thế doanh nghiệp bán lẻ trang sức hàng đầu Việt Nam
+có chuỗi 429 cửa hàng phủ khắp 58/63 tỉnh thành Việt Nam,
+PNJ đã đạt được những tiến bộ bao gồm:
+PNJ ĐÃ TIẾP TỤC PHÁT TRIỂN & CỦNG CỐ HỆ THỐNG PHÂN PHỐI TRÊN TOÀN QUỐC
+VỚI VIỆC GIA TĂNG SỐ LƯỢNG 29 CỬA HÀNG ĐỂ TĂNG CƯỜNG ĐỘ PHỦ, THÀNH CÔNG
+VỚI CHIẾN LƯỢC MỞ RỘNG HỆ THỐNG CỬA HÀNG TẠI CÁC ĐỊA BÀN TIER 2, 3,
 GIÚP LƯỢNG KHÁCH MỚI Ở TẠI ĐÂY TĂNG NHANH HƠN SO VỚI TIER 1.
-PNJ ĐÃ TẬP TRUNG VÀO VIỆC ĐA DẠNG HÓA SẢN PHẨM  
+PNJ ĐÃ TẬP TRUNG VÀO VIỆC ĐA DẠNG HÓA SẢN PHẨM
 VÀ DỊCH VỤ, TỪ TRANG SỨC ĐẾN ĐỒNG HỒ.
-PNJ DÀNH NGUỒN LỰC SÁNG TẠO  
+PNJ DÀNH NGUỒN LỰC SÁNG TẠO
 & ĐỔI MỚI NÂNG CAO HIỆU QUẢ TIẾP CẬN KHÁCH HÀNG.
 PNJ LÀM MỚI TRẢI NGHIỆM KHÁCH HÀNG.
-PNJ TIẾP TỤC ĐẦU TƯ NÂNG CẤP NĂNG LỰC SẢN XUẤT - CUNG ỨNG.  
-NĂNG LỰC SÁNG TẠO TRONG MARKETING TIẾP TỤC BIẾN HÓA, 
-TỐC ĐỘ TRIỂN KHAI NHANH HƠN, PHỐI HỢP NỘI BỘ HIỆU QUẢ HƠN 
-ĐÃ ĐÓNG GÓP RẤT TÍCH CỰC VÀO KẾT QUẢ KINH DOANH. 
-NỀN TẢNG CÔNG NGHỆ VỚI HÀNG LOẠT DỰ ÁN ĐÃ ĐƯỢC TRIỂN KHAI 
-GÓP PHẦN TỐI ƯU HIỆU QUẢ KINH DOANH VẬN HÀNH, 
+PNJ TIẾP TỤC ĐẦU TƯ NÂNG CẤP NĂNG LỰC SẢN XUẤT - CUNG ỨNG.
+NĂNG LỰC SÁNG TẠO TRONG MARKETING TIẾP TỤC BIẾN HÓA,
+TỐC ĐỘ TRIỂN KHAI NHANH HƠN, PHỐI HỢP NỘI BỘ HIỆU QUẢ HƠN
+ĐÃ ĐÓNG GÓP RẤT TÍCH CỰC VÀO KẾT QUẢ KINH DOANH.
+NỀN TẢNG CÔNG NGHỆ VỚI HÀNG LOẠT DỰ ÁN ĐÃ ĐƯỢC TRIỂN KHAI
+GÓP PHẦN TỐI ƯU HIỆU QUẢ KINH DOANH VẬN HÀNH,
 TĂNG HÀI LÒNG VÀ TRẢI NGHIỆM KHÁCH HÀNG.
 TỔNG TÀI SẢN TĂNG
-19,3%
 SO VỚI NAM 2023
-Tại thời điểm cuối 2024, tổng tài sản của PNJ đạt 
-17.208 tỷ đồng, tăng 2.780 tỷ so với năm 2023. Trong 
-đó, hàng tồn kho tại thời điểm cuối năm chiếm 76% 
-tổng tài sản và tăng 2.073 tỷ so với năm trước, do tăng 
-hàng tồn kho từ việc phát triển mạng lưới cửa hàng, 
-dự trữ hàng hóa cho mùa cao điểm Tết 2025 và biến 
+Tại thời điểm cuối 2024, tổng tài sản của PNJ đạt
+17.208 tỷ đồng, tăng 2.780 tỷ so với năm 2023. Trong
+đó, hàng tồn kho tại thời điểm cuối năm chiếm 76%
+tổng tài sản và tăng 2.073 tỷ so với năm trước, do tăng
+hàng tồn kho từ việc phát triển mạng lưới cửa hàng,
+dự trữ hàng hóa cho mùa cao điểm Tết 2025 và biến
 động giá vàng tăng.
-Trong năm 2024, khoản tiền gửi có kỳ hạn tăng từ 810 
-tỷ tại thời điểm đầu năm lên 1.020 tỷ tại thời điểm cuối 
-năm. Các khoản này bao gồm khoản gửi có kỳ hạn gốc 
-trên 3 tháng và các kỳ hạn còn lại không quá 12 tháng 
-kể từ thời điểm báo cáo. Hệ số lợi nhuận sau thuế trên 
-tổng tài sản (ROA) trong năm 2024 là 13,4%, giảm 0,8 
-điểm phần trăm so với năm 2023. Điều này phản ánh 
-những thách thức mà công ty phải đối mặt trong việc 
-duy trì hiệu quả hoạt động trong bối cảnh biến động thị 
+Trong năm 2024, khoản tiền gửi có kỳ hạn tăng từ 810
+tỷ tại thời điểm đầu năm lên 1.020 tỷ tại thời điểm cuối
+năm. Các khoản này bao gồm khoản gửi có kỳ hạn gốc
+trên 3 tháng và các kỳ hạn còn lại không quá 12 tháng
+kể từ thời điểm báo cáo. Hệ số lợi nhuận sau thuế trên
+tổng tài sản (ROA) trong năm 2024 là 13,4%, giảm 0,8
+điểm phần trăm so với năm 2023. Điều này phản ánh
+những thách thức mà công ty phải đối mặt trong việc
+duy trì hiệu quả hoạt động trong bối cảnh biến động thị
 trường, chi phí tăng cao và cạnh tranh gay gắt.
 QUẢN LÝ TÀI SẢN
 KHOẢN NỢ PHẢI TRẢ/PHẢI THU XẤU/TÀI SẢN XẤU
-Liên quan đến quản lý các khoản nợ phải trả, phải thu 
-xấu và tài sản xấu, công ty không có khoản mục nào ảnh 
-hưởng đến kết quả hoạt động kinh doanh. PNJ hiện đang 
-nắm giữ một số lượng cổ phiếu của Ngân hàng Đông Á, 
-tổ chức đang được kiểm soát đặc biệt bởi Ngân hàng 
-Nhà nước. Khoản đầu tư dài hạn vào Ngân hàng Đông Á 
-đã được trích lập dự phòng hoàn toàn trong những năm 
-trước. PNJ tiếp tục làm việc với các bên liên quan để tìm 
+Liên quan đến quản lý các khoản nợ phải trả, phải thu
+xấu và tài sản xấu, công ty không có khoản mục nào ảnh
+hưởng đến kết quả hoạt động kinh doanh. PNJ hiện đang
+nắm giữ một số lượng cổ phiếu của Ngân hàng Đông Á,
+tổ chức đang được kiểm soát đặc biệt bởi Ngân hàng
+Nhà nước. Khoản đầu tư dài hạn vào Ngân hàng Đông Á
+đã được trích lập dự phòng hoàn toàn trong những năm
+trước. PNJ tiếp tục làm việc với các bên liên quan để tìm
 phương án xử lý phù hợp cho khoản đầu tư này.
-ẢNH HƯỞNG CỦA LÃI SUẤT 
-Năm 2024 vẫn là năm Ngân Hàng Nhà Nước duy trì chính 
-sách tiền tệ nới lỏng để hỗ trợ doanh nghiệp và người dân 
-nên PNJ cũng có một năm khá thuận lợi trong việc duy trì 
-và tìm kiếm nguồn vốn giá rẻ. PNJ tối ưu các khoản vay ở 
-hạn mức và thời gian vay phù hợp cùng với mức lãi suất 
-thấp để phục vụ cho hoạt động sản xuất kinh doanh. Mặt 
-bằng lãi suất cho vay đã giảm 0,44% so với năm 2023 nhờ 
-vậy tính chung cả năm chi phí lãi vay của PNJ là 46,8 tỷ 
+ẢNH HƯỞNG CỦA LÃI SUẤT
+Năm 2024 vẫn là năm Ngân Hàng Nhà Nước duy trì chính
+sách tiền tệ nới lỏng để hỗ trợ doanh nghiệp và người dân
+nên PNJ cũng có một năm khá thuận lợi trong việc duy trì
+và tìm kiếm nguồn vốn giá rẻ. PNJ tối ưu các khoản vay ở
+hạn mức và thời gian vay phù hợp cùng với mức lãi suất
+thấp để phục vụ cho hoạt động sản xuất kinh doanh. Mặt
+bằng lãi suất cho vay đã giảm 0,44% so với năm 2023 nhờ
+vậy tính chung cả năm chi phí lãi vay của PNJ là 46,8 tỷ
 đồng giảm 71,8 tỷ so với mức 118,6 tỷ đồng của 2023.
 QUẢN LÝ CÁC KHOẢN NỢ NGẮN VÀ DÀI HẠN
-Trong năm 2024, PNJ đã gia tăng sử dụng công cụ 
-đòn bẩy tài chính để tối ưu hóa nguồn vốn, từ đó giảm 
-thiểu chi phí vốn và nâng cao khả năng sinh lời. Tổng 
-nợ phải trả tại thời điểm cuối năm 2024 đạt 5.952 tỷ 
-đồng, tăng 1.331 tỷ so với đầu kỳ. Phần lớn tổng nợ 
-của PNJ tập trung vào các khoản vay ngắn hạn (56%), 
-nhằm phục vụ cho nhu cầu hàng tồn kho, mở rộng 
-thị trường và tối ưu hoạt động sản xuất kinh doanh. 
-Để quản lý rủi ro lãi suất, PNJ duy trì mối quan hệ với 
-các tổ chức tín dụng và thực hiện đánh giá, so sánh 
-lãi suất từ các tổ chức tín dụng để kiểm soát chi phí 
+Trong năm 2024, PNJ đã gia tăng sử dụng công cụ
+đòn bẩy tài chính để tối ưu hóa nguồn vốn, từ đó giảm
+thiểu chi phí vốn và nâng cao khả năng sinh lời. Tổng
+nợ phải trả tại thời điểm cuối năm 2024 đạt 5.952 tỷ
+đồng, tăng 1.331 tỷ so với đầu kỳ. Phần lớn tổng nợ
+của PNJ tập trung vào các khoản vay ngắn hạn (56%),
+nhằm phục vụ cho nhu cầu hàng tồn kho, mở rộng
+thị trường và tối ưu hoạt động sản xuất kinh doanh.
+Để quản lý rủi ro lãi suất, PNJ duy trì mối quan hệ với
+các tổ chức tín dụng và thực hiện đánh giá, so sánh
+lãi suất từ các tổ chức tín dụng để kiểm soát chi phí
 tài chính hiệu quả.
 ẢNH HƯỞNG CHÊNH LỆCH TỶ GIÁ HỐI ĐOÁI
-Năm 2024 là một năm đầy áp lực của tỷ giá, cho đến 
-những ngày giao dịch cuối cùng tỷ giá vẫn tiếp tục chịu 
-những áp lực tăng. Tiền đồng mất giá khoảng 4,8% 
-và Ngân Hàng Nhà Nước đã phải bán ra khoảng 9,4 
-tỷ USD dự trữ ngoại hối để kiểm soát tỷ giá trong năm 
-2024. Trong bối cảnh tỷ giá căng thẳng PNJ vẫn duy trì 
-ổn định hoạt động nhập khẩu hàng hóa và nguyên vật 
-liệu để đáp ứng nhu cầu sản xuất và vẫn đảm bảo ảnh 
+Năm 2024 là một năm đầy áp lực của tỷ giá, cho đến
+những ngày giao dịch cuối cùng tỷ giá vẫn tiếp tục chịu
+những áp lực tăng. Tiền đồng mất giá khoảng 4,8%
+và Ngân Hàng Nhà Nước đã phải bán ra khoảng 9,4
+tỷ USD dự trữ ngoại hối để kiểm soát tỷ giá trong năm
+2024. Trong bối cảnh tỷ giá căng thẳng PNJ vẫn duy trì
+ổn định hoạt động nhập khẩu hàng hóa và nguyên vật
+liệu để đáp ứng nhu cầu sản xuất và vẫn đảm bảo ảnh
 hưởng tối thiểu của tỷ giá tới chi phí giá thành.
-85
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-2   
 BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
 
-CÁC LỢI THẾ   
+Công ty CAF tiếp tục phát triển đa dạng kênh bán
+hàng, tái thiết kế hình ảnh trên không gian mạng
+của công ty, phát triển dịch vụ thiết kế riêng CAO
+Bespoke - một giải pháp cao cấp, cá nhân hoá
+dành riêng cho từng khách hàng, và tiếp tục nâng
+cao chất lượng dịch vụ nhằm gia tăng hiệu quả bán
+hàng bền vững. Song song đó, CAF đã thành công
+giới thiệu các bộ sưu tập độc đáo, gây ấn tượng
+mạnh với khách hàng mục tiêu như ORIENTAL,
+MODARA, ELYSIAN SEA. Nhờ đó, doanh thu nhãn
+CAO đã tăng trưởng khá tốt trong năm 2024, góp
+phần khẳng định vị thế nhãn hàng trang sức cao cấp
+tại Việt Nam.
+CÔNG TY TNHH MỘT THÀNH VIÊN
+THỜI TRANG CAO (CAF)
+Vốn điều lệ: 150 tỷ đồng
+Tỷ lệ sở hữu của PNJ 100%
+Ngành nghề kinh doanh chính:
+Kinh doanh trang sức
+PNJL đã có những bước tiến quan trọng trong việc
+nâng cao chất lượng kiểm định và thay đổi nhận diện
+thương hiệu nhằm khẳng định vị thế trên thị trường.
+PNJL đã cải thiện quy trình kiểm định bằng cách áp
+dụng các công nghệ tiên tiến và tiêu chuẩn quốc tế,
+giúp nâng cao độ chính xác, minh bạch và độ tin cậy
+của dịch vụ. Điều này không chỉ đáp ứng yêu cầu ngày
+càng cao của khách hàng mà còn góp phần khẳng
+định cam kết về chất lượng của thương hiệu.
+Bên cạnh đó, PNJL đã thay đổi nhận diện thương hiệu
+nhằm mang đến hình ảnh hiện đại và chuyên nghiệp.
+Hình ảnh mới không chỉ thể hiện sự đổi mới mà còn
+phản ánh giá trị cốt lõi và tầm nhìn dài hạn của công
+ty. Việc thay đổi nhận diện thương hiệu giúp PNJL tạo
+thời khẳng định sự phát triển bền vững và không
+ngừng đổi mới để phù hợp với xu hướng thị trường.
+CÔNG TY TNHH MỘT THÀNH VIÊN
+GIÁM ĐỊNH PNJ (PNJL)
+Vốn điều lệ: 10 tỷ đồng
+Tỷ lệ sở hữu của PNJ 100%
+Ngành nghề kinh doanh chính:
+Tư vấn và giám định vàng, bạc và đá quý
+PNJP đã có những bước phát triển mạnh mẽ được thể
+hiện trong năm 2024 tập trung vào tăng tốc mở rộng thị
+trường kênh sỉ, mở rộng nhà máy sản xuất và thay đổi
+nhận diện thương hiệu.
+Nhờ mở rộng mạng lưới phân phối và nâng cao chất
+lượng dịch vụ, mảng kinh doanh sỉ của PNJP đạt mức
+tăng trưởng ấn tượng hơn 3.900 tỷ, tăng trưởng 34,6%
+so với cùng kỳ. Đồng thời, công ty đã đầu tư mở rộng
+nhà máy với nhiều công nghệ hiện đại nhằm mới nâng
+cao công suất và đa dạng mẫu mã.
+Bên cạnh đó, PNJP cũng thay đổi nhận diện thương
+hiệu theo hướng chuyên nghiệp, hiện đại hơn, khẳng
+định sự đổi mới và phát triển bền vững.
+CÔNG TY TNHH MỘT THÀNH VIÊN CHẾ TÁC VÀ
+KINH DOANH TRANG SỨC PNJ (PNJP)
+Vốn điều lệ: 500 tỷ đồng
+Tỷ lệ sở hữu của PNJ 100%
+Ngành nghề kinh doanh chính:
+Chế tác và kinh doanh trang sức
+CHƯƠNG
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+
+CÁC LỢI THẾ
 CẠNH TRANH BỀN VỮNG
-VÀ CƠ HỘI CHIẾN LƯỢC  
-MÔI TRƯỜNG KINH DOANH TẠI VIỆT NAM  
-ĐANG CÓ NHIỀU THAY ĐỔI VÀ PHÁT TRIỂN TẠO RA NHIỀU  
+VÀ CƠ HỘI CHIẾN LƯỢC
+MÔI TRƯỜNG KINH DOANH TẠI VIỆT NAM
+ĐANG CÓ NHIỀU THAY ĐỔI VÀ PHÁT TRIỂN TẠO RA NHIỀU
 CƠ HỘI KINH DOANH CHO CÁC DOANH NGHIỆP.
 TĂNG DÂN SỐ TẦNG LỚP TRUNG LƯU TẠI VIỆT NAM
-Dự báo dân số thuộc tầng lớp trung lưu sẽ tăng mạnh 
-mẽ trong thập kỷ tiếp theo, dẫn đến nhu cầu sử dụng 
-trang sức tăng lên do trang sức là biểu tượng của đẳng 
-cấp và phong cách thời trang, điều này mang lại nhiều 
-cơ hội kinh doanh cho thương hiệu lớn và nổi tiếng 
+Dự báo dân số thuộc tầng lớp trung lưu sẽ tăng mạnh
+mẽ trong thập kỷ tiếp theo, dẫn đến nhu cầu sử dụng
+trang sức tăng lên do trang sức là biểu tượng của đẳng
+cấp và phong cách thời trang, điều này mang lại nhiều
+cơ hội kinh doanh cho thương hiệu lớn và nổi tiếng
 như PNJ.
 PHÁT TRIỂN KINH TẾ ĐÔ THỊ TẠI VIỆT NAM
-Phát triển đô thị thường đi kèm với việc nâng cao cơ 
-sở hạ tầng và môi trường kinh doanh. Các khu vực 
-đô thị phát triển cung cấp môi trường mua sắm, trải 
-nghiệm và giải trí thuận tiện hơn, điều này có thể tạo 
-ra điều kiện tốt hơn cho PNJ để mở rộng và phát triển 
-mạng lưới cửa hàng. Dân số đô thị tăng cũng có thể 
-tạo ra một thị trường tiêu thụ lớn hơn cho sản phẩm 
-của PNJ. 
-Tuy nhiên, việc tận dụng cơ hội này đòi hỏi các doanh 
-nghiệp phải có kế hoạch và chiến lược rõ ràng, sẵn 
-sàng thích ứng với môi trường kinh doanh đang thay 
-đổi và cạnh tranh. PNJ có đầy đủ nền tảng để đáp ứng 
-môi trường kinh doanh tại Việt Nam, như: 
-•	 Uy tín và độ tin cậy: PNJ đã hoạt động và phát 
-triển trong ngành trang sức hơn 35 năm, do đó đã 
-xây dựng một tên tuổi vững chắc trong cộng đồng 
-người tiêu dùng tại Việt Nam. Uy tín và độ tin cậy 
-cao luôn được khách hàng công nhận, điều này 
-được thể hiện qua tệp khách hàng lớn và trung 
-thành tăng trưởng hàng năm. 
-•	 Chất lượng sản phẩm cao cấp: PNJ chú trọng 
-vào việc sản xuất và cung cấp các sản phẩm trang 
-sức chất lượng cao. Sản phẩm của PNJ được sản 
-xuất từ nguyên liệu chất lượng chuẩn cao và được 
-chế tác bởi bàn tay của các nghệ nhân dày dạn 
-kinh nghiệm. Ngoài ra, PNJ còn áp dụng các quy 
-trình sản xuất tiên tiến và hiện đại trên thế giới, từ 
-giai đoạn đầu đến lúc hoàn thiện mọi bước đều 
-được kiểm soát nghiêm ngặt. 
-•	 Đa dạng sản phẩm: PNJ cung cấp đa dạng các 
-sản phẩm trang sức với nhiều mẫu mã được 
-thiết kế mang đậm nét riêng, độc đáo, tinh tế và 
-thời thượng, phản ánh năng lực sáng tạo từ đội 
-ngũ thiết kế. Điều này giúp thương hiệu thu hút 
-được nhiều đối tượng khách hàng và tăng cơ 
+Phát triển đô thị thường đi kèm với việc nâng cao cơ
+sở hạ tầng và môi trường kinh doanh. Các khu vực
+đô thị phát triển cung cấp môi trường mua sắm, trải
+nghiệm và giải trí thuận tiện hơn, điều này có thể tạo
+ra điều kiện tốt hơn cho PNJ để mở rộng và phát triển
+mạng lưới cửa hàng. Dân số đô thị tăng cũng có thể
+tạo ra một thị trường tiêu thụ lớn hơn cho sản phẩm
+của PNJ.
+Tuy nhiên, việc tận dụng cơ hội này đòi hỏi các doanh
+nghiệp phải có kế hoạch và chiến lược rõ ràng, sẵn
+sàng thích ứng với môi trường kinh doanh đang thay
+đổi và cạnh tranh. PNJ có đầy đủ nền tảng để đáp ứng
+môi trường kinh doanh tại Việt Nam, như:
+•	 Uy tín và độ tin cậy: PNJ đã hoạt động và phát
+triển trong ngành trang sức hơn 35 năm, do đó đã
+xây dựng một tên tuổi vững chắc trong cộng đồng
+người tiêu dùng tại Việt Nam. Uy tín và độ tin cậy
+cao luôn được khách hàng công nhận, điều này
+được thể hiện qua tệp khách hàng lớn và trung
+thành tăng trưởng hàng năm.
+•	 Chất lượng sản phẩm cao cấp: PNJ chú trọng
+vào việc sản xuất và cung cấp các sản phẩm trang
+sức chất lượng cao. Sản phẩm của PNJ được sản
+xuất từ nguyên liệu chất lượng chuẩn cao và được
+chế tác bởi bàn tay của các nghệ nhân dày dạn
+kinh nghiệm. Ngoài ra, PNJ còn áp dụng các quy
+trình sản xuất tiên tiến và hiện đại trên thế giới, từ
+giai đoạn đầu đến lúc hoàn thiện mọi bước đều
+được kiểm soát nghiêm ngặt.
+•	 Đa dạng sản phẩm: PNJ cung cấp đa dạng các
+sản phẩm trang sức với nhiều mẫu mã được
+thiết kế mang đậm nét riêng, độc đáo, tinh tế và
+thời thượng, phản ánh năng lực sáng tạo từ đội
+ngũ thiết kế. Điều này giúp thương hiệu thu hút
+được nhiều đối tượng khách hàng và tăng cơ
 hội kinh doanh.
-•	 Mạng lưới cửa hàng rộng khắp: PNJ có mạng 
-lưới cửa hàng rộng khắp Việt Nam với hơn 429 
-cửa hàng trải dài 58/63 tỉnh thành, từ các cửa hàng 
-trong các thành phố lớn đến các cửa hàng tại các 
-tỉnh thành nhỏ. Điều này giúp PNJ tiếp cận được 
-nhiều khách hàng hơn và tạo điều kiện thuận lợi 
-cho việc mở rộng thị trường kinh doanh. 
-•	 Nền tảng con người PNJ: PNJ tạo ra một môi 
-trường làm việc tích cực, thúc đẩy tinh thần đồng 
-đội và hỗ trợ lẫn nhau. Sự gắn kết và phối hợp 
-được tạo ra thông qua việc chia sẻ một cách cởi 
-mở và giao tiếp hiệu quả. PNJ khuyến khích các 
-giá trị như tôn trọng, minh bạch, và công bằng 
-trong môi trường làm việc. Bằng cách này, công 
-ty tạo điều kiện để nhân viên phát triển, tạo cơ hội 
+•	 Mạng lưới cửa hàng rộng khắp: PNJ có mạng
+lưới cửa hàng rộng khắp Việt Nam với hơn 429
+cửa hàng trải dài 58/63 tỉnh thành, từ các cửa hàng
+trong các thành phố lớn đến các cửa hàng tại các
+tỉnh thành nhỏ. Điều này giúp PNJ tiếp cận được
+nhiều khách hàng hơn và tạo điều kiện thuận lợi
+cho việc mở rộng thị trường kinh doanh.
+•	 Nền tảng con người PNJ: PNJ tạo ra một môi
+trường làm việc tích cực, thúc đẩy tinh thần đồng
+đội và hỗ trợ lẫn nhau. Sự gắn kết và phối hợp
+được tạo ra thông qua việc chia sẻ một cách cởi
+mở và giao tiếp hiệu quả. PNJ khuyến khích các
+giá trị như tôn trọng, minh bạch, và công bằng
+trong môi trường làm việc. Bằng cách này, công
+ty tạo điều kiện để nhân viên phát triển, tạo cơ hội
 thăng tiến, thu hút và giữ chân nhân tài.
-89
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
 CHƯƠNG
-3
-4
-2   
 BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
-
-CHUYỂN ĐỔI SỐ
-NHỮNG CẢI TIẾN 
-VỀ CƠ CẤU TỔ CHỨC, 
-CHÍNH SÁCH QUẢN LÝ CÔNG TY 
-Năm 2024 được đánh giá là một năm đầy thách thức 
-đối với môi trường kinh doanh toàn cầu nói chung và 
-thị trường bán lẻ Việt Nam nói riêng. Tình hình thế giới 
-tiếp tục biến động khó lường với căng thẳng địa chính 
-trị kéo dài, thương mại quốc tế phục hồi chậm chạp, 
-cùng với các nền kinh tế lớn liên tục phải đối mặt với 
-áp lực suy giảm tăng trưởng. Chính sách tiền tệ thận 
-trọng của các ngân hàng trung ương cũng khiến chi 
-phí vốn duy trì ở mức cao, tạo rào cản lớn đối với các 
-hoạt động đầu tư và tiêu dùng trên toàn cầu.
-Trong khi đó, tốc độ phát triển công nghệ đang tạo ra 
-những cơ hội đột phá nhưng đồng thời cũng đặt ra 
-những thách thức mới. Cuộc đua công nghệ, đặc biệt 
-trong lĩnh vực trí tuệ nhân tạo (AI), diễn ra mạnh mẽ 
-trên phạm vi toàn cầu với tốc độ nâng cấp ứng dụng 
-ngày càng nhanh chóng và phức tạp hơn. Theo khảo 
-sát gần đây của McKinsey & Company (tháng 4/2024), 
-có đến 72% doanh nghiệp trên thế giới đã triển khai 
-ứng dụng AI vào ít nhất một quy trình hoạt động, tập 
-trung chủ yếu ở các lĩnh vực trọng yếu như Marketing, 
-bán hàng, và phát triển sản phẩm. Tuy nhiên, bên cạnh 
-những lợi ích vượt trội, sự phát triển nhanh chóng và 
-khó kiểm soát của AI cũng đang làm phát sinh nhiều rủi 
-ro liên quan đến đạo đức (Ethics), quyền riêng tư dữ 
-liệu (Data Privacy) và đặc biệt là sự thiếu minh bạch 
-trong vận hành các hệ thống thông minh.
-Song song với đó, vấn đề an ninh mạng (Cyber Security) 
-nổi lên như một thách thức đặc biệt nghiêm trọng trong 
-năm 2024. Theo báo cáo của Hiệp hội An ninh mạng 
-quốc gia, có tới 46,15% cơ quan, doanh nghiệp cho 
-biết đã từng bị tấn công mạng ít nhất 1 lần trong năm 
-qua, trong đó 6,77% thường xuyên bị tấn công. Tổng 
-số vụ tấn công mạng trong năm ước tính lên tới hơn 
-659.000 vụ. Các cuộc tấn công mạng ngày càng trở 
-nên tinh vi, phức tạp hơn, không chỉ gây tổn thất lớn về 
-tài chính, gián đoạn hoạt động mà còn gây ra những 
-thiệt hại nặng nề về uy tín thương hiệu của nhiều 
-doanh nghiệp lớn.
-BỐI CẢNH HOẠT ĐỘNG CỦA PNJ NĂM 2024
-Ban chuyển đổi số cũng không ngừng làm đổi mới nhằm phục vụ tốt hơn cho các mục tiêu này
-TĂNG TRƯỞNG
-VỮNG CHẮC
-PHÁT TRIỂN  
-BỀN VỮNG
-LÀM GIÀU  
-TÀI NGUYÊN
-KINH DOANH  
-MỚI
-PHÁT TRIỂN  
-NĂNG LỰC
-CHUẨN BỊ  
-TƯƠNG LAI
-1
-6
-2
-5
-3
-4
-TRONG NĂM 2024, DƯỚI SỰ DẪN DẮT CỦA HỘI ĐỒNG QUẢN TRỊ,  
-CHIẾN LƯỢC PHÁT TRIỂN CỦA PNJ TIẾP TỤC ĐƯỢC TRIỂN KHAI  
-XOAY QUANH 6 ĐỊNH HƯỚNG TRỌNG YẾU
-Đón đầu làn sóng CÔNG NGHỆ
-Chủ động ứng phó thách thức thời đại số
-Trong bối cảnh ấy, PNJ nhận định rõ rằng công nghệ 
-sẽ tiếp tục là mũi nhọn chiến lược trọng yếu giúp 
-công ty duy trì và phát huy lợi thế cạnh tranh bền 
-vững và lâu dài. Đối với PNJ, công nghệ không chỉ 
-là công cụ tối ưu hóa vận hành hay nâng cao hiệu 
-quả kinh doanh mà còn là nền tảng cốt lõi tạo dựng 
-trải nghiệm khách hàng vượt trội, thúc đẩy đổi mới 
-sáng tạo liên tục, và chuẩn bị sẵn sàng cho tương 
-lai. Với nhận thức sâu sắc về tầm quan trọng chiến 
-lược của công nghệ, PNJ đã và đang tiếp tục đầu 
-tư mạnh mẽ vào các công nghệ tiên phong như 
-AI, Big Data, AIoT, Blockchain và Robot Process 
-Automation nhằm xây dựng hệ sinh thái số an toàn, 
-minh bạch và hiệu quả, hướng đến việc cá nhân hóa 
-trải nghiệm khách hàng, tự động hóa quy trình vận 
-hành và gia tăng năng lực quản trị rủi ro công nghệ.
-PNJ hiểu rằng, làm chủ công nghệ không chỉ giúp 
-doanh nghiệp vượt qua các khó khăn trong ngắn 
-hạn, mà còn tạo nền tảng vững chắc để công ty duy 
-trì lợi thế cạnh tranh trong dài hạn, tăng trưởng ổn 
-định và phát triển bền vững. Đây là hướng đi chiến 
-lược, quyết định thành công lâu dài của PNJ trong 
-tương lai đầy biến động và cạnh tranh khốc liệt của 
-kỷ nguyên số.
-91
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
-CHƯƠNG
-3
-4
-2   
-BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
-
-Trên nền tảng SỐ HÓA
-và tối ưu vận hành
-TĂNG TRƯỞNG VỮNG CHẮC 
-Trong năm 2024, PNJ tiếp tục duy trì đà tăng trưởng ổn 
-định, thể hiện rõ nét thông qua việc kết hợp hiệu quả 
-giữa tối ưu hóa hoạt động và đẩy mạnh số hóa các 
-quy trình vận hành nội bộ. Nhờ đó, PNJ đã tiết giảm 
-đáng kể chi phí vận hành, ước tính lên đến hàng chục 
-tỷ đồng, đồng thời tiết kiệm hàng trăm nghìn giờ lao 
-động mỗi năm. Việc không ngừng cập nhật và cải tiến 
-hệ thống công nghệ thông tin không chỉ giúp nâng cao 
-hiệu suất vận hành toàn diện mà còn tăng cường khả 
-năng tuân thủ các quy định pháp lý quan trọng của Nhà 
-nước, điển hình như Nghị định 13 và Nghị định 15.
-Ngoài ra, với tinh thần chủ động ứng phó trước các 
-nguy cơ an ninh mạng ngày càng gia tăng, PNJ tiếp tục 
-thực hiện việc gia cố hệ thống công nghệ từ sớm và 
-duy trì trạng thái cảnh giác cao độ. Các hoạt động kiểm 
-tra đánh giá, mô phỏng và xử lý các tình huống an ninh 
-mạng được thực hiện thường xuyên và định kỳ, nhằm 
-đảm bảo một hệ thống vận hành liên tục, ổn định, an 
-toàn và đáng tin cậy, hạn chế tối đa các rủi ro và gián 
-đoạn có thể xảy ra.
-KHÁCH HÀNG
-KIẾN TẠO TƯƠNG LAI
-và phát triển con người
-LÀM GIÀU TÀI NGUYÊN THÔNG QUA
-CHỦ ĐỘNG CHUẨN BỊ CHO TƯƠNG LAI 
-TẦM NHÌN DÀI HẠN VỚI CÔNG NGHỆ
-Tập đoàn luôn xác định khách hàng và nguồn nhân 
-lực là tài sản chiến lược quý giá nhất. Với định hướng 
-lấy khách hàng làm trung tâm, quá trình chuyển đổi số 
-tại PNJ trong năm 2024 đã ưu tiên nâng cấp toàn diện 
-các hệ thống tương tác và hỗ trợ khách hàng, đồng 
-thời bổ sung nhiều công cụ số nhằm tối ưu hóa trải 
-nghiệm của khách hàng và đội ngũ nhân viên trực tiếp 
-giao dịch (front-line). Kết quả từ những cải tiến này đã 
-góp phần thúc đẩy doanh thu tăng trưởng 17,6% so 
-với cùng kỳ, cùng lúc đó cải thiện rõ rệt các chỉ số đo 
-lường mức độ hài lòng của khách hàng (VOC).
-Song song với việc nâng cao trải nghiệm khách hàng, 
-PNJ đặc biệt chú trọng “Khai Phóng” năng lực nội tại 
-thông qua các sáng kiến đổi mới sáng tạo và xây dựng 
-văn hóa làm việc Agile - linh hoạt và hướng đến kết 
-quả. Trong năm vừa qua, tập đoàn đã ghi nhận hàng 
-trăm ý tưởng sáng tạo được đề xuất và triển khai thành 
-công, giúp tiết kiệm hàng ngàn giờ công lao động, tạo 
-ra những tác động rõ nét đối với hoạt động kinh doanh 
-và hiệu suất vận hành.
-Ngoài ra, PNJ cũng tích cực ứng dụng các công 
-nghệ tiên tiến vào phát triển con người, đào tạo nội 
-bộ cùng với nâng cao năng lực đội ngũ kế thừa, 
-đánh giá hiệu quả công việc và quản lý nhân tài, với 
-sự hỗ trợ mạnh mẽ từ trí tuệ nhân tạo (AI). Những 
-giải pháp công nghệ này không chỉ giúp tối ưu hiệu 
-quả quản trị mà còn nâng cao năng lực cạnh tranh 
-dài hạn thông qua việc phát triển đội ngũ nhân lực 
-chất lượng cao, đáp ứng tốt hơn các mục tiêu chiến 
-lược của tập đoàn.
-PNJ xác định rõ AI, Big Data, Robotics và các công 
-nghệ mới nổi khác sẽ là những trụ cột chiến lược quan 
-trọng để tạo ra tăng trưởng đột phá trong tương lai. 
-Trong năm vừa qua, Tập đoàn đã triển khai nhiều ứng 
-dụng AI và bước đầu thí điểm tích hợp công nghệ AIoT 
-vào các quy trình vận hành, qua đó giải quyết hiệu quả 
-các bài toán thực tế trong quản trị và sản xuất. Song 
-song đó, PNJ cũng tập trung xây dựng và chuẩn hóa 
-hệ sinh thái dữ liệu, tăng cường chất lượng dữ liệu 
-nhằm tạo nền tảng vững chắc cho việc mở rộng ứng 
-dụng công nghệ trong tương lai.
-Nhận thức rõ tiềm năng to lớn cũng như các thách 
-thức từ việc ứng dụng AI, với tâm thế “Chiến Binh”, 
-PNJ đang từng bước triển khai một cách chủ động 
-nhưng thận trọng, đảm bảo các giải pháp được áp 
-dụng luôn tuân thủ nghiêm ngặt các chuẩn mực về 
-đạo đức (Ethics) và hiệu quả kinh tế. Mục tiêu chính 
-của Tập đoàn khi đẩy mạnh ứng dụng các công 
-nghệ mới là nhằm tối ưu hóa vận hành, nâng cao 
-hiệu suất kinh doanh, đồng thời cung cấp những trải 
-nghiệm khách hàng vượt trội, cá nhân hóa và khác 
-biệt hơn, qua đó duy trì lợi thế cạnh tranh bền vững 
-cho PNJ trong dài hạn.
-Bước vào năm 2025, PNJ nhận định rằng thị trường 
-vẫn tiếp tục đối mặt với nhiều khó khăn và thách thức 
-lớn, đặc biệt là tình trạng hạn chế trong nguồn cung 
-nguyên vật liệu. Tuy nhiên, với tầm nhìn dài hạn và 
-chiến lược rõ ràng về công nghệ, PNJ tiếp tục cam kết 
-đẩy mạnh các hoạt động ứng dụng trí tuệ nhân tạo (AI) 
-cùng nhiều công nghệ tiên phong khác nhằm tạo ra lợi 
-thế cạnh tranh bền vững cho tương lai.
-Trong giai đoạn 2025 - 2027, PNJ sẽ tăng cường đầu 
-tư mạnh mẽ vào chuyển đổi số với mục tiêu rõ ràng: 
-tối ưu hóa vận hành nội bộ thông qua tự động hóa các 
-quy trình trọng yếu, mang lại những trải nghiệm khách 
-hàng ngày càng cá nhân hóa và khác biệt, đồng thời 
-cải thiện mạnh mẽ chất lượng môi trường làm việc và 
-gia tăng trải nghiệm tích cực cho đội ngũ nhân viên. 
-Các sáng kiến công nghệ sẽ không ngừng được triển 
-khai với tinh thần đổi mới, sáng tạo nhưng luôn đảm 
-bảo cân bằng giữa hiệu quả kinh doanh và chuẩn mực 
-đạo đức (Ethics).
-PNJ tin tưởng rằng, với sự quyết tâm và đồng lòng của 
-toàn bộ tập đoàn, sự phối hợp chặt chẽ giữa các đơn 
-vị nội bộ cũng như với các đối tác bên ngoài, những nỗ 
-lực đổi mới công nghệ sẽ giúp PNJ chủ động vượt qua 
-các thách thức trong năm 2025, duy trì sự tăng trưởng 
-vững chắc và tiếp tục khẳng định vị thế dẫn đầu trong 
-thị trường bán lẻ trang sức tại Việt Nam.
-Nâng cao trải nghiệm
-Đổi mới sáng tạo để
-Dẫn đầu làn sóng
-ỨNG DỤNG
-VƯỢT THÁCH THỨC
-93
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
-CHƯƠNG
-3
-4
-2   
-BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
-
-HOẠT ĐỘNG KIỂM SOÁT  
-TUÂN THỦ  
-THEO QUY ĐỊNH CỦA PHÁP LUẬT 
-PHÒNG PHÁP CHẾ CÓ VAI TRÒ  
-BẢO ĐẢM MỌI HOẠT ĐỘNG QUẢN LÝ VÀ 
-KINH DOANH CỦA PNJ ĐỀU  
-THỰC HIỆN DỰA TRÊN QUY ĐỊNH CỦA 
-PHÁP LUẬT, TỪ ĐÓ GIẢM THIỂU  
-RỦI RO PHÁP LÝ VÀ BẢO VỆ QUYỀN  
-HỢP PHÁP CỦA PNJ. 
-•	 Tham mưu cho HĐQT trong việc xây dựng, sửa 
-đổi và ban hành các văn bản pháp lý quan trọng 
-của Công ty như: (1) Điều lệ, (2) Quy chế hoạt 
-động của HĐQT, (3) Quy chế Quản trị nội bộ 
-Công ty v.v.
-•	 Đảm bảo cho hệ thống kinh doanh hoạt động và 
-tuân thủ theo pháp luật, không để xảy ra bất kỳ 
-thiếu sót nào. Góp phần bảo vệ uy tín và tránh mọi 
-rủi ro pháp lý cho Công ty.
-•	 Bước đầu xây dựng hệ thống pháp chế tại chi nhánh, 
-tạo điều kiện thuận lợi trong việc triển khai các quy 
-định công ty đến cấp chi nhánh, đồng thời hỗ trợ chi 
-nhánh sâu sát về mặt pháp lý trong hoạt động.
-•	 Thực hiện các hoạt động đào tạo, phổ biến kiến thức 
-pháp luật: Triển khai nhiều chương trình/hình thức 
-đào tạo nhằm tăng cường tuân thủ & kỹ năng giao 
-tiếp pháp lý trong toàn hệ thống. Tổng cộng tổ chức 
-18 lớp đào tạo, với hơn 1.000 học viên được đào 
-tạo, giúp các đơn vị liên quan hiểu rõ hơn về pháp 
-lý, giảm thiểu rủi ro trong vận hành. Bên cạnh lớp 
-đào tạo trực tiếp, Phòng cũng tổ chức các hình thức 
-đào tạo trực tuyến khác như: bài kiểm tra đánh giá, 
-cập nhật chính sách pháp luật, các bài viết phân tích 
-pháp lý v.v.
-•	 Hoàn thành dự án cấp tập đoàn như các dự án đầu 
-tư, kinh doanh mới, dự án về phân ủy quyền, dự án 
-về hệ thống hóa giấy phép, dự án về đất đai, mặt 
-bằng... Đội ngũ chuyên nghiệp và tinh thần chiến 
-đấu, trách nhiệm cao, luôn hướng tới kết quả và 
-hiệu quả công việc.
-CÁC HOẠT ĐỘNG TIÊU BIỂU CỦA PHÒNG PHÁP CHẾ NĂM 2024
-•	 Soát xét pháp lý các hợp đồng, giao dịch: 3.880 
-hợp đồng. 
-•	 Thực hiện thủ tục cấp mới, thay đổi GPKD: 95 hồ 
-sơ toàn quốc. 
-•	 Đăng ký xin phép các địa điểm kinh doanh vàng 
-miếng: 76 hồ sơ toàn quốc. 
-•	 Bảo hộ quyền Sở hữu trí truệ: đăng ký bảo hộ các 
-BST mới như BST Trầu Cau vol.2, BST trang sức 
-Kim Bảo; Đăng ký bảo hộ các nhãn hiệu mới, đăng 
-ký gia hạn các nhãn hiệu sắp hết hiệu lực v.v. 
-•	 Xây dựng bộ hợp đồng mẫu: xây dựng mới, sửa 
-đổi bổ sung 13 mẫu HĐ áp dụng cho toàn hệ thống. 
-Hiện đang có tổng cộng 33 Hợp đồng mẫu áp dụng 
-toàn Công ty. 
-•	
-Thực hiện, tham gia các hoạt động tố tụng: tư vấn cho 
-các phòng ban đơn vị và tham gia giải quyết các tranh 
-chấp lao động, tranh chấp thương mại phát sinh. 
-Tham gia tư vấn và bảo vệ quyền lợi cho PNJ trong 
-các vụ án hình sự/dân sự tại cơ quan công an, tòa 
-án..., quyết liệt và kiên trì trong xử lý các vụ án phức 
-tạp. Quyền lợi và uy tín của PNJ được bảo vệ một 
-cách tốt nhất trong môi trường pháp lý đầy thách thức.
-•	 Thực hiện các hoạt động tuân thủ: Tham vấn, chỉnh 
-sửa các quy trình nội bộ Công ty và quy trình làm 
-việc theo đúng quy định pháp luật, đồng thời tối ưu 
-được hiệu suất làm việc.
-•	 Đẩy mạnh công tác ngoại giao với các cơ quan nhà 
-nước ban ngành. 
-•	 Tham gia các khóa học, hội thảo cập nhật và nâng 
-cao kiến thức chuyên môn của Phòng Pháp chế.
-CÁC HOẠT ĐỘNG THƯỜNG XUYÊN 
-95
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
-CHƯƠNG
-3
-4
-2   
-BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5
-
-Trong năm 2024, PNJ không chỉ cam kết tuân thủ pháp 
-luật về bảo vệ môi trường trong mọi hoạt động sản xuất - 
-kinh doanh, duy trì hệ thống quản lý môi trường theo tiêu 
-chuẩn ISO 14001:2015, mà còn có các sáng kiến hiệu 
-quả nhằm giảm thiểu tác động môi trường, sử dụng hiệu 
-quả nguồn tài nguyên và hướng đến mô hình kinh tế 
-tuần hoàn. Công ty đã không để xảy ra bất kỳ hoạt động 
-vi phạm hay bị xử phạt ở bất kỳ điểm nào trong khía 
-cạnh tuân thủ luật pháp và các quy định về môi trường, 
-và tự hào khi được vinh danh trong rất nhiều hạng mục 
-quan trọng về phát triển bền vững, thực hành tốt ESG. 
-KIỂM KÊ KHÍ NHÀ KÍNH
-PNJ tiếp tục thực hiện kiểm kê phát thải khí nhà kính tại 
-tất cả các nhà máy, văn phòng và cửa hàng bán lẻ theo 
-tiêu chuẩn quốc tế. Việc đo lường và báo cáo định kỳ giúp 
-công ty xác định rõ nguồn phát thải, từ đó xây dựng lộ 
-trình giảm phát thải phù hợp. 
-Kết quả kiểm kê năm 2024 ghi nhận tổng lượng phát thải 
-toàn tập đoàn là 18.308 tCO₂e, tăng 5% so với năm 2023 
-- mức tăng được kiểm soát trong bối cảnh mở rộng quy 
-mô hoạt động kinh doanh đáng kể. Đáng chú ý, phát thải 
-Phạm vi 1 (phát thải trực tiếp) ở mức 1.397 tCO₂e giảm 
-108 tCO₂e so với cùng kỳ năm trước đó.
-Thông qua việc tối ưu hóa hệ thống sản xuất, sử dụng 
-năng lượng hiệu quả và tăng cường áp dụng các giải 
-pháp xanh, PNJ hướng đến việc giảm thiểu phát thải khí 
-nhà kính trong mọi hoạt động. Công ty cũng đẩy mạnh 
-nghiên cứu các công nghệ tiên tiến nhằm cắt giảm lượng 
-khí thải, đồng thời khuyến khích chuỗi cung ứng và đối 
-tác cùng tham gia vào hành trình giảm phát thải. 
-TIẾT KIỆM NĂNG LƯỢNG
-PNJ đẩy mạnh việc triển khai và nhân rộng các giải 
-pháp tối ưu năng lượng, giảm thiểu tác động đến môi 
-trường, đồng thời nâng cao hiệu suất sử dụng năng 
-lượng trong toàn bộ hệ thống. Năm 2024 lượng điện 
-bình quân cho 1 sản phẩm giảm từ 1,33 kwh/1 sp của 
-năm 2023 còn 1,28 kwh/1 sp. 
-ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH 
-VỀ VẤN ĐỀ MÔI TRƯỜNG 
-PNJ, VỚI GẦN 37 NĂM LỊCH SỬ PHÁT TRIỂN VÀ LÀ  
-DOANH NGHIỆP NIÊM YẾT TRÊN HOSE, LUÔN KIÊN ĐỊNH TRONG  
-CAM KẾT BẢO VỆ MÔI TRƯỜNG - KHẲNG ĐỊNH TRÁCH NHIỆM CỦA 
-DOANH NGHIỆP ĐỐI VỚI MÔI TRƯỜNG, CỘNG ĐỒNG VÀ XÃ HỘI.
-GIẢM
-108
-Tấn CO₂ phạm vi 1
-So với năm 2023
-QUẢN LÝ CHẤT THẢI TOÀN DIỆN  
-VÀ GIẢM THIỂU RÁC THẢI, GIẢM THIỂU TÁC 
-ĐỘNG ĐẾN MÔI TRƯỜNG
-PNJ đã tích cực thực hiện các biện pháp phân loại rác 
-tại nguồn, nâng cao nhận thức và cải thiện quy trình 
-quản lý chất thải trong toàn bộ hoạt động sản xuất 
-và kinh doanh. Không chỉ dừng lại ở việc phân loại, 
-công ty còn triển khai nhiều sáng kiến nhằm giảm thiểu 
-lượng rác thải phát sinh, góp phần bảo vệ môi trường 
-và tối ưu hóa tài nguyên, năm 2024 khối lương rác thải 
-nguy hại được tái chế tăng từ 4% của năm 2023 lên 
-7%, đồng thời duy trì khối lượng tái chế rác thải không 
-nguy hại ở mức trên 95%. 
-TÁI SINH NGUỒN NƯỚC
-Một trong những bước tiến quan trọng của PNJ trong 
-năm qua là việc tăng cường tái sử dụng nước trong sản 
-xuất. Bằng việc cải tiến công nghệ và áp dụng các giải 
-pháp tiết kiệm nước, công ty đã từng bước nâng cao 
-tỷ lệ nước tuần hoàn từ 16% lên 34%, hướng đến mô 
-hình sản xuất bền vững hơn.
-Bằng những nỗ lực liên tục, PNJ không chỉ khẳng định 
-cam kết mạnh mẽ với sự phát triển bền vững mà còn 
-từng bước đóng góp vào sự thịnh vượng chung, tạo 
-nên những giá trị bền vững và lâu dài cho cộng đồng, 
-xã hội và nền kinh tế.  
-Tiếp tục hoàn thiện và nâng cao  
-các mục tiêu phát triển bền vững, 
-bám sát định hướng chiến lược  
-đã đề ra. 
-Năm 2025, Ban điều hành PNJ cam kết
-16% 34%
-TỶ LỆ
-NƯỚC TUẦN HOÀN
-TỪ
-lên
-97
-BÁO CÁO THƯỜNG NIÊN PNJ 2024
-1
-CHƯƠNG
-3
-4
-2   
-BÁO CÁO CỦA BAN ĐIỀU HÀNH
-5

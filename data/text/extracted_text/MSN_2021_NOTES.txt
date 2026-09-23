@@ -1,0 +1,1231 @@
+Trong các trường hợp có thể chứng minh một cách rõ
+ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế
+trong tương lai dự tính thu được từ bất động sản đầu tư
+cho thuê vượt trên mức hoạt động tiêu chuẩn theo như
+đánh giá ban đầu, thì các chi phí này được vốn hóa như
+một khoản nguyên giá tăng thêm của bất động sản đầu
+tư cho thuê.
+Khấu hao
+Khấu hao được tính theo phương pháp đường thẳng dựa
+trên thời gian hữu dụng ước tính của bất động sản đầu tư.
+Quyền sử dụng đất lâu dài không được khấu hao. Thời gian
+hữu dụng ước tính của nhà cửa và cơ sở hạ tầng như sau:
+Nhà cửa
+Cơ sở hạ tầng
+Xây dựng cơ bản dở dang
+Xây dựng cơ bản dở dang phản ánh các khoản chi cho
+heo giống, xây dựng hoặc triển khai tài sản cố định hữu
+hình và tài sản cố định vô hình chưa được hoàn thành
+hoặc chưa lắp đặt xong và tài sản khoáng sản đang trong
+quá trình phát triển. Không tính khấu hao cho xây dựng
+cơ bản dở dang trong quá trình nuôi heo giống, trong quá
+trình xây dựng, lắp đặt và thử nghiệm.
+Tài sản khoáng sản chưa khai thác bao gồm giá trị hợp lý
+của trữ lượng khoáng sản và các chi phí triển khai liên
+quan có được từ hợp nhất kinh doanh và các chi phí triển
+khai phát sinh sau này. Những tài sản này đủ điều kiện để
+được vốn hóa khi trữ lượng khoáng sản liên quan đã được
+chứng minh là có tính khả thi về lợi ích kinh tế và kỹ thuật.
+Những tài sản này ban đầu được ghi nhận theo giá trị hợp
+lý như một phần của giao dịch hợp nhất kinh doanh và các
+chi phí triển khai liên quan đến việc khai thác sau đó sẽ
+được vốn hóa sau khi cấn trừ với tiền thu được từ việc bán
+khoáng sản khai thác trong giai đoạn triển khai.  Sau khi
+hoàn tất công tác triển khai, được xác định là khi sản phẩm
+có thể bán bắt đầu được khai thác từ mỏ, tất cả các tài sản
+này được phân loại thành “máy móc và thiết bị” hoặc “tài
+sản khai khoáng khác” trong tài sản cố định hữu hình hoặc
+chi phí trả trước dài hạn.
+Chi phí trả trước dài hạn
+Chi phí khai thác khoáng sản khác
+Căn cứ hướng dẫn tại Công văn số 12727/BTC-TCDN ngày
+14 tháng 9 năm 2015 của Bộ Tài chính về việc ghi nhận các
+chi phí liên quan đến hoạt động khai thác khoáng sản là
+chi phí trả trước dài hạn thuộc tài sản dài hạn.
+Chi phí khai thác khoáng sản khác bao gồm:
+Chi phí thăm dò, đánh giá và phát triển mỏ (bao gồm
+chi phí bóc đất đá phát triển mỏ); và
+Chi phí bóc đất đá trong quá trình sản xuất (như được
+nêu dưới đây trong phần “Chi phí bóc đất đá chờ
+phân bổ”)
+Chi phí bóc đất đá chờ phân bổ
+Hoạt động khai thác mỏ lộ thiên đòi hỏi phải bóc lớp đất
+đá phủ bên trên và các loại phế liệu khác để tiếp cận thân
+quặng cần khai thác. Chi phí bóc đất đá phát sinh trong
+quá trình phát triển mỏ (chi phí bóc đất đá phát triển mỏ)
+được ghi nhận vào chi phí xây dựng mỏ. Toàn bộ chi phí bóc
+đất đá phát triển mỏ phát sinh trong giai đoạn xây dựng
+được kết chuyển vào chi phí khai thác khoáng sản khác.
+Chi phí loại bỏ đất đá trong giai đoạn sản xuất của mỏ (chi
+phí bóc đất đá trong quá trình sản xuất) được giữ lại chờ
+phân bổ khi chi phí này làm phát sinh lợi ích trong tương lai:
+a)  Khi Tập đoàn chắc chắn thu được lợi ích kinh tế trong
+tương lai;
+b)  Khi có thể xác định được thành phần của phần thân
+quặng mà khả năng tiếp cận đã được cải thiện; và
+c)  Khi các chi phí phát sinh có thể được tính toán được
+một cách đáng tin cậy.
+Chi phí bóc đất đá trong quá trình sản xuất được phân bổ
+giữa hàng tồn kho và chi phí trả trước dài hạn dựa trên tỷ
+lệ bóc đất đá trong vòng đời mỏ của các thành phần xác
+định được của thân quặng.
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Thuyết minh báo cáo
+tài chính hợp nhất
+Tỷ lệ bóc đất đá trong vòng đời của mỏ là tỷ lệ giữa tổng
+lượng đất đá và phế liệu ước tính phải bóc trên tổng lượng
+quặng ước tính có thể thu hồi được lợi ích kinh tế trong
+suốt vòng đời mỏ của các thành phần xác định được của
+thân quặng. Chi phí bóc đất đá trong quá trình sản xuất
+được ghi nhận thành chi phí trả trước dài hạn khi tỷ lệ bóc
+đất đá thực tế của kỳ hiện tại cao hơn tỷ lệ bóc đất đá
+trung bình trong vòng đời của mỏ.
+Chi phí bóc đất đá trong quá trình phát triển mỏ và sản
+xuất được phân bổ một cách có hệ thống dựa trên trữ
+lượng khoáng sản và tài nguyên dự kiến có thể chuyển đổi
+thành trữ lượng khoáng sản của các thành phần của phần
+thân quặng có liên quan. Trong năm, NPM, một công ty
+con sở hữu gián tiếp của Công ty, đã cập nhật ước tính về
+trữ lượng và tài nguyên khoáng sản làm cơ sở để tính toán
+và khấu hao chi phí bóc đất đá trong quá trình phát triển
+mỏ và sản xuất. Sự thay đổi ước tính được dựa trên kết quả
+đánh giá kỹ thuật của chuyên gia khai thác về trữ lượng
+khoáng sản trong khu vực Dự án Núi Pháo và phần tài
+nguyên dự kiến có thể chuyển đổi thành trữ lượng khoáng
+sản như được trình bày tại Thuyết minh 3(g)(ii). Ảnh hưởng
+của sự thay đổi này trong năm hiện tại là làm giảm 8.799
+triệu VND chi phí phân bổ.
+Chi phí đất trả trước
+Chi phí đất trả trước bao gồm tiền thuê đất trả trước, kể cả
+các khoản liên quan đến đất thuê mà Tập đoàn đã nhận
+được giấy chứng nhận quyền sử dụng đất nhưng không
+đủ điều kiện ghi nhận là tài sản cố định vô hình theo quy
+định và pháp luật hiện hành, và các chi phí phát sinh khác
+liên quan đến việc bảo đảm cho việc sử dụng đất thuê.
+Các chi phí này được ghi nhận vào báo cáo kết quả hoạt
+động kinh doanh hợp nhất theo phương pháp đường
+thẳng dựa trên thời hạn của hợp đồng thuê đất là từ 35
+năm đến 50 năm.
+Chi phí bồi thường đất
+Chi phí bồi thường đất bao gồm các chi phí phát sinh liên
+quan đến việc bảo đảm cho việc sử dụng đất thuê. Các chi
+phí này được ghi nhận vào báo cáo kết quả hoạt động
+kinh doanh hợp nhất theo phương pháp đường thẳng
+dựa trên thời hạn của hợp đồng thuê đất.
+Trục in, công cụ và dụng cụ
+Công cụ và dụng cụ bao gồm các tài sản Tập đoàn nắm
+giữ để sử dụng trong quá trình hoạt động kinh doanh bình
+thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu
+VND và do đó không đủ điều kiện ghi nhận là tài sản cố
+định theo quy định hiện hành.
+Trục in, công cụ và dụng cụ được phản ánh theo nguyên
+giá và được phân bổ theo phương pháp đường thẳng dựa
+trên thời hạn sử dụng là từ trên 1 năm đến 3 năm.
+Lợi thế kinh doanh từ cổ phần hóa
+Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa doanh
+nghiệp nhà nước được ghi nhận là chi phí trả trước dài
+hạn. Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa
+doanh nghiệp nhà nước bao gồm giá trị thương hiệu và
+giá trị tiềm năng phát triển. Giá trị thương hiệu được xác
+định trên cơ sở các chi phí thực tế cho việc tạo dựng và
+bảo vệ nhãn hiệu, tên thương mại trong quá trình hoạt
+động của doanh nghiệp trước thời điểm xác định giá trị
+doanh nghiệp 5 năm (bao gồm chi phí thành lập doanh
+nghiệp, chi phí đào tạo nhân viên, chi phí quảng cáo,
+tuyên truyền để quảng bá, giới thiệu sản phẩm, giới thiệu
+công ty, xây dựng trang web). Giá trị tiềm năng phát triển
+được đánh giá trên cơ sở khả năng sinh lời của doanh
+nghiệp trong tương lai khi so sánh tỷ suất lợi nhuận của
+doanh nghiệp với lãi suất trái phiếu Chính phủ có kỳ hạn 5
+năm. Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa
+doanh nghiệp nhà nước được phân bổ theo phương pháp
+đường thẳng trong 10 năm kể từ khi doanh nghiệp chính
+thức chuyển thành công ty cổ phần (được cấp giấy chứng
+nhận đăng ký kinh doanh công ty cổ phần lần đầu).
+Heo giống
+Heo giống được ghi nhận là chi phí trả trước dài hạn và
+được phân bổ theo phương pháp đường thẳng trong thời
+gian sử dụng ước tính từ trên 1 năm đến 3 năm. Chi phí
+phân bổ heo giống có liên quan trực tiếp đến việc chăn
+nuôi heo thịt trong sản xuất kinh doanh dở dang được vốn
+hóa vào giá gốc của chi phí sản xuất kinh doanh dở dang.
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+tuổi tác, số năm làm việc và lương thưởng tại thời điểm
+nghỉ hưu. Dự phòng phải trả cho quỹ với mức trợ cấp xác
+định được xác định bằng giá trị hiện tại của nghĩa vụ với
+mức trợ cấp xác định tại ngày kết thúc kỳ kế toán năm.
+Nghĩa vụ với mức trợ cấp xác định được tính toán hàng
+năm bởi các chuyên gia độc lập. Giá trị hiện tại của nghĩa
+vụ với mức trợ cấp xác định được ước tính bằng cách chiết
+khấu dòng tiền phải trả ước tính trong tương lai sử dụng
+lãi suất của trái phiếu doanh nghiệp chất lượng cao AA với
+thời hạn tương tự thời hạn phải trả các khoản trợ cấp này,
+thể hiện bằng đơn vị tiền tệ mà khoản trợ cấp sẽ được
+thanh toán.  Việc xác định nghĩa vụ với mức trợ cấp xác
+định còn bao gồm ước tính dòng tiền tương lai, tỷ lệ nghỉ
+việc của nhân viên, tỷ lệ tử vong và tỷ lệ tăng lương trong
+tương lai.
+Tái đánh giá nợ phải trả phúc lợi hưu trí, bao gồm chênh
+lệch tăng giảm do định giá thống kê và thuế thu nhập
+hoãn lại liên quan, được ghi nhận trong chỉ tiêu “Quỹ khác
+thuộc vốn chủ sở hữu” theo một công văn trả lời của Bộ
+Tài chính.
+Trái phiếu phát hành
+Trái phiếu thường
+Tại thời điểm ghi nhận ban đầu, trái phiếu thường được
+xác định theo giá gốc bao gồm khoản tiền thu được từ
+việc phát hành trái phiếu trừ đi chi phí phát hành.  Các
+khoản chiết khấu, phụ trội và chi phí phát hành được
+phân bổ dần theo phương pháp đường thẳng trong suốt
+kỳ hạn của trái phiếu.
+Thuế
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ
+của năm bao gồm thuế thu nhập hiện hành và thuế thu
+nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi
+nhận trong báo cáo kết quả hoạt động kinh doanh hợp
+nhất ngoại trừ trường hợp có các khoản thuế thu nhập
+liên quan đến các khoản mục được ghi nhận thẳng vào
+vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng
+được ghi nhận thẳng vào vốn chủ sở hữu.
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp
+dựa trên thu nhập chịu thuế trong năm, sử dụng các mức
+thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và
+các khoản điều chỉnh thuế phải nộp liên quan đến những
+năm trước.
+Thuế thu nhập hoãn lại được tính theo phương pháp
+bảng cân đối kế toán cho các chênh lệch tạm thời giữa giá
+cho mục đích tính thuế của các khoản mục tài sản và nợ
+phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận
+dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị
+ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng
+các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại
+ngày kết thúc kỳ kế toán năm.
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong
+phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương
+lai để các chênh lệch tạm thời này có thể sử dụng được.
+Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm
+vi không còn chắc chắn là các lợi ích về thuế liên quan này
+sẽ sử dụng được.
+Vốn chủ sở hữu
+Vốn cổ phần và thặng dư vốn cổ phần
+Vốn cổ phần được ghi nhận theo mệnh giá. Phần chênh
+lệch giữa giá phát hành cổ phiếu cao hơn mệnh giá được
+ghi nhận vào thặng dư vốn cổ phần. Các chi phí phát sinh
+liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh
+hưởng thuế, được ghi giảm vào thặng dư vốn cổ phần.
+Vốn khác của chủ sở hữu
+Các thỏa thuận phát hành một số lượng cổ phiếu nhất
+định vào thời điểm ấn định trong tương lai, được ghi nhận
+dựa trên giá trị hợp lý tại ngày của các thỏa thuận và được
+ghi nhận vào vốn khác của chủ sở hữu nếu không tồn tại
+các thỏa thuận thay thế nào khác.
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Thuyết minh báo cáo
+tài chính hợp nhất
+Doanh thu
+Doanh thu bán hàng
+Doanh thu bán hàng được ghi nhận trong báo cáo kết
+quả hoạt động kinh doanh hợp nhất khi phần lớn rủi ro và
+lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá
+được chuyển giao cho người mua.
+Đối với doanh thu bán khoáng sản, giá bán thường được
+xác định sơ bộ tại ngày ghi nhận doanh thu. Ngày điều
+chỉnh giá bán phát sinh sau đó dựa trên biến động giá
+niêm yết trên thị trường hoặc giá theo hợp đồng cho đến
+ngày định giá chính thức. Khoảng thời gian giữa thời điểm
+ghi nhận doanh thu sơ bộ và thời điểm định giá chính
+thức thường là từ 30 ngày đến 60 ngày, tuy nhiên một số
+trường hợp có thể lên đến 90 ngày đến 180 ngày. Doanh
+thu ghi nhận sơ bộ được ghi nhận dựa trên giá trị hợp lý
+ước tính của tổng giá trị các khoản phải thu. Trong trường
+hợp các điều kiện trong hợp đồng mua bán cho phép
+điều chỉnh giá bán dựa trên kết quả khảo sát hàng hóa
+của khách hàng, kết quả phân tích được lập bởi một bên
+thứ ba sẽ được sử dụng, trừ khi kết quả khảo sát của
+khách hàng nằm trong phạm vi sai số đã được quy định
+trong hợp đồng, khi đó doanh thu được ghi nhận dựa trên
+bản phân tích chất lượng sản phẩm gần nhất.
+Doanh thu không được ghi nhận nếu như có những yếu
+tố không chắc chắn trọng yếu liên quan tới khả năng thu
+hồi các khoản phải thu hoặc liên quan tới khả năng hàng
+bán bị trả lại. Doanh thu bán hàng được ghi nhận theo giá
+trị thuần sau khi trừ đi chiết khấu giảm giá ghi trên hóa
+đơn bán hàng.
+Doanh thu cung cấp dịch vụ
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo
+kết quả hoạt động kinh doanh hợp nhất theo tỷ lệ phần
+trăm hoàn thành của giao dịch.  Tỷ lệ phần trăm hoàn
+thành công việc được đánh giá dựa trên khảo sát các
+công việc đã được thực hiện. Doanh thu không được ghi
+nhận nếu như có những yếu tố không chắc chắn trọng
+yếu liên quan tới khả năng thu hồi các khoản phải thu.
+Doanh thu hoạt động tài chính và chi phí tài chính
+Doanh thu hoạt động tài chính
+Doanh thu hoạt động tài chính bao gồm thu nhập lãi tiền
+gửi, lãi trái phiếu, lãi cho vay, lãi từ thanh lý các khoản đầu
+tư và lãi chênh lệch tỷ giá hối đoái. Thu nhập lãi được ghi
+nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc
+và lãi suất áp dụng.
+Chi phí tài chính
+Chi phí tài chính bao gồm chi phí lãi vay từ các khoản vay
+và trái phiếu phát hành, chi phí phát hành trái phiếu và
+thu xếp khoản vay (gọi chung là “chi phí đi vay), lỗ chênh
+lệch tỷ giá hối đoái và lỗ từ thanh lý các khoản đầu tư. Chi
+phí đi vay được ghi nhận là chi phí trong năm khi chi phí
+này phát sinh, ngoại trừ trường hợp chi phí đi vay liên
+quan đến các khoản vay cho mục đích hình thành tài sản
+đủ điều kiện vốn hóa chi phí đi vay thì khi đó chi phí đi vay
+phát sinh trong thời gian hình thành tài sản sẽ được vốn
+hóa và ghi vào nguyên giá các tài sản này.
+Thuê tài sản
+Tài sản thuê
+Các hợp đồng thuê được phân loại là thuê tài chính nếu
+theo các điều khoản của hợp đồng, Tập đoàn, với tư cách là
+bên đi thuê, đã nhận phần lớn rủi ro và lợi ích gắn liền với
+quyền sở hữu. Tài sản cố định hữu hình dưới hình thức
+thuê tài chính được thể hiện bằng số tiền tương đương với
+số thấp hơn giữa giá trị hợp lý của tài sản cố định và giá trị
+hiện tại của các khoản tiền thuê tối thiểu, tính tại thời điểm
+bắt đầu thuê, trừ đi giá trị hao mòn lũy kế.
+Khấu hao của tài sản thuê tài chính được hạch toán theo
+phương pháp đường thẳng dựa trên thời gian ngắn hơn
+giữa thời hạn thuê và thời gian hữu dụng ước tính của tài
+sản thuê tài chính trừ khi chắc chắn là Tập đoàn sẽ có
+quyền sở hữu tài sản khi hết hạn hợp đồng thuê. Thời gian
+hữu dụng ước tính của tài sản thuê tài chính nhất quán
+với tài sản cố định hữu hình được nêu trong phần chính
+sách kế toán 3(g).
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Bộ phận theo khu vực địa lý
+Dựa trên thông tin về vị trí địa lý của khách hàng và tài sản là ở Việt Nam (“Trong nước”) hay ở các nước khác ngoài Việt Nam
+(“Nước ngoài”), Tập đoàn nắm giữ các bộ phận theo khu vực địa lý sau đây thông qua từng nhóm công ty con:
+Trong nước
+Nước ngoài
+Tổng
+Doanh thu của bộ phận
+Chi tiêu vốn
+Tài sản của bộ phận
+Trong nước
+Nước ngoài
+Tổng
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+HỢP NHẤT KINH DOANH
+Công ty Cổ phần Mobicast (“MOB”)
+Vào ngày 1 tháng 9 năm 2021, SHERPA, một công ty con sở hữu trực tiếp của Công ty, đã mua 70,0% vốn cổ phần của Công ty Cổ
+phần Mobicast (“MOB”), một nhà cung cấp dịch vụ viễn thông trong nước, với tổng giá trị bao gồm chi phí giao dịch là 297.025
+triệu VND. Sau giao dịch này, MOB trở thành một công ty con sở hữu gián tiếp của Công ty.
+Việc hợp nhất kinh doanh có ảnh hưởng đến báo cáo tài chính hợp nhất của Tập đoàn tại ngày mua như sau:
+Giá trị ghi sổ trước
+thời điểm mua
+Các điều chỉnh
+giá trị hợp lý
+Giá trị ghi nhận tại
+thời điểm mua
+Tiền và các khoản tương đương tiền
+Phải thu của khách hàng ngắn hạn
+Trả trước cho người bán
+Tài sản ngắn hạn khác
+Tài sản cố định vô hình – thuần
+Xây dựng cơ bản dở dang
+Tài sản dài hạn khác
+Phải trả cho người bán ngắn hạn
+Vay ngắn hạn
+Nợ ngắn hạn khác
+Thuế thu nhập hoãn lại phải trả
+Tài sản và nợ phải trả thuần có thể xác định được
+Tài sản thuần được hợp nhất
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh (Thuyết minh 17)
+Giá phí hợp nhất kinh doanh
+Tiền và các khoản tương đương tiền thu từ hợp nhất kinh doanh
+Dòng tiền thu thuần
+Trong giai đoạn từ ngày mua đến ngày 31 tháng 12 năm 2021, hoạt động kinh doanh được mua lại đã đóng góp 1.407 triệu VND
+doanh thu và 27.494 triệu VND lỗ thuần vào kết quả hoạt động kinh doanh hợp nhất của Tập đoàn.
+Masan Group
+
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Tiền mặt
+Tiền gửi ngân hàng
+Tiền đang chuyển
+Các khoản tương đương tiền
+Tiền và các khoản tương đương tiền trong báo cáo lưu
+chuyển tiền tệ hợp nhất
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn tại ngân hàng với kỳ hạn gốc không quá ba tháng kể từ
+ngày giao dịch.
+Tại ngày 31 tháng 12 năm 2021, tiền gửi ngân hàng với giá trị ghi sổ là 81.527 triệu VND (1/1/2021: 115.396 triệu VND) được thế chấp
+tại ngân hàng để đảm bảo cho khoản vay của Tập đoàn (Thuyết minh 21(a)).
+Đầu tư tài chính ngắn hạn
+Đầu tư nắm giữ đến ngày đáo hạn (a)
+Đầu tư tài chính dài hạn
+Đầu tư vào các công ty liên kết (b)
+Đầu tư góp vốn vào các đơn vị khác
+Dự phòng giảm giá đầu tư tài chính dài hạn
+Đầu tư nắm giữ đến ngày đáo hạn
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Đầu tư nắm giữ đến ngày đáo hạn
+Đầu tư nắm giữ đến ngày đáo hạn ngắn hạn bao gồm tiền gửi ngân hàng có kỳ hạn bằng VND với kỳ hạn gốc từ trên ba tháng
+đến dưới mười hai tháng kể từ ngày giao dịch. Tại ngày 31 tháng 12 năm 2021, các khoản tiền gửi có kỳ hạn với giá trị ghi sổ là
+44.728 triệu VND được thế chấp tại ngân hàng để bảo đảm cho các khoản vay của Công ty (Thuyết minh 21(b)).
+Đầu tư vào các công ty liên kết
+Giá trị ghi sổ
+theo phương
+pháp vốn chủ
+sở hữu
+Tỷ lệ
+sở hữu
+trên vốn
+cổ phần
+Giá trị
+hợp lý
+Ngân hàng Thương mại
+Cổ phần Kỹ thương Việt
+Nam (“Techcombank”) (**)
+Công ty Cổ phần Thực
+phẩm Cholimex
+(“Cholimex”)
+Công ty Cổ phần Việt Nam
+Kỹ nghệ Súc sản (“Vissan”)
+Jiangwu H.C. Starck
+Tungsten Products Co.,
+Ltd. (“Jiangwu”)
+Công ty Cổ phần Phúc
+Long Heritage (“Phúc
+Long Heritage”)
+Công ty Cổ phần Bao bì
+Thuận Phát (“Thuận Phát”)
+Công ty Cổ phần Chế biến
+Súc sản Long Bình
+(“Abattoir”)
+Tỷ lệ
+sở hữu
+trên vốn
+cổ phần
+Tỷ lệ quyền
+biểu quyết
+trên vốn
+cổ phần
+Giá trị ghi sổ
+theo phương
+pháp vốn chủ
+sở hữu
+Tỷ lệ quyền
+biểu quyết
+trên vốn
+cổ phần
+Giá trị
+hợp lý
+Masan Group
+
+Các giao dịch với cổ đông không kiểm soát trong Công ty Phát triển Thương mại và Dịch vụ VCM (“WCM”)
+Lợi ích kinh tế của Công ty trong WCM giảm từ 80,1% xuống 68,6% do kết quả của các giao dịch sau:
+Trong tháng 4 năm 2021, SHERPA mua lại 1,2% vốn cổ phần trong WCM;
+Sau đó, trong tháng 4 năm 2021, SHERPA chuyển nhượng toàn bộ vốn cổ phần (10,2%) trong WCM.
+Trong tháng 6 năm 2021, WCM đã phát hành 8.752.760 cổ phiếu phổ thông, tương đương 1,3% vốn cổ phần cho CrownX với
+tổng số tiền thanh toán là 789.998 triệu VND;
+Trong tháng 12 năm 2021, WCM đã phát hành 3.907.798 cổ phiếu phổ thông, tương đương 0,6% vốn cổ phần cho CrownX với
+tổng số tiền thanh toán là 352.706 triệu VND; và
+Giao dịch với các cổ đông không kiểm soát trong CrownX được đề cập trong Thuyết minh 8(c)(i).
+Các giao dịch trên dẫn đến lợi nhuận sau thuế chưa phân phối của Tập đoàn tăng 4.379.101 triệu VND.
+Các giao dịch trọng yếu với cổ đông không kiểm soát trong các công ty con trong các năm trước
+Giao dịch với cổ đông không kiểm soát trong Công ty Cổ phần Masan High-Tech Materials (“MHT”)
+Căn cứ vào thỏa thuận giữa Mitsubishi Materials Corporation (“MMC”) và MHT, MHT đã cấp cho MMC một quyền chọn bán.
+Trong trường hợp (i) MHT và MMC (hoặc công ty liên kết của họ) không thiết lập được nền tảng vận hành chung cho mảng kinh
+doanh vonfram cận sâu trong vòng 18 tháng từ ngày kết thúc giao dịch này hoặc (ii) khi có sự thay đổi về quyền kiểm soát trong
+MHT, MMC sẽ có quyền không thể hủy ngang để yêu cầu MHT hoặc bên được chỉ định mua toàn bộ 109.915.542 cổ phiếu của
+MHT đã phát hành vào ngày 26 tháng 10 năm 2020 với tổng khoản thanh toán tương đương với giá phát hành là 2.094.331 triệu
+VND trừ đi tổng số tiền mà MMC nhận được từ việc chuyển nhượng cổ phiếu của MHT, cổ tức và bồi hoàn từ MHT, và có thể
+điều chỉnh cho các sự kiện suy giảm vốn chủ sở hữu. Thời hạn hoàn thành quyền chọn bán là 18 tháng kể từ ngày MHT nhận
+được thông báo thực hiện quyền chọn bán từ MMC. Quyền chọn bán được thực hiện phụ thuộc vào sự phê duyệt của Hội đồng
+Quản trị, cổ đông và cơ quan quản lý Việt Nam. Quyền chọn bán chưa được thực hiện tại ngày phát hành báo cáo tài chính hợp
+nhất này.
+CÁC KHOẢN PHẢI THU NGẮN HẠN VÀ DÀI HẠN
+Tại ngày 31 tháng 12 năm 2021 và ngày 1 tháng 1 năm 2021, một phần của khoản phải thu ngắn hạn được thế chấp tại ngân hàng
+để đảm bảo cho các khoản vay của một công ty con (Thuyết minh 21).
+Tại ngày 31 tháng 12 năm 2021, trong khoản trả trước cho người bán của Tập đoàn bao gồm 452.976 triệu VND (1/1/2021: 344.157
+triệu VND) liên quan đến khoản trả trước mua tài sản cố định.
+Phải thu về cho vay ngắn hạn
+Các khoản vay ngắn hạn cấp cho các bên thứ ba không được đảm bảo, hưởng lãi suất năm là 6,5% và đáo hạn trong năm 2022
+Phải thu về cho vay dài hạn
+Các khoản vay dài hạn cấp cho cổ đông sáng lập đồng thời là thành viên quản lý chủ chốt của một công ty con được bảo đảm bởi
+7.170.640 cổ phần của cổ đông Công ty Cổ phần Mobicast, hưởng lãi suất năm là 12% và đáo hạn vào ngày 31 tháng 10 năm 2024.
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Phải thu khác
+Phải thu khác bao gồm:
+Phải thu ngắn hạn khác
+Phải thu từ thanh lý trái phiếu hoán đổi (****)
+Ký quỹ, ký cược ngắn hạn (*)
+Lãi phải thu
+Tạm ứng cho nhân viên
+Phải thu khác (**)
+Phải thu dài hạn khác
+Ký quỹ, ký cược dài hạn
+Phải thu khác (***)
+Tại ngày 1 tháng 1 năm 2021, ký cược, ký quỹ ngắn hạn bao gồm 2.750.000 triệu VND liên quan đến khoản đặt cọc cho bên thứ
+ba để đầu tư.
+Trong khoản phải thu ngắn hạn khác bao gồm 241.979 triệu VND phải thu liên quan đến tiền cấp quyền khai thác khoáng sản của dự án
+khai thác mỏ Núi Pháo (1/1/2021: 239.835 triệu VND). Phải thu tiền cấp quyền khai thác khoáng sản (“TCQKTKS”) thể hiện tiền cấp quyền khai
+thác khoáng sản bổ sung của Công ty TNHH Khai thác Chế biến khoáng sản Núi Pháo (“NPM”) – một công ty con sở hữu gián tiếp của Công
+ty cho năm 2018 và 2019 và phí hành chính liên quan mà NPM đã trả cho cơ quan có thẩm quyền dựa trên tính toán tạm thời của Tổng
+cục Địa chất và Khoáng sản Việt Nam (“TCĐCKSVN”) theo Công văn số 3724/ĐCKS-KTĐCKS ngày 28 tháng 12 năm 2018 (“Công văn 3724”).
+NPM không đồng ý với khoản tiền bổ sung này và cơ sở của Công văn 3724 vì Ban Giám đốc của NPM cho rằng công văn này là
+không hợp lý và không theo đúng quy định hiện hành, bởi vì:
+Giá được sử dụng để tính phí cấp quyền khai thác khoáng sản (hay tiền cấp quyền khai thác khoáng sản) (“Giá tính TCQKTKS”)
+được dựa trên giá tính thuế tài nguyên. Theo quy định tại Nghị định số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính
+phủ và hướng dẫn tại Thông tư số 152/2015/TT-BTC ngày 2 tháng 10 năm 2015 của Bộ Tài chính về thuế tài nguyên, nếu doanh
+nghiệp khai thác tài nguyên không bán ra mà phải qua chế biến, sản xuất, giá tài nguyên sẽ không bao gồm chi phí chế biến
+với điều kiện là giá đó phải nằm trong bảng giá tính thuế do Ủy ban Nhân dân Tỉnh quy định. Sản phẩm của NPM là sản phẩm
+công nghiệp mà giá để tính thuế tài nguyên được xác định theo giá cao hơn giữa giá bán trừ (-) chi phí chế biến và giá tính
+thuế do Ủy ban Nhân dân Tỉnh quy định. TCĐCKSVN đã không sử dụng giá tính thuế được áp dụng cho sản phẩm công
+nghiệp mà sử dụng giá tính thuế áp dụng cho quặng vonfram (hàm lượng: 0,1% <WO3 <0,3%).
+NPM đã thanh toán TCQKTKS được ước tính sử dụng giá cho sản phẩm công nghiệp, theo Quyết định số 500/QĐ-BTNMT
+(“Quyết định 500”) do Bộ Tài nguyên và Môi trường (“BTNMT”) ban hành ngày 4 tháng 3 năm 2015.
+NPM đã gửi công văn lên cơ quan quản lý các cấp để nêu rõ vấn đề và xin giải quyết phù hợp cho việc xác định TCQKTKS của
+NPM. Trong năm 2021, theo chỉ đạo của Thủ tướng Chính phủ tại Công văn số 978/VPCP-KTTH ngày 28 tháng 2 năm 2021 và
+Công văn số 5987/VPCP-KTTH ngày 28 tháng 8 năm 2021, vụ việc đang được Bộ Tài chính, Bộ TNMT, UBND Tỉnh Thái Nguyên và
+Sở Tài chính Tỉnh Thái Nguyên xem xét. Tại ngày báo cáo, Bộ TNMT và UBND Tỉnh Thái Nguyên đang làm việc để xác định giá
+tính thuế tài nguyên cho sản phẩm công nghiệp của NPM.
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+Vào ngày 23 tháng 8 năm 2021, Bộ TNMT ban hành Quyết định số 1640/QD/BTNMT (“Quyết định 1640”) để phê duyệt TCQKTKS
+cho mỏ Núi Pháo, thay thế phê duyệt tạm thu TCQKTKS theo Quyết định 500 và Công văn 3724 mặc dù giá tính thuế tài nguyên
+cho sản phẩm công nghiệp của NPM chưa được xác định. Khi ban hành Quyết định 1640, Bộ TNMT tiếp tục sử dụng tính thuế
+áp dụng cho quặng vonfram (hàm lượng: 0,1% <WO3 <0,3%) thay vì sử dụng giá tính thuế được áp dụng cho sản phẩm công
+nghiệp, vướng mắc mà NPM đã nêu ra trước đây. Theo điểm 3 điều 15 Nghị định 67, đối với những trường hợp đang tạm thu
+tiền cấp quyền khai thác khoáng sản, khi giá tính thuế tài nguyên do Ủy ban nhân dân cấp tỉnh ban hành đang có hiệu lực và
+đúng quy định về giá khoáng sản nguyên khai để tính tiền cấp quyền khai thác khoáng sản thì được áp dụng chính thức, thay
+thế giá tính tiền cấp quyền khai thác khoáng sản tạm thu trước đây. Vì giá tính thuế tài nguyên cho sản phẩm công nghiệp của
+NPM chưa được xác định bởi Bộ TNMT và UBND Tỉnh Thái Nguyên, Giá tính TCQKTKS làm căn cứ xác định TCQKTKS theo Quyết
+định 1640 chưa đúng với quy định của phát luật hiện hành.
+Do đó, sau khi Quyết định 1640 được ban hành, NPM đã gửi nhiều công văn đến Thủ tướng Chính phủ, Bộ TNMT để đề xuất tạm
+thời chưa thực hiện thu bổ sung thu TCQKTKS theo Quyết định 1640 và xác định lại TCQKTKS.
+Ban Giám đốc của NPM tin rằng NPM bằng việc áp dụng giá dựa trên Quyết định 500, đã trích lập dự phòng đầy đủ cho các
+khoản nợ phải trả về tiền cấp quyền khai thác khoáng sản từ năm 2015 đến nay dựa trên diễn giải của NPM về quy định pháp
+luật liên quan, bao gồm các quy định về tiền cấp quyền khai thác khoáng sản và quy định về thuế tài nguyên. Do đó, Tập đoàn
+đã ghi nhận khoản tiền nộp bổ sung cho năm 2019 theo Công văn 3724 là khoản phải thu khác và không ghi nhận thêm nghĩa
+vụ theo Quyết định 1640. Ban Giám đốc của NPM tin rằng khoản phải thu này sẽ được thu hồi khi giá tính thuế tài nguyên cho
+sản phẩm công nghiệp của NPM được xác định.
+Các khoản phải thu dài hạn khác bao gồm 1.230.754 triệu VND phải thu Kho bạc Nhà nước về chi phí bồi thường giải phóng mặt
+bằng của Dự án khai thác mỏ Núi Pháo tại Xã Hà Thượng, Huyện Đại Từ, Tỉnh Thái Nguyên (1/1/2021: 1.234.392 triệu VND). Số tiền
+này có thể được trừ vào tiền thuê đất hàng năm trong tương lai.
+(****) Trong năm 2021, Công ty và một công ty con đã bán toàn bộ trái phiếu hoán đổi đã mua trước đó từ một công ty con khác như
+đề cập trong Thuyết minh 21(b)(**) cho một bên thứ ba với tổng giá trị chuyển nhượng là 8.944.480 triệu VND.   Số dư này thể
+hiện khoản phải thu còn lại mà Công ty phải thu cho việc chuyển nhượng trái phiếu hoán đổi này.
+Biến động của dự phòng phải thu khó đòi trong năm như sau:
+Số dư đầu năm
+Tăng dự phòng trong năm
+Sử dụng dự phòng trong năm
+Hoàn nhập dự phòng trong năm
+Giảm do ngừng hợp nhất MNS Feed và các công ty con
+Số dư cuối năm
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+HÀNG TỒN KHO
+Hàng mua đang đi đường
+Nguyên vật liệu
+Công cụ và dụng cụ
+Sản phẩm dở dang
+Thành phẩm
+Hàng hóa
+Hàng gửi đi bán
+Tại ngày 31 tháng 12 năm 2021 và ngày 1 tháng 1 năm 2021, một phần hàng tồn kho được thế chấp tại ngân hàng để đảm bảo
+cho các khoản vay của một công ty con (Thuyết minh 21).
+Bao gồm trong hàng tồn kho tại ngày 31 tháng 12 năm 2021 có 37.733 triệu VND (1/1/2021: 34.993 triệu VND) hàng tồn kho luân
+chuyển chậm.
+Trong hàng tồn kho tại ngày 31 tháng 12 năm 2021 có 1.945.479 triệu VND (1/1/2021: 1.905.558 triệu VND) được ghi nhận theo giá trị
+thuần có thể thực hiện được.
+Biến động của dự phòng giảm giá hàng tồn kho trong năm như sau:
+Số dư đầu năm
+Tăng từ hợp nhất kinh doanh
+Tăng dự phòng trong năm
+Sử dụng dự phòng trong năm
+Hoàn nhập dự phòng trong năm
+Giảm do ngừng hợp nhất MNS Feed và các công ty con
+Số dư cuối năm
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Giá gốc
+Dự phòng
+Giá gốc
+Dự phòng
+Masan Group
+
+TÀI SẢN CỐ ĐỊNH HỮU HÌNH
+Nguyên giá
+Số dư đầu năm
+Tăng trong năm
+Chuyển từ xây dựng cơ bản dở dang
+Chuyển (sang)/từ chi phí trả trước dài hạn
+Chuyển sang tài sản cố định vô hình
+Chuyển sang bất động sản đầu tư
+Thanh lý/Xóa sổ
+(Giảm)/tăng khác
+Chênh lệch quy đổi tiền tệ
+Giảm do ngừng hợp nhất MNS Feed và
+các công ty con
+Số dư cuối năm
+Giá trị hao mòn lũy kế
+Số dư đầu năm
+Khấu hao trong năm
+Chuyển (sang)/từ chi phí trả trước dài hạn
+Chuyển sang tài sản cố định vô hình
+Chuyển sang bất động sản đầu tư
+Thanh lý/Xóa sổ
+Phân loại lại
+Chênh lệch quy đổi tiền tệ
+Giảm do ngừng hợp nhất MNS Feed và
+các công ty con
+Số dư cuối năm
+Giá trị còn lại
+Số dư đầu năm
+Số dư cuối năm
+Trong tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2021 có các tài sản có nguyên giá 2.062.829 triệu VND (1/1/2021: 2.220.364
+triệu VND) đã khấu hao hết, nhưng vẫn đang được sử dụng.
+Tại ngày 31 tháng 12 năm 2021, tài sản cố định hữu hình với giá trị còn lại là 14.806.212 triệu VND (1/1/2021: 15.048.524 triệu VND)
+được thế chấp tại ngân hàng để đảm bảo cho các khoản vay và trái phiếu phát hành của các công ty con (Thuyết minh 21).
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Nâng cấp
+tài sản thuê
+Nhà cửa và
+vật kiến trúc
+Thiết bị
+văn phòng
+và khác
+Máy móc
+và thiết bị
+Tài sản khai
+khoáng khác
+Phương tiện
+vận chuyển
+Tổng
+TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+Nguyên giá
+Số dư đầu năm
+Tăng trong năm
+Tăng từ hợp nhất
+kinh doanh
+(Thuyết minh 5)
+Chuyển sang chi
+phí trả trước dài
+Chuyển từ tài sản
+cố định hữu hình
+Chuyển từ xây
+dựng cơ bản dở
+dang
+Chuyển sang bất
+động sản đầu tư
+Xóa sổ
+Chênh lệch quy
+đổi tiền tệ
+Giảm do ngừng
+hợp nhất MNS
+Feed và các công
+ty con
+Số dư cuối năm
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Quyền
+sử dụng
+Phần
+vi tính
+Thương
+hiệu
+Quan hệ
+khách
+hàng
+Quyền
+khai thác
+nguyên
+nước
+khoáng
+Quyền khai
+thác nguồn
+nước
+khoáng
+Công
+nghệ
+Chi phí
+triển khai
+Khác
+Tổng
+Masan Group
+
+Số dư đầu năm
+Tăng trong năm
+Tăng từ hợp nhất kinh doanh
+Chuyển sang tài sản cố định hữu hình
+Chuyển sang tài sản cố định vô hình
+Chuyển sang chi phí trả trước dài hạn
+Chuyển sang khoản phải thu dài hạn
+Thanh lý
+Xóa sổ
+Chênh lệch quy đổi tiền tệ
+Giảm do ngừng hợp nhất MNS Feed và các công ty con
+Số dư cuối năm
+XÂY DỰNG CƠ BẢN DỞ DANG
+Các công trình xây dựng cơ bản dở dang lớn như sau:
+Nhà cửa và vật kiến trúc
+Chi phí bồi thường đất
+Máy móc, thiết bị
+Phần mềm vi tính
+Tài sản khác
+Tại ngày 31 tháng 12 năm 2021, xây dựng cơ bản dở dang với giá trị ghi sổ là 1.446.340 triệu VND (1/1/2021: 1.340.472 triệu VND)
+được thế chấp tại ngân hàng để bảo đảm cho các khoản vay và trái phiếu phát hành của các công ty con (Thuyết minh 21).
+Trong năm, chi phí đi vay với giá trị là 29.435 triệu VND được vốn hóa vào xây dựng cơ bản dở dang (2020: chi phí chạy thử, chi
+phí đi vay và phân bổ quyền sử dụng đất được vốn hóa vào xây dựng cơ bản dở dang lần lượt là 14.799 triệu VND, 48.035 triệu
+VND và 12.090 triệu VND).
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+Trục in,
+công cụ và
+dụng cụ
+Số dư đầu năm
+Tăng trong năm
+Tăng từ hợp nhất kinh
+doanh
+Chuyển (sang)/từ chi phí
+trả trước ngắn hạn
+Chuyển từ phải thu dài
+hạn khác
+Chuyển sang tài sản cố
+định hữu hình
+Chuyển từ tài sản cố
+định vô hình
+Chuyển từ/(sang) xây
+dựng cơ bản dở dang
+Phân bổ trong năm
+Thanh lý/ Xóa sổ
+Tăng/(giảm) khác
+Giảm do ngừng hợp
+nhất MNS Feed và các
+công ty con
+Số dư cuối năm
+Tại ngày 31 tháng 12 năm 2021, chi phí đất trả trước, heo giống, gà giống và công cụ và dụng cụ với tổng giá trị ghi sổ là 569.350
+triệu VND (1/1/2021: 561.866 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của các công ty con (Thuyết
+minh 21).
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Tài sản
+khai
+khoáng
+khác
+Chi phí đất
+trả trước
+Chi phí  bồi
+thường đất
+Lợi thế kinh
+doanh từ cổ
+phần hóa
+Heo giống
+Chi phí
+khác
+Tổng
+Masan Group
+
+TÀI SẢN THUẾ THU NHẬP HOÃN LẠI VÀ THUẾ THU NHẬP HOÃN LẠI PHẢI TRẢ
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được ghi nhận
+Tài sản thuế thu nhập hoãn lại:
+Chi phí phải trả và dự phòng (*)
+Tái đánh giá nợ phải trả phúc lợi hưu trí (**)
+Lãi chưa thực hiện đối với các giao dịch nội bộ
+Lỗ tính thuế mang sang
+Tài sản cố định hữu hình (*)
+Cấn trừ (*)
+Khác
+Tổng tài sản thuế thu nhập hoãn lại
+Thuế thu nhập hoãn lại phải trả:
+Tài sản cố định hữu hình (*)
+Tài sản cố định vô hình
+Lỗ chưa thực hiện đối với các giao dịch nội bộ
+Chi phí phải trả, dự phòng và các khoản khác
+Đầu tư vào công ty liên kết
+Cấn trừ (*)
+Khác
+Tổng thuế thu nhập hoãn lại phải trả
+Thuế thu nhập hoãn lại phải trả thuần
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Biến động của các chênh lệch tạm thời trong năm
+Chi phí phải trả, dự phòng và
+các khoản khác
+Tái đánh giá nợ phải trả
+phúc lợi hưu trí (**)
+Lãi/(lỗ) chưa thực hiện đối
+với các giao dịch nội bộ
+Lỗ tính thuế mang sang
+Tài sản cố định hữu hình
+Tài sản cố định vô hình
+Đầu tư vào công ty liên kết
+Khác
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả phát sinh từ HCS và các công ty con được trình bày trên cơ
+sở thuần bởi vì các công ty con có quyền hợp pháp để cấn trừ tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải
+trả do cùng một cơ quan thuế quản lý và trên cùng một đơn vị chịu thuế.
+Thuế thu nhập hoãn lại được ghi nhận vào vốn chủ sở hữu bao gồm thuế thu nhập hoãn lại liên quan đến tái đánh giá nợ phải
+trả phúc lợi hưu trí - dự phòng trợ cấp hưu trí.  Như đã đề cập ở Thuyết minh 3(n), các khoản mục này được ghi nhận trong chỉ
+tiêu “Quỹ khác thuộc vốn chủ sở hữu” theo một công văn trả lời của Bộ Tài chính.
+Ghi nhận
+trong báo
+cáo lãi lỗ
+Ghi nhận
+trong vốn
+chủ sở hữu
+Hợp nhất
+kinh doanh
+Giảm
+do ngừng
+hợp nhất
+MNS Feed
+và các
+công ty con
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+PHẢI TRẢ KHÁC
+Ngắn hạn
+Phải trả cho các ngân hàng trong nước theo thỏa
+thuận thư tín dụng (*)
+Cổ tức phải trả
+Kinh phí công đoàn, bảo hiểm xã hội, bảo hiểm y tế và
+bảo hiểm thất nghiệp
+Ký quỹ, ký cược ngắn hạn nhận được
+Phải trả mua cổ phiếu của CrownX
+Phải trả khác
+Dài hạn
+Ký quỹ, ký cược dài hạn nhận được
+Phải trả khác
+Khoản này phản ánh các khoản phải trả cho các ngân hàng trong nước theo các thỏa thuận thư tín dụng. Khoản chưa thanh
+toán chịu mức phí cố định từ 4,7% đến 6,5% một năm trên số dư chưa thanh toán trong thời gian trả chậm từ 4 đến 6 tháng và
+được đảm bảo bằng 110 triệu cổ phiếu của một công ty con. Trong trường hợp, Tập đoàn chậm thanh toán khi đến hạn, các
+khoản phải trả này sẽ được chuyển thành các khoản vay. Biến động của khoản phải trả này trong năm như sau:
+Số dư đầu năm
+Tăng trong năm
+Thanh toán trong năm
+Số dư cuối năm
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+VAY, TRÁI PHIẾU PHÁT HÀNH VÀ NỢ THUÊ TÀI CHÍNH
+Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn (a)
+Vay ngắn hạn
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn (b)
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn
+Khoản đến hạn trả trong vòng 12 tháng
+Khoản đến hạn trả sau 12 tháng
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn
+Giảm do ngừng hợp
+nhất MNS Feed và
+các công ty con
+Giá trị ghi sổ/
+Số có khả năng
+trả nợ
+Tăng
+Hoàn trả
+Đánh giá lại
+Giá trị ghi sổ/
+Số có khả năng
+trả nợ
+Vay ngắn hạn
+Vay, trái phiếu phát hành và nợ
+thuê tài chính dài hạn đến hạn
+Điều khoản và điều kiện của các khoản vay ngắn hạn hiện còn số dư như sau:
+Loại tiền tệ
+Lãi suất năm
+Khoản vay ngân hàng có đảm bảo
+Khoản vay ngân hàng có đảm bảo
+Khoản vay ngân hàng không đảm bảo
+Khoản vay ngân hàng không đảm bảo
+Khoản vay từ các bên thứ ba không đảm bảo
+Các khoản vay ngân hàng được đảm bảo bằng các tài sản sau của Tập đoàn:
+224 triệu cổ phiếu của một công ty con (1/1/2021: 210 triệu cổ phiếu);
+Tài sản cố định của một công ty con với giá trị ghi sổ là 14.846 triệu VND (1/1/2021: 14.927 triệu VND);
+Một phần hàng tồn kho và phải thu ngắn hạn của một công ty con;
+Tiền gửi ngân hàng không kỳ hạn với giá trị ghi sổ là 81.527 triệu VND (1/1/2021: 67.735 triệu VND); và
+Bảo lãnh bởi Công ty và một số công ty con.
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+Biến động trong năm
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn
+Vay dài hạn
+Trái phiếu thường
+Nợ thuê tài chính
+Điều khoản và điều kiện của các khoản vay, trái phiếu phát hành và nợ thuê tài chính dài hạn hiện còn số dư như sau:
+Vay dài hạn (*)
+Khoản vay ngân hàng có đảm bảo
+Khoản vay ngân hàng có đảm bảo
+Trái phiếu thường (**)
+(bao gồm chi phí phát hành)
+Nợ thuê tài chính (***)
+Loại tiền tệ
+Lãi suất năm
+Năm đáo hạn
+Vay dài hạn
+Các khoản vay dài hạn được đảm bảo bằng các tài sản sau của Tập đoàn:
+Tài sản cố định của các công ty con với giá trị ghi sổ là 4.488.713 triệu VND (1/1/2021: 4.213.513 triệu VND);
+Xây dựng cơ bản dở dang của các công ty con với giá trị ghi sổ là 435.411 triệu VND (1/1/2021: 90.728 triệu VND);
+Chi phí trả trước dài hạn của các công ty con với giá trị ghi sổ là 558.990 triệu VND (1/1/2021: 551.455 triệu VND);
+Tiền gửi ngân hàng có kỳ hạn của Công ty với giá trị ghi sổ là 44.728 triệu VND (1/1/2021: tiền gửi ngân hàng không kỳ hạn của
+Công ty với giá trị ghi sổ là 47.661 triệu VND);
+15% vốn góp của một công ty con và toàn bộ các lợi ích liên quan; và
+Bảo lãnh bởi một số công ty con.
+Trong năm, Tập đoàn đã tuân thủ các điều khoản trong các hợp đồng vay trên.
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+Trái phiếu thường
+Giá trị ghi sổ của các trái phiếu thường hiện còn số dư như sau:
+Trái phiếu thường
+Chi phí phát hành trái phiếu chưa phân bổ
+2.100 tỷ VND (1/1/2021: 2.100 tỷ VND) trái phiếu có thời gian đáo hạn là 10 năm (2024) và chịu lãi suất năm là 8,0% trong 10 năm.
+Trái phiếu này được bảo lãnh bởi Credit Guarantee and Investment Facility và được đảm bảo bằng 75,7 triệu cổ phiếu (1/1/2021:
+75,7 triệu cổ phiếu) của một công ty con;
+500 tỷ VND (1/1/2021: 500 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,25% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 51,6 triệu cổ phiếu (1/1/2021: 51,6 triệu cổ phiếu) của một công ty con;
+1.500 tỷ VND (1/1/2021: 1.500 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,25% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này được đảm bảo bằng một số tài sản dài hạn của một công ty con (1/1/2021: 154,8 triệu cổ phiếu của một công ty con
+khác);
+500 tỷ VND (1/1/2021: 500 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2024) và chịu lãi suất năm là 10,2% trong năm đầu tiên
+và biên độ 3,3% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 55,6 triệu cổ phiếu (1/1/2021: 55,6 triệu cổ phiếu) của một công ty con;
+300 tỷ VND (1/1/2021: 300 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 31,1 triệu cổ phiếu (1/1/2021: 31,1 triệu cổ phiếu) của một công ty con;
+200 tỷ VND (1/1/2021: 200 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 20,8 triệu cổ phiếu (1/1/2021: 20,8 triệu cổ phiếu) của một công ty con;
+500 tỷ VND (1/1/2021: 500 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2024) và chịu lãi suất năm là 10,2% trong năm đầu
+tiên và biên độ 3,3% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này được đảm bảo bằng một số tài sản dài hạn của một công ty con (1/1/2021: 55,5 triệu cổ phiếu của một công ty con
+khác và một số tài sản dài hạn của một công ty con);
+(viii)
+100 tỷ VND (1/1/2021: 100 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 10,7 triệu cổ phiếu (1/1/2021: 13,4 triệu cổ phiếu) của một công ty con;
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+190 tỷ VND (1/1/2021: 190 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng một số tài sản dài hạn của một công ty con (1/1/2021: 25,4 triệu cổ phiếu của một công ty con
+khác và một số tài sản dài hạn của một công ty con);
+210 tỷ VND (1/1/2021: 210 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được đảm bảo bằng 22,3 triệu cổ phiếu (1/1/2021: 27,2 triệu cổ phiếu) của một công ty con;
+1.600 tỷ VND (1/1/2021: 1.600 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này được bảo lãnh bởi Công ty và được đảm bảo bằng một số tài sản dài hạn của một công ty con trong cả hai năm;
+1.000 tỷ VND (1/1/2021: 1.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm
+đầu tiên và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn
+lại.  Trái phiếu này được bảo lãnh bởi Công ty và được đảm bảo bằng một số tài sản dài hạn của một công ty con trong cả hai
+(xiii)
+700 tỷ VND (1/1/2021: 700 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu tiên
+và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.  Trái
+phiếu này được bảo lãnh bởi Công ty và được đảm bảo bằng một số tài sản dài hạn của một công ty con trong cả hai năm;
+1.000 tỷ VND (1/1/2021: 1.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này được đảm bảo bằng 107,9 triệu cổ phiếu (1/1/2021: 136 triệu cổ phiếu) của một công ty con;
+1.000 tỷ VND (1/1/2021: 1.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,1% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này được đảm bảo bằng 107,9 triệu cổ phiếu (1/1/2021: 136 triệu cổ phiếu) của một công ty con;
+1.500 tỷ VND (1/1/2021: 1.500 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2022) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này không được đảm bảo;
+(xvii) 3.000 tỷ VND (1/1/2021: 3.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong năm đầu
+tiên và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này không được đảm bảo;
+(xviii) 7.000 tỷ VND (1/1/2021: 7.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 9,3% trong năm đầu
+tiên và biên độ 2,5% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại.
+Trái phiếu này không được đảm bảo;
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+4.000 tỷ VND (1/1/2021: 4.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong
+năm đầu tiên và biên độ 4,0% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong
+thời gian còn lại. Trái phiếu này không được đảm bảo. Tại ngày 31 tháng 12 năm 2021, 2.998 tỷ VND trái phiếu đã phát
+hành thuộc sở hữu của các công ty con của Công ty và được loại trừ trong báo cáo tài chính hợp nhất;
+600 tỷ VND (1/1/2021: 600 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 9,8% trong năm
+đầu tiên và biên độ 3,8% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời
+gian còn lại. Trái phiếu này không được đảm bảo;
+1.000 tỷ VND (1/1/2021: 1.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 9,9% trong năm
+đầu tiên và biên độ 3,9% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời
+gian còn lại. Trái phiếu này không được đảm bảo;
+(xxii) 1.000 tỷ VND (1/1/2021: 1.000 tỷ VND) trái phiếu có thời gian đáo hạn là 3 năm (2023) và chịu lãi suất năm là 10,0% trong
+năm đầu tiên và biên độ 4,0% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong
+thời gian còn lại. Trái phiếu này không được đảm bảo;
+(xxiii) 3.000 tỷ VND (1/1/2021: 3.000 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2025) và chịu lãi suất năm là 9,9% trong
+năm đầu tiên, 10,9% trong năm thứ 2 và biên độ 3,9% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân
+hàng được chọn trong thời gian còn lại. Những trái phiếu này được đảm bảo bằng 181 triệu cổ phiếu (1/1/2021: 181 triệu cổ
+phiếu) của một công ty con. Trái phiếu này cũng được bảo lãnh bởi Công ty; và
+(xxiv) 1.500 tỷ VND (1/1/2021: 200 tỷ VND) trái phiếu có thời gian đáo hạn là 5 năm (2025 và 2026) và chịu lãi suất năm là 9,2%
+trong năm đầu tiên và biên độ 3,2% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn
+trong thời gian còn lại. Trái phiếu này được đảm bảo bằng 150 triệu cổ phiếu (1/1/2021: 150 triệu cổ phiếu) của một công ty
+con và 38 triệu cổ phiếu (1/1/2021: 38 triệu cổ phiếu) của một công ty con khác. Trái phiếu này cũng được bảo lãnh bởi
+Công ty.
+(xxv) 500 tỷ VND trái phiếu có thời gian đáo hạn là 3 năm (2024) và chịu lãi suất năm là 10,0% trong năm đầu tiên và biên độ
+3,9% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại. Trái phiếu
+này không được đảm bảo;
+(xxvi) 500 tỷ VND trái phiếu có thời gian đáo hạn là 3 năm (2024) và chịu lãi suất năm là 9,9% trong năm đầu tiên và biên độ
+3,9% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại. Trái phiếu
+này không được đảm bảo;
+(xxvii) 400 tỷ VND trái phiếu có thời gian đáo hạn là 3 năm (2024) và chịu lãi suất năm là 10,0% trong năm đầu tiên và biên độ
+4,0% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại. Trái phiếu
+này không được đảm bảo;
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+(xxviii) 1.000 tỷ VND trái phiếu có thời gian đáo hạn là 3 năm (2024) và chịu lãi suất năm là 9,2% trong năm đầu tiên và biên độ
+3,625% cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại. Trái phiếu này
+được đảm bảo bởi một số tài sản dài hạn của một công ty con;
+(xxix) 1.999 tỷ VND trái phiếu có thời gian đáo hạn là 5 năm (2026) và chịu lãi suất năm là 9,5% trong năm đầu tiên và biên độ 3,9%
+cộng với bình quân lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại. Trái phiếu này được
+bảo lãnh bởi Công ty.
+Tại ngày 31 tháng 12 năm 2021, các công ty liên kết của Tập đoàn sở hữu 318.780 triệu VND (1/1/2021: 652.458 triệu VND) trái phiếu
+đã phát hành của Tập đoàn.
+Ngoài ra, như có đề cập tại Thuyết minh 6, trong tháng 10 năm 2021, một công ty con đã phát hành trái phiếu chuyển đổi, trong
+đó có một số trái phiếu đã được phát hành cho các bên thứ ba với số tiền thu được là 2.876.572 triệu VND.  Tại ngày 1 tháng 12
+năm 2021, sau khi việc hoán đổi đã hoàn tất thì Tập đoàn đã ngừng ghi nhận các nghĩa vụ nợ của trái phiếu đã phát hành liên
+quan.
+Trong năm, Tập đoàn đã tuân thủ các điều khoản trong các thỏa thuận phát hành trái phiếu trên.
+Nợ thuê tài chính
+Các khoản thanh toán tiền thuê tối thiểu trong tương lai, bao gồm cả tiền gốc và lãi, theo các hợp đồng thuê tài chính không
+được hủy ngang như sau:
+Trong vòng một năm
+Từ hai đến năm năm
+Sau năm năm
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+Trợ cấp hưu trí
+Quyền khai thác mỏ
+Chi phí phục hồi môi trường mỏ
+Trợ cấp thôi việc
+Biến động của các khoản dự phòng trong năm như sau:
+Tổng
+Trợ cấp
+thôi việc
+Số dư đầu năm
+Dự phòng lập trong năm
+Dự phòng hoàn lập trong năm
+Tái đánh giá nợ phải trả phúc lợi hưu trí (*)
+Dự phòng sử dụng trong năm
+Chênh lệch quy đổi tiền tệ
+Giảm do ngừng hợp nhất MNS Feed và
+các công ty con
+Số dư cuối năm
+Trợ cấp
+hưu trí
+Quyền khai
+thác mỏ
+Chi phí phục hồi
+môi trường mỏ
+Như đã đề cập ở Thuyết minh 3(n), tái đánh giá nợ phải trả phúc lợi hưu trí – dự phòng trợ cấp hưu trí và thuế thu nhập hoãn lại
+liên quan, được ghi nhận trong chỉ tiêu “Quỹ khác thuộc vốn chủ sở hữu” theo một công văn trả lời của Bộ Tài chính.
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+THAY ĐỔI VỐN CHỦ SỞ HỮU
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Số dư tại ngày 1 tháng 1
+Phát hành cổ phiếu mới
+Vốn góp vào các công ty
+con của cổ đông không
+kiểm soát
+Giao dịch với cổ đông
+không kiểm soát
+Hợp nhất kinh doanh
+Lợi nhuận thuần trong năm
+Cổ tức đã phân phối của
+Công ty
+Cổ tức đã phân phối của
+các công ty con
+Phân bổ vào quỹ khen
+thưởng, phúc lợi
+Chênh lệch quy đổi tiền tệ
+Tái đánh giá nợ phải trả
+phúc lợi hưu trí, trừ đi ảnh
+hưởng thuế
+Khác
+Số dư tại ngày
+cổ phần
+Thặng dư
+vốn cổ
+phần
+Vốn khác
+của chủ
+sở hữu
+Chênh lệch
+tỷ giá
+hối đoái
+Lợi nhuận
+sau thuế
+chưa
+phân phối
+Quỹ khác
+thuộc vốn
+chủ sở
+Vốn chủ sở
+hữu thuộc
+về cổ đông
+của Công ty
+Lợi ích cổ
+đông không
+kiểm soát
+Tổng
+Masan Group
+
+DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ cung cấp không bao gồm thuế giá trị gia tăng.
+Doanh thu thuần bao gồm:
+Tổng doanh thu
+ Doanh thu bán hàng và doanh thu khác
+Trừ đi các khoản giảm trừ doanh thu
+ Chiết khấu thương mại
+ Hàng bán bị trả lại
+GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+Tổng giá vốn hàng bán và dịch vụ cung cấp
+ Hàng hóa đã bán và dịch vụ đã cung cấp
+ Dự phòng giảm giá hàng tồn kho
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+Thu nhập lãi từ:
+ Tiền gửi
+ Phải thu về cho vay và các hoạt động đầu tư khác
+Lãi chênh lệch tỷ giá hối đoái
+Lãi từ việc bán trái phiếu hoán đổi và mất quyền kiểm
+soát trong các công ty con (Thuyết minh 6)
+Doanh thu hoạt động tài chính khác
+Chi phí lãi vay
+Chi phí phát hành trái phiếu, chi phí đi vay và chi phí thanh lý
+trái phiếu hoán đổi
+Phí thư tín dụng UPAS
+Lỗ chênh lệch tỷ giá hối đoái
+Chi phí tài chính khác
+CHI PHÍ TÀI CHÍNH
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Masan Group
+
+NỢ TIỀM TÀNG
+Như được trình bày ở Thuyết minh 9(c), vào ngày 23 tháng 8 năm 2021, Bộ TNMT ban hành Quyết định số 1640/QD/BTNMT
+(“Quyết định 1640”) để phê duyệt TCQKTKS cho mỏ Núi Pháo, thay thế phê duyệt tạm thu TCQKTKS theo Quyết định 500 và
+Công văn 3724. Bộ TNMT tiếp tục sử dụng tính thuế áp dụng cho quặng vonfram (hàm lượng: 0,1%< WO3<0,3%) thay vì sử dụng
+giá tính thuế được áp dụng cho sản phẩm công nghiệp. Giá tính TCQKTKS chính thức theo Quyết định 1640 là 1.831.085
+đồng/tấn, trong khi Giá tính TCQKTKS tạm thu theo Quyết định 500 là 775.026 đồng/tấn. Theo đó, số TCQKTKS phải nộp thêm
+do chênh lệch Giá tính TCQKTKS trong giai đoạn từ 2015 đến 2021 là 394,5 tỷ VND.
+Sau khi Quyết định 1640 được ban hành, NPM – công ty con sở hữu gián tiếp của Công ty, đã gửi nhiều công văn đến Thủ tướng
+Chính phủ, Bộ TNMT để đề xuất tạm thời chưa thực hiện thu bổ sung thu TCQKTKS theo Quyết định 1640 và xác định lại
+TCQKTKS.
+Vào ngày 6 tháng 10 năm 2021, NPM đã nhận được Thông báo nộp TCQKTKS từ Cục thuế tỉnh Thái Nguyên căn cứ theo Quyết
+định 1640. Ngày 8 tháng 12 năm 2021, Cục thuế tỉnh Thái Nguyên ban hành Công văn số 4883/CTTNG-QLN yêu cầu NPM nộp bổ
+sung 125,8 tỷ VND TCQKTKS cho giai đoạn 2018 đến 2021, và 4,1 tỷ VND tiền chậm nộp tương ứng.
+Ban Giám đốc của NPM tin rằng NPM đã trích lập dự phòng đầy đủ cho các khoản nợ phải trả về tiền cấp quyền khai thác
+khoáng sản từ năm 2015 đến nay dựa trên diễn giải của NPM về quy định pháp luật liên quan, bao gồm các quy định về tiền cấp
+quyền khai thác khoáng sản và quy định về thuế tài nguyên. Do đó, NPM đã gửi công văn lên cơ quan quản lý các cấp để nêu rõ
+vấn đề và xin giải quyết phù hợp cho việc xác định TCQKTKS của NPM.
+Trong năm 2021, theo chỉ đạo của Thủ tướng Chính phủ tại Công văn số 978/VPCP-KTTH ngày 28 tháng 2 năm 2021 và Công văn
+số 5987/VPCP-KTTH ngày 28 tháng 8 năm 2021, vụ việc đang được Bộ Tài chính, Bộ TNMT, UBND tỉnh Thái Nguyên và Sở Tài
+chính tỉnh Thái Nguyên xem xét. Tại ngày báo cáo, Bộ TNMT và UBND tỉnh Thái Nguyên đang làm việc để xác định giá tính thuế
+tài nguyên cho sản phẩm công nghiệp của NPM.
+Ban Giám đốc của NPM đánh giá vì giá tính thuế tài nguyên cho sản phẩm công nghiệp của NPM chưa được xác định bởi Bộ
+TNMT và UBND tỉnh Thái Nguyên, giá tính TCQKTKS làm căn cứ xác định TCQKTKS theo Quyết định 1640 chưa đúng với quy
+định của phát luật hiện hành. Do đó, Tập đoàn tin rằng khi giá tính thuế tài nguyên cho sản phẩm công nghiệp của NPM được
+xác định, TCQKTKS chính thức của mỏ Núi Pháo cho giai đoạn từ 2015 trở đi sẽ được xác định, và thay thế giá như đã phê duyệt
+tại Quyết định 1640.
+Kết quả cuối cùng hiện nay vẫn chưa có và phụ thuộc vào giá tính thuế tài nguyên cho sản phẩm công nghiệp của NPM cuối
+cùng được xác định và khả năng NPM kiến nghị Bộ TNMT xác định lại TCQKTKS tại Quyết định 1640. Do đó, nghĩa vụ cho
+TCQKTKS bổ sung cho giai đoạn từ 2015 đến 2021 theo Quyết định 1640 chưa được ghi nhận trong báo cáo tài chính hợp nhất.
+Thuyết minh báo cáo
+tài chính hợp nhất
+cho năm kết thúc ngày 31 tháng 12 năm 2021
+(tiếp theo)
+CÁC SỰ KIỆN SAU NGÀY LẬP BẢNG CÂN ĐỐI KẾ TOÁN
+Trong tháng 1 năm 2022, Công ty đã mua lại 2.418.699 cổ phiếu phổ thông, tương đương 3,24% vốn cổ phần của CrownX từ một
+bên thứ ba với tổng giá trị thanh toán là 5.188.010 triệu VND. Do kết quả của giao dịch này, lợi ích vốn chủ sở hữu trực tiếp và
+gián tiếp của Công ty trong CrownX đã tăng từ 81,7% lên 84,9%.
+Trong tháng 2 năm 2022, Công ty TNHH The SHERPA, một công ty con sở hữu trực tiếp của Công ty đã mua lại 9.881.250 cổ
+phiếu phổ thông, tương đương 31% vốn cổ phần của Công ty Cổ phần Phúc Long Heritage với tổng số tiền thanh toán là
+2.490.900 triệu VND. Do kết quả của giao dịch này, lợi ích vốn chủ sở hữu của Công ty trong Phúc Long Heritage đã tăng từ 20%
+lên 51% và Phúc Long Heritage trở thành một công ty con sở hữu gián tiếp của Công ty.
+Trong tháng 3 năm 2022, Công ty Cổ phần Phát triển Thương mại và Dịch vụ VCM đã phát hành 8.305.000 cổ phiếu phổ thông
+mới, tương đương 1,25% vốn cổ phần cho CrownX, với tổng giá trị là 749.584 triệu VND. Từ kết quả của những giao dịch này, lợi
+ích vốn chủ sở hữu của Công ty trong WCM tăng từ 68,6% lên 71,5%.
+Ngày 8 tháng 3 năm 2022
+Nguyễn Huy Hùng
+Kế toán trưởng
+Đỗ Thị Quỳnh Trang
+Giám đốc Tài chính
+Danny Le
+Tổng Giám đốc
+Mẫu B 09 – DN/HN
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+Người lập:
+Người duyệt:
+Masan Group

@@ -1,813 +1,668 @@
-2
-Báo cáo thường niên 2024
-3
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-MỤC LỤC
 CHƯƠNG I:
 ẤN TƯỢNG FPT RETAIL 2024
 Các chỉ tiêu kinh doanh cơ bản 2024
-6
 Thông điệp Chủ tịch Hội đồng Quản trị
-8
 Các sự kiện nổi bật năm 2024
-12
 Giải thưởng tiêu biểu năm 2024
-14
-Thông tin tổng quan về FPT Retail
-16
 Tầm nhìn, sứ mệnh và giá trị cốt lõi
-18
 Dấu mốc phát triển
-20
 Lĩnh vực kinh doanh
-22
 Mô hình quản trị & cơ cấu bộ máy quản lý
-26
-Chiến lược phát triển
-38
 CHƯƠNG II:
 BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH NĂM 2024
 Đánh giá kết quả hoạt động kinh doanh 2024
-42
 Những cải tiến về cơ cấu tổ chức, chính sách quản lý
-46
 Tình hình tài chính
-48
 Tình hình đầu tư & thực hiện các dự án
-54
 Kế hoạch hoạt động năm 2025
-56
 Thông tin cổ phiếu và cơ cấu cổ đông
-58
 CHƯƠNG III:
 BÁO CÁO QUẢN TRỊ DOANH NGHIỆP
 Báo cáo của Hội đồng Quản trị
-68
 Báo cáo của Ban Kiểm soát
-72
 Quản trị doanh nghiệp
-74
 Quản trị rủi ro
-80
 CHƯƠNG IV:
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 Tầm nhìn bền vững
-90
 Báo cáo phát triển bền vững
-92
 CHƯƠNG V:
-BÁO CÁO TÀI CHÍNH KIỂM TOÁN
-Báo cáo tài chính kiểm toán
-116
 
-8
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
-9
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 THÔNG ĐIỆP CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
-“Ưu tiên hàng đầu của FPT Retail là cung cấp các giải pháp chăm sóc 
-sức khỏe toàn diện, mang lại giá trị vượt trội cho người dân Việt Nam. 
-Chúng tôi kiên định theo đuổi mục tiêu lấy khách hàng làm trọng tâm, 
-không ngừng nâng cao trải nghiệm mua sắm, gia tăng chất lượng dịch vụ 
-hậu mãi và đặc biệt chú trọng đến việc cá nhân hóa hành trình của từng 
+“Ưu tiên hàng đầu của FPT Retail là cung cấp các giải pháp chăm sóc
+sức khỏe toàn diện, mang lại giá trị vượt trội cho người dân Việt Nam.
+Chúng tôi kiên định theo đuổi mục tiêu lấy khách hàng làm trọng tâm,
+không ngừng nâng cao trải nghiệm mua sắm, gia tăng chất lượng dịch vụ
+hậu mãi và đặc biệt chú trọng đến việc cá nhân hóa hành trình của từng
 khách hàng.”
-Kính gửi Quý Cổ đông, Quý Khách hàng, Quý 
-Đối tác và toàn thể cán bộ nhân viên Công ty Cổ 
+Kính gửi Quý Cổ đông, Quý Khách hàng, Quý
+Đối tác và toàn thể cán bộ nhân viên Công ty Cổ
 phần Bán lẻ Kỹ thuật số FPT,
-Năm 2024 đánh dấu sự khởi sắc của nền kinh 
-tế toàn cầu với các chính sách tiền tệ được nới 
-lỏng, tỷ lệ lạm phát được kiểm soát tốt và chuỗi 
-cung ứng được cải thiện. Trong đó, Việt Nam 
-được đánh giá là điểm sáng về tăng trưởng khi 
-các chỉ số kinh tế đều phục hồi mạnh mẽ. Năm 
-2024, GDP Việt Nam ước đạt 476,3 tỷ USD với 
-tốc độ tăng trưởng vượt  7%, đạt mức cao nhất 
-trong khu vực, mở ra tiềm năng phát triển cho 
-năm 2025. Chỉ số giá tiêu dùng bình quân được 
-kiểm soát ổn định ở mức tăng 3,63% so với cùng 
-kỳ và chỉ số niềm tin tiêu dùng vẫn duy trì xu 
-hướng tích cực, cho thấy hiệu quả từ các chính 
-sách quyết liệt, kịp thời của Chính phủ, đồng thời 
-thúc đẩy thị trường bán lẻ tiếp tục phát triển. 
-Tuy nhiên, song song với những tín hiệu tích cực, 
-nền kinh tế và ngành bán lẻ Việt Nam nói riêng 
-vẫn phải đối mặt với nhiều thách thức đáng kể. 
-Cơn bão Yagi không chỉ gây gián đoạn chuỗi 
-cung ứng và gia tăng chi phí logistics, chi phí vận 
-hành của doanh nghiệp mà còn tác động nghiêm 
-trọng đến đời sống người dân tại các khu vực bị 
-ảnh hưởng, làm suy giảm sức mua cục bộ. Thêm 
-vào đó, cuộc chiến giá trong ngành bán lẻ vẫn 
-tiếp diễn, buộc các doanh nghiệp phải duy trì 
-mức cạnh tranh với biên lợi nhuận gộp rất thấp. 
-Đồng thời, tâm lý thận trọng trong chi tiêu của 
-người tiêu dùng sau những biến động kinh tế và 
-thiên tai đặt ra áp lực không nhỏ lên doanh thu 
-và chiến lược định giá của các doanh nghiệp, đòi 
-hỏi sự linh hoạt trong điều chỉnh chính sách bán 
-hàng và tối ưu hóa vận hành để duy trì hiệu quả 
+Năm 2024 đánh dấu sự khởi sắc của nền kinh
+tế toàn cầu với các chính sách tiền tệ được nới
+lỏng, tỷ lệ lạm phát được kiểm soát tốt và chuỗi
+cung ứng được cải thiện. Trong đó, Việt Nam
+được đánh giá là điểm sáng về tăng trưởng khi
+các chỉ số kinh tế đều phục hồi mạnh mẽ. Năm
+2024, GDP Việt Nam ước đạt 476,3 tỷ USD với
+tốc độ tăng trưởng vượt  7%, đạt mức cao nhất
+trong khu vực, mở ra tiềm năng phát triển cho
+năm 2025. Chỉ số giá tiêu dùng bình quân được
+kiểm soát ổn định ở mức tăng 3,63% so với cùng
+kỳ và chỉ số niềm tin tiêu dùng vẫn duy trì xu
+hướng tích cực, cho thấy hiệu quả từ các chính
+sách quyết liệt, kịp thời của Chính phủ, đồng thời
+thúc đẩy thị trường bán lẻ tiếp tục phát triển.
+Tuy nhiên, song song với những tín hiệu tích cực,
+nền kinh tế và ngành bán lẻ Việt Nam nói riêng
+vẫn phải đối mặt với nhiều thách thức đáng kể.
+Cơn bão Yagi không chỉ gây gián đoạn chuỗi
+cung ứng và gia tăng chi phí logistics, chi phí vận
+hành của doanh nghiệp mà còn tác động nghiêm
+trọng đến đời sống người dân tại các khu vực bị
+ảnh hưởng, làm suy giảm sức mua cục bộ. Thêm
+vào đó, cuộc chiến giá trong ngành bán lẻ vẫn
+tiếp diễn, buộc các doanh nghiệp phải duy trì
+mức cạnh tranh với biên lợi nhuận gộp rất thấp.
+Đồng thời, tâm lý thận trọng trong chi tiêu của
+người tiêu dùng sau những biến động kinh tế và
+thiên tai đặt ra áp lực không nhỏ lên doanh thu
+và chiến lược định giá của các doanh nghiệp, đòi
+hỏi sự linh hoạt trong điều chỉnh chính sách bán
+hàng và tối ưu hóa vận hành để duy trì hiệu quả
 kinh doanh.
-Trong bối cảnh trên, tổng mức bán lẻ hàng hóa và 
-doanh thu dịch vụ tiêu dùng theo giá hiện hành 
-ước đạt 6.390 nghìn tỷ đồng, tăng 9% so với năm 
-2023. Trong đó, doanh thu bán lẻ hàng hóa ước 
-đạt 4.922 nghìn tỷ đồng, chiếm 77% tổng mức 
-và tăng 8,3% so với năm 2023. FPT Retail đã kịp 
-thời nắm bắt những cơ hội từ sự phục hồi của thị 
-trường và xu hướng tiêu dùng tích cực, đồng thời 
-kiên trì theo đuổi sứ mệnh chăm sóc sức khỏe 
-người dân Việt Nam, xem đây là yếu tố cốt lõi 
-trong chiến lược phát triển, nhờ đó Công ty hoàn 
-thành được các mục tiêu kinh doanh đã đặt ra 
-trong Đại hội đồng cổ đông thường niên. 
-Kết thúc năm 2024, FPT Retail ghi nhận mức 
-tăng trưởng vượt xa kế hoạch, với tổng doanh 
-thu hợp nhất lũy kế đạt 40.104 tỷ đồng, tăng 26% 
-so với cùng kỳ, hoàn thành 108% kế hoạch đề ra. 
-Đặc biệt, nhờ những nỗ lực bền bỉ của tập thể 
-cán bộ nhân viên, cùng với sự quan tâm, ủng hộ 
-của Quý Khách hàng, Đối tác, và Cổ đông, lợi 
-nhuận trước thuế lũy kế bứt phá mạnh mẽ, đạt 
-527 tỷ đồng, hoàn thành 422% so với kế hoạch. 
-Doanh thu online cũng ghi nhận mức tăng trưởng 
-ấn tượng, đạt 7.165 tỷ đồng, tăng 23% so với năm 
-trước. Để đạt được thành tựu này, Ban Lãnh đạo 
-Công ty đã triển khai đồng bộ các chiến lược, 
-bao gồm việc ứng phó linh hoạt với xu hướng thị 
-trường, tối ưu hóa chi phí và nâng cao hiệu quả 
+Trong bối cảnh trên, tổng mức bán lẻ hàng hóa và
+doanh thu dịch vụ tiêu dùng theo giá hiện hành
+ước đạt 6.390 nghìn tỷ đồng, tăng 9% so với năm
+2023. Trong đó, doanh thu bán lẻ hàng hóa ước
+đạt 4.922 nghìn tỷ đồng, chiếm 77% tổng mức
+và tăng 8,3% so với năm 2023. FPT Retail đã kịp
+thời nắm bắt những cơ hội từ sự phục hồi của thị
+trường và xu hướng tiêu dùng tích cực, đồng thời
+kiên trì theo đuổi sứ mệnh chăm sóc sức khỏe
+người dân Việt Nam, xem đây là yếu tố cốt lõi
+thành được các mục tiêu kinh doanh đã đặt ra
+trong Đại hội đồng cổ đông thường niên.
+Kết thúc năm 2024, FPT Retail ghi nhận mức
+tăng trưởng vượt xa kế hoạch, với tổng doanh
+thu hợp nhất lũy kế đạt 40.104 tỷ đồng, tăng 26%
+so với cùng kỳ, hoàn thành 108% kế hoạch đề ra.
+Đặc biệt, nhờ những nỗ lực bền bỉ của tập thể
+cán bộ nhân viên, cùng với sự quan tâm, ủng hộ
+của Quý Khách hàng, Đối tác, và Cổ đông, lợi
+nhuận trước thuế lũy kế bứt phá mạnh mẽ, đạt
+527 tỷ đồng, hoàn thành 422% so với kế hoạch.
+Doanh thu online cũng ghi nhận mức tăng trưởng
+ấn tượng, đạt 7.165 tỷ đồng, tăng 23% so với năm
+trước. Để đạt được thành tựu này, Ban Lãnh đạo
+Công ty đã triển khai đồng bộ các chiến lược,
+bao gồm việc ứng phó linh hoạt với xu hướng thị
+trường, tối ưu hóa chi phí và nâng cao hiệu quả
 kinh doanh.
-Thành công của FPT Retail ngày hôm nay được 
-xây dựng dựa trên nền tảng vững chắc là niềm 
-tin của quý khách hàng. Vì vậy, ưu tiên hàng đầu 
-của FPT Retail là cung cấp các giải pháp chăm 
-sóc sức khỏe toàn diện, mang lại giá trị vượt trội 
-cho người dân Việt Nam. Chúng tôi kiên định 
-theo đuổi mục tiêu lấy khách hàng làm trọng 
-tâm, không ngừng nâng cao trải nghiệm mua 
-sắm, gia tăng chất lượng dịch vụ hậu mãi và đặc 
-biệt chú trọng đến việc cá nhân hóa hành trình 
-của từng khách hàng. 
-FPT Long Châu: Tiên Phong Dịch Vụ Chăm Sóc 
+Thành công của FPT Retail ngày hôm nay được
+xây dựng dựa trên nền tảng vững chắc là niềm
+tin của quý khách hàng. Vì vậy, ưu tiên hàng đầu
+của FPT Retail là cung cấp các giải pháp chăm
+sóc sức khỏe toàn diện, mang lại giá trị vượt trội
+cho người dân Việt Nam. Chúng tôi kiên định
+theo đuổi mục tiêu lấy khách hàng làm trọng
+tâm, không ngừng nâng cao trải nghiệm mua
+sắm, gia tăng chất lượng dịch vụ hậu mãi và đặc
+biệt chú trọng đến việc cá nhân hóa hành trình
+của từng khách hàng.
+FPT Long Châu: Tiên Phong Dịch Vụ Chăm Sóc
 Sức Khỏe Tốt Nhất Cho Khách Hàng
-Nhà thuốc FPT Long Châu bứt phá mạnh mẽ 
-với chiến lược mở rộng và nâng cao độ phủ trên 
-toàn quốc, với mục tiêu mang đến cho người dân 
-cơ hội dễ dàng tiếp cận sản phẩm chính hãng, 
-giá tốt, chất lượng cao và các dịch vụ chăm sóc 
-sức khỏe tốt nhất. Trong năm 2024, Nhà thuốc 
-FPT Long Châu tiếp tục khẳng định vị thế vượt 
-trội trên thị trường khi mở thêm 446 nhà thuốc 
-mới, nâng tổng số nhà thuốc trong hệ thống lên 
-1.943 nhà thuốc, mở rộng ra các tỉnh thành, quận 
+Nhà thuốc FPT Long Châu bứt phá mạnh mẽ
+với chiến lược mở rộng và nâng cao độ phủ trên
+toàn quốc, với mục tiêu mang đến cho người dân
+cơ hội dễ dàng tiếp cận sản phẩm chính hãng,
+giá tốt, chất lượng cao và các dịch vụ chăm sóc
+sức khỏe tốt nhất. Trong năm 2024, Nhà thuốc
+FPT Long Châu tiếp tục khẳng định vị thế vượt
+trội trên thị trường khi mở thêm 446 nhà thuốc
+mới, nâng tổng số nhà thuốc trong hệ thống lên
+1.943 nhà thuốc, mở rộng ra các tỉnh thành, quận
 huyện và khu vực lân cận các thành phố lớn. Mặc
 
-10
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
-11
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-dù các nhà thuốc mở mới có quy mô nhỏ hơn 
-so với các cơ sở hiện hữu, nhưng hiệu quả kinh 
-doanh của toàn hệ thống vẫn được duy trì và cải 
-thiện, minh chứng cho chiến lược mở rộng hiệu 
-quả của FPT Long Châu. Doanh thu trung bình 
-của mỗi nhà thuốc đạt 1,2 tỷ đồng/tháng, đồng 
-thời số lượng khách hàng mới cũng tăng trưởng 
-mạnh mẽ, khẳng định niềm tin yêu của người dân 
-đối với Nhà thuốc FPT Long Châu. 
-FPT Long Châu không chỉ tập trung mở rộng 
-quy mô mà còn chú trọng nâng cao chất lượng 
-dịch vụ, hướng tới mục tiêu chung tay xây dựng 
-một cộng đồng khỏe mạnh, nâng tầm chất lượng 
-sống cho người dân. Với đội ngũ dược sĩ giàu 
-kinh nghiệm, FPT Long Châu không chỉ cung cấp 
-các sản phẩm dược phẩm chất lượng mà còn 
-góp phần nâng cao nhận thức của khách hàng 
-về các dịch vụ y tế. Theo đó, Chúng tôi đã đầu 
-tư mạnh mẽ vào dịch vụ tiêm chủng vắc-xin theo 
-mô hình Pharmacy-Based Immunization -  một 
-trong những trụ cột chính trong chiến lược phát 
-triển của FPT Long Châu hiện tại. Trong năm 
-2024, Tiêm chủng Long Châu mở mới 116 trung 
-tâm, nâng tổng số lên 126 phủ sóng khắp 54 tỉnh 
-thành, đánh dấu bước tiến quan trọng trong việc 
-xây dựng hệ sinh thái chăm sóc sức khỏe toàn 
-diện. Hơn cả một hệ thống nhà thuốc, FPT Long 
-Châu không ngừng đổi mới sáng tạo, nỗ lực hết 
-mình để đóng góp tích cực vào mục tiêu chung 
-của quốc gia trong việc xây dựng một nền y tế 
-hiện đại, công bằng và hiệu quả. FPT Long Châu 
-tự hào là điểm đến chăm sóc sức khỏe đáng tin 
-cậy, cam kết mang lại giá trị thiết thực cho xã hội 
-và chung tay nâng cao tiêu chuẩn chăm sóc sức 
-khỏe cộng đồng.
-FPT Shop: Hành Trình Bền Bỉ Khẳng Định Vị Thế 
+dù các nhà thuốc mở mới có quy mô nhỏ hơn
+so với các cơ sở hiện hữu, nhưng hiệu quả kinh
+doanh của toàn hệ thống vẫn được duy trì và cải
+thiện, minh chứng cho chiến lược mở rộng hiệu
+quả của FPT Long Châu. Doanh thu trung bình
+của mỗi nhà thuốc đạt 1,2 tỷ đồng/tháng, đồng
+thời số lượng khách hàng mới cũng tăng trưởng
+mạnh mẽ, khẳng định niềm tin yêu của người dân
+đối với Nhà thuốc FPT Long Châu.
+FPT Long Châu không chỉ tập trung mở rộng
+quy mô mà còn chú trọng nâng cao chất lượng
+dịch vụ, hướng tới mục tiêu chung tay xây dựng
+một cộng đồng khỏe mạnh, nâng tầm chất lượng
+sống cho người dân. Với đội ngũ dược sĩ giàu
+kinh nghiệm, FPT Long Châu không chỉ cung cấp
+các sản phẩm dược phẩm chất lượng mà còn
+góp phần nâng cao nhận thức của khách hàng
+về các dịch vụ y tế. Theo đó, Chúng tôi đã đầu
+tư mạnh mẽ vào dịch vụ tiêm chủng vắc-xin theo
+mô hình Pharmacy-Based Immunization -  một
+trong những trụ cột chính trong chiến lược phát
+triển của FPT Long Châu hiện tại. Trong năm
+2024, Tiêm chủng Long Châu mở mới 116 trung
+tâm, nâng tổng số lên 126 phủ sóng khắp 54 tỉnh
+thành, đánh dấu bước tiến quan trọng trong việc
+xây dựng hệ sinh thái chăm sóc sức khỏe toàn
+diện. Hơn cả một hệ thống nhà thuốc, FPT Long
+Châu không ngừng đổi mới sáng tạo, nỗ lực hết
+mình để đóng góp tích cực vào mục tiêu chung
+của quốc gia trong việc xây dựng một nền y tế
+hiện đại, công bằng và hiệu quả. FPT Long Châu
+tự hào là điểm đến chăm sóc sức khỏe đáng tin
+cậy, cam kết mang lại giá trị thiết thực cho xã hội
+và chung tay nâng cao tiêu chuẩn chăm sóc sức
+FPT Shop: Hành Trình Bền Bỉ Khẳng Định Vị Thế
 Nhà Bán Lẻ Công Nghệ Uy Tín Trên Thị Trường
-Trong năm 2024, FPT Shop đã thực hiện chiến 
-lược tái cơ cấu toàn diện, qua đó khẳng định lại 
-vị thế của một trong những nhà bán lẻ sản phẩm 
-công nghệ hàng đầu tại Việt Nam. Với mục tiêu 
-tối ưu hóa quy mô và nâng cao chất lượng dịch 
-vụ, FPT Shop đã chủ động đóng các cơ sở hoạt 
-động kém hiệu quả, đồng thời duy trì sự phát 
-triển ổn định tại các chi nhánh còn lại. Tổng số 
-cửa hàng hiện nay của hệ thống là 634, cơ sở vật 
-chất được nâng cấp để đáp ứng các tiêu chuẩn 
+Trong năm 2024, FPT Shop đã thực hiện chiến
+lược tái cơ cấu toàn diện, qua đó khẳng định lại
+vị thế của một trong những nhà bán lẻ sản phẩm
+công nghệ hàng đầu tại Việt Nam. Với mục tiêu
+tối ưu hóa quy mô và nâng cao chất lượng dịch
+vụ, FPT Shop đã chủ động đóng các cơ sở hoạt
+động kém hiệu quả, đồng thời duy trì sự phát
+triển ổn định tại các chi nhánh còn lại. Tổng số
+cửa hàng hiện nay của hệ thống là 634, cơ sở vật
+chất được nâng cấp để đáp ứng các tiêu chuẩn
 mới về dịch vụ và trải nghiệm khách hàng.
-Bên cạnh việc tinh gọn hệ thống cửa hàng, FPT 
-Shop không ngừng mở rộng danh mục sản phẩm 
-để phục vụ nhu cầu ngày càng đa dạng của người 
-tiêu dùng. Cụ thể, 54 cửa hàng FPT Shop thông 
-thường đã được chuyển đổi thành mô hình FPT 
-Shop Điện máy, đồng thời hệ thống cũng triển 
-khai dịch vụ viễn thông di động - Mạng di động 
-ảo - Mobile Virtual Network Operator (MVNO), 
-thu hút hơn 400.000 thuê bao trong năm đầu 
-tiên ra mắt. Những kết quả ấn tượng này không 
-chỉ giúp tăng doanh thu, cải thiện biên lợi nhuận 
-gộp mà còn tạo nền tảng chắc chắn cho sự phát 
-triển bền vững của FPT Shop trong tương lai. FPT 
-Shop tự hào là người bạn đồng hành tin cậy của 
-người tiêu dùng Việt Nam, mang đến những sản 
-phẩm công nghệ chất lượng cao, không ngừng 
-gia tăng giá trị và nâng tầm trải nghiệm mua sắm, 
-đáp ứng trọn vẹn nhu cầu của mỗi khách hàng. 
+Bên cạnh việc tinh gọn hệ thống cửa hàng, FPT
+Shop không ngừng mở rộng danh mục sản phẩm
+để phục vụ nhu cầu ngày càng đa dạng của người
+tiêu dùng. Cụ thể, 54 cửa hàng FPT Shop thông
+thường đã được chuyển đổi thành mô hình FPT
+Shop Điện máy, đồng thời hệ thống cũng triển
+khai dịch vụ viễn thông di động - Mạng di động
+ảo - Mobile Virtual Network Operator (MVNO),
+thu hút hơn 400.000 thuê bao trong năm đầu
+tiên ra mắt. Những kết quả ấn tượng này không
+chỉ giúp tăng doanh thu, cải thiện biên lợi nhuận
+gộp mà còn tạo nền tảng chắc chắn cho sự phát
+triển bền vững của FPT Shop trong tương lai. FPT
+Shop tự hào là người bạn đồng hành tin cậy của
+người tiêu dùng Việt Nam, mang đến những sản
+phẩm công nghệ chất lượng cao, không ngừng
+gia tăng giá trị và nâng tầm trải nghiệm mua sắm,
+đáp ứng trọn vẹn nhu cầu của mỗi khách hàng.
 Triển Vọng Phát Triển Năm 2025
-Năm 2025, Việt Nam sẵn sàng bước vào kỷ 
-nguyên vươn mình của dân tộc với triển vọng 
-tích cực của nền kinh tế và xu hướng phục hồi 
-của thị trường tiêu dùng. Trong bối cảnh đó, FPT 
-Retail tiếp tục kiên định với chiến lược tận tâm 
-phục vụ khách hàng dựa trên sự am hiểu và làm 
-chủ công nghệ đặc biệt ứng dụng công nghệ AI 
-trong chăm sóc sức khoẻ và cung cấp dịch vụ. 
-Với kim chỉ nam “Dẫn đầu công nghệ - Chăm sóc 
-toàn diện”, FPT Retail không chỉ mang đến trải 
-nghiệm vượt trội cho khách hàng, mà còn hướng 
-đến việc kiến tạo một chuẩn mực mới cho ngành 
-bán lẻ công nghệ và chăm sóc sức khỏe tại Việt 
+Năm 2025, Việt Nam sẵn sàng bước vào kỷ
+nguyên vươn mình của dân tộc với triển vọng
+tích cực của nền kinh tế và xu hướng phục hồi
+của thị trường tiêu dùng. Trong bối cảnh đó, FPT
+Retail tiếp tục kiên định với chiến lược tận tâm
+phục vụ khách hàng dựa trên sự am hiểu và làm
+chủ công nghệ đặc biệt ứng dụng công nghệ AI
+trong chăm sóc sức khoẻ và cung cấp dịch vụ.
+Với kim chỉ nam “Dẫn đầu công nghệ - Chăm sóc
+toàn diện”, FPT Retail không chỉ mang đến trải
+nghiệm vượt trội cho khách hàng, mà còn hướng
+đến việc kiến tạo một chuẩn mực mới cho ngành
+bán lẻ công nghệ và chăm sóc sức khỏe tại Việt
 Nam. Để hiện thực hóa mục tiêu này, Công ty ng-
-hiêm túc đầu tư vào công nghệ, tối ưu vận hành 
-và mở rộng hệ thống, tạo nền tảng vững chắc 
+hiêm túc đầu tư vào công nghệ, tối ưu vận hành
+và mở rộng hệ thống, tạo nền tảng vững chắc
 cho sự phát triển bền vững của FPT Retail.
-Trong năm 2025, FPT Retail sẽ tiếp tục đẩy 
-mạnh ứng dụng trí tuệ nhân tạo (AI), dữ liệu 
-lớn (Big Data) để tối ưu hóa hoạt động và nâng 
-tầm trải nghiệm khách hàng. Bên cạnh đó, hệ 
-thống FPT Long Châu sẽ tiếp tục mở rộng độ 
-phủ, nâng cao chất lượng dịch vụ, đồng thời phát 
-triển các giải pháp tư vấn sức khỏe trực tuyến, 
-dịch vụ tiêm chủng với cam kết xây dựng một 
-hệ sinh thái chăm sóc sức khỏe toàn diện, hiệu 
-quả và đáng tin cậy. Chúng tôi tin rằng, với nỗ 
-lực không ngừng trong việc đổi mới sáng tạo, 
-nâng cao chất lượng sản phẩm và dịch vụ, FPT 
-Retail sẽ đóng góp tích cực vào việc nâng tầm 
-chuẩn sống của người dân Việt Nam, đồng thời 
-giữ vững vị thế trong lĩnh vực bán lẻ công nghệ 
-và chăm sóc sức khỏe. 
-Nhìn lại chặng đường đã qua, thành công của 
-FPT Retail được hun đúc từ niềm tin và sự đồng 
-hành bền bỉ của Quý Khách hàng, Quý Đối tác 
-và Quý Cổ đông. Với tinh thần đổi mới không 
-ngừng, khát vọng vươn xa và cam kết kiến tạo 
-giá trị bền vững, chúng tôi sẽ tiếp tục nỗ lực hết 
-mình để xây dựng một tương lai thịnh vượng, 
-đồng thời mang những giải pháp chăm sóc sức 
-khỏe tốt nhất đến cộng đồng. Tôi cũng xin gửi 
-lời tri ân sâu sắc đến toàn thể cán bộ nhân viên 
-FPT Retail – những con người kiên trì, sáng tạo 
-và không ngừng đổi mới vì sự phát triển chung 
-của Công ty. Chúc toàn thể đội ngũ FPT Retail 
-luôn vững tâm, mạnh mẽ để cùng nhau tiếp tục 
-chinh phục những mục tiêu lớn lao và tạo dựng 
+Trong năm 2025, FPT Retail sẽ tiếp tục đẩy
+mạnh ứng dụng trí tuệ nhân tạo (AI), dữ liệu
+lớn (Big Data) để tối ưu hóa hoạt động và nâng
+tầm trải nghiệm khách hàng. Bên cạnh đó, hệ
+thống FPT Long Châu sẽ tiếp tục mở rộng độ
+phủ, nâng cao chất lượng dịch vụ, đồng thời phát
+triển các giải pháp tư vấn sức khỏe trực tuyến,
+dịch vụ tiêm chủng với cam kết xây dựng một
+hệ sinh thái chăm sóc sức khỏe toàn diện, hiệu
+quả và đáng tin cậy. Chúng tôi tin rằng, với nỗ
+lực không ngừng trong việc đổi mới sáng tạo,
+nâng cao chất lượng sản phẩm và dịch vụ, FPT
+Retail sẽ đóng góp tích cực vào việc nâng tầm
+chuẩn sống của người dân Việt Nam, đồng thời
+giữ vững vị thế trong lĩnh vực bán lẻ công nghệ
+và chăm sóc sức khỏe.
+Nhìn lại chặng đường đã qua, thành công của
+FPT Retail được hun đúc từ niềm tin và sự đồng
+hành bền bỉ của Quý Khách hàng, Quý Đối tác
+và Quý Cổ đông. Với tinh thần đổi mới không
+ngừng, khát vọng vươn xa và cam kết kiến tạo
+giá trị bền vững, chúng tôi sẽ tiếp tục nỗ lực hết
+mình để xây dựng một tương lai thịnh vượng,
+đồng thời mang những giải pháp chăm sóc sức
+khỏe tốt nhất đến cộng đồng. Tôi cũng xin gửi
+lời tri ân sâu sắc đến toàn thể cán bộ nhân viên
+FPT Retail – những con người kiên trì, sáng tạo
+và không ngừng đổi mới vì sự phát triển chung
+của Công ty. Chúc toàn thể đội ngũ FPT Retail
+luôn vững tâm, mạnh mẽ để cùng nhau tiếp tục
+chinh phục những mục tiêu lớn lao và tạo dựng
 một tương lai tươi sáng.
-Thay mặt cho Hội đồng quản trị, tôi xin gửi lời 
-tri ân chân thành và kính chúc Quý vị sức khỏe, 
-hạnh phúc và thành công. 
+Thay mặt cho Hội đồng quản trị, tôi xin gửi lời
+tri ân chân thành và kính chúc Quý vị sức khỏe,
+hạnh phúc và thành công.
 Chủ tịch Hội đồng Quản trị
 Nguyễn Bạch Điệp
 THÔNG ĐIỆP CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
 
 DẤU MỐC PHÁT TRIỂN
-2015
-Đạt thị phần số 1 tại thị 
-trường bán lẻ máy tính 
-xách tay tại Việt Nam và 
-tiếp tục giữ vững vị thế 
+Đạt thị phần số 1 tại thị
+trường bán lẻ máy tính
+xách tay tại Việt Nam và
+tiếp tục giữ vững vị thế
 tính đến thời điểm hiện tại.
-2017
-Chính thức trở thành công 
-ty đại chúng và giữ vững vị 
-thế là nhà bán lẻ uy tín tại 
-thị trường Việt Nam. 
-2016
-Ghi nhận doanh thu online 
-tăng gấp đôi so với cùng kỳ 
-năm ngoái, đạt hơn 1.000 
-tỷ đồng với 385 cửa hàng 
-FPT Shop trên khắp cả 
-nước, trong đó có hơn 80 
-góc trưng bày sản phẩm 
+Chính thức trở thành công
+ty đại chúng và giữ vững vị
+thế là nhà bán lẻ uy tín tại
+thị trường Việt Nam.
+Ghi nhận doanh thu online
+tăng gấp đôi so với cùng kỳ
+năm ngoái, đạt hơn 1.000
+tỷ đồng với 385 cửa hàng
+FPT Shop trên khắp cả
+nước, trong đó có hơn 80
+góc trưng bày sản phẩm
 của Apple.
-2012
-Thành lập Công ty Cổ phần 
-Bán lẻ Kỹ thuật số FPT, là 
-một trong hai công ty liên 
-kết trực thuộc Tập đoàn 
-FPT, tập đoàn tiên phong 
-dẫn đầu trong các lĩnh vực 
-Công nghệ, Viễn thông và 
-Giáo dục tại Việt Nam. 
-2014
-Chính thức trở thành nhà 
-bán lẻ ủy quyền đầu tiên 
-của Apple tại Việt Nam 
-và nâng tổng số lượng 
-cửa hàng FPT Shop lên 
-200 điểm bán trải dài trên 
-63/63 tỉnh thành tại Việt 
-Nam.
-2013
-Khai trương cửa hàng FPT 
-Shop thứ 100 và tiếp tục 
-mở rộng phạm vi chuỗi cửa 
-hàng FPT Shop phủ khắp 
-03 vùng miền: Bắc, Trung, 
-Nam.
-2018
-Niêm yết trên Sở Giao 
-dịch chứng khoán Thành 
-phố Hồ Chí Minh với mã 
-cổ phiếu FRT. Đồng thời, 
-thành lập Công ty Cổ phần 
-Dược 
-phẩm 
-FPT 
-Long 
-Châu, công ty con với hoạt 
-động kinh doanh chủ yếu 
-tập trung vào mảng bán lẻ 
-dược phẩm, sở hữu 22 nhà 
+Thành lập Công ty Cổ phần
+Bán lẻ Kỹ thuật số FPT, là
+một trong hai công ty liên
+kết trực thuộc Tập đoàn
+FPT, tập đoàn tiên phong
+dẫn đầu trong các lĩnh vực
+Công nghệ, Viễn thông và
+Giáo dục tại Việt Nam.
+Chính thức trở thành nhà
+bán lẻ ủy quyền đầu tiên
+của Apple tại Việt Nam
+và nâng tổng số lượng
+cửa hàng FPT Shop lên
+200 điểm bán trải dài trên
+63/63 tỉnh thành tại Việt
+Khai trương cửa hàng FPT
+Shop thứ 100 và tiếp tục
+mở rộng phạm vi chuỗi cửa
+hàng FPT Shop phủ khắp
+03 vùng miền: Bắc, Trung,
+Niêm yết trên Sở Giao
+dịch chứng khoán Thành
+phố Hồ Chí Minh với mã
+cổ phiếu FRT. Đồng thời,
+thành lập Công ty Cổ phần
+Dược
+phẩm
+Long
+Châu, công ty con với hoạt
+động kinh doanh chủ yếu
+tập trung vào mảng bán lẻ
+dược phẩm, sở hữu 22 nhà
 thuốc FPT Long Châu.
-2020
-Tập trung mở rộng vùng 
-phủ của FPT Long Châu 
-trên khắp cả nước, mở mới 
-gần 200 nhà thuốc tại hơn 
-50 tỉnh, thành phố sau 2 
+Tập trung mở rộng vùng
+phủ của FPT Long Châu
+trên khắp cả nước, mở mới
+gần 200 nhà thuốc tại hơn
+50 tỉnh, thành phố sau 2
 năm thành lập.
-2019
-Tiếp tục mở rộng vùng phủ 
-và đẩy mạnh phát triển kinh 
-doanh 2 chuỗi cửa hàng, 
-FPT Shop tăng trưởng 
-mạnh mẽ và cán mốc gần 
-600 cửa hàng trong năm 
-2019.
-2021
-Bước đầu áp dụng mở rộng 
-danh mục sản phẩm kinh 
-doanh và đẩy mạnh chuyển 
-đổi số cả 2 chuỗi. Hệ  thống 
-FPT Long Châu đạt điểm 
-hòa vốn sau 4 năm hoạt 
-động, trở thành chuỗi bán 
-lẻ dược phẩm đầu tiên và 
-duy nhất có lãi tại Việt Nam 
+Tiếp tục mở rộng vùng phủ
+và đẩy mạnh phát triển kinh
+doanh 2 chuỗi cửa hàng,
+FPT Shop tăng trưởng
+mạnh mẽ và cán mốc gần
+600 cửa hàng trong năm
+Bước đầu áp dụng mở rộng
+danh mục sản phẩm kinh
+doanh và đẩy mạnh chuyển
+đổi số cả 2 chuỗi. Hệ  thống
+FPT Long Châu đạt điểm
+hòa vốn sau 4 năm hoạt
+động, trở thành chuỗi bán
+lẻ dược phẩm đầu tiên và
+duy nhất có lãi tại Việt Nam
 từ năm 2021 đến nay.
-2023
-Tiếp tục đẩy mạnh phát 
-triển 2 mảng kinh doanh 
-bán lẻ thông qua mở rộng 
-vùng phủ và bắt đầu thử 
-nghiệm mảng vaccine với 
-10 trung tâm tiêm chủng 
+Tiếp tục đẩy mạnh phát
+triển 2 mảng kinh doanh
+bán lẻ thông qua mở rộng
+vùng phủ và bắt đầu thử
+nghiệm mảng vaccine với
+10 trung tâm tiêm chủng
 FPT Long Châu.
-2022
-Chạm mốc 1000 nhà thuốc 
-FPT Long Châu, trở thành 
-chuỗi nhà thuốc đầu tiên 
-và duy nhất phủ khắp 63 
-tỉnh thành, thu hút 1 triệu 
-người sử dụng ứng dụng. 
-Đồng thời, FPT Shop tiếp 
-tục chuyển dịch cơ cấu sản 
-phẩm để cải thiện mức lãi 
-gộp.
-2024
-Về mảng bán lẻ dược phẩm, FPT Retail công bố chiến lược phát 
-triển hệ sinh thái chăm sóc sức khỏe, với bước đầu là phát triển 
-hệ thống trung tâm tiêm chủng FPT Long Châu. Đồng thời, 
-thành lập Công ty Cổ phần Đầu tư FPT Long Châu sở hữu toàn 
-bộ vốn của FPT Retail tại CTCP Dược phẩm FPT Long Châu. Tính 
-đến cuối năm 2024, FPT Retail sở hữu 1.943 nhà thuốc FPT Long 
-Châu, 126 trung tâm tiêm chủng vaccine FPT Long Châu trên 
+Chạm mốc 1000 nhà thuốc
+FPT Long Châu, trở thành
+chuỗi nhà thuốc đầu tiên
+và duy nhất phủ khắp 63
+tỉnh thành, thu hút 1 triệu
+người sử dụng ứng dụng.
+Đồng thời, FPT Shop tiếp
+tục chuyển dịch cơ cấu sản
+phẩm để cải thiện mức lãi
+Về mảng bán lẻ dược phẩm, FPT Retail công bố chiến lược phát
+triển hệ sinh thái chăm sóc sức khỏe, với bước đầu là phát triển
+hệ thống trung tâm tiêm chủng FPT Long Châu. Đồng thời,
+thành lập Công ty Cổ phần Đầu tư FPT Long Châu sở hữu toàn
+bộ vốn của FPT Retail tại CTCP Dược phẩm FPT Long Châu. Tính
+đến cuối năm 2024, FPT Retail sở hữu 1.943 nhà thuốc FPT Long
+Châu, 126 trung tâm tiêm chủng vaccine FPT Long Châu trên
 toàn quốc.
-Về mảng bán lẻ sản phẩm công nghệ, Công ty thực hiện tái cấu 
-trúc bằng cách đóng các cửa hàng hoạt động kém hiệu quả, tiếp 
-tục thực hiện chiến lược đẩy mạnh các sản phẩm, dịch vụ mới 
-và đa dạng hóa danh mục kinh doanh để cải thiện biên lợi nhuận 
-gộp. Bên cạnh đó, FPT Retail bắt đầu thử nghiệm chuyển đổi 
-sang mô hình cửa hàng FPT Shop Điện Máy với 10 cửa hàng. Tính 
-đến cuối năm 2024, tổng số cửa kinh doanh bán lẻ sản phẩm 
-công nghệ trên cả nước là 634 cửa hàng FPT Shop, bao gồm 54 
+Về mảng bán lẻ sản phẩm công nghệ, Công ty thực hiện tái cấu
+trúc bằng cách đóng các cửa hàng hoạt động kém hiệu quả, tiếp
+tục thực hiện chiến lược đẩy mạnh các sản phẩm, dịch vụ mới
+và đa dạng hóa danh mục kinh doanh để cải thiện biên lợi nhuận
+gộp. Bên cạnh đó, FPT Retail bắt đầu thử nghiệm chuyển đổi
+sang mô hình cửa hàng FPT Shop Điện Máy với 10 cửa hàng. Tính
+đến cuối năm 2024, tổng số cửa kinh doanh bán lẻ sản phẩm
+công nghệ trên cả nước là 634 cửa hàng FPT Shop, bao gồm 54
 cửa hàng FPT Shop Điện Máy.
-Ngoài ra, FPT Retail chính thức ra mắt mạng di động FPT – MVNO 
-(Mobile Virtual Network Operator) trên phạm vi toàn quốc với 
-đầu số 0775.
-21
+Ngoài ra, FPT Retail chính thức ra mắt mạng di động FPT – MVNO
+(Mobile Virtual Network Operator) trên phạm vi toàn quốc với
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-20
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
 
 MÔ HÌNH QUẢN TRỊ & CƠ CẤU BỘ MÁY QUẢN LÝ
-Gia nhập FPT từ năm 2000, ông Kiên lần lượt giữ nhiều vị trí 
-quan trọng tại các công ty thành viên trong Tập đoàn. Chính 
-thức nhận nhiệm vụ tại FPT Retail từ cuối năm 2019, Ông là 
-một trong những thành viên ‘nòng cốt’, tham gia dẫn dắt FPT 
-Retail đi qua một trong những giai đoạn khó khăn nhất là thời 
-kỳ dịch bệnh Covid-19 cũng như biến động của thị trường hậu 
-đại dịch. Ông Hoàng Trung Kiên tốt nghiệp Thạc sĩ Quản trị 
-Kinh doanh và Hệ thống thông tin tại Trường Ðại học Tổng 
+Gia nhập FPT từ năm 2000, ông Kiên lần lượt giữ nhiều vị trí
+quan trọng tại các công ty thành viên trong Tập đoàn. Chính
+thức nhận nhiệm vụ tại FPT Retail từ cuối năm 2019, Ông là
+một trong những thành viên ‘nòng cốt’, tham gia dẫn dắt FPT
+Retail đi qua một trong những giai đoạn khó khăn nhất là thời
+kỳ dịch bệnh Covid-19 cũng như biến động của thị trường hậu
+đại dịch. Ông Hoàng Trung Kiên tốt nghiệp Thạc sĩ Quản trị
+Kinh doanh và Hệ thống thông tin tại Trường Ðại học Tổng
 hợp Tự do Bruxelles (Bỉ).
-01
 Ông Hoàng Trung Kiên
 Tổng Giám đốc
 BAN ĐIỀU HÀNH
-Ban Điều hành Công ty Cổ phần Bán lẻ kỹ thuật số FPT có 7 thành viên, trong đó có 1 Tổng Giám đốc và 
-2 Phó Tổng Giám đốc. Ban Điều hành và đội ngũ Giám đốc nghiệp vụ của FPT Retail là những người có 
+Ban Điều hành Công ty Cổ phần Bán lẻ kỹ thuật số FPT có 7 thành viên, trong đó có 1 Tổng Giám đốc và
+2 Phó Tổng Giám đốc. Ban Điều hành và đội ngũ Giám đốc nghiệp vụ của FPT Retail là những người có
 nhiều năm gắn bó, am hiểu các mảng hoạt động nghiệp vụ cũng như công nghệ của Công ty.
-Sau nhiều năm tích lũy kiến thức và kinh nghiệm tại các tập 
-đoàn lớn trong và ngoài nước, ông Việt Anh chính thức gia 
-nhập FPT Retail vào năm 2016. Với kinh nghiệm phong phú ở 
-nhiều lĩnh vực, trong suốt gần một thập kỷ qua, ông đã đóng 
-góp nhiều góc nhìn mới, tích cực trong các chiến dịch, hoạt 
-động kinh doanh cũng như góp phần xây dựng định hướng 
-phát triển dài hạn của công ty. Ông Nguyễn Việt Anh tốt 
-nghiệp Thạc sĩ Quản trị kinh doanh tại Trường Đại học Quốc 
+Sau nhiều năm tích lũy kiến thức và kinh nghiệm tại các tập
+đoàn lớn trong và ngoài nước, ông Việt Anh chính thức gia
+nhập FPT Retail vào năm 2016. Với kinh nghiệm phong phú ở
+nhiều lĩnh vực, trong suốt gần một thập kỷ qua, ông đã đóng
+góp nhiều góc nhìn mới, tích cực trong các chiến dịch, hoạt
+động kinh doanh cũng như góp phần xây dựng định hướng
+phát triển dài hạn của công ty. Ông Nguyễn Việt Anh tốt
+nghiệp Thạc sĩ Quản trị kinh doanh tại Trường Đại học Quốc
 gia Singapore.
-02
 Ông Nguyễn Việt Anh
 Phó Tổng Giám đốc
-Gắn bó từ năm 2014, bà ghi dấu với nhiều đóng góp quan 
-trọng cho sự phát triển của FPT Retail. Từ năm 2019, trên 
-cương vị Giám đốc Điều hành, bà Quyên không chỉ trực tiếp 
-quản lý và vận hành chuỗi FPT Shop mà còn kiêm nhiệm việc 
-thúc đẩy quan hệ đối tác chiến lược và toàn diện với các nhà 
-cung cấp dược phẩm trong và ngoài nước, quản lý sản phẩm 
-và nâng cao hiệu quả kinh doanh của ngành hàng FPT Long 
-Châu. Bà đã góp phần quan trọng trong việc xây dựng FPT 
-Long Châu trở thành chuỗi nhà thuốc số 1 tại Việt Nam. Bên 
-cạnh đó, những thành tựu trong việc ứng dụng chuyển đổi 
-số hiệu quả vào hoạt động kinh doanh của FPT Retail cũng 
-mang nhiều dấu ấn của bà. Bà Nguyễn Đỗ Quyên tốt nghiệp 
+Gắn bó từ năm 2014, bà ghi dấu với nhiều đóng góp quan
+trọng cho sự phát triển của FPT Retail. Từ năm 2019, trên
+cương vị Giám đốc Điều hành, bà Quyên không chỉ trực tiếp
+quản lý và vận hành chuỗi FPT Shop mà còn kiêm nhiệm việc
+thúc đẩy quan hệ đối tác chiến lược và toàn diện với các nhà
+cung cấp dược phẩm trong và ngoài nước, quản lý sản phẩm
+và nâng cao hiệu quả kinh doanh của ngành hàng FPT Long
+Châu. Bà đã góp phần quan trọng trong việc xây dựng FPT
+Long Châu trở thành chuỗi nhà thuốc số 1 tại Việt Nam. Bên
+cạnh đó, những thành tựu trong việc ứng dụng chuyển đổi
+số hiệu quả vào hoạt động kinh doanh của FPT Retail cũng
 Cử nhân Tài chính tại Ngân hàng Học viện Ngân hàng.
-03
 Bà Nguyễn Đỗ Quyên
 Phó TGĐ kiêm Giám đốc Điều hành
-33
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-32
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
 
-Ông Chung là đại diện tiêu biểu cho thế hệ lãnh 
-đạo trẻ năng động, tự tin, sáng tạo không ngừng 
-nghỉ của nhà FPT. Sau 4 năm đồng hành cùng 
-FPT Retail, Ông đã có nhiều đóng góp tích cực 
-trong việc xây dựng và nâng cao chất lượng 
-nhân sự, đảm bảo nguồn nhân lực cho sự phát 
-triển của công ty và cũng góp phần quan trọng 
-trong việc xây dựng môi trường làm việc cởi mở, 
-tích cực và thân thiện. Ông Hoàng Cao Chung 
-tốt nghiệp Thạc sĩ Quản trị kinh doanh tại Trường 
+Ông Chung là đại diện tiêu biểu cho thế hệ lãnh
+đạo trẻ năng động, tự tin, sáng tạo không ngừng
+nghỉ của nhà FPT. Sau 4 năm đồng hành cùng
+FPT Retail, Ông đã có nhiều đóng góp tích cực
+trong việc xây dựng và nâng cao chất lượng
+nhân sự, đảm bảo nguồn nhân lực cho sự phát
+triển của công ty và cũng góp phần quan trọng
+trong việc xây dựng môi trường làm việc cởi mở,
+tích cực và thân thiện. Ông Hoàng Cao Chung
+tốt nghiệp Thạc sĩ Quản trị kinh doanh tại Trường
 Đại học FPT.
-04
 Ông Hoàng Cao Chung
 Giám đốc Nhân sự
 MÔ HÌNH QUẢN TRỊ & CƠ CẤU BỘ MÁY QUẢN LÝ
 BAN ĐIỀU HÀNH
-Ban Điều hành Công ty Cổ phần Bán lẻ kỹ thuật số FPT có 7 thành viên, trong đó có 1 Tổng Giám đốc và 
-2 Phó Tổng Giám đốc. Ban Điều hành và đội ngũ Giám đốc nghiệp vụ của FPT Retail là những người có 
+Ban Điều hành Công ty Cổ phần Bán lẻ kỹ thuật số FPT có 7 thành viên, trong đó có 1 Tổng Giám đốc và
+2 Phó Tổng Giám đốc. Ban Điều hành và đội ngũ Giám đốc nghiệp vụ của FPT Retail là những người có
 nhiều năm gắn bó, am hiểu các mảng hoạt động nghiệp vụ cũng như công nghệ của Công ty.
-Gia nhập FPT Software từ năm 2014, với kinh 
-nghiệm và chuyên môn công nghệ vững chắc, 
-ông Khôi đã từng đảm nhận loạt dự án lớn tại 
-nhiều thị trường cạnh tranh khốc liệt như Nhật 
-Bản và Châu Á - Thái Bình Dương. Trước khi 
-chính thức đồng hành cùng FPT Retail, Ông là 
-người dẫn dắt đội ngũ công nghệ FPT Software 
-phối hợp với FPT Retail để thành lập OneTeam 
-DX, thành công chuyển đổi toàn bộ hệ thống 
-vận hành của chuỗi Nhà thuốc FPT Long Châu 
-sang nền tảng mới với công nghệ hiện đại, góp 
-phần rút ngắn thời gian phục vụ khách hàng. Ông 
-Phạm Đăng Khôi tốt nghiệp Cử nhân Công nghệ 
-thông tin tại Trường Đại học Giao thông Vận tải 
+Gia nhập FPT Software từ năm 2014, với kinh
+nghiệm và chuyên môn công nghệ vững chắc,
+ông Khôi đã từng đảm nhận loạt dự án lớn tại
+nhiều thị trường cạnh tranh khốc liệt như Nhật
+Bản và Châu Á - Thái Bình Dương. Trước khi
+chính thức đồng hành cùng FPT Retail, Ông là
+người dẫn dắt đội ngũ công nghệ FPT Software
+phối hợp với FPT Retail để thành lập OneTeam
+DX, thành công chuyển đổi toàn bộ hệ thống
+vận hành của chuỗi Nhà thuốc FPT Long Châu
+sang nền tảng mới với công nghệ hiện đại, góp
+phần rút ngắn thời gian phục vụ khách hàng. Ông
+Phạm Đăng Khôi tốt nghiệp Cử nhân Công nghệ
+thông tin tại Trường Đại học Giao thông Vận tải
 Tp. Hồ Chí Minh.
-05
 Ông Phạm Đăng Khôi
 Giám đốc Công nghệ
-Trong hơn 13 năm công tác tại FPT, trải qua nhiều 
-vị trí từ lập trình viên cho đến quản lý, từ trong 
-nước và thị trường quốc tế, ông Phát luôn thể 
-hiện khả năng lãnh đạo và thích ứng nhanh với 
-môi trường mới. Ông đã tích lũy kinh nghiệm đa 
-dạng ở các mảng Công nghệ, Kinh doanh, Truyền 
-thông, Marketing… và đạt nhiều thành tích nổi 
-bật. Tháng 8/2024, ông Phát được bổ nhiệm vị 
-trí Giám đốc Chuyển đổi số FPT Retail. Ông Võ 
-Đặng Phát tốt nghiệp Cử nhân chuyên ngành Kỹ 
+Trong hơn 13 năm công tác tại FPT, trải qua nhiều
+vị trí từ lập trình viên cho đến quản lý, từ trong
+nước và thị trường quốc tế, ông Phát luôn thể
+hiện khả năng lãnh đạo và thích ứng nhanh với
+môi trường mới. Ông đã tích lũy kinh nghiệm đa
+dạng ở các mảng Công nghệ, Kinh doanh, Truyền
+thông, Marketing… và đạt nhiều thành tích nổi
+bật. Tháng 8/2024, ông Phát được bổ nhiệm vị
+trí Giám đốc Chuyển đổi số FPT Retail. Ông Võ
+Đặng Phát tốt nghiệp Cử nhân chuyên ngành Kỹ
 thuật phần mềm tại Trường Đại học FPT.
-06
 Ông Võ Đặng Phát
 Giám đốc Chuyển đổi số
-Với kinh nghiệm nhiều năm công tác tại Deloitte 
--  công ty kiểm toán hàng đầu thế giới và Ban Kế 
-hoạch tài chính Tập đoàn FPT, ông Nam là một 
-trong những lãnh đạo trẻ có chuyên môn vững 
-chắc của FPT Retail. Sau 5 năm đồng hành, ông 
-Nam đã có rất nhiều đóng góp lớn, giúp nâng cao 
-hiệu quả hoạt động tài chính của công ty, đảm 
-bảo nguồn vốn cho các hoạt động đầu tư phát 
-triển trong ngắn hạn và dài hạn của công ty. Ông 
-Phạm Duy Hoàng Nam tốt nghiệp Thạc sĩ Quản 
-trị Kinh doanh tại CFVG (Trung tâm Pháp – Việt 
+Với kinh nghiệm nhiều năm công tác tại Deloitte
+-  công ty kiểm toán hàng đầu thế giới và Ban Kế
+hoạch tài chính Tập đoàn FPT, ông Nam là một
+trong những lãnh đạo trẻ có chuyên môn vững
+chắc của FPT Retail. Sau 5 năm đồng hành, ông
+Nam đã có rất nhiều đóng góp lớn, giúp nâng cao
+hiệu quả hoạt động tài chính của công ty, đảm
+bảo nguồn vốn cho các hoạt động đầu tư phát
+triển trong ngắn hạn và dài hạn của công ty. Ông
+Phạm Duy Hoàng Nam tốt nghiệp Thạc sĩ Quản
+trị Kinh doanh tại CFVG (Trung tâm Pháp – Việt
 Đào tạo về Quản lý).
-07
 Ông Phạm Duy Hoàng Nam
 Giám đốc Tài chính
-35
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-34
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
 
-38
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
-39
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-CHIẾN LƯỢC PHÁT TRIỂN
-FPT Retail tiếp tục kiên định với chiến lược phát triển cốt lõi: 
-“Ứng dụng công nghệ AI” và “Xây dựng hệ sinh thái chăm 
-sóc sức khỏe toàn diện”. Lấy kim chỉ nam “Dẫn đầu Công 
-nghệ – Chăm sóc toàn diện”, FPT Retail không ngừng mở 
-rộng quy mô, đa dạng hóa danh mục sản phẩm và dịch vụ, 
-đồng thời tối ưu hóa vận hành bằng những giải pháp công 
+“Ứng dụng công nghệ AI” và “Xây dựng hệ sinh thái chăm
+sóc sức khỏe toàn diện”. Lấy kim chỉ nam “Dẫn đầu Công
+nghệ – Chăm sóc toàn diện”, FPT Retail không ngừng mở
+rộng quy mô, đa dạng hóa danh mục sản phẩm và dịch vụ,
+đồng thời tối ưu hóa vận hành bằng những giải pháp công
 nghệ tiên tiến, nâng cao trải nghiệm của khách hàng.
-“
-Với mong muốn kiến tạo những giá trị bền vững, FPT Retail không ngừng đổi mới để nâng tầm chất 
-lượng cuộc sống cho khách hàng nói riêng và người dân Việt Nam nói chung. Trên hành trình này, FPT 
-Retail không chỉ mở rộng quy mô và lĩnh vực kinh doanh của các chuỗi bán lẻ, mà còn từng bước xây 
-dựng một hệ sinh thái sức khỏe toàn diện, nơi công nghệ tiên tiến đồng hành cùng y tế hiện đại, mang 
+Với mong muốn kiến tạo những giá trị bền vững, FPT Retail không ngừng đổi mới để nâng tầm chất
+lượng cuộc sống cho khách hàng nói riêng và người dân Việt Nam nói chung. Trên hành trình này, FPT
+Retail không chỉ mở rộng quy mô và lĩnh vực kinh doanh của các chuỗi bán lẻ, mà còn từng bước xây
+dựng một hệ sinh thái sức khỏe toàn diện, nơi công nghệ tiên tiến đồng hành cùng y tế hiện đại, mang
 đến những giải pháp tối ưu, góp phần nâng cao chất lượng cuộc sống cho cộng đồng.
-Chuỗi FPT Long Châu nỗ lực hết mình, liên tục 
-đổi mới sáng tạo để đóng góp tích cực vào nỗ lực 
-chung của quốc gia thực hiện mục tiêu xây dựng 
-nền y tế hiện đại và hiệu quả. Trong năm 2025, 
-FPT Long Châu sẽ giữ vững vị thế dẫn đầu trong 
-chuỗi nhà thuốc bằng cách tiếp tục mở rộng vùng 
-phủ, đẩy mạnh ứng dụng AI vào chăm sóc khách 
-hàng, phát triển các dịch vụ thông minh, nâng cao 
-trải nghiệm người dùng. FPT Long Châu sẽ tiếp 
-tục đầu tư mạnh mẽ vào chuỗi tiêm chủng hiện 
-tại để góp phần gia tăng độ phủ vắc-xin, nâng cao 
-chất lượng dịch vụ và trải nghiệm khách hàng. Với 
-đội ngũ dược sĩ, điều dưỡng và bác sĩ đông đảo, 
-giàu kinh nghiệm và chuyên môn cao, chúng tôi 
-kỳ vọng sẽ nâng cao nhận thức cộng đồng về tầm 
-quan trọng của vắc-xin và tiêm chủng, đồng thời 
-mang dịch vụ đến gần hơn với khách hàng. Bên 
-cạnh đó, FPT Long Châu sẽ nỗ lực ra mắt các dịch 
-vụ mới, mang đến giải pháp chăm sóc sức khỏe 
-toàn diện và tiện lợi hơn cho khách hàng nói riêng 
+Chuỗi FPT Long Châu nỗ lực hết mình, liên tục
+đổi mới sáng tạo để đóng góp tích cực vào nỗ lực
+chung của quốc gia thực hiện mục tiêu xây dựng
+nền y tế hiện đại và hiệu quả. Trong năm 2025,
+FPT Long Châu sẽ giữ vững vị thế dẫn đầu trong
+chuỗi nhà thuốc bằng cách tiếp tục mở rộng vùng
+phủ, đẩy mạnh ứng dụng AI vào chăm sóc khách
+hàng, phát triển các dịch vụ thông minh, nâng cao
+trải nghiệm người dùng. FPT Long Châu sẽ tiếp
+tục đầu tư mạnh mẽ vào chuỗi tiêm chủng hiện
+tại để góp phần gia tăng độ phủ vắc-xin, nâng cao
+chất lượng dịch vụ và trải nghiệm khách hàng. Với
+đội ngũ dược sĩ, điều dưỡng và bác sĩ đông đảo,
+giàu kinh nghiệm và chuyên môn cao, chúng tôi
+kỳ vọng sẽ nâng cao nhận thức cộng đồng về tầm
+quan trọng của vắc-xin và tiêm chủng, đồng thời
+mang dịch vụ đến gần hơn với khách hàng. Bên
+cạnh đó, FPT Long Châu sẽ nỗ lực ra mắt các dịch
+vụ mới, mang đến giải pháp chăm sóc sức khỏe
+toàn diện và tiện lợi hơn cho khách hàng nói riêng
 và người dân Việt Nam nói chung.
-Về mảng kinh doanh chuỗi sản phẩm ICT, FPT 
-Shop sẽ phát triển các danh mục sản phẩm, dịch 
-vụ với biên lợi nhuận cao hơn, nâng cao chất lượng 
-phục vụ khách hàng thông qua ứng dụng công 
-nghệ tiên tiến, nhằm đảm bảo mục tiêu lợi nhuận 
-và gia tăng đóng góp cho FPT Retail. Cụ thể, FPT 
-Shop đẩy mạnh chiến lược mở rộng kinh doanh với 
-hệ thống điện máy và thúc đẩy tăng trưởng cho 
-các mảng dịch vụ mới như MVNO, mở ra những cơ 
+Về mảng kinh doanh chuỗi sản phẩm ICT, FPT
+Shop sẽ phát triển các danh mục sản phẩm, dịch
+vụ với biên lợi nhuận cao hơn, nâng cao chất lượng
+phục vụ khách hàng thông qua ứng dụng công
+nghệ tiên tiến, nhằm đảm bảo mục tiêu lợi nhuận
+và gia tăng đóng góp cho FPT Retail. Cụ thể, FPT
+Shop đẩy mạnh chiến lược mở rộng kinh doanh với
+hệ thống điện máy và thúc đẩy tăng trưởng cho
+các mảng dịch vụ mới như MVNO, mở ra những cơ
 hội phát triển bền vững trong tương lai.
-FPT Retail đặt mục tiêu mở rộng quy mô, ứng dụng công nghệ và xây dựng hệ sinh thái bán lẻ – chăm 
-sóc sức khỏe toàn diện, hướng tới phát triển bền vững và nâng tầm trải nghiệm khách hàng. Hướng tới 
-mục tiêu này, FPT Retail đặt ra những mục tiêu chiến lược trung và dài hạn, định hướng cho sự phát triển 
+FPT Retail đặt mục tiêu mở rộng quy mô, ứng dụng công nghệ và xây dựng hệ sinh thái bán lẻ – chăm
+sóc sức khỏe toàn diện, hướng tới phát triển bền vững và nâng tầm trải nghiệm khách hàng. Hướng tới
+mục tiêu này, FPT Retail đặt ra những mục tiêu chiến lược trung và dài hạn, định hướng cho sự phát triển
 bền vững và bứt phá trong tương lai.
 Mở rộng quy mô
-Mở rộng mạng lưới các cửa hàng ở vị trí tiềm năng. 
-Việc mở rộng này không chỉ giúp nâng cao khả 
-năng hiện diện thương hiệu, mà còn tạo ra nhiều 
-điểm chạm hơn trong hành trình mua sắm của 
-khách hàng. Song song đó, Công ty tập trung tối 
-ưu hiệu quả hoạt động tại từng cửa hàng, nâng 
-cao chất lượng dịch vụ thông qua việc chuẩn 
-hóa quy trình, đào tạo đội ngũ chuyên nghiệp và 
-ứng dụng công nghệ hiện đại. Tất cả những yếu 
-tố này góp phần tạo nên lợi thế cạnh tranh bền 
-vững, khẳng định vị thế của FPT Retail trên thị 
+Mở rộng mạng lưới các cửa hàng ở vị trí tiềm năng.
+Việc mở rộng này không chỉ giúp nâng cao khả
+năng hiện diện thương hiệu, mà còn tạo ra nhiều
+điểm chạm hơn trong hành trình mua sắm của
+khách hàng. Song song đó, Công ty tập trung tối
+ưu hiệu quả hoạt động tại từng cửa hàng, nâng
+cao chất lượng dịch vụ thông qua việc chuẩn
+hóa quy trình, đào tạo đội ngũ chuyên nghiệp và
+ứng dụng công nghệ hiện đại. Tất cả những yếu
+tố này góp phần tạo nên lợi thế cạnh tranh bền
+vững, khẳng định vị thế của FPT Retail trên thị
 trường bán lẻ và chăm sóc sức khỏe.
 Ứng dụng công nghệ
-Đẩy mạnh chuyển đổi số, tiên phong ứng dụng 
-trí tuệ nhân tạo (AI) nhằm tối ưu hóa vận hành 
-và nâng cao trải nghiệm khách hàng. Công nghệ 
-AI không chỉ giúp tinh gọn quy trình, nâng cao 
-hiệu suất mà còn cá nhân hóa dịch vụ, đáp ứng 
-chính xác nhu cầu của từng khách hàng. Từ khâu 
-tư vấn, gợi ý sản phẩm đến dịch vụ hậu mãi, mọi 
-trải nghiệm đều được thiết kế để mang lại sự 
-thuận tiện tối đa, tạo nên sự khác biệt vượt trội, 
-giúp khách hàng tận hưởng dịch vụ nhanh chóng, 
+Đẩy mạnh chuyển đổi số, tiên phong ứng dụng
+trí tuệ nhân tạo (AI) nhằm tối ưu hóa vận hành
+và nâng cao trải nghiệm khách hàng. Công nghệ
+AI không chỉ giúp tinh gọn quy trình, nâng cao
+hiệu suất mà còn cá nhân hóa dịch vụ, đáp ứng
+chính xác nhu cầu của từng khách hàng. Từ khâu
+tư vấn, gợi ý sản phẩm đến dịch vụ hậu mãi, mọi
+trải nghiệm đều được thiết kế để mang lại sự
+thuận tiện tối đa, tạo nên sự khác biệt vượt trội,
+giúp khách hàng tận hưởng dịch vụ nhanh chóng,
 chính xác và hiệu quả.
 Xây dựng hệ sinh thái
-Chú trọng kết nối chặt chẽ giữa hai lĩnh vực cốt 
-lõi của các chuỗi bán lẻ về công nghệ và chăm 
-sóc sức khỏe, từng bước kiến tạo một hệ sinh 
-thái toàn diện, nơi các dịch vụ và sản phẩm bổ 
-trợ lẫn nhau nhằm nâng cao trải nghiệm khách 
-hàng. Sự tích hợp này không chỉ mang lại giá trị 
-gia tăng vượt trội, đáp ứng nhu cầu ngày càng 
-đa dạng mà còn góp phần nâng cao chất lượng 
-chăm sóc sức khỏe cho khách hàng, hướng tới 
+Chú trọng kết nối chặt chẽ giữa hai lĩnh vực cốt
+lõi của các chuỗi bán lẻ về công nghệ và chăm
+sóc sức khỏe, từng bước kiến tạo một hệ sinh
+thái toàn diện, nơi các dịch vụ và sản phẩm bổ
+trợ lẫn nhau nhằm nâng cao trải nghiệm khách
+hàng. Sự tích hợp này không chỉ mang lại giá trị
+gia tăng vượt trội, đáp ứng nhu cầu ngày càng
+đa dạng mà còn góp phần nâng cao chất lượng
+chăm sóc sức khỏe cho khách hàng, hướng tới
 một cuộc sống tiện ích và bền vững hơn.
 Phát triển bền vững
-Cam kết phát triển bền vững, không chỉ tập 
-trung vào tăng trưởng lợi nhuận mà còn hài hòa 
-với trách nhiệm xã hội, hướng đến những giá trị 
-lâu dài cho cộng đồng. FPT Retail không ngừng 
-nâng cao chất lượng sản phẩm, dịch vụ, đồng 
-thời đẩy mạnh các hoạt động vì cộng đồng, góp 
-phần cải thiện đời sống và mang lại lợi ích thiết 
-thực cho xã hội. Với chiến lược phát triển bền 
-vững và định hướng kinh doanh có trách nhiệm, 
+Cam kết phát triển bền vững, không chỉ tập
+trung vào tăng trưởng lợi nhuận mà còn hài hòa
+với trách nhiệm xã hội, hướng đến những giá trị
+lâu dài cho cộng đồng. FPT Retail không ngừng
+nâng cao chất lượng sản phẩm, dịch vụ, đồng
+thời đẩy mạnh các hoạt động vì cộng đồng, góp
+phần cải thiện đời sống và mang lại lợi ích thiết
+vững và định hướng kinh doanh có trách nhiệm,
 FPT Retail tiếp tục củng cố vị thế trên thị trường.
 Mục tiêu
 Chiến lược ngắn hạn
 Chiến lược trung và dài hạn
 
-42
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-43
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-ĐÁNH GIÁ KẾT QUẢ 
+ĐÁNH GIÁ KẾT QUẢ
 HOẠT ĐỘNG KINH DOANH 2024
-Bên cạnh đó, Tiêm chủng FPT Long Châu mở mới 116 trung tâm tiêm chủng, nâng tổng số trung tâm 
-lên 126 với độ phủ khắp 54 tỉnh thành, đánh dấu bước tiến quan trọng trong việc xây dựng hệ sinh thái 
-chăm sóc sức khỏe toàn diện. Mặt khác, sau 1,5 năm ghi nhận lỗ trên báo cáo kết quả kinh doanh, FPT 
-Shop quay lại có lãi từ Quý III năm 2024 nhờ chiến lược tái cơ cấu hiệu quả và chiến lược thay đổi danh 
-mục sản phẩm. FPT Shop khép lại năm 2024 với 634 cửa hàng FPT Shop, trong đó có 54 FPT Shop Điện 
-Máy, với hiệu quả hoạt động của từng cửa hàng được cải thiện rõ rệt qua từng quý. 
-Trong năm 2024, trong bối cảnh thị trường bán lẻ có những thách thức và cơ hội song hành, FPT Retail 
-đã đạt nhiều kết quả tích cực trong hoạt động kinh doanh. Trong năm 2024, Nhà thuốc FPT Long Châu 
-tiếp tục khẳng định vị thế vượt trội trên thị trường khi mở thêm 446 cửa hàng mới, nâng tổng số nhà 
-thuốc trong hệ thống lên 1.943 điểm bán tại 63 tỉnh thành trên toàn quốc, mở rộng ra các khu vực lân 
+Bên cạnh đó, Tiêm chủng FPT Long Châu mở mới 116 trung tâm tiêm chủng, nâng tổng số trung tâm
+lên 126 với độ phủ khắp 54 tỉnh thành, đánh dấu bước tiến quan trọng trong việc xây dựng hệ sinh thái
+chăm sóc sức khỏe toàn diện. Mặt khác, sau 1,5 năm ghi nhận lỗ trên báo cáo kết quả kinh doanh, FPT
+Shop quay lại có lãi từ Quý III năm 2024 nhờ chiến lược tái cơ cấu hiệu quả và chiến lược thay đổi danh
+mục sản phẩm. FPT Shop khép lại năm 2024 với 634 cửa hàng FPT Shop, trong đó có 54 FPT Shop Điện
+Máy, với hiệu quả hoạt động của từng cửa hàng được cải thiện rõ rệt qua từng quý.
+Trong năm 2024, trong bối cảnh thị trường bán lẻ có những thách thức và cơ hội song hành, FPT Retail
+đã đạt nhiều kết quả tích cực trong hoạt động kinh doanh. Trong năm 2024, Nhà thuốc FPT Long Châu
+tiếp tục khẳng định vị thế vượt trội trên thị trường khi mở thêm 446 cửa hàng mới, nâng tổng số nhà
+thuốc trong hệ thống lên 1.943 điểm bán tại 63 tỉnh thành trên toàn quốc, mở rộng ra các khu vực lân
 cận các thành phố lớn.
-Phản ánh tốc độ mở rộng quy mô ấn tượng của FPT Retail, kết quả kinh doanh năm 2024 của FPT Retail 
-đạt mức tăng trưởng vượt trội so với cùng kỳ, vượt các chỉ tiêu kế hoạch đã đặt ra tại Đại hội đồng cổ 
-đông năm 2024. Doanh thu thuần đạt 40.104 tỷ đồng, hoàn thành 108% kế hoạch, trong khi lợi nhuận 
-trước thuế đạt 527 tỷ đồng, hoàn thành 422% so với mục tiêu ban đầu. Thành tựu này là kết quả của một 
-chiến lược  kinh doanh và quản trị tài chính toàn diện, bao gồm việc mở rộng mạnh mẽ chuỗi bán lẻ dược 
-phẩm FPT Long Châu và đa dạng hóa danh mục sản phẩm của chuỗi bán lẻ sản phẩm công nghệ FPT 
-Shop để đáp ứng nhu cầu ngày càng đa dạng của người tiêu dùng. Ngoài ra, biên lợi nhuận gộp được 
-cải thiện đáng kể nhờ vào quá trình tái cơ cấu hiệu quả hệ thống cửa hàng, tối ưu hóa nguồn lực và tạo 
+Phản ánh tốc độ mở rộng quy mô ấn tượng của FPT Retail, kết quả kinh doanh năm 2024 của FPT Retail
+đạt mức tăng trưởng vượt trội so với cùng kỳ, vượt các chỉ tiêu kế hoạch đã đặt ra tại Đại hội đồng cổ
+đông năm 2024. Doanh thu thuần đạt 40.104 tỷ đồng, hoàn thành 108% kế hoạch, trong khi lợi nhuận
+trước thuế đạt 527 tỷ đồng, hoàn thành 422% so với mục tiêu ban đầu. Thành tựu này là kết quả của một
+chiến lược  kinh doanh và quản trị tài chính toàn diện, bao gồm việc mở rộng mạnh mẽ chuỗi bán lẻ dược
+phẩm FPT Long Châu và đa dạng hóa danh mục sản phẩm của chuỗi bán lẻ sản phẩm công nghệ FPT
+Shop để đáp ứng nhu cầu ngày càng đa dạng của người tiêu dùng. Ngoài ra, biên lợi nhuận gộp được
+cải thiện đáng kể nhờ vào quá trình tái cơ cấu hiệu quả hệ thống cửa hàng, tối ưu hóa nguồn lực và tạo
 động lực thúc đẩy tăng trưởng lợi nhuận.
-Doanh thu thuần 
-40.104 tỷ đồng 
+Doanh thu thuần
 hoàn thành 108% kế hoạch
-Lợi nhuận trước thuế 
-527 tỷ đồng
+Lợi nhuận trước thuế
 hoàn thành 422% so với mục tiêu ban đầu
 Tổng số cửa hàng
 FPT Shop trong hệ thống
-634
 cửa hàng
 Tổng số nhà thuốc
-trong hệ thống 
-1.943
+trong hệ thống
 nhà thuốc
-Tổng số trung tâm tiêm 
+Tổng số trung tâm tiêm
 chủng trong hệ thống
-126
 trung tâm tiêm chủng
-STT
 Chỉ tiêu
 Kết quả (tỷ đồng)
 Thay đổi (%)
-2023
-2024
-1
 Doanh thu thuần
-31.850
-40.104
-25,9%
-2
 Giá vốn hàng bán
-26.688
-32.521
-21,9%
-3
 Lợi nhuận gộp
-5.162
-7.583
-46,9%
-4
-Lợi nhuận thuần từ hoạt động 
+Lợi nhuận thuần từ hoạt động
 kinh doanh
--297
-543
--
-5
 Lợi nhuận khác
-2
--16
--
-6
 Lợi nhuận trước thuế
--294
-527
--
-7
 Lợi nhuận sau thuế
--329
-408
--
-Tốc độ tăng trưởng mạnh mẽ của doanh thu và lợi nhuận trong năm 2024 của FPT Retail chủ yếu được 
-thúc đẩy bởi 02 yếu tố chính. Đầu tiên, chuỗi Nhà thuốc FPT Long châu duy trì hiệu quả hoạt động ổn 
-định, mở rộng quy mô và gia tăng thị phần, đóng góp đáng kể vào kết quả kinh doanh chung của Công 
-ty. Tiếp theo, FPT Shop đã thực hiện tái cấu trúc hoạt động, tối ưu hóa chi phí và nâng cao hiệu quả vận 
-hành, giúp giảm lỗ và cải thiện biên lợi nhuận. Với những kết quả khả quan này, FPT Retail tiếp tục củng 
+Tốc độ tăng trưởng mạnh mẽ của doanh thu và lợi nhuận trong năm 2024 của FPT Retail chủ yếu được
+thúc đẩy bởi 02 yếu tố chính. Đầu tiên, chuỗi Nhà thuốc FPT Long châu duy trì hiệu quả hoạt động ổn
+định, mở rộng quy mô và gia tăng thị phần, đóng góp đáng kể vào kết quả kinh doanh chung của Công
+ty. Tiếp theo, FPT Shop đã thực hiện tái cấu trúc hoạt động, tối ưu hóa chi phí và nâng cao hiệu quả vận
+hành, giúp giảm lỗ và cải thiện biên lợi nhuận. Với những kết quả khả quan này, FPT Retail tiếp tục củng
 cố vị thế trên thị trường, tạo nền tảng vững chắc cho sự phát triển bền vững trong tương lai.
-Năm 2024 đánh dấu một cột mốc đặc biệt trong hành trình phát triển của FPT Retail, khi không chỉ thể 
-hiện khả năng phục hồi bền bỉ mà còn đạt được những bước tiến quan trọng trong cả 02 mảng kinh 
-doanh chính, minh chứng cho tầm nhìn dẫn đầu công nghệ và chiến lược chăm sóc toàn diện của Công 
-ty.
-Doanh thu thuần 
-10.000
-20.000
-30.000
-40.000
-31.850
-41.104
-50.000
+Năm 2024 đánh dấu một cột mốc đặc biệt trong hành trình phát triển của FPT Retail, khi không chỉ thể
+hiện khả năng phục hồi bền bỉ mà còn đạt được những bước tiến quan trọng trong cả 02 mảng kinh
+doanh chính, minh chứng cho tầm nhìn dẫn đầu công nghệ và chiến lược chăm sóc toàn diện của Công
+Doanh thu thuần
 Lợi nhuận sau thuế
--200
-0
-200
-400
-408
-600
 
-44
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-45
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-Trong năm vừa qua, FPT Long Châu tiếp tục 
-mở rộng quy mô mạnh mẽ, giữ vững vị thế dẫn 
-đầu về số lượng nhà thuốc tại thị trường bán lẻ 
-dược phẩm tại Việt Nam. Bên cạnh đó, Công ty 
-đẩy mạnh mở rộng chuỗi Trung tâm Tiêm chủng 
+Trong năm vừa qua, FPT Long Châu tiếp tục
+mở rộng quy mô mạnh mẽ, giữ vững vị thế dẫn
+đầu về số lượng nhà thuốc tại thị trường bán lẻ
+dược phẩm tại Việt Nam. Bên cạnh đó, Công ty
+đẩy mạnh mở rộng chuỗi Trung tâm Tiêm chủng
 FPT Long Châu vắc-xin theo mô hình Pharma-
-cy-Based Immunization trong năm 2024 nhằm 
-tận dụng các nguồn lực có sẵn của chuỗi Nhà 
-thuốc FPT Long Châu. Tính đến cuối năm 2024, 
-FPT Long Châu sở hữu 1.943 nhà thuốc và 126 
-trung tâm tiêm chủng, tăng lần lượt 446 nhà 
-thuốc và 116 trung tâm tiêm chủng so với cuối 
-năm 2023. 
-Mặc dù quy mô của các nhà thuốc mới mở nhỏ 
-hơn so với các nhà thuốc FPT Long Châu hiện hữu 
-và chủ yếu nằm ở các vùng lân cận trung tâm, 
-hiệu quả kinh doanh toàn hệ thống vẫn được duy 
-trì và cải thiện, cùng với sự gia tăng lượng khách 
-hàng mới trên toàn quốc. Doanh thu trung bình 
-của chuỗi FPT Long châu duy trì ở mức 1,2 tỷ 
-đồng/nhà thuốc/tháng, phản ánh chiến lược mở 
-rộng hợp lý và hiệu suất kinh doanh vượt trội của 
-hệ thống. Cùng với sự phát triển về mạng lưới 
-và tốc độ tăng trưởng vượt bậc, FPT Long Châu 
-cũng mở rộng đội ngũ với 17.700 nhân sự, trong 
-đó phần lớn là dược sĩ, y tá và bác sĩ dày dặn kinh 
-nghiệm, đảm bảo chất lượng tư vấn chuyên sâu 
-cho khách hàng. 
-Tính đến cuối năm 2024, FPT Long Châu ghi 
-nhận tổng doanh thu đạt 25.320 tỷ đồng, tăng 
-59% so với cùng kỳ năm 2023, vượt 19% so với kế 
-hoạch và đóng góp 63% trên tổng doanh thu hợp 
-nhất của FPT Retail. 
-Những kết quả này phản ánh chiến lược phát 
-triển hợp lý, hiệu quả vận hành và nỗ lực bền bỉ 
-đối với mục tiêu hướng đến dịch vụ chăm sóc sức 
+cy-Based Immunization trong năm 2024 nhằm
+tận dụng các nguồn lực có sẵn của chuỗi Nhà
+thuốc FPT Long Châu. Tính đến cuối năm 2024,
+FPT Long Châu sở hữu 1.943 nhà thuốc và 126
+trung tâm tiêm chủng, tăng lần lượt 446 nhà
+thuốc và 116 trung tâm tiêm chủng so với cuối
+Mặc dù quy mô của các nhà thuốc mới mở nhỏ
+hơn so với các nhà thuốc FPT Long Châu hiện hữu
+và chủ yếu nằm ở các vùng lân cận trung tâm,
+hiệu quả kinh doanh toàn hệ thống vẫn được duy
+trì và cải thiện, cùng với sự gia tăng lượng khách
+hàng mới trên toàn quốc. Doanh thu trung bình
+của chuỗi FPT Long châu duy trì ở mức 1,2 tỷ
+đồng/nhà thuốc/tháng, phản ánh chiến lược mở
+rộng hợp lý và hiệu suất kinh doanh vượt trội của
+hệ thống. Cùng với sự phát triển về mạng lưới
+và tốc độ tăng trưởng vượt bậc, FPT Long Châu
+cũng mở rộng đội ngũ với 17.700 nhân sự, trong
+đó phần lớn là dược sĩ, y tá và bác sĩ dày dặn kinh
+nghiệm, đảm bảo chất lượng tư vấn chuyên sâu
+cho khách hàng.
+Tính đến cuối năm 2024, FPT Long Châu ghi
+nhận tổng doanh thu đạt 25.320 tỷ đồng, tăng
+59% so với cùng kỳ năm 2023, vượt 19% so với kế
+hoạch và đóng góp 63% trên tổng doanh thu hợp
+nhất của FPT Retail.
+Những kết quả này phản ánh chiến lược phát
+triển hợp lý, hiệu quả vận hành và nỗ lực bền bỉ
+đối với mục tiêu hướng đến dịch vụ chăm sóc sức
 khỏe chất lượng cao cho cộng đồng.
 Tình hình hoạt động kinh doanh FPT Long Châu
-ĐÁNH GIÁ KẾT QUẢ 
+ĐÁNH GIÁ KẾT QUẢ
 HOẠT ĐỘNG KINH DOANH 2024
 1.943 nhà thuốc
 +446 nhà thuốc so với đầu năm 2024
@@ -816,205 +671,137 @@ HOẠT ĐỘNG KINH DOANH 2024
 17.700 nhân viên
 (đa số là dược sĩ, y tá và bác sĩ)
 +4.610 nhân viên so với đầu năm 2024
-FY2024
-Đóng góp 
+Đóng góp
 doanh thu
-FY2024
-Đóng góp 
+Đóng góp
 doanh thu
-119%
-hoàn thành 
+hoàn thành
 kế hoạch
 Doanh thu
-95%
-hoàn thành 
+hoàn thành
 kế hoạch
 Doanh thu
-Năm 2024 đánh dấu một giai đoạn tái cấu trúc 
-quan trọng của chuỗi FPT Shop. Tính đến cuối 
-Quý IV năm 2024, FPT Shop duy trì mạng lưới 
-634 cửa hàng trên toàn quốc, giảm 121 cửa hàng 
-so với đầu năm do tối ưu hóa hệ thống bằng 
-cách đóng các cửa hàng hoạt động kém hiệu quả 
-trong Quý II năm 2024. 
-Sau giai đoạn thử nghiệm chuyển đổi mô hình 
-từ cửa hàng FPT Shop thông thường sang FPT 
-Shop Điện Máy kết hợp với chiến lược mở rộng 
-danh mục sản phẩm và dịch vụ trong Quý III, đến 
-cuối Quý IV, FPT Shop Điện Máy đã mở rộng 
-mạng lưới lên 54 cửa hàng trên toàn quốc, tạo 
-động lực tăng trưởng mới cho chuỗi bán lẻ sản 
-phẩm công nghệ của FPT Retail. 
-Đáng chú ý, nhờ chiến lược tái cấu trúc toàn diện 
-và nỗ lực cải thiện vận hành qua từng quý, kết 
-quả kinh doanh của FPT Shop đã có những bước 
-tiến rõ rệt, với hiệu quả hoạt động của các cửa 
-hàng liên tục được cải thiện. Riêng trong Quý 
-IV, doanh thu bình quân mỗi cửa hàng đạt 2,2 tỷ 
-đồng/tháng – mức cao nhất kể từ đầu năm. Đây 
-cũng là quý thứ hai liên tiếp chuỗi FPT Shop ghi 
-nhận lợi nhuận, phản ánh sự thành công của các 
-biện pháp tái cấu trúc và cải tiến vận hành. 
-Tính đến cuối năm 2024, tổng doanh thu đạt 
-15.126 tỷ đồng, giảm nhẹ 7% so với cùng kỳ năm 
-trước do đóng cửa hơn 100 cửa hàng kém hiệu 
-quả, do đó FPT Shop  hoàn thành 95% kế hoạch 
-đề ra. Tuy nhiên, với sự tăng trưởng doanh thu 
-bình quân theo tháng của mỗi cửa hàng theo 
-từng quý trong năm 2024, FPT Shop khẳng định 
-tiềm năng phục hồi và tăng trưởng trở lại sau 
+Năm 2024 đánh dấu một giai đoạn tái cấu trúc
+quan trọng của chuỗi FPT Shop. Tính đến cuối
+Quý IV năm 2024, FPT Shop duy trì mạng lưới
+634 cửa hàng trên toàn quốc, giảm 121 cửa hàng
+so với đầu năm do tối ưu hóa hệ thống bằng
+cách đóng các cửa hàng hoạt động kém hiệu quả
+trong Quý II năm 2024.
+Sau giai đoạn thử nghiệm chuyển đổi mô hình
+từ cửa hàng FPT Shop thông thường sang FPT
+Shop Điện Máy kết hợp với chiến lược mở rộng
+danh mục sản phẩm và dịch vụ trong Quý III, đến
+cuối Quý IV, FPT Shop Điện Máy đã mở rộng
+mạng lưới lên 54 cửa hàng trên toàn quốc, tạo
+động lực tăng trưởng mới cho chuỗi bán lẻ sản
+phẩm công nghệ của FPT Retail.
+Đáng chú ý, nhờ chiến lược tái cấu trúc toàn diện
+và nỗ lực cải thiện vận hành qua từng quý, kết
+quả kinh doanh của FPT Shop đã có những bước
+tiến rõ rệt, với hiệu quả hoạt động của các cửa
+hàng liên tục được cải thiện. Riêng trong Quý
+IV, doanh thu bình quân mỗi cửa hàng đạt 2,2 tỷ
+đồng/tháng – mức cao nhất kể từ đầu năm. Đây
+cũng là quý thứ hai liên tiếp chuỗi FPT Shop ghi
+nhận lợi nhuận, phản ánh sự thành công của các
+biện pháp tái cấu trúc và cải tiến vận hành.
+Tính đến cuối năm 2024, tổng doanh thu đạt
+15.126 tỷ đồng, giảm nhẹ 7% so với cùng kỳ năm
+trước do đóng cửa hơn 100 cửa hàng kém hiệu
+quả, do đó FPT Shop  hoàn thành 95% kế hoạch
+đề ra. Tuy nhiên, với sự tăng trưởng doanh thu
+bình quân theo tháng của mỗi cửa hàng theo
+từng quý trong năm 2024, FPT Shop khẳng định
+tiềm năng phục hồi và tăng trưởng trở lại sau
 những điều chỉnh chiến lược quan trọng.
-FPT Shop đã ghi dấu ấn với những bước chuyển 
-mình mạnh mẽ trong năm 2024, thúc đẩy các 
-sản phẩm và dịch vụ mới, hướng tới đa dạng hóa 
-danh mục kinh doanh, tối ưu hóa hiệu quả vận 
+mình mạnh mẽ trong năm 2024, thúc đẩy các
+sản phẩm và dịch vụ mới, hướng tới đa dạng hóa
+danh mục kinh doanh, tối ưu hóa hiệu quả vận
 hành và cải thiện biên lợi nhuận.
 Tình hình hoạt động kinh doanh FPT Shop
 634 cửa hàng
 -121 cửa hàng kém hiệu quả
 3.850 nhân viên
 -860 nhân viên so với đầu năm 2024
-5.000
-5.000
-0
-0
-10.000
-10.000
-15.000
-15.000
-20.000
-20.000
-15.882
-16.185
-25.320
-15.126
-25.000
-30.000
 
-46
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-47
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-•	
-Hệ thống quản lý chất lượng theo tiêu chuẩn GPP (Good Pharmacy 
-Practices), GDP (Good Distribution Practices), GSP (Good Storage 
-Practice) tại FPT Long Châu, đảm bảo chất lượng dược phẩm từ khâu 
+Hệ thống quản lý chất lượng theo tiêu chuẩn GPP (Good Pharmacy
+Practices), GDP (Good Distribution Practices), GSP (Good Storage
+Practice) tại FPT Long Châu, đảm bảo chất lượng dược phẩm từ khâu
 nhập hàng, bảo quản, phân phối đến tay khách hàng.
-•	
-Kiểm soát nguồn gốc hàng hóa thông qua hệ thống truy xuất nguồn 
-gốc, đảm bảo sản phẩm đạt tiêu chuẩn chất lượng và nguồn cung 
+Kiểm soát nguồn gốc hàng hóa thông qua hệ thống truy xuất nguồn
+gốc, đảm bảo sản phẩm đạt tiêu chuẩn chất lượng và nguồn cung
 đáng tin cậy.
-•	
-Chính sách đổi trả và bảo hành minh bạch, giúp nâng cao trải nghiệm 
+Chính sách đổi trả và bảo hành minh bạch, giúp nâng cao trải nghiệm
 khách hàng tại FPT Shop và FPT Long Châu.
 Kiểm soát chất lượng sản phẩm và dịch vụ
-•	
-Tối ưu hệ thống kho bãi và logistics với công nghệ AI và Big Data, 
+Tối ưu hệ thống kho bãi và logistics với công nghệ AI và Big Data,
 giúp giảm thiểu sai sót và tối ưu hiệu suất vận hành.
-•	
-Quy trình bảo quản sản phẩm theo tiêu chuẩn GSP (Good Storage 
-Practice), đảm bảo dược phẩm và thiết bị công nghệ luôn được bảo 
+Quy trình bảo quản sản phẩm theo tiêu chuẩn GSP (Good Storage
+Practice), đảm bảo dược phẩm và thiết bị công nghệ luôn được bảo
 quản đúng điều kiện nhiệt độ, độ ẩm.
-•	
-Áp dụng ERP (Enterprise Resource Planning) trong quản lý chuỗi 
-cung ứng, giúp đồng bộ hóa quy trình kiểm soát chất lượng và tối ưu 
+Áp dụng ERP (Enterprise Resource Planning) trong quản lý chuỗi
+cung ứng, giúp đồng bộ hóa quy trình kiểm soát chất lượng và tối ưu
 hóa hàng tồn kho.
 Kiểm soát vận hành và quản lý chuỗi cung ứng
-•	
-Chương trình đào tạo chuyên sâu cho nhân viên, đặc biệt là đội ngũ 
-dược sĩ và nhân viên tư vấn, đảm bảo cung cấp thông tin chính xác, 
+Chương trình đào tạo chuyên sâu cho nhân viên, đặc biệt là đội ngũ
+dược sĩ và nhân viên tư vấn, đảm bảo cung cấp thông tin chính xác,
 tư vấn đúng nhu cầu khách hàng.
-•	
-Triển khai hệ thống đánh giá chất lượng dịch vụ thông qua phản hồi 
+Triển khai hệ thống đánh giá chất lượng dịch vụ thông qua phản hồi
 khách hàng.
-•	
-Tích hợp AI trong chăm sóc khách hàng, giúp tối ưu hóa trải nghiệm 
+Tích hợp AI trong chăm sóc khách hàng, giúp tối ưu hóa trải nghiệm
 mua sắm và phản hồi nhanh chóng các yêu cầu của khách hàng.
 Kiểm soát chất lượng nhân sự và dịch vụ khách hàng
 Những cải tiến trong việc kiểm soát chất lượng hiện tại
-NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, 
+NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC,
 CHÍNH SÁCH QUẢN LÝ
 Những cải tiến trong việc kiểm soát chất lượng trong tương lai
-FPT Retail xem quản trị chất lượng là yếu tố then chốt để nâng cao hiệu 
-quả hoạt động và cải thiện trải nghiệm khách hàng. Công ty đã triển khai 
-một hệ thống quản trị chất lượng toàn diện, bao gồm kiểm soát chất lượng 
-sản phẩm, vận hành, dịch vụ khách hàng và quản trị rủi ro, nhằm đảm bảo 
+FPT Retail xem quản trị chất lượng là yếu tố then chốt để nâng cao hiệu
+quả hoạt động và cải thiện trải nghiệm khách hàng. Công ty đã triển khai
+một hệ thống quản trị chất lượng toàn diện, bao gồm kiểm soát chất lượng
+sản phẩm, vận hành, dịch vụ khách hàng và quản trị rủi ro, nhằm đảm bảo
 tính nhất quán và tiêu chuẩn cao trong toàn bộ chuỗi cung ứng và dịch vụ.
-“
-Cải tiến quy trình quản lý chất lượng: Thông qua việc tăng cường kiểm tra tại điểm bán, 
-tối ưu hóa quy trình xử lý khiếu nại và bảo hành, và ứng dụng công nghệ tự động hóa 
+Cải tiến quy trình quản lý chất lượng: Thông qua việc tăng cường kiểm tra tại điểm bán,
+tối ưu hóa quy trình xử lý khiếu nại và bảo hành, và ứng dụng công nghệ tự động hóa
 trong giám sát vận hành để kiểm soát hàng tồn kho hiệu quả hơn.
-Cải thiện trải nghiệm khách hàng: Tăng cường các chương trình phản hồi khách hàng 
-theo thời gian thực, nâng cấp hệ thống chăm sóc khách hàng đa kênh và tăng cường kiểm 
+Cải thiện trải nghiệm khách hàng: Tăng cường các chương trình phản hồi khách hàng
+theo thời gian thực, nâng cấp hệ thống chăm sóc khách hàng đa kênh và tăng cường kiểm
 soát chất lượng dịch vụ hậu mãi.
-Đổi mới trong kiểm soát nội bộ: Quy trình đánh giá nhà cung cấp được nâng cao, áp dụng 
-hệ thống báo cáo chất lượng theo thời gian thực và thực hiện kiểm tra đột xuất tại cửa 
+Đổi mới trong kiểm soát nội bộ: Quy trình đánh giá nhà cung cấp được nâng cao, áp dụng
+hệ thống báo cáo chất lượng theo thời gian thực và thực hiện kiểm tra đột xuất tại cửa
 hàng nhằm bảo đảm tính minh bạch trong quản lý bán lẻ.
-Nâng cao tiêu chuẩn đánh giá nhà cung cấp: Áp dụng các tiêu chí nghiêm ngặt hơn trong 
-việc lựa chọn đối tác, đảm bảo nguồn hàng chất lượng cao, đặc biệt trong các lĩnh vực 
+Nâng cao tiêu chuẩn đánh giá nhà cung cấp: Áp dụng các tiêu chí nghiêm ngặt hơn trong
+việc lựa chọn đối tác, đảm bảo nguồn hàng chất lượng cao, đặc biệt trong các lĩnh vực
 dược phẩm và thiết bị công nghệ.
-Quản trị rủi ro trong vận hành: Triển khai hệ thống cảnh báo sớm về rủi ro chất lượng, 
-tăng cường kiểm soát an toàn thông tin trong quản lý dữ liệu khách hàng, đẩy mạnh đào 
+Quản trị rủi ro trong vận hành: Triển khai hệ thống cảnh báo sớm về rủi ro chất lượng,
+tăng cường kiểm soát an toàn thông tin trong quản lý dữ liệu khách hàng, đẩy mạnh đào
 tạo nhân viên về quản trị chất lượng.
-Tối ưu hoá chuỗi cung ứng và quản lý hàng tồn kho: Ứng dụng mô hình quản lý tồn kho 
-thông minh, giảm thiểu hàng lỗi, hàng kém chất lượng, đồng thời tăng cường hợp tác với 
+Tối ưu hoá chuỗi cung ứng và quản lý hàng tồn kho: Ứng dụng mô hình quản lý tồn kho
+thông minh, giảm thiểu hàng lỗi, hàng kém chất lượng, đồng thời tăng cường hợp tác với
 các đối tác logistics để cải thiện tốc độ giao hàng.
-Tăng cường chuyển đổi số trong quản lý chất lượng: Tiếp tục đầu tư vào công nghệ AI và 
-Big Data để giám sát chất lượng sản phẩm và tối ưu quy trình kiểm tra tại các điểm bán, 
+Tăng cường chuyển đổi số trong quản lý chất lượng: Tiếp tục đầu tư vào công nghệ AI và
+Big Data để giám sát chất lượng sản phẩm và tối ưu quy trình kiểm tra tại các điểm bán,
 kho vận và trung tâm dịch vụ.
-Đào tạo và nâng cao năng lực nhân sự: Nâng cao năng lực nhân sự thông qua tổ chức 
-các chương trình đào tạo chuyên sâu về quản lý chất lượng, kiểm soát quy trình vận hành, 
+Đào tạo và nâng cao năng lực nhân sự: Nâng cao năng lực nhân sự thông qua tổ chức
+các chương trình đào tạo chuyên sâu về quản lý chất lượng, kiểm soát quy trình vận hành,
 đảm bảo nhân sự có đủ năng lực để thích ứng với các tiêu chuẩn chất lượng cao.
-1
-2
-3
-4
-5
-6
-7
-8
 
-48
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-49
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 TÌNH HÌNH TÀI CHÍNH
 Kết quả kinh doanh
 Chỉ tiêu
 Kết quả (tỷ đồng)
 Thay đổi (%)
-2023
-2024
 Tổng giá trị tài sản
-13.098
-15.833
-21%
 Doanh thu thuần
-31.850
-40.104
-26%
 Lợi nhuận từ hoạt động kinh doanh (HĐKD)
--297
-543
--
 Lợi nhuận khác
-2
--16
--
 Lợi nhuận trước thuế
--294
-527
--
 Lợi nhuận sau thuế
--329
-408
--
 Lãi cơ bản trên cổ phiếu (đồng)
--2.537
-2.293
--
 TỔNG TÀI SẢN (tỷ đồng)
 DOANH THU THUẦN (tỷ đồng)
 LỢI NHUẬN TỪ HĐKD (tỷ đồng)
@@ -1023,1062 +810,890 @@ LỢI NHUẬN TRƯỚC THUẾ (tỷ đồng)
 LÃI CƠ BẢN TRÊN CỔ PHIẾU (đồng)
 Hiệu quả sử dụng tài sản
 Chỉ tiêu
-2023
-2024
 Tỷ lệ hoàn vốn trên Tổng tài sản (ROA)
--2,8%
-3,0%
 Tỷ lệ hoàn vốn trên Vốn chủ sở hữu (ROE)
--17,5%
-21,3%
 Vòng quay tổng tài sản (lần)
-2,7
-2,8
-Năm 2024, FPT Retail ghi nhận sự cải thiện đáng kể trong hiệu quả sử dụng tài sản và vốn, phản ánh 
-qua các chỉ tiêu tài chính quan trọng. Hệ số lợi nhuận trên tổng tài sản (ROA) đạt 3,0%, cải thiện mạnh 
-so với mức âm của năm trước, nhờ vào tăng trưởng lợi nhuận và tối ưu hóa tài sản. Hệ số lợi nhuận trên 
-vốn chủ sở hữu (ROE) đạt 21,3% cho thấy khả năng sinh lời trên vốn đầu tư tăng đáng kể, minh chứng 
+Năm 2024, FPT Retail ghi nhận sự cải thiện đáng kể trong hiệu quả sử dụng tài sản và vốn, phản ánh
+qua các chỉ tiêu tài chính quan trọng. Hệ số lợi nhuận trên tổng tài sản (ROA) đạt 3,0%, cải thiện mạnh
+so với mức âm của năm trước, nhờ vào tăng trưởng lợi nhuận và tối ưu hóa tài sản. Hệ số lợi nhuận trên
+vốn chủ sở hữu (ROE) đạt 21,3% cho thấy khả năng sinh lời trên vốn đầu tư tăng đáng kể, minh chứng
 cho hiệu quả trong chiến lược tái cấu trúc và quản lý tài chính.
-Trong năm qua, FPT Retail tiếp tục tối ưu hóa quản lý hàng tồn kho, giúp cải thiện vòng quay hàng tồn 
-kho ở mức 3,8 lần, duy trì sự linh hoạt trong chuỗi cung ứng mà vẫn đảm bảo hiệu suất bán hàng. Vòng 
-quay phải thu tăng lên 278,7 lần, phản ánh tốc độ thu hồi công nợ tốt hơn, góp phần cải thiện dòng tiền 
+Trong năm qua, FPT Retail tiếp tục tối ưu hóa quản lý hàng tồn kho, giúp cải thiện vòng quay hàng tồn
+kho ở mức 3,8 lần, duy trì sự linh hoạt trong chuỗi cung ứng mà vẫn đảm bảo hiệu suất bán hàng. Vòng
+quay phải thu tăng lên 278,7 lần, phản ánh tốc độ thu hồi công nợ tốt hơn, góp phần cải thiện dòng tiền
 hoạt động.
-ROE
-đạt 21,3%
-ROA
-đạt 3,0%
-15.833
-40.104
-543
-527
-2.293
-13.098
-31.850
--297
-2
--16
--294
--2.537
 
-52
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-53
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 tổng tài sản
-FPT Retail là doanh nghiệp hoạt động trong lĩnh vực bán lẻ, có cơ 
-cấu tài sản đặc trưng với tài sản ngắn hạn chiếm tỷ trọng lớn, chiếm 
-88,6% tổng tài sản năm 2024. Tổng tài sản của Công ty đạt 15.833 
-tỷ đồng, tăng 20,9% so với năm 2023, phản ánh sự mở rộng quy mô 
+FPT Retail là doanh nghiệp hoạt động trong lĩnh vực bán lẻ, có cơ
+cấu tài sản đặc trưng với tài sản ngắn hạn chiếm tỷ trọng lớn, chiếm
+88,6% tổng tài sản năm 2024. Tổng tài sản của Công ty đạt 15.833
+tỷ đồng, tăng 20,9% so với năm 2023, phản ánh sự mở rộng quy mô
 hoạt động và tối ưu hóa tài chính.
-Sự tăng trưởng tài sản chủ yếu đến từ hàng tồn kho, chiếm 64,6% 
-tổng tài sản, do nhu cầu dự trữ hàng hóa phục vụ cho chiến lược 
-mở rộng chuỗi bán lẻ dược phẩm FPT Long Châu, chuyển dịch cơ 
-cấu sản phẩm chuỗi bán lẻ ICT FPT Shop và đảm bảo nguồn cung 
-ổn định. Bên cạnh đó, các khoản tương đương tiền cũng ghi nhận sự 
+Sự tăng trưởng tài sản chủ yếu đến từ hàng tồn kho, chiếm 64,6%
+tổng tài sản, do nhu cầu dự trữ hàng hóa phục vụ cho chiến lược
+mở rộng chuỗi bán lẻ dược phẩm FPT Long Châu, chuyển dịch cơ
+cấu sản phẩm chuỗi bán lẻ ICT FPT Shop và đảm bảo nguồn cung
+ổn định. Bên cạnh đó, các khoản tương đương tiền cũng ghi nhận sự
 tăng trưởng đáng kể, hỗ trợ duy trì khả năng thanh khoản an toàn.
-Nhìn chung, với sự tăng trưởng ổn định về quy mô tài sản và cơ cấu 
-tài sản hợp lý, FPT Retail tiếp tục củng cố nền tảng tài chính vững 
-chắc để mở rộng hoạt động kinh doanh, tối ưu dòng vốn và duy trì 
+Nhìn chung, với sự tăng trưởng ổn định về quy mô tài sản và cơ cấu
+tài sản hợp lý, FPT Retail tiếp tục củng cố nền tảng tài chính vững
+chắc để mở rộng hoạt động kinh doanh, tối ưu dòng vốn và duy trì
 năng lực cạnh tranh trên thị trường bán lẻ.
-88,6%
 Tài sản ngắn hạn chiếm
 TÌNH HÌNH TÀI CHÍNH
 Quản lý tài sản
-Tổng nguồn vốn của FPT Retail trong năm 2024 tiếp tục tăng 
-trưởng, phản ánh sự mở rộng hoạt động kinh doanh và tối ưu hóa 
-tài chính. Hệ số nợ trên tổng tài sản duy trì ở mức 0,6 cho thấy 
-Công ty vẫn duy trì chính sách sử dụng đòn bẩy tài chính một cách 
+Tổng nguồn vốn của FPT Retail trong năm 2024 tiếp tục tăng
+trưởng, phản ánh sự mở rộng hoạt động kinh doanh và tối ưu hóa
+tài chính. Hệ số nợ trên tổng tài sản duy trì ở mức 0,6 cho thấy
+Công ty vẫn duy trì chính sách sử dụng đòn bẩy tài chính một cách
 hợp lý để tài trợ cho hoạt động kinh doanh.
-Nợ phải trả tăng chủ yếu do khoản phải trả người bán, phù hợp 
-với xu hướng mở rộng quy mô nhập hàng để đáp ứng nhu cầu thị 
-trường, đặc biệt trong bối cảnh ngành bán lẻ cạnh tranh ngày càng 
-khốc liệt. Vòng quay khoản phải trả ổn định ở mức 11,2 lần, phản ánh 
-khả năng quản lý công nợ hiệu quả và duy trì mối quan hệ tốt với 
+Nợ phải trả tăng chủ yếu do khoản phải trả người bán, phù hợp
+với xu hướng mở rộng quy mô nhập hàng để đáp ứng nhu cầu thị
+trường, đặc biệt trong bối cảnh ngành bán lẻ cạnh tranh ngày càng
+khốc liệt. Vòng quay khoản phải trả ổn định ở mức 11,2 lần, phản ánh
+khả năng quản lý công nợ hiệu quả và duy trì mối quan hệ tốt với
 các nhà cung cấp.
-Về vốn chủ sở hữu, năm 2024 chứng kiến sự tăng trưởng tích cực 
-nhờ vào kết quả kinh doanh khả quan, với hệ số lợi nhuận trên vốn 
-chủ sở hữu (ROE) đạt 21,3%, một sự cải thiện mạnh mẽ so với mức 
-âm của năm trước. Điều này cho thấy FPT Retail không chỉ mở rộng 
-quy mô mà còn nâng cao hiệu suất sử dụng vốn, củng cố nền tảng 
+Về vốn chủ sở hữu, năm 2024 chứng kiến sự tăng trưởng tích cực
+nhờ vào kết quả kinh doanh khả quan, với hệ số lợi nhuận trên vốn
+chủ sở hữu (ROE) đạt 21,3%, một sự cải thiện mạnh mẽ so với mức
+âm của năm trước. Điều này cho thấy FPT Retail không chỉ mở rộng
+quy mô mà còn nâng cao hiệu suất sử dụng vốn, củng cố nền tảng
 tài chính vững chắc để tiếp tục tăng trưởng trong những năm tới.
-0,6
 Hệ số nợ trên
 tổng tài sản
 Khoản nợ phải trả
-5.000
-5.000
-0
-0
-10.000
-10.000
-15.000
-15.000
-20.000
-20.000
 
-54
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-55
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 TÌNH HÌNH ĐẦU TƯ & THỰC HIỆN CÁC DỰ ÁN
 Tình hình thực hiện các dự án đầu tư
-FPT Retail tiếp tục đẩy mạnh chiến lược đầu tư để mở rộng quy mô hệ thống nhà thuốc và trung tâm 
-tiêm chủng thuộc chuỗi FPT Long Châu, đồng thời tối ưu hóa mô hình kinh doanh chuỗi FPT Shop, tạo 
-nền tảng vững chắc cho việc nâng cao chất lượng dịch vụ khách hàng và thúc đẩy tăng trưởng bền vững 
+FPT Retail tiếp tục đẩy mạnh chiến lược đầu tư để mở rộng quy mô hệ thống nhà thuốc và trung tâm
+tiêm chủng thuộc chuỗi FPT Long Châu, đồng thời tối ưu hóa mô hình kinh doanh chuỗi FPT Shop, tạo
+nền tảng vững chắc cho việc nâng cao chất lượng dịch vụ khách hàng và thúc đẩy tăng trưởng bền vững
 trong tương lai.
-Các mô hình trung tâm tiêm chủng đa dạng của FPT Long Châu đóng vai trò quan trọng trong sự phát 
-triển nhanh chóng và định hình mô hình phát triển chuỗi tiêm chủng trong tương lai tại Việt Nam. Từ 
-trung tâm tiêm chủng bên trong nhà thuốc FPT Long Châu, đến các trung tâm tiêm chủng độc lập và cả 
-các trung tâm tiêm chủng bên cạnh nhà thuốc đã giúp hệ thống Tiêm Chủng FPT Long Châu đáp ứng 
+Các mô hình trung tâm tiêm chủng đa dạng của FPT Long Châu đóng vai trò quan trọng trong sự phát
+triển nhanh chóng và định hình mô hình phát triển chuỗi tiêm chủng trong tương lai tại Việt Nam. Từ
+trung tâm tiêm chủng bên trong nhà thuốc FPT Long Châu, đến các trung tâm tiêm chủng độc lập và cả
+các trung tâm tiêm chủng bên cạnh nhà thuốc đã giúp hệ thống Tiêm Chủng FPT Long Châu đáp ứng
 nhanh chóng và hiệu quả nhất các nhu cầu của người dân, đặc biệt về vị trí thuận tiện nhất.
-Kết quả thực hiện các dự án đầu tư nhà thuốc và trung tâm tiêm chủng FPT Long Châu trong năm 2024 
-cho thấy sự phát triển mạnh mẽ và bền vững của FPT Retail, không chỉ củng cố vị thế trên thị trường mà 
-còn tiếp tục phát triển mô hình dịch vụ y tế toàn diện, đáp ứng nhu cầu ngày càng đa dạng của cộng 
-đồng. 
-Ngoài ra, FPT Retail tập trung đầu tư vào công nghệ, đặc biệt là chuyển đổi số, nhằm tối ưu hóa hoạt 
-động vận hành, giảm thiểu chi phí và nâng cao năng suất. Đồng thời, Công ty ứng dụng trí tuệ nhân tạo 
-(AI) và dữ liệu lớn (Big Data) vào hoạt động của các chuỗi FPT Long Châu và FPT Shop để phân tích 
+Kết quả thực hiện các dự án đầu tư nhà thuốc và trung tâm tiêm chủng FPT Long Châu trong năm 2024
+cho thấy sự phát triển mạnh mẽ và bền vững của FPT Retail, không chỉ củng cố vị thế trên thị trường mà
+còn tiếp tục phát triển mô hình dịch vụ y tế toàn diện, đáp ứng nhu cầu ngày càng đa dạng của cộng
+Ngoài ra, FPT Retail tập trung đầu tư vào công nghệ, đặc biệt là chuyển đổi số, nhằm tối ưu hóa hoạt
+động vận hành, giảm thiểu chi phí và nâng cao năng suất. Đồng thời, Công ty ứng dụng trí tuệ nhân tạo
+(AI) và dữ liệu lớn (Big Data) vào hoạt động của các chuỗi FPT Long Châu và FPT Shop để phân tích
 hành vi khách hàng, từ đó nâng cao chất lượng dịch vụ và cải thiện khả năng phục vụ, mang lại trải ng-
 hiệm tốt hơn cho khách hàng
 Tình hình hoạt động của các Công ty thành viên
-Công ty có hoạt động kinh doanh trong lĩnh vực kho bãi và lưu giữ hàng hoá. Công ty tiếp tục vận hành 
+Công ty có hoạt động kinh doanh trong lĩnh vực kho bãi và lưu giữ hàng hoá. Công ty tiếp tục vận hành
 ổn định trong năm 2024.
 Công ty Cổ phần Hữu nghị Việt Hàn
-Công ty nhận chuyển nhượng phần vốn cổ phần của FPT Retail tại Công ty Cổ phần Dược phẩm Long 
+Công ty nhận chuyển nhượng phần vốn cổ phần của FPT Retail tại Công ty Cổ phần Dược phẩm Long
 Châu. Trong năm 2024, Công ty thực hiện cung cấp các dịch vụ về tư vấn đầu tư và tư vấn quản lý khác.
 Công ty Cổ phần Đầu tư FPT Long Châu
-Trong năm 2024, Nhà thuốc FPT Long Châu tiếp tục khẳng định vị thế vượt trội trên thị trường khi mở 
-thêm 446 cửa hàng mới, nâng tổng số nhà thuốc trong hệ thống lên 1.943 điểm bán tại 63 tỉnh thành 
-trên toàn quốc, mở rộng ra các tỉnh thành, quận huyện và khu vực lân cận các thành phố lớn. Bên cạnh 
-đó, Tiêm chủng FPT Long Châu mở mới 116 trung tâm tiêm chủng, nâng tổng số trung tâm lên 126 với 
-độ phủ khắp 54 tỉnh thành, đánh dấu bước tiến quan trọng trong việc xây dựng hệ sinh thái chăm sóc 
-sức khỏe toàn diện. Đặc biệt, Long Châu là một trong những chuỗi bán lẻ tiên phong cung cấp các loại 
-vắc-xin mới, lần đầu tiên xuất hiện tại thị trường Việt Nam như vắc-xin sốt xuất huyết và vắc-xin zona 
-thần kinh, tạo ra lợi thế cạnh tranh khác biệt và mở ra cơ hội tiếp cận y tế chất lượng cao cho người trên 
-cả nước. Song song, Công ty cũng đẩy mạnh đầu tư công nghệ, tối ưu quy trình vận hành nhằm nâng 
+Trong năm 2024, Nhà thuốc FPT Long Châu tiếp tục khẳng định vị thế vượt trội trên thị trường khi mở
+thêm 446 cửa hàng mới, nâng tổng số nhà thuốc trong hệ thống lên 1.943 điểm bán tại 63 tỉnh thành
+trên toàn quốc, mở rộng ra các tỉnh thành, quận huyện và khu vực lân cận các thành phố lớn. Bên cạnh
+đó, Tiêm chủng FPT Long Châu mở mới 116 trung tâm tiêm chủng, nâng tổng số trung tâm lên 126 với
+độ phủ khắp 54 tỉnh thành, đánh dấu bước tiến quan trọng trong việc xây dựng hệ sinh thái chăm sóc
+sức khỏe toàn diện. Đặc biệt, Long Châu là một trong những chuỗi bán lẻ tiên phong cung cấp các loại
+vắc-xin mới, lần đầu tiên xuất hiện tại thị trường Việt Nam như vắc-xin sốt xuất huyết và vắc-xin zona
+thần kinh, tạo ra lợi thế cạnh tranh khác biệt và mở ra cơ hội tiếp cận y tế chất lượng cao cho người trên
+cả nước. Song song, Công ty cũng đẩy mạnh đầu tư công nghệ, tối ưu quy trình vận hành nhằm nâng
 cao hiệu quả hoạt động và mở rộng danh mục sản phẩm dược phẩm.
 Công ty Cổ phần Dược phẩm FPT Long Châu
 KẾ HOẠCH HOẠT ĐỘNG 2025
 Kế hoạch hoạt động kinh doanh năm 2025
-Năm 2025, Việt Nam bước vào giai đoạn phát triển với nhiều cơ hội khi nền kinh tế được dự báo có triển 
-vọng tích cực và thị trường tiêu dùng dần phục hồi. Tuy nhiên, bối cảnh chung vẫn tiềm ẩn những rủi ro 
-và biến động khó lường, đặc biệt trước những tác động từ bất ổn địa chính trị và các yếu tố vĩ mô toàn 
-cầu. 
-Trong bối cảnh đó, ngành ICT có thể đối mặt với tốc độ tăng trưởng chậm lại do sự bão hòa ở một số 
-phân khúc, trong khi các thiết bị mới chưa có những đột phá đáng kể về công nghệ và tính năng để 
-thúc đẩy nhu cầu nâng cấp. Bên cạnh đó, tâm lý thận trọng trong đầu tư công nghệ khi kinh tế toàn cầu 
-chưa hoàn toàn phục hồi cũng là một yếu tố ảnh hưởng đến thị trường. Trước những thách thức này, 
-FPT Retail đặt mục tiêu doanh thu tăng trưởng dương cho chuỗi FPT Shop trong năm 2025, tập trung 
-vào việc khai thác các sản phẩm mới và nâng cao hiệu quả hoạt động nhằm tối ưu hóa nguồn lực và gia 
+Năm 2025, Việt Nam bước vào giai đoạn phát triển với nhiều cơ hội khi nền kinh tế được dự báo có triển
+vọng tích cực và thị trường tiêu dùng dần phục hồi. Tuy nhiên, bối cảnh chung vẫn tiềm ẩn những rủi ro
+và biến động khó lường, đặc biệt trước những tác động từ bất ổn địa chính trị và các yếu tố vĩ mô toàn
+Trong bối cảnh đó, ngành ICT có thể đối mặt với tốc độ tăng trưởng chậm lại do sự bão hòa ở một số
+phân khúc, trong khi các thiết bị mới chưa có những đột phá đáng kể về công nghệ và tính năng để
+thúc đẩy nhu cầu nâng cấp. Bên cạnh đó, tâm lý thận trọng trong đầu tư công nghệ khi kinh tế toàn cầu
+chưa hoàn toàn phục hồi cũng là một yếu tố ảnh hưởng đến thị trường. Trước những thách thức này,
+FPT Retail đặt mục tiêu doanh thu tăng trưởng dương cho chuỗi FPT Shop trong năm 2025, tập trung
+vào việc khai thác các sản phẩm mới và nâng cao hiệu quả hoạt động nhằm tối ưu hóa nguồn lực và gia
 tăng giá trị cho khách hàng.
-Mặt khác, trong ngành dược phẩm, với đặc tính là nhóm hàng thiết yếu, ít chịu tác động từ biến động 
-kinh tế vĩ mô và vẫn còn nhiều tiềm năng tăng trưởng. Trong năm 2024, FPT Long Châu ghi nhận những 
-bước tiến quan trọng trong việc mở rộng độ phủ, gia tăng tệp khách hàng và ra mắt nhiều dịch vụ mới 
-nhằm nâng cao trải nghiệm người dùng. Đồng thời, FPT Long Châu cũng từng bước xây dựng hệ sinh 
-thái chăm sóc sức khỏe cho người dân Việt Nam, khởi đầu với chuỗi trung tâm tiêm chủng vắc-xin, mở 
-ra hướng đi mới trong chiến lược phát triển bền vững. Trên cơ sở đó, FPT Retail tiếp tục đặt mục tiêu 
+Mặt khác, trong ngành dược phẩm, với đặc tính là nhóm hàng thiết yếu, ít chịu tác động từ biến động
+kinh tế vĩ mô và vẫn còn nhiều tiềm năng tăng trưởng. Trong năm 2024, FPT Long Châu ghi nhận những
+bước tiến quan trọng trong việc mở rộng độ phủ, gia tăng tệp khách hàng và ra mắt nhiều dịch vụ mới
+nhằm nâng cao trải nghiệm người dùng. Đồng thời, FPT Long Châu cũng từng bước xây dựng hệ sinh
+thái chăm sóc sức khỏe cho người dân Việt Nam, khởi đầu với chuỗi trung tâm tiêm chủng vắc-xin, mở
+ra hướng đi mới trong chiến lược phát triển bền vững. Trên cơ sở đó, FPT Retail tiếp tục đặt mục tiêu
 tăng trưởng doanh thu cao cho chuỗi FPT Long Châu trong năm 2025.
-FPT Retail tiếp tục hướng tới tận tâm phục vụ khách hàng dựa trên sự am hiểu và làm chủ công nghệ, 
-đặc biệt đẩy mạnh ứng dụng AI trong chăm sóc sức khỏe và cung cấp dịch vụ, nâng cao hiệu quả vận 
-hành và tối ưu hóa trải nghiệm người dùng. Với phương châm “Dẫn đầu công nghệ - Chăm sóc toàn 
-diện”, FPT Retail không chỉ mang đến trải nghiệm vượt trội cho khách hàng mà còn hướng đến việc 
-kiến tạo nhiều chuẩn mực mới trong ngành bán lẻ công nghệ và chăm sóc sức khỏe tại Việt Nam. Trên 
-cơ sở đó, Công ty đặt kỳ vọng vào sự tăng trưởng dương về doanh thu và đặc biệt là sự cải thiện mạnh 
-mẽ về lợi nhuận so với năm trước, nhờ vào việc mở rộng hệ sinh thái dịch vụ, tối ưu chi phí vận hành và 
+FPT Retail tiếp tục hướng tới tận tâm phục vụ khách hàng dựa trên sự am hiểu và làm chủ công nghệ,
+đặc biệt đẩy mạnh ứng dụng AI trong chăm sóc sức khỏe và cung cấp dịch vụ, nâng cao hiệu quả vận
+hành và tối ưu hóa trải nghiệm người dùng. Với phương châm “Dẫn đầu công nghệ - Chăm sóc toàn
+diện”, FPT Retail không chỉ mang đến trải nghiệm vượt trội cho khách hàng mà còn hướng đến việc
+kiến tạo nhiều chuẩn mực mới trong ngành bán lẻ công nghệ và chăm sóc sức khỏe tại Việt Nam. Trên
+cơ sở đó, Công ty đặt kỳ vọng vào sự tăng trưởng dương về doanh thu và đặc biệt là sự cải thiện mạnh
+mẽ về lợi nhuận so với năm trước, nhờ vào việc mở rộng hệ sinh thái dịch vụ, tối ưu chi phí vận hành và
 gia tăng hiệu quả kinh doanh.
-FPT Retail không chỉ mang 
-đến trải nghiệm vượt trội cho 
-khách hàng mà còn hướng đến 
-việc kiến tạo nhiều chuẩn mực 
-mới trong ngành bán lẻ công 
-nghệ và chăm sóc sức khỏe tại 
+FPT Retail không chỉ mang
+đến trải nghiệm vượt trội cho
+khách hàng mà còn hướng đến
+việc kiến tạo nhiều chuẩn mực
+mới trong ngành bán lẻ công
+nghệ và chăm sóc sức khỏe tại
 Việt Nam.
 
-56
-Báo cáo thường niên 2024
 Chương II: Báo cáo kết quả hoạt động kinh doanh năm 2024
-57
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 KẾ HOẠCH HOẠT ĐỘNG 2025
-Chiến lược phát triển FPT Long Châu 2025
-FPT Long Châu tiếp tục tập trung mở rộng độ phủ, đổi mới và ứng dụng 
-công nghệ hiện đại nhằm nâng cao trải nghiệm khách hàng, củng cố vị 
-thế dẫn đầu trong ngành dược phẩm. Đồng thời, FPT Long Châu tiên 
-phong phát triển các dịch vụ mới, mang đến những giải pháp chăm sóc 
-sức khỏe toàn diện, góp phần xây dựng một hệ sinh thái chăm sóc sức 
+FPT Long Châu tiếp tục tập trung mở rộng độ phủ, đổi mới và ứng dụng
+công nghệ hiện đại nhằm nâng cao trải nghiệm khách hàng, củng cố vị
+thế dẫn đầu trong ngành dược phẩm. Đồng thời, FPT Long Châu tiên
+phong phát triển các dịch vụ mới, mang đến những giải pháp chăm sóc
+sức khỏe toàn diện, góp phần xây dựng một hệ sinh thái chăm sóc sức
 khỏe vững mạnh cho người dân Việt Nam.
-“
-FPT Long Châu tiếp tục mở rộng vùng phủ với kế hoạch phát triển mạnh mẽ mạng lưới nhà thuốc trên 
-toàn quốc, giúp người dân dễ dàng tiếp cận các sản phẩm dược phẩm chất lượng và dịch vụ chăm sóc 
-sức khỏe chuyên nghiệp. Việc mở rộng này không chỉ đáp ứng nhu cầu ngày càng cao của thị trường mà 
+FPT Long Châu tiếp tục mở rộng vùng phủ với kế hoạch phát triển mạnh mẽ mạng lưới nhà thuốc trên
+toàn quốc, giúp người dân dễ dàng tiếp cận các sản phẩm dược phẩm chất lượng và dịch vụ chăm sóc
+sức khỏe chuyên nghiệp. Việc mở rộng này không chỉ đáp ứng nhu cầu ngày càng cao của thị trường mà
 còn khẳng định cam kết mang đến giải pháp y tế tiện lợi, an toàn và hiệu quả cho cộng đồng.
 Mở rộng vùng phủ
-1
-FPT Long Châu đẩy mạnh ứng dụng trí tuệ nhân tạo (AI) nhằm nâng cao chất lượng dịch vụ, tối ưu hóa 
-vận hành, góp phần củng cố vị thế dẫn đầu trong ngành dược phẩm. Việc triển khai các giải pháp như tư 
-vấn sức khỏe 24/7, hệ thống thanh toán trực tiếp (direct billing) và cá nhân hóa trải nghiệm không chỉ 
-giúp khách hàng dễ dàng tiếp cận thông tin một cách nhanh chóng, các giải pháp này còn nâng tầm trải 
-nghiệm khách hàng với sự thuận tiện từ khâu tìm kiếm, lựa chọn đến quá trình thanh toán và sử dụng 
-dược phẩm. 
-Bên cạnh đó, FPT Long Châu tiếp tục đầu tư đầu tư mở rộng chuỗi vắc - xin, đồng thời nâng cao chất 
-lượng dịch vụ, đảm bảo trải nghiệm khách hàng ngày càng thuận tiện và hiệu quả hơn. Với đội ngũ dược 
-sĩ giàu kinh nghiệm và chuyên môn cao, FPT Long Châu không chỉ cam kết cung cấp dịch vụ tiêm chủng 
-an toàn, đạt chuẩn mà còn đẩy mạnh công tác tư vấn, nâng cao nhận thức cộng đồng về tầm quan trọng 
+FPT Long Châu đẩy mạnh ứng dụng trí tuệ nhân tạo (AI) nhằm nâng cao chất lượng dịch vụ, tối ưu hóa
+vận hành, góp phần củng cố vị thế dẫn đầu trong ngành dược phẩm. Việc triển khai các giải pháp như tư
+vấn sức khỏe 24/7, hệ thống thanh toán trực tiếp (direct billing) và cá nhân hóa trải nghiệm không chỉ
+giúp khách hàng dễ dàng tiếp cận thông tin một cách nhanh chóng, các giải pháp này còn nâng tầm trải
+nghiệm khách hàng với sự thuận tiện từ khâu tìm kiếm, lựa chọn đến quá trình thanh toán và sử dụng
+dược phẩm.
+Bên cạnh đó, FPT Long Châu tiếp tục đầu tư đầu tư mở rộng chuỗi vắc - xin, đồng thời nâng cao chất
+lượng dịch vụ, đảm bảo trải nghiệm khách hàng ngày càng thuận tiện và hiệu quả hơn. Với đội ngũ dược
+sĩ giàu kinh nghiệm và chuyên môn cao, FPT Long Châu không chỉ cam kết cung cấp dịch vụ tiêm chủng
+an toàn, đạt chuẩn mà còn đẩy mạnh công tác tư vấn, nâng cao nhận thức cộng đồng về tầm quan trọng
 của vắc-xin trong việc phòng ngừa bệnh tật và bảo vệ sức khỏe bền vững.
-FPT Long Châu sẽ không ngừng nỗ lực nghiên cứu và ra mắt các dịch vụ mới, mở rộng danh mục sản 
-phẩm và giải pháp y tế, tiếp tục xây dựng hệ sinh thái chăm sóc sức khỏe, nhằm đáp ứng nhu cầu chăm 
+FPT Long Châu sẽ không ngừng nỗ lực nghiên cứu và ra mắt các dịch vụ mới, mở rộng danh mục sản
+phẩm và giải pháp y tế, tiếp tục xây dựng hệ sinh thái chăm sóc sức khỏe, nhằm đáp ứng nhu cầu chăm
 sóc sức khỏe toàn diện của khách hàng nói riêng và người dân Việt Nam nói chung.
-Tăng cường ứng dụng công nghệ AI để tối ưu hóa vận hành 
+Tăng cường ứng dụng công nghệ AI để tối ưu hóa vận hành
 và cung cấp các dịch vụ mới
-2
-FPT Shop sẽ tiếp tục điều chỉnh cơ cấu sản phẩm nhằm tối ưu biên lợi nhuận, tập trung vào các mặt hàng 
-có lãi gộp cao để nâng cao hiệu quả kinh doanh. Bên cạnh đó, công ty đẩy mạnh phát triển mô hình FPT 
-Shop Điện Máy, từng bước chuyển đổi các cửa hàng FPT Shop thông thường sang mô hình mới nhằm 
-đáp ứng nhu cầu đa dạng của khách hàng. Đồng thời, FPT Shop sẽ không ngừng nghiên cứu và phát 
-triển các dịch vụ mới, tận dụng công nghệ hiện đại để nâng cao trải nghiệm mua sắm, gia tăng giá trị 
+FPT Shop sẽ tiếp tục điều chỉnh cơ cấu sản phẩm nhằm tối ưu biên lợi nhuận, tập trung vào các mặt hàng
+có lãi gộp cao để nâng cao hiệu quả kinh doanh. Bên cạnh đó, công ty đẩy mạnh phát triển mô hình FPT
+Shop Điện Máy, từng bước chuyển đổi các cửa hàng FPT Shop thông thường sang mô hình mới nhằm
+đáp ứng nhu cầu đa dạng của khách hàng. Đồng thời, FPT Shop sẽ không ngừng nghiên cứu và phát
+triển các dịch vụ mới, tận dụng công nghệ hiện đại để nâng cao trải nghiệm mua sắm, gia tăng giá trị
 dịch vụ và mở ra những cơ hội tăng trưởng bền vững trong tương lai.
 Thay đổi danh mục sản phẩm
-1
-FPT Shop tiếp tục đẩy mạnh ứng dụng trí tuệ nhân tạo 
-(AI) nhằm tối ưu hóa hoạt động, nâng cao hiệu quả vận 
-hành và cải thiện trải nghiệm khách hàng. Bên cạnh 
-đó, công nghệ AI còn hỗ trợ cá nhân hóa trải nghiệm 
-khách hàng thông qua các gợi ý sản phẩm thông minh, 
-chăm sóc khách hàng tự động và cải thiện dịch vụ hậu 
-mãi.
-Thông qua việc kết hợp hài hòa giữa đổi mới mô hình 
-kinh doanh và ứng dụng công nghệ tiên tiến, FPT Shop 
-cam kết mang đến giá trị vượt trội cho khách hàng, 
-đồng thời tạo ra động lực tăng trưởng bền vững cho 
-FRT trong tương lai. Chiến lược này không chỉ đáp ứng 
-xu hướng tiêu dùng công nghệ ngày càng đa dạng mà 
-còn góp phần thúc đẩy quá trình số hóa và hiện đại 
+FPT Shop tiếp tục đẩy mạnh ứng dụng trí tuệ nhân tạo
+(AI) nhằm tối ưu hóa hoạt động, nâng cao hiệu quả vận
+hành và cải thiện trải nghiệm khách hàng. Bên cạnh
+đó, công nghệ AI còn hỗ trợ cá nhân hóa trải nghiệm
+khách hàng thông qua các gợi ý sản phẩm thông minh,
+chăm sóc khách hàng tự động và cải thiện dịch vụ hậu
+Thông qua việc kết hợp hài hòa giữa đổi mới mô hình
+kinh doanh và ứng dụng công nghệ tiên tiến, FPT Shop
+cam kết mang đến giá trị vượt trội cho khách hàng,
+đồng thời tạo ra động lực tăng trưởng bền vững cho
+FRT trong tương lai. Chiến lược này không chỉ đáp ứng
+xu hướng tiêu dùng công nghệ ngày càng đa dạng mà
+còn góp phần thúc đẩy quá trình số hóa và hiện đại
 hóa ngành bán lẻ Việt Nam.
 Ứng dụng AI nhằm tối ưu hóa hoạt động
-2
-Chiến lược phát triển FPT Shop 2025
-Trước bối cảnh thị trường bán lẻ công nghệ dần bão hòa, FPT Shop xác 
-định trọng tâm hoạt động trong năm là duy trì hiệu quả hoạt động và tối 
-ưu lợi nhuận, đảm bảo sự phát triển bền vững và đóng góp tích cực vào 
+Trước bối cảnh thị trường bán lẻ công nghệ dần bão hòa, FPT Shop xác
+định trọng tâm hoạt động trong năm là duy trì hiệu quả hoạt động và tối
+ưu lợi nhuận, đảm bảo sự phát triển bền vững và đóng góp tích cực vào
 kết quả kinh doanh của FPT Retail.
-“
 
-68
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-Năm 2024, Hội đồng quản trị (HĐQT) đánh giá cao những 
-nỗ lực không ngừng cùng những thành tựu ấn tượng mà FPT 
-Retail và Ban Giám đốc đã đạt được trong hành trình mở rộng 
-kinh doanh và đổi mới. Đồng thời, FPT Retail tiếp tục khẳng 
-định bản lĩnh quản trị vững vàng, khả năng thích ứng linh hoạt 
-trước những biến động không ngừng của nền kinh tế thế giới 
+Năm 2024, Hội đồng quản trị (HĐQT) đánh giá cao những
+nỗ lực không ngừng cùng những thành tựu ấn tượng mà FPT
+Retail và Ban Giám đốc đã đạt được trong hành trình mở rộng
+kinh doanh và đổi mới. Đồng thời, FPT Retail tiếp tục khẳng
+định bản lĩnh quản trị vững vàng, khả năng thích ứng linh hoạt
+trước những biến động không ngừng của nền kinh tế thế giới
 và Việt Nam, vững bước trên hành trình phát triển.
 BÁO CÁO CỦA HỘI ĐỒNG QUẢN TRỊ
 Giới thiệu về Hội đồng quản trị (HĐQT)
-HĐQT FPT Retail nhiệm kỳ 2022 – 2027 bao gồm 05 thành viên, đảm bảo 
-sự kết hợp đa dạng về chuyên môn, số lượng thành viên độc lập và thành 
-viên không điều hành. Cơ cấu này không chỉ đảm bảo tính khách quan, 
-chuyên nghiệp mà còn nâng cao hiệu quả quản trị, hướng đến sự phát 
-triển bền vững của Công ty, đồng thời tối ưu hóa lợi ích cho cổ đông, cán 
-bộ nhân viên và các bên liên quan. 
-Thông tin chi tiết của các thành viên được trình bày tại Chương 1, Giới 
+HĐQT FPT Retail nhiệm kỳ 2022 – 2027 bao gồm 05 thành viên, đảm bảo
+sự kết hợp đa dạng về chuyên môn, số lượng thành viên độc lập và thành
+viên không điều hành. Cơ cấu này không chỉ đảm bảo tính khách quan,
+chuyên nghiệp mà còn nâng cao hiệu quả quản trị, hướng đến sự phát
+triển bền vững của Công ty, đồng thời tối ưu hóa lợi ích cho cổ đông, cán
+bộ nhân viên và các bên liên quan.
+Thông tin chi tiết của các thành viên được trình bày tại Chương 1, Giới
 thiệu FPT Retail - mục Hội đồng quản trị.
 Các tiểu ban thuộc HĐQT
-Hiện tại, HĐQT của FPT Retail chưa thành lập các tiểu ban trực thuộc. 
-Thay vào đó, các thành viên trong HĐQT trực tiếp đảm nhận và thực hiện 
-các nhiệm vụ theo sự phân công cụ thể. Cách thức tổ chức này đảm bảo 
-được sự linh hoạt trong quản lý, đồng thời tạo điều kiện để từng thành 
-viên phát huy tối đa chuyên môn, kinh nghiệm, đóng góp vào quá trình 
+Hiện tại, HĐQT của FPT Retail chưa thành lập các tiểu ban trực thuộc.
+Thay vào đó, các thành viên trong HĐQT trực tiếp đảm nhận và thực hiện
+các nhiệm vụ theo sự phân công cụ thể. Cách thức tổ chức này đảm bảo
+được sự linh hoạt trong quản lý, đồng thời tạo điều kiện để từng thành
+viên phát huy tối đa chuyên môn, kinh nghiệm, đóng góp vào quá trình
 điều hành và định hướng chiến lược của Công ty một cách hiệu quả.
-69
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 
-70
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-71
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 BÁO CÁO CỦA HỘI ĐỒNG QUẢN TRỊ
-Hoạt động của 
+Hoạt động của
 HĐQT năm 2024
-HĐQT FPT Retail đã tổ chức và duy trì đều đặn các phiên họp 
-định kỳ, đảm bảo việc thảo luận, xem xét và đưa ra các quyết định 
-quan trọng một cách kịp thời, góp phần quan trọng trong việc định 
+HĐQT FPT Retail đã tổ chức và duy trì đều đặn các phiên họp
+định kỳ, đảm bảo việc thảo luận, xem xét và đưa ra các quyết định
+quan trọng một cách kịp thời, góp phần quan trọng trong việc định
 hướng chiến lược và hoạt động kinh doanh của Công ty.
-Các thành viên HĐQT luôn tham gia đầy đủ, làm việc với tinh thần 
-trách nhiệm cao, chủ động đóng góp ý kiến và đề xuất giải pháp 
-nhằm thúc đẩy sự phát triển bền vững của Công ty. Mọi quyết định 
-đều được đưa ra trên cơ sở tuân thủ chặt chẽ các Nghị quyết của 
-Đại hội đồng Cổ đông và các quy định của pháp luật, phản ánh sự 
-cam kết mạnh mẽ của Hội đồng Quản trị trong việc dẫn dắt doanh 
+Các thành viên HĐQT luôn tham gia đầy đủ, làm việc với tinh thần
+trách nhiệm cao, chủ động đóng góp ý kiến và đề xuất giải pháp
+nhằm thúc đẩy sự phát triển bền vững của Công ty. Mọi quyết định
+đều được đưa ra trên cơ sở tuân thủ chặt chẽ các Nghị quyết của
+Đại hội đồng Cổ đông và các quy định của pháp luật, phản ánh sự
+cam kết mạnh mẽ của Hội đồng Quản trị trong việc dẫn dắt doanh
 nghiệp theo đúng tầm nhìn và chiến lược dài hạn.
 Nội dung chi tiết của các phiên họp và các Nghị quyết/Quyết định được ban hành như sau:
-STT
 Số Nghị quyết/
 Quyết định
 Ngày
-Nội dung 
-Tỷ lệ 
+Nội dung
+Tỷ lệ
 tham dự
-Tỷ lệ 
+Tỷ lệ
 thông qua
-1
-01.2024/NQ-HĐQT/
-FRT
-22/02/2024
-NQ HĐQT thông qua kế 
-hoạch tổ chức ĐHĐCĐ 
+NQ HĐQT thông qua kế
+hoạch tổ chức ĐHĐCĐ
 thường niên 2024
-100%
-100%
-2
-02.2024/NQ-HĐQT/
-FRT
-25/03/2024
-NQ HĐQT về việc thông qua 
+NQ HĐQT về việc thông qua
 tài liệu ĐHĐCĐ
-100%
-100%
-3
-Không ban hành 
+Không ban hành
 Nghị quyết
-28/6/2024
-Thảo luận đánh giá các hoạt 
-động sản xuất kinh doanh 
+Thảo luận đánh giá các hoạt
+động sản xuất kinh doanh
 trong quý II năm 2024
-100%
--
-4
-03.2024/NQ-HĐQT/
-FRT
-11/7/2024
-NQ HĐQT về việc lựa chọn 
-đơn vị kiểm toán Báo cáo tài 
+NQ HĐQT về việc lựa chọn
+đơn vị kiểm toán Báo cáo tài
 chính năm 2024
-100%
-100%
-5
-04.2024/NQ-HĐQT/
-FRT
-25/7/2024
-NQ HĐQT thông qua chủ 
-trương mua thêm cổ phần 
-do Công ty cổ phần dược 
-phẩm FPT Long Châu phát 
+NQ HĐQT thông qua chủ
+trương mua thêm cổ phần
+do Công ty cổ phần dược
+phẩm FPT Long Châu phát
 hành quý III năm 2024
-100%
-100%
-6
-05.2024/NQ-HĐQT/
-FRT
-30/7/2024
-NQ HĐQT về việc thành lập 
+NQ HĐQT về việc thành lập
 Công ty con
-100%
-100%
-7
-06.2024/NQ-HĐQT/
-FRT
-30/9/2024
-NQ HĐQT về việc bổ nhiệm 
-Phó Tổng giám đốc Nguyễn 
+NQ HĐQT về việc bổ nhiệm
+Phó Tổng giám đốc Nguyễn
 Đỗ Quyên
-100%
-100%
-8
-Không ban hành 
+Không ban hành
 Nghị quyết
-18/10/2024
-Đánh giá kết quả kinh doanh 
-quý III và trao đổi kế hoạch 
+Đánh giá kết quả kinh doanh
+quý III và trao đổi kế hoạch
 hoạt động quý IV năm 2024
-100%
-Báo cáo đánh giá 
+Báo cáo đánh giá
 hoạt động của
-thành viên HĐQT 
+thành viên HĐQT
 độc lập năm 2024
-HĐQT của FPT Retail hiện có 02 thành viên độc lập, chiếm tỷ lệ 
-gần 40% tổng số thành viên HĐQT. Các thành viên độc lập gồm 
-có: ông Lê Hồng Việt và ông Nguyễn Đắc Việt Dũng. Cả hai đều 
-tham gia đầy đủ các phiên họp trong năm 2024, thể hiện tinh thần 
-trách nhiệm cao và cam kết mạnh mẽ đối với công tác quản trị của 
+HĐQT của FPT Retail hiện có 02 thành viên độc lập, chiếm tỷ lệ
+gần 40% tổng số thành viên HĐQT. Các thành viên độc lập gồm
+có: ông Lê Hồng Việt và ông Nguyễn Đắc Việt Dũng. Cả hai đều
+tham gia đầy đủ các phiên họp trong năm 2024, thể hiện tinh thần
+trách nhiệm cao và cam kết mạnh mẽ đối với công tác quản trị của
 Công ty.
-Với góc nhìn khách quan và chuyên môn sâu rộng, các thành viên 
-HĐQT độc lập đã có những đóng góp quan trọng trong việc định 
-hướng chiến lược phát triển của FPT Retail. Không chỉ tham gia 
-thảo luận về các chỉ tiêu kinh doanh và kế hoạch mở rộng của hai 
-chuỗi FPT Shop và FPT Long Châu, các thành viên HĐQT độc lập 
-còn đóng vai trò quan trọng trong việc nâng cao hiệu quả quản 
-trị doanh nghiệp, thúc đẩy tính minh bạch, chuyên nghiệp và phát 
+Với góc nhìn khách quan và chuyên môn sâu rộng, các thành viên
+HĐQT độc lập đã có những đóng góp quan trọng trong việc định
+thảo luận về các chỉ tiêu kinh doanh và kế hoạch mở rộng của hai
+chuỗi FPT Shop và FPT Long Châu, các thành viên HĐQT độc lập
+còn đóng vai trò quan trọng trong việc nâng cao hiệu quả quản
+trị doanh nghiệp, thúc đẩy tính minh bạch, chuyên nghiệp và phát
 triển bền vững.
-Đặc biệt, với thế mạnh về Công nghệ Thông tin, ông Lê Hồng Việt 
-và ông Nguyễn Đắc Việt Dũng – thành viên HĐQT độc lập – đã đưa 
-ra nhiều giải pháp tối ưu hóa hệ thống, ứng dụng công nghệ vào 
-vận hành và nâng cao chất lượng dịch vụ tại FPT Shop và FPT Long 
-Châu. Trong năm 2024, khi FPT Retail đẩy mạnh chiến lược chuyển 
-đổi số, các thành viên đã tích cực tư vấn, góp phần mang lại những 
-thành công đáng kể cho quá trình số hóa. Bước sang năm 2025, khi 
-chuyển đổi số tiếp tục là trọng tâm đầu tư, các thành viên HĐQT 
-độc lập sẽ tiếp tục đồng hành, chia sẻ kinh nghiệm và đề xuất các 
-giải pháp tối ưu, giúp FPT Retail duy trì đà tăng trưởng và khai thác 
+Đặc biệt, với thế mạnh về Công nghệ Thông tin, ông Lê Hồng Việt
+và ông Nguyễn Đắc Việt Dũng – thành viên HĐQT độc lập – đã đưa
+ra nhiều giải pháp tối ưu hóa hệ thống, ứng dụng công nghệ vào
+vận hành và nâng cao chất lượng dịch vụ tại FPT Shop và FPT Long
+Châu. Trong năm 2024, khi FPT Retail đẩy mạnh chiến lược chuyển
+đổi số, các thành viên đã tích cực tư vấn, góp phần mang lại những
+thành công đáng kể cho quá trình số hóa. Bước sang năm 2025, khi
+chuyển đổi số tiếp tục là trọng tâm đầu tư, các thành viên HĐQT
+độc lập sẽ tiếp tục đồng hành, chia sẻ kinh nghiệm và đề xuất các
+giải pháp tối ưu, giúp FPT Retail duy trì đà tăng trưởng và khai thác
 hiệu quả cơ hội từ công nghệ.
 
-72
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-73
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 BÁO CÁO CỦA BAN KIỂM SOÁT
-Giới thiệu 
+Giới thiệu
 Ban kiểm soát
 Hoạt động
 Ban kiểm soát
-Ban kiểm soát của FPT Retail nhiệm kỳ 2022 – 2027 bao gồm 03 
-thành viên. Thông tin chi tiết của các thành viên được trình bày tại 
+Ban kiểm soát của FPT Retail nhiệm kỳ 2022 – 2027 bao gồm 03
+thành viên. Thông tin chi tiết của các thành viên được trình bày tại
 Chương 1, Giới thiệu FPT Retail - mục Ban kiểm soát.
-Trong năm 2024, BKS của FPT Retail đã thực hiện đầy đủ chức 
+Trong năm 2024, BKS của FPT Retail đã thực hiện đầy đủ chức
 năng, quyền hạn theo quy định tại Điều lệ Công ty, Luật Doanh ng-
-hiệp và các quy chế quản trị áp dụng đối với công ty niêm yết. Với 
-tinh thần trách nhiệm cao, BKS đã chủ động giám sát, tổ chức 02 
-cuộc họp BKS trong năm 2024 để đảm bảo hoạt động của Công ty 
+hiệp và các quy chế quản trị áp dụng đối với công ty niêm yết. Với
+tinh thần trách nhiệm cao, BKS đã chủ động giám sát, tổ chức 02
+cuộc họp BKS trong năm 2024 để đảm bảo hoạt động của Công ty
 tuân thủ quy định pháp luật, minh bạch và hiệu quả
-BKS đã thực hiện giám sát chặt chẽ hoạt động của HĐQT và Ban Điều hành FPT Retail trong việc triển 
-khai các định hướng và kế hoạch kinh doanh năm 2024 theo nghị quyết của Đại hội đồng Cổ đông. Đồng 
-thời, BKS cũng theo dõi sát sao việc tuân thủ các quy định pháp luật, Điều lệ Công ty trong công tác 
-quản trị và điều hành. 
-Kết quả giám sát cho thấy, HĐQT và Ban Điều hành đã điều hành hoạt động kinh doanh của FPT Retail 
-theo đúng định hướng đã được Đại hội đồng Cổ đông thông qua, đảm bảo các chỉ tiêu kinh doanh đạt 
-kết quả khả quan so với kế hoạch đề ra. Bên cạnh đó, công tác quản trị và điều hành được thực hiện tuân 
-thủ chặt chẽ các quy định pháp luật cũng như Điều lệ Công ty, góp phần duy trì sự minh bạch, hiệu quả 
+BKS đã thực hiện giám sát chặt chẽ hoạt động của HĐQT và Ban Điều hành FPT Retail trong việc triển
+khai các định hướng và kế hoạch kinh doanh năm 2024 theo nghị quyết của Đại hội đồng Cổ đông. Đồng
+thời, BKS cũng theo dõi sát sao việc tuân thủ các quy định pháp luật, Điều lệ Công ty trong công tác
+quản trị và điều hành.
+Kết quả giám sát cho thấy, HĐQT và Ban Điều hành đã điều hành hoạt động kinh doanh của FPT Retail
+theo đúng định hướng đã được Đại hội đồng Cổ đông thông qua, đảm bảo các chỉ tiêu kinh doanh đạt
+kết quả khả quan so với kế hoạch đề ra. Bên cạnh đó, công tác quản trị và điều hành được thực hiện tuân
+thủ chặt chẽ các quy định pháp luật cũng như Điều lệ Công ty, góp phần duy trì sự minh bạch, hiệu quả
 và bền vững trong hoạt động của FPT Retail.
-Tại Đại hội đồng Cổ đông năm 2024, BKS đã báo cáo chi tiết về tình hình hoạt động trong năm qua và 
-đề ra kế hoạch hành động cho giai đoạn tiếp theo, thể hiện tinh thần trách nhiệm và cam kết minh bạch 
-trong công tác giám sát. Đặc biệt, trong suốt năm 2024, BKS không nhận được bất kỳ khiếu nại nào từ 
+Tại Đại hội đồng Cổ đông năm 2024, BKS đã báo cáo chi tiết về tình hình hoạt động trong năm qua và
+đề ra kế hoạch hành động cho giai đoạn tiếp theo, thể hiện tinh thần trách nhiệm và cam kết minh bạch
+trong công tác giám sát. Đặc biệt, trong suốt năm 2024, BKS không nhận được bất kỳ khiếu nại nào từ
 cổ đông, phản ánh sự tin tưởng và đồng thuận cao đối với hoạt động quản trị và kiểm soát của Công ty.
 Hoạt động giám sát của BKS đối với HĐQT và Ban Điều hành
 Hoạt động giám sát của BKS đối với cổ đông
-Sự phối hợp chặt chẽ giữa Ban Kiểm soát, Hội đồng Quản trị, Ban Điều hành và đội ngũ quản lý cấp cao 
-đã góp phần nâng cao hiệu quả quản trị, đảm bảo tính minh bạch và tuân thủ trong mọi hoạt động của 
-Công ty. 
-BKS duy trì sự phối hợp thường xuyên với HĐQT và Điều hành, qua đó đảm bảo tiếp nhận đầy đủ thông 
-tin về kế hoạch kinh doanh của Công ty để thực hiện tốt vai trò giám sát. Đồng thời, BKS cũng tích cực 
-tham gia vào công tác tổ chức Đại hội đồng Cổ đông thường niên năm 2024, góp phần quan trọng vào 
-sự thành công của sự kiện diễn ra vào ngày 17/4/2024. Bên cạnh đó, BKS đã phối hợp với các phòng ban 
-liên quan để thực hiện công tác kiểm tra, giám sát nội bộ tại các đơn vị, bộ phận trong Công ty, nhằm 
+Sự phối hợp chặt chẽ giữa Ban Kiểm soát, Hội đồng Quản trị, Ban Điều hành và đội ngũ quản lý cấp cao
+đã góp phần nâng cao hiệu quả quản trị, đảm bảo tính minh bạch và tuân thủ trong mọi hoạt động của
+Công ty.
+BKS duy trì sự phối hợp thường xuyên với HĐQT và Điều hành, qua đó đảm bảo tiếp nhận đầy đủ thông
+tin về kế hoạch kinh doanh của Công ty để thực hiện tốt vai trò giám sát. Đồng thời, BKS cũng tích cực
+tham gia vào công tác tổ chức Đại hội đồng Cổ đông thường niên năm 2024, góp phần quan trọng vào
+sự thành công của sự kiện diễn ra vào ngày 17/4/2024. Bên cạnh đó, BKS đã phối hợp với các phòng ban
+liên quan để thực hiện công tác kiểm tra, giám sát nội bộ tại các đơn vị, bộ phận trong Công ty, nhằm
 nâng cao hiệu quả quản trị và hoạt động vận hành.
-Ngoài ra, BKS đã thực hiện rà soát và đánh giá các báo cáo tài chính do Ban Điều hành cung cấp, đảm 
-bảo tính kịp thời, minh bạch và phản ánh trung thực, hợp lý tình hình tài chính của Công ty. Đồng thời, 
-BKS cũng tham gia tư vấn chuyên môn cho Ban Điều hành trong việc tuân thủ các quy định pháp luật về 
+Ngoài ra, BKS đã thực hiện rà soát và đánh giá các báo cáo tài chính do Ban Điều hành cung cấp, đảm
+bảo tính kịp thời, minh bạch và phản ánh trung thực, hợp lý tình hình tài chính của Công ty. Đồng thời,
+BKS cũng tham gia tư vấn chuyên môn cho Ban Điều hành trong việc tuân thủ các quy định pháp luật về
 thuế, kế toán, góp phần tối ưu hóa hoạt động tài chính và mang lại lợi ích bền vững cho Công ty.
-Phối hợp hoạt động của BKS, HĐQT, Ban Điều hành 
+Phối hợp hoạt động của BKS, HĐQT, Ban Điều hành
 và các cán bộ quản lý khác
 Các hoạt động khác
 
-74
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-75
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 QUẢN TRỊ DOANH NGHIỆP
 Kết quả đạt được về quản trị doanh nghiệp trong năm 2024
-Tiếp nối những kết quả tích cực từ những năm trước, Công ty tiếp tục tối ưu hóa bộ máy quản trị, tinh 
-gọn cơ cấu tổ chức và phát huy hiệu quả của HĐQT  nhằm nâng cao chất lượng quản trị doanh nghiệp. 
-Ngoài ra, Công ty cũng chú trọng đến công tác kiểm soát nội bộ, nâng cao tính minh bạch và hiệu quả 
+Tiếp nối những kết quả tích cực từ những năm trước, Công ty tiếp tục tối ưu hóa bộ máy quản trị, tinh
+gọn cơ cấu tổ chức và phát huy hiệu quả của HĐQT  nhằm nâng cao chất lượng quản trị doanh nghiệp.
+Ngoài ra, Công ty cũng chú trọng đến công tác kiểm soát nội bộ, nâng cao tính minh bạch và hiệu quả
 giám sát, đảm bảo tuân thủ các nguyên tắc quản trị tiên tiến.
-Bên cạnh đó, bộ phận Quan hệ Cổ đông và Nhà Đầu tư của FPT Retail không ngừng cố gắng để cung 
-cấp thông tin kịp thời, chính xác, giúp kết nối chặt chẽ giữa Công ty với cổ đông và các bên liên quan. 
-Với tinh thần chủ động và minh bạch, FPT Retail luôn nỗ lực củng cố niềm tin từ nhà đầu tư, góp phần 
+Bên cạnh đó, bộ phận Quan hệ Cổ đông và Nhà Đầu tư của FPT Retail không ngừng cố gắng để cung
+cấp thông tin kịp thời, chính xác, giúp kết nối chặt chẽ giữa Công ty với cổ đông và các bên liên quan.
+Với tinh thần chủ động và minh bạch, FPT Retail luôn nỗ lực củng cố niềm tin từ nhà đầu tư, góp phần
 nâng cao giá trị bền vững của doanh nghiệp trong dài hạn.
-Thù lao và các khoản lợi ích của thành viên Hội đồng quản trị, 
+Thù lao và các khoản lợi ích của thành viên Hội đồng quản trị,
 Ban Kiểm soát, và Ban Điều hành
-Các thay đổi về thành viên 
-Hội đồng quản trị, Ban Kiểm 
+Các thay đổi về thành viên
+Hội đồng quản trị, Ban Kiểm
 soát và Ban Điều hành
-Trong năm 2024, FPT Retail đã tuân thủ chặt chẽ và thực hiện 
-nghiêm túc các quy định về quản trị doanh nghiệp theo tiêu 
-chuẩn của các công ty đại chúng, đồng thời đảm bảo tính minh 
+Trong năm 2024, FPT Retail đã tuân thủ chặt chẽ và thực hiện
+nghiêm túc các quy định về quản trị doanh nghiệp theo tiêu
+chuẩn của các công ty đại chúng, đồng thời đảm bảo tính minh
 bạch trong công bố thông tin trên thị trường chứng khoán.
-“
-Lương, thưởng, thù lao và các khoản lợi ích 
-Hội đồng Quản trị và Ban Kiểm soát không nhận thù lao theo quy định tại Điều 6 của Nghị quyết Đại hội 
-đồng Cổ đông thường niên số 01.2024/NQ-ĐHĐCĐ/FRT, ban hành ngày 17 tháng 4 năm 2024. 
-Tiền lương của Tổng Giám đốc và các nhân sự quản lý cấp cao được xác định theo cơ chế đã được thông 
-qua, đảm bảo phù hợp với chiến lược phát triển của Công ty và tuân thủ các quy định pháp luật hiện 
-hành. 
-(*) Bổ nhiệm từ 1/10/2024
-STT
+Lương, thưởng, thù lao và các khoản lợi ích
+Hội đồng Quản trị và Ban Kiểm soát không nhận thù lao theo quy định tại Điều 6 của Nghị quyết Đại hội
+đồng Cổ đông thường niên số 01.2024/NQ-ĐHĐCĐ/FRT, ban hành ngày 17 tháng 4 năm 2024.
+Tiền lương của Tổng Giám đốc và các nhân sự quản lý cấp cao được xác định theo cơ chế đã được thông
+qua, đảm bảo phù hợp với chiến lược phát triển của Công ty và tuân thủ các quy định pháp luật hiện
+hành.
 Thành viên
 Chức vụ
-2024 (VND)
-2023 (VND)
-1
 Ông Hoàng Trung Kiên
 Tổng Giám đốc
-2.160.000.000
-1.908.000.000
-2
 Ông Nguyễn Việt Anh
 Phó Tổng Giám đốc
-1.720.000.000
-1.378.000.000
-3
 Bà Nguyễn Đỗ Quyên (*)
-Phó Tổng Giám đốc 
-455.000.000
--
-4
+Phó Tổng Giám đốc
 Ông Phạm Duy Hoàng Nam
 Giám đốc tài chính
-1.240.009.000
-954.000.000
-6
 Bà Trần Thị Nga
 Kế toán trưởng
-633.856.692
-650.000.000
 Các thay đổi về HĐQT
-Công ty không có thay 
-đổi về thành viên HĐQT 
+Công ty không có thay
+đổi về thành viên HĐQT
 trong năm 2024
 Các thay đổi về BKS
-Công ty không có thay 
-đổi về thành viên BKS 
+Công ty không có thay
+đổi về thành viên BKS
 trong năm 2024
 Các thay đổi về
 Ban Điều hành
-Năm 2024, bà Nguyễn 
-Đỗ Quyên được bổ 
-nhiệm giữ chức vụ Phó 
-Tổng Giám đốc từ ngày 
-1/10/2024
+Năm 2024, bà Nguyễn
+Đỗ Quyên được bổ
+nhiệm giữ chức vụ Phó
+Tổng Giám đốc từ ngày
 
-80
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-81
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 QUẢN TRỊ RỦI RO
 Rủi ro tài chính
 Rủi ro lãi suất
-FPT Retail chủ động 
-đàm phán với các tổ 
-chức tín dụng nhằm 
-tiếp cận các gói vay 
-ưu đãi, tận dụng tối đa 
-các nguồn vốn có chi 
-phí thấp để giảm áp 
+FPT Retail chủ động
+đàm phán với các tổ
+chức tín dụng nhằm
+tiếp cận các gói vay
+ưu đãi, tận dụng tối đa
+các nguồn vốn có chi
+phí thấp để giảm áp
 lực chi phí tài chính.
-Năm 2024, lãi suất tiếp tục đóng vai trò quan trọng trong bức tranh 
-kinh tế vĩ mô, tác động trực tiếp đến hoạt động tài chính và sản xuất 
-kinh doanh của các doanh nghiệp. Nhằm thúc đẩy tăng trưởng sau 
-giai đoạn thắt chặt tiền tệ để kiểm soát lạm phát, Cục Dự trữ Liên 
-bang Mỹ (Fed) đã điều chỉnh lãi suất giảm từ 5,50% xuống 4,50% 
-trong nửa cuối năm. Tại Việt Nam, Ngân hàng Nhà nước (NHNN) 
-duy trì chính sách tiền tệ linh hoạt, tiếp tục xu hướng giảm lãi suất 
-để hỗ trợ hoạt động kinh doanh và đầu tư. Nhờ đó, lãi suất cho vay 
-trung bình giảm 0,44 điểm phần trăm so với cuối năm 2023, trong 
-khi lãi suất huy động kỳ hạn dài tại nhiều ngân hàng gần như đi 
-ngang. Những điều chỉnh này không chỉ giúp doanh nghiệp tiếp cận 
-nguồn vốn với chi phí hợp lý hơn mà còn tạo động lực quan trọng 
-cho quá trình phục hồi và phát triển kinh tế. 
-FPT Retail chịu tác động không nhỏ từ những biến động của lãi 
-suất, buộc doanh nghiệp phải thận trọng trong việc duy trì hiệu 
-quả tài chính và kiểm soát áp lực lãi vay. Bên cạnh đó, yếu tố ảnh 
-hưởng mạnh mẽ hơn đến hoạt động kinh doanh chính là nhu cầu 
-tiêu dùng, vốn dễ bị tác động bởi mặt bằng lãi suất. Nếu lãi suất có 
-xu hướng tăng trở lại nhằm kiểm soát lạm phát hoặc ổn định tỷ giá, 
-không chỉ chi phí vay vốn gia tăng, ảnh hưởng đến dòng tiền và kế 
-hoạch mở rộng hoạt động, mà còn có thể khiến sức mua của người 
-tiêu dùng suy giảm, tạo thêm thách thức cho tăng trưởng doanh 
+Năm 2024, lãi suất tiếp tục đóng vai trò quan trọng trong bức tranh
+kinh tế vĩ mô, tác động trực tiếp đến hoạt động tài chính và sản xuất
+kinh doanh của các doanh nghiệp. Nhằm thúc đẩy tăng trưởng sau
+giai đoạn thắt chặt tiền tệ để kiểm soát lạm phát, Cục Dự trữ Liên
+bang Mỹ (Fed) đã điều chỉnh lãi suất giảm từ 5,50% xuống 4,50%
+trong nửa cuối năm. Tại Việt Nam, Ngân hàng Nhà nước (NHNN)
+duy trì chính sách tiền tệ linh hoạt, tiếp tục xu hướng giảm lãi suất
+để hỗ trợ hoạt động kinh doanh và đầu tư. Nhờ đó, lãi suất cho vay
+trung bình giảm 0,44 điểm phần trăm so với cuối năm 2023, trong
+khi lãi suất huy động kỳ hạn dài tại nhiều ngân hàng gần như đi
+ngang. Những điều chỉnh này không chỉ giúp doanh nghiệp tiếp cận
+nguồn vốn với chi phí hợp lý hơn mà còn tạo động lực quan trọng
+cho quá trình phục hồi và phát triển kinh tế.
+FPT Retail chịu tác động không nhỏ từ những biến động của lãi
+suất, buộc doanh nghiệp phải thận trọng trong việc duy trì hiệu
+quả tài chính và kiểm soát áp lực lãi vay. Bên cạnh đó, yếu tố ảnh
+hưởng mạnh mẽ hơn đến hoạt động kinh doanh chính là nhu cầu
+tiêu dùng, vốn dễ bị tác động bởi mặt bằng lãi suất. Nếu lãi suất có
+xu hướng tăng trở lại nhằm kiểm soát lạm phát hoặc ổn định tỷ giá,
+không chỉ chi phí vay vốn gia tăng, ảnh hưởng đến dòng tiền và kế
+hoạch mở rộng hoạt động, mà còn có thể khiến sức mua của người
+tiêu dùng suy giảm, tạo thêm thách thức cho tăng trưởng doanh
 thu trong tương lai.
-Để giảm thiểu rủi ro và củng cố nền tảng tài chính vững chắc, FPT 
-Retail chú trọng vào chiến lược tối ưu hóa cơ cấu vốn và quản lý 
-dòng tiền một cách linh hoạt, hiệu quả. Công ty luôn theo dõi sát 
-sao những biến động kinh tế và điều chỉnh chính sách tiền tệ, từ đó 
-kịp thời đưa ra những giải pháp thích ứng phù hợp. Đồng thời, FPT 
-Retail chủ động đàm phán với các tổ chức tín dụng nhằm tiếp cận 
-các gói vay ưu đãi, tận dụng tối đa các nguồn vốn có chi phí thấp 
-để giảm áp lực tài chính. Song song đó, doanh nghiệp không ngừng 
-nâng cao hiệu suất kinh doanh, tối ưu hóa lợi nhuận nhằm từng 
-bước giảm sự phụ thuộc vào đòn bẩy tài chính. Những nỗ lực này 
-không chỉ giúp FPT Retail duy trì sự ổn định trong hoạt động mà 
-còn tạo ra lớp đệm vững vàng, gia tăng khả năng chống chịu trước 
-những biến động của lãi suất, đồng thời mở ra cơ hội phát triển bền 
+Để giảm thiểu rủi ro và củng cố nền tảng tài chính vững chắc, FPT
+Retail chú trọng vào chiến lược tối ưu hóa cơ cấu vốn và quản lý
+dòng tiền một cách linh hoạt, hiệu quả. Công ty luôn theo dõi sát
+sao những biến động kinh tế và điều chỉnh chính sách tiền tệ, từ đó
+kịp thời đưa ra những giải pháp thích ứng phù hợp. Đồng thời, FPT
+Retail chủ động đàm phán với các tổ chức tín dụng nhằm tiếp cận
+các gói vay ưu đãi, tận dụng tối đa các nguồn vốn có chi phí thấp
+để giảm áp lực tài chính. Song song đó, doanh nghiệp không ngừng
+nâng cao hiệu suất kinh doanh, tối ưu hóa lợi nhuận nhằm từng
+bước giảm sự phụ thuộc vào đòn bẩy tài chính. Những nỗ lực này
+không chỉ giúp FPT Retail duy trì sự ổn định trong hoạt động mà
+còn tạo ra lớp đệm vững vàng, gia tăng khả năng chống chịu trước
+những biến động của lãi suất, đồng thời mở ra cơ hội phát triển bền
 vững trong tương lai.
-1
 Rủi ro tỷ giá
-Trong năm 2024, tỷ giá USD/VND biến động mạnh trước những 
-tác động từ chính sách tiền tệ toàn cầu và diễn biến kinh tế vĩ mô. 
-Lạm phát tại Mỹ dần hạ nhiệt về gần mức mục tiêu 2%, tạo điều kiện 
-để Cục Dự trữ Liên bang Mỹ (Fed) nới lỏng chính sách, hạ lãi suất 
-xuống 4,50%. Tuy nhiên, những thay đổi trong định hướng kinh tế 
-của chính quyền Mỹ đã khiến đồng USD duy trì ở mức cao, tạo áp 
-lực lớn lên tỷ giá trong nước. Theo đó, USD/VND tăng khoảng 5% 
-trong năm, chạm mức 25.500 đồng/USD vào cuối năm, kéo theo 
-những hệ lụy đáng kể đối với hoạt động thương mại và tài chính. Sự 
-tăng giá của đồng USD khiến chi phí nhập khẩu leo thang, gây sức 
-ép lên lạm phát trong nước, đồng thời làm gia tăng gánh nặng nợ 
-vay bằng ngoại tệ. Ngược lại, xuất khẩu có thể hưởng lợi từ tỷ giá 
+Trong năm 2024, tỷ giá USD/VND biến động mạnh trước những
+tác động từ chính sách tiền tệ toàn cầu và diễn biến kinh tế vĩ mô.
+Lạm phát tại Mỹ dần hạ nhiệt về gần mức mục tiêu 2%, tạo điều kiện
+để Cục Dự trữ Liên bang Mỹ (Fed) nới lỏng chính sách, hạ lãi suất
+xuống 4,50%. Tuy nhiên, những thay đổi trong định hướng kinh tế
+của chính quyền Mỹ đã khiến đồng USD duy trì ở mức cao, tạo áp
+lực lớn lên tỷ giá trong nước. Theo đó, USD/VND tăng khoảng 5%
+trong năm, chạm mức 25.500 đồng/USD vào cuối năm, kéo theo
+những hệ lụy đáng kể đối với hoạt động thương mại và tài chính. Sự
+tăng giá của đồng USD khiến chi phí nhập khẩu leo thang, gây sức
+ép lên lạm phát trong nước, đồng thời làm gia tăng gánh nặng nợ
+vay bằng ngoại tệ. Ngược lại, xuất khẩu có thể hưởng lợi từ tỷ giá
 cao, giúp cải thiện lợi thế cạnh tranh trên thị trường quốc tế.
-Dù không chịu tác động lớn từ biến động tỷ giá, FPT Retail vẫn chủ 
-động triển khai các chiến lược tinh gọn nhằm tối ưu hóa chuỗi cung 
-ứng và đa dạng hóa nguồn hàng. Với tầm nhìn nhạy bén, công ty 
-theo sát diễn biến thị trường ngoại hối để điều chỉnh kế hoạch nhập 
-hàng một cách linh hoạt, tối ưu chi phí và giảm thiểu rủi ro tỷ giá. 
-Đồng thời, FPT Retail khéo léo ứng dụng các công cụ tài chính hiện 
-đại để kiểm soát chi phí ngoại tệ, đảm bảo sự ổn định trong hoạt 
-động kinh doanh. Những bước đi chiến lược và linh hoạt này không 
-chỉ giúp công ty vững vàng trước những biến động tài chính mà 
-còn nâng cao năng lực cạnh tranh, tạo nền tảng vững chắc cho sự 
+Dù không chịu tác động lớn từ biến động tỷ giá, FPT Retail vẫn chủ
+động triển khai các chiến lược tinh gọn nhằm tối ưu hóa chuỗi cung
+ứng và đa dạng hóa nguồn hàng. Với tầm nhìn nhạy bén, công ty
+theo sát diễn biến thị trường ngoại hối để điều chỉnh kế hoạch nhập
+hàng một cách linh hoạt, tối ưu chi phí và giảm thiểu rủi ro tỷ giá.
+Đồng thời, FPT Retail khéo léo ứng dụng các công cụ tài chính hiện
+đại để kiểm soát chi phí ngoại tệ, đảm bảo sự ổn định trong hoạt
+động kinh doanh. Những bước đi chiến lược và linh hoạt này không
+chỉ giúp công ty vững vàng trước những biến động tài chính mà
+còn nâng cao năng lực cạnh tranh, tạo nền tảng vững chắc cho sự
 phát triển bền vững trong môi trường kinh tế đầy thách thức.
-Công ty chủ động 
-theo dõi sát sao diễn 
-biến thị trường ngoại 
-hối, kết hợp với chiến 
-lược nhập hàng linh 
-hoạt và tận dụng hiệu 
-quả các công cụ tài 
-chính để tối ưu chi 
-phí, đồng thời giảm 
+Công ty chủ động
+theo dõi sát sao diễn
+biến thị trường ngoại
+hối, kết hợp với chiến
+lược nhập hàng linh
+hoạt và tận dụng hiệu
+quả các công cụ tài
+chính để tối ưu chi
+phí, đồng thời giảm
 thiểu rủi ro tỷ giá.
-2
 
-82
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-83
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 QUẢN TRỊ RỦI RO
 Rủi ro chiến lược
-Rủi ro cạnh tranh với các 
+Rủi ro cạnh tranh với các
 nhà bán lẻ khác
-Sự kết nối chặt chẽ 
-giữa nền tảng số và hệ 
-thống cửa hàng vật lý 
-giúp khách hàng có 
-trải nghiệm mua sắm 
-linh hoạt, thuận tiện, 
-đáp ứng tốt hơn nhu 
-cầu ngày càng cao 
+Sự kết nối chặt chẽ
+giữa nền tảng số và hệ
+thống cửa hàng vật lý
+giúp khách hàng có
+trải nghiệm mua sắm
+linh hoạt, thuận tiện,
+đáp ứng tốt hơn nhu
+cầu ngày càng cao
 của thị trường.
-Năm 2024, khi nền kinh tế vĩ mô dần phục hồi, ngành bán lẻ tại 
-Việt Nam tiếp tục ghi nhận những tín hiệu tích cực. Theo Tổng cục 
-Thống kê, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu 
-dùng ước đạt 6.391,0 nghìn tỷ đồng, tăng 9,0% so với năm trước, 
-cho thấy thị trường vẫn đang trên đà mở rộng. Tuy nhiên, song 
-hành với sự tăng trưởng là áp lực cạnh tranh ngày càng gia tăng, 
-đặc biệt đối với các doanh nghiệp kinh doanh sản phẩm công nghệ 
+Năm 2024, khi nền kinh tế vĩ mô dần phục hồi, ngành bán lẻ tại
+Việt Nam tiếp tục ghi nhận những tín hiệu tích cực. Theo Tổng cục
+Thống kê, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu
+dùng ước đạt 6.391,0 nghìn tỷ đồng, tăng 9,0% so với năm trước,
+cho thấy thị trường vẫn đang trên đà mở rộng. Tuy nhiên, song
+hành với sự tăng trưởng là áp lực cạnh tranh ngày càng gia tăng,
+đặc biệt đối với các doanh nghiệp kinh doanh sản phẩm công nghệ
 và dược phẩm.
-Bối cảnh hội nhập sâu rộng cũng mang đến những thay đổi đáng 
-kể. Việc Việt Nam tham gia vào các hiệp định thương mại quốc tế 
-không chỉ tạo điều kiện thuận lợi cho môi trường đầu tư mà còn mở 
-ra cơ hội cho các doanh nghiệp nước ngoài gia nhập thị trường dễ 
-dàng hơn. Nhờ đó, ngành bán lẻ trở nên sôi nổi hơn về mặt hoạt 
-động, đồng thời cũng chứng kiến sự cạnh tranh ngày càng rõ nét 
-hơn khi các tập đoàn bán lẻ quốc tế với tiềm lực tài chính mạnh mẽ 
+Bối cảnh hội nhập sâu rộng cũng mang đến những thay đổi đáng
+kể. Việc Việt Nam tham gia vào các hiệp định thương mại quốc tế
+không chỉ tạo điều kiện thuận lợi cho môi trường đầu tư mà còn mở
+ra cơ hội cho các doanh nghiệp nước ngoài gia nhập thị trường dễ
+dàng hơn. Nhờ đó, ngành bán lẻ trở nên sôi nổi hơn về mặt hoạt
+động, đồng thời cũng chứng kiến sự cạnh tranh ngày càng rõ nét
+hơn khi các tập đoàn bán lẻ quốc tế với tiềm lực tài chính mạnh mẽ
 đẩy mạnh sự hiện diện tại Việt Nam.
-Trước áp lực cạnh tranh ngày càng gia tăng, FPT Shop chủ động 
-tái cấu trúc nhằm tối ưu hiệu quả vận hành, tinh gọn hệ thống và 
-nâng cao năng lực cạnh tranh. Trong khi đó, FPT Long Châu không 
-ngừng mở rộng tại các khu vực tiềm năng, gia tăng độ phủ, triển 
-khai các dịch vụ mới và tiếp cận nhiều hơn với khách hàng, khai 
+Trước áp lực cạnh tranh ngày càng gia tăng, FPT Shop chủ động
+tái cấu trúc nhằm tối ưu hiệu quả vận hành, tinh gọn hệ thống và
+nâng cao năng lực cạnh tranh. Trong khi đó, FPT Long Châu không
+ngừng mở rộng tại các khu vực tiềm năng, gia tăng độ phủ, triển
+khai các dịch vụ mới và tiếp cận nhiều hơn với khách hàng, khai
 thác tối đa cơ hội phát triển trong lĩnh vực chăm sóc sức khỏe.
-Bên cạnh việc mở rộng quy mô, FPT Retail định hướng nâng tầm 
-trải nghiệm khách hàng thông qua cải thiện dịch vụ hậu mãi, cá 
-nhân hóa hành trình mua sắm và tạo ra những giá trị khác biệt. 
-Đồng thời, công ty không ngừng đa dạng hóa danh mục sản phẩm, 
-tích hợp thêm các dịch vụ tài chính, bảo hiểm và đẩy mạnh kênh 
-thương mại điện tử. Sự kết nối chặt chẽ giữa nền tảng số và hệ 
-thống cửa hàng vật lý giúp khách hàng có trải nghiệm mua sắm 
-linh hoạt, thuận tiện, đáp ứng tốt hơn nhu cầu ngày càng cao của 
+Bên cạnh việc mở rộng quy mô, FPT Retail định hướng nâng tầm
+trải nghiệm khách hàng thông qua cải thiện dịch vụ hậu mãi, cá
+nhân hóa hành trình mua sắm và tạo ra những giá trị khác biệt.
+Đồng thời, công ty không ngừng đa dạng hóa danh mục sản phẩm,
+tích hợp thêm các dịch vụ tài chính, bảo hiểm và đẩy mạnh kênh
+thương mại điện tử. Sự kết nối chặt chẽ giữa nền tảng số và hệ
+thống cửa hàng vật lý giúp khách hàng có trải nghiệm mua sắm
+linh hoạt, thuận tiện, đáp ứng tốt hơn nhu cầu ngày càng cao của
 thị trường.
-Song song đó, FPT Retail tập trung nâng cao chất lượng dịch vụ, 
-đầu tư mạnh mẽ vào đào tạo đội ngũ nhân sự, nâng cấp hệ thống 
-vận hành nhằm tối ưu hóa dịch vụ chăm sóc khách hàng. Những nỗ 
-lực này không chỉ củng cố vị thế của công ty trên thị trường mà còn 
-tạo nền tảng vững chắc cho tăng trưởng bền vững trong bối cảnh 
+Song song đó, FPT Retail tập trung nâng cao chất lượng dịch vụ,
+đầu tư mạnh mẽ vào đào tạo đội ngũ nhân sự, nâng cấp hệ thống
+vận hành nhằm tối ưu hóa dịch vụ chăm sóc khách hàng. Những nỗ
+lực này không chỉ củng cố vị thế của công ty trên thị trường mà còn
+tạo nền tảng vững chắc cho tăng trưởng bền vững trong bối cảnh
 ngành bán lẻ liên tục biến động.
-1
 Rủi ro bão hòa ngành
-Năm 2024, nền kinh tế Việt Nam tiếp tục trên đà phục hồi, song tốc 
-độ tăng trưởng tiêu dùng có dấu hiệu chậm lại. Tổng mức bán lẻ 
-hàng hóa và doanh thu dịch vụ tiêu dùng ghi nhận mức tăng 9,4% 
-so với cùng kỳ năm trước, phù hợp với mục tiêu đề ra trong Nghị 
-quyết số 01/NQ-CP của Chính phủ. Tuy nhiên, mức tăng này vẫn 
-thấp hơn so với mức 9,4% của năm 2023, phản ánh xu hướng thận 
-trọng trong chi tiêu của người tiêu dùng. 
-Trong bối cảnh đó, nhóm hàng thiết yếu tiếp tục được ưu tiên khi 
-người tiêu dùng tập trung vào các sản phẩm phục vụ nhu cầu cơ 
-bản. Ngược lại, nhu cầu đối với các mặt hàng không thiết yếu, đặc 
-biệt là thiết bị công nghệ, đang có sự điều chỉnh sau giai đoạn tăng 
-trưởng mạnh trong đại dịch Covid-19. Sự suy giảm này xuất phát 
-từ việc thị trường bước vào giai đoạn bão hòa sau thời kỳ nhu cầu 
-tăng cao, cùng với đó là tâm lý cắt giảm chi tiêu trước áp lực kinh 
-tế. Điều này dẫn đến thị trường ICT đối diện với nhiều thách thức 
-khi tổng cầu suy giảm, tác động trực tiếp đến tốc độ tăng trưởng 
-của ngành. 
-Ngành dược phẩm tiếp tục duy trì đà tăng trưởng với nhiều dư địa 
-phát triển, đặc biệt trong lĩnh vực bán lẻ dược phẩm khi nhu cầu 
-chăm sóc sức khỏe ngày càng gia tăng. Bên cạnh đó, những lĩnh 
-vực khác như vắc-xin và các dịch vụ y tế liên quan vẫn ở giai đoạn 
-sơ khai, mở ra nhiều cơ hội tăng trưởng dài hạn cho doanh nghiệp 
-trong ngành. 
-Trước bối cảnh thị trường có nhiều biến động, FPT Retail chủ động 
-khai thác dư địa tăng trưởng bằng cách đổi mới mô hình kinh doanh 
-và nâng cao hiệu suất vận hành. Không chỉ dừng lại ở việc mở rộng 
-quy mô, Công ty tập trung vào chiến lược phát triển theo chiều sâu, 
-tìm kiếm cơ hội mở rộng trong các lĩnh vực mới. Bên cạnh đó, FPT 
-Retail không ngừng cải tiến hoạt động bán hàng, nâng cao chất 
-lượng dịch vụ nhằm mang đến trải nghiệm khách hàng tối ưu. Việc 
-ứng dụng công nghệ vào vận hành giúp doanh nghiệp tối ưu hóa 
-quy trình, gia tăng hiệu quả kinh doanh và tạo nền tảng vững chắc 
+Năm 2024, nền kinh tế Việt Nam tiếp tục trên đà phục hồi, song tốc
+độ tăng trưởng tiêu dùng có dấu hiệu chậm lại. Tổng mức bán lẻ
+hàng hóa và doanh thu dịch vụ tiêu dùng ghi nhận mức tăng 9,4%
+so với cùng kỳ năm trước, phù hợp với mục tiêu đề ra trong Nghị
+quyết số 01/NQ-CP của Chính phủ. Tuy nhiên, mức tăng này vẫn
+thấp hơn so với mức 9,4% của năm 2023, phản ánh xu hướng thận
+trọng trong chi tiêu của người tiêu dùng.
+Trong bối cảnh đó, nhóm hàng thiết yếu tiếp tục được ưu tiên khi
+người tiêu dùng tập trung vào các sản phẩm phục vụ nhu cầu cơ
+bản. Ngược lại, nhu cầu đối với các mặt hàng không thiết yếu, đặc
+biệt là thiết bị công nghệ, đang có sự điều chỉnh sau giai đoạn tăng
+trưởng mạnh trong đại dịch Covid-19. Sự suy giảm này xuất phát
+từ việc thị trường bước vào giai đoạn bão hòa sau thời kỳ nhu cầu
+tăng cao, cùng với đó là tâm lý cắt giảm chi tiêu trước áp lực kinh
+tế. Điều này dẫn đến thị trường ICT đối diện với nhiều thách thức
+khi tổng cầu suy giảm, tác động trực tiếp đến tốc độ tăng trưởng
+của ngành.
+Ngành dược phẩm tiếp tục duy trì đà tăng trưởng với nhiều dư địa
+phát triển, đặc biệt trong lĩnh vực bán lẻ dược phẩm khi nhu cầu
+chăm sóc sức khỏe ngày càng gia tăng. Bên cạnh đó, những lĩnh
+vực khác như vắc-xin và các dịch vụ y tế liên quan vẫn ở giai đoạn
+sơ khai, mở ra nhiều cơ hội tăng trưởng dài hạn cho doanh nghiệp
+trong ngành.
+Trước bối cảnh thị trường có nhiều biến động, FPT Retail chủ động
+khai thác dư địa tăng trưởng bằng cách đổi mới mô hình kinh doanh
+và nâng cao hiệu suất vận hành. Không chỉ dừng lại ở việc mở rộng
+quy mô, Công ty tập trung vào chiến lược phát triển theo chiều sâu,
+tìm kiếm cơ hội mở rộng trong các lĩnh vực mới. Bên cạnh đó, FPT
+Retail không ngừng cải tiến hoạt động bán hàng, nâng cao chất
+lượng dịch vụ nhằm mang đến trải nghiệm khách hàng tối ưu. Việc
+ứng dụng công nghệ vào vận hành giúp doanh nghiệp tối ưu hóa
+quy trình, gia tăng hiệu quả kinh doanh và tạo nền tảng vững chắc
 cho sự phát triển bền vững trong dài hạn.
-FPT Retail chủ động 
-khai thác dư địa tăng 
-trưởng 
-bằng 
-cách 
-đổi mới mô hình kinh 
-doanh và nâng cao 
+FPT Retail chủ động
+khai thác dư địa tăng
+trưởng
+bằng
+cách
+đổi mới mô hình kinh
+doanh và nâng cao
 hiệu suất vận hành.
-2
 
 QUẢN TRỊ RỦI RO
 Rủi ro chiến lược
-Rủi ro đổi mới công nghệ 
+Rủi ro đổi mới công nghệ
 và xu hướng tiêu dùng
-FPT Retail đã đầu tư 
-mạnh mẽ vào công 
-nghệ nhằm tối ưu trải 
-nghiệm khách hàng 
-và nâng cấp nền tảng 
+FPT Retail đã đầu tư
+mạnh mẽ vào công
+nghệ nhằm tối ưu trải
+nghiệm khách hàng
+và nâng cấp nền tảng
 thương mại điện tử.
-Trong bối cảnh công nghệ phát triển nhanh chóng, vòng đời sản 
-phẩm ngày càng rút ngắn, đặc biệt trong ngành hàng ICT, tạo ra áp 
-lực lớn đối với các doanh nghiệp bán lẻ như FPT Retail. Theo báo 
-cáo từ IDC, thị trường smartphone toàn cầu đạt 314,6 triệu lô hàng 
-trong quý 3/2024, tăng 3,6% so với cùng kỳ năm trước. Sự cạnh 
-tranh mạnh mẽ giữa các thương hiệu dẫn đến tốc độ thay đổi sản 
-phẩm ngày càng nhanh, buộc nhà bán lẻ phải liên tục cập nhật danh 
-mục hàng hóa để theo kịp thị hiếu người tiêu dùng, đồng thời phải 
-quản trị hàng tồn kho hiệu quả nhằm hạn chế rủi ro giảm giá trị sản 
+Trong bối cảnh công nghệ phát triển nhanh chóng, vòng đời sản
+phẩm ngày càng rút ngắn, đặc biệt trong ngành hàng ICT, tạo ra áp
+lực lớn đối với các doanh nghiệp bán lẻ như FPT Retail. Theo báo
+cáo từ IDC, thị trường smartphone toàn cầu đạt 314,6 triệu lô hàng
+trong quý 3/2024, tăng 3,6% so với cùng kỳ năm trước. Sự cạnh
+tranh mạnh mẽ giữa các thương hiệu dẫn đến tốc độ thay đổi sản
+phẩm ngày càng nhanh, buộc nhà bán lẻ phải liên tục cập nhật danh
+mục hàng hóa để theo kịp thị hiếu người tiêu dùng, đồng thời phải
+quản trị hàng tồn kho hiệu quả nhằm hạn chế rủi ro giảm giá trị sản
 phẩm khi thế hệ mới ra mắt.
-Không chỉ chịu tác động từ chu kỳ đổi mới sản phẩm, FPT Retail 
-còn đối diện với sự thay đổi trong hành vi mua sắm của người tiêu 
-dùng. Theo báo cáo từ PwC, 67% người tiêu dùng Việt Nam ưu tiên 
-mua sắm trực tuyến qua điện thoại di động, trong khi 71% từng mua 
-hàng qua nền tảng mạng xã hội, cho thấy vai trò ngày càng lớn của 
-thương mại điện tử. Những con số này cho thấy sự dịch chuyển 
-rõ rệt từ phương thức mua sắm truyền thống sang các kênh bán 
-hàng trực tuyến. Đây vừa là thách thức vừa là cơ hội để FPT Retail 
-phát huy năng ứng dụng công nghệ, đẩy mạnh nâng cấp nền tảng 
-thương mại điện tử và phát triển các mô hình bán hàng đa kênh, 
-giúp Công ty duy trì lợi thế cạnh tranh trong bối cảnh thị trường 
+Không chỉ chịu tác động từ chu kỳ đổi mới sản phẩm, FPT Retail
+còn đối diện với sự thay đổi trong hành vi mua sắm của người tiêu
+dùng. Theo báo cáo từ PwC, 67% người tiêu dùng Việt Nam ưu tiên
+mua sắm trực tuyến qua điện thoại di động, trong khi 71% từng mua
+hàng qua nền tảng mạng xã hội, cho thấy vai trò ngày càng lớn của
+thương mại điện tử. Những con số này cho thấy sự dịch chuyển
+rõ rệt từ phương thức mua sắm truyền thống sang các kênh bán
+hàng trực tuyến. Đây vừa là thách thức vừa là cơ hội để FPT Retail
+phát huy năng ứng dụng công nghệ, đẩy mạnh nâng cấp nền tảng
+thương mại điện tử và phát triển các mô hình bán hàng đa kênh,
+giúp Công ty duy trì lợi thế cạnh tranh trong bối cảnh thị trường
 ngày càng số hóa.
-3
-FPT Retail đã đầu tư mạnh mẽ vào công nghệ nhằm nâng cấp nền 
-tảng thương mại điện tử và tối ưu trải nghiệm khách hàng trên môi 
-trường số. Không chỉ dừng lại ở việc xây dựng kênh bán hàng trực 
-tuyến, FPT Retail còn phát triển các mô hình bán hàng đa kênh 
-(omni-channel), kết nối liền mạch giữa cửa hàng vật lý và nền tảng 
-số để mang lại trải nghiệm mua sắm tiện lợi hơn. Việc tích hợp công 
-nghệ vào hoạt động kinh doanh không chỉ giúp FPT Retail đáp ứng 
-nhu cầu ngày càng cao của khách hàng mà còn mở ra cơ hội tiếp 
-cận nhiều tệp khách hàng mới, từ đó gia tăng lợi thế cạnh tranh trên 
+FPT Retail đã đầu tư mạnh mẽ vào công nghệ nhằm nâng cấp nền
+tảng thương mại điện tử và tối ưu trải nghiệm khách hàng trên môi
+trường số. Không chỉ dừng lại ở việc xây dựng kênh bán hàng trực
+tuyến, FPT Retail còn phát triển các mô hình bán hàng đa kênh
+(omni-channel), kết nối liền mạch giữa cửa hàng vật lý và nền tảng
+số để mang lại trải nghiệm mua sắm tiện lợi hơn. Việc tích hợp công
+nghệ vào hoạt động kinh doanh không chỉ giúp FPT Retail đáp ứng
+nhu cầu ngày càng cao của khách hàng mà còn mở ra cơ hội tiếp
+cận nhiều tệp khách hàng mới, từ đó gia tăng lợi thế cạnh tranh trên
 thị trường bán lẻ đầy biến động.
-Bên cạnh đó, FPT Retail cũng chú trọng đến việc ứng dụng dữ liệu 
-lớn và trí tuệ nhân tạo (AI) để phân tích hành vi khách hàng, cá 
-nhân hóa trải nghiệm mua sắm và tối ưu hiệu quả vận hành. Việc 
-đầu tư vào công nghệ không chỉ giúp FRT nâng cao chất lượng 
-dịch vụ mà còn tạo nền tảng vững chắc cho sự phát triển bền vững 
-trong dài hạn. Trong bối cảnh thị trường bán lẻ ngày càng chịu sự 
-chi phối của các nền tảng số, việc chủ động đổi mới và đón đầu xu 
-hướng công nghệ sẽ là yếu tố then chốt giúp FPT Retail giữ vững vị 
+Bên cạnh đó, FPT Retail cũng chú trọng đến việc ứng dụng dữ liệu
+lớn và trí tuệ nhân tạo (AI) để phân tích hành vi khách hàng, cá
+nhân hóa trải nghiệm mua sắm và tối ưu hiệu quả vận hành. Việc
+đầu tư vào công nghệ không chỉ giúp FRT nâng cao chất lượng
+dịch vụ mà còn tạo nền tảng vững chắc cho sự phát triển bền vững
+trong dài hạn. Trong bối cảnh thị trường bán lẻ ngày càng chịu sự
+chi phối của các nền tảng số, việc chủ động đổi mới và đón đầu xu
+hướng công nghệ sẽ là yếu tố then chốt giúp FPT Retail giữ vững vị
 thế và tiếp tục mở rộng thị phần.
-85
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-84
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
 
-86
-Báo cáo thường niên 2024
 Chương III: Báo cáo quản trị doanh nghiệp
-87
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 QUẢN TRỊ RỦI RO
 Rủi ro hoạt động
 Rủi ro từ nguồn cung ứng
-FPT Retail đẩy mạnh 
-mở rộng danh mục 
-sản phẩm, hạn chế 
-sự phụ thuộc vào 
-một nhóm hàng hóa 
-nhất định, từ đó gia 
-tăng khả năng thích 
-ứng trước những biến 
+FPT Retail đẩy mạnh
+mở rộng danh mục
+sản phẩm, hạn chế
+sự phụ thuộc vào
+một nhóm hàng hóa
+nhất định, từ đó gia
+tăng khả năng thích
+ứng trước những biến
 động của thị trường.
-Năm 2024, chuỗi cung ứng toàn cầu tiếp tục chịu ảnh hưởng từ các 
-biến động địa chính trị và kinh tế. Xung đột tại Ukraine và Trung 
-Đông làm gián đoạn dòng chảy thương mại, trong khi biến đổi khí 
-hậu ảnh hưởng đến các tuyến vận tải quan trọng như kênh đào 
-Panama và Suez, đẩy chi phí logistics lên cao và kéo dài thời gian 
-giao hàng. Những thách thức này tạo áp lực lớn lên chuỗi cung ứng 
-toàn cầu, đặc biệt đối với các ngành có tỷ lệ nhập khẩu cao như 
-công nghệ và dược phẩm. Trong bối cảnh đó, nhập khẩu hàng hóa 
-của Việt Nam đạt 380,76 tỷ USD trong năm 2024, tăng 16,7% so 
-với cùng kỳ năm trước, phản ánh sự phục hồi mạnh của hoạt động 
-thương mại. Tuy nhiên, sự phụ thuộc vào nguồn cung nước ngoài 
-tiếp tục gia tăng, đặc biệt trong lĩnh vực ICT và dược phẩm. 
-Theo số liệu từ Tổng cục hải quan, Nhập khẩu máy vi tính, sản phẩm 
-điện tử và linh kiện lần đầu tiên vượt 100 tỷ USD, đạt 107,05 tỷ USD, 
-tăng 21,7% so với năm trước, trong đó Việt Nam chủ yếu nhập khẩu 
-từ Trung Quốc (34,59 tỷ USD, tăng 47,7%), Hàn Quốc (31,89 tỷ USD, 
-tăng 10,9%) và Đài Loan (13,86 tỷ USD, tăng 36,1%). Sự phụ thuộc 
-lớn vào các thị trường này khiến các doanh nghiệp bán lẻ như FPT 
-Retail đối mặt với rủi ro gián đoạn chuỗi cung ứng khi có biến động 
+Năm 2024, chuỗi cung ứng toàn cầu tiếp tục chịu ảnh hưởng từ các
+biến động địa chính trị và kinh tế. Xung đột tại Ukraine và Trung
+Đông làm gián đoạn dòng chảy thương mại, trong khi biến đổi khí
+hậu ảnh hưởng đến các tuyến vận tải quan trọng như kênh đào
+Panama và Suez, đẩy chi phí logistics lên cao và kéo dài thời gian
+giao hàng. Những thách thức này tạo áp lực lớn lên chuỗi cung ứng
+toàn cầu, đặc biệt đối với các ngành có tỷ lệ nhập khẩu cao như
+công nghệ và dược phẩm. Trong bối cảnh đó, nhập khẩu hàng hóa
+của Việt Nam đạt 380,76 tỷ USD trong năm 2024, tăng 16,7% so
+với cùng kỳ năm trước, phản ánh sự phục hồi mạnh của hoạt động
+thương mại. Tuy nhiên, sự phụ thuộc vào nguồn cung nước ngoài
+tiếp tục gia tăng, đặc biệt trong lĩnh vực ICT và dược phẩm.
+Theo số liệu từ Tổng cục hải quan, Nhập khẩu máy vi tính, sản phẩm
+điện tử và linh kiện lần đầu tiên vượt 100 tỷ USD, đạt 107,05 tỷ USD,
+tăng 21,7% so với năm trước, trong đó Việt Nam chủ yếu nhập khẩu
+từ Trung Quốc (34,59 tỷ USD, tăng 47,7%), Hàn Quốc (31,89 tỷ USD,
+tăng 10,9%) và Đài Loan (13,86 tỷ USD, tăng 36,1%). Sự phụ thuộc
+lớn vào các thị trường này khiến các doanh nghiệp bán lẻ như FPT
+Retail đối mặt với rủi ro gián đoạn chuỗi cung ứng khi có biến động
 về chính sách thương mại, logistics hoặc tỷ giá.
-Đối với lĩnh vực dược phẩm, Việt Nam vẫn phụ thuộc lớn vào nguồn 
-nhập khẩu nguyên liệu và thành phẩm. Theo số liệu từ Bộ Y tế, giá 
-trị nhập khẩu dược phẩm năm 2024 đạt khoảng 3,87 tỷ USD, trong 
-khi giá trị xuất khẩu chỉ khoảng 280 triệu USD, cho thấy sự chênh 
-lệch lớn giữa cung và cầu trong nước. 
-Trước những thách thức đặt ra, FPT Retail chủ động xây dựng một 
-chiến lược linh hoạt và toàn diện nhằm củng cố sức mạnh chuỗi 
-cung ứng. Công ty không ngừng mở rộng và đa dạng hóa nguồn 
-cung, thiết lập mối quan hệ hợp tác chặt chẽ với các đối tác để tối 
-ưu hóa quy trình nhập hàng, giảm thiểu rủi ro gián đoạn. Song song 
-đó, FPT Retail đẩy mạnh mở rộng danh mục sản phẩm, hạn chế sự 
-phụ thuộc vào một nhóm hàng hóa nhất định, từ đó gia tăng khả 
+Đối với lĩnh vực dược phẩm, Việt Nam vẫn phụ thuộc lớn vào nguồn
+nhập khẩu nguyên liệu và thành phẩm. Theo số liệu từ Bộ Y tế, giá
+trị nhập khẩu dược phẩm năm 2024 đạt khoảng 3,87 tỷ USD, trong
+khi giá trị xuất khẩu chỉ khoảng 280 triệu USD, cho thấy sự chênh
+lệch lớn giữa cung và cầu trong nước.
+Trước những thách thức đặt ra, FPT Retail chủ động xây dựng một
+chiến lược linh hoạt và toàn diện nhằm củng cố sức mạnh chuỗi
+cung ứng. Công ty không ngừng mở rộng và đa dạng hóa nguồn
+cung, thiết lập mối quan hệ hợp tác chặt chẽ với các đối tác để tối
+ưu hóa quy trình nhập hàng, giảm thiểu rủi ro gián đoạn. Song song
+đó, FPT Retail đẩy mạnh mở rộng danh mục sản phẩm, hạn chế sự
+phụ thuộc vào một nhóm hàng hóa nhất định, từ đó gia tăng khả
 năng thích ứng trước những biến động của thị trường.
-Không chỉ dừng lại ở đó, doanh nghiệp còn ứng dụng các giải pháp 
-quản lý tồn kho hiện đại, đảm bảo sự linh hoạt trong điều phối hàng 
-hóa và tối ưu hóa nguồn lực. Chính sự chủ động và chiến lược bài 
-bản này đã giúp FPT Retail duy trì sự ổn định trong vận hành, sẵn 
-sàng đáp ứng nhu cầu thị trường một cách nhanh chóng và hiệu 
-quả. Đây không chỉ là giải pháp trước mắt mà còn là nền tảng vững 
-chắc để Công ty tiếp tục vươn xa, khẳng định vị thế trên thị trường 
+Không chỉ dừng lại ở đó, doanh nghiệp còn ứng dụng các giải pháp
+quản lý tồn kho hiện đại, đảm bảo sự linh hoạt trong điều phối hàng
+hóa và tối ưu hóa nguồn lực. Chính sự chủ động và chiến lược bài
+bản này đã giúp FPT Retail duy trì sự ổn định trong vận hành, sẵn
+sàng đáp ứng nhu cầu thị trường một cách nhanh chóng và hiệu
+quả. Đây không chỉ là giải pháp trước mắt mà còn là nền tảng vững
+chắc để Công ty tiếp tục vươn xa, khẳng định vị thế trên thị trường
 bán lẻ đầy cạnh tranh.
-1
 Rủi ro về hàng tồn kho
-Quản lý hàng tồn kho là một bài toán quan trọng đối với các doanh 
-nghiệp bán lẻ, và FPT Retail cũng không nằm ngoài thách thức này 
-khi phần lớn hàng tồn kho được tài trợ bởi nợ vay ngắn hạn. Nếu 
-không kiểm soát chặt chẽ, mức tồn kho cao có thể tạo áp lực lớn 
-lên dòng tiền, làm gia tăng chi phí tài chính và ảnh hưởng trực tiếp 
-đến hiệu quả kinh doanh. Đặc biệt, trong bối cảnh thị trường bán lẻ 
-liên tục biến động, xu hướng tiêu dùng thay đổi nhanh chóng, nhất 
-là đối với các sản phẩm công nghệ có vòng đời ngắn, nguy cơ hàng 
+Quản lý hàng tồn kho là một bài toán quan trọng đối với các doanh
+nghiệp bán lẻ, và FPT Retail cũng không nằm ngoài thách thức này
+khi phần lớn hàng tồn kho được tài trợ bởi nợ vay ngắn hạn. Nếu
+không kiểm soát chặt chẽ, mức tồn kho cao có thể tạo áp lực lớn
+lên dòng tiền, làm gia tăng chi phí tài chính và ảnh hưởng trực tiếp
+đến hiệu quả kinh doanh. Đặc biệt, trong bối cảnh thị trường bán lẻ
+liên tục biến động, xu hướng tiêu dùng thay đổi nhanh chóng, nhất
+là đối với các sản phẩm công nghệ có vòng đời ngắn, nguy cơ hàng
 tồn kho ngày càng trở nên đáng lo ngại.
-Nhận thức rõ điều này, FPT Retail không ngừng tối ưu hóa chuỗi 
-cung ứng, cải tiến hệ thống quản lý hàng hóa và nâng cao năng 
-lực dự báo nhu cầu dựa trên dữ liệu. Công ty đẩy mạnh ứng dụng 
-công nghệ vào quản lý tồn kho, tối ưu hóa tốc độ luân chuyển hàng 
-hóa để đảm bảo lượng hàng luôn phù hợp với nhu cầu thực tế của 
-thị trường. Song song đó, FPT Retail cũng triển khai các chiến lược 
-linh hoạt như điều chỉnh danh mục sản phẩm, tối ưu chính sách bán 
-hàng và kiểm soát chặt chẽ quá trình nhập hàng từ nhà cung cấp. 
-Những giải pháp đồng bộ này không chỉ giúp công ty duy trì mức 
-tồn kho hợp lý, giảm thiểu áp lực tài chính mà còn nâng cao hiệu 
-quả kinh doanh, tạo nền tảng vững chắc cho sự phát triển bền vững 
+Nhận thức rõ điều này, FPT Retail không ngừng tối ưu hóa chuỗi
+cung ứng, cải tiến hệ thống quản lý hàng hóa và nâng cao năng
+lực dự báo nhu cầu dựa trên dữ liệu. Công ty đẩy mạnh ứng dụng
+công nghệ vào quản lý tồn kho, tối ưu hóa tốc độ luân chuyển hàng
+hóa để đảm bảo lượng hàng luôn phù hợp với nhu cầu thực tế của
+thị trường. Song song đó, FPT Retail cũng triển khai các chiến lược
+linh hoạt như điều chỉnh danh mục sản phẩm, tối ưu chính sách bán
+hàng và kiểm soát chặt chẽ quá trình nhập hàng từ nhà cung cấp.
+Những giải pháp đồng bộ này không chỉ giúp công ty duy trì mức
+tồn kho hợp lý, giảm thiểu áp lực tài chính mà còn nâng cao hiệu
+quả kinh doanh, tạo nền tảng vững chắc cho sự phát triển bền vững
 trong dài hạn.
-FPT 
-Retail 
-không 
-ngừng tối ưu hóa chuỗi 
-cung ứng, cải tiến hệ 
-thống quản lý hàng 
-hóa và nâng cao năng 
-lực dự báo nhu cầu 
+Retail
+không
+ngừng tối ưu hóa chuỗi
+cung ứng, cải tiến hệ
+thống quản lý hàng
+hóa và nâng cao năng
+lực dự báo nhu cầu
 dựa trên dữ liệu.
-2
 Rủi ro khác
-Ngoài những rủi ro có thể dự báo, FPT Retail còn đối mặt với các 
-yếu tố bất khả kháng có thể gây tác động đáng kể đến hoạt động 
-kinh doanh. Mặc dù xác suất xảy ra không cao, song khi phát sinh, 
-những yếu tố này có thể làm gián đoạn chuỗi cung ứng, gia tăng 
-chi phí vận hành và ảnh hưởng trực tiếp đến doanh thu. Các rủi ro 
-này bao gồm thiên tai, dịch bệnh, xung đột địa chính trị, bất ổn xã 
-hội và các sự kiện bất ngờ nằm ngoài phạm vi kiểm soát của doanh 
+Ngoài những rủi ro có thể dự báo, FPT Retail còn đối mặt với các
+yếu tố bất khả kháng có thể gây tác động đáng kể đến hoạt động
+kinh doanh. Mặc dù xác suất xảy ra không cao, song khi phát sinh,
+những yếu tố này có thể làm gián đoạn chuỗi cung ứng, gia tăng
+chi phí vận hành và ảnh hưởng trực tiếp đến doanh thu. Các rủi ro
+này bao gồm thiên tai, dịch bệnh, xung đột địa chính trị, bất ổn xã
+hội và các sự kiện bất ngờ nằm ngoài phạm vi kiểm soát của doanh
 nghiệp.
-Nhằm hạn chế tác động tiêu cực từ những rủi ro tiềm ẩn, FPT Retail 
-chủ động xây dựng chiến lược vận hành linh hoạt, đảm bảo sự ổn 
-định của chuỗi cung ứng và duy trì hiệu quả hoạt động kinh doanh. 
-Công ty không ngừng theo dõi sát diễn biến thị trường, phân tích 
-các nguy cơ có thể phát sinh và cập nhật kịch bản ứng phó phù hợp 
-với từng tình huống cụ thể. Đồng thời, FPT Retail tập trung nâng 
-cao năng lực vận hành, tối ưu hóa hệ thống quản lý rủi ro và tăng 
-cường khả năng thích ứng trước những biến động bất ngờ. Với định 
-hướng chiến lược này, doanh nghiệp không chỉ giảm thiểu rủi ro mà 
-còn củng cố nền tảng phát triển bền vững, đảm bảo khả năng phục 
+Nhằm hạn chế tác động tiêu cực từ những rủi ro tiềm ẩn, FPT Retail
+chủ động xây dựng chiến lược vận hành linh hoạt, đảm bảo sự ổn
+định của chuỗi cung ứng và duy trì hiệu quả hoạt động kinh doanh.
+Công ty không ngừng theo dõi sát diễn biến thị trường, phân tích
+các nguy cơ có thể phát sinh và cập nhật kịch bản ứng phó phù hợp
+với từng tình huống cụ thể. Đồng thời, FPT Retail tập trung nâng
+cao năng lực vận hành, tối ưu hóa hệ thống quản lý rủi ro và tăng
+cường khả năng thích ứng trước những biến động bất ngờ. Với định
+hướng chiến lược này, doanh nghiệp không chỉ giảm thiểu rủi ro mà
+còn củng cố nền tảng phát triển bền vững, đảm bảo khả năng phục
 hồi nhanh chóng trước những thách thức của thị trường.
-FPT Retail tập trung 
-nâng cao năng lực vận 
-hành, tối ưu hóa hệ 
-thống quản lý rủi ro và 
-tăng cường khả năng 
-thích ứng trước những 
-biến động bất ngờ. 
-3
+FPT Retail tập trung
+nâng cao năng lực vận
+hành, tối ưu hóa hệ
+thống quản lý rủi ro và
+tăng cường khả năng
+thích ứng trước những
+biến động bất ngờ.
 
-96
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
-97
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 Đối với người lao động
 Tổng số người lao động năm 2024
-30.857Người
-Tỷ lệ lãnh đạo nữ 
+Tỷ lệ lãnh đạo nữ
 (trong HĐQT và BĐH)
-27,27%
 Hợp đồng ngắn hạn dưới 1 năm
 Hợp đồng có thời hạn 1 đến 3 năm
 Hợp đồng không xác định thời hạn
-Theo 
-hợp đồng
-Nam
-Nữ
-Theo 
+Theo
+Theo
 giới tính
 Lao động phổ thông
 Trình độ Cao đẳng, Trung cấp chuyên nghiệp
 Trình độ Đại học và trên Đại học
-Theo 
+Theo
 trình độ
-Năm 2024, FPT Retail tiếp tục hoàn thiện hệ thống chính sách nhân sự nhằm thu hút, phát triển và giữ 
-chân nhân tài, đồng thời nâng cao chất lượng nguồn nhân lực để đáp ứng nhu cầu mở rộng kinh doanh. 
-Chính sách nhân sự của Công ty tập trung vào các yếu tố: đào tạo và phát triển năng lực, tuyển dụng 
+Năm 2024, FPT Retail tiếp tục hoàn thiện hệ thống chính sách nhân sự nhằm thu hút, phát triển và giữ
+chân nhân tài, đồng thời nâng cao chất lượng nguồn nhân lực để đáp ứng nhu cầu mở rộng kinh doanh.
+Chính sách nhân sự của Công ty tập trung vào các yếu tố: đào tạo và phát triển năng lực, tuyển dụng
 chiến lược, đảm bảo chế độ phúc lợi toàn diện và môi trường làm việc an toàn.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 Trách nhiệm với con người & xã hội
-FPT Retail luôn coi nguồn nhân lực là yếu 
-tố then chốt trong chiến lược phát triển bền 
-vững của Công ty. Trong năm qua, FPT Retail 
-tiếp tục triển khai các chương trình đào tạo 
-chuyên sâu nhằm nâng cao kỹ năng cho nhân 
-viên, phát triển đội ngũ quản lý cấp trung và 
-cải thiện điều kiện làm việc. Các chính sách 
-tiền lương, thưởng và phúc lợi được điều chỉnh 
-phù hợp, không chỉ nhằm thu hút và giữ chân 
-nhân tài, mà còn tạo động lực mạnh mẽ thúc 
-đẩy hiệu quả công việc. Đặc biệt, chúng tôi 
-đặc biệt chú trọng cải thiện môi trường làm 
-việc, bảo đảm an toàn lao động và xây dựng 
-một văn hóa doanh nghiệp tích cực, qua đó 
-giúp nhân viên phát huy tối đa tiềm năng và 
-đóng góp vào sự phát triển chung của FPT 
-Retail. Năm 2025, Công ty tiếp tục mở rộng 
-mạng lưới cửa hàng và trung tâm vận hành, 
+FPT Retail luôn coi nguồn nhân lực là yếu
+vững của Công ty. Trong năm qua, FPT Retail
+tiếp tục triển khai các chương trình đào tạo
+chuyên sâu nhằm nâng cao kỹ năng cho nhân
+viên, phát triển đội ngũ quản lý cấp trung và
+cải thiện điều kiện làm việc. Các chính sách
+tiền lương, thưởng và phúc lợi được điều chỉnh
+phù hợp, không chỉ nhằm thu hút và giữ chân
+nhân tài, mà còn tạo động lực mạnh mẽ thúc
+đẩy hiệu quả công việc. Đặc biệt, chúng tôi
+đặc biệt chú trọng cải thiện môi trường làm
+việc, bảo đảm an toàn lao động và xây dựng
+một văn hóa doanh nghiệp tích cực, qua đó
+giúp nhân viên phát huy tối đa tiềm năng và
+đóng góp vào sự phát triển chung của FPT
+Retail. Năm 2025, Công ty tiếp tục mở rộng
+mạng lưới cửa hàng và trung tâm vận hành,
 tạo thêm nhiều cơ hội việc làm mới.
 Cơ cấu người lao động
 Chính sách nhân sự
 
-111
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-110
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
 Cơ cấu quản trị và công tác quản lý hướng tới phát triển bền vững
-Quản trị công ty đóng vai trò quan trọng trong việc đảm bảo sự phát triển bền vững 
-của FPT Retail. Trong năm qua, Công ty đã chú trọng hoàn thiện cơ chế quản trị, tăng 
-cường kiểm soát nội bộ và ứng dụng công nghệ nâng cao hiệu quả công tác quản lý. 
-Chúng tôi luôn nỗ lực cải tiến các phương thức quản trị, tăng cường khả năng thích ứng 
-linh hoạt với các thách thức và biến động từ thị trường. FPT Retail đặc biệt cam kết xây 
-dựng hệ thống quản trị công ty minh bạch và hiệu quả, tuân thủ các quy định pháp luật 
-và thông lệ quản trị tốt nhất, đảm bảo nền tảng vững chắc cho phát triển bền vững của 
-Công ty. Trong năm 2025, FPT Retail sẽ tiếp tục cải tiến mô hình quản trị, đảm bảo sự 
+Quản trị công ty đóng vai trò quan trọng trong việc đảm bảo sự phát triển bền vững
+của FPT Retail. Trong năm qua, Công ty đã chú trọng hoàn thiện cơ chế quản trị, tăng
+cường kiểm soát nội bộ và ứng dụng công nghệ nâng cao hiệu quả công tác quản lý.
+Chúng tôi luôn nỗ lực cải tiến các phương thức quản trị, tăng cường khả năng thích ứng
+linh hoạt với các thách thức và biến động từ thị trường. FPT Retail đặc biệt cam kết xây
+dựng hệ thống quản trị công ty minh bạch và hiệu quả, tuân thủ các quy định pháp luật
+và thông lệ quản trị tốt nhất, đảm bảo nền tảng vững chắc cho phát triển bền vững của
+Công ty. Trong năm 2025, FPT Retail sẽ tiếp tục cải tiến mô hình quản trị, đảm bảo sự
 phát triển bền vững và ổn định trong mọi giai đoạn hoạt động.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-Hoạt động quản trị công ty
-Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc 
-định hướng chiến lược chung và thiết lập các mục tiêu phát triển 
-bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng 
-về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng 
-giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có 
-nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản 
-trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các 
-hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với 
+Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc
+định hướng chiến lược chung và thiết lập các mục tiêu phát triển
+bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng
+về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng
+giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có
+nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản
+trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các
+hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với
 các bên liên quan.
-Chức năng của 
+Chức năng của
 Hội đồng quản trị
-Ban Điều hành của FPT Retail chịu trách nhiệm nghiên cứu, xây 
-dựng và triển khai các kế hoạch hành động cụ thể để hiện thực hóa 
-tầm nhìn phát triển bền vững của Công ty. Với sự tập trung vào việc 
-hoàn thành được các mục tiêu dài hạn, Ban Điều hành luôn tìm kiếm 
-các giải pháp sáng tạo và hiệu quả, đồng thời giám sát chặt chẽ quá 
-trình thực hiện. Bên cạnh đó, Ban Điều hành phối hợp chặt chẽ với 
-các phòng ban chức năng để đảm bảo các mục tiêu bền vững được 
-thực thi một cách đồng bộ và hiệu quả, từ đó góp phần vào sự phát 
+Ban Điều hành của FPT Retail chịu trách nhiệm nghiên cứu, xây
+dựng và triển khai các kế hoạch hành động cụ thể để hiện thực hóa
+tầm nhìn phát triển bền vững của Công ty. Với sự tập trung vào việc
+hoàn thành được các mục tiêu dài hạn, Ban Điều hành luôn tìm kiếm
+các giải pháp sáng tạo và hiệu quả, đồng thời giám sát chặt chẽ quá
+trình thực hiện. Bên cạnh đó, Ban Điều hành phối hợp chặt chẽ với
+các phòng ban chức năng để đảm bảo các mục tiêu bền vững được
+thực thi một cách đồng bộ và hiệu quả, từ đó góp phần vào sự phát
 triển toàn diện và bền vững của FPT Retail.
 Chức năng của
 Ban Điều hành
-Các công ty con và các phòng ban chức năng của FPT Retail có 
-nhiệm vụ thực thi các chính sách và quy trình quản trị bền vững 
-theo định hướng từ Hội đồng quản trị và Ban Điều hành. Mỗi đơn 
-vị đều đóng vai trò quan trọng trong việc triển khai các sáng kiến 
-phát triển bền vững, đảm bảo rằng các mục tiêu chiến lược được 
-thực hiện hiệu quả trên toàn hệ thống. Đồng thời, các bên liên quan 
-chủ động ứng dụng công nghệ hiện đại để tối ưu hóa quy trình vận 
-hành, từ đó nâng cao hiệu suất công việc và giảm thiểu tác động 
+Các công ty con và các phòng ban chức năng của FPT Retail có
+nhiệm vụ thực thi các chính sách và quy trình quản trị bền vững
+theo định hướng từ Hội đồng quản trị và Ban Điều hành. Mỗi đơn
+vị đều đóng vai trò quan trọng trong việc triển khai các sáng kiến
+phát triển bền vững, đảm bảo rằng các mục tiêu chiến lược được
+thực hiện hiệu quả trên toàn hệ thống. Đồng thời, các bên liên quan
+chủ động ứng dụng công nghệ hiện đại để tối ưu hóa quy trình vận
+hành, từ đó nâng cao hiệu suất công việc và giảm thiểu tác động
 tiêu cực đến môi trường.
 Chức năng của
-công ty thành viên 
+công ty thành viên
 và các bên liên quan
 
-112
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
-113
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-Quản trị rủi ro và 
+Quản trị rủi ro và
 phát triển bền vững
-Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc 
-định hướng chiến lược chung và thiết lập các mục tiêu phát triển 
-bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng 
-về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng 
-giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có 
-nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản 
-trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các 
-hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với 
+Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc
+định hướng chiến lược chung và thiết lập các mục tiêu phát triển
+bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng
+về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng
+giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có
+nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản
+trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các
+hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với
 các bên liên quan.
-Đảm bảo sự minh bạch 
+Đảm bảo sự minh bạch
 về quy chế
-Nhằm đảm bảo sự minh bạch và hiệu quả trong hoạt động kinh 
-doanh, FPT Retail đã xây dựng và triển khai quy chế quản trị được 
-áp dụng đồng bộ trên toàn hệ thống, bao gồm cả các nhà cung 
-cấp và đối tác liên quan. Các quy chế này bao gồm các quy định 
-về phòng chống tham nhũng, phòng chống hối lộ và rửa tiền, kiểm 
-soát giao dịch nội bộ, quy trình chọn lựa và làm việc với các nhà 
-cung cấp, các quy định nhằm đảm bảo sự minh bạch và các vấn đề 
-pháp lý khác. Các quy định này được phổ biến rộng rãi đến toàn bộ 
-cán bộ nhân viên để đảm bảo sự tuân thủ nghiêm ngặt, đồng thời 
-không ảnh hưởng đến hoạt động của công ty và không gây thiệt 
-hại cho lợi ích chung của FPT Retail. Đồng thời, FPT Retail luôn cam 
-kết tuân thủ đầy đủ các quy định pháp luật hiện hành và các quy 
-định riêng của Tập đoàn FPT trong công tác quản lý và vận hành 
+Nhằm đảm bảo sự minh bạch và hiệu quả trong hoạt động kinh
+doanh, FPT Retail đã xây dựng và triển khai quy chế quản trị được
+áp dụng đồng bộ trên toàn hệ thống, bao gồm cả các nhà cung
+cấp và đối tác liên quan. Các quy chế này bao gồm các quy định
+về phòng chống tham nhũng, phòng chống hối lộ và rửa tiền, kiểm
+soát giao dịch nội bộ, quy trình chọn lựa và làm việc với các nhà
+cung cấp, các quy định nhằm đảm bảo sự minh bạch và các vấn đề
+pháp lý khác. Các quy định này được phổ biến rộng rãi đến toàn bộ
+cán bộ nhân viên để đảm bảo sự tuân thủ nghiêm ngặt, đồng thời
+không ảnh hưởng đến hoạt động của công ty và không gây thiệt
+hại cho lợi ích chung của FPT Retail. Đồng thời, FPT Retail luôn cam
+kết tuân thủ đầy đủ các quy định pháp luật hiện hành và các quy
+định riêng của Tập đoàn FPT trong công tác quản lý và vận hành
 doanh nghiệp.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-Hoạt động quản trị công ty
 Kế hoạch quản trị năm 2025
-Trong năm 2025, FPT Retail tiếp tục đặt ra các mục tiêu cải tiến mạnh mẽ nhằm nâng cao hiệu quả quản 
-trị doanh nghiệp. Một trong những trọng tâm quan trọng là tăng cường tính minh bạch trong quản trị. 
-Công ty sẽ hoàn thiện hơn hệ thống báo cáo nội bộ, đồng thời công khai thông tin một cách rõ ràng, chi 
-tiết hơn để đảm bảo tính minh bạch trong các hoạt động tài chính và vận hành. Điều này không chỉ giúp 
+Trong năm 2025, FPT Retail tiếp tục đặt ra các mục tiêu cải tiến mạnh mẽ nhằm nâng cao hiệu quả quản
+trị doanh nghiệp. Một trong những trọng tâm quan trọng là tăng cường tính minh bạch trong quản trị.
+Công ty sẽ hoàn thiện hơn hệ thống báo cáo nội bộ, đồng thời công khai thông tin một cách rõ ràng, chi
+tiết hơn để đảm bảo tính minh bạch trong các hoạt động tài chính và vận hành. Điều này không chỉ giúp
 các bên liên quan dễ dàng tiếp cận thông tin mà còn củng cố niềm tin đối với công ty.
-Tiếp theo, FPT Retail sẽ nâng cao vai trò giám sát của Ban Kiểm soát. Việc cải tiến quy trình kiểm toán 
-nội bộ sẽ giúp tăng cường hiệu quả giám sát và phòng ngừa gian lận, đồng thời bảo vệ tài sản của công 
-ty. Ban Kiểm soát sẽ đóng vai trò then chốt trong việc đảm bảo các hoạt động tuân thủ nghiêm ngặt các 
+Tiếp theo, FPT Retail sẽ nâng cao vai trò giám sát của Ban Kiểm soát. Việc cải tiến quy trình kiểm toán
+nội bộ sẽ giúp tăng cường hiệu quả giám sát và phòng ngừa gian lận, đồng thời bảo vệ tài sản của công
+ty. Ban Kiểm soát sẽ đóng vai trò then chốt trong việc đảm bảo các hoạt động tuân thủ nghiêm ngặt các
 quy định và chuẩn mực trong ngành, tạo nền tảng vững chắc cho sự phát triển lâu dài của FPT Retail.
-Bên cạnh đó, FPT Retail sẽ hoàn thiện hơn quy trình quản trị rủi ro, tập trung vào việc triển khai các giải 
-pháp quản trị rủi ro toàn diện. Đặc biệt, Công ty sẽ chú trọng vào việc kiểm soát rủi ro trong các lĩnh vực 
-tài chính và vận hành, qua đó đảm bảo sự ổn định và an toàn trong mọi điều kiện thị trường với các biện 
+Bên cạnh đó, FPT Retail sẽ hoàn thiện hơn quy trình quản trị rủi ro, tập trung vào việc triển khai các giải
+pháp quản trị rủi ro toàn diện. Đặc biệt, Công ty sẽ chú trọng vào việc kiểm soát rủi ro trong các lĩnh vực
+tài chính và vận hành, qua đó đảm bảo sự ổn định và an toàn trong mọi điều kiện thị trường với các biện
 pháp phòng ngừa rủi ro được áp dụng kịp thời, giúp Công ty đối phó hiệu quả với các biến động bất ngờ.
-Cuối cùng, FPT Retail sẽ tiếp tục ứng dụng công nghệ trong quản trị. Công ty cam kết đẩy mạnh số hóa 
-và tự động hóa trong các quy trình quản lý, từ đó tối ưu hóa hiệu suất công việc và giảm thiểu sai sót. 
-Việc ứng dụng công nghệ hiện đại sẽ giúp FPT Retail nâng cao năng lực cạnh tranh, đồng thời mang lại 
-sự linh hoạt trong quá trình vận hành, đáp ứng nhanh chóng với thay đổi của thị trường. 
-Với những cải tiến này, FPT Retail kỳ vọng không chỉ đạt được các mục tiêu ngắn và dài hạn mà còn xây 
+Cuối cùng, FPT Retail sẽ tiếp tục ứng dụng công nghệ trong quản trị. Công ty cam kết đẩy mạnh số hóa
+và tự động hóa trong các quy trình quản lý, từ đó tối ưu hóa hiệu suất công việc và giảm thiểu sai sót.
+Việc ứng dụng công nghệ hiện đại sẽ giúp FPT Retail nâng cao năng lực cạnh tranh, đồng thời mang lại
+sự linh hoạt trong quá trình vận hành, đáp ứng nhanh chóng với thay đổi của thị trường.
+Với những cải tiến này, FPT Retail kỳ vọng không chỉ đạt được các mục tiêu ngắn và dài hạn mà còn xây
 dựng nền tảng vững chắc cho sự phát triển bền vững trong tương lai.

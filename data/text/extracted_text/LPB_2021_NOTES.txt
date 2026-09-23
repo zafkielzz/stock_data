@@ -1,641 +1,325 @@
-Mẫu B05/TCTD
+Mẫu B03/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
+Báo cáo kết quả hoạt động kinh doanh
 cho năm kết thúc ngày 31 tháng 12 năm 2021
-  BÁO CÁO THƯỜNG NIÊN 2021  [70]
-Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính đính kèm.
-1.	
-ĐƠN VỊ BÁO CÁO
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt (sau đây gọi tắt là “Ngân hàng”), tên giao dịch 
-quốc tế bằng tiếng Anh là Lien Viet Post Joint Stock Commercial Bank (gọi tắt là “LienVietPostBank”), 
-là một ngân hàng thương mại cổ phần được thành lập và đăng ký tại nước Cộng hòa Xã hội Chủ 
-nghĩa Việt Nam.
-(a)	
-Thành lập và hoạt động
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt tiền thân là Ngân hàng Thương mại Cổ phần 
-Liên Việt được thành lập theo Giấy phép Hoạt động Ngân hàng số 91/GP-NHNN do Thống đốc Ngân 
-hàng Nhà nước Việt Nam (“NHNNVN”) cấp ngày 28 tháng 3 năm 2008. Thời gian hoạt động theo giấy 
-phép là 99 năm kể từ ngày cấp. Giấy chứng nhận đăng ký doanh nghiệp số 6300048638 do Sở Kế 
-hoạch và Đầu tư Thành phố Hà Nội cấp được điều chỉnh lần thứ 20 vào ngày 21 tháng 09 năm 2021.
-Theo Công văn số 244/TTg-DMDN ngày 21 tháng 2 năm 2011, Thủ tướng Chính phủ Việt Nam đã 
-phê duyệt việc Tổng Công ty Bưu chính Việt Nam (“Vietnam Post”) (sau này đổi tên thành Tổng Công 
-ty Bưu điện Việt Nam) tham gia góp vốn vào Ngân hàng Thương mại Cổ phần Liên Việt bằng giá trị 
-của Công ty Dịch vụ Tiết kiệm Bưu điện (“VPSC”) và vốn góp thêm bằng tiền. Tại ngày 1 tháng 7 năm 
-2011, Vietnam Post đã hoàn thành việc chuyển giao giá trị tài sản và nợ phải trả của VPSC cho Ngân 
-hàng Thương mại Cổ phần Liên Việt. Ngân hàng đã nhận được phê duyệt của NHNNVN theo Quyết 
-định số 1633/QĐ-NHNN ngày 22 tháng 7 năm 2011 về việc chính thức đổi tên Ngân hàng Thương 
-mại Cổ phần Liên Việt thành Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt.
-Các hoạt động chính của Ngân hàng bao gồm huy động và nhận tiền gửi ngắn, trung và dài hạn 
-từ các tổ chức và cá nhân; cung cấp tín dụng cho các tổ chức và cá nhân dựa trên tính chất và 
-khả năng cung ứng nguồn vốn của Ngân hàng; thực hiện các giao dịch ngoại tệ, các dịch vụ tài trợ 
-thương mại quốc tế, chiết khấu thương phiếu, trái phiếu và các giấy tờ có giá khác, và các dịch vụ 
-ngân hàng khác được NHNNVN cho phép.
-(b)	
-Vốn điều lệ
-Tại ngày 31 tháng 12 năm 2021, vốn cổ phần của Ngân hàng là 12.035.905 triệu VND (31/12/2020: 
-10.746.389 triệu VND). Mệnh giá của một cổ phần là 10.000 VND.
-(c)	
-Địa điểm và mạng lưới hoạt động
-Hội sở chính của Ngân hàng đặt tại Tầng 1,3,4,5,6 Tòa nhà Thaiholdings Tower, Số 210 Trần Quang 
-Khải, Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam. Tại ngày 31 tháng 12 năm 2021, Ngân hàng 
-có một (1) Hội sở chính, ba (3) văn phòng đại diện, bảy mươi sáu (76) chi nhánh, bốn trăm tám mươi 
-(480) phòng giao dịch, sáu trăm mười ba (613) phòng giao dịch bưu điện trên cả nước (31/12/2020: 
-Ngân hàng có một (1) Hội sở chính, ba (3) văn phòng đại diện, bảy mươi sáu (76) chi nhánh, bốn trăm 
-tám mươi (480) phòng giao dịch, sáu trăm mười ba (613) phòng giao dịch bưu điện trên cả nước).
- 
-(d)	
-Tổng số nhân viên
-Tại ngày 31 tháng 12 năm 2021, Ngân hàng có 10.649 nhân viên (31/12/2020: 9.946 nhân viên).
+Chỉ tiêu
+Thuyết
+minh
+Thu nhập lãi và các khoản thu nhập tương tự
+Chi phí lãi và các chi phí tương tự
+Thu nhập lãi thuần
+Thu nhập từ hoạt động dịch vụ
+Chi phí hoạt động dịch vụ
+Lãi thuần từ hoạt động dịch vụ
+Lãi thuần từ hoạt động kinh doanh ngoại hối
+Lãi thuần từ mua bán chứng khoán kinh doanh
+Lãi/(lỗ) thuần từ mua bán chứng khoán đầu tư
+Thu nhập từ hoạt động khác
+Chi phí hoạt động khác
+Lãi thuần từ hoạt động khác
+Thu nhập từ góp vốn, mua cổ phần
+VIII
+Chi phí hoạt động
+Lợi nhuận thuần từ hoạt động kinh doanh
+trước chi phí dự phòng rủi ro tín dụng
+Chi phí dự phòng rủi ro tín dụng
+Tổng lợi nhuận trước thuế
+Chi phí thuế thu nhập doanh nghiệp hiện hành
+Chi phí thuế thu nhập doanh nghiệp (“TNDN”)
+XIII
+Lợi nhuận sau thuế
+Đã điều chỉnh lại
+Lãi cơ bản trên cổ phiếu
+Ngày 28 tháng 3 năm 2022
+Người lập:
+Người phê duyệt:
+Người soát xét:
+Phạm Doãn Sơn
+Tổng Giám đốc
+Nguyễn Thị Gấm
+Kế toán trưởng
+Trần Hoài Thu
+Trưởng phòng Tài chính
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [71]
-2.	
-CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
-(a)	
-Tuyên bố về tuân thủ 
-Báo cáo tài chính được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp 
-dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định pháp 
-lý có liên quan đến việc lập và trình bày báo cáo tài chính. Các chuẩn mực và quy định pháp lý này 
-có thể khác biệt trên một số khía cạnh trọng yếu so với các Chuẩn mực Báo cáo Tài chính Quốc tế 
-cũng như các nguyên tắc và các chuẩn mực kế toán được thừa nhận rộng rãi ở các quốc gia khác 
-được áp dụng cho báo cáo tài chính. Do đó, báo cáo tài chính đính kèm không nhằm mục đích phản 
-ánh tình hình tài chính, kết quả hoạt động kinh doanh và các luồng lưu chuyển tiền tệ của Ngân hàng 
-theo các nguyên tắc và thông lệ kế toán được thừa nhận rộng rãi ở các nước và các quyền tài phán 
-khác ngoài phạm vi Việt Nam. Hơn nữa, việc sử dụng báo cáo tài chính này không nhằm dành cho 
-những đối tượng sử dụng không được biết về các nguyên tắc, thủ tục và thông lệ kế toán của Việt 
+Tuyên bố về tuân thủ
+Báo cáo tài chính được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp
+dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định pháp
+lý có liên quan đến việc lập và trình bày báo cáo tài chính. Các chuẩn mực và quy định pháp lý này
+có thể khác biệt trên một số khía cạnh trọng yếu so với các Chuẩn mực Báo cáo Tài chính Quốc tế
+cũng như các nguyên tắc và các chuẩn mực kế toán được thừa nhận rộng rãi ở các quốc gia khác
+được áp dụng cho báo cáo tài chính. Do đó, báo cáo tài chính đính kèm không nhằm mục đích phản
+ánh tình hình tài chính, kết quả hoạt động kinh doanh và các luồng lưu chuyển tiền tệ của Ngân hàng
+theo các nguyên tắc và thông lệ kế toán được thừa nhận rộng rãi ở các nước và các quyền tài phán
+khác ngoài phạm vi Việt Nam. Hơn nữa, việc sử dụng báo cáo tài chính này không nhằm dành cho
+những đối tượng sử dụng không được biết về các nguyên tắc, thủ tục và thông lệ kế toán của Việt
 Nam áp dụng cho các Tổ chức tín dụng.
-(b)	
 Cơ sở đo lường
-Báo cáo tài chính, ngoại trừ báo cáo lưu chuyển tiền tệ , được lập trên cơ sở dồn tích theo nguyên 
-tắc giá gốc. Báo cáo lưu chuyển tiền tệ được lập theo phương pháp trực tiếp. 
-(c)	
+Báo cáo tài chính, ngoại trừ báo cáo lưu chuyển tiền tệ , được lập trên cơ sở dồn tích theo nguyên
+tắc giá gốc. Báo cáo lưu chuyển tiền tệ được lập theo phương pháp trực tiếp.
 Kỳ kế toán năm
-Kỳ kế toán năm của Ngân hàng là từ ngày 1 tháng 1 đến ngày 31 tháng 12. 
-(d)	
+Kỳ kế toán năm của Ngân hàng là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
 Đơn vị tiền tệ kế toán
-Đơn vị tiền tệ kế toán của Ngân hàng là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng 
-cho mục đích lập và trình bày báo cáo tài chính, được làm tròn đến hàng triệu đồng gần nhất (“Triệu 
-VND”). Riêng đối với chỉ tiêu về lãi cơ bản trên cổ phiếu, Ngân hàng thực hiện trình bày số liệu đến 
+Đơn vị tiền tệ kế toán của Ngân hàng là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng
+cho mục đích lập và trình bày báo cáo tài chính, được làm tròn đến hàng triệu đồng gần nhất (“Triệu
+VND”). Riêng đối với chỉ tiêu về lãi cơ bản trên cổ phiếu, Ngân hàng thực hiện trình bày số liệu đến
 hàng đơn vị như ở Thuyết minh 33.
-(e)	
 Áp dụng hình thức ghi chép kế toán
-Ngân hàng sử dụng phần mềm kế toán để ghi chép giao dịch của mình dưới hình thức sổ cái Nhật 
-ký chung. 
- 
-(f)	
+Ngân hàng sử dụng phần mềm kế toán để ghi chép giao dịch của mình dưới hình thức sổ cái Nhật
+ký chung.
 Thay đổi về chính sách kế toán
-Từ ngày 1 tháng 10 năm 2021, Ngân hàng đã áp dụng Thông tư số 11/2021/TT-NHNN ngày 30 tháng 
-7 năm 2021 (“Thông tư 11”) của NHNNVN quy định về phân loại tài sản có, mức trích, phương pháp 
-trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín 
-dụng, chi nhánh ngân hàng nước ngoài theo nguyên tắc phi hồi tố. Thông tư 11 thay thế Thông tư số 
-02/2013/TT-NHNN ngày 21 tháng 1 năm 2013 (“Thông tư 02”) của NHNNVN quy định về phân loại 
-tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi 
+Từ ngày 1 tháng 10 năm 2021, Ngân hàng đã áp dụng Thông tư số 11/2021/TT-NHNN ngày 30 tháng
+7 năm 2021 (“Thông tư 11”) của NHNNVN quy định về phân loại tài sản có, mức trích, phương pháp
+trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín
+dụng, chi nhánh ngân hàng nước ngoài theo nguyên tắc phi hồi tố. Thông tư 11 thay thế Thông tư số
+02/2013/TT-NHNN ngày 21 tháng 1 năm 2013 (“Thông tư 02”) của NHNNVN quy định về phân loại
+tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi
 ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và Thông tư số 09/2014/
-TT-NHNN ngày 18 tháng 3 năm 2014 (“Thông tư 09”) của NHNNVN sửa đổi, bổ sung một số điều 
+TT-NHNN ngày 18 tháng 3 năm 2014 (“Thông tư 09”) của NHNNVN sửa đổi, bổ sung một số điều
 của Thông tư 02.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [72]
-3.	
 TÓM TẮT NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
-Sau đây là những chính sách kế toán chủ yếu được Ngân hàng áp dụng trong việc lập báo cáo tài 
-chính này. 
-(a)	
+Sau đây là những chính sách kế toán chủ yếu được Ngân hàng áp dụng trong việc lập báo cáo tài
+chính này.
 Các giao dịch bằng ngoại tệ
-Tất cả các nghiệp vụ phát sinh được hạch toán theo nguyên tệ. Các khoản mục tiền tệ có gốc tiền 
-tệ khác VND được quy đổi sang VND theo tỷ giá bình quân mua và bán chuyển khoản giao ngay của 
-Ngân hàng tại thời điểm cuối ngày làm việc cuối cùng của kỳ kế toán (“tỷ giá giao ngay”) nếu tỷ giá 
-này chênh lệch nhỏ hơn 1% so với tỷ giá bình quân gia quyền mua và bán của ngày làm việc cuối 
-cùng của kỳ kế toán (xem chi tiết tỷ giá các loại ngoại tệ áp dụng vào ngày 31 tháng 12 năm 2021 
-và ngày 31 tháng 12 năm 2020 tại Thuyết minh 43). Trường hợp tỷ giá giao ngay tại thời điểm cuối 
-ngày làm việc cuối cùng của kỳ kế toán chênh lệch lớn hơn hoặc bằng 1% so với tỷ giá bình quân 
-gia quyền mua và bán của ngày làm việc cuối cùng của kỳ kế toán thì Ngân hàng sử dụng tỷ giá bình 
-quân gia quyền mua và bán của ngày làm việc cuối cùng của kỳ kế toán để quy đổi. Các khoản mục 
-phi tiền tệ có gốc tiền tệ khác VND được quy đổi sang VND theo tỷ giá tại ngày phát sinh nghiệp vụ. 
-Các giao dịch liên quan đến thu nhập/chi phí bằng ngoại tệ được quy đổi sang VND theo tỷ giá giao 
+Tất cả các nghiệp vụ phát sinh được hạch toán theo nguyên tệ. Các khoản mục tiền tệ có gốc tiền
+tệ khác VND được quy đổi sang VND theo tỷ giá bình quân mua và bán chuyển khoản giao ngay của
+Ngân hàng tại thời điểm cuối ngày làm việc cuối cùng của kỳ kế toán (“tỷ giá giao ngay”) nếu tỷ giá
+này chênh lệch nhỏ hơn 1% so với tỷ giá bình quân gia quyền mua và bán của ngày làm việc cuối
+cùng của kỳ kế toán (xem chi tiết tỷ giá các loại ngoại tệ áp dụng vào ngày 31 tháng 12 năm 2021
+và ngày 31 tháng 12 năm 2020 tại Thuyết minh 43). Trường hợp tỷ giá giao ngay tại thời điểm cuối
+ngày làm việc cuối cùng của kỳ kế toán chênh lệch lớn hơn hoặc bằng 1% so với tỷ giá bình quân
+gia quyền mua và bán của ngày làm việc cuối cùng của kỳ kế toán thì Ngân hàng sử dụng tỷ giá bình
+quân gia quyền mua và bán của ngày làm việc cuối cùng của kỳ kế toán để quy đổi. Các khoản mục
+phi tiền tệ có gốc tiền tệ khác VND được quy đổi sang VND theo tỷ giá tại ngày phát sinh nghiệp vụ.
+Các giao dịch liên quan đến thu nhập/chi phí bằng ngoại tệ được quy đổi sang VND theo tỷ giá giao
 ngay tại ngày phát sinh giao dịch.
-Chênh lệch tỷ giá hối đoái do đánh giá lại các tài sản và công nợ bằng ngoại tệ sang VND tại ngày 
-báo cáo hàng tháng được ghi nhận vào tài khoản “Chênh lệch tỷ giá hối đoái” thuộc vốn chủ sở hữu 
-trên bảng cân đối kế toán và được ghi nhận vào báo cáo kết quả hoạt động kinh doanh vào cuối kỳ 
+Chênh lệch tỷ giá hối đoái do đánh giá lại các tài sản và công nợ bằng ngoại tệ sang VND tại ngày
+báo cáo hàng tháng được ghi nhận vào tài khoản “Chênh lệch tỷ giá hối đoái” thuộc vốn chủ sở hữu
+trên bảng cân đối kế toán và được ghi nhận vào báo cáo kết quả hoạt động kinh doanh vào cuối kỳ
 kế toán năm.
-(b)	
 Ước tính kế toán
-Việc lập báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam 
-áp dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định 
-pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Tổng Giám đốc phải có 
-những ước tính và giả định ảnh hưởng đến số liệu báo cáo tài chính về các khoản nợ phải trả, tài 
-sản và việc trình bày các khoản nợ phải trả và tài sản tiềm tàng tại ngày lập báo cáo tài chính cũng 
-như các số liệu báo cáo về doanh thu và chi phí trong kỳ kế toán năm. Mặc dù các ước tính kế toán 
-được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các 
+Việc lập báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam
+áp dụng cho các Tổ chức tín dụng do Ngân hàng Nhà nước Việt Nam ban hành và các quy định
+pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Tổng Giám đốc phải có
+những ước tính và giả định ảnh hưởng đến số liệu báo cáo tài chính về các khoản nợ phải trả, tài
+sản và việc trình bày các khoản nợ phải trả và tài sản tiềm tàng tại ngày lập báo cáo tài chính cũng
+như các số liệu báo cáo về doanh thu và chi phí trong kỳ kế toán năm. Mặc dù các ước tính kế toán
+được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các
 ước tính, giả định đặt ra.
-(c)	
 Tiền và các khoản tương đương tiền
-Tiền và các khoản tương đương tiền bao gồm tiền mặt, tiền gửi tại NHNNVN, tiền gửi tại các tổ chức 
-tín dụng khác, cho vay các tổ chức tín dụng khác với kỳ hạn gốc không quá ba tháng, các khoản 
-đầu tư chứng khoán có thời hạn thu hồi hoặc đáo hạn không quá ba tháng kể từ ngày mua, có khả 
-năng chuyển đổi dễ dàng thành một lượng tiền nhất định, không có nhiều rủi ro về thay đổi giá trị, 
-và được nắm giữ với mục đích đáp ứng các cam kết thanh toán ngắn hạn hơn là để đầu tư hay cho 
+Tiền và các khoản tương đương tiền bao gồm tiền mặt, tiền gửi tại NHNNVN, tiền gửi tại các tổ chức
+tín dụng khác, cho vay các tổ chức tín dụng khác với kỳ hạn gốc không quá ba tháng, các khoản
+đầu tư chứng khoán có thời hạn thu hồi hoặc đáo hạn không quá ba tháng kể từ ngày mua, có khả
+năng chuyển đổi dễ dàng thành một lượng tiền nhất định, không có nhiều rủi ro về thay đổi giá trị,
+và được nắm giữ với mục đích đáp ứng các cam kết thanh toán ngắn hạn hơn là để đầu tư hay cho
 các mục đích khác.
-(d)	
 Tiền gửi và cho vay các TCTD khác
-Tiền gửi các tổ chức tín dụng khác bao gồm tiền gửi thanh toán và tiền gửi tại các tổ chức tín dụng 
-khác có kỳ hạn gốc không quá ba tháng. Cho vay các tổ chức tín dụng khác là các khoản cho vay 
+Tiền gửi các tổ chức tín dụng khác bao gồm tiền gửi thanh toán và tiền gửi tại các tổ chức tín dụng
+khác có kỳ hạn gốc không quá ba tháng. Cho vay các tổ chức tín dụng khác là các khoản cho vay
 có kỳ hạn gốc không quá mười hai tháng.
-Tiền gửi các tổ chức tín dụng khác, trừ tiền gửi thanh toán, và cho vay các tổ chức tín dụng khác 
+Tiền gửi các tổ chức tín dụng khác, trừ tiền gửi thanh toán, và cho vay các tổ chức tín dụng khác
 được phản ánh theo số dư gốc trừ đi dự phòng rủi ro tín dụng cụ thể.
 Tiền gửi thanh toán tại các tổ chức tín dụng khác được phản ánh theo số dư gốc.
-Việc phân loại rủi ro tín dụng đối với các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng 
+Việc phân loại rủi ro tín dụng đối với các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng
 khác và trích lập dự phòng tương ứng được thực hiện theo quy định tại Thông tư 11. Theo đó, Ngân
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [73]
-hàng trích lập dự phòng cụ thể cho các khoản tiền gửi  có kỳ hạn và cho vay các tổ chức tín dụng 
+hàng trích lập dự phòng cụ thể cho các khoản tiền gửi  có kỳ hạn và cho vay các tổ chức tín dụng
 khác theo phương pháp được trình bày tại Thuyết minh 3(i).
-Theo Thông tư 11, Ngân hàng không phải trích lập dự phòng chung đối với các khoản tiền gửi và 
+Theo Thông tư 11, Ngân hàng không phải trích lập dự phòng chung đối với các khoản tiền gửi và
 cho vay các tổ chức tín dụng khác.
-(e)	
 Chứng khoán kinh doanh
-(i)	
 Phân loại
-Chứng khoán kinh doanh là những chứng khoán nợ hoặc chứng khoán vốn được mua chủ yếu cho 
-mục đích bán lại trong thời gian ngắn hoặc có bằng chứng về việc kinh doanh các chứng khoán đó 
+Chứng khoán kinh doanh là những chứng khoán nợ hoặc chứng khoán vốn được mua chủ yếu cho
+mục đích bán lại trong thời gian ngắn hoặc có bằng chứng về việc kinh doanh các chứng khoán đó
 nhằm mục đích thu lợi ngắn hạn.
-(ii)	
 Ghi nhận
-Ngân hàng ghi nhận chứng khoán kinh doanh vào ngày Ngân hàng trở thành một bên đối tác của 
+Ngân hàng ghi nhận chứng khoán kinh doanh vào ngày Ngân hàng trở thành một bên đối tác của
 hợp đồng cung cấp các chứng khoán này (kế toán theo ngày giao dịch).
-(iii)	
 Đo lường
-Chứng khoán kinh doanh được ghi nhận theo giá gốc trừ đi dự phòng rủi ro chứng khoán kinh 
-doanh. 
-Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, chứng khoán kinh doanh là chứng 
-chỉ quỹ mở nước ngoài. Dự phòng giảm giá được xác định là chênh lệch giữa giá gốc và giá trị tài 
-sản ròng (NAV) của khoản đầu tư tính theo tỷ lệ vốn góp vào quỹ trong trường hợp giá trị tài sản ròng 
-này nhỏ hơn giá gốc. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào báo cáo kết 
+Chứng khoán kinh doanh được ghi nhận theo giá gốc trừ đi dự phòng rủi ro chứng khoán kinh
+doanh.
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, chứng khoán kinh doanh là chứng
+chỉ quỹ mở nước ngoài. Dự phòng giảm giá được xác định là chênh lệch giữa giá gốc và giá trị tài
+sản ròng (NAV) của khoản đầu tư tính theo tỷ lệ vốn góp vào quỹ trong trường hợp giá trị tài sản ròng
+này nhỏ hơn giá gốc. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào báo cáo kết
 quả hoạt động kinh doanh trong năm.
-(iv)	
 Dừng ghi nhận
-Chứng khoán kinh doanh được dừng ghi nhận khi các quyền nhận các luồng tiền từ các chứng 
-khoán này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các 
+Chứng khoán kinh doanh được dừng ghi nhận khi các quyền nhận các luồng tiền từ các chứng
+khoán này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các
 chứng khoán này.
-(f)	
-Chứng khoán đầu tư 
-(i)	
+Chứng khoán đầu tư
 Phân loại
-Chứng khoán đầu tư bao gồm chứng khoán đầu tư sẵn sàng để bán và chứng khoán đầu tư giữ đến 
-ngày đáo hạn. Ngân hàng phân loại chứng khoán đầu tư tại thời điểm mua là chứng khoán đầu tư 
+Chứng khoán đầu tư bao gồm chứng khoán đầu tư sẵn sàng để bán và chứng khoán đầu tư giữ đến
+ngày đáo hạn. Ngân hàng phân loại chứng khoán đầu tư tại thời điểm mua là chứng khoán đầu tư
 sẵn sàng để bán hoặc chứng khoán đầu tư giữ đến ngày đáo hạn. Theo Công văn số 2601/NHNN-
-TCKT do NHNNVN ban hành ngày 14 tháng 4 năm 2009, đối với khoản mục chứng khoán đầu tư, 
+TCKT do NHNNVN ban hành ngày 14 tháng 4 năm 2009, đối với khoản mục chứng khoán đầu tư,
 Ngân hàng được phép phân loại lại tối đa một lần sau khi phân loại lần đầu tại thời điểm mua.
 Chứng khoán đầu tư sẵn sàng để bán:
-Chứng khoán đầu tư sẵn sàng để bán là chứng khoán nợ hoặc chứng khoán vốn được giữ trong 
+Chứng khoán đầu tư sẵn sàng để bán là chứng khoán nợ hoặc chứng khoán vốn được giữ trong
 thời hạn không ấn định trước và có thể được bán ra vào bất cứ thời điểm nào.
 Chứng khoán đầu tư giữ đến ngày đáo hạn:
-Chứng khoán đầu tư giữ đến ngày đáo hạn là chứng khoán nợ có kỳ hạn cố định và các khoản thanh 
-toán cố định hoặc có thể xác định được, mà Ngân hàng có ý định và có khả năng nắm giữ đến ngày 
+Chứng khoán đầu tư giữ đến ngày đáo hạn là chứng khoán nợ có kỳ hạn cố định và các khoản thanh
+toán cố định hoặc có thể xác định được, mà Ngân hàng có ý định và có khả năng nắm giữ đến ngày
 đáo hạn.
-(ii)	
 Ghi nhận
-Ngân hàng ghi nhận chứng khoán đầu tư vào ngày Ngân hàng trở thành một bên tham gia các điều 
+Ngân hàng ghi nhận chứng khoán đầu tư vào ngày Ngân hàng trở thành một bên tham gia các điều
 khoản hợp đồng của các chứng khoán này (kế toán tại ngày giao dịch).
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [74]
-(iii)	
 Đo lường
 Chứng khoán vốn
-Chứng khoán vốn sẵn sàng để bán được ghi nhận ban đầu theo giá gốc, bao gồm giá mua cộng các 
-chi phí liên quan trực tiếp như chi phí môi giới, giao dịch, cung cấp thông tin, phí ngân hàng (nếu có). 
-Sau đó, các chứng khoán này được ghi nhận theo giá trị thấp hơn giữa giá đang ghi nhận trên sổ 
+Chứng khoán vốn sẵn sàng để bán được ghi nhận ban đầu theo giá gốc, bao gồm giá mua cộng các
+chi phí liên quan trực tiếp như chi phí môi giới, giao dịch, cung cấp thông tin, phí ngân hàng (nếu có).
+Sau đó, các chứng khoán này được ghi nhận theo giá trị thấp hơn giữa giá đang ghi nhận trên sổ
 sách và giá thị trường với số lỗ giảm giá được ghi nhận vào báo cáo kết quả hoạt động kinh doanh.
-Giá thị trường của chứng khoán vốn sẵn sàng để bán đã niêm yết được xác định theo giá đóng cửa 
+Giá thị trường của chứng khoán vốn sẵn sàng để bán đã niêm yết được xác định theo giá đóng cửa
 tại ngày gần nhất có giao dịch tính đến ngày kết thúc kỳ kế toán.
-Đối với các loại chứng khoán vốn sẵn sàng để bán chưa niêm yết nhưng đã đăng ký giao dịch trên 
-thị trường giao dịch chứng khoán của các công ty đại chúng chưa niêm yết (“sàn UPCOM”), giá thị 
-trường được xác định theo giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất đến 
+Đối với các loại chứng khoán vốn sẵn sàng để bán chưa niêm yết nhưng đã đăng ký giao dịch trên
+thị trường giao dịch chứng khoán của các công ty đại chúng chưa niêm yết (“sàn UPCOM”), giá thị
+trường được xác định theo giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất đến
 ngày kết thúc kỳ kế toán do Sở giao dịch chứng khoán công bố.
-Đối với chứng khoán vốn sẵn sàng để bán chưa niêm yết và chưa đăng ký giao dịch trên sàn 
-UPCOM, trong trường hợp có cơ sở cho thấy việc suy giảm giá trị thì các chứng khoán này được 
+Đối với chứng khoán vốn sẵn sàng để bán chưa niêm yết và chưa đăng ký giao dịch trên sàn
+UPCOM, trong trường hợp có cơ sở cho thấy việc suy giảm giá trị thì các chứng khoán này được
 trích lập dự phòng theo chính sách kế toán được trình bày tại Thuyết minh 3(g).
-Trong trường hợp không thể xác định được giá thị trường của chứng khoán, các chứng khoán này 
+Trong trường hợp không thể xác định được giá thị trường của chứng khoán, các chứng khoán này
 được hạch toán theo giá gốc.
 Chứng khoán nợ
-Chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn được ghi nhận ban đầu 
-theo giá gốc, bao gồm giá mua cộng các chi phí có liên quan trực tiếp như chi phí môi giới, giao dịch, 
-cung cấp thông tin, thuế, lệ phí và phí ngân hàng (nếu có). Sau đó, các chứng khoán này được ghi 
-nhận theo giá gốc được phân bổ (chịu tác động của việc phân bổ giá trị chiết khấu và giá trị phụ trội) 
-trừ đi dự phòng rủi ro chứng khoán (bao gồm dự phòng rủi ro tín dụng và dự phòng giảm giá chứng 
-khoán). Giá trị phụ trội và giá trị chiết khấu phát sinh từ việc mua các chứng khoán nợ được phân bổ 
+Chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn được ghi nhận ban đầu
+theo giá gốc, bao gồm giá mua cộng các chi phí có liên quan trực tiếp như chi phí môi giới, giao dịch,
+cung cấp thông tin, thuế, lệ phí và phí ngân hàng (nếu có). Sau đó, các chứng khoán này được ghi
+nhận theo giá gốc được phân bổ (chịu tác động của việc phân bổ giá trị chiết khấu và giá trị phụ trội)
+trừ đi dự phòng rủi ro chứng khoán (bao gồm dự phòng rủi ro tín dụng và dự phòng giảm giá chứng
+khoán). Giá trị phụ trội và giá trị chiết khấu phát sinh từ việc mua các chứng khoán nợ được phân bổ
 vào báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong thời gian nắm giữ.
-Chứng khoán nợ sẵn sàng để bán đã niêm yết được ghi nhận theo giá gốc trừ đi dự phòng giảm giá 
-chứng khoán bằng cách tham khảo giá đóng cửa tại Sở Giao dịch Chứng khoán Hà Nội vào ngày 
+Chứng khoán nợ sẵn sàng để bán đã niêm yết được ghi nhận theo giá gốc trừ đi dự phòng giảm giá
+chứng khoán bằng cách tham khảo giá đóng cửa tại Sở Giao dịch Chứng khoán Hà Nội vào ngày
 kết thúc kỳ kế toán năm.
-Chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn của doanh nghiệp chưa 
-niêm yết được ghi nhận theo giá gốc trừ dự phòng rủi ro tín dụng theo quy định của Thông tư 11 
+Chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn của doanh nghiệp chưa
+niêm yết được ghi nhận theo giá gốc trừ dự phòng rủi ro tín dụng theo quy định của Thông tư 11
 như trình bày tại Thuyết minh 3(i).
-Các chứng khoán đầu tư giữ đến ngày đáo hạn khác được ghi nhận theo giá gốc trừ đi dự phòng 
-giảm giá. Dự phòng giảm giá được trích lập khi có dấu hiệu về sự giảm giá chứng khoán kéo dài 
-hoặc có bằng chứng chắc chắn là Ngân hàng khó có thể thu hồi đầy đủ khoản đầu tư và Ngân hàng 
+Các chứng khoán đầu tư giữ đến ngày đáo hạn khác được ghi nhận theo giá gốc trừ đi dự phòng
+giảm giá. Dự phòng giảm giá được trích lập khi có dấu hiệu về sự giảm giá chứng khoán kéo dài
+hoặc có bằng chứng chắc chắn là Ngân hàng khó có thể thu hồi đầy đủ khoản đầu tư và Ngân hàng
 không trích lập dự phòng giảm giá chứng khoán đối với những thay đổi giá trong ngắn hạn.
-Lãi sau khi mua của chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn 
-được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trên cơ sở dồn tích. Khoản tiền lãi dồn 
-tích trước khi Ngân hàng mua sẽ được ghi giảm giá gốc khi nhận được. 
-Dự phòng rủi ro chứng khoán đầu tư được đề cập ở trên sẽ được hoàn nhập khi giá chứng khoán 
-hoặc giá trị có thể thu hồi của chứng khoán đầu tư tăng lên sau khi khoản dự phòng được ghi nhận. 
-Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của các chứng khoán này 
+Lãi sau khi mua của chứng khoán nợ sẵn sàng để bán và chứng khoán nợ giữ đến ngày đáo hạn
+được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trên cơ sở dồn tích. Khoản tiền lãi dồn
+tích trước khi Ngân hàng mua sẽ được ghi giảm giá gốc khi nhận được.
+Dự phòng rủi ro chứng khoán đầu tư được đề cập ở trên sẽ được hoàn nhập khi giá chứng khoán
+hoặc giá trị có thể thu hồi của chứng khoán đầu tư tăng lên sau khi khoản dự phòng được ghi nhận.
+Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của các chứng khoán này
 không vượt quá giá trị ghi sổ của chúng khi giả định không có khoản dự phòng nào đã được ghi nhận.
-(iv)	
 Dừng ghi nhận
-Chứng khoán đầu tư nắm giữ đến ngày đáo hạn và đầu tư sẵn sàng để bán được dừng ghi nhận khi 
-các quyền lợi nhận các luồng tiền từ các chứng khoán này đã chấm dứt hoặc Ngân hàng đã chuyển 
+Chứng khoán đầu tư nắm giữ đến ngày đáo hạn và đầu tư sẵn sàng để bán được dừng ghi nhận khi
+các quyền lợi nhận các luồng tiền từ các chứng khoán này đã chấm dứt hoặc Ngân hàng đã chuyển
 giao phần lớn rủi ro và lợi ích gắn liền với việc sở hữu các chứng khoán này.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [75]
-(g)	
 Đầu tư dài hạn khác
-Đầu tư dài hạn khác là các khoản góp vốn dài hạn vào các công ty khác và Ngân hàng không nắm 
-quyền kiểm soát hoặc có ảnh hưởng đáng kể. Các khoản đầu tư dài hạn này được ghi nhận ban đầu 
-theo giá gốc tại thời điểm đầu tư. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo 
-giá gốc trừ đi dự phòng giảm giá khoản đầu tư. 
-Dự phòng giảm giá đầu tư dài hạn được lập trong trường hợp các tổ chức kinh tế mà Ngân hàng 
-đang đầu tư phát sinh lỗ dẫn đến Ngân hàng có khả năng mất vốn, trừ khi có bằng chứng rằng giá 
-trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá được tính bằng tổng vốn đầu tư thực tế 
-của các chủ sở hữu ở tổ chức kinh tế nhận vốn góp trừ (-) vốn chủ sở hữu của tổ chức kinh tế nhận 
-vốn góp nhân (x) với tỷ lệ sở hữu vốn điều lệ thực góp của Ngân hàng tại tổ chức kinh tế nhận vốn 
-góp tại ngày kết thúc kỳ kế toán năm. Dự phòng được hoàn nhập khi các giá trị có thể thu hồi của 
-các khoản đầu tư đó tăng trở lại sau khi lập dự phòng. Khoản dự phòng chỉ được hoàn nhập trong 
-phạm vi sao cho giá trị ghi sổ của các khoản đầu tư không vượt quá giá trị ghi sổ của các khoản đầu 
+Đầu tư dài hạn khác là các khoản góp vốn dài hạn vào các công ty khác và Ngân hàng không nắm
+quyền kiểm soát hoặc có ảnh hưởng đáng kể. Các khoản đầu tư dài hạn này được ghi nhận ban đầu
+theo giá gốc tại thời điểm đầu tư. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo
+giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+Dự phòng giảm giá đầu tư dài hạn được lập trong trường hợp các tổ chức kinh tế mà Ngân hàng
+đang đầu tư phát sinh lỗ dẫn đến Ngân hàng có khả năng mất vốn, trừ khi có bằng chứng rằng giá
+trị của khoản đầu tư không bị suy giảm. Dự phòng giảm giá được tính bằng tổng vốn đầu tư thực tế
+của các chủ sở hữu ở tổ chức kinh tế nhận vốn góp trừ (-) vốn chủ sở hữu của tổ chức kinh tế nhận
+vốn góp nhân (x) với tỷ lệ sở hữu vốn điều lệ thực góp của Ngân hàng tại tổ chức kinh tế nhận vốn
+góp tại ngày kết thúc kỳ kế toán năm. Dự phòng được hoàn nhập khi các giá trị có thể thu hồi của
+các khoản đầu tư đó tăng trở lại sau khi lập dự phòng. Khoản dự phòng chỉ được hoàn nhập trong
+phạm vi sao cho giá trị ghi sổ của các khoản đầu tư không vượt quá giá trị ghi sổ của các khoản đầu
 tư này khi giả định không có khoản dự phòng nào được ghi nhận.
-Các khoản đầu tư dài hạn khác được chấm dứt ghi nhận khi các quyền lợi nhận các luồng tiền từ 
-các khoản đầu tư này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở 
+Các khoản đầu tư dài hạn khác được chấm dứt ghi nhận khi các quyền lợi nhận các luồng tiền từ
+các khoản đầu tư này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở
 hữu các khoản đầu tư này.
-(h)	
 Cho vay khách hàng
-Các khoản cho vay khách hàng được trình bày theo số dư nợ gốc trừ đi dự phòng rủi ro cho vay 
+Các khoản cho vay khách hàng được trình bày theo số dư nợ gốc trừ đi dự phòng rủi ro cho vay
 khách hàng.
-Các khoản cho vay ngắn hạn là các khoản có thời hạn cho vay dưới 1 năm tính từ ngày giải ngân. 
-Các khoản cho vay trung hạn có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải ngân. Các 
+Các khoản cho vay ngắn hạn là các khoản có thời hạn cho vay dưới 1 năm tính từ ngày giải ngân.
+Các khoản cho vay trung hạn có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải ngân. Các
 khoản cho vay dài hạn có thời hạn cho vay trên 5 năm tính từ ngày giải ngân..
 Việc phân loại nợ và lập dự phòng rủi ro tín dụng được thực hiện như trình bày tại Thuyết minh 3(i).
-(i)	
-Phân loại nợ, mức trích và phương pháp trích lập dự phòng rủi ro 
-(i)	
+Phân loại nợ, mức trích và phương pháp trích lập dự phòng rủi ro
 Phân loại nợ
 Trước ngày 1 tháng 10 năm 2021
-Việc phân loại nợ cho các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng, chi nhánh ngân 
-hàng nước ngoài khác, mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng, ủy thác cấp 
-tín dụng, các khoản nợ đã bán nhưng chưa thu được tiền, các khoản nợ mua lại (gọi chung là “các 
-khoản nợ”) được thực hiện theo quy định của Thông tư 02. Theo đó, Ngân hàng thực hiện phân loại 
-nợ hàng quý dựa trên số dư nợ gốc tại ngày làm việc cuối cùng của quý. Dự phòng rủi ro tín dụng 
+Việc phân loại nợ cho các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng, chi nhánh ngân
+hàng nước ngoài khác, mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng, ủy thác cấp
+tín dụng, các khoản nợ đã bán nhưng chưa thu được tiền, các khoản nợ mua lại (gọi chung là “các
+khoản nợ”) được thực hiện theo quy định của Thông tư 02. Theo đó, Ngân hàng thực hiện phân loại
+nợ hàng quý dựa trên số dư nợ gốc tại ngày làm việc cuối cùng của quý. Dự phòng rủi ro tín dụng
 tại ngày 31 tháng 12 được trích lập dựa trên kết quả phân loại tổng dư nợ của tại ngày 31 tháng 12.
 Ngân hàng thực hiện việc phân loại nợ theo phương pháp định lượng như sau:
 Nhóm
 Tình trạng quá hạn
-1
-Nợ đủ tiêu 
+Nợ đủ tiêu
 chuẩn
-(a)	 Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi 
+(a)	 Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi
 đúng hạn; hoặc
-(b)	 Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ 
+(b)	 Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ
 gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn.
-2
-Nợ cần          
+Nợ cần
 chú ý
 (a)	 Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc
 (b)	 Nợ điều chỉnh kỳ hạn trả nợ lần đầu.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [76]
-Nhóm
-Tình trạng quá hạn
-3
-Nợ dưới tiêu 
-chuẩn
-(a)	 Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc
-(b)	 Nợ gia hạn nợ lần đầu; hoặc 
-(c)	 Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo 
-hợp đồng tín dụng; hoặc
-(d)	 Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian 
-dưới 30 ngày kể từ ngày có quyết định thu hồi:
-• 
-Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ 
-chức tín dụng; hoặc
-• 
-Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức 
-tín dụng; hoặc
-• 
-Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức 
-tín dụng.
-(e)	 Nợ trong thời hạn thu hồi theo kết luận thanh tra.
-4
-Nợ nghi ngờ
-(a)	 Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc
-(b)	 Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày theo thời hạn trả nợ 
-được cơ cấu lại lần đầu; hoặc 
-(c)	 Nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn; hoặc
-(d)	 Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong 
-thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc
-(e)	 Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận 
-thanh tra đến 60 ngày mà vẫn chưa thu hồi được.
-5
-Nợ có khả 
-năng mất vốn
-(a)	 Nợ quá hạn trên 360 ngày; hoặc
-(b)	 Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn 
-trả nợ được cơ cấu lại lần đầu; hoặc
-(c)	 Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được 
-cơ cấu lại lần thứ hai; hoặc
-(d)	 Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã 
-quá hạn; hoặc
-(e)	 Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong 
-thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc
-(f)	 Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận 
-thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc
-(g)	 Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình 
-trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa 
-vốn và tài sản.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [77]
-Ngân hàng thực hiện việc phân loại nợ theo phương pháp định lượng như sau:
-Nhóm
-Tình trạng quá hạn
-1
-Nợ đủ tiêu 
-chuẩn
-(a)		Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi 
-đúng hạn; hoặc
-(b)		Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ 
-gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn.
-2
-Nợ cần          
-chú ý
-(a)		Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc
-(b)	 Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn.
-3
-Nợ dưới 
-tiêu chuẩn
-(a)		Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc
-(b)		Nợ gia hạn nợ lần đầu còn trong hạn; hoặc 
-(c)		Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo 
-hợp đồng tín dụng; hoặc
-(d)		Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian 
-dưới 30 ngày kể từ ngày có quyết định thu hồi:
-•	
-Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ 
-chức tín dụng; hoặc
-•	
-Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ 
-chức tín dụng; hoặc
-•	
-Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức 
-tín dụng.
-(e)	 Nợ trong thời hạn thu hồi theo kết luận thanh tra; hoặc
-(f)	 Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm 
-thỏa thuận chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết 
-định thu hồi
-4
-Nợ nghi ngờ
-(a)	 Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc
-(b)	 Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ 
-được cơ cấu lại lần đầu; hoặc 
-(c)	 Nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn; hoặc
-(d)	 Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong 
-thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc
-(e)	 Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận 
-thanh tra đến 60 ngày mà vẫn chưa thu hồi được; hoặc
-(f)	 Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm 
-thỏa thuận chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ 
-ngày có quyết định thu hồi.
-Sau ngày 1 tháng 10 năm 2021 
-Việc phân loại nợ cho các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng, chi nhánh ngân 
-hàng nước ngoài khác, mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng, ủy thác cấp 
-tín dụng, các khoản nợ đã bán nhưng chưa thu được tiền, các khoản nợ mua lại, khoản mua bán 
-lại trái phiếu Chính phủ, mua kỳ phiếu, tín phiếu, chứng chỉ tiền gửi do tổ chức tín dụng, chi nhánh 
-ngân hàng nước ngoài khác phát hành (gọi chung là “các khoản nợ”) được thực hiện theo quy định 
-của Thông tư 11. Theo đó, Ngân hàng thực hiện phân loại nợ hàng tháng dựa trên số dư nợ gốc tại 
-ngày cuối cùng của tháng.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [78]
-Nhóm
-Tình trạng quá hạn
-5
-Nợ có khả 
-năng mất 
-vốn
-	(a) Nợ quá hạn trên 360 ngày; hoặc
-(b)	Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả 
-nợ được cơ cấu lại lần đầu; hoặc
-(c)	Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ 
-cấu lại lần thứ hai; hoặc
-(d)	Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã 
-quá hạn; hoặc
-(e)	Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong 
-thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc
-(f)	 Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận 
-thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc
-(g)	Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa 
-thuận chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc
-(h)	Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng 
-kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản.
-Đối với các khoản trả thay theo cam kết ngoại bảng, Ngân hàng phân loại nợ dựa trên số ngày quá 
-hạn tính từ ngày Ngân hàng thực hiện nghĩa vụ theo cam kết:
-	 Nhóm 3 – Nợ dưới tiêu chuẩn: quá hạn dưới 30 ngày;
-	 Nhóm 4 – Nợ nghi ngờ: nếu quá hạn từ 30 ngày đến dưới 90 ngày;
-	 Nhóm 5 – Nợ có khả năng mất vốn: quá hạn từ 90 ngày trở lên.
-Nợ xấu là các khoản nợ thuộc các Nhóm 3, 4, 5.
-Trường hợp một khách hàng có nhiều hơn một khoản nợ với Ngân hàng mà có bất kỳ khoản nợ nào 
-bị chuyển sang nhóm nợ có rủi ro cao hơn thì Ngân hàng phân loại các khoản nợ còn lại của khách 
-hàng đó vào nhóm nợ có rủi ro cao nhất.
-Ngân hàng cũng thu thập kết quả phân loại nợ đối với khách hàng do Trung tâm Thông tin tín dụng 
-quốc gia Việt Nam (“CIC”) cung cấp tại thời điểm phân loại nợ để điều chỉnh kết quả tự phân loại 
-nợ. Trường hợp nợ của khách hàng được phân loại vào nhóm nợ có mức độ rủi ro thấp hơn nhóm 
-nợ theo danh sách khách hàng do CIC cung cấp, Ngân hàng điều chỉnh kết quả phân loại nợ theo 
-nhóm nợ được CIC cung cấp.
-Phân loại nợ cho các khoản nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí nhằm hỗ 
-trợ khách hàng chịu ảnh hưởng do dịch Covid - 19 
-Trước ngày 17 tháng 5 năm 2021
-Ngân hàng đã áp dụng Thông tư số 01/2020/TT-NHNN ngày 13 tháng 3 năm 2020 (“Thông tư 01”) 
-của NHNNVN quy định về việc cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí, giữ nguyên nhóm nợ 
-nhằm hỗ trợ khách hàng chịu ảnh hưởng do dịch Covid-19.  Theo đó, đối với các khách hàng có 
-các khoản nợ phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 23 tháng 1 
-năm 2020 đến ngày liền kề sau 3 tháng kể từ ngày Thủ tướng chính phủ công bố hết dịch Covid-19, 
-và các khách hàng này không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa 
-thuận cho vay đã ký do doanh thu, thu nhập sụt giảm bởi ảnh hưởng của dịch Covid-19, thì Ngân 
-hàng được phép cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí cho các khoản nợ này và giữ nguyên 
-nhóm nợ như đã được phân loại tại thời điểm gần nhất trước ngày 23 tháng 1 năm 2020.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [79]
-Từ ngày 17 tháng 5 năm 2021 đến ngày 7 tháng 9 năm 2021
-Ngân hàng áp dụng Thông tư số 03/2021/TT-NHNN ngày 2 tháng 4 năm 2021 (“Thông tư 03”) của 
-NHNNVN sửa đổi, bổ sung một số điều của Thông tư 01. Theo đó, đối với khách hàng có các khoản 
-nợ phát sinh trước ngày 10 tháng 6 năm 2020 và phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong thời 
-gian từ ngày 23 tháng 1 năm 2020 đến ngày 31 tháng 12 năm 2021, và các khách hàng này không 
-có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận cho vay đã ký do doanh 
-thu, thu nhập sụt giảm bởi ảnh hưởng của dịch Covid-19, thì Ngân hàng được phép cơ cấu lại thời 
-hạn trả nợ, miễn, giảm lãi, phí và và giữ nguyên nhóm nợ như sau:
-■	
-Phát sinh trước ngày 10 tháng 6 năm 2020 từ hoạt động cho vay, cho thuê tài chính;
-■	
-Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 
-đến ngày 31 tháng 12 năm 2021;
-■	
-Số dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ khi thuộc một trong các trường hợp sau:
-Từ ngày 7 tháng 9 năm 2021
-Ngân hàng áp dụng Thông tư số 14/2021/TT-NHNN ngày 7 tháng 9 năm 2021 (“Thông tư 14”) của 
-NHNNVN sửa đổi, bổ sung một số điều của Thông tư 01. Theo đó, đối với khách hàng có các khoản 
-nợ phát sinh trước ngày 1 tháng 8 năm 2021 và phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong thời 
-gian từ ngày 23 tháng 1 năm 2020 đến ngày 30 tháng 6 năm 2022, và các khách hàng này không có 
-khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận cho vay đã ký do doanh 
-thu, thu nhập sụt giảm bởi ảnh hưởng của dịch Covid-19, thì Ngân hàng được phép cơ cấu lại thời 
-hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ như sau:
-■	
-Phát sinh trước ngày 1 tháng 8 năm 2021 từ hoạt động cho vay, cho thuê tài chính;
-■	
-Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 
-đến ngày 30 tháng 6 năm 2022;
-■	
-Số dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ khi thuộc một trong các trường hợp sau:
-Khoản 
-mục
-Chi tiết khoản mục
-Áp dụng phân loại nợ
-a
-Số dư nợ còn trong hạn hoặc quá hạn đến 
-10 ngày kể từ ngày đến hạn thanh toán, 
-thời hạn trả nợ theo hợp đồng, thỏa thuận, 
-trừ trường hợp quy định tại khoản mục b, 
-khoản mục c.
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày thực hiện cơ 
-cấu lại thời hạn trả nợ lần đầu.
-b
-Số dư nợ của các khoản nợ phát sinh trước 
-ngày 23/1/2020 và quá hạn trong khoảng 
-thời gian từ ngày 23/1/2020 đến ngày 
-29/3/2020.
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày 23/1/2020.
-c
-Số dư nợ của các khoản nợ phát sinh từ 
-ngày 23/1/2020 và quá hạn trước ngày 
-17/5/2021.
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày khoản nợ bị 
-chuyển quá hạn.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [80]
 Dự phòng bổ sung từng giai đoạn
 Thời hạn
 Tối thiểu 30% tổng số tiền dự phòng cụ thể phải trích bổ sung
@@ -644,4252 +328,842 @@ Tối thiểu 60% tổng số tiền dự phòng cụ thể phải trích bổ s
 Đến ngày 31 tháng 12 năm 2022
 100% tổng số tiền dự phòng cụ thể phải trích bổ sung
 Đến ngày 31 tháng 12 năm 2023
-(ii)	
 Dự phòng rủi ro tín dụng
 Dự phòng rủi ro tín dụng bao gồm dự phòng rủi ro tín dụng cụ thể và dự phòng rủi ro tín dụng chung.
 Dự phòng rủi ro tín dụng cụ thể
 Trước ngày 1 tháng 10 năm 2021
-Theo quy định của Thông tư 02, dự phòng rủi ro tín dụng cụ thể cho các khoản nợ tại cuối mỗi quý 
-được xác định dựa trên tỷ lệ dự phòng tương ứng với kết quả phân loại nợ và số dư nợ gốc tại ngày 
-làm việc cuối cùng của mỗi quý trừ đi giá trị khấu trừ của tài sản bảo đảm. Dự phòng rủi ro tín dụng 
+Theo quy định của Thông tư 02, dự phòng rủi ro tín dụng cụ thể cho các khoản nợ tại cuối mỗi quý
+được xác định dựa trên tỷ lệ dự phòng tương ứng với kết quả phân loại nợ và số dư nợ gốc tại ngày
+làm việc cuối cùng của mỗi quý trừ đi giá trị khấu trừ của tài sản bảo đảm. Dự phòng rủi ro tín dụng
 tại ngày 31 tháng 12 được trích lập dựa trên kết quả phân loại tổng dư nợ tại ngày 31 tháng 12.
 Từ ngày 1 tháng 10 năm 2021
-Theo quy định của Thông tư 11, dự phòng rủi ro tín dụng cụ thể cho các khoản nợ tại cuối mỗi tháng 
-được xác định dựa trên tỷ lệ dự phòng tương ứng với kết quả phân loại nợ và số dư nợ gốc tại ngày 
+Theo quy định của Thông tư 11, dự phòng rủi ro tín dụng cụ thể cho các khoản nợ tại cuối mỗi tháng
+được xác định dựa trên tỷ lệ dự phòng tương ứng với kết quả phân loại nợ và số dư nợ gốc tại ngày
 cuối cùng của tháng trừ đi giá trị khấu trừ của tài sản bảo đảm.
-Ngoài ra, Ngân hàng xác định và ghi nhận số tiền dự phòng cụ thể phải trích bổ sung đối với toàn 
-bộ dư nợ của khách hàng, bao gồm cả số dư nợ được cơ cấu thời hạn, miễn, giảm lãi theo kết quả 
-phân loại nợ theo Thông tư 11 (nếu không áp dụng quy định giữ nguyên nhóm nợ theo quy định của 
+Ngoài ra, Ngân hàng xác định và ghi nhận số tiền dự phòng cụ thể phải trích bổ sung đối với toàn
+bộ dư nợ của khách hàng, bao gồm cả số dư nợ được cơ cấu thời hạn, miễn, giảm lãi theo kết quả
+phân loại nợ theo Thông tư 11 (nếu không áp dụng quy định giữ nguyên nhóm nợ theo quy định của
 Thông tư 01, Thông tư 03 và Thông tư 14) như sau:
 Khoản mục
 Chi tiết khoản mục
 Áp dụng phân loại
-a
-Số dư nợ còn trong hạn hoặc quá hạn đến 10 
-ngày kể từ ngày đến hạn thanh toán, thời hạn 
-trả nợ theo hợp đồng, thỏa thuận, trừ trường 
-hợp quy định tại khoản mục b, khoản mục c, 
+Số dư nợ còn trong hạn hoặc quá hạn đến 10
+ngày kể từ ngày đến hạn thanh toán, thời hạn
+trả nợ theo hợp đồng, thỏa thuận, trừ trường
+hợp quy định tại khoản mục b, khoản mục c,
 khoản mục d.
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày thực hiện cơ 
+Giữ nguyên nhóm nợ đã phân loại tại thời
+điểm gần nhất trước ngày thực hiện cơ
 cấu lại thời hạn trả nợ lần đầu
-b
-Số dư nợ của các khoản nợ phát sinh trước 
-ngày 23/1/2020 và quá hạn trong khoảng thời 
-gian từ ngày 23/1/2020 đến ngày 29/3/2020
-Giữ nguyên nhóm nợ đã phân loại tại thời 
+Số dư nợ của các khoản nợ phát sinh trước
+ngày 23/1/2020 và quá hạn trong khoảng thời
+Giữ nguyên nhóm nợ đã phân loại tại thời
 điểm gần nhất trước ngày 23/1/2020
-c
-Số dư nợ của các khoản nợ phát sinh từ ngày 
-23/1/2020 đến trước ngày 10/6/2020 và quá 
+Số dư nợ của các khoản nợ phát sinh từ ngày
 hạn trước ngày 17/5/2021
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày khoản nợ bị 
+Giữ nguyên nhóm nợ đã phân loại tại thời
+điểm gần nhất trước ngày khoản nợ bị
 chuyển quá hạn
-d
-Số dư nợ của khoản nợ phát sinh từ ngày 
-10/6/2020 đến trước ngày 1/8/2020 và quá hạn 
+Số dư nợ của khoản nợ phát sinh từ ngày
+10/6/2020 đến trước ngày 1/8/2020 và quá hạn
 từ ngày 17/7/2021 đến trước ngày 7/9/2021
-Giữ nguyên nhóm nợ đã phân loại tại thời 
-điểm gần nhất trước ngày khoản nợ bị 
+Giữ nguyên nhóm nợ đã phân loại tại thời
+điểm gần nhất trước ngày khoản nợ bị
 chuyển quá hạn
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [81]
 Nhóm
 Loại
 Tỷ lệ dự phòng cụ thể
-1
 Nợ đủ tiêu chuẩn
-0%
-2
 Nợ cần chú ý
-5%
-3
 Nợ dưới tiêu chuẩn
-20%
-4
 Nợ nghi ngờ
-50%
-5 
 Nợ có khả năng mất vốn
-100%
- Tỷ lệ dự phòng rủi ro tín dụng cụ thể đối với từng nhóm nợ như sau:
+Tỷ lệ dự phòng rủi ro tín dụng cụ thể đối với từng nhóm nợ như sau:
 Loại tài sản bảo đảm
 Tỷ lệ khấu trừ tối đa
-(a)	 Số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng Đồng Việt Nam 
-tại chính tổ chức tín dụng, chi nhánh ngân hàng nước ngoài 
-100%
-(b)	 Trái phiếu Chính phủ, vàng miếng, chứng chỉ tiền gửi của khách hàng 
+(a)	 Số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng Đồng Việt Nam
+tại chính tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
+(b)	 Trái phiếu Chính phủ, vàng miếng, chứng chỉ tiền gửi của khách hàng
 bằng ngoại tệ tại chính tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
-95% 
-(c)	 Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo 
-lãnh, công cụ chuyển nhượng, giấy tờ có giá do chính tổ chức tín dụng 
-phát hành; số dư tiền gửi, chứng chỉ tiền gửi, kỳ phiếu, tín phiếu do tổ 
+(c)	 Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo
+lãnh, công cụ chuyển nhượng, giấy tờ có giá do chính tổ chức tín dụng
+phát hành; số dư tiền gửi, chứng chỉ tiền gửi, kỳ phiếu, tín phiếu do tổ
 chức tín dụng, chi nhánh ngân hàng nước ngoài khác phát hành:
  Có thời hạn còn lại dưới 1 năm
  Có thời hạn còn lại từ 1 năm đến 5 năm
  Có thời hạn còn lại trên 5 năm
-95%
-85%
-80%
-(d)	 Chứng khoán do các tổ chức tín dụng khác phát hành được niêm yết 
+(d)	 Chứng khoán do các tổ chức tín dụng khác phát hành được niêm yết
 trên Sở giao dịch chứng khoán
-70%
-(e)	 Chứng khoán do doanh nghiệp (trừ tổ chức tín dụng) phát hành được 
+(e)	 Chứng khoán do doanh nghiệp (trừ tổ chức tín dụng) phát hành được
 niêm yết trên Sở giao dịch chứng khoán
-65%
-(f)	 Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy 
-tờ có giá, trừ các khoản quy định tại điểm (c), do tổ chức tín dụng có đăng 
+(f)	 Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy
+tờ có giá, trừ các khoản quy định tại điểm (c), do tổ chức tín dụng có đăng
 ký niêm yết chứng khoán trên Sở giao dịch chứng khoán phát hành;
-Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, 
-giấy tờ có giá, trừ các khoản quy định tại điểm (c), do tổ chức tín 
-dụng không có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng 
+Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán,
+giấy tờ có giá, trừ các khoản quy định tại điểm (c), do tổ chức tín
+dụng không có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng
 khoán phát hành
-50%
-30%
 Giá trị của tài sản bảo đảm được xác định theo các quy định của Thông tư 11 và các nguyên tắc sau:
-■	
-Tài sản bảo đảm có giá trị từ 50 tỷ VND trở lên đối với khoản nợ của khách hàng là bên có liên 
-quan của Ngân hàng và các đối tượng khác theo quy định tại Điều 127 của Luật các tổ chức tín 
-dụng và tài sản bảo đảm có giá trị từ 200 tỷ VND phải được định giá bởi tổ chức có chức năng 
+Tài sản bảo đảm có giá trị từ 50 tỷ VND trở lên đối với khoản nợ của khách hàng là bên có liên
+quan của Ngân hàng và các đối tượng khác theo quy định tại Điều 127 của Luật các tổ chức tín
+dụng và tài sản bảo đảm có giá trị từ 200 tỷ VND phải được định giá bởi tổ chức có chức năng
 thẩm định giá; và
-■	
-Đối với các trường hợp khác các trường hợp nêu trên, tài sản bảo đảm được định giá theo quy 
+Đối với các trường hợp khác các trường hợp nêu trên, tài sản bảo đảm được định giá theo quy
 định và quy trình nội bộ của Ngân hàng.
-■	
-Tài sản bảo đảm nào không đáp ứng đầy đủ các điều kiện quy định của Thông tư 11 thì giá trị 
+Tài sản bảo đảm nào không đáp ứng đầy đủ các điều kiện quy định của Thông tư 11 thì giá trị
 khấu trừ của tài sản bảo đảm đó phải coi bằng 0 (không).
 Tỷ lệ khấu trừ tối đa đối với các tài sản bảo đảm được xác định như sau:
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [82]
 Dự phòng rủi ro tín dụng chung
 Trước ngày 1 tháng 10 năm 2021
-Theo Thông tư 02, một khoản dự phòng rủi ro tín dụng chung được trích lập với mức bằng 0,75% 
-tổng số dư nợ gốc tại ngày làm việc cuối cùng của mỗi quý của các khoản nợ từ Nhóm 1 đến Nhóm 
-4 trừ các khoản tiền gửi và cho vay các tổ chức tín dụng khác. Dự phòng rủi ro tín dụng chung tại 
+Theo Thông tư 02, một khoản dự phòng rủi ro tín dụng chung được trích lập với mức bằng 0,75%
+tổng số dư nợ gốc tại ngày làm việc cuối cùng của mỗi quý của các khoản nợ từ Nhóm 1 đến Nhóm
+4 trừ các khoản tiền gửi và cho vay các tổ chức tín dụng khác. Dự phòng rủi ro tín dụng chung tại
 ngày 31 tháng 12 được trích lập dựa trên kết quả phân loại tổng dư nợ tại ngày 31 tháng 12.
 Từ ngày 1 tháng 10 năm 2021
-Theo Thông tư 11, một khoản dự phòng rủi ro tín dụng chung được trích lập với mức bằng 0,75% 
-tổng số dư nợ gốc tại ngày cuối cùng của mỗi tháng của các khoản nợ từ Nhóm 1 đến Nhóm 4 trừ 
-các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng khác, khoản mua giấy tờ có giá do các 
+Theo Thông tư 11, một khoản dự phòng rủi ro tín dụng chung được trích lập với mức bằng 0,75%
+tổng số dư nợ gốc tại ngày cuối cùng của mỗi tháng của các khoản nợ từ Nhóm 1 đến Nhóm 4 trừ
+các khoản tiền gửi có kỳ hạn và cho vay các tổ chức tín dụng khác, khoản mua giấy tờ có giá do các
 tổ chức tín dụng khác phát hành, khoản mua bán lại trái phiếu Chính phủ.
-(iii)	
 Sử dụng dự phòng rủi ro
-Theo Thông tư 11, các khoản cho vay khách hàng sẽ được xử lý bằng nguồn dự phòng khi được 
-phân loại vào Nhóm 5 hoặc khi khách hàng vay tuyên bố phá sản hoặc giải thể (đối với trường hợp 
-khách hàng vay là tổ chức), hoặc khi khách hàng vay chết hoặc mất tích (đối với trường hợp khách 
+Theo Thông tư 11, các khoản cho vay khách hàng sẽ được xử lý bằng nguồn dự phòng khi được
+phân loại vào Nhóm 5 hoặc khi khách hàng vay tuyên bố phá sản hoặc giải thể (đối với trường hợp
+khách hàng vay là tổ chức), hoặc khi khách hàng vay chết hoặc mất tích (đối với trường hợp khách
 hàng vay là cá nhân).
-Các khoản nợ đã được xử lý rủi ro bằng nguồn dự phòng được ghi nhận vào tài khoản ngoại bảng 
-phù hợp để theo dõi và thu nợ. Số tiền thu hồi được từ nợ đã xử lý rủi ro được ghi nhận vào báo cáo 
+Các khoản nợ đã được xử lý rủi ro bằng nguồn dự phòng được ghi nhận vào tài khoản ngoại bảng
+phù hợp để theo dõi và thu nợ. Số tiền thu hồi được từ nợ đã xử lý rủi ro được ghi nhận vào báo cáo
 kết quả hoạt động kinh doanh khi thu được.
-(iv)	
 Phân loại và dự phòng đối với các cam kết ngoại bảng
-Việc phân loại các khoản cam kết tín dụng ngoại bảng được thực hiện chỉ nhằm mục đích quản lý, 
-giám sát chất lượng hoạt động cấp tín dụng. Không trích lập dự phòng cho các khoản cam kết ngoại 
-bảng, trừ khi Ngân hàng được yêu cầu phải thực hiện nghĩa vụ trả thay theo cam kết ngoại bảng, 
-trong trường hợp  đó, khoản trả thay này được phân loại và trích lập dự phòng theo chính sách kế 
+Việc phân loại các khoản cam kết tín dụng ngoại bảng được thực hiện chỉ nhằm mục đích quản lý,
+giám sát chất lượng hoạt động cấp tín dụng. Không trích lập dự phòng cho các khoản cam kết ngoại
+bảng, trừ khi Ngân hàng được yêu cầu phải thực hiện nghĩa vụ trả thay theo cam kết ngoại bảng,
+trong trường hợp  đó, khoản trả thay này được phân loại và trích lập dự phòng theo chính sách kế
 toán được trình bày tại Thuyết minh 3(i)(i) và Thuyết minh 3(i)(ii).
-(j)	
 Các công cụ tài chính phái sinh
 Các hợp đồng kỳ hạn tiền tệ và các hợp đồng hoán đổi tiền tệ
-Các hợp đồng kỳ hạn tiền tệ và các hợp đồng hoán đổi tiền tệ được ghi nhận theo giá trị thuần trong 
-báo cáo tài chính dựa trên giá trị hợp đồng. Chênh lệch giữa số lượng tiền tệ cam kết mua/bán theo 
-tỷ giá ghi trên hợp đồng và số lượng tiền tệ cam kết mua/bán được quy đổi theo tỷ giá giao ngay tại 
-ngày hiệu lực của các hợp đồng kỳ hạn tiền tệ và hợp đồng hoán đổi tiền tệ được phân bổ vào báo 
-cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong thời gian hiệu lực của các 
-hợp đồng này.
+Các hợp đồng kỳ hạn tiền tệ và các hợp đồng hoán đổi tiền tệ được ghi nhận theo giá trị thuần trong
+báo cáo tài chính dựa trên giá trị hợp đồng. Chênh lệch giữa số lượng tiền tệ cam kết mua/bán theo
+tỷ giá ghi trên hợp đồng và số lượng tiền tệ cam kết mua/bán được quy đổi theo tỷ giá giao ngay tại
+ngày hiệu lực của các hợp đồng kỳ hạn tiền tệ và hợp đồng hoán đổi tiền tệ được phân bổ vào báo
+cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong thời gian hiệu lực của các
 Loại tài sản bảo đảm
 Tỷ lệ khấu trừ tối đa
-(g)	 Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, 
-giấy tờ có giá do doanh nghiệp có đăng ký niêm yết chứng khoán trên 
+(g)	 Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán,
+giấy tờ có giá do doanh nghiệp có đăng ký niêm yết chứng khoán trên
 Sở giao dịch chứng khoán phát hành;
-Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, 
-giấy tờ có giá do doanh nghiệp không có đăng ký niêm yết chứng 
+Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán,
+giấy tờ có giá do doanh nghiệp không có đăng ký niêm yết chứng
 khoán trên Sở giao dịch chứng khoán phát hành
-30%
-10%
 (h)   Bất động sản
-50%
-(i)	
 Các loại tài sản bảo đảm khác
-30%
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [83]
-Số dư của hợp đồng kỳ hạn tiền tệ được đánh giá lại theo tỷ giá giao ngay vào cuối mỗi tháng.  Lãi/
-lỗ chưa thực hiện tại ngày báo cáo hàng tháng được ghi nhận vào tài khoản “Chênh lệch tỷ giá hối 
-đoái” thuộc vốn chủ sở hữu trên bảng cân đối kế toán và được ghi nhận vào báo cáo kết quả hoạt 
-động kinh doanh vào cuối kỳ kế toán năm.
-(k)	
-Tài sản cố định hữu hình
-(i)	
-Nguyên giá
-Tài sản cố định hữu hình được phản ánh theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá 
-ban đầu của tài sản cố định hữu hình gồm giá mua của tài sản, bao gồm cả thuế nhập khẩu, các loại 
-thuế đầu vào không được hoàn lại và chi phí liên quan trực tiếp đến việc đưa tài sản vào trạng thái 
-và vị trí hoạt động cho mục đích sử dụng dự kiến. Các chi phí phát sinh sau khi tài sản cố định hữu 
-hình đã đi vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được hạch toán vào báo cáo 
-kết quả hoạt động kinh doanh của kỳ phát sinh chi phí. Trường hợp có thể chứng minh một cách rõ 
-ràng các chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản 
-cố định hữu hình vượt trên mức hoạt động tiêu chuẩn đã được đánh giá ban đầu, thì các chi phí này 
-được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
-(ii)	
-Khấu hao
-Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài 
-sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:
-■	
-nhà cửa
-■	
-máy móc thiết bị
-■	
-phương tiện vận tải - truyền dẫn
-■	
-tài sản cố định khác	
-Các khoản lãi, lỗ phát sinh khi thanh lý, nhượng bán tài sản là chênh lệch giữa thu nhập từ thanh lý, 
-nhượng bán và giá trị còn lại của tài sản cùng với chi phí nhượng bán, thanh lý được ghi nhận vào 
-báo cáo kết quả hoạt động kinh doanh.
-(l)	
-Tài sản cố định vô hình
-(i)	
-Quyền sử dụng đất
-Quyền sử dụng đất có thời hạn được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên 
-giá ban đầu của quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp tới việc có 
-được quyền sử dụng đất. Khấu hao được tính theo phương pháp đường thẳng theo thời gian sử 
-dụng đất.
-Quyền sử dụng đất vô thời hạn được phản ánh theo nguyên giá và không được phân bổ. Nguyên 
-giá ban đầu của quyền sử dụng đất vô thời hạn bao gồm giá thanh toán và các chi phí liên quan trực 
-tiếp tới việc có được quyền sử dụng đất.
-(ii)	
-Phần mềm máy vi tính
-Giá mua phần mềm máy vi tính mới, mà phần mềm máy vi tính này không phải là một bộ phận không 
-thể tách rời với phần cứng có liên quan thì được vốn hóa và được hạch toán như một tài sản cố định 
-vô hình. Phần mềm máy vi tính được phân bổ theo phương pháp đường thẳng trong thời gian 8 năm
-Các khoản lãi, lỗ phát sinh khi thanh lý, nhượng bán tài sản là chênh lệch giữa thu nhập từ thanh lý, 
-nhượng bán và giá trị còn lại của tài sản cùng với chi phí nhượng bán, thanh lý được ghi nhận vào 
-Báo cáo kết quả hoạt động kinh doanh.
-6 - 50 năm
-3 - 7 năm
-10 năm
-3 - 5 năm
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [84]
-(m)	
 Các khoản chi phí trả trước
-Chi phí trả trước bao gồm các chi phí cải tạo trụ sở được vốn hóa chờ phân bổ, khoản trả trước tiền 
+Chi phí trả trước bao gồm các chi phí cải tạo trụ sở được vốn hóa chờ phân bổ, khoản trả trước tiền
 thuê văn phòng và các khoản chi phí trả trước khác.
-Các chi phí cải tạo trụ sở được vốn hóa được phân bổ vào báo cáo kết quả hoạt động kinh doanh 
-theo phương pháp đường thẳng trong khoảng thời gian 3 năm. Tiền thuê văn phòng thể hiện số tiền 
-thuê văn phòng đã được trả trước. Tiền thuê văn phòng trả trước được phân bổ vào Báo cáo kết 
+Các chi phí cải tạo trụ sở được vốn hóa được phân bổ vào báo cáo kết quả hoạt động kinh doanh
+theo phương pháp đường thẳng trong khoảng thời gian 3 năm. Tiền thuê văn phòng thể hiện số tiền
+thuê văn phòng đã được trả trước. Tiền thuê văn phòng trả trước được phân bổ vào Báo cáo kết
 quả hoạt động kinh doanh theo phương pháp đường thẳng tương ứng với thời gian thuê.
-Các khoản chi phí trả trước dài hạn khác bao gồm chi phí sửa chữa, bảo dưỡng tài sản, giá trị công 
-cụ, dụng cụ đã xuất dùng và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Ngân 
-hàng. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào báo 
-cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng với thời hạn từ một năm trở 
+Các khoản chi phí trả trước dài hạn khác bao gồm chi phí sửa chữa, bảo dưỡng tài sản, giá trị công
+cụ, dụng cụ đã xuất dùng và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Ngân
+hàng. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào báo
+cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng với thời hạn từ một năm trở
 lên và không quá ba năm theo các quy định kế toán hiện hành.
-(n)	
 Tài sản Có khác
-(i)	
 Chi phí xây dựng cơ bản dở dang
-Chi phí xây dựng cơ bản dở dang phản ánh các khoản chi phí mua sắm tài sản cố định và nâng cấp 
-phần mềm máy vi tính chưa được hoàn thành. Khấu hao không được tính cho chi phí xây dựng cơ 
+Chi phí xây dựng cơ bản dở dang phản ánh các khoản chi phí mua sắm tài sản cố định và nâng cấp
+phần mềm máy vi tính chưa được hoàn thành. Khấu hao không được tính cho chi phí xây dựng cơ
 bản dở dang trong quá trình mua sắm và nâng cấp.
-(ii)	
 Chi phí chờ phân bổ
-Chi phí chờ phân bổ về phí hoa hồng môi giới là các khoản chi phí hoa hồng trả cho hệ thống các 
-phòng giao dịch bưu điện liên quan trực tiếp đến hoạt động huy động cho vay. Các chi phí này được 
-phân bổ theo kỳ hạn của từng khoản cho vay khách hàng trong thời gian từ dưới 1 năm đến 35 năm 
+Chi phí chờ phân bổ về phí hoa hồng môi giới là các khoản chi phí hoa hồng trả cho hệ thống các
+phòng giao dịch bưu điện liên quan trực tiếp đến hoạt động huy động cho vay. Các chi phí này được
+phân bổ theo kỳ hạn của từng khoản cho vay khách hàng trong thời gian từ dưới 1 năm đến 35 năm
 theo phương pháp đường thẳng.
-Chi phí chờ phân bổ khác là giá trị công cụ, dụng cụ chờ phân bổ và lãi trả trước tiền gửi có kỳ hạn 
-của khách hàng. Công cụ và dụng cụ bao gồm các tài sản Ngân hàng nắm giữ để sử dụng trong quá 
-trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do 
-đó không đủ điều kiện ghi nhận là tài sản cố định theo các quy định hiện hành. Nguyên giá của công 
+Chi phí chờ phân bổ khác là giá trị công cụ, dụng cụ chờ phân bổ và lãi trả trước tiền gửi có kỳ hạn
+của khách hàng. Công cụ và dụng cụ bao gồm các tài sản Ngân hàng nắm giữ để sử dụng trong quá
+trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do
+đó không đủ điều kiện ghi nhận là tài sản cố định theo các quy định hiện hành. Nguyên giá của công
 cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian 2 năm.
-Chi phí chờ phân bổ của lãi trả trước tiền gửi có kỳ hạn của khách hàng được ghi nhận theo nguyên 
+Chi phí chờ phân bổ của lãi trả trước tiền gửi có kỳ hạn của khách hàng được ghi nhận theo nguyên
 giá và phân bổ theo phương pháp đường thẳng trong thời gian từ dưới 1 năm đến 10 năm.
-(iii)	
 Các tài sản Có khác
-Các tài sản Có khác, ngoài các khoản phải thu từ hoạt động tín dụng, được phản ánh theo giá gốc 
+Các tài sản Có khác, ngoài các khoản phải thu từ hoạt động tín dụng, được phản ánh theo giá gốc
 trừ dự phòng rủi ro cho các tài sản Có nội bảng.
-Dự phòng rủi ro cho các tài sản Có nội bảng được trích lập theo tuổi nợ quá hạn của khoản nợ hoặc 
-theo dự kiến tổn thất có thể xảy ra trong trường hợp khoản nợ chưa đến hạn thanh toán nhưng tổ 
-chức kinh tế (“TCKT”) lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể; người nợ mất tích, 
-bỏ trốn, đang bị các cơ quan pháp luật truy tố, xét xử hoặc đang thi hành án hoặc đã chết. Chi phí 
+Dự phòng rủi ro cho các tài sản Có nội bảng được trích lập theo tuổi nợ quá hạn của khoản nợ hoặc
+theo dự kiến tổn thất có thể xảy ra trong trường hợp khoản nợ chưa đến hạn thanh toán nhưng tổ
+chức kinh tế (“TCKT”) lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể; người nợ mất tích,
+bỏ trốn, đang bị các cơ quan pháp luật truy tố, xét xử hoặc đang thi hành án hoặc đã chết. Chi phí
 dự phòng phát sinh được hạch toán vào chi phí hoạt động trong năm.
-Đối với các tài sản Có quá hạn thanh toán, Ngân hàng áp dụng mức trích lập dự phòng theo thời 
+Đối với các tài sản Có quá hạn thanh toán, Ngân hàng áp dụng mức trích lập dự phòng theo thời
 gian quá hạn như sau:
 Thời gian quá hạn
 Mức trích dự phòng
  Từ trên sáu (06) tháng đến dưới một (01) năm
-30%
  Từ một (01) năm đến dưới hai (02) năm
-50%
  Từ hai (02) năm đến dưới ba (03) năm
-70%
  Từ ba (03) năm trở lên
-100%
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [85]
-Dự phòng rủi ro cho các tài sản Có nội bảng được trích lập cho các tổn thất có thể xảy ra cho các 
-khoản nợ chưa đến hạn thanh toán được xác định bởi Ngân hàng theo hướng dẫn của thông tư 
+Dự phòng rủi ro cho các tài sản Có nội bảng được trích lập cho các tổn thất có thể xảy ra cho các
+khoản nợ chưa đến hạn thanh toán được xác định bởi Ngân hàng theo hướng dẫn của thông tư
 48/2019/TT-BTC sau khi xem xét đến khả năng thu hồi của các khoản nợ này.
-(o)	
 Lợi thế thương mại
-Lợi thế thương mại là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của 
-Ngân hàng trong tổng giá trị hợp lý của tài sản, nợ phải trả và nợ tiềm tàng của hoạt động kinh doanh 
-được sáp nhập với Ngân hàng tại ngày thực hiện nghiệp vụ sáp nhập kinh doanh. Lợi thế thương 
-mại được coi là một loại tài sản vô hình, được phân bổ vào kết quả hoạt động kinh doanh theo 
+Lợi thế thương mại là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của
+Ngân hàng trong tổng giá trị hợp lý của tài sản, nợ phải trả và nợ tiềm tàng của hoạt động kinh doanh
+được sáp nhập với Ngân hàng tại ngày thực hiện nghiệp vụ sáp nhập kinh doanh. Lợi thế thương
+mại được coi là một loại tài sản vô hình, được phân bổ vào kết quả hoạt động kinh doanh theo
 phương pháp đường thẳng trong thời gian không quá 10 năm.
-(p)	
 Các khoản nợ Chính phủ và NHNNVN
 Các khoản nợ Chính phủ và NHNNVN được phản ánh theo giá gốc.
-(q)	
 Tiền gửi và vay các TCTD khác
 Tiền gửi và vay các TCTD khác được phản ánh theo giá gốc.
-(r)	
 Tiền gửi của khách hàng
 Tiền gửi khách hàng được phản ánh theo giá gốc.
-(s)	
 Giấy tờ có giá đã phát hành
-Giấy tờ có giá đã phát hành được phản ánh theo giá gốc. Giá gốc của giấy tờ có giá đã phát hành bao 
+Giấy tờ có giá đã phát hành được phản ánh theo giá gốc. Giá gốc của giấy tờ có giá đã phát hành bao
 gồm số tiền thu được từ việc phát hành trừ đi các chi phí trực tiếp có liên quan đến việc phát hành.
-(t)	
 Các khoản phải trả khác
 Các khoản phải trả khác được phản ánh theo giá gốc.
-(u)	
 Dự phòng khác
-Một khoản dự phòng trừ các khoản dự phòng được trình bày tại các Thuyết minh 3(d), 3(e), 3(f), 3(g), 
-3(h), 3(i) và 3(n) được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Ngân hàng có nghĩa 
-vụ pháp lý hiện tại hoặc liên đới có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm 
-sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự 
-phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết 
-khấu trước thuế phản ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền 
+Một khoản dự phòng trừ các khoản dự phòng được trình bày tại các Thuyết minh 3(d), 3(e), 3(f), 3(g),
+3(h), 3(i) và 3(n) được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Ngân hàng có nghĩa
+vụ pháp lý hiện tại hoặc liên đới có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm
+sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự
+phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết
+khấu trước thuế phản ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền
 và rủi ro cụ thể của khoản nợ đó.
-(v)	
-Vốn
-(i)	
 Vốn điều lệ
-Vốn điều lệ là tổng giá trị mệnh giá cổ phần đã bán. Cổ phiếu phổ thông được ghi nhận theo mệnh 
-giá. Các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu phổ thông được ghi nhận 
+Vốn điều lệ là tổng giá trị mệnh giá cổ phần đã bán. Cổ phiếu phổ thông được ghi nhận theo mệnh
+giá. Các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu phổ thông được ghi nhận
 như một khoản giảm trừ vào vốn chủ sở hữu.
-(ii)	
 Thặng dư vốn cổ phần
-Khi nhận được vốn góp từ các cổ đông, chênh lệch giữa giá phát hành và mệnh giá cổ phiếu được 
+Khi nhận được vốn góp từ các cổ đông, chênh lệch giữa giá phát hành và mệnh giá cổ phiếu được
 ghi nhận vào tài khoản thặng dư vốn cổ phần trong vốn chủ sở hữu.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [86]
-(w)	
-Các quỹ dự trữ 
-Theo Nghị định số 93/2017/NĐ-CP do Chính phủ Việt Nam ban hành 7 tháng 8 năm 2017 về chế độ tài chính 
+Các quỹ dự trữ
+Theo Nghị định số 93/2017/NĐ-CP do Chính phủ Việt Nam ban hành 7 tháng 8 năm 2017 về chế độ tài chính
 đối với các TCTD (“Nghị định 93”), Ngân hàng phải trích lập các quỹ như sau trước khi phân phối lợi nhuận:
-Quỹ dự phòng tài chính dùng để bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản xảy ra 
-trong quá trình kinh doanh sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân 
-gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chi phí; sử dụng cho các 
-mục đích khác theo quy định của pháp luật. Các quỹ dự trữ bắt buộc này không được phép phân 
+Quỹ dự phòng tài chính dùng để bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản xảy ra
+trong quá trình kinh doanh sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân
+gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chi phí; sử dụng cho các
+mục đích khác theo quy định của pháp luật. Các quỹ dự trữ bắt buộc này không được phép phân
 phối và được ghi nhận như là một phần của vốn chủ sở hữu.
-Các quỹ khác thuộc nguồn vốn chủ sở hữu được phân bổ từ lợi nhuận sau thuế. Việc phân bổ từ lợi 
-nhuận sau thuế và việc sử dụng các quỹ khác phải được Đại Hội đồng Cổ đông phê duyệt. Các quỹ 
+Các quỹ khác thuộc nguồn vốn chủ sở hữu được phân bổ từ lợi nhuận sau thuế. Việc phân bổ từ lợi
+nhuận sau thuế và việc sử dụng các quỹ khác phải được Đại Hội đồng Cổ đông phê duyệt. Các quỹ
 này không được quy định bởi luật pháp và được phép phân phối hết.
-(x)	
 Quỹ khen thưởng và phúc lợi
-Quỹ khen thưởng và phúc lợi không do pháp luật quy định và được phép phân phối hết, chủ yếu 
-được dùng để chi trả cho cán bộ, công nhân viên của Ngân hàng. Quỹ khen thưởng và phúc lợi 
-được trích lập từ lợi nhuận sau thuế theo nghị quyết của Đại hội đồng Cổ đông và được ghi nhận 
-trong nợ phải trả của Ngân hàng. Tỷ lệ trích lập do Đại hội đồng Cổ đông của Ngân hàng; quyết định 
+Quỹ khen thưởng và phúc lợi không do pháp luật quy định và được phép phân phối hết, chủ yếu
+được dùng để chi trả cho cán bộ, công nhân viên của Ngân hàng. Quỹ khen thưởng và phúc lợi
+được trích lập từ lợi nhuận sau thuế theo nghị quyết của Đại hội đồng Cổ đông và được ghi nhận
+trong nợ phải trả của Ngân hàng. Tỷ lệ trích lập do Đại hội đồng Cổ đông của Ngân hàng; quyết định
 tại cuộc họp Đại hội đồng Cổ đông thường niên.
-(y)	
 Các cam kết và nợ tiềm ẩn
-Tại từng thời điểm, Ngân hàng có các cam kết cấp tín dụng chưa thực hiện. Các cam kết này ở dưới 
-dạng các khoản cho vay và thấu chi đã được phê duyệt. Ngân hàng cũng cung cấp các bảo lãnh tài 
-chính và thư tín dụng để bảo lãnh việc thực hiện hợp đồng của khách hàng đối với bên thứ ba. Cam 
-kết và các khoản nợ tiềm tàng có thể đáo hạn trước khi giải ngân một phần hoặc toàn bộ các khoản 
+Tại từng thời điểm, Ngân hàng có các cam kết cấp tín dụng chưa thực hiện. Các cam kết này ở dưới
+dạng các khoản cho vay và thấu chi đã được phê duyệt. Ngân hàng cũng cung cấp các bảo lãnh tài
+chính và thư tín dụng để bảo lãnh việc thực hiện hợp đồng của khách hàng đối với bên thứ ba. Cam
+kết và các khoản nợ tiềm tàng có thể đáo hạn trước khi giải ngân một phần hoặc toàn bộ các khoản
 đã cam kết. Do đó các khoản này không thể hiện một cam kết về dòng tiền chắc chắn trong tương lai.
-(z)	
 Thu nhập lãi
-Thu nhập lãi được ghi nhận trong báo cáo kết quả hoạt động kinh doanh trên cơ sở dồn tích, ngoại 
-trừ tiền lãi từ các khoản nợ được phân loại từ Nhóm 2 đến Nhóm 5 (được trình bày tại Thuyết minh 
-3(i)(i) và các khoản nợ được cơ cấu giữ nguyên Nhóm 1 (Nợ đủ tiêu chuẩn) do thực hiện chính sách 
-đặc biệt của Nhà nước được ghi nhận khi Ngân hàng thực sự thu được. Khi một khoản nợ được 
-phân loại từ Nhóm 2 đến Nhóm 5 được trình bày tại Thuyết minh 3(i)(i) hoặc được cơ cấu giữ nguyên 
-Nhóm 1 do áp dụng Thông tư 01, Thông tư 03 và Thông tư 14 thì số lãi dự thu được xuất toán và 
+Thu nhập lãi được ghi nhận trong báo cáo kết quả hoạt động kinh doanh trên cơ sở dồn tích, ngoại
+trừ tiền lãi từ các khoản nợ được phân loại từ Nhóm 2 đến Nhóm 5 (được trình bày tại Thuyết minh
+3(i)(i) và các khoản nợ được cơ cấu giữ nguyên Nhóm 1 (Nợ đủ tiêu chuẩn) do thực hiện chính sách
+đặc biệt của Nhà nước được ghi nhận khi Ngân hàng thực sự thu được. Khi một khoản nợ được
+phân loại từ Nhóm 2 đến Nhóm 5 được trình bày tại Thuyết minh 3(i)(i) hoặc được cơ cấu giữ nguyên
+Nhóm 1 do áp dụng Thông tư 01, Thông tư 03 và Thông tư 14 thì số lãi dự thu được xuất toán và
 được ghi nhận ngoại bảng và được ghi nhận vào báo cáo kết quả hoạt động kinh doanh khi thu được.
-Khi một khoản nợ được giữ nguyên Nhóm nợ đủ tiêu chuẩn do thực hiện chính sách đặc biệt của 
-Nhà nước thì số lãi phải thu phát sinh trong năm không được hạch toán là thu nhập và Ngân hàng 
-thực hiện theo dõi ngoại bảng. Thu nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết 
+Khi một khoản nợ được giữ nguyên Nhóm nợ đủ tiêu chuẩn do thực hiện chính sách đặc biệt của
+Nhà nước thì số lãi phải thu phát sinh trong năm không được hạch toán là thu nhập và Ngân hàng
+thực hiện theo dõi ngoại bảng. Thu nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết
 quả hoạt động kinh doanh khi thu được.
 (aa)	 Chi phí lãi
 Chi phí lãi được ghi nhận trong báo cáo kết quả hoạt động kinh doanh trên cơ sở dồn tích.
 (bb)	 Thu nhập từ hoạt động dịch vụ
-Thu nhập từ hoạt động dịch vụ bao gồm khoản thu phí và hoa hồng nhận được từ dịch vụ dịch vụ 
-thanh toán, dịch vụ bảo lãnh, dịch vụ ngân quỹ và các dịch vụ khác được ghi nhận trong báo cáo kết 
+Thu nhập từ hoạt động dịch vụ bao gồm khoản thu phí và hoa hồng nhận được từ dịch vụ dịch vụ
+thanh toán, dịch vụ bảo lãnh, dịch vụ ngân quỹ và các dịch vụ khác được ghi nhận trong báo cáo kết
 quả hoạt động kinh doanh khi phát sinh.
 Tỷ lệ trích lập hàng năm
 Số dư tối đa
 Quỹ dự trữ bổ sung vốn điều lệ             5% lợi nhuận sau thuế
-        100% vốn điều lệ
-Quỹ dự phòng tài chính                     
-        10% lợi nhuận sau thuế
-        Không quy định
+100% vốn điều lệ
+Quỹ dự phòng tài chính
+10% lợi nhuận sau thuế
+Không quy định
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [87]
-(cc)	 Chi phí hoạt động dịch vụ
-Chi phí hoạt động dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh khi phát sinh.
-(dd)	 Thu nhập từ đầu tư
-Thu nhập từ bán chứng khoán được ghi nhận trong báo cáo kết quả hoạt động kinh doanh khi nhận 
-được thông báo khớp lệnh từ Trung tâm Lưu ký Chứng khoán Việt Nam (chứng khoán niêm yết) và 
-hoàn tất thỏa thuận chuyển giao tài sản (chứng khoán chưa niêm yết) và được xác định dựa trên 
-mức chênh lệch giá bán và giá vốn bình quân của chứng khoán được bán.
-Cổ tức nhận được bằng tiền mặt và lợi nhuận được chia từ hoạt động đầu tư và góp vốn được ghi 
-nhận vào báo cáo kết quả hoạt động kinh doanh khi quyền nhận cổ tức và lợi nhuận được chia của 
-Ngân hàng được xác định. 
-Cổ tức nhận dưới dạng cổ phiếu là các khoản được chia bằng cổ phiếu từ lợi nhuận của các công 
-ty cổ phần không được ghi nhận là một khoản tăng giá trị khoản đầu tư và thu nhập không được ghi 
-nhận trong báo cáo kết quả hoạt động kinh doanh. Khi nhận được cổ tức bằng cổ phiếu, Ngân hàng 
-chỉ cập nhật và theo dõi số lượng cổ phiếu tăng thêm.
-(ee)	 Các khoản thanh toán cho thuê hoạt động
-Các khoản thanh toán cho thuê hoạt động được ghi nhận vào báo cáo kết quả hoạt động kinh doanh 
-theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê 
-đã nhận được ghi nhận trên báo cáo kết quả hoạt động kinh doanh như một bộ phận hợp thành của 
-tổng chi phí thuê.
-(ff)	
-Thuế
-Thuế thu nhập doanh nghiệp tính trên lợi nhuận của năm bao gồm thuế thu nhập hiện hành và thuế 
-thu nhập hoãn lại.  Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động 
-kinh doanh  ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được 
-ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các khoản thuế thu nhập này cũng được ghi nhận 
-thẳng vào vốn chủ sở hữu.
-Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử 
-dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế 
-phải nộp liên quan đến những năm trước.
-Thuế thu nhập hoãn lại được tính theo phương pháp bảng cân đối kế toán cho các chênh lệch tạm 
-thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của 
-các khoản mục tài sản và nợ phải trả.  Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên 
-cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả 
-sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
-Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế 
-trong tương lai để tài sản thuế thu nhập này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được 
-ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
-Việc xác định thuế thu nhập doanh nghiệp phải nộp và thuế thu nhập doanh nghiệp hoãn lại của 
-Ngân hàng căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo 
-từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm 
-tra của cơ quan thuế có thẩm quyền.
-(gg)	 Lãi cơ bản trên cổ phiếu
-Ngân hàng trình bày lãi cơ bản trên cổ phiếu (EPS) cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ 
-phiếu được tính bằng cách lấy lãi hoặc lỗ thuộc về cổ đông phổ thông của Ngân hàng (sau khi đã trừ 
-quỹ khen thưởng, phúc lợi trích lập trong năm) chia cho số lượng cổ phiếu phổ thông bình quân gia 
-quyền lưu hành trong năm. Tại ngày báo cáo và cho năm kết thúc cùng ngày, Ngân hàng không có 
-các cổ phiếu tiềm năng, do vậy yêu cầu trình bày lãi trên cổ phiếu suy giảm không áp dụng.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [88]
 (hh)	 Các bên liên quan
-Các bên được coi là bên liên quan của Ngân hàng nếu một bên có khả năng, trực tiếp hoặc gián tiếp, 
-kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và 
-hoạt động, hoặc khi Ngân hàng và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể 
-chung.  Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia 
+Các bên được coi là bên liên quan của Ngân hàng nếu một bên có khả năng, trực tiếp hoặc gián tiếp,
+kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và
+hoạt động, hoặc khi Ngân hàng và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể
+chung.  Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia
 đình thân cận của các cá nhân được coi là liên quan.
-(ii)	
 Báo cáo bộ phận
-Một bộ phận là một hợp phần có thể xác định riêng biệt của Ngân hàng tham gia vào việc cung cấp 
-các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo lĩnh vực kinh doanh), hoặc cung cấp các 
-sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý), mỗi 
-bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận 
-chính yếu của Ngân hàng được chia theo khu vực địa lý. Mẫu báo cáo bộ phận thứ yếu của Ngân 
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Ngân hàng tham gia vào việc cung cấp
+các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo lĩnh vực kinh doanh), hoặc cung cấp các
+sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý), mỗi
+bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận
+chính yếu của Ngân hàng được chia theo khu vực địa lý. Mẫu báo cáo bộ phận thứ yếu của Ngân
 hàng được chia theo lĩnh vực kinh doanh.
-(jj)	
 Số dư bằng không
-Các khoản mục hay số dư được quy định trong Thông tư số 49/2014/TT-NHNN ngày 31 tháng 12 
-năm 2014 (“Thông tư 49”) của Thống đốc NHNNVN sửa đổi, bổ sung một số điều khoản của Chế độ 
-báo cáo tài chính đối với các Tổ chức tín dụng ban hành kèm theo Quyết định số 16/2007/QĐ-NHNN 
-ngày 18 tháng 4 năm 2007 và Quyết định số 479/2004/QĐ-NHNN ngày 29 tháng 4 năm 2004 của 
-Thống đốc Ngân hàng Nhà nước và hệ thống tài khoản kế toán các TCTD ban hành kèm theo mà 
+Các khoản mục hay số dư được quy định trong Thông tư số 49/2014/TT-NHNN ngày 31 tháng 12
+năm 2014 (“Thông tư 49”) của Thống đốc NHNNVN sửa đổi, bổ sung một số điều khoản của Chế độ
+báo cáo tài chính đối với các Tổ chức tín dụng ban hành kèm theo Quyết định số 16/2007/QĐ-NHNN
+ngày 18 tháng 4 năm 2007 và Quyết định số 479/2004/QĐ-NHNN ngày 29 tháng 4 năm 2004 của
+Thống đốc Ngân hàng Nhà nước và hệ thống tài khoản kế toán các TCTD ban hành kèm theo mà
 không được thể hiện trong báo cáo tài chính này thì được hiểu là có số dư bằng không.
 (kk)	 Thông tin so sánh
-Thông tin so sánh trong báo cáo tài chính này được trình bày dưới dạng dữ liệu tương ứng. Theo 
-phương pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể 
-tách rời của báo cáo tài chính kỳ hiện tại và phải được xem xét trong mối liên hệ với các số liệu và 
-thuyết minh của năm hiện tại. Theo đó, thông tin so sánh trong báo cáo tài chính này không nhằm 
-mục đích trình bày về tình hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ của 
+Thông tin so sánh trong báo cáo tài chính này được trình bày dưới dạng dữ liệu tương ứng. Theo
+phương pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể
+tách rời của báo cáo tài chính kỳ hiện tại và phải được xem xét trong mối liên hệ với các số liệu và
+thuyết minh của năm hiện tại. Theo đó, thông tin so sánh trong báo cáo tài chính này không nhằm
+mục đích trình bày về tình hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ của
 Ngân hàng trong năm trước.
-(ll)	
 Các công cụ tài chính
-Nhằm mục đích duy nhất là cung cấp các thông tin thuyết minh về tầm quan trọng của các công cụ 
-tài chính đối với tình hình tài chính và kết quả hoạt động kinh doanh của Ngân hàng và tính chất và 
+Nhằm mục đích duy nhất là cung cấp các thông tin thuyết minh về tầm quan trọng của các công cụ
+tài chính đối với tình hình tài chính và kết quả hoạt động kinh doanh của Ngân hàng và tính chất và
 mức độ rủi ro phát sinh từ các công cụ tài chính, Ngân hàng phân loại các công cụ tài chính như sau:
-(i)	
 Tài sản tài chính
 Tài sản tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh:
-Tài sản tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh 
-là một tài sản tài chính thỏa mãn một trong các điều kiện sau:  
-■	
-Tài sản tài chính được phân loại vào nhóm nắm giữ để kinh doanh, nếu: 
--	
+Tài sản tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh
+là một tài sản tài chính thỏa mãn một trong các điều kiện sau:
+Tài sản tài chính được phân loại vào nhóm nắm giữ để kinh doanh, nếu:
 tài sản được mua chủ yếu cho mục đích bán lại trong thời gian ngắn;
--	
-có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc 
--	
-công cụ tài chính phái sinh (ngoại trừ các công cụ tài chính phái sinh được xác định là một 
+có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
+công cụ tài chính phái sinh (ngoại trừ các công cụ tài chính phái sinh được xác định là một
 hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
-■	
-Tại thời điểm ghi nhận ban đầu, Ngân hàng xếp tài sản tài chính vào nhóm được xác định theo 
+Tại thời điểm ghi nhận ban đầu, Ngân hàng xếp tài sản tài chính vào nhóm được xác định theo
 giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh.
 Các khoản đầu tư nắm giữ đến ngày đáo hạn:
-Các khoản đầu tư nắm giữ đến ngày đáo hạn là các tài sản tài chính phi phái sinh với các khoản 
-thanh toán cố định hoặc có thể xác định và có kỳ đáo hạn cố định mà Ngân hàng có ý định và có khả 
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các tài sản tài chính phi phái sinh với các khoản
+thanh toán cố định hoặc có thể xác định và có kỳ đáo hạn cố định mà Ngân hàng có ý định và có khả
 năng giữ đến ngày đáo hạn, ngoại trừ:
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [89]
-■	
-các tài sản tài chính mà tại thời điểm ghi nhận ban đầu đã được Ngân hàng xếp vào nhóm được 
-xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh;
-■	
-các tài sản tài chính đã được Ngân hàng xếp vào nhóm sẵn sàng để bán; hoặc
-■	
-các tài sản tài chính thỏa mãn định nghĩa về các khoản cho vay và phải thu.
-Các khoản cho vay và phải thu
-Các khoản cho vay và phải thu là các tài sản tài chính phi phái sinh với các khoản thanh toán cố định 
-hoặc có thể xác định và không được niêm yết trên thị trường, ngoại trừ:
-■	
-các khoản mà Ngân hàng có ý định bán ngay hoặc sẽ bán trong tương lai gần được phân loại 
-là tài sản nắm giữ vì mục đích kinh doanh, và các loại mà tại thời điểm ghi nhận ban đầu được 
-Ngân hàng xếp vào nhóm được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt 
-động kinh doanh;
-■	
-các khoản được Ngân hàng xếp vào nhóm sẵn sàng để bán tại thời điểm ghi nhận ban đầu; hoặc
-■	
-các khoản mà Ngân hàng nắm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, 
-không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sàng để bán.
-Tài sản tài chính sẵn sàng để bán
-Tài sản tài chính sẵn sàng để bán là các tài sản tài chính phi phái sinh được xác định là sẵn sàng để 
-bán hoặc không được phân loại là:
-■	
-các tài sản tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động 
-kinh doanh;
-■	
-các khoản đầu tư nắm giữ đến ngày đáo hạn; hoặc
-■	
-các khoản cho vay và phải thu.
-(ii)	
-Nợ phải trả tài chính
-Nợ phải trả tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh 
-Nợ phải trả tài chính được xác định theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh 
-doanh là một khoản nợ phải trả tài chính thỏa mãn một trong các điều kiện sau:
-■	
-Một khoản nợ phải trả tài chính được phân loại vào nhóm nắm giữ để kinh doanh nếu thỏa mãn 
-một trong các điều kiện sau:
--	
-được phát sinh chủ yếu cho mục đích mua lại trong thời gian ngắn;
--	
-có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
--	
-là công cụ tài chính phái sinh (ngoại trừ các công cụ tài chính phái sinh được xác định là 
-một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
-■	
-Tại thời điểm ghi nhận ban đầu, Ngân hàng xếp nợ phải trả tài chính vào nhóm được xác định 
-theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh. 
-Nợ phải trả tài chính được xác định theo giá trị phân bổ
-Các khoản nợ phải trả tài chính không được phân loại là nợ phải trả tài chính được xác định theo 
-giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh sẽ được phân loại là nợ phải trả tài 
-chính được xác định theo giá trị phân bổ.
-Việc phân loại các công cụ tài chính kể trên chỉ nhằm mục đích trình bày và thuyết minh và không 
-nhằm mục đích mô tả phương pháp xác định giá trị của các công cụ tài chính. Các chính sách kế toán 
-về đo lường giá trị của các công cụ tài chính được trình bày trong các thuyết minh liên quan khác.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [90]
-4.	
-TIỀN MẶT
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền mặt bằng VND
-2.663.442 
- 3.080.986 
-Tiền mặt bằng ngoại tệ
-87.836 
- 418.284 
-2.751.278 
- 3.499.270 
-5.	
-TIỀN GỬI TẠI NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
-Tiền gửi tại NHNNVN bao gồm quỹ dự trữ bắt buộc và tài khoản tiền gửi thanh toán.
-Theo quy định của NHNNVN về dự trữ bắt buộc, các ngân hàng được phép duy trì một số dư thả 
-nổi tại tài khoản dự trữ bắt buộc (“DTBB”).  Số dư bình quân dự trữ bắt buộc hàng tháng phải không 
-được thấp hơn bình quân số dư tiền gửi của tháng trước nhân với tỷ lệ dự trữ bắt buộc tương ứng.
-Tỷ lệ DTBB tại thời điểm cuối năm như sau:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tài khoản tiền gửi thanh toán tại NHNNVN
-Bằng VND
-9.678.761 
-6.219.368
-Bằng ngoại tệ
-188.885 
-539.612
-9.867.646 
-6.758.980
 Lãi suất năm tại thời điểm cuối năm như sau:
-Tỷ lệ dự trữ bắt buộc
-31/12/2021
-31/12/2020
-Số dư bình quân tháng trước của:
-Tiền gửi bằng VND không kỳ hạn và có thời hạn dưới 12 tháng
-3%
-3%
-Tiền gửi bằng VND có thời hạn từ 12 tháng trở lên 
-1%
-1%
-Tiền gửi bằng ngoại tệ không kỳ hạn và có thời hạn dưới 12 tháng
-8%
-8%
-Tiền gửi bằng ngoại tệ có thời hạn từ 12 tháng trở lên 
-6%
-6%
-31/12/2021
-31/12/2020
-Tiền gửi bằng VND trong hạn mức dự trữ bắt buộc
-0,50%
-0,80%
-Tiền gửi bằng USD trong hạn mức dự trữ bắt buộc
-0,00%
-0,00%
-Tiền gửi bằng VND vượt hạn mức dự trữ bắt buộc
-0,00%
-0,00%
-Tiền gửi bằng USD vượt hạn mức dự trữ bắt buộc
-0,00%
-0,05%
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [91]
-6.	
-TIỀN GỬI VÀ CHO VAY TỔ CHỨC TÍN DỤNG KHÁC
-Phân tích chất lượng dư nợ tiền gửi có kỳ hạn và cho vay các TCTD khác như sau:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền gửi không kỳ hạn
-Tiền gửi không kỳ hạn bằng VND
-2.192.380
-1.025.173
-Tiền gửi không kỳ hạn bằng ngoại tệ
-329.431
-507.057
-Tiền gửi có kỳ hạn
-Tiền gửi có kỳ hạn bằng VND
-11.857.549
-8.941.955
-Tiền gửi có kỳ hạn bằng ngoại tệ
-6.908.400
-3.069.000
-21.287.760
-13.543.185
-Cho vay các TCTD khác
-Cho vay bằng VND
-1.150.733
-300.000
-Cho vay bằng ngoại tệ
--
-116.250
-1.150.733
-416.250
-22.438.493
-13.959.435
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Nhóm 1 - Nợ đủ tiêu chuẩn
-19.916.682
-12.427.205
-Lãi suất tại thời điểm cuối năm như sau:
-31/12/2021
-31/12/2020
-Tiền gửi có kỳ hạn bằng VND
-1,00% - 2,57%
-0,10% - 2,90%
-Tiền gửi có kỳ hạn bằng ngoại tệ
-0,01% - 0,50%
-0,15% - 0,60%
-Cho vay bằng VND
-0,00% - 6,20%
-2,90% - 5,50%
-Cho vay bằng ngoại tệ 
-0,00%
-0,8%
-7.	
-CHỨNG KHOÁN KINH DOANH
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Chứng khoán kinh doanh khác
-Chứng khoán kinh doanh khác do các TCKT nước 
-ngoài phát hành
-232.521
-279.000
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [92]
-Tình trạng niêm yết của các chứng khoán kinh doanh:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Chứng khoán kinh doanh khác
-Chưa niêm yết
-232.521
-279.000
-8.	
-CÁC CÔNG CỤ TÀI CHÍNH PHÁI SINH VÀ CÁC TÀI SẢN/(NỢ PHẢI TRẢ) TÀI CHÍNH KHÁC
-Chi tiết giá trị các công cụ tài chính phái sinh tại ngày cuối năm như sau:
-9.	
-CHO VAY KHÁCH HÀNG
-31/12/2021
-31/12/2020
-Tổng giá trị 
-ghi sổ kế toán
-Tổng giá trị 
-ghi sổ kế toán
-Tổng giá trị 
-của hợp đồng
-Tài sản/
-(nợ phải trả)
-Tổng giá trị 
-của hợp đồng
-Tài sản/
-(nợ phải trả)
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Công cụ tài chính phái sinh tiền tệ
-Giao dịch kỳ hạn tiền tệ
-5.542.835
-29.667
-3.694.946
-14.922
-Giao dịch hoán đổi tiền tệ
-69.876.588
-55.164 
-36.464.219
-203.179
-75.419.423 
-84.831 
-40.159.165
-218.101
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Cho vay các tổ chức kinh tế, cá nhân trong nước
-208.456.839
-176.215.025
-Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ 
-có giá
-88.119
-48.237
-Cho vay bằng vốn tài trợ, ủy thác đầu tư
-409.178
-358.274
-208.954.136
-176.621.536
-Phân tích chất lượng dư nợ cho vay:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Nhóm 1 - Nợ đủ tiêu chuẩn 
-204.089.692
-172.777.892
-Nhóm 2 - Nợ cần chú ý 
-2.000.990
-1.316.295
-Nhóm 3 - Nợ dưới tiêu chuẩn
-460.296
-404.729
-Nhóm 4 - Nợ nghi ngờ 
-1.069.630
-356.353
-Nhóm 5 - Nợ có khả năng mất vốn
-1.333.528
-1.766.267
-208.954.136
-176.621.536
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [93]
-Phân tích dư nợ theo thời hạn cho vay:
-Phân tích dư nợ cho vay theo đối tượng khách hàng và loại hình doanh nghiệp:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Nợ ngắn hạn
-70.667.278
-56.199.575
-Nợ trung hạn
-92.483.210
-81.581.195
-Nợ dài hạn
-45.803.648
-38.840.766
-208.954.136
-176.621.536
-31/12/2021
-31/12/2020
-Triệu VND
-%
-Triệu VND
-%
-Cho vay các TCKT
-Công ty Nhà nước
-330
-0,00%
-1.802
-0,00%
-Công ty trách nhiệm hữu hạn một thành 
-viên vốn Nhà nước 100%
-499.015
-0,24%
-1.136.496
-0,64%
-Công ty trách nhiệm hữu hạn khác
-22.203.461
-10,63%
-21.520.892
-12,18%
-Công ty cổ phần vốn Nhà nước trên 50%
-4.592.964
-2,20%
-5.140.630
-2,91%
-Công ty cổ phần khác
-84.356.365
-40,37%
-72.359.864
-40,97%
-Công ty hợp danh
--
-0,00%
-131
-0,00%
-Doanh nghiệp tư nhân
-6.941
-0,01%
-9.103
-0,01%
-Hợp tác xã và liên hiệp hợp tác xã
-117.168
-0,06%
-122.131
-0,07%
-Đơn vị hành chính sự nghiệp, Đảng,  
-đoàn thể và hiệp hội
-30.299
-0,01%
-51.357
-0,03%
-Cho vay cá nhân
-Cá nhân
-97.147.593
-46,48%
-76.279.130
-43,19%
-208.954.136
-100,00%
-176.621.536
-100,00%
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [94]
-Phân tích dư nợ cho vay theo ngành nghề kinh doanh:
-31/12/2021
-31/12/2020
-Triệu VND
-%
-Triệu VND
-%
-Nông nghiệp, lâm nghiệp và thủy sản
-13.470.163
-6,45%
- 9.208.730
-5,21%
-Khai khoáng
-800.577
-0,38%
- 396.457
-0,22%
-Công nghiệp chế biến, chế tạo
-16.862.684
-8,07%
- 13.874.231
-7,86%
-Sản xuất và phân phối điện, khí đốt và nước 
-nóng, hơi nước và điều hòa không khí
-4.535.069
-2,17%
-4.893.446
-2,77%
-Cung cấp nước, hoạt động quản lý và xử lý 
-rác thải, nước thải
-3.685.765
-1,76%
-574.280
-0,31%
-Xây dựng
-22.122.535
-10,59%
-24.320.610
-13,77%
-Bán buôn và bán lẻ, sửa chữa môtô, 
-ôtô, xe máy và xe có động cơ khác
-49.897.059
-23,88%
-26.919.983
-15,24%
-Vận tải kho bãi
-5.423.936
-2,60%
- 3.550.012
-2,01%
-Dịch vụ lưu trú và ăn uống
-11.561.203
-5,53%
- 5.813.304
-3,29%
-Thông tin và truyền thông
-1.016.955
-0,49%
- 1.210.334
-0,69%
-Hoạt động tài chính, ngân hàng và bảo hiểm
-1.083.904
-0,52%
- 1.778.824
-1,01%
-Hoạt động kinh doanh bất động sản
-1.018.201
-0,49%
- 3.495.247
-1,98%
-Hoạt động chuyên môn, khoa học và 
-công nghệ
-5.780.649
-2,77%
-9.924.506
-5,62%
-Hoạt động hành chính và dịch vụ hỗ trợ
-6.742.539
-3,23%
- 4.743.932
-2,69%
-Hoạt động của Đảng Cộng sản, Tổ chức 
-Chính trị - Xã hội, Quản lý Nhà nước, An 
-ninh Quốc phòng, Bảo hiểm xã hội bắt buộc
-1.562.237
-0,75%
-2.801.154
-1,59%
-Giáo dục và đào tạo
-3.300.602
-1,58%
- 5.166.342
-2,93%
-Y tế và hoạt động trợ giúp xã hội
-410.519
-0,20%
- 585.854
-0,33%
-Nghệ thuật, vui chơi và giải trí
-7.921.959
-3,79%
- 9.292.412
-5,26%
-Hoạt động dịch vụ khác
-500.894
-0,24%
- 418.841
-0,24%
-Hoạt động làm thuê các công việc trong các 
-hộ gia đình, sản xuất sản phẩm vật chất và 
-dịch vụ tự tiêu dùng của hộ gia đình
-51.256.686
-24,51%
-47.653.037
-26,98%
-208.954.136
-100%
-176.621.536
-100,00%
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [95]
-Lãi suất năm tại thời điểm cuối năm như sau:
-10.	
 DỰ PHÒNG RỦI RO CHO VAY KHÁCH HÀNG
-31/12/2021
-31/12/2020
 Cho vay bằng VND
-3,25% -18,15%
-4,8% - 17,00%
 Cho vay bằng ngoại tệ
-2,50% - 7,50%
-2,80% - 7,50%
-Dự phòng rủi ro cho vay khách hàng bao gồm: 
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
+Dự phòng rủi ro cho vay khách hàng bao gồm:
 Dự phòng chung (i)
-1.554.425
-1.312.305
-Dự phòng cụ thể (ii) 
-1.616.277
-952.896
-3.170.702
-2.265.201
-(i)	
+Dự phòng cụ thể (ii)
 Biến động dự phòng chung của dự phòng rủi ro cho vay khách hàng như sau:
-2021
-Triệu VND
-2020
-Triệu VND
 Số dư đầu năm
-1.312.305
-1.042.293
 Trích lập dự phòng chung trong năm (Thuyết minh 31)
-242.120
-270.012
 Số dư cuối năm
-1.554.425
-1.312.305
-(ii)	
 Biến động dự phòng cụ thể của dự phòng rủi ro cho vay khách hàng như sau:
-2021
-Triệu VND
-2020
-Triệu VND
 Số dư đầu năm
-952.896
-678.300
 Trích lập dự phòng cụ thể trong năm (Thuyết minh 31)
-1.082.547
-320.033
 Sử dụng dự phòng trong năm
-(419.166)
-(45.437)
 Số dư cuối năm
-1.616.277
-952.896
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [96]
-11.	
 CHỨNG KHOÁN ĐẦU TƯ
-(a)	
 Chứng khoán đầu tư sẵn sàng để bán
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
 Chứng khoán nợ
  Trái phiếu Chính phủ (i)
-25.003.990
-23.508.650
  Trái phiếu do các TCTD khác trong nước phát hành (ii)
-13.196.903
-9.031.953
 Trong đó: Trái phiếu được Chính phủ bảo lãnh
-2.247.617
-2.655.927
  Trái phiếu do các TCKT trong nước phát hành (iii)
-74.800
-402.612
 Chứng khoán vốn
  Do các TCTD khác trong nước phát hành
-431.113
-431.113
-38.706.806
-33.374.328
 Dự phòng rủi ro chứng khoán đầu tư sẵn sàng để bán
  Dự phòng chung chứng khoán nợ sẵn sàng để bán
-(635)
-(3.052)
  Dự phòng giảm giá chứng khoán nợ sẵn sàng để bán
-(16.685)
-(11.264)
-(17.320)
-(14.316)
-38.689.486
-33.360.012
-(i)	
-Đây là số trái phiếu Kho bạc Nhà nước, trái phiếu Uỷ ban Nhân dân Thành phố Hải Phòng phát hành 
-bằng VND. Số trái phiếu này có kỳ hạn từ 5 đến 20 năm và có lãi suất năm từ 1,10% đến 9,10% 
+Đây là số trái phiếu Kho bạc Nhà nước, trái phiếu Uỷ ban Nhân dân Thành phố Hải Phòng phát hành
+bằng VND. Số trái phiếu này có kỳ hạn từ 5 đến 20 năm và có lãi suất năm từ 1,10% đến 9,10%
 (31/12/2020: từ 2,30% đến 9,10%). Tiền lãi được trả hàng năm.
-(ii)	
-Đây là số trái phiếu do các TCTD khác trong nước phát hành bằng VND. Số trái phiếu này có kỳ hạn 
-từ 6 tháng đến 10 năm và có lãi suất năm từ 2,30% đến 8,80% (31/12/2020: từ 4,30% đến 10,80%). 
+Đây là số trái phiếu do các TCTD khác trong nước phát hành bằng VND. Số trái phiếu này có kỳ hạn
+từ 6 tháng đến 10 năm và có lãi suất năm từ 2,30% đến 8,80% (31/12/2020: từ 4,30% đến 10,80%).
 Tiền lãi được trả 6 tháng một lần, hàng năm.
-(iii)	
-Đây là số trái phiếu do các TCKT trong nước phát hành bằng VND. Số trái phiếu này có kỳ hạn là 10 
+Đây là số trái phiếu do các TCKT trong nước phát hành bằng VND. Số trái phiếu này có kỳ hạn là 10
 năm, và có lãi suất năm 9,35% (31/12/2020: từ 9,00% đến 9,35%). Tiền lãi được trả 6 tháng một lần.
-Tại ngày 31 tháng 12 năm 2021, Ngân hàng cầm cố chứng khoán nợ là trái phiếu Chính phủ và chứng 
-khoán nợ do các TCTD khác trong nước phát hành với mệnh giá 13.279.340 triệu VND (31/12/2020: 
-8.983.340 triệu VND) tại các TCTD khác làm tài sản đảm bảo cho các khoản vay và tiền gửi có kỳ hạn 
-từ các TCTD khác (Thuyết minh 18), và mệnh giá 1.450.000 triệu VND tại NHNNVN làm tài sản đảm 
+Tại ngày 31 tháng 12 năm 2021, Ngân hàng cầm cố chứng khoán nợ là trái phiếu Chính phủ và chứng
+khoán nợ do các TCTD khác trong nước phát hành với mệnh giá 13.279.340 triệu VND (31/12/2020:
+8.983.340 triệu VND) tại các TCTD khác làm tài sản đảm bảo cho các khoản vay và tiền gửi có kỳ hạn
+từ các TCTD khác (Thuyết minh 18), và mệnh giá 1.450.000 triệu VND tại NHNNVN làm tài sản đảm
 bảo cho các khoản vay cầm cố giấy tờ có giá từ NHNNVN (Thuyết minh 17).
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [97]
-(b)	
 Tình trạng niêm yết của các chứng khoán đầu tư sẵn sàng để bán
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
 Chứng khoán nợ
 Trái phiếu Chính phủ - đã niêm yết
-25.003.990
-23.508.650
 Do các TCTD khác trong nước phát hành - chưa niêm yết
-13.196.903
-9.031.953
 Do các TCKT trong nước phát hành - chưa niêm yết
-74.800
-402.612
 Chứng khoán vốn
 Do các TCTD khác trong nước phát hành - đã niêm yết
-431.113
-431.113
-38.706.806
-33.374.328
-(c)	
 Dự phòng rủi ro chứng khoán đầu tư
-Biến động các khoản dự phòng giảm giá chứng khoán đầu tư cho cho năm kết thúc ngày 31 tháng 
+Biến động các khoản dự phòng giảm giá chứng khoán đầu tư cho cho năm kết thúc ngày 31 tháng
 12 năm 2021 như sau:
-Dự phòng 
-giảm giá 
-chứng khoán 
-nợ sẵn sàng 
+Dự phòng
+giảm giá
+chứng khoán
+nợ sẵn sàng
 để bán
-Dự phòng 
-chung chứng 
-khoán nợ sẵn 
+Dự phòng
+chung chứng
+khoán nợ sẵn
 sàng để bán
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Số đầu năm
-11.264
-3.052
-14.316
-Trích lập/(hoàn nhập) dự phòng 
+Trích lập/(hoàn nhập) dự phòng
 trong năm (các Thuyết minh 28, 31)
-5.421
-(2.417)
-3.004
-Số cuối năm
-16.685
-635
-17.320
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [98]
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-Dự phòng 
-giảm giá 
-chứng khoán 
-vốn sẵn sàng    
+Dự phòng
+giảm giá
+chứng khoán
+vốn sẵn sàng
 để bán
-Dự phòng 
-giảm giá 
-chứng khoán 
-nợ sẵn sàng 
+Dự phòng
+giảm giá
+chứng khoán
+nợ sẵn sàng
 để bán
-Dự phòng 
-chung chứng 
-khoán nợ sẵn 
+Dự phòng
+chung chứng
+khoán nợ sẵn
 sàng để bán
-Dự phòng cụ 
-thể chứng 
-khoán nợ sẵn 
+Dự phòng cụ
+thể chứng
+khoán nợ sẵn
 sàng để bán
-Dự phòng cụ 
-thể chứng 
-khoán nợ nắm 
-giữ đến ngày 
+Dự phòng cụ
+thể chứng
+khoán nợ nắm
+giữ đến ngày
 đáo hạn
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Số đầu năm
-101.300
-11.335
-900
-56.827
-175.182
-345.544
-(Hoàn nhập)/trích lập dự phòng trong 
+(Hoàn nhập)/trích lập dự phòng trong
 năm (các Thuyết minh 28, 31)
-(101.300)
-(71)
-2.152
-(56.827)
-164.016
-7.970
 Sử dụng dự phòng trong năm
--
--
--
--
-(339.198)
-(339.198)
-Số cuối năm
--
-11.264
-3.052
--
--
-14.316
 Biến động các khoản dự phòng giảm giá chứng khoán đầu tư cho năm kết thúc ngày 31 tháng 12 năm 2020 như sau:
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [99]
-12.	
-ĐẦU TƯ DÀI HẠN KHÁC
-Chi tiết các khoản đầu tư dài hạn khác như sau:
-31/12/2021 và 31/12/2020
-Số lượng
-cổ phần nắm giữ
-Giá gốc
-Tỷ lệ
-sở hữu
-Triệu VND
-%
-Đầu tư vào các TCKT 
-Công ty Cổ phần Chứng khoán Liên Việt
-1.375.000
-15.931
-5,50
-Công ty Cổ phần điện Việt Lào
-30.000.000
-300.000
-9,60
-315.931
-13.	
-TÀI SẢN CỐ ĐỊNH HỮU HÌNH
-Năm kết thúc ngày 31 tháng 12 năm 2021
-Nhà cửa
-Máy móc 
-thiết bị
-Phương 
-tiện vận tải - 
-truyền dẫn
-Tài sản 
-cố định 
-khác
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Nguyên giá
-Số dư đầu năm
-600.557
-673.102
-845.415
-289.751
-2.408.825
-Mua trong năm
--
-41.057
-98.324
-29.150
-168.531
-Đầu tư XDCB hoàn thành
-31.739
--
--
--
-31.739
-Thanh lý
--
-(14.497)
-(58.646)
-(5.250)
-(78.393)
-Số dư cuối năm 
-632.296
-699.662
-885.093
-313.651
-2.530.702
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-189.222
-469.763
-424.251
-178.269
-1.261.505
-Khấu hao trong năm
-43.939
-73.684
-82.714
-43.448
-243.785
-Thanh lý
--
-(14.415)
-(47.254)
-(4.704)
-(66.373)
-Giảm khác
-(36)
-(373)
-(343)
-(282)
-(1.034)
-Số dư cuối năm
-233.125
-528.659
-459.368
-216.731
-1.437.883
-Giá trị còn lại
-Số dư đầu năm
-411.335
-203.339
-421.164
-111.482
-1.147.320
-Số dư cuối năm
-399.171
-171.003
-425.725
-96.920
-1.092.819
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [100]
-Nhà cửa
-Máy móc 
-thiết bị
-Phương 
-tiện vận tải -  
-truyền dẫn
-Tài sản    
-cố định 
-khác
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Nguyên giá
-Số dư đầu năm
-464.518
-593.878
-826.452
-244.196
-2.129.044
-Mua trong năm
--
-86.053
-74.720
-54.946
-215.719
-Đầu tư XDCB hoàn thành
-136.039
--
--
--
-136.039
-Thanh lý
--
-(6.829)
-(55.757)
-(9.391)
-(71.977)
-Số dư cuối năm 
-600.557
-673.102
-845.415
-289.751
-2.408.825
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-157.984
-398.029
-388.825
-149.308
-1.094.146
-Khấu hao trong năm
-31.238
-78.463
-83.032
-37.747
-230.480
-Thanh lý
--
-(6.729)
-(47.606)
-(8.786)
-(63.121)
-Số dư cuối năm
-189.222
-469.763
-424.251
-178.269
-1.261.505
-Giá trị còn lại
-Số dư đầu năm
- 306.534
- 195.849
- 437.627
- 94.888
- 1.034.898
-Số dư cuối năm
-411.335
-203.339
-421.164
-111.482
-1.147.320
-Năm kết thúc ngày 31 tháng 12 năm 2020
-Trong tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2021 có các tài sản có nguyên giá 582.787 
-triệu VND đã được khấu hao hết nhưng vẫn đang được sử dụng (31/12/2020: 475.468 triệu VND).
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [101]
-14.	
-TÀI SẢN CỐ ĐỊNH VÔ HÌNH
-Năm kết thúc ngày 31 tháng 12 năm 2021
-Quyền sử dụng 
-đất có thời hạn
-Phần mềm
-máy vi tính
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Nguyên giá
-Số dư đầu năm
-373.270
-251.945
-625.215
-Mua trong năm
-36.519
-10.815
-47.334
-Số dư cuối năm
-409.789
-262.760
-672.549
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-13.777
-137.783
-151.560
-Khấu hao trong năm
-2.889
-26.462
-29.351
-Số dư cuối năm
-16.666
-164.245
-180.911
-Giá trị còn lại
-Số dư đầu năm
-359.493
-114.162
-473.655
-Số dư cuối năm
-393.123
-98.515
-491.638
-Năm kết thúc ngày 31 tháng 12 năm 2020
-Quyền sử dụng 
-đất có thời hạn
-Phần mềm
-máy vi tính
-Tổng cộng
-Triệu VND
-Triệu VND
-Triệu VND
-Nguyên giá
-Số dư đầu năm
-373.270
-220.762
-594.032
-Mua trong năm
--
-31.183
-31.183
-Số dư cuối năm
-373.270
-251.945
-625.215
-Giá trị hao mòn lũy kế
-Số dư đầu năm
-12.100
-113.352
-125.452
-Khấu hao trong năm
-1.677
-24.431
-26.108
-Số dư cuối năm
-13.777
-137.783
-151.560
-Giá trị còn lại
-Số dư đầu năm
-361.170
-107.410
-468.580
-Số dư cuối năm
-359.493
-114.162
-473.655
-Trong tài sản cố định vô hình tại ngày 31 tháng 12 năm 2021 có các tài sản có nguyên giá 61.033 triệu 
-VND đã được khấu hao hết nhưng vẫn đang được sử dụng (31/12/2020: 50,381 triệu VND).
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [102]
-15.	
 TÀI SẢN CÓ KHÁC
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
 Các khoản phải thu
-1.248.734
-836.730
 Trong đó:
-Tạm ứng cho hoạt động xây dựng phục vụ mục đích từ 
+Tạm ứng cho hoạt động xây dựng phục vụ mục đích từ
 thiện (i)
-338.816
-268.807
-Đặt cọc thuê văn phòng dài hạn 
-34.890
-30.828
+Đặt cọc thuê văn phòng dài hạn
 Phải thu từ bưu điện các tỉnh (ii)
-49.781
-65.861
 Tạm ứng để hoạt động nghiệp vụ
-58.186
-55.524
 Tạm ứng chi phí sửa chữa trụ sở
-34.983
-25.318
-Chi phí XDCB dở dang 
--
-27.170
-Phải thu NHNNVN liên quan đến chương trình hỗ trợ 
+Chi phí XDCB dở dang
+Phải thu NHNNVN liên quan đến chương trình hỗ trợ
 lãi suất (iii)
-9.268
-9.261
-Tạm ứng mua tài sản cố định 
-320.184
-183.889
+Tạm ứng mua tài sản cố định
 Ký quỹ cho các hoạt động nghiệp vụ
-228.000
--
 Các khoản phải thu khác
-174.626
-170.072
 Các khoản lãi, phí phải thu
-5.383.067
-6.046.092
 Tài sản có khác
-818.920
-1.095.221
 Trong đó:
 Chi phí chờ phân bổ (iv)
-782.908
-1.035.417
 Lợi thế thương mại (Thuyết minh 16)
--
-34.342
 Tài sản Có khác
-36.012
-25.462
 Dự phòng phải thu khó đòi
-(4.919)
-(3.131)
-7.445.802
-7.974.912
-(i)	
-Đây là các khoản tạm ứng chi phí cho các dự án xây dựng các công trình phục vụ mục đích từ thiện 
-xã hội bao gồm: tài trợ cho giáo dục, tài trợ cho y tế, tài trợ cho khắc phục hậu quả thiên tai, tài trợ 
-cho đối tượng nhận tài trợ là hộ nghèo, và các khoản tài trợ khác theo quyết định của Hội đồng Quản 
+Đây là các khoản tạm ứng chi phí cho các dự án xây dựng các công trình phục vụ mục đích từ thiện
+xã hội bao gồm: tài trợ cho giáo dục, tài trợ cho y tế, tài trợ cho khắc phục hậu quả thiên tai, tài trợ
+cho đối tượng nhận tài trợ là hộ nghèo, và các khoản tài trợ khác theo quyết định của Hội đồng Quản
 trị. Tại ngày 31 tháng 12 năm 2021, các dự án này chưa hoàn thiện và chưa được quyết toán.
-(ii)	
-Đây là các khoản phải thu từ các bưu điện tỉnh liên quan đến các hoạt động huy động vốn và huy 
-động tiền gửi tiết kiệm của Ngân hàng. Các khoản này phát sinh hàng ngày và thời hạn thanh toán 
+Đây là các khoản phải thu từ các bưu điện tỉnh liên quan đến các hoạt động huy động vốn và huy
+động tiền gửi tiết kiệm của Ngân hàng. Các khoản này phát sinh hàng ngày và thời hạn thanh toán
 trong vòng 1 tháng.
-(iii)	
-Đây chủ yếu là số tiền lãi phải thu từ NHNNVN theo chương trình hỗ trợ lãi suất ban hành kèm theo 
-Quyết định số 131/QĐ-TTg ngày 23 tháng 11 năm 2009 của Thủ tướng Chính phủ hướng dẫn về 
-việc hỗ trợ lãi suất cho các tổ chức, cá nhân vay tiền từ các ngân hàng phục vụ mục đích sản xuất, 
+Đây chủ yếu là số tiền lãi phải thu từ NHNNVN theo chương trình hỗ trợ lãi suất ban hành kèm theo
+Quyết định số 131/QĐ-TTg ngày 23 tháng 11 năm 2009 của Thủ tướng Chính phủ hướng dẫn về
+việc hỗ trợ lãi suất cho các tổ chức, cá nhân vay tiền từ các ngân hàng phục vụ mục đích sản xuất,
 kinh doanh.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [103]
-(iv)	
-Các khoản chi phí chờ phân bổ bao gồm:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền thuê nhà chờ phân bổ
-228.440
-305.159
-Chi phí sửa chữa cải tạo trụ sở
-123.829
-214.358
-Chi phí chờ phân bổ về phí hoa hồng môi giới (*)
-263.760
-269.024
-Chi phí chờ phân bổ khác (**)
-166.879
-246.876
-782.908
-1.035.417
-(*)	
-Đây là các khoản chi phí hoa hồng trả cho hệ thống các phòng giao dịch bưu điện liên quan trực tiếp 
-đến hoạt động cho vay khách hàng. Các chi phí này được phân bổ theo kỳ hạn của từng khoản cho 
-vay khách hàng.
-(**)	
-Bao gồm trong chi phí chờ phân bổ khác là giá trị công cụ, dụng cụ chờ phân bổ, lãi trả trước tiền gửi 
-có kỳ hạn của khách hàng và tạm ứng cho hoạt động xây dựng phục vụ mục đích từ thiện đã hoàn 
-thành và đang chờ hồ sơ quyết toán.
-16.	
-LỢI THẾ THƯƠNG MẠI
-Chi tiết biến động của lợi thế thương mại trong năm như sau:
-2021
-2020
-Triệu VND
-Triệu VND
-Số dư đầu năm
-34.342
-103.785
-Phân bổ trong năm (Thuyết minh 30)
-(34.342)
-(69.443)
-Số dư cuối năm
--
-34.342
-Đây là giá trị lợi thế thương mại phát sinh từ việc nhận vốn góp bằng Công ty Dịch vụ Tiết kiệm Bưu 
-điện (“VPSC”) từ Tổng Công ty Bưu điện Việt Nam (“Vietnam Post”) trong năm 2011. Khoản lợi thế 
-thương mại này được phân bổ trong vòng 10 năm.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [104]
-17.	
-CÁC KHOẢN NỢ CHÍNH PHỦ VÀ NHNNVN
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Vay NHNNVN
-Vay theo hồ sơ tín dụng (i)
-168.382
-224.189
-Vay cầm cố giấy tờ có giá (ii)
-1.534.482
--
-Tiền gửi của Kho bạc Nhà nước
-Tiền gửi bằng VND
-10
--
-1.702.874
-224.189
-(i)	
-Đây là các khoản vay từ NHNNVN theo hồ sơ tín dụng. Các khoản vay có kỳ hạn gốc từ 1 năm đến 9 
-năm và chịu lãi suất năm từ 3,30% đến 3,86% (31/12/2020: 3,50% đến 4,18%).
-(ii)	
-Đây là các khoản vay từ NHNNVN theo cầm cố giấy tờ có giá. Các khoản vay có kỳ hạn gốc 14 ngày 
-và chịu lãi suất năm 2,50%. Tại ngày 31 tháng 12 năm 2021, Ngân hàng cầm cố chứng khoán nợ 
-là trái phiếu Chính phủ và chứng khoán nợ do các TCTD khác trong nước phát hành với mệnh giá 
-1.450.000 triệu VND làm tài sản đảm bảo cho các khoản vay này (Thuyết minh 11).
-18.	
-TIỀN GỬI VÀ VAY CÁC TCTD KHÁC
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền gửi không kỳ hạn của các TCTD khác
-Bằng VND
-26.944
-16.107
-Bằng ngoại tệ
-10
-8
-Tiền gửi có kỳ hạn của các TCTD khác
-Bằng VND
-26.174.277
-8.747.135
-Bằng ngoại tệ
-10.647.600
-3.255.000
-36.848.831
-12.018.250
-Vay các TCTD khác
-Vay các TCTD khác bằng VND
-7.151.774
-401.010
-Vay các TCTD khác bằng ngoại tệ
-2.280.775
-2.325.856
-9.432.549
-2.726.866
-46.281.380
-14.745.116
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [105]
-Lãi suất năm tại thời điểm cuối năm như sau:
-31/12/2021
-31/12/2020
-Tiền gửi không kỳ hạn bằng VND
-0,00% - 0,10%
-0,00% - 0,10%
-Tiền gửi không kỳ hạn bằng ngoại tệ
-0,00%
-0,00%
-Tiền gửi có kỳ hạn bằng VND
-0,80% - 3,20%
-0,11% - 1,30%
-Tiền gửi có kỳ hạn bằng ngoại tệ 
-0,10% - 0,55%
-0,17% - 0,55%
-Tiền vay bằng VND
-0,85% - 4,70%
-3,80% - 4,99%
-Tiền vay bằng ngoại tệ
-0,75% - 2,54%
-0,75% - 2,51%
-Tại ngày 31 tháng 12 năm 2021, Ngân hàng cầm cố chứng khoán nợ là trái phiếu Chính phủ và chứng 
-khoán nợ do các TCTD khác trong nước phát hành với mệnh giá 13.279.340 triệu VND (31/12/2020: 
-8.983.340 triệu VND) tại các TCTD khác làm tài sản đảm bảo cho các khoản vay và tiền gửi có kỳ hạn 
-từ các TCTD khác (Thuyết minh 11).
-19.	
-TIỀN GỬI CỦA KHÁCH HÀNG
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền gửi không kỳ hạn 
-Tiền gửi không kỳ hạn bằng VND
-17.264.500
-24.757.647
-Tiền gửi không kỳ hạn bằng ngoại tệ
-581.941
-524.155
-Tiền gửi có kỳ hạn 
-Tiền gửi có kỳ hạn bằng VND
-158.755.651
-145.214.615
-Tiền gửi có kỳ hạn bằng ngoại tệ
-3.401.189
-3.754.724
-Tiền ký quỹ
-Tiền ký quỹ bằng VND
-245.670
-252.649
-Tiền ký quỹ bằng ngoại tệ
-18.314
-212
-Tiền gửi vốn chuyên dùng
-Tiền gửi vốn chuyên dùng bằng VND
-382
-30
-Tiền gửi vốn chuyên dùng bằng ngoại tệ
-8.699
-21.955
-180.276.346
-174.525.987
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [106]
-Tiền gửi của khách hàng theo đối tượng khách hàng, loại hình doanh nghiệp như sau:
-Lãi suất năm tại thời điểm cuối năm như sau:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền gửi của tổ chức kinh tế
-Công ty Nhà nước
-6.122.567
-6.068.280
-Công ty trách nhiệm hữu hạn một thành viên có vốn Nhà 
-nước 100%
-37.913.585
-33.854.442
-Công ty trách nhiệm hữu hạn hai thành viên trở lên có phần 
-vốn góp của Nhà nước trên 50% 
-13.466
-108.640
-Công ty trách nhiệm hữu hạn khác
-3.267.124
-1.762.938
-Công ty cổ phần vốn Nhà nước trên 50%
-4.232.566
-3.938.801
-Công ty cổ phần khác
-8.123.061
-7.688.012
-Công ty hợp danh
-5.197
-186.936
-Doanh nghiệp tư nhân
-17.391
-7.426
-Doanh nghiệp có vốn đầu tư nước ngoài
-973.892
-1.110.799
-Hợp tác xã và liên hiệp hợp tác xã
-6.485
-14.445
-Hộ kinh doanh
-6.633
-4.263
-Đơn vị hành chính sự nghiệp, Đảng, đoàn thể và hiệp hội
-4.446.983
-12.870.513
-Tiền gửi của các đối tượng khác
-61.984
-644.744
-Tiền gửi của cá nhân
-Cá nhân
-115.085.412
-106.265.748
-180.276.346
-174.525.987
-31/12/2021
-31/12/2020
-Tiền gửi không kỳ hạn bằng VND
-0,00% - 0,20%
-0,00% - 0,55%
-Tiền gửi không kỳ hạn bằng ngoại tệ
-0,00% 
-0,00%
-Tiền gửi có kỳ hạn bằng VND
-0,01% - 7,80%
-1,00% - 7,80%
-Tiền gửi có kỳ hạn bằng ngoại tệ 
-0,00% - 0,40%
-0,00% - 0,60%
-Tiền ký quỹ bằng VND
-0,00% - 7,10%
-0,00% - 7,10%
-Tiền ký quỹ bằng ngoại tệ
-0,00%
-0,00%
-Tiền gửi vốn chuyên dùng bằng VND
-0,00% - 0,10%
-0,00% - 0,10%
-Tiền gửi vốn chuyên dùng bằng ngoại tệ
-0,00%
-0,00%
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [107]
-20.	
-PHÁT HÀNH GIẤY TỜ CÓ GIÁ
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Chứng chỉ tiền gửi bằng VND
-Từ 1 đến 5 năm
-10.252.389
-11.446.788 
-Trái phiếu bằng VND
-Từ 1 đến 5 năm
-18.871.647
-13.497.507 
-Từ 5 năm trở lên
-7.613.593
-7.306.910 
-36.737.629
-32.251.205
-31/12/2021
-31/12/2020
-Chứng chỉ tiền gửi bằng VND
-Từ 1 đến 5 năm
-4,00% - 8,80%
-4,50% - 7,00% 
-Trái phiếu bằng VND
-Từ 1 đến 5 năm
-3,60% - 7,10%
-4,30% - 7,10%
-Từ 5 năm trở lên
-4,43% - 8,40%
-7,30% - 9,00% 
-Lãi suất năm tại thời điểm cuối năm như sau:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Các khoản lãi, phí phải trả
-5.696.602
-5.086.061
-Các khoản phải trả và công nợ khác
-1.697.171
-1.278.667
-Trong đó:
-Các khoản phải trả nội bộ 
-251.332
-133.110
-Các khoản phải trả bên ngoài (i)
-1.223.725
-1.050.482
-Quỹ khen thưởng và phúc lợi (ii)
-222.114
-95.075
-7.393.773
-6.364.728
-21.	
-CÁC KHOẢN NỢ KHÁC
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [108]
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Phải trả về xây dựng cơ bản
-8.326
-19.779
-Phải trả về mua sắm tài sản cố định
-26.153
-44.006
-Tiền giữ hộ và đợi thanh toán
-196.636
-162.198
-Nghĩa vụ thuế phải nộp (Thuyết minh 36)
-230.687
-248.948
-Phải trả hoa hồng dịch vụ cho bưu điện tỉnh
-72.036
-14.826
-Các khoản phải trả cho dịch vụ Ví Việt
-425.554
-394.440
-Phí cam kết bảo lãnh nhận trước
-9.128
-10.170
-Các khoản phải trả cho dịch vụ thẻ
-78.590
-23.643
-Phải trả tiền bán nợ, bán tài sản đảm bảo nợ hoặc khai thác 
-tài sản đảm bảo nợ
--
-8.680
-Các khoản phải trả cho dịch vụ Ngân hàng điện tử
-4.032
-529
-Doanh thu chờ phân bổ
-10.432
-13.937
-Các khoản phải trả khác
-162.151
-109.326
-1.223.725
-1.050.482
-(i)	
-Chi tiết các khoản phải trả bên ngoài tại thời điểm cuối năm như sau:
-2021
-Triệu VND
-2020
-Triệu VND
-Số dư đầu năm
-95.075
-79.787
-Trích lập quỹ trong năm (Thuyết minh 22)
-303.097
-209.982
-Sử dụng quỹ trong năm 
-(176.058)
-(194.694)
-Số dư cuối năm
-222.114
-95.075
-(ii)	
-Biến động của Quỹ khen thưởng và phúc lợi trong năm như sau:
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [109]
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-22.	
-VỐN VÀ CÁC QUỸ
-Vốn
-điều lệ
-Triệu VND
-Thặng dư 
-vốn 
-cổ phần
-Triệu VND
-Quỹ dự trữ 
-bổ sung 
-vốn điều lệ
-Triệu VND
-Quỹ dự 
-phòng tài 
-chính
-Triệu VND
-Quỹ đầu tư 
-phát triển
-Triệu VND
-Lợi nhuận 
-chưa
-phân phối
-Triệu VND
-Tổng cộng
-Triệu VND
-Số dư tại ngày 1/1/2021
-10.746.389
-57
-587.366
-1.161.514
-3.793
-1.732.607
-14.231.726
-Tăng vốn thông qua trả cổ tức bằng cổ phiếu (*)
-1.289.516
--
--
--
--
-(1.289.516)
--
-Lợi nhuận trong năm
--
--
--
--
--
-2.873.248
-2.873.248
-Trích lập các quỹ trong năm
--
--
-143.662
-287.325 
--
-(430.987)
--
-Trích lập quỹ khen thưởng và phúc lợi 
-trong năm (Thuyết minh 21)
--
--
--
--
--
-(303.097)
-(303.097)
-Số dư tại ngày 31/12/2021
-12.035.905
-57
-731.028
-1.448.839
-3.793
-2.582.255
-16.801.877
-Số dư tại ngày 1/1/2020
-8.881.441
- 63.331
-494.270
-975.324
-3.793
-2.161.641
-12.579.800
-Tăng vốn từ nguồn thặng dư vốn cổ phần
-63.274
-(63.274)
--
--
--
--
--
-Tăng vốn thông qua trả cổ tức bằng cổ phiếu 
-1.801.674
--
--
--
--
-(1.801.674)
--
-Lợi nhuận trong năm
--
--
--
--
--
-1.861.908
-1.861.908
-Trích lập các quỹ trong năm
--
--
-93.096
-186.190
--
-(279.286)
--
-Trích lập quỹ khen thưởng và phúc lợi 
-trong năm (Thuyết minh 21)
--
--
--
--
--
-(209.982)
-(209.982)
-Số dư tại ngày 31/12/2020
-10.746.389
-57
-587.366
-1.161.514
-3.793
-1.732.607
-14.231.726
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [110]
-Chi tiết vốn đầu tư và cổ phiếu của Ngân hàng
-31/12/2021
-31/12/2020
-Số lượng cổ phiếu đăng ký phát hành
-1.203.590.474
-1.074.638.915
-Số lượng cổ phiếu đã bán ra công chúng
-Cổ phiếu phổ thông
-1.203.590.474
-1.074.638.915
-Số lượng cổ phiếu đang lưu hành
-Cổ phiếu phổ thông
-1.203.590.474
-1.074.638.915
-Mệnh giá cổ phiếu đang lưu hành (VND)
-10.000
-10.000
-Chi tiết vốn đầu tư và cổ phiếu của chủ sở hữu
-Vốn góp tại ngày
-31/12/2021
-31/12/2020
-Triệu VND
-Tỷ lệ
-Triệu VND
-Tỷ lệ
-Tổng Công ty Bưu điện Việt Nam
-1.221.753
-10,15%
-1.090.760
-10,15%
-Cổ đông khác
-10.814.152
-89,85%
-9.655.629
-89,85%
-12.035.905
-100%
-10.746.389
-100%
-Tại ngày 31 tháng 12 năm 2021, Ngân hàng có một cổ đông chiếm trên 5% cổ phiếu của Ngân hàng 
-là Tổng Công ty Bưu điện Việt Nam. Số giấy phép đăng ký kinh doanh của Tổng Công ty Bưu điện 
-Việt Nam là 0102595740 và địa chỉ trụ sở chính tại Số 5, Đường Phạm Hùng, Phường Mỹ Đình, Quận 
-Nam Từ Liêm, Thành phố Hà Nội, Việt Nam.
-(*) 	
-Ngày 16 tháng 7 năm 2021, Ngân hàng đã tiến hành thông báo phát hành cổ phiếu phổ thông để 
-trả cổ tức của năm 2020 theo với tỷ lệ thực hiện quyền là 100:12 và ngày đăng ký cuối cùng để 
-phân bổ quyền là ngày 22 tháng 7 năm 2021. Ngày 2 tháng 8 năm 2021, Ngân hàng đã phát hành 
-128.951.559 cổ phiếu, tương đương 1.289.515.590.000 VND, để nâng số vốn điều lệ hiện tại thành 
-12.035.904.740.000 VND.
-23.	
-THU NHẬP LÃI VÀ CÁC KHOẢN THU NHẬP TƯƠNG TỰ
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập lãi từ tiền gửi 
-106.258
-75.214
-Thu nhập lãi từ cho vay khách hàng
-19.093.098
-15.724.389
-Thu phí từ nghiệp vụ bảo lãnh
-31.292
-32.089
-Thu nhập lãi từ kinh doanh, đầu tư chứng khoán nợ
-1.694.722
-2.036.835
-Thu nhập khác từ hoạt động tín dụng
-181
-628
-20.925.551
-17.869.155
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [111]
-26.	
-LÃI THUẦN TỪ HOẠT ĐỘNG KINH DOANH NGOẠI HỐI
-24.	
-CHI PHÍ LÃI VÀ CÁC CHI PHÍ TƯƠNG TỰ
-2021
-Triệu VND
-2020
-Triệu VND
-Chi phí lãi tiền gửi
-8.985.045
-8.187.260
-Chi phí lãi tiền vay
-101.041
-135.830
-Chi phí lãi phát hành giấy tờ có giá
-1.945.335
-1.961.186
-Chi phí hoạt động tín dụng khác
-16.340
-8.702
-Chi phí hoa hồng môi giới tiết kiệm bưu điện
-860.631
-856.006
-11.908.392
-11.148.984
-25.	
-LÃI THUẦN TỪ HOẠT ĐỘNG DỊCH VỤ
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập từ hoạt động dịch vụ từ
-Nghiệp vụ thanh toán về ngân quỹ
-207.883
- 201.901 
-Nghiệp vụ ủy thác, tư vấn và đại lý bảo hiểm
-660.064
- 458.029 
-Dịch vụ khác
-245.949
- 199.893 
-1.113.896
-859.823
-Chi phí hoạt động dịch vụ cho
-Dịch vụ thanh toán và ngân quỹ
-(160.784)
-(138.509)
-Chi phí khác
-(95.230)
-(94.513)
-(256.014)
-(233.022)
-Lãi thuần từ hoạt động dịch vụ
-857.882
-626.801
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập từ hoạt động kinh doanh ngoại hối
-Thu từ kinh doanh ngoại tệ
-512.956
-69.094
-Thu từ các công cụ tài chính phái sinh tiền tệ
-350.580
-340.052
-863.536
-409.146
-Chi phí cho hoạt động kinh doanh ngoại hối
-Chi cho kinh doanh ngoại tệ
-(63.702)
-(67.331)
-Chi cho các công cụ tài chính phái sinh tiền tệ
-(661.047)
-(279.772)
-(724.749)
-(347.103)
-Lãi thuần từ hoạt động kinh doanh ngoại hối
-138.787
-62.043
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [112]
-27.	
-LÃI THUẦN TỪ MUA BÁN CHỨNG KHOÁN KINH DOANH
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập từ mua bán chứng khoán kinh doanh
-4.625
-33.650
-Chi phí mua bán chứng khoán kinh doanh
-(82)
--
-Lãi thuần từ mua bán chứng khoán kinh doanh
-4.543
-33.650
-28.	
-(LỖ)/LÃI THUẦN TỪ MUA BÁN CHỨNG KHOÁN ĐẦU TƯ
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập từ mua bán chứng khoán đầu tư
-34.404
-62.901
-Chi phí mua bán chứng khoán đầu tư
-(30.367)
-(26.538)
-Trích lập dự phòng rủi ro chứng khoán đầu tư (Thuyết minh 11)
-(5.421)
-101.371
-(Lỗ)/lãi thuần từ mua bán chứng khoán đầu tư
-(1.384)
-137.734
-29.	
-LÃI THUẦN TỪ HOẠT ĐỘNG KHÁC
-2021
-Triệu VND
-2020
-Triệu VND
-Thu nhập hoạt động kinh doanh khác
-Thu từ thanh lý tài sản
-12.768
-9.606
-Thu từ các khoản nợ đã được xử lý
-162.114
-135.023
-Thu từ các hợp đồng hoán đổi lãi suất
-8.159
--
-Thu nhập khác
-15.992
-112.459
-199.033
-257.088
-Chi phí hoạt động kinh doanh khác
-Chi khác
-(165.331)
-(66.676)
-Lãi thuần từ hoạt động khác
-33.702
-190.412
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [113]
-30.	
-CHI PHÍ HOẠT ĐỘNG
-2021
-Triệu VND
-2020
-Triệu VND
-Chi nộp thuế và các khoản phí, lệ phí
-108.199
-103.590
-Chi phí cho nhân viên
-2.737.169
-2.239.354
-Trong đó: 
-Chi lương và phụ cấp 
-2.345.285
-1.892.102
-Các khoản chi đóng góp theo lương 
-205.835
-186.579
-Chi trợ cấp thôi việc
-782
-517
-Chi phí khác cho nhân viên
-185.267
-160.156
-Chi về tài sản
-855.389
-810.693
-Trong đó:
-Khấu hao tài sản cố định
-273.136
-257.567
-Chi phí thuê tài sản
-321.817
-300.869
-Chi phí bảo dưỡng và sửa chữa tài sản
-161.949
-155.742
-Chi phí dụng cụ và thiết bị
-76.832
-84.428
-Chi phí khác về tài sản
-21.655
-12.087
-Chi cho hoạt động quản lý công vụ
-1.179.131
-1.268.976
-Trong đó:
-Công tác phí
-9.367
-13.902
-Chi phí hoạt động đoàn thể của TCTD
-185
-298
-Chi phí thông tin liên lạc
-8.651
-8.010
-Chi phí in ấn, tiếp thị, quảng cáo và khuyến mãi
-838.553
-943.454
-Chi phí lễ tân, khánh tiết, hội nghị
-113.131
-103.686
-Chi phí điện, nước, vệ sinh cơ quan
-76.169
-68.743
-Chi phí vật liệu văn phòng
-31.164
-28.498
-Chi phí khác cho hoạt động quản lý
-101.911
-102.385
-Chi nộp phí bảo hiểm, bảo hiểm tiền gửi của khách hàng
-170.195
-145.930
-Phân bổ lợi thế thương mại (Thuyết minh 16)
-34.342
-69.443
-Chi phí hoạt động khác
-5.996
-7.161 
-5.090.421
-4.645.147
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [114]
-31.	
 CHI PHÍ DỰ PHÒNG RỦI RO TÍN DỤNG
-Thuyết 
+Thuyết
 minh
-2021
-Triệu VND
-2020
-Triệu VND
 Trích lập dự phòng chung cho vay khách hàng
-10
-242.120
-270.012
 Trích lập dự phòng cụ thể cho vay khách hàng
-10
-1.082.547
-320.033
-(Hoàn nhập)/trích lập nhập dự phòng chung 
+(Hoàn nhập)/trích lập nhập dự phòng chung
 cho trái phiếu doanh nghiệp
-11
-(2.417)
-2.152
-Hoàn nhập dự phòng cụ thể cho trái phiếu 
+Hoàn nhập dự phòng cụ thể cho trái phiếu
 doanh nghiệp
-11
--
-(56.827)
-Trích lập dự phòng trái phiếu đặc biệt do 
-VAMC phát hành 
-11
--
-164.016
-1.322.250
-699.386
-32.	
+Trích lập dự phòng trái phiếu đặc biệt do
+VAMC phát hành
 THUẾ THU NHẬP DOANH NGHIỆP
-(a)	
 Ghi nhận trong báo cáo kết quả hoạt động kinh doanh
-2021
-Triệu VND
-2020
-Triệu VND
 Chi phí thuế hiện hành
 Năm hiện hành
-746.000
-563.900
 Điều chỉnh chênh lệch thuế TNDN của các năm trước
-18.770
-745
-764.770
-564.645
-(b)	
 Đối chiếu thuế suất thực tế
-2021
-Triệu VND
-2020
-Triệu VND
 Lợi nhuận kế toán trước thuế
-3.638.018
-2.426.553
 Thuế tính theo thuế suất của Ngân hàng
-727.604
-485.311
 Chi phí không được khấu trừ thuế
-18.396
-78.589
 Điều chỉnh chênh lệch thuế TNDN của các năm trước
-18.770
-745
-764.770
-564.645
-(c)	
 Thuế suất áp dụng
-Theo các điều khoản trong Luật Thuế Thu nhập doanh nghiệp, Ngân hàng có nghĩa vụ nộp cho Nhà 
+Theo các điều khoản trong Luật Thuế Thu nhập doanh nghiệp, Ngân hàng có nghĩa vụ nộp cho Nhà
 nước thuế thu nhập bằng 20% trên lợi nhuận tính thuế.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [115]
-33.	
-LÃI TRÊN CỔ PHIẾU
-Lãi cơ bản trên cổ phiếu 
-Việc tính toán lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 năm 2021 được dựa trên 
-số lợi nhuận thuộc về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân gia quyền, chi 
-tiết như sau:
-(a)	
-Lợi nhuận để tính lãi cơ bản trên cổ phiếu
-2021
-Triệu VND
-2020
-Triệu VND
-Lợi nhuận thuần trong năm
-2.873.248
-1.861.908
-Số phân bổ trích lập các quỹ khen thưởng và phúc lợi (*)
-(303.097)
-(209.982)
-Lợi nhuận thuần thuộc về cổ đông phổ thông
-2.570.151
-1.651.926
-(*) 	
-Ban Tổng Giám đốc Ngân hàng ước tính khoản trích quỹ khen thưởng phúc lợi từ lợi nhuận năm 2021 
-dựa trên số đã trích từ lợi nhuận năm 2020. Số thực tế phân bổ vào quỹ khen thưởng và phúc lợi từ 
-lợi nhuận thuần của năm 2020 (Thuyết minh 22) cao hơn số phân bổ dự kiến khi tính lãi cơ bản trên 
-cổ phiếu cho năm 2020. Ban Tổng Giám đốc Ngân hàng đánh giá chênh lệch này không trọng yếu, 
-do đó đã quyết định không điều chỉnh lại lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 
-năm 2021 do ảnh hưởng của vấn đề này. 
-(b)	
-Số cổ phiếu phổ thông bình quân gia quyền 
-2021
-(Số cổ phiếu)
-2020
-(Số cổ phiếu)
-Đã điều chỉnh lại
-Cổ phiếu phổ thông đã phát hành đầu năm
-1.074.638.915
-888.144.095
-Ảnh hưởng của việc phát hành cổ phiếu để trả cổ tức năm 
-2020
--
-180.167.406 
-Ảnh hưởng của việc phát hành cổ phiếu từ thặng dư vốn cổ 
-phần (Thuyết minh 22)
--
-6.327.414
-Ảnh hưởng của việc phát hành cổ phiếu để trả cổ tức năm 
-2021 (Thuyết minh 22)
-128.951.559
-128.951.559
-Số bình quân gia quyền của cổ phiếu phổ thông trong năm
-1.203.590.474
-1.203.590.474
-(c)	
-Lãi cơ bản trên cổ phiếu
-2021
-2020
-Đã điều chỉnh lại
-Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)
-2.135
-1.372
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [116]
-(d)	
-Điều chỉnh lại số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho năm 
-kết thúc ngày 31 tháng 12 năm 2020
-Số cổ phiếu phổ thông bình quân gia quyền và lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 
-tháng 12 năm 2020 được điều chỉnh lại do ảnh hưởng của việc trả cổ tức bằng cổ phiếu (Thuyết minh 
-22) như sau:
-Số cổ phiếu phổ 
-thông bình quân 
-gia quyền
-Lãi cơ bản  
-trên cổ phiếu
-VND
-Số báo cáo trước đây
-1.074.638.915
-1.537
-Ảnh hưởng của việc trả cổ tức bằng cổ phiếu năm 2021
-128.951.559
-(165)
-Số điều chỉnh lại 
-1.203.590.474
-1.372
-34.	
-TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Tiền mặt
-2.751.278
-3.499.270
-Tiền gửi tại NHNNVN
-9.867.646
-6.758.980
-Tiền gửi tại các TCTD khác với kỳ hạn gốc không quá 3 tháng
-21.287.760
-13.543.185
-33.906.684
-23.801.435
-35.	
-TÌNH HÌNH THU NHẬP CỦA CÁN BỘ, CÔNG NHÂN VIÊN
-2021
-2020
-Tổng số cán bộ, công nhân viên tại ngày 31 tháng 12 (người)
-10.649 
-9.946
-Số lượng cán bộ, công nhân viên bình quân trong năm (người)
-10.420
-9.721
-Lương cơ bản (1) (Triệu VND)
-2.345.285
-1.892.102
-Các khoản phụ cấp (2) (Triệu VND)
-206.617
-187.096
-Thu nhập khác (3) (Triệu VND)
-185.267
-160.156
-Tổng thu nhập (1+2+3) (Thuyết minh 30)
-2.737.169
-2.239.354
-Tiền lương bình quân/tháng (Triệu VND)
-18,76
-16,22
-Thu nhập bình quân/tháng (Triệu VND)
-21,89
-19,20
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [117]
-36.	
-TÌNH HÌNH THỰC HIỆN NGHĨA VỤ ĐỐI VỚI NGÂN SÁCH NHÀ NƯỚC
-Năm kết thúc ngày 31 tháng 12 năm 2021
-Số dư 
-tại ngày 
-1/1/2021
-Triệu VND
-Phát sinh trong năm
-Số dư 
-tại ngày 
-31/12/2021
-Triệu VND
-Số phải nộp
-Triệu VND
-Số đã nộp/
-được khấu trừ
-Triệu VND
-Thuế giá trị gia tăng
-14.826
-77.833
-(74.828)
-17.831
-Thuế thu nhập doanh nghiệp
-215.900
-764.770
-(795.670)
-185.000
-Các loại thuế khác
-18.222
-176.792
-(167.158)
-27.856
-248.948
-1.019.395
-(1.037.656)
-230.687
-37.	
-TÀI SẢN, GIẤY TỜ CÓ GIÁ THẾ CHẤP, CẦM CỐ VÀ CHIẾT KHẤU, TÁI CHIẾT KHẤU
-(a)	
-Loại hình và giá trị tài sản, giấy tờ có giá nhận thế chấp, cầm cố và chiết khấu của khách hàng
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Bất động sản
-289.986.925
-246.183.078
-Động sản
-11.429.379
-10.916.314
-Chứng từ có giá
-87.036.658 
-66.209.254
-Tài sản khác
-64.966.016
-65.059.240
-453.418.978
-388.367.886
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Chứng khoán đầu tư
-14.729.340
-8.983.340
-(b)	
-Tài sản, giấy tờ có giá đưa đi thế chấp, cầm cố và chiết khấu, tái chiết khấu
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [118]
-38.	
-NGHĨA VỤ NỢ TIỀM ẨN VÀ CÁC CAM KẾT ĐƯA RA
-31/12/2021
-31/12/2020
-Giá trị theo 
-hợp đồng - 
-gộp
-Triệu VND
-Tiền gửi
-ký quỹ
-Triệu VND
-Giá trị theo 
-hợp đồng - 
-thuần
-Triệu VND
-Giá trị theo  
-hợp đồng - 
-gộp
-Triệu VND
-Tiền gửi
-ký quỹ
-Triệu VND
-Giá trị theo 
-hợp đồng - 
-thuần
-Triệu VND
-Bảo lãnh vay vốn
-63.340 
--
-63.340 
-67.222
--
-67.222
-Cam kết giao dịch 
-hối đoái
-72.977.996 
--
-72.977.996 
-39.605.786
--
-39.605.786
-Trong đó:
- 
-Cam kết mua 
-ngoại tệ
-2.270.761 
--
-2.270.761 
-906.652
--
-906.652
-Cam kết bán 
-ngoại tệ
-1.130.987 
--
-1.130.987 
-450.832
--
-450.832
-Cam kết giao dịch 
-hoán đổi tiền tệ
-69.576.248 
--
-69.576.248 
-38.248.302
--
-38.248.302
-Cam kết trong ng-
-hiệp vụ L/C
-1.413.842 
-131.989 
-1.281.853 
-522.420
-92.520
-429.900
-Bảo lãnh khác
-983.198 
-91.403 
-891.795 
-1.420.170
-93.158
-1.327.012
-Các cam kết khác
-2.828.995 
--
-2.828.995 
-2.181.277
--
-2.181.277
-39.	
-MỨC ĐỘ TẬP TRUNG CỦA TÀI SẢN, NỢ PHẢI TRẢ VÀ CÁC CAM KẾT NGOẠI BẢNG THEO 
-KHU VỰC ĐỊA LÝ
-Tại ngày 31 tháng 12 năm 2021
-Trong nước
-Nước ngoài
-Tổng cộng
-VND
-VND
-VND
-Tiền gửi và cho vay TCTD khác
-22.260.842 
-177.651
-22.438.493
-Chứng khoán kinh doanh và đầu tư – gộp
-38.706.806 
-232.521
-38.939.327
-Công cụ tài chính phái sinh 
-(Tổng giá trị giao dịch theo hợp đồng)
-75.419.423 
--
-75.419.423
-Cho vay khách hàng – gộp
-208.954.136
--
-208.954.136
-Góp vốn, đầu tư dài hạn
-315.931
--
-315.931
-Các khoản nợ NHNNVN
-1.702.874
--
-1.702.874
-Tiền gửi và vay từ TCTD khác
-46.281.380 
--
-46.281.380
-Tiền gửi của khách hàng
-180.276.346 
--
-180.276.346
-Phát hành giấy tờ có giá
-36.737.629
--
-36.737.629
-Nợ tiềm tàng và các cam kết tín dụng – gộp
-3.875.533 
-1.413.842
-5.289.375
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [119]
-40.	
-CÁC GIAO DỊCH VÀ SỐ DƯ CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN 
-Số dư và các giao dịch chủ yếu với các bên liên quan tại thời điểm cuối năm và trong năm như sau:
-31/12/2021
-Triệu VND
-31/12/2020
-Triệu VND
-Phải thu/(phải trả)
-Tổng Công ty Bưu điện Việt Nam
- Tiền gửi không kỳ hạn và có kỳ hạn
-(878.869)
-(921.697)
- Các khoản phải thu khác
-49.781
-65.861
- Lãi phải trả cho hợp đồng tiền gửi có kỳ hạn
-6.016
-17.213
-Thù lao, lương thưởng và phúc lợi khác của các thành viên quản lý chủ chốt như sau:
-2021
-Triệu VND
-2020
-Triệu VND
-Doanh thu/(chi phí)
-Tổng Công ty Bưu điện Việt Nam
-  Chi phí lãi 
-(47.151)
-(37.648)
-41.	
-THUYẾT MINH CÔNG CỤ TÀI CHÍNH
-Thông tư số 210/2009/TT-BTC do Bộ Tài chính ban hành ngày 6 tháng 11 năm 2009 yêu cầu thuyết 
-minh về phương pháp xác định giá trị hợp lý và các thông tin về giá trị hợp lý của tài sản và nợ phải 
-trả tài chính để có thể so sánh giá trị hợp lý và giá trị ghi sổ. 
-Giá trị hợp lý và giá trị ghi sổ của các công cụ tài chính của Ngân hàng tại ngày kết thúc kỳ kế toán 
-năm được trình bày chi tiết theo bảng dưới đây:
-2021
-Triệu VND
-2020
-Triệu VND
-Doanh thu/(chi phí)
-Hội đồng Quản trị, Ban Kiểm soát
-19.548
-21.683
-Tổng Giám đốc và thành viên quản lý chủ chốt khác
-5.364
-5.364
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [120]
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-Tại ngày 31 tháng 12 năm 2021
-Giá trị ghi sổ - gộp
-Giá trị
-hợp lý
-Kinh doanh
-Giữ đến ngày   
-đáo hạn
-Cho vay và 
-phải thu
-Sẵn sàng
-để bán
-Hạch toán 
-theo giá trị 
-phân bổ
-Tổng giá trị 
-ghi sổ
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Triệu VND
-Tài sản tài chính
-Tiền mặt
-2.751.278
--
--
--
--
-2.751.278
-2.751.278
-Tiền gửi tại NHNNVN
-9.867.646
--
--
--
--
-9.867.646
-9.867.646
-Tiền gửi và cho vay các TCTD khác
--
--
-22.438.493
--
--
-22.438.493
-(*)
-Chứng khoán kinh doanh
-232.521
--
--
--
--
-232.521
-(*)
-Các công cụ tài chính phái sinh và 
-các tài sản tài chính khác
-84.831
--
--
--
--
-84.831
-(*)
-Cho vay khách hàng – gộp
--
--
-208.954.136
--
--
-208.954.136
-(*)
-Chứng khoán đầu tư – gộp 
--
--
--
-38.706.806
--
-38.706.806
-(*)
-Góp vốn, đầu tư dài hạn 
--
-315.931
--
--
--
-315.931
-(*)
-Tài sản cố định – thuần
--
--
--
--
-1.584.457
-1.584.457
-(*)
-Tài sản tài chính khác
--
--
-5.964.562
--
--
-5.964.562
-(*)
-12.936.276
-315.931
-237.357.191
-38.706.806
-1.584.457
-290.900.661
-Nợ phải trả tài chính
-Các khoản nợ Chính phủ và NHNNVN 
--
--
--
--
- 1.702.874 
- 1.702.874 
-(*)
-Tiền gửi và vay các TCTD khác
--
--
--
--
- 46.281.380 
- 46.281.380 
-(*)
-Tiền gửi của khách hàng 
--
--
--
--
- 180.276.346  180.276.346 
-(*)
-Phát hành giấy tờ có giá 
--
--
--
--
- 36.737.629 
- 36.737.629 
-(*)
-Các khoản nợ phải trả tài chính khác
--
--
--
--
- 6.689.640 
- 6.689.640 
-(*)
--
--
--
--
- 271.687.869  271.687.869
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [121]
-(*)	
-Ngân hàng chưa xác định giá trị hợp lý của các công cụ tài chính này để thuyết minh trong báo cáo tài 
-chính bởi vì không có giá niêm yết trên thị trường cho các công cụ tài chính này và các Chuẩn mực 
-Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng cho các Tổ chức tín dụng do NHNNVN ban hành 
-hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của 
+Ngân hàng chưa xác định giá trị hợp lý của các công cụ tài chính này để thuyết minh trong báo cáo tài
+chính bởi vì không có giá niêm yết trên thị trường cho các công cụ tài chính này và các Chuẩn mực
+Kế toán Việt Nam, Chế độ Kế toán Việt Nam áp dụng cho các Tổ chức tín dụng do NHNNVN ban hành
+hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của
 các công cụ tài chính này có thể khác với giá trị ghi sổ.
-42.	
 QUẢN LÝ RỦI RO TÀI CHÍNH
-Thuyết minh này cung cấp thông tin về các rủi ro mà Ngân hàng có thể gặp phải và mô tả chi tiết các 
-phương pháp mà Ban Tổng Giám đốc Ngân hàng sử dụng để kiểm soát rủi ro. Các loại rủi ro tài chính 
-quan trọng nhất mà Ngân hàng thường gặp phải là rủi ro tiền tệ, rủi ro lãi suất, rủi ro tín dụng và rủi 
+Thuyết minh này cung cấp thông tin về các rủi ro mà Ngân hàng có thể gặp phải và mô tả chi tiết các
+phương pháp mà Ban Tổng Giám đốc Ngân hàng sử dụng để kiểm soát rủi ro. Các loại rủi ro tài chính
+quan trọng nhất mà Ngân hàng thường gặp phải là rủi ro tiền tệ, rủi ro lãi suất, rủi ro tín dụng và rủi
 ro thanh khoản.
 Chính sách quản lý rủi ro
-Hội đồng Quản trị Ngân hàng có trách nhiệm chung trong việc thiết lập và giám sát khung quản lý rủi 
-ro của Ngân hàng. Hội đồng Quản trị Ngân hàng đã thành lập Ủy ban Quản lý rủi ro và Ủy ban ALCO 
-có trách nhiệm xây dựng và giám sát các chính sách quản lý rủi ro của Ngân hàng theo từng lĩnh vực 
-quản lý. 
-Chính sách rủi ro của Ngân hàng được thiết lập nhằm xác định và phân tích những rủi ro mà Ngân 
-hàng gặp phải, nhằm lập ra các hạn mức rủi ro phù hợp và các biện pháp kiểm soát, và nhằm giám 
-sát rủi ro và tuân thủ hạn mức. Các chính sách và hệ thống quản lý rủi ro được thường xuyên soát xét 
-để cập nhật những thay đổi về điều kiện thị trường, các sản phẩm và dịch vụ Ngân hàng cung cấp. 
-Thông qua các hoạt động đào tạo và các tiêu chuẩn và hệ thống quản lý, Ngân hàng hướng đến việc 
-phát triển một môi trường kiểm soát có kỷ luật và có tính tích cực trong đó toàn bộ các nhân viên của 
+Hội đồng Quản trị Ngân hàng có trách nhiệm chung trong việc thiết lập và giám sát khung quản lý rủi
+ro của Ngân hàng. Hội đồng Quản trị Ngân hàng đã thành lập Ủy ban Quản lý rủi ro và Ủy ban ALCO
+có trách nhiệm xây dựng và giám sát các chính sách quản lý rủi ro của Ngân hàng theo từng lĩnh vực
+quản lý.
+Chính sách rủi ro của Ngân hàng được thiết lập nhằm xác định và phân tích những rủi ro mà Ngân
+hàng gặp phải, nhằm lập ra các hạn mức rủi ro phù hợp và các biện pháp kiểm soát, và nhằm giám
+sát rủi ro và tuân thủ hạn mức. Các chính sách và hệ thống quản lý rủi ro được thường xuyên soát xét
+để cập nhật những thay đổi về điều kiện thị trường, các sản phẩm và dịch vụ Ngân hàng cung cấp.
+Thông qua các hoạt động đào tạo và các tiêu chuẩn và hệ thống quản lý, Ngân hàng hướng đến việc
+phát triển một môi trường kiểm soát có kỷ luật và có tính tích cực trong đó toàn bộ các nhân viên của
 Ngân hàng hiểu rõ được vai trò và nghĩa vụ của mình.
-Khối Pháp chế và Quản lý rủi ro là đầu mối phối hợp với các Khối nghiệp vụ thực hiện các cuộc soát 
-xét định kỳ và đột xuất đối với các hệ thống và thủ tục kiểm soát quản lý rủi ro và báo cáo kết quả 
-soát xét lên Tổng giám đốc, Hội đồng Quản trị. Khối Kiểm toán nội bộ thực hiện các chương trình rà 
+Khối Pháp chế và Quản lý rủi ro là đầu mối phối hợp với các Khối nghiệp vụ thực hiện các cuộc soát
+xét định kỳ và đột xuất đối với các hệ thống và thủ tục kiểm soát quản lý rủi ro và báo cáo kết quả
+soát xét lên Tổng giám đốc, Hội đồng Quản trị. Khối Kiểm toán nội bộ thực hiện các chương trình rà
 soát, kiểm soát đặc biệt.
-Cùng với việc thiết lập các bộ phận và chính sách quản lý rủi ro liên quan đến các công cụ tài chính, 
-Ngân hàng cũng thực hiện phối hợp với các đối tác trong lĩnh vực công nghệ thông tin, viễn thông hỗ 
-trợ công tác quản lý rủi ro bằng việc xây dựng hệ thống tích hợp các công cụ quản lý rủi ro nhằm bảo 
+Cùng với việc thiết lập các bộ phận và chính sách quản lý rủi ro liên quan đến các công cụ tài chính,
+Ngân hàng cũng thực hiện phối hợp với các đối tác trong lĩnh vực công nghệ thông tin, viễn thông hỗ
+trợ công tác quản lý rủi ro bằng việc xây dựng hệ thống tích hợp các công cụ quản lý rủi ro nhằm bảo
 vệ khách hàng, nhà cung cấp và tăng cường sự phát triển bền vững của Ngân hàng.
-Các chính sách rủi ro tiền tệ, rủi ro lãi suất, rủi ro tín dụng và rủi ro thanh khoản được phân tích chi tiết 
+Các chính sách rủi ro tiền tệ, rủi ro lãi suất, rủi ro tín dụng và rủi ro thanh khoản được phân tích chi tiết
 tại các Thuyết minh 43, 44 và 45.
-43.	
 RỦI RO THỊ TRƯỜNG
-Rủi ro thị trường là rủi ro mà giá trị hợp lý hoặc giá trị của dòng tiền trong tương lai của các công cụ 
-tài chính sẽ biến động do sự biến động giá trên thị trường. Rủi ro thị trường phát sinh từ trạng thái 
-mở của lãi suất, các sản phẩm tiền tệ và công cụ vốn, tất cả các sản phẩm này đều chịu tác động từ 
-biến động trên thị trường nói chung và từng loại thị trường nói riêng và sự thay đổi của mức độ biến 
+Rủi ro thị trường là rủi ro mà giá trị hợp lý hoặc giá trị của dòng tiền trong tương lai của các công cụ
+tài chính sẽ biến động do sự biến động giá trên thị trường. Rủi ro thị trường phát sinh từ trạng thái
+mở của lãi suất, các sản phẩm tiền tệ và công cụ vốn, tất cả các sản phẩm này đều chịu tác động từ
+biến động trên thị trường nói chung và từng loại thị trường nói riêng và sự thay đổi của mức độ biến
 động của giá thị trường như: lãi suất, tỷ giá hối đoái và giá cổ phiếu.
-(a)	
 Rủi ro tiền tệ
-Rủi ro tiền tệ là rủi ro mà giá trị của các công cụ tài chính bị thay đổi xuất phát từ những thay đổi về tỷ 
-giá. Ngân hàng được thành lập và hoạt động tại Việt Nam với đồng tiền báo cáo là VND. Ngân hàng 
-chủ yếu sử dụng Đô la Mỹ và Đồng Việt Nam để hạch toán các hoạt động của mình. Do báo cáo tài 
-chính của Ngân hàng được trình bày bằng Đồng Việt Nam, báo cáo tài chính của Ngân hàng có khả 
+Rủi ro tiền tệ là rủi ro mà giá trị của các công cụ tài chính bị thay đổi xuất phát từ những thay đổi về tỷ
+giá. Ngân hàng được thành lập và hoạt động tại Việt Nam với đồng tiền báo cáo là VND. Ngân hàng
+chủ yếu sử dụng Đô la Mỹ và Đồng Việt Nam để hạch toán các hoạt động của mình. Do báo cáo tài
+chính của Ngân hàng được trình bày bằng Đồng Việt Nam, báo cáo tài chính của Ngân hàng có khả
 năng bị ảnh hưởng bởi những biến động tỷ giá giữa Đô la Mỹ và Đồng Việt Nam.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [122]
-Rủi ro trong các giao dịch bằng ngoại tệ của Ngân hàng sẽ làm phát sinh lãi hoặc lỗ ngoại tệ và các 
-khoản lãi hay lỗ ngoại tệ này sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh. Rủi ro này 
-bao gồm các tài sản và nợ phải trả của Ngân hàng có nguồn gốc tiền tệ không phải bằng loại tiền tệ 
-hạch toán của Ngân hàng, các đơn vị tiền tệ của tiền mặt tại quỹ, tiền gửi tại và cho vay các TCTD 
-khác, chứng khoán đầu tư, cho vay khách hàng, tiền gửi và tiền vay các TCTD khác, tiền gửi của 
-khách hàng, vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro và phát hành giấy tờ có giá.
-Ngân hàng đã thiết lập hạn mức trạng thái cho từng loại tiền tệ dựa trên hệ thống đánh giá rủi ro nội 
-bộ của Ngân hàng và các quy định của NHNNVN. Trạng thái đồng tiền được quản lý hàng ngày và 
-chiến lược phòng ngừa rủi ro được Ngân hàng sử dụng để đảm bảo trạng thái đồng tiền được duy trì 
-trong hạn mức đã thiết lập. Ngân hàng cũng duy trì trạng thái mở để có thể thu lãi từ biến động tỷ giá.
-Sau đây là những tỷ giá hối đoái chính được Ngân hàng áp dụng tại ngày kết thúc kỳ kế toán năm 
-như sau:
-Bảng dưới đây trình bày giá trị ghi sổ của các tài sản và nợ phải trả tài chính theo loại hình tiền tệ tại 
-ngày 31 tháng 12 năm 2021.
-31/12/2021
-VND
-31/12/2020
-VND
-USD
-22.800
-23.010
-EUR
-26.052
-28.162
-GBP
-30.708
-31.235
-CHF
-24.900
-25.964
-JPY
-199,66
-221,70
-SGD
-16.841
-17.283
-CAD
-17.851
-17.900
-AUD
-16.621
-17.580
-HKD
-2.948
-2.898
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [123]
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-Tại ngày 31 tháng 12 năm 2021
-VND
-Triệu VND
-USD
-Triệu VND
-EUR
-Triệu VND
-Tiền tệ khác
-Triệu VND
-Tổng cộng
-Triệu VND
-Tài sản
-Tiền mặt
-2.663.442
-85.719
-122
-1.995
-2.751.278
-Tiền gửi tại NHNNVN
-9.678.761
-188.885
--
-9.867.646
-Tiền gửi và cho vay các TCTD khác - gộp
-15.200.662
-7.157.482
-15.867
-64.482
-22.438.493
-Chứng khoán kinh doanh
--
-232.521
--
--
-232.521
-Các công cụ tài chính phái sinh và các tài sản tài chính 
-khác
-84.831
--
--
--
-84.831
-Cho vay khách hàng - gộp
-202.816.513
-6.137.623
--
--
-208.954.136
-Chứng khoán đầu tư - gộp
-38.706.806
--
--
-38.706.806
-Góp vốn, đầu tư dài hạn
-315.931
--
--
-315.931
-Tài sản cố định - thuần
-1.584.457
--
--
-1.584.457
-Tài sản Có khác
-7.116.554
-333.410
-749
-8
-7.450.721
- 278.167.957
- 14.135.640 
-16.738 
- 66.485 
- 292.386.820 
-Nợ phải trả 
-Các khoản nợ Chính phủ và NHNNVN
-1.702.874
--
--
--
-1.702.874
-Tiền gửi và vay các TCTD khác
-33.352.995
-12.928.385
--
--
-46.281.380
-Tiền gửi của khách hàng
-176.266.204
-3.974.999
-13.327
-21.816
-180.276.346
-Phát hành giấy tờ có giá
-36.737.629
--
--
--
-36.737.629
-Các khoản nợ khác
-7.381.069
-12.700
-3
-1
-7.393.773
-  255.440.771 
-16.916.084
-13.330
- 21.817 
- 272.392.002 
-Trạng thái tiền tệ nội bảng
-22.727.186 
- (2.780.444) 
-3.408
- 44.668 
- 19.994.818 
-Trạng thái tiền tệ ngoại bảng
- 889.616 
-(908.995)
-104.210
- - 
-84.831
-Trạng thái tiền tệ nội, ngoại bảng
- 23.616.802 
- (3.689.439) 
-107.618
- 44.668 
-20.079.649
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
-cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [124]
-Độ nhạy đối với tỷ giá 
-Bảng dưới đây phân tích mức độ ảnh hưởng tới báo cáo kết quả hoạt động kinh doanh và vốn chủ 
-sở hữu cho năm kết thúc ngày 31 tháng 12 năm 2021 và 2020 của Ngân hàng (với giả định các biến 
+Độ nhạy đối với tỷ giá
+Bảng dưới đây phân tích mức độ ảnh hưởng tới báo cáo kết quả hoạt động kinh doanh và vốn chủ
+sở hữu cho năm kết thúc ngày 31 tháng 12 năm 2021 và 2020 của Ngân hàng (với giả định các biến
 số, đặc biệt lãi suất, không thay đổi).
-Mức độ ảnh hưởng 
-tới kết quả hoạt động 
-kinh doanh – tăng/(giảm) 
+Mức độ ảnh hưởng
+tới kết quả hoạt động
+kinh doanh – tăng/(giảm)
 lợi nhuận
-Triệu VND
-Mức độ ảnh hưởng tới 
+Mức độ ảnh hưởng tới
 vốn chủ sở hữu – tăng/
 (giảm) vốn chủ sở hữu
-Triệu VND
 Năm kết thúc ngày 31 tháng 12 năm 2021
 VND giảm giá 1% so với USD
-(36.894)
-(28.515)
 VND tăng giá 1% so với USD
-36.894
-28.515
 Năm kết thúc ngày 31 tháng 12 năm 2020
 VND giảm giá 1% so với USD
-(22.542)
-(18.034)
 VND tăng giá 1% so với USD
-22.542
-18.034
-(b)	
 Rủi ro về giá chứng khoán
-Rủi ro về giá chứng khoán là rủi ro mà giá thị trường của chứng khoán giảm do việc thay đổi giá của 
-các chứng khoán riêng lẻ. Rủi ro về giá chứng khoán phát sinh từ chứng khoán vốn đầu tư sẵn sàng 
-để bán của Ngân hàng. 
-Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, ảnh hưởng rủi ro về giá chứng khoán 
-của Ngân hàng là không đáng kể do Ngân hàng nắm giữ danh mục chứng khoán vốn đầu tư sẵn sàng 
+Rủi ro về giá chứng khoán là rủi ro mà giá thị trường của chứng khoán giảm do việc thay đổi giá của
+các chứng khoán riêng lẻ. Rủi ro về giá chứng khoán phát sinh từ chứng khoán vốn đầu tư sẵn sàng
+để bán của Ngân hàng.
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, ảnh hưởng rủi ro về giá chứng khoán
+của Ngân hàng là không đáng kể do Ngân hàng nắm giữ danh mục chứng khoán vốn đầu tư sẵn sàng
 để bán đã niêm yết không đáng kể tại ngày báo cáo.
-(c)	
 Rủi ro lãi suất
-Rủi ro lãi suất là khả năng thu nhập hoặc giá trị tài sản của Ngân hàng bị ảnh hưởng khi lãi suất trên 
-thị trường biến động. Các hoạt động của Ngân hàng chịu rủi ro về biến động lãi suất khi các tài sản 
-thu lãi và nợ phải trả chịu lãi đáo hạn tại những thời điểm khác nhau hoặc với những giá trị khác nhau. 
-Một số tài sản không có kỳ hạn cụ thể hoặc rất nhạy cảm với lãi suất và không tương ứng với từng 
+Rủi ro lãi suất là khả năng thu nhập hoặc giá trị tài sản của Ngân hàng bị ảnh hưởng khi lãi suất trên
+thị trường biến động. Các hoạt động của Ngân hàng chịu rủi ro về biến động lãi suất khi các tài sản
+thu lãi và nợ phải trả chịu lãi đáo hạn tại những thời điểm khác nhau hoặc với những giá trị khác nhau.
+Một số tài sản không có kỳ hạn cụ thể hoặc rất nhạy cảm với lãi suất và không tương ứng với từng
 khoản nợ phải trả cụ thể.
-Tài sản và nợ phải trả của Ngân hàng được phân loại theo thời hạn sớm hơn kỳ định giá lại theo hợp 
-đồng hoặc theo ngày đáo hạn và lãi suất thực tế tại ngày kết thúc kỳ kế toán năm. Ngày định giá lại 
-tài sản và ngày đáo hạn dự kiến có thể khác nhiều so với ngày quy định trong hợp đồng, đặc biệt với 
+Tài sản và nợ phải trả của Ngân hàng được phân loại theo thời hạn sớm hơn kỳ định giá lại theo hợp
+đồng hoặc theo ngày đáo hạn và lãi suất thực tế tại ngày kết thúc kỳ kế toán năm. Ngày định giá lại
+tài sản và ngày đáo hạn dự kiến có thể khác nhiều so với ngày quy định trong hợp đồng, đặc biệt với
 ngày đáo hạn tiền gửi của khách hàng.
-Rủi ro lãi suất của Ngân hàng có thể xuất phát từ hoạt động đầu tư và hoạt động huy động vốn và 
+Rủi ro lãi suất của Ngân hàng có thể xuất phát từ hoạt động đầu tư và hoạt động huy động vốn và
 cho vay.
-Kỳ định lại lãi suất là thời hạn còn lại tính từ ngày lập báo cáo tài chính cho tới ngày định lại lãi suất 
-gần nhất của các khoản mục tài sản và nguồn vốn. Các giả định và điều kiện sau được áp dụng trong 
+Kỳ định lại lãi suất là thời hạn còn lại tính từ ngày lập báo cáo tài chính cho tới ngày định lại lãi suất
+gần nhất của các khoản mục tài sản và nguồn vốn. Các giả định và điều kiện sau được áp dụng trong
 phân tích thời hạn xác định lại lãi suất thực tế của các tài sản và nợ phải trả của Ngân hàng:
-•	 Tiền mặt tại quỹ, góp vốn đầu tư dài hạn và các tài sản có khác (bao gồm tài sản cố định, bất động 
-sản đầu tư và tài sản có khác) được xếp loại là khoản mục không chịu lãi theo lãi suất hưởng thực 
-tế;
+•	 Tiền mặt tại quỹ, góp vốn đầu tư dài hạn và các tài sản có khác (bao gồm tài sản cố định, bất động
+sản đầu tư và tài sản có khác) được xếp loại là khoản mục không chịu lãi theo lãi suất hưởng thực
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [125]
-•	 Tiền gửi tại NHNNVN được xếp loại là tiền gửi thanh toán, trong đó bao gồm tiền gửi dự trữ bắt 
+•	 Tiền gửi tại NHNNVN được xếp loại là tiền gửi thanh toán, trong đó bao gồm tiền gửi dự trữ bắt
 buộc, do đó kỳ hạn định lại lãi suất được xếp loại không chịu lãi hoặc đến một tháng;
-•	 Kỳ định lại lãi suất của chứng khoán đầu tư phụ thuộc vào quy định về lãi suất của tổ chức phát 
+•	 Kỳ định lại lãi suất của chứng khoán đầu tư phụ thuộc vào quy định về lãi suất của tổ chức phát
 hành đối với từng loại chứng khoán;
-•	 Kỳ định lại lãi suất của các khoản tiền gửi và cho vay các TCTD; các khoản cho vay khách hàng; 
-các khoản nợ Chính phủ và NHNNVN; các khoản tiền gửi và vay các TCTD và khoản mục tiền gửi 
+•	 Kỳ định lại lãi suất của các khoản tiền gửi và cho vay các TCTD; các khoản cho vay khách hàng;
+các khoản nợ Chính phủ và NHNNVN; các khoản tiền gửi và vay các TCTD và khoản mục tiền gửi
 của khách hàng được xác định như sau:
--	 Các khoản mục có lãi suất cố định trong suốt thời gian của hợp đồng: Kỳ định lại lãi suất dựa 
+-	 Các khoản mục có lãi suất cố định trong suốt thời gian của hợp đồng: Kỳ định lại lãi suất dựa
 trên thời gian đáo hạn thực tế tính từ ngày lập báo cáo tài chính;
--	 Các khoản mục có lãi suất thả nổi: Kỳ định lại lãi suất dựa trên kỳ định lại lãi suất gần nhất tính 
-từ ngày lập báo cáo tài chính.
-•	 Kỳ định lại lãi suất của khoản mục phát hành giấy tờ có giá dựa trên thời gian đáo hạn thực tế của 
-từng loại giấy tờ có giá; phụ thuộc vào quy định về lãi suất của Ngân hàng đối với từng đợt phát 
+-	 Các khoản mục có lãi suất thả nổi: Kỳ định lại lãi suất dựa trên kỳ định lại lãi suất gần nhất tính
+•	 Kỳ định lại lãi suất của khoản mục phát hành giấy tờ có giá dựa trên thời gian đáo hạn thực tế của
+từng loại giấy tờ có giá; phụ thuộc vào quy định về lãi suất của Ngân hàng đối với từng đợt phát
 hành.
-•	 Kỳ định lại lãi suất của khoản mục nguồn vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro dựa 
+•	 Kỳ định lại lãi suất của khoản mục nguồn vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro dựa
 trên thời gian đáo hạn thực tế của giao dịch do các giao dịch này có lãi suất cố định.
 •	 Kỳ định lại lãi suất của các khoản vay khác là từ 1 đến 5 năm.
-•	 Kỳ định lại lãi suất của các khoản nợ khác là từ 1 đến 3 tháng. Trên thực tế, các khoản mục này có 
+•	 Kỳ định lại lãi suất của các khoản nợ khác là từ 1 đến 3 tháng. Trên thực tế, các khoản mục này có
 thể có thời gian định lại lãi suất khác nhau.
-Bảng sau trình bày tài sản và nợ phải trả của Ngân hàng được phân loại theo thời hạn ngắn hơn giữa 
+Bảng sau trình bày tài sản và nợ phải trả của Ngân hàng được phân loại theo thời hạn ngắn hơn giữa
 kỳ định giá lại lãi suất hoặc ngày đáo hạn hợp đồng tại ngày kết thúc kỳ kế toán:
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
-ngày 31 tháng 12 năm 2014 của
-Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [126]
-Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
-Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
-210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-Tại ngày 31 tháng 12 năm 2021
-Quá hạn
-Triệu VND
-Không 
-hưởng lãi
-Triệu VND
-Đến  
-1 tháng
-Triệu VND
-Từ 1 đến 
-3 tháng
-Triệu VND
-Từ trên 
-3 đến 6 
-tháng
-Triệu VND
-Từ trên 
-6 đến 12 
-tháng
-Triệu VND
-Từ trên 1 
-đến 5 năm
-Triệu VND
-Trên
-5 năm
-Triệu VND
-Tổng cộng
-Triệu VND
-Tài sản
-Tiền mặt
--
-2.751.278
--
--
--
--
--
--
-2.751.278
-Tiền gửi tại NHNNVN
--
-9.867.646
--
--
--
--
--
--
-9.867.646
-Tiền gửi và cho vay các TCTD khác 
--
--
-16.558.591
-5.136.618
-713.284
-30.000
--
--
-22.438.493
-Chứng khoán kinh doanh 
--
-232.521
--
--
--
--
--
--
-232.521
-Các công cụ tài chính phái sinh và các tài 
-sản tài chính khác
--
-84.831
--
--
--
--
--
--
-84.831
-Cho vay khách hàng - gộp (*)
-1.090.740
--
-39.278.709
-106.008.400
-32.363.276
-10.459.385
-19.151.507
-602.119
-208.954.136
-Chứng khoán đầu tư - gộp
--
-431.113
-50.000
-499.989
-2.701.054
-2.349.536
-11.920.080
-20.755.034
-38.706.806
-Góp vốn, đầu tư dài hạn 
--
-315.931
--
--
--
--
--
--
-315.931
-Tài sản cố định - thuần 
--
-1.584.457
--
--
--
--
--
--
-1.584.457
-Tài sản có khác 
--
-7.222.721
--
--
--
-228.000
--
--
-7.450.721
-1.090.740
-22.490.498
-55.887.300
-111.645.007
-35.777.614
-13.066.921
-31.071.587
-21.357.153
-292.386.820
-Nợ phải trả 
-Các khoản nợ Chính phủ và NHNNVN
--
--
-1.702.874 
--
--
--
--
--
-1.702.874 
-Tiền gửi và vay các TCTD khác
--
--
- 33.075.731 
- 10.310.716 
- 88.952 
- 1.189.501 
- 1.501.525 
- 114.955 
- 46.281.380 
-Tiền gửi của khách hàng
--
--
-43.069.014
-44.152.527
-40.123.735
-42.923.782
-10.001.693
-5.595
-180.276.346
-Phát hành giấy tờ có giá
--
-258.084
-2.537.927
-539.618
-8.418.914
-21.921.137
-3.061.949
-36.737.629
-Các khoản nợ khác
--
-7.393.773
--
--
--
--
--
--
-7.393.773
- - 
- 7.393.773 
- 78.105.703 
- 57.001.170  40.752.305 
- 52.532.197 
-33.424.355 
- 3.182.499 
- 272.392.002 
-Mức chênh nhạy cảm với lãi suất nội bảng
-1.090.740 
-15.096.725
-(22.218.403)
- 54.643.837  (4.974.691)
-(39.465.276)
-(2.352.768)
-18.174.654 
- 19.994.818 
-(*) Số dư này được xác định dựa trên số ngày quá hạn theo hợp đồng, không dựa trên cơ sở khách hàng.
-
-Mẫu B05/TCTD
-(Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [127]
-44.	
 RỦI RO TÍN DỤNG
-Ngân hàng chịu rủi ro tín dụng trong quá trình cho vay và đầu tư cũng như khi Ngân hàng đóng vai trò 
+Ngân hàng chịu rủi ro tín dụng trong quá trình cho vay và đầu tư cũng như khi Ngân hàng đóng vai trò
 trung gian thay mặt khách hàng hay các bên thứ ba khác hay khi Ngân hàng cấp bảo lãnh.
-Rủi ro khi các bên đối tác không có khả năng thanh toán nợ được giám sát một cách liên tục. Để quản 
-lý được mức độ rủi ro tín dụng, Ngân hàng cố gắng chỉ giao dịch với các đối tác có uy tín tín dụng cao 
+Rủi ro khi các bên đối tác không có khả năng thanh toán nợ được giám sát một cách liên tục. Để quản
+lý được mức độ rủi ro tín dụng, Ngân hàng cố gắng chỉ giao dịch với các đối tác có uy tín tín dụng cao
 và khi thích hợp, sẽ yêu cầu có tài sản đảm bảo.
-Rủi ro tín dụng chính mà Ngân hàng gặp phải phát sinh từ các khoản cho vay và ứng trước của Ngân 
-hàng. Mức độ rủi ro tín dụng này được phản ánh theo giá trị ghi sổ của các tài sản trên bảng cân đối 
-kế toán. Ngoài ra Ngân hàng còn gặp phải rủi ro tín dụng ngoại bảng dưới dạng các cam kết cấp tín 
+Rủi ro tín dụng chính mà Ngân hàng gặp phải phát sinh từ các khoản cho vay và ứng trước của Ngân
+hàng. Mức độ rủi ro tín dụng này được phản ánh theo giá trị ghi sổ của các tài sản trên bảng cân đối
+kế toán. Ngoài ra Ngân hàng còn gặp phải rủi ro tín dụng ngoại bảng dưới dạng các cam kết cấp tín
 dụng và cấp bảo lãnh.
-Mức độ tập trung của rủi ro tín dụng (nội bảng hay ngoại bảng) phát sinh từ các công cụ tài chính tồn 
-tại theo từng nhóm đối tác khi các nhóm này có các đặc điểm kinh tế tương tự nhau mà có thể khiến 
-khả năng trả nợ của các nhóm đối tác sẽ bị ảnh hưởng tương tự như nhau khi có các biến động về 
+Mức độ tập trung của rủi ro tín dụng (nội bảng hay ngoại bảng) phát sinh từ các công cụ tài chính tồn
+tại theo từng nhóm đối tác khi các nhóm này có các đặc điểm kinh tế tương tự nhau mà có thể khiến
+khả năng trả nợ của các nhóm đối tác sẽ bị ảnh hưởng tương tự như nhau khi có các biến động về
 điều kiện kinh tế hay những điều kiện khác.
-Mức độ tập trung chủ yếu của rủi ro tín dụng phát sinh theo khu vực và theo loại khách hàng liên quan 
-đến các hoạt động đầu tư, cho vay và ứng trước, cam kết cấp tín dụng và cấp bảo lãnh của Ngân 
+Mức độ tập trung chủ yếu của rủi ro tín dụng phát sinh theo khu vực và theo loại khách hàng liên quan
+đến các hoạt động đầu tư, cho vay và ứng trước, cam kết cấp tín dụng và cấp bảo lãnh của Ngân
 hàng. Ngân hàng có rủi ro tập trung chủ yếu vào một số ngành kinh tế nhất định.
-Quản lý và kiểm soát rủi ro tín dụng được thực hiện thông qua các chính sách và thủ tục có liên quan, 
-trong đó có chính sách quản lý rủi ro tín dụng và hoạt động của Hội đồng rủi ro, Hội đồng xử lý rủi ro 
-và xử lý nợ và Hội đồng Tín dụng. Ngân hàng tiến hành phân loại nợ đối với các khoản nợ của khách 
-hàng và các TCTD khác dựa trên Thông tư 11, qua đó thường xuyên đánh giá rủi ro của các khoản 
+Quản lý và kiểm soát rủi ro tín dụng được thực hiện thông qua các chính sách và thủ tục có liên quan,
+trong đó có chính sách quản lý rủi ro tín dụng và hoạt động của Hội đồng rủi ro, Hội đồng xử lý rủi ro
+và xử lý nợ và Hội đồng Tín dụng. Ngân hàng tiến hành phân loại nợ đối với các khoản nợ của khách
+hàng và các TCTD khác dựa trên Thông tư 11, qua đó thường xuyên đánh giá rủi ro của các khoản
 nợ có vấn đề, nợ xấu, và đề xuất biện pháp xử lý phù hợp.
-Để quản lý rủi ro tín dụng, Ngân hàng sử dụng các công cụ như xây dựng các chính sách và ban hành 
-các quy định liên quan đến công tác quản lý rủi ro tín dụng, xây dựng các quy trình tín dụng, thực hiện 
-rà soát rủi ro tín dụng, xây dựng hệ thống xếp hạng tín dụng và phân loại nợ, phân cấp thẩm quyền 
+Để quản lý rủi ro tín dụng, Ngân hàng sử dụng các công cụ như xây dựng các chính sách và ban hành
+các quy định liên quan đến công tác quản lý rủi ro tín dụng, xây dựng các quy trình tín dụng, thực hiện
+rà soát rủi ro tín dụng, xây dựng hệ thống xếp hạng tín dụng và phân loại nợ, phân cấp thẩm quyền
 trong hoạt động tín dụng.
-Tài sản bảo đảm 
-Tài sản bảo đảm được định giá bởi một bộ phận độc lập với bộ phận kinh doanh dựa trên giá trị thị 
-trường tại thời điểm định giá. Việc định giá tài sản bảo đảm được cập nhật định kỳ theo quy định. 
-Các loại tài sản bảo đảm chính bao gồm bất động sản, máy móc thiết bị và giấy tờ có giá. Hướng 
-dẫn đánh giá tài sản là động sản, bất động sản định kỳ được rà soát và cập nhật nhằm tuân thủ các 
+Tài sản bảo đảm
+Tài sản bảo đảm được định giá bởi một bộ phận độc lập với bộ phận kinh doanh dựa trên giá trị thị
+trường tại thời điểm định giá. Việc định giá tài sản bảo đảm được cập nhật định kỳ theo quy định.
+Các loại tài sản bảo đảm chính bao gồm bất động sản, máy móc thiết bị và giấy tờ có giá. Hướng
+dẫn đánh giá tài sản là động sản, bất động sản định kỳ được rà soát và cập nhật nhằm tuân thủ các
 quy định của NHNNVN.
-Các cam kết và bảo lãnh 
-Để đáp ứng nhu cầu tài chính của khách hàng, Ngân hàng phát hành các cam kết không hủy ngang và 
+Các cam kết và bảo lãnh
+Để đáp ứng nhu cầu tài chính của khách hàng, Ngân hàng phát hành các cam kết không hủy ngang và
 các nợ tiềm ẩn khác nhau. Các cam kết và bảo lãnh cũng được xếp hạng và phân loại rủi ro tín dụng.
-Số liệu thể hiện mức độ rủi ro tín dụng nội bảng tối đa của Ngân hàng, không tính đến tài sản đảm 
+Số liệu thể hiện mức độ rủi ro tín dụng nội bảng tối đa của Ngân hàng, không tính đến tài sản đảm
 bảo hay hỗ trợ tín dụng, bao gồm:
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
-  BÁO CÁO THƯỜNG NIÊN 2021  [128]
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
 Tại ngày 31 tháng 12 năm 2021
-Chưa quá hạn 
-và chưa phải 
+Chưa quá hạn
+và chưa phải
 lập dự phòng
-Triệu VND
 Đã quá hạn nhưng chưa phải lập dự phòng
-Đã lập 
+Đã lập
 dự phòng
-Triệu VND
-Tổng cộng
-Triệu VND
-Quá hạn từ 
-10 đến 90 
+Quá hạn từ
 ngày
-Triệu VND
-Quá hạn từ 
-91 đến 180 
+Quá hạn từ
 ngày
-Triệu VND
-Quá hạn từ 
-181 đến 360 
+Quá hạn từ
 ngày
-Triệu VND
 Quá hạn
 trên
 360 ngày
-Triệu VND
 Tiền gửi tại NHNNVN
-9.867.646
--
--
--
--
--
-9.867.646
 Tiền gửi và cho vay các TCTD khác
-22.438.493
--
--
--
--
--
-22.438.493
-Chứng khoán kinh doanh 
-232.521
--
--
--
--
--
-232.521
+Chứng khoán kinh doanh
 Cho vay khách hàng - gộp (*)
-191.769.638
-498.993
-110.801
-110.113
-499.392
-15.965.199
-208.954.136
 Chứng khoán đầu tư - gộp
-37.620.897
--
--
--
--
-1.085.909
-38.706.806
 Tài sản tài chính khác
-5.957.230
--
--
--
--
-7.332
-5.964.562
-267.886.425 
-498.993
-110.801
-110.113 
-499.392 
-17.058.440 
-286.164.164
-(*) 	
 Số dư này được xác định dựa trên cơ sở dư nợ của khách hàng.
-Xem chi tiết các loại và giá trị của tài sản bản đảm trong Thuyết minh 37(a). Ngân hàng hiện đang nắm giữ các tài sản đảm bảo là bất động sản, động 
-sản, các giấy tờ có giá và các loại tài sản đảm bảo khác cho các tài sản tài chính này. Ngân hàng chưa xác định được đầy đủ giá trị hợp lý của tất cả 
-tài sản đảm bảo này do chưa có các hướng dẫn cụ thể cũng như chưa có các thông tin thị trường cần thiết. Cho mục đích xác định tài sản có bị giảm 
-giá trị và có phải trích lập dự phòng hay không theo các Chuẩn mực Kế toán Việt Nam, giá trị các tài sản đảm bảo này được xác định theo quy định 
+Xem chi tiết các loại và giá trị của tài sản bản đảm trong Thuyết minh 37(a). Ngân hàng hiện đang nắm giữ các tài sản đảm bảo là bất động sản, động
+sản, các giấy tờ có giá và các loại tài sản đảm bảo khác cho các tài sản tài chính này. Ngân hàng chưa xác định được đầy đủ giá trị hợp lý của tất cả
+tài sản đảm bảo này do chưa có các hướng dẫn cụ thể cũng như chưa có các thông tin thị trường cần thiết. Cho mục đích xác định tài sản có bị giảm
+giá trị và có phải trích lập dự phòng hay không theo các Chuẩn mực Kế toán Việt Nam, giá trị các tài sản đảm bảo này được xác định theo quy định
 tại Thông tư 11.
 
 Mẫu B05/TCTD
 (Ban hành theo Thông tư số
-49/2014/TT-NHNN
 ngày 31 tháng 12 năm 2014 của
 Thống đốc Ngân hàng Nhà nước Việt Nam)
 Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt
 Tầng 1, 3, 4, 5, 6 Tòa nhà Thaiholdings Tower
 210 Trần Quang Khải, Phường Tràng Tiền
-Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam 
-Thuyết minh báo cáo tài chính 
+Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam
 cho năm kết thúc ngày 31 tháng 12 năm 2021 (tiếp theo)
-  BÁO CÁO THƯỜNG NIÊN 2021  [129]
-45.	
 RỦI RO THANH KHOẢN
-Rủi ro thanh khoản là loại rủi ro dẫn đến tổn thất và/hoặc mất khả năng thanh toán cho Ngân hàng khi 
-Ngân hàng không đủ vốn khả dụng với chi phí hợp lý và/hoặc không thể bán tài sản với chi phí hợp lý 
-và/hoặc phải huy động các nguồn vốn với chi phí cao vào đúng thời điểm mà Ngân hàng cần để đáp 
-ứng các nghĩa vụ thanh toán, tài chính mà Ngân hàng phải thực hiện. Rủi ro thanh khoản phát sinh do 
-nhiều nguyên nhân như sự mất cân đối về thời gian đáo hạn của tài sản nợ, tài sản có, sự nhạy cảm 
+Rủi ro thanh khoản là loại rủi ro dẫn đến tổn thất và/hoặc mất khả năng thanh toán cho Ngân hàng khi
+Ngân hàng không đủ vốn khả dụng với chi phí hợp lý và/hoặc không thể bán tài sản với chi phí hợp lý
+và/hoặc phải huy động các nguồn vốn với chi phí cao vào đúng thời điểm mà Ngân hàng cần để đáp
+ứng các nghĩa vụ thanh toán, tài chính mà Ngân hàng phải thực hiện. Rủi ro thanh khoản phát sinh do
+nhiều nguyên nhân như sự mất cân đối về thời gian đáo hạn của tài sản nợ, tài sản có, sự nhạy cảm
 của tài sản tài chính với thay đổi lãi suất, rủi ro không đảm bảo nghĩa vụ thanh toán của Ngân hàng.
 Quản lý rủi ro thanh khoản
-Mục tiêu của Ngân hàng trong việc quản trị rủi ro thanh khoản là để đảm bảo tối đa rằng Ngân hàng có 
-đủ khả năng thanh khoản để thực hiện nghĩa vụ khi đến hạn, trong điều kiện bình thường và điều kiện 
+Mục tiêu của Ngân hàng trong việc quản trị rủi ro thanh khoản là để đảm bảo tối đa rằng Ngân hàng có
+đủ khả năng thanh khoản để thực hiện nghĩa vụ khi đến hạn, trong điều kiện bình thường và điều kiện
 căng thẳng, mà không để phát sinh lỗ không đáng có hoặc ảnh hưởng tới danh tiếng của Ngân hàng.
-Để giảm thiểu rủi ro thanh khoản, Ngân hàng duy trì cơ cấu tài sản nợ và tài sản có phù hợp, đồng 
-thời tăng cường khả năng huy động từ nhiều nguồn khác nhau. Ngân hàng quản lý tài sản có tính 
-thanh khoản cao, linh hoạt, theo dõi dòng tiền tương lai và tính thanh khoản hàng ngày. Ngân hàng 
-cũng đánh giá dòng tiền dự kiến và khả năng sẵn có của tài sản đảm bảo hiện tại trong trường hợp 
+Để giảm thiểu rủi ro thanh khoản, Ngân hàng duy trì cơ cấu tài sản nợ và tài sản có phù hợp, đồng
+thời tăng cường khả năng huy động từ nhiều nguồn khác nhau. Ngân hàng quản lý tài sản có tính
+thanh khoản cao, linh hoạt, theo dõi dòng tiền tương lai và tính thanh khoản hàng ngày. Ngân hàng
+cũng đánh giá dòng tiền dự kiến và khả năng sẵn có của tài sản đảm bảo hiện tại trong trường hợp
 cần huy động thêm nguồn vốn.
-Ngoài ra, Ngân hàng duy trì một khoản tiền gửi tại NHNNVN theo quy định hiện hành về dự trữ bắt 
-buộc, đồng thời luôn đảm bảo duy trì các tỷ lệ khả năng chi trả, tỷ lệ nguồn vốn ngắn hạn cho vay 
+Ngoài ra, Ngân hàng duy trì một khoản tiền gửi tại NHNNVN theo quy định hiện hành về dự trữ bắt
+buộc, đồng thời luôn đảm bảo duy trì các tỷ lệ khả năng chi trả, tỷ lệ nguồn vốn ngắn hạn cho vay
 trung dài hạn và các giới hạn về tỷ lệ đảm bảo an toàn hoạt động theo quy định của NHNNVN.
 Phân tích tài sản và nợ phải trả theo thời gian đáo hạn còn lại
-Thời gian đáo hạn của các tài sản và nợ phải trả thể hiện thời gian còn lại của tài sản và nợ phải trả 
-tính đến thời điểm lập báo cáo tài chính đến kỳ thanh toán theo quy định trong hợp đồng hoặc trong 
+Thời gian đáo hạn của các tài sản và nợ phải trả thể hiện thời gian còn lại của tài sản và nợ phải trả
+tính đến thời điểm lập báo cáo tài chính đến kỳ thanh toán theo quy định trong hợp đồng hoặc trong
 điều khoản phát hành.
-Các giả định và điều kiện sau được áp dụng trong phân tích thời gian đáo hạn của các tài sản và nợ 
+Các giả định và điều kiện sau được áp dụng trong phân tích thời gian đáo hạn của các tài sản và nợ
 phải trả trên bảng cân đối kế toán của Ngân hàng:
-•	 Tiền gửi tại NHNNVN được xếp loại là tiền gửi thanh toán, trong đó bao gồm tiền gửi dự trữ bắt 
-buộc. Số dư của tiền gửi dự trữ bắt buộc phụ thuộc vào thành phần và kỳ hạn của các khoản tiền 
+•	 Tiền gửi tại NHNNVN được xếp loại là tiền gửi thanh toán, trong đó bao gồm tiền gửi dự trữ bắt
+buộc. Số dư của tiền gửi dự trữ bắt buộc phụ thuộc vào thành phần và kỳ hạn của các khoản tiền
 gửi của khách hàng tại Ngân hàng.
-•	 Thời gian đáo hạn của chứng khoán đầu tư được tính dựa trên ngày đáo hạn trên hợp đồng của 
+•	 Thời gian đáo hạn của chứng khoán đầu tư được tính dựa trên ngày đáo hạn trên hợp đồng của
 từng loại chứng khoán.
-•	 Thời gian đáo hạn của các khoản tiền gửi và cho vay các TCTD khác và các khoản cho vay khách 
-hàng được xác định dựa vào ngày đáo hạn của hợp đồng quy định. Thời gian đáo hạn thực tế có 
+•	 Thời gian đáo hạn của các khoản tiền gửi và cho vay các TCTD khác và các khoản cho vay khách
+hàng được xác định dựa vào ngày đáo hạn của hợp đồng quy định. Thời gian đáo hạn thực tế có
 thể thay đổi do các hợp đồng cho vay, tiền gửi được gia hạn.
-•	 Thời gian đáo hạn của các khoản đầu tư góp vốn mua cổ phần được coi là trên 5 năm do các 
+•	 Thời gian đáo hạn của các khoản đầu tư góp vốn mua cổ phần được coi là trên 5 năm do các
 khoản đầu tư này không có thời gian đáo hạn xác định.
-•	 Các khoản tiền gửi, tiền vay các TCTD khác và các khoản tiền gửi của khách hàng được xác định 
-dựa vào tính chất của các khoản này hoặc thời gian đáo hạn trên hợp đồng. Đối với tiền gửi không 
-kỳ hạn của tổ chức kinh tế và nguồn vốn tài trợ ủy thác đầu tư cho vay mà TCTD chịu rủi ro, có giả 
+•	 Các khoản tiền gửi, tiền vay các TCTD khác và các khoản tiền gửi của khách hàng được xác định
+dựa vào tính chất của các khoản này hoặc thời gian đáo hạn trên hợp đồng. Đối với tiền gửi không
+kỳ hạn của tổ chức kinh tế và nguồn vốn tài trợ ủy thác đầu tư cho vay mà TCTD chịu rủi ro, có giả
 định một khối lượng nhất định được duy trì trong những kỳ hạn tiếp theo.
-•	 Tài khoản không kỳ hạn của các TCTD khác (“vostro”) và tiền gửi thanh toán được thực hiện giao 
-dịch theo yêu cầu của khách hàng và do đó được xếp loại là tiền gửi không kỳ hạn. Thời gian đáo 
+•	 Tài khoản không kỳ hạn của các TCTD khác (“vostro”) và tiền gửi thanh toán được thực hiện giao
+dịch theo yêu cầu của khách hàng và do đó được xếp loại là tiền gửi không kỳ hạn. Thời gian đáo
 hạn đối với các khoản vay và tiền gửi kỳ hạn được xác định dựa trên ngày đáo hạn theo hợp đồng.

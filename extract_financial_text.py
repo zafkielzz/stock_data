@@ -2,10 +2,12 @@
 Module tự động nhận diện và bóc tách các phân đoạn quan trọng từ Báo cáo Thường niên (Annual Reports):
 1. MD&A (Báo cáo của Ban Điều hành / Ban Tổng Giám đốc về kết quả kinh doanh và rủi ro)
 2. Báo cáo ESG (Phát triển bền vững, Môi trường, Xã hội, Quản trị)
-Không cần đọc thủ công - Tự động quét và chấm điểm dải trang theo ngữ nghĩa.
+3. Thuyết minh BCTC Định tính (Targeted Narrative NOTES): Bóc tách các câu giải mã, rủi ro nợ vay,
+   dự phòng, nợ tiềm tàng, báo cáo bộ phận; lọc bỏ triệt để các bảng số liệu ma trận vỡ layout (Digit-walls).
 """
 
 import os
+import re
 import pymupdf
 import pandas as pd
 
@@ -34,36 +36,99 @@ class FinancialReportExtractor:
             'quản trị môi trường', 'tiết kiệm năng lượng', 'báo cáo tác động môi trường'
         ]
 
+        # Trang loại trừ trong Thuyết minh (BCTC chính & Báo cáo kiểm toán)
+        self.negative_notes_pages = [
+            'báo cáo kiểm toán độc lập', 'ý kiến của kiểm toán viên', 'trách nhiệm của kiểm toán viên',
+            'bảng cân đối kế toán hợp nhất', 'báo cáo kết quả hoạt động kinh doanh hợp nhất',
+            'báo cáo lưu chuyển tiền tệ hợp nhất', 'báo cáo tình hình tài chính hợp nhất',
+            'báo cáo kết quả hoạt động hợp nhất'
+        ]
+
+        # Trang chính sách kế toán lặp lại (Boilerplate VAS)
+        self.policy_boilerplate = [
+            'các chính sách kế toán chủ yếu', 'tóm tắt các chính sách kế toán chủ yếu',
+            'cơ sở lập báo cáo tài chính và các chính sách kế toán'
+        ]
+
+        # Các đề mục Thuyết minh có giá trị giải mã thông tin tài chính cao nhất (Narrative Disclosures)
+        self.narrative_notes_kw = [
+            'báo cáo bộ phận', 'thông tin bộ phận', 'lĩnh vực kinh doanh', 'theo vùng địa lý',
+            'vay và nợ', 'vay ngắn hạn', 'vay dài hạn', 'trái phiếu phát hành', 'phát hành trái phiếu',
+            'lãi suất', 'tài sản bảo đảm', 'tài sản thế chấp', 'cam kết tài chính',
+            'dự phòng', 'nợ khó đòi', 'nợ xấu', 'giảm giá hàng tồn kho', 'trích lập dự phòng', 'hoàn nhập dự phòng',
+            'nợ tiềm tàng', 'cam kết và nợ', 'cam kết ngoại bảng', 'tranh chấp', 'kiện tụng', 'nghĩa vụ bảo lãnh',
+            'bên liên quan', 'giao dịch với các bên liên quan',
+            'sự kiện phát sinh sau', 'sự kiện sau ngày kết thúc', 'sau ngày kết thúc kỳ kế toán',
+            'quản lý rủi ro', 'rủi ro tín dụng', 'rủi ro thanh khoản', 'rủi ro lãi suất'
+        ]
+
+        # Cụm từ điều hướng tiêu đề / chân trang thường lặp lại
+        self.nav_stops = [
+            'báo cáo thường niên', 'thông điệp ban lãnh đạo', 'chiến lược phát triển',
+            'quản trị công ty', 'báo cáo esg', 'báo cáo tài chính', 'tổng quan về',
+            'mục lục', 'mẫu số b 09', 'mẫu số b09', 'mẫu số b 05', 'mẫu số b05',
+            'tập đoàn hòa phát - báo cáo thường niên', 'làm chủ', 'công nghệ chiến lược',
+            'dấu ấn', 'phân tích hoạt động kinh doanh', 'báo cào tài chính', 'báo cáo tài chính hợp nhất',
+            'mô hình quản trị và vai trò'
+        ]
+
+    def is_junk_line(self, line: str) -> bool:
+        """Kiểm tra và loại bỏ các dòng rác, header điều hướng, và các cột số liệu vỡ bảng."""
+        s = line.strip()
+        if not s:
+            return True
+        sl = s.lower()
+
+        # 1. Bỏ qua header / footer điều hướng ngắn
+        if any(nav in sl for nav in self.nav_stops) and len(s) < 65:
+            return True
+
+        # Đếm chữ cái tiếng Việt và chữ số
+        letters = re.findall(r'[a-zA-ZàáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđĐ]', s)
+        digits = re.findall(r'\d', s)
+
+        # 2. Phải có ít nhất 4 chữ cái (loại bỏ các số trang đơn lẻ, ký tự phân cách)
+        if len(letters) < 4:
+            return True
+
+        # 3. Digit-wall filter: Nếu chữ số áp đảo chữ cái (tỷ lệ > 75%) -> Đây là hàng bảng số liệu ma trận kế toán
+        if len(digits) > len(letters) * 0.75:
+            return True
+
+        # 4. Loại bỏ các nhãn tiêu đề cột bảng trơ trọi không có ngữ cảnh
+        words = s.split()
+        if len(words) <= 3 and any(k in sl for k in [
+            'số cuối năm', 'số đầu năm', 'vnd', 'đồng', 'triệu vnd', 'mã số', 'tổng cộng', 'thuyết minh số'
+        ]):
+            return True
+
+        return False
+
+    def clean_text(self, text: str) -> str:
+        """Lọc sạch văn bản, loại bỏ các dòng số liệu kế toán vỡ layout và header lặp lại."""
+        lines = text.split('\n')
+        cleaned = [l.strip() for l in lines if not self.is_junk_line(l)]
+        return '\n'.join(cleaned)
+
     def extract_mda(self, pdf_path: str, max_pages: int = 25) -> str:
-        """Tự động tìm và rút trích chương MD&A từ file PDF."""
+        """Tự động tìm và rút trích chương MD&A (Báo cáo Ban Điều hành) từ file PDF."""
         doc = pymupdf.open(pdf_path)
         total_pages = len(doc)
         
         page_scores = []
         for pno in range(total_pages):
             text = doc[pno].get_text().lower()
-            score = 0
-            for kw in self.mda_positive_kw:
-                score += text.count(kw) * 2
-            for kw in self.mda_negative_kw:
-                score -= text.count(kw) * 3
+            score = sum(text.count(kw) * 2 for kw in self.mda_positive_kw) - sum(text.count(kw) * 3 for kw in self.mda_negative_kw)
             page_scores.append((pno, score))
         
-        # Lọc các trang có điểm cao
-        relevant_pages = [pno for pno, score in page_scores if score >= 3]
-        
-        extracted_text = []
-        for pno in relevant_pages[:max_pages]:
-            extracted_text.append(doc[pno].get_text().strip())
-        
+        relevant_pages = sorted([pno for pno, score in page_scores if score >= 3][:max_pages])
+        extracted = [self.clean_text(doc[pno].get_text()) for pno in relevant_pages]
         doc.close()
-        return "\n\n".join(extracted_text)
+        return "\n\n".join([e for e in extracted if len(e) > 80])
 
     def extract_esg(self, pdf_path: str, max_pages: int = 20) -> str:
         """Tự động tìm và rút trích chương ESG từ file PDF."""
         doc = pymupdf.open(pdf_path)
-        total_pages = len(doc)
-        
         esg_pages = []
         for pno in range(len(doc)):
             text = doc[pno].get_text().lower()
@@ -71,47 +136,54 @@ class FinancialReportExtractor:
             if score >= 2:
                 esg_pages.append(pno)
 
-        extracted_text = []
-        for pno in esg_pages[:max_pages]:
-            extracted_text.append(doc[pno].get_text().strip())
-        
+        extracted = [self.clean_text(doc[pno].get_text()) for pno in esg_pages[:max_pages]]
         doc.close()
-        return "\n\n".join(extracted_text)
+        return "\n\n".join([e for e in extracted if len(e) > 80])
 
-    def extract_notes(self, pdf_path: str, max_pages: int = 60) -> str:
-        """Tự động tìm và rút trích Bản Thuyết minh Báo cáo Tài chính (Doanh nghiệp & Ngân hàng)."""
+    def extract_notes(self, pdf_path: str, max_pages: int = 25) -> str:
+        """
+        Bóc tách Thuyết minh BCTC Định tính (Targeted Narrative NOTES):
+        - Bỏ qua BCTC chính (Bảng CĐKT, KQKD, LCTT) và Báo cáo kiểm toán độc lập.
+        - Bỏ qua các trang chính sách kế toán chung (VAS boilerplate).
+        - Nhắm mục tiêu chính xác các đề mục có câu giải mã: Báo cáo bộ phận, Vay nợ, Lãi suất,
+          Dự phòng rủi ro, Cam kết ngoại bảng, Nợ tiềm tàng, Kiện tụng, Bên liên quan, Sự kiện sau niên độ.
+        - Lọc bỏ triệt để các cột số ma trận kế toán (Digit Wall Filter).
+        """
         doc = pymupdf.open(pdf_path)
-        notes_pages = []
-        found_start = False
-        
-        note_triggers = [
-            'THUYẾT MINH BÁO CÁO TÀI CHÍNH',
-            'BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH',
-            'CÁC THUYẾT MINH BÁO CÁO TÀI CHÍNH',
-            'THUYẾT MINH BCTC',
-            'B 09 – DN', 'B09-DN', 'B 09 - DN', 'B09/DN', 'B 09 – DN/HN', 'B09 - DN/HN',
-            'B05/TCTD', 'B 05/TCTD', 'B05 - TCTD', 'B05-TCTD', 'B 05 - TCTD',
-            'MẪU B 09', 'MẪU B09', 'MẪU B 05', 'MẪU B05'
-        ]
-        
+        candidates = []
         for pno in range(len(doc)):
             text = doc[pno].get_text()
-            text_upper = text.upper()
-            if not found_start:
-                # Bỏ qua các trang mục lục
-                is_toc = 'MỤC LỤC' in text_upper or ('NỘI DUNG' in text_upper and 'TRANG' in text_upper)
-                if not is_toc:
-                    if any(trig in text_upper for trig in note_triggers):
-                        found_start = True
-                    elif 'THUYẾT MINH' in text_upper and any(k in text_upper for k in ['CHÍNH SÁCH KẾ TOÁN', 'CƠ SỞ LẬP BÁO CÁO', 'ĐẶC ĐIỂM HOẠT ĐỘNG', 'BỘ PHẬN HỢP THÀNH']):
-                        found_start = True
-            if found_start:
-                notes_pages.append(text.strip())
-                if len(notes_pages) >= max_pages:
-                    break
-                    
+            text_lower = text.lower()
+
+            # 1. Bỏ qua trang BCTC chính / kiểm toán
+            if any(neg in text_lower for neg in self.negative_notes_pages):
+                continue
+
+            # 2. Bỏ qua trang chính sách kế toán lặp lại
+            if any(pol in text_lower for pol in self.policy_boilerplate):
+                continue
+
+            # 3. Phải nằm trong phạm vi Thuyết minh BCTC
+            is_notes = ('thuyết minh' in text_lower or 'b09' in text_lower or 'b05' in text_lower or 'mẫu số b' in text_lower or 'ghi chú' in text_lower)
+            if not is_notes:
+                continue
+
+            # 4. Chấm điểm mật độ xuất hiện của các đề mục giải mã định tính
+            score = sum(text_lower.count(kw) * 3 for kw in self.narrative_notes_kw)
+            if score >= 3:
+                candidates.append((pno, score))
+
+        # Chọn các trang có điểm giải thích cao nhất và giữ nguyên thứ tự xuất hiện
+        candidates.sort(key=lambda x: x[1], reverse=True)
+        selected_pages = sorted([pno for pno, _ in candidates[:max_pages]])
+
+        extracted = []
+        for pno in selected_pages:
+            cleaned = self.clean_text(doc[pno].get_text())
+            if len(cleaned) > 80:
+                extracted.append(cleaned)
         doc.close()
-        return "\n\n".join(notes_pages)
+        return "\n\n".join(extracted)
 
     def process_pdf(self, pdf_path: str, ticker: str, year: int, output_dir: str = "data/text/extracted_text"):
         """Xử lý 1 file PDF và lưu ra các file text chuẩn hóa."""
@@ -134,7 +206,7 @@ class FinancialReportExtractor:
         with open(notes_file, "w", encoding="utf-8") as f:
             f.write(notes_text)
             
-        print(f"[{ticker} {year}] Trích xuất thành công:")
+        print(f"[{ticker} {year}] Trích xuất định tính thành công:")
         print(f"   MD&A:       {len(mda_text):,} ký tự -> {mda_file}")
         print(f"   Thuyết minh:{len(notes_text):,} ký tự -> {notes_file}")
         print(f"   ESG:        {len(esg_text):,} ký tự -> {esg_file}")
@@ -153,7 +225,7 @@ class FinancialReportExtractor:
 
 if __name__ == "__main__":
     extractor = FinancialReportExtractor()
-    sample_pdf = "data/text/raw_pdf/FPT_BCTN_2023.pdf"
+    sample_pdf = "data/text/raw_pdf/FPT_BCTN_2025.pdf"
     if os.path.exists(sample_pdf):
-        res = extractor.process_pdf(sample_pdf, ticker="FPT", year=2023)
+        res = extractor.process_pdf(sample_pdf, ticker="FPT", year=2025)
         print("Kết quả:", res)

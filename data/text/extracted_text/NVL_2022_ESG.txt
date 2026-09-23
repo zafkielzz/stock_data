@@ -1,15 +1,10 @@
 NỘI DUNG
 ASEAN
 Hiệp hội các quốc gia Đông Nam Á
-AI
 Trí tuệ nhân tạo
 BCTC
-Báo cáo tài chính
 BCTN
-Báo cáo thường niên
-BĐS
 Bất động sản
-BV
 Bệnh viện
 CAGR
 Tỷ lệ tăng trưởng kép hàng năm
@@ -21,27 +16,21 @@ CBTT
 Công bố thông tin
 CNTT
 Công nghệ thông tin
-CPI
 Chỉ số giá tiêu dùng
 CPPT
 Cổ phần phổ thông
-CPƯĐ
 Cổ phần ưu đãi
 CSPT
 Chính sách phát triển
-CSR
 Trách nhiệm xã hội doanh nghiệp
-CT
 Công ty
 CTCP
 Công ty Cổ phần
 CTNY/ DNNY
 Công ty niêm yết/ Doanh nghiệp niêm yết
-D&B
 Thiết kế và xây dựng
 ĐBSCL
 Đồng bằng sông Cửu Long
-ĐH
 Đại học
 ĐHĐCĐ
 Đại hội đồng Cổ đông
@@ -49,40 +38,30 @@ Thiết kế và xây dựng
 Đầu tư và Bất động sản
 ĐT&PT
 Đầu tư và Phát triển
-ĐVT
 Đơn vị tính
 EBIT
 Thu nhập trước Lãi vay và Thuế
 EBITDA
 Thu nhập trước Lãi vay, Thuế và Khấu hao
-EPS
 Tỷ suất thu nhập trên cổ phần
-ESG
-Môi trường, Xã hội và Quản trị Công ty
 ESOP
-Phát hành cổ phần theo chương trình lựa chọn cho 
+Phát hành cổ phần theo chương trình lựa chọn cho
 người lao động
-FDI
 Đầu tư trực tiếp nước ngoài
 FMCG
 Ngành hàng tiêu dùng nhanh
 GDCK
 Giao dịch chứng khoán
-GDP
 Tổng sản phẩm nội địa
-GĐ
 Giai đoạn
-GRI
 Tổ chức Sáng kiến Báo cáo toàn cầu
 HĐQT
 Hội đồng Quản trị
-HNX
 Sở Giao dịch Chứng khoán Hà Nội
 HOSE/ HSX
 Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh
 IIRC
 Hội đồng Quốc tế về báo cáo tích hợp
-KN
 Kiêm nhiệm
 KQKD
 Kết quả kinh doanh
@@ -90,9 +69,7 @@ KSNB
 Kiểm soát nội bộ
 KTNB
 Kiểm toán nội bộ
-KTT
 Kế toán trưởng
-M&A
 Mua bán và sáp nhập
 MICE
 Các cuộc họp, ưu đãi, hội nghị và triển lãm
@@ -100,7 +77,6 @@ MTTQ
 Mặt trận Tổ quốc
 NCC/NT
 Nhà cung cấp/ Nhà thầu
-NĐT
 Nhà đầu tư
 Novaland/ NVL
 Tập đoàn Novaland/ Tập đoàn/ Công ty
@@ -115,20 +91,15 @@ Quản lý Quan hệ Khách hàng
 QLRR/ QTRR
 Quản lý rủi ro/ Quản trị rủi ro
 QTCT
-Quản trị công ty
 QTDN
 Quản trị doanh nghiệp
-ROA
 Khả năng sinh lời trên Tổng tài sản
-ROE
 Khả năng sinh lời trên Vốn chủ sở hữu
 SDGs
 Mục tiêu Phát triển bền vững
 SGDCK
 Sở Giao dịch Chứng Khoán
-SGX
 Sở Giao dịch Chứng Khoán Singapore
-SSC
 Ủy ban Chứng khoán Nhà nước
 TDTT
 Thể dục Thể thao
@@ -142,16 +113,13 @@ TNDN
 Thu nhập Doanh nghiệp
 TNHH
 Trách nhiệm hữu hạn
-TP./ Q./ H./ 
-P./ X.
+TP./ Q./ H./
 Thành phố/ Quận/ Huyện/ Phường/ Xã
 TP.HCM
 Thành phố Hồ Chí Minh
 TTCK
 Thị trường chứng khoán
-TTS
 Tổng tài sản
-TW
 Trung ương
 UBCK
 Ủy ban Chứng khoán
@@ -159,440 +127,823 @@ UBKT
 Uỷ ban Kiểm toán
 UBND
 Ủy ban nhân dân
-USD
 Đô la Mỹ
-VAT
 Thuế giá trị gia tăng
 VCSH
 Vốn chủ sở hữu
-VĐL
 Vốn điều lệ
-VND
-Việt Nam đồng
 Giới thiệu Tập đoàn Novaland
- 11
 Quá trình Hình thành và Phát triển
-13
 Giải thưởng Ấn tượng 2022
-15
 Những Sự kiện Tiêu biểu 2022
-17
 Tổng quan Tài chính 5 năm
-23
 Danh mục Dự án
-27
-Thông điệp Báo cáo Thường niên 2022
-3
-Tính chính xác và trung thực của Báo cáo 
+Tính chính xác và trung thực của Báo cáo
 Thường niên 2022
-4
 Thông điệp Nhà sáng lập - Chủ tịch HĐQT
-5
 Thông điệp Tổng Giám đốc
-7
-Báo cáo Hoạt động Kinh doanh của 
+Báo cáo Hoạt động Kinh doanh của
 Ban Tổng Giám đốc
-117
 Các Dự án đang phát triển
-123
 Hoạt động phát triển quỹ đất
-132
 Thông tin Cổ phiếu và Hoạt động Thị trường vốn
-133
 Báo cáo hoạt động Công ty con - Công ty liên kết
-141
 Những điểm nhấn Phát triển Bền vững 2022
-147
-Tiếp cận chiến lược và khung quản trị Phát triển 
+Tiếp cận chiến lược và khung quản trị Phát triển
 Bền vững
-148
 Hiệu quả hoạt động Phát triển Bền vững năm 2022
-153
 • Tác động kinh tế trực tiếp
-153
 • Tác động kinh tế gián tiếp
-155
 • Thực hành mua sắm bền vững
-157
 • Quản lý tác động môi trường
-159
 • Đầu tư và phát triển con người
-161
 • Giáo dục và đào tạo
-168
 • Sự hài lòng, an toàn và sức khỏe của Khách hàng
-174
 Tạo lập và chia sẻ giá trị
-175
-Tổng quan Kinh tế Việt Nam 2022 và 
-Dự báo 2023
-37
+Tổng quan Kinh tế Việt Nam 2022 và
 Tổng quan Thị trường bất động sản 2022
 và một số dự báo 2023
-41
-Chiến lược Phát triển
-45
-Tổng quan về Quản trị Doanh nghiệp Tập đoàn
-49
-Sơ đồ về Quản trị Công ty
-51
 Giới thiệu Hội đồng Quản trị
-53
 Giới thiệu Ban Điều hành và Ban Tổng Giám đốc
-57
-Báo cáo của Hội đồng Quản trị 
-61
-Báo cáo hoạt động của Thành viên độc lập 
+Báo cáo của Hội đồng Quản trị
+Báo cáo hoạt động của Thành viên độc lập
 HĐQT trong Ủy ban Kiểm toán
-79
 Hoạt động của Tiểu ban Chính sách Phát triển
-97
 Hoạt động của Tiểu ban Nhân sự
-99
 Hoạt động của Tiểu ban Lương thưởng
-101
 Quản trị Rủi ro
-103
 Tuân thủ Pháp luật
-107
 Quan hệ Nhà đầu tư
-108
-Đánh giá chung việc thực hiện các quy định về 
-Quản trị Công ty năm 2022
-113
-01
-04
-05
-02
-03
+Đánh giá chung việc thực hiện các quy định về
 TỔNG QUAN
 HOẠT ĐỘNG KINH DOANH
 PHÁT TRIỂN BỀN VỮNG
-CHIẾN LƯỢC PHÁT TRIỂN
 QUẢN TRỊ DOANH NGHIỆP
-CÁC THUẬT NGỮ VIẾT TẮT HIỆN HỮU 
-TẠI BÁO CÁO THƯỜNG NIÊN
-06
-BÁO CÁO TÀI CHÍNH
-Báo cáo Tài chính Kiểm toán Hợp nhất năm 2022 
-(VAS)
-193
-Báo cáo Tài chính Kiểm toán Riêng năm 2022 (VAS) 
+CÁC THUẬT NGỮ VIẾT TẮT HIỆN HỮU
 Tóm tắt
-305
 Thông tin liên hệ
-311
-Hệ thống giới thiệu và giao dịch sản phẩm 
+Hệ thống giới thiệu và giao dịch sản phẩm
 Novaland
-312
-BÁO CÁO THƯỜNG NIÊN 2022
 NOVALAND
-2
-1
 
-•	 Khai trương công viên giải trí ven biển 
-Circus Land tại NovaWorld Phan Thiet.
-•	 Khai trương tổ hợp dịch vụ - tiện ích tiêu 
-chuẩn quốc tế tại Đại lộ shophouse – 
-NovaWorld Ho Tram.
-•	 Được vinh danh “Nhà Phát triển Bất động 
-sản phát triển bền vững tốt nhất Việt Nam 
-2022” (Best Sustainable Developer Vietnam 
-2022) và “Doanh nghiệp Bất động sản thực 
-hiện trách nhiệm xã hội tốt nhất Việt Nam 
-2022” (Special Recognition Awards for CSR 
-Vietnam 2022) của Dot Property Vietnam. 
-•	 Cùng Liên minh tái chế bao bì Việt Nam 
-(PRO Vietnam) tổ chức “Ngày hội sống xanh”, 
-hoạt động thuộc chuỗi chương trình nhằm 
-nâng cao ý thức phân loại và thu gom rác 
-thải tái chế tại nguồn, khuyến khích ý thức 
-sống xanh lan tỏa trong cộng đồng. 
-•	 Novaland hưởng ứng kêu gọi của Chính phủ về công tác 
-xây dựng nhà ở xã hội, cam kết triển khai 200.000 đơn vị ở.
-•	 Trao tặng 500 triệu đồng vào Quỹ “Vì biển đảo quê hương 
-– Vì tuyến đầu Tổ quốc”.
-•	 Được vinh danh “Top 50 Doanh nghiệp phát triển bền vững 
-2022” trong chương trình Bình chọn Doanh nghiệp 
-phát triển bền vững 2022 (Corporate Sustainability 
-Awards) do Tạp chí Nhịp cầu Đầu tư tổ chức.
-QUÝ III/2022
-•	 Kỷ niệm 30 năm sinh nhật Tập đoàn – Novaland vinh dự 
-đón nhận Huân chương lao động hạng Nhì. 
-•	 Năm thứ tư đồng hành cùng Quỹ phát triển Đại học 
-Quốc gia - Trao 200 suất học bổng cho học sinh – 
-sinh viên vượt khó học tốt.
-•	 Đồng hành tài trợ cuộc thi “Khát vọng Việt Nam: 
-Đưa Phan Thiết trở thành điểm đến du lịch MICE và 
-Wellness hàng đầu thế giới năm 2045” tại tỉnh Bình Thuận.
-Khai trương tổ hợp dịch vụ - tiện ích tiêu chuẩn quốc tế 
-tại Đại lộ shophouse – NovaWorld Ho Tram.
-Khai trương công viên giải trí ven biển Circus Land 
-tại NovaWorld Phan Thiet.
-Novaland vinh dự đón nhận Huân chương lao động hạng Nhì 
-Đồng hành tài trợ cuộc thi “Khát vọng Việt Nam: Đưa Phan Thiết trở thành điểm đến 
-du lịch MICE và Wellness hàng đầu thế giới năm 2045” tại tỉnh Bình Thuận 
-BÁO CÁO THƯỜNG NIÊN 2022
+GIẢI THƯỞNG ẤN TƯỢNG 2022
+Top 10 “Nhà phát triển Bất động sản tiêu biểu 2022”
+do Tạp chí Nhịp cầu Đầu tư bình chọn
+“Nhà Phát triển Bất động sản phát triển bền vững
+tốt nhất Việt Nam 2022”
+do Dot Property Vietnam trao tặng
+“Doanh nghiệp Bất động sản thực hiện trách nhiệm
+xã hội tốt nhất Việt Nam 2022”
+do Dot Property Vietnam trao tặng
+Thương hiệu Quốc gia Việt Nam năm 2022
+Top 10 “Nhà phát triển Bất động sản hàng đầu Việt Nam năm 2021”
+do Tạp chí Bất động sản Việt Nam và Viện nghiên cứu Bất động sản Việt Nam bình chọn
+Top 50 “Doanh nghiệp phát triển bền vững 2022”
+do Tạp chí Nhịp cầu Đầu tư bình chọn
+Top 10 “Thương hiệu tăng trưởng ấn tượng 2022”
+do Tạp chí Kinh tế Việt Nam bình chọn
 TỔNG QUAN
-20
-19
+
+•	 Khai trương công viên giải trí ven biển
+Circus Land tại NovaWorld Phan Thiet.
+•	 Khai trương tổ hợp dịch vụ - tiện ích tiêu
+chuẩn quốc tế tại Đại lộ shophouse –
+NovaWorld Ho Tram.
+•	 Được vinh danh “Nhà Phát triển Bất động
+sản phát triển bền vững tốt nhất Việt Nam
+2022” (Best Sustainable Developer Vietnam
+2022) và “Doanh nghiệp Bất động sản thực
+hiện trách nhiệm xã hội tốt nhất Việt Nam
+2022” (Special Recognition Awards for CSR
+Vietnam 2022) của Dot Property Vietnam.
+•	 Cùng Liên minh tái chế bao bì Việt Nam
+(PRO Vietnam) tổ chức “Ngày hội sống xanh”,
+hoạt động thuộc chuỗi chương trình nhằm
+nâng cao ý thức phân loại và thu gom rác
+thải tái chế tại nguồn, khuyến khích ý thức
+sống xanh lan tỏa trong cộng đồng.
+•	 Novaland hưởng ứng kêu gọi của Chính phủ về công tác
+xây dựng nhà ở xã hội, cam kết triển khai 200.000 đơn vị ở.
+•	 Trao tặng 500 triệu đồng vào Quỹ “Vì biển đảo quê hương
+– Vì tuyến đầu Tổ quốc”.
+•	 Được vinh danh “Top 50 Doanh nghiệp phát triển bền vững
+2022” trong chương trình Bình chọn Doanh nghiệp
+phát triển bền vững 2022 (Corporate Sustainability
+Awards) do Tạp chí Nhịp cầu Đầu tư tổ chức.
+•	 Kỷ niệm 30 năm sinh nhật Tập đoàn – Novaland vinh dự
+đón nhận Huân chương lao động hạng Nhì.
+•	 Năm thứ tư đồng hành cùng Quỹ phát triển Đại học
+Quốc gia - Trao 200 suất học bổng cho học sinh –
+sinh viên vượt khó học tốt.
+•	 Đồng hành tài trợ cuộc thi “Khát vọng Việt Nam:
+Đưa Phan Thiết trở thành điểm đến du lịch MICE và
+Wellness hàng đầu thế giới năm 2045” tại tỉnh Bình Thuận.
+Khai trương tổ hợp dịch vụ - tiện ích tiêu chuẩn quốc tế
+tại Đại lộ shophouse – NovaWorld Ho Tram.
+Khai trương công viên giải trí ven biển Circus Land
+tại NovaWorld Phan Thiet.
+Novaland vinh dự đón nhận Huân chương lao động hạng Nhì
+Đồng hành tài trợ cuộc thi “Khát vọng Việt Nam: Đưa Phan Thiết trở thành điểm đến
+du lịch MICE và Wellness hàng đầu thế giới năm 2045” tại tỉnh Bình Thuận
+TỔNG QUAN
+
+Trong năm 2022, Novaland đạt được những giải thưởng uy tín trong nhiều lĩnh vực như:
+•	 Huân chương Lao động Hạng Nhì do Chủ tịch Nước trao tặng ghi nhận những nỗ lực đóng góp cho cộng đồng
+xã hội, đặc biệt là công tác tham gia phòng chống dịch Covid-19 tại TP.HCM cũng như các tỉnh thành khác;
+•	 Giải thưởng “Nhà phát triển BĐS PTBV tốt nhất Việt Nam 2022 và Doanh nghiệp BĐS thực hiện trách nhiệm xã hội
+tốt nhất Việt Nam 2022” tại Lễ trao giải “Dot Property Vietnam Awards 2022” - giải thưởng BĐS uy tín hàng đầu
+Đông Nam Á nhằm tôn vinh các doanh nghiệp và dự án có nhiều đóng góp vào sự phát triển bền vững ngành;
+•	 Giải thưởng “Top 10 Thương hiệu tăng trưởng ấn tượng 2022” tại Lễ vinh danh “Thương hiệu mạnh Việt Nam 2022”.
+Đây là sự kiện thường niên do Tạp chí Kinh tế Việt Nam - VnEconomy - Vietnam Economic Times tổ chức, ghi nhận
+những thương hiệu uy tín, có hoạt động hiệu quả, cũng như đạt được nhiều thành tích ấn tượng trên hành trình
+phục hồi và phát triển sau đại dịch Covid-19;
+•	 Đô thị sinh thái thông minh Aqua City do Novaland đầu tư và phát triển được bình chọn là “Dự án có hạ tầng
+công cộng tiêu biểu” tại Chương trình bình chọn “BĐS tiêu biểu Việt Nam 2022” do Tạp chí Nhịp Cầu Đầu Tư tổ
+chức. Cũng tại sự kiện này, Novaland được xướng tên trong “Top 10 Nhà phát triển BĐS tiêu biểu”. Đây là lần thứ
+04 liên tiếp CT được Tạp chí Nhịp Cầu Đầu Tư trao tặng giải thưởng này;
+•	 Với những đóng góp tích cực cho cộng đồng cùng kế hoạch phát triển kinh doanh bền vững, Novaland được vinh
+danh tại Lễ công bố các sản phẩm đạt Thương hiệu Quốc gia Việt Nam 2022 do Hội đồng Thương hiệu Quốc gia
+và Bộ Công thương tổ chức và bình chọn;
+•	 Giải thưởng “Top 50 Doanh nghiệp PTBV 2022” tại Chương trình bình chọn “Doanh nghiệp PTBV 2022”.
+Các giải thưởng, thành tích đạt được:
+2. KẾ HOẠCH, ĐỊNH HƯỚNG CỦA HĐQT NĂM 2023
+3. ĐA DẠNG CƠ CẤU
+Năm 2023, với chủ trương tái cấu trúc để đảm bảo ổn định hoạt động sản xuất kinh doanh trước những khó khăn
+và thách thức của thị trường, CT tập trung vào ngành nghề cốt lõi là “Đầu tư và Phát triển BĐS”. Với các nguồn
+lực hiện có, Novaland tiếp tục nỗ lực triển khai các hoạt động bán hàng, thu xếp nguồn vốn, cắt giảm các khoản
+đầu tư chưa thật sự cần thiết để tối ưu chi phí, tập trung nguồn lực tối đa hoàn thiện các Dự án trọng điểm, bàn
+giao nhà theo từng giai đoạn cho khách hàng, linh hoạt điều chỉnh kế hoạch triển khai xây dựng các phân khu dự
+án phù hợp với tình hình. Đồng thời, HĐQT sẽ triển khai các hoạt động tái cấu trúc nợ và triển khai kế hoạch phát
+hành mới cổ phiếu, trái phiếu chuyển đổi và các công cụ khác để tăng vốn cho hoạt động kinh doanh, tái cấu trúc
+tài chính, thanh toán các khoản nợ đến hạn của CT.
+Bên cạnh đó, Tập đoàn tiếp tục thay đổi và tinh gọn bộ máy quản trị, điều hành theo lộ trình tái cấu trúc
+toàn diện. Theo đó, HĐQT và Ban Điều hành sẽ có sự phân quyền độc lập và tách bạch giữa hoạt động quản trị và
+hoạt động điều hành, đảm bảo từng cá nhân được giao quyền và trách nhiệm rõ ràng, từng bước xây dựng một
+“HĐQT chuyên trách hoạt động độc lập với Ban Điều hành theo hướng chuyên nghiệp và chuẩn mực quốc tế”.
+Đối với hoạt động QTCT, HĐQT chỉ đạo tiếp tục triển khai rà soát các văn bản liên quan đến hoạt động QTCT,
+đảm bảo hoạt động QTCT tuân thủ các quy định pháp luật, chú trọng các hoạt động QTCT gắn liền với mục tiêu
+PTBV như QLRR hiệu quả, bảo đảm quyền lợi của Cổ đông trên cơ sở công bằng, hài hòa lợi ích của Cổ đông,
+CT và CBLQ.
+Novaland duy trì tỷ lệ Thành viên độc lập HĐQT luôn tuân thủ cơ cấu tối thiểu đối với HĐQT của CTNY (tối thiểu
+01/03 tổng số Thành viên HĐQT là Thành viên độc lập), tại Nghị quyết ĐHĐCĐ gần nhất (thông qua bằng hình
+thức lấy ý kiến Cổ đông bằng văn bản), tỷ lệ Thành viên độc lập HĐQT trên tổng số Thành viên HĐQT là 02/05.
+Ngoài ra, HĐQT hiện tại của Tập đoàn được duy trì sự đa dạng cơ cấu (02/05 Thành viên HĐQT là nữ), đảm bảo
+sự cân đối giữa các thành viên có kiến thức và kinh nghiệm về pháp luật, tài chính, lĩnh vực hoạt động kinh doanh
+của Tập đoàn.
+HUÂN CHƯƠNG
+LAO ĐỘNG
+HẠNG NHÌ
+NHÀ PHÁT TRIỂN BĐS
+PHÁT TRIỂN
+NHÀ PHÁT TRIỂN BĐS
+TIÊU BIỂU 2022
+THƯƠNG HIỆU TĂNG TRƯỞNG
+Garden Palace tại Đô thị sinh thái thông minh Aqua City (Biên Hòa, Đồng Nai)
+QUẢN TRỊ DOANH NGHIỆP
+
+Hệ số đòn bẩy tài chính giai đoạn 2018-2022
+(ĐVT: Lần)
+Hệ số nợ vay ròng/Vốn chủ sỡ hữu
+Hệ số nợ vay/Tổng tài sản
+(Nguồn: Tập đoàn Novaland)
+Chỉ tiêu về khả năng thanh toán giai đoạn 2018-2022
+(ĐVT: Lần)
+Chỉ số thanh toán ngắn hạn
+Chỉ số thanh toán nhanh
+(Nguồn: Tập đoàn Novaland)
+Thông qua các chỉ tiêu về khả năng thanh toán
+qua các năm cho thấy sức khỏe tài chính trong
+ngắn hạn của Tập đoàn đang giảm dần đều. Lý do
+chủ yếu đến từ việc nguồn Tiền và tương đương
+tiền đã giảm sút rõ rệt so với thời điểm cuối năm
+2021 với mục đích chi trả gốc/ lãi tới hạn mà chưa
+Với nhiều thử thách và biến động của năm 2022,
+Ban TGĐ đã nhanh chóng tập trung vào kế hoạch
+tái cấu trúc nhằm duy trì các hoạt động kinh doanh
+cốt lõi của Tập đoàn. Trong bối cảnh dòng tiền và
+thanh khoản khó khăn, việc tập trung tái cơ cấu
+nhằm thể hiện sự nỗ lực của Công ty trong việc
+đảm bảo hài hòa lợi ích cho CBLQ. Novaland hiện
+đang tiến hành tái cấu trúc toàn diện với sự hỗ trợ
+Tập đoàn luôn kiên định và nhất quán với chiến
+lược và mục tiêu đã đề ra, lồng ghép và tích hợp
+các khía cạnh PTBV trong tổng thể hoạt động và
+đảm bảo nâng cao trách nhiệm xã hội của Doanh
+nghiệp. Tập đoàn cam kết tiếp tục đầu tư và không
+ngừng nỗ lực tạo lập và chia sẻ các giá trị bền
+vững, đóng góp vào sự phát triển và tăng trưởng
+toàn diện của đất nước.
+Trong năm 2022, Tập đoàn Novaland tiếp tục
+đóng góp cho cộng đồng hơn 50 tỷ đồng, cho các
+chương trình có tác động lâu dài cho sự phát triển
+đất nước, thực hiện nhiều chương trình an sinh xã
+hội, hỗ trợ xóa đói giảm nghèo và các hoạt động
+mang tính bền vững, có tác động lâu dài đến sự
+phát triển của địa phương như: Học bổng đào tạo
+Hướng đến năm 2023, Novaland tiếp tục tập trung
+vào phát triển các sản phẩm BĐS trong Giai đoạn
+2 của Tập đoàn tại phân khúc BĐS trung và cao
+cấp, với các dòng sản phẩm chính bao gồm BĐS
+Đô thị tại TP.HCM và các tỉnh lân cận, BĐS Du lịch
+tại các thành phố có tiềm năng du lịch lớn.
+Trong đó, ưu tiên hàng đầu của Tập đoàn là xây
+dựng và bàn giao các BĐS theo từng giai đoạn
+cho Khách hàng, đồng thời cơ cấu lại cấu trúc tài
+chính nhằm đảm bảo quyền lợi cho Khách hàng,
+các Bên cho vay, Trái chủ, NCC, Cổ đông…
+có thêm phương án huy động vốn. Năm 2022, hệ
+số thanh toán ngắn hạn giảm về mức 2,53 lần
+so với mức 3,17 lần năm 2021. Trong khi đó, hệ số
+thanh toán nhanh cuối năm 2022 là 0,81 lần, giảm
+từ mức 0,93 lần trong năm 2021.
+và tư vấn của nhiều Đối tác chuyên nghiệp, uy tín
+hàng đầu… nhằm đưa ra những giải pháp cơ cấu
+tài chính phù hợp, tập trung vào hoạt động kinh
+doanh cốt lõi, hơn hết là nỗ lực để thực hiện các
+quyền lợi của các Trái chủ, Khách hàng và CBLQ.
+Công ty cũng đang tập trung xây dựng và bàn
+giao các sản phẩm BĐS theo từng giai đoạn, từng
+bước ổn định hoạt động sản xuất kinh doanh.
+nguồn nhân lực tại chỗ, các hoạt động xúc tiến
+đầu tư - du lịch địa phương, các hoạt động văn
+hóa - nghệ thuật nhằm duy trì và phát huy bản sắc
+dân tộc… Đối với trách nhiệm về môi trường, Tập
+đoàn đã và đang tăng cường công tác quản lý
+nhằm kiểm soát các tác động ảnh hưởng đến môi
+trường, đảm bảo sử dụng hiệu quả các nguồn tài
+nguyên, nghiên cứu triển khai các sản phẩm công
+trình thông minh, áp dụng công nghệ mới trong
+hoạt động xây dựng phù hợp với từng dự án đến
+các giải pháp sử dụng năng lượng tiết kiệm hiệu
+quả góp phần giảm phát thải khí nhà kính.
+NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, CHÍNH SÁCH, QUẢN LÝ
+TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA TẬP ĐOÀN
+KẾ HOẠCH KINH DOANH NĂM 2023
+(Vui lòng xem thêm nội dung đánh giá chi tiết về Người lao
+động, trách nhiệm của Doanh nghiệp và các chỉ tiêu môi
+trường được báo cáo trong Chương 05 - PTBV)
+HOẠT ĐỘNG KINH DOANH
 
 NƠI LÀM VIỆC
 TỐT NHẤT CHÂU Á
-HỖ TRỢ
 VIỆC LÀM
-1.000+
 HỖ TRỢ CHO
 CỘNG ĐỒNG ĐỊA PHƯƠNG
-50+ TỶ ĐỒNG
 TRONG 04 NĂM LIÊN TIẾP
-Cụ thể hóa Chiến lược tạo lập và chia 
-sẻ các giá trị bền vững gắn với các mục 
-tiêu PTBV của Liên Hợp Quốc (SDGs), 
-Tập đoàn Novaland từng bước thiết lập 
-hoàn thiện khung quản trị cho PTBV theo 
-các thông lệ quốc tế. Tập đoàn luôn kiên định 
-nhất quán trong gắn kết toàn diện với CBLQ 
-và đảm bảo tích hợp các yêu cầu quản trị 
-PTBV trong từng lĩnh vực hoạt động, nhằm 
-nâng cao khả năng thích ứng trong bối cảnh 
-mới và góp phần quan trọng thực hiện các 
+Cụ thể hóa Chiến lược tạo lập và chia
+sẻ các giá trị bền vững gắn với các mục
+tiêu PTBV của Liên Hợp Quốc (SDGs),
+Tập đoàn Novaland từng bước thiết lập
+hoàn thiện khung quản trị cho PTBV theo
+các thông lệ quốc tế. Tập đoàn luôn kiên định
+nhất quán trong gắn kết toàn diện với CBLQ
+và đảm bảo tích hợp các yêu cầu quản trị
+PTBV trong từng lĩnh vực hoạt động, nhằm
+nâng cao khả năng thích ứng trong bối cảnh
+mới và góp phần quan trọng thực hiện các
 mục tiêu kiến tạo xã hội bền vững.
-Tập đoàn Novaland tham gia tích cực vào 
-các hoạt động của Hội đồng Doanh nghiệp 
-Việt Nam vì sự PTBV từ năm 2018 với mục 
-đích thúc đẩy và thực hiện thành công các 
+Tập đoàn Novaland tham gia tích cực vào
+các hoạt động của Hội đồng Doanh nghiệp
+Việt Nam vì sự PTBV từ năm 2018 với mục
+đích thúc đẩy và thực hiện thành công các
 mục tiêu PTBV.
-Gắn kết với 17 mục tiêu PTBV của Liên Hợp Quốc (SDGs), Novaland nhận diện và tích hợp các mục tiêu ưu tiên trọng yếu 
+Gắn kết với 17 mục tiêu PTBV của Liên Hợp Quốc (SDGs), Novaland nhận diện và tích hợp các mục tiêu ưu tiên trọng yếu
 dựa trên mức độ tác động đến tổng thể hoạt động phù hợp với Chiến lược PTBV, đảm bảo hài hòa với lợi ích của CBLQ.
-3
 SỨC KHỎE VÀ
 CÓ CUỘC SỐNG TỐT
-4
 GIÁO DỤC
 CÓ CHẤT LƯỢNG
-7
 NĂNG LƯỢNG SẠCH
 VỚI GIÁ THÀNH HỢP LÝ
-8
 CÔNG VIỆC TỐT &
 TĂNG TRƯỞNG KINH TẾ
-9
 CÔNG NGHIỆP, SÁNG TẠO
 & PHÁT TRIỂN HẠ TẦNG
-12
 TIÊU THỤ VÀ SẢN XUẤT
 CÓ TRÁCH NHIỆM
-13
 HÀNH ĐỘNG
 VỀ KHÍ HẬU
 XÓA NGHÈO
 NƯỚC SẠCH
 & VỆ SINH
-GIẢM
 BẤT BÌNH ĐẲNG
 CÁC THÀNH PHỐ &
 CỘNG ĐỒNG BỀN VỮNG
 TÀI NGUYÊN &
 MÔI TRƯỜNG ĐẤT LIỀN
-QUAN HỆ ĐỐI TÁC 
+QUAN HỆ ĐỐI TÁC
 VÌ CÁC MỤC TIÊU
-1
-6
-10
-11
-15
-17
-CÁC MỤC TIÊU PTBV 
+CÁC MỤC TIÊU PTBV
 SDG ƯU TIÊN
 ĐỐI VỚI NOVALAND
 CÁC MỤC TIÊU SDG
 NOVALAND THAM GIA
 ĐÓNG GÓP VÀ HỖ TRỢ
-NHỮNG ĐIỂM NHẤN 
+NHỮNG ĐIỂM NHẤN
 PHÁT TRIỂN BỀN VỮNG 2022
-TIẾP CẬN CHIẾN LƯỢC VÀ KHUNG 
+TIẾP CẬN CHIẾN LƯỢC VÀ KHUNG
 QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG
-CHIẾN LƯỢC VÀ KHUNG QUẢN TRỊ PHÁT TRIỂN 
-BỀN VỮNG ĐƯỢC XÂY DỰNG TRÊN MÔ HÌNH 
+CHIẾN LƯỢC VÀ KHUNG QUẢN TRỊ PHÁT TRIỂN
+BỀN VỮNG ĐƯỢC XÂY DỰNG TRÊN MÔ HÌNH
 4P TRÊN CÁC PHƯƠNG DIỆN SAU:
-17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA 
+17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA
 LIÊN HIỆP QUỐC
 PERFORMANCE
-1
 Hiệu quả hoạt động
-và tăng trưởng bền vững 
+và tăng trưởng bền vững
 PEOPLE
-2
 Đầu tư phát triển con người
 PLANET
-3
-Quản lý các tác động môi trường 
+Quản lý các tác động môi trường
 PARTNERSHIP
-4
-Tạo lập và chia sẻ giá trị chung 
-thông qua mối quan hệ đối tác 
-BÁO CÁO THƯỜNG NIÊN 2022
-148
+Tạo lập và chia sẻ giá trị chung
+thông qua mối quan hệ đối tác
 PHÁT TRIỂN BỀN VỮNG
-147
 
 Cơ cấu quản trị
 Danh sách các nhóm bên liên quan
 Nhận diện và lựa chọn CBLQ
-Phương pháp tiếp cận đối với sự 
+Phương pháp tiếp cận đối với sự
 tham gia của CBLQ
-Nhằm đảm bảo thực thi Chiến lược PTBV và 
-hiện thực hóa các mục tiêu đã đề ra, Hội đồng 
-PTBV Tập đoàn Novaland được thành lập từ 
-năm 2016 gồm các chuyên gia độc lập với bề 
-dày kinh nghiệm thực tiễn. Hội đồng PTBV cố 
-vấn HĐQT xem xét và phê chuẩn chiến lược, 
-chính sách, các chương trình hành động PTBV 
-của Tập đoàn. Hội đồng PTBV đóng vai trò quan 
-trọng trong việc tư vấn HĐQT phê chuẩn những 
-sáng kiến gắn kết CBLQ, theo dõi và đánh giá 
-việc thiết lập, tích hợp các trách nhiệm về đạo 
-đức, chính trực, tuân thủ về xã hội và môi trường 
-vào các hoạt động kinh doanh. Mục đích nhằm 
-đảm bảo sự sẵn sàng các chính sách, các tiêu 
-chuẩn, các hệ thống và nguồn lực cần thiết để 
-nhận diện và hành động phù hợp với các thông 
-lệ quốc tế trên các lĩnh vực môi trường, xã hội 
-và quản trị. Tiếp tục triển khai Giai đoạn 2 Chiến 
-lược phát triển, Hội đồng PTBV đã kịp thời tham 
-vấn với HĐQT về các kế hoạch, nhiệm vụ quan 
-trọng trong xây dựng năng lực thích ứng với các 
+Nhằm đảm bảo thực thi Chiến lược PTBV và
+hiện thực hóa các mục tiêu đã đề ra, Hội đồng
+PTBV Tập đoàn Novaland được thành lập từ
+năm 2016 gồm các chuyên gia độc lập với bề
+dày kinh nghiệm thực tiễn. Hội đồng PTBV cố
+vấn HĐQT xem xét và phê chuẩn chiến lược,
+chính sách, các chương trình hành động PTBV
+của Tập đoàn. Hội đồng PTBV đóng vai trò quan
+trọng trong việc tư vấn HĐQT phê chuẩn những
+sáng kiến gắn kết CBLQ, theo dõi và đánh giá
+việc thiết lập, tích hợp các trách nhiệm về đạo
+đức, chính trực, tuân thủ về xã hội và môi trường
+vào các hoạt động kinh doanh. Mục đích nhằm
+đảm bảo sự sẵn sàng các chính sách, các tiêu
+chuẩn, các hệ thống và nguồn lực cần thiết để
+nhận diện và hành động phù hợp với các thông
+lệ quốc tế trên các lĩnh vực môi trường, xã hội
+và quản trị. Tiếp tục triển khai Giai đoạn 2 Chiến
+lược phát triển, Hội đồng PTBV đã kịp thời tham
+vấn với HĐQT về các kế hoạch, nhiệm vụ quan
+trọng trong xây dựng năng lực thích ứng với các
 rủi ro đặc thù trong bối cảnh bình thường mới.
-GRI 
-102-18
-GRI 
-102-40
-GRI 
-102-42
-GRI 
-102-43
-Gắn kết CBLQ là cơ sở và nền tảng quan trọng nhằm thực 
-thi Chiến lược PTBV và sự phát triển ổn định lâu dài của 
-Tập đoàn. Novaland luôn đề cao yêu cầu minh bạch và 
-trách nhiệm giải trình như tôn chỉ hành động, tiến tới xây 
-dựng các mối quan hệ hợp tác và tin cậy với các bên. 
-Novaland đã tạo điều kiện để các bên có thể chia sẻ một 
-cách đầy đủ, chân thực nhất các vấn đề các bên quan 
-tâm, kỳ vọng; thông qua việc sử dụng những cách thức 
-giao tiếp riêng biệt, phù hợp với từng bên liên quan, như: 
-đối thoại trực tiếp, website, thông tin trên các phương tiện 
-truyền thông đại chúng, khảo sát mức độ hài lòng, ĐHĐCĐ 
-Thường niên, hội nghị/ hội thảo gặp gỡ Nhà đầu tư, Sàn 
-Giao dịch, BCTN, Báo cáo hàng tháng/ hàng quý, các cuộc 
+Gắn kết CBLQ là cơ sở và nền tảng quan trọng nhằm thực
+thi Chiến lược PTBV và sự phát triển ổn định lâu dài của
+Tập đoàn. Novaland luôn đề cao yêu cầu minh bạch và
+trách nhiệm giải trình như tôn chỉ hành động, tiến tới xây
+dựng các mối quan hệ hợp tác và tin cậy với các bên.
+Novaland đã tạo điều kiện để các bên có thể chia sẻ một
+cách đầy đủ, chân thực nhất các vấn đề các bên quan
+tâm, kỳ vọng; thông qua việc sử dụng những cách thức
+giao tiếp riêng biệt, phù hợp với từng bên liên quan, như:
+đối thoại trực tiếp, website, thông tin trên các phương tiện
+truyền thông đại chúng, khảo sát mức độ hài lòng, ĐHĐCĐ
+Thường niên, hội nghị/ hội thảo gặp gỡ Nhà đầu tư, Sàn
+Giao dịch, BCTN, Báo cáo hàng tháng/ hàng quý, các cuộc
 họp và các kênh liên lạc khác (email, điện thoại…).
-Với khát vọng tạo ra giá trị vượt trội, Novaland luôn đáp 
-ứng yêu cầu ngày càng cao của CBLQ bằng sự tận tâm và 
-niềm đam mê, bên cạnh quy trình vận hành quản lý chuyên 
+Với khát vọng tạo ra giá trị vượt trội, Novaland luôn đáp
+ứng yêu cầu ngày càng cao của CBLQ bằng sự tận tâm và
+niềm đam mê, bên cạnh quy trình vận hành quản lý chuyên
 nghiệp theo thông lệ quốc tế.
 Khách hàng
-Nhà thầu - 
+Nhà thầu -
 Nhà cung cấp
 Nhân viên
-Cộng đồng
-0,0
-0,0
-1,0
-2,0
-3,0
-4,0
-SỰ PHỤ THUỘC CỦA CÁC BÊN LIÊN 
+SỰ PHỤ THUỘC CỦA CÁC BÊN LIÊN
 QUAN ĐẾN NOVALAND
 ẢNH HƯỞNG ĐẾN NOVALAND
-1,0
-2,0
-3,0
-4,0
-Cổ đông & 
+Cổ đông &
 Nhà đầu tư
 Chính phủ
-Ngân hàng & 
+Ngân hàng &
 Tổ chức tín dụng
 ĐÁNH GIÁ CÁC BÊN LIÊN QUAN
 CƠ CẤU QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG
 GẮN KẾT CÁC BÊN LIÊN QUAN
-HỘI ĐỒNG 
 PHÁT TRIỂN
- BỀN VỮNG
+BỀN VỮNG
 ỦY BAN
- KIỂM TOÁN
+KIỂM TOÁN
 TIỂU BAN
-CHÍNH SÁCH 
+CHÍNH SÁCH
 PHÁT TRIỂN
-TIỂU BAN 
+TIỂU BAN
 LƯƠNG THƯỞNG
-TIỂU BAN 
+TIỂU BAN
 NHÂN SỰ
-CÁC PHÒNG BAN 
+CÁC PHÒNG BAN
 TRỰC THUỘC BAN TGĐ
 CÁC KHỐI/ BAN
-ĐẠI HỘI ĐỒNG
 CỔ ĐÔNG
 HỘI ĐỒNG QUẢN TRỊ
 BAN TỔNG GIÁM ĐỐC
-T
-R
-Á
-C
-H
- 
-N
-H
-I
-Ệ
-M
-G
-I
-Ả
-I
- 
-T
-R
-Ì
-N
-H
-T
-Í
-N
-H
-T
-R
-Ọ
-N
-G
- 
-Y
-Ế
-U
-XÁC
-ĐỊNH
-ƯU
-TIÊN
-GẮN
-KẾT
-ĐÁNH
-GIÁ
-PHÂN
-PHỐI
- 
- 
- 
-T
-Í
-N
-H
-G
-Ắ
-N
- 
-B
-Ó
-BÁO CÁO THƯỜNG NIÊN 2022
 PHÁT TRIỂN BỀN VỮNG
-150
-149
+
+Các vấn đề PTBV trong chuỗi giá trị Tập
+đoàn mang tính đặc thù ngành và các thông
+lệ quốc tế về quản trị bền vững được rà soát,
+phân tích trong bước xem xét ưu tiên. Theo
+đó, Tập đoàn Novaland tái khẳng định chiến
+lược phát triển theo định hướng bền vững,
+góp phần thúc đẩy và kiến tạo một cộng
+đồng vững mạnh, xã hội công bằng.
+Nội dung đánh giá trọng yếu cập nhật theo
+bối cảnh mới phù hợp với định hướng chiến
+lược của Tập đoàn, được xem xét bởi Lãnh
+đạo và Quản lý cấp cao. Kết quả phân tích
+lĩnh vực trọng yếu theo các cột trụ kinh tế,
+môi trường và xã hội thuộc các mảng hoạt
+động ưu tiên của chiến lược PTBV được trình
+bày trên ma trận.
+XÁC NHẬN
+XEM XÉT KẾT QUẢ
+Đánh giá sơ bộ để
+xác định các vấn đề
+quan
+trọng
+phát sinh liên quan đến
+hoạt động kinh doanh
+và các mối quan tâm
+của CBLQ.
+Phân tích, đánh giá cho
+điểm mỗi chủ đề trên
+các khía cạnh đảm bảo
+lợi ích của CBLQ và
+mức độ ảnh hưởng
+đến Novaland.
+Các chủ đề trọng yếu
+được lựa chọn sẽ được
+xác nhận bởi các
+cấp quản lý và trưởng
+các Khối Phòng Ban
+liên quan.
+Các cấp quản lý xem xét,
+đánh giá các yếu tố
+trọng yếu được lựa chọn
+đã được điều chỉnh cho
+phù hợp với chiến lược
+kinh doanh của Novaland.
+ƯU TIÊN
+XÁC ĐỊNH
+ẢNH HƯỞNG ĐẾN CÁC BÊN LIÊN QUAN
+ẢNH HƯỞNG ĐẾN NOVALAND
+Đảm bảo chất lượng sản phẩm dịch vụ
+Tác động kinh tế trực tiếp
+Tác động kinh tế gián tiếp
+Thực hành mua sắm bền vững
+Vật liệu
+Năng lượng
+Nước
+Quan hệ lao động
+An toàn và sức khỏe nghề nghiệp
+Giáo dục và đào tạo
+Đầu tư phát triển cộng đồng
+Đa dạng và cơ hội bình đẳng
+Sự hài lòng của khách hàng
+An toàn và sức khỏe khách hàng
+Nước thải và chất thải
+Tuân thủ về môi trường
+Đổi mới công nghệ
+Việc làm
+HIỆU QUẢ HOẠT ĐỘNG KINH TẾ
+VÀ TĂNG TRƯỞNG BỀN VỮNG
+QUẢN LÝ CÁC TÁC ĐỘNG
+MÔI TRƯỜNG
+ĐẦU TƯ PHÁT TRIỂN
+CON NGƯỜI
+TẠO LẬP VÀ CHIA SẺ
+CÁC GIÁ TRỊ
+Xác định nội dung báo cáo
+Xác định các lĩnh vực trọng yếu
+CÁC CHỦ ĐỀ TRỌNG YẾU GẮN VỚI 17 MỤC TIÊU
+PHÁT TRIỂN BỀN VỮNG
+MA TRẬN TRỌNG YẾU
+PHÂN TÍCH ĐÁNH GIÁ CÁC VẤN ĐỀ TRỌNG YẾU
+PHÁT TRIỂN BỀN VỮNG
+
+Đầu tư có trách nhiệm, phát triển kinh tế và phát triển du lịch bền vững.
+Kinh tế
+Xã hội
+Tập đoàn đảm bảo sự phát triển hài hòa, phù hợp với chiến lược phát triển du lịch và kinh tế địa phương
+bằng việc xây dựng các khu đô thị và đô thị kinh tế du lịch quy mô lớn, không chỉ cho Novaland và
+Khách hàng mà còn thúc đẩy gián tiếp sự phát triển về kinh tế, xã hội và môi trường tại các vùng dự án
+Novaland đang đầu tư và phát triển.
+Đồng hành cùng các đơn vị tư vấn, quản lý xây dựng chuyên nghiệp như Tập đoàn
+Xây dựng Hòa Bình, Coteccons... Novaland phát triển và xây dựng các công trình
+có quy mô lớn theo quy chuẩn quốc tế; đồng thời phát triển hệ thống giao thông
+đường bộ kết nối đô thị với dự án, gia tăng mỹ quan đô thị và giảm tải mật độ
+giao thông.
+Những Dự án BĐS do Novaland phát triển góp phần kiến tạo địa phương dần trở
+thành điểm đến thu hút đầu tư trong nước và thế giới.
+Góp phần thúc đẩy đối thoại công - tư, bao gồm việc hợp tác với cộng đồng để
+đảm bảo cộng đồng địa phương được hưởng lợi từ các hoạt động kinh doanh,
+nâng cao giá trị BĐS trong khu vực lân cận, tại các vùng dự án đang được Novaland
+đầu tư và phát triển.
+Cùng Viettel triển khai phủ sóng di động thế hệ 5G tại NovaWorld Phan Thiet;
+Áp dụng công nghệ AI vào quản lý an ninh tại khu đô thị sinh thái thông minh
+Aqua City.
+Hợp tác với Samsung Vina và VinaCapital trong năm 2021 hướng tới nghiên cứu và
+ứng dụng các giải pháp công nghệ và năng lượng xanh vào các công trình - hình
+thành các công trình thông minh, tiết kiệm năng lượng và giảm phát thải ra môi
+trường sống và tự nhiên.
+Năm 2022, kết hợp với các tổ chức, đoàn thể, cộng đồng địa phương phát động
+và triển khai các dự án như “Green Up Việt Nam”, dự án Giảm thiểu rác thải qua
+việc tổ chức các “Ngày hội tái chế” với mong muốn cải thiện chất lượng môi trường
+sống, sức khỏe và tâm lý người dân tại các địa phương.
+Bên cạnh đóng góp trực tiếp vào việc thúc đẩy nhu cầu lao động, Tập đoàn còn
+đào tạo và phát triển các kỹ năng cần thiết để nâng cao cơ hội phát triển sự
+nghiệp của nguồn nhân lực địa phương. Điều này giúp đảm bảo ổn định việc làm,
+tăng các cơ hội và tiêu chuẩn nghề nghiệp, góp phần nâng cao giá trị người lao
+động và đời sống.
+Tạo việc làm gián tiếp trong chuỗi giá trị cung ứng tại địa phương thông qua việc
+thực hiện mua sắm nguyên vật liệu và dịch vụ hậu cần từ các doanh nghiệp vừa và
+nhỏ; gián tiếp thúc đẩy nền kinh tế địa phương.
+Những Dự án BĐS do Novaland phát triển như Aqua City, NovaWorld Phan Thiet,
+NovaWorld Ho Tram, Centara Mirage Resort Mui Ne... với các tiện ích đa dạng góp
+phần nâng tầm trải nghiệm, nâng cao chất lượng dịch vụ, đáp ứng mọi nhu cầu
+và thị hiếu của du khách trong và ngoài nước; củng cố và phát triển du lịch địa
+phương thành những điểm đến hấp dẫn trên bản đồ Việt Nam và thế giới.
+Môi trường
+Đô thị sinh thái thông minh Aqua City (Biên Hòa, Đồng Nai)
+TÁC ĐỘNG KINH TẾ GIÁN TIẾP
+PHÁT TRIỂN BỀN VỮNG
+
+Theo chiến lược của Tập đoàn, vai trò và chức năng, nhiệm vụ của Ban Cung ứng - Đấu thầu được nâng cao và chuyên
+môn hóa ở tất cả các lĩnh vực đang hoạt động trong Tập đoàn. Điểm nổi bật là định hình rõ rệt hơn chức năng xây dựng
+chiến lược và hợp tác về cung ứng đấu thầu cho Tập đoàn, với các mục tiêu chính là tối ưu hóa nguồn cung và ký kết hợp
+đồng nguyên tắc; chuẩn hóa phạm vi các hạng mục cung ứng và xây dựng ngân hàng giá nhằm kiểm soát nguồn nguyên
+liệu đầu vào, nguồn cung ổn định kết hợp với việc đa dạng hoá các hình thức thanh toán, trao đổi sản phẩm giữa các bên
+nhằm mang lại lợi ích lâu dài và phát triển bền vững với các Đối tác chiến lược.
+Đề xuất NT nước ngoài sử dụng lao động phổ thông là
+người Việt Nam giúp tạo thêm việc làm và nâng cao năng
+lực/ trình độ của nguồn nhân lực địa phương bằng môi
+trường làm việc chuyên nghiệp, hiệu quả.
+Ưu tiên lựa chọn Đối tác địa phương, tận dụng tối đa
+nguồn nhân lực tại các tỉnh có vùng dự án.
+Hệ thống vườn ươm cây xanh được mở rộng với diện
+tích hàng chục héc-ta và sử dụng nguồn lực nhân sự
+địa phương để chăm sóc cây xanh.
+Nghiên cứu và ứng dụng công nghệ mới, vật liệu mới
+nhằm tối ưu hóa chi phí nhưng vẫn đảm bảo thân
+thiện với môi trường. Ứng dụng vật liệu xanh và bền
+vững: Ứng dụng gỗ biến tính sử dụng cho các công
+trình gỗ ngoài trời, Ứng dụng máy bay không người lái
+trong giám sát và cứu hộ, Ứng dụng hồ bơi cho villa/
+club house/ các dự án có tiến độ gấp và không thể
+bố trí phòng kỹ thuật, Ứng dụng ống CPVC cung cấp
+nước uống sạch tại vòi.
+Hạn chế tối đa tình trạng cung ứng độc quyền thông
+qua các hoạt động lựa chọn bổ sung NCC, xây dựng
+mối quan hệ với Đối tác chiến lược. Luôn có phương
+án dự phòng về nguồn cung nhằm đáp ứng tiến độ và
+chất lượng đã cam kết với Khách hàng.
+Chuẩn bị các phương án dự phòng cho quá trình chọn
+thầu trong bối cảnh tình hình kinh doanh trong và
+ngoài nước có nhiều biến động do nguồn cung không
+ổn định, nhiều nguyên vật liệu có xu hướng tăng đột
+biến do thiếu hụt nguồn cung kéo dài, thời gian giao
+hàng bị kéo dài tại các nước, cước phí tàu biển tăng,
+tắc nghẽn trong chuỗi cung ứng đang diễn ra trên quy
+mô toàn cầu…
+Thường xuyên theo dõi biến động giá thị trường cho hạng
+mục chính yếu (thép, bê tông…) để ký kết các hợp đồng
+nguyên tắc cố định đơn giá. Tập đoàn đã ký kết hợp tác
+lâu dài với các Đối tác trong lĩnh vực xây dựng gồm 07
+NCC bê tông thương phẩm và 02 NCC thép. Việc hợp
+tác với các Đối tác sẽ là đòn bẩy góp phần nâng cao
+năng lực cạnh tranh của Novaland, đồng thời phát huy
+thế mạnh của các bên để hoàn thành các mục tiêu chung,
+tiến đến tăng trưởng và phát triển lâu dài.
+Yêu cầu công trường cung cấp kế hoạch sử dụng nguyên
+liệu, song song lên kế hoạch đặt hàng và ký kết các hợp
+đồng nguyên tắc giữ giá. Đối với các trường hợp nguyên
+vật liệu tăng giá, chủ đầu tư hỗ trợ điều chỉnh giá nguyên
+vật liệu, thống nhất với các NCC cam kết bình ổn giá
+trong giai đoạn cao điểm.
+100% hạ tầng là NT địa phương với lợi thế am hiểu địa
+phương, sử dụng nhân công địa phương.
+Hoàn thiện dữ liệu phân tích giá cho toàn bộ mảng cung
+ứng đấu thầu chuyên môn làm cơ sở phân tích và đánh
+giá lựa chọn NT, bao gồm: Giá xây dựng, hạ tầng kỹ thuật,
+MEP các khu vực, giá vật liệu cho các hạng mục chọn tư
+vấn thiết kế, gói thầu D&B, gói thầu liên quan cung ứng dự
+án và cung ứng hoạt động.
+Đẩy mạnh triển khai ký kết Hợp đồng nguyên tắc/ Phụ
+lục/ Biên bản giao nhận với 68 NT/ NCC chiến lược nhằm
+đảm bảo ổn định giá nguyên liệu đầu vào và thống nhất
+các chủ trương, nguyên tắc phối hợp nhằm mục đích hợp
+tác vì mục tiêu chung Win-Win.
+Đa dạng hoá các hình thức thanh toán cho NT/ NCC
+bằng việc đẩy mạnh công tác trao đổi sản phẩm với Đối
+tác, linh hoạt trong việc thanh toán và mang đến cho Đối
+tác cơ hội trải nghiệm các sản phẩm, dịch vụ của Tập
+đoàn một cách thiết thực nhất.
+BÊN CẠNH ĐÓ, TẬP ĐOÀN CÒN TRIỂN KHAI CÁC HOẠT ĐỘNG ĐỂ TĂNG CƯỜNG HIỆU QUẢ
+TRONG CÔNG TÁC LỰA CHỌN NT ĐÁP ỨNG TIẾN ĐỘ VÀ CHẤT LƯỢNG DỰ ÁN. CỤ THỂ:
+Số lượng NCC nước ngoài 41 NCC (tăng 14 NCC so với năm 2021), chiếm 4% so với tổng số lượng NCC (1.002 NCC
+có thực hiện giao dịch, số lượng NT có giao dịch tăng lên so với 2021 – 698 NCC) nhằm tăng tính bền vững với các
+NCC chất lượng với mục đích đáp ứng chiến lược đẩy mạnh phát triển BĐS Đô thị kinh tế du lịch của Tập đoàn.
+Sơ tuyển thêm 282 NCC dựa trên đánh giá phân tích tình hình/ tần suất/ giá trị thực hiện của NT định kỳ 01 năm/
+lần và đảm bảo tiêu chí đánh giá chất lượng NCC thông qua các chỉ tiêu về chất lượng, an toàn và môi trường, các
+tiêu chí sơ tuyển được điều chỉnh theo hướng chuyên môn hóa cho hạng mục cụ thể. Trong đó, 58 NCC có phát sinh
+giao dịch với Ban Cung ứng - Đấu thầu và có 34 NCC phát sinh hơn 01 giao dịch.
+Áp dụng số hóa hồ sơ, dữ liệu nhằm tiết kiệm tài nguyên trong đó đã đưa vào vận hành ứng dụng E-Office (số hóa
+nghiệp vụ cung ứng hoạt động) và E-Office life (trình ký/ phê duyệt hồ sơ online thay thế cho hồ sơ hard-copy) nhằm
+tối ưu hóa nguồn lực và giảm thiểu giấy tờ, nghiệp vụ.
+Tôn trọng quyền con người, không sử dụng lao động bất hợp pháp, không sử dụng trẻ em, không hợp tác với NT
+không có năng lực, không tiếp tay cho các đối tượng khai thác đất cát lậu, không hợp tác với NT có lịch sử và/ hoặc
+đang có các vụ kiện tụng liên quan đến lao động...
+•	 Xây dựng tiêu chí đánh giá cho các loại hình chuyên biệt và áp dụng hệ thống online trong công tác đánh giá các đơn
+vị tư vấn, NT, NCC cho toàn bộ Ban Cung ứng - Đấu thầu.
+•	 Tăng cường thực hiện đánh giá chất lượng hàng hóa/ dịch vụ của các đơn vị tư vấn, NT, NCC.
+•	 Phối hợp với các Phòng Ban liên quan xây dựng nội dung chuẩn hóa vật liệu.
+Mục tiêu cung ứng – đấu thầu 2023
+Dự phòng đàm phán với các nhà máy trong nước cho các mặt hàng
+nhập khẩu tránh rủi ro khủng hoảng logistic toàn cầu ảnh hưởng
+đến giá thành và tiến độ.
+Tìm kiếm bổ sung nguồn nguyên vật liệu thân thiện với môi trường.
+Xây dựng và ứng dụng hệ thống đấu thầu/ cung ứng trực tuyến
+nhằm tiết kiệm thời gian, nguồn lực, tăng tính cạnh tranh và công
+bằng. Đảm bảo thông tin minh bạch và được bảo mật, không giới
+hạn về vị trí địa lý, quá trình giao dịch.
+Phối hợp cùng các Phòng Ban cập nhật cải tiến quy trình nghiệp vụ
+và thực hiện mục tiêu an toàn sức khỏe nghề nghiệp theo chuẩn ISO.
+Mở rộng phạm vi hàng hóa, dịch vụ ký kết hợp đồng nguyên tắc,
+hợp đồng chiến lược, chốt giá nhằm tận dụng và tối ưu hóa nguồn
+lực để tránh biến động và duy trì, phát triển mối quan hệ lâu dài với
+Đối tác chiến lược.
+Đa dạng hoá hình thức thanh toán cho Đối tác, đẩy mạnh và tăng
+cường trao đổi sản phẩm nhằm tối ưu kế hoạch tài chính của Tập
+đoàn, tạo sự gắn kết và hợp tác bền vững với NT/ NCC.
+Nội địa
+Quốc tế
+(Nguồn: Tập đoàn Novaland)
+SỐ LƯỢNG NCC
+Tỷ lệ chi tiêu cho các
+nhà cung cấp địa
+phương
+Các nhà cung cấp
+mới đã được đánh
+giá sơ bộ bằng cách
+sử dụng các tiêu chí
+về môi trường
+Các nhà cung cấp
+mới đã được đánh
+giá sơ bộ bằng cách
+sử dụng các tiêu chí
+về mặt xã hội
+THỰC HÀNH MUA SẮM BỀN VỮNG
+PHÁT TRIỂN BỀN VỮNG
+
+Trong tất cả các hoạt động thi công, Novaland gắn kết các hoạt động của Doanh nghiệp với trách
+nhiệm về xã hội, môi trường và kinh tế, nhằm cải thiện chất lượng cuộc sống cho Khách hàng nói riêng,
+cộng đồng xung quanh và xã hội nói chung.
+(Nguồn: Tập đoàn Novaland)
+Nguyên vật liệu sử dụng
+Thép (Nghìn tấn)
+Bê tông (Nghìn m3)
+Cát (Nghìn m3)
+Gạch (Nghìn tấn)
+Do tính chất đặc thù liên quan đến xây dựng, sử dụng năng lượng chủ yếu là các thiết bị xây dựng, vận chuyển và vận
+hành hệ thống, Tập đoàn luôn đảm bảo kiểm soát thời gian vận hành, khoảng cách di chuyển nguyên vật liệu, sử dụng
+thiết bị mới có hiệu suất cao nhằm hạn chế thất thoát nguyên liệu và tiết kiệm năng lượng. Bên cạnh đó, việc áp dụng
+các công nghệ mới trong quá trình thi công và vận hành hệ thống các dự án, cũng như theo dõi, kiểm soát các thiết bị
+điện trong suốt quá trình vận hành nhằm giảm điện năng tiêu thụ một cách tối ưu.
+Tài nguyên nước được sử dụng một cách hiệu quả bằng việc thực hành tiết kiệm nước trong suốt quá trình thi công, đẩy
+mạnh công tác kiểm tra và kiểm soát các điểm cung cấp nước thô trong xây dựng dự án, cũng như quản lý việc sử dụng
+nước khi vận hành tòa nhà.
+Các Dự án đang thi công đều tuân thủ giới hạn lượng nước ngầm khai thác và sử dụng trong phạm vi cho phép dựa trên
+đề án xây dựng đã được phê duyệt.
+Đồng thời, quy trình tuần hoàn (tái sử dụng) nước đều được áp dụng để tưới cây xanh tại các Dự án đã hoàn thành và
+đưa vào vận hành.
+Tập đoàn Novaland đảm bảo nhiệm vụ quản lý nước thải và chất thải phát sinh, đồng thời theo dõi, giám sát chặt chẽ
+bằng nhiều biện pháp kiểm soát tối ưu lượng nước thải và chất thải từ các dự án. Nguồn nước thải từ quá trình xây dựng,
+vận hành các công trình dự án được xử lý đạt tiêu chuẩn môi trường, đồng thời đảm bảo kết quả quan trắc được báo
+cáo thường xuyên cho các cơ quan quản lý mỗi 06 tháng/lần theo yêu cầu.
+Trong quá trình triển khai thi công thực tế, các Ban Quản lý dự án tăng cường công tác giám sát triển khai,  phối hợp với
+NT và các đơn vị liên quan nhằm nâng cao hiệu quả công tác thu hồi tái chế chất thải; cũng như ký kết các hợp đồng
+thu gom chất thải với NT có đầy đủ chứng nhận đủ điều kiện hoạt động xử lý rác thải theo quy định pháp luật hiện hành.
+(Nguồn: Tập đoàn Novaland)
+(Nguồn: Tập đoàn Novaland)
+(Nguồn: Tập đoàn Novaland)
+(Nguồn: Tập đoàn Novaland)
+(Nguồn: Tập đoàn Novaland)
+(Nguồn: Tập đoàn Novaland)
+Dầu DO tiêu thụ (nghìn lít)
+Lượng nước sử dụng (nghìn m3)
+Khối lượng rác thải (kg)
+Điện năng tiêu thụ (triệu kWh)
+Lượng nước thải (nghìn m3)
+Khối lượng chất thải nguy hại (kg)
+QUẢN LÝ TÁC ĐỘNG CỦA MÔI TRƯỜNG
+1. KIỂM SOÁT VẬT LIỆU CÔNG TRÌNH
+2. THỰC HÀNH TIẾT KIỆM NĂNG LƯỢNG
+3. SỬ DỤNG NƯỚC HIỆU QUẢ
+4. QUẢN LÝ NƯỚC THẢI VÀ CHẤT THẢI
+Vật liệu
+Nước thải và
+chất thải
+Năng lượng
+Tuân thủ
+môi trường
+Nước
+PHÁT TRIỂN BỀN VỮNG
+
+Chính sách du lịch thường niên
+Chương trình bồi dưỡng ngoại ngữ
+Chính sách đặc biệt áp dụng cho sự kiện sinh nhật
+30 năm của Tập đoàn
+Các hoạt động gắn kết và ghi nhận
+Chính sách ưu đãi mua nhà tại Novaland
+Chính sách ưu đãi khi sử dụng các dịch vụ tại các Dự án
+do Tập đoàn phát triển
+Chương trình nâng sao sức khoẻ
+Trao đến Nhân viên cùng gia đình cơ hội trải nghiệm các
+dịch vụ tiện ích tại các Dự án do Tập đoàn phát triển.
+Nhằm nâng cao chất lượng trong công việc cũng như
+trình độ ngoại ngữ cho Nhân viên, Tập đoàn đã phối hợp
+với Nova College triển khai chính sách bồi dưỡng ngoại
+ngữ với các khóa học đa dạng, phù hợp với nhiều trình độ.
+Với mục tiêu hướng Nhân viên đến sự cân bằng giữa
+công việc và cuộc sống, Tập đoàn đã phối hợp cùng với
+CITIGYM thực hiện chương trình tập luyện thể dục, bồi
+dưỡng sức khoẻ, tinh thần, thể chất.
+Nằm trong chuỗi các hoạt động, chính sách nâng cao sức
+khỏe thể chất cũng như tinh thần thường niên dành cho
+Nhân viên, đồng thời hướng tới kỷ niệm 30 năm thành
+lập Tập đoàn, Nova Olympic là một trong những sự kiện
+thể thao lớn nhất từng được tổ chức với sự tham gia
+hưởng ứng của hơn 4.000 Nhân viên.
+Không chỉ mang ý nghĩa giao lưu và gắn kết Nhân viên
+trong Tập đoàn, Đại hội thể thao Nova Olympic còn thể
+hiện những nét đặc sắc trong văn hóa doanh nghiệp và
+xây dựng môi trường làm việc năng động, đoàn kết với
+đội ngũ nhân sự được tham gia thường xuyên các hoạt
+động rèn luyện sức khỏe và thể chất.
+Sau gần 02 tháng thi đấu, tranh tài sôi nổi với 1.200 lượt
+trận thi đấu thuộc 22 nội dung của 08 bộ môn, 183 huy
+chương đã tìm được chủ nhân và hơn hết, toàn thể Nhân
+viên đã có những khoảnh khắc, kỷ niệm đáng nhớ dưới
+màu cờ, sắc áo của các đoàn thể thao.
+Cũng trong khuôn khổ chương trình Đại hội thể thao
+Nova Olympic, Tập đoàn đã vinh dự được Tổ chức kỷ lục
+Việt Nam (Vietkings) trao Chứng nhận kỷ lục "Biểu tượng
+hội thao gắn BIB lớn nhất Việt Nam do tập thể Cán bộ
+- Nhân viên đơn vị thực hiện". Đây là điểm nhấn đáng tự
+hào cho tinh thần “hợp lực phát triển” của toàn thể Nhân
+viên để khép lại mùa Đại hội thể thao thành công tốt đẹp.
+Cùng với Nova Olympic, Tập đoàn đã một lần nữa khẳng
+định: Nhân sự được xem là tài sản quý giá nhất và kiện
+toàn nhân sự là nhiệm vụ hàng đầu trong mọi hoạt động
+phát triển doanh nghiệp. Mỗi cá nhân tốt sẽ tạo nên một
+tập thể vững mạnh. Doanh nghiệp sẽ phát triển vững
+mạnh khi sở hữu đội ngũ nhân sự giỏi về chuyên môn,
+khoẻ về thể chất, tinh thần.
+Nhân dịp mừng 30 năm sinh nhật Tập đoàn, toàn bộ Nhân
+viên được nhận 01 món quà đặc biệt nhằm ghi nhận sự
+đóng góp, đồng hành trong quá trình phát triển bền vững
+cùng Tập đoàn và thông qua đó, Nhân viên có cơ hội trải
+nghiệm các dịch vụ cao cấp tại các Dự án do Tập đoàn
+phát triển.
+Nhằm ghi nhận sự cống hiến của Nhân viên cho sự phát
+triển của Tập đoàn, chương trình ưu đãi đặc biệt năm
+2022 - kỷ niệm 30 năm thành lập Tập đoàn khi sở hữu các
+sản phẩm BĐS do Novaland đầu tư và phát triển. Chính
+sách này cũng là một trong những mong đợi của Ban
+Lãnh đạo nhằm tạo cho Nhân viên có cơ hội được sở hữu
+nhà ở, an cư để lạc nghiệp và gắn bó lâu dài với Công ty.
+Mức ưu đãi hấp dẫn lên đến 50%, khuyến khích và tạo
+điều kiện cho Nhân viên cùng người thân, bạn bè có nhiều
+cơ hội trải nghiệm các dịch vụ cao cấp.
+Chương trình Buddy (Bạn đồng hành): thông qua chương
+trình Bạn đồng hành, trong 02 tháng đầu tiên làm việc tại
+Tập đoàn, Nhân viên mới sẽ được Bạn đồng hành hỗ trợ
+giải đáp các vướng mắc trong công việc mới, giúp Nhân
+viên mới có một khoảng thời gian bắt đầu tốt đẹp và
+nhanh chóng hòa nhập với văn hóa & môi trường làm việc.
+Tổ chức các hoạt động gắn kết nội bộ thông qua các mini-
+game và workshop online, cuộc thi ảnh/ video. Các cá nhân
+ưu tú, tập thể có thành tích tốt trong năm, theo chủ đề năm
+của Tập đoàn (Kỷ luật, đồng đội, thần tốc), được vinh danh
+và tưởng thưởng xứng đáng với giải thưởng là các chương
+trình nghỉ dưỡng hấp dẫn, thú vị, được tổ chức chu đáo,
+chuyên nghiệp, nhằm tăng sự gắn kết và khích lệ tinh thần
+đồng đội trong đội ngũ Nhân viên.
+Dựa trên thâm niên làm việc tại Tập đoàn, Nhân viên sẽ
+được hưởng chiết khấu giảm giá từ 1% đến 5% tùy theo
+thâm niên làm việc khi đầu tư các sản phẩm BĐS của Tập
+đoàn. Nhằm ghi nhận và tri ân các Nhân viên đã gắn bó
+và làm việc lâu dài với Công ty, Công ty có chế độ thưởng
+thâm niên khi Nhân viên đạt mốc 05 năm, 10 năm làm việc.
+Chính sách đãi ngộ đặc biệt cho thành viên Bclub, là các
+cá nhân có sự cam kết gắn bó, đóng góp lâu dài cho Tập
+đoàn. Thành viên Bclub được hưởng các đặc quyền như
+gói bảo hiểm NovaCare Premium, hỗ trợ học phí cho con,
+được cấp hạn mức Thẻ hội viên để trải nghiệm dịch vụ nghỉ
+dưỡng, dịch vụ ăn uống, vui chơi giải trí trong hệ sinh thái,
+dành cho thành viên Bclub và người thân, cơ hội sở hữu
+biệt thự nghỉ dưỡng…
+Tuyến phố thương mại Festival Street tại NovaWorld Phan Thiet (Phan Thiết, Bình Thuận)
+Đại hội thể thao Nova Olympic 2022
+Novator trải nghiệm Tropicana Park tại NovaWorld Ho Tram
+PHÁT TRIỂN BỀN VỮNG

@@ -1,378 +1,683 @@
-2
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-3
-PHẦN VI - BÁO CÁO PHÁT TRIỂN BỀN VỮNG	
- 
-218
-1.	
-THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG	
- 
-220
-2.	
-THÔNG TIN BÁO CÁO PHÁT TRIỂN BỀN VỮNG	
- 
-222
-3.	
-MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN QUAN ĐẾN PTBV	
- 
-224
-4.	
-QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK	
- 
-227
-5.	
-CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TRONG NĂM 2023	
- 
-232
-6.	
-THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG	
- 
-236
-7.	
-HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI	 
-240
-8.	
-TRÁCH NHIỆM VỚI KHÁCH HÀNG	
- 
-250
-9.	
-TRÁCH NHIỆM VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ	
- 
-262
-10.	 TRÁCH NHIỆM VỚI NGƯỜI LAO ĐỘNG	 
-268
-11.	
-TRÁCH NHIỆM VỚI CỘNG ĐỒNG VÀ XÃ HỘI	
- 
-280
-12.	 CHIẾN LƯỢC VĂN HÓA DOANH NGHIỆP	 
-284
-13.	 BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI	
- 
-288
-PHẦN VII – BÁO CÁO TÀI CHÍNH HỢP NHẤT NĂM 2023 ĐÃ ĐƯỢC KIỂM TOÁN	
-  292
-1.	
-BÁO CÁO CỦA BAN ĐIỀU HÀNH	
- 
-294
-2.	
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP	
- 
-297
-3.	
-BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT	
- 
-299
-4.	
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT	
- 
-302
-5.	
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT	
- 
-304
-6.	
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT	
- 
-306
-THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ	
-	
-	
-	
- 
-4
-PHẦN I - GIỚI THIỆU VIETINBANK	
-	
- 
-6
-1.	 THÔNG TIN CHUNG	
- 
-8
-2.	 MÔ HÌNH TỔ CHỨC	
- 
-30
-3.	 GIỚI THIỆU NHÂN SỰ	
- 
-32
-4.	 ĐỊNH HƯỚNG PHÁT TRIỂN  	
-	
- 
-46
-5.	 CÔNG TÁC QUẢN LÝ RỦI RO	
- 
-52
-PHẦN II - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023	
- 
-68
-1.	
-TÌNH HÌNH HOẠT ĐỘNG KINH DOANH	
- 
- 
-70
-2.	
-TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN	
- 
-102
-3.	
-TÌNH HÌNH TÀI CHÍNH NĂM 2023	
- 
-112
-4.	
-CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ CỦA CHỦ SỞ HỮU	
- 
-114
-5.	
-TÌNH HÌNH PHÁT HÀNH TRÁI PHIẾU NĂM 2023	
-	
- 
-118
-PHẦN III - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH	
- 
-120
-1.	
-TÌNH HÌNH VĨ MÔ VÀ NGÀNH NGÂN HÀNG NĂM 2023	
- 
-122
-2.	
-KẾT QUẢ KINH DOANH NỔI BẬT CỦA VIETINBANK NĂM 2023	
- 
-128
-3.	
-ĐỊNH HƯỚNG HOẠT ĐỘNG KINH DOANH NĂM 2024	
- 
-136
-4.	
-GIẢI TRÌNH CỦA BAN ĐIỀU HÀNH ĐỐI VỚI Ý KIẾN KIỂM TOÁN	
- 
-138
-5.	
+PHẦN VI - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG
+THÔNG TIN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN QUAN ĐẾN PTBV
+QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK
+CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TRONG NĂM 2023
+THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG
+HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
+TRÁCH NHIỆM VỚI KHÁCH HÀNG
+TRÁCH NHIỆM VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
+10.	 TRÁCH NHIỆM VỚI NGƯỜI LAO ĐỘNG
+TRÁCH NHIỆM VỚI CỘNG ĐỒNG VÀ XÃ HỘI
+12.	 CHIẾN LƯỢC VĂN HÓA DOANH NGHIỆP
+13.	 BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+PHẦN I - GIỚI THIỆU VIETINBANK
+1.	 THÔNG TIN CHUNG
+2.	 MÔ HÌNH TỔ CHỨC
+3.	 GIỚI THIỆU NHÂN SỰ
+4.	 ĐỊNH HƯỚNG PHÁT TRIỂN
+5.	 CÔNG TÁC QUẢN LÝ RỦI RO
+PHẦN II - TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2023
+TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
+TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
+TÌNH HÌNH TÀI CHÍNH NĂM 2023
+CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ CỦA CHỦ SỞ HỮU
+TÌNH HÌNH PHÁT HÀNH TRÁI PHIẾU NĂM 2023
+PHẦN III - BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
+TÌNH HÌNH VĨ MÔ VÀ NGÀNH NGÂN HÀNG NĂM 2023
+KẾT QUẢ KINH DOANH NỔI BẬT CỦA VIETINBANK NĂM 2023
+ĐỊNH HƯỚNG HOẠT ĐỘNG KINH DOANH NĂM 2024
+GIẢI TRÌNH CỦA BAN ĐIỀU HÀNH ĐỐI VỚI Ý KIẾN KIỂM TOÁN
 BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA BAN ĐIỀU HÀNH  138
-PHẦN IV - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA VIETINBANK	 
-140
-1.	
+PHẦN IV - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA VIETINBANK
 ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA NGÂN HÀNG TRONG NĂM 2023  142
-2.	
-ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA BAN ĐIỀU HÀNH	
- 
-150
-3.	
-ĐỊNH HƯỚNG PHÁT TRIỂN NĂM 2024	
- 
-152
-4.	
-CHỈ TIÊU KẾ HOẠCH NĂM 2024	 
-154
-PHẦN V - QUẢN TRỊ CÔNG TY	 
-156
-1.	
-TỔNG QUAN HOẠT ĐỘNG QUẢN TRỊ CÔNG TY	 
-158
-2.	
-HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ NĂM 2023	
- 
-162
-3.	
-HOẠT ĐỘNG CỦA BAN KIỂM SOÁT NĂM 2023	
- 
-186
-4.	
-CÁC GIAO DỊCH, THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HĐQT, BKS, BĐH	 
-190
-5.	
-HOẠT ĐỘNG KTKSNB VÀ KTNB	 
-194
-6.	
-HOẠT ĐỘNG PHÒNG CHỐNG THAM NHŨNG, TIÊU CỰC VÀ TỘI PHẠM	
- 
-196
-7.	
-ĐÁNH GIÁ QUẢN TRỊ CÔNG TY THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY ASEAN	 
-198
-8.	
-CAM KẾT THỰC HIỆN QUẢN TRỊ CÔNG TY	
- 
-216
-Mục lục
+ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA BAN ĐIỀU HÀNH
+ĐỊNH HƯỚNG PHÁT TRIỂN NĂM 2024
+CHỈ TIÊU KẾ HOẠCH NĂM 2024
+HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ NĂM 2023
+HOẠT ĐỘNG CỦA BAN KIỂM SOÁT NĂM 2023
+CÁC GIAO DỊCH, THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HĐQT, BKS, BĐH
+HOẠT ĐỘNG KTKSNB VÀ KTNB
+HOẠT ĐỘNG PHÒNG CHỐNG THAM NHŨNG, TIÊU CỰC VÀ TỘI PHẠM
+
+Thưa Quý vị,
+Năm 2023 tiếp tục là một năm khó khăn chung
+của nền kinh tế thế giới, với sự sụt giảm tăng
+trưởng GDP, các hoạt động thương mại - đầu tư
+ảm đạm, lạm phát ở mức cao đi kèm với những
+diễn biến căng thẳng của xung đột địa chính
+trị, thiên tai, an ninh lương thực... Trong bối cảnh
+đó, kinh tế Việt Nam, một trong những nền kinh
+tế có độ mở lớn trên thế giới, cũng phải đối mặt
+với nhiều rủi ro từ suy thoái kinh tế toàn cầu. Tuy
+nhiên, nhờ chính sách tiền tệ chủ động, linh hoạt,
+kịp thời của Chính phủ, Ngân hàng Nhà nước
+Việt Nam; nỗ lực không ngừng của các cấp, các
+ngành, địa phương, doanh nghiệp và người dân,
+kết thúc năm 2023, nền kinh tế Việt Nam vẫn ghi
+nhận những kết quả khả quan: Tăng trưởng GDP
+cả năm đạt 5,05%, lạm phát duy trì ở mức thấp
+3,25%, kinh tế vĩ mô về cơ bản ổn định và bảo
+đảm các cân đối lớn. Hệ thống ngân hàng tiếp
+tục phát huy vai trò là kênh dẫn vốn chủ đạo cho
+toàn bộ nền kinh tế.
+Năm 2023 cũng là năm đánh dấu VietinBank
+tròn 35 tuổi với sự trưởng thành, kiên cường và
+đầy bản lĩnh. Sau 35 năm, Ngân hàng đã trưởng
+thành về nhiều mặt, từ 22 tỷ đồng vốn chủ sở
+hữu vào thời điểm mới thành lập đến nay đã
+tăng lên gần 126.000 tỷ đồng, từ 718 tỷ đồng
+tổng tài sản năm 1988 lên đến hơn 2 triệu tỷ
+đồng. Đến nay, VietinBank tự hào xây dựng
+được đội ngũ nhân sự đầy năng lực và nhiệt
+huyết, làm việc tại Trụ sở chính, 2 văn phòng đại
+diện, 8 đơn vị sự nghiệp, 155 chi nhánh và gần
+1.000 Phòng giao dịch và mạng lưới các công
+ty con, công ty liên kết trong nước cùng ngân
+hàng con, chi nhánh và văn phòng đại diện tại
+nước ngoài. Những nền tảng vững vàng này đã
+thể hiện sự lớn mạnh của VietinBank qua 35 năm,
+là cơ sở để Ngân hàng tiếp tục ghi thêm
+THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+Chúng tôi cam kết sẽ luôn nỗ lực
+hết mình và dành những nguồn
+lực tốt nhất, hiệu quả nhất để
+trở thành Ngân hàng trách nhiệm
+vì lợi ích của đất nước, cổ đông,
+đối tác, khách hàng, cộng đồng
+và người lao động.
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+giá trị bền vững trong tương lai.
+Trong suốt chặng đường 35 năm phát triển cùng
+đất nước, bên cạnh mục tiêu kinh doanh hiệu
+quả và tăng trưởng lợi nhuận, VietinBank liên
+tục đóng góp tích cực vào sự phát triển kinh
+tế - xã hội của đất nước thông qua việc hỗ trợ
+doanh nghiệp, người dân bị ảnh hưởng bởi dịch
+bệnh hồi phục sản xuất kinh doanh; xây dựng
+các chính sách, sản phẩm tạo cơ chế linh hoạt
+trong tài trợ các dự án xanh; đồng thời luôn ưu
+tiên nguồn lực để tài trợ các dự án đầu tư vào
+lĩnh vực bảo vệ môi trường, ứng phó biến đổi khí
+hậu và phát triển bền vững. Bên cạnh đó, Ngân
+hàng luôn đi đầu trong công tác an sinh xã hội
+nhằm lan tỏa những giá trị tích cực và thực hiện
+tốt trách nhiệm với cộng đồng.
+Tiếp nối những thành công đã đạt được, trong
+năm 2023, VietinBank tiếp tục đổi mới toàn diện,
+nỗ lực không ngừng với quyết tâm cao độ; tiên
+phong xây dựng, phát triển Văn hóa doanh
+nghiệp gắn với Chuyển đổi số, hiện thực hóa
+tầm nhìn trở thành Ngân hàng số hàng đầu Việt
+Nam bằng việc khởi động hành trình Chuyển
+đổi số mang tên “Project X01”. VietinBank xác
+định chuyển đổi số là xu thế phát triển tất yếu
+và gắn liền với quá trình chuyển đổi về tư duy,
+văn hóa, mô hình kinh doanh, phương thức làm
+việc, vận hành… Với 108 sáng kiến kết nối với
+chiến lược kinh doanh trung hạn giai đoạn 2024 -
+2026, hành trình Chuyển đổi số “Project X01” của
+VietinBank đã bắt đầu với kỳ vọng tạo năng lực
+cạnh tranh vượt trội cho Ngân hàng và mang lại
+trải nghiệm tối ưu cho khách hàng.
+Năm 2024, nền kinh tế bắt đầu một chu kỳ mới
+với cơ hội và thách thức khó lường. Với vai trò
+là NHTM chủ lực, trụ cột của nền kinh tế, trên cơ
+sở bản sắc văn hóa doanh nghiệp rất riêng của
+người VietinBank, Ngân hàng đã chủ động, tiên
+phong tiến bước vào hành trình kiến tạo những
+giá trị mới. Chúng tôi luôn kiên định và bền bỉ: (i)
+Thực hành tốt các triết lý hoạt động Khách hàng
+là trung tâm, Phát triển con người là then chốt,
+Đổi mới sáng tạo là đột phá cùng 5 giá trị cốt lõi
+Chính trực - Trí tuệ - Tận tâm - Thấu cảm - Thích
+ứng; (ii) Hướng tới mục tiêu cao nhất của thông
+lệ quốc tế về quản trị. Bước sang hành trình mới,
+với tinh thần đoàn kết, ý chí mạnh mẽ, đổi mới
+mọi mặt về tư duy và hành động, toàn thể cán
+bộ, nhân viên, người lao động VietinBank sẽ thích
+ứng với xu thế phát triển tất yếu của thời đại.
+Chúng tôi cam kết sẽ luôn nỗ lực hết mình và
+dành những nguồn lực tốt nhất, hiệu quả nhất
+để trở thành Ngân hàng trách nhiệm vì lợi ích
+của đất nước, cổ đông, đối tác, khách hàng,
+cộng đồng và người lao động.
+Thay mặt Hội đồng Quản trị và Ban Lãnh đạo
+VietinBank, Tôi bày tỏ lời tri ân sâu sắc tới các
+Quý Khách hàng, Quý Nhà đầu tư, đối tác và tập
+thể người lao động đã luôn tin tưởng, hợp tác,
+đồng hành với VietinBank trong suốt quá trình
+35 năm xây dựng và phát triển vừa qua. Sự tin
+tưởng vào sứ mệnh, tầm nhìn và giá trị cốt lõi
+của Quý vị đối với VietinBank đã tạo động lực
+to lớn để chúng tôi không ngừng sáng tạo, đổi
+mới, hướng đến sự hoàn thiện trong từng hành
+động, từng sản phẩm, dịch vụ và chất lượng
+phục vụ. Tôi hy vọng và tin tưởng rằng các bên
+sẽ tiếp tục tin tưởng, hợp tác, gắn bó chặt chẽ
+để VietinBank trở thành ngân hàng đi đầu trong
+định hình kỷ nguyên số và phát triển bền vững.
+Trân trọng!
+BÍ THƯ ĐẢNG UỶ
+CHỦ TỊCH HĐQT VIETINBANK
+TRẦN MINH BÌNH
 
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
-219
-218
+GIỚI THIỆU VIETINBANK
+“35 NĂM KIẾN TẠO NỀN TẢNG”
+Ngân hàng tăng cường kiểm soát chất lượng nợ từ TSC đến chi nhánh, chủ động nhận diện, kiểm
+soát, đề xuất và triển khai phương án tối ưu đối với khách hàng; chủ động, kịp thời phân tích các
+sự kiện rủi ro và tác động đến thị trường tài chính, thanh khoản đồng thời triển khai đồng bộ nhiều
+giải pháp nhằm đáp ứng nhu cầu QLRR hoạt động CNTT về mô hình, nhân sự, công cụ QLRR CNTT.
+07 Quản trị tài chính hiệu quả, thực hành tiết kiệm và quản trị chi phí
+Tiếp tục triển khai đồng bộ các biện pháp để nâng cao năng lực vốn tự có, ngày 1/12/2023 VietinBank
+đã thành công tăng vốn điều lệ lên gần 53.700 nghìn tỷ đồng, góp phần tích cực trong việc nâng
+cao nguồn lực tài chính.
+VietinBank tích cực triển khai hiệu quả các chủ điểm trọng tâm kinh doanh
+Ngân hàng cũng triển khai đồng bộ các giải pháp nhằm quản trị hiệu quả cân đối vốn, tăng trưởng
+nguồn vốn huy động ổn định, bền vững, khai thác linh hoạt và đa dạng các nguồn vốn trong và
+ngoài nước.
+08 Khẳng định vị thế và uy tín thương hiệu VietinBank
+Trong năm 2023, tổ chức xếp hạng tín nhiệm Fitch Ratings tiếp tục nâng xếp hạng tín nhiệm của VietinBank
+từ mức BB lên BB+ và giữ triển vọng “Ổn định”, qua đó nâng cao vị thế, uy tín của VietinBank.
+Hướng tới mục tiêu đưa VietinBank trở thành ngân hàng tiên phong trong lĩnh vực tín dụng xanh, tài
+trợ bền vững tại Việt Nam. VietinBank chú trọng phát triển bền vững, triển khai các chương trình tài
+trợ vốn trong lĩnh vực năng lượng xanh, xuất khẩu xanh và công trình xanh; tiến hành ký kết thỏa
+thuận hợp tác với Bộ Tài nguyên và Môi trường, ký kết thỏa thuận với MUFG quy mô huy động lên tới
+1 tỷ USD tại COP28....
+VietinBank tiếp tục lọt TOP500 thương hiệu ngân hàng có giá trị nhất thế giới theo Bảng xếp
+hạng của Brand Finance đồng thời đạt TOP10 thương hiệu giá trị nhất Việt Nam với giá trị thương
+hiệu đạt 1,3 tỷ USD. Ngân hàng cũng vinh dự đạt giải thưởng danh giá “Ngân hàng SME Tốt nhất
+Việt Nam” của Asian Banker và bộ 3 giải thưởng Sao Khuê 2023.
+Tại COP28, VietinBank cam kết dành nguồn lực tối đa cho phát triển bền vững
+09 Chuỗi hoạt động chào mừng 35 năm xây dựng và phát triển, tiếp tục
+đóng góp trong công tác an sinh xã hội, gắn kết cộng đồng
+Năm 2023 là năm đánh dấu quá trình 35 năm xây dựng và phát triển, ghi nhận những đóng góp to lớn
+của các thế hệ lãnh đạo, cán bộ, người lao động của hệ thống VietinBank đối với sự nghiệp xây dựng
+và phát triển đất nước. VietinBank đã tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết, tôn vinh, lan tỏa
+những giá trị tích cực trong “Khát vọng tầm cao mới” của ngân hàng, với tinh thần “Sống một đời có lãi”,
+nâng cao sức khỏe và chất lượng cuộc sống của người lao động, cộng đồng.
+VietinBank tổ chức chuỗi các sự kiện mang ý nghĩa gắn kết nhân Kỷ niệm 35 năm thành lập
+Trong năm 2023, VietinBank dành tổng số tiền 300 tỷ đồng thực hiện công tác ASXH, xóa đói giảm
+nghèo, làm tốt công tác đền ơn đáp nghĩa, uống nước nhớ nguồn tại 63 tỉnh thành trên toàn quốc.
+Đây cũng là sự tiếp nối tinh thần tiên phong chung tay chia sẻ trách nhiệm xã hội, góp phần thực
+hiện các chương trình mục tiêu quốc gia theo chủ trương của Đảng và Nhà nước, gắn kinh doanh
+với xã hội, cộng đồng.
+
+“35 NĂM KIẾN TẠO NỀN TẢNG”
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+5 - CÔNG TÁC QUẢN LÝ RỦI RO
+RỦI RO MÔI TRƯỜNG
+Nhận diện rủi ro:
+Là rủi ro phát sinh từ biến đổi khí hậu, thảm họa thiên nhiên và các yếu
+tố môi trường khác có thể ảnh hưởng trực tiếp đến Ngân hàng hoặc
+đến khách hàng. Rủi ro môi trường bao gồm rủi ro bắt nguồn từ những
+thiệt hại về tài sản, cơ sở hạ tầng và đất đai và rủi ro phát sinh từ những
+thay đổi trong chính sách về khí hậu, công nghệ, tâm lý thị trường và
+người tiêu dùng trong quá trình chuyển đổi sang nền kinh tế carbon
+thấp nhằm đạt được các mục tiêu phát triển kinh tế, xã hội và giảm
+phát thải khí nhà kính cũng như nâng cao khả năng tương thích với các
+tác động của biến đổi khí hậu.
+Các biện pháp kiểm soát rủi ro trong năm 2023:
+Nhận thức được ảnh hưởng sâu sắc của biến đổi khí hậu đối với kinh tế
+toàn cầu và cuộc sống con người, VietinBank đã và đang xây dựng, triển
+khai công tác QLRR môi trường để hạn chế tối đa tác động của biến đổi
+khí hậu đối với hoạt động của Ngân hàng. Cụ thể:
+• Tăng cường công tác quản lý rủi ro môi trường trong hoạt động cấp
+tín dụng: VietinBank đã ban hành Quy định quản lý rủi ro môi trường
+trong hoạt động cấp tín dụng để đảm bảo phù hợp với các quy định
+của pháp luật về cấp tín dụng và QLRR tín dụng trong hoạt động
+ngân hàng. Ngân hàng thực hiện chặt chẽ, xuyên suốt công tác QLRR
+về môi trường khi thực hiện cấp tín dụng nhằm nhận diện sớm rủi
+ro phát sinh, từ đó có biện pháp ứng xử tín dụng kịp thời, phù hợp
+nhằm hạn chế rủi ro và giảm thiểu tổn thất cho VietinBank. Đặc biệt,
+trong năm 2023, VietinBank đã xây dựng Quy định khung cung cấp
+tài chính bền vững nhằm xác định nguyên tắc triển khai các hoạt
+động cung cấp tài chính bền vững trong hệ thống VietinBank.
+• Định kỳ thực hiện Báo cáo về hiệu quả công tác quản lý môi trường
+tới các bên liên quan: VietinBank thực hiện báo cáo định kỳ hàng
+quý NHNN về danh mục tín dụng xanh và tình hình thực hiện đề án
+phát triển “Ngân hàng xanh”. Ngoài ra, Ngân hàng cũng cung cấp
+thông tin cho các bên đối tác các chính sách cập nhật liên quan đến
+quản lý môi trường – xã hội tại VietinBank và thực hiện báo cáo đến
+cơ quan quản lý, NĐT, cộng đồng về hoạt động kinh doanh đến môi
+trường, xã hội trong BCTN hàng năm.
+• Thúc đẩy hoạt động Ngân hàng số hướng đến mục tiêu phát triển xanh:
+VietinBank đẩy mạnh ứng dụng công nghệ hiện đại, phát triển các SPDV
+trên kênh số nhằm hướng tới mục tiêu xanh hóa hoạt động hệ thống
+ngân hàng. Đặc biệt, trong năm 2023, Ngân hàng đã xây dựng và triển
+khai Chương trình Chuyển đổi số giai đoạn 2024 - 2028. Hành trình
+chuyển đổi số của VietinBank được kỳ vọng sẽ đóng góp to lớn vào mục
+tiêu giảm phát thải từ chính hoạt động vận hành của VietinBank.
+• Tuân thủ các văn bản pháp luật hiện hành về bảo vệ môi trường: Ngân
+hàng nghiêm túc tuân thủ các quy định của pháp luật liên quan đến
+bảo vệ môi trường như Luật bảo vệ môi trường, Nghị định số 08/2022/
+NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi
+trường, Thông tư số 02/2022/TT-BTNMT quy định chi tiết thi hành một
+số điều của Luật Bảo vệ môi trường. Định kỳ hằng năm, VietinBank ký
+kết các hợp đồng dịch vụ với các đơn vị chuyên môn để thực hiện quan
+trắc nước thải và quan trắc môi trường lao động định kỳ, ký hợp đồng
+thu gom, vận chuyển và xử lý rác thải tại các tòa trụ sở theo quy định
+của pháp luật. Đồng thời, VietinBank cũng ban hành và phổ biến trên
+toàn hệ thống Hướng dẫn thực hiện các Quy định về công tác An toàn,
+vệ sinh lao động.
+•	Đẩy mạnh thực hành tiết kiệm, chống lãng phí: VietinBank đã xây dựng
+bộ KPI đo lường để giao tới các đơn vị về kiểm soát chi phí hoạt động
+nhằm sử dụng tiết kiệm, hiệu quả nguồn lực tài chính; đặc biệt đối với
+phòng Quản trị &Dịch vụ Tài sản có chỉ tiêu “Số lượng lỗi ghi nhận trong
+công tác y tế, vệ sinh an toàn lao động, an ninh trật tự các tòa nhà TSC,
+quản lý vận hành tòa nhà TSC” và của các Chi nhánh có chỉ tiêu về các
+chi phí về điện, nước, mực in, xăng dầu… Ngoài ra, Ngân hàng cũng đã
+ban hành các văn bản liên quan tiết kiệm chống lãng phí trong toàn
+hệ thống nhằm tiết giảm chi phí hoạt động trên cơ sở gắn với mục tiêu
+hoạt động của Ngân hàng cũng như đặc điểm và điều kiện thị trường.
+Ngân hàng thực hiện công tác truyền thông tới từng đơn vị, từng CBNV
+để tiết giảm lượng điện năng tiêu thụ, lượng nước sạch sử dụng nhằm
+tiết kiệm năng lượng, bảo vệ môi trường. Đặc biệt, trong năm 2023,
+HĐQT VietinBank đã ban hành nghị quyết về việc triển khai thí điểm hệ
+thống điện năng lượng mặt trời áp mái cho một số đơn vị, CN trên toàn
+hệ thống, qua đó đã góp phần vào việc bảo tồn nguồn năng lượng sơ
+cấp của quốc gia, giảm phát thải khí nhà kính, bảo vệ môi trường và
+ứng phó với hiện tượng biến đổi khí hậu toàn cầu.
+Kế hoạch trong năm 2024:
+Hướng đến mục tiêu tăng trưởng “xanh” và bền vững, năm 2024, VietinBank
+tiếp tục triển khai đồng bộ nhiều giải pháp linh hoạt để giảm thiểu rủi ro
+môi trường. Cụ thể là:
+• Tiếp tục hoàn thiện cơ chế, chính sách phù hợp để: (i) Rà soát/ cập nhật
+các quy định về quản lý môi trường trong hoạt động cấp tín dụng cho
+phù hợp với mô hình kinh doanh của  VietinBank và tuân thủ quy định
+pháp luật; (ii) Xây dựng và triển khai định hướng tín dụng hàng năm tới
+các CN và PGD, trong đó có nội dung về quản lý môi trường; (iii) Thực
+hiện nghiêm túc các hướng dẫn thẩm định môi trường – xã hội trong
+hoạt động cấp tín dụng.
+• Tăng cường năng lực cho CBNV trong việc thực hiện đề án phát triển
+“Ngân hàng xanh”, tổ chức đào tạo, tuyên truyền, phổ biến nhằm nâng
+cao nhận thức về hoạt động Ngân hàng xanh – Tín dụng xanh, nâng
+cao ý thức sử dụng hiệu quả, tiết kiệm năng lượng, các nguồn tài nguyên
+thiên nhiên và bảo vệ môi trường.
+• Tăng cường hợp tác với các tổ chức quốc tế và đồng hành cùng các
+cơ quan Chính phủ để triển khai các hoạt động PTBV; tích cực tìm
+kiếm khách hàng phù hợp và phát triển các sản phẩm tài chính bền
+vững đa dạng.
+• Thúc đẩy mạnh mẽ Chương trình Chuyển đổi số nhằm giảm thiểu biến
+đổi khí hậu, thúc đẩy bảo vệ môi trường.
+Trên chặng đường 35 năm hình thành và phát triển, một hệ thống
+Quản trị rủi ro độc lập, tập trung và chuyên môn hóa, tiệm cận dần
+với các chuẩn mực quốc tế và gắn kết với chiến lược kinh doanh
+của VietinBank đã được hình thành rõ nét và liên tục được cập
+nhật, củng cố để phù hợp với mọi diễn biến của thị trường. Trước
+xu hướng của cuộc cách mạng công nghệ 4.0 nói chung và chuyển
+đổi số của ngành Ngân hàng nói riêng, quản trị rủi ro chủ động,
+hiệu quả sẽ là nền tảng quan trọng trong giai đoạn phát triển tiếp
+theo của VietinBank.
+GIỚI THIỆU VIETINBANK
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
+“LINH HOẠT, CHỦ ĐỘNG THÍCH ỨNG”
+4. GIẢI TRÌNH CỦA BAN ĐIỀU HÀNH ĐỐI VỚI Ý KIẾN KIỂM TOÁN
+Không có
+5. BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA BAN ĐIỀU HÀNH
+Trên hành trình 35 năm xây dựng và phát triển, VietinBank luôn kiên định khi thực hiện chiến lược PTBV
+theo hướng tập trung vào mục tiêu tăng trưởng kinh tế dài hạn, song hành với các mục tiêu xã hội
+và môi trường, đảm bảo lợi ích hài hòa cho cho các bên liên quan. Ngân hàng chú trọng thực hiện
+cam kết về trách nhiệm xã hội doanh nghiệp và nỗ lực đóng góp vào sự phát triển chung của xã hội
+thông qua nhiều chương trình thiết thực, có ý nghĩa.
+Chi tiết báo cáo đánh giá về các nội dung trên được trình bày tại Phần 6 - Báo cáo PTBV.
+Các đại biểu tham dự Lễ kỷ niệm 35 năm thành lập VietinBank
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“DẪN DẮT SỰ THAY ĐỔI”
+ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ HOẠT ĐỘNG CỦA VIETINBANK
+VỀ TRÁCH NHIỆM MÔI TRƯỜNG - XÃ HỘI
+Nhận thức được vai trò quan trọng của Ngành Ngân hàng - kênh dẫn vốn chính của nền kinh tế,
+VietinBank luôn chú trọng thực thi về ESG (Môi trường - Xã hội - Quản trị) nhằm đáp ứng kỳ vọng của
+các bên liên quan, thiết lập những chuẩn mực mới về PTBV trên thị trường và xây dựng sức mạnh nội
+tại trong chính ngân hàng. Năm 2023, VietinBank đã kiện toàn Ban Chỉ đạo PTBV là cơ quan đầu mối
+triển khai các hoạt động liên quan đến PTBV. Đồng thời, Khung Tài chính Bền vững được xây dựng
+trong năm 2023 theo chuẩn quốc tế đã nhận được đánh giá độc lập từ Sustainalytics - một công
+ty uy tín tại Mỹ về đánh giá tính bền vững của các công ty niêm yết. Khung Tài chính Bền vững của
+VietinBank đã đưa ra các hướng dẫn cụ thể cho việc tài trợ và quản lý các khoản tài trợ cho danh
+mục các dự án xanh và xã hội.
+Song song với đó, VietinBank đã tiên phong đồng hành cùng Chính phủ trong việc tiến hành ký kết
+thỏa thuận hợp tác với Bộ Tài nguyên và Môi trường, ký kết thỏa thuận với MUFG Bank, quy mô huy
+động lên tới 1 tỷ USD tại COP28 nhằm phục vụ các dự án PTBV, mang lại lợi ích môi trường, xã hội và
+thúc đẩy kinh tế tuần hoàn; sát cánh cùng doanh nghiệp, hỗ trợ cộng đồng triển khai các chương
+trình tài trợ vốn trong lĩnh vực năng lượng xanh, xuất khẩu xanh và công trình xanh....
+Đặc biệt, VietinBank là doanh nghiệp niêm yết 3 năm liên tiếp lọt vào rổ chỉ số PTBV (VNSI), 2 năm
+liên tiếp là Top 10 doanh nghiệp bền vững (CSI).
+Trong năm 2023, VietinBank cũng dành tổng số tiền gần 300 tỷ đồng thực hiện công tác ASXH, xóa
+đói giảm nghèo, làm tốt công tác đền ơn đáp nghĩa, uống nước nhớ nguồn tại 63 tỉnh thành trên
+toàn quốc. Đây cũng là sự tiếp nối tinh thần tiên phong chung tay chia sẻ trách nhiệm xã hội, góp
+phần thực hiện các chương trình mục tiêu quốc gia theo chủ trương của Đảng và Nhà nước, gắn kinh
+doanh với xã hội, cộng đồng.
+1 - ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA NGÂN HÀNG TRONG NĂM 2023
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
 V I E T I N B A N K — A N N U A L R E P O R T 2 0 2 3
-P H ẦN
-BÁO CÁO PHÁT TRIỂN 
+BÁO CÁO PHÁT TRIỂN
 BỀN VỮNG
 1 	 THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG
 2 	 THÔNG TIN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-3 	 MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN 
+3 	 MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN
 QUAN ĐẾN PHÁT TRIỂN BỀN VỮNG
-4 	 QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI 
+4 	 QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI
 VIETINBANK
-5 	 CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG 
+5 	 CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 TRONG NĂM 2023
-6 	 THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ 
-VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI 
+6 	 THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ
+VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI
 TRƯỜNG
-7 	 HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI 
+7 	 HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI
 TRƯỜNG VÀ XÃ HỘI
 8 	 TRÁCH NHIỆM VỚI KHÁCH HÀNG
 9 	 TRÁCH NHIỆM VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
 10 	TRÁCH NHIỆM VỚI NGƯỜI LAO ĐỘNG
 11 	 TRÁCH NHIỆM VỚI CỘNG ĐỒNG VÀ XÃ HỘI
 12 	CHIẾN LƯỢC VĂN HÓA DOANH NGHIỆP
-13 	BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU 
+13 	BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU
 TIÊU CHUẨN GRI
 
-220
-221
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 1 - THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG
-Hành trình chuyển đổi số của VietinBank được kỳ vọng không 
-chỉ tạo năng lực cạnh tranh vượt trội cho Ngân hàng và mang 
-lại trải nghiệm tối ưu cho khách hàng, mà còn đóng góp to lớn 
-vào mục tiêu giảm phát thải từ chính hoạt động vận hành của 
+Hành trình chuyển đổi số của VietinBank được kỳ vọng không
+chỉ tạo năng lực cạnh tranh vượt trội cho Ngân hàng và mang
+lại trải nghiệm tối ưu cho khách hàng, mà còn đóng góp to lớn
+vào mục tiêu giảm phát thải từ chính hoạt động vận hành của
 VietinBank.
-Trong suốt hành trình 35 năm phát triển, song song với việc phát 
-triển kinh doanh và nâng cao chất lượng dịch vụ, VietinBank luôn 
-chú trọng thực hiện cam kết về trách nhiệm xã hội doanh nghiệp, 
-theo đuổi các giá trị bền vững. Bằng các hành động thiết thực như 
-hợp tác với cơ quan Nhà nước trong các hoạt động ứng phó với biến 
-đổi khí hậu; huy động nguồn lực từ hợp tác quốc tế để hỗ trợ PTBV cho các 
-doanh nghiệp; đồng thời ra mắt các gói giải pháp tài chính bền vững đa dạng 
-phù hợp với nhu cầu doanh nghiệp, VietinBank mong muốn góp phần xây dựng, 
-thúc đẩy sự PTBV và phồn vinh của đất nước và cộng đồng; tiếp tục gia tăng các 
+Trong suốt hành trình 35 năm phát triển, song song với việc phát
+triển kinh doanh và nâng cao chất lượng dịch vụ, VietinBank luôn
+chú trọng thực hiện cam kết về trách nhiệm xã hội doanh nghiệp,
+theo đuổi các giá trị bền vững. Bằng các hành động thiết thực như
+hợp tác với cơ quan Nhà nước trong các hoạt động ứng phó với biến
+đổi khí hậu; huy động nguồn lực từ hợp tác quốc tế để hỗ trợ PTBV cho các
+doanh nghiệp; đồng thời ra mắt các gói giải pháp tài chính bền vững đa dạng
+phù hợp với nhu cầu doanh nghiệp, VietinBank mong muốn góp phần xây dựng,
+thúc đẩy sự PTBV và phồn vinh của đất nước và cộng đồng; tiếp tục gia tăng các
 giá trị mang đến cho cổ đông, khách hàng và người lao động.
-Hướng đến tương lai, VietinBank xác định CNTT là yếu tố then chốt, nguồn nhân 
-sự chất lượng là yếu tố quyết định trong việc thực thi thành công chiến lược PTBV. 
-Ngân hàng cam kết thúc đẩy tín dụng xanh, ngân hàng xanh hướng tới PTBV; đồng 
-thời nâng cao chất lượng nguồn nhân lực, năng lực thực thi và tăng cường sự gắn 
-kết của người lao động để nâng cao hiệu quả hoạt động, trở thành Ngân hàng có 
+Hướng đến tương lai, VietinBank xác định CNTT là yếu tố then chốt, nguồn nhân
+sự chất lượng là yếu tố quyết định trong việc thực thi thành công chiến lược PTBV.
+Ngân hàng cam kết thúc đẩy tín dụng xanh, ngân hàng xanh hướng tới PTBV; đồng
+thời nâng cao chất lượng nguồn nhân lực, năng lực thực thi và tăng cường sự gắn
+kết của người lao động để nâng cao hiệu quả hoạt động, trở thành Ngân hàng có
 trách nhiệm trong hành trình hiện thực hóa các mục tiêu PTBV.
-Ban Lãnh đạo VietinBank xin bày tỏ lời tri ân sâu sắc tới Quý Cổ đông, Quý Khách 
-hàng, Quý Đối tác và các bên liên quan của VietinBank đã tin tưởng và đồng 
-hành cùng Ngân hàng trên hành trình 35 năm sẻ chia giá trị. Toàn thể Ngân hàng 
-VietinBank cam kết sẽ tiếp tục thực thi trách nhiệm xã hội doanh nghiệp, lan tỏa 
-những giá trị vững bền nhằm mang lại lợi ích to lớn và lâu dài cho khách hàng, đối 
-tác, cổ đông, người lao động và cộng đồng xã hội dựa trên sự quan tâm, tôn trọng 
+Ban Lãnh đạo VietinBank xin bày tỏ lời tri ân sâu sắc tới Quý Cổ đông, Quý Khách
+hàng, Quý Đối tác và các bên liên quan của VietinBank đã tin tưởng và đồng
+hành cùng Ngân hàng trên hành trình 35 năm sẻ chia giá trị. Toàn thể Ngân hàng
+VietinBank cam kết sẽ tiếp tục thực thi trách nhiệm xã hội doanh nghiệp, lan tỏa
+những giá trị vững bền nhằm mang lại lợi ích to lớn và lâu dài cho khách hàng, đối
+tác, cổ đông, người lao động và cộng đồng xã hội dựa trên sự quan tâm, tôn trọng
 và thấu hiểu.
 Trân trọng!
 Ban Lãnh đạo VietinBank
-Thưa Quý Cổ đông, Quý Khách hàng, Quý Đối tác và các bên liên quan của 
+Thưa Quý Cổ đông, Quý Khách hàng, Quý Đối tác và các bên liên quan của
 VietinBank,
-Năm 2023 đã chính thức trở thành năm nóng nhất trong lịch sử loài người với nhiệt 
-độ cao kỷ lục. Việt Nam và nhiều quốc gia trên thế giới đã tham gia “Cam kết làm 
-mát toàn cầu” trong khuôn khổ Hội nghị lần thứ 28 các bên tham gia Công ước 
-khung của Liên Hợp Quốc về Biến đổi khí hậu (COP28), phù hợp với định hướng 
-trong Chiến lược PTBV Việt Nam, Chiến lược quốc gia về biến đổi khí hậu giai đoạn 
+Năm 2023 đã chính thức trở thành năm nóng nhất trong lịch sử loài người với nhiệt
+độ cao kỷ lục. Việt Nam và nhiều quốc gia trên thế giới đã tham gia “Cam kết làm
+mát toàn cầu” trong khuôn khổ Hội nghị lần thứ 28 các bên tham gia Công ước
+khung của Liên Hợp Quốc về Biến đổi khí hậu (COP28), phù hợp với định hướng
+trong Chiến lược PTBV Việt Nam, Chiến lược quốc gia về biến đổi khí hậu giai đoạn
 đến năm 2050 và Đóng góp do quốc gia tự quyết định (NDC) cập nhật năm 2022.
-Biến đổi khí hậu đã không còn là lời cảnh báo. Việt Nam là một trong 5 quốc gia đã, 
-đang và sẽ chịu tác động nặng nề nhất nếu chúng ta không chung tay xây dựng 
-một nền kinh tế các-bon thấp, một mục tiêu cần có sự tham gia của mọi thành 
+Biến đổi khí hậu đã không còn là lời cảnh báo. Việt Nam là một trong 5 quốc gia đã,
+đang và sẽ chịu tác động nặng nề nhất nếu chúng ta không chung tay xây dựng
+một nền kinh tế các-bon thấp, một mục tiêu cần có sự tham gia của mọi thành
 phần trong nền kinh tế, trong đó có ngành ngân hàng.
-Coi thực hành ESG (Quản trị môi trường, xã hội, doanh nghiệp), thúc đẩy tài chính 
-khí hậu, tài chính bền vững là một trong những nhiệm vụ trọng tâm, trong những 
-năm qua, VietinBank đã lồng ghép các yếu tố ESG vào chiến lược phát triển chung 
-của Ngân hàng, hướng đến việc tăng trưởng đều đặn và bền vững và gắn kết 
-với cộng đồng. HĐQT VietinBank đã kiện toàn Ban Chỉ đạo PTBV là cơ quan đầu 
-mối triển khai các hoạt động liên quan đến PTBV. Với sự tham gia trực tiếp của 
-1 TV HĐQT và 1 TV BĐH, Ban Chỉ đạo PTBV sẽ thực hiện công tác tham mưu cho 
-HĐQT và BĐH của VietinBank các vấn đề về PTBV, đảm bảo chiến lược về PTBV 
-của VietinBank sẽ được thực hiện đồng bộ xuyên suốt trên toàn hệ thống. Song 
-song, trong năm 2023, Ngân hàng đã hoàn thành việc xây dựng Khung Tài chính 
-Bền vững theo thông lệ quốc tế, đưa ra các hướng dẫn cụ thể cho việc tài trợ và 
-quản lý các khoản tài trợ cho danh mục các dự án Xanh và Xã hội. Khung Tài chính 
-Bền vững của VietinBank đã nhận được đánh giá độc lập từ Sustainalytics - một 
-công ty uy tín tại Mỹ về đánh giá tính bền vững của các công ty niêm yết dựa trên 
-hiệu quả quản trị doanh nghiệp, xã hội và môi trường. Theo đó, Khung Tài chính 
-Bền vững của VietinBank được đánh giá là “đáng tin cậy, có tác động mạnh mẽ và 
-phù hợp với Hướng dẫn trái phiếu bền vững 2021, Nguyên tắc trái phiếu xanh 2021, 
-Nguyên tắc trái phiếu xã hội 2023, Nguyên tắc cho vay xanh 2023 và Nguyên tắc 
-cho vay xã hội 2023”. Đây là các bộ hướng dẫn và nguyên tắc được công nhận 
-rộng rãi trên toàn cầu. Một trong những dấu ấn quan trọng của VietinBank năm 
-qua đó là xây dựng và triển khai Chương trình Chuyển đổi số giai đoạn 2024 - 2028. 
+Coi thực hành ESG (Quản trị môi trường, xã hội, doanh nghiệp), thúc đẩy tài chính
+khí hậu, tài chính bền vững là một trong những nhiệm vụ trọng tâm, trong những
+năm qua, VietinBank đã lồng ghép các yếu tố ESG vào chiến lược phát triển chung
+của Ngân hàng, hướng đến việc tăng trưởng đều đặn và bền vững và gắn kết
+với cộng đồng. HĐQT VietinBank đã kiện toàn Ban Chỉ đạo PTBV là cơ quan đầu
+mối triển khai các hoạt động liên quan đến PTBV. Với sự tham gia trực tiếp của
+1 TV HĐQT và 1 TV BĐH, Ban Chỉ đạo PTBV sẽ thực hiện công tác tham mưu cho
+HĐQT và BĐH của VietinBank các vấn đề về PTBV, đảm bảo chiến lược về PTBV
+của VietinBank sẽ được thực hiện đồng bộ xuyên suốt trên toàn hệ thống. Song
+song, trong năm 2023, Ngân hàng đã hoàn thành việc xây dựng Khung Tài chính
+Bền vững theo thông lệ quốc tế, đưa ra các hướng dẫn cụ thể cho việc tài trợ và
+quản lý các khoản tài trợ cho danh mục các dự án Xanh và Xã hội. Khung Tài chính
+Bền vững của VietinBank đã nhận được đánh giá độc lập từ Sustainalytics - một
+công ty uy tín tại Mỹ về đánh giá tính bền vững của các công ty niêm yết dựa trên
+hiệu quả quản trị doanh nghiệp, xã hội và môi trường. Theo đó, Khung Tài chính
+Bền vững của VietinBank được đánh giá là “đáng tin cậy, có tác động mạnh mẽ và
+phù hợp với Hướng dẫn trái phiếu bền vững 2021, Nguyên tắc trái phiếu xanh 2021,
+Nguyên tắc trái phiếu xã hội 2023, Nguyên tắc cho vay xanh 2023 và Nguyên tắc
+cho vay xã hội 2023”. Đây là các bộ hướng dẫn và nguyên tắc được công nhận
+rộng rãi trên toàn cầu. Một trong những dấu ấn quan trọng của VietinBank năm
+qua đó là xây dựng và triển khai Chương trình Chuyển đổi số giai đoạn 2024 - 2028.
 “BIẾN ĐỔI KHÍ HẬU ĐÃ KHÔNG CÒN LÀ LỜI CẢNH BÁO.
 CẢ THẾ GIỚI HÀNH ĐỘNG, CHÚNG TÔI CŨNG VẬY!”
 
-222
-223
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 2 - THÔNG TIN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 Phạm vi báo cáo
-Báo cáo PTBV 2023 của VietinBank bao gồm các thông tin về hoạt động PTBV 
+Báo cáo PTBV 2023 của VietinBank bao gồm các thông tin về hoạt động PTBV
 của VietinBank trong giai đoạn từ ngày 1/1/2023 tới ngày 31/12/2023.
-Báo cáo bao gồm các chỉ số báo cáo về môi trường, xã hội và quản trị của 
-VietinBank, gồm các đơn vị tại TSC, các VPĐD, CN trong hệ thống, bao gồm 
-cả đơn vị trong và ngoài nước, cùng các công ty con do VietinBank nắm quyền 
+Báo cáo bao gồm các chỉ số báo cáo về môi trường, xã hội và quản trị của
+VietinBank, gồm các đơn vị tại TSC, các VPĐD, CN trong hệ thống, bao gồm
+cả đơn vị trong và ngoài nước, cùng các công ty con do VietinBank nắm quyền
 kiểm soát.
 Thông tin liên hệ
-Mọi ý kiến đóng góp hoặc câu hỏi liên quan đến Báo cáo PTBV xin vui lòng 
+Mọi ý kiến đóng góp hoặc câu hỏi liên quan đến Báo cáo PTBV xin vui lòng
 liên hệ:
 Ban Thư ký Hội đồng Quản trị và Quan hệ cổ đông - Văn phòng Hội đồng Quản trị
 Ngân hàng TMCP Công Thương Việt Nam
  Địa chỉ: 108 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
  Email: investor@vietinbank.vn
- Điện thoại: (84) 24 3941 3622
 Kỳ báo cáo, tần suất và nội dung báo cáo
-VietinBank thực hiện tích hợp Báo cáo PTBV định kỳ hằng năm theo niên độ kế 
-toán (bắt đầu từ ngày 1/1/2023 đến 31/12/2023) trong Báo cáo thường niên 
+VietinBank thực hiện tích hợp Báo cáo PTBV định kỳ hằng năm theo niên độ kế
+toán (bắt đầu từ ngày 1/1/2023 đến 31/12/2023) trong Báo cáo thường niên
 VietinBank.
 Tiêu chuẩn áp dụng
-Báo cáo PTBV của VietinBank được thực hiện trên cơ sở tuân thủ Thông tư 
-96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn về công bố 
-thông tin trên thị trường chứng khoán, các hướng dẫn của Ủy ban Chứng khoán 
-Nhà nước, Sở giao dịch Chứng khoán (Bảng tiêu chí đánh giá PTBV của HOSE), 
-các tiêu chuẩn báo cáo Tổ chức Sáng kiến Báo cáo Toàn cầu (Global Reporting 
-Initiative - GRI) với những hướng dẫn được công nhận là tập quán tốt nhất về 
+Báo cáo PTBV của VietinBank được thực hiện trên cơ sở tuân thủ Thông tư
+96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn về công bố
+thông tin trên thị trường chứng khoán, các hướng dẫn của Ủy ban Chứng khoán
+Nhà nước, Sở giao dịch Chứng khoán (Bảng tiêu chí đánh giá PTBV của HOSE),
+các tiêu chuẩn báo cáo Tổ chức Sáng kiến Báo cáo Toàn cầu (Global Reporting
+Initiative - GRI) với những hướng dẫn được công nhận là tập quán tốt nhất về
 báo cáo PTBV và 17 mục tiêu PTBV của Liên Hợp Quốc.
 17 Mục tiêu Phát triển bền vững của thế giới cho giai đoạn 2015 - 2030
 
-228
-229
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+3 - MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN QUAN ĐẾN PTBV
+Hướng tới việc trở thành ngân hàng PTBV theo chuẩn quốc tế và phù hợp với
+quy định của pháp luật Việt Nam, định hướng của Chính phủ, VietinBank cam
+kết PTBV:
+Trong bối cảnh toàn cầu đang nỗ lực đạt Net-zero, VietinBank đã đặt ra mục
+tiêu phát triển như sau:
+MỤC TIÊU CHUNG:
+i.	 Luôn đồng hành cùng Chính phủ, các Tổ chức trong nước và quốc tế,
+khách hàng giải quyết các vấn đề môi trường - xã hội, thúc đẩy tài
+chính bền vững thông qua các hoạt động: (i) xây dựng chính sách, sản
+phẩm tạo cơ chế linh hoạt trong tài trợ các dự án bền vững, (ii) giảm
+tài trợ dự án có tác động tiêu cực tới môi trường xã hội, biến đổi khí
+hậu, đa dạng sinh học, (iii) ưu tiên nguồn lực để tài trợ các dự án PTBV,
+các hành vi tiêu dùng góp phần bảo vệ môi trường, ứng phó biến đổi
+khí hậu và thực hiện các trách nhiệm xã hội.
+ii.	 Truyền thông về các mục tiêu và kết quả triển khai các hành động
+PTBV cho tất cả CBNV và các bên liên quan.
+iii.	Đẩy mạnh ứng dụng công nghệ, phát triển các kênh giao dịch điện
+tử, các dịch vụ, phương thức thanh toán mới trên nền tảng công nghệ
+hiện đại góp phần hướng tới mục tiêu xanh hóa hoạt động hệ thống
+ngân hàng.
+iv.	Minh bạch báo cáo với các mục tiêu liên quan đến PTBV cho các đối
+tác trong và ngoài nước, Cơ quan nhà nước có thẩm quyền, cổ đông
+và các bên có liên quan (theo quy định về CBTT).
+MỤC TIÊU CỤ THỂ:
+•	 Mục tiêu môi trường: VietinBank thực hiện các mục tiêu môi trường thông qua việc cấp tín dụng,
+cung cấp sản phẩm dịch vụ cho các mục đích:
+Giảm thiểu biến đổi khí hậu: Các hoạt động góp phần ổn định nồng độ khí nhà kính
+(Greenhouse Gas - “GHG”) trong khí quyển bằng cách tránh hoặc giảm hoặc loại
+bỏ khí nhà kính.
+Thích ứng với biến đổi khí hậu: Các hoạt động nhằm tăng cường khả năng chống
+chịu của hệ thống tự nhiên, kinh tế và xã hội, giảm thiểu tác động tiêu cực của biến
+đổi khí hậu và tận dụng cơ hội do biến đổi khí hậu mang lại.
+Bảo tồn tài nguyên thiên nhiên: Các hoạt động làm giảm mức tiêu thụ các nguồn
+tài nguyên không tái tạo, góp phần sử dụng bền vững tài nguyên thiên nhiên và
+đảm bảo tài nguyên tái tạo không bị sử dụng nhanh hơn là được tái tạo.
+Bảo tồn sinh học: Các hoạt động góp phần bảo tồn và đa dạng hệ sinh thái trong
+môi trường trên cạn, biển và dưới nước.
+Phòng ngừa và kiểm soát ô nhiễm: Các hoạt động góp phần bảo vệ môi trường,
+con người khỏi các chất ô nhiễm khác với khí nhà kính.
+•	 Mục tiêu xã hội: VietinBank thực hiên các mục tiêu xã hội thông qua việc cấp tín dụng, cung cấp
+sản phẩm dịch vụ hướng đến việc gia tăng tiện ích cho cuộc sống của con người, đặc biệt về các
+khía cạnh cơ sở hạ tầng cơ bản, nhà ở xã hội và tiếp cận dịch vụ thiết yếu.
+VietinBank đồng hành cùng doanh nghiệp thúc đẩy
+việc huy động dòng tài chính bền vững, chuyển giao
+công nghệ xanh, công nghệ các-bon thấp thích ứng
+với biến đổi khí hậu.
+VietinBank sẽ triển khai PTBV theo đúng định hướng của
+Chính phủ, thực hiện cam kết về môi trường xã hội, góp
+phần cải thiện môi trường xã hội, bảo vệ tài nguyên,
+môi trường, phát triển cơ sở hạ tầng, tăng trưởng tín
+dụng xanh và chống biến đổi khí hậu, nâng cao năng
+lực canh tranh, vị thế của Việt Nam.
+PTBV là một trong các chiến lược trọng tâm của
+VietinBank. Môi trường và biến đổi khí hậu là mục tiêu
+quan trọng cần hướng tới, đặc biệt trong bối cảnh
+Việt Nam đang xây dựng kế hoạch hành động để có
+thể đưa mức phát thải ròng bằng “0” vào năm 2050
+theo tuyên bố tại Hội nghị COP26/COP27, là cơ hội để
+VietinBank thực hiện tái cấu trúc hoạt động kinh doanh
+theo hướng PTBV.
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+3 - MỤC TIÊU, CHIẾN LƯỢC HÀNH ĐỘNG LIÊN QUAN ĐẾN PTBV
+Để đạt các mục tiêu trên, VietinBank xác định các trụ cột chính cần triển khai bao gồm:
+VietinBank thực hiện cam kết về môi trường xã hội, góp phần cải thiện môi trường xã hội, bảo vệ tài
+nguyên, môi trường, phát triển cơ sở hạ tầng, tăng trưởng tín dụng xanh và chống biến đổi khí hậu,
+nâng cao năng lực canh tranh, vị thế của Việt Nam.
+VietinBank đặt mục tiêu ưu tiên tài trợ các dự án/phương án kinh doanh đem lại lợi ích về môi trường
+và xã hội, kiện toàn hệ thống quản trị nội bộ, quy trình kiểm soát và ra quyết định hiệu quả, đảm bảo
+nguyên tắc luôn tuân thủ quy định của pháp luật, đồng thời đảm bảo quyền lợi và đáp ứng nhu cầu
+của cổ đông.
+Tuyên bố chiến lược
+PTBV của Ngân hàng;
+Kiện toàn công tác
+giám sát, báo cáo,
+công bố thông tin;
+Triển khai trọn gói bộ
+SPDV tài chính bền
+vững của Ngân hàng;
+Nâng cấp hệ thống
+quy định nội bộ định
+hướng chuẩn quốc tế;
+Tăng cường hợp tác
+đối tác, mở rộng hệ
+sinh thái PTBV của
+Ngân hàng.
+4 - QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK
+MÔ HÌNH QUẢN TRỊ HƯỚNG ĐẾN PTBV
+Mô hình PTBV của VietinBank có sự tham gia, phối hợp của HĐQT, BĐH, các Khối/Phòng/Ban TSC,
+công ty con, CN cùng toàn thể CBNV trong hệ thống VietinBank, khẳng định cam kết của VietinBank
+về trách nhiệm xã hội doanh nghiệp và theo đuổi các giá trị bền vững, nhằm mang lại lợi ích cao
+nhất cho cổ đông, NĐT, đối tác, khách hàng, CBNV và cộng đồng, xã hội.
+Năm 2023, VietinBank đã thành lập và kiện toàn nhân sự cho Ban Chỉ đạo PTBV của Ngân hàng. Đây
+là Ban Chỉ đạo chuyên trách các vấn đề về PTBV tại VietinBank, có quy chế tổ chức và hoạt động
+rõ ràng. Lãnh đạo Ban Chỉ đạo PTBV của VietinBank bao gồm TV HĐQT và TV BĐH, nhằm đảm bảo
+mục tiêu, kế hoạch hành động của Ban Chỉ đạo phù hợp với chiến lược và kế hoạch kinh doanh,
+quản trị rủi ro của Ngân hàng. Các TV còn lại của Ban Chỉ đạo đến từ các đơn vị có chức năng xây
+dựng chiến lược, kinh doanh, quản trị rủi ro, phê duyệt tín dụng, quản trị tài sản… nhằm đảm bảo
+có đủ nguồn lực để vừa xây dựng ngân hàng bền vững, vừa thúc đẩy được tài chính bền vững cho
+khách hàng.
+VAI TRÒ, TRÁCH NHIỆM CỦA HĐQT, BĐH, BAN CHỈ ĐẠO PTBV TẠI VIETINBANK
+•	 HĐQT
+HĐQT chịu trách nhiệm cao nhất trong việc xây dựng định hướng và xác định
+các chiến lược, mục tiêu, cam kết và tầm nhìm đối với hoạt động PTBV tại
+VietinBank. Đồng thời HĐQT thực hiện vai trò định hướng và xây dựng Quy định
+khung cung cấp tài chính bền vững trong hệ thống VietinBank, giám sát triển
+khai các hoạt động PTBV của Ngân hàng cũng như tình hình tuân thủ về các
+cam kết liên quan đến PTBV đối với các bên liên quan.
+BĐH có trách nhiệm bám sát theo chỉ đạo và định hướng của HĐQT để triển
+khai có hiệu quả các hoạt động liên quan đến PTBV trên quy mô toàn hệ thống
+VietinBank; đồng thời tham mưu, đề xuất và trình HĐQT các mục tiêu, chương
+trình hành động về PTBV theo phân cấp thẩm quyền và chức năng, nhiệm vụ
+được giao.
+•	 Ban Chỉ đạo PTBV
+Ban Chỉ đạo PTBV có chức năng tham mưu cho HĐQT và BĐH các vấn đề liên
+quan đến PTBV tại VietinBank, là đầu mối về công tác PTBV với các nhiệm vụ
+cụ thể là: (i) Tham mưu cho HĐQT trong nghiên cứu, xây dựng, điều chỉnh, phê
+duyệt và đánh giá kết quả, hiệu quả chiến lược PTBV của VietinBank; (ii) Tham
+mưu cho HĐQT, BĐH về việc ban hành các chính sách, hệ thống công cụ để
+triển khai các công việc liên quan đến PTBV tại VietinBank; (iii) Giám sát tình
+hình thực hiện các công việc liên quan đến PTBV đối với các TV/đơn vị có liên
+quan tại VietinBank và (iv) Báo cáo HĐQT/BĐH về việc thực hiện công việc liên
+quan đến PTBV định kỳ hàng quý hoặc đột xuất.
+Trong đó, ông Lê Thanh Tùng - TV HĐQT và ông Nguyễn Trần Mạnh Trung -
+Phó TGĐ là Đồng Trưởng Ban Chỉ đạo PTBV, trực tiếp chỉ đạo triển khai các
+hoạt động của Ban Chỉ đạo PTBV. Các TV khác của Ban Chỉ đạo bao gồm:
+Lãnh đạo Khối KHDN, Khối Kinh doanh vốn và Thị trường, Khối Nhân sự, Khối
+Phê duyệt tín dụng, Khối Mua sắm và Quản lý tài sản, Ban Chiến lược, Ban Thư
+ký HĐQT và Quan hệ cổ đông... thực hiện chức năng, nhiệm vụ theo chỉ đạo/
+điều phối của Trưởng Ban Chỉ đạo PTBV.
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 4 - QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK
 XÁC ĐỊNH CÁC LĨNH VỰC/VẤN ĐỀ TRỌNG YẾU TRONG PTBV CỦA VIETINBANK
-Các vấn đề trọng yếu trong PTBV được VietinBank nghiên cứu, xác định và cập nhật thường xuyên 
-để đảm bảo việc quản trị được chặt chẽ phù hợp với xu hướng và biến động thị trường. Bên cạnh 
-việc nghiên cứu của đội ngũ nhân sự nòng cốt về PTBV tại VietinBank, chúng tôi cũng nhận được ý 
-kiến, tư vấn từ cổ đông chiến lược, các chuyên gia, đối tác trong và ngoài ngành, cổ đông, NĐT như: 
-Các TV của nhóm nghiên cứu tài chính chuyển đổi châu Á; các diễn đàn, tọa đàm chuyên ngành như: 
-Diễn đàn kinh tế tuần hoàn, Hội nghị Liên Hợp Quốc về Biến đổi khí hậu, Khối PTBV của ngân hàng 
+Các vấn đề trọng yếu trong PTBV được VietinBank nghiên cứu, xác định và cập nhật thường xuyên
+để đảm bảo việc quản trị được chặt chẽ phù hợp với xu hướng và biến động thị trường. Bên cạnh
+việc nghiên cứu của đội ngũ nhân sự nòng cốt về PTBV tại VietinBank, chúng tôi cũng nhận được ý
+kiến, tư vấn từ cổ đông chiến lược, các chuyên gia, đối tác trong và ngoài ngành, cổ đông, NĐT như:
+Các TV của nhóm nghiên cứu tài chính chuyển đổi châu Á; các diễn đàn, tọa đàm chuyên ngành như:
+Diễn đàn kinh tế tuần hoàn, Hội nghị Liên Hợp Quốc về Biến đổi khí hậu, Khối PTBV của ngân hàng
 MUFG Bank (Nhật Bản), Đại hội cổ đông, Hội nghị khách hàng…
-Việc đối thoại, khảo sát ý kiến từ người lao động cũng được VietinBank triển khai thường xuyên theo 
-nhiều hình thức linh hoạt (trực tiếp, trực tuyến, phiếu khảo sát, trao đổi 1-1…) để thu thập phản hồi về 
+Việc đối thoại, khảo sát ý kiến từ người lao động cũng được VietinBank triển khai thường xuyên theo
+nhiều hình thức linh hoạt (trực tiếp, trực tuyến, phiếu khảo sát, trao đổi 1-1…) để thu thập phản hồi về
 các chủ đề môi trường, xã hội, quản trị.
 CÁC VẤN ĐỀ TRỌNG YẾU CỦA VIETINBANK
 MÔI TRƯỜNG
-XÃ HỘI
 QUẢN TRỊ
 Sử dụng năng lượng hiệu quả
 Giảm thiểu ô nhiễm môi trường
@@ -387,397 +692,697 @@ Quy trình kiểm soát
 Ra quyết định hiệu quả
 Đáp ứng nhu cầu cổ đông
 ĐỊNH HƯỚNG PTBV CỦA VIETINBANK
-STT
 ĐỊNH HƯỚNG
 MỤC TIÊU PTBV (SUSTAINABLE DEVELOPMENT GOALS - SDGS)
-1
-Sử dụng năng lượng 
+Sử dụng năng lượng
 hiệu quả
-Mục tiêu số 7: Năng lượng 
+Mục tiêu số 7: Năng lượng
 sạch với giá thành hợp lý
-2
-Giảm thiểu ô nhiễm 
+Giảm thiểu ô nhiễm
 môi trường
-Mục tiêu số 12: Tiêu thụ và 
+Mục tiêu số 12: Tiêu thụ và
 sản xuất có trách nhiệm
-3
-Quản lý nước bền 
-vững 
-Mục tiêu số 6: Nước sạch và 
+Quản lý nước bền
+vững
+Mục tiêu số 6: Nước sạch và
 vệ sinh
-4
 Công trình xanh
-Mục tiêu số 11: Các thành 
+Mục tiêu số 11: Các thành
 phố và cộng đồng bền vững
-5
-Quan hệ lao động 
-Mục tiêu số 3: Sức khỏe và 
+Quan hệ lao động
+Mục tiêu số 3: Sức khỏe và
 có cuộc sống tốt
-6
 Trách nhiệm xã hội
-Mục tiêu số 2: Không còn 
+Mục tiêu số 2: Không còn
 nạn đói
-Mục tiêu số 3: Sức khỏe và 
+Mục tiêu số 3: Sức khỏe và
 có cuộc sống tốt
-Mục tiêu số 4: Giáo dục có 
+Mục tiêu số 4: Giáo dục có
 chất lượng
 
-232
-233
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+4 - QUẢN TRỊ PHÁT TRIỂN BỀN VỮNG TẠI VIETINBANK
+XÁC ĐỊNH VÀ GẮN KẾT CÁC BÊN LIÊN QUAN TRỌNG YẾU ĐỐI VỚI VIETINBANK
+Xuyên suốt quá trình hoạt động, VietinBank xác định các bên liên quan trọng yếu đối với VietinBank
+bao gồm: Khách hàng; cổ đông/NĐT; cộng đồng; cơ quan quản lý; đối tác... Việc hợp tác giữa
+VietinBank và các bên liên quan luôn được thực hiện trên cơ sở tôn trọng và đảm bảo hài hòa lợi ích
+của các bên.
+Các phương thức tương tác với các bên trọng yếu được VietinBank sử dụng linh hoạt, đảm bảo mục
+tiêu thông tin tiếp nhận được đầy đủ, chính xác và phản hồi kịp thời thông qua việc cập nhật các
+chính sách và hoạt động của ngân hàng. Cụ thể:
+BÊN LIÊN
+QUAN
+PHƯƠNG THỨC
+TƯƠNG TÁC
+TẦN SUẤT
+TƯƠNG TÁC
+CÁC VẤN ĐỀ QUAN TÂM
+CÁCH THỨC VIETINBANK
+PHẢN HỒI
+Khách
+hàng
+Trung tâm CSKH (Contact
+Center) hoạt động 24/7
+thông qua các kênh: điện
+thoại, website, email…
+Liên tục 24/7
+- Các SPDV tài chính, ứng
+dụng công nghệ đáp ứng
+nhu cầu sử dụng và thỏa
+mãn trải nghiệm của
+khách hàng.
+- Chất lượng SPDV cung
+cấp, thái độ phục vụ của
+CBNV.
+- Các thông tin liên quan
+đến Ngân hàng.
+- Phát triển các SPDV đáp ứng
+tối đa nhu cầu của khách hàng,
+nâng cao trải nghiệm thông qua
+chuyển đổi số, đảm bảo giao
+dịch an toàn và nhanh chóng.
+- Hỗ trợ người dân và doanh
+nghiệp vượt qua khó khăn, phục
+hồi sản xuất.
+- Định kỳ thực hiện khảo sát để
+nâng cao chất lượng SPDV.
+- Tri ân khách hàng và thực hiện
+giải quyết khiếu nại.
+Các chiến dịch đánh giá,
+khảo sát trải nghiệm
+khách hàng
+Theo chiến
+dịch cụ thể
+Các CN, PGD trên toàn quốc Thường
+xuyên
+Cổ đông/
+ĐHĐCĐ thường niên/
+bất thường
+Theo lịch cụ
+thể, tối thiểu 1
+năm/lần
+- Kết quả kinh doanh, hoạt
+động của Ngân hàng, định
+hướng phát triển, mục tiêu…
+- Các lợi ích cho cổ đông,
+trách nhiệm của VietinBank
+với cổ đông và NĐT.
+- Công bố thông tin minh
+bạch, đầy đủ, kịp thời.
+- Đảm bảo lợi ích công
+bằng, bình đẳng giữa các
+cổ đông.
+- Đảm bảo cung cấp thông
+tin minh bạch, kịp thời cho cổ
+đông/NĐT.
+- Mang lại giá trị bền vững với
+chính sách chi trả cổ tức
+đều đặn.
+- Tổ chức ĐHĐCĐ thường niên/
+bất thường để các cổ đông có
+quyền đóng góp ý kiến và thực
+hiện quyền cổ đông theo quy
+định.
+- Tổ chức các sự kiện làm việc
+với NĐT/cổ đông/chuyên gia để
+truyền tải thông tin chính thống
+về VietinBank.
+Hội nghị, hội thảo, buổi làm
+việc trực tuyến và trực tiếp
+Thường
+xuyên
+Tài liệu dành cho NĐT trên
+chuyên trang Quan hệ NĐT
+của VietinBank
+Thường
+xuyên
+Bộ phận Quan hệ NĐT tiếp
+nhận ý kiến và giải đáp thắc
+mắc của cổ đông, NĐT
+Thường
+xuyên
+CBTT trên chuyên trang
+Quan hệ NĐT của
+VietinBank, CBTT với các
+cơ quan quản lý (NHNN,
+UBCKVN, các Sở giao dịch
+chứng khoán…)
+Thường
+xuyên
+Cộng
+Gặp gỡ, trao đổi và phối
+hợp cùng chính quyền
+địa phương
+Thường
+xuyên
+- Các hoạt động ASXH, phát
+- Các chương trình phát
+triển kinh tế địa phương.
+- Thực hiện các hoạt động
+ASXH, hỗ trợ cộng đồng.
+- Triển khai các giải pháp tài
+chính toàn diện cho doanh
+nghiệp, người dân, góp phần
+phát triển kinh tế địa phương và
+tạo thêm việc làm.
+Các kênh truyền thông
+báo chí
+Thường
+xuyên
+Trung tâm CSKH, email,
+website…
+Thường
+xuyên
+BÊN LIÊN
+QUAN
+PHƯƠNG THỨC
+TƯƠNG TÁC
+TẦN SUẤT
+TƯƠNG TÁC
+CÁC VẤN ĐỀ QUAN TÂM
+CÁCH THỨC VIETINBANK
+PHẢN HỒI
+Cơ quan
+quản lý
+Gặp gỡ, trao đổi tại các
+diễn đàn, tọa đàm,
+cuộc họp
+Thường
+xuyên
+- Tuân thủ các quy định
+pháp luật và thực hiện
+đường lối, chủ trương, chính
+sách của Nhà nước.
+- Thực hiện đầy đủ các
+nghĩa vụ với Nhà nước.
+- Quản trị các tác động tới
+môi trường, kinh tế, xã hội.
+- Đồng hành cùng Chính
+phủ và các cơ quan, ban,
+ngành trong các hoạt động
+hỗ trợ cộng đồng.
+- Luôn luôn chấp hành đầy đủ
+các quy định của cơ quan quản
+lý nhà nước trong mọi
+hoạt động.
+- Tiên phong thực thi chủ trương
+của Chính phủ và NHNN trong
+việc hỗ trợ người dân và doanh
+nghiệp, phục hồi sản xuất kinh
+doanh và phát triển nền kinh tế,
+thể hiện vai trò Ngân hàng trụ
+cột trong hệ thống thông qua
+các chính sách hỗ trợ lãi suất…
+- Đẩy mạnh thực thi các chủ
+trương, chính sách lớn của Chính
+phủ và NHNN trong việc phát
+triển tín dụng xanh, tín dụng cho
+các lĩnh vực ưu tiên…
+Tham gia xây dựng, góp ý
+văn bản chính sách của
+Nhà nước
+Thường
+xuyên
+Đối tác/
+Nhà cung
+Các cuộc tiếp xúc trực tiếp
+đảm bảo hài hòa lợi ích giữa
+các bên
+Thường
+xuyên
+- Đảm bảo chất lượng SPDV
+cung cấp.
+- Thanh toán đầy đủ và
+đúng hẹn.
+- Đảm bảo lợi ích các bên
+liên quan, duy trì mối quan
+hệ hợp tác lâu dài và
+bền vững.
+- Thực hiện đầy đủ các trách
+nhiệm, nghĩa vụ đã được ký kết.
+- Lựa chọn nhà thầu/nhà cung
+cấp công khai, minh bạch.
+- Đối xử công bằng, tôn trọng
+đối với mọi đối tác/nhà
+cung cấp.
+Người lao
+động
+- Hội nghị người lao động
+thường niên
+Theo lịch cụ
+thể, tối thiểu 1
+năm/lần
+- Chế độ lương thưởng,
+phúc lợi, cơ hội phát triển
+nghề nghiệp.
+- An toàn nơi làm việc và
+đảm bảo sức khỏe cho
+CBNV.
+- Mối quan hệ nghề nghiệp
+và môi trường làm việc.
+- Đảm bảo việc làm cho người
+lao động.
+- Phát triển chế độ lương
+thưởng, phúc lợi và chương trình
+đào tạo để nâng cao cơ hội
+nghề nghiệp.
+- Đánh giá năng lực và kết quả
+làm việc theo KPIs.
+- Xây dựng, triển khai các
+chương trình tạo động lực dành
+cho người lao động.
+- Chăm lo sức khỏe của người
+lao động, đảm bảo an toàn tại
+nơi làm việc.
+- Tổ chức các hoạt động, sự kiện
+nội bộ để tăng tính gắn kết giữa
+CBNV.
+- Xây dựng tổ chức Công
+đoàn, Đoàn thanh niên vững
+mạnh để bảo vệ quyền lợi
+người lao động
+Thường
+xuyên
+- Khảo sát mức độ hài lòng
+của CBNV
+Thường
+xuyên
+- Kênh truyền thông nội bộ
+và kênh tiếp nhận khiếu nại
+Thường
+xuyên
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 5 - CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TRONG NĂM 2023
 •	 Đồng hành cùng Chính phủ
-Trên hành trình 35 năm xây dựng và phát triển, VietinBank tự hào khi thực hiện tốt 
-2 nhiệm vụ lớn: Hoạt động kinh doanh an toàn, hiệu quả, bền vững; đồng thời tích 
-cực đi đầu triển khai thực hiện các chủ trương, chính sách lớn của Đảng, Chính phủ 
-và Nhà nước. Hiểu rõ quyết tâm của Chính phủ trong việc thực hiện các cam kết khí 
-hậu, VietinBank đã đồng hành cùng cơ quan nhà nước trong nhiều hoạt động và 
+Trên hành trình 35 năm xây dựng và phát triển, VietinBank tự hào khi thực hiện tốt
+2 nhiệm vụ lớn: Hoạt động kinh doanh an toàn, hiệu quả, bền vững; đồng thời tích
+cực đi đầu triển khai thực hiện các chủ trương, chính sách lớn của Đảng, Chính phủ
+và Nhà nước. Hiểu rõ quyết tâm của Chính phủ trong việc thực hiện các cam kết khí
+hậu, VietinBank đã đồng hành cùng cơ quan nhà nước trong nhiều hoạt động và
 sự kiện có ý nghĩa như:
-»»
-Ký thỏa thuận hợp tác với Bộ Tài nguyên và Môi trường (TN&MT), hướng 
-đến các mục tiêu PTBV, quản lý tài nguyên, bảo vệ môi trường và ứng phó 
-với biến đổi khí hậu, thúc đẩy tái cấu trúc nền kinh tế theo hướng phát triển 
+Ký thỏa thuận hợp tác với Bộ Tài nguyên và Môi trường (TN&MT), hướng
+đến các mục tiêu PTBV, quản lý tài nguyên, bảo vệ môi trường và ứng phó
+với biến đổi khí hậu, thúc đẩy tái cấu trúc nền kinh tế theo hướng phát triển
 các-bon thấp.
-»»
-Tham gia tổ chức thành công Diễn đàn Kinh tế tuần hoàn 2023 với 
-Bộ TN & MT với sự tham gia và chỉ đạo trực tiếp của Lãnh đạo Nhà 
-nước, các bộ/ban/ngành liên quan nhằm thúc đẩy kinh tế tuần 
+Tham gia tổ chức thành công Diễn đàn Kinh tế tuần hoàn 2023 với
+Bộ TN & MT với sự tham gia và chỉ đạo trực tiếp của Lãnh đạo Nhà
+nước, các bộ/ban/ngành liên quan nhằm thúc đẩy kinh tế tuần
 hoàn tại Việt Nam.
-»»
-Tham gia xây dựng Kế hoạch Huy động Nguồn lực JETP 
-nhằm hiện thực hóa Tuyên bố chính trị thiết lập quan hệ đối 
-tác chuyển đổi năng lượng công bằng (Tuyên bố JETP) trị 
-giá 15,5 tỷ USD mà Nhóm đối tác quốc tế đã cam kết hỗ trợ 
+Tham gia xây dựng Kế hoạch Huy động Nguồn lực JETP
+nhằm hiện thực hóa Tuyên bố chính trị thiết lập quan hệ đối
+tác chuyển đổi năng lượng công bằng (Tuyên bố JETP) trị
+giá 15,5 tỷ USD mà Nhóm đối tác quốc tế đã cam kết hỗ trợ
 Việt Nam trong quá trình chuyển đổi năng lượng.
 •	 Huy động nguồn lực từ hợp tác quốc tế
-Nhận thức được tính toàn cầu của các vấn đề biến đổi khí hậu, PTBV, trong năm 
-2023, VietinBank đã tăng cường hợp tác với các đối tác quốc tế để huy động 
+Nhận thức được tính toàn cầu của các vấn đề biến đổi khí hậu, PTBV, trong năm
+2023, VietinBank đã tăng cường hợp tác với các đối tác quốc tế để huy động
 nguồn lực tối đa cho sự PTBV của các doanh nghiệp tại Việt Nam. Cụ thể:
-»»
-Tại Hội nghị COP28, VietinBank đã ký Biên bản ghi nhớ hợp tác với MUFG 
-Bank, ngân hàng lớn nhất Nhật Bản và là một trong 4 ngân hàng lớn nhất 
-thế giới nhằm hợp tác thúc đẩy ESG và PTBV tại Việt Nam. Theo đó, MUFG 
-Bank sẽ hỗ trợ VietinBank thu xếp lên tới 1 tỷ USD nhằm phục vụ các dự án 
+Tại Hội nghị COP28, VietinBank đã ký Biên bản ghi nhớ hợp tác với MUFG
+Bank, ngân hàng lớn nhất Nhật Bản và là một trong 4 ngân hàng lớn nhất
+thế giới nhằm hợp tác thúc đẩy ESG và PTBV tại Việt Nam. Theo đó, MUFG
+Bank sẽ hỗ trợ VietinBank thu xếp lên tới 1 tỷ USD nhằm phục vụ các dự án
 PTBV, mang lại lợi ích môi trường, xã hội và thúc đẩy kinh tế tuần hoàn.
-»»
- Tại Diễn đàn Kinh tế Việt Nam - Nhật Bản do Bộ Kế hoạch và Đầu tư 
-Việt Nam phối hợp với Tổ chức xúc tiến thương mại Nhật Bản (JETRO) 
-tổ chức, VietinBank và Ngân hàng Hợp tác Quốc tế Nhật Bản (JBIC) 
-đã ký Biên bản ghi nhớ hợp tác, với 1 trong 2 nội dung chính là hỗ 
-trợ quá trình giảm phát thải các-bon và chuyển đổi năng lượng tại 
+Tại Diễn đàn Kinh tế Việt Nam - Nhật Bản do Bộ Kế hoạch và Đầu tư
+Việt Nam phối hợp với Tổ chức xúc tiến thương mại Nhật Bản (JETRO)
+tổ chức, VietinBank và Ngân hàng Hợp tác Quốc tế Nhật Bản (JBIC)
+đã ký Biên bản ghi nhớ hợp tác, với 1 trong 2 nội dung chính là hỗ
+trợ quá trình giảm phát thải các-bon và chuyển đổi năng lượng tại
 Việt Nam.
-»»
-Với mục tiêu là ngân hàng tiên phong tại Việt Nam trong 
-lĩnh vực tài trợ PTBV, VietinBank đã tham gia Nhóm nghiên 
-cứu tài chính chuyển đổi châu Á ngay khi tổ chức này được 
-thành lập với vai trò là TV duy nhất đến từ Việt Nam. Năm 
-2023 VietinBank đã phối hợp với các TV chủ chốt nhóm 
-nghiên cứu Tài chính Chuyển đổi châu Á công bố Báo cáo 
-thường niên năm 2023 với kết quả các hoạt động nghiên 
-cứu của nhóm nhằm thúc đẩy tài chính chuyển đổi tại 
+Với mục tiêu là ngân hàng tiên phong tại Việt Nam trong
+lĩnh vực tài trợ PTBV, VietinBank đã tham gia Nhóm nghiên
+cứu tài chính chuyển đổi châu Á ngay khi tổ chức này được
+thành lập với vai trò là TV duy nhất đến từ Việt Nam. Năm
+2023 VietinBank đã phối hợp với các TV chủ chốt nhóm
+nghiên cứu Tài chính Chuyển đổi châu Á công bố Báo cáo
+thường niên năm 2023 với kết quả các hoạt động nghiên
+cứu của nhóm nhằm thúc đẩy tài chính chuyển đổi tại
 châu Á.
-Năm 2023, VietinBank tiếp tục triển khai các hoạt động PTBV và đã đạt được 
+Năm 2023, VietinBank tiếp tục triển khai các hoạt động PTBV và đã đạt được
 các kết quả tích cực như sau:
 
-246
-247
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+5 - CÁC HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG TRONG NĂM 2023
+Nhờ chuỗi hành động về PTBV thiết thực và có ý nghĩa trên
+mà trong năm 2023, VietinBank vinh dự được các tổ chức uy
+tín trong và ngoài nước trao tặng những giải thưởng nhằm
+vinh danh các nỗ lực của Ngân hàng trong việc đem lại giá trị
+cho khách hàng, người lao động và cộng đồng:
+•	 VietinBank nằm trong Top 100 nơi làm việc tốt nhất
+Việt Nam;
+•	 Trung tâm Dịch vụ khách hàng sáng tạo Việt Nam 2023;
+•	 SPDV xuất sắc do The Asian Banker trao dành cho Ứng
+dụng Ngân hàng số VietinBank iPay Mobile; dịch vụ Ngân
+hàng số dành cho KHDN VietinBank eFAST và hệ thống
+Quản lý tập trung hồ sơ khách hàng Customer Profile
+Management;
+•	 Khung Tài chính bền vững nhận được đánh giá độc lập từ
+Sustainalytics (Mỹ), là một Khung Tài chính bền vững “đáng
+tin cậy, có tác động mạnh mẽ và phù hợp với Hướng dẫn
+trái phiếu bền vững 2021, Nguyên tắc trái phiếu xanh 2021,
+Nguyên tắc trái phiếu xã hội 2023, Nguyên tắc cho vay
+xanh 2023 và Nguyên tắc cho vay xã hội 2023”.
+•	 Sát cánh cùng doanh nghiệp và hỗ trợ cộng đồng
+Với những cam kết chống biến đổi khí hậu mạnh mẽ của Việt Nam và các quốc
+gia trên thế giới, VietinBank luôn đồng hành hỗ trợ doanh nghiệp trong hành trình
+hướng tới phát thải ròng bằng “0”, là điểm tựa tài chính vững mạnh cho các doanh
+nghiệp có mục tiêu PTBV.
+Nhằm tạo động lực cho doanh nghiệp chuyển mình trong hành trình phi
+các-bon, PTBV, VietinBank đã ra mắt Gói tài chính xanh GREEN UP trị giá
+5.000 tỷ đồng với lãi suất và phí ưu đãi dành cho các phương án, dự án
+mang lại lợi ích về môi trường và xã hội thuộc các lĩnh vực như: Năng lượng
+xanh, xuất khẩu xanh (dệt may, vải, da giày, cà phê, gạo, gỗ, thủy sản),
+công trình xanh…
+VietinBank cũng là một trong những ngân hàng tiên phong phát triển danh
+mục sản phẩm toàn diện cho PTBV, từ các lĩnh vực huy động vốn, tín dụng
+xanh… cho đến tư vấn ESG. Doanh nghiệp không chỉ được phục vụ các
+sản phẩm tài chính bền vững đa dạng phù hợp với nhu cầu doanh nghiệp,
+hưởng các ưu đãi của các chương trình VietinBank xây dựng, mà còn được
+sử dụng các giải pháp tài chính bền vững khác của VietinBank.
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+6 - THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG
+•	 Đối với hoạt động tín dụng
+VietinBank thực hiện giảm mặt bằng lãi suất cho vay, cắt giảm
+các loại phí để hỗ trợ doanh nghiệp, người dân phục hồi sản
+xuất kinh doanh. Đồng thời, Ngân hàng triển khai ứng dụng
+ngân hàng số trong hoạt động tín dụng, bám sát các mục tiêu
+trong Kế hoạch chuyển đổi số Ngành Ngân hàng thông qua
+thực hiện tự động hóa nhiều bước quy trình cho vay.
+THỰC HÀNH TIẾT KIỆM
+Triển khai chương trình hành động của Chính phủ và Ngành Ngân hàng về thực hành tiết kiệm chống
+lãng phí, trong những năm qua VietinBank đã tích cực, chủ động trong công tác tuyên truyền, quán
+triệt, phổ biến và tổ chức triển khai công tác thực hành tiết kiệm, chống lãng phí trong hệ thống.
+Trên cơ sở xác định các mục tiêu, chỉ tiêu tiết kiệm cụ thể cho từng lĩnh vực, các phòng/ban/đơn vị
+tại TSC và CN thực hiện đồng bộ công tác thực hành tiết kiệm, chống lãng phí. Một số hoạt động
+cụ thể như sau:
+•	 Đối với công tác lập và quản lý kế hoạch chi phí
+VietinBank luôn định hướng quản trị chi phí tiết kiệm, hiệu quả,
+gắn kết chặt chẽ với chiến lược kinh doanh, phù hợp với tình
+hình hoạt động của VietinBank và nâng cao năng suất lao
+động. Trong sử dụng chi phí thường xuyên, các đơn vị chủ động
+tiết kiệm ngay từ khâu xây dựng dự toán, yêu cầu dự toán đầy
+đủ, chi tiết có thuyết minh, giải trình lí do đề xuất mức chi phí…
+để làm cơ sở rà soát dự toán chi phí, đảm bảo chi phí hợp lý
+và tiết kiệm. Trên cơ sở đó, các bộ phận liên quan tiếp tục rà
+soát, cắt giảm những chi phí/hạng mục không cần thiết, trùng
+lặp, kém hiệu quả, đảm bảo không vượt định mức/tiêu chuẩn/
+chế độ quy định. Chi phí được quản lý đa chiều tại đơn vị sử
+dụng chi phí và đơn vị đầu mối tại TSC (Khối Tài chính) nhằm
+nâng cao vai trò quản lý/tư vấn/tham mưu cho Ban Lãnh đạo
+của các đơn vị đầu mối đối với các khoản chi phí trọng yếu của
+hệ thống.
+•	 Đối với chi phí hoạt động thường xuyên
+VietinBank yêu cầu các đơn vị sắp xếp các khoản chi theo thứ
+tự ưu tiên và theo mức độ cấp thiết, quan trọng; hồ sơ đảm
+bảo đầy đủ, quá trình thực hiện nhanh chóng theo đúng cam
+kết quản lý chất lượng. Các đơn vị liên tục kiểm tra, theo dõi, rà
+soát để cắt giảm các khoản chi phí không cần thiết, ưu tiên cho
+những hoạt động mang tính thiết thực, cấp bách.
+•	 Đối với công tác đầu tư xây dựng
+Trong quản lý đầu tư xây dựng công trình, thực hiện tiết kiệm
+ngay từ khâu lập kế hoạch và xác định chủ trương đầu tư, chỉ
+đề xuất các dự án thực sự cần thiết, cấp bách, trọng tâm, trọng
+điểm và có tính khả thi. Các dự án đầu tư xây dựng cơ bản tại
+VietinBank đều được thành lập Hội đồng thẩm định, đảm bảo
+các công trình được dự toán, thiết kế đúng định mức, đúng quy
+định của Nhà nước và đề xuất các phương án tối ưu nhằm tiết
+giảm chi phí đầu tư công trình. Công tác đấu thầu, lựa chọn
+nhà thầu trong hoạt động mua sắm được thực hiện nghiêm
+túc, đảm bảo cạnh tranh, công bằng, minh bạch và hiệu quả
+kinh tế.
+•	 Đối với công tác mua sắm, sử dụng tài sản, phương tiện đi lại
+VietinBank thực hiện mua sắm tài sản trên cơ sở đánh giá thực
+trạng tài sản hiện có, cắt giảm các tài sản không thực sự cần
+thiết hoặc không phù hợp với tiêu chuẩn, định mức. Tài sản
+được hạch toán, theo dõi, quản lý, sử dụng đúng quy định. Việc
+thanh lý tài sản, thực hiện nghiêm túc theo quy định và quy trình
+thanh lý tài sản, tránh thất thoát, lãng phí.
+•	 Đối với công tác tổ chức bộ máy, quản lý, sử dụng lao động và
+thời gian lao động
+VietinBank đã thực hiện đánh giá hiệu quả hoạt động của một
+số đơn vị, thực hiện các phương án kiện toàn nhằm tinh gọn
+đơn vị trung gian, tập trung nguồn lực thúc đẩy kinh doanh,
+thu hồi xử lý nợ. Song song với việc nâng cao hiệu quả hoạt
+động bộ máy tổ chức, mạng lưới, VietinBank triển khai đồng bộ
+các giải pháp kiểm soát nhân sự toàn hàng, kiểm soát tỷ lệ lao
+động quản lý, đổi mới chất lượng nguồn nhân lực, tăng năng
+suất lao động.
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+6 - THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ VÀ TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG
+Kết quả thực hành tiết kiệm, chống lãng phí năm
+2023 của VietinBank đã đạt được những kết quả
+tích cực, tiêu biểu như:
+•	 Các biện pháp tiết kiệm sử dụng năng lượng
+hiệu quả mang lại giá trị rất lớn. Tại TSC áp
+dụng công tác tuyên truyền, hướng dẫn về
+việc sử dụng điện an toàn và hiệu quả, kết
+quả đạt được là: (i) Lượng điện năng tiết giảm
+trung bình hàng năm đạt trên 2%; (ii) Giảm chi
+phí sử dụng nước sạch bình quân 2% năm, góp
+phần tiết kiệm nguồn nước sạch quốc gia.
+•	 Một số hạng mục liên quan đến đầu tư xây
+dựng VietinBank đã tiết kiệm được trong kỳ
+như: Tiết kiệm trong thẩm định, phê duyệt dự
+án được 3.336 triệu đồng; tiết kiệm trong công
+tác đấu thầu, chào hàng cạnh tranh được 704
+•	 Khâu mua sắm tài sản năm 2023 đã tiết
+kiệm hơn 150 tỷ đồng so với kế hoạch vốn đã
+phê duyệt.
+•	 Năm 2023, năng suất lao động toàn hàng
+được cải thiện, tính theo lợi nhuận trước thuế
+bình quân đầu người, năng suất lao động năm
+2023 tăng 12% so với năm 2022 và tăng 11% so
+với kế hoạch.
+•	 Năm 2023, HĐQT VietinBank đã ban hành nghị
+quyết về việc triển khai thí điểm hệ thống điện
+năng lượng mặt trời áp mái cho một số đơn vị,
+CN trên toàn hệ thống, qua đó đã góp phần
+vào việc bảo tồn nguồn năng lượng sơ cấp
+của quốc gia, giảm phát thải khí nhà kính, bảo
+vệ môi trường và ứng phó với hiện tượng biến
+đổi khí hậu toàn cầu.
+•	 Nhờ những biện pháp thực hành tiết kiệm,
+quản lý chi phí hiệu quả trên, tỷ lệ CIR lũy kế
+của VietinBank năm 2023 đạt 29%, cải thiện
+so với mức 29,9% trong năm 2022 và nằm
+trong nhóm những Ngân hàng có tỷ lệ CIR
+thấp nhất.
+TUÂN THỦ PHÁP LUẬT VỀ BẢO VỆ MÔI TRƯỜNG
+VietinBank luôn tuân thủ các văn bản pháp
+luật hiện hành về bảo vệ môi trường cụ thể như
+Luật bảo vệ môi trường, Thông tư số 39/2016/
+TT-BTNMT của Bộ Tài nguyên và Môi trường ban
+hành quy định kỹ thuật về quan trắc và điều tra
+khảo sát xâm nhập mặn có hiệu lực từ 10/02/2017,
+Nghị định số 44/2016/NĐ-CP của Chính phủ quy
+định chi tiết một số điều của Luật an toàn, vệ
+sinh lao động về hoạt động kiểm định kỹ thuật
+an toàn lao động, huấn luyện an toàn, vệ sinh
+lao động và quan trắc môi trường lao động và
+Nghị định số 4/2023/NĐ-CP của Chính phủ ngày
+13/02/2023 sửa đổi, bổ sung một số điều của
+các Nghị định liên quan đến điều kiện đầu tư kinh
+doanh và thủ tục hành chính thuộc phạm vi quản
+lý nhà nước của Bộ lao động, thương binh và xã
+hội trong đó, Điều 3 chương II (Lĩnh vực an toàn,
+vệ sinh lao động) sửa đổi, bổ sung một số điều
+của Nghị định 44/2016/NĐ-CP ngày 15/5/2016
+của Chính phủ quy định chi tiết một số điều của
+Luật An toàn, vệ sinh lao động và Quan trắc môi
+trường lao động. Cụ thể, VietinBank đã triển khai
+các công tác sau:
+•	 Tại các tòa nhà, trụ sở thuộc TSC thực hiện
+công tác đo kiểm môi trường lao động hằng
+năm, nhằm kịp thời đưa ra các giải pháp đảm
+bảo môi trường cho người lao động.
+•	 Thực hiện thu gom rác thải đúng quy định
+nhằm bảo vệ môi trường: Phân loại rác thải
+ngay tại các vị trí người dùng, ký kết hợp đồng
+thu gom rác thải với các đơn vị có đủ năng
+lực, được cấp phép trong lĩnh vực bảo vệ
+môi trường...
+Số lần bị phạt vi phạm do không tuân thủ luật
+pháp và các quy định về môi trường: Không.
+Tổng số tiền bị xử phạt do không tuân thủ luật
+pháp và các quy định về môi trường: Không.
+• NĂNG SUẤT LAO ĐỘNG TOÀN HÀNG
+ĐƯỢC CẢI THIỆN
+tăng 12%
+so với năm 2022
+• TỶ LỆ CIR LŨY KẾ
+CỦA VIETINBANK NĂM 2023
+
+BÁO CÁO
+THƯỜNG NIÊN
+“ĐỊNH HÌNH
+KỶ NGUYÊN SỐ”
+“CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 7 - HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
-HOẠT ĐỘNG NGUỒN VỐN ỦY THÁC NƯỚC NGOÀI LIÊN QUAN ĐẾN CÁC DỰ ÁN HỖ TRỢ PHÁT 
-TRIỂN, NGUỒN VỐN ODA
-Những năm qua, dù xu hướng vay vốn ODA và vốn ưu đãi của các nhà tài trợ nước ngoài 
-giảm, nguồn vốn này vẫn đóng góp tích cực vào tăng trưởng và phát triển của nền kinh 
-tế. Trong bối cảnh đó, VietinBank vẫn duy trì nằm trong nhóm các NHTM chiếm thị phần 
-trọng yếu về huy động, quản lý và giải ngân các dự án/chương trình sử dụng nguồn vốn 
-quốc tế hằng năm. Cụ thể, VietinBank tiếp tục được lựa chọn giao làm đơn vị cho vay lại 
-và ngân hàng phục vụ, quản lý quỹ và quản lý nhiều chương trình tín dụng quốc tế. Một số 
-dự án VietinBank đã và đang phục vụ có thể kể đến như: Dự án đường sắt đô thị Hà Nội 
-tuyến số 3 Nhổn - Ga Hà Nội; Dự án đường sắt đô thị Hồ Chí Minh tuyến số 2 Bến Thành - 
-Tham Lương, Dự án đường cao tốc Đà Nẵng - Quảng Ngãi (673 triệu USD), Dự án xây dựng 
-Nhà ga hành khách quốc tế T2 Cảng hàng không Quốc tế Nội Bài, Dự án “Thành phần 1A 
-đoạn Tân Vạn - Nhơn Trạch thuộc đường vành đai 3 TP. HCM” (trị giá 300 triệu USD)… Đây 
-đều là các dự án trọng điểm quốc gia được Nhà nước và Chính phủ quan tâm và đặc biệt 
-chú trọng.
-Công tác thu hút Dự án ODA và dự án vay ưu đãi nước ngoài mới được VietinBank thực hiện 
-bài bản từ năm 2009 và chỉ sau một thời gian ngắn, VietinBank đã trở thành một trong những 
-NHTM Nhà nước hàng đầu được giao phục vụ nhiều dự án có giá trị lớn từ các nguồn vốn nước 
-ngoài của Chính phủ Nhật, Pháp, Đức, Hàn Quốc... và các tổ chức tài chính quốc tế như: Cơ 
-quan hợp tác quốc tế Nhật Bản (JICA), Ngân hàng Thế giới (WB), Ngân hàng Phát triển Châu 
-Á (ADB), Ngân hàng Đầu tư Châu Âu (EIB)…
-Các dự án đã được VietinBank phục vụ, giải ngân nhanh chóng, hiệu quả và an toàn theo quy 
-định của Nhà tài trợ, Chính phủ Việt Nam. Hoạt động giải ngân, tiêu chuẩn QTRR theo thông 
-lệ quốc tế. Thông qua phục vụ và cho vay lại, các chương trình/dự án trên phạm vi cả nước 
-như các dự án về cải tạo lưới điện, truyền tải điện, giáo dục, cấp nước, vệ sinh môi trường, 
-VietinBank đã đóng góp tích cực vào hoạt động sản xuất kinh doanh của các doanh nghiệp, 
-góp phần xóa đói, giảm nghèo, nâng cao chất lượng đời sống xã hội, phát triển các ngành 
-kinh tế trọng yếu của quốc gia.
-CHƯƠNG TRÌNH TÍN DỤNG XANH TÀI TRỢ CÁC DỰ ÁN ĐẦU TƯ VÀO LĨNH VỰC BẢO VỆ MÔI 
-TRƯỜNG, ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU VÀ PHÁT TRIỂN BỀN VỮNG; CHƯƠNG TRÌNH TÍN 
-DỤNG TÀI TRỢ CHO CÁC DỰ ÁN TIẾT KIỆM VÀ HIỆU QUẢ NĂNG LƯỢNG
-Tiếp nối sự tăng trưởng mạnh mẽ trong tài trợ PTBV giai đoạn 2018 - 2022, VietinBank đã đưa 
-hoạt động PTBV trở thành một nội dung trọng tâm, xuyên suốt cùng kế hoạch hoạt động kinh 
-doanh 2023.
-Với sự chỉ đạo trực tiếp của Ban chỉ đạo PTBV, VietinBank đã xây dựng Khung tài chính bền 
-vững của ngân hàng có quan điểm độc lập của bên thứ hai, qua đó tuyên bố rõ chiến lược, 
-mục tiêu, quy trình lựa chọn dự án, quản lý mục đích sử dụng vốn và quy trình báo cáo đầy 
-đủ, minh bạch. Khung tài chính bền vững của ngân hàng được xây dựng đảm bảo đáp ứng 
-thông lệ thị trường và các bộ tiêu chuẩn/hướng dẫn quốc tế như: Bộ nguyên tắc do Hiệp hội 
-Thị trường Vốn Quốc tế (International Capital Market Association) ban hành, bao gồm: Nguyên 
-tắc Trái phiếu Xanh và Nguyên tắc Trái phiếu Xã hội; Bộ nguyên tắc do Hiệp hội thị trường Tín 
-dụng (Loan Market Association, LMA) và Hiệp hội thị trường Tín dụng châu Á Thái Bình Dương 
-(Asia Pacific Loan Market Association, APLMA) đồng ban hành, bao gồm: Nguyên tắc Cho Vay 
-xanh và Nguyên tắc Cho Vay Xã hội.
-Trên cơ sở Khung tài chính bền vững này, HĐQT VietinBank đã ban hành Quy định khung cung 
-cấp tài chính bền vững nhằm đồng nhất mục tiêu, nguyên tắc triển khai cung cấp tài chính 
-bền vững từ TSC tới tất cả các CN, PGD trên toàn quốc. Các cấu trúc tài chính phổ biến, danh 
-mục dự án mục tiêu… cũng được quy định rõ trong quy định nội bộ này nhằm mục tiêu đẩy 
-mạnh tài trợ PTBV trong toàn ngân hàng.
-Bên cạnh việc kiện toàn cơ cấu quản trị và khung thể chế liên quan đến PTBV trong ngân 
-hàng, VietinBank tiếp tục triển khai các sản phẩm đặc thù như Sản phẩm tài trợ dự án năng 
-lượng tái tạo, thiết bị tiết kiệm hiệu quả năng lượng, các gói ưu đãi như gói ưu đãi dành cho 
-lĩnh vực năng lượng tái tạo năm 2023, gói chính sách ưu đãi thúc đẩy tài chính bền vững… Các 
-gói này đã mang tới 10.000 tỷ đồng để cung cấp nguồn vốn ưu đãi cho các phương án, dự 
-án mang lại lợi ích về môi trường và xã hội trong hoạt động sản xuất kinh doanh. Tính đến 
-31/12/2023, tổng dư nợ tín dụng xanh của VietinBank đạt 47.465 tỷ đồng đối với gần 1.000 
-khách hàng (chiếm 3,24% tổng dư nợ cấp tín dụng, tăng từ  mức 1,47% cuối năm 2018), bao 
-gồm các lĩnh vực nông nghiệp xanh, lâm nghiệp bền vững, năng lượng tái tạo, tái chế sử dụng 
-các nguồn tài nguyên, xử lý chất thải và phòng chống ô nhiễm, quản lý nước bền vững tại khu 
-vực đô thị và nông thôn. Nhằm tạo động lực cho doanh nghiệp chuyển mình trong hành trình 
-phi các-bon, PTBV, VietinBank đã ra mắt Gói tài chính xanh GREEN UP trị giá 5.000 tỷ đồng với 
-lãi suất và phí ưu đãi dành cho các phương án, dự án mang lại lợi ích về môi trường và xã hội 
-thuộc các lĩnh vực như: Năng lượng xanh, xuất khẩu xanh (dệt may, vải, da giày, cà phê, gạo, 
-gỗ, thủy sản), công trình xanh…
-VietinBank đã và đang coi thực hành ESG, thúc đẩy tài chính bền vững, tài chính khí hậu là 
-một trọng tâm trong hoạt động của mình và sẽ tiếp tục có các sáng kiến trong thời gian tới 
-để có thể trở thành ngân hàng hàng đầu trong lĩnh vực phát triển bền vững tại Việt Nam vào 
-năm 2025.
-TỔNG DƯ NỢ TÍN DỤNG 
-XANH CỦA VIETINBANK
-đạt 47.465 tỷ đồng
-đối với gần
-1.000 KHÁCH HÀNG
-VIETINBANK ĐÃ RA MẮT GÓI 
-TÀI CHÍNH XANH GREEN UP
-trị giá 5.000 tỷ đồng
+Trách nhiệm với cộng đồng, xã hội là yếu tố gắn kết chặt chẽ song hành với
+hoạt động kinh doanh của VietinBank. Đây là lý do Ngân hàng không ngừng
+nỗ lực mang lại những giá trị tốt đẹp nhất cho cộng đồng, đóng góp vào sự
+PTBV của kinh tế, ASXH đất nước với nhiều hoạt động ý nghĩa trong các lĩnh
+vực phát triển tín dụng xanh, các dự án hỗ trợ phát triển, nguồn vốn ODA...
+Ra đời vào giai đoạn bắt đầu mở cửa nền kinh tế, đồng hành cùng sự phát
+triển kinh tế của đất nước, trên hành trình 35 năm xây dựng và phát triển,
+VietinBank luôn ý thức được trách nhiệm của mình trong việc đóng góp vào sự
+phát triển mang tính lâu dài của kinh tế và xã hội, cũng như chung tay bảo vệ
+môi trường nhằm bảo vệ hành tinh xanh cho thế hệ mai sau.
+ĐÓNG GÓP PHÁT TRIỂN KINH TẾ - XÃ HỘI
+Song song với việc phát triển kinh doanh và nâng cao chất lượng SPDV, VietinBank luôn chú trọng
+thực hiện cam kết về trách nhiệm xã hội của doanh nghiệp, theo đuổi các giá trị bền vững. Là một
+đơn vị hoạt động trong lĩnh vực tài chính, VietinBank ý thức rõ ràng tầm quan trọng và sự cần thiết
+trong việc đóng góp vào sự PTBV và lâu dài của Nhà nước, cổ đông, người lao động và cộng đồng
+xã hội. Thành lập từ những ngày đầu của công cuộc đổi mới nền kinh tế Việt Nam, sự phát triển của
+VietinBank đồng hành với sự thành công của doanh nghiệp, người dân và sự thịnh vượng của nền
+kinh tế.
+Là đơn vị đi đầu đóng góp tích cực cho ngân sách Nhà nước
+Với vai trò là Ngân hàng trụ cột trong hệ thống tài chính, VietinBank luôn nghiêm túc thực hiện đầy
+đủ và đúng đắn các nghĩa vụ thuế và các khoản phải nộp cho ngân sách Nhà nước theo yêu cầu
+của cơ quan quản lý, qua đó thể hiện hiệu quả kinh doanh và ý thức trách nhiệm xã hội của doanh
+nghiệp. Liên tục trong nhiều năm, VietinBank luôn nằm trong Top dẫn đầu của Bảng xếp hạng 1.000
+doanh nghiệp đóng thuế thu nhập lớn nhất Việt Nam (V1000). Đây là sự ghi nhận về đóng góp của
+VietinBank đối với ngân sách quốc gia, đồng thời khích lệ Ngân hàng tiếp tục đóng góp hơn nữa vào
+sự phát triển giàu mạnh của đất nước.
+Các khoản đã nộp ngân sách Nhà nước của VietinBank trong 5 năm từ 2019 - 2023
+Số thuế thực nộp trong năm
+Trong đó: Thuế TNDN thực nộp
+Nguồn số liệu: BCTC hợp nhất kiểm toán từ năm 2019 - 2023
+Thực hiện chi trả cổ tức đều đặn, đảm bảo quyền lợi cho cổ đông
+VietinBank luôn đảm bảo chi trả cổ tức cho cổ đông trên cơ sở phê duyệt của ĐHĐCĐ VietinBank,
+các cơ quan Nhà nước có thẩm quyền và theo đúng quy định pháp luật có liên quan. Nguồn vốn từ
+việc tăng vốn điều lệ được VietinBank cam kết sử dụng để phục vụ hoạt động kinh doanh, đảm bảo
+an toàn, hiệu quả và mang lại lợi ích cao nhất cho các cổ đông và góp phần quan trọng thúc đẩy
+kinh tế - xã hội đất nước.
+Bên cạnh đó, với một cơ cấu cổ đông đa dạng và số lượng cổ đông lớn, VietinBank luôn chú trọng
+vào hoạt động Quan hệ NĐT nhằm duy trì, giữ vững niềm tin của cổ đông đối với doanh nghiệp
+hướng tới mục tiêu là tối đa hóa giá trị của doanh nghiệp cũng như nâng cao giá trị dành cho cổ
+đông (Chi tiết xem tại Phần 6, mục 9 - Trách nhiệm với cổ đông và NĐT).
+Lễ ký kết Biên bản thỏa thuận hợp tác giữa VietinBank và Bộ TN&MT
 
-248
-249
+Đại diện VietinBank nhận Giải thưởng “Top 100 nơi làm việc tốt nhất Việt Nam” năm 2023
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 7 - HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
-HOẠT ĐỘNG THỊ TRƯỜNG VỐN XANH THEO HƯỚNG DẪN CỦA ỦY BAN CHỨNG KHOÁN 
-NHÀ NƯỚC
-Việt Nam với đặc thù có hơn 3.200 km bờ biển cùng nhiều tỉnh/thành phố và cùng đồng bằng 
-ven sông có địa hình trũng thấp, là một trong những quốc gia dễ bị tổn thương nhất trên thế 
-giới trước biến đổi khí hậu. Nhận thức vai trò quan trọng của huy động động nguồn lực tài 
-chính và các cơ chế tài trợ trong nỗ lực toàn cầu nhằm chống lại biến đổi khí hậu, VietinBank 
-đã quan tâm đến PTBV từ rất sớm và có những hành động cụ thể để tích hợp PTBV vào hoạt 
-động của ngân hàng. Tốc độ tăng trưởng tài trợ PTBV của VietinBank giai đoạn 2008 - 2023 
-luôn đạt mức 100% hàng năm.
-Trong khuôn khổ COP28 tổ chức tại Dubai, VietinBank đã tham gia và ký kết Biên bản ghi nhớ 
-với đối tác chiến lược MUFG với thỏa thuận nỗ lực hỗ trợ VietinBank thu xếp nguồn tài chính 
-lên tới 1 tỷ USD nhằm phục vụ các dự án PTBV, mang lại lơi ích môi trường, xã hội và thúc đẩy 
-kinh tế tuần hoàn. Hợp tác để thu xếp huy động vốn phục vụ các dự án xanh, các dự án mang 
-lại lợi ích cho xã hội cũng là trọng tâm được trao đổi trong các cuộc gặp gỡ song phương 
-giữa VietinBank với các đối tác MUFG, Standard Chartered. Ngoài ra, VietinBank cũng tích cực 
-tham gia nhiều hoạt động như: Diễn đàn Kinh tế tuần hoàn Việt Nam năm 2023, phối hợp với 
-các TV chủ chốt nhóm nghiên cứu Tài chính chuyển đổi châu Á công bố các báo cáo nghiên 
-cứu, phác thảo các bước tiến của tài chính chuyển đổi tại châu Á, ký kết thỏa thuận hợp tác 
-với Bộ Tài nguyên và Môi trường hướng đến các mục tiêu PTBV và nhiều hoạt động khác để 
-lan tỏa cam kết đồng hành cùng doanh nghiệp trong quá trình chuyển đổi sang phát thải 
-ròng bằng 0.
-Bên cạnh các sản phẩm đặc thù đã triển khai trong lĩnh vực PTBV, VietinBank đang tiếp tục 
-nghiên cứu để phát triển SPDV mới như trái phiếu xanh, cho vay bền vững, tư vấn lộ trình ESG… 
-Để tạo nền tảng cần thiết cho việc phát triển các công cụ tài chính xanh, tài chính bền vững, 
-VietinBank đã xây dựng quy định khung cung cấp tài chính bền vững, đưa ra các hướng dẫn 
-cụ thể cho việc huy động vốn, tài trợ và quản lý vốn cho danh mục các dự án Xanh và Xã hội.
-Với nhận định phát triển xanh và bền vững là một trong những xu hướng lớn của hệ thống 
-tài chính Việt Nam thời gian tới, VietinBank tin tưởng những cam kết và nỗ lực của VietinBank 
-trong hoạt động thúc đẩy tài chính xanh, tài chính bền vững và thực hành ESG sẽ đóng góp 
-tích cực vào việc thực hiện các mục tiêu hướng tới tăng trưởng bền vững tại Việt Nam.
-SAU COP28: VIETINBANK TIẾP TỤC HIỆN THỰC HOÁ CÁC CAM KẾT
-HOẠT ĐỘNG CỦA VIETINBANK TẠI COP 28
-1 tỷ USD là khoản thu xếp vốn phục vụ phát triển bền 
-vững nằm trong MOU giữa VietinBank và MUFG
-Làm việc với Goldwind để thảo luận hợp tác thúc đẩy 
-năng lượng điện gió tại Việt Nam
-Chủ tịch HĐQT VietinBank Trần Minh Bình và ông 
-Koichiro Oshima, Giám đốc điều hành, Giám đốc Đơn 
-vị Kinh doanh Giải pháp Tài chính, MUFG (trái) thảo luận 
-về các cơ hội hợp tác trong lĩnh vực tài chính bền vững
-Thảo luận với Standard Chartered các cơ hội hợp tác 
-kinh doanh, đặc biệt là lĩnh vực huy động vốn để PTBV
-THAM GIA:
-•	 Hội nghị bàn tròn giữa Bộ trưởng Bộ Tài nguyên & Môi trường và GFANZ về Kế hoạch thực thi 
-Khung huy động nguồn lực triển khai JETP
-•	 Hội thảo vai trò của ngân hàng khi vận hành thị trường tín chỉ carbon
-•	 Chuỗi hội thảo về phát thải ròng, huy động tài chính cho biến đổi khí hậu, chuyển đổi xanh…
-HÀNH TRANG VIETINBANK MANG ĐẾN COP28
-•	 Khung tài chính bền 
-vững đưa ra các hướng 
-dẫn cụ thể cho việc 
-tài trợ và quản lý các 
-khoản tài trợ phát triển 
-bền vững
-•	 Nghiên cứu phát triển 
-các sản phẩm tài chính 
-bền vững
-•	 Không ngừng mở rộng 
-hợp tác với các đối tác 
-trong lĩnh vực phát triển 
-bền vững
-•	 Tài trợ phát triển bền vững tăng trưởng 100% giai đoạn 2018 – 2022
-•	 Bộ danh mục sản phẩm đặc thù cho phát triển bền vững
-•	 Cam kết dành nguồn lực tối đa cho phát triển bền vững
+Chế độ phúc lợi hấp dẫn kết hợp với chính sách đãi ngộ toàn diện cho người lao động
+Nguồn nhân lực là một nền tảng quan trọng hàng đầu đối với sự phát triển và thành công của một
+tổ chức, do đó VietinBank luôn nỗ lực xây dựng chế độ phúc lợi, đãi ngộ, đào tạo phát triển toàn diện
+và có tính cạnh tranh để thu hút, giữ chân nhân tài, gắn kết tập thể, đưa VietinBank trở thành một
+trong những nơi làm việc tốt nhất Việt Nam. Trên cơ sở khảo sát thị trường lao động và đóng góp của
+mỗi CBNV, các chính sách lương thưởng hàng năm được rà soát, điều chỉnh, nâng cao, đảm bảo tính
+công bằng và minh bạch. Quy trình xếp loại và đánh giá được thực hiện qua nhiều vòng, bởi nhiều
+đơn vị trong hệ thống để kết quả khách quan, chính xác và nhanh chóng. (Chi tiết xem tại Phần 6,
+mục 10 - Trách nhiệm với người lao động).
+Chi phí cho nhân viên tại VietinBank trong 5 năm từ 2019 - 2023
+Đơn vị tính: Triệu đồng
+CHI LƯƠNG VÀ PHỤ
+CÁC KHOẢN CHI
+ĐÓNG GÓP THEO
+CHI TRỢ CẤP (3)
+CÁC KHOẢN CHI
+CHI PHÍ CHO NHÂN
+Nguồn số liệu: BCTC hợp nhất kiểm toán từ năm 2019 - 2023
+Sẻ chia giá trị bền vững cùng cộng đồng
+Trên hành trình 35 năm xây dựng và phát triển, bên cạnh việc hướng tới cung cấp các giải pháp
+tài chính tối ưu cho khách hàng, VietinBank luôn đặt sự phát triển của Ngân hàng trong sự phát
+triển của cộng đồng. Với mục tiêu hướng tới là ngân hàng PTBV vì cộng đồng, hoạt động ASXH của
+VietinBank không ngừng được đẩy mạnh với nhiều chương trình thiết thực, có ý nghĩa, đóng góp vào
+sự phát triển chung của xã hội. Từ nhiều năm nay, các hoạt động thiện nguyện, hỗ trợ cộng đồng đã
+là nét đẹp văn hóa mà VietinBank luôn tự hào và duy trì, nhằm lan tỏa tinh thần nhân văn sâu sắc
+tới mỗi CBNV cũng như toàn xã hội. Trong năm 2023, kinh phí VietinBank dành cho công tác ASXH là
+gần 300 tỷ đồng, lũy kế từ trước đến nay là hơn 8.800 tỷ đồng. (Chi tiết xem tại Phần 6, mục 11 - Trách
+nhiệm với cộng đồng và xã hội).
+Đối với VietinBank, trách nhiệm xã hội doanh nghiệp được coi là phần
+thưởng (bonus), không phải nghĩa vụ (onus).
+Bên cạnh việc chú trọng vào hoạt động phát triển kinh doanh, VietinBank
+hiểu rằng thành công chỉ có ý nghĩa khi thành công đó được chia sẻ cùng
+cộng đồng và xã hội. Do đó, từ nhiều năm nay, các hoạt động PTBV luôn
+là trọng tâm mà VietinBank luôn duy trì và thúc đẩy nhằm lan tỏa giá trị
+tới khách hàng, đối tác, người lao động và toàn xã hội.
+VietinBank luôn tích cực thực hiện các hoạt động hỗ trợ cộng đồng - xã hội
+Các hoạt động thiện nguyện từ lâu đã là nét đẹp văn hóa của VietinBank
 
-252
-253
 BÁO CÁO
 THƯỜNG NIÊN
-2023
 “ĐỊNH HÌNH
 KỶ NGUYÊN SỐ”
 “CÙNG VIETINBANK SẺ CHIA GIÁ TRỊ”
-PHẦN 6
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-8 - TRÁCH NHIỆM VỚI KHÁCH HÀNG
-HOẠT ĐỘNG HỖ TRỢ VÀ CHĂM SÓC KHÁCH 
-HÀNG DOANH NGHIỆP
-Trước bối cảnh tình hình kinh tế thế giới biến 
-động phức tạp, xung đột địa chính trị và áp lực 
-lạm phát, nền kinh tế Việt Nam cũng không nằm 
-ngoài ảnh hưởng, tiếp tục đối diện với những 
-thách thức, khó khăn. Bám sát chỉ đạo của 
-Chính phủ và NHNN, phát huy vai trò là NHTM 
-Nhà nước chủ lực, trụ cột, tiên phong, VietinBank 
-đã triển khai nhiều biện pháp nhằm hỗ trợ, đồng 
-hành cùng doanh nghiệp và người dân, cụ thể 
-như sau:
-•	 Triển khai các biện pháp hỗ trợ KHDN: Theo 
-Thông tư 02/2023/TT-NHNN (TT02); Gói hỗ trợ 
-lãi suất 2%/năm theo Nghị định số 31/2022/
-NĐ-CP ngày 20/5/2022; Thông tư số 03/2022/
-TT-NHNN ngày 20/5/2022; Chương trình cho 
-vay ưu đãi phát triển nhà ở xã hội, nhà ở cho 
-công nhân; các dự án nhà ở thương mại giá rẻ 
-theo Nghị quyết 33/NQ-CP, các chương trình 
-tín dụng ưu đãi đối với lĩnh vực lâm sản, thủy 
-sản, nông nghiệp nông thôn....
-•	 Thực hiện chỉ đạo của Chính phủ và NHNN 
-(Nghị quyết số 105/NQ-CP) về việc thực hiện 
-các biện pháp để tiếp tục giảm lãi suất, trong 
-năm 2023, VietinBank đã thực hiện 5 đợt điều 
-chỉnh giảm sàn lãi suất cho vay chung. Triển 
-khai hàng loạt chương trình với lãi suất cạnh 
-tranh, thấp hơn lãi suất cho vay thông thường 
-từ 2 - 3%/năm nhằm đáp ứng nhu cầu vốn sản 
-xuất kinh doanh, tiêu dùng thiết yếu.
-•	 Phối hợp chặt chẽ với chính quyền địa phương 
-các tỉnh/thành phố triển khai chương trình kết 
-nối giữa ngân hàng - doanh nghiệp, tham gia 
-các hoạt động xúc tiến đầu tư, chương trình 
-cam kết tài trợ tín dụng, xúc tiến thương mại 
-phát triển vùng, miền trong nước, quốc tế 
-với tư cách vừa là nhà tài trợ, vừa là doanh 
-nghiệp cung cấp, giới thiệu các SPDV tài chính 
-ngân hàng.
-•	 Cải tiến quy trình cấp tín dụng, triển khai đề 
-án Chuyển đổi số toàn diện các hoạt động, 
-hướng đến mục tiêu phê duyệt tín dụng tự 
-động đối với KHDN siêu vi mô, triển khai giải 
-ngân online, bảo lãnh online nhằm đáp ứng 
-nhanh chóng nhu cầu với tệp số lớn khách 
-hàng. Riêng với phân khúc KHDN vừa và nhỏ, 
-VietinBank đã thiết kế quy trình cấp tín dụng 
-và quy trình giải ngân rút gọn, rút ngắn tới 30% 
-so với quy trình cấp tín dụng thông thường.
-•	 Xây dựng và cải tiến các sản phẩm, giải pháp 
-về tín dụng phù hợp với nhu cầu thị trường và 
-theo đặc thù từng nhóm ngành trọng điểm và 
-mối liên hệ của doanh nghiệp trong chuỗi cung 
-ứng/phân phối, mang lại giá trị gia tăng cho 
-KHDN căn cứ trên lợi thế của ngành và liên kết 
-chuỗi hoạt động như: Các nhóm ngành xây 
-lắp, dược phẩm và thiết bị y tế, bất động sản 
-khu công nghiệp, năng lượng tái tạo, thương 
-mại phân phối…
-•	 Phát triển các SPDV tài chính bền vững (ESG): 
-VietinBank đã và đang xây dựng các SPDV 
-nhằm đa dạng hóa hình thức tài trợ để đồng 
-hành cùng các doanh nghiệp thực hiện các dự 
-án PTBV, phi các-bon hóa và thực hành ESG.
-»»
-Ngân hàng đã ra mắt Gói tài chính xanh 
-GREEN UP trị giá 5.000 tỷ đồng với lãi 
-suất và phí ưu đãi dành cho các phương 
-án, dự án mang lại lợi ích về môi trường 
-và xã hội thuộc các lĩnh vực như: Năng 
-lượng xanh, xuất khẩu xanh (dệt may, vải, 
-da giày, cà phê, gạo, gỗ, thủy sản), công 
-trình xanh….
-»»
-VietinBank cũng là một trong những 
-ngân hàng tiên phong phát triển danh 
-mục sản phẩm toàn diện cho PTBV, từ 
-các lĩnh vực huy động vốn, tín dụng 
-xanh… cho đến tư vấn ESG. Doanh 
-nghiệp không chỉ được phục vụ các 
-sản phẩm tài chính bền vững đa dạng 
-phù hợp với nhu cầu doanh nghiệp, 
-hưởng các ưu đãi của các chương trình 
-VietinBank xây dựng, mà còn được sử 
-dụng các giải pháp tài chính bền vững 
-khác của VietinBank.
-»»
-Ngân hàng tiếp tục triển khai các sản 
-phẩm đặc thù như: Sản phẩm tài trợ dự 
-án năng lượng tái tạo, thiết bị tiết kiệm 
-hiệu quả năng lượng, các gói ưu đãi như 
-gói ưu đãi dành cho lĩnh vực năng lượng 
-tái tạo năm 2023, gói chính sách ưu đãi 
-thúc đẩy tài chính bền vững… Các gói 
-này đã mang tới 10.000 tỷ đồng để cung 
-cấp nguồn vốn ưu đãi cho các phương 
-án, dự án mang lại lợi ích về môi trường 
-và xã hội trong hoạt động sản xuất 
-kinh doanh.
-•	 VietinBank đã ban hành các Gói tín dụng với 
-lãi suất ưu đãi nhằm thúc đẩy tăng trưởng 
-tín dụng như: Chương trình đồng hành cùng 
-KHDN, Gói tín dụng quý, Gói lãi suất cạnh 
-tranh, Gói tín dụng bất động sản khu công 
-nghiệp, Chương trình cho vay trung dài hạn lãi 
-suất cố định, cơ chế miễn giảm phí cho các 
-khách hàng chiến lược của VietinBank, SME 
-UP, SME Flash, Chiến dịch SME khai thác khách 
-hàng mới… Bên cạnh đó, VietinBank cũng 
-nghiên cứu và ban hành các gói sản phẩm tài 
-chính toàn diện cho các ngành/doanh nghiệp 
-đặc thù, các công ty con/công ty liên kết 
-trong hệ sinh thái, các dự án trọng điểm như: 
-Gói sản phẩm dành cho nhà thầu cao tốc Bắc 
-Nam, Gói SPDV nhà thầu sân bay Long Thành, 
-các Gói giải pháp tài trợ chuỗi cung ứng SCF…; 
-đồng thời tích cực giới thiệu khách hàng tiềm 
-năng cho CN, cung cấp các giải pháp kết nối 
-trong nước và quốc tế nhằm hỗ trợ các KHDN
+7 - HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
+GIÁ TRỊ KINH TẾ TRỰC TIẾP ĐƯỢC TẠO RA VÀ ĐƯỢC PHÂN BỔ
+Năm 2023 là một năm đầy thách thức với nền kinh tế toàn cầu nói chung và kinh tế Việt Nam nói
+riêng. Vững bước phát triển trong bối cảnh đầy khó khăn, VietinBank luôn gắn kết hoạt động kinh
+doanh với chia sẻ giá trị lâu dài và bền vững tới các bên liên quan, bao gồm: cổ đông & NĐT, khách
+hàng, người lao động, Nhà nước và cộng đồng xã hội. Năm 2023, với nỗ lực biến thách thức thành
+cơ hội, VietinBank đã hoàn thành xuất sắc kế hoạch kinh doanh được NHNN và ĐHĐCĐ giao. Ngân
+hàng tiếp tục phát huy thế mạnh, đẩy mạnh chuyển đổi số toàn diện, gia tăng tiện ích, trải nghiệm
+và bảo mật cho khách hàng, khẳng định năng lực của một ngân hàng thương mại hàng đầu trên thị
+trường tài chính Việt Nam.
+THỊ PHẦN CHO VAY
+THỊ PHẦN TIỀN GỬI
+Giá trị kinh tế trực tiếp được phân bổ
+Giá trị kinh tế trực tiếp được tạo ra
+TỶ LỆ CỔ TỨC
+TRONG NĂM 2023
+CHI PHÍ NHÂN VIÊN
+so với năm 2022
+CHI PHÍ TÀI SẢN
+so với năm 2022
+CHI PHÍ LÃI VÀ CÁC
+CHI PHÍ TƯƠNG TỰ
+so với năm 2022
+CHI PHÍ NỘP BẢO HIỂM
+VÀ BẢO TOÀN TIỀN GỬI
+KHÁCH HÀNG
+so với năm 2022
+SỐ THUẾ THỰC NỘP
+NGÂN SÁCH NHÀ NƯỚC
+TRONG NĂM 2023
+so với năm 2022
+TỶ LỆ NỢ XẤU
+THEO TT11
+Thấp hơn
+THU NHẬP LÃI THUẦN
+so với năm 2022
+LÃI THUẦN TỪ
+HOẠT ĐỘNG DỊCH VỤ
+so với năm 2022
+TỔNG THU NHẬP
+HOẠT ĐỘNG
+so với năm 2022
+TỔNG TÀI SẢN
+so với năm 2022
+LNTT HỢP NHẤT
+so với năm 2022

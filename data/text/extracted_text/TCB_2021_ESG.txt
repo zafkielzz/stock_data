@@ -1,110 +1,242 @@
-BÁO CÁO BỀN VỮNG MÔI 
-TRƯỜNG – XÃ HỘI – QUẢN TRỊ 
-(ESG)
+QUẢN TRỊ RỦI RO (RMD)
+Trong năm 2021, Techcombank tiếp tục đầu tư vào công
+nghệ và phân tích tín dụng nhằm theo đuổi chiến lược số
+hoá toàn Ngân hàng và cho phép chúng tôi đưa ra quyết
+định dựa trên phân tích dữ liệu chuyên sâu.
+Các khoản đầu tư liên tục để nâng cấp khung quản trị
+rủi ro của chúng tôi đã giữ chất lượng tín dụng của Ngân
+hàng bền vững và lành mạnh trong suốt hai năm đại dịch
+gần đây. Chính sách cho vay thận trọng theo khẩu vị rủi
+ro định trước đã giúp duy trì hệ số CAR ở mức 15,0%,
+nợ nhóm 3-5 ở mức 0,7% và giảm chi phí tín dụng xuống
+0,7% (từ 0,9% trong năm 2020). Ngân hàng đã thành
+công trong việc giảm gần 80% danh mục cơ cấu vì ảnh
+hưởng của COVID-19.
+Chiến lược chuyển đổi hoạt động tín dụng để thiết kế
+các quy trình tín dụng có thể mở rộng, các mô hình rủi
+ro đồng thời tái cấu trúc các quy trình quản lý dịch vụ
+để điều chỉnh tương thích giữa chi phí với rủi ro đã có
+những tiến triển tốt trong năm 2021 và sẽ tiếp tục được
+thực hiện trong năm 2022, giúp mở rộng quy mô cho vay
+trong các danh mục và phân khúc khách hàng mục tiêu.
+Nhờ áp dụng công nghệ đám mây mới nhất trong các mô
+hình thẩm định và cảnh báo sớm, sử dụng các kỹ thuật
+học máy tiên tiến và tận dụng các nguồn dữ liệu truyền
+thống và phi truyền thống, chúng tôi đã có thể mang đến
+cho khách hàng trải nghiệm vay liền mạch và quản lý rủi
+ro tín dụng tốt hơn.
+Cơ sở hạ tầng số của Techcombank cho phép tiếp cận
+hơn 300.000 tài khoản mỗi ngày thông qua quy trình hoàn
+toàn tự động, từ đó lọc ra tệp khách hàng không hoạt
+động - kéo theo việc phát hành hơn 20.000 thẻ mới và tiết
+kiệm đáng kể chi phí hoạt động. Đây là sáng kiến đầu tiên
+sử dụng mô hình dịch vụ đám mây (CaaS) trên quy mô lớn
+và tạo cơ sở cho việc mở rộng tiếp theo của Ngân hàng
+sang các kết nối và dự án trong tương lai. Techcombank
+cũng tạo nền tảng cho một kho lưu trữ các đặc trưng,
+thuộc tính (features store), nơi đến cuối năm 2022 sẽ quy
+tụ hơn 5.000 thuộc tính (features) kết hợp mô hình học
+máy cải tiến nhằm đưa ra quyết định tốt hơn trong toàn
+bộ vòng đời của khách hàng.
+Các sáng kiến chiến lược chính trong năm 2021:
+•	 Ra mắt nền tảng cho vay bán lẻ đa kênh Omni hàng
+đầu thị trường (Tín dụng thông minh - Smart Credit)
+đưa ra các quyết định phê duyệt trước, tức thì với
+chất lượng tín dụng tốt hơn cho thẻ tín dụng và cho
+vay mua nhà. Sáng kiến này cung cấp cho ngân hàng
+khả năng quản lý vòng đời tín dụng tiêu dùng với các
+ý tưởng sáng tạo để cho ra đời các sản phẩm, dịch
+vụ mới và quản lý chất lượng tín dụng trong phạm vi
+khẩu vị rủi ro. Việc ra quyết định được kích hoạt bởi
+Hệ thống khởi tạo khoản vay (LOS). Tùy thuộc vào các
+phân khúc khách hàng và sản phẩm cung cấp, thời
+gian phê duyệt dao động từ 5-15 phút, trong khi thời
+gian quyết định khách hàng được phê duyệt trước và
+phê duyệt nguyên tắc chỉ ít hơn 3 giây. Mô hình tính
+điểm và các chính sách tín dụng mới mang lại sức
+mạnh cho nền tảng "tín dụng thông minh" tích hợp
+khoảng 300 tính năng ra quyết định dựa trên 2.000
+cấu phần dữ liệu thô từ 15 nguồn dữ liệu bên trong
+và bên ngoài. Kể từ khi ra mắt ứng dụng "Tín dụng
+thông minh", nền tảng thẻ tín dụng của Techcombank
+đã cho thấy sự tăng trưởng đáng kể về số lượng thẻ,
+trong đó 92% số thẻ đang hoạt động với mức độ hài
+lòng của khách hàng rất cao là 96%.
+Ra mắt nền tảng cho vay
+bán lẻ đa kênh (Omni) hàng
+đầu thị trường
+•	 Trong năm 2021, Techcombank tiếp tục mở rộng nền
+tảng cho vay thương mại doanh nghiệp (BCDE) với
+những tính năng chuyên biệt được thiết kế để tự
+động hóa và quản lý hiệu quả chuỗi giá trị quản lý tín
+dụng cho các danh mục tín dụng doanh nghiệp. Nền
+tảng này tích hợp các mô hình về vòng đời tín dụng
+được rà soát và cải tiến hàng năm nhằm hợp lý hóa
+toàn bộ vòng đời tín dụng từ việc tiếp cận khách hàng
+đến quản lý sau giải ngân bao gồm cả việc tuân thủ
+các thỏa thuận. Techcombank đã triển khai nền tảng
+này từ cuối năm 2020 nhưng sự chuyển đổi thật sự
+diễn ra trong năm 2021 và sẽ tiếp tục trong năm 2022
+với mục tiêu là giảm thời gian từ khi yêu cầu đến giải
+ngân xuống dưới 5 ngày làm việc, mang lại những trải
+nghiệm tốt nhất cho khách hàng. Nền tảng này lúc
+đầu được chạy trên hệ thống thực địa và đã được
+chuyển lên điện toán đám mây.
+•	 Nền tảng và quy trình thu hồi nợ đã được đẩy mạnh để
+phù hợp với trạng thái bình thường mới và việc số hóa
+các tương tác của khách hàng đang được triển khai.
+•	 Ra mắt nền tảng quản lý rủi ro gian lận hàng đầu thị
+trường bao gồm xác thực sử dụng 2 yếu tố thông
+tin khách hàng và thẻ (VISA 3D secure 2.0) cho phép
+khách hàng “mua sắm an toàn” trong hệ thống sinh
+thái thương mại điện tử ngày càng mở rộng.
+Tuân thủ thông qua quản lý rủi ro: Techcombank là
+Ngân hàng đầu tiên triển khai IFRS 9 tại Việt Nam trong
+năm 2018, và tuân thủ hoàn toàn Thông tư 41 trong năm
+2019, cũng như hoàn thành 3 cột trụ Basel II trong năm
+2020. Vào năm 2021, Techcombank đã nâng cấp các tiêu
+chuẩn tuân thủ Basel, IFRS và đặc biệt là mô hình kiểm
+tra sức chịu đựng (stress test) trên các lĩnh vực quản lý rủi
+ro tín dụng, thanh khoản và hoạt động. Khối Quản trị rủi ro
+và bộ phận Nguồn vốn đã triển khai hệ thống Kamakura,
+một nền tảng quản lý thanh khoản và rủi ro thị trường
+hàng đầu. Kết hợp với chiến lược tiếp tục mở rộng kho
+dữ liệu rủi ro như một phần của bể dữ liệu, Techcombank
+sẽ có nền tảng quản lý tốt nhất thị trường đến cuối năm
+2022 cùng với khả năng nâng cao năng lực rủi ro.
+Các trọng tâm của khối RMD trong
+Techcombank là một ngân hàng rất chú trọng vào công
+tác quản trị rủi ro (tín dụng và phi tín dụng) cũng quan
+trọng như phát triển kinh doanh. Để làm được điều này,
+chúng tôi sẽ tiếp tục củng cố nền tảng quản lý rủi ro của
+mình. Quản lý rủi ro tốt hơn sẽ hỗ trợ các sáng kiến kinh
+doanh, khuyến khích đa dạng hóa và mở rộng quy mô
+hoạt động cho vay, hỗ trợ các kế hoạch tăng trưởng
+trong ngắn hạn và dài hạn của Ngân hàng.
+•	 Tiếp tục cải tiến các nền tảng giao dịch cá nhân và
+doanh nghiệp - bổ sung các tính năng và chức năng
+mới để trở nên đơn giản, trực quan và mang lại nhiều
+giá trị cho khách hàng.
+•	 Các sáng kiến quan trọng khác để cải thiện quản lý rủi
+ro đang được triển khai trong việc lập mô hình quản lý
+rủi ro thị trường và rủi ro thanh khoản, rủi ro gian lận và
+rủi ro mới nổi, quản lý rủi ro hoạt động và cải thiện khả
+năng thu hồi nợ.
+•	 Đi đầu trong Quản lý Rủi ro Doanh nghiệp (ERM), đặc
+biệt tập trung vào (a) rủi ro Môi trường – Xã hội – Quản
+trị (ESG); (b) công nghệ, hoạt động & rủi ro tội phạm tài
+chính (TOFC) và (c) quản lý rủi ro mô hình (MRM).
+•	 Triển khai nền tảng phòng chống rửa tiền (AML): Một hệ
+thống hàng đầu dựa trên nền tảng điện toán đám mây
+giúp đảm bảo tính tuân thủ các quy định nghiêm ngặt
+về phòng chống rửa tiền. Hệ thống này bao gồm tất cả
+hoạt động xác minh khách hàng và kiểm soát giao dịch.
+Ngân hàng sẽ triển khai từ quý 2 năm 2022, qua đó đáp
+ứng những chuẩn mực hàng đầu thế giới
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+BÁO CÁO BỀN VỮNG MÔI
+TRƯỜNG – XÃ HỘI – QUẢN TRỊ
 Khung quản trị ESG tại Techcombank
-Tóm tắt quy định hiện tại dựa trên khung tiêu chuẩn của International Finance 
+Tóm tắt quy định hiện tại dựa trên khung tiêu chuẩn của International Finance
 Corporation (IFC)
-Chúng tôi xây dựng một bộ khung quản trị rủi ro MT&XH bao phủ tất cả các 
-hoạt động kinh doanh và cho vay, vượt xa hơn các yêu cầu tuân thủ hiện 
-tại. Các giá trị MT&XH của Ngân hàng dựa trên mối quan tâm đến các cộng 
-đồng nơi chúng tôi đang hoạt động nói riêng và toàn cầu nói chung. Nhờ việc 
-xây dựng, tuân thủ và liên tục rà soát, cải thiện bộ khung quản trị MT&XH 
-Techcombank đã thuyết phục được những nhà cho vay khó tính nhất, với 
-yêu cầu MT&XH khắt khe nhất trong các đợt huy động vốn quốc tế, đặc biệt 
+Chúng tôi xây dựng một bộ khung quản trị rủi ro MT&XH bao phủ tất cả các
+hoạt động kinh doanh và cho vay, vượt xa hơn các yêu cầu tuân thủ hiện
+tại. Các giá trị MT&XH của Ngân hàng dựa trên mối quan tâm đến các cộng
+đồng nơi chúng tôi đang hoạt động nói riêng và toàn cầu nói chung. Nhờ việc
+xây dựng, tuân thủ và liên tục rà soát, cải thiện bộ khung quản trị MT&XH
+Techcombank đã thuyết phục được những nhà cho vay khó tính nhất, với
+yêu cầu MT&XH khắt khe nhất trong các đợt huy động vốn quốc tế, đặc biệt
 trong năm 2020 (500 triệu đô la Mỹ) và năm 2021 (800 triệu đô la Mỹ).
-Techcombank đã và đang tích cực nghiên cứu, phát triển và thực hiện các 
-chương trình và chính sách để khuyến khích cho vay các dự án "xanh", thân 
-thiện với môi trường, đồng thời tăng cường số lượng các dự án này trong 
+Techcombank đã và đang tích cực nghiên cứu, phát triển và thực hiện các
+chương trình và chính sách để khuyến khích cho vay các dự án "xanh", thân
+thiện với môi trường, đồng thời tăng cường số lượng các dự án này trong
 danh mục cho vay của Ngân hàng.
-Một số hoạt động phát triển kinh doanh của chúng tôi trong các lĩnh vực kinh 
-tế mũi nhọn cũng đang hướng đến các dự án năng lượng tái tạo như điện 
-gió, điện mặt trời và điện sinh khối. Đây là một lĩnh vực nằm trong diện ưu 
+Một số hoạt động phát triển kinh doanh của chúng tôi trong các lĩnh vực kinh
+tế mũi nhọn cũng đang hướng đến các dự án năng lượng tái tạo như điện
+gió, điện mặt trời và điện sinh khối. Đây là một lĩnh vực nằm trong diện ưu
 tiên của Ngân hàng trong những năm tới.
-Khung quản trị rủi ro MT&XH do Hội đồng quản trị Techcombank xây dựng 
-nhằm cung cấp các nguyên tắc và yêu cầu cấp cao ở tất cả các khâu quản 
-lý rủi ro MT&XH - từ đánh giá, thẩm định và phê duyệt đến giám sát và kiểm 
-soát rủi ro sau khi giải ngân. Các thủ tục, hướng dẫn và quyết định phê duyệt 
+Khung quản trị rủi ro MT&XH do Hội đồng quản trị Techcombank xây dựng
+nhằm cung cấp các nguyên tắc và yêu cầu cấp cao ở tất cả các khâu quản
+lý rủi ro MT&XH - từ đánh giá, thẩm định và phê duyệt đến giám sát và kiểm
+soát rủi ro sau khi giải ngân. Các thủ tục, hướng dẫn và quyết định phê duyệt
 tín dụng hàng ngày do Tổng Giám đốc và Trưởng các Bộ phận giám sát.
-Giống như tất cả các quy trình quản trị của chúng tôi, khuôn khổ và quy định 
-quản trị rủi ro MT&XH thường xuyên được xem xét và cập nhật để đảm bảo 
+Giống như tất cả các quy trình quản trị của chúng tôi, khuôn khổ và quy định
+quản trị rủi ro MT&XH thường xuyên được xem xét và cập nhật để đảm bảo
 tuân thủ và hướng tới thông lệ tốt nhất.
-Chúng tôi hợp tác với các đối tác trong nước và quốc tế để liên tục tìm 
-kiếm sự cải tiến trong cách Ngân hàng đánh giá và thực hiện quản trị rủi ro 
-MT&XH. Trong năm 2022, chúng tôi theo đó sẽ tập trung vào các nguồn lực 
-và quy trình cần thiết để quản lý rủi ro MT&XH, ví dụ như cơ cấu tổ chức, 
-nguồn nhân lực sẵn có để đánh giá, thẩm định và phê duyệt, đồng thời tăng 
-cường giao tiếp giữa các đơn vị và bộ phận kinh doanh để tối ưu hóa đầu 
+Chúng tôi hợp tác với các đối tác trong nước và quốc tế để liên tục tìm
+kiếm sự cải tiến trong cách Ngân hàng đánh giá và thực hiện quản trị rủi ro
+MT&XH. Trong năm 2022, chúng tôi theo đó sẽ tập trung vào các nguồn lực
+và quy trình cần thiết để quản lý rủi ro MT&XH, ví dụ như cơ cấu tổ chức,
+nguồn nhân lực sẵn có để đánh giá, thẩm định và phê duyệt, đồng thời tăng
+cường giao tiếp giữa các đơn vị và bộ phận kinh doanh để tối ưu hóa đầu
 tư vào các dự án MT&XH và quản trị rủi ro.
-Ngay từ những ngày đầu thành lập Ban 
-Lãnh đạo Techcombank qua các thời kỳ 
-hiểu sâu sắc sự thành công bền vững 
-của một doanh nghiệp được kiên trì xây 
-dựng trên nền tảng quản trị lành mạnh, 
-gắn với văn hóa doanh nghiệp cũng như 
-các đóng góp khác để bảo vệ xã hội, môi 
-trường. Điều này được phản ánh rõ nét 
-trong Tầm nhìn và Sứ mệnh Ngân hàng 
-đã cam kết “Chuyển đổi ngành tài chính, 
-nâng tầm giá trị sống”, cho hiện tại và 
-cho tương lai. Bảo vệ các giá trị về môi 
-trường và xã hội (MT&XH) không chỉ là 
-một yêu cầu pháp lý được Chính phủ và 
-NHNN ngày càng đòi hỏi mà đã trở thành 
-một phần cốt lõi trong triết lý đầu tư và 
+Ngay từ những ngày đầu thành lập Ban
+Lãnh đạo Techcombank qua các thời kỳ
+hiểu sâu sắc sự thành công bền vững
+của một doanh nghiệp được kiên trì xây
+dựng trên nền tảng quản trị lành mạnh,
+gắn với văn hóa doanh nghiệp cũng như
+các đóng góp khác để bảo vệ xã hội, môi
+trường. Điều này được phản ánh rõ nét
+trong Tầm nhìn và Sứ mệnh Ngân hàng
+đã cam kết “Chuyển đổi ngành tài chính,
+nâng tầm giá trị sống”, cho hiện tại và
+cho tương lai. Bảo vệ các giá trị về môi
+trường và xã hội (MT&XH) không chỉ là
+một yêu cầu pháp lý được Chính phủ và
+NHNN ngày càng đòi hỏi mà đã trở thành
+một phần cốt lõi trong triết lý đầu tư và
 kinh doanh tại Techcombank.
 Đáp ứng
 yêu cầu MT&XH
-khắt khe nhất trong 
-các đợt huy động 
-vốn quốc tế năm 
-2020 - 2021
-1. Các nguyên tắc chung về đánh giá, xếp hạng và phê 
-duyệt các rủi ro Môi trường và Xã hội (MT&XH) (bao gồm 
+khắt khe nhất trong
+các đợt huy động
+vốn quốc tế năm
+1. Các nguyên tắc chung về đánh giá, xếp hạng và phê
+duyệt các rủi ro Môi trường và Xã hội (MT&XH) (bao gồm
 cả giao dịch)
-2. Yêu cầu đối với xếp hạng rủi ro MT&XH: tiêu chí xếp 
-hạng, yêu cầu đánh giá và xếp hạng (trong Báo cáo đánh 
+2. Yêu cầu đối với xếp hạng rủi ro MT&XH: tiêu chí xếp
+hạng, yêu cầu đánh giá và xếp hạng (trong Báo cáo đánh
 giá khách hàng).
-Yêu cầu về thẩm định rủi ro MT&XH: bao gồm thẩm định 
-tại các Đơn vị kinh doanh và thẩm định độc lập tại Khối 
+Yêu cầu về thẩm định rủi ro MT&XH: bao gồm thẩm định
+tại các Đơn vị kinh doanh và thẩm định độc lập tại Khối
 quản trị rủi ro.
-3. Yêu cầu đối với phê duyệt rủi ro MT&XH: tất cả các tài 
-liệu có xếp hạng Nhóm A (Rủi ro cao - tiềm ẩn rủi ro môi 
-trường hoặc xã hội bất lợi đáng kể và / hoặc tác động 
-đa dạng, không thể đảo ngược hoặc chưa từng có) 
-phải được phê duyệt bởi các chuyên gia rủi ro MT&XH 
+3. Yêu cầu đối với phê duyệt rủi ro MT&XH: tất cả các tài
+liệu có xếp hạng Nhóm A (Rủi ro cao - tiềm ẩn rủi ro môi
+trường hoặc xã hội bất lợi đáng kể và / hoặc tác động
+đa dạng, không thể đảo ngược hoặc chưa từng có)
+phải được phê duyệt bởi các chuyên gia rủi ro MT&XH
 tại Bộ phận quản lý rủi ro
-1
-2
-3
-4
-5
-6
-Quy định về 
+Quy định về
 Quản lý rủi ro môi trường
 và xã hội (MT&XH)
-4. Yêu cầu đối với việc kiểm soát và giám sát sau giải 
-ngân và báo cáo rủi ro MT&XH: 
-(i) Các đơn vị có liên quan phải có báo cáo gửi Giám đốc 
-Khối Kinh doanh, Chuyên viên rủi ro MT&XH và Cán bộ 
-quản lý rủi ro MT&XH của Khối Quản lý rủi ro để xử lý trong 
-trường hợp phát hiện khách hàng vi phạm các quy định 
-của pháp luật, các cam kết, quy định và điều kiện của 
+4. Yêu cầu đối với việc kiểm soát và giám sát sau giải
+ngân và báo cáo rủi ro MT&XH:
+(i) Các đơn vị có liên quan phải có báo cáo gửi Giám đốc
+Khối Kinh doanh, Chuyên viên rủi ro MT&XH và Cán bộ
+quản lý rủi ro MT&XH của Khối Quản lý rủi ro để xử lý trong
+trường hợp phát hiện khách hàng vi phạm các quy định
+của pháp luật, các cam kết, quy định và điều kiện của
 Techcombank;
-(ii) Các báo cáo được lập bởi Đơn vị thẩm định của Khối 
+(ii) Các báo cáo được lập bởi Đơn vị thẩm định của Khối
 Quản trị rủi ro và các cán bộ quản lý rủi ro MT&XH.
-5. Vai trò và trách nhiệm của các cá nhân, bộ phận liên 
-quan: Cán bộ quan hệ khách hàng; Đơn vị, cá nhân có 
-chức năng kiểm soát sau giải ngân; Chuyên gia rủi ro 
-MT&XH; Phòng / Đơn vị phụ trách rủi ro MT&XH thuộc Ban 
+5. Vai trò và trách nhiệm của các cá nhân, bộ phận liên
+quan: Cán bộ quan hệ khách hàng; Đơn vị, cá nhân có
+chức năng kiểm soát sau giải ngân; Chuyên gia rủi ro
+MT&XH; Phòng / Đơn vị phụ trách rủi ro MT&XH thuộc Ban
 Quản lý rủi ro
-6. Danh sách phân loại ngành nghề, dự án theo đánh giá 
+6. Danh sách phân loại ngành nghề, dự án theo đánh giá
 tác động môi trường (MT)
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
-71
-70
 Chương IV           Phát triển bền vững cùng Tech
 Chương IV           Phát triển bền vững cùng Tech
 
@@ -113,50 +245,50 @@ Các dự án điển hình của Nhóm A:
 •	 Các dự án liên quan đến việc tái định cư cộng đồng hoặc các hộ gia đình
 •	 Tất cả các dự án có liên quan đến các vấn đề kinh tế xã hội trầm trọng
 •	 Các dự án dẫn đến sự di cư
-•	 Các dự án tác động đến di sản văn hóa (ví dụ các di tích tôn giáo, khảo 
+•	 Các dự án tác động đến di sản văn hóa (ví dụ các di tích tôn giáo, khảo
 cổ học)
 •	 Các dự án gây ra các rủi ro sức khỏe và công việc
-•	 Các tác động lên việc bảo vệ môi trường sống thiên nhiên hoặc các khu 
-vực có sự đa dạng sinh học cao bao gồm các vùng ẩm ướt, rặng san hô 
+•	 Các tác động lên việc bảo vệ môi trường sống thiên nhiên hoặc các khu
+vực có sự đa dạng sinh học cao bao gồm các vùng ẩm ướt, rặng san hô
 hay cây đước
 •	 Xây dựng các đập ngăn và bể chứa nước
 •	 Thuốc trừ sâu và thuốc diệt cỏ: cho mục đích sản xuất hoặc thương mại
-•	 Các dự án tưới tiêu lớn hoặc các dự án khác tác động đến việc cung cấp 
+•	 Các dự án tưới tiêu lớn hoặc các dự án khác tác động đến việc cung cấp
 nước trong một vùng
 •	 Hoạt động có chất thải nguy hiểm
 •	 Hóa chất nguy hiểm: việc sản xuất, lưu kho và vận chuyển với khối lượng lớn
 •	 Phát triển và khai thác dầu khí bao gồm việc xây dựng các ống dẫn dầu
-•	 Các dự án cơ sở hạ tầng lớn bao gồm việc phát triển các cầu cảng, sân bay, 
+•	 Các dự án cơ sở hạ tầng lớn bao gồm việc phát triển các cầu cảng, sân bay,
 đường bộ và hệ thống vận tải quá cảnh
 •	 Các hoạt động lâm nghiệp
 •	 Các hoạt động luyện chảy kim loại, tinh chế và đúc kim loại
 •	 Khoáng sản (khai thác lộ thiên hoặc khai thác hầm lò)
-•	 Các dự án thủy điện hoặc nhiệt điện.   
-Techcombank tuyệt đối tuân thủ không cung cấp tín dụng cho các nhóm ngành nghề, hoạt động thuộc danh sách 
-không cấp vốn của IFC hoặc luật pháp Việt Nam không cho phép. 
-Bảng hướng dẫn xếp loại các nhóm ngành nghề, dự án theo rủi ro môi trường xã hội được truyền thông cho tất cả 
-các cán bộ tín dụng với yêu cầu tuân thủ cao nhất. 
-Căn cứ vào 4 yếu tố chính của dự án: ngành nghề hoạt động, địa điểm, độ nhạy cảm và quy mô của các tác động 
-đối với môi trường, xã hội, chuyên viên khách hàng hoặc chuyên viên đầu tư tiến hành phân loại rủi ro môi trường, 
+•	 Các dự án thủy điện hoặc nhiệt điện.
+Techcombank tuyệt đối tuân thủ không cung cấp tín dụng cho các nhóm ngành nghề, hoạt động thuộc danh sách
+không cấp vốn của IFC hoặc luật pháp Việt Nam không cho phép.
+Bảng hướng dẫn xếp loại các nhóm ngành nghề, dự án theo rủi ro môi trường xã hội được truyền thông cho tất cả
+các cán bộ tín dụng với yêu cầu tuân thủ cao nhất.
+Căn cứ vào 4 yếu tố chính của dự án: ngành nghề hoạt động, địa điểm, độ nhạy cảm và quy mô của các tác động
+đối với môi trường, xã hội, chuyên viên khách hàng hoặc chuyên viên đầu tư tiến hành phân loại rủi ro môi trường,
 xã hội của từng giao dịch theo 3 nhóm như sau:
-Nhóm A: 
-Dự án có thể có những tác động 
-bất lợi rất lớn đối với môi trường. 
-Các tác động này thường nhạy 
-cảm, nhiều khía cạnh hoặc chưa 
-có tiền lệ. Một tác động tiềm năng 
-được đánh giá là “nhạy cảm” nếu 
-nó khó có thể tránh được (ví dụ dẫn 
-đến sự tổn thất lớn đến môi trường 
-sống tự nhiên), ảnh hưởng đến 
-các nhóm dân cư dễ bị tổn thương 
-hay đồng bào dân tộc thiểu số, liên 
-quan đến sự di dân hay sự tái định 
-cư bắt buộc, hoặc tác động đáng 
-kể đến các di sản thiên nhiên. Như 
-vậy, cần phải có một sự đánh giá 
-tác động môi trường một cách đầy 
-đủ theo quy định quản lý rủi ro môi 
+Nhóm A:
+Dự án có thể có những tác động
+bất lợi rất lớn đối với môi trường.
+Các tác động này thường nhạy
+cảm, nhiều khía cạnh hoặc chưa
+có tiền lệ. Một tác động tiềm năng
+được đánh giá là “nhạy cảm” nếu
+nó khó có thể tránh được (ví dụ dẫn
+đến sự tổn thất lớn đến môi trường
+sống tự nhiên), ảnh hưởng đến
+các nhóm dân cư dễ bị tổn thương
+hay đồng bào dân tộc thiểu số, liên
+quan đến sự di dân hay sự tái định
+cư bắt buộc, hoặc tác động đáng
+kể đến các di sản thiên nhiên. Như
+vậy, cần phải có một sự đánh giá
+tác động môi trường một cách đầy
+đủ theo quy định quản lý rủi ro môi
 trường và xã hội tại Techcombank.
 Phân loại ngành nghề, dự án theo đánh giá tác động môi trường (MT)
 BÁO CÁO BỀN VỮNG (ESG)
@@ -164,8 +296,6 @@ B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
-73
-72
 Chương IV           Phát triển bền vững cùng Tech
 Chương IV           Phát triển bền vững cùng Tech
 
@@ -190,196 +320,1238 @@ Các dự án đặc thù được phân loại C:
 •	 Môi giới chứng khoán
 •	 Ngân hàng bán lẻ
 Nhóm B:
-Dự án có thể dẫn đến một số các 
-tác động môi trường nhất định 
-nhưng những tác động này chỉ 
-giới hạn trong phạm vi nhất định 
-và không lớn nếu nó xảy ra. Trong 
-hầu hết các trường hợp này, biện 
-pháp giảm thiểu rủi ro là việc sử 
-dụng các tiêu chuẩn hoạt động, các 
-hướng dẫn hoặc các tiêu chí được 
-xác định trước. Các tác động môi 
-trường bất lợi tiềm năng lên dân cư 
-hay các khu vực môi trường quan 
-trọng nhỏ hơn các tác động của dự 
-án nhóm A. Mặc dù việc đánh giá 
-tác động môi trường một cách đầy 
-đủ là không cần thiết nhưng vẫn 
-cần tập trung vào các tác động dự 
+Dự án có thể dẫn đến một số các
+tác động môi trường nhất định
+nhưng những tác động này chỉ
+giới hạn trong phạm vi nhất định
+và không lớn nếu nó xảy ra. Trong
+hầu hết các trường hợp này, biện
+pháp giảm thiểu rủi ro là việc sử
+dụng các tiêu chuẩn hoạt động, các
+hướng dẫn hoặc các tiêu chí được
+xác định trước. Các tác động môi
+trường bất lợi tiềm năng lên dân cư
+hay các khu vực môi trường quan
+trọng nhỏ hơn các tác động của dự
+án nhóm A. Mặc dù việc đánh giá
+tác động môi trường một cách đầy
+đủ là không cần thiết nhưng vẫn
+cần tập trung vào các tác động dự
 kiến có thể xảy ra.
 Nhóm C:
-Dự án thuộc nhóm này có thể có 
-những tác động đến môi trường là 
-rất nhỏ hoặc không có tác động bất 
-lợi. Không cần đánh giá tác động 
+Dự án thuộc nhóm này có thể có
+những tác động đến môi trường là
+rất nhỏ hoặc không có tác động bất
+lợi. Không cần đánh giá tác động
 môi trường.
-Tuy nhiên, các cán bộ tín dụng của Techcombank được yêu cầu không phân 
-loại cứng nhắc. Chuyên viên quản lý khách hàng, chuyên viên đầu tư cần 
-đánh giá tác động của các hoạt động đối với môi trường, xã hội trên tất cả 
-các khía cạnh của dự án để phân loại phù hợp và chính xác. Việc phân loại, 
-sang một nhóm khác chỉ được phép ở mức cao hơn. Ví dụ căn cứ vào việc 
-phân tích các yếu tố của dự án mà một số trường hợp việc phát triển các 
-dự án khách sạn/du lịch được xếp vào Nhóm A (rủi ro hơn với môi trường), 
-không phải nhóm B như khung hướng dẫn. 
+Tuy nhiên, các cán bộ tín dụng của Techcombank được yêu cầu không phân
+loại cứng nhắc. Chuyên viên quản lý khách hàng, chuyên viên đầu tư cần
+đánh giá tác động của các hoạt động đối với môi trường, xã hội trên tất cả
+các khía cạnh của dự án để phân loại phù hợp và chính xác. Việc phân loại,
+sang một nhóm khác chỉ được phép ở mức cao hơn. Ví dụ căn cứ vào việc
+phân tích các yếu tố của dự án mà một số trường hợp việc phát triển các
+dự án khách sạn/du lịch được xếp vào Nhóm A (rủi ro hơn với môi trường),
+không phải nhóm B như khung hướng dẫn.
 BÁO CÁO BỀN VỮNG (ESG)
 Phân loại ngành nghề, dự án theo đánh giá tác động môi trường (MT) (tiếp theo)
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
-75
-74
 Chương IV           Phát triển bền vững cùng Tech
 Chương IV           Phát triển bền vững cùng Tech
 
-GIỚI THIỆU HỘI ĐỒNG QUẢN TRỊ 
+Ngay từ khi đại dịch COVID-19 mới xảy ra, Techcombank
+đã là một trong những doanh nghiệp đi đầu trong việc
+ủng hộ Chính phủ, ủng hộ doanh nghiệp, ủng hộ người
+dân chung tay vượt qua đại dịch. Năm 2021 với làn sóng
+thứ 4, những tác động và ảnh hưởng nặng nề lên mọi
+mặt của đời sống kinh tế xã hội, đặc biệt tại Thành phố
+Hồ Chí Minh và các tỉnh thành lân cận, là điều mà rất ít
+chuyên gia có thể dự báo trước. Trong bối cảnh ấy, hơn
+bao giờ hết Techcombank một mặt cam kết đảm bảo môi
+trường làm việc an toàn cho hơn 12.000 CBNV của Ngân
+hàng, một mặt tăng cường mạnh mẽ các hỗ trợ trong gói
+COVID-19 nhằm chung tay giúp cả nước vượt qua đại
+dịch sớm nhất. Trong vòng hai năm Techcombank đã cơ
+cấu gần 11,8 nghìn tỷ cho khách hàng, giúp họ vượt qua
+giai đoạn khó khăn nhất. Đồng hành sâu sát cùng khách
+hàng Techcombank đã giúp giảm số dư này xuống chỉ
+còn 1,9 nghìn tỷ (tương đương với 0,5% tổng dư nợ) vào
+cuối năm ngoái. Ngoài cơ cấu nợ, Techcombank cũng
+đồng thời hỗ trợ giảm lãi suất 540 tỷ đồng cho khách
+hàng. Với cộng đồng, Techcombank đã đóng góp khoảng
+400 tỷ đồng cho các hoạt động xã hội, bao gồm ủng hộ
+quỹ vắc xin, mua kit xét nghiệm, đóng góp xây dựng
+bệnh viện, trang thiết bị y tế và các khoản hỗ trợ trực tiếp
+khác cho người bệnh và gia đình của họ.
+Các hoạt động xã hội khác của Techcombank
+(i) Giải Marathon Quốc tế TP HCM Mùa thứ 4:
+Nối tiếp hành trình siêu việt suốt 28
+năm từ ngày thành lập, năm 2021
+là cột mốc đánh dấu chặng đường
+chiến lược mới với những khát
+vọng đổi mới của Techcombank.
+Mang vị thế của người dẫn đầu,
+Techcombank nỗ lực hiện thực hóa
+tầm nhìn "Chuyển đổi ngành tài
+chính, nâng tầm giá trị sống" trong
+các hoạt động kinh doanh và xuyên
+suốt mọi hoạt động xã hội. Tầm
+nhìn đó cũng là bệ phóng để ngân
+hàng góp phần thúc đẩy mỗi người
+Việt khai phá tiềm năng và bản lĩnh
+hành động cho những điều vượt
+trội. Trong năm 2021, Techcombank
+ghi dấu ở hai nhóm hoạt động cộng
+đồng nổi bật: (i) Giải chạy Marathon
+nhằm tạo dựng phong trào xã
+hội thúc đẩy cộng đồng rèn luyện
+thể thao và (ii) các hoạt động thể
+hiện trách nhiệm xã hội (CSR) của
+ngân hàng trong việc chung tay
+cùng cộng đồng vượt qua đại dịch
+COVID-19.
+Sau nhiều năm dẫn dắt Giải
+Marathon Quốc tế TP Hồ Chí Minh
+và tiên phong lan toả lối sống "Vượt
+trội hơn mỗi ngày", vào tháng
+4/2021, Techcombank tiếp tục tổ
+chức thành công Mùa thứ 4 của
+sự kiện chạy bộ mang tính chất
+chuyên nghiệp có quy mô hàng
+đầu Việt Nam. Sự kiện khép lại
+cùng những cảm xúc đáng nhớ của
+hơn 13.000 vận động viên tham gia
+chinh phục các cung đường 5 km
+- 42km trong sự ủng hộ, cổ vũ của
+lãnh đạo thành phố, đại diện ban tổ
+chức và đông đảo người xem. Hoạt
+động cũng thu hút thêm nhiều vận
+động viên mới chạy - thậm chí chạy
+lần đầu, chứng minh cho tầm ảnh
+hưởng của sự kiện tới cộng đồng
+người yêu chạy, không phân biệt
+độ tuổi hay giới tính, quốc tịch hay
+nghề nghiệp.
+Thông qua giải chạy, Techcombank
+tiếp tục khẳng định cam kết đồng
+hành vì sự phát triển cộng đồng,
+khuyến khích mọi cá nhân rèn luyện
+sức khoẻ, phát triển bản thân và bền
+ĐÓNG GÓP
+Tháng 4  năm 2021
+bỉ theo đuổi khát vọng. Thông điệp
+"Tôi vượt trội, bạn vượt trội, bước
+chạy vì một Việt Nam vượt trội"
+càng trở nên ý nghĩa khi gần 2.000
+nhân viên và toàn bộ ban lãnh đạo
+ngân hàng đã tham gia sải bước
+cùng hơn 11.000 đôi chân khác
+để gây quỹ "Vì một Việt Nam vượt
+trội". Ngay khi đường chạy khép lại,
+ông Jens Lottner, Tổng Giám đốc
+Techcombank, đã đại diện Ngân
+hàng đóng góp 2 tỷ đồng vào quỹ
+từ thiện, hội thể thao và cộng đồng
+khởi nghiệp.
+So với mùa giải trước, dù trải qua hai
+lần hoãn do dịch COVID-19, số vận
+động viên năm 2021 vẫn tăng 3 lần -
+trong đó hơn 5.600 người chọn thử
+thách ở các cự ly khó. Năm 2022,
+Techcombank sẽ tiếp tục lan tỏa lối
+sống vượt trội thông qua công tác
+mở rộng tài trợ cho giải chạy, mang
+Giải Marathon Quốc tế lần đầu tiên
+đến Hà Nội. Kiên trì đồng hành và
+tiên phong mang những sự kiện thể
+thao chuyên nghiệp về Việt Nam,
+Techcombank mong muốn kiến tạo
+nền tảng giúp cộng đồng nâng cao
+thể chất, từ đó sẵn sàng phát triển
+bản thân và chinh phục thành công
+theo cách riêng của mỗi cá nhân.
+Vận động viên
+vào quỹ "Vì Một
+Việt Nam vượt trội"
+Gói hỗ trợ trong đại dịch COVID-19 và các hoạt động xã hội (XH) khác
+BÁO CÁO BỀN VỮNG (ESG)
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+(ii) Các hoạt động trách nhiệm xã hội (CSR):
+Cũng trong bối cảnh đại dịch COVID-19 lây lan, 2021 là năm Techcombank
+tiếp tục có đóng góp thiết thực cho cộng đồng thông qua chuỗi hoạt động hỗ
+trợ, ủng hộ công tác phòng chống dịch và an sinh xã hội, với mục tiêu “không
+một ai bị bỏ lại phía sau vì dịch bệnh”. Techcombank đóng góp khoảng 400
+tỷ đồng qua hoạt động trao tặng hơn 1.000 trang thiết bị y tế hiện đại đến
+các bệnh viện miền Nam; đóng góp xây dựng Bệnh viện điều trị người mắc
+COVID-19 cho Hà Nội và các tỉnh phía Bắc; ủng hộ Quỹ Vắc-xin và các
+chương trình phòng chống COVID-19 của Chính phủ cũng như chung tay hỗ
+trợ các gia đình, người lao động khó khăn tại 15 tỉnh thành cả nước. Dưới
+sự chỉ đạo của Ngân hàng Nhà nước cũng như các cơ quan Chính phủ,
+Techcombank đã phần nào san sẻ gánh nặng với cộng đồng, cùng tất cả
+người dân Việt Nam vững vàng vượt qua thời kỳ khó khăn nhất của đại dịch
+COVID-19 trong năm 2021.
+Ngân hàng cũng đã và đang không ngừng tăng cường các giải pháp đồng
+hành cùng khách hàng vượt qua khó khăn trong và sau đại dịch, hướng đến
+hỗ trợ cộng đồng ổn định để phát triển kinh doanh. Techcombank đặt mục
+tiêu hàng đầu là bảo đảm an toàn sức khỏe cho cán bộ nhân viên, qua đó
+đảm bảo sức khỏe cho khách hàng và duy trì tốt nhất hoạt động kinh doanh
+liên tục. Techcombank cũng đẩy mạnh đầu tư vào giải pháp số hóa để cung
+cấp và không ngừng hoàn thiện công cụ giao dịch điện tử tiện lợi - bảo mật
+- đảm bảo an toàn sức khỏe, cũng như các nhóm sản phẩm đa dạng: tiện
+ích thanh toán hàng ngày tại nhà để hạn chế tiếp xúc tiền mặt và giảm thiểu
+nguy cơ lây nhiễm SARS-CoV-2; cấp thẻ tín dụng phê duyệt trước để hỗ trợ
+nhu cầu chi tiêu khi kinh tế bị ảnh hưởng bởi dịch; các sản phẩm liên kết giúp
+quản lý, bảo vệ và đầu tư cho sức khỏe - tài chính.
+Không chỉ thể hiện mạnh mẽ ưu tiên và cam kết thực thi trách nhiệm trước
+xã hội, trước cộng đồng và đất nước với tầm nhìn "Chuyển đổi ngành tài
+chính, nâng tầm giá trị sống", các hoạt động trên còn thể hiện niềm tự hào
+và quyết tâm của toàn bộ cán bộ, nhân viên Techcombank trên hành trình
+đồng hành cùng đất nước, Chính phủ và các lực lượng tuyến đầu thực hiện
+thành công sứ mệnh cao cả: Chiến thắng dịch bệnh COVID-19, sớm đưa
+cuộc sống trở lại bình thường và vượt trội hơn mỗi ngày.
+•	 Techcombank sẽ tiếp tục tài trợ tổ chức hai giải chạy cộng đồng tại Hà
+Nội và TP Hồ Chí Minh là Techcombank Hanoi Marathon và Techcombank
+Hochiminh Marathon trong những năm tiếp theo để tuyên truyền lối sống
+khỏe, ý thức tự phát triển bản thân của mỗi người dân vì một Việt Nam
+vượt trội hơn.
+•	 Techcombank sẽ luôn tiên phong thực hiện theo lời kêu gọi của Đảng,
+Chính phủ Nhà nước Việt Nam trong các hoạt động an sinh xã hội giúp
+người dân và đất nước vượt qua đai dịch COVID-19 và khắc phục các hậu
+quả do dịch bệnh để lại trong những năm tiếp theo.
+•	 Techcombank vẫn sẽ giữ vững truyền thống “Lá lành đùm lá rách”, “Tương
+thân tương ái” giúp đỡ và hỗ trợ phát triển cho người dân, đồng bào vùng
+xâu vùng xa, những địa phương có hoàn cảnh khó khăn, đối mặt với thiên
+tai trên tinh thần “Không để ai bị bỏ lại phía sau” đưa con người và đất
+nước Việt Nam ngày càng phồn vinh và phát triển.
+Định hướng tham gia hoạt động xã hội
+trong tương lai:
+Techcombank đóng góp khoảng
+Trao tặng hơn
+trang thiết bị y tế
+Gói hỗ trợ trong đại dịch COVID-19 và các hoạt động xã hội (XH) khác
+BÁO CÁO BỀN VỮNG (ESG)
+hỗ trợ phòng chống COVID-19
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
 HỘI ĐỒNG QUẢN TRỊ
-Techcombank đang từng bước 
-xây dựng và áp dụng một cơ cấu 
-Quản trị - Điều hành minh bạch và 
-hiệu quả, đảm bảo quyền lợi của 
-khách hàng, cán bộ nhân viên, cổ 
-đông và nhà đầu tư, từ đó đảm 
-bảo sự phát triển bền vững và 
+ĐỘI NGŨ
+LÃNH ĐẠO
+BAN KIỂM SOÁT
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+
+BAN LÃNH ĐẠO
+ĐỘI NGŨ
+LÃNH ĐẠO
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+
+GIỚI THIỆU HỘI ĐỒNG QUẢN TRỊ
+HỘI ĐỒNG QUẢN TRỊ
+Techcombank đang từng bước
+xây dựng và áp dụng một cơ cấu
+Quản trị - Điều hành minh bạch và
+hiệu quả, đảm bảo quyền lợi của
+khách hàng, cán bộ nhân viên, cổ
+đông và nhà đầu tư, từ đó đảm
+bảo sự phát triển bền vững và
 giá trị của tổ chức.
-Cơ cấu Quản trị - Điều hành của Techcombank tuân thủ các điểm trọng yếu 
-của các quy định pháp luật và hướng dẫn về quản trị công ty ban hành bởi 
-Cơ quan Quản lý Nhà nước, một số kể đến như:  
-	
-●
-Nghị định 155/2020/NĐ-CP quy định chi tiết thi hành một số điều của 
-Luật Chứng khoán 
-	
-●
-Thông tư số 13/2018/TT-NHNN về hệ thống kiểm soát nội bộ của ngân 
-hàng thương mại, chi nhánh ngân hàng nước ngoài, và các văn bản sửa 
+Cơ cấu Quản trị - Điều hành của Techcombank tuân thủ các điểm trọng yếu
+của các quy định pháp luật và hướng dẫn về quản trị công ty ban hành bởi
+Cơ quan Quản lý Nhà nước, một số kể đến như:
+Nghị định 155/2020/NĐ-CP quy định chi tiết thi hành một số điều của
+Luật Chứng khoán
+Thông tư số 13/2018/TT-NHNN về hệ thống kiểm soát nội bộ của ngân
+hàng thương mại, chi nhánh ngân hàng nước ngoài, và các văn bản sửa
 đổi, bổ sung
-	
-●
-Bộ Nguyên tắc Quản trị Công ty theo thông lệ tốt nhất ban hành tháng 
-8/2019 bởi Ủy ban Chứng khoán Nhà nước và Tổ chức Tài chính Quốc 
+Bộ Nguyên tắc Quản trị Công ty theo thông lệ tốt nhất ban hành tháng
+8/2019 bởi Ủy ban Chứng khoán Nhà nước và Tổ chức Tài chính Quốc
 tế IFC.
-1
-Thành viên 
+Thành viên
 HĐQT độc lập
-8
-Thành viên HĐQT 
+Thành viên HĐQT
 không điều hành
-Thâm niên của Thành 
+Thâm niên của Thành
 viên HĐQT
-50%
 Trên 11 năm
 Dưới 5 năm
-25%
-25%
-6 - 10 năm
 Về Quản Trị - Điều Hành
 QUẢN TRỊ DOANH NGHIỆP
 Kinh nghiệm
-Ông Hồ Hùng Anh là Chủ tịch HĐQT Techcombank từ 
-tháng 05/2008 đến nay. Ông bắt đầu tham gia quản trị 
-Ngân hàng từ năm 2004 và trước đó đã có kinh nghiệm 
-quản trị nhiều năm tại các tổ chức lớn, trong đó có tập 
+Ông Hồ Hùng Anh là Chủ tịch HĐQT Techcombank từ
+tháng 05/2008 đến nay. Ông bắt đầu tham gia quản trị
+Ngân hàng từ năm 2004 và trước đó đã có kinh nghiệm
+quản trị nhiều năm tại các tổ chức lớn, trong đó có tập
 đoàn Masan.
 Bằng cấp
-Ông tốt nghiệp Kỹ sư Điện kỹ thuật tại trường Đại học 
+Ông tốt nghiệp Kỹ sư Điện kỹ thuật tại trường Đại học
 Bách khoa Kiev, Ucraina.
 Ông Hồ Hùng Anh
-Chủ tịch HĐQT 
-Tuổi: 52 | Tham gia HĐQT 
+Chủ tịch HĐQT
+Tuổi: 52 | Tham gia HĐQT
 Techcombank từ: 03/2004
 Kinh nghiệm
-Ông Nguyễn Đăng Quang là Phó Chủ tịch thứ nhất HĐQT 
-Techcombank từ tháng 4/2016 đến nay. Trước đó, ông 
-đóng vai trò thành viên HĐQT Techcombank từ tháng 
-5/2014 đến tháng 3/2016 và Phó Chủ tịch thứ nhất từ 
-tháng 5/2008 đến tháng 4/2014. Trước khi tham gia 
-HĐQT, ông Nguyễn Đăng Quang đã có hơn 20 năm kinh 
-nghiệm điều hành và quản trị ở nhiều vị trí quản lý khác 
-nhau tại Techcombank từ năm 1995, cũng như với tư 
+Ông Nguyễn Đăng Quang là Phó Chủ tịch thứ nhất HĐQT
+Techcombank từ tháng 4/2016 đến nay. Trước đó, ông
+đóng vai trò thành viên HĐQT Techcombank từ tháng
+5/2014 đến tháng 3/2016 và Phó Chủ tịch thứ nhất từ
+tháng 5/2008 đến tháng 4/2014. Trước khi tham gia
+HĐQT, ông Nguyễn Đăng Quang đã có hơn 20 năm kinh
+nghiệm điều hành và quản trị ở nhiều vị trí quản lý khác
+nhau tại Techcombank từ năm 1995, cũng như với tư
 cách thành viên HĐQT tại Tập đoàn Masan.
 Bằng cấp
-Ông tốt nghiệp Tiến sĩ Khoa học Công nghệ tại Học viện 
-Khoa học Quốc gia Belarus và Thạc sỹ Quản trị Kinh doanh 
+Ông tốt nghiệp Tiến sĩ Khoa học Công nghệ tại Học viện
+Khoa học Quốc gia Belarus và Thạc sỹ Quản trị Kinh doanh
 (MBA) của Đại học Kinh tế Nga Plekhanov.
 Ông Nguyễn Đăng Quang
-Phó Chủ tịch HĐQT  
-thứ nhất 
-Tuổi: 59 | Tham gia HĐQT 
+Phó Chủ tịch HĐQT
+thứ nhất
+Tuổi: 59 | Tham gia HĐQT
 Techcombank từ: 01/2000
 Kinh nghiệm
-Ông Nguyễn Thiều Quang tham gia HĐQT từ năm 1999 
-và là Phó Chủ tịch HĐQT Techcombank từ tháng 5/2008 
-tới nay. Ông Nguyễn Thiều Quang có nhiều năm kinh 
-nghiệm điều hành và từng nắm giữ nhiều vị trí quan 
-trọng tại các tổ chức lớn như tập đoàn Masan, Tổng 
-Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam 
-- Vinaconex và Công ty Cổ phần Môi trường và Xây 
+Ông Nguyễn Thiều Quang tham gia HĐQT từ năm 1999
+và là Phó Chủ tịch HĐQT Techcombank từ tháng 5/2008
+tới nay. Ông Nguyễn Thiều Quang có nhiều năm kinh
+nghiệm điều hành và từng nắm giữ nhiều vị trí quan
+trọng tại các tổ chức lớn như tập đoàn Masan, Tổng
+Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam
+- Vinaconex và Công ty Cổ phần Môi trường và Xây
 dựng Sài Gòn – Senco.
 Bằng cấp
-Ông tốt nghiệp Kiến trúc sư - Kỹ sư mỏ tại trường Đại 
-học Bách khoa Donhetsk, Ucraina (nay là Đại học Kỹ 
+Ông tốt nghiệp Kiến trúc sư - Kỹ sư mỏ tại trường Đại
+học Bách khoa Donhetsk, Ucraina (nay là Đại học Kỹ
 thuật Quốc gia Donetsk).
 Ông Nguyễn Thiều Quang
-Phó Chủ tịch HĐQT 
-Tuổi: 63 | Tham gia HĐQT 
+Phó Chủ tịch HĐQT
+Tuổi: 63 | Tham gia HĐQT
 Techcombank từ: 06/2000
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
-85
-84
 Chương IV           Phát triển bền vững cùng Tech
 Chương IV           Phát triển bền vững cùng Tech
 
-116
-Chương IV           Phát triển bền vững cùng Tech
-Các giá trị này là nền móng của mọi hoạt động thường nhật tại Ngân hàng: hoàn thiện công việc, đưa ra quyết định 
-kinh doanh, tương tác với đồng nghiệp và phục vụ khách hàng.
-Nuôi dưỡng các giá trị cốt lõi mỗi ngày cho phép chúng tôi giữ vững lời hứa thương hiệu, triển khai chiến lược và hiện 
-thực hóa tầm nhìn và sứ mệnh dài hạn của Ngân hàng. Và quan trong hơn cả, các giá trị này sẽ giúp Techcombank 
-củng cố các mối quan hệ với đối tác và tạo dựng niềm tin trong cộng đồng.
-Trong thời kỳ đại dịch toàn cầu chưa từng có tiền lệ này, Techcombank không những là một ngân hàng kiên cường 
-và thích ứng nhanh, tập trung bảo đảm công ăn việc làm, chăm sóc và bảo vệ cho tất cả nhân viên, mà còn ra sức 
-chung tay giúp đỡ cộng đồng địa phương.
-Ngay từ đầu đại dịch, Ngân hàng đã tạo điều kiện cho nhân viên làm việc tại nhà khi cần thiết, cũng như cung cấp 
-các khoá đào tạo và học tập trực tuyến cho tất cả cán bộ nhân viên.
-VĂN HOÁ DOANH NGHIỆP
-Văn hóa
-doanh nghiệp
-2021 là một năm đầy thách thức khi các quốc gia trên toàn cầu phải liên tiếp chống chọi với những nguy cơ đến 
-từ đại dịch COVID-19, và Việt Nam cũng không phải là ngoại lệ. Điều khiến Techcombank khác biệt và mang tới 
-một sức mạnh to lớn hơn bao giờ hết cho chúng tôi chính là sự gắn kết với các giá trị cốt lõi và tầm nhìn, sứ mệnh 
-của của Ngân hàng, với mục đích "Chuyển đổi ngành tài chính, nâng tầm giá trị sống". Văn hóa Doanh nghiệp của 
-Techcombank được xác định bởi năm giá trị cốt lõi, là kim chỉ nam cho mọi hoạt động của Ngân hàng. Năm giá trị 
-này là:
-Hỗ trợ phát triển
-bền vững 
-Xây dựng nền tảng 
-cho việc thực thi 
-chiến lược 
-Tạo lợi thế 
-cạnh tranh  
-Tạo bản sắc riêng 
-cho tổ chức  
-Xây dựng nền tảng văn hoá, 
-đóng góp trực tiếp vào hiệu 
-quả kinh doanh
-Thu hút và 
-giữ chân 
-nhân tài
-•	 Khách hàng là trọng tâm
-•	 Hợp tác vì mục tiêu chung
-•	 Đổi mới và sáng tạo
-•	 Phát triển bản thân
-•	 Làm việc hiệu quả 
-117
-116
-Chương IV           Phát triển bền vững cùng Tech
-Chương IV           Phát triển bền vững cùng Tech
+HỘI ĐỒNG QUẢN TRỊ
+Kinh nghiệm
+Ông Đỗ Tuấn Anh là thành viên HĐQT Techcombank từ
+tháng 12/2012 và là Phó Chủ tịch HĐQT Techcombank
+từ tháng 6/2015 đến nay. Ông Đỗ Tuấn Anh từng đảm
+nhiệm nhiều vị trí quản lý tại NHNN và Techcombank như:
+Phó Trưởng phòng Vụ Hợp tác Quốc tế, Trưởng phòng
+Thanh tra Ngân hàng - NHNN, Trợ lý cao cấp cho HĐQT,
+Giám đốc Khối Chiến lược và Phát triển ngân hàng
+Techcombank và Phó Tổng Giám đốc Techcombank.
+Bằng cấp
+Ông tốt nghiệp Cử nhân Ngoại ngữ tại Đại học Ngoại
+ngữ Hà Nội và Thạc sĩ Quản lý tài sản đầu tư tại Đại học
+Tổng hợp Quản lý Singapore
+Ông Đỗ Tuấn Anh
+Phó Chủ tịch HĐQT
+Tuổi: 49  | Tham gia HĐQT
+Techcombank từ: 12/2012
+Kinh nghiệm
+Ông Lee Boon Huat là thành viên độc lập của HĐQT
+Techcombank tháng 12/2012 đến tháng 4/2014 và là
+Thành viên HĐQT từ tháng 5/2014 đến nay. Trước khi
+gia nhập Techcombank, ông từng đảm nhiệm nhiều vị
+trí quản lý tại các tổ chức tài chính lớn: Ủy ban tiền tệ
+Singapore, Ngân hàng HSBC, Ngân hàng Thương mại
+Hoàng gia Canada, Ngân hàng Hóa học và Ngân hàng
+Standard Chartered.
+Bằng cấp
+Ông tốt nghiệp Cử nhân ngành Kế toán tại Viện Công
+nghệ Tây Australia (nay là Đại học Curtin).
+Ông Lee Boon Hua
+Thành viên HĐQT
+Tuổi: 65  | Tham gia HĐQT
+Techcombank từ: 12/2012
+Kinh nghiệm
+Ông Nguyễn Cảnh Sơn tham gia HĐQT Techcombank từ
+tháng 5/2008 và là Phó Chủ tịch HĐQT Techcombank từ
+tháng 4/2009 tới nay. Ông Nguyễn Cảnh Sơn có hơn 20
+năm kinh nghiệm tại các vị trí thành viên HĐQT và Chủ tịch
+HĐQT tại các tổ chức lớn như Công ty Cổ phần Eurowindow
+Holding và Công ty Cổ phần Đầu tư T&M Việt Nam.
+Bằng cấp
+Ông tốt nghiệp Kỹ sư Xây dựng tại trường Đại học Kỹ sư
+Xây dựng thành phố Mátxcơva (nay là Đại học Tổng hợp
+Xây dựng Quốc gia - Liên bang Nga).
+Ông Nguyễn Cảnh Sơn
+Phó Chủ tịch HĐQT
+Tuổi: 55  | Tham gia HĐQT
+Techcombank từ: 05/2008
+Ông Saurabh Narayan
+Agarwal
+Thành viên HĐQT
+Tuổi: 41 | Tham gia HĐQT
+Techcombank từ: 04/2019
+Ông Nguyễn Nhân Nghĩa
+Thành viên HĐQT độc lập
+Tuổi: 53 | Tham gia HĐQT
+Techcombank từ: 04/2019
+Kinh nghiệm
+Ông Nguyễn Nhân Nghĩa từng công tác nhiều năm tại
+NHNN, Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV),
+đồng thời đảm nhiệm nhiều chức vụ quản lý và cao cấp
+như Phó Giám đốc Sở giao dịch 3 tại BIDV, Phó Tổng
+Giám đốc và Tổng Giám đốc Công ty Liên doanh Quản
+lý Đầu tư BIDV (Vietnam Partners).
+Bằng cấp
+Ông có bằng Kỹ sư Thuỷ lợi tại Đại học Thủy Lợi và Thạc
+sỹ chuyên ngành Tài chính và Kinh tế tại Đại học Tổng
+hợp London, Vương Quốc Anh. Ông được cấp chứng
+chỉ chuyên môn phân tích tài chính (CFA) thông qua
+chương trình phân tích Tài chính chuyên nghiệp quốc tế
+tại Học viện CFA, Hoa Kỳ.
+Ông Hồ Anh Ngọc
+Phó Chủ tịch HĐQT
+Tuổi: 40 | Tham gia HĐQT
+Techcombank từ: 4/2021
+Kinh nghiệm
+Ông Hồ Anh Ngọc là Phó Chủ tịch HĐQT Techcombank
+từ tháng 4/2021 đến nay. Trước khi tham gia HĐQT
+Techcombank, ông Hồ Anh Ngọc đã có hơn 14 năm
+kinh nghiệm làm việc tại Techcombank và đảm nhiệm
+nhiều vị trí quan trọng tại Techcombank và công ty con
+của Techcombank. Đồng thời, ông có kinh nghiệm tham
+gia quản lý, quản trị tại một số doanh nghiệp lớn như
+Công ty cổ phần One Mount Group, Công ty Cổ phần
+One Mount Real Estate, Công ty Cổ phần One Mount
+Distribition và Công ty cổ phần One Mount Consumer.
+Bằng cấp
+Ông tốt nghiệp Cử nhân, chuyên ngành Thương mại - Kế
+toán; và Thạc sỹ Kinh tế của Trường Đại học Macquarie
+Sydney, Úc. Là Thành viên CPA được cấp bởi Hiệp hội
+Kiểm toán Úc.
+Kinh nghiệm
+Ông Saurabh Narayan Agarwal là thành viên HĐQT
+Techcombank từ tháng 4/2019 đến nay. Trước khi gia
+nhập Techcombank, ông từng đảm nhiệm vị trí quản lý
+tại các tổ chức tài chính lớn như: Chuyên gia phân tích
+cao cấp, Giám đốc Công ty McKinsey, New Delhi, Ấn
+Độ và New Jersey, Hoa Kỳ và Giám đốc Warburg Pincus
+New York, Hoa Kỳ và Singapore.
+Bằng cấp
+Ông tốt nghiệp Cử nhân ngành Công nghệ, Kỹ thuật
+Điện và Thạc sỹ ngành Công nghệ, Vi Điện tử Học viên
+Công nghệ Ấn Độ Bombay, Thạc sỹ ngành Quản trị Kinh
+doanh (MBA) trường Quản trị Kinh doanh Harvard.
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
 B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
 T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+Kinh nghiệm
+Ông Nguyễn Tuấn Minh gia nhập Techcombank từ tháng
+5/2013 và có hơn 8 năm làm việc tại Techcombank với
+nhiều vị trí khác nhau như: Giám đốc Pháp chế, Giám
+đốc Khối Tuân thủ, Kiểm soát  Rủi ro Hoạt động và Pháp
+chế, Giám đốc Cố vấn Pháp lý thuộc Khối Quản trị Ngân
+hàng. Trước đó, ông đã có hơn 20 năm làm chuyên gia
+tư vấn luật - luật sư hành nghề, luật sư nội bộ và quản lý
+cấp cao tại các công ty luật tư nhân, chi nhánh hãng luật
+quốc tế ở Việt Nam, ngân hàng thương mại và công ty
+chứng khoán ở Việt Nam. Ông Nguyễn Tuấn Minh được
+bổ nhiệm và đảm nhận vị trí người Phụ trách Quản trị
+Ngân hàng từ ngày 04/11/2019.
+Bằng cấp
+Ông tốt nghiệp Cử nhân Quan hệ quốc tế - Học viện
+Ngoại giao và Cử nhân Luật - Đại học Luật Hà Nội.
+Ông hiện là luật sư và thành viên Đoàn Luật sư Hà Nội.
+Ông Nguyễn Tuấn Minh
+Chánh văn phòng HĐQT
+Người phụ trách quản trị
+Ngân hàng | Thư Ký Công ty
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+Chức danh tại các công ty khác của thành viên HĐQT nhiệm kỳ 2019-2024
+Các cuộc họp của HĐQT năm 2021
+Hoạt động của Hội đồng Quản trị trong năm 2021
+HĐQT giám sát hoạt động điều hành của Tổng Giám đốc/Hội đồng điều hành thông qua quy định phân cấp và các quy
+định nội bộ của Techcombank do HĐQT ban hành. Đối với các hoạt động thuộc thẩm quyền xem xét và quyết định
+của ĐHĐCĐ và HĐQT, Tổng Giám đốc báo cáo và trình HĐQT xem xét. Trên cơ sở đó, HĐQT sẽ đưa ra các quyết
+định kịp thời cho Tổng Giám đốc/Ban điều hành triển khai thực hiện.
+Trong năm 2021, HĐQT của Techcombank tổ chức 05 buổi họp. Nội dung chi tiết về số và ngày ban hành nghị quyết
+được nêu chi tiết dưới đây.
+Họ & Tên
+Chức danh
+Chức danh Thành viên HĐQT nắm giữ tại các công ty khác
+Ông Hồ Hùng Anh
+Chủ tịch HĐQT
+Không có
+Ông Nguyễn Đăng Quang
+Phó Chủ tịch HĐQT thứ nhất
+•	 Chủ tịch HĐQT Công ty Cổ phần Tập đoàn Masan
+•	 Chủ tịch HĐQT kiêm Tổng Giám đốc Công ty Cổ phần Masan
+•	 Chủ tịch HĐQT Công ty Cổ phần Mobicast
+•	 Chủ tịch HĐQT Công ty Cổ phần Phát triển Thương mại và
+Dịch vụ VCM
+•	 Chủ tịch HĐQT Công ty Cổ phần Phúc Long Heritage
+Ông Nguyễn Thiều Quang
+Phó Chủ tịch HĐQT
+•	 Thành viên HĐQT Công ty Cổ phần Hàng tiêu dùng Masan
+•	 Chủ tịch HĐQT Công ty Cổ phần Môi trường và Xây dựng Sài
+Gòn - Senco
+Ông Nguyễn Cảnh Sơn
+Phó Chủ tịch HĐQT
+•	 Chủ tịch HĐQT kiêm Tổng Giám đốc Công ty Cổ phần
+Eurowwindow Holding
+•	 Thành viên HĐQT Công ty Cổ phần Đầu tư Du lịch T&M Vân
+Phong
+•	 Chủ tịch HĐQT Công ty cổ phần đầu tư trung tâm thương mại
+Hà Nội - Mátxcơva (Incentra)
+•	 Chủ tịch HĐQT Công ty cổ phần Eurowindow
+Ông Đỗ Tuấn Anh
+Phó Chủ tịch HĐQT
+•	 Chủ tịch HĐQT Công ty Cổ phần Đầu tư INB
+•	 Chủ tịch HĐQT Công ty Cổ phần Đầu tư Đại Hùng Tinh
+•	 Tổng Giám đốc Công ty Cổ phần Đầu tư KD (KDI)
+•	 Phó Chủ tịch HĐQT kiêm Tổng Giám đốc Công ty Cổ phần
+Vega City
+Ông Lee Boon Huat
+Thành viên HĐQT
+•	 Thành viên HĐQT độc lập - Alliance Bank Bhd
+•	 Thành viên HĐQT- Công ty Cổ phần Chứng khoán Kỹ thương
+(TCBS)
+•	 Thành viên HĐQT - Công ty Cổ phần Quản lý Quỹ Kỹ thương
+Ông Saurabh Narayan
+Agarwal
+Thành viên HĐQT
+•	 Thành viên HĐQT độc lập - Công ty Cổ phần Dịch vụ Di Động
+Trực tuyến
+•	 Giám đốc không điều hành - Converge Information and
+Communications Technology Solutions Inc
+•	 Giám đốc không điều hành - Circles Asia Cayman Limited
+•	 Giám đốc - Công ty Converge ICT Singapore Pte. Ltd
+Ông Nguyễn Nhân Nghĩa
+Thành viên HĐQT độc lập
+Không có
+Ông Hồ Anh Ngọc
+Phó Chủ tịch HĐQT
+•	 Chủ tịch HĐQT - Công ty cổ phần One Mount Group
+•	 Chủ tịch HĐQT - Công ty Cổ phần One Mount Real Estate
+•	 Thành viên HĐQT - Công ty Cổ phần One Mount Distribution
+•	 Thành viên HĐQT - Công ty cổ phần One Mount Consumer
+•	 Thành viên HĐTV - Công ty TNHH Du thuyền Việt Nam
+STT Thành viên HĐQT
+Chức vụ
+Ngày bắt đầu là thành
+viên HĐQT theo nhiệm
+Số buổi họp
+HĐQT tham dự
+Tỷ lệ
+tham dự họp
+Lý do không
+tham dự họp
+Ông Hồ Hùng Anh
+Chủ tịch
+HĐQT
+Ông Nguyễn Đăng Quang
+Phó Chủ
+tịch HĐQT
+thứ nhất
+Ông Nguyễn Thiều Quang
+Phó Chủ
+tịch HĐQT
+Ông Nguyễn Cảnh Sơn
+Phó Chủ
+tịch HĐQT
+Ông Đỗ Tuấn Anh
+Phó Chủ
+tịch HĐQT
+Ông Lee Boon Huat
+Thành viên
+HĐQT
+Ông Saurabh Narayan
+Agarwal
+Thành viên
+HĐQT
+Ông Nguyễn Nhân Nghĩa
+Thành
+viên HĐQT
+độc lập
+Ông Hồ Anh Ngọc
+Phó Chủ
+tịch HĐQT
+HỘI ĐỒNG QUẢN TRỊ
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+Các Nghị quyết HĐQT ban hành trong năm 2021
+HỘI ĐỒNG QUẢN TRỊ
+Hoạt động của Thành viên HĐQT độc lập
+Tất cả các thành viên HĐQT đều đã tham gia các chương trình đào tạo về Quản trị Công ty
+Thực hiện quyền, nghĩa vụ của Thành viên HĐQT độc lập theo đúng quy chế/quy định nội bộ của Techcombank
+và theo Quyết định phân công của HĐQT/Chủ tịch HĐQT một cách cẩn trọng, trung thực góp phần thành
+công cho kết quả kinh doanh năm 2021 của Techcombank.
+Tham dự đầy đủ các cuộc họp của HĐQT, Ủy ban Quản lý rủi ro (BRC), Ủy ban Nhân sự (NORCO) và đã đưa
+ra đầy đủ các ý kiến đối với các vấn đề được thông qua tại cuộc họp và các vấn đề được thông qua dưới
+hình thức lấy ý kiến bằng văn bản tại các Hội đồng/Ủy ban mình tham gia.
+Thực hiện triển khai các nghị quyết, quyết định của ĐHĐCĐ thường niên năm 2021 và theo Quyết định phân
+công nhiệm vụ của HĐQT.
+Thực hiện báo cáo, công bố thông tin đầy đủ theo quy định của pháp luật hiện hành khi thực hiện giao dịch
+cổ phiếu (mua cổ phần ESOP) đối với Người có liên quan của mình tại Techcombank.
+Đã hoàn thành các nhiệm vụ, quyền hạn của mình trong vai trò, các vị trí được đảm nhiệm theo phân công
+của HĐQT, hỗ trợ HĐQT một cách hiệu quả trong việc kịp thời đưa ra các quyết định cho quá trình quản trị
+hoạt động kinh doanh ngân hàng.
+Đánh giá hoạt động của HĐQT trong năm 2021:
+Trong năm 2021, HĐQT đã hoạt động tích cực và rất
+hiệu quả; theo đó, chủ động, kịp thời ban hành các
+nghị quyết, quyết định nhằm triển khai hiệu quả Nghị
+quyết ĐHĐCĐ năm 2021, trong đó nổi bật là việc hoàn
+thành các nhiệm vụ sau:
+Cùng các Thành viên HĐQT chỉ đạo, giám sát và đôn
+đốc Tổng Giám đốc/Hội đồng điều hành triển khai
+hoàn thành kế hoạch kinh doanh năm 2021 được
+ĐHĐCĐ 2021 phê duyệt;
+Thực hiện vai trò, chức năng, nhiệm vụ của Thành
+viên HĐQT độc lập trong việc giám sát Tổng Giám
+đốc thực hiện nhiệm vụ được HĐQT giao, phân công;
+Thực hiện xem xét và phê duyệt việc ban hành các
+quy định nội bộ liên quan đến tổ chức, quản trị và hoạt
+động nghiệp vụ của Techcombank thuộc thẩm quyền
+của NHNN.
+Số Nghị quyết
+Ngày ban hành
+Nội dung chính
+NQ-HĐQT
+•	 Xem xét thông qua kết quả hoạt động kinh doanh đến tháng 2/2021
+•	 Xem xét và thông qua kế hoạch kinh doanh năm 2021
+•	 Xem xét và thông qua báo cáo về cập nhật chiến lược của
+Techcombank
+•	 Xem xét và thông qua Tầm nhìn và Sứ mệnh của Techcombank
+•	 Xem xét và thông qua việc chuyển nhượng một phần Tòa nhà
+Techcombank Sài Gòn tại 23 Lê Duẩn, phường Bến Nghé, Quận 1,
+TP Hồ Chí Minh.
+•	 Xem xét thông qua báo cáo Quý 1 năm 2021 của Ban kiểm soát.
+•	 Xem xét và thông qua chương trình, nội dung họp trình ĐHĐCĐ
+thường niên năm 2021
+NQ-HĐQT
+•	 Thông qua việc bầu ông Hồ Anh Ngọc -Thành viên HĐQT đảm nhận
+chức danh Phó Chủ tịch HĐQT nhiệm kỳ 2019-2021 và việc phân
+công nhiệm vụ cho ông Hồ Anh Ngọc.
+NQ-HĐQT
+•	 Xem xét và thông qua kết quả hoạt động kinh doanh đến tháng 5/2021.
+•	 Xem xét và thông qua báo cáo về cập nhật chiến lược của
+Techcombank.
+•	 Xem xét thông qua báo cáo Quý 2 năm 2021 của Ban kiểm soát.
+•	 Xem xét và thông qua việc đổi tên Ủy ban Nhân sự và Lương thưởng
+thành Ủy ban Nhân sự; sửa đổi Quy chế và thành viên của Ủy ban này.
+NQ-HĐQT-TCB
+•	 Xem xét và thông qua kết quả hoạt động kinh doanh đến tháng 8/2021.
+•	 Xem xét và thông qua báo cáo về cập nhật chiến lược của
+Techcombank.
+•	 Xem xét thông qua báo cáo Quý 3 năm 2021 của Ban kiểm soát.
+•	 Xem xét và thông qua việc thực hiện Dự án DFS giữa Techcombank
+và One Mount Group.
+NQ-HĐQT-TCB
+•	 Xem xét và thông qua kết quả hoạt động kinh doanh năm 2021 của
+Techcombank.
+•	 Xem xét và thông qua báo cáo về thực hiện chiến lược của
+Techcombank.
+•	 Xem xét thông qua chủ trương Kế hoạch kinh doanh năm 2022; giao
+Tổng Giám đốc rà soát/điều chỉnh và báo cáo HĐQT tại kỳ họp tiếp
+theo để trình ĐHĐCĐ thường niên năm 2022.
+•	 Xem xét thông qua báo cáo Quý 4 năm 2021 của Ban kiểm soát.
+Giám sát Tổng Giám đốc trong việc tổ chức thực hiện
+hoạt động kiểm soát, vận hành và duy trì hệ thống
+thông tin quản lý và cơ chế trao đổi thông tin, duy trì
+văn hóa kiểm soát và chuẩn mực đạo đức nghề nghiệp
+trong Techcombank, giám sát việc xử lý các hành vi vi
+phạm nội bộ và chuẩn mực đạo đức nghề nghiệp;
+Đưa ra ý kiến góp ý, trao đổi về việc triển khai chiến
+lược hàng năm, kế hoạch phát triển chung của
+Techcombank;
+Đưa ra những quyết định về các vấn đề liên quan đến
+giải pháp phát triển thị trường, tiếp thị và công nghệ;
+Đưa ra các quyết định chính sách quản lý rủi ro và
+giám sát việc thực thi các biện pháp phòng ngừa rủi
+ro tại Techcombank; và
+Thực hiện các nhiệm vụ khác theo phân công, chỉ
+đạo của NHNN và Chủ tịch HĐQT.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+HĐQT thành lập 02 Ủy ban theo quy định pháp luật gồm Ủy ban Quản lý Rủi ro và Ủy ban Nhân sự có chức
+năng tham mưu cho HĐQT về các vấn đề liên quan. Hoạt động của các Ủy ban trong năm 2021 như sau:
+Ủy ban Quản lý Rủi ro (UB QLRR)
+Ủy ban QLRR là cơ quan được HĐQT thiết lập nhằm thực
+thi một số chức năng, nhiệm vụ chuyên môn do HĐQT
+phân công thực hiện liên quan đến kiểm tra giám sát và
+quản trị rủi ro (QTRR) của hoạt động ngân hàng. Trong
+năm 2021, UB QLRR đã xem xét, thông qua, từ đó tham
+mưu cho HĐQT ra quyết định đối với việc cập nhật, hoàn
+thiện chính sách quản lý rủi ro, bao gồm rà soát định kỳ,
+ban hành sửa đổi Chính sách QTRR của Techcombank;
+ban hành Khẩu vị rủi ro năm 2022 “nhằm duy trì khung
+quản trị rủi ro toàn diện với mục tiêu phát triển kinh doanh
+bền vững, đồng thời duy trì vị thế dẫn đầu thị trường về
+tỷ lệ vốn, thanh khoản và các tỷ lệ an toàn …” (trích Tuyên
+bố Khẩu vị rủi ro năm 2022 của Techcombank).
+UB QLRR đã tích cực chỉ đạo, giám sát công tác QTRR
+toàn hàng trên cơ sở giám sát việc tuân thủ các quy định
+của pháp luật, NHNN, giám sát việc thực thi, tuân thủ
+Chính sách QTRR, Khẩu vị rủi ro cũng như các ngưỡng,
+giới hạn đảm bảo an toàn trong hoạt động ngân hàng.
+Cụ thể:
+Về quản trị danh mục tín dụng và rủi ro tín dụng:
+(i) Trong bối cảnh diễn biến khó lường của dịch
+COVID-19, đặc biệt là sự xuất hiện của các làn sóng
+dịch và biến chủng mới, UB QLRR đã liên tục yêu cầu
+các đơn vị có liên quan theo sát diễn biến của dịch,
+đánh giá tác động tới chất lượng danh mục tín dụng
+của Techcombank và danh mục khách hàng cơ cấu lại
+thời hạn trả nợ theo quy định của NHNN. Từ đó, cung
+cấp các thông tin có ý nghĩa cho việc đưa ra các quyết
+định kinh doanh, đồng hành, hỗ trợ, tháo gỡ khó khăn
+cho khách hàng bị ảnh hưởng bởi đại dịch và giảm
+thiểu các tác động của COVID-19 đến Techcombank;
+(ii) Chỉ đạo việc hoàn thiện định hướng tín dụng phù
+hợp với chiến lược kinh doanh của Ngân hàng, đẩy
+mạnh đầu tư vào công nghệ, chuyển đổi số và phát
+triển các quy trình tự động hóa trên cơ sở thận trọng,
+QTRR hiệu quả.
+Về QTRR hoạt động: Công tác QTRR hoạt động luôn
+được UB QLRR chú trọng và dành thời gian để thảo
+luận về QTRR hoạt động trong các cuộc họp định kỳ,
+chỉ đạo và nhấn mạnh đến khả năng thực thi và hiện
+thực hóa khung QTRR hoạt động trên thực tế, đảm
+bảo tính chủ động, nhanh chóng, quyết liệt và hướng
+tới hiệu quả không chỉ tại các đơn vị trực tiếp tham gia
+vào công tác QTRR hoạt động mà còn là định hướng
+chung cho toàn thể cán bộ nhân viên Techcombank.
+Ngoài ra, UB QLRR cũng chỉ đạo việc phát triển, hoàn
+thiện đánh giá các yếu tố định tính trong QTRR hoạt
+động, đặc biệt là việc quản lý rủi ro đối với các vấn đề
+tổn thất phi tài chính (bao gồm cả uy tín, danh tiếng
+v.v.), cũng như việc đào tạo, truyền thông về các xu
+hướng/hình thức rủi ro hoạt động mới nổi, nhằm theo
+kịp với các biến động của thị trường và tình hình thực
+tế tại Ngân hàng.
+Về QTRR thanh khoản và rủi ro thị trường: (i) UB
+QLRR thông qua báo cáo về Kiểm tra sức căng thanh
+khoản (stress test) định kỳ, yêu cầu các đơn vị rà soát,
+đánh giá, rút kinh nghiệm từ những kết quả stress test
+đã thực hiện để hoàn thiện phương pháp, kịch bản
+nhằm triển khai hiệu quả hơn trong giai đoạn mới. Đồng
+thời, chỉ đạo việc tiếp tục cải tiến khung kiểm tra sức
+chịu đựng cho ngân hàng, không chỉ tuân thủ quy định
+của NHNN, yêu cầu quản trị nội bộ mà còn tiệm cận
+với các tiêu chuẩn quốc tế, đảm bảo Techcombank
+luôn chủ động ứng phó với các tình huống có thể xảy
+ra và duy trì hoạt động kinh doanh liên tục;
+(ii) Chỉ đạo hoàn thiện, phát triển khung QTRR thị
+trường, đảm bảo quản lý tổng thể mức độ rủi ro thị
+trường tiềm ẩn từ các hoạt động/ giao dịch phát
+sinh trong và ngoài bảng cân đối của Ngân hàng,
+bên cạnh việc nhanh chóng hoàn thành dự án/sáng
+kiến chiến lược liên quan để không ngừng nâng cao
+năng lực QTRR thị trường, rủi ro thanh khoản của
+Techcombank.
+Về các loại rủi ro trọng yếu khác: UB QLRR giám sát
+việc thực thi thông qua việc giám sát định kỳ các chỉ
+số Khẩu vị rủi ro, Hạn mức rủi ro cho các loại rủi ro
+trọng yếu và ngưỡng, giới hạn đảm bảo an toàn trong
+hoạt động ngân hàng
+Bên cạnh đó, UB QLRR đã thực hiện vai trò giám sát,
+đánh giá tiến độ khắc phục, xử lý các tồn tại, hạn chế
+về quản lý rủi ro theo các ghi nhận, kiến nghị của Thanh
+tra NHNN nhằm nâng cao tính tuân thủ các quy định của
+pháp luật, NHNN và tính hiệu quả của công tác QTRR tại
+Techcombank.with the regulations of the law, the SBV and
+the effectiveness of risk management at Techcombank.
+Chủ tịch Ủy ban Quản lý Rủi ro (UB QLRR)
+Ông Hồ Hùng Anh – Chủ tịch HĐQT
+Thành viên Ủy ban Quản lý Rủi ro
+•	 Ông Nguyễn Đăng Quang - Phó Chủ tịch
+HĐQT thứ nhất
+•	 Ông Nguyễn Thiều Quang - Phó Chủ tịch
+HĐQT
+•	 Ông Nguyễn Cảnh Sơn - Phó Chủ tịch HĐQT
+•	 Ông Đỗ Tuấn Anh - Phó Chủ tịch HĐQT
+•	 Ông Lee Boon Huat – Thành viên HĐQT
+•	 Ông Saurabh Narayan Agarwal – Thành viên
+HĐQT
+•	 Ông Nguyễn Nhân Nghĩa – Thành viên HĐQT
+độc lập
+Hoạt động của các Ủy ban trực thuộc HĐQT năm 2021
+HỘI ĐỒNG QUẢN TRỊ
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+Uỷ ban Nhân sự (UBNS)
+Nhằm thu hút, phát triển và giữ chân nhân tài, UBNS đã chủ động nghiên cứu, tham mưu tư vấn và đề xuất
+cho HĐQT về kế hoạch hành động nhân sự năm 2021-2022 nhất quán với lộ trình thực hiện chiến lược chung
+của ngân hàng 2021-2025, đồng thời cũng hướng tới thực hiện hành công chiến lược “Nhân sự xuất sắc”.
+Về kế hoạch hành động nhân sự 2021-2022
+UBNS đã tổ chức một (01) phiên họp để trao đổi về kế
+hoạch hành động nhân sự năm 2021-2022.
+Kế hoạch hành động nhân sự tập trung vào thu hút, phát
+triển và giữ chân nhân tài; trong đó với các hành động
+trọng tâm bao gồm tăng cường hoạt động tuyển dụng
+nhóm ứng viên dữ liệu, công nghệ, và lực lượng bán;
+xây dựng lộ trình học tập theo từng vai trò công việc
+đồng thời tập trung triển khai các chương trình phát
+triển lãnh đạo tổng thể; tái thiết kế lại các phân khúc
+nhân tài & quy trình quản lý hiệu suất; rà soát và làm mới
+lại các chương trình lương thưởng & đãi ngộ…
+Bên cạnh đó, hai sáng kiến chiến lược về nhân sự cũng
+đã được triển khai bao gồm sáng kiến HRS1 – triển
+khai hệ thống quản lý nguồn nhân lực nhằm số hóa các
+quy trình nhân sự và HRS2 – Định vị giá trị nhân viên
+(Employee Value Proposition) được xây dựng theo phân
+khúc nhân tài nhằm đạt được hiệu quả cao trong việc
+thu hút, phát triển và giữ chân nhân tài.
+Về chính sách lương thưởng cho lực lượng bán hàng
+Nhằm tưởng thưởng cán bộ nhân viên một cách xứng
+đáng với kết quả đạt được, UBNS đã tổ chức một (01)
+phiên họp nhằm tư vấn mô hình lương thưởng tổng
+thể chi trả cho lực lượng bán trên cơ sở tham khảo
+thị trường nhằm đảm bảo mặt bằng lương thưởng đạt
+mức cạnh tranh so với thị trường đồng thời thiết kế
+phù hợp với chiến lược, mô hình hình hoạt động của
+Techcombank.
+Chủ tịch Uỷ ban Nhân sự (UBNS)
+Ông Nguyễn Nhân Nghĩa (thành viên HĐQT
+độc lập)
+Thành viên Ủy ban Nhân sự
+•	 Ông. Hồ Hùng Anh – Chủ tịch HĐQT (Phó Chủ
+tịch NORCO)
+•	 Ông Jens Lottner – Tổng Giám đốc
+•	 Bà Nikki Đặng Mỹ Quyên - Giám đốc Khối
+QTNNL
+Với mục tiêu chi trả theo hiệu suất, CBNV sẽ được tạo
+động lực, liên tục nâng cao năng lực nhằm gặt hái những
+kết quả vượt trội cho bản thân CBNV và Ngân hàng.
+Hoạt động của các Ủy ban trực thuộc HĐQT năm 2021
+HỘI ĐỒNG QUẢN TRỊ
+BAN KIỂM SOÁT
+Thành viên
+Thành viên chuyên trách
+Thành viên
+Ông Mag Rec Soc Oec
+Romauch Hannes
+Thành viên
+Kinh nghiệm
+Ông Mag Rer Soc Oec Romauch Hannes có nhiều năm
+kinh nghiệm làm việc trong lĩnh vực tài chính-ngân hàng
+và đảm nhiệm các vị trí quản lý quan trọng tại các tổ
+chức tài chính, doanh nghiệp lớn. Từ tháng 4/2012 đến
+nay, Ông Mag Rer Soc Oec Romauch Hannes là thành
+viên BKS Techcombank.
+Bằng cấp
+Ông tốt nghiệp Thạc sỹ Quản trị kinh doanh chuyên
+ngành Tài chính, Ngân hàng và Tiếp thị tại Đại học
+Klagenfurt, Cộng hòa Áo.
+Bà Bùi Thị Hồng Mai
+Thành viên chuyên trách
+Kinh nghiệm
+Bà Bùi Thị Hồng Mai có nhiều năm kinh nghiệm làm việc
+trong lĩnh vực tài chính - kế toán. Từ tháng 04/2010 đến
+04/2019  bà là thành viên Ban kiểm soát Techcombank.
+Từ 13/04/2019 đến nay, bà là thành viên chuyên trách
+BKS Techcombank.
+Bằng cấp
+Bà tốt nghiệp Cử nhân chuyên ngành Kế toán tại Trường
+Đại học Tài Chính - Kế toán
+Ông Hoàng Huy Trung
+Trưởng Ban Kiểm soát
+kiêm thành viên chuyên
+trách
+Kinh nghiệm
+Ông Hoàng Huy Trung đã có nhiều năm kinh nghiệm làm
+việc trong lĩnh vực ngân hàng và đảm nhiệm nhiều vị trí
+quản lý tại NHNN, Techcombank. Từ tháng 12/2012 đến
+nay, ông Hoàng Huy Trung là Trưởng BKS kiêm thành
+viên chuyên trách Techcombank.
+Bằng cấp
+Ông tốt nghiệp Thạc sĩ kinh tế chuyên ngành ngân hàng
+tại Trường Đại học kinh tế quốc dân và Cử nhân kinh tế
+chuyên ngành kế toán tại Học Viện Tài chính.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+Hoạt động của BKS
+BAN KIỂM SOÁT
+Nhiệm vụ, quyền hạn của
+Giám sát việc tuân thủ các quy định Pháp luật và Điều lệ ngân hàng
+trong công tác quản trị, điều hành Ngân hàng;
+Thực hiện chức năng kiểm toán nội bộ đối với hệ thống ngân hàng và
+các công ty con, bao gồm xem xét hiệu quả hoạt động của hệ thống
+kiểm soát nội bộ;
+hàng;
+Thực hiện việc kiểm tra, giám sát (nếu có) theo đề nghị của NHNN và/
+hoặc của cổ đông/nhóm cổ đông lớn theo quy định pháp luật, Điều lệ
+ngân hàng.
+Thực hiện nhiệm vụ khác theo quy định pháp luật và Điều lệ ngân hàng.
+Nguyên tắc hoạt động,
+phối hợp giữa BKS với
+Ban Lãnh đạo ngân hàng
+BKS hoạt động theo nguyên tắc độc lập, đồng thời phối hợp chặt chẽ
+với Ban Lãnh đạo ngân hàng trong công tác quản trị, điều hành hoat
+động ngân hàng nhằm ngăn ngừa, phát hiện và xử lý dứt điểm các tồn
+tại trong hoạt động, góp phần nâng cao năng lực của hệ thống kiểm
+soát nội bộ, hoàn thiện các quy định, quy trình, sản phẩm, quản trị rủi ro
+trong kinh doanh và nâng cao năng lực quản trị điều hành của hệ thống.
+HĐQT, Ban Lãnh đạo ngân hàng ghi nhận và chủ động tổ chức, chỉ
+đạo khắc phục các tồn tại theo kiến nghị của BKS và Kiểm toán nội bộ
+(KTNB); đồng thời tạo điều kiện để BKS thực hiện nhiệm vụ.
+BKS Techcombank nhiệm kỳ 2019 – 2024, gồm 03 thành viên; trong đó có 02 thành viên chuyên trách và 01 thành
+viên kiêm nhiệm. Tỷ lệ tham dự các cuộc họp của các thành viên BKS trong năm 2021 như sau:
+Hoạt động của BKS trong năm 2021
+Thành viên BKS
+Chức vụ
+Ngày bắt đầu là
+thành viên BKS
+Số buổi họp
+BKS tham dự
+Tỷ lệ
+tham dự họp
+Lý do không
+tham dự họp
+Ông Hoàng Huy Trung
+Trưởng BKS kiêm
+Bà Bùi Thị Hồng Mai
+Thành viên chuyên
+trách
+Ông Mag Rer Soc Oec
+Romauch Hannes
+Thành viên chuyên
+trách
+Thành viên BKS
+công tác nước
+ngoài, không
+thể kết nối mạng
+nội bộ
+Số Nghị quyết
+Ngày ban hàn
+Nội dung chính
+•	 Xem xét và thông qua báo cáo về kết quả hoạt động của KTNB Quý 1
+năm 2021, các tỷ lệ an toàn trong hoạt động ngân hàng, kết quả giám
+sát hoạt động cấp tín dụng với khách hàng thuộc diện phê duyệt của
+HĐQT; tình hình khắc phục các tồn tại theo kết luận và kiến nghị của
+BKS và KTNB.
+•	 Xem xét và thông qua nội dung báo cáo của BKS tại ĐHĐCĐ và Dự
+thảo quy chế hoạt động của BKS trình ĐHĐCĐ.
+•	 Xem xét và thông qua báo cáo về kết quả hoạt động của KTNB Quý 2
+năm 2021, các tỷ lệ an toàn trong hoạt động ngân hàng, kết quả giám
+sát hoạt động cấp tín dụng, phi tín dụng với khách hàng thuộc diện
+phê duyệt của HĐQT.
+•	 Giao KTNB tiếp tục nghiên cứu, hoàn thiện dự thảo các quy định, quy
+trình hoạt động của KTNB.
+•	 Phân công/ủy quyền Trưởng BKS quyết định điều chỉnh thời gian triển
+khai các cuộc kiểm toán trong kế hoạch kiểm toán 2021, phù hợp với
+diễn biến của dịch bệnh COVID-19.
+•	 Xem xét và thông qua báo cáo về kết quả hoạt động của KTNB Quý 3
+năm 2021, các tỷ lệ an toàn trong hoạt động ngân hàng, kết quả giám
+sát hoạt động cấp tín dụng, phi tín dụng với khách hàng thuộc diện
+phê duyệt của HĐQT; Kiến nghị của BKS với HĐQT và Tổng Giám
+đốc; Tình hình khắc phục các tồn tại theo kết luận và kiến nghị của
+BKS và KTNB.
+•	 Điều chỉnh kế hoạch KTNB năm 2021: Giao/ủy quyền cho Trưởng
+BKS quyết định điều chỉnh kế hoạch kiểm toán năm 2021 để phù hợp
+với tình hình thực tế kiểm soát COVID-19 và yêu cầu thực tế phát sinh
+từ nay đến cuối năm 2021.
+•	 Xem xét và thông qua báo cáo về kết quả hoạt động của KTNB Quý 4
+năm 2021, các tỷ lệ an toàn trong hoạt động ngân hàng, kết quả giám
+sát hoạt động cấp tín dụng, phi tín dụng với khách hàng thuộc diện
+phê duyệt của HĐQT; kiến nghị của BKS với HĐQT và Tổng Giám đốc;
+tình hình khắc phục các tồn tại theo kết luận và kiến nghị của BKS và
+KTNB.
+•	 Xem xét và thông qua kết quả đánh giá hoạt động của KTNB năm
+2021 và kế hoạch kiểm toán nội bộ năm 2022. BKS giao/ủy quyền cho
+Trưởng BKS xem xét, quyết định nội dung và phê duyệt ban hành, gửi
+báo cáo NHNN theo quy định.
+•	 Thông qua việc giao/ủy quyền cho Trưởng BKS hoặc thành viên BKS
+được Trưởng BKS phân công, chỉ định: Đại diện BKS chỉ đạo KTNB
+thực hiện rà soát các hợp đồng/giao dịch và quyết định các vấn đề
+liên quan đến hoạt động rà soát các hợp đồng/giao dịch  thuộc thẩm
+quyền phê duyệt của HĐQT và/hoặc ĐHĐCĐ.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+BAN LÃNH ĐẠO
+Ban Lãnh đạo Techcombank quy tụ các lãnh đạo có kinh
+nghiệm dày dặn và năng lực vượt trội để dẫn dắt việc thực
+thi hiệu quả các mục tiêu chiến lược trên hành trình chuyển
+đổi mạnh mẽ của ngân hàng trong giai đoạn 2021-2025
+Ông Jens Lottner
+Tổng Giám đốc
+Tiến sĩ Lottner được bổ nhiệm làm Tổng Giám đốc Techcombank vào ngày
+18 tháng 8 năm 2020. Trước khi gia nhập Techcombank, Tiến sĩ Lottner là
+Phó Chủ tịch điều hành Cấp cao tại Ngân hàng Thương mại Siam (Thái Lan)
+trong 5 năm. Trong nhiệm kỳ tại Siam, ông đảm nhân các vị trí điều hành chủ
+chốt như Giám đốc Chiến lược, Giám đốc Chuyển đổi và Giám đốc Dữ liệu
+- thiết kế và điều phối chương trình chuyển đổi kỹ thuật số của ngân hàng
+hướng tới khách hàng là trọng tâm. Cương vị gần nhất mà ông nắm giữ tại
+Ngân hàng Thương mại Siam là Giám đốc Tài chính.
+Tiến sĩ Lottner bắt đầu sự nghiệp với Công ty McKinsey & Company vào năm
+1992 tại Đức, nơi ông được bổ nhiệm làm Giám đốc Hợp danh (Partner) năm
+2000. Ông chuyển đến làm việc tại Malaysia vào năm 2001 và Singapore
+vào năm 2005, nơi ông là Giám đốc Hợp danh Cấp cao (Senior Partner) dẫn
+dắt hoạt động dịch vụ tài chính của McKinsey tại khu vực ASEAN cho đến
+năm 2012. Ông đồng thời lãnh đạo Hiệp hội Quản lý Rủi ro Châu Á-Thái Bình
+Dương và là thành viên của Ủy ban Quản lý Châu Á-Thái Bình Dương. Từ
+năm 2012 đến năm 2015, Tiến sĩ Lottner là Giám đốc Hợp danh cấp cao và
+Giám đốc Điều hành của Tập đoàn Boston Consulting Group tại Singapore,
+lãnh đạo các hoạt động dịch vụ tài chính trên toàn bộ khu vực ASEAN.
+Tiến sĩ Lottner có bằng Tiến sĩ Kinh tế tại Đại học Công nghệ Dresden, Đức,
+và có bằng Kinh tế của Đại học Bonn, Đức.
+Ông Phùng Quang Hưng
+Phó Tổng Giám đốc thường trực kiêm Giám đốc
+Khối Khách hàng Doanh nghiệp (từ ngày 11/01/2022)
+Ông Phùng Quang Hưng có nhiều năm kinh nghiệm lãnh đạo trong ngành
+tài chính-ngân hàng, ông từng giữ nhiều vị trí khác nhau ở nhiều ngân hàng
+quốc tế như Giám đốc Vận Hành và Công nghệ tại Ngân hàng ABN AMRO
+Việt Nam và Đối tác kinh doanh tại Ngân hàng National Australia London.
+Ông Phùng Quang Hưng gia nhập Techcombank từ tháng 9/2010 ở vị trí
+Giám đốc Khối Vận hành và Công nghệ, sau đó được bổ nhiệm làm Giám
+đốc Khối Tư vấn Tài chính và Dịch vụ Khách hàng (CSA), Giám đốc Điều
+hành và Phó Tổng Giám đốc thường trực.
+Ông tốt nghiệp bằng Thạc sỹ Kinh tế quốc tế của Đại học Bang Washington
+State (Hoa Kỳ) và bằng Cử nhân ngành CNTT tại Đại học Bách Khoa, Việt Nam.
+Ông Siva R.Krishnan
+Phó Tổng Giám đốc kiêm Giám đốc Khối Quản trị Rủi ro
+Ông Siva có hơn 25 năm kinh nghiệm làm việc tại các ngân hàng khu vực và
+quốc tế cũng như các công ty giải pháp công nghệ thanh toán. Kinh nghiệm
+của ông đa dạng và trải dài trong các lĩnh vực gồm chiến lược kinh doanh,
+chuyển đổi, quản trị rủi ro, khoa học dữ liệu và phát triển sản phẩm. Trước khi
+gia nhập Techcombank, ông là Phó Chủ tịch Điều hành (mảng Quản trị rủi ro
+Ngân hàng bán lẻ & doanh nghiệp) kiêm Giám đốc Phân tích rủi ro tín dụng tại
+Ngân hàng Thương mại Siam, Thái Lan. Trước đó, ông Siva là Phó Tổng Giám
+đốc và Phó Giám đốc điều hành (Quản lý rủi ro & Cơ sở hạ tầng kinh doanh,
+Bán lẻ & SME) của Scotia Bank và đóng vai trò chủ chốt trong việc sát nhập và
+tích hợp các ngân hàng liên kết như Thanachart Bank, Siam City Bank. Ông
+Siva được bổ nhiệm làm Phó Tổng Giám đốc từ ngày 10/01/2021.
+Ông Siva tốt nghiệp Thạc sỹ ngành Thương mại tại Đại học Madras, Ấn Độ.
+Ông còn là Thành viên của Hiệp hội Kế toán quản trị & chi phí, Ấn Độ và thành
+viên liên kết của Học viện Ngân hàng Ấn độ. Ngoài ra, ông còn có chứng chỉ
+tài chính của Học viện Chartered Financial Analysts CFA, Ấn Độ.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+BAN LÃNH ĐẠO
+Bà Phan Thị Thanh Bình
+Giám đốc Khối Ngân hàng Bán buôn
+Ông được bổ nhiệm làm Phó Tổng Giám đốc & Giám đốc Khối Ngân hàng Giao
+dịch toàn cầu kể từ tháng 08/2019. Trước đó, ông gia nhập Techcombank
+với vị trí Giám đốc Khối Nguồn vốn và Thị trường tài chính từ tháng 1/2011.
+Ông đã có hơn 20 năm kinh nghiệm trong thị trường tài chính và đóng vai
+trò quan trọng trong hoạt động phát triển thị trường trái phiếu trong nước.
+Ông từng là Phó Tổng Giám đốc Ngân hàng Tiên Phong,  giữ nhiều chức vụ
+về Quản lý Thị trường Toàn cầu tại các ngân hàng Standard Chartered Việt
+Nam, Citibank Việt Nam, Citigroup Global Markets Ltd. Hongkong.
+Ông tốt nghiệp bằng Thạc sỹ Kinh tế tại Đại học Kinh tế Quốc dân, Việt Nam.
+Ông Darren Buckley
+Giám đốc Khối Ngân hàng Bán lẻ (từ ngày 8/8/2021)
+Ông Darren Buckley đã có gần 35 năm kinh nghiệm làm việc tại lĩnh vực tài chính
+toàn cầu, trong đó 29 năm làm việc tại tập đoàn Citi, nơi ông đã đảm nhận các
+vị trí lãnh đạo cao cấp tại New York, Singapore, Tokyo, Bangkok và Thượng Hải.
+Trước khi gia nhập Techcombank, ông Buckley đảm nhận chức vụ Giám đốc
+Kinh doanh Quốc gia thuộc tập đoàn Citi tại Trung Quốc. Ông Buckley đã chuyển
+đổi hoạt động kinh doanh Bán lẻ của Citi Trung Quốc, thông qua mô hình kinh
+doanh kỹ thuật số lấy khách hàng làm trọng tâm, để trở thành mảng nghiệp vụ
+Quản lý tài sản, Thẻ và Cho vay phát triển nhanh nhất trong mạng lưới toàn cầu
+của Citi với các đối tác quan trọng được ký kết như Ant Financial, ba công ty lớn
+của Teco và NBA Trung Quốc.
+Ông Buckley, tốt nghiệp chuyên ngành Tài chính, Kinh doanh và Kinh tế tại Vương
+quốc Anh, đồng thời là Giáo sư danh dự của hai trường đại học Trung Quốc,
+nguyên Phó Chủ tịch Hội đồng Thương mại Thái Lan, Chủ tịch Hiệp hội Ngân
+hàng Quốc tế Thái Lan, Giám đốc Hiệp hội Ngân hàng quốc tế Nhật Bản, và Giám
+đốc Nippon Keizaidantai Rengoukai.
+Ông Phan Thanh Sơn
+Phó Tổng Giám đốc kiêm Giám đốc Khối Ngân hàng Giao dịch Toàn cầu
+Ông được bổ nhiệm làm Phó Tổng Giám đốc & Giám đốc Khối Ngân hàng Giao
+dịch toàn cầu kể từ tháng 08/2019. Trước đó, ông gia nhập Techcombank
+với vị trí Giám đốc Khối Nguồn vốn và Thị trường tài chính từ tháng 1/2011.
+Ông đã có hơn 20 năm kinh nghiệm trong thị trường tài chính và đóng vai
+trò quan trọng trong hoạt động phát triển thị trường trái phiếu trong nước.
+Ông từng là Phó Tổng Giám đốc Ngân hàng Tiên Phong,  giữ nhiều chức vụ
+về Quản lý Thị trường Toàn cầu tại các ngân hàng Standard Chartered Việt
+Nam, Citibank Việt Nam, Citigroup Global Markets Ltd. Hongkong.
+Ông tốt nghiệp bằng Thạc sỹ Kinh tế tại Đại học Kinh tế Quốc dân, Việt Nam.
+Ông Phạm Quang Thắng
+Phó Tổng Giám đốc kiêm Giám đốc Khối Quản trị Ngân hàng
+Ông Phạm Quang Thắng đã có hơn 20 năm kinh nghiệm trong lĩnh vực ngân
+hàng và từng giữ nhiều chức vụ lãnh đạo tại Techcombank như Kế toán
+trưởng Ngân hàng; Giám đốc Trung tâm Quản lý nguồn vốn; Phó Tổng Giám
+đốc phụ trách Kế toán-tài chính, Kế hoạch và chiến lược, Giám đốc Khối
+Khách hàng doanh nghiệp, Giám đốc Khối Phê duyệt tín dụng và Giám đốc
+Khối Tuân thủ và Pháp chế. Hiện tại, ông Phạm Quang Thắng giữ cương
+vị Phó Tổng Giám đốc kiêm Giám đốc Khối Quản trị Ngân hàng từ ngày
+Ông tốt nghiệp bằng Thạc sỹ Kế toán Quốc tế tại Đại học Công nghệ
+Swinburne, Úc.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+BAN LÃNH ĐẠO
+Ông Vishal Shah
+Giám đốc Khối Khách hàng Doanh nghiệp (đến ngày 10/01/2022)
+Ông Vishal Shah được bổ nhiệm làm Giám đốc Khối Khách hàng doanh
+nghiệp từ tháng 8/2018. Ông có hơn 20 năm kinh nghiệm tại các tổ chức
+hàng đầu với kỹ năng chuyên môn trong các lĩnh vực ngân hàng thương
+mại, ngân hàng bán lẻ và dịch vụ tư vấn tài chính. Ông đã từng nắm giữ các
+vị trí quản lý chủ chốt tại Standard Chartered Bank (Singapore, Ấn Độ, và
+các Tiểu Vương quốc Ả rập). Ông cũng đã từng nắm giữ các vị trí tư vấn tại
+Ernst & Young và KPMG.
+Ông tốt nghiệp Cử nhân Thương mại tại Đại học Thương mại và Kinh tế HR,
+Mumbai (Ấn Độ). Ông đã có chứng chỉ kế toán ACA và đã tốt nghiệp Viện
+kiểm toán chi phí và công trình (ICWA).
+Ông Nguyễn Xuân Minh
+Giám đốc Khối Ngân hàng đầu tư
+Ông được bổ nhiệm giữ cương vị Giám đốc khối Ngân hàng đầu tư – Chủ
+tịch HĐQT Công ty TNHH Chứng khoán Kỹ thương từ tháng 10/2013. Ông
+đã có hơn 20 năm kinh nghiệm trong lĩnh vực ngân hàng đầu tư và quản lý
+quỹ. Ông từng là Tổng Giám đốc của Vietnam Asset Management Ltd. và
+Phó Chủ tịch cao cấp của Franklin Templeton Investments tại Singapore.
+Ông tốt nghiệp Thạc sỹ Tài chính ứng dụng và đầu tư (Úc) và Thạc sỹ Kỹ
+thuật dầu khí (Liên bang Nga) và có chứng chỉ CFA.
+Ông Trịnh Bằng
+Giám đốc Tài chính Tập đoàn (đến ngày 10/01/2022) kiêm Giám đốc Khối
+Chiến lược & Phát triển Ngân hàng (đến ngày 10/01/2022)
+Ông được bổ nhiệm làm Giám đốc Tài chính Tập đoàn từ tháng 01/2018,
+và kiêm Giám đốc Khối Chiến lược & Phát triển Ngân hàng từ tháng 2/2021.
+Ông có hơn 23 năm kinh nghiệm trong lĩnh vực tài chính và ngân hàng toàn
+cầu với vai trò lãnh đạo cấp cao tại các tập đoàn lớn, đặc biệt trong đó bao
+gồm 18 năm tại Morgan Stanley (New York, Singapore) và gần đây nhất là
+làm Cố vấn cao cấp và Giám đốc điều hành toàn Việt Nam và Philippines.
+Ngày 01/02/2021, ông Trịnh Bằng được bổ nhiệm kiêm nhiệm vai trò Giám
+đốc Khối Chiến lược & Phát triển Ngân hàng.
+Ông Trịnh Bằng tốt nghiệp Cử nhân ngành Kỹ sư hệ thống, Đại học Virginia,
+Hoa Kỳ.
+Bà Đặng Nikki Mỹ Quyên
+Giám đốc Khối Quản trị Nguồn nhân lực
+Bà Nikki đã có 29 năm kinh nghiệm làm việc trong môi trường quốc tế và
+chuyên môn sâu rộng trong lĩnh vực ngân hàng, bất động sản, quản trị nguồn
+nhân lực. Bà cũng đã đảm nhiệm rất nhiều vị trí cấp cao tại các tổ chức lớn
+như Giám đốc Vận hành tại Ngân hàng America, Giám đốc Nhân sự tại
+Sàn giao dịch Tín dụng Quốc gia, Chuyên gia nghiên cứu và tuyển dụng tại
+Tổng Công ty Bảo hiểm tiền gửi Liên bang (FDIC), Phó Chủ tịch kiêm Giám
+đốc Nhân sự tại Ngân hàng California. Gần đây nhất, bà giữ vị trí Phó Chủ
+tịch điều hành kiêm Giám đốc Khối Quản trị Nguồn nhân lực tại Ngân hàng
+Hanmi, Hoa Kỳ.
+Bà Nikki tốt nghiệp Cử nhân Quản trị Kinh doanh tại Đại học bang California,
+Fullerton, Hoa Kỳ.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech
+
+BAN LÃNH ĐẠO
+Bà Thái Minh Diễm Tú
+Giám đốc Khối Tiếp thị
+Bà Thái Minh Diễm Tú có hơn 20 năm kinh nghiệm làm việc tại các công ty
+đa quốc gia hàng đầu trong lĩnh vực ngành hàng Tiêu dùng nhanh tại Việt
+Nam. Trước khi gia nhập Techcombank, bà Thái Minh Diễm Tú đã có 10 năm
+kinh nghiệm làm việc tại FrieslandCampina với cương vị là Giám đốc Việt
+Nam, ngành hàng Dinh dưỡng Chuyên biệt, và trực thuộc Ban Lãnh đạo Tập
+đoàn Toàn cầu. Trước đó, bà Tú đã có 8 năm làm việc tại Unilever, với vai trò
+cao nhất là Giám đốc Khối Kinh doanh Unilever Việt Nam của nhiều ngành
+hàng thuộc tập đoàn.
+Bà Thái Minh Diễm Tú có bằng Thạc sĩ Quản trị Kinh doanh (MBA) tại Đại học
+California Irvine (UCI), tốt nghiệp chuyên ngành Quản lý Kinh doanh tại Đại
+học Ngoại ngữ và Công nghệ Thông tin TPHCM.
+Ông Chu Hồng Ngọc
+Giám đốc Khối Vận hành
+Ông Ngọc đã có nhiều năm kinh nghiệm trong lĩnh vực ngân hàng, quản lý
+dự án. Ông từng lãnh đạo, quản lý và đảm bảo ngân hàng có các biện pháp
+kiểm soát hoạt động, thủ tục hành chính và báo cáo phù hợp nhằm phát
+triển tổ chức một cách hiệu quả và đảm bảo chất lượng dịch vụ và hiệu quả
+hoạt động. Ông từng đảm nhiệm các vị trí Kỹ sư giám sát kỹ thuật tại Văn
+phòng đại diện của Công ty Oconnor’s Singapore, Giám đốc dự án và quyền
+Giám đốc Kỹ thuật ở Công ty Millicom, Giám đốc dự án tại VP Bank thuộc
+Văn phòng HĐQT. Trước khi gia nhập Techcombank, ông giữ vai trò Giám
+đốc Vận hành tại VPBank.
+Ông tốt nghiệp bằng danh dự chuyên ngành Kỹ thuật Viễn thông tại Đại học
+South Australia, Úc.
+Ông Nguyễn Anh Tuấn
+Giám đốc Khối Công nghệ
+Ông Tuấn có hơn 24 năm kinh nghiệm về Công nghệ Thông tin và Quản lý.
+Ông Tuấn đã đảm nhận nhiều vị trí điều hành cấp cao tại Citibank N.A. Trước
+đó, ông là Giám đốc Công nghệ Thông tin của Bộ phận Bồi Thường Bảo
+hiểm của Công ty Traverlers Insurance, Giám đốc Công nghệ Thông tin tại
+Finastra, Las Vegas Sands, Wolters Kluwer và General Electric.
+Ông Tuấn là Thạc sỹ Quản trị Kinh doanh và Khoa học Máy tính, Cử nhân
+Khoa học Máy tính, đều tại Đại học Virginia Commonwealth, Hoa Kỳ.  Ông
+đã hoàn thành chứng chỉ Thạc sỹ nâng cao tại Đại học George Washington,
+Hoa Kỳ. Ông đồng thời là một chuyên gia Quản Lý Dự án (PMP) được chứng
+nhận từ PMI.
+Ông Santhosh Mahendiran
+Giám đốc Khối Dữ liệu & Phân tích
+Ông Santhosh gia nhập Techcombank với kinh nghiệm lãnh đạo sâu sắc
+chuyên sâu trong lĩnh vực Công nghệ, Quản trị và Phân tích Dữ liệu. Trước
+khi gia nhập Techcombank, ông làm việc tại Ngân hàng Standard Chartered,
+Singapore,ở vị trí Giám đốc Điều hành và Giám đốc Toàn cầu, nền tảng
+công nghệ số. Ông Santhosh cũng giữ nhiều vai trò vị trí lãnh đạo cao cấp
+ở Citibank Singapore. Ông đã đảm nhận vị trí Phó chủ tịch, chịu trách nhiệm
+thực hiện và triển khai kho dữ liệu tại 15 quốc gia. Ông cũng từng dẫn dắt
+nhóm phát triển tiên phong về hệ thống onboarding khách hàng bằng màn
+hình cảm ứng đầu tiên trên thế giới cho Citibank, Nhật Bản
+Ông Santhosh có hai bằng Thạc sỹ về Ứng dụng máy tính và Kỹ thuật phần
+mềm tại Đại học Madurai Kamaraj, Ấn Độ.
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+B Á O C Á O T H Ư ỜN G N I Ê N 2 0 2 1
+T H E P O W E R O F T E C H
+Chương IV           Phát triển bền vững cùng Tech
+Chương IV           Phát triển bền vững cùng Tech

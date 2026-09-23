@@ -1,732 +1,570 @@
-1 
-LỜI CẢM ƠN 
-3 
-TẦM NHÌN, SỨ MỆNH, GIÁ TRỊ CỐT LÕI 
-4 
-PHẦN I: THÔNG TIN DOANH NGHIỆP 
-5 
-1. THÔNG TIN KHÁI QUÁT 
-5 
-2. NGÀNH NGHỀ VÀ ĐỊA BÀN KINH DOANH 
-15 
-3. MÔ HÌNH QUẢN TRỊ, TỔ CHỨC KINH DOANH VÀ BỘ MÁY QUẢN LÝ 
-17 
-4. ĐỊNH HƯỚNG PHÁT TRIỂN 
-21 
-5. SWOT 
-23 
-6. CÁC LOẠI RỦI RO ẢNH HƯỞNG ĐẾN TỔNG CÔNG TY 
-26 
-PHẦN II: TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022 
-30 
-1. TÌNH HÌNH HOẠT ĐỘNG SẢN XUẤT KINH DOANH NĂM 2022 
-31 
-2.  TỔ CHỨC NHÂN SỰ 
-33 
-3. TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN 
-38 
-4. TÌNH HÌNH TÀI CHÍNH 
-52 
-5. CƠ CẤU CỔ ĐÔNG - THAY ĐỔI VỐN ĐẦU TƯ CỦA CHỦ SỞ HỮU 
-55 
-6. BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI 
-57 
-PHẦN III: BÁO CÁO ĐÁNH GIÁ CỦA BAN GIÁM ĐỐC 
-63 
-1. ĐÁNH GIÁ KẾT QUẢ HOẠT ĐỘNG KINH DOANH CỦA CÔNG TY MẸ VÀ HỢP NHẤT 
-63 
-2. ĐÁNH GIÁ TÌNH HÌNH TÀI CHÍNH 
-65 
-3. NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, CHÍNH SÁCH QUẢN LÝ 
-66 
-4. KẾ HOẠCH PHÁT TRIỂN 2023 
-66 
-5. GIẢI TRÌNH CỦA BAN TGĐ ĐỐI VỚI CÁC Ý KIẾN KIỂM TOÁN: 
-69 
-6. ĐÁNH GIÁ CỦA BAN TGĐ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG XÃ HỘI, NGƯỜI 
-LAO ĐỘNG CỦA TỔNG CÔNG TY 
-69 
-PHẦN IV: BÁO CÁO ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ (HĐQT) VỀ HOẠT ĐỘNG 
-CỦA TỔNG CÔNG TY 
-71 
-1. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG  CÔNG TY 
-71 
-2. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG GIÁM ĐỐC VÀ BAN LÃNH ĐẠO CỦA 
-TỔNG CÔNG TY. 
-73 
-3. ĐỀ XUẤT CÁC KẾ HOẠCH HOẠT ĐỘNG CHO NĂM 2023 CỦA HĐQT 
-74 
-PHẦN V: QUẢN TRỊ CÔNG TY 
-75 
-1. HỘI ĐỒNG QUẢN TRỊ 
-75 
-2. BAN KIỂM SOÁT 
-82 
-3. CÁC GIAO DỊCH, THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HĐQT, BAN GIÁM ĐỐC VÀ BAN 
-KIỂM SOÁT. 
-83 
-PHẦN VI: BÁO CÁO TÀI CHÍNH ĐÃ ĐƯỢC KIỂM TOÁN 
-88
+LỜI CẢM ƠN
+TẦM NHÌN, SỨ MỆNH, GIÁ TRỊ CỐT LÕI
+PHẦN I: THÔNG TIN DOANH NGHIỆP
+1. THÔNG TIN KHÁI QUÁT
+2. NGÀNH NGHỀ VÀ ĐỊA BÀN KINH DOANH
+3. MÔ HÌNH QUẢN TRỊ, TỔ CHỨC KINH DOANH VÀ BỘ MÁY QUẢN LÝ
+4. ĐỊNH HƯỚNG PHÁT TRIỂN
+5. SWOT
+6. CÁC LOẠI RỦI RO ẢNH HƯỞNG ĐẾN TỔNG CÔNG TY
+PHẦN II: TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2022
+1. TÌNH HÌNH HOẠT ĐỘNG SẢN XUẤT KINH DOANH NĂM 2022
+2.  TỔ CHỨC NHÂN SỰ
+3. TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN
+4. TÌNH HÌNH TÀI CHÍNH
+5. CƠ CẤU CỔ ĐÔNG - THAY ĐỔI VỐN ĐẦU TƯ CỦA CHỦ SỞ HỮU
+6. BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG VÀ XÃ HỘI
+PHẦN III: BÁO CÁO ĐÁNH GIÁ CỦA BAN GIÁM ĐỐC
+1. ĐÁNH GIÁ KẾT QUẢ HOẠT ĐỘNG KINH DOANH CỦA CÔNG TY MẸ VÀ HỢP NHẤT
+2. ĐÁNH GIÁ TÌNH HÌNH TÀI CHÍNH
+3. NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, CHÍNH SÁCH QUẢN LÝ
+4. KẾ HOẠCH PHÁT TRIỂN 2023
+5. GIẢI TRÌNH CỦA BAN TGĐ ĐỐI VỚI CÁC Ý KIẾN KIỂM TOÁN:
+6. ĐÁNH GIÁ CỦA BAN TGĐ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG XÃ HỘI, NGƯỜI
+LAO ĐỘNG CỦA TỔNG CÔNG TY
+PHẦN IV: BÁO CÁO ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ (HĐQT) VỀ HOẠT ĐỘNG
+CỦA TỔNG CÔNG TY
+1. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG  CÔNG TY
+2. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG GIÁM ĐỐC VÀ BAN LÃNH ĐẠO CỦA
+TỔNG CÔNG TY.
+3. ĐỀ XUẤT CÁC KẾ HOẠCH HOẠT ĐỘNG CHO NĂM 2023 CỦA HĐQT
+1. HỘI ĐỒNG QUẢN TRỊ
+2. BAN KIỂM SOÁT
+3. CÁC GIAO DỊCH, THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HĐQT, BAN GIÁM ĐỐC VÀ BAN
+KIỂM SOÁT.
 
-13 
-đào tạo nâng cao trình độ của người dân nhằm đáp ứng được yêu cầu trình độ lao động, đủ điều kiện để 
-làm việc tại các doanh nghiệp công nghệ cao. Các KCN mà KBC đầu tư thành công đã làm tăng đáng 
-kể nguồn thu cho Ngân sách địa phương, từ đó có điều kiện để đầu tư phát triển cơ sở hạ tầng tại địa 
-phương, nâng cao đời sống vật chất, tinh thần cho người dân địa phương. 
-KBC đã tạo dựng được hình ảnh và uy tín với chính quyền và người dân địa phương, biến những mảnh 
-đất nghèo, năng suất nông nghiệp thấp thành các KCN trù phú. Vì vậy, trong quá trình hình thành và 
-phát triển, KBC đã được sự ủng hộ của nhiều địa phương nằm trong quy hoạch phát triển các ngành 
-công nghiệp trên cả nước để tạo lập quỹ đất và thu hút đầu tư trực tiếp nước ngoài cho địa phương.  
-Tính đến nay, KBC đang quản lý là 6.386,54 ha đất cho phát triển KCN, chiếm gần 5,19% tổng số diện 
-tích đất KCN của cả nước; 1.262,8 ha đất cho phát triển KĐT, dân cư. Ngoài ra, Tập đoàn bắt đầu phát 
-triển một số dự án đặc thù khác có quy mô 78,9 ha. Các dự án đặc thù do Tập đoàn làm chủ đầu tư xây 
-dựng nhà máy để trực tiếp sản xuất tai nghe, sản xuất vòi phun động cơ máy nông nghiệp, xây dựng nhà 
-xưởng để cho thuê, liên doanh xây dựng nhà ở xã hội.  
-Trong tổng số 6.386,54 ha đất KCN nói trên, có 04 KCN với tổng diện tích 1.013 ha đạt tỷ lệ lấp đầy 
-100% và 01 KCN có diện tích 426 ha đã lấp đầy 95,89% vẫn mang lại doanh thu cố định đáng kể cho 
-Tập đoàn hàng năm bao gồm doanh thu phí quản lý hạ tầng, cung cấp nước sạch, nước thải. 
-KBC đang tiến hành mở rộng quỹ đất KCN, KĐT tại Hải Phòng, Hưng Yên, Hải Dương, Quảng Ninh, 
-Tây Ninh, Vũng Tàu và Tiền Giang. 
-Sản phẩm dịch vụ đa dạng, đáp ứng mọi yêu cầu khắt khe của khách hàng 
-Với mục tiêu luôn đặt lợi ích của khách hàng lên hàng đầu, KBC hướng tới cung cấp các sản phẩm phù 
-hợp nhu cầu đầu tư đa dạng của khách hàng và các dịch vụ hoàn hảo làm hài lòng tất cả các khách hàng, 
-đặc biệt cả các khách hàng khó tính nhất. Hiện tại, với 24 KCN & Cụm công nghiệp  có vị trí chiến lược 
-trên toàn quốc, KBC luôn giữ vị trí hàng đầu trong việc thu hút vốn đầu tư FDI, đặc biệt là các tập đoàn 
-quốc tế lớn như Canon, Foxconn, LG, JA Solar, Goertek, Fuyu, Luxshare, Jufeng, Ingrasys, v.v. 
-Để đáp ứng các doanh nghiệp vừa và nhỏ là các vệ tinh của các tập đoàn lớn, KBC tập trung phát triển 
-mảng cho thuê và bán nhà xưởng văn phòng có sẵn nhằm rút ngắn thời gian đi vào hoạt động, giảm thiểu 
-rủi ro cho nhà đầu tư.  
-Các hoạt động duy tu bảo dưỡng cơ sở hạ tầng trong KCN đạt hiệu quả cao, giữ gìn cảnh quan KCN 
-luôn hiện đại, sạch sẽ và thân thiện với môi trường. Các dịch vụ phụ trợ trong KCN luôn đáp ứng đầy 
-đủ các nhu cầu của doanh nghiệp như dịch vụ tài chính, an ninh, điện nước, v.v đều được KBC và các 
-đối tác cung ứng đầy đủ cho nhà đầu tư, tạo thành chuỗi cung ứng khép kín và thuận tiện.  
-Gắn liền với phát triển KCN, KBC đã triển khai, phát triển KĐT từ quỹ đất sẵn có, mô hình KCN gắn 
-liền phát triển KĐT là định hướng xuyên suốt của KBC từ khi phát triển KCN. Với phương châm phát 
-triển kinh doanh gắn liền với trách nhiệm xã hội và phát triển bền vững, KBC cũng hướng tới việc xây 
-dựng các Khu nhà ở xã hội đảm bảo ổn định cuộc sống của người lao động. 
- Năm 2017 KBC bắt đầu đưa sản phẩm KĐT Phúc Ninh - Bắc Ninh vào kinh doanh để đáp ứng 
+đào tạo nâng cao trình độ của người dân nhằm đáp ứng được yêu cầu trình độ lao động, đủ điều kiện để
+làm việc tại các doanh nghiệp công nghệ cao. Các KCN mà KBC đầu tư thành công đã làm tăng đáng
+kể nguồn thu cho Ngân sách địa phương, từ đó có điều kiện để đầu tư phát triển cơ sở hạ tầng tại địa
+phương, nâng cao đời sống vật chất, tinh thần cho người dân địa phương.
+KBC đã tạo dựng được hình ảnh và uy tín với chính quyền và người dân địa phương, biến những mảnh
+đất nghèo, năng suất nông nghiệp thấp thành các KCN trù phú. Vì vậy, trong quá trình hình thành và
+phát triển, KBC đã được sự ủng hộ của nhiều địa phương nằm trong quy hoạch phát triển các ngành
+công nghiệp trên cả nước để tạo lập quỹ đất và thu hút đầu tư trực tiếp nước ngoài cho địa phương.
+Tính đến nay, KBC đang quản lý là 6.386,54 ha đất cho phát triển KCN, chiếm gần 5,19% tổng số diện
+tích đất KCN của cả nước; 1.262,8 ha đất cho phát triển KĐT, dân cư. Ngoài ra, Tập đoàn bắt đầu phát
+triển một số dự án đặc thù khác có quy mô 78,9 ha. Các dự án đặc thù do Tập đoàn làm chủ đầu tư xây
+dựng nhà máy để trực tiếp sản xuất tai nghe, sản xuất vòi phun động cơ máy nông nghiệp, xây dựng nhà
+xưởng để cho thuê, liên doanh xây dựng nhà ở xã hội.
+Trong tổng số 6.386,54 ha đất KCN nói trên, có 04 KCN với tổng diện tích 1.013 ha đạt tỷ lệ lấp đầy
+100% và 01 KCN có diện tích 426 ha đã lấp đầy 95,89% vẫn mang lại doanh thu cố định đáng kể cho
+Tập đoàn hàng năm bao gồm doanh thu phí quản lý hạ tầng, cung cấp nước sạch, nước thải.
+KBC đang tiến hành mở rộng quỹ đất KCN, KĐT tại Hải Phòng, Hưng Yên, Hải Dương, Quảng Ninh,
+Tây Ninh, Vũng Tàu và Tiền Giang.
+Sản phẩm dịch vụ đa dạng, đáp ứng mọi yêu cầu khắt khe của khách hàng
+Với mục tiêu luôn đặt lợi ích của khách hàng lên hàng đầu, KBC hướng tới cung cấp các sản phẩm phù
+hợp nhu cầu đầu tư đa dạng của khách hàng và các dịch vụ hoàn hảo làm hài lòng tất cả các khách hàng,
+đặc biệt cả các khách hàng khó tính nhất. Hiện tại, với 24 KCN & Cụm công nghiệp  có vị trí chiến lược
+trên toàn quốc, KBC luôn giữ vị trí hàng đầu trong việc thu hút vốn đầu tư FDI, đặc biệt là các tập đoàn
+quốc tế lớn như Canon, Foxconn, LG, JA Solar, Goertek, Fuyu, Luxshare, Jufeng, Ingrasys, v.v.
+Để đáp ứng các doanh nghiệp vừa và nhỏ là các vệ tinh của các tập đoàn lớn, KBC tập trung phát triển
+mảng cho thuê và bán nhà xưởng văn phòng có sẵn nhằm rút ngắn thời gian đi vào hoạt động, giảm thiểu
+rủi ro cho nhà đầu tư.
+Các hoạt động duy tu bảo dưỡng cơ sở hạ tầng trong KCN đạt hiệu quả cao, giữ gìn cảnh quan KCN
+luôn hiện đại, sạch sẽ và thân thiện với môi trường. Các dịch vụ phụ trợ trong KCN luôn đáp ứng đầy
+đủ các nhu cầu của doanh nghiệp như dịch vụ tài chính, an ninh, điện nước, v.v đều được KBC và các
+đối tác cung ứng đầy đủ cho nhà đầu tư, tạo thành chuỗi cung ứng khép kín và thuận tiện.
+Gắn liền với phát triển KCN, KBC đã triển khai, phát triển KĐT từ quỹ đất sẵn có, mô hình KCN gắn
+liền phát triển KĐT là định hướng xuyên suốt của KBC từ khi phát triển KCN. Với phương châm phát
+triển kinh doanh gắn liền với trách nhiệm xã hội và phát triển bền vững, KBC cũng hướng tới việc xây
+dựng các Khu nhà ở xã hội đảm bảo ổn định cuộc sống của người lao động.
+ Năm 2017 KBC bắt đầu đưa sản phẩm KĐT Phúc Ninh - Bắc Ninh vào kinh doanh để đáp ứng
 nhu cầu nhà ở, nhà cho thuê, nhu cầu đầu tư BĐS thương mại ở Thành Phố Bắc Ninh;
 
-22 
-ha; Khu dân cư Tân Phú Trung 47,3 ha; Khu tái định cư Lộc Giang 31 ha; Khu tái định cư Cụm 
-công nghiệp Long An 43,52 ha.  
- Hợp tác đầu tư phát triển kinh doanh với các công ty thành viên và các đối tác tiềm năng trong 
-và ngoài nước, v.v, triển khai các kế hoạch kinh doanh đa dạng, thu hút các tập đoàn công nghệ 
-cao đến từ Hàn Quốc, Đài Loan, Hồng Kông, Singapore, Nhật Bản, Trung Quốc, Hoa Kỳ, v.v.  
- Chuẩn bị sẵn các sản phẩm dịch vụ phù hợp với nhu cầu nhà đầu tư (đất sẵn sàng cho thuê, nhà 
-xưởng sẵn sàng để bán và cho thuê, các dịch vụ hỗ trợ nhà đầu tư tối đa). 
- Huy động và sử dụng nguồn vốn hiệu quả, nâng cao năng lực tài chính, duy trì tốc độ tăng trưởng 
-về doanh thu và lợi nhuận. 
-Chiến lược phát triển trung hạn và dài hạn 
-Tập đoàn luôn lấy 3 mục tiêu làm kim chỉ nam cho sự phát triển là: đảm bảo chất lượng sản phẩm 
-công trình, năng lực tài chính, tầm nhìn thương hiệu dài hạn nhằm giữ vững vị thế và nâng cao uy 
-tín của doanh nghiệp. 
- Thực hiện chủ trì, triển khai thành lập các dự án mới trên địa bàn các tỉnh Hải Phòng, Hưng Yên, 
-Hải Dương, Quảng Ninh, Tây Ninh, Vũng Tàu, Tiền Giang và liên tục khảo sát các địa bàn khác 
-phù hợp với định hướng phát triển bền vững của KBC để gia tăng quỹ đất.  
- Phát triển các KCN, KĐT tiềm năng tại các khu vực miền Bắc (Hải Phòng, Bắc Ninh, Bắc Giang, 
-Hưng Yên, Quảng Ninh, Hải Dương, v.v);  miền Trung (Huế, Đà Nẵng, v.v)  và miền Nam (TP. 
-Hồ Chí Minh, Long An, Tiền Giang, Vũng Tàu, v.v). Song song với việc phát triển KCN và 
-KĐT, Tập đoàn sẵn sàng triển khai đồng thời các dự án Nhà ở xã hội, Khu tái định cư nhằm đáp 
-ứng nhu cầu phát triển bền vững của quốc gia;  
- Phát triển mạng lưới khách hàng mới, đa dạng hóa các sản phẩm để đáp ứng mọi nhu cầu của 
-khách hàng; 
- Xây dựng, phát triển thương hiệu KINHBAC CITY mang tầm quốc tế, luôn là doanh nghiệp dẫn 
-đầu trong lĩnh vực quản lý và phát triển KCN gắn liền KĐT. 
- KBC chú trọng bám sát xu hướng dòng vốn FDI đầu tư vào Việt Nam theo các lĩnh vực, đối tác, 
-địa bàn để lập các dự án mới, phát triển loại hình đầu tư phù hợp.  
-Các mục tiêu đối với môi trường, xã hội và cộng đồng  
- Là doanh nghiệp đóng góp quan trọng vào quá trình quảng bá chính sách đầu tư của Việt Nam 
-ra nước ngoài thông qua các chương trình xúc tiến đầu tư, các diễn đàn kinh tế trong khu vực và 
-thế giới;  
- Là doanh nghiệp đã xây dựng được mô hình phát triển các KCN - thu hút FDI rất thành công, 
-đóng góp vào quá trình xây dựng công nghiệp hóa, hiện đại hóa Đất nước, là điểm đến hấp dẫn 
-của nhiều nhà đầu tư nước ngoài.  
- Là doanh nghiệp đóng góp đáng kể vào kế hoạch thu hút FDI của Việt Nam hàng năm trong lĩnh 
-vực bất động sản công nghiệp và đô thị; luôn hướng tới các doanh nghiệp FDI đầu tư các dự án 
-công nghệ cao, giảm thiểu ô nhiễm môi trường.  
- Gián tiếp tạo ra hàng nghìn công ăn việc làm cho người dân lao động; đóng góp ngân sách cho 
+ha; Khu dân cư Tân Phú Trung 47,3 ha; Khu tái định cư Lộc Giang 31 ha; Khu tái định cư Cụm
+công nghiệp Long An 43,52 ha.
+ Hợp tác đầu tư phát triển kinh doanh với các công ty thành viên và các đối tác tiềm năng trong
+và ngoài nước, v.v, triển khai các kế hoạch kinh doanh đa dạng, thu hút các tập đoàn công nghệ
+cao đến từ Hàn Quốc, Đài Loan, Hồng Kông, Singapore, Nhật Bản, Trung Quốc, Hoa Kỳ, v.v.
+ Chuẩn bị sẵn các sản phẩm dịch vụ phù hợp với nhu cầu nhà đầu tư (đất sẵn sàng cho thuê, nhà
+xưởng sẵn sàng để bán và cho thuê, các dịch vụ hỗ trợ nhà đầu tư tối đa).
+ Huy động và sử dụng nguồn vốn hiệu quả, nâng cao năng lực tài chính, duy trì tốc độ tăng trưởng
+về doanh thu và lợi nhuận.
+Tập đoàn luôn lấy 3 mục tiêu làm kim chỉ nam cho sự phát triển là: đảm bảo chất lượng sản phẩm
+công trình, năng lực tài chính, tầm nhìn thương hiệu dài hạn nhằm giữ vững vị thế và nâng cao uy
+tín của doanh nghiệp.
+ Thực hiện chủ trì, triển khai thành lập các dự án mới trên địa bàn các tỉnh Hải Phòng, Hưng Yên,
+Hải Dương, Quảng Ninh, Tây Ninh, Vũng Tàu, Tiền Giang và liên tục khảo sát các địa bàn khác
+phù hợp với định hướng phát triển bền vững của KBC để gia tăng quỹ đất.
+ Phát triển các KCN, KĐT tiềm năng tại các khu vực miền Bắc (Hải Phòng, Bắc Ninh, Bắc Giang,
+Hưng Yên, Quảng Ninh, Hải Dương, v.v);  miền Trung (Huế, Đà Nẵng, v.v)  và miền Nam (TP.
+Hồ Chí Minh, Long An, Tiền Giang, Vũng Tàu, v.v). Song song với việc phát triển KCN và
+KĐT, Tập đoàn sẵn sàng triển khai đồng thời các dự án Nhà ở xã hội, Khu tái định cư nhằm đáp
+ứng nhu cầu phát triển bền vững của quốc gia;
+ Phát triển mạng lưới khách hàng mới, đa dạng hóa các sản phẩm để đáp ứng mọi nhu cầu của
+khách hàng;
+ Xây dựng, phát triển thương hiệu KINHBAC CITY mang tầm quốc tế, luôn là doanh nghiệp dẫn
+đầu trong lĩnh vực quản lý và phát triển KCN gắn liền KĐT.
+ KBC chú trọng bám sát xu hướng dòng vốn FDI đầu tư vào Việt Nam theo các lĩnh vực, đối tác,
+địa bàn để lập các dự án mới, phát triển loại hình đầu tư phù hợp.
+Các mục tiêu đối với môi trường, xã hội và cộng đồng
+ Là doanh nghiệp đóng góp quan trọng vào quá trình quảng bá chính sách đầu tư của Việt Nam
+ra nước ngoài thông qua các chương trình xúc tiến đầu tư, các diễn đàn kinh tế trong khu vực và
+thế giới;
+ Là doanh nghiệp đã xây dựng được mô hình phát triển các KCN - thu hút FDI rất thành công,
+đóng góp vào quá trình xây dựng công nghiệp hóa, hiện đại hóa Đất nước, là điểm đến hấp dẫn
+của nhiều nhà đầu tư nước ngoài.
+ Là doanh nghiệp đóng góp đáng kể vào kế hoạch thu hút FDI của Việt Nam hàng năm trong lĩnh
+vực bất động sản công nghiệp và đô thị; luôn hướng tới các doanh nghiệp FDI đầu tư các dự án
+công nghệ cao, giảm thiểu ô nhiễm môi trường.
+ Gián tiếp tạo ra hàng nghìn công ăn việc làm cho người dân lao động; đóng góp ngân sách cho
 các tỉnh thành phố nơi có các dự án của KBC; Xây dựng các công trình công ích như hồ điều
 
-26 
-6. CÁC LOẠI RỦI RO ẢNH HƯỞNG ĐẾN TỔNG CÔNG TY  
-Rủi ro do thay đổi các chính sách quản lý về hoạt động đầu tư kinh doanh KCN 
-Đây là loại rủi ro ảnh hưởng lớn nhất đối với các doanh nghiệp đầu tư kinh doanh và phát triển KCN 
-bao gồm các rủi ro có thể xảy ra: khó thành lập dự án mới; dự án bị thu hồi; dự án bị chuyển đổi mục 
-đích sử dụng; thay đổi chính sách về ưu đãi cho các nhà đầu tư; các quy định ưu đãi không rõ ràng gây 
-hiểu lầm giữa cơ quan chức năng và chủ đầu tư, thay đổi chính sách thuế, thay đổi chính sách về đóng 
-tiền thuê đất hàng năm; thay đổi các quy định về giá đất đền bù, v.v.  
-KBC đã trải qua các loại rủi ro nói trên. Tất cả các vấn đề đã và đang được KBC xử lý. Để xử lý được 
-các loại rủi ro liên quan đến chính sách, hầu hết KBC đều phải lập báo cáo giải trình, thuyết phục, góp 
-ý với cơ quan chức năng, chỉ ra được các lợi ích, thiệt hại ảnh hưởng đến cả Nhà nước và Chủ đầu tư do 
-thay đổi chính sách liên tục. Bằng sự nỗ lực, kiên trì bảo vệ quan điểm của doanh nghiệp nên KBC đã 
-lần lượt vượt qua được các loại rủi ro chính sách.  
-Trong những năm gần đây, Bộ Kế hoạch và Đầu tư cùng Chính Phủ luôn xem nhiệm vụ trọng tâm là 
-tiếp tục cải thiện môi trường đầu tư - kinh doanh, nâng cao hiệu quả hoạt động và công tác quản lý đối 
-với các KCN, KĐT, xử lý kịp thời các khó khăn, vướng mắc liên quan tới các vấn đề về đầu tư, xây 
-dựng, môi trường, đất đai, nắm bắt các các cơ hội mới mở ra khi thực hiện các hiệp định thương mại - 
-đầu tư song phương, đa phương và nghiên cứu hoàn thiện cơ sở pháp lý để xây dựng, triển khai các mô 
-hình KĐT, KCN mới, thực hiện Đề án đơn vị hành chính - kinh tế đặc biệt sau khi được cơ quan có 
-thẩm quyền phê duyệt. Bộ Chính trị đã phê duyệt Nghị quyết số 50-NQ/TW ngày 20/08/2019 về việc 
-định hướng hoàn thiện thể chế, chính sách, nâng cao chất lượng, hiệu quả hợp tác đầu tư nước ngoài đến 
-năm 2030. Đây là lần đầu tiên sau quá trình 30 năm thu hút FDI của Việt Nam có một Nghị quyết chuyên 
-đề về thu hút FDI, coi việc thu hút FDI là một thành phần kinh tế quan trọng, đóng góp vào sự phát triển 
-của đất nước. Như vậy, rủi ro về chính sách quản lý sẽ có xu hướng giảm thiểu.  
-Trong năm 2022, bên cạnh các dự án được Chính Phủ phê duyệt Quyết định chủ chương đầu tư như Dự 
-án KCN Quang Châu mở rộng 90 ha, KCN Tân Tập 654 ha, KCN Lộc Giang 466 ha chỉ còn dự án 
-Tràng Duệ 3 có hành trình phê duyệt khá dài từ năm 2016 đến nay, mặc dù đã được Chính Phủ, UBND 
-Thành phố Hải Phòng ủng hộ, doanh nghiệp đã hoàn tất quá trình giải trình với các bộ ban ngành nhưng 
-vẫn đang chờ Chính phủ phê duyệt Quyết định chủ chương đầu tư. Tuy nhiên, vào ngày 30/03/2023 
-Chính phủ đã có quyết định số 323/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung thành phố Hải 
-Phòng, đây là bước tiến quan trọng để KCN Tràng Duệ 3 sớm được phê duyệt dự kiến trong Quý 3 năm 
-2023.  
-Rủi ro do thay đổi các chính sách tiền tệ   
-Đây là loại rủi ro mà các doanh nghiệp BĐS nói chung, KBC nói riêng sẽ gặp phải đầu tiên, khi tín dụng 
-bị siết chặt thì các doanh nghiệp BĐS sẽ bị siết chặt trước tiên; lãi suất cho vay các doanh nghiệp BĐS 
-bao giờ cũng ở mức cao nhất. KBC đã trải qua các rủi ro này, trong giai đoạn 2011 – 2014, KBC gần 
-như không tiếp cận được bất cứ nguồn vốn tín dụng nào. Trong bối cảnh này, KBC hoàn toàn phải tự 
+6. CÁC LOẠI RỦI RO ẢNH HƯỞNG ĐẾN TỔNG CÔNG TY
+Rủi ro do thay đổi các chính sách quản lý về hoạt động đầu tư kinh doanh KCN
+Đây là loại rủi ro ảnh hưởng lớn nhất đối với các doanh nghiệp đầu tư kinh doanh và phát triển KCN
+bao gồm các rủi ro có thể xảy ra: khó thành lập dự án mới; dự án bị thu hồi; dự án bị chuyển đổi mục
+đích sử dụng; thay đổi chính sách về ưu đãi cho các nhà đầu tư; các quy định ưu đãi không rõ ràng gây
+hiểu lầm giữa cơ quan chức năng và chủ đầu tư, thay đổi chính sách thuế, thay đổi chính sách về đóng
+tiền thuê đất hàng năm; thay đổi các quy định về giá đất đền bù, v.v.
+KBC đã trải qua các loại rủi ro nói trên. Tất cả các vấn đề đã và đang được KBC xử lý. Để xử lý được
+các loại rủi ro liên quan đến chính sách, hầu hết KBC đều phải lập báo cáo giải trình, thuyết phục, góp
+ý với cơ quan chức năng, chỉ ra được các lợi ích, thiệt hại ảnh hưởng đến cả Nhà nước và Chủ đầu tư do
+thay đổi chính sách liên tục. Bằng sự nỗ lực, kiên trì bảo vệ quan điểm của doanh nghiệp nên KBC đã
+lần lượt vượt qua được các loại rủi ro chính sách.
+Trong những năm gần đây, Bộ Kế hoạch và Đầu tư cùng Chính Phủ luôn xem nhiệm vụ trọng tâm là
+tiếp tục cải thiện môi trường đầu tư - kinh doanh, nâng cao hiệu quả hoạt động và công tác quản lý đối
+với các KCN, KĐT, xử lý kịp thời các khó khăn, vướng mắc liên quan tới các vấn đề về đầu tư, xây
+dựng, môi trường, đất đai, nắm bắt các các cơ hội mới mở ra khi thực hiện các hiệp định thương mại -
+đầu tư song phương, đa phương và nghiên cứu hoàn thiện cơ sở pháp lý để xây dựng, triển khai các mô
+hình KĐT, KCN mới, thực hiện Đề án đơn vị hành chính - kinh tế đặc biệt sau khi được cơ quan có
+thẩm quyền phê duyệt. Bộ Chính trị đã phê duyệt Nghị quyết số 50-NQ/TW ngày 20/08/2019 về việc
+định hướng hoàn thiện thể chế, chính sách, nâng cao chất lượng, hiệu quả hợp tác đầu tư nước ngoài đến
+năm 2030. Đây là lần đầu tiên sau quá trình 30 năm thu hút FDI của Việt Nam có một Nghị quyết chuyên
+đề về thu hút FDI, coi việc thu hút FDI là một thành phần kinh tế quan trọng, đóng góp vào sự phát triển
+của đất nước. Như vậy, rủi ro về chính sách quản lý sẽ có xu hướng giảm thiểu.
+Trong năm 2022, bên cạnh các dự án được Chính Phủ phê duyệt Quyết định chủ chương đầu tư như Dự
+án KCN Quang Châu mở rộng 90 ha, KCN Tân Tập 654 ha, KCN Lộc Giang 466 ha chỉ còn dự án
+Tràng Duệ 3 có hành trình phê duyệt khá dài từ năm 2016 đến nay, mặc dù đã được Chính Phủ, UBND
+Thành phố Hải Phòng ủng hộ, doanh nghiệp đã hoàn tất quá trình giải trình với các bộ ban ngành nhưng
+vẫn đang chờ Chính phủ phê duyệt Quyết định chủ chương đầu tư. Tuy nhiên, vào ngày 30/03/2023
+Chính phủ đã có quyết định số 323/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung thành phố Hải
+Phòng, đây là bước tiến quan trọng để KCN Tràng Duệ 3 sớm được phê duyệt dự kiến trong Quý 3 năm
+Rủi ro do thay đổi các chính sách tiền tệ
+Đây là loại rủi ro mà các doanh nghiệp BĐS nói chung, KBC nói riêng sẽ gặp phải đầu tiên, khi tín dụng
+bị siết chặt thì các doanh nghiệp BĐS sẽ bị siết chặt trước tiên; lãi suất cho vay các doanh nghiệp BĐS
+bao giờ cũng ở mức cao nhất. KBC đã trải qua các rủi ro này, trong giai đoạn 2011 – 2014, KBC gần
+như không tiếp cận được bất cứ nguồn vốn tín dụng nào. Trong bối cảnh này, KBC hoàn toàn phải tự
 chủ tài chính nhờ nguồn thu từ hoạt động kinh doanh, nhiều dự án BĐS thương mại phải dừng tiến độ
 
-27 
-(do một phần không thu xếp được nguồn vốn tín dụng, một phần do lãi suất tăng cao và thị trường BĐS 
-gặp khó khăn, doanh nghiệp cũng muốn lựa chọn giải pháp tạm dừng thi công dự án).  
-Trong giai đoạn 2015 – 2016, rủi ro về chính sách tiền tệ gần như không xảy ra, KBC dễ dàng tiếp cận 
-các nguồn vốn tín dụng, lãi suất vay ở mức 9,5% - 10%/năm. 
-Trong giai đoạn 2017 – 2019, mặc dù một số chính sách như thông tư 06/2016/TT-NHNN (sửa đổi một 
-số điều của Thông tư 36/2014/TT-NHNN); Thông tư 19/2017/TT-NHNN; Thông tư 16/2018/TT-NHNN 
-có hiệu lực làm nâng hệ số rủi ro cho vay bất động sản, điều chỉnh tỷ lệ vốn ngắn hạn cho vay trung và 
-dài hạn giảm, v.v, về cơ bản giảm dòng vốn chảy vào thị trường bất động sản.  
-Trong quá khứ cả hai tỷ lệ nêu trên đều đã có nhiều lần thay đổi. Hệ số rủi ro đối với cho vay kinh doanh 
-bất động sản từng được quy định là 100% theo Quyết định số 457/2005/QĐ-NHNN của NHNN. Đến 
-năm 2010 đã được tăng lên 250% theo Thông tư số 13/2010/TT-NHNN, rồi đến năm 2014 lại được 
-giảm xuống 100% theo Thông tư số 36/2014/TT-NHNN. Đến năm 2016, NHNN lại ban hành Thông tư 
-số 06/2016/TT-NHNN, trong đó quy định hệ số rủi ro cho vay bất động sản sẽ được giữ ở mức 150% 
-đến hết năm 2016 sau đó nâng lên mức 200% kể từ 01/01/2017. 
-Như vậy, có thể thấy NHNN đã ban hành, điều chỉnh các chính sách theo hướng khuyến khích hay hạn 
-chế cấp vốn cho hoạt động kinh doanh bất động sản tùy thuộc vào yêu cầu quản lý rủi ro của toàn bộ hệ 
-thống ngân hàng cũng như diễn biến của thị trường bất động sản. Tuy nhiên, nếu nhìn từ khía cạnh thị 
-trường thì chính sách biến động có phần tương đối nhanh (khoảng hai năm một lần). Đứng trước chính 
-sách tiền tệ thay đổi liên tục thì KBC luôn sẵn sàng cân đối nguồn vốn từ hoạt động kinh doanh, phát 
-hành các loại chứng khoán để huy động vốn khi thị trường thuận lợi, duy trì quan hệ tín dụng tốt với các 
-Ngân hàng lớn như Vietinbank, BIDV, VPbank, v.v.  
-Trong giai đoạn 2019 - 2021, KBC không gặp khó khăn về việc thu hút vốn nhờ chính sách tiền tệ được 
-nới lỏng, lãi suất huy động trên thị trường ở mức thấp, nguồn vốn dồi dào, các kênh huy động vốn đa 
-dạng. Bằng nỗ lực, uy tín của mình, trong giai đoạn này KBC đã phát hành thành công các đợt phát hành 
-trái phiếu ra công chúng và trái phiếu riêng lẻ để đáp ứng nhu cầu về vốn.  
-Tuy nhiên, sang năm 2022 là một năm đầy khó khăn với thị trường vốn, có thể nói khó khăn nhất trong 
-vòng 2 thập kỷ qua. Các chính sách điều tiết vĩ mô, các chính sách tiền tệ , lãi suất tăng cao, v.v. đã làm 
-cho hầu hết các doanh nghiệp gần như bị siết chặt các kênh huy động vốn đột ngột từ việc phát hành cổ 
-phiếu, phát hành trái phiếu, vay vốn tín dụng, v.v. Sự khan  hiếm về dòng tiền của cả nền kinh tế đã 
-khiến các doanh nghiệp nói chung đặc biệt là doanh nghiệp BĐS nói riêng không thanh toán được Trái 
-phiếu đến hạn. Chính sách mới ra đời như  Nghị định 65/2022/NĐ-CP sửa đổi, bổ sung Nghị định 
-153/2020/NĐ-CP, v.v liên quan đến việc hành trái phiếu doanh nghiệp rất khó triển khai bởi hạn chế 
-mục đích sử dụng vốn, yêu cầu thêm nhiệm vụ xếp hạng tín nhiệm doanh nghiệp trong khi ở Việt Nam 
-chỉ có một vài đơn vị có chức năng xếp hạng tín nhiệm, chắc chắn khó đảm bảo nhu cầu xếp hạng của 
-hàng nghìn doanh nghiệp khi quy định có hiệu lực. Nhận biết được khó khăn về chính sách, Chính phủ 
-đã ban hành Nghị định số : 08/2023/NĐ-CP ngày 05/03/2023 để gỡ khó cho một số điều kiện khi phát 
-hành Trái phiếu nhưng vẫn chưa làm cho Thị trường Trái phiếu tích cực trở lại.  
-Trước áp lực hiện tại, KBC đã không triển khai được kế hoạch huy động vốn của năm 2022, thay vào 
+(do một phần không thu xếp được nguồn vốn tín dụng, một phần do lãi suất tăng cao và thị trường BĐS
+gặp khó khăn, doanh nghiệp cũng muốn lựa chọn giải pháp tạm dừng thi công dự án).
+Trong giai đoạn 2015 – 2016, rủi ro về chính sách tiền tệ gần như không xảy ra, KBC dễ dàng tiếp cận
+các nguồn vốn tín dụng, lãi suất vay ở mức 9,5% - 10%/năm.
+Trong giai đoạn 2017 – 2019, mặc dù một số chính sách như thông tư 06/2016/TT-NHNN (sửa đổi một
+số điều của Thông tư 36/2014/TT-NHNN); Thông tư 19/2017/TT-NHNN; Thông tư 16/2018/TT-NHNN
+có hiệu lực làm nâng hệ số rủi ro cho vay bất động sản, điều chỉnh tỷ lệ vốn ngắn hạn cho vay trung và
+dài hạn giảm, v.v, về cơ bản giảm dòng vốn chảy vào thị trường bất động sản.
+Trong quá khứ cả hai tỷ lệ nêu trên đều đã có nhiều lần thay đổi. Hệ số rủi ro đối với cho vay kinh doanh
+bất động sản từng được quy định là 100% theo Quyết định số 457/2005/QĐ-NHNN của NHNN. Đến
+năm 2010 đã được tăng lên 250% theo Thông tư số 13/2010/TT-NHNN, rồi đến năm 2014 lại được
+giảm xuống 100% theo Thông tư số 36/2014/TT-NHNN. Đến năm 2016, NHNN lại ban hành Thông tư
+số 06/2016/TT-NHNN, trong đó quy định hệ số rủi ro cho vay bất động sản sẽ được giữ ở mức 150%
+đến hết năm 2016 sau đó nâng lên mức 200% kể từ 01/01/2017.
+Như vậy, có thể thấy NHNN đã ban hành, điều chỉnh các chính sách theo hướng khuyến khích hay hạn
+chế cấp vốn cho hoạt động kinh doanh bất động sản tùy thuộc vào yêu cầu quản lý rủi ro của toàn bộ hệ
+thống ngân hàng cũng như diễn biến của thị trường bất động sản. Tuy nhiên, nếu nhìn từ khía cạnh thị
+trường thì chính sách biến động có phần tương đối nhanh (khoảng hai năm một lần). Đứng trước chính
+sách tiền tệ thay đổi liên tục thì KBC luôn sẵn sàng cân đối nguồn vốn từ hoạt động kinh doanh, phát
+hành các loại chứng khoán để huy động vốn khi thị trường thuận lợi, duy trì quan hệ tín dụng tốt với các
+Ngân hàng lớn như Vietinbank, BIDV, VPbank, v.v.
+Trong giai đoạn 2019 - 2021, KBC không gặp khó khăn về việc thu hút vốn nhờ chính sách tiền tệ được
+nới lỏng, lãi suất huy động trên thị trường ở mức thấp, nguồn vốn dồi dào, các kênh huy động vốn đa
+dạng. Bằng nỗ lực, uy tín của mình, trong giai đoạn này KBC đã phát hành thành công các đợt phát hành
+trái phiếu ra công chúng và trái phiếu riêng lẻ để đáp ứng nhu cầu về vốn.
+Tuy nhiên, sang năm 2022 là một năm đầy khó khăn với thị trường vốn, có thể nói khó khăn nhất trong
+vòng 2 thập kỷ qua. Các chính sách điều tiết vĩ mô, các chính sách tiền tệ , lãi suất tăng cao, v.v. đã làm
+cho hầu hết các doanh nghiệp gần như bị siết chặt các kênh huy động vốn đột ngột từ việc phát hành cổ
+phiếu, phát hành trái phiếu, vay vốn tín dụng, v.v. Sự khan  hiếm về dòng tiền của cả nền kinh tế đã
+khiến các doanh nghiệp nói chung đặc biệt là doanh nghiệp BĐS nói riêng không thanh toán được Trái
+phiếu đến hạn. Chính sách mới ra đời như  Nghị định 65/2022/NĐ-CP sửa đổi, bổ sung Nghị định
+153/2020/NĐ-CP, v.v liên quan đến việc hành trái phiếu doanh nghiệp rất khó triển khai bởi hạn chế
+mục đích sử dụng vốn, yêu cầu thêm nhiệm vụ xếp hạng tín nhiệm doanh nghiệp trong khi ở Việt Nam
+chỉ có một vài đơn vị có chức năng xếp hạng tín nhiệm, chắc chắn khó đảm bảo nhu cầu xếp hạng của
+hàng nghìn doanh nghiệp khi quy định có hiệu lực. Nhận biết được khó khăn về chính sách, Chính phủ
+đã ban hành Nghị định số : 08/2023/NĐ-CP ngày 05/03/2023 để gỡ khó cho một số điều kiện khi phát
+hành Trái phiếu nhưng vẫn chưa làm cho Thị trường Trái phiếu tích cực trở lại.
+Trước áp lực hiện tại, KBC đã không triển khai được kế hoạch huy động vốn của năm 2022, thay vào
 đó nỗ lực thu hút FDI để thu hút dòng tiền để đảm hoạt động kinh doanh.
 
-28 
-Rủi ro thu hút vốn FDI 
-Đối với KBC thì tình hình thu hút FDI vào Việt Nam là yếu tố quan trọng nhất ảnh hưởng đến tình hình 
-hoạt động kinh doanh của doanh nghiệp. Tuy nhiên, dự báo nhu cầu đầu tư  FDI vào Việt Nam trong 
-những năm tới vẫn không ngừng giảm sút. Theo số liệu từ Cục Đầu tư nước ngoài - Bộ Kế hoạch và 
-Đầu tư, trong năm 2022, tổng vốn FDI đăng ký vào Việt Nam đạt gần 27,72 tỷ USD, bằng 89% so với 
-cùng kỳ năm 2021. Tuy nhiên vốn FDI đã giải ngân đạt khoảng 22,4 tỷ USD, tăng 13,5% so với cùng 
-kỳ năm 2021, trong đó:  
- Về đối tác chủ yếu: Là các đối tác đến từ các quốc gia như Singapore, Hàn Quốc, Nhật Bản 
-,Trung Quốc, Hồng Kông, Đài Loan, v.v. Trong số này,  KBC đều có quan hệ sẵn với các đối 
-tác đến từ các quốc gia nêu trên.   
- Về địa phương thu hút FDI: Thành phố Hồ Chí Minh dẫn đầu, tiếp sau là Bình Dương, Quảng 
-Ninh xếp thứ ba, v.v. Như vậy chỉ có 01 KCN của KBC tại Thành phố Hồ Chí Minh có lợi thế 
-trong năm 2022, các địa bàn khác đã bị lùi lại. Tuy nhiên, trong năm 2022 KBC cũng đã bắt đầu 
-phát triển dự án ở Quảng Ninh cũng mở ra cơ hội mới, đáp ứng nhu cầu của nhà đầu tư mới.  
-Cho đến hiện tại, KBC luôn là Tập đoàn bám sát xu hướng dòng vốn FDI vào Việt Nam để nắm được 
-các cơ hội đầu tư, hạn chế tối đa rủi ro liên quan thu hút FDI của Tập đoàn. Lợi thế riêng của Việt Nam 
-là Bộ Chính trị thông qua Nghị quyết 50-NQ/TW năm 2019 đã đặt một nền tảng mới cho chiến lược thu 
-hút FDI của Việt Nam, hướng đến các nguồn FDI có chất lượng cao. Một số tập đoàn đã chuyển một 
-phần hoạt động từ Trung Quốc sang Việt Nam như Apple, Intel, Nike, Qualcomm, Universal Alloy 
-Corp., Asics, Hoya, Kyocera, Nintendo, và Shin-Etsu Chemical. Vì vậy, Việt Nam nói chung, các doanh 
-nghiệp quản lý và đầu tư các khu công nghiệp như KBC nói riêng đang đứng trước những cơ hội lớn để 
-thu hút các nhà đầu tư nước ngoài tham gia đầu tư dự án trực tiếp, hoặc mua cổ phần .  
-Tuy nhiên, trong năm 2022, kinh tế thế giới đầy biến động, nhiều quốc gia thực hiện chính sách thắt 
-chặt tiền tệ, lãi suất và tỷ lệ lạm phát tăng cao cùng tâm lý thận trọng từ những nhà đầu tư nước ngoài 
-trong giai đoạn tỷ giá dao động mạnh như đồng USD tăng giá 9% nhưng đồng yen Nhật lại giảm 19% 
-khi so với VND, đã tác động làm giảm hoạt động đầu tư FDI của nhiều nền kinh tế lớn.  
-Rủi ro từ việc quản lý dòng tiền không hiệu quả 
-KBC đã gặp phải rủi ro khi sử dụng nguồn vốn để đầu tư đa ngành giai đoạn 2009 - 2010. Vì vậy, huy 
-động nguồn vốn và sử dụng vốn là bài toán luôn được cân nhắc đối với KBC để đảm bảo nguồn vốn vừa 
-sinh lời vừa đạt mục tiêu thúc đẩy tăng trưởng doanh nghiệp và bảo toàn vốn khi gặp khó khăn trong 
-việc triển khai dự án.  
-Năm 2017, Ban tài chính của KBC đã tiếp cận các tổ chức tài chính trong và ngoài nước thu xếp nguồn 
-vốn tài trợ cho các dự án của KBC, tiếp cận các quỹ đầu tư mua trái phiếu của doanh nghiệp để tái cơ 
-cấu khoản nợ cũ phát sinh từ năm 2009 và bổ sung năng lực tài chính cho doanh nghiệp. KBC không 
-gặp rủi ro gì về quản lý dòng tiền trong năm 2017.  
-Trong giai đoạn 2018 - 2021 KBC đều hoàn thành kế hoạch thu xếp vốn, cũng không gặp rủi ro về quản 
+Rủi ro thu hút vốn FDI
+Đối với KBC thì tình hình thu hút FDI vào Việt Nam là yếu tố quan trọng nhất ảnh hưởng đến tình hình
+hoạt động kinh doanh của doanh nghiệp. Tuy nhiên, dự báo nhu cầu đầu tư  FDI vào Việt Nam trong
+những năm tới vẫn không ngừng giảm sút. Theo số liệu từ Cục Đầu tư nước ngoài - Bộ Kế hoạch và
+Đầu tư, trong năm 2022, tổng vốn FDI đăng ký vào Việt Nam đạt gần 27,72 tỷ USD, bằng 89% so với
+cùng kỳ năm 2021. Tuy nhiên vốn FDI đã giải ngân đạt khoảng 22,4 tỷ USD, tăng 13,5% so với cùng
+kỳ năm 2021, trong đó:
+ Về đối tác chủ yếu: Là các đối tác đến từ các quốc gia như Singapore, Hàn Quốc, Nhật Bản
+,Trung Quốc, Hồng Kông, Đài Loan, v.v. Trong số này,  KBC đều có quan hệ sẵn với các đối
+tác đến từ các quốc gia nêu trên.
+ Về địa phương thu hút FDI: Thành phố Hồ Chí Minh dẫn đầu, tiếp sau là Bình Dương, Quảng
+Ninh xếp thứ ba, v.v. Như vậy chỉ có 01 KCN của KBC tại Thành phố Hồ Chí Minh có lợi thế
+trong năm 2022, các địa bàn khác đã bị lùi lại. Tuy nhiên, trong năm 2022 KBC cũng đã bắt đầu
+phát triển dự án ở Quảng Ninh cũng mở ra cơ hội mới, đáp ứng nhu cầu của nhà đầu tư mới.
+Cho đến hiện tại, KBC luôn là Tập đoàn bám sát xu hướng dòng vốn FDI vào Việt Nam để nắm được
+các cơ hội đầu tư, hạn chế tối đa rủi ro liên quan thu hút FDI của Tập đoàn. Lợi thế riêng của Việt Nam
+là Bộ Chính trị thông qua Nghị quyết 50-NQ/TW năm 2019 đã đặt một nền tảng mới cho chiến lược thu
+hút FDI của Việt Nam, hướng đến các nguồn FDI có chất lượng cao. Một số tập đoàn đã chuyển một
+phần hoạt động từ Trung Quốc sang Việt Nam như Apple, Intel, Nike, Qualcomm, Universal Alloy
+Corp., Asics, Hoya, Kyocera, Nintendo, và Shin-Etsu Chemical. Vì vậy, Việt Nam nói chung, các doanh
+nghiệp quản lý và đầu tư các khu công nghiệp như KBC nói riêng đang đứng trước những cơ hội lớn để
+thu hút các nhà đầu tư nước ngoài tham gia đầu tư dự án trực tiếp, hoặc mua cổ phần .
+Tuy nhiên, trong năm 2022, kinh tế thế giới đầy biến động, nhiều quốc gia thực hiện chính sách thắt
+chặt tiền tệ, lãi suất và tỷ lệ lạm phát tăng cao cùng tâm lý thận trọng từ những nhà đầu tư nước ngoài
+trong giai đoạn tỷ giá dao động mạnh như đồng USD tăng giá 9% nhưng đồng yen Nhật lại giảm 19%
+khi so với VND, đã tác động làm giảm hoạt động đầu tư FDI của nhiều nền kinh tế lớn.
+Rủi ro từ việc quản lý dòng tiền không hiệu quả
+KBC đã gặp phải rủi ro khi sử dụng nguồn vốn để đầu tư đa ngành giai đoạn 2009 - 2010. Vì vậy, huy
+động nguồn vốn và sử dụng vốn là bài toán luôn được cân nhắc đối với KBC để đảm bảo nguồn vốn vừa
+sinh lời vừa đạt mục tiêu thúc đẩy tăng trưởng doanh nghiệp và bảo toàn vốn khi gặp khó khăn trong
+việc triển khai dự án.
+Năm 2017, Ban tài chính của KBC đã tiếp cận các tổ chức tài chính trong và ngoài nước thu xếp nguồn
+vốn tài trợ cho các dự án của KBC, tiếp cận các quỹ đầu tư mua trái phiếu của doanh nghiệp để tái cơ
+cấu khoản nợ cũ phát sinh từ năm 2009 và bổ sung năng lực tài chính cho doanh nghiệp. KBC không
+gặp rủi ro gì về quản lý dòng tiền trong năm 2017.
+Trong giai đoạn 2018 - 2021 KBC đều hoàn thành kế hoạch thu xếp vốn, cũng không gặp rủi ro về quản
 lý dòng tiền.
 
-29 
-Năm 2022, tuy KBC không triển khai các kế hoạch thu xếp vốn nhưng đã dùng toàn bộ nguồn lực tài 
-chính sẵn có của doanh nghiệp để phân bổ dòng tiền cho các hoạt động đầu tư kinh doanh, thanh toán 
-nợ đến hạn.  
-Rủi ro khác  
-Các KCN đang hoạt động có thể không tránh khỏi các rủi ro như: Hiện tượng gây ô nhiễm môi trường 
-từ các doanh nghiệp trong KCN, gặp thiên tai (bão làm tốc mái các căn nhà xưởng); cháy nổ (cháy nhà 
-máy trong KCN); đình công làm ngừng trệ hoạt động sản xuất kinh doanh của các doanh nghiệp trong 
-KCN, gây bất ổn an ninh; các công ty đang hoạt động trong KCN bị phá sản; dịch bệnh, chiến tranh làm 
-ảnh hưởng đến sức mua toàn cầu, đến hoạt động xuất nhập khẩu hàng hóa của các doanh nghiệp FDI, 
-v.v.  
-Do vậy, để đối phó với các rủi ro này thì Tập đoàn luôn chú ý tới các nhân tố ảnh hướng đến kết quả 
-kinh doanh và an toàn lao động để có những biện pháp xử lý phù hợp giảm thiểu những thiệt hại có thể 
-có. KBC thường xuyên thực hiện công tác phòng ngừa rủi ro như: trang bị đầy đủ các thiết bị bảo hộ lao 
-động, tập huấn an toàn lao động - phòng cháy chữa cháy cho các nhân viên, thường xuyên kiểm tra, bảo 
+Năm 2022, tuy KBC không triển khai các kế hoạch thu xếp vốn nhưng đã dùng toàn bộ nguồn lực tài
+chính sẵn có của doanh nghiệp để phân bổ dòng tiền cho các hoạt động đầu tư kinh doanh, thanh toán
+nợ đến hạn.
+Rủi ro khác
+Các KCN đang hoạt động có thể không tránh khỏi các rủi ro như: Hiện tượng gây ô nhiễm môi trường
+từ các doanh nghiệp trong KCN, gặp thiên tai (bão làm tốc mái các căn nhà xưởng); cháy nổ (cháy nhà
+máy trong KCN); đình công làm ngừng trệ hoạt động sản xuất kinh doanh của các doanh nghiệp trong
+KCN, gây bất ổn an ninh; các công ty đang hoạt động trong KCN bị phá sản; dịch bệnh, chiến tranh làm
+ảnh hưởng đến sức mua toàn cầu, đến hoạt động xuất nhập khẩu hàng hóa của các doanh nghiệp FDI,
+Do vậy, để đối phó với các rủi ro này thì Tập đoàn luôn chú ý tới các nhân tố ảnh hướng đến kết quả
+kinh doanh và an toàn lao động để có những biện pháp xử lý phù hợp giảm thiểu những thiệt hại có thể
+có. KBC thường xuyên thực hiện công tác phòng ngừa rủi ro như: trang bị đầy đủ các thiết bị bảo hộ lao
+động, tập huấn an toàn lao động - phòng cháy chữa cháy cho các nhân viên, thường xuyên kiểm tra, bảo
 trì các máy móc thiết bị, v.v.
 
-35 
-BAN TỔNG GIÁM ĐỐC 
-BÀ NGUYỄN THỊ THU HƯƠNG - TỔNG GIÁM ĐỐC (ĐÃ GIỚI THIỆU TẠI MỤC THÀNH 
-VIÊN HĐQT) 
-ÔNG PHẠM PHÚC HIẾU - PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH TÀI CHÍNH - KẾ TOÁN 
-TRƯỞNG, KIÊM NGƯỜI ĐƯỢC ỦY QUYỀN CÔNG BỐ THÔNG TIN  
-Ông Phạm Phúc Hiếu sinh năm 1978, được bổ nhiệm làm Phó Tổng giám đốc, kiêm Kế toán trưởng 
-kể từ ngày 08/12/2012. Ông cũng là người được ủy quyền công bố thông tin của KBC. Ông từng là 
-thành viên HĐQT từ ngày 26/04/2014 đến ngày 10/02/2022. Ông Phạm Phúc Hiếu có bằng cử nhân tài 
-chính ngân hàng, thạc sỹ quản trị kinh doanh. Ông đã gắn bó với KBC từ năm 2004, Ông đã  trải qua 
-nhiều cương vị quản lý tài chính tại KBC và các công ty thành viên. Vì vậy, ông là người am hiểu sâu 
-về lĩnh vực tài chính cũng như các hoạt động kinh doanh của Tập đoàn. Thời gian, trình độ, kinh nghiệm 
-đã khẳng định ông Phạm Phúc Hiếu là một trong những thành viên quan trọng không thể thiếu trong 
-ban lãnh đạo của Tập đoàn.  Năm 2023 ông đã được nhận 10 triệu $ 
-Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 30.422 cổ phiếu, chiếm 0,004% 
-tổng số cổ phiếu đang lưu hành. 
-ÔNG PHAN ANH DŨNG – PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH KỸ THUẬT 
-Ông Phan Anh Dũng sinh năm 1969, hiện là Phó Tổng giám đốc phụ trách mảng kỹ thuật xây dựng 
-của Công ty. Là một người có bề dày kinh nghiệm trong quản lý các dự án nhà ở đô thị cũng như quản 
-lý, giám sát các vấn đề kỹ thuật của dự án, trước đây ông đã từng giữ chức Giám đốc kỹ thuật của KBC 
-và được bổ nhiệm làm Phó Tổng giám đốc kể từ ngày 1/6/2011. Ông Phan Anh Dũng có bằng Thạc sĩ 
-quản trị kinh doanh và bằng kỹ sư xây dựng. 
-Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 15.333 cổ phiếu, chiếm 0,002% 
-tổng số cổ phiếu đang lưu hành. 
-BÀ NGUYỄN MỸ NGỌC – PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH KINH DOANH 
-Bà Nguyễn Mỹ Ngọc sinh năm 1972, tốt nghiệp cử nhân ngoại ngữ và cử nhân tài chính ngân hàng. 
-Bà Ngọc có 13 năm công tác tại các công ty nước ngoài trước khi gia nhập KBC vào năm 2008. Bà 
-thông thạo tiếng Trung và tiếng Anh, với kinh nghiệm và tinh thần trách nhiệm cao, Bà Ngọc được bổ 
-nhiệm làm Phó tổng giám đốc phụ trách kinh doanh của Tập đoàn kể từ ngày 2/2/2015. Bà Ngọc là 
-nhân tố quan trọng trong ban lãnh đạo của KBC, là người nắm rõ các triển vọng kinh doanh của Tập 
-đoàn. Bà đã có nhiều đóng góp, thành tích xuất sắc trong công việc thu hút và đàm phán trực tiếp với 
-nhiều tập đoàn lớn đầu tư vào các KCN của KBC. 
-Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 0 cổ phiếu, chiếm 0% tổng số 
+BAN TỔNG GIÁM ĐỐC
+BÀ NGUYỄN THỊ THU HƯƠNG - TỔNG GIÁM ĐỐC (ĐÃ GIỚI THIỆU TẠI MỤC THÀNH
+VIÊN HĐQT)
+ÔNG PHẠM PHÚC HIẾU - PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH TÀI CHÍNH - KẾ TOÁN
+TRƯỞNG, KIÊM NGƯỜI ĐƯỢC ỦY QUYỀN CÔNG BỐ THÔNG TIN
+Ông Phạm Phúc Hiếu sinh năm 1978, được bổ nhiệm làm Phó Tổng giám đốc, kiêm Kế toán trưởng
+kể từ ngày 08/12/2012. Ông cũng là người được ủy quyền công bố thông tin của KBC. Ông từng là
+thành viên HĐQT từ ngày 26/04/2014 đến ngày 10/02/2022. Ông Phạm Phúc Hiếu có bằng cử nhân tài
+chính ngân hàng, thạc sỹ quản trị kinh doanh. Ông đã gắn bó với KBC từ năm 2004, Ông đã  trải qua
+nhiều cương vị quản lý tài chính tại KBC và các công ty thành viên. Vì vậy, ông là người am hiểu sâu
+về lĩnh vực tài chính cũng như các hoạt động kinh doanh của Tập đoàn. Thời gian, trình độ, kinh nghiệm
+đã khẳng định ông Phạm Phúc Hiếu là một trong những thành viên quan trọng không thể thiếu trong
+ban lãnh đạo của Tập đoàn.  Năm 2023 ông đã được nhận 10 triệu $
+Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 30.422 cổ phiếu, chiếm 0,004%
+tổng số cổ phiếu đang lưu hành.
+ÔNG PHAN ANH DŨNG – PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH KỸ THUẬT
+Ông Phan Anh Dũng sinh năm 1969, hiện là Phó Tổng giám đốc phụ trách mảng kỹ thuật xây dựng
+của Công ty. Là một người có bề dày kinh nghiệm trong quản lý các dự án nhà ở đô thị cũng như quản
+lý, giám sát các vấn đề kỹ thuật của dự án, trước đây ông đã từng giữ chức Giám đốc kỹ thuật của KBC
+và được bổ nhiệm làm Phó Tổng giám đốc kể từ ngày 1/6/2011. Ông Phan Anh Dũng có bằng Thạc sĩ
+quản trị kinh doanh và bằng kỹ sư xây dựng.
+Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 15.333 cổ phiếu, chiếm 0,002%
+tổng số cổ phiếu đang lưu hành.
+BÀ NGUYỄN MỸ NGỌC – PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH KINH DOANH
+Bà Nguyễn Mỹ Ngọc sinh năm 1972, tốt nghiệp cử nhân ngoại ngữ và cử nhân tài chính ngân hàng.
+Bà Ngọc có 13 năm công tác tại các công ty nước ngoài trước khi gia nhập KBC vào năm 2008. Bà
+thông thạo tiếng Trung và tiếng Anh, với kinh nghiệm và tinh thần trách nhiệm cao, Bà Ngọc được bổ
+nhiệm làm Phó tổng giám đốc phụ trách kinh doanh của Tập đoàn kể từ ngày 2/2/2015. Bà Ngọc là
+nhân tố quan trọng trong ban lãnh đạo của KBC, là người nắm rõ các triển vọng kinh doanh của Tập
+đoàn. Bà đã có nhiều đóng góp, thành tích xuất sắc trong công việc thu hút và đàm phán trực tiếp với
+nhiều tập đoàn lớn đầu tư vào các KCN của KBC.
+Số lượng và tỷ lệ sở hữu cổ phiếu nắm giữ tại ngày 31/12/2022 là: 0 cổ phiếu, chiếm 0% tổng số
 cổ phiếu đang lưu hành.
 
-63 
-0.61% 1.63%
-6.73%
-0.02%
-91.01%
+TÌNH HÌNH HOẠT ĐỘNG VÀ TRIỂN VỌNG CÁC DỰ ÁN
+QUÁ TRÌNH LẤP ĐẦY CÁC KHU CÔNG NGHIỆP
+KBC có 4 KCN đầu tiên kể từ khi thành lập công ty năm 2002 có tổng diện tích là 1.013 ha đã
+được lấp đầy 100% vào năm 2019, thu hút hơn 250 nhà đầu tư nước ngoài chủ yếu đến từ Nhật
+Bản, Hàn Quốc, Hồng Kông, Đài Loan, Trung Quốc, v.v. bao gồm:
+Tại Bắc Ninh: Hai KCN Quế Võ có tổng diện tích 611 ha, với 70 căn nhà xưởng xây sẵn có diện tích
+tiêu chuẩn là 5.160 m2/căn. Trong đó KCN Quế võ hiện hữu có diện tích 300 ha đi vào hoạt động từ
+năm 2003, KCN Quế Võ mở rộng có diện tích 311 ha đi vào hoạt động từ năm 2006. Hai KCN ở Quế
+Võ – Bắc Ninh mất khoảng 12 năm để lấp đầy trên 90%;
+Tại Hải Phòng: KCN Tràng Duệ 1 có diện tích 187,8 ha, với 17 căn nhà xưởng xây sẵn có diện tích
+trung bình là 5.200 m2/căn đi vào hoạt động từ năm 2008, mất 7 năm để đạt tỷ lệ lấp đầy trên 90%;
+KCN Tràng Duệ 2 có diện tích 214,2 ha, chỉ mất 4 năm đạt tỷ lệ lấp đầy trên 90% và không có nhà
+xưởng xây sẵn.
+Qua các số liệu nói trên, có thể thấy đối với KCN đầu tiên KBC đã mất khoảng 12 năm để lấp đầy trên
+90%, đối với các KCN tiếp theo chỉ mất khoảng 6 năm để lấp đầy trên 90%. Thông thường 10% diện
+tích của các KCN còn lại việc lấp đầy có thể kéo dài 1 năm - 5 năm, do Công ty dành quy đất để dự trữ
+xây dựng nhà xưởng cho thuê đáp ứng các nhà đầu tư có quy mô nhỏ, hoặc đáp ứng nhu cầu mở rộng
+nhà máy của các Tập đoàn đã đầu tư trong KCN.
+Tại Bắc Giang: KCN Quang Châu có diện tích 426 ha, đã lấy đầy 95,89%, dự kiến năm 2023 đạt tỷ lệ
+lấp đầy 100%.
+Các KCN đã lấp đầy luôn có nguồn thu ổn định hàng năm cho đến hết vòng đời của dự án, bao gồm
+doanh thu dịch vụ, quản lý hạ tầng, cung cấp nước sạch và xử lý nước thải. Năm 2022, tổng doanh thu
+dịch vụ của 5 KCN này đạt 387,17 tỷ đồng. Tuy nhiên, doanh thu dịch vụ này sẽ tiếp tục tăng lên trong
+những năm tới khi các doanh nghiệp trong KCN không còn được miễn phí cơ sở hạ tầng và là một nguồn
+thu ổn định đảm bảo cho các hoạt động vận hành của Tập đoàn.
+Quế Võ hiện hữu
+Quế Võ mở rộng
+Tràng Duệ 1
+Tràng Duệ 2
+Quang Châu
+Quế Võ hiện hữu
+Quế Võ mở rộng
+Tràng Duệ 1
+Tràng Duệ 2
+Quang Châu
+Tân Phú Trung
+Nam Sơn Hạp Lĩnh
+
 CƠ CẤU DOANH THU CÔNG TY MẸ
 Doanh thu cho thuê đất và chuyển nhượng BĐS
 Doanh thu cho thuê kho, nhà xưởng và văn phòng
-Doanh thu cung cấp nước sạch, điện, phí dịch vụ xử lý nước thải, 
-v.v.
+Doanh thu cung cấp nước sạch, điện, phí dịch vụ xử lý nước thải,
 Doanh thu khác
 Doanh thu hoạt động tài chính
-PHẦN III: BÁO CÁO ĐÁNH GIÁ CỦA BAN GIÁM ĐỐC 
-1. Đánh giá kết quả hoạt động kinh doanh của Công ty mẹ và Hợp nhất   
-Đơn vị: tỷ đồng 
-Chỉ tiêu 
-Công ty mẹ 
-Hợp nhất 
-Doanh thu bán hàng và dịch vụ 
-145,16 
-950,27 
- Doanh thu cho thuê đất và chuyển nhượng BĐS 
-9,81 
-1010,31 
-  Doanh thu bán nhà xưởng 
-0 
-0 
- Doanh thu cung cấp nước sạch, điện, xử lý nước thải, phí dịch vụ, 
-cho thuê kho, bán nhà xưởng, v.v.  
-135,35 
-387,17 
-Donh thu giảm trừ từ chuyển nhượng BĐS 
-0 
--447,21 
- Giá vốn bán hàng và cung cấp dịch vụ  
-96,83 
-684,52 
- Lợi nhuận gộp về bán hàng và dịch vụ  
-48,33 
-265,75 
- Tỷ lệ lợi nhuận gộp/Doanh thu bán hàng (%)  
-33,29% 
-27,97% 
-Doanh thu hoạt động tài chính  
-1473,19 
-339,65 
-Thu nhập khác 
-0,34 
-21,33 
-Phần lãi trong công ty liên kết 
-0 
-2186,82 
-Tổng doanh thu 
-1618,69 
-3498,07 
-Tổng lợi nhuận sau thuế  
-610,75 
-1576,53 
-Lợi nhuận thuộc về các cổ đông của công ty mẹ 
-  
-1526,35 
- 
-Biểu đồ cơ cấu doanh Tổng doanh thu   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-16.10%
-1.43%
-9.63%
-0.61%
-9.71%
-62.52%
+PHẦN III: BÁO CÁO ĐÁNH GIÁ CỦA BAN GIÁM ĐỐC
+1. Đánh giá kết quả hoạt động kinh doanh của Công ty mẹ và Hợp nhất
+Đơn vị: tỷ đồng
+Chỉ tiêu
+Công ty mẹ
+Hợp nhất
+Doanh thu bán hàng và dịch vụ
+Doanh thu cho thuê đất và chuyển nhượng BĐS
+Doanh thu bán nhà xưởng
+Doanh thu cung cấp nước sạch, điện, xử lý nước thải, phí dịch vụ,
+cho thuê kho, bán nhà xưởng, v.v.
+Donh thu giảm trừ từ chuyển nhượng BĐS
+Giá vốn bán hàng và cung cấp dịch vụ
+Lợi nhuận gộp về bán hàng và dịch vụ
+Tỷ lệ lợi nhuận gộp/Doanh thu bán hàng (%)
+Doanh thu hoạt động tài chính
+Thu nhập khác
+Phần lãi trong công ty liên kết
+Tổng doanh thu
+Tổng lợi nhuận sau thuế
+Lợi nhuận thuộc về các cổ đông của công ty mẹ
+Biểu đồ cơ cấu doanh Tổng doanh thu
 CƠ CẤU DOANH THU HỢP NHẤT
 Doanh thu cho thuê đất và chuyển nhượng BĐS đã giảm trừ
 Doanh thu cho thuê kho, nhà xưởng và văn phòng
-Doanh thu cung cấp nước sạch, điện, phí dịch vụ, xử lý nước thải, 
-v.v
+Doanh thu cung cấp nước sạch, điện, phí dịch vụ, xử lý nước thải,
 Doanh thu khác
 Doanh thu từ hoạt động tài chính
 Phần lãi trong công ty liên kết
 
-66 
- Trong 17.060,99 tỷ đồng Nợ phải trả thì Nợ vay và lãi vay thực của cả Tập đoàn là 9.398,81 tỷ 
-đồng, tăng 10,8% so với năm 2021. Trong đó, chủ yếu là Nợ Trái phiếu phiếu đến hạn là 3.900 
-tỷ đồng, Nợ Ngân hàng là 3.356,92 tỷ đồng, lãi phải trả cho  PVcombank là 1.760,35 tỷ đồng.  
- Tổng nợ thực tế của Tập đoàn gồm cả gốc và lãi là 9.398,81 tỷ đồng, tỷ lệ Nợ thực tế/ Tổng tài 
-sản là 26,93%; tỷ lệ Nợ thực tế/ Vốn chủ sở hữu là 52,67%. Đây là hệ số nợ an toàn với một 
-doanh nghiệp bất động sản có quy mô lớn như KBC và gần như không đổi so với năm 2021.  
- Trong năm, Tập đoàn đã thực hiện trả nợ gốc và lãi lên đến 1.955,32 tỷ đồng trong bối cảnh 
-không phát hành trái phiếu, không phát hành cổ phiếu để huy động vốn, khó tiếp cận nguồn vốn 
-tín dụng. Cho đến tận những ngày cuối năm 2022 Tập đoàn mới phát sinh một vài khoản vay 
-Ngân hàng với quy mô nhỏ. 
- Tập đoàn không có nợ xấu; không bị ảnh hưởng bởi chênh lệch tỉ giá hối đoái; không bị ảnh 
-hưởng bởi chênh lệch lãi vay (tất cả các khoản lãi vay của KBC phù hợp với mặt bằng chung 
-của lãi suất cho vay bất động sản trên thị trường). Lãi suất vay hiện tại từ 8,9% đến 14%, trong 
-đó một vài khoản vay phát sinh vào cuối năm 2022 có mức lãi suất 14% do mặt bằng lãi suất 
-chung trên thị trường đã tăng khá mạnh tại thời điểm cuối năm.    
-3. NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, CHÍNH SÁCH QUẢN LÝ 
-Cơ cấu tổ chức của Ban Giám đốc và chính sách quản lý nhân sự của năm 2022 không thay đổi so với 
-năm 2021. KBC là Tập đoàn có đội ngũ Ban lãnh đạo, cán bộ nòng cốt ổn định, duy trì sự gắn kết bền 
-lâu với Công ty.  
-Trong năm, Ban lãnh đạo Tổng Công ty đã có những quyết định quan trọng về việc bổ sung nhân sự 
-nòng cốt để xây dựng Tập đoàn ngày một lớn mạnh, chuyên nghiệp, chuyên môn hóa hơn. Các phòng 
-ban Kế toán, Truyền thông, Hành chính - Nhân sự, v.v đã và đang tuyển hàng loạt nhân sự mới. Tổng 
-Công ty vẫn đang tiếp tục tìm kiếm những nhận sự kế nhiệm để trở thành cán bộ nòng cốt.  
-4. KẾ HOẠCH PHÁT TRIỂN 2023 
-Các kế hoạch kinh doanh trọng điểm trong năm 2023 của Tổng Công Ty như sau:  
-4.1 Triển khai kế hoạch đầu tư kinh doanh đột phá đối với các KCN đang hoạt động:  
-Các KCN Nam Sơn Hạp Lĩnh - Bắc Ninh, KCN Quang Châu & Quang Châu mở rộng -  Bắc Giang , 
-KCN Tân Phú Trung - Thành phố Hồ Chí Minh có vai trò quan trọng trong việc đóng góp vào kế 
-hoạch Doanh thu - Lợi Nhuận,  tích lũy nguồn lực tài chính để đảm bảo Năng lực tài chính vững mạnh 
-của Tổng Công ty trong năm 2023 trong bối cảnh nền kinh tế vĩ mô và thị trường vốn còn rất nhiều 
-khó khăn. Các KCN này sẽ tập trung vào các nhiệm vụ quan trọng sau:  
- Đền bù: Các KCN tập trung hoàn thiện đền bù đạt tỷ lệ 100% diện tích còn lại. Trong đó, diện 
-tích còn phải đền bù tại các KCN còn là (KCN Nam Sơn Hạp Lĩnh còn 108,3 ha ; KCN Quang 
-Châu mở rộng còn 38,1ha; KCN Tân Phú Trung 33,2ha).  
- Hoàn thiện hạ tầng: Là nhiệm vụ quan trọng của tất cả các KCN nêu trên để bàn giao đất 
-sớm nhất ước tính gần 170ha cho các khách hàng đã ký kết các Thỏa thuận nguyên tắc, đảm 
+ Trong 17.060,99 tỷ đồng Nợ phải trả thì Nợ vay và lãi vay thực của cả Tập đoàn là 9.398,81 tỷ
+đồng, tăng 10,8% so với năm 2021. Trong đó, chủ yếu là Nợ Trái phiếu phiếu đến hạn là 3.900
+tỷ đồng, Nợ Ngân hàng là 3.356,92 tỷ đồng, lãi phải trả cho  PVcombank là 1.760,35 tỷ đồng.
+ Tổng nợ thực tế của Tập đoàn gồm cả gốc và lãi là 9.398,81 tỷ đồng, tỷ lệ Nợ thực tế/ Tổng tài
+sản là 26,93%; tỷ lệ Nợ thực tế/ Vốn chủ sở hữu là 52,67%. Đây là hệ số nợ an toàn với một
+doanh nghiệp bất động sản có quy mô lớn như KBC và gần như không đổi so với năm 2021.
+ Trong năm, Tập đoàn đã thực hiện trả nợ gốc và lãi lên đến 1.955,32 tỷ đồng trong bối cảnh
+không phát hành trái phiếu, không phát hành cổ phiếu để huy động vốn, khó tiếp cận nguồn vốn
+tín dụng. Cho đến tận những ngày cuối năm 2022 Tập đoàn mới phát sinh một vài khoản vay
+Ngân hàng với quy mô nhỏ.
+ Tập đoàn không có nợ xấu; không bị ảnh hưởng bởi chênh lệch tỉ giá hối đoái; không bị ảnh
+hưởng bởi chênh lệch lãi vay (tất cả các khoản lãi vay của KBC phù hợp với mặt bằng chung
+của lãi suất cho vay bất động sản trên thị trường). Lãi suất vay hiện tại từ 8,9% đến 14%, trong
+đó một vài khoản vay phát sinh vào cuối năm 2022 có mức lãi suất 14% do mặt bằng lãi suất
+chung trên thị trường đã tăng khá mạnh tại thời điểm cuối năm.
+3. NHỮNG CẢI TIẾN VỀ CƠ CẤU TỔ CHỨC, CHÍNH SÁCH QUẢN LÝ
+Cơ cấu tổ chức của Ban Giám đốc và chính sách quản lý nhân sự của năm 2022 không thay đổi so với
+năm 2021. KBC là Tập đoàn có đội ngũ Ban lãnh đạo, cán bộ nòng cốt ổn định, duy trì sự gắn kết bền
+lâu với Công ty.
+Trong năm, Ban lãnh đạo Tổng Công ty đã có những quyết định quan trọng về việc bổ sung nhân sự
+nòng cốt để xây dựng Tập đoàn ngày một lớn mạnh, chuyên nghiệp, chuyên môn hóa hơn. Các phòng
+ban Kế toán, Truyền thông, Hành chính - Nhân sự, v.v đã và đang tuyển hàng loạt nhân sự mới. Tổng
+Công ty vẫn đang tiếp tục tìm kiếm những nhận sự kế nhiệm để trở thành cán bộ nòng cốt.
+4. KẾ HOẠCH PHÁT TRIỂN 2023
+Các kế hoạch kinh doanh trọng điểm trong năm 2023 của Tổng Công Ty như sau:
+4.1 Triển khai kế hoạch đầu tư kinh doanh đột phá đối với các KCN đang hoạt động:
+Các KCN Nam Sơn Hạp Lĩnh - Bắc Ninh, KCN Quang Châu & Quang Châu mở rộng -  Bắc Giang ,
+KCN Tân Phú Trung - Thành phố Hồ Chí Minh có vai trò quan trọng trong việc đóng góp vào kế
+hoạch Doanh thu - Lợi Nhuận,  tích lũy nguồn lực tài chính để đảm bảo Năng lực tài chính vững mạnh
+của Tổng Công ty trong năm 2023 trong bối cảnh nền kinh tế vĩ mô và thị trường vốn còn rất nhiều
+khó khăn. Các KCN này sẽ tập trung vào các nhiệm vụ quan trọng sau:
+ Đền bù: Các KCN tập trung hoàn thiện đền bù đạt tỷ lệ 100% diện tích còn lại. Trong đó, diện
+tích còn phải đền bù tại các KCN còn là (KCN Nam Sơn Hạp Lĩnh còn 108,3 ha ; KCN Quang
+Châu mở rộng còn 38,1ha; KCN Tân Phú Trung 33,2ha).
+ Hoàn thiện hạ tầng: Là nhiệm vụ quan trọng của tất cả các KCN nêu trên để bàn giao đất
+sớm nhất ước tính gần 170ha cho các khách hàng đã ký kết các Thỏa thuận nguyên tắc, đảm
 bảo kế hoạch dòng tiền và ghi nhận doanh thu.
 
-71 
-PHẦN IV: BÁO CÁO ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN 
-TRỊ (HĐQT) VỀ HOẠT ĐỘNG CỦA TỔNG CÔNG TY  
- 
-1. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG  CÔNG TY 
- 
-Hoạt động sản xuất kinh doanh 
-Trong năm 2022, HĐQT ghi nhận nỗ lực của Ban lãnh đạo Tổng Công ty (BLĐ - TCT) đã nắm bắt 
-các cơ hội để hoàn thành ký kết hàng loạt các hợp đồng lớn trong bối cảnh nền kinh tế chung vô cùng 
-khó khăn. Mặc dù, các thỏa thuận thuê đất lên đến 107 ha đã ký trong năm 2022 chưa được ghi nhận 
-vào kết quả kinh doanh dẫn đến KBC chưa đạt kế hoạch doanh thu & lợi nhuận trong năm 2022 mà 
-ĐHĐCĐ đã phê duyệt. Nhưng đây vẫn được xem là thành quả lớn trong năm 2022.  
-HĐQT đặc biệt đánh giá cao sự nỗ lực của BLĐ - TCT về việc phát triển quỹ đất mới cho Tổng công 
-ty tăng lên 1.170,7 ha đất KCN; 85,1 ha đất nhà ở xã hội; 60,7 ha đất xây dựng nhà máy chủ yếu ở  
-Long An và Quảng Ninh. 
-Trong năm, kết quả kinh doanh cốt lõi của KBC đã được ghi nhận chủ yếu từ việc cho thuê 19,6 ha đất 
-KCN Tân Phú Trung, 16,6 ha tại KCN Nhơn Hội A và doanh thu từ dịch vụ cung cấp nước sạch, xử lý 
-nước thải, phí dịch vụ, v.v.  
-Ngoài ra, trong năm KBC đã nhận chuyển nhượng cổ phần tại Công ty cổ phần Đầu tư Sài Gòn – Đà 
-Nẵng và đã ghi nhận 2.182,3 tỷ đồng từ giao dịch này vào phần lãi trong công ty liên kết do chênh lệch 
-giữa giá trị tài sản thuần của Công ty Sài Gòn – Đà Nẵng và giá mua. Đây là giao dịch thực sự mang 
-lại lợi ích cho cổ đông khi Tổng Công ty đã hợp nhất được một tài sản có giá trị lớn với chi phí thấp. 
-Đây là “chiến lược đặc biệt” của Tổng Công ty từ khi thành lập mà không phải Cổ đông, hay nhà đầu 
-tư nào cũng hiểu. KBC luôn cùng các đối tác tham gia thành lập các dự án ngay từ ban đầu, mặc dù với 
-tỷ lệ góp vốn ban đầu của KBC là thấp, nhưng xuyên suốt quá trình phát triển dự án  đội ngũ nhân sự 
-của KBC đã tham gia cố vấn các hoạt động đầu tư, kinh doanh của dự án. Cho đến khi dự án phát triển 
-lớn mạnh, KBC sẽ dễ dàng sáp nhập vào Tổng công ty.  
-Dưới đây là một số chỉ tiêu mà KBC đã ghi nhận trong năm 2022  
- Kết quả kinh doanh của Tổng công ty năm 2022 đạt được như sau:  
- Tổng doanh thu Tập đoàn đạt 3.498,07 tỷ đồng, bằng 72,39% so với năm 2021, bằng 35,69% 
-so với kế hoạch.  
- Lợi nhuận hợp nhất sau thuế của Tập đoàn đạt 1.576,53 tỷ đồng, bằng 116,63% so với năm 
-2021, bằng 35,03% so với kế hoạch. Lợi ích thuộc về cổ đông công ty mẹ đạt 1.526,35 tỷ 
-đồng bằng 139,41% so với năm 2021.  
-Mặc dù với kết quả kinh doanh 2022 chưa đạt như kế hoạch. HĐQT đánh giá tích cực nỗ lực kinh 
-doanh mà Tập đoàn đã thực hiện như đã nêu ở trên.  
-Ngoài ra các hoạt động đầu tư và quản trị tài chính trong năm đã trình bày trong báo cáo 
+PHẦN IV: BÁO CÁO ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN
+TRỊ (HĐQT) VỀ HOẠT ĐỘNG CỦA TỔNG CÔNG TY
+1. ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA TỔNG  CÔNG TY
+Hoạt động sản xuất kinh doanh
+Trong năm 2022, HĐQT ghi nhận nỗ lực của Ban lãnh đạo Tổng Công ty (BLĐ - TCT) đã nắm bắt
+các cơ hội để hoàn thành ký kết hàng loạt các hợp đồng lớn trong bối cảnh nền kinh tế chung vô cùng
+khó khăn. Mặc dù, các thỏa thuận thuê đất lên đến 107 ha đã ký trong năm 2022 chưa được ghi nhận
+vào kết quả kinh doanh dẫn đến KBC chưa đạt kế hoạch doanh thu & lợi nhuận trong năm 2022 mà
+ĐHĐCĐ đã phê duyệt. Nhưng đây vẫn được xem là thành quả lớn trong năm 2022.
+HĐQT đặc biệt đánh giá cao sự nỗ lực của BLĐ - TCT về việc phát triển quỹ đất mới cho Tổng công
+ty tăng lên 1.170,7 ha đất KCN; 85,1 ha đất nhà ở xã hội; 60,7 ha đất xây dựng nhà máy chủ yếu ở
+Long An và Quảng Ninh.
+Trong năm, kết quả kinh doanh cốt lõi của KBC đã được ghi nhận chủ yếu từ việc cho thuê 19,6 ha đất
+KCN Tân Phú Trung, 16,6 ha tại KCN Nhơn Hội A và doanh thu từ dịch vụ cung cấp nước sạch, xử lý
+nước thải, phí dịch vụ, v.v.
+Ngoài ra, trong năm KBC đã nhận chuyển nhượng cổ phần tại Công ty cổ phần Đầu tư Sài Gòn – Đà
+Nẵng và đã ghi nhận 2.182,3 tỷ đồng từ giao dịch này vào phần lãi trong công ty liên kết do chênh lệch
+giữa giá trị tài sản thuần của Công ty Sài Gòn – Đà Nẵng và giá mua. Đây là giao dịch thực sự mang
+lại lợi ích cho cổ đông khi Tổng Công ty đã hợp nhất được một tài sản có giá trị lớn với chi phí thấp.
+Đây là “chiến lược đặc biệt” của Tổng Công ty từ khi thành lập mà không phải Cổ đông, hay nhà đầu
+tư nào cũng hiểu. KBC luôn cùng các đối tác tham gia thành lập các dự án ngay từ ban đầu, mặc dù với
+tỷ lệ góp vốn ban đầu của KBC là thấp, nhưng xuyên suốt quá trình phát triển dự án  đội ngũ nhân sự
+của KBC đã tham gia cố vấn các hoạt động đầu tư, kinh doanh của dự án. Cho đến khi dự án phát triển
+lớn mạnh, KBC sẽ dễ dàng sáp nhập vào Tổng công ty.
+Dưới đây là một số chỉ tiêu mà KBC đã ghi nhận trong năm 2022
+ Kết quả kinh doanh của Tổng công ty năm 2022 đạt được như sau:
+ Tổng doanh thu Tập đoàn đạt 3.498,07 tỷ đồng, bằng 72,39% so với năm 2021, bằng 35,69%
+so với kế hoạch.
+ Lợi nhuận hợp nhất sau thuế của Tập đoàn đạt 1.576,53 tỷ đồng, bằng 116,63% so với năm
+2021, bằng 35,03% so với kế hoạch. Lợi ích thuộc về cổ đông công ty mẹ đạt 1.526,35 tỷ
+đồng bằng 139,41% so với năm 2021.
+Mặc dù với kết quả kinh doanh 2022 chưa đạt như kế hoạch. HĐQT đánh giá tích cực nỗ lực kinh
+doanh mà Tập đoàn đã thực hiện như đã nêu ở trên.
+Ngoài ra các hoạt động đầu tư và quản trị tài chính trong năm đã trình bày trong báo cáo
 này đều đã được HĐQT thống nhất và thông qua.
 
-74 
-đầu tư, thiết lập các chương trình xúc tiến đầu tư bằng cả hình thức trực tiếp, trực tuyến, lập các kế 
-hoạch chi tiết, chỉ đạo các phòng ban để thúc đẩy việc thành lập các dự án mới trên địa bàn tỉnh Hưng 
-Yên, Hải Dương, Quảng Ninh, Tây Ninh, Vũng Tàu, Tiền Giang, v.v; Cân đối, sử dụng dòng tiền hợp 
-lý, nâng cao công tác quản trị rủi ro liên quan đến các hoạt động đầu tư, kinh doanh của Tổng công ty. 
-3. ĐỀ XUẤT CÁC KẾ HOẠCH HOẠT ĐỘNG CHO NĂM 2023 CỦA HĐQT  
-- 
-Thực hiện phê duyệt, giám sát các kế hoạch đầu tư, kinh doanh cho các dự án trọng điểm như: 
-Dự án KCN Nam Sơn Hạp Lĩnh, KCN Quang Châu mở rộng, KCN Tân Phú Trung, KCN Tràng 
-Duệ 3, Cụm công nghiệp Long An, Hưng Yên, KĐT Tràng Duệ, KĐT Phúc Ninh và KĐT 
-Tràng Cát, các dự án Nhà ở xã hội.  
-- 
-Chủ trì triển khai các đề án thành lập các dự án mới tại Hưng Yên, Hải Dương, Quảng Ninh, 
-Tây Ninh, Vũng Tàu, Tiền Giang, v.v.  
-- 
-Giao Ban lãnh đạo của Tổng Công ty lập các phương án cân đối dòng tiền, huy động nguồn 
-vốn, xây dựng phương án tài chính phù hợp, cân đối với các hoạt động đầu tư và thanh toán các 
-khoản nợ đến hạn. 
-- 
-Tăng cường giám sát công tác quản trị rủi ro, đảm bảo các chỉ số tài chính an toàn, cải thiện.  
-- 
-Duy trì, xây dựng đội ngũ chuyên gia thường xuyên cập nhật tin tức, tình hình kinh tế vĩ mô, 
-tình hình tài chính, các thay đổi trong chính sách để HĐQT, Ban TGĐ kịp thời đưa ra các chiến 
-lược, chính sách mới phù hợp với tình hình thực tế.  
-- 
-Tăng cường công tác quảng bá, xúc tiến đầu tư thương mại, đón tiếp và làm việc với các tập 
-đoàn đầu tư nước ngoài.  
-- 
-Giao Ban TGĐ KBC chú trọng thực hiện tốt công tác quan hệ cổ đông, thường xuyên theo dõi 
-các biến động sở hữu của các cổ đông lớn. Thực hiện tốt việc công bố thông tin kịp thời, chính 
-xác tới các cơ quan chức năng, cổ đông và nhà đầu tư.   
-- 
-Xây dựng và phát triển đội ngũ nhân sự chuyên nghiệp, có trình độ, kinh nghiệm, nhiệt huyết, 
-chủ động tham gia các khóa đào tạo nâng cao năng lực quản trị doanh nghiệp theo theo tiêu 
-chuẩn của Công ty niêm yết. Tiếp tục phát triển chính sách lương, thưởng và nâng cao các chế 
-độ đãi ngộ cho cán bộ công nhân viên, tạo môi trường làm việc chuyên nghiệp, an toàn và thoải 
-mái, khuyến khích sự sáng tạo của nhân viên 
- 
- 
- 
- 
- 
- 
+đầu tư, thiết lập các chương trình xúc tiến đầu tư bằng cả hình thức trực tiếp, trực tuyến, lập các kế
+hoạch chi tiết, chỉ đạo các phòng ban để thúc đẩy việc thành lập các dự án mới trên địa bàn tỉnh Hưng
+Yên, Hải Dương, Quảng Ninh, Tây Ninh, Vũng Tàu, Tiền Giang, v.v; Cân đối, sử dụng dòng tiền hợp
+lý, nâng cao công tác quản trị rủi ro liên quan đến các hoạt động đầu tư, kinh doanh của Tổng công ty.
+3. ĐỀ XUẤT CÁC KẾ HOẠCH HOẠT ĐỘNG CHO NĂM 2023 CỦA HĐQT
+Thực hiện phê duyệt, giám sát các kế hoạch đầu tư, kinh doanh cho các dự án trọng điểm như:
+Dự án KCN Nam Sơn Hạp Lĩnh, KCN Quang Châu mở rộng, KCN Tân Phú Trung, KCN Tràng
+Duệ 3, Cụm công nghiệp Long An, Hưng Yên, KĐT Tràng Duệ, KĐT Phúc Ninh và KĐT
+Tràng Cát, các dự án Nhà ở xã hội.
+Chủ trì triển khai các đề án thành lập các dự án mới tại Hưng Yên, Hải Dương, Quảng Ninh,
+Tây Ninh, Vũng Tàu, Tiền Giang, v.v.
+Giao Ban lãnh đạo của Tổng Công ty lập các phương án cân đối dòng tiền, huy động nguồn
+vốn, xây dựng phương án tài chính phù hợp, cân đối với các hoạt động đầu tư và thanh toán các
+khoản nợ đến hạn.
+Tăng cường giám sát công tác quản trị rủi ro, đảm bảo các chỉ số tài chính an toàn, cải thiện.
+Duy trì, xây dựng đội ngũ chuyên gia thường xuyên cập nhật tin tức, tình hình kinh tế vĩ mô,
+tình hình tài chính, các thay đổi trong chính sách để HĐQT, Ban TGĐ kịp thời đưa ra các chiến
+lược, chính sách mới phù hợp với tình hình thực tế.
+Tăng cường công tác quảng bá, xúc tiến đầu tư thương mại, đón tiếp và làm việc với các tập
+đoàn đầu tư nước ngoài.
+Giao Ban TGĐ KBC chú trọng thực hiện tốt công tác quan hệ cổ đông, thường xuyên theo dõi
+các biến động sở hữu của các cổ đông lớn. Thực hiện tốt việc công bố thông tin kịp thời, chính
+xác tới các cơ quan chức năng, cổ đông và nhà đầu tư.
+Xây dựng và phát triển đội ngũ nhân sự chuyên nghiệp, có trình độ, kinh nghiệm, nhiệt huyết,
+chủ động tham gia các khóa đào tạo nâng cao năng lực quản trị doanh nghiệp theo theo tiêu
+chuẩn của Công ty niêm yết. Tiếp tục phát triển chính sách lương, thưởng và nâng cao các chế
+độ đãi ngộ cho cán bộ công nhân viên, tạo môi trường làm việc chuyên nghiệp, an toàn và thoải
+mái, khuyến khích sự sáng tạo của nhân viên
 Tập đoàn áp dụng tối đa các phương tiện điện tử trong việc quản trị các hoạt động của công ty
 
-76 
-- 
-Cùng với Ban Tổng Giám đốc đánh giá tình hình kinh tế vĩ mô trong và ngoài nước, chính sách 
-kiểm soát và cơ cấu lại tín dụng trong nước để có biện pháp kịp thời đảm bảo các hoạt động 
-kinh doanh năm 2022. 
-- 
-Hoàn thành giao dịch bán toàn bộ 5.950.978 cổ phiếu quỹ với giá giao dịch bình quân là 56.246 
-đồng/cổ phiếu và 01 đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu với 
-tổng số cổ phiếu sau đợt phát hành là 767.604.759 cổ phiếu, đưa vốn điều lệ của KBC tăng từ 
-5.757.111.670.000 đồng lên 7.676.047.590.000 đồng. 
-- 
-Tổ chức, giám sát thực hiện nghiêm túc chế độ báo cáo tài chính.  
-- 
-Giám sát thực hiện các Nghị Quyết của HĐQT và ĐHĐCĐ đã ban hành. 
-- 
-Cùng Ban Tổng Giám đốc làm việc với các cơ quan nhà nước ở các tỉnh thành thúc đẩy việc 
-hoàn thiện thủ tục pháp lý các dự án mà Tổng Công ty đang triển khai, v.v. 
-- 
- Cùng Ban Tổng Giám đốc thực hiện các cuộc họp, đàm phán với các nhà đầu tư nước ngoài 
-bằng hình thức trực tiếp và trực tuyến.  
-- 
-Giám sát chặt chẽ công tác quản trị công ty, quản lý rủi ro các hoạt động đầu tư, kinh doanh, 
-quản lý dòng tiền và kế hoạch tài chính phù hợp. 
-Nội dung và kết quả các cuộc họp HĐQT trong năm 2022 
-Trong năm 2022, HĐQT đã thực hiện 36 cuộc họp, với tỷ lệ thành viên HĐQT tham dự và tỷ lệ thông 
-qua đều đạt 100%. Nội dung và kết quả các cuộc họp này được thể hiện trong bảng kê dưới đây: 
-STT  
-Ngày 
-Số Nghị quyết/ Quyết định 
-đưa ra tại cuộc họp 
-Nội dung 
-Tỷ lệ 
-thông 
-qua 
-1 
-04/01/2022 
-0401/2022/KBC/NQ-HĐQT 
-Thông qua tổng mức thù lao của HĐQT, BKS và lương 
-của Trưởng Ban kiểm soát năm 2021 
-100 % 
-0401-1/2022/KBC/QĐ-
-CTHĐQT 
-Quyết định của Chủ tịch HĐQT phê duyệt mức thù lao 
-năm 2021 cho các thành viên HĐQT, BKS 
- 
-2 
-13/01/2022 
-1301/2022/KBC/NQ-HĐQT 
-Thông qua thời điểm kết thúc nhiệm kỳ 2017 – 2022 và 
-bầu nhiệm kỳ 2022 – 2027 của HĐQT, BKS 
-100 % 
-1301-1/2022/KBC/NQ-
-HĐQT 
-Thông qua chương trình họp và dự thảo tài liệu ĐHĐCĐ 
-bất thường năm 2022 lần 1 
-100 % 
-3 
-17/01/2022 1701/2022/KBC/NQ-HĐQT 
-Thông qua phương án bán cổ phiếu quỹ 
-100 % 
-4 
-20/01/2022 2001/2022/KBC/NQ-HĐQT 
-Thông qua phương án bán cổ phiếu quỹ 
-100 % 
-5 
-25/01/2022 
-2501/2022/KBC/NQ-HĐQT 
-Phê duyệt Báo cáo nghiên cứu khả thi Dự án Nhà máy 
-xử lý nước thải công suất 9.000 m3/ ngđ KCN Nam Sơn 
-– Hạp Lĩnh 
-100 % 
-2501-1/2022/KBC/NQ-
-HĐQT 
-Phê duyệt Thiết kế bản vẽ thi công Dự án Nhà máy xử 
-lý nước thải công suất 9.000 m3/ ngđ KCN Nam Sơn – 
-Hạp Lĩnh 
-100 % 
-6 
-07/02/2022 0702/2022/KBC/NQ-HĐQT 
-Thông qua danh sách ứng viên được đề cử, ứng cử thành 
-viên HĐQT, BKS nhiệm kỳ 2022 – 2027 của Tổng Công 
-ty 
-100 %
+Cùng với Ban Tổng Giám đốc đánh giá tình hình kinh tế vĩ mô trong và ngoài nước, chính sách
+kiểm soát và cơ cấu lại tín dụng trong nước để có biện pháp kịp thời đảm bảo các hoạt động
+kinh doanh năm 2022.
+Hoàn thành giao dịch bán toàn bộ 5.950.978 cổ phiếu quỹ với giá giao dịch bình quân là 56.246
+đồng/cổ phiếu và 01 đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu với
+tổng số cổ phiếu sau đợt phát hành là 767.604.759 cổ phiếu, đưa vốn điều lệ của KBC tăng từ
+Giám sát thực hiện các Nghị Quyết của HĐQT và ĐHĐCĐ đã ban hành.
+Cùng Ban Tổng Giám đốc làm việc với các cơ quan nhà nước ở các tỉnh thành thúc đẩy việc
+hoàn thiện thủ tục pháp lý các dự án mà Tổng Công ty đang triển khai, v.v.
+Cùng Ban Tổng Giám đốc thực hiện các cuộc họp, đàm phán với các nhà đầu tư nước ngoài
+bằng hình thức trực tiếp và trực tuyến.
+Giám sát chặt chẽ công tác quản trị công ty, quản lý rủi ro các hoạt động đầu tư, kinh doanh,
+quản lý dòng tiền và kế hoạch tài chính phù hợp.
+Nội dung và kết quả các cuộc họp HĐQT trong năm 2022
+Trong năm 2022, HĐQT đã thực hiện 36 cuộc họp, với tỷ lệ thành viên HĐQT tham dự và tỷ lệ thông
+qua đều đạt 100%. Nội dung và kết quả các cuộc họp này được thể hiện trong bảng kê dưới đây:
+Ngày
+Số Nghị quyết/ Quyết định
+đưa ra tại cuộc họp
+Nội dung
+Tỷ lệ
+thông
+Thông qua tổng mức thù lao của HĐQT, BKS và lương
+của Trưởng Ban kiểm soát năm 2021
+CTHĐQT
+Quyết định của Chủ tịch HĐQT phê duyệt mức thù lao
+năm 2021 cho các thành viên HĐQT, BKS
+Thông qua thời điểm kết thúc nhiệm kỳ 2017 – 2022 và
+bầu nhiệm kỳ 2022 – 2027 của HĐQT, BKS
+HĐQT
+Thông qua chương trình họp và dự thảo tài liệu ĐHĐCĐ
+bất thường năm 2022 lần 1
+Thông qua phương án bán cổ phiếu quỹ
+Thông qua phương án bán cổ phiếu quỹ
+Phê duyệt Báo cáo nghiên cứu khả thi Dự án Nhà máy
+xử lý nước thải công suất 9.000 m3/ ngđ KCN Nam Sơn
+– Hạp Lĩnh
+HĐQT
+Phê duyệt Thiết kế bản vẽ thi công Dự án Nhà máy xử
+lý nước thải công suất 9.000 m3/ ngđ KCN Nam Sơn –
+Hạp Lĩnh
+Thông qua danh sách ứng viên được đề cử, ứng cử thành
+viên HĐQT, BKS nhiệm kỳ 2022 – 2027 của Tổng Công
 
-82 
-2. BAN KIỂM SOÁT 
-Thành viên Ban kiểm soát 
-STT 
-Thành viên HĐQT 
-Chức vụ 
-Tỷ lệ sở hữu 
-Ghi chú 
-1 
-Bà Nguyễn Bích Ngọc  
-Trưởng ban 
-0 % 
-Tái bổ nhiệm ngày 
-10/02/2022 cho nhiệm 
-kỳ 2022-2027 
-2 
-Bà Thế Thị Minh Hồng 
-Thành viên 
-0% 
-3 
-Ông Trần Tiến Thành  
-Thành viên 
-0% 
-Hoạt động của Ban kiểm soát năm 2022 
-Trong năm 2022, Ban Kiểm soát Tổng Công ty Phát triển Đô thị Kinh Bắc đã thực hiện các nhiệm vụ 
-chính bao gồm: 
-- 
-Ban Kiểm soát đã tiến hành kiểm tra, rà soát các số liệu liên quan đến hoạt động kinh doanh 
-của Tổng công ty, các Nghị quyết của HĐQT, giám sát tình hình đầu tư các dự án, cơ sở thực 
-hiện các kế hoạch và mục tiêu của HĐQT đã thông qua trong cuộc họp. Dựa trên các Nghị 
-quyết của ĐHĐCĐ, Nghị quyết của HĐQT, các đề xuất của Ban TGĐ, Ban Kiểm soát cũng 
-đã đưa ra những đánh giá kiến nghị cho HĐQT và Ban TGĐ; 
-- 
-Giám sát các hoạt động quản lý tài chính và lập các Báo cáo tài chính đảm bảo tính trung thực 
-và hợp lý  của các số liệu tài chính được đưa ra; Thực hiện trao đổi thông tin với Kiểm toán 
-độc lập được chỉ định trong quá trình kiểm toán các Báo cáo tài chính; 
-- 
-Xem xét, đánh giá hoạt động điều hành và quản trị nội bộ của HĐQT, các thành viên HĐQT, 
-các thành viên Ban TGĐ, các cán bộ lãnh đạo dựa trên tiêu chí đảm bảo lợi ích của cổ đông 
-và Tổng Công ty;  
-- 
-Xem xét, đánh giá và đưa ra kiến nghị đối với sự phối hợp hoạt động của các bộ phận trong 
-quy trình quản lý và điều hành doanh nghiệp; 
-- 
-Ban Kiểm soát có 3 thành viên, trong đó 01 Trưởng BKS chuyên trách và 02 Kiểm soát viên. 
-Các kiểm soát viên đều hoạt động độc lập, không giữ các chức vụ quản lý, không làm việc tại 
-bộ phận Kế toán, Kiểm toán của Tổng công ty.  
-Trong quá trình hoạt động, BKS đã được HĐQT và Ban Tổng giám đốc tạo mọi điều kiện để thực thi 
-nhiệm vụ. BKS đã nhận được đầy đủ các Nghị quyết của HĐQT, các báo cáo liên quan đến tình hình 
-hoạt động kinh doanh, các báo cáo tài chính hàng quý, bán niên, báo cáo tài chính năm của Công ty 
-và tham gia các cuộc họp do Ban Tổng giám đốc triệu tập liên quan đến việc triển khai các kế hoạch 
-hoạt động của Tổng Công ty.   
-Trong năm 2022, BKS không nhận được bất kỳ khiếu nại nào của Cổ đông Công ty đối với các hoạt 
+2. BAN KIỂM SOÁT
+Thành viên Ban kiểm soát
+Thành viên HĐQT
+Chức vụ
+Tỷ lệ sở hữu
+Ghi chú
+Bà Nguyễn Bích Ngọc
+Trưởng ban
+Tái bổ nhiệm ngày
+Bà Thế Thị Minh Hồng
+Thành viên
+Ông Trần Tiến Thành
+Thành viên
+Hoạt động của Ban kiểm soát năm 2022
+Trong năm 2022, Ban Kiểm soát Tổng Công ty Phát triển Đô thị Kinh Bắc đã thực hiện các nhiệm vụ
+chính bao gồm:
+Ban Kiểm soát đã tiến hành kiểm tra, rà soát các số liệu liên quan đến hoạt động kinh doanh
+của Tổng công ty, các Nghị quyết của HĐQT, giám sát tình hình đầu tư các dự án, cơ sở thực
+hiện các kế hoạch và mục tiêu của HĐQT đã thông qua trong cuộc họp. Dựa trên các Nghị
+quyết của ĐHĐCĐ, Nghị quyết của HĐQT, các đề xuất của Ban TGĐ, Ban Kiểm soát cũng
+đã đưa ra những đánh giá kiến nghị cho HĐQT và Ban TGĐ;
+Giám sát các hoạt động quản lý tài chính và lập các Báo cáo tài chính đảm bảo tính trung thực
+và hợp lý  của các số liệu tài chính được đưa ra; Thực hiện trao đổi thông tin với Kiểm toán
+độc lập được chỉ định trong quá trình kiểm toán các Báo cáo tài chính;
+Xem xét, đánh giá hoạt động điều hành và quản trị nội bộ của HĐQT, các thành viên HĐQT,
+các thành viên Ban TGĐ, các cán bộ lãnh đạo dựa trên tiêu chí đảm bảo lợi ích của cổ đông
+và Tổng Công ty;
+Xem xét, đánh giá và đưa ra kiến nghị đối với sự phối hợp hoạt động của các bộ phận trong
+quy trình quản lý và điều hành doanh nghiệp;
+Ban Kiểm soát có 3 thành viên, trong đó 01 Trưởng BKS chuyên trách và 02 Kiểm soát viên.
+Các kiểm soát viên đều hoạt động độc lập, không giữ các chức vụ quản lý, không làm việc tại
+bộ phận Kế toán, Kiểm toán của Tổng công ty.
+Trong quá trình hoạt động, BKS đã được HĐQT và Ban Tổng giám đốc tạo mọi điều kiện để thực thi
+nhiệm vụ. BKS đã nhận được đầy đủ các Nghị quyết của HĐQT, các báo cáo liên quan đến tình hình
+hoạt động kinh doanh, các báo cáo tài chính hàng quý, bán niên, báo cáo tài chính năm của Công ty
+và tham gia các cuộc họp do Ban Tổng giám đốc triệu tập liên quan đến việc triển khai các kế hoạch
+hoạt động của Tổng Công ty.
+Trong năm 2022, BKS không nhận được bất kỳ khiếu nại nào của Cổ đông Công ty đối với các hoạt
 động chỉ đạo, điều hành của HĐQT, Ban TGĐ và các bộ quản lý khác.
 
-88 
-PHẦN VI: BÁO CÁO TÀI CHÍNH ĐÃ ĐƯỢC KIỂM TOÁN  
- 
- 
- 
-Số tham chiếu: 60774739/66876299/HN 
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP 
- 
-Kính gửi: Các cổ đông của Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP 
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Tổng Công ty Phát triển Đô thị Kinh 
-Bắc - CTCP (“Công ty”) và các công ty con (sau đây được gọi chung là “Tập đoàn”) được lập ngày 
-29 tháng 3 năm 2023 và được trình bày từ trang 6 đến trang 68, bao gồm bảng cân đối kế toán hợp 
-nhất tại ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu 
-chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính 
-hợp nhất kèm theo.  
-Trách nhiệm của Ban Tổng Giám đốc  
-Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo 
-tài chính hợp nhất của Tập đoàn theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp 
-Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất 
-và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho 
-việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn. 
-Trách nhiệm của Kiểm toán viên 
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc 
-kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn 
-mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch 
-và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất 
-của Tập đoàn có còn sai sót trọng yếu hay không. 
-Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các 
-số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên 
-xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp 
-nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét 
-kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung 
-thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm 
-mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao 
-gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính 
-kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất. 
-Ernst & Young Viet Nam Limited 
-Tầng 8, Tòa nhà CornerStore Building  
-16 Phan Chu Trinh – Hoàn Kiếm – Hà Nội Việt Nam  
-Tel: 84 24 3831 5100 & Fax: 84 24 3831 5090
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+Kính gửi: Các cổ đông của Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Tổng Công ty Phát triển Đô thị Kinh
+Bắc - CTCP (“Công ty”) và các công ty con (sau đây được gọi chung là “Tập đoàn”) được lập ngày
+29 tháng 3 năm 2023 và được trình bày từ trang 6 đến trang 68, bao gồm bảng cân đối kế toán hợp
+nhất tại ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu
+chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính
+hợp nhất kèm theo.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo
+tài chính hợp nhất của Tập đoàn theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp
+Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất
+và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho
+việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc
+kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn
+mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch
+và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất
+của Tập đoàn có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các
+số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên
+xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp
+nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét
+kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung
+thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm
+mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao
+gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính
+kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+Ernst & Young Viet Nam Limited
+Tầng 8, Tòa nhà CornerStore Building
+16 Phan Chu Trinh – Hoàn Kiếm – Hà Nội Việt Nam

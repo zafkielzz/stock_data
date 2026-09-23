@@ -3,604 +3,1009 @@ CHƯƠNG 2
 CHƯƠNG 3
 CHƯƠNG 4
 CHƯƠNG 5
-GIỚI THIỆU CHUNG  
+GIỚI THIỆU CHUNG
 VỀ KHANG ĐIỀN
 LỜI GIỚI THIỆU
-BÁO CÁO TÌNH HÌNH  
-HOẠT ĐỘNG TRONG NĂM 
+BÁO CÁO TÌNH HÌNH
+HOẠT ĐỘNG TRONG NĂM
 QUẢN TRỊ
 DOANH NGHIỆP
-BÁO CÁO  
+BÁO CÁO
 PHÁT TRIỂN BỀN VỮNG
-BÁO CÁO TÀI CHÍNH
 Tầm nhìn và Sứ mệnh
-6
-Định hướng phát triển 
-8
+Định hướng phát triển
 Giá trị cốt lõi - Lợi thế cạnh tranh
-10
 Thông điệp của Chủ tịch Hội đồng Quản trị
-12
 Thông tin tổng quan
-16
 Ngành nghề và địa bàn kinh doanh
-17
-Quá trình hình thành và phát triển 
-18
+Quá trình hình thành và phát triển
 Danh mục các dự án
-20
 Vị trí dự án
-34
 Các sự kiện nổi bật trong năm 2022
-36
 Danh hiệu và giải thưởng tiêu biểu năm 2022
-40
 Thông tin cổ phần và cổ đông
-44
 Quan hệ nhà đầu tư
-50
 Danh sách các công ty con
-52
 Mô hình quản trị
-56
 Sơ đồ tổ chức
-58
 Giới thiệu Hội đồng Quản trị
-60
 Giới thiệu Ban Điều hành
-62
 Giới thiệu Ban Kiểm soát
-64
 Tổ chức nhân sự
-66
 Thông tin về doanh nghiệp
-135
 Báo cáo của Ban Tổng Giám đốc
-136
 Báo cáo Kiểm toán độc lập
-137
 Bảng cân đối kế toán hợp nhất
-139
 Báo cáo kết quả hoạt động kinh doanh hợp nhất
-142
 Báo cáo lưu chuyển tiền tệ hợp nhất
-143
-Thuyết minh báo cáo tài chính hợp nhất
-145
 Tình hình hoạt động trong năm
-70
 Báo cáo và đánh giá của Hội đồng Quản trị
-76
 Báo cáo của Ban Tổng Giám đốc
-81
 Cơ cấu và hoạt động của Hội đồng Quản trị
-94
 Cơ cấu và hoạt động của Ban Kiểm soát
-103
-Các giao dịch, thù lao và các khoản lợi ích 
-của Hội đồng Quản trị, Ban Tổng Giám đốc và 
+Các giao dịch, thù lao và các khoản lợi ích
+của Hội đồng Quản trị, Ban Tổng Giám đốc và
 Ban Kiểm soát
-105
 Quản trị rủi ro
-108
-Thông điệp phát triển bền vững 
-114
+Thông điệp phát triển bền vững
 Tổng quan Báo cáo phát triển bền vững
-115
 Các bên liên quan
-116
 Yếu tố trọng yếu
-117
 Thương hiệu quốc gia
-118
 Bền vững về Nhân Lực
-122
 Thân thiện với môi trường
-127
 Trách nhiệm xã hội
-130
 NỘI DUNG
-BÁO CÁO THƯỜNG NIÊN 2022
-4
-5
 
-Với phương châm “phát triển bền vững, chia sẻ cộng đồng”, trong năm 
-2022, Công ty đã trích từ quỹ khen thưởng của HĐQT, Ban điều hành 
-và từ Quỹ khen thưởng - phúc lợi của Công ty số tiền hơn 32,5 tỷ đồng để 
-đóng góp cho các hoạt động thiện nguyện thông qua Hội Chữ thập đỏ 
-Việt Nam, Ủy Ban Mặt trận Tổ quốc Việt Nam, đóng góp cho quỹ vì 
-người nghèo, hỗ trợ xây nhà tình thương, tài trợ chương trình cấp 
-thuốc, khám bệnh của người dân; đồng thời đóng góp kinh phí cho 
-hàng ngàn ca phẫu thuật mắt nhân đạo, các ca mổ tim cho trẻ em và 
-tài trợ để sửa chữa, nâng cấp một số bệnh viện trên địa bàn TP.HCM 
-như bệnh viện Chợ Rẫy, bệnh viện Phạm Ngọc Thạch, bệnh viện 
-Lê Văn Thịnh,... Công ty sẽ tiếp tục duy trì và phát triển các hoạt động 
+»	Là thương hiệu bất động sản đứng đầu về niềm tin của đối tác và khách hàng;
+»	Tăng trưởng ổn định, về lâu dài bình quân không thấp hơn tăng trưởng của nền kinh tế;
+»	Là một trong những nơi làm việc được ưa thích nhất trong lĩnh vực bất động sản.
+»	Phát triển các dự án và sản phẩm bất động sản được khách hàng yêu thích và
+tin tưởng;
+»	Quản lý hiệu quả chi phí và dòng tiền kinh doanh để tối ưu hóa vốn và lợi nhuận;
+»	Đầu tư phát triển quỹ đất; đẩy mạnh nghiên cứu để phát triển các sản phẩm
+bắt kịp xu thế thị trường;
+»	Tập trung nguồn lực tài chính vào các cơ hội đầu tư và mang lại giá trị thiết thực
+cho khách hàng;
+»	Đột phá bằng các dự án khu phức hợp;
+»	Đảm bảo nguồn lực tài chính phân bổ hợp lý cho việc củng cố và phát triển thương hiệu
+nhằm tạo ra giá trị bền vững cho cổ đông;
+»	Kiên định giữ vững các giá trị cốt lõi của Công ty: Minh bạch - Chất lượng - Bền vững.
+»	Góp phần bảo vệ môi trường, tuân thủ các quy định về môi trường tại Việt Nam và
+áp dụng các biện pháp tiết kiệm tài nguyên, giảm tác động môi trường trong thi công
+và vận hành dự án;
+»	Duy trì bền vững nguồn nhân lực bằng các chính sách thu hút, đào tạo và giữ nhân tài
+đồng thời tuân thủ các quy định của Bộ luật Lao động để kiến tạo môi trường làm
+việc tốt nhất cho nhân viên;
+»	Làm tròn trách nhiệm xã hội của doanh nghiệp thông qua các hoạt động thiện nguyện,
+chăm sóc sức khỏe và nâng cao đời sống cộng đồng.
+ĐỊNH HƯỚNG PHÁT TRIỂN
+MỤC TIÊU
+CÁC MỤC TIÊU ĐỐI VỚI MÔI TRƯỜNG, XÃ HỘI VÀ CỘNG ĐỒNG
+
+THÔNG ĐIỆP CỦA
+CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+Trân trọng,
+Chủ tịch Hội đồng Quản trị
+MAI TRẦN THANH TRANG
+ới sứ mệnh kiến tạo các khu
+đô thị văn minh, cộng đồng
+nhân văn và mang lại giá trị
+thiết thực nhất cho các cổ đông,
+đối tác và khách hàng, Tập đoàn
+Khang Điền đề cao triết lý phát triển
+bền vững, kinh doanh dựa trên
+nền tảng pháp lý hoàn chỉnh,
+sản phẩm chất lượng, dịch vụ
+tận tâm.
+Kính thưa Quý Cổ đông,
+Công ty Cổ phần Đầu tư & Kinh doanh Nhà Khang Điền (“Tập đoàn Khang Điền”) được
+công nhận là Thương Hiệu Quốc Gia Việt Nam do Bộ Công Thương tổ chức năm 2022.
+Với 22 năm đầu tư và kinh doanh bất động sản tại Việt Nam, đây là sự ghi nhận đáng
+khích lệ cho quá trình phát triển lâu dài của Tập đoàn Khang Điền, một thương hiệu
+bất động sản uy tín, được tín nhiệm trên thị trường.
+Trong bối cảnh môi trường kinh doanh toàn cầu nói chung và thị trường bất động sản
+Việt Nam nói riêng có nhiều thử thách, Tập đoàn Khang Điền vinh dự và tự hào được tiếp tục
+đồng hành cùng Quý cổ đông trên con đường phát triển bền vững. Duy trì pháp lý minh bạch
+và cơ cấu tài chính an toàn tạo lập qua nhiều năm là trọng tâm giúp Khang Điền giữ vững
+vị thế là một doanh nghiệp bất động sản chuyên nghiệp được thị trường công nhận.
+Bên cạnh việc triển khai hiệu quả đầu tư xây dựng trên quỹ đất hiện có, Tập đoàn Khang Điền
+tiếp tục mở rộng quỹ đất sạch tại Thành phố Hồ Chí Minh. Tập đoàn không ngừng cải tiến
+quy trình, nâng cao chất lượng quản lý đồng thời mở rộng quan hệ hợp tác, liên doanh,
+tối ưu hóa các nguồn lực làm tiền đề cho việc triển khai những dự án quy mô lớn, nhiều
+tiềm năng trong tương lai.
+Với sứ mệnh kiến tạo các khu đô thị văn minh, cộng đồng nhân văn và mang lại giá trị thiết thực
+nhất cho các cổ đông, đối tác và khách hàng, Tập đoàn Khang Điền đề cao triết lý phát triển
+bền vững, kinh doanh dựa trên nền tảng pháp lý hoàn chỉnh, sản phẩm chất lượng, dịch vụ
+tận tâm. Bên cạnh đó, Khang Điền luôn trân trọng giá trị đạo đức kinh doanh, chia sẻ cộng đồng,
+tích cực trong các phong trào công tác từ thiện xã hội, xây nhà tình thương, nhà tình nghĩa,
+xây cầu đường, tài trợ các quỹ học bổng tại nhiều địa phương và đóng góp vào quỹ an sinh
+xã hội của đất nước.
+Thay mặt cho Hội đồng Quản trị, tôi trân trọng gửi lời cảm ơn đến Quý cổ đông, đối tác đã
+đồng hành cùng Khang Điền suốt quá trình phát triển trong 22 năm qua. Với định hướng
+phát triển bền vững, tâm huyết và năng lực triển khai, Tập đoàn Khang Điền tự tin phát triển
+mạnh mẽ, đột phá trong dài hạn, đem lại nhiều lợi ích và giá trị thiết thực cho Quý cổ đông,
+đối tác, khách hàng và xã hội.
+
+Tăng vốn và IPO thành Công ty Cổ phần
+Công ty tăng vốn và IPO thành Công ty
+Cổ phần với vốn điều lệ 332 tỷ đồng.
+Quỹ đầu tư nước ngoài VinaCapital và
+Prudential góp vốn trở thành cổ đông.
+Niêm yết cổ phiếu trên Sở Giao dịch
+Chứng khoán TP. Hồ Chí Minh
+Tăng vốn điều lệ lên 439 tỷ đồng và
+niêm yết 43,9 triệu cổ phần (mã cổ phiếu
+KDH) trên Sở Giao dịch Chứng khoán
+TP. Hồ Chí Minh (HSX).
+QUÁ TRÌNH HÌNH THÀNH VÀ PHÁT TRIỂN
+Thành lập Công ty TNHH Đầu tư và
+Kinh doanh nhà Khang Điền
+Triển khai dự án biệt thự và nhà phố
+Verosa Park nổi bật ở khu Đông và định vị
+thị trường của Tập đoàn Khang Điền ở
+khu vực Tây Nam TP.HCM với dự án Khu
+căn hộ Lovera Vista
+» Triển khai dự án nhà liên kế và biệt
+thự Verosa Park tọa lạc tại trung tâm
+Quận 9, nút giao đường Liên Phường -
+Võ Chí Công, kế cận Quận 2 (TP.Thủ Đức).
+» Triển khai dự án chung cư Lovera Vista,
+khẳng định thị phần của Khang Điền ở
+khu Tây Nam TP. Hồ Chí Minh.
+Quỹ đầu tư Dragon Capital trở thành
+cổ đông lớn
+Tăng vốn điều lệ lên 750 tỷ đồng với sự
+tham gia của cổ đông lớn là Quỹ đầu
+tư Dragon Capital.
+Triển khai dự án nhà phố Mega Ruby và
+Mega Residence tọa lạc tại đường
+Võ Chí Công (TP.Thủ Đức).
+Triển khai Khu căn hộ Jamila, Safira và
+tích hợp quỹ đất ở khu Nam TP.HCM
+» Triển khai hai dự án chung cư quy mô
+lớn Jamila và Safira toạ lạc trên đường
+Võ Chí Công (Vành Đai 2) và Cao tốc
+TP.Hồ Chí Minh - Long Thành - Dầu Giây.
+»	Tăng vốn điều lệ lên hơn 4.140 tỷ đồng
+và tích hợp quỹ đất hữu dụng với quy mô
+trên 500ha ở khu Nam TP. Hồ Chí Minh.
+Đánh dấu cột mốc 20 năm phát triển
+»	 Tiếp tục kinh doanh dự án chung cư Lovera
+Vista (Bình Chánh).
+»	 Tích cực thực hiện trách nhiệm xã hội, nỗ lực
+chăm lo cho CBCNV, đóng góp cho ngành
+y tế và hỗ trợ cộng đồng phòng chống
+đại dịch Covid-19.
+»	 Kỷ niệm 20 năm thành lập và phát triển với
+danh mục trên 50 dự án, cung cấp cho thị
+trường hơn 20 nghìn sản phẩm đa dạng,
+đạt tỷ lệ hấp thụ trên 90%.
+»	 Nhận Huân chương Lao động hạng Ba,
+Bằng khen Thủ tướng Chính phủ và các
+giải thưởng uy tín khác.
+Triển khai dự án biệt thự cao cấp
+Lucasta, The Venica ở khu Đông
+TP.HCM và mở rộng địa bàn sang khu
+Nam TP.HCM
+»	 Triển khai dự án biệt thự cao cấp
+Lucasta và The Venica tọa lạc tại
+đường Liên Phường và Đỗ Xuân Hợp
+(TP.Thủ Đức).
+»	 Triển khai dự án nhà phố Mega Village
+và Melosa Garden tọa lạc tại đường Võ
+Chí Công và đường D2 (TP.Thủ Đức).
+»	 Tăng vốn điều lệ lên 1.800 tỷ đồng và
+tích lũy diện tích đất có quy mô lớn ở
+khu Nam TP. Hồ Chí Minh.
+Triển khai dự án The Classia và được
+công nhận là Thương hiệu quốc gia
+Việt Nam do Bộ Công thương tổ chức
+»	 Triển khai dự án The Classia (TP.Thủ Đức),
+bàn giao nhà và trao Giấy chứng nhận quyền
+sử dụng đất, quyền sở hữu nhà ở và tài sản
+khác gắn liền với đất cho khách hàng.
+»	 Được công nhận là Thương hiệu quốc gia
+Việt Nam do Bộ Công thương tổ chức.
+»	 Tăng vốn điều lệ lên hơn 7.168 tỷ đồng,
+kiên định phát triển bền vững.
+GIỚI THIỆU CHUNG VỀ KHANG ĐIỀN
+
+Tập đoàn Khang Điền chính thức khởi công xây dựng dự án căn hộ chung cư The Privia với
+quy mô hơn 1.000 căn hộ tại Quận Bình Tân, TP.HCM vào tháng 6/2022. Dự án được áp dụng
+chứng chỉ EDGE (Excellence in Design for Greater Efficiencies – Thiết kế xuất sắc để đạt hiệu quả
+cao hơn) của IFC (International Finance Corporation – Tập đoàn Tài chính Quốc tế) vào công
+tác thiết kế và xây dựng. Đây là một hệ thống đánh giá công trình sử dụng tài nguyên hiệu quả,
+giúp tiết kiệm năng lượng, nước và năng lượng dùng để sản xuất vật liệu xây dựng công
+trình, qua đó giúp giảm phát thải khí nhà kính. Việc áp dụng chứng chỉ EDGE trong thiết kế và
+xây dựng nhằm giúp tiết kiệm chi phí điện, nước và các chi phí vận hành toà nhà khác
+khi dự án hoàn thiện và đi vào hoạt động. Bên cạnh đó, The Privia cũng vinh dự đạt giải
+ở hạng mục Best Mid End Condo Development – HCMC (Dự án căn hộ Mid End tốt nhất
+tại TP.HCM) và Best Condo Interior Design  (Dự án căn hộ có thiết kế nội thất tốt nhất) –
+Vietnam Property Awards 2022.
+CÁC SỰ KIỆN NỔI BẬT TRONG NĂM 2022 (tiếp theo)
+giao
+Giấy
+chứng
+nhận
+quyền
+sử dụng đất, quyền sở hữu nhà ở và tài
+sản khác gắn liền với đất tại các dự án
+Lovera Vista, Verosa Park và Safira
+Tổ chức thành công Hội nghị nhà chung
+cư lần đầu tại các dự án khu chung cư
+Safira và Lovera Vista
+Với nền tảng pháp lý minh bạch và tinh thần
+trách nhiệm cao, Tập đoàn Khang Điền luôn nỗ lực
+làm tốt vai trò của chủ đầu tư trong việc xin cấp
+Giấy chứng nhận quyền sử dụng đất, quyền sở hữu
+nhà ở và tài sản khác gắn liền với đất (sổ hồng) cho
+khách hàng mua nhà tại các dự án do Tập đoàn
+đầu tư và phát triển. Trong năm 2022, Tập đoàn đã
+hoàn tất việc bàn giao sổ hồng cho hầu hết cư dân
+tại các dự án Lovera Vista, Verosa Park và Safira.
+Với tôn chỉ trở thành “Nơi đặt niềm tin, nơi xây tổ ấm”,
+Tập đoàn Khang Điền chú trọng trong việc kiến tạo
+môi trường sống và kiến tạo cộng đồng dân cư
+văn minh, thân thiện tại các dự án do Tập đoàn đầu
+tư phát triển. Trong năm 2022, Tập đoàn cùng với các
+đơn vị quản lý tòa nhà chuyên nghiệp hàng đầu là
+Công ty TNHH Savills VN và Công ty TNHH CBRE VN
+đã tổ chức thành công Hội nghị nhà chung cư lần
+đầu tại các dự án Safira tại Thành phố Thủ Đức
+và Lovera Vista tại Huyện Bình Chánh và đồng hành
+cùng Ban quản trị và Ban quản lý để tiến hành bàn
+giao quỹ vận hành, quỹ bảo trì theo đúng quy định
+pháp luật.
+Khởi công xây dựng dự án chung cư The Privia và được nhận các giải thưởng
+tại lễ trao giải Vietnam Property Awards 2022
+GIỚI THIỆU CHUNG VỀ KHANG ĐIỀN
+
+Với phương châm “phát triển bền vững, chia sẻ cộng đồng”, trong năm
+2022, Công ty đã trích từ quỹ khen thưởng của HĐQT, Ban điều hành
+và từ Quỹ khen thưởng - phúc lợi của Công ty số tiền hơn 32,5 tỷ đồng để
+đóng góp cho các hoạt động thiện nguyện thông qua Hội Chữ thập đỏ
+Việt Nam, Ủy Ban Mặt trận Tổ quốc Việt Nam, đóng góp cho quỹ vì
+người nghèo, hỗ trợ xây nhà tình thương, tài trợ chương trình cấp
+thuốc, khám bệnh của người dân; đồng thời đóng góp kinh phí cho
+hàng ngàn ca phẫu thuật mắt nhân đạo, các ca mổ tim cho trẻ em và
+tài trợ để sửa chữa, nâng cấp một số bệnh viện trên địa bàn TP.HCM
+như bệnh viện Chợ Rẫy, bệnh viện Phạm Ngọc Thạch, bệnh viện
+Lê Văn Thịnh,... Công ty sẽ tiếp tục duy trì và phát triển các hoạt động
 thiện nguyện này nhằm thể hiện trách nhiệm của Công ty đối với cộng đồng.
-Đối với vấn đề môi trường, Công ty thấu hiểu tầm quan trọng của việc 
-bảo vệ môi trường đối với sự phát triển bền vững của cộng đồng và 
-xã hội. Theo đó, trong hoạt động phát triển các dự án, Công ty thực 
-hiện đúng các tiêu chuẩn, quy chuẩn về môi trường theo quy định của 
-pháp luật, chú trọng phương án thiết kế không gian môi trường sống 
-trong lành nhằm mang đến không gian sống thân thiện, gần gũi với 
-thiên nhiên. Đồng thời, đối với hoạt động triển khai thi công, Công ty 
-đặt tiêu chuẩn rõ ràng cho việc lựa chọn các đơn vị xây dựng có 
-phương án sử dụng hiệu quả,  tiết kiệm các nguồn tài nguyên, quá trình 
+Đối với vấn đề môi trường, Công ty thấu hiểu tầm quan trọng của việc
+bảo vệ môi trường đối với sự phát triển bền vững của cộng đồng và
+xã hội. Theo đó, trong hoạt động phát triển các dự án, Công ty thực
+hiện đúng các tiêu chuẩn, quy chuẩn về môi trường theo quy định của
+pháp luật, chú trọng phương án thiết kế không gian môi trường sống
+trong lành nhằm mang đến không gian sống thân thiện, gần gũi với
+thiên nhiên. Đồng thời, đối với hoạt động triển khai thi công, Công ty
+đặt tiêu chuẩn rõ ràng cho việc lựa chọn các đơn vị xây dựng có
+phương án sử dụng hiệu quả,  tiết kiệm các nguồn tài nguyên, quá trình
 thi công giảm thiểu tối đa các tác động đến môi trường.
-Có thể nói, song song với hoạt động kinh doanh, việc đề cao và tích 
-cực thực hiện trách nhiệm của doanh nghiệp về môi trường và xã hội 
+Có thể nói, song song với hoạt động kinh doanh, việc đề cao và tích
+cực thực hiện trách nhiệm của doanh nghiệp về môi trường và xã hội
 luôn là một phần tất yếu trong sự phát triển bền vững của Công ty.
-Trách nhiệm về  
-môi trường và xã hội 
+Trách nhiệm về
+môi trường và xã hội
 của doanh nghiệp
-Đánh giá của Hội đồng Quản trị về hoạt động của Ban Tổng Giám đốc Công ty 
-»	
-Trong bối cảnh thị trường bất động sản gặp nhiều khó khăn và biến động, Ban TGĐ 
-đã chịu nhiều áp lực trong việc điều hành các hoạt động kinh doanh của Công ty. 
-Tuy nhiên với tinh thần đoàn kết, tâm huyết, đồng thời tuân thủ các quy định về quản 
-trị và điều hành, Ban TGĐ đã thực hiện hiệu quả các định hướng và chủ trương của 
-HĐQT, kịp thời chỉ đạo, phân công nhiệm vụ cho các khối, phòng ban đảm bảo sự 
-vận hành ổn định và thúc đẩy hiệu quả hoạt động kinh doanh của Công ty để mang lại 
+Đánh giá của Hội đồng Quản trị về hoạt động của Ban Tổng Giám đốc Công ty
+Trong bối cảnh thị trường bất động sản gặp nhiều khó khăn và biến động, Ban TGĐ
+đã chịu nhiều áp lực trong việc điều hành các hoạt động kinh doanh của Công ty.
+Tuy nhiên với tinh thần đoàn kết, tâm huyết, đồng thời tuân thủ các quy định về quản
+trị và điều hành, Ban TGĐ đã thực hiện hiệu quả các định hướng và chủ trương của
+HĐQT, kịp thời chỉ đạo, phân công nhiệm vụ cho các khối, phòng ban đảm bảo sự
+vận hành ổn định và thúc đẩy hiệu quả hoạt động kinh doanh của Công ty để mang lại
 lợi ích tốt nhất cho cổ đông.
-»	
-HĐQT đánh giá cao những nỗ lực của Ban TGĐ Công ty trong năm qua và kỳ vọng 
-Ban TGĐ sẽ tiếp tục duy trì và phát huy các thế mạnh, mang lại hiệu quả hoạt động cao 
+HĐQT đánh giá cao những nỗ lực của Ban TGĐ Công ty trong năm qua và kỳ vọng
+Ban TGĐ sẽ tiếp tục duy trì và phát huy các thế mạnh, mang lại hiệu quả hoạt động cao
 và nâng tầm giá trị thương hiệu Khang Điền trên thị trường.
-»	
-Trong năm qua, Tổng Giám đốc và Người điều hành khác đã chủ động báo cáo, đề xuất 
-và tháo gỡ những khó khăn, vướng mắc trong quá trình điều hành nhằm đảm bảo 
-Công ty luôn hoạt động theo đúng quy định pháp luật. 
-»	
-Giữa Tổng Giám đốc và Người điều hành khác đã có sự phối hợp chặt chẽ, tích cực để 
-đưa ra các quyết định mang lại hiệu quả cao, loại trừ rủi ro, gia tăng lợi ích cho Công ty. 
-»	
-Các quyết định của Tổng Giám đốc và Người điều hành khác luôn tuân thủ đúng 
+Trong năm qua, Tổng Giám đốc và Người điều hành khác đã chủ động báo cáo, đề xuất
+và tháo gỡ những khó khăn, vướng mắc trong quá trình điều hành nhằm đảm bảo
+Công ty luôn hoạt động theo đúng quy định pháp luật.
+Giữa Tổng Giám đốc và Người điều hành khác đã có sự phối hợp chặt chẽ, tích cực để
+đưa ra các quyết định mang lại hiệu quả cao, loại trừ rủi ro, gia tăng lợi ích cho Công ty.
+Các quyết định của Tổng Giám đốc và Người điều hành khác luôn tuân thủ đúng
 Nghị quyết của HĐQT, Điều lệ Công ty và quy định của pháp luật.
 BÁO CÁO VÀ ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ
 (tiếp theo)
-ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA CÔNG TY 
+ĐÁNH GIÁ CỦA HỘI ĐỒNG QUẢN TRỊ VỀ CÁC MẶT HOẠT ĐỘNG CỦA CÔNG TY
 (tiếp theo)
 KẾT QUẢ GIÁM SÁT ĐỐI VỚI TỔNG GIÁM ĐỐC VÀ NGƯỜI ĐIỀU HÀNH KHÁC
 Đánh giá kết quả kinh doanh năm 2022 (tiếp theo)
-78
-79
-BÁO CÁO THƯỜNG NIÊN 2022
+BÁO CÁO TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM
+
+TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI
+Tập đoàn Khang Điền luôn ý thức vấn đề môi trường
+là mối quan tâm hàng đầu trong suốt quá trình
+từ lúc triển khai, phát triển, cho đến vận hành các
+dự án. Công ty luôn chú trọng đảm bảo tuân thủ
+theo các chỉ tiêu về môi trường. Ngay từ giai đoạn
+thiết kế, các kiến trúc sư chú trọng tăng mảng
+xanh, giảm tỷ lệ bê-tông hóa, tận dụng thông gió
+và ánh sáng tự nhiên trong quá trình xây dựng và
+đưa các công trình vào vận hành, Công ty luôn có
+những giải pháp thiết thực, kêu gọi sự quan tâm
+và ý thức bảo vệ môi trường của toàn thể cư dân
+nhằm mang đến một môi trường sống bền vững,
+kết nối hài hoà giữa con người và thiên nhiên.
+Đối với dự án The Classia được hoàn thành trong
+năm qua và dự án The Privia đang triển khai
+xây dựng, Công ty nghiêm túc thực hiện đánh giá
+tác động môi trường, tính toán và dự báo trước
+các ảnh hưởng đến môi trường xung quanh và
+chuẩn bị các phương án bảo vệ môi trường trước
+khi triển khai xây dựng, đảm bảo sau khi hoàn
+tất, bàn giao để đưa vào vận hành, công trình sẽ
+tuân thủ tốt các quy định của pháp luật và của
+địa phương về môi trường đối với các khu dân cư.
+Đối với hoạt động quản lý vận hành khu công nghiệp,
+Công ty tuân thủ các quy định của pháp luật và
+của cơ quan chức năng địa phương. Chúng tôi
+thường xuyên phối hợp với cơ quan chức năng
+thực hiện quan trắc, giám sát, kiểm định chất thải
+đầu ra. Công ty đã đầu tư nâng cấp trạm xử lý
+nước thải Khu công nghiệp Lê Minh Xuân theo
+công nghệ tiên tiến, đảm bảo nước thải
+công nghiệp đạt tiêu chuẩn theo quy định trước
+khi thoát ra hệ thống thoát nước của địa phương.
+Tập đoàn Khang Điền đặt Con Người là nguồn lực
+quan trọng của Công ty, vì thế an toàn lao động
+và sức khỏe nghề nghiệp là điều thiết yếu cho
+nền tảng bền vững về nhân lực. Cụ thể, dự án
+The Classia được xây dựng và hoàn thiện
+đảm bảo quy định về an toàn lao động... Để làm
+được điều này, chúng tôi phải chọn lựa nhà thầu có
+trách nhiệm cao, thường xuyên phối hợp huấn luyện
+đội ngũ công nhân về an toàn lao động, liên tục
+kiểm tra quy trình an toàn lao động.
+Ngoài ra, Công ty tuân thủ bộ Luật lao động về
+các chế độ nghỉ phép, nghỉ lễ, đồng thời đảm bảo
+điều kiện làm việc tốt đi cùng chế độ lương thưởng
+và bảo hiểm phúc lợi đầy đủ. Công ty tổ chức
+khám sức khoẻ định kỳ cho toàn thể nhân viên
+và hỗ trợ những trường hợp cần điều trị lâu dài.
+Trong năm 2022 chúng tôi tự tin đã làm tròn trách
+nhiệm đối với người lao động, ở cả nhóm làm việc
+tại văn phòng và nhóm công nhân tại công trường
+xây dựng (bao gồm cả công nhân của nhà thầu).
+Song song với việc chăm lo cho đội ngũ nhân viên,
+Khang Điền không ngừng nỗ lực trong các hoạt động
+Trách nhiệm xã hội của doanh nghiệp nhằm
+nâng cao chất lượng sống cho cộng đồng. Cụ thể
+trong năm 2022, Công ty đã đóng góp trên 32,5 tỷ
+cho các chương trình thiện nguyện. Các hoạt động
+tiêu biểu có thể kể đến là hỗ trợ nâng cấp các cơ sở
+khám chữa bệnh với nhiều hạng mục (như bệnh viện
+Lê Văn Thịnh, bệnh viện Phạm Ngọc Thạch, bệnh viện
+Chợ Rẫy); hỗ trợ người dân thăm khám sức
+khoẻ tại tỉnh Bến Tre, tỉnh Hậu Giang; hỗ trợ
+hàng ngàn bệnh nhân nghèo phẫu thuật mắt
+theo chương trình của bệnh viện mắt Tây Nam;
+tài trợ các ca mổ tim cho trẻ em theo chương trình
+Nhịp Tim Việt Nam…; đóng góp vào các quỹ
+khuyến học và cấp học bổng cho các em mồ côi vì
+Covid-19, các em thuộc diện nghèo học giỏi, các em
+cơ nhỡ của các mái ấm… theo các chương trình
+của Trung ương Hội Sinh viên Việt Nam,
+Hội Nông dân Việt Nam, hỗ trợ chi phí thuê nhà
+và học phí cho các mái ấm…; đồng hành cùng các
+quỹ an sinh xã hội, hỗ trợ người dân có hoàn cảnh
+khó khăn; xây nhà tình thương… Công ty cam kết
+luôn nỗ lực đồng hành cùng cộng đồng trong năm
+2023 và trong hành trình phát triển tiếp theo.
+BÁO CÁO BAN TỔNG GIÁM ĐỐC (tiếp theo)
 BÁO CÁO TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM
 
 THÔNG ĐIỆP PHÁT TRIỂN BỀN VỮNG
 TỔNG QUAN BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 THÔNG TIN LIÊN HỆ
-Tại Tập đoàn Khang Điền, chúng tôi hiểu rằng Phát triển bền vững 
-trong đặc thù ngành bất động sản là phát triển về kinh tế trong 
-hiện tại mà vẫn đảm bảo tiếp tục phát triển trong tương lai, không 
-làm ảnh hưởng tiêu cực đến các yếu tố xã hội và môi trường 
-sinh thái. Ngay từ những ngày đầu thành lập, trải qua 21 năm 
-xây dựng uy tín, Tập đoàn Khang Điền kiên định giữ vững tôn chỉ 
-phát triển bền vững, dựa trên nền tảng pháp lý minh bạch và cấu 
-trúc tài chính vững chắc. Chúng tôi luôn cam kết tuân thủ các 
-quy định về môi trường và nỗ lực đồng hành cùng cộng đồng trong 
+Tại Tập đoàn Khang Điền, chúng tôi hiểu rằng Phát triển bền vững
+trong đặc thù ngành bất động sản là phát triển về kinh tế trong
+hiện tại mà vẫn đảm bảo tiếp tục phát triển trong tương lai, không
+làm ảnh hưởng tiêu cực đến các yếu tố xã hội và môi trường
+sinh thái. Ngay từ những ngày đầu thành lập, trải qua 21 năm
+xây dựng uy tín, Tập đoàn Khang Điền kiên định giữ vững tôn chỉ
+phát triển bền vững, dựa trên nền tảng pháp lý minh bạch và cấu
+trúc tài chính vững chắc. Chúng tôi luôn cam kết tuân thủ các
+quy định về môi trường và nỗ lực đồng hành cùng cộng đồng trong
 các hoạt động xã hội.
 Báo cáo được thực hiện dựa trên Điểm 6 Chương II Phụ lục IV Thông tư 96/2020/
-TT-BTC về tác động liên quan đến môi trường và xã hội, đồng thời tham chiếu với 
-GRI Standards (tiêu chuẩn báo cáo Phát triển bền vững của tổ chức sáng kiến báo 
-cáo toàn cầu Global Reporting Initiative). Báo cáo được lập tại TP. Hồ Chí Minh, 
-Việt Nam, trong ngành phát triển bất động sản thuộc lĩnh vực tài chính, cho giai 
-đoạn 01/01/2022 đến 31/12/2022. Nội dung của báo cáo bao gồm xác định lại phạm 
-vi các bên liên quan và các yếu tố trọng yếu đối với các bên trong mối tương quan 
+TT-BTC về tác động liên quan đến môi trường và xã hội, đồng thời tham chiếu với
+GRI Standards (tiêu chuẩn báo cáo Phát triển bền vững của tổ chức sáng kiến báo
+cáo toàn cầu Global Reporting Initiative). Báo cáo được lập tại TP. Hồ Chí Minh,
+Việt Nam, trong ngành phát triển bất động sản thuộc lĩnh vực tài chính, cho giai
+đoạn 01/01/2022 đến 31/12/2022. Nội dung của báo cáo bao gồm xác định lại phạm
+vi các bên liên quan và các yếu tố trọng yếu đối với các bên trong mối tương quan
 phát triển bền vững.
-Chúng tôi rất mong nhận được sự đóng góp ý kiến chân thành của Quý vị. Mọi ý kiến 
-đóng góp, thắc mắc liên quan đến vấn đề phát triển bền vững, Quý vị vui lòng gửi 
+Chúng tôi rất mong nhận được sự đóng góp ý kiến chân thành của Quý vị. Mọi ý kiến
+đóng góp, thắc mắc liên quan đến vấn đề phát triển bền vững, Quý vị vui lòng gửi
 về địa chỉ:
 Website: www.khangdien.com.vn
-Tel: +84 28 3820 8858
-Fax: +84 28 3820 8859
-Địa chỉ Văn phòng trụ sở chính: 
-Phòng 1&2, Lầu 11 SaiGon Centre,  
-67 Lê Lợi, Phường Bến Nghé,  
+Địa chỉ Văn phòng trụ sở chính:
+Phòng 1&2, Lầu 11 SaiGon Centre,
+67 Lê Lợi, Phường Bến Nghé,
 Quận 1, TP.HCM
 Email: info@khangdien.com.vn
-114
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-115
-BÁO CÁO THƯỜNG NIÊN 2022
 
 CÁC BÊN LIÊN QUAN
-Hàng năm Công ty xem xét đánh giá lại phạm vi các bên liên quan và sự tương tác giữa Công ty với các bên 
-liên quan này trong mối tương quan đến phát triển bền vững. Dù bị ảnh hưởng từ tình hình kinh tế vĩ mô nói 
-chung và thị trường bất động sản nói riêng, trong năm 2022 Công ty giữ nguyên phạm vi các bên liên quan và 
+Hàng năm Công ty xem xét đánh giá lại phạm vi các bên liên quan và sự tương tác giữa Công ty với các bên
+liên quan này trong mối tương quan đến phát triển bền vững. Dù bị ảnh hưởng từ tình hình kinh tế vĩ mô nói
+chung và thị trường bất động sản nói riêng, trong năm 2022 Công ty giữ nguyên phạm vi các bên liên quan và
 duy trì sự tương tác với các bên trên tinh thần hợp tác và đồng hành lâu dài.
 Các bên liên quan
-Phương thức, hình thức 
+Phương thức, hình thức
 tương tác
 Chủ đề thảo luận
 Ghi chú năm 2022
-ĐẠI LÝ PHÂN 
+ĐẠI LÝ PHÂN
 PHỐI, ĐỐI TÁC
 •	 Họp định kỳ trực tiếp
-•	 Tham quan dự án,  
-nhà mẫu, công trường 
+•	 Tham quan dự án,
+nhà mẫu, công trường
 xây dựng
-•	 Trao đổi qua điện thoại, 
+•	 Trao đổi qua điện thoại,
 email.
-•	 Huấn luyện, đào tạo về 
+•	 Huấn luyện, đào tạo về
 kiến thức sản phẩm
-•	 Đánh giá hiệu quả  
+•	 Đánh giá hiệu quả
 công việc
-•	 Kế hoạch và triển khai 
+•	 Kế hoạch và triển khai
 bán hàng.
-•	 Cập nhật tình hình  
+•	 Cập nhật tình hình
 thị trường
-KHÁCH HÀNG,  
-CƯ DÂN,  
-DOANH NGHIỆP 
-TRONG KHU 
+KHÁCH HÀNG,
+DOANH NGHIỆP
+TRONG KHU
 CÔNG NGHIỆP
 •	 Văn bản thông báo
-•	 Tư vấn, trao đổi trực tiếp, 
+•	 Tư vấn, trao đổi trực tiếp,
 qua điện thoại, email
 •	 Tiếp nhận đơn kiến nghị
-•	 Giải quyết các yêu cầu 
+•	 Giải quyết các yêu cầu
 về sản phẩm và dịch vụ
-•	 Thực thi hợp đồng mua 
+•	 Thực thi hợp đồng mua
 bán, thuê
-•	 Đánh giá các mức độ 
+•	 Đánh giá các mức độ
 hài lòng của khách hàng
 NGƯỜI LAO ĐỘNG
 •	 Bản tin nội bộ hàng tháng
-•	 Bản tin thông báo khi 
+•	 Bản tin thông báo khi
 có sự kiện quan trọng
-•	 Thư của Ban Lãnh đạo 
+•	 Thư của Ban Lãnh đạo
 vào các dịp quan trọng
 •	 Họp mặt đầu năm
-•	 Tặng quà vào các ngày 
+•	 Tặng quà vào các ngày
 lễ - Tết
 •	 Khám sức khoẻ định kỳ
-•	 Du lịch thắt chặt tình  
-đồng nghiệp
-•	 Tình hình kinh doanh 
+•	 Du lịch thắt chặt tình
+•	 Tình hình kinh doanh
 của Công ty
 •	 Định hướng phát triển
-•	 An toàn lao động và  
+•	 An toàn lao động và
 sức khỏe
-•	 Lương, thưởng, chế độ 
+•	 Lương, thưởng, chế độ
 và điều kiện làm việc
-•	 Mối quan hệ  
-đồng nghiệp
-•	 Động viên, trực tiếp 
-hướng dẫn, thay đổi 
-cách thức làm việc  
-phù hợp với tình hình  
+•	 Mối quan hệ
+•	 Động viên, trực tiếp
+hướng dẫn, thay đổi
+cách thức làm việc
+phù hợp với tình hình
 thị trường
-CỔ ĐÔNG,  
+CỔ ĐÔNG,
 NHÀ ĐẦU TƯ
-•	 Đại hội cổ đông 
-thường niên, Đại hội  
+•	 Đại hội cổ đông
+thường niên, Đại hội
 cổ đông bất thường
-•	 Tham dự các sự kiện 
-gặp gỡ nhà đầu tư  
-do các công ty  
+•	 Tham dự các sự kiện
+gặp gỡ nhà đầu tư
+do các công ty
 chứng khoán tổ chức
-•	 Tiếp đón các nhà đầu tư 
+•	 Tiếp đón các nhà đầu tư
 tại văn phòng Công ty
 •	 Họp cập nhật KQKD quý
-•	 Kết quả hoạt động  
+•	 Kết quả hoạt động
 kinh doanh
-•	 Tình hình hoạt động và 
+•	 Tình hình hoạt động và
 hiệu quả hoạt động
-•	 Định hướng phát triển 
+•	 Định hướng phát triển
 và chiến lược
-•	 Cập nhật tình hình  
+•	 Cập nhật tình hình
 thị trường
-•	 Tổ chức thành công 
-cuộc họp Đại hội đồng 
-cổ đông thường niên 
+•	 Tổ chức thành công
+cuộc họp Đại hội đồng
+cổ đông thường niên
 vào tháng 4/2022
-•	 Họp với các công ty 
-chứng khoán và quỹ  
+•	 Họp với các công ty
+chứng khoán và quỹ
 đầu tư
-CƠ QUAN  
+CƠ QUAN
 CHỨC NĂNG
 •	 Công văn xử lý công việc
-•	 Họp phối hợp xử lý 
+•	 Họp phối hợp xử lý
 công việc
-•	 Công việc liên quan về 
-pháp lý dự án, pháp lý 
+•	 Công việc liên quan về
+pháp lý dự án, pháp lý
 doanh nghiệp
-•	 Các chính sách,  
+•	 Các chính sách,
 quy định mới
-•	 Họp các nội dung  
+•	 Họp các nội dung
 liên quan chính sách mới
 YẾU TỐ TRỌNG YẾU
-Kiên định với tôn chỉ phát triển bền vững, Tập đoàn Khang Điền kinh doanh trên tinh thần thượng tôn 
-pháp luật, đặt quyền lợi của cổ đông, đối tác và khách hàng lên trên mọi hành động. Song song đó, 
-chúng tôi đồng hành cùng cộng đồng nhằm tạo ra những giá trị tích cực, nâng tầm chất lượng sống cho 
+Kiên định với tôn chỉ phát triển bền vững, Tập đoàn Khang Điền kinh doanh trên tinh thần thượng tôn
+pháp luật, đặt quyền lợi của cổ đông, đối tác và khách hàng lên trên mọi hành động. Song song đó,
+chúng tôi đồng hành cùng cộng đồng nhằm tạo ra những giá trị tích cực, nâng tầm chất lượng sống cho
 cư dân và cộng đồng.
-Trong năm 2022, dưới tác động của nền kinh tế vĩ mô nói chung và của tình hình thị trường bất động sản 
-nói riêng, chúng tôi đã xem xét đánh giá lại và có một số điều chỉnh về các yếu tố trọng yếu của Công ty 
-đối với phát triển bền vững. Các yếu tố trọng yếu này được dựa trên chiến lược của Công ty và có 
-tham chiếu đến GRI Standards về ESG (Environmental, Social and Governance - Môi trường, Xã hội và 
-Quản trị công ty) cũng như Điểm số 6 Chương II Phụ lục IV Thông tư 96/2020/TT-BTC về tác động liên quan 
+Trong năm 2022, dưới tác động của nền kinh tế vĩ mô nói chung và của tình hình thị trường bất động sản
+nói riêng, chúng tôi đã xem xét đánh giá lại và có một số điều chỉnh về các yếu tố trọng yếu của Công ty
+đối với phát triển bền vững. Các yếu tố trọng yếu này được dựa trên chiến lược của Công ty và có
+tham chiếu đến GRI Standards về ESG (Environmental, Social and Governance - Môi trường, Xã hội và
+Quản trị công ty) cũng như Điểm số 6 Chương II Phụ lục IV Thông tư 96/2020/TT-BTC về tác động liên quan
 đến môi trường và xã hội.
 Chiến lược
-Nền tảng thực 
-thi
+Nền tảng thực
 Yếu tố trọng yếu
-Tham 
-chiếu GRI 
+Tham
+chiếu GRI
 Standards
-Tham chiếu 
-Điểm 6 
-Chương II 
-Phụ lục IV 
-Thông tư 
-96/2020/TT-
-BTC
+Tham chiếu
+Điểm 6
+Chương II
+Phụ lục IV
+Thông tư
 Bên liên quan
-TĂNG 
-TRƯỞNG 
+TRƯỞNG
 BỀN VỮNG
-Thương hiệu 
+Thương hiệu
 Quốc gia
-Niềm tin từ khách hàng, cộng đồng 
+Niềm tin từ khách hàng, cộng đồng
 và cơ quan chức năng
-Khang Điền,  
-Khách hàng, Cơ quan 
+Khang Điền,
+Khách hàng, Cơ quan
 chức năng
 Hiệu quả kinh tế
-GRI 201
-Khang Điền, Khách 
-hàng, Cộng đồng  
+Khang Điền, Khách
 địa phương
 Phát triển kinh tế địa phương
-GRI 203
 Sức khoẻ và an toàn của khách hàng
-GRI 416
 Bảo mật thông tin khách hàng
-GRI 418
-Bền vững về 
+Bền vững về
 nhân lực
 Việc làm và chế độ đãi ngộ
-GRI 401
 Điểm 6.6
-Khang Điền,  
+Khang Điền,
 Người lao động
 Mối quan hệ Lao động/Quản lý
-GRI 402
-An toàn lao động và sức khỏe  
+An toàn lao động và sức khỏe
 nghề nghiệp
-GRI 403
 Tuyển dụng và đào tạo
-GRI 404
-BẢO TỒN  
+BẢO TỒN
 MÔI TRƯỜNG
-Thân thiện  
+Thân thiện
 môi trường
 Tác động lên môi trường
-GRI 305
 Điểm 6.1
 Khang Điền, Nhà thầu
 Quản lý vật liệu
-GRI 301
 Điểm 6.2
 Khang Điền, Nhà thầu
 Tiêu thụ năng lượng
-GRI 302
 Điểm 6.3
-Khang Điền, Nhà thầu, 
+Khang Điền, Nhà thầu,
 Doanh nghiệp trong KCN
 Tiêu thụ nước
-GRI 303
 Điểm 6.4
-Khang Điền, Nhà thầu, 
+Khang Điền, Nhà thầu,
 Doanh nghiệp trong KCN
 Tuân thủ quy định
-GRI 307
 Điểm 6.5
 Khang Điền
-TRÁCH 
-NHIỆM  
-XÃ HỘI
-Chăm lo 
-cộng đồng
+TRÁCH
+NHIỆM
+Chăm lo
 •	 Hoạt động thiện nguyện
-•	 Nâng cao chất lượng sống cho 
-cộng đồng
+•	 Nâng cao chất lượng sống cho
 •	 Chăm sóc sức khỏe cộng đồng
-GRI 413
 Điểm 6.7
-Khang Điền,  
+Khang Điền,
 Cộng đồng địa phương
-116
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-117
-BÁO CÁO THƯỜNG NIÊN 2022
 
 THƯƠNG HIỆU QUỐC GIA
-TẠO DỰNG UY TÍN VỮNG CHẮC, ĐƯỢC CÁC TỔ CHỨC VÀ CƠ QUAN 
+TẠO DỰNG UY TÍN VỮNG CHẮC, ĐƯỢC CÁC TỔ CHỨC VÀ CƠ QUAN
 CHỨC NĂNG CÔNG NHẬN
-Kiên định phát triển bền vững dựa trên những giá trị cốt lõi, Tập đoàn Khang Điền được các tổ chức 
-và cơ quan chức năng công nhận thông qua những giải thưởng uy tín. Trong đó, PropertyGuru 
-Vietnam Property Awards 2022 là giải thưởng tôn vinh những công ty bất động sản nổi bật tại 
-Việt Nam với những dự án nâng cao chất lượng sống của người mua nhà và cải thiện cảnh quan 
-đô thị. Giải thưởng năm 2022 vinh danh Tập đoàn Khang Điền cho những đóng góp và nỗ lực 
-không ngừng trong suốt hơn 20 năm đồng hành cùng người mua nhà Việt Nam. Cụ thể, Khang Điền 
-nhận 3 hạng mục: Chứng nhận đặc biệt về Môi trường – Xã hội – Quản trị; Chứng nhận đặc biệt 
-về Thiết kế và Xây dựng bền vững; Chứng nhận đặc biệt về Trách nhiệm Xã hội của Doanh nghiệp. 
-Năm nay với các giải thưởng liên quan đến yếu tố môi trường, xã hội, quản trị, bền vững trong 
-thiết kế và xây dựng, Khang Điền cho thấy sự nghiêm túc trong việc quản lý phát thải carbon, 
-nguồn nước, nguồn cung nguyên liệu, xây dựng cộng đồng, trách nhiệm xã hội… 
-Ngoài ra, Tập đoàn Khang Điền vinh dự được công nhận là “Thương hiệu Quốc Gia 2022” 
-do Bộ Công Thương tổ chức. Đây là chương trình xúc tiến thương mại đặc thù, dài hạn 
-của Chính phủ nhằm xây dựng, phát triển thương hiệu quốc gia thông qua thương hiệu 
+Kiên định phát triển bền vững dựa trên những giá trị cốt lõi, Tập đoàn Khang Điền được các tổ chức
+và cơ quan chức năng công nhận thông qua những giải thưởng uy tín. Trong đó, PropertyGuru
+Vietnam Property Awards 2022 là giải thưởng tôn vinh những công ty bất động sản nổi bật tại
+Việt Nam với những dự án nâng cao chất lượng sống của người mua nhà và cải thiện cảnh quan
+đô thị. Giải thưởng năm 2022 vinh danh Tập đoàn Khang Điền cho những đóng góp và nỗ lực
+không ngừng trong suốt hơn 20 năm đồng hành cùng người mua nhà Việt Nam. Cụ thể, Khang Điền
+nhận 3 hạng mục: Chứng nhận đặc biệt về Môi trường – Xã hội – Quản trị; Chứng nhận đặc biệt
+về Thiết kế và Xây dựng bền vững; Chứng nhận đặc biệt về Trách nhiệm Xã hội của Doanh nghiệp.
+Năm nay với các giải thưởng liên quan đến yếu tố môi trường, xã hội, quản trị, bền vững trong
+thiết kế và xây dựng, Khang Điền cho thấy sự nghiêm túc trong việc quản lý phát thải carbon,
+nguồn nước, nguồn cung nguyên liệu, xây dựng cộng đồng, trách nhiệm xã hội…
+Ngoài ra, Tập đoàn Khang Điền vinh dự được công nhận là “Thương hiệu Quốc Gia 2022”
+do Bộ Công Thương tổ chức. Đây là chương trình xúc tiến thương mại đặc thù, dài hạn
+của Chính phủ nhằm xây dựng, phát triển thương hiệu quốc gia thông qua thương hiệu
 sản phẩm. Đây là thành tích đáng khích lệ cho hơn 20 năm phát triển của Tập đoàn Khang Điền.
 HIỆU QUẢ KINH TẾ
 PHÁT TRIỂN KINH TẾ ĐỊA PHƯƠNG
-Năm 2022 dù hoạt động kinh doanh của Công ty chịu tác động từ tình hình thị trường chung, 
-chúng tôi vẫn nỗ lực có doanh thu khả quan. Kết quả hoạt động kinh doanh năm 2022 cho thấy 
-khách hàng tin tưởng Công ty khi quyết định chọn mua các sản phẩm của Khang Điền. 
+Năm 2022 dù hoạt động kinh doanh của Công ty chịu tác động từ tình hình thị trường chung,
+chúng tôi vẫn nỗ lực có doanh thu khả quan. Kết quả hoạt động kinh doanh năm 2022 cho thấy
+khách hàng tin tưởng Công ty khi quyết định chọn mua các sản phẩm của Khang Điền.
 (Vui lòng xem thông tin chi tiết tại Chương II, mục Tình hình hoạt động trong năm, tại trang 70).
-Các dự án do Tập đoàn Khang Điền làm chủ đầu tư luôn góp phần thúc đẩy phát triển kinh tế 
-địa phương. Trong năm 2022, các dự án chung cư của Khang Điền như Jamila, Safira 
-(TP.Thủ Đức) và Lovera Vista (Bình Chánh) đều đã hoàn tất việc bàn giao nhà, bàn giao sổ 
-và thành lập Ban Quản Trị cư dân. Điều này góp phần thúc đẩy quá trình đô thị hóa và 
-phát triển kinh tế địa phương tại khu vực Phường Phú Hữu, Thành phố Thủ Đức và 
-xã Phong Phú, huyện Bình Chánh, Thành phố Hồ Chí Minh. Dự án The Classia đã bàn giao nhà 
-và sổ hồng cho những cư dân đầu tiên. Các cộng đồng này tạo ra các nhu cầu về hàng hoá và 
-dịch vụ, góp phần vào sự phát triển hạ tầng kỹ thuật và hạ tầng xã hội cho địa phương như 
+Các dự án do Tập đoàn Khang Điền làm chủ đầu tư luôn góp phần thúc đẩy phát triển kinh tế
+địa phương. Trong năm 2022, các dự án chung cư của Khang Điền như Jamila, Safira
+(TP.Thủ Đức) và Lovera Vista (Bình Chánh) đều đã hoàn tất việc bàn giao nhà, bàn giao sổ
+và thành lập Ban Quản Trị cư dân. Điều này góp phần thúc đẩy quá trình đô thị hóa và
+phát triển kinh tế địa phương tại khu vực Phường Phú Hữu, Thành phố Thủ Đức và
+xã Phong Phú, huyện Bình Chánh, Thành phố Hồ Chí Minh. Dự án The Classia đã bàn giao nhà
+và sổ hồng cho những cư dân đầu tiên. Các cộng đồng này tạo ra các nhu cầu về hàng hoá và
+dịch vụ, góp phần vào sự phát triển hạ tầng kỹ thuật và hạ tầng xã hội cho địa phương như
 công viên, đường giao thông, cầu, trạm xử lý nước thải, diện tích cây xanh và trường học.
-118
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-119
-BÁO CÁO THƯỜNG NIÊN 2022
 
-CÔNG TRƯỜNG 
+THƯƠNG HIỆU QUỐC GIA (tiếp theo)
+Liên tục đổi mới và nâng tầm sản phẩm, mỗi dự án đều được Tập đoàn Khang Điền đặt nhiều tâm huyết,
+xuyên suốt quá trình từ thiết kế, xây dựng, hoàn thiện, bàn giao, bảo trì, cho đến quản lý vận hành.
+Trong năm 2022, dự án The Classia được Công ty chú trọng sao cho phục vụ tốt nhất về sức khoẻ và
+mang đến an toàn cho khách hàng.
+Tập đoàn Khang Điền tin rằng bảo mật thông tin khách hàng là tôn trọng quyền lợi
+khách và tuân thủ theo quy định của Pháp luật. Đây cũng là một trong các nguyên tắc
+để có được sự đồng hành và ủng hộ của khách hàng trong dài hạn. Cụ thể, chúng tôi
+đảm bảo việc bảo vệ, bảo toàn thông tin khách hàng và chỉ sử dụng
+thông tin này cho các mục đích và theo phương thức được cho phép bởi các quy định
+pháp luật hiện hành. Hiện nay chúng tôi đang áp dụng chính sách bảo mật được công
+bố trên website công ty (www.khangdien.com.vn) và hoàn thiện quy trình bảo mật
+thông tin khách hàng. Năm 2022, chúng tôi không nhận được bất kỳ khiếu nại, khiếu
+kiện có căn cứ nào từ bất kỳ bên liên quan nào kể cả thông báo của cơ quan chức
+năng về vi phạm quyền và nghĩa vụ bảo mật thông tin khách hàng.
+Về dịch vụ khách hàng, The Classia được bàn giao nhà, bàn giao Giấy
+chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn
+liền với đất cho cư dân trong năm 2022. Tập đoàn luôn phối hợp chặt
+chẽ với đơn vị quản lý toà nhà, đảm bảo quy trình quản lý được chuyên
+nghiệp, chỉn chu, sâu sát với nhu cầu của cư dân.
+Đội ngũ CSKH của Khang Điền luôn kịp thời tiếp nhận, tư vấn và hỗ trợ
+các yêu cầu của khách hàng.
+Các dự án của Khang Điền nói chung và The Classia nói riêng,
+đều có sổ đỏ từng lô, xây sẵn nhà, hoàn thiện tiện ích - cảnh quan và
+văn bản đủ điều kiện bán hàng của cơ quan có thẩm quyền trước khi
+mở bán. The Classia đã bàn giao Giấy chứng nhận quyền sử dụng đất,
+quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho những cư dân
+đầu tiên.
+Về mặt xây dựng, The Classia được hợp tác với các đơn vị uy tín trong
+ngành, chọn nhà thầu, các đơn vị tư vấn thiết kế, tư vấn kết cấu, tư vấn
+cảnh quan... theo quy trình khắt khe và minh bạch với những tiêu chí
+chuyên nghiệp. Ngoài ra, công trình xây dựng luôn tuân thủ nghiêm ngặt
+các quy định về an toàn lao động và các tiêu chí của HSE (Sức khoẻ -
+An toàn - Môi trường).
+Về xây dựng
+Về thiết kế
+Về dịch vụ
+khách hàng
+Pháp lý
+minh bạch
+SỨC KHOẺ VÀ AN TOÀN CỦA KHÁCH HÀNG
+BẢO MẬT THÔNG TIN KHÁCH HÀNG
+Về mặt thiết kế, ngoài yếu tố duy mỹ, thông minh trong tối ưu hoá diện tích, tại The
+Classia Công ty còn quan tâm đến yếu tố thân thiện với môi trường, tạo khoảng
+xanh và thiết lập hệ thống tiện ích phong phú đề cao giá trị gia đình. Đặc biệt,
+thiết kế cảnh quan được các kiến trúc sư nghiên cứu kỹ càng các điều kiện về
+khí hậu và văn hoá tại địa phương để mang đến cho cư dân một cuộc sống cân bằng
+thân-tâm-trí. Vì lẽ đó, The Classia được giới chuyên môn đánh giá cao, cụ thể là hai
+giải thưởng uy tín của Vietnam Property Awards khi vinh danh The Classia tại hai
+hạng mục: Best Housing Architectural Design (Thiết kế kiến trúc nhà ở xuất sắc nhất)
+và Best Housing Development HCMC (Dự án nhà ở xuất sắc nhất TP.HCM).
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+BỀN VỮNG VỀ NHÂN LỰC
+Thành lập từ 2001, trải qua hành trình 21 năm phát triển, Tập đoàn Khang Điền luôn
+tự hào với hệ thống nhân lực chuyên nghiệp, tận tâm. Đội ngũ lãnh đạo và nhiều
+nhân viên mẫn cán của chúng tôi gắn bó lâu dài với Công ty. Tính đến cuối
+năm 2022, chúng tôi có tổng cộng 346 nhân viên. Trong năm 2022, dù tình hình
+thị trường bất động sản gặp nhiều khó khăn, đội ngũ nhân viên luôn trung thành,
+nỗ lực vượt khó, nhận thêm nhiều đầu việc. Tất cả lãnh đạo và người lao động cũng là
+cổ đông của Công ty thông qua chương trình ESOP hàng năm.
+Chúng tôi luôn tâm niệm Con người là tài sản quý giá nhất của Công ty, vì
+thế Công ty dành nhiều thời gian, công sức và ngân sách để phát triển nguồn
+nhân lực bền vững.
+VIỆC LÀM
+Tập đoàn Khang Điền là “nơi xây tổ ấm” cho khách hàng,
+đồng thời, chúng tôi cũng biến nơi làm việc thành “tổ ấm”
+cho hơn 300 nhân viên. Công ty cam kết tạo ra việc làm
+cho người lao động và xây dựng môi trường làm việc
+thân thiện, lành mạnh, khuyến khích tinh thần cầu tiến.
+kinh doanh, mở rộng thị trường trong tương lai nhằm
+tạo thêm nhiều việc làm hơn nữa. Trong năm 2022, dù
+thị trường bất động sản có nhiều khó khăn, chúng tôi không
+giảm lương và giữ nguyên các phúc lợi căn bản.
+ĐIỀU KIỆN
+LÀM VIỆC
+CHẾ ĐỘ NGHỈ
+PHÉP, LỄ, TẾT
+Nhằm đảm bảo sức khoẻ thể chất và tinh thần cho
+toàn thể nhân viên, nhằm hỗ trợ CBNV làm việc hiệu quả
+dài lâu, chúng tôi cam kết điều kiện làm việc đạt ở mức
+tốt nhất có thể. Nhân viên tại văn phòng hội sở, chi
+nhánh và các văn phòng điều hành, ban chỉ huy công
+trường tại dự án có không gian rộng thoáng, vệ sinh,
+đầy đủ ánh sáng, nhiệt độ phù hợp. Nhân viên làm việc
+tại công trường xây dựng được trang bị đầy đủ các
+phương tiện bảo hộ lao động.
+Người lao động được nghỉ phép, nghỉ lễ, Tết theo quy định
+của bộ Luật lao động và được hưởng nguyên lương.
+Nhân viên chính thức làm đủ  12 tháng trở lên được
+hưởng 12 ngày phép một năm. Ngoài chế độ nghỉ
+thai sản theo bộ Luật lao động, Công ty bố trí thời
+gian làm việc linh hoạt nhằm giúp CBCNV có điều kiện
+cân bằng giữa công việc và thời gian tái tạo năng lượng.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+ĐA DẠNG VÀ
+BÌNH ĐẲNG
+Nhằm kết nối với nhân viên, tạo điều kiện để người lao
+động hiểu rõ hơn về tình hình phát triển của Công ty,
+trong năm 2022 chúng tôi ra mắt Bản tin nội bộ hàng tháng
+và Bản tin theo sự kiện quan trọng. Ngoài ra, ban
+lãnh đạo cũng dành thời gian trò chuyện, trao đổi
+trực tiếp hoặc thông qua thư điện tử gửi toàn thể
+nhân viên. Công ty không phân biệt đối xử người lao động
+dựa trên tuổi, giới tính, tôn giáo, sắc tộc và ngoại hình.
+Để tạo điều kiện hòa nhập cho người lao động, Công ty
+thường xuyên tổ chức các hoạt động gắn kết các phòng,
+ban, khối, với giới tính khác nhau, độ tuổi đa dạng,
+nền tảng văn hóa và kinh nghiệm sống phong phú để tạo
+điều kiện cho người lao động giao lưu, chia sẻ kinh nghiệm
+và tích lũy thêm vốn kiến thức sống cũng như trao đổi để
+nâng cao hiệu quả công việc.
+BỀN VỮNG VỀ NHÂN LỰC (tiếp theo)
+BẢO HIỂM VÀ
+PHÚC LỢI
+Tập đoàn Khang Điền tiếp tục tham gia đầy đủ chế độ
+Bảo hiểm xã hội và Bảo hiểm Y tế cho toàn thể CBCNV.
+Ngoài ra, chúng tôi còn tổ chức cho nhân viên kiểm tra
+sức khoẻ hàng năm và hỗ trợ những trường hợp cần
+theo dõi y tế dài hạn. Để động viên, khuyến khích CBCNV,
+Công ty triển khai chương trình ESOP 2022 và chi quỹ
+phúc lợi cho toàn thể người lao động.
+THƯỞNG
+TUYỂN DỤNG
+VÀ ĐÀO TẠO
+Công ty trả lương dựa trên kinh nghiệm, khối lượng
+công việc, năng lực và chức vụ của nhân viên. Ngoài ra,
+tuỳ vào tình hình kinh doanh, mức lương thưởng sẽ được
+điều chỉnh cao hơn. Nhằm khuyến khích động viên CBCNV
+sáng tạo và gia tăng hiệu quả đóng góp, Công ty có
+chế độ thưởng hàng năm dựa trên hiệu quả đóng góp của
+nhân viên.
+Công tác tuyển dụng của Công ty chú trọng đáp ứng
+tốt nhu cầu về nhân lực, phục vụ cho việc thực thi chiến
+lược tăng trưởng và phát triển của Công ty. Tùy theo
+từng vị trí, yêu cầu công việc cụ thể mà Công ty đề ra các
+chuẩn mực phù hợp như trình độ chuyên môn, năng lực,
+tinh thần chủ động, tinh thần cầu tiến. Đối với các vị trí
+lãnh đạo, Công ty đề ra tiêu chuẩn tuyển dụng cao như
+bề dày kinh nghiệm công tác, khả năng lãnh đạo, tinh thần
+doanh nghiệp và nhất là đạo đức nghề nghiệp.
+Về mặt đào tạo, chúng tôi luôn nâng cao kiến thức
+chuyên môn cho nhân viên thông qua đào tạo nội bộ,
+hướng dẫn từ các cấp quản lý trực tiếp và những người có
+chuyên môn cao; khuyến khích các phòng ban trao đổi,
+học hỏi kinh nghiệm lẫn nhau để nâng cao kiến thức
+đa ngành. Xây dựng văn hóa doanh nghiệp lành mạnh,
+đồng hành cùng nhân viên để tạo môi trường làm việc
+thân thiện, cởi mở và đầy nhiệt huyết.
+Trong năm 2022, do đối mặt với những thử thách từ
+thị trường, chúng tôi nỗ lực vượt khó, tổ chức cho nhân
+viên được đào tạo chéo với các phòng ban và học hỏi
+nhiều hơn nhờ hỗ trợ công việc với nhau. Chúng tôi luôn
+khuyến khích nhân viên không ngừng học hỏi dựa trên
+công việc để tiến bộ hơn từng ngày.
+AN TOÀN LAO ĐỘNG
+VÀ SỨC KHỎE
+NGHỀ NGHIỆP
+Trên tinh thần con người là nguồn lực quan trọng nhất của
+Công ty, chúng tôi đánh giá an toàn lao động và sức khỏe
+nghề nghiệp là phần rất quan trọng cho nền tảng bền vững
+về nhân lực. Chính sách về an toàn lao động và sức khỏe
+nghề nghiệp được thể hiện qua các quyết định mà chúng
+tôi thực thi tại các văn phòng và các công trường xây dựng.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+
+CÔNG TRƯỜNG
 XÂY DỰNG
-VĂN PHÒNG 
+VĂN PHÒNG
 CÔNG TY
-Trong khâu chọn nhà thầu tại công trường xây dựng, chúng tôi 
-luôn tìm kiếm các đối tác chia sẻ những giá trị cốt lõi tương đồng. 
-Cụ thể về an toàn lao động tại các công trường xây dựng, nhà 
-thầu phải đảm bảo đặt giá trị Con người lên trên mọi hành động. 
-Chúng tôi duy trì các chính sách về an toàn lao động, sức khỏe 
-nghề nghiệp và giám sát việc tuân thủ thường xuyên. Trong khâu 
-phát triển dự án, chúng tôi tuân thủ nghiêm ngặt việc áp dụng các 
-tiêu chuẩn, quy chuẩn ngành xây dựng và quy định pháp luật về an toàn 
-lao động, PCCC trong suốt quá trình phát triển dự án và xây dựng 
-công trình. Cụ thể, chúng tôi xem xét các yếu tố an toàn, sức khỏe và 
-phòng cháy chữa cháy từ khâu thiết kế kiến trúc, kết cấu, MEP và 
-cảnh quan. Khi đi vào giai đoạn thi công xây lắp, chúng tôi chủ động 
-hướng dẫn và yêu cầu các nhà thầu đề cao an toàn trong lao động, 
-duy trì sức khỏe cho đội ngũ người lao động và đặc biệt chú ý đến 
+Trong khâu chọn nhà thầu tại công trường xây dựng, chúng tôi
+luôn tìm kiếm các đối tác chia sẻ những giá trị cốt lõi tương đồng.
+Cụ thể về an toàn lao động tại các công trường xây dựng, nhà
+thầu phải đảm bảo đặt giá trị Con người lên trên mọi hành động.
+Chúng tôi duy trì các chính sách về an toàn lao động, sức khỏe
+nghề nghiệp và giám sát việc tuân thủ thường xuyên. Trong khâu
+phát triển dự án, chúng tôi tuân thủ nghiêm ngặt việc áp dụng các
+tiêu chuẩn, quy chuẩn ngành xây dựng và quy định pháp luật về an toàn
+lao động, PCCC trong suốt quá trình phát triển dự án và xây dựng
+công trình. Cụ thể, chúng tôi xem xét các yếu tố an toàn, sức khỏe và
+phòng cháy chữa cháy từ khâu thiết kế kiến trúc, kết cấu, MEP và
+cảnh quan. Khi đi vào giai đoạn thi công xây lắp, chúng tôi chủ động
+hướng dẫn và yêu cầu các nhà thầu đề cao an toàn trong lao động,
+duy trì sức khỏe cho đội ngũ người lao động và đặc biệt chú ý đến
 công tác PCCC trong các dự án nhà cao tầng.
-Năm 2022 tại công trường The Classia, công tác xây dựng đã được 
-hoàn thành mà không ghi nhận bất cứ trường hợp vi phạm an toàn 
-lao động nào. Công tác an toàn lao động, vệ sinh môi trường và PCCC 
-luôn được chú trọng. Các Ban Quản lý Dự án tổ chức đào tạo nâng 
-cao nhận thức người lao động, tổ chức các buổi diễn tập về an toàn và 
-sơ cấp cứu, PCCC cho toàn thể nhân sự tại công trường, tổ chức kiểm 
-tra và họp định kỳ hàng tuần với các nhà thầu về công tác an toàn lao 
-động, vệ sinh môi trường và PCCC nhằm đảm bảo tuân thủ nội quy an 
-toàn lao động - vệ sinh môi trường - PCCC theo kế hoạch tổng hợp 
-an toàn lao động đã duyệt để hạn chế tối đa rủi ro mất an toàn trong 
+Năm 2022 tại công trường The Classia, công tác xây dựng đã được
+hoàn thành mà không ghi nhận bất cứ trường hợp vi phạm an toàn
+lao động nào. Công tác an toàn lao động, vệ sinh môi trường và PCCC
+luôn được chú trọng. Các Ban Quản lý Dự án tổ chức đào tạo nâng
+cao nhận thức người lao động, tổ chức các buổi diễn tập về an toàn và
+sơ cấp cứu, PCCC cho toàn thể nhân sự tại công trường, tổ chức kiểm
+tra và họp định kỳ hàng tuần với các nhà thầu về công tác an toàn lao
+động, vệ sinh môi trường và PCCC nhằm đảm bảo tuân thủ nội quy an
+toàn lao động - vệ sinh môi trường - PCCC theo kế hoạch tổng hợp
+an toàn lao động đã duyệt để hạn chế tối đa rủi ro mất an toàn trong
 quá trình thi công.
-Để tránh cho nhân viên làm việc tại văn phòng không mắc phải những 
-bệnh nghề nghiệp liên quan đến tư thế ngồi, làm việc thiếu ánh sáng cần 
-thiết hay chịu đựng nhiệt độ quá lạnh từ máy điều hòa trung tâm, chúng tôi 
-luôn theo dõi sát sao, nhắc nhở nhân viên thực hành các bài tập 
-đơn giản mà hiệu quả tại chỗ ngồi làm việc, kiểm tra ánh sáng, 
-nhiệt độ, khuyến khích mọi người vận động, cho mắt nghỉ ngơi từng đợt. 
-Ngoài ra, nhân viên văn phòng cũng tham gia diễn tập PCCC cùng với toà 
-nhà Saigon Centre theo định kỳ bắt buộc. Công ty lập đội ứng phó trong 
-trường hợp có hoả hoạn, nhằm hỗ trợ đồng nghiệp và giúp mọi người 
+Để tránh cho nhân viên làm việc tại văn phòng không mắc phải những
+bệnh nghề nghiệp liên quan đến tư thế ngồi, làm việc thiếu ánh sáng cần
+thiết hay chịu đựng nhiệt độ quá lạnh từ máy điều hòa trung tâm, chúng tôi
+luôn theo dõi sát sao, nhắc nhở nhân viên thực hành các bài tập
+đơn giản mà hiệu quả tại chỗ ngồi làm việc, kiểm tra ánh sáng,
+nhiệt độ, khuyến khích mọi người vận động, cho mắt nghỉ ngơi từng đợt.
+Ngoài ra, nhân viên văn phòng cũng tham gia diễn tập PCCC cùng với toà
+nhà Saigon Centre theo định kỳ bắt buộc. Công ty lập đội ứng phó trong
+trường hợp có hoả hoạn, nhằm hỗ trợ đồng nghiệp và giúp mọi người
 giữ bình tĩnh để di chuyển theo quy trình đã diễn tập.
-Tập đoàn Khang Điền đã bắt đầu nghiên cứu áp dụng chứng chỉ EDGE của 
-IFC (International Finance Corporation - thuộc Ngân Hàng Thế Giới) vào 
-các dự án căn hộ. Trong năm 2022, chúng tôi đã áp dụng chứng chỉ EDGE 
-khi tiến hành thiết kế và xây dựng dự án The Privia với qui mô 1.000 căn hộ 
-(quận Bình Tân). Chứng chỉ EDGE của IFC là một hệ thống đánh giá công 
-trình sử dụng tài nguyên hiệu quả, giúp tiết kiệm năng lượng, nước và 
-năng lượng dùng để sản xuất vật liệu xây dựng công trình, qua đó giúp giảm 
-phát thải khí nhà kính. Như vậy, công trình được thiết kế và xây dựng theo 
-hệ thống chứng chỉ EDGE có thể mang lại lợi ích thiết thực cho cư dân giúp 
-tiết kiệm chi phí điện, nước và các chi phí vận hành tòa nhà khác trong quá 
-trình sử dụng. Điều này chứng tỏ quyết tâm hướng tới mục tiêu bảo vệ môi 
+Tập đoàn Khang Điền đã bắt đầu nghiên cứu áp dụng chứng chỉ EDGE của
+IFC (International Finance Corporation - thuộc Ngân Hàng Thế Giới) vào
+các dự án căn hộ. Trong năm 2022, chúng tôi đã áp dụng chứng chỉ EDGE
+khi tiến hành thiết kế và xây dựng dự án The Privia với qui mô 1.000 căn hộ
+(quận Bình Tân). Chứng chỉ EDGE của IFC là một hệ thống đánh giá công
+trình sử dụng tài nguyên hiệu quả, giúp tiết kiệm năng lượng, nước và
+năng lượng dùng để sản xuất vật liệu xây dựng công trình, qua đó giúp giảm
+phát thải khí nhà kính. Như vậy, công trình được thiết kế và xây dựng theo
+hệ thống chứng chỉ EDGE có thể mang lại lợi ích thiết thực cho cư dân giúp
+tiết kiệm chi phí điện, nước và các chi phí vận hành tòa nhà khác trong quá
+trình sử dụng. Điều này chứng tỏ quyết tâm hướng tới mục tiêu bảo vệ môi
 trường, tài nguyên và phát triển bền vững của chủ đầu tư dự án.
-Chúng tôi chú trọng quản lý sử dụng vật liệu gạch và vật tư thiết bị kiến trúc 
-với mục tiêu tiết kiệm năng lượng khi sản xuất và sử dụng như: gạch không 
-nung (chiếm đến 70% lượng gạch của công trình), đèn LED tiết kiệm điện, 
-đèn cảm ứng tiết kiệm điện, tỉ lệ vách kính, cửa sổ kính và tường phù hợp vừa 
-đảm bảo tối ưu về sử dụng năng lượng, vừa đạt thẩm mỹ, hiệu quả cao trong 
-việc đón ánh sáng và đối lưu gió tự nhiên, thiết bị vệ sinh có thiết kế tiết kiệm 
-nước. Những vật liệu này làm giảm tác động lên môi trường trong mức độ 
-cho phép của các quy chuẩn, tiêu chuẩn xây dựng về sức bền vật liệu, an toàn 
+Chúng tôi chú trọng quản lý sử dụng vật liệu gạch và vật tư thiết bị kiến trúc
+với mục tiêu tiết kiệm năng lượng khi sản xuất và sử dụng như: gạch không
+nung (chiếm đến 70% lượng gạch của công trình), đèn LED tiết kiệm điện,
+đèn cảm ứng tiết kiệm điện, tỉ lệ vách kính, cửa sổ kính và tường phù hợp vừa
+đảm bảo tối ưu về sử dụng năng lượng, vừa đạt thẩm mỹ, hiệu quả cao trong
+việc đón ánh sáng và đối lưu gió tự nhiên, thiết bị vệ sinh có thiết kế tiết kiệm
+nước. Những vật liệu này làm giảm tác động lên môi trường trong mức độ
+cho phép của các quy chuẩn, tiêu chuẩn xây dựng về sức bền vật liệu, an toàn
 kết cấu công trình và kiến trúc công trình xây dựng.
-Ngoài ra, vật liệu bê-tông cốt thép hiện nay vẫn là giải pháp vật liệu kết 
-cấu bền vững, an toàn, phù hợp với điều kiện khí hậu Việt Nam đối với các 
-công trình bất động sản nói chung và đặc biệt là các công trình nhà cao tầng 
-như chung cư. Chúng tôi đảm bảo đáp ứng tốt các quy chuẩn, tiêu chuẩn về 
-sử dụng bê-tông cốt thép trong xây dựng. Chúng tôi thu hồi thép thải ra trong 
-quá trình thi công để chuyển cho bên tái chế sản xuất thép, thu hồi gạch vụn 
-để chuyển cho bên tái sử dụng cho việc san lấp mặt bằng, và luân chuyển 
+Ngoài ra, vật liệu bê-tông cốt thép hiện nay vẫn là giải pháp vật liệu kết
+cấu bền vững, an toàn, phù hợp với điều kiện khí hậu Việt Nam đối với các
+công trình bất động sản nói chung và đặc biệt là các công trình nhà cao tầng
+như chung cư. Chúng tôi đảm bảo đáp ứng tốt các quy chuẩn, tiêu chuẩn về
+sử dụng bê-tông cốt thép trong xây dựng. Chúng tôi thu hồi thép thải ra trong
+quá trình thi công để chuyển cho bên tái chế sản xuất thép, thu hồi gạch vụn
+để chuyển cho bên tái sử dụng cho việc san lấp mặt bằng, và luân chuyển
 tái sử dụng ván khuôn theo quy chuẩn và tiêu chuẩn ngành.
-Trong năm 2022 tại The Classia, chúng tôi chú trọng xây các hàng rào 
-phân cách bằng cây xanh thiên nhiên, thay thế cho các vật liệu xây dựng 
-thông thường. Các khu vườn, lối đi được xanh hoá. Mảng xanh tại 
-The Classia gần 4000m2, giúp cư dân luôn được sống giữa thiên nhiên 
-trong lành. 
+Trong năm 2022 tại The Classia, chúng tôi chú trọng xây các hàng rào
+phân cách bằng cây xanh thiên nhiên, thay thế cho các vật liệu xây dựng
+thông thường. Các khu vườn, lối đi được xanh hoá. Mảng xanh tại
+The Classia gần 4000m2, giúp cư dân luôn được sống giữa thiên nhiên
+trong lành.
 THÂN THIỆN VỚI MÔI TRƯỜNG
-TÁC ĐỘNG LÊN 
+TÁC ĐỘNG LÊN
 MÔI TRƯỜNG
-QUẢN LÝ  
+QUẢN LÝ
 VẬT LIỆU
 BỀN VỮNG VỀ NHÂN LỰC (tiếp theo)
-126
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-127
-BÁO CÁO THƯỜNG NIÊN 2022
 
 THÂN THIỆN VỚI MÔI TRƯỜNG (tiếp theo)
-Ngay từ khâu thiết kế, các kiến trúc sư được Tập đoàn Khang Điền yêu 
-cầu lưu ý về phát triển bền vững, trong đó, tiêu thụ năng lượng trong cuộc 
-sống hàng ngày tại các dự án cần đặc biệt quan tâm. Trong năm 2022 khi 
-thiết kế và xây dựng The Classia, chúng tôi đã cẩn trọng từng chi tiết trên 
-tinh thần giảm tối đa mức tiêu thụ năng lượng. Cụ thể, các ngôi nhà tại 
-The Classia được thiết kế đối lưu không khí, tạo môi trường thông thoáng, 
-giúp gia chủ giảm tiêu thụ năng lượng bằng máy điều hoà nhiệt độ. 
-Ngoài ra, các kiến trúc sư cân đối tỷ lệ giữa kính và tường mặt dựng nhằm cân 
-bằng giữa ánh sáng và nhiệt độ. Điều này giúp các ngôi nhà luôn thông thoáng, 
-mát mẻ, tận dụng gió trời và ánh sáng thiên nhiên. Cư dân sống tại The Classia 
-tiết kiệm tối đa tiêu thụ năng lượng vào việc thắp sáng và dùng điều hoà 
+Ngay từ khâu thiết kế, các kiến trúc sư được Tập đoàn Khang Điền yêu
+cầu lưu ý về phát triển bền vững, trong đó, tiêu thụ năng lượng trong cuộc
+sống hàng ngày tại các dự án cần đặc biệt quan tâm. Trong năm 2022 khi
+thiết kế và xây dựng The Classia, chúng tôi đã cẩn trọng từng chi tiết trên
+tinh thần giảm tối đa mức tiêu thụ năng lượng. Cụ thể, các ngôi nhà tại
+The Classia được thiết kế đối lưu không khí, tạo môi trường thông thoáng,
+giúp gia chủ giảm tiêu thụ năng lượng bằng máy điều hoà nhiệt độ.
+Ngoài ra, các kiến trúc sư cân đối tỷ lệ giữa kính và tường mặt dựng nhằm cân
+bằng giữa ánh sáng và nhiệt độ. Điều này giúp các ngôi nhà luôn thông thoáng,
+mát mẻ, tận dụng gió trời và ánh sáng thiên nhiên. Cư dân sống tại The Classia
+tiết kiệm tối đa tiêu thụ năng lượng vào việc thắp sáng và dùng điều hoà
 nhiệt độ.
-Tại văn phòng Công ty, chúng tôi khuyến khích nhân viên có ý thức bảo 
-vệ môi trường bằng hành động tiết kiệm năng lượng. Chúng tôi tắt 
-bớt đèn ở những khu vực không thật sự cần thiết, không mở vòi nước chảy 
-mạnh, sử dụng giấy tiết kiệm, hạn chế in ấn, khi cần in đều để chế độ in 
+Tại văn phòng Công ty, chúng tôi khuyến khích nhân viên có ý thức bảo
+vệ môi trường bằng hành động tiết kiệm năng lượng. Chúng tôi tắt
+bớt đèn ở những khu vực không thật sự cần thiết, không mở vòi nước chảy
+mạnh, sử dụng giấy tiết kiệm, hạn chế in ấn, khi cần in đều để chế độ in
 hai mặt…
-Với những dự án của Tập đoàn Khang Điền đã đi vào hoạt động, chúng 
-tôi thảo luận với Ban quản lý - Ban quản trị nhằm khuyến khích và kêu gọi 
-cư dân cùng chung tay bảo vệ môi trường, giảm tiêu thụ năng lượng. Cụ thể 
-trong năm 2022, tại các dự án như Venica, Merita, Melosa, Verosa… cư dân 
-đã hưởng ứng Giờ Trái đất – Chiến dịch cộng đồng về môi trường trên toàn 
-thế giới. Thông qua hành động tắt đèn, chiến dịch giúp nâng cao nhận thức 
-về môi trường và biến đổi khí hậu, cư dân đã đồng lòng tắt những hệ thống 
-chiếu sáng không cần thiết trong vòng một giờ. 
-TIÊU THỤ  
+Với những dự án của Tập đoàn Khang Điền đã đi vào hoạt động, chúng
+tôi thảo luận với Ban quản lý - Ban quản trị nhằm khuyến khích và kêu gọi
+cư dân cùng chung tay bảo vệ môi trường, giảm tiêu thụ năng lượng. Cụ thể
+trong năm 2022, tại các dự án như Venica, Merita, Melosa, Verosa… cư dân
+đã hưởng ứng Giờ Trái đất – Chiến dịch cộng đồng về môi trường trên toàn
+thế giới. Thông qua hành động tắt đèn, chiến dịch giúp nâng cao nhận thức
+về môi trường và biến đổi khí hậu, cư dân đã đồng lòng tắt những hệ thống
+chiếu sáng không cần thiết trong vòng một giờ.
+TIÊU THỤ
 NĂNG LƯỢNG
-Bảo vệ tài nguyên nước là một trong những ưu tiên của chúng tôi do 
-nước sạch là tài nguyên có hạn. Tại các dự án, chúng tôi xây dựng 
-trạm xử lý nước thải nhằm xử lý chất thải trước khi xả ra môi trường. 
-Chúng tôi đầu tư xây dựng các hệ thống xử lý nước thiết kế theo công 
-nghệ mới, đảm bảo tuân thủ các quy định về nước thải dân dụng. 
-Bắt đầu từ năm 2021 và tiếp tục trong năm 2022 chúng tôi theo đuổi 
-mục tiêu công trình xanh, cụ thể các thiết bị vòi nước sinh hoạt dự án 
-The Privia ở quận Bình Tân (quy mô dự kiến trên 1.000 căn hộ) là loại tiết kiệm 
+Bảo vệ tài nguyên nước là một trong những ưu tiên của chúng tôi do
+nước sạch là tài nguyên có hạn. Tại các dự án, chúng tôi xây dựng
+trạm xử lý nước thải nhằm xử lý chất thải trước khi xả ra môi trường.
+Chúng tôi đầu tư xây dựng các hệ thống xử lý nước thiết kế theo công
+nghệ mới, đảm bảo tuân thủ các quy định về nước thải dân dụng.
+Bắt đầu từ năm 2021 và tiếp tục trong năm 2022 chúng tôi theo đuổi
+mục tiêu công trình xanh, cụ thể các thiết bị vòi nước sinh hoạt dự án
+The Privia ở quận Bình Tân (quy mô dự kiến trên 1.000 căn hộ) là loại tiết kiệm
 nước, và thiết kế của The Privia đạt được chứng chỉ EDGE.
-Trong công tác san lấp mặt bằng, thi công dự án, các nhà thầu tận 
-dụng nguồn nước tự nhiên tại địa bàn thi công để vệ sinh máy móc 
-thiết bị thi công, vệ sinh đường sá và vệ sinh mặt bằng thi công, hạng 
-mục thi công. Ngoài ra, Ban Chỉ huy công trường chủ động kiểm 
-tra hàng ngày và xử lý khắc phục rò, rỉ các đường ống cấp nước tại 
-dự án. Để tiết kiệm nước, chúng tôi cũng trồng các loại cỏ, cây xanh chịu nắng, 
+Trong công tác san lấp mặt bằng, thi công dự án, các nhà thầu tận
+dụng nguồn nước tự nhiên tại địa bàn thi công để vệ sinh máy móc
+thiết bị thi công, vệ sinh đường sá và vệ sinh mặt bằng thi công, hạng
+mục thi công. Ngoài ra, Ban Chỉ huy công trường chủ động kiểm
+tra hàng ngày và xử lý khắc phục rò, rỉ các đường ống cấp nước tại
+dự án. Để tiết kiệm nước, chúng tôi cũng trồng các loại cỏ, cây xanh chịu nắng,
 chịu nóng tốt và chú ý giữ vệ sinh công trường.
-Tập đoàn Khang Điền luôn ý thức bảo vệ môi trường dựa trên tôn chỉ 
-phát triển bền vững. Chúng tôi nghiêm túc đánh giá tác động đến môi trường 
-khi triển khai các dự án và quản lý vận hành công trình sau khi đưa vào 
-sử dụng. Dự án và công trình của chúng tôi tuân thủ các quy chuẩn, 
-tiêu chuẩn về môi trường đồng thời đảm bảo chất lượng thiết kế và xây dựng 
+Tập đoàn Khang Điền luôn ý thức bảo vệ môi trường dựa trên tôn chỉ
+phát triển bền vững. Chúng tôi nghiêm túc đánh giá tác động đến môi trường
+khi triển khai các dự án và quản lý vận hành công trình sau khi đưa vào
+sử dụng. Dự án và công trình của chúng tôi tuân thủ các quy chuẩn,
+tiêu chuẩn về môi trường đồng thời đảm bảo chất lượng thiết kế và xây dựng
 công trình đáp ứng tốt các quy chuẩn và tiêu chuẩn hiện hành.
-Chúng tôi đảm bảo tuân thủ các quy định pháp luật về bảo vệ 
-môi trường, minh bạch trong khâu pháp lý dự án, đánh giá tác động 
-môi trường. Chúng tôi phối hợp với cơ quan chức năng tổ chức kiểm tra 
-định kỳ giám sát chất lượng nước thải đầu ra tại các khu dân cư và khu 
-công nghiệp. Chúng tôi tuân thủ các yếu tố trọng yếu của các quy định, 
-quy chuẩn về môi trường tại Việt Nam. Trong năm 2022 chúng tôi không 
-phát sinh bất kỳ khiếu kiện hay xử phạt vi phạm nào do không tuân thủ luật 
+Chúng tôi đảm bảo tuân thủ các quy định pháp luật về bảo vệ
+môi trường, minh bạch trong khâu pháp lý dự án, đánh giá tác động
+môi trường. Chúng tôi phối hợp với cơ quan chức năng tổ chức kiểm tra
+định kỳ giám sát chất lượng nước thải đầu ra tại các khu dân cư và khu
+công nghiệp. Chúng tôi tuân thủ các yếu tố trọng yếu của các quy định,
+quy chuẩn về môi trường tại Việt Nam. Trong năm 2022 chúng tôi không
+phát sinh bất kỳ khiếu kiện hay xử phạt vi phạm nào do không tuân thủ luật
 pháp và các quy định về môi trường.
 TIÊU THỤ NƯỚC
-TUÂN THỦ  
-QUY ĐỊNH PHÁP 
-LUẬT VỀ BẢO VỆ  
+TUÂN THỦ
+QUY ĐỊNH PHÁP
+LUẬT VỀ BẢO VỆ
 MÔI TRƯỜNG
-128
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-129
-BÁO CÁO THƯỜNG NIÊN 2022
+
+TRÁCH NHIỆM VỚI XÃ HỘI
+Là một công ty đại chúng, kiên định với mục tiêu phát triển bền vững, ngoài trách nhiệm tạo ra
+giá trị cho cổ đông, đối tác, khách hàng, Khang Điền không ngừng nỗ lực trong các hoạt động
+trách nhiệm xã hội của doanh nghiệp nhằm nâng tầm chất lượng sống cho cộng đồng.
+Trong suốt hành trình phát triển hơn hai thập kỷ qua, chúng tôi luôn dành ra ngân sách để
+tích cực tham gia vào các chương trình thiện nguyện. Trong năm 2022, dù đối mặt với những
+thử thách chung đến từ nền kinh tế vĩ mô và thị trường bất động sản trầm lắng, chúng tôi vẫn
+cố gắng chung tay cùng cộng đồng với nguồn ngân sách hơn 32,5 tỷ đồng.
+Cụ thể Công ty đã đóng góp cho các chương trình thiện nguyện, tập trung chủ yếu vào
+Sức khoẻ - Giáo dục – Nâng cao chất lượng sống. Năm 2022 chúng tôi có các hoạt động tiêu
+biểu như sau:
+Sức khoẻ
+Hỗ trợ nâng cấp và sửa chữa các cơ sở khám chữa bệnh với nhiều hạng
+mục như cải tạo khu thu dung, khu bệnh phổi, xây mới khu vực nhà thuốc,
+xây mới cổng và khu cảnh quan… (tại bệnh viện Lê Văn Thịnh, bệnh viện
+Phạm Ngọc Thạch, bệnh viện Chợ Rẫy).
+Hỗ trợ người cao tuổi, người có hoàn cảnh khó khăn được thăm khám sức
+khoẻ tại tỉnh Bến Trẻ và tỉnh Hậu Giang, hợp tác cùng bệnh viện Chợ Rẫy,
+theo chương trình của Uỷ ban Mặt trận Tổ quốc Việt Nam của các tỉnh.
+Hỗ trợ hàng ngàn bệnh nhân nghèo phẫu thuật mắt theo chương trình
+của bệnh viện mắt Tây Nam.
+Hỗ trợ phẫu thuật tim cho trẻ em nghèo mắc bệnh tim bẩm sinh theo
+chương trình Nhịp Tim Việt Nam.
+Giáo dục
+Nâng cao
+chất lượng
+sống
+Tiếp tục đóng góp vào các quỹ khuyến học và cấp học bổng cho các em mồ côi vì Covid-19,
+các em thuộc diện nghèo học giỏi, các em cơ nhỡ của các mái ấm… theo các chương
+trình của Trung ương Hội Sinh viên Việt Nam, Hội Nông dân Việt Nam.
+Hỗ trợ quà cho các em học sinh và thầy cô giáo có hoàn cảnh khó khăn theo chương
+trình của Đoàn Thanh niên Cộng sản Hồ Chí Minh.
+Tài trợ học bổng cho con em CNVC có hoàn cảnh khó khăn theo chương trình của Liên
+đoàn Lao động TP.HCM.
+Hỗ trợ chi phí thuê nhà và học phí cho các mái ấm như mái ấm Thiên Thần.
+Đồng hành cùng các quỹ an sinh xã hội như Hội Người cao tuổi TP.HCM, Hội Chữ
+Thập Đỏ Việt Nam, Quỹ vì Người nghèo, Hội Cứu trợ trẻ em tàn tật, Quỹ từ thiện
+VinaCapital Foundation.
+Hỗ trợ người dân có hoàn cảnh khó khăn, hỗ trợ gói quà Tết, chi phí về quê ăn Tết theo
+chương trình của Uỷ ban Mặt trận Tổ quốc tỉnh Trà Vinh, tỉnh Bến Tre, tỉnh Điện Biên,
+TP.Thủ Đức.
+Hỗ trợ các hội đoàn về Văn hoá - Thể thao như: lễ trao giải Làn Sóng Xanh, giải Tennis VSD.
+Trong năm 2022, Tập đoàn Khang Điền không chỉ hỗ trợ tài chính cho các tổ chức, đoàn hội, mà chúng tôi
+còn khuyến khích CBCNV cùng tham gia các hoạt động thiện nguyện và đưa vào Bản tin nội bộ các
+chương trình này nhằm nhân rộng tinh thần tương thân tương ái trong Công ty. Chúng tôi luôn dõi theo
+những trường hợp cần hỗ trợ lâu dài và có kế hoạch thực hiện các hoạt động trách nhiệm xã hội của
+doanh nghiệp một cách hiệu quả hơn, đến được với nhiều trường hợp cần quan tâm hơn.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG

@@ -1,20 +1,14 @@
-MỤC LỤC
 DANH MỤC VIẾT TẮT
-BĐS
 Bất động sản
 KSNB
 Kiểm soát Nội bộ
-BGĐ
 Ban Giám đốc
 KSTT
-Kiểm soát Tuân thủ 
-BLĐ
+Kiểm soát Tuân thủ
 Ban Lãnh đạo
 KTNB
 Kiểm toán Nội bộ
-BKS
 Ban Kiểm soát
-NĐT
 Nhà đầu tư
 CBNV
 Cán bộ nhân viên
@@ -26,52 +20,44 @@ NHTM
 Ngân hàng Thương mại
 CTCK
 Công ty Chứng khoán
-NPF
-Non-prefunding – Giao dịch 
+Non-prefunding – Giao dịch
 không ký quỹ
-CTCP 
-Công ty Cổ phần 
+CTCP
+Công ty Cổ phần
 PCRT
-Phòng chống rửa tiền 
+Phòng chống rửa tiền
 ĐHĐCĐ
 Đại hội đồng cổ đông
-PMS
-Hệ thống đánh giá hiệu quả 
+Hệ thống đánh giá hiệu quả
 công việc
 DVCK
 Dịch vụ Chứng khoán
 P-notes
 Chứng chỉ tham gia đầu tư
 ESOP
-Chương trình lựa chọn cổ phiếu 
+Chương trình lựa chọn cổ phiếu
 cho người lao động trong công ty
-PO
 Chào bán ra công chúng
-ESG
 Môi Trường, Xã Hội & Quản Trị Doanh Nghiệp
 PTBV
-Phát triển bền vững 
-FDI
+Phát triển bền vững
 Đầu tư trực tiếp nước ngoài
 QTDL
 Quản trị dữ liệu
-FED
 Cục Dự trữ liên bang Mỹ
 QTRR
-Quản trị rủi ro 
-GDP
+Quản trị rủi ro
 Tổng sản phẩm quốc nội
 Sở GDCK
 Sở Giao dịch Chứng khoán
 GTGD
 Giá trị giao dịch
 SVCK
-So với cùng kỳ 
+So với cùng kỳ
 HĐQT
 Hội đồng quản trị
 SSIAM
 Công ty Quản lý Quỹ SSI
-HNX
 Sở Giao dịch Chứng khoán Hà Nội
 SSID
 CTCP Công nghệ số SSI
@@ -79,18 +65,14 @@ HOSE
 Sở Giao dịch Chứng khoán TP. Hồ Chí Minh
 TCTD
 Tổ chức tín dụng
-IB
 Dịch vụ Ngân hàng đầu tư
-TGĐ
 Tổng Giám đốc
-IFC 
 Tổ chức Tài chính Quốc tế
 TPDN
 Trái phiếu doanh nghiệp
-IPO
 Phát hành cổ phiếu lần đầu ra công chúng
 TTCK
-Thị trường chứng khoán 
+Thị trường chứng khoán
 KHCN
 Khách hàng cá nhân
 TTPT
@@ -99,556 +81,845 @@ KHTC
 Khách hàng tổ chức
 TTTC
 Thị trường tài chính
-KPI
-Chỉ số đo lường hiệu quả công việc 
+Chỉ số đo lường hiệu quả công việc
 UBCKNN
-Ủy ban Chứng khoán Nhà 
+Ủy ban Chứng khoán Nhà
 nước
 KQKD
 Kết quả Kinh doanh
 UBKT
-Ủy ban Kiểm toán 
-KRX
-Hệ thống công nghệ thông tin quản lý và 
+Ủy ban Kiểm toán
+Hệ thống công nghệ thông tin quản lý và
 điều hành giao dịch trên TTCK Việt Nam
-WB
 Ngân hàng Thế giới
-THÔNG ĐIỆP CHỦ TỊCH 
-HỘI ĐỒNG QUẢN TRỊ	
-6
-DẤU ẤN HOẠT ĐỘNG 2024	
-8
-TỔNG QUAN	
-THÔNG TIN 
-DOANH NGHIỆP	
-13
-LỊCH SỬ PHÁT TRIỂN	
-14
-NGÀNH NGHỀ 
-KINH DOANH	
-16
-MẠNG LƯỚI 
-HOẠT ĐỘNG 	
-18
-GIẢI THƯỞNG TIÊU BIỂU	
-20
-TÓM LƯỢC VỀ CÔNG TY 
-VÀ BỘ MÁY TỔ CHỨC	
-22
-BÁO CÁO 
-HOẠT ĐỘNG 2024	
-TỔNG QUAN NỀN KINH TẾ 
-VÀ THỊ TRƯỜNG 
-CHỨNG KHOÁN 2024	
-30
-TÌNH HÌNH 
-TÀI CHÍNH 2024	
-40
-BÁO CÁO CHI TIẾT 
-HOẠT ĐỘNG NĂM 2024	
-47
-QUẢN TRỊ 
-DOANH NGHIỆP	
-BÁO CÁO HOẠT ĐỘNG 
-CỦA HỘI ĐỒNG QUẢN TRỊ 	
-102
-THÙ LAO VÀ CÁC KHOẢN 
-LỢI ÍCH CỦA HỘI ĐỒNG 
-QUẢN TRỊ & BAN 
-TỔNG GIÁM ĐỐC  	
-108
-QUẢN TRỊ RỦI RO	
-110
-THÔNG TIN CỔ PHIẾU & 
-HOẠT ĐỘNG QUAN HỆ 
-NHÀ ĐẦU TƯ	
-128
-ĐÁNH GIÁ QUẢN TRỊ  
-CÔNG TY TẠI SSI	
-132
-CHIẾN LƯỢC 
-PHÁT TRIỂN	
-DỰ BÁO NỀN KINH TẾ 
-VÀ THỊ TRƯỜNG 
-CHỨNG KHOÁN 2025	
-78
-CHIẾN LƯỢC PHÁT TRIỂN 
-TRUNG – DÀI HẠN	
-82
-HOẠT ĐỘNG PHÁT TRIỂN 
+THÔNG ĐIỆP CHỦ TỊCH
+HỘI ĐỒNG QUẢN TRỊ
+TỔNG QUAN
+THÔNG TIN
+DOANH NGHIỆP
+LỊCH SỬ PHÁT TRIỂN
+NGÀNH NGHỀ
+KINH DOANH
+MẠNG LƯỚI
+HOẠT ĐỘNG
+GIẢI THƯỞNG TIÊU BIỂU
+TÓM LƯỢC VỀ CÔNG TY
+VÀ BỘ MÁY TỔ CHỨC
+BÁO CÁO
+HOẠT ĐỘNG 2024
+TỔNG QUAN NỀN KINH TẾ
+VÀ THỊ TRƯỜNG
+CHỨNG KHOÁN 2024
+TÌNH HÌNH
+TÀI CHÍNH 2024
+BÁO CÁO CHI TIẾT
+HOẠT ĐỘNG NĂM 2024
+QUẢN TRỊ
+DOANH NGHIỆP
+BÁO CÁO HOẠT ĐỘNG
+CỦA HỘI ĐỒNG QUẢN TRỊ
+THÙ LAO VÀ CÁC KHOẢN
+LỢI ÍCH CỦA HỘI ĐỒNG
+QUẢN TRỊ & BAN
+TỔNG GIÁM ĐỐC
+QUẢN TRỊ RỦI RO
+THÔNG TIN CỔ PHIẾU &
+HOẠT ĐỘNG QUAN HỆ
+NHÀ ĐẦU TƯ
+ĐÁNH GIÁ QUẢN TRỊ
+CÔNG TY TẠI SSI
+CHIẾN LƯỢC
+PHÁT TRIỂN
+DỰ BÁO NỀN KINH TẾ
+VÀ THỊ TRƯỜNG
+CHỨNG KHOÁN 2025
+TRUNG – DÀI HẠN
+HOẠT ĐỘNG PHÁT TRIỂN
 BỀN VỮNG
-TỔNG QUAN VỀ BÁO CÁO 
-PHÁT TRIỂN BỀN VỮNG	
-136
-ĐỊNH HƯỚNG CHIẾN LƯỢC 
-VỀ PHÁT TRIỂN BỀN VỮNG 
-CỦA SSI	
-138
-BÁO CÁO CÁC HOẠT ĐỘNG 
-PHÁT TRIỂN BỀN VỮNG	
-147
-BÁO CÁO TÀI CHÍNH 
-HỢP NHẤT	
-THÔNG TIN CHUNG	
-156
-BÁO CÁO CỦA 
-BAN TỔNG GIÁM ĐỐC	
-158
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP	
-159
+PHÁT TRIỂN BỀN VỮNG
+ĐỊNH HƯỚNG CHIẾN LƯỢC
+VỀ PHÁT TRIỂN BỀN VỮNG
+CỦA SSI
+BÁO CÁO CÁC HOẠT ĐỘNG
+PHÁT TRIỂN BỀN VỮNG
+HỢP NHẤT
+THÔNG TIN CHUNG
+BÁO CÁO CỦA
+BAN TỔNG GIÁM ĐỐC
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
 THÔNG TIN KHÁC
-1
-4
-5
-6
-7
-2
-3
 
-Cam kết ESG và 
+Cam kết ESG và
 đầu tư bền vững
-Năm 2024, SSIAM đẩy mạnh tích hợp ESG vào chiến lược đầu tư, hoàn thiện khung 
-hướng dẫn ESG cho toàn bộ chu kỳ đầu tư vào vốn cổ phần tư nhân. Hệ thống này 
-bao gồm danh sách sàng lọc ESG, công cụ thu thập dữ liệu và cơ chế báo cáo các 
-vấn đề liên quan, đảm bảo việc quản lý danh mục đầu tư tuân thủ các tiêu chuẩn 
+Năm 2024, SSIAM đẩy mạnh tích hợp ESG vào chiến lược đầu tư, hoàn thiện khung
+hướng dẫn ESG cho toàn bộ chu kỳ đầu tư vào vốn cổ phần tư nhân. Hệ thống này
+bao gồm danh sách sàng lọc ESG, công cụ thu thập dữ liệu và cơ chế báo cáo các
+vấn đề liên quan, đảm bảo việc quản lý danh mục đầu tư tuân thủ các tiêu chuẩn
 phát triển bền vững.
-SSIAM cũng tập trung vào vai trò quản lý ESG trong ngành tài chính, tham gia các 
-hoạt động thúc đẩy nhận thức về quản lý rủi ro và tiêu chuẩn ESG trong ngành tài 
-chính. Công ty đã phối hợp với CTCP Chứng khoán SSI để tư vấn cho dự án chấm 
-điểm ESG của các CTCK Việt Nam thuộc VASB, đồng thời đóng vai trò chuyên gia 
-ESG trong cuộc thi Thách thức ESG, hướng dẫn và thuyết trình cho các thí sinh trẻ về 
+SSIAM cũng tập trung vào vai trò quản lý ESG trong ngành tài chính, tham gia các
+hoạt động thúc đẩy nhận thức về quản lý rủi ro và tiêu chuẩn ESG trong ngành tài
+chính. Công ty đã phối hợp với CTCP Chứng khoán SSI để tư vấn cho dự án chấm
+điểm ESG của các CTCK Việt Nam thuộc VASB, đồng thời đóng vai trò chuyên gia
+ESG trong cuộc thi Thách thức ESG, hướng dẫn và thuyết trình cho các thí sinh trẻ về
 ứng dụng ESG trong ngành quản lý quỹ.
-Bên cạnh đó, SSIAM đã tổ chức đào tạo ESG cho đội ngũ đầu tư, giúp nâng cao năng 
-lực đánh giá và triển khai các chiến lược đầu tư bền vững. Một dấu mốc quan trọng 
-trong năm là việc hoàn thành báo cáo ESG thường niên đầu tiên theo khung UNPRI, 
+Bên cạnh đó, SSIAM đã tổ chức đào tạo ESG cho đội ngũ đầu tư, giúp nâng cao năng
+lực đánh giá và triển khai các chiến lược đầu tư bền vững. Một dấu mốc quan trọng
+trong năm là việc hoàn thành báo cáo ESG thường niên đầu tiên theo khung UNPRI,
 củng cố cam kết minh bạch và trách nhiệm trong đầu tư có trách nhiệm.
-Ngoài ra, trang ESG trên website chính thức của SSIAM cũng đã được hoàn thiện, 
-giúp cung cấp thông tin rõ ràng hơn về các quy trình ESG của Công ty, từ đó nâng 
-cao trách nhiệm giải trình và minh bạch hóa trong hoạt động đầu tư. Những bước 
-tiến này khẳng định cam kết của SSIAM trong việc phát triển bền vững, không chỉ vì 
+Ngoài ra, trang ESG trên website chính thức của SSIAM cũng đã được hoàn thiện,
+giúp cung cấp thông tin rõ ràng hơn về các quy trình ESG của Công ty, từ đó nâng
+cao trách nhiệm giải trình và minh bạch hóa trong hoạt động đầu tư. Những bước
+tiến này khẳng định cam kết của SSIAM trong việc phát triển bền vững, không chỉ vì
 lợi ích của nhà đầu tư mà còn vì sự ổn định lâu dài của thị trường tài chính Việt Nam.
 CTCP CÔNG NGHỆ SỐ SSI (SSI DIGITAL)
-Công ty 
-Quản lý quỹ 
+Công ty
+Quản lý quỹ
 của năm
 The Asset
-Giải thưởng 
-thị trường 
+Giải thưởng
+thị trường
 - Việt Nam
 Asian Investor
-Dịch vụ quản lý 
-tài sản đầu tư 
-tiêu biểu 
+Dịch vụ quản lý
+tài sản đầu tư
+tiêu biểu
 Báo Đầu tư
-Nền tảng di động 
-và trực tuyến 
-tốt nhất 
-(Công ty Quản lý 
-quỹ)
-Alpha Southeast 
+Nền tảng di động
+và trực tuyến
+tốt nhất
+(Công ty Quản lý
+Alpha Southeast
 Asia
-Công ty Quản lý 
-quỹ và tài sản 
+Công ty Quản lý
+quỹ và tài sản
 tốt nhất Việt Nam
-Alpha Southeast 
+Alpha Southeast
 Asia
-Công ty 
-Quản lý quỹ tốt nhất 
-Việt Nam cho các 
-danh mục bảo hiểm 
-và chương trình 
+Công ty
+Quản lý quỹ tốt nhất
+Việt Nam cho các
+danh mục bảo hiểm
+và chương trình
 hưu trí tư nhân
-Alpha Southeast 
+Alpha Southeast
 Asia
-GIẢI THƯỞNG VÀ VINH DANH QUỐC TẾ 
-SSIAM tiếp tục được vinh danh với nhiều giải thưởng danh giá, khẳng định vị thế công ty quản 
+GIẢI THƯỞNG VÀ VINH DANH QUỐC TẾ
+SSIAM tiếp tục được vinh danh với nhiều giải thưởng danh giá, khẳng định vị thế công ty quản
 lý tài sản hàng đầu tại Việt Nam:
-Năm 2024 đánh dấu bước 
-tiến quan trọng của SSI 
-Digital trong việc mở rộng 
-ảnh hưởng và định hình 
-hệ sinh thái tài sản số tại 
-Việt Nam. Thông qua việc 
-tổ chức thành công các sự 
-kiện quy mô lớn, phát triển 
-quan hệ hợp tác chiến 
-lược với các quỹ đầu tư 
-hàng đầu, cũng như tích 
-cực tham gia vào các hoạt 
-động định hình khung pháp 
-lý, SSI Digital đã khẳng 
-định vai trò tiên phong 
-trong lĩnh vực blockchain, 
+Năm 2024 đánh dấu bước
+tiến quan trọng của SSI
+Digital trong việc mở rộng
+ảnh hưởng và định hình
+hệ sinh thái tài sản số tại
+Việt Nam. Thông qua việc
+tổ chức thành công các sự
+kiện quy mô lớn, phát triển
+quan hệ hợp tác chiến
+lược với các quỹ đầu tư
+hàng đầu, cũng như tích
+cực tham gia vào các hoạt
+động định hình khung pháp
+lý, SSI Digital đã khẳng
+định vai trò tiên phong
+trong lĩnh vực blockchain,
 fintech và tài sản số.
-Một trong những sự kiện nổi bật nhất trong năm là Digital 
-Asset Summit 2024, quy tụ hơn 1.000 người tham dự, bao 
-gồm đại diện từ các công ty blockchain, fintech, quỹ đầu tư 
-và các tổ chức tài chính lớn. Hội nghị đã mang lại những 
-thảo luận chuyên sâu về quy định pháp lý và tương lai tài 
-sản số tại Việt Nam, nhận được đánh giá cao từ các chuyên 
-gia trong ngành. Sự kiện không chỉ giúp kết nối các bên liên 
-quan mà còn tạo tiền đề quan trọng cho sự phát triển của 
+Một trong những sự kiện nổi bật nhất trong năm là Digital
+Asset Summit 2024, quy tụ hơn 1.000 người tham dự, bao
+gồm đại diện từ các công ty blockchain, fintech, quỹ đầu tư
+và các tổ chức tài chính lớn. Hội nghị đã mang lại những
+thảo luận chuyên sâu về quy định pháp lý và tương lai tài
+sản số tại Việt Nam, nhận được đánh giá cao từ các chuyên
+gia trong ngành. Sự kiện không chỉ giúp kết nối các bên liên
+quan mà còn tạo tiền đề quan trọng cho sự phát triển của
 thị trường tài sản số trong nước.
-Tiếp nối thành công đó, Hội nghị Tác động Công nghệ Việt 
-Nam 2024 (Vietnam Tech Impact Summit – VTIS) được tổ 
-chức với quy mô lớn hơn, thu hút hơn 20.000 người tham 
-dự trong hai ngày. Sự kiện có sự góp mặt của nhiều tên 
-tuổi hàng đầu trong ngành như Binance, Bybit, OKX, Biget, 
-cùng với sự tham gia của các quỹ đầu tư và công ty fintech 
-lớn. VTIS không chỉ tạo ra cơ hội kết nối và hợp tác giữa 
-các doanh nghiệp blockchain, AI, fintech và gaming, mà còn 
-ghi dấu ấn với không gian trải nghiệm VIP được thiết kế ấn 
-tượng, giúp SSI Digital khẳng định thương hiệu và nâng cao 
+Tiếp nối thành công đó, Hội nghị Tác động Công nghệ Việt
+Nam 2024 (Vietnam Tech Impact Summit – VTIS) được tổ
+chức với quy mô lớn hơn, thu hút hơn 20.000 người tham
+dự trong hai ngày. Sự kiện có sự góp mặt của nhiều tên
+tuổi hàng đầu trong ngành như Binance, Bybit, OKX, Biget,
+cùng với sự tham gia của các quỹ đầu tư và công ty fintech
+lớn. VTIS không chỉ tạo ra cơ hội kết nối và hợp tác giữa
+các doanh nghiệp blockchain, AI, fintech và gaming, mà còn
+tượng, giúp SSI Digital khẳng định thương hiệu và nâng cao
 trải nghiệm khách tham dự.
-Bên cạnh các sự kiện quy mô lớn, SSI Digital cũng đạt được 
-những thành tựu quan trọng trong việc phát triển quan hệ 
-hợp tác với các quỹ đầu tư và sàn giao dịch lớn, bao gồm 
-Binance, OKX, Bybit, Hashed, Tether, cùng nhiều đối tác 
-quốc tế khác. Các mối quan hệ này đóng vai trò quan trọng 
-trong việc hỗ trợ mở rộng đầu tư vào thị trường Web3 và 
-tài sản số tại Việt Nam, tạo nền tảng vững chắc cho sự phát 
-triển dài hạn, “kiến tạo tương lai” của ngành công nghệ tài 
+Bên cạnh các sự kiện quy mô lớn, SSI Digital cũng đạt được
+những thành tựu quan trọng trong việc phát triển quan hệ
+hợp tác với các quỹ đầu tư và sàn giao dịch lớn, bao gồm
+Binance, OKX, Bybit, Hashed, Tether, cùng nhiều đối tác
+quốc tế khác. Các mối quan hệ này đóng vai trò quan trọng
+trong việc hỗ trợ mở rộng đầu tư vào thị trường Web3 và
+tài sản số tại Việt Nam, tạo nền tảng vững chắc cho sự phát
+triển dài hạn, “kiến tạo tương lai” của ngành công nghệ tài
 chính số trong nước.
-Hoạt động của SSI Digital trong năm 2024 không chỉ giới 
-hạn trong lĩnh vực kinh doanh mà còn có những đóng góp 
-quan trọng trong việc định hình hệ sinh thái tài sản số tại Việt 
-Nam. Công ty đã triển khai thành công các chương trình thu 
-hút sự quan tâm của cộng đồng blockchain và fintech, đồng 
-thời không ngừng củng cố vị thế của mình trong ngành. Một 
-trong những trọng tâm chiến lược của năm qua là việc tăng 
-cường hợp tác với các tổ chức chính phủ để hoàn thiện 
-khung pháp lý về tài sản số tại Việt Nam. Đây được xem 
-là bước đi quan trọng, giúp tạo ra một môi trường pháp 
-lý minh bạch và thuận lợi cho sự phát triển bền vững của 
+Hoạt động của SSI Digital trong năm 2024 không chỉ giới
+hạn trong lĩnh vực kinh doanh mà còn có những đóng góp
+quan trọng trong việc định hình hệ sinh thái tài sản số tại Việt
+Nam. Công ty đã triển khai thành công các chương trình thu
+hút sự quan tâm của cộng đồng blockchain và fintech, đồng
+thời không ngừng củng cố vị thế của mình trong ngành. Một
+trong những trọng tâm chiến lược của năm qua là việc tăng
+cường hợp tác với các tổ chức chính phủ để hoàn thiện
+khung pháp lý về tài sản số tại Việt Nam. Đây được xem
+là bước đi quan trọng, giúp tạo ra một môi trường pháp
+lý minh bạch và thuận lợi cho sự phát triển bền vững của
 ngành.
-Ngoài các hoạt động kinh doanh và pháp lý, SSI Digital cũng 
-tích cực tham gia vào các hoạt động trách nhiệm xã hội và 
-ESG thông qua việc tổ chức các hội thảo công nghệ và các 
-hoạt động kết nối cộng đồng. Những chương trình này đã 
-tạo điều kiện cho các nhà đầu tư, chuyên gia và startup gặp 
-gỡ, chia sẻ kiến thức và tìm kiếm cơ hội hợp tác, qua đó thúc 
-đẩy sự phát triển chung của ngành công nghệ tài chính số 
+Ngoài các hoạt động kinh doanh và pháp lý, SSI Digital cũng
+tích cực tham gia vào các hoạt động trách nhiệm xã hội và
+ESG thông qua việc tổ chức các hội thảo công nghệ và các
+hoạt động kết nối cộng đồng. Những chương trình này đã
+tạo điều kiện cho các nhà đầu tư, chuyên gia và startup gặp
+gỡ, chia sẻ kiến thức và tìm kiếm cơ hội hợp tác, qua đó thúc
+đẩy sự phát triển chung của ngành công nghệ tài chính số
 tại Việt Nam.
-Với những kết quả đạt được trong năm 2024, SSI Digital 
-đã khẳng định vị thế là đơn vị tiên phong trong lĩnh vực 
-blockchain, fintech và tài sản số tại Việt Nam. Công ty không 
-chỉ đóng góp vào sự phát triển của thị trường mà còn tạo 
-nền tảng vững chắc để tiếp tục mở rộng và dẫn đầu trong 
+Với những kết quả đạt được trong năm 2024, SSI Digital
+đã khẳng định vị thế là đơn vị tiên phong trong lĩnh vực
+blockchain, fintech và tài sản số tại Việt Nam. Công ty không
+chỉ đóng góp vào sự phát triển của thị trường mà còn tạo
+nền tảng vững chắc để tiếp tục mở rộng và dẫn đầu trong
 giai đoạn tiếp theo.
-60 	
-	
-61
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 2 - BÁO CÁO HOẠT ĐỘNG 2024
 
 TRUYỀN THÔNG & TIẾP THỊ
-Kiên định với sứ mệnh “kết nối vốn và cơ hội đầu tư”, một trong những chiến lược trọng tâm của CTCP Chứng khoán SSI 
-chính là đưa TTCK đến gần hơn với công chúng. Để thị trường phát triển, người dân phải biết, hiểu và có cái nhìn chính xác 
-về đầu tư chứng khoán. Làm sao để nhà đầu tư có thể yên tâm để tiền trong tài khoản chứng khoán, tạo lợi nhuận lâu dài 
+Kiên định với sứ mệnh “kết nối vốn và cơ hội đầu tư”, một trong những chiến lược trọng tâm của CTCP Chứng khoán SSI
+chính là đưa TTCK đến gần hơn với công chúng. Để thị trường phát triển, người dân phải biết, hiểu và có cái nhìn chính xác
+về đầu tư chứng khoán. Làm sao để nhà đầu tư có thể yên tâm để tiền trong tài khoản chứng khoán, tạo lợi nhuận lâu dài
 mà không coi đây là kênh đầu cơ ngắn hạn là một thách thức lớn với các cơ quan quản lý và nhà tạo lập thị trường.
-Trong bối cảnh TTCK đang gấp rút chuẩn bị cho việc nâng hạng, năm 2024, hoạt động truyền thông của SSI tập trung vào 
-việc truyền tải kiến thức, hiểu biết về đầu tư và cung cấp thông tin toàn diện, chi tiết về các diễn biến trên thị trường. 
+Trong bối cảnh TTCK đang gấp rút chuẩn bị cho việc nâng hạng, năm 2024, hoạt động truyền thông của SSI tập trung vào
+việc truyền tải kiến thức, hiểu biết về đầu tư và cung cấp thông tin toàn diện, chi tiết về các diễn biến trên thị trường.
 Kết hợp với các cơ quan truyền thông tổ chức nhiều chương trình Tọa đàm Hội thảo
-Với vị thế là CTCK đầu ngành, quy tụ đội ngũ chuyên gia giàu kinh nghiệm hàng đầu thị trường, SSI thường xuyên góp măt 
-tại nhiều sự kiện Tọa đàm, Hội thảo được tổ chức bởi các cơ quan truyền thông – ở cả hình thức online và offline với nhiều 
-quy mô khác nhau uy tín. 
-Trong năm 2024, SSI đã tham gia gần 10 chương trình Hội thảo/ Tạo đàm do các báo tổ chức có sự tham gia của chuyên 
-gia SSI. Bên cạnh đó, cũng đóng góp ý kiến, chia sẻ ý kiến nhận định trong hàng trăm bài báo trên các tờ báo đại chúng, tài 
-chính trong nước và nước ngoài. Với những nhận định sắc sảo, thông tin đầy đủ, toàn diện, các sự kiện, bài viết có sự tham 
+Với vị thế là CTCK đầu ngành, quy tụ đội ngũ chuyên gia giàu kinh nghiệm hàng đầu thị trường, SSI thường xuyên góp măt
+tại nhiều sự kiện Tọa đàm, Hội thảo được tổ chức bởi các cơ quan truyền thông – ở cả hình thức online và offline với nhiều
+quy mô khác nhau uy tín.
+Trong năm 2024, SSI đã tham gia gần 10 chương trình Hội thảo/ Tạo đàm do các báo tổ chức có sự tham gia của chuyên
+gia SSI. Bên cạnh đó, cũng đóng góp ý kiến, chia sẻ ý kiến nhận định trong hàng trăm bài báo trên các tờ báo đại chúng, tài
+chính trong nước và nước ngoài. Với những nhận định sắc sảo, thông tin đầy đủ, toàn diện, các sự kiện, bài viết có sự tham
 gia của SSI thường thu hút được đông đảo sự quan tâm của các Nhà đầu tư cũng như giới truyền thông.
-	
-■
-Hội thảo “Toàn cảnh thị trường vốn năm 2024 và triển 
-vọng năm 2025” với chủ đề: “Phát triển bền vững thị 
-trường vốn Việt Nam – Thực trạng và giải pháp” do Hiệp 
-hội Tư vấn Tài chính Việt Nam phối hợp với Tạp chí Đầu 
-tư Tài chính – VietnamFinance tổ chức 
-	
-■
-Chuỗi 2 hội thảo “Mục lục” – câu chuyện thị trường 
-chứng khoán 6 tháng do SSI tổ chức dành riêng cho các 
-Nhà báo thân thiết của SSI 
+Hội thảo “Toàn cảnh thị trường vốn năm 2024 và triển
+vọng năm 2025” với chủ đề: “Phát triển bền vững thị
+trường vốn Việt Nam – Thực trạng và giải pháp” do Hiệp
+hội Tư vấn Tài chính Việt Nam phối hợp với Tạp chí Đầu
+tư Tài chính – VietnamFinance tổ chức
+chứng khoán 6 tháng do SSI tổ chức dành riêng cho các
+Nhà báo thân thiết của SSI
 Hỗ trợ nhà đầu tư đưa ra quyết định tối ưu thông qua livestream tư vấn đầu tư
-	
-■
-Hội thảo “Tạo động lực nâng hạng thị trường chứng 
-khoán” do Báo Lao Động phối hợp cùng Bộ Tài chính, 
-UBCKNN tổ chức 
-	
-■
-Toạ đàm Online:  Thị trường chứng khoán “Xây nền – 
-Tích luỹ – Bứt tốc” và “Thị trường chứng khoán Việt Nam: 
+Hội thảo “Tạo động lực nâng hạng thị trường chứng
+khoán” do Báo Lao Động phối hợp cùng Bộ Tài chính,
+UBCKNN tổ chức
+Toạ đàm Online:  Thị trường chứng khoán “Xây nền –
+Tích luỹ – Bứt tốc” và “Thị trường chứng khoán Việt Nam:
 Động lực mới, cơ hội mới” do báo Đầu tư tổ chức
-	
-■
-Chương trình Insight Talk với chủ đề “10 năm nâng hạng 
-thị trường” và “Thị trường chứng khoán Việt Nam: Hành 
-trình từ tăng trưởng nóng đến phát triển bền vững”do 
+Chương trình Insight Talk với chủ đề “10 năm nâng hạng
+thị trường” và “Thị trường chứng khoán Việt Nam: Hành
+trình từ tăng trưởng nóng đến phát triển bền vững”do
 báo Người Quan Sát phối hợp cùng SSI tổ chức
-Trong năm 2024, đã thực hiện 225 nội dung về chương trình 
-Café Chứng trên các kênh số của SSI, đạt 510.403 lượt tiếp 
-cận livestream trên Facebook, Youtube, Tiktok, 6.000 bình 
-luận. Trung bình mỗi chương trình có 2.000 lượt xem trên 
-các nền tảng, với thời gian trung bình xem video 12 phút 34 
-giây là một khoảng thời gian khá tốt đối với các nội dung 
+Trong năm 2024, đã thực hiện 225 nội dung về chương trình
+Café Chứng trên các kênh số của SSI, đạt 510.403 lượt tiếp
+cận livestream trên Facebook, Youtube, Tiktok, 6.000 bình
+luận. Trung bình mỗi chương trình có 2.000 lượt xem trên
+các nền tảng, với thời gian trung bình xem video 12 phút 34
+giây là một khoảng thời gian khá tốt đối với các nội dung
 video trên social.
-Đồng hành xây dựng kiến thức đầu tư cho giới trẻ thông qua chương trình The 
+Đồng hành xây dựng kiến thức đầu tư cho giới trẻ thông qua chương trình The
 Moneyverse và loạt phim hoạt hình “Hóa rồng cùng cá Carpi”
-Xuyên suốt năm 2024, với vai trò là đối tác chiến lược của 
-chương trình, SSI đã đồng hành cùng chuỗi hành trình và 
-chương trình truyền hình giải trí – giáo dục mang tên “Vũ 
-trụ Đồng tiền” (“The Moneyverse”) – dự án tiên phong nhằm 
-nâng cao kiến thức, kỹ năng tài chính cho người dân và 
-doanh nghiệp tại Việt Nam do Thời báo VTV khởi xướng. 
-Chương trình ra đời với mục tiêu phổ biến kiến thức, kỹ năng 
-giáo dục tài chính, đồng thời hướng nghiệp, tạo cơ hội việc 
-làm cho thế hệ trẻ – lực lượng quan trọng kế thừa và phát 
-triển quốc gia. Đó cũng là chiến lược phát triển bền vững và 
-SSI – với vị thế là định chế tài chính hàng đầu và một trong 
-những CTCK lâu đời nhất Việt Nam luôn hướng đến. 
-SSI tin rằng giáo dục đầu tư là chìa khóa quan trọng để xây 
-dựng một TTCK bền vững cho Việt Nam. Bằng định hướng 
-phát triển đó, nhiều năm qua, SSI đã đồng hành cũng như 
-tổ chức hàng loạt các chuỗi sự kiện dành cho giới trẻ, nhằm 
-cung cấp kiến thức đầu tư, hình thành tư duy tài chính, đồng 
-hành cùng các bạn trẻ trên hành trình tìm kiếm tự do tài 
-chính thông qua các kênh đầu tư an toàn, hiệu quả, minh 
-bạch. SSI cũng luôn tạo điều kiện, mở cửa chào đón các bạn 
-trẻ yêu thích ngành Tài chính – Chứng khoán gia nhập đội 
-ngũ. Vũ trụ đồng tiền – The Moneyverse chính là một trong 
-những hướng đi như vậy. 
-Bên cạnh việc đồng hành xây dựng nội dung, truyền tải kiến 
-thức về đầu tư thông qua các thử thách thi đấu từ đại diện 
-các trường đại học, với vai trò là Đối tác chiến lược, SSI cũng 
-giáo dục các kỹ năng tài chính thông qua nhiều hình thức 
-mới lạ, hấp dẫn và gần gũi với giới trẻ được gửi gắm trong 
-các hoạt động trải nghiệm bên lề. Cùng với việc xây dựng 
-một Cộng đồng Người trẻ yêu thích chứng khoán với hơn 
-7.600 thành viên có tên gọi “Đầu tư từ Đâu – Đầu tư từ Đây” 
-với hình ảnh hai nhân vật Chuyên gia Cú Doha và bạn trẻ Cá 
-Carpi – hành trình tìm hiểu và hoàn thiện kiến thức đầu tư 
-sẽ được tái hiện một cách thân thiện và dễ hiểu thông qua 
-6 tập phim hoạt hình sinh động.  Bên cạnh đó là sự ra mắt 
-của Moneyescape – Escape room (Trò chơi nhập vai thực tế) 
-về chủ đề Đầu tư tài chính đầu tiên và duy nhất tại Việt Nam 
+Xuyên suốt năm 2024, với vai trò là đối tác chiến lược của
+chương trình, SSI đã đồng hành cùng chuỗi hành trình và
+chương trình truyền hình giải trí – giáo dục mang tên “Vũ
+trụ Đồng tiền” (“The Moneyverse”) – dự án tiên phong nhằm
+nâng cao kiến thức, kỹ năng tài chính cho người dân và
+doanh nghiệp tại Việt Nam do Thời báo VTV khởi xướng.
+Chương trình ra đời với mục tiêu phổ biến kiến thức, kỹ năng
+giáo dục tài chính, đồng thời hướng nghiệp, tạo cơ hội việc
+làm cho thế hệ trẻ – lực lượng quan trọng kế thừa và phát
+SSI – với vị thế là định chế tài chính hàng đầu và một trong
+những CTCK lâu đời nhất Việt Nam luôn hướng đến.
+SSI tin rằng giáo dục đầu tư là chìa khóa quan trọng để xây
+dựng một TTCK bền vững cho Việt Nam. Bằng định hướng
+phát triển đó, nhiều năm qua, SSI đã đồng hành cũng như
+tổ chức hàng loạt các chuỗi sự kiện dành cho giới trẻ, nhằm
+cung cấp kiến thức đầu tư, hình thành tư duy tài chính, đồng
+hành cùng các bạn trẻ trên hành trình tìm kiếm tự do tài
+chính thông qua các kênh đầu tư an toàn, hiệu quả, minh
+bạch. SSI cũng luôn tạo điều kiện, mở cửa chào đón các bạn
+trẻ yêu thích ngành Tài chính – Chứng khoán gia nhập đội
+ngũ. Vũ trụ đồng tiền – The Moneyverse chính là một trong
+những hướng đi như vậy.
+Bên cạnh việc đồng hành xây dựng nội dung, truyền tải kiến
+thức về đầu tư thông qua các thử thách thi đấu từ đại diện
+các trường đại học, với vai trò là Đối tác chiến lược, SSI cũng
+giáo dục các kỹ năng tài chính thông qua nhiều hình thức
+mới lạ, hấp dẫn và gần gũi với giới trẻ được gửi gắm trong
+các hoạt động trải nghiệm bên lề. Cùng với việc xây dựng
+một Cộng đồng Người trẻ yêu thích chứng khoán với hơn
+7.600 thành viên có tên gọi “Đầu tư từ Đâu – Đầu tư từ Đây”
+với hình ảnh hai nhân vật Chuyên gia Cú Doha và bạn trẻ Cá
+Carpi – hành trình tìm hiểu và hoàn thiện kiến thức đầu tư
+sẽ được tái hiện một cách thân thiện và dễ hiểu thông qua
+6 tập phim hoạt hình sinh động.  Bên cạnh đó là sự ra mắt
+của Moneyescape – Escape room (Trò chơi nhập vai thực tế)
+về chủ đề Đầu tư tài chính đầu tiên và duy nhất tại Việt Nam
 được xây dựng nội dung bởi SSI.
-Bằng những cách truyền tải kiến thức đầu tư một cách sáng 
-tạo, SSI mong rằng sẽ mang đến một cách tiếp cận về Đầu 
-tư mới mẻ cho các bạn trẻ, góp phần nâng cao nhận thức 
-về tài chính, qua đó thúc đẩy sự phát triển lành mạnh, minh 
-bạch và bền vững, đón đầu sự phát triển của TTCK Việt Nam 
-trước ngưỡng cửa nâng hạng thị trường. 
-Với sự đồng hành sát sao của SSI, tính riêng trong khuôn 
-khổ hoạt động của The Moneyverse, đã có 203 bài báo về 
-chương trình có đưa tin/nhắc đến SSI, chia sẻ kiến thức và 
-đồng hành cùng các bạn trẻ trong 16 tập phát sóng trên 
-VTV3, 40+ buổi training thí sinh, 30 talkshow trong nhiều 
-vai trò như Ban giám khảo, Bác sĩ tài chính, chuyên gia tư 
-vấn.
-SSI cũng phối hợp với The Moneyverse tổ chức 27 Casting 
-tour, thực hiện 21 livestreams với 45.000+ view, 1 livestream 
-Café Chứng đặc biệt của SSI được thực hiện tại Đại học 
-Bách Khoa Hà nội. Đưa tổng số livestrem thực hiện trong 
-năm 2024 của SSI lên con số hơn 300 livestreams, bao gồm 
-các chương trình livestream thường xuyên, đồng hành cùng 
-vòng casting call The Moneyverse, tham gia tại các hội thảo 
-Tọa đàm và các chương trình webinar livestream cho các 
+Bằng những cách truyền tải kiến thức đầu tư một cách sáng
+tạo, SSI mong rằng sẽ mang đến một cách tiếp cận về Đầu
+tư mới mẻ cho các bạn trẻ, góp phần nâng cao nhận thức
+về tài chính, qua đó thúc đẩy sự phát triển lành mạnh, minh
+bạch và bền vững, đón đầu sự phát triển của TTCK Việt Nam
+trước ngưỡng cửa nâng hạng thị trường.
+Với sự đồng hành sát sao của SSI, tính riêng trong khuôn
+khổ hoạt động của The Moneyverse, đã có 203 bài báo về
+chương trình có đưa tin/nhắc đến SSI, chia sẻ kiến thức và
+đồng hành cùng các bạn trẻ trong 16 tập phát sóng trên
+VTV3, 40+ buổi training thí sinh, 30 talkshow trong nhiều
+vai trò như Ban giám khảo, Bác sĩ tài chính, chuyên gia tư
+SSI cũng phối hợp với The Moneyverse tổ chức 27 Casting
+tour, thực hiện 21 livestreams với 45.000+ view, 1 livestream
+Café Chứng đặc biệt của SSI được thực hiện tại Đại học
+Bách Khoa Hà nội. Đưa tổng số livestrem thực hiện trong
+năm 2024 của SSI lên con số hơn 300 livestreams, bao gồm
+các chương trình livestream thường xuyên, đồng hành cùng
+vòng casting call The Moneyverse, tham gia tại các hội thảo
+Tọa đàm và các chương trình webinar livestream cho các
 khối kinh doanh/đào tạo.
-Năm 2024, Bộ phận Truyền thông cũng đã triển khai trên 
-50 kế hoạch truyền thông lớn nhỏ với 820 bài báo, 1.170 
-bài đăng trên các kênh số được thực hiện, phối hợp cùng 
-các Bộ phận Kinh doanh cũng như tăng độ nhận diện của 
-thương hiệu SSI đến với công chúng, đặc biệt là các bạn trẻ. 
-Tất cả các hoạt động truyền thông của SSI trong năm 2024 
-đều hướng tới một mục tiêu chung đó là nâng cao hiểu biết 
-của nhà đầu tư, góp phần xây dựng một TTCK an toàn, minh 
+Năm 2024, Bộ phận Truyền thông cũng đã triển khai trên
+50 kế hoạch truyền thông lớn nhỏ với 820 bài báo, 1.170
+bài đăng trên các kênh số được thực hiện, phối hợp cùng
+các Bộ phận Kinh doanh cũng như tăng độ nhận diện của
+thương hiệu SSI đến với công chúng, đặc biệt là các bạn trẻ.
+Tất cả các hoạt động truyền thông của SSI trong năm 2024
+đều hướng tới một mục tiêu chung đó là nâng cao hiểu biết
+của nhà đầu tư, góp phần xây dựng một TTCK an toàn, minh
 bạch, trở thành kênh đầu tư sinh lời hiệu quả cho nền kinh tế.
-Phát sóng đều đặn trước giờ giao dịch, livestream Café 
-Chứng của Chứng khoán SSI được triển khai từ tháng 
-5/2022 với 2 mùa phát sóng đã trở thành một phần không 
-thể thiếu trong lịch trình của nhiều nhà đầu tư. Nỗ lực mang 
-đến một chương trình tư vấn đầu tư thực sự chất lượng, 
-từ đầu năm 2024, SSI tập trung thông tin vào phát triển 
-chương trình livestream Café Chứng. Không chỉ trực tiếp trả 
-lời hàng trăm câu hỏi đầu tư mỗi sáng trên kênh fanpage 
-và Youtube, chương trình mở rộng nền tảng lên kênh TikTok, 
-thực hiện thêm nhiều các clip ngắn đa dạng nội dung chia 
-sẻ nhằm lan tỏa kiến thức và hỗ trợ NĐT đưa ra những quyết 
-định tối ưu. 
-70 	
-	
-71
-BÁO CÁO THƯỜNG NIÊN 2024
+Phát sóng đều đặn trước giờ giao dịch, livestream Café
+Chứng của Chứng khoán SSI được triển khai từ tháng
+5/2022 với 2 mùa phát sóng đã trở thành một phần không
+thể thiếu trong lịch trình của nhiều nhà đầu tư. Nỗ lực mang
+đến một chương trình tư vấn đầu tư thực sự chất lượng,
+từ đầu năm 2024, SSI tập trung thông tin vào phát triển
+chương trình livestream Café Chứng. Không chỉ trực tiếp trả
+lời hàng trăm câu hỏi đầu tư mỗi sáng trên kênh fanpage
+và Youtube, chương trình mở rộng nền tảng lên kênh TikTok,
+thực hiện thêm nhiều các clip ngắn đa dạng nội dung chia
+sẻ nhằm lan tỏa kiến thức và hỗ trợ NĐT đưa ra những quyết
+định tối ưu.
 PHẦN 2 - BÁO CÁO HOẠT ĐỘNG 2024
 
-của SSI là việc ứng dụng AI và Big Data vào hoạt động đầu 
-tư. Công ty sẽ sử dụng các thuật toán học máy (machine 
-learning) để phân tích dữ liệu thị trường theo thời gian thực, 
-từ đó cung cấp các khuyến nghị đầu tư cá nhân hóa và tự 
-động hóa quá trình giao dịch. Các công cụ này sẽ hỗ trợ 
-khách hàng đưa ra quyết định nhanh chóng, chính xác, đồng 
+TRUNG – DÀI HẠN
+TẦM NHÌN VÀ
+ĐỊNH HƯỚNG TỔNG THỂ
+Trong giai đoạn 2025 – 2030, SSI đặt mục tiêu trở thành một định chế tài chính hàng đầu Việt Nam, mở rộng quy mô hoạt
+động từ một CTCK dẫn đầu thị trường sang một tập đoàn tài chính đa năng, cung cấp đầy đủ các dịch vụ tài chính hiện đại.
+Với sứ mệnh đồng hành và tạo ra giá trị bền vững cho khách hàng, để hiện thực hóa tầm nhìn này, SSI sẽ tập trung vào 5
+trụ cột chiến lược:
+MỞ RỘNG HỆ SINH THÁI TÀI CHÍNH
+HƯỚNG TỚI MÔ HÌNH ĐỊNH CHẾ TÀI CHÍNH ĐA NĂNG
+Trong quá trình phát triển thành một định chế tài chính
+đa năng, SSI sẽ từng bước mở rộng hoạt động từ lĩnh vực
+chứng khoán truyền thống sang các dịch vụ tài chính rộng
+hơn, tương tự như các tập đoàn tài chính quốc tế. Việc xây
+dựng hệ sinh thái tài chính toàn diện sẽ cho phép SSI đáp
+ứng đa dạng nhu cầu của khách hàng, từ cá nhân đến tổ
+chức, với nhiều sản phẩm và dịch vụ tích hợp.
+Một trong những trụ cột quan trọng trong chiến lược mở
+rộng này là tiếp tục củng cố và nâng cao vị thế trong lĩnh vực
+chứng khoán và đầu tư tài chính. SSI đặt mục tiêu duy trì thị
+phần môi giới hàng đầu, đồng thời tăng cường phát triển
+các sản phẩm phái sinh, giao dịch thuật toán và các công cụ
+tài chính hiện đại nhằm tạo ra lợi thế cạnh tranh. Việc đầu tư
+vào công nghệ trong lĩnh vực này sẽ giúp SSI không chỉ cải
+thiện hiệu quả hoạt động mà còn cung cấp trải nghiệm giao
+dịch tốt hơn cho khách hàng.
+Bên cạnh đó, lĩnh vực Quản lý quỹ (SSIAM) sẽ được mở rộng
+với việc tăng cường phát triển các quỹ mở, quỹ ETF và quỹ
+đầu tư tư nhân. Việc thu hút dòng vốn lớn từ NĐT tổ chức sẽ
+giúp SSI quản lý và phân bổ nguồn lực hiệu quả hơn, đồng
+thời mang lại lợi nhuận ổn định và lâu dài cho khách hàng.
+Dịch vụ Ngân hàng Đầu tư (IB) cũng sẽ là một mảng quan
+mạnh hoạt động tư vấn phát hành, hỗ trợ doanh nghiệp
+trong các thương vụ mua bán và sáp nhập (M&A) cũng như
+huy động vốn trên thị trường tài chính trong nước và quốc tế.
+Việc nâng cao năng lực trong lĩnh vực này không chỉ giúp SSI
+gia tăng giá trị cho khách hàng doanh nghiệp mà còn mở
+rộng cơ hội hợp tác chiến lược với các tập đoàn tài chính
+lớn trên thế giới.
+Ngoài ra, SSI sẽ phát triển mạnh mẽ các dịch vụ tài chính
+cá nhân và quản lý tài sản cao cấp. Dịch vụ Wealth
+Management sẽ được xây dựng nhằm cung cấp các giải
+pháp tài chính toàn diện cho những KHCN có tài sản lớn,
+giúp họ tối ưu hóa danh mục đầu tư và quản lý tài sản một
+cách hiệu quả.
+Trong lĩnh vực tài chính doanh nghiệp, SSI sẽ đóng vai trò là
+đối tác chiến lược của các doanh nghiệp vừa và nhỏ (SMEs),
+cung cấp dịch vụ tư vấn tài chính, hỗ trợ huy động vốn và
+đầu tư nhằm giúp doanh nghiệp nâng cao năng lực tài
+chính và phát triển bền vững.
+SSI cũng sẽ tập trung vào phát triển các dịch vụ tín dụng
+chứng khoán và các giải pháp tài chính khác nhằm hỗ trợ
+khách hàng có nhu cầu sử dụng đòn bẩy tài chính. Việc mở
+rộng dịch vụ vay ký quỹ (margin), repo chứng khoán và hợp
+tác chặt chẽ với các ngân hàng sẽ giúp SSI cung cấp các
+giải pháp tài chính linh hoạt, đáp ứng nhu cầu của nhiều
+nhóm khách hàng khác nhau.
+Mục tiêu đến năm 2030, SSI không chỉ giữ vững vị thế là
+CTCK số một mà còn phát triển thành một tập đoàn tài
+chính đa năng, cung cấp các dịch vụ tài chính toàn diện, từ
+cá nhân đến tổ chức, đồng thời nâng cao tầm ảnh hưởng
+trên thị trường tài chính Việt Nam và khu vực.
+ĐẦU TƯ CÔNG NGHỆ VÀ CHUYỂN ĐỔI SỐ
+TẠO LỢI THẾ CẠNH TRANH VƯỢT TRỘI
+SSI sẽ đẩy mạnh ứng dụng công nghệ tài chính (Fintech) và
+xây dựng một nền tảng tài chính số toàn diện nhằm nâng
+cao trải nghiệm người dùng, tối ưu hóa hiệu quả hoạt động
+và tạo ra lợi thế cạnh tranh mạnh mẽ trên thị trường. Trong
+quá trình chuyển đổi số, SSI tập trung vào việc triển khai các
+công nghệ tiên tiến để cung cấp các dịch vụ tài chính hiện
+đại, thông minh và hiệu quả.
+Trước hết, SSI sẽ triển khai nền tảng giao dịch số thế hệ mới,
+được thiết kế để cải thiện tốc độ xử lý lệnh, tăng tính ổn định
+và bảo mật của hệ thống giao dịch. Việc tích hợp trí tuệ
+nhân tạo (AI) trong nền tảng này sẽ giúp khách hàng đưa
+ra quyết định đầu tư chính xác hơn thông qua các công cụ
+phân tích thị trường tiên tiến, dự báo xu hướng và tối ưu hóa
+danh mục đầu tư cá nhân. Hệ thống này sẽ không chỉ giúp
+các NĐT cá nhân tiếp cận thị trường một cách hiệu quả hơn
+mà còn hỗ trợ các tổ chức tài chính trong việc quản lý danh
+mục đầu tư với mức độ chính xác cao hơn.
+Bên cạnh đó, SSI sẽ phát triển một hệ sinh thái tài chính số
+toàn diện thông qua Super App (iBoard) – một ứng dụng duy
+nhất tích hợp đầy đủ các dịch vụ tài chính, từ đầu tư chứng
+khoán, quản lý tài sản, tín dụng chứng khoán cho đến thanh
+toán và các dịch vụ tài chính khác. Ứng dụng này sẽ giúp
+khách hàng truy cập vào tất cả các dịch vụ tài chính một
+cách tiện lợi, đồng thời cải thiện khả năng cá nhân hóa trải
+nghiệm người dùng. Việc triển khai Super App không chỉ giúp
+nâng cao sự tiện lợi mà còn giúp SSI xây dựng một hệ thống
+dữ liệu lớn (Big Data) để tối ưu hóa các sản phẩm và dịch vụ
+phù hợp với từng khách hàng.
+Một yếu tố quan trọng khác trong chiến lược công nghệ
+Mở rộng
+hệ sinh thái
+tài chính
+Phát triển các sản
+phẩm và dịch vụ
+đa dạng ngoài
+chứng khoán.
+Tăng cường
+đầu tư công nghệ
+và chuyển đổi số
+Xây dựng nền tảng
+tài chính số hiện đại.
+Củng cố
+năng lực tài chính
+và quản trị rủi ro
+Nâng cao năng lực
+vốn, mở rộng danh
+mục đầu tư.
+Thúc đẩy
+phát triển
+bền vững (ESG)
+Hướng tới mô hình
+tài chính xanh,
+trách nhiệm xã hội.
+Mở rộng
+hợp tác quốc tế và
+thu hút vốn ngoại
+Định vị SSI
+trên bản đồ
+tài chính
+khu vực.
+
+của SSI là việc ứng dụng AI và Big Data vào hoạt động đầu
+tư. Công ty sẽ sử dụng các thuật toán học máy (machine
+learning) để phân tích dữ liệu thị trường theo thời gian thực,
+từ đó cung cấp các khuyến nghị đầu tư cá nhân hóa và tự
+động hóa quá trình giao dịch. Các công cụ này sẽ hỗ trợ
+khách hàng đưa ra quyết định nhanh chóng, chính xác, đồng
 thời giảm thiểu rủi ro trong đầu tư.
-Để tăng cường tính minh bạch và bảo mật trong các giao 
-dịch tài chính, SSI cũng sẽ tích hợp công nghệ Blockchain 
-và hợp đồng thông minh (Smart Contract) vào hệ thống của 
-mình. Công nghệ Blockchain sẽ đảm bảo rằng tất cả các 
-giao dịch đều được ghi nhận một cách chính xác, không thể 
-chỉnh sửa và có thể kiểm chứng một cách minh bạch. Hợp 
-đồng thông minh sẽ tự động hóa các giao dịch tài chính, 
-giúp giảm thiểu sai sót và rủi ro gian lận, đồng thời cải thiện 
+Để tăng cường tính minh bạch và bảo mật trong các giao
+dịch tài chính, SSI cũng sẽ tích hợp công nghệ Blockchain
+và hợp đồng thông minh (Smart Contract) vào hệ thống của
+mình. Công nghệ Blockchain sẽ đảm bảo rằng tất cả các
+giao dịch đều được ghi nhận một cách chính xác, không thể
+chỉnh sửa và có thể kiểm chứng một cách minh bạch. Hợp
+đồng thông minh sẽ tự động hóa các giao dịch tài chính,
+giúp giảm thiểu sai sót và rủi ro gian lận, đồng thời cải thiện
 tốc độ xử lý giao dịch.
 CỦNG CỐ NĂNG LỰC TÀI CHÍNH & MỞ RỘNG DANH MỤC ĐẦU TƯ
-Để hỗ trợ tăng trưởng trong dài hạn, SSI sẽ tiếp tục nâng 
-cao năng lực vốn, tối ưu hóa cơ cấu tài chính và mở rộng 
-danh mục đầu tư nhằm duy trì sự ổn định và tạo ra giá trị 
-lâu dài. Một trong những ưu tiên hàng đầu là tăng vốn điều 
-lệ để mở rộng hoạt động kinh doanh. Hiện tại, vốn điều lệ 
-của SSI đã đạt 19.645 tỷ VNĐ, và trong những năm tới, Công 
-ty sẽ tìm kiếm các cơ hội tăng vốn thông qua phát hành cổ 
-phiếu, hợp tác chiến lược với các quỹ đầu tư quốc tế, và các 
-phương thức huy động vốn khác. Việc gia tăng vốn điều lệ 
-không chỉ giúp SSI mở rộng quy mô hoạt động mà còn tăng 
-cường năng lực tài chính, đảm bảo khả năng cạnh tranh và 
+Để hỗ trợ tăng trưởng trong dài hạn, SSI sẽ tiếp tục nâng
+cao năng lực vốn, tối ưu hóa cơ cấu tài chính và mở rộng
+danh mục đầu tư nhằm duy trì sự ổn định và tạo ra giá trị
+lâu dài. Một trong những ưu tiên hàng đầu là tăng vốn điều
+lệ để mở rộng hoạt động kinh doanh. Hiện tại, vốn điều lệ
+của SSI đã đạt 19.645 tỷ VNĐ, và trong những năm tới, Công
+ty sẽ tìm kiếm các cơ hội tăng vốn thông qua phát hành cổ
+phiếu, hợp tác chiến lược với các quỹ đầu tư quốc tế, và các
+phương thức huy động vốn khác. Việc gia tăng vốn điều lệ
+không chỉ giúp SSI mở rộng quy mô hoạt động mà còn tăng
+cường năng lực tài chính, đảm bảo khả năng cạnh tranh và
 đáp ứng tốt hơn nhu cầu của thị trường.
-Song song với việc tăng vốn, SSI cũng sẽ đẩy mạnh đa dạng 
-hóa danh mục đầu tư. Trong bối cảnh nền kinh tế toàn cầu 
-và thị trường tài chính đang có nhiều biến động, việc phân 
-bổ vốn hợp lý vào các lĩnh vực chiến lược sẽ giúp công ty tối 
-ưu hóa lợi nhuận và giảm thiểu rủi ro. SSI sẽ tập trung đầu 
-tư vào các ngành có tiềm năng tăng trưởng cao như công 
-nghệ tài chính (Fintech). 
-Một yếu tố quan trọng khác trong chiến lược tài chính của 
-SSI là tăng cường quản trị rủi ro. Công ty sẽ hoàn thiện hệ 
-thống kiểm soát rủi ro nhằm đảm bảo an toàn tài chính trong 
-mọi điều kiện thị trường. Việc nâng cao khả năng phân tích 
-dữ liệu và dự báo xu hướng sẽ giúp SSI chủ động điều chỉnh 
-chiến lược đầu tư, tránh những rủi ro tiềm ẩn và tối ưu hóa 
-hiệu quả sử dụng vốn. Đồng thời, SSI sẽ tiếp tục hoàn thiện 
-các quy trình QTRR theo chuẩn mực quốc tế, áp dụng các 
-công nghệ tiên tiến để giám sát và đánh giá mức độ rủi ro 
+Song song với việc tăng vốn, SSI cũng sẽ đẩy mạnh đa dạng
+hóa danh mục đầu tư. Trong bối cảnh nền kinh tế toàn cầu
+và thị trường tài chính đang có nhiều biến động, việc phân
+bổ vốn hợp lý vào các lĩnh vực chiến lược sẽ giúp công ty tối
+ưu hóa lợi nhuận và giảm thiểu rủi ro. SSI sẽ tập trung đầu
+tư vào các ngành có tiềm năng tăng trưởng cao như công
+nghệ tài chính (Fintech).
+Một yếu tố quan trọng khác trong chiến lược tài chính của
+SSI là tăng cường quản trị rủi ro. Công ty sẽ hoàn thiện hệ
+thống kiểm soát rủi ro nhằm đảm bảo an toàn tài chính trong
+mọi điều kiện thị trường. Việc nâng cao khả năng phân tích
+dữ liệu và dự báo xu hướng sẽ giúp SSI chủ động điều chỉnh
+chiến lược đầu tư, tránh những rủi ro tiềm ẩn và tối ưu hóa
+hiệu quả sử dụng vốn. Đồng thời, SSI sẽ tiếp tục hoàn thiện
+các quy trình QTRR theo chuẩn mực quốc tế, áp dụng các
+công nghệ tiên tiến để giám sát và đánh giá mức độ rủi ro
 trong hoạt động kinh doanh.
 PHÁT TRIỂN BỀN VỮNG (ESG) - ĐỊNH HƯỚNG TÀI CHÍNH XANH
-SSI cam kết theo đuổi chiến lược phát triển bền vững, đặt 
-trọng tâm vào ESG (Môi trường – Xã hội – Quản trị) nhằm 
-nâng cao giá trị dài hạn cho cổ đông, khách hàng và cộng 
-đồng. Hướng tới tài chính xanh, SSI sẽ đẩy mạnh phát triển 
-các sản phẩm đầu tư thân thiện với môi trường, hỗ trợ doanh 
-nghiệp bền vững và thực hiện các sáng kiến giảm thiểu tác 
+trọng tâm vào ESG (Môi trường – Xã hội – Quản trị) nhằm
+nâng cao giá trị dài hạn cho cổ đông, khách hàng và cộng
+đồng. Hướng tới tài chính xanh, SSI sẽ đẩy mạnh phát triển
+các sản phẩm đầu tư thân thiện với môi trường, hỗ trợ doanh
+nghiệp bền vững và thực hiện các sáng kiến giảm thiểu tác
 động tiêu cực đến môi trường trong hoạt động của mình.
-Trong lĩnh vực tài chính xanh, SSI sẽ phát triển một loạt các 
-sản phẩm đầu tư ESG như quỹ đầu tư xanh, trái phiếu xanh, 
-và các công cụ tài chính hỗ trợ các dự án năng lượng tái tạo. 
-Việc tài trợ cho các doanh nghiệp và dự án có cam kết giảm 
-phát thải carbon, sử dụng năng lượng sạch và cải thiện hiệu 
-suất môi trường sẽ là ưu tiên trong chiến lược đầu tư của 
-Công ty. Bên cạnh đó, SSI cũng sẽ hợp tác với các tổ chức tài 
-chính trong và ngoài nước nhằm thúc đẩy sự phát triển của 
+Trong lĩnh vực tài chính xanh, SSI sẽ phát triển một loạt các
+sản phẩm đầu tư ESG như quỹ đầu tư xanh, trái phiếu xanh,
+và các công cụ tài chính hỗ trợ các dự án năng lượng tái tạo.
+Việc tài trợ cho các doanh nghiệp và dự án có cam kết giảm
+phát thải carbon, sử dụng năng lượng sạch và cải thiện hiệu
+suất môi trường sẽ là ưu tiên trong chiến lược đầu tư của
+Công ty. Bên cạnh đó, SSI cũng sẽ hợp tác với các tổ chức tài
+chính trong và ngoài nước nhằm thúc đẩy sự phát triển của
 hệ sinh thái tài chính bền vững tại Việt Nam.
-Về mặt nội bộ, SSI sẽ thực hiện chuyển đổi xanh trong hệ 
-thống vận hành bằng cách giảm thiểu tiêu thụ năng lượng, 
-tối ưu hóa tài nguyên và áp dụng các công nghệ thân thiện 
-với môi trường. Công ty sẽ triển khai mô hình văn phòng 
-xanh với các tiêu chí nghiêm ngặt về tiết kiệm điện, nước và 
-hạn chế rác thải nhựa. Việc sử dụng các nguồn năng lượng 
-tái tạo trong vận hành và xây dựng chính sách giảm phát 
-thải sẽ giúp SSI trở thành một trong những doanh nghiệp 
+Về mặt nội bộ, SSI sẽ thực hiện chuyển đổi xanh trong hệ
+thống vận hành bằng cách giảm thiểu tiêu thụ năng lượng,
+tối ưu hóa tài nguyên và áp dụng các công nghệ thân thiện
+với môi trường. Công ty sẽ triển khai mô hình văn phòng
+xanh với các tiêu chí nghiêm ngặt về tiết kiệm điện, nước và
+hạn chế rác thải nhựa. Việc sử dụng các nguồn năng lượng
+tái tạo trong vận hành và xây dựng chính sách giảm phát
+thải sẽ giúp SSI trở thành một trong những doanh nghiệp
 tiên phong về trách nhiệm môi trường.
-Song song với các sáng kiến tài chính và nội bộ, SSI sẽ mở 
-rộng đầu tư vào các doanh nghiệp ESG nhằm hỗ trợ các 
-công ty có mô hình kinh doanh bền vững. Công ty sẽ đưa ra 
-các tiêu chí đánh giá chặt chẽ hơn về ESG đối với danh mục 
-đầu tư, ưu tiên các doanh nghiệp có chiến lược phát triển 
-theo hướng bảo vệ môi trường, thực hiện tốt trách nhiệm 
-xã hội và áp dụng các tiêu chuẩn quản trị hiện đại. Việc này 
-không chỉ giúp tăng cường giá trị bền vững của SSI mà còn 
-tạo ra tác động tích cực đến nền kinh tế và thị trường tài 
+Song song với các sáng kiến tài chính và nội bộ, SSI sẽ mở
+rộng đầu tư vào các doanh nghiệp ESG nhằm hỗ trợ các
+công ty có mô hình kinh doanh bền vững. Công ty sẽ đưa ra
+các tiêu chí đánh giá chặt chẽ hơn về ESG đối với danh mục
+theo hướng bảo vệ môi trường, thực hiện tốt trách nhiệm
+xã hội và áp dụng các tiêu chuẩn quản trị hiện đại. Việc này
+không chỉ giúp tăng cường giá trị bền vững của SSI mà còn
+tạo ra tác động tích cực đến nền kinh tế và thị trường tài
 chính Việt Nam.
-MỞ RỘNG HỢP TÁC QUỐC TẾ  
+MỞ RỘNG HỢP TÁC QUỐC TẾ
 ĐỊNH VỊ SSI TRÊN BẢN ĐỒ TÀI CHÍNH KHU VỰC
-Để nâng cao vị thế trong khu vực và trên thế giới, SSI sẽ 
-tập trung vào việc mở rộng hợp tác với các định chế tài 
-chính lớn, thu hút nguồn vốn ngoại và tận dụng cơ hội phát 
-triển trong bối cảnh hội nhập kinh tế toàn cầu. Việc hợp tác 
-chặt chẽ với các đối tác quốc tế không chỉ giúp SSI tiếp cận 
-nguồn vốn dồi dào mà còn nâng cao năng lực quản trị, tiếp 
-thu các mô hình tài chính tiên tiến và chuẩn hóa quy trình 
+Để nâng cao vị thế trong khu vực và trên thế giới, SSI sẽ
+tập trung vào việc mở rộng hợp tác với các định chế tài
+chính lớn, thu hút nguồn vốn ngoại và tận dụng cơ hội phát
+triển trong bối cảnh hội nhập kinh tế toàn cầu. Việc hợp tác
+chặt chẽ với các đối tác quốc tế không chỉ giúp SSI tiếp cận
+nguồn vốn dồi dào mà còn nâng cao năng lực quản trị, tiếp
+thu các mô hình tài chính tiên tiến và chuẩn hóa quy trình
 theo các tiêu chuẩn quốc tế.
-Trong chiến lược mở rộng quan hệ đối tác, SSI sẽ tăng cường 
-hợp tác chiến lược với các tập đoàn tài chính hàng đầu thế 
-giới, bao gồm các quỹ đầu tư, ngân hàng quốc tế và các tổ 
-chức tài chính lớn. Việc phát triển mạng lưới hợp tác này sẽ 
-giúp SSI có thêm cơ hội tham gia vào các thương vụ đầu tư 
-lớn, hỗ trợ khách hàng tiếp cận nguồn vốn ngoại, cũng như 
+Trong chiến lược mở rộng quan hệ đối tác, SSI sẽ tăng cường
+hợp tác chiến lược với các tập đoàn tài chính hàng đầu thế
+giới, bao gồm các quỹ đầu tư, ngân hàng quốc tế và các tổ
+chức tài chính lớn. Việc phát triển mạng lưới hợp tác này sẽ
+giúp SSI có thêm cơ hội tham gia vào các thương vụ đầu tư
+lớn, hỗ trợ khách hàng tiếp cận nguồn vốn ngoại, cũng như
 nâng cao vị thế của Công ty trên thị trường quốc tế.
-Bên cạnh đó, SSI sẽ đặt trọng tâm vào việc mở rộng hoạt 
-động tại thị trường tài chính khu vực, đặc biệt là Đông Nam 
-Á. Công ty định hướng xây dựng SSI trở thành trung tâm tài 
-chính quan trọng, đóng vai trò kết nối dòng vốn giữa các 
-nước, góp phần vào sự phát triển chung của thị trường tài 
-chính. Việc tham gia vào các sàn giao dịch khu vực, tăng 
-cường đầu tư vào các thị trường tiềm năng và hợp tác với 
-các tổ chức tài chính sẽ giúp SSI củng cố vị thế và mở rộng 
+Bên cạnh đó, SSI sẽ đặt trọng tâm vào việc mở rộng hoạt
+động tại thị trường tài chính khu vực, đặc biệt là Đông Nam
+Á. Công ty định hướng xây dựng SSI trở thành trung tâm tài
+chính quan trọng, đóng vai trò kết nối dòng vốn giữa các
+nước, góp phần vào sự phát triển chung của thị trường tài
+chính. Việc tham gia vào các sàn giao dịch khu vực, tăng
+cường đầu tư vào các thị trường tiềm năng và hợp tác với
+các tổ chức tài chính sẽ giúp SSI củng cố vị thế và mở rộng
 tầm ảnh hưởng.
-Ngoài ra, SSI sẽ chủ động chuẩn bị cho quá trình nâng hạng 
-TTCK Việt Nam theo tiêu chuẩn quốc tế. Việc cải thiện cơ sở 
-hạ tầng tài chính, nâng cao tính minh bạch, đáp ứng các tiêu 
-chí của các tổ chức đánh giá thị trường quốc tế sẽ giúp Việt 
-Nam thu hút thêm nhiều dòng vốn từ các NĐT nước ngoài. 
-SSI sẽ đóng vai trò tiên phong trong việc thúc đẩy quá trình 
-này bằng cách hỗ trợ các doanh nghiệp niêm yết nâng cao 
-chuẩn mực quản trị, tăng cường tính thanh khoản và cải 
+Ngoài ra, SSI sẽ chủ động chuẩn bị cho quá trình nâng hạng
+TTCK Việt Nam theo tiêu chuẩn quốc tế. Việc cải thiện cơ sở
+hạ tầng tài chính, nâng cao tính minh bạch, đáp ứng các tiêu
+chí của các tổ chức đánh giá thị trường quốc tế sẽ giúp Việt
+Nam thu hút thêm nhiều dòng vốn từ các NĐT nước ngoài.
+SSI sẽ đóng vai trò tiên phong trong việc thúc đẩy quá trình
+này bằng cách hỗ trợ các doanh nghiệp niêm yết nâng cao
+chuẩn mực quản trị, tăng cường tính thanh khoản và cải
 thiện khả năng tiếp cận vốn trên thị trường quốc tế.
-84 	
-	
-85
-BÁO CÁO THƯỜNG NIÊN 2024
-PHẦN 3 - CHIẾN LƯỢC PHÁT TRIỂN
 
-TỔNG QUAN VỀ BÁO CÁO 
+CÁC DỰ ÁN CHIẾN LƯỢC
+Năm 2025, SSI xác định chiến lược chuyển đổi mạnh mẽ với trọng tâm là các dự án chiến lược cấp Công ty, đóng vai trò then
+chốt trong việc nâng cao năng lực cạnh tranh, tối ưu vận hành và thúc đẩy sự phát triển bền vững. Các dự án này không chỉ
+mang tính cải tiến đơn lẻ mà còn tạo nên một nền tảng đồng bộ, giúp SSI vận hành linh hoạt, hiệu quả hơn trong bối cảnh
+thị trường tài chính ngày càng thay đổi nhanh chóng. Với tầm quan trọng đặc biệt, tất cả các dự án chiến lược đều được chỉ
+đạo trực tiếp từ Tiểu ban Chiến lược, đảm bảo sự thống nhất về định hướng và tối ưu hóa nguồn lực triển khai.
+Mục tiêu chính của các dự án chiến lược là số hóa toàn diện, cải tiến hệ thống vận hành và tạo ra sự đột phá trong cách
+thức cung cấp dịch vụ tài chính. SSI hướng đến một hệ sinh thái kết nối chặt chẽ, nơi công nghệ đóng vai trò trung tâm, giúp
+tăng cường hiệu quả làm việc nội bộ, cải thiện trải nghiệm khách hàng và chuẩn hóa quy trình vận hành theo hướng hiện
+đại hơn. Điều này không chỉ giúp nâng cao năng suất lao động mà còn đảm bảo tính chính xác, nhất quán và bảo mật dữ
+liệu ở mức cao nhất.
+Với sự đầu tư bài bản và sự giám sát chặt chẽ từ Tiểu ban Chiến lược, các dự án chiến lược sẽ là đòn bẩy quan trọng để SSI
+không ngừng phát triển, khẳng định vị thế dẫn đầu trên thị trường tài chính và tiến xa hơn trong hành trình chuyển đổi số
+toàn diện và phát triển bền vững.
+DỰ ÁN IBOARD
+iBoard được định hướng phát triển thành một nền tảng
+“one-stop shop” đầu tư toàn diện, mang đến trải nghiệm tối
+ưu cho NĐT với hệ sinh thái sản phẩm đa dạng, công nghệ
+tiên tiến và kết nối tài chính mạnh mẽ. Mục tiêu trọng tâm
+của iBoard là hoàn thiện hệ sinh thái đầu tư với khả năng
+giao dịch nhanh chóng và thuận tiện, bao gồm cổ phiếu,
+chứng khoán phái sinh, TPDN riêng lẻ, quỹ mở và các sản
+phẩm tài chính đặc thù. Việc tối ưu hóa trải nghiệm người
+dùng sẽ giúp NĐT dễ dàng tiếp cận các cơ hội thị trường
+trên một nền tảng duy nhất, giảm thiểu rào cản giao dịch và
+gia tăng hiệu quả đầu tư.
+Công nghệ Big Data đóng vai trò quan trọng trong chiến
+lược của iBoard, giúp tối ưu hóa hoạt động và mang lại giá
+trị vượt trội cho NĐT. Bằng cách phân tích dữ liệu lớn, iBoard
+sẽ cung cấp các gợi ý danh mục đầu tư phù hợp với khẩu vị
+rủi ro và mục tiêu tài chính của từng cá nhân. Đồng thời, hệ
+thống sẽ hỗ trợ NĐT thông qua phân tích tín hiệu giao dịch,
+giúp họ đưa ra quyết định đầu tư chính xác và kịp thời, từ đó
+nâng cao hiệu suất đầu tư.
+Việc ứng dụng trí tuệ nhân tạo (AI) là bước đột phá trong
+nâng cao trải nghiệm khách hàng. iBoard sẽ tích hợp AI vào
+các dịch vụ hiện có, trong đó Chatbot – Trợ lý ảo sẽ giúp giải
+đáp thắc mắc của NĐT một cách nhanh chóng và chính xác.
+Các mô hình AI tiên tiến sẽ được triển khai nhằm dự đoán xu
+hướng thị trường, tối ưu hóa danh mục đầu tư và tạo ra các
+dịch vụ thông minh, giúp NĐT có cái nhìn toàn diện và sâu
+sắc hơn về thị trường tài chính.
+Bên cạnh đó, iBoard sẽ đẩy mạnh kết nối hệ sinh thái tài
+chính, tạo ra một nền tảng mở liên kết trực tiếp với các đối
+tác như ngân hàng, ví điện tử và các nền tảng fintech. Sự kết
+nối này không chỉ giúp đa dạng hóa các sản phẩm tài chính
+mà còn tạo ra những giải pháp đầu tư toàn diện, giúp NĐT
+tiếp cận nguồn vốn dễ dàng hơn và tối ưu hóa danh mục tài
+sản của mình.
+Việc tích hợp giải pháp thanh toán trong thương mại điện tử
+NĐT có thể thực hiện nạp tiền vào tài khoản chứng khoán
+trực tiếp ngay trên nền tảng mà không cần thông qua các
+bước trung gian phức tạp. Điều này sẽ giúp tăng cường
+sự tiện lợi, rút ngắn thời gian giao dịch và tạo ra một trải
+nghiệm mượt mà, liền mạch trên toàn bộ hệ thống.
+Bảo mật thông tin là yếu tố cốt lõi trong sự phát triển của
+iBoard. Hệ thống sẽ được xây dựng theo các tiêu chuẩn bảo
+mật nghiêm ngặt, bao gồm mã hóa dữ liệu, xác thực hai lớp
+(2FA) và bảo vệ thông tin cá nhân theo quy định pháp lý hiện
+hành. Điều này đảm bảo rằng mọi giao dịch đều diễn ra an
+toàn, giúp NĐT yên tâm sử dụng nền tảng mà không lo ngại
+về rủi ro bảo mật.
+không chỉ đơn thuần là một nền tảng giao dịch mà còn là
+một hệ sinh thái đầu tư thông minh và toàn diện. Việc tận
+dụng công nghệ hiện đại như AI, dữ liệu lớn và hệ thống tài
+chính mở rộng sẽ giúp iBoard trở thành nền tảng đầu tư
+hàng đầu, mang lại giá trị vượt trội và cơ hội đầu tư tối ưu
+cho khách hàng.
+DỰ ÁN CẢI TIẾN VẬN HÀNH
+Dự án Cải tiến Vận hành được triển khai nhằm không ngừng
+nâng cao hiệu suất hoạt động, giảm thiểu thời gian xử lý thủ
+công và mang đến trải nghiệm vượt trội cho khách hàng.
+Mục tiêu chính là xây dựng một hệ thống vận hành tối ưu,
+linh hoạt và hiệu quả, giúp thể hiện bản lĩnh và sự tiên phong
+của SSI trong lĩnh vực tài chính.
+Việc cải tiến quy trình phục vụ được đặt lên hàng đầu, đảm
+bảo khách hàng luôn nhận được dịch vụ nhanh chóng,
+chuyên nghiệp và tận tâm. Tất cả các thủ tục được đơn giản
+hóa nhằm tạo sự thuận tiện tối đa, giúp khách hàng tiếp cận
+các sản phẩm tài chính đa dạng một cách dễ dàng và hiệu
+quả hơn. Hệ thống vận hành sẽ liên tục được tối ưu để đảm
+bảo tính chính xác, giảm thiểu lỗi và tăng tốc độ xử lý, giúp
+nâng cao sự hài lòng và củng cố lòng tin của khách hàng
+đối với SSI.
+Mỗi CBNV đóng vai trò là đại sứ cải tiến, chủ động đưa ra
+sáng kiến và cải thiện quy trình trong từng công việc của
+mình. Tinh thần đổi mới và trách nhiệm cá nhân sẽ giúp toàn
+bộ hệ thống vận hành của SSI ngày càng trở nên tinh gọn
+và hiệu quả hơn, hướng đến những tiêu chuẩn vận hành tối
+ưu nhất.
+Các mục tiêu cụ thể của dự án bao gồm: đơn giản hóa tối
+đa các thủ tục giấy tờ nhằm tạo sự tiện lợi cho khách hàng,
+giảm tối thiểu 25% thời gian xử lý thủ công trong quy trình
+vận hành, giúp tiết kiệm nguồn lực và nâng cao năng suất.
+Đồng thời, thời gian phục vụ khách hàng theo các quy trình
+và luồng vận hành sẽ được rút ngắn ít nhất 25%, mang
+lại trải nghiệm dịch vụ nhanh chóng, chính xác và chuyên
+nghiệp hơn.
+DỰ ÁN S-OFFICE
+Năm 2024 được xác định là giai đoạn bản lề với mục tiêu
+trọng tâm là số hóa và tạo nền tảng vững chắc để tiếp tục
+phát triển mạnh mẽ trong năm 2025. SSI sẽ tập trung vào
+quy hoạch và xây dựng kiến trúc tổng thể các hệ thống
+CNTT, hướng đến một nền tảng vận hành hiện đại và đồng
+bộ. Hệ thống vận hành nội bộ và các Khối Hỗ trợ, sẽ được
+tối ưu hóa với định hướng tập trung vào Front-end, tạo ra
+một môi trường tương tác nội bộ liên thông và đồng nhất.
+Đồng thời, các hệ thống iHRP nhân sự, phần mềm kế toán
+tài chính và S-Office sẽ được hoàn thiện để tăng cường hiệu
+suất hoạt động.
+Trong năm 2025, chiến lược số hóa sẽ được triển khai mạnh
+mẽ trên toàn Công ty, kết hợp với việc chuẩn hóa và tối ưu
+hóa quy trình vận hành của các Khối Hỗ trợ và hành chính
+nội bộ. Việc áp dụng Thỏa thuận Mức độ Dịch vụ (Service
+Level Agreement – SLA) sẽ giúp nâng cao hiệu suất làm việc
+và cải thiện chất lượng dịch vụ nội bộ. Hệ thống S-Office
+sẽ hướng tới trở thành văn phòng không giấy tờ, với mục
+tiêu đạt 60% số hóa quy trình và 80% paperless trong hoạt
+động hành chính và vận hành nội bộ.
+Bước sang năm 2026 và giai đoạn dài hạn, dự án sẽ tập
+trung hoàn thiện hệ thống Back-end, đồng bộ hóa iHRP
+nhân sự, phần mềm kế toán và tích hợp chặt chẽ với hệ
+thống S-Office. Sự kết nối giữa Front-end của S-Office với
+các hệ thống vận hành hành chính, nhân sự và nội bộ sẽ
+được tối ưu, hướng đến mục tiêu 100% văn phòng không
+giấy tờ.
+Về lâu dài, SSI đặt mục tiêu trở thành công ty tiên phong với
+mức độ số hóa và tự động hóa 100% trong mọi quy trình
+làm việc. Nền tảng AI và mô hình Big Data sẽ được áp dụng
+rộng rãi vào tất cả các ứng dụng nội bộ, giúp tối ưu hóa hoạt
+động và đưa SSI trở thành doanh nghiệp có hệ thống quản
+trị tiên tiến hàng đầu.
+Việc chuyển đổi số không chỉ là một bước tiến công nghệ mà
+còn là giải pháp toàn diện giúp giải quyết triệt để các vấn đề
+trọng yếu trong vận hành:
+Loại bỏ hoàn toàn thao tác thủ công, giảm thiểu thời
+gian xử lý và nâng cao năng suất nhân viên.
+Đảm bảo tính chính xác, đầy đủ và minh bạch của dữ
+liệu trong toàn bộ hệ thống.
+Tăng cường tính liên thông giữa các hệ thống, đảm bảo
+sự nhất quán và hiệu quả trong quy trình làm việc.
+Xây dựng một hệ thống chuyên nghiệp, hiện đại, phản
+ánh đúng tầm vóc của SSI trong ngành tài chính và
+chứng khoán.
+Với định hướng chiến lược rõ ràng, Dự án S-Office sẽ đóng
+vai trò quan trọng trong hành trình chuyển đổi số toàn diện,
+giúp SSI vươn lên trở thành một tổ chức vận hành hiện đại,
+tối ưu và có khả năng thích ứng nhanh với sự thay đổi của
+thị trường.
+S-OFFICE
+
+HOẠT ĐỘNG QUAN HỆ NHÀ ĐẦU TƯ NĂM 2024
+Với mục tiêu “Tối đa hóa lợi ích cổ đông”, SSI luôn nỗ lực duy trì và phát triển các hoạt động nhằm nâng cao tính minh bạch,
+bảo vệ quyền lợi và đảm bảo sự công bằng giữa các nhóm cổ đông, chủ động chia sẻ thông tin và kết nối với cộng đồng đầu
+tư. Chính nhờ những nỗ lực này, Công ty đã nhận được sự tin tưởng từ các cổ đông hiện tại, thu hút nhà đầu tư tiềm năng,
+đồng thời góp phần xây dựng thương hiệu SSI minh bạch tại thị trường Việt Nam và khu vực.
+Năm 2024, tại IR Awards 2024, SSI vinh dự được bầu chọn nằm trong nhóm 3 doanh nghiệp tài chính có hoạt động quan hệ
+nhà đầu tư được đánh giá cao nhất bởi các định chế tài chính. Đây là ghi nhận khách quan của nhà đầu tư với hoạt động
+IR của SSI đồng thời cũng là động lực để Công ty làm tốt hơn nữa trong việc quảng bá và giới thiệu hình ảnh của SSI đến
+với cộng đồng đầu tư.
+Bảo vệ quyền lợi và
+tối đa hóa lợi ích cổ
+đông
+Tại SSI, bảo vệ quyền lợi cổ đông và đảm bảo sự công bằng giữa các nhóm cổ đông
+luôn là ưu tiên hàng đầu của Công ty.
+Để đảm bảo cổ đông được cung cấp đầy đủ, chính xác và kịp thời các thông tin quan
+trọng ảnh hưởng đến quyết định đầu tư, SSI đã không ngừng nỗ lực đa dạng hóa các
+kênh thông tin, bao gồm website, email, phương tiện truyền thông, hội nghị, báo cáo
+thường niên… Tất cả thông tin đều được công bố song song bằng tiếng Việt và tiếng
+Anh trên Cổng Thông tin Điện tử của Sở, UBCKNN cũng như trang thông tin điện tử
+của SSI, giúp đảm bảo sự công bằng trong việc tiếp cận thông tin giữa các cổ đông
+trong và ngoài nước.
+Các quyền lợi khác của cổ đông, như quyền tham gia và bỏ phiếu tại ĐHĐCĐ, bầu cử
+và bãi nhiệm thành viên HĐQT, cũng như chính sách biểu quyết vắng mặt, đều được
+đảm bảo. Điều lệ và Quy chế Quản trị Công ty quy định rõ ràng về việc ứng xử bình
+đẳng với tất cả các cổ đông, không có sự ưu đãi đối với bất kỳ nhóm cổ đông nào, và
+việc biểu quyết được thực hiện dựa trên số lượng cổ phiếu sở hữu.
+Trong những năm qua, SSI luôn duy trì mức chi trả cổ tức ổn định 10% nhằm đảm
+bảo nguồn thu nhập định kỳ cho cổ đông. Đặc biệt, trong năm 2024, ngoài việc chi trả
+cổ tức tiền mặt, SSI còn thực hiện phát hành 10 triệu cổ phiếu theo chương trình lựa
+chọn cho người lao động (ESOP). Đợt phát hành này không chỉ bổ sung vốn cho hoạt
+động kinh doanh mà còn tạo sự gắn kết và tăng giá trị tài chính cho cổ đông, đặc biệt
+trong bối cảnh nền kinh tế toàn cầu đang đối mặt với nhiều khó khăn và thách thức.
+Minh bạch hóa
+thông tin & chủ
+động kết nối với
+cộng đồng đầu tư
+Trong năm 2024, bên cạnh các sự kiện công bố kết quả kinh doanh hàng quý và
+ĐHĐCĐ thường niên, SSI đã có 90 cuộc họp trực tiếp và trực tuyến với các chuyên
+gia quản lý danh mục, chuyên gia phân tích đến từ hơn 160 Quỹ trong và ngoài nước.
+Các cuộc họp này đều có sự tham gia của đại diện lãnh đạo cấp cao, giúp nhà đầu
+tư tìm hiểu hoạt động kinh doanh hiện tại, định hướng phát triển trong tương lai của
+Công ty, cũng như giải đáp thắc mắc của nhà đầu tư về kết quả kinh doanh, tình hình
+tài chính, chiến lược hoạt động…
+Các thông tin cập nhật và phân tích kết quả hoạt động kinh doanh hàng quý tiếp tục
+được gửi tới từng cổ đông qua email và qua sự kiện cập nhật kết quả kinh doanh
+dành cho các Quỹ đầu tư (Earnings Call), giúp cổ đông và nhà đầu tư tiềm năng dễ
+dàng tiếp cận với nguồn thông tin chính thống, có nhận định chính xác và đưa ra
+quyết định đầu tư đúng đắn. Công ty cũng đổi mới cách truyền tải thông tin đảm bảo
+ngắn gọn, trực quan và dễ dàng tiếp cận tới từng nhóm cổ đông. Những bản tin này
+đồng thời được gửi rộng rãi tới các cơ quan thông tấn, báo chí, đảm bảo các NĐT
+tiềm năng cá nhân hoặc tổ chức cũng nắm bắt được thông tin cập nhật nhất.
+Trang Thông tin Điện tử SSI tại địa chỉ www.ssi.com.vn với giao diện hiện đại cùng
+cách trình bày thông tin rõ ràng, cập nhật, là kênh truyền thông thông tin vô cùng
+hiệu quả, giúp nhà đầu tư có thể dễ dàng tra cứu toàn bộ các thông tin được công bố
+ra công chúng, dữ liệu tài chính, tài liệu họp ĐHĐCĐ, các báo cáo, cùng các văn bản
+quan trọng khác như Điều lệ, Quy chế Quản trị Công ty v.v… từ khi thành lập Công ty
+tới nay, theo hai ngôn ngữ tiếng Việt và tiếng Anh.
+Báo cáo Thường niên và Báo cáo Phát triển Bền vững được xuất bản hàng năm, cung
+cấp cái nhìn toàn diện về chiến lược hoạt động của Công ty, tình hình tài chính, kết
+quả hoạt động kinh doanh, hoạt động quản trị cũng như các hoạt động phát triển
+bền vững.
+Bên cạnh đó, đại diện lãnh đạo Công ty cũng chủ động tham dự nhiều hội thảo,
+chương trình xúc tiến đầu tư tại các thị trường tài chính phát triển như Mỹ, Nhât Bản,
+Hồng Kông (Trung Quốc), Singapore để gặp gỡ, chia sẻ thông tin phân tích & góc nhìn
+về tình hình kinh tế vĩ mô, TTCK Việt Nam cũng như giới thiệu hoạt động của Công ty
+tới cộng đồng nhà đầu tư tại các thị trường này.
+Một điểm sáng trong năm 2024 của hoạt động Quan hệ Nhà đầu tư là việc Bộ phận
+Phân tích của Ngân hàng Hongkong –Thượng Hải (HSBC) đã phát hành báo cáo
+phân tích và khuyến nghị Mua với cổ phiếu SSI. Điều này giúp cổ phiếu của công ty
+nhận được sự chú ý của các nhà đầu tư trong khu vực châu Á – Thái Bình Dương.
+Trong năm 2025, IR sẽ tiếp tục làm việc với các Bộ phận Phân tích của các Ngân hàng
+lớn trên thế giới nhằm gia tăng số lượng tổ chức viết báo cáo về SSI.
+MỤC TIÊU HÀNH ĐỘNG QUAN HỆ NHÀ ĐẦU TƯ NĂM 2025
+Bước sang năm 2025, Bộ phận Quan hệ Nhà đầu tư tiếp tục đổi mới cách tiếp cận, hướng tới mục tiêu gia tăng độ phủ, hình
+ảnh về SSI tới nhà đầu tư trong và ngoài nước, một số mục tiêu hành động mà Bộ phận dự kiến triển khai trong năm 2025 là:
+Mở rộng hình thức công bố kết quả kinh doanh hàng quý (Earnings Call) nhằm tăng cơ hội tương tác với nhà đầu tư cá nhân.
+Thực hiện 100 cuộc họp với khoảng 180 nhà đầu tư, đối tác, tăng 10% so với năm 2024.
+Tham gia các hội thảo xúc tiến đầu tư (non-deal roadshow) tại các trung tâm tài chính lớn nhằm quảng bán hình ảnh về thị
+trường vốn Việt Nam nói chung và SSI nói riêng.
+Làm việc với các Ngân hàng quốc tế để tiếp tục có thêm các bên phát hành báo cáo khuyến nghị, phân tích về cổ phiếu SSI,
+giúp gia tăng uy tín, hình ảnh của SSI trong mắt nhà đầu tư tổ chức.
+PHẦN 4 - QUẢN TRỊ DOANH NGHIỆP
+
 PHÁT TRIỂN BỀN VỮNG
 NGUYÊN TẮC THIẾT LẬP BÁO CÁO
-Báo cáo Phát triển Bền vững năm 2024 của SSI được xây dựng theo Tiêu chuẩn báo cáo của Global Reporting Initiative 
-(GRI), với nguyên tắc đảm bảo tính chính xác, cân bằng, minh bạch và khả năng so sánh. Báo cáo cũng tuân thủ các quy 
-định về công bố thông tin theo yêu cầu của UBCKNN, Sở Giao dịch Chứng khoán TP.HCM (HOSE) và các quy định pháp luật 
+Báo cáo Phát triển Bền vững năm 2024 của SSI được xây dựng theo Tiêu chuẩn báo cáo của Global Reporting Initiative
+(GRI), với nguyên tắc đảm bảo tính chính xác, cân bằng, minh bạch và khả năng so sánh. Báo cáo cũng tuân thủ các quy
+định về công bố thông tin theo yêu cầu của UBCKNN, Sở Giao dịch Chứng khoán TP.HCM (HOSE) và các quy định pháp luật
 hiện hành về công bố thông tin trong lĩnh vực tài chính – chứng khoán.
-Báo cáo này bao gồm những nội dung trọng yếu liên quan đến kinh tế, quản trị, môi trường và xã hội (ESG), phản ánh 
-những tác động của SSI đối với các bên liên quan. Việc xác định nội dung trọng yếu trong báo cáo dựa trên kết quả đánh giá 
+Báo cáo này bao gồm những nội dung trọng yếu liên quan đến kinh tế, quản trị, môi trường và xã hội (ESG), phản ánh
+những tác động của SSI đối với các bên liên quan. Việc xác định nội dung trọng yếu trong báo cáo dựa trên kết quả đánh giá
 các vấn đề quan trọng với SSI và các bên liên quan, phù hợp với phương pháp tiếp cận theo tiêu chuẩn GRI.
-Ngoài ra, SSI cũng tham khảo các Khung báo cáo của Hiệp hội Thị trường Tài chính Quốc tế (ICMA) về Tài chính Bền 
-vững, cùng với các hướng dẫn từ Liên hợp quốc về Đầu tư có trách nhiệm (PRI) nhằm đảm bảo rằng các hoạt động của 
+Ngoài ra, SSI cũng tham khảo các Khung báo cáo của Hiệp hội Thị trường Tài chính Quốc tế (ICMA) về Tài chính Bền
+vững, cùng với các hướng dẫn từ Liên hợp quốc về Đầu tư có trách nhiệm (PRI) nhằm đảm bảo rằng các hoạt động của
 công ty tuân thủ theo các thông lệ quốc tế tốt nhất về PTBV trong lĩnh vực tài chính.
-GẮN KẾT VỚI MỤC TIÊU TOÀN CẦU 
-Là khuôn khổ toàn cầu hướng đến tương lai bền vững và toàn diện, Chương trình nghị sự 2030 của Liên Hợp Quốc với 17 
-Mục tiêu Phát triển Bền vững (SDGs) đặt ra các thách thức cấp bách như xóa đói nghèo, nâng cao giáo dục, bảo vệ môi 
-trường, thúc đẩy bình đẳng giới. Để hiện thực hóa những mục tiêu này vào năm 2030, sự chung tay của cộng đồng doanh 
-nghiệp toàn cầu là yếu tố then chốt. Nhận thức rõ vai trò của mình, SSI đã tích hợp SDGs vào quy trình quản trị thông qua 
-việc áp dụng GRI Standards – công cụ giúp liên kết các vấn đề trọng yếu của doanh nghiệp với mục tiêu phát triển toàn cầu. 
-Bằng cách kết nối chặt chẽ giữa SDGs và GRI, SSI không chỉ tuân thủ các thông lệ quốc tế mà còn định hướng chiến lược 
-phát triển dựa trên nhu cầu thực tiễn của xã hội và môi trường. Công ty chủ động chia sẻ tiến độ với các bên liên quan, từ 
-cổ đông, NĐT đến cộng đồng, qua đó củng cố lòng tin và khẳng định cam kết minh bạch. Điều này không chỉ giúp Ban Lãnh 
-đạo hoạch định kế hoạch hành động cụ thể mà còn tạo cơ sở vững chắc để SSI tiếp tục đóng góp thiết thực vào hành trình 
+GẮN KẾT VỚI MỤC TIÊU TOÀN CẦU
+Là khuôn khổ toàn cầu hướng đến tương lai bền vững và toàn diện, Chương trình nghị sự 2030 của Liên Hợp Quốc với 17
+Mục tiêu Phát triển Bền vững (SDGs) đặt ra các thách thức cấp bách như xóa đói nghèo, nâng cao giáo dục, bảo vệ môi
+trường, thúc đẩy bình đẳng giới. Để hiện thực hóa những mục tiêu này vào năm 2030, sự chung tay của cộng đồng doanh
+nghiệp toàn cầu là yếu tố then chốt. Nhận thức rõ vai trò của mình, SSI đã tích hợp SDGs vào quy trình quản trị thông qua
+việc áp dụng GRI Standards – công cụ giúp liên kết các vấn đề trọng yếu của doanh nghiệp với mục tiêu phát triển toàn cầu.
+Bằng cách kết nối chặt chẽ giữa SDGs và GRI, SSI không chỉ tuân thủ các thông lệ quốc tế mà còn định hướng chiến lược
+phát triển dựa trên nhu cầu thực tiễn của xã hội và môi trường. Công ty chủ động chia sẻ tiến độ với các bên liên quan, từ
+cổ đông, NĐT đến cộng đồng, qua đó củng cố lòng tin và khẳng định cam kết minh bạch. Điều này không chỉ giúp Ban Lãnh
+đạo hoạch định kế hoạch hành động cụ thể mà còn tạo cơ sở vững chắc để SSI tiếp tục đóng góp thiết thực vào hành trình
 chung vì một tương lai bền vững, gia tăng giá trị cho các bên liên quan và nâng tầm thương hiệu.
-Các hoạt động hướng tới sự PTBV đều được SSI chủ động và tích cực chia sẻ cùng các bên liên quan, nhằm nhận diện các 
-vấn đề được quan tâm; sau đó được đánh giá xem xét trong mối tương quan với hoạt động hiện tại, chiến lược PTBV của 
-Công ty, bối cảnh PTBV của quốc gia và trên toàn cầu, từ đó xác định các vấn đề trọng yếu để thực hiện rà soát, cải tiến 
-cũng như trình bày trong báo cáo. Thông qua đó, Công ty muốn thể hiện nỗ lực công khai, minh bạch trong công bố, đánh 
-giá các đóng góp về mặt kinh tế, môi trường, xã hội. Điều này giúp Ban Lãnh đạo xác định rõ kế hoạch hoạt động vì mục tiêu 
-PTBV; đồng thời tạo điều kiện thuận lợi cho việc tra cứu thông tin của cổ đông, NĐT; góp phần củng cố lòng tin, gia tăng giá 
-trị mang lại cho các bên liên quan; khẳng định uy tín và thương hiệu SSI. 
-TIÊU CHUẨN ÁP DỤNG & NGUYÊN TẮC BÁO CÁO 
-Báo cáo được lập tuân theo các tiêu chuẩn tại Bộ tiêu chuẩn GRI Sustainability Reporting Standards của Tổ chức Sáng 
+Các hoạt động hướng tới sự PTBV đều được SSI chủ động và tích cực chia sẻ cùng các bên liên quan, nhằm nhận diện các
+vấn đề được quan tâm; sau đó được đánh giá xem xét trong mối tương quan với hoạt động hiện tại, chiến lược PTBV của
+Công ty, bối cảnh PTBV của quốc gia và trên toàn cầu, từ đó xác định các vấn đề trọng yếu để thực hiện rà soát, cải tiến
+cũng như trình bày trong báo cáo. Thông qua đó, Công ty muốn thể hiện nỗ lực công khai, minh bạch trong công bố, đánh
+giá các đóng góp về mặt kinh tế, môi trường, xã hội. Điều này giúp Ban Lãnh đạo xác định rõ kế hoạch hoạt động vì mục tiêu
+PTBV; đồng thời tạo điều kiện thuận lợi cho việc tra cứu thông tin của cổ đông, NĐT; góp phần củng cố lòng tin, gia tăng giá
+trị mang lại cho các bên liên quan; khẳng định uy tín và thương hiệu SSI.
+TIÊU CHUẨN ÁP DỤNG & NGUYÊN TẮC BÁO CÁO
+Báo cáo được lập tuân theo các tiêu chuẩn tại Bộ tiêu chuẩn GRI Sustainability Reporting Standards của Tổ chức Sáng
 kiến Báo cáo toàn cầu (GRI) theo 4 nội dung chính:
-GRI 100 – Thông tin chung 
-GRI 200 – Các tiêu chuẩn kinh tế 
+GRI 100 – Thông tin chung
+GRI 200 – Các tiêu chuẩn kinh tế
 GRI 300 – Các tiêu chuẩn môi trường
-GRI 400 – Các tiêu chuẩn xã hội 
+GRI 400 – Các tiêu chuẩn xã hội
 Báo cáo được xác định theo các nguyên tắc sau:
 Nguyên tắc xác định nội dung báo cáo
-Nguyên tắc xác định chất lượng báo cáo 
+Nguyên tắc xác định chất lượng báo cáo
 Gắn kết các Bên liên quan
 Bối cảnh PTBV
 Mức độ trọng yếu
-Tính toàn diện 
+Tính toàn diện
 Chính xác
 Cân bằng
 Rõ ràng
@@ -656,412 +927,280 @@ So sánh
 Tin cậy
 Cập nhật
 PHẠM VI BÁO CÁO
-Báo cáo Phát triển Bền vững (PTBV) năm 2024 được lập theo niên độ kế toán, kết thúc vào ngày 31/12/2024. Các số liệu trong 
-báo cáo được thu thập từ hoạt động thực tế của CTCP Chứng khoán SSI (SSI) tại Hội sở chính, các Chi nhánh và Phòng Giao 
+Báo cáo Phát triển Bền vững (PTBV) năm 2024 được lập theo niên độ kế toán, kết thúc vào ngày 31/12/2024. Các số liệu trong
+báo cáo được thu thập từ hoạt động thực tế của CTCP Chứng khoán SSI (SSI) tại Hội sở chính, các Chi nhánh và Phòng Giao
 dịch trên toàn quốc, trong khoảng thời gian từ ngày 01/01/2024 đến ngày 31/12/2024.
-Các số liệu tài chính được dẫn chiếu từ Báo cáo tài chính hợp nhất đã kiểm toán năm 2024, cùng với các dữ liệu lịch sử của 
+Các số liệu tài chính được dẫn chiếu từ Báo cáo tài chính hợp nhất đã kiểm toán năm 2024, cùng với các dữ liệu lịch sử của
 các năm trước đó, nhằm đảm bảo tính toàn diện và minh bạch trong việc trình bày các kết quả hoạt động.
-Phạm vi nội dung báo cáo tập trung vào các khía cạnh trọng yếu liên quan đến kinh tế, môi trường, xã hội và quản trị doanh 
-nghiệp (ESG), phù hợp với các tiêu chuẩn quốc tế như Bộ tiêu chuẩn GRI Sustainability Reporting Standards (Tùy chọn cốt 
-lõi). Ngoài ra, báo cáo cũng tham khảo các Mục tiêu Phát triển Bền vững của Liên Hợp Quốc (SDGs) và các thông lệ tốt 
+Phạm vi nội dung báo cáo tập trung vào các khía cạnh trọng yếu liên quan đến kinh tế, môi trường, xã hội và quản trị doanh
+nghiệp (ESG), phù hợp với các tiêu chuẩn quốc tế như Bộ tiêu chuẩn GRI Sustainability Reporting Standards (Tùy chọn cốt
+lõi). Ngoài ra, báo cáo cũng tham khảo các Mục tiêu Phát triển Bền vững của Liên Hợp Quốc (SDGs) và các thông lệ tốt
 nhất trong ngành tài chính, nhằm tăng cường hiệu quả quản trị và cam kết bền vững của công ty.
-Báo cáo năm nay tiếp tục được thực hiện bởi Nhóm phụ trách Báo cáo Phát triển Bền vững SSI, với sự tham gia của các 
+Báo cáo năm nay tiếp tục được thực hiện bởi Nhóm phụ trách Báo cáo Phát triển Bền vững SSI, với sự tham gia của các
 thành viên đến từ các bộ phận chịu trách nhiệm cung cấp thông tin, bao gồm:
-	
-■
 Bộ phận Quan hệ Nhà đầu tư.
-	
-■
 Bộ phận Truyền thông.
-	
-■
 Bộ phận Tài chính – Kế toán.
-	
-■
 Bộ phận Nhân sự.
-	
-■
 Bộ phận Luật & Kiểm soát Tuân thủ.
-	
-■
 Bộ phận Thư ký Công ty.
-Ngoài ra, báo cáo năm nay mở rộng thêm phạm vi thu thập thông tin về các chương trình và hoạt động hướng đến cộng 
+Ngoài ra, báo cáo năm nay mở rộng thêm phạm vi thu thập thông tin về các chương trình và hoạt động hướng đến cộng
 đồng, các sáng kiến quản lý tài nguyên, và cải tiến quy trình vận hành nhằm giảm thiểu tác động môi trường.
 Mọi ý kiến đóng góp hoặc yêu cầu liên quan đến Báo cáo xin vui lòng liên hệ qua:
 Bộ phận Quan hệ Nhà đầu tư
 Email: investorrelation@ssi.com.vn
-Điện thoại: (+84-24) 3936 6321
 Địa chỉ: 1C Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội
-GRI
 STANDARDS
-GRI
-100
 Universal
-GRI
-200
 Economic
-GRI
-300
 Environment
-GRI
-400
 Social
-136 	
-	
-137
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 
-■
-Duy trì kết quả hoạt động kinh doanh tăng trưởng tốt và bền vững, 
-không ngừng cải tiến, nâng cao hiệu quả hoạt động và năng lực cạnh 
-tranh; 
-	
-■
-Tạo ra giá trị tốt nhất cho người lao động; 
-	
-■
+Duy trì kết quả hoạt động kinh doanh tăng trưởng tốt và bền vững,
+không ngừng cải tiến, nâng cao hiệu quả hoạt động và năng lực cạnh
+tranh;
+Tạo ra giá trị tốt nhất cho người lao động;
 Giữ mức chi trả cổ tức ổn định, tạo ra giá trị cho cổ đông;
-	
-■
 Quản trị doanh nghiệp theo các thông lệ tốt trên thế giới.
-	
-■
-Thực hiện các chương trình nâng cao nhận thức của nhân viên về bảo 
+Thực hiện các chương trình nâng cao nhận thức của nhân viên về bảo
 vệ môi trường;
-	
-■
-Kiểm soát và giảm thiểu tác động tới môi trường từ các hoạt động 
+Kiểm soát và giảm thiểu tác động tới môi trường từ các hoạt động
 hàng ngày của Công ty.
-	
-■
-Kết nối vốn và cơ hội đầu tư, là kênh huy động vốn hiệu quả cho nền 
+Kết nối vốn và cơ hội đầu tư, là kênh huy động vốn hiệu quả cho nền
 kinh tế;
-	
-■
 Chủ động và tích cực tham gia xây dựng thị trường chứng khoán;
-	
-■
-Cung cấp dịch vụ tư vấn nâng cao hiệu quả hoạt động của các doanh 
-nghiệp; 
-	
-■
-Đi đầu trong việc phát triển sản phẩm mới tạo thêm nhiều lựa chọn đầu 
-tư cho khách hàng, quản lý tài sản khách hàng an toàn – minh bạch. 
-	
-■
+Cung cấp dịch vụ tư vấn nâng cao hiệu quả hoạt động của các doanh
+nghiệp;
+Đi đầu trong việc phát triển sản phẩm mới tạo thêm nhiều lựa chọn đầu
+tư cho khách hàng, quản lý tài sản khách hàng an toàn – minh bạch.
 Chiến lược đầu tư có trách nhiệm, đồng hành cùng các công ty đầu tư;
-	
-■
 Tổ chức các hoạt động chia sẻ với cộng đồng;
-	
-■
-Xây dựng nguồn nhân lực chất lượng cao, có cơ cấu hợp lý, đầu tư cho 
-đào tạo – phát triển, phát hiện và nuôi dưỡng nhân tài. 
+Xây dựng nguồn nhân lực chất lượng cao, có cơ cấu hợp lý, đầu tư cho
+đào tạo – phát triển, phát hiện và nuôi dưỡng nhân tài.
 Phát triển Bền vững tại SSI
 Bảo vệ môi trường
-Phát triển Thị trường Tài chính 
+Phát triển Thị trường Tài chính
 Tác động tích cực tới xã hội
 Xóa nghèo
-ĐỊNH HƯỚNG CHIẾN LƯỢC VỀ 
+ĐỊNH HƯỚNG CHIẾN LƯỢC VỀ
 PHÁT TRIỂN BỀN VỮNG CỦA SSI
-Trải qua một năm 2024 với nhiều biến động trong cả bối 
-cảnh kinh tế vĩ mô và môi trường kinh doanh, SSI vẫn kiên 
-định bước đi với tầm nhìn “Chúng ta cùng thành công”, xác 
-định rõ thành công của Công ty chính là thành công của 
-khách hàng, cộng sự, đối tác, cổ đông và cộng đồng. Đồng 
-thời, thành công mà SSI hướng tới không chỉ tập trung vào 
-những mục tiêu đơn thuần, ngắn hạn; mà còn là sự phát 
-triển lâu bền của các bên liên quan đặt trong mối quan hệ 
-với nền kinh tế, môi trường và xã hội. Các nỗ lực hướng tới 
-phát triển bền vững đặc biệt quan trọng với SSI trong bối 
-cảnh còn tiềm ẩn nhiều rủi ro đến từ nền tảng vĩ mô, diễn 
-biến khó lường của TTCK, sự cạnh tranh ngày càng khốc 
+Trải qua một năm 2024 với nhiều biến động trong cả bối
+cảnh kinh tế vĩ mô và môi trường kinh doanh, SSI vẫn kiên
+định bước đi với tầm nhìn “Chúng ta cùng thành công”, xác
+định rõ thành công của Công ty chính là thành công của
+khách hàng, cộng sự, đối tác, cổ đông và cộng đồng. Đồng
+thời, thành công mà SSI hướng tới không chỉ tập trung vào
+những mục tiêu đơn thuần, ngắn hạn; mà còn là sự phát
+triển lâu bền của các bên liên quan đặt trong mối quan hệ
+với nền kinh tế, môi trường và xã hội. Các nỗ lực hướng tới
+phát triển bền vững đặc biệt quan trọng với SSI trong bối
+cảnh còn tiềm ẩn nhiều rủi ro đến từ nền tảng vĩ mô, diễn
+biến khó lường của TTCK, sự cạnh tranh ngày càng khốc
 liệt từ các đối thủ trong và ngoài nước.
-Hơn bao giờ hết, để có thể theo đuổi Sứ mệnh và Tầm 
-nhìn của mình, SSI cần tích hợp các mục tiêu phát triển 
-bền vững vào chiến lược phát triển trong dài hạn, tiếp tục 
-giữ vững vị trí là định chế tài chính hàng đầu Việt Nam và 
-vươn ra thị trường quốc tế. Vì vậy, định hướng chiến lược 
-của SSI chính là đảm bảo sự PTBV của Công ty song hành 
-cùng với sự PTBV của Thị trường vốn Việt Nam và đóng 
-góp một cách hiệu quả nhất, thiết thực nhất cho các bên 
-liên quan và toàn xã hội, song song với đó không bỏ qua 
-vai trò của từng CBNV trong Công ty trong các hoạt động 
+Hơn bao giờ hết, để có thể theo đuổi Sứ mệnh và Tầm
+nhìn của mình, SSI cần tích hợp các mục tiêu phát triển
+giữ vững vị trí là định chế tài chính hàng đầu Việt Nam và
+vươn ra thị trường quốc tế. Vì vậy, định hướng chiến lược
+của SSI chính là đảm bảo sự PTBV của Công ty song hành
+cùng với sự PTBV của Thị trường vốn Việt Nam và đóng
+góp một cách hiệu quả nhất, thiết thực nhất cho các bên
+liên quan và toàn xã hội, song song với đó không bỏ qua
+vai trò của từng CBNV trong Công ty trong các hoạt động
 bảo vệ môi trường và đảm bảo an sinh xã hội.
-Năm 2024, SSI tiếp tục triển khai định hướng chiến lược  nói trên, cân đối giữa các mục tiêu kinh tế – xã hội – môi trường và 
-ghi nhận những thành tích tốt. Trong bối cảnh thị trường biến động, SSI tiếp tục duy trì tăng trưởng ấn tượng với Tổng doanh 
-thu đạt 8.711 tỷ VNĐ, tăng 19,6% so với năm 2023. Lợi nhuận trước thuế đạt 3.544 tỷ VNĐ, tăng 24%, vượt kế hoạch ĐHĐCĐ 
-giao, trong khi Lợi nhuận sau thuế cũng tăng trưởng tương ứng, đạt 2.845 tỷ VNĐ, cho thấy sự hiệu quả trong chiến lược kinh 
-doanh của Công ty. Các mảng kinh doanh chính đem lại kết quả tích cực bao gồm DVCK, Đầu tư, Nguồn vốn và Kinh doanh 
-tài chính và Quản lý quỹ. Dịch vụ Ngân hàng Đầu tư vẫn gặp nhiều thử thách do bối cảnh thị trường và nhu cầu huy động 
+Năm 2024, SSI tiếp tục triển khai định hướng chiến lược  nói trên, cân đối giữa các mục tiêu kinh tế – xã hội – môi trường và
+ghi nhận những thành tích tốt. Trong bối cảnh thị trường biến động, SSI tiếp tục duy trì tăng trưởng ấn tượng với Tổng doanh
+thu đạt 8.711 tỷ VNĐ, tăng 19,6% so với năm 2023. Lợi nhuận trước thuế đạt 3.544 tỷ VNĐ, tăng 24%, vượt kế hoạch ĐHĐCĐ
+giao, trong khi Lợi nhuận sau thuế cũng tăng trưởng tương ứng, đạt 2.845 tỷ VNĐ, cho thấy sự hiệu quả trong chiến lược kinh
+doanh của Công ty. Các mảng kinh doanh chính đem lại kết quả tích cực bao gồm DVCK, Đầu tư, Nguồn vốn và Kinh doanh
+tài chính và Quản lý quỹ. Dịch vụ Ngân hàng Đầu tư vẫn gặp nhiều thử thách do bối cảnh thị trường và nhu cầu huy động
 vốn của doanh nghiệp trong nền kinh tế chưa cao.
-Công ty tiếp tục nằm trong nhóm Doanh nghiệp đóng góp cao nhất cho ngân sách Nhà nước và tạo ra giá trị bền vững cho cổ 
-đông. Cùng với đó là những đóng góp gián tiếp tới sự phát triển của kinh tế – xã hội như: hoạt động tư vấn tài chính doanh 
-nghiệp, huy động vốn, góp phần vào sự hình thành một kênh dẫn vốn và phân phối vốn dài hạn cho nền kinh tế; tích cực tham 
-gia xây dựng TTCK và tiên phong trong việc phát triển sản phẩm mới, nâng cấp những sản phẩm hiện có nhằm nâng cao 
-sự hài lòng của khách hàng. Việc làm và đãi ngộ hợp lý cho người lao động được đảm bảo giúp nhân viên và gia đình duy 
-trì điều kiện sống ổn định; các hoạt động đào tạo – tuyển dụng cũng được chú trọng, duy trì giúp nâng cao năng lực chuyên 
-môn và kỹ năng xử lý công việc cho nhân viên, không để tụt hậu so với thị trường lao động. Bên cạnh đó, hoạt động quản trị 
-công ty hiệu quả theo chuẩn mực tốt nhất trong khu vực, lấy sự minh bạch là phương châm trong hoạt động giúp SSI quản 
+Công ty tiếp tục nằm trong nhóm Doanh nghiệp đóng góp cao nhất cho ngân sách Nhà nước và tạo ra giá trị bền vững cho cổ
+đông. Cùng với đó là những đóng góp gián tiếp tới sự phát triển của kinh tế – xã hội như: hoạt động tư vấn tài chính doanh
+nghiệp, huy động vốn, góp phần vào sự hình thành một kênh dẫn vốn và phân phối vốn dài hạn cho nền kinh tế; tích cực tham
+gia xây dựng TTCK và tiên phong trong việc phát triển sản phẩm mới, nâng cấp những sản phẩm hiện có nhằm nâng cao
+sự hài lòng của khách hàng. Việc làm và đãi ngộ hợp lý cho người lao động được đảm bảo giúp nhân viên và gia đình duy
+trì điều kiện sống ổn định; các hoạt động đào tạo – tuyển dụng cũng được chú trọng, duy trì giúp nâng cao năng lực chuyên
+môn và kỹ năng xử lý công việc cho nhân viên, không để tụt hậu so với thị trường lao động. Bên cạnh đó, hoạt động quản trị
+công ty hiệu quả theo chuẩn mực tốt nhất trong khu vực, lấy sự minh bạch là phương châm trong hoạt động giúp SSI quản
 trị rủi ro và kiểm soát tuân thủ tốt, đảm bảo quyền lợi và công bằng cho cổ đông.
-Với cam kết “Chúng tôi tình nguyện thực hiện trách nhiệm xã hội của doanh nghiệp, chung sức vì sự phát triển của cộng đồng”, năm 
-2024, SSI chú trọng thực hiện các hoạt động an sinh xã hội và đầu tư các chương trình phát triển giáo dục cho thế hệ trẻ, góp 
-phần xây dựng một xã hội tốt đẹp hơn. Tuy hoạt động trong lĩnh vực tài chính và không trực tiếp có tác động tiêu cực tới môi 
-trường, SSI tự nhận thức được mình cần phải có những đóng góp cho môi trường vì tương lai của các thế hệ sau, thông qua 
-tuân thủ nghiêm túc các quy định về môi trường; dành nhiều hoạt động nội bộ nhằm nâng cao nhận thức trong việc sử dụng 
-hợp lý năng lượng, tài nguyên thiên nhiên; và áp dụng các biện pháp giám sát trong tiêu thụ năng lượng, xả thải trong quá 
+Với cam kết “Chúng tôi tình nguyện thực hiện trách nhiệm xã hội của doanh nghiệp, chung sức vì sự phát triển của cộng đồng”, năm
+2024, SSI chú trọng thực hiện các hoạt động an sinh xã hội và đầu tư các chương trình phát triển giáo dục cho thế hệ trẻ, góp
+phần xây dựng một xã hội tốt đẹp hơn. Tuy hoạt động trong lĩnh vực tài chính và không trực tiếp có tác động tiêu cực tới môi
+trường, SSI tự nhận thức được mình cần phải có những đóng góp cho môi trường vì tương lai của các thế hệ sau, thông qua
+tuân thủ nghiêm túc các quy định về môi trường; dành nhiều hoạt động nội bộ nhằm nâng cao nhận thức trong việc sử dụng
+hợp lý năng lượng, tài nguyên thiên nhiên; và áp dụng các biện pháp giám sát trong tiêu thụ năng lượng, xả thải trong quá
 trình vận hành góp phần giảm thiểu tác động tiêu cực tới môi trường chung.
-138 	
-	
-139
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 
 MÔ HÌNH QUẢN TRỊ VỀ PHÁT TRIỂN BỀN VỮNG
-HĐQT chịu trách nhiệm cao nhất về chiến lược phát triển bền vững của SSI. Tổng giám đốc và Ban Lãnh đạo chịu trách 
-nhiệm xây dựng và triển khai thực hiện các mục tiêu và kế hoạch, đồng thời chia sẻ và đảm bảo các vấn đề phát triền bền 
+HĐQT chịu trách nhiệm cao nhất về chiến lược phát triển bền vững của SSI. Tổng giám đốc và Ban Lãnh đạo chịu trách
+nhiệm xây dựng và triển khai thực hiện các mục tiêu và kế hoạch, đồng thời chia sẻ và đảm bảo các vấn đề phát triền bền
 vững được hiểu và thống nhất thực hiện trong toàn Công ty, từ các Khối và Bộ phận nghiệp vụ cho tới từng nhân viên.
-CÁC TÁC ĐỘNG, RỦI RO VÀ CƠ HỘI TRỌNG YẾU VÀ MỐI 
+CÁC TÁC ĐỘNG, RỦI RO VÀ CƠ HỘI TRỌNG YẾU VÀ MỐI
 LIÊN KẾT VỚI CHIẾN LƯỢC
 SSI công bố 3 lĩnh vực chính của kinh doanh có ảnh hưởng đáng kể gồm: Ngân hàng đầu tư, Quản lý quỹ và Đầu tư
-Tổng quan về việc cung cấp giải pháp PTBV của SSI
 Ngân hàng đầu tư
 Quản lý quỹ
 Đầu tư
-	
-■
-Tư vấn các cấu trúc tài chính có 
+Tư vấn các cấu trúc tài chính có
 tác động tích cực
-	
-■
-Tư vấn phát hành trái phiếu xanh, 
+Tư vấn phát hành trái phiếu xanh,
 xã hội
-	
-■
-Đầu tư tư nhân vào các doanh 
-nghiệp tạo ảnh hưởng tích cực tới 
+Đầu tư tư nhân vào các doanh
+nghiệp tạo ảnh hưởng tích cực tới
 môi trường, xã hội
-	
-■
-Quỹ tương hỗ và ETF Phát triển 
+Quỹ tương hỗ và ETF Phát triển
 bền vững
-	
-■
-Trái phiếu Xanh và trái phiếu xã 
-hội
-	
-■
-Đầu tư chủ động hướng đến phát 
+Trái phiếu Xanh và trái phiếu xã
+Đầu tư chủ động hướng đến phát
 triển bền vững
 Tác động
 Rủi ro
 Cơ hội
-Dịch vụ Ngân 
+Dịch vụ Ngân
 hàng đầu tư
-Hoạt động tư vấn 
-M&A, tư vấn huy 
-động vốn cần có 
-đánh giá đấy đủ các 
-rủi ro ESG tiềm tàng 
-có thể phát sinh 
-trong và sau giao 
+Hoạt động tư vấn
+M&A, tư vấn huy
+động vốn cần có
+đánh giá đấy đủ các
+rủi ro ESG tiềm tàng
+có thể phát sinh
+trong và sau giao
 dịch
-	
-■
-Các dự án tài chính không thân 
-thiện với môi trường (năng lượng 
-hóa thạch, công nghiệp nặng) có 
-thể gặp khó khăn trong việc huy 
+Các dự án tài chính không thân
+thiện với môi trường (năng lượng
+hóa thạch, công nghiệp nặng) có
+thể gặp khó khăn trong việc huy
 động vốn.
-	
-■
-Doanh nghiệp không tuân thủ tiêu 
-chuẩn lao động hoặc có vấn đề về 
-đạo đức có thể bị tẩy chay, làm 
+Doanh nghiệp không tuân thủ tiêu
+chuẩn lao động hoặc có vấn đề về
+đạo đức có thể bị tẩy chay, làm
 giảm khả năng tiếp cận vốn.
-	
-■
-Rủi ro liên quan đến quyền lợi cổ 
-đông và trách nhiệm xã hội có thể 
-ảnh hưởng đến danh tiếng của 
+Rủi ro liên quan đến quyền lợi cổ
+đông và trách nhiệm xã hội có thể
+ảnh hưởng đến danh tiếng của
 ngân hàng đầu tư.
-	
-■
-Gia tăng nhu cầu phát hành trái 
+Gia tăng nhu cầu phát hành trái
 phiếu xanh, tín dụng bền vững.
-	
-■
-Hỗ trợ M&A trong lĩnh vực ESG, 
-đặc biệt là năng lượng tái tạo, 
+Hỗ trợ M&A trong lĩnh vực ESG,
+đặc biệt là năng lượng tái tạo,
 công nghệ sạch.
-	
-■
-Cơ hội tư vấn tái cấu trúc doanh 
-nghiệp để đáp ứng tiêu chuẩn 
+Cơ hội tư vấn tái cấu trúc doanh
+nghiệp để đáp ứng tiêu chuẩn
 ESG, giúp thu hút đầu tư quốc tế.
 Quản lý quỹ
-	
-■
-Xu hướng đầu 
-tư vào các quỹ 
-đầu tư ESG, đặc 
-biệt là các quỹ 
+Xu hướng đầu
+tư vào các quỹ
+đầu tư ESG, đặc
+biệt là các quỹ
 mở và ETF ESG.
-	
-■
-Nhà đầu tư cá 
-nhân và tổ chức 
-ngày càng ưu 
-tiên các danh 
-mục đầu tư bền 
+Nhà đầu tư cá
+nhân và tổ chức
+ngày càng ưu
+tiên các danh
+mục đầu tư bền
 vững.
-	
-■
-Danh mục quỹ có chứa các công 
-ty vi phạm ESG có thể bị rút vốn 
+Danh mục quỹ có chứa các công
+ty vi phạm ESG có thể bị rút vốn
 mạnh
-	
-■
-Nguy cơ liên quan đến danh mục 
-quỹ đầu tư vào các công ty vi 
+Nguy cơ liên quan đến danh mục
+quỹ đầu tư vào các công ty vi
 phạm đạo đức, nhân quyền.
-	
-■
-Thiếu các tiêu chuẩn đánh giá ESG 
-đồng bộ gây khó khăn trong việc 
+Thiếu các tiêu chuẩn đánh giá ESG
+đồng bộ gây khó khăn trong việc
 xác định danh mục đầu tư.
-	
-■
-Nhu cầu tăng mạnh với các quỹ 
-ESG, đặc biệt là quỹ tác động 
+Nhu cầu tăng mạnh với các quỹ
+ESG, đặc biệt là quỹ tác động
 (Impact Investing).
-	
-■
-Tăng khả năng thu hút dòng vốn 
+Tăng khả năng thu hút dòng vốn
 từ các tổ chức tài chính toàn cầu.
-	
-■
-Phát triển sản phẩm mới như quỹ 
+Phát triển sản phẩm mới như quỹ
 xanh, quỹ phát triển bền vững.
 Đầu tư
-ESG ảnh hưởng trực 
-tiếp đến chiến lược 
+ESG ảnh hưởng trực
+tiếp đến chiến lược
 đầu tư của SSI
-	
-■
-Danh mục đầu tư vào ngành dầu 
-khí, khai khoáng, công nghiệp 
-nặng có thể gặp áp lực giảm giá 
-trị.
-	
-■
-Ảnh hưởng tiêu cực đến thương 
-hiệu của tổ chức khi đầu tư vào 
-các doanh nghiệp có hành vi phi 
+Danh mục đầu tư vào ngành dầu
+khí, khai khoáng, công nghiệp
+nặng có thể gặp áp lực giảm giá
+Ảnh hưởng tiêu cực đến thương
+hiệu của tổ chức khi đầu tư vào
+các doanh nghiệp có hành vi phi
 đạo đức.
-	
-■
-Doanh nghiệp trong danh mục 
-đầu tư nếu bị phát hiện vi phạm 
-quy định ESG có thể ảnh hưởng 
+Doanh nghiệp trong danh mục
+đầu tư nếu bị phát hiện vi phạm
+quy định ESG có thể ảnh hưởng
 đến giá trị đầu tư.
-	
-■
-Đầu tư vào lĩnh vực năng lượng 
-tái tạo, công nghệ sạch, và kinh tế 
+Đầu tư vào lĩnh vực năng lượng
+tái tạo, công nghệ sạch, và kinh tế
 tuần hoàn.
-	
-■
-Phát triển danh mục đầu tư ESG 
-giúp giảm thiểu rủi ro dài hạn và 
-tăng tính hấp dẫn với nhà đầu tư 
+Phát triển danh mục đầu tư ESG
+giúp giảm thiểu rủi ro dài hạn và
+tăng tính hấp dẫn với nhà đầu tư
 tổ chức.
-	
-■
-Tận dụng các chính sách hỗ trợ 
-của chính phủ đối với doanh 
+Tận dụng các chính sách hỗ trợ
+của chính phủ đối với doanh
 nghiệp xanh.
 HĐQT
-	
-■
-Chỉ đạo chung về chiến lược phát triển bền vững tại SSI
-	
-■
 Phê duyệt mục tiêu và kế hoạch hành động
-	
-■
-Xây dựng và trình HĐQT các mục tiêu và kế hoạch hành động 
+Xây dựng và trình HĐQT các mục tiêu và kế hoạch hành động
 và phát triển bền vững của SSI
-	
-■
-Chia sẻ chiến lược, mục tiêu và kế hoạch phát triển bền vững 
+Chia sẻ chiến lược, mục tiêu và kế hoạch phát triển bền vững
 trong toàn Công ty
-	
-■
 Đảm bảo kế hoạch phát triển bền vững đạt mục tiêu đề ra
-	
-■
-Giám sát, đôn đốc việc thực hiện kế hoạch của các Khối & Bộ 
+Giám sát, đôn đốc việc thực hiện kế hoạch của các Khối & Bộ
 phận liên quan
-	
-■
-Triển khai và hiện thực hoá các kế hoạch phát 
-triển bền vững theo đúng định hướng của Tổng 
+Triển khai và hiện thực hoá các kế hoạch phát
+triển bền vững theo đúng định hướng của Tổng
 giám đốc và Ban lãnh đạo
-	
-■
-Thực hiện các công việc cụ thể hằng ngày 
-liên quan đến mục tiêu về phát triển bền 
+Thực hiện các công việc cụ thể hằng ngày
+liên quan đến mục tiêu về phát triển bền
 vững của SSI
-CÁC KHỐI & 
+CÁC KHỐI &
 BỘ PHẬN CHỨC NĂNG
 NHÂN VIÊN
 TỔNG GIÁM ĐỐC
 & BAN LÃNH ĐẠO
-140 	
-	
-141
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 
-GẮN KẾT CÁC BÊN LIÊN QUAN 
+GẮN KẾT CÁC BÊN LIÊN QUAN
 VÌ MỤC TIÊU PHÁT TRIỂN BỀN VỮNG
-Với tầm nhìn “Chúng ta cùng thành công”, SSI đã tiếp tục xây dựng và phát triển mối quan hệ bền vững với các bên liên quan 
-trong các hoạt động kinh doanh, trong các quá trình ra quyết định, cũng như hoạch định chiến lược dài hạn của Công ty. Sự 
-tham gia của các bên liên quan là một tiến trình quan trọng giúp Công ty xác định được các vấn đề PTBV đang được quan 
-tâm và kỳ vọng, từ đó xác định các yếu tố trọng yếu để có thể hoạch định và thực thi các hoạt động cần thiết để đáp ứng 
-các kỳ vọng đó. 
+Với tầm nhìn “Chúng ta cùng thành công”, SSI đã tiếp tục xây dựng và phát triển mối quan hệ bền vững với các bên liên quan
+trong các hoạt động kinh doanh, trong các quá trình ra quyết định, cũng như hoạch định chiến lược dài hạn của Công ty. Sự
+tham gia của các bên liên quan là một tiến trình quan trọng giúp Công ty xác định được các vấn đề PTBV đang được quan
+tâm và kỳ vọng, từ đó xác định các yếu tố trọng yếu để có thể hoạch định và thực thi các hoạt động cần thiết để đáp ứng
+các kỳ vọng đó.
 SSI áp dụng quy trình tham vấn bên liên quan như sau:
-CÁC BÊN LIÊN QUAN CỦA SSI 
-CƠ CHẾ GIAO TIẾP VÀ ỨNG XỬ VỚI CÁC BÊN LIÊN QUAN 
-Trong những năm qua, SSI duy trì nhiều phương pháp giao tiếp, trao đổi riêng biệt và phù hợp với từng bên liên quan, tạo 
-điều kiện để họ có thể chia sẻ một cách đầy đủ, chân thực nhất các vấn đề đang quan tâm. 
+CÁC BÊN LIÊN QUAN CỦA SSI
+CƠ CHẾ GIAO TIẾP VÀ ỨNG XỬ VỚI CÁC BÊN LIÊN QUAN
+Trong những năm qua, SSI duy trì nhiều phương pháp giao tiếp, trao đổi riêng biệt và phù hợp với từng bên liên quan, tạo
+điều kiện để họ có thể chia sẻ một cách đầy đủ, chân thực nhất các vấn đề đang quan tâm.
 Các Bên liên quan
 Kênh truyền thông/gặp gỡ
 Tần suất đối thoại
-Nhân viên 
-Truyền thông Nội bộ 
-Liên tục 
+Nhân viên
+Truyền thông Nội bộ
+Liên tục
 Sự kiện định kỳ của Công ty
-Hàng quý/Hàng năm 
+Hàng quý/Hàng năm
 Các cuộc họp nội bộ
 Liên tục
 Kênh liên lạc khác (website, diễn đàn nội bộ, mạng xã hội)
-Liên tục 
+Liên tục
 Khách hàng
 Chi nhánh/Phòng Giao dịch
 Hàng ngày
 Trung tâm Contact Center
-Hàng ngày 
+Hàng ngày
 Website/Mạng xã hội
 Liên tục
 Thông tin trên các phương tiện thông tin đại chúng
 Liên tục
 Khảo sát mức độ hài lòng
 Định kỳ
-Cổ đông/ 
-Nhà đầu tư 
+Cổ đông/
+Nhà đầu tư
 Đại hội Cổ đông Thường niên
 Một lần/1 năm
 Hội nghị/Hội thảo gặp gỡ NĐT
@@ -1072,43 +1211,40 @@ Sàn giao dịch và các xuất bản báo chí
 Liên tục
 Các kênh liên lạc khác (website, mạng xã hội, email, điện thoại)
 Liên tục
-Chính phủ/ 
-Cơ quan quản lý/ 
-Chính quyền  
-Địa phương 
-Các buổi họp 
+Chính phủ/
+Cơ quan quản lý/
+Chính quyền
+Địa phương
+Các buổi họp
 Nhiều lần/năm
-Báo cáo Thường niên/ Báo cáo Phát triển Bền vững
 Một lần/1 năm
 Báo cáo hàng tháng/ hàng quý theo quy định
 Nhiều lần/năm
-Các kênh liên lạc khác (website, email, điện thoại) 
-Liên tục 
-Nhà cung cấp/ Công 
+Các kênh liên lạc khác (website, email, điện thoại)
+Liên tục
+Nhà cung cấp/ Công
 ty Đầu tư
 Các cuộc họp định kỳ
-Liên tục 
+Liên tục
 Các kênh liên lạc khác (email, điện thoại)
 Liên tục
-Cơ quan  
-truyền thông 
+Cơ quan
+truyền thông
 Họp báo
 Tùy sự kiện
-Trả lời phỏng vấn 
+Trả lời phỏng vấn
 Liên tục
-Các kênh liên lạc khác (website, điện thoại, email) 
+Các kênh liên lạc khác (website, điện thoại, email)
 Liên tục
-Cộng đồng 
-Website 
-Liên tục 
+Website
+Liên tục
 Các ấn phẩm của Công ty
 Liên tục
-Thông tin trên phương tiện truyền thông 
+Thông tin trên phương tiện truyền thông
 Liên tục
- 
-Qua những lần tiếp xúc, lắng nghe ý kiến và trao đổi với các bên liên quan, SSI đã xác định được các vấn đề được quan tâm 
-cùng giải pháp và hành động thích hợp nhằm xây dựng và phát triển các mối quan hệ bền vững, dựa trên sự tin tưởng, minh 
-bạch trong trao đổi thông tin và nguyên tắc đôi bên cùng có lợi. 
+Qua những lần tiếp xúc, lắng nghe ý kiến và trao đổi với các bên liên quan, SSI đã xác định được các vấn đề được quan tâm
+cùng giải pháp và hành động thích hợp nhằm xây dựng và phát triển các mối quan hệ bền vững, dựa trên sự tin tưởng, minh
+bạch trong trao đổi thông tin và nguyên tắc đôi bên cùng có lợi.
 Nhân viên
 Chính phủ
 Cơ quan
@@ -1116,309 +1252,362 @@ truyền thông
 Nhà cung cấp
 Chính quyền
 địa phương
-Cộng đồng
 quần chúng
 Khách hàng
 Cổ đông/
 Nhà đầu tư
 Cơ quan
 quản lý
-Công ty 
+Công ty
 Đầu tư
 Các bên
 liên quan
 của SSI
-142 	
-	
-143
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 
-CAM KẾT & HƯỚNG TỚI TƯƠNG LAI 
+CAM KẾT & HƯỚNG TỚI TƯƠNG LAI
 MỤC TIÊU
 HÀNH ĐỘNG
 Môi trường
-SSI cam kết thực hiện các 
-biện pháp giảm thiểu tác 
-động môi trường trong hoạt 
-động kinh doanh, đặc biệt 
-trong việc tối ưu hóa nguồn 
-lực, giảm lượng khí thải, 
-tiết kiệm năng lượng và tái 
-chế tài nguyên. Công ty chú 
-trọng áp dụng công nghệ số 
-để nâng cao hiệu quả vận 
-hành, giảm tiêu thụ giấy và 
+SSI cam kết thực hiện các
+biện pháp giảm thiểu tác
+động môi trường trong hoạt
+động kinh doanh, đặc biệt
+trong việc tối ưu hóa nguồn
+lực, giảm lượng khí thải,
+tiết kiệm năng lượng và tái
+chế tài nguyên. Công ty chú
+trọng áp dụng công nghệ số
+để nâng cao hiệu quả vận
+hành, giảm tiêu thụ giấy và
 năng lượng.
-SSI nhận thức rõ vai trò của mình trong việc giảm thiểu tác động tiêu cực 
-đến môi trường thông qua các hoạt động đầu tư và vận hành kinh doanh. 
+SSI nhận thức rõ vai trò của mình trong việc giảm thiểu tác động tiêu cực
+đến môi trường thông qua các hoạt động đầu tư và vận hành kinh doanh.
 Công ty cam kết:
-•	
-Tối ưu hóa nguồn lực và giảm thiểu tác động môi trường bằng 
-cách áp dụng công nghệ số, tự động hóa quy trình để giảm tiêu 
+Tối ưu hóa nguồn lực và giảm thiểu tác động môi trường bằng
+cách áp dụng công nghệ số, tự động hóa quy trình để giảm tiêu
 thụ giấy và điện năng trong hoạt động hàng ngày.
-•	
-Thực hiện các biện pháp quản lý rủi ro môi trường trong đầu tư 
-nhằm thúc đẩy các khoản đầu tư xanh, hạn chế đầu tư các doanh 
+Thực hiện các biện pháp quản lý rủi ro môi trường trong đầu tư
+nhằm thúc đẩy các khoản đầu tư xanh, hạn chế đầu tư các doanh
 nghiệp có ảnh hưởng tiêu cực đến môi trường.
-•	
-Tuân thủ nghiêm ngặt các quy định về môi trường trong mọi 
-hoạt động tài chính, đầu tư và vận hành, hướng tới mục tiêu phát 
+Tuân thủ nghiêm ngặt các quy định về môi trường trong mọi
+hoạt động tài chính, đầu tư và vận hành, hướng tới mục tiêu phát
 triển bền vững.
 Quản trị
-Xây dựng một hệ thống 
-quản trị minh bạch, hiệu quả 
-và trách nhiệm, đảm bảo 
-tuân thủ quy định pháp luật, 
-chuẩn mực quản trị doanh 
-nghiệp. Đồng thời, SSI tạo 
-điều kiện cho các bên liên 
-quan, bao gồm cổ đông, 
-nhân viên và khách hàng, 
-có thể tham gia đóng góp 
-ý kiến nhằm nâng cao chất 
+Xây dựng một hệ thống
+quản trị minh bạch, hiệu quả
+và trách nhiệm, đảm bảo
+tuân thủ quy định pháp luật,
+chuẩn mực quản trị doanh
+nghiệp. Đồng thời, SSI tạo
+điều kiện cho các bên liên
+quan, bao gồm cổ đông,
+nhân viên và khách hàng,
+có thể tham gia đóng góp
+ý kiến nhằm nâng cao chất
 lượng quản trị.
-SSI luôn tuân thủ các chuẩn mực cao nhất về quản trị doanh nghiệp, đảm 
-bảo sự minh bạch, hiệu quả và trách nhiệm trong mọi hoạt động. Công 
+SSI luôn tuân thủ các chuẩn mực cao nhất về quản trị doanh nghiệp, đảm
+bảo sự minh bạch, hiệu quả và trách nhiệm trong mọi hoạt động. Công
 ty cam kết:
-•	
-Thực hiện quản trị công ty theo các thông lệ tốt nhất của quốc 
 tế, đảm bảo công bằng và minh bạch trong mọi quyết định.
-•	
-Tuân thủ chặt chẽ các quy định của pháp luật và tiêu chuẩn đạo 
-đức kinh doanh, đảm bảo quyền lợi của cổ đông, khách hàng và 
+Tuân thủ chặt chẽ các quy định của pháp luật và tiêu chuẩn đạo
+đức kinh doanh, đảm bảo quyền lợi của cổ đông, khách hàng và
 các bên liên quan.
-•	
-Tăng cường kiểm soát rủi ro, áp dụng các hệ thống giám sát và 
-cảnh báo sớm để quản lý rủi ro tài chính, rủi ro tuân thủ và rủi ro 
+Tăng cường kiểm soát rủi ro, áp dụng các hệ thống giám sát và
+cảnh báo sớm để quản lý rủi ro tài chính, rủi ro tuân thủ và rủi ro
 hoạt động.
-•	
-Tích cực tham gia đối thoại với cổ đông, nhà đầu tư để nâng cao 
+Tích cực tham gia đối thoại với cổ đông, nhà đầu tư để nâng cao
 tính minh bạch và trách nhiệm giải trình.
 Xã hội
-SSI không chỉ tập trung vào 
-tăng trưởng kinh doanh mà 
-còn chú trọng đóng góp 
-cho cộng đồng thông qua 
-các chương trình giáo dục 
-tài chính, thực hiện trách 
-nhiệm cộng đồng, phát triển 
-bền vững và nâng cao chất 
-lượng cuộc sống cho người 
-dân.
-SSI luôn đặt yếu tố con người làm trung tâm của chiến lược phát triển 
-bền vững, thông qua việc nâng cao chất lượng nguồn nhân lực và đóng 
+SSI không chỉ tập trung vào
+tăng trưởng kinh doanh mà
+còn chú trọng đóng góp
+cho cộng đồng thông qua
+các chương trình giáo dục
+tài chính, thực hiện trách
+nhiệm cộng đồng, phát triển
+bền vững và nâng cao chất
+lượng cuộc sống cho người
+SSI luôn đặt yếu tố con người làm trung tâm của chiến lược phát triển
+bền vững, thông qua việc nâng cao chất lượng nguồn nhân lực và đóng
 góp tích cực cho cộng đồng. Công ty cam kết:
-•	
-Phát triển một môi trường làm việc minh bạch, công bằng và 
-đa dạng, đảm bảo quyền lợi cho người lao động, tạo điều kiện để 
+Phát triển một môi trường làm việc minh bạch, công bằng và
+đa dạng, đảm bảo quyền lợi cho người lao động, tạo điều kiện để
 nhân viên phát triển nghề nghiệp.
-•	
-Thực hiện các chương trình giáo dục tài chính nhằm nâng cao 
-nhận thức và kiến thức của nhà đầu tư, góp phần xây dựng thị 
+Thực hiện các chương trình giáo dục tài chính nhằm nâng cao
+nhận thức và kiến thức của nhà đầu tư, góp phần xây dựng thị
 trường tài chính lành mạnh.
-•	
-Tham gia và hỗ trợ các hoạt động xã hội, từ thiện, đồng hành 
-cùng các tổ chức phi lợi nhuận để nâng cao chất lượng cuộc sống 
-của cộng đồng.
-•	
-Tích cực hỗ trợ các doanh nghiệp vừa và nhỏ, doanh nghiệp 
-khởi nghiệp, thúc đẩy sự phát triển bền vững của hệ sinh thái 
+Tham gia và hỗ trợ các hoạt động xã hội, từ thiện, đồng hành
+cùng các tổ chức phi lợi nhuận để nâng cao chất lượng cuộc sống
+Tích cực hỗ trợ các doanh nghiệp vừa và nhỏ, doanh nghiệp
+khởi nghiệp, thúc đẩy sự phát triển bền vững của hệ sinh thái
 kinh doanh.
-Với những cam kết mạnh mẽ về ESG, SSI không chỉ mong muốn tạo ra lợi ích kinh tế bền vững mà còn đóng góp vào sự phát 
-triển chung của xã hội và môi trường. Công ty sẽ tiếp tục đổi mới, nâng cao trách nhiệm và hợp tác chặt chẽ với các đối tác 
+Với những cam kết mạnh mẽ về ESG, SSI không chỉ mong muốn tạo ra lợi ích kinh tế bền vững mà còn đóng góp vào sự phát
+triển chung của xã hội và môi trường. Công ty sẽ tiếp tục đổi mới, nâng cao trách nhiệm và hợp tác chặt chẽ với các đối tác
 để xây dựng một hệ sinh thái tài chính bền vững, minh bạch và hiệu quả.
-BÁO CÁO CÁC HOẠT ĐỘNG 
+BÁO CÁO CÁC HOẠT ĐỘNG
 PHÁT TRIỂN BỀN VỮNG
-Việc đánh giá các tác động từ hoạt động của SSI lên ba yếu tố: Kinh tế, Môi trường, Xã hội sẽ giúp Công ty có thể xác định 
-vai trò, trách nhiệm và các hành động cần thực hiện trong quá trình xây dựng chiến lược phát triển bền vững của Công ty. 
+Việc đánh giá các tác động từ hoạt động của SSI lên ba yếu tố: Kinh tế, Môi trường, Xã hội sẽ giúp Công ty có thể xác định
+vai trò, trách nhiệm và các hành động cần thực hiện trong quá trình xây dựng chiến lược phát triển bền vững của Công ty.
 TÁC ĐỘNG ĐỐI VỚI NỀN KINH TẾ
-	
-■
-SSI đảm bảo hiệu quả kinh doanh thông qua các chỉ 
-tiêu như doanh thu, lợi nhuận, từ đó hoàn thành các 
-nghĩa vụ nhà nước; nâng cao thu nhập và lợi ích kinh 
-tế khác cho người lao động; duy trì một mức cổ tức ổn 
+SSI đảm bảo hiệu quả kinh doanh thông qua các chỉ
+tiêu như doanh thu, lợi nhuận, từ đó hoàn thành các
+nghĩa vụ nhà nước; nâng cao thu nhập và lợi ích kinh
+tế khác cho người lao động; duy trì một mức cổ tức ổn
 định cho cổ đông;
-	
-■
-Với vị thế là CTCK đầu ngành, SSI nỗ lực xây dựng 
-một thị trường tài chính phát triển và minh bạch thông 
-qua hoạt động kết nối vốn và cơ hội đầu tư, phát triển 
-TTCK trở thành kênh huy động vốn trung – dài hạn 
-hiệu quả của nền kinh tế; tích cực xây dựng, đóng 
-góp phát triển thị trường thông qua chủ động tham 
-gia, đóng góp ý kiến xây dựng các văn bản quy phạm 
-pháp luật về TTCK, nâng cao tính thực tiễn và chất 
-lượng cho các văn bản của Cơ quan Nhà nước; tiên 
+Với vị thế là CTCK đầu ngành, SSI nỗ lực xây dựng
+một thị trường tài chính phát triển và minh bạch thông
+qua hoạt động kết nối vốn và cơ hội đầu tư, phát triển
+TTCK trở thành kênh huy động vốn trung – dài hạn
+hiệu quả của nền kinh tế; tích cực xây dựng, đóng
+góp phát triển thị trường thông qua chủ động tham
+gia, đóng góp ý kiến xây dựng các văn bản quy phạm
+pháp luật về TTCK, nâng cao tính thực tiễn và chất
+lượng cho các văn bản của Cơ quan Nhà nước; tiên
 phong xây dựng các sản phẩm mới trên thị trường;
-	
-■
-Tham gia tư vấn xây dựng chiến lược, tái cấu trúc, giải 
-pháp tài chính, cải thiện quản trị công ty theo thông lệ 
+Tham gia tư vấn xây dựng chiến lược, tái cấu trúc, giải
 tốt cho nhiều doanh nghiệp trong nước.
 TÁC ĐỘNG ĐỐI VỚI XÃ HỘI
-	
-■
-Tạo ra trên 1.500 công việc cho thị trường lao động 
-trên cả nước. Chú trọng phát triển nguồn nhân lực 
-chất lượng cao thông qua đầu tư lớn cho các hoạt 
-động đào tạo, phát triển đội ngũ, tìm kiếm và nuôi 
+Tạo ra trên 1.500 công việc cho thị trường lao động
+trên cả nước. Chú trọng phát triển nguồn nhân lực
+chất lượng cao thông qua đầu tư lớn cho các hoạt
+động đào tạo, phát triển đội ngũ, tìm kiếm và nuôi
 dưỡng tài năng;
-	
-■
-Lấy khách hàng là trọng tâm trong mọi hoạt động, 
-quản lý an toàn tài khoản cho hàng trăm nghìn khách 
+Lấy khách hàng là trọng tâm trong mọi hoạt động,
+quản lý an toàn tài khoản cho hàng trăm nghìn khách
 hàng trong và ngoài nước;
-	
-■
-Kiên định với sứ mệnh “Kết nối vốn và cơ hội đầu tư”, 
-một trong những chiến lược trọng tâm của SSI chính là 
-đưa chứng khoán đến gần hơn với người dân. Là cánh 
-cửa đầu tiên chào đón NĐT bước chân vào thị trường, 
-SSI dành nguồn lực đầu tư cho các hoạt động tư vấn, 
-chủ động cung cấp kiến thức đầu tư một cách bài bản, 
-chuyên sâu và có hệ thống tới các nhà đầu tư cá nhân. 
-Công ty tập trung vào mục tiêu để NĐT có thể yên tâm 
-để tiền trong tài khoản chứng khoán, tạo lợi nhuận 
-bền vững, lâu dài mà không coi chứng khoán là kênh 
-đầu cơ ngắn hạn – vốn là một thách thức lớn với các 
+Kiên định với sứ mệnh “Kết nối vốn và cơ hội đầu tư”,
+một trong những chiến lược trọng tâm của SSI chính là
+đưa chứng khoán đến gần hơn với người dân. Là cánh
+cửa đầu tiên chào đón NĐT bước chân vào thị trường,
+SSI dành nguồn lực đầu tư cho các hoạt động tư vấn,
+chủ động cung cấp kiến thức đầu tư một cách bài bản,
+chuyên sâu và có hệ thống tới các nhà đầu tư cá nhân.
+Công ty tập trung vào mục tiêu để NĐT có thể yên tâm
+để tiền trong tài khoản chứng khoán, tạo lợi nhuận
+bền vững, lâu dài mà không coi chứng khoán là kênh
+đầu cơ ngắn hạn – vốn là một thách thức lớn với các
 cơ quan quản lý và nhà tạo lập thị trường;
-	
-■
-Tích cực trong các hoạt động vì cộng đồng với tôn 
-chỉ “Chúng tôi tình nguyện thực hiện trách nhiệm xã 
-hội của doanh nghiệp, chung sức vì sự phát triển của 
-cộng đồng”. 
-TÁC ĐỘNG ĐỐI VỚI MÔI TRƯỜNG 
-SSI là doanh nghiệp hoạt động trong lĩnh vực Tài chính – 
-Chứng khoán, không có sản xuất trực tiếp nên tác động tới 
-môi trường của Công ty là không lớn. Công ty chú trọng vào 
-việc giảm thiểu các tác động từ tiêu dùng năng lượng và xả 
-thải trong hoạt động hàng ngày của nhân viên, song song 
-với các hoạt động truyền thông nội bộ nhằm lan tỏa ý thức 
-bảo vệ môi trường. Các hoạt động truyền thông nội bộ của 
-SSI dành phần lớn cho các việc liên quan đến môi trường 
-sống, như các “mẹo vặt” hữu ích được chia sẻ mỗi tháng, sử 
-dụng cốc uống nước riêng, cách thức họp trực tuyến hiệu 
-quả hay cách sử dụng tối đa các nguồn lực công nghệ trong 
-Công ty. Các hoạt động này luôn được thực hiện đồng bộ 
-trong năm, cùng các hoạt động vận hành mà Khối Hỗ trợ 
-thực hiện cho công việc bảo vệ môi trường và là một phần 
-của chiến dịch phát triển bền vững SSI đã thực hiện những 
-năm vừa qua. Bên cạnh đó, là một doanh nghiệp có số lượng 
-khách hàng lớn, trong những năm trở lại đây, các món quà 
-dành tặng khách hàng của SSI cũng khuyến khích và lan tỏa 
-ý thức bảo vệ môi trường, đáp ứng đủ tiêu chí 3T của một 
-sản phẩm xanh (Tiết giảm – Tái sử dụng – Tái chế). Quà tặng 
-đều được đóng gói với những bao bì có thể tái sử dụng, tái 
-chế như hộp giấy không cán nilon, các loại hộp nhựa có thể 
-tái chế, lọ thủy tinh thân thiện, v.v… hoặc những sản phẩm 
-có thời gian phân hủy nhanh và không gây độc hại với môi 
-trường. Đặc biệt, SSI hạn chế tối đa việc sử dụng túi nilon 
-và thay thế bằng các sản phẩm sử dụng chất liệu tre, giấy 
-bìa tái chế, túi xách bằng vải canvas và vải không dệt, v.v… 
-– những chất liệu thân thiện, an toàn với con người và môi 
-trường tự nhiên. 
-Phần tiếp theo của Báo cáo Thường niên chỉ trình bày một 
-số hoạt động thực hiện trách nhiệm xã hội – cộng đồng nổi 
-bật của SSI trong năm 2024. Báo cáo chi tiết hơn về Phát 
-triển Bền vững sẽ được Công ty công bố trong Báo cáo phát 
+Tích cực trong các hoạt động vì cộng đồng với tôn
+chỉ “Chúng tôi tình nguyện thực hiện trách nhiệm xã
+hội của doanh nghiệp, chung sức vì sự phát triển của
+TÁC ĐỘNG ĐỐI VỚI MÔI TRƯỜNG
+SSI là doanh nghiệp hoạt động trong lĩnh vực Tài chính –
+Chứng khoán, không có sản xuất trực tiếp nên tác động tới
+môi trường của Công ty là không lớn. Công ty chú trọng vào
+việc giảm thiểu các tác động từ tiêu dùng năng lượng và xả
+thải trong hoạt động hàng ngày của nhân viên, song song
+với các hoạt động truyền thông nội bộ nhằm lan tỏa ý thức
+bảo vệ môi trường. Các hoạt động truyền thông nội bộ của
+SSI dành phần lớn cho các việc liên quan đến môi trường
+sống, như các “mẹo vặt” hữu ích được chia sẻ mỗi tháng, sử
+dụng cốc uống nước riêng, cách thức họp trực tuyến hiệu
+quả hay cách sử dụng tối đa các nguồn lực công nghệ trong
+Công ty. Các hoạt động này luôn được thực hiện đồng bộ
+trong năm, cùng các hoạt động vận hành mà Khối Hỗ trợ
+thực hiện cho công việc bảo vệ môi trường và là một phần
+của chiến dịch phát triển bền vững SSI đã thực hiện những
+năm vừa qua. Bên cạnh đó, là một doanh nghiệp có số lượng
+khách hàng lớn, trong những năm trở lại đây, các món quà
+dành tặng khách hàng của SSI cũng khuyến khích và lan tỏa
+ý thức bảo vệ môi trường, đáp ứng đủ tiêu chí 3T của một
+sản phẩm xanh (Tiết giảm – Tái sử dụng – Tái chế). Quà tặng
+đều được đóng gói với những bao bì có thể tái sử dụng, tái
+chế như hộp giấy không cán nilon, các loại hộp nhựa có thể
+tái chế, lọ thủy tinh thân thiện, v.v… hoặc những sản phẩm
+có thời gian phân hủy nhanh và không gây độc hại với môi
+trường. Đặc biệt, SSI hạn chế tối đa việc sử dụng túi nilon
+và thay thế bằng các sản phẩm sử dụng chất liệu tre, giấy
+bìa tái chế, túi xách bằng vải canvas và vải không dệt, v.v…
+– những chất liệu thân thiện, an toàn với con người và môi
+trường tự nhiên.
+số hoạt động thực hiện trách nhiệm xã hội – cộng đồng nổi
+bật của SSI trong năm 2024. Báo cáo chi tiết hơn về Phát
+triển Bền vững sẽ được Công ty công bố trong Báo cáo phát
 triển bền vững tại trang điện tử của SSI theo địa chỉ https://
 www.ssi.com.vn/quan-he-nha-dau-tu/bao-cao-thuong-
 nien.
-146 	
-	
-147
-BÁO CÁO THƯỜNG NIÊN 2024
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
 
-TÍCH HỢP CÁC YẾU TỐ MÔI TRƯỜNG VÀ XÃ HỘI VÀO 
+DOANH NGHIỆP NỘP THUẾ
+THU NHẬP DOANH NGHIỆP
+LỚN NHẤT VIỆT NAM (V1000)
+Trong giai đoạn 2010 - 2024
+ĐÓNG GÓP TÍCH CỰC CHO NGÂN SÁCH NHÀ NƯỚC
+Kể từ khi thành lập, SSI luôn chấp hành đầy đủ các nghĩa vụ thuế và các khoản phải nộp cho Ngân sách Nhà nước với mức
+đóng có xu hướng tăng dần qua các năm. Trong nhiều năm trở lại đây, Công ty thường xuyên thuộc nhóm các doanh nghiệp
+nộp thuế thu nhập doanh nghiệp lớn nhất Việt Nam, đồng thời là công ty dẫn đầu trong ngành Chứng khoán.
+CAM KẾT ĐỒNG HÀNH CÙNG SỰ PHÁT TRIỂN
+THỊ TRƯỜNG
+ĐỒNG HÀNH XÂY DỰNG KIẾN THỨC ĐẦU TƯ CHO GIỚI TRẺ THÔNG QUA
+CHƯƠNG TRÌNH THE MONEYVERSE
+Năm 2024, SSI đóng vai trò đối tác chiến lược của chương trình truyền hình “Vũ trụ Đồng tiền – The Moneyverse”, do Thời
+báo VTV khởi xướng nhằm nâng cao kiến thức tài chính cho người dân và doanh nghiệp Việt Nam. Chương trình không chỉ
+phổ biến kiến thức đầu tư mà còn tạo cơ hội nghề nghiệp cho giới trẻ – một phần trong chiến lược phát triển bền vững mà
+SSI luôn theo đuổi.
+Với niềm tin rằng giáo dục đầu tư là chìa khóa xây dựng một thị trường chứng khoán bền vững, SSI đã nhiều năm tổ chức
+các sự kiện, hội thảo giúp giới trẻ tiếp cận các kênh đầu tư an toàn, minh bạch, hiệu quả. “The Moneyverse” là một bước đi
+tiếp theo trong hành trình này, nơi SSI không chỉ xây dựng nội dung chương trình mà còn truyền tải kiến thức tài chính thông
+qua các thử thách thi đấu và hoạt động trải nghiệm thực tế.
+Một trong những sáng kiến nổi bật là cộng đồng “Đầu tư từ Đâu – Đầu tư từ Đây”, thu hút 7.600 thành viên, cùng với 6 tập
+phim hoạt hình mô phỏng hành trình khám phá tài chính của nhân vật Chuyên gia Cú Doha và bạn trẻ Cá Carpi. Ngoài ra,
+SSI còn ra mắt Moneyescape – trò chơi nhập vai đầu tư tài chính đầu tiên tại Việt Nam, mang đến trải nghiệm học tập sáng
+tạo và hấp dẫn.
+Trong khuôn khổ chương trình, SSI xuất hiện trong hơn 203 bài báo, đồng hành qua 16 tập phát sóng trên VTV3, tổ chức 40+
+buổi đào tạo, 30 talkshow, và tham gia với nhiều vai trò như ban giám khảo, chuyên gia tư vấn tài chính. SSI cũng hỗ trợ 27
+Casting Tour, thực hiện 21 livestreams với 45.000+ lượt xem, trong đó có một số sự kiện đặc biệt như Café Chứng tại Đại học
+Bách Khoa Hà Nội. Tổng số livestreams của SSI trong năm 2024 vượt 300 chương trình, góp phần nâng cao nhận thức tài
+chính cho cộng đồng.
+Thông qua cách tiếp cận sáng tạo, SSI mong muốn thúc đẩy sự phát triển lành mạnh, minh bạch, bền vững của thị trường
+chứng khoán Việt Nam, sẵn sàng đón đầu cơ hội nâng hạng thị trường trong tương lai.
+Thuế và các khoản phải nộp cho
+Ngân sách Nhà nước (tỷ VNĐ)
+CHỦ ĐỘNG, TÍCH CỰC THAM GIA XÂY DỰNG
+THỊ TRƯỜNG TÀI CHÍNH
+PHỐI HỢP VỚI ỦY BAN CHỨNG KHOÁN TÌM GIẢI PHÁP NÂNG HẠNG THỊ
+TRƯỜNG CHỨNG KHOÁN VIỆT NAM
+Là CTCK hàng đầu phát triển cùng với TTCK Việt Nam, SSI không chỉ tuân thủ đầy đủ các quy định của Nhà nước về hoạt
+động kinh doanh mà còn chủ động đóng góp ý kiến trong quá trình xây dựng các văn bản pháp lý liên quan. Công ty tích
+cực tham gia vào việc hoàn thiện khung pháp lý, đảm bảo tính thực tiễn và nâng cao chất lượng các quy định do cơ quan
+quản lý ban hành. Đồng thời, SSI cũng đóng vai trò quan trọng trong việc phát triển và triển khai các sản phẩm mới, góp
+phần thúc đẩy sự đổi mới và nâng cao tính cạnh tranh của TTCK Việt Nam.
+Trong năm 2024, một số hoạt động nổi bật của SSI trong công tác phối hợp, làm việc với các cơ quan quản lý là:
+Chủ động hợp tác với HOSE trong quá trình triển khai hệ thống KRX, SSI không chỉ đảm bảo sẵn sàng về nền tảng
+công nghệ để kết nối với hệ thống giao dịch mới mà còn tích cực nghiên cứu, đề xuất các sản phẩm mới nhằm tận dụng
+tối đa tiềm năng của KRX khi đi vào vận hành.
+Làm việc với các tổ chức quốc tế để cải thiện cơ chế ký quỹ trước giao dịch cho nhà đầu tư tổ chức nước ngoài, SSI
+đã phối hợp chặt chẽ với Ngân hàng Thế giới (WB), FTSE và các thành viên thị trường nhằm tìm ra giải pháp tối ưu. Nhờ
+đó, Thông tư 68 có hiệu lực từ 02/11/2024 đã cho phép nhà đầu tư tổ chức nước ngoài giao dịch mua cổ phiếu mà không
+cần ký quỹ trước, đồng thời cải thiện quy trình xử lý giao dịch thất bại (failed trade), góp phần thúc đẩy tiến trình nâng
+hạng thị trường Việt Nam trong hệ thống đánh giá của FTSE.
+Tích cực tham gia các hội nghị xúc tiến đầu tư quốc tế, SSI đã hỗ trợ đoàn Bộ Tài chính và UBCKNN tại các sự kiện ở
+Mỹ, Nhật Bản, Hồng Kông… Không chỉ trình bày về tiềm năng thị trường chứng khoán Việt Nam, SSI còn đóng vai trò
+kết nối, tổ chức các cuộc gặp gỡ giữa lãnh đạo Bộ, Ủy ban với các đối tác quốc tế nhằm học hỏi kinh nghiệm, từ đó góp
+phần xây dựng một thị trường vốn chuyên nghiệp, hiệu quả và bền vững.
+THAM GIA NGHIÊN CỨU PHÁT TRIỂN CÔNG NGHỆ BLOCKCHAIN VÀ TÀI
+SẢN SỐ Ở VIỆT NAM
+Trong năm 2024, Thủ tướng ban hành Quyết định số 1236/QĐ-TTg về chiến lược quốc gia về ứng dụng và phát triển công
+nghệ chuỗi khối (blockchain) đến năm 2025, định hướng đến năm 2030. Theo đó, mục tiêu đến năm 2030, Việt Nam trở thành
+quốc gia thuộc nhóm các nước dẫn đầu trong khu vực và có vị thế quốc tế trong nghiên cứu, triển khai, ứng dụng và khai
+thác công nghệ chuỗi khối; đủ năng lực làm chủ và áp dụng công nghệ chuỗi khối trong tất cả các lĩnh vực kinh tế – xã hội,
+thực hiện hóa mục tiêu Việt Nam trở thành quốc gia số ổn định và thịnh vượng.
+CTCP Công nghệ số SSI (SSI Digital), công ty con của SSI, đã khẳng định vị thế tiên phong trong lĩnh vực blockchain, fintech
+và tài sản số thông qua việc tổ chức thành công các sự kiện quy mô lớn, xây dựng quan hệ hợp tác chiến lược với các quỹ
+đầu tư hàng đầu, và tích cực tham gia vào quá trình định hình khung pháp lý cho công nghệ blockchain và tài sản số.
+Bên cạnh đó, SSI Digital đã đạt được những bước tiến quan trọng trong việc mở rộng hợp tác với các quỹ đầu tư và sàn
+giao dịch lớn như Binance, OKX, Bybit, Hashed, Tether, cùng nhiều đối tác quốc tế khác. Những mối quan hệ này đóng vai trò
+then chốt trong việc thúc đẩy đầu tư vào thị trường Web3 và tài sản số tại Việt Nam, đồng thời tạo nền tảng vững chắc cho
+sự phát triển dài hạn của ngành công nghệ tài chính số, góp phần định hình tương lai của hệ sinh thái fintech trong nước.
+PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
+
+TÍCH HỢP CÁC YẾU TỐ MÔI TRƯỜNG VÀ XÃ HỘI VÀO
 CÁC HOẠT ĐỘNG KINH DOANH
-Là doanh nghiệp dịch vụ tài chính – đầu tư, SSI có tác động trực tiếp không đáng kể đến môi trường và xã hội. Tuy nhiên, với 
-vai trò định chế tài chính hàng đầu Việt Nam, SSI hiểu rằng hoạt động tư vấn huy động vốn và đầu tư ảnh hưởng lớn đến 
-nhận thức doanh nghiệp về trách nhiệm bền vững. Do đó, SSI chủ động tích hợp các yếu tố môi trường và xã hội vào hoạt 
+Là doanh nghiệp dịch vụ tài chính – đầu tư, SSI có tác động trực tiếp không đáng kể đến môi trường và xã hội. Tuy nhiên, với
+vai trò định chế tài chính hàng đầu Việt Nam, SSI hiểu rằng hoạt động tư vấn huy động vốn và đầu tư ảnh hưởng lớn đến
+nhận thức doanh nghiệp về trách nhiệm bền vững. Do đó, SSI chủ động tích hợp các yếu tố môi trường và xã hội vào hoạt
 động kinh doanh, góp phần thúc đẩy phát triển bền vững trong hệ sinh thái doanh nghiệp.
 KHỐI DỊCH VỤ NGÂN HÀNG ĐẦU TƯ
-Là một trong những thành viên tích cực của TTCK Việt Nam, SSI cam kết không chỉ hỗ trợ doanh nghiệp huy động vốn hiệu 
-quả mà còn thúc đẩy sự phát triển của các giải pháp tài chính bền vững. Trong bối cảnh các định chế tài chính toàn cầu ngày 
-càng ưu tiên các dự án đáp ứng tiêu chí về Môi trường – Xã hội – Quản trị (ESG), SSI đóng vai trò quan trọng trong việc tư 
+Là một trong những thành viên tích cực của TTCK Việt Nam, SSI cam kết không chỉ hỗ trợ doanh nghiệp huy động vốn hiệu
+quả mà còn thúc đẩy sự phát triển của các giải pháp tài chính bền vững. Trong bối cảnh các định chế tài chính toàn cầu ngày
+càng ưu tiên các dự án đáp ứng tiêu chí về Môi trường – Xã hội – Quản trị (ESG), SSI đóng vai trò quan trọng trong việc tư
 vấn và đồng hành cùng doanh nghiệp Việt Nam trong quá trình chuyển đổi và tiếp cận các nguồn vốn xanh.
-SSI đã tích cực hỗ trợ các doanh nghiệp trong việc chuẩn bị hồ sơ phát hành, nâng cao năng lực quản trị ESG, đáp ứng 
-các tiêu chuẩn quốc tế nhằm tiếp cận các nhà đầu tư tổ chức và dòng vốn có trách nhiệm. Việc này không chỉ giúp doanh 
-nghiệp tối ưu hóa cơ hội huy động vốn mà còn gia tăng tính minh bạch, cải thiện xếp hạng tín nhiệm ESG và tạo nền tảng 
-vững chắc cho sự phát triển bền vững dài hạn. Một trong những thành tựu tiêu biểu trong năm 2024 là việc SSI tư vấn thành 
-công đợt phát hành trái phiếu xanh của Vietcombank với quy mô 125 triệu USD. Đây là một cột mốc quan trọng, không 
-chỉ giúp Vietcombank huy động vốn hiệu quả cho các dự án xanh mà còn tạo động lực thúc đẩy các doanh nghiệp tài chính 
-khác tại Việt Nam tiếp cận nguồn vốn bền vững. Thành công của đợt phát hành này góp phần củng cố niềm tin của nhà 
+SSI đã tích cực hỗ trợ các doanh nghiệp trong việc chuẩn bị hồ sơ phát hành, nâng cao năng lực quản trị ESG, đáp ứng
+các tiêu chuẩn quốc tế nhằm tiếp cận các nhà đầu tư tổ chức và dòng vốn có trách nhiệm. Việc này không chỉ giúp doanh
+nghiệp tối ưu hóa cơ hội huy động vốn mà còn gia tăng tính minh bạch, cải thiện xếp hạng tín nhiệm ESG và tạo nền tảng
+vững chắc cho sự phát triển bền vững dài hạn. Một trong những thành tựu tiêu biểu trong năm 2024 là việc SSI tư vấn thành
+công đợt phát hành trái phiếu xanh của Vietcombank với quy mô 125 triệu USD. Đây là một cột mốc quan trọng, không
+chỉ giúp Vietcombank huy động vốn hiệu quả cho các dự án xanh mà còn tạo động lực thúc đẩy các doanh nghiệp tài chính
+khác tại Việt Nam tiếp cận nguồn vốn bền vững. Thành công của đợt phát hành này góp phần củng cố niềm tin của nhà
 đầu tư quốc tế vào tiềm năng tài chính xanh tại Việt Nam, đồng thời lan tỏa các giá trị ESG trong cộng đồng doanh nghiệp.
-Với tầm nhìn dài hạn, SSI tiếp tục định hướng phát triển các sản phẩm tài chính bền vững, mở rộng hợp tác với các tổ chức 
-tài chính trong và ngoài nước nhằm xây dựng một hệ sinh thái đầu tư ESG mạnh mẽ. Cam kết của SSI không chỉ dừng lại ở 
-việc hỗ trợ doanh nghiệp tiếp cận nguồn vốn mà còn góp phần định hình một thị trường tài chính minh bạch, bền vững và 
+Với tầm nhìn dài hạn, SSI tiếp tục định hướng phát triển các sản phẩm tài chính bền vững, mở rộng hợp tác với các tổ chức
+tài chính trong và ngoài nước nhằm xây dựng một hệ sinh thái đầu tư ESG mạnh mẽ. Cam kết của SSI không chỉ dừng lại ở
+việc hỗ trợ doanh nghiệp tiếp cận nguồn vốn mà còn góp phần định hình một thị trường tài chính minh bạch, bền vững và
 trách nhiệm hơn, phù hợp với xu thế phát triển toàn cầu.
 KHỐI ĐẦU TƯ
-SSI sở hữu danh mục đầu tư cổ phiếu niêm yết gồm các doanh nghiệp vốn hóa lớn, dẫn đầu trong các ngành có tiềm năng 
-tăng trưởng mạnh. Những doanh nghiệp này không chỉ có lịch sử hoạt động lâu dài mà còn tuân thủ chặt chẽ các quy định 
-pháp lý và đảm bảo minh bạch trong quản trị. Đối với danh mục cổ phiếu chưa niêm yết, SSI thực hiện quy trình thẩm định 
+SSI sở hữu danh mục đầu tư cổ phiếu niêm yết gồm các doanh nghiệp vốn hóa lớn, dẫn đầu trong các ngành có tiềm năng
+tăng trưởng mạnh. Những doanh nghiệp này không chỉ có lịch sử hoạt động lâu dài mà còn tuân thủ chặt chẽ các quy định
+pháp lý và đảm bảo minh bạch trong quản trị. Đối với danh mục cổ phiếu chưa niêm yết, SSI thực hiện quy trình thẩm định
 nghiêm ngặt, đặc biệt chú trọng đến các yếu tố môi trường và xã hội trước khi đầu tư.
-Bên cạnh hoạt động đầu tư tài chính, SSI còn là cổ đông lớn của Tập đoàn PAN (HOSE: PAN) – một doanh nghiệp hoạt động 
-trong lĩnh vực nông nghiệp và thực phẩm có ảnh hưởng đáng kể đến môi trường và xã hội. Với tỷ lệ sở hữu trên 10% vốn và 
-bốn đại diện trong Hội đồng Quản trị, SSI đã đồng hành cùng PAN trong việc triển khai chiến lược phát triển bền vững, thúc 
+Bên cạnh hoạt động đầu tư tài chính, SSI còn là cổ đông lớn của Tập đoàn PAN (HOSE: PAN) – một doanh nghiệp hoạt động
+trong lĩnh vực nông nghiệp và thực phẩm có ảnh hưởng đáng kể đến môi trường và xã hội. Với tỷ lệ sở hữu trên 10% vốn và
+bốn đại diện trong Hội đồng Quản trị, SSI đã đồng hành cùng PAN trong việc triển khai chiến lược phát triển bền vững, thúc
 đẩy các mô hình kinh doanh có trách nhiệm với cộng đồng.
 CÔNG TY TNHH QUẢN LÝ QUỸ SSI (SSIAM)
-Trong năm 2024, SSIAM đã đẩy mạnh tích hợp các tiêu chuẩn ESG vào hoạt động đầu tư, hướng đến mục tiêu phát triển bền 
+Trong năm 2024, SSIAM đã đẩy mạnh tích hợp các tiêu chuẩn ESG vào hoạt động đầu tư, hướng đến mục tiêu phát triển bền
 vững và nâng cao trách nhiệm với nhà đầu tư cũng như cộng đồng.
-SSIAM đã hoàn thiện khung hướng dẫn tích hợp ESG, áp dụng cho toàn bộ chu kỳ đầu tư vào vốn cổ phần tư nhân. Khung 
-này bao gồm danh sách sàng lọc ESG nhằm loại trừ các khoản đầu tư không phù hợp, hệ thống thu thập dữ liệu ESG từ 
+SSIAM đã hoàn thiện khung hướng dẫn tích hợp ESG, áp dụng cho toàn bộ chu kỳ đầu tư vào vốn cổ phần tư nhân. Khung
+này bao gồm danh sách sàng lọc ESG nhằm loại trừ các khoản đầu tư không phù hợp, hệ thống thu thập dữ liệu ESG từ
 doanh nghiệp và quy trình báo cáo các vấn đề ESG để đảm bảo tính minh bạch và hiệu quả quản trị.
-Với vai trò là đơn vị tiên phong trong quản lý ESG, SSIAM tích cực tham gia các sự kiện giáo dục thị trường, nhấn mạnh tầm 
-quan trọng của quản lý rủi ro ESG đối với các nhà đầu tư. Công ty cũng hợp tác chặt chẽ với công ty mẹ – Công ty CP Chứng 
-khoán SSI – trong việc tư vấn và hỗ trợ dự án chấm điểm ESG của các công ty chứng khoán tại Việt Nam do Hiệp hội các 
-CTCK Việt Nam (VASB) triển khai. Đồng thời, SSIAM cũng đóng vai trò chuyên gia trong cuộc thi Thách thức ESG, trực tiếp 
+Với vai trò là đơn vị tiên phong trong quản lý ESG, SSIAM tích cực tham gia các sự kiện giáo dục thị trường, nhấn mạnh tầm
+quan trọng của quản lý rủi ro ESG đối với các nhà đầu tư. Công ty cũng hợp tác chặt chẽ với công ty mẹ – Công ty CP Chứng
+khoán SSI – trong việc tư vấn và hỗ trợ dự án chấm điểm ESG của các công ty chứng khoán tại Việt Nam do Hiệp hội các
+CTCK Việt Nam (VASB) triển khai. Đồng thời, SSIAM cũng đóng vai trò chuyên gia trong cuộc thi Thách thức ESG, trực tiếp
 hướng dẫn và thuyết trình cho các thí sinh về cách ứng dụng ESG trong ngành quản lý quỹ.
-Bên cạnh đó, SSIAM chú trọng phát triển năng lực nội bộ bằng cách tổ chức các chương trình đào tạo ESG dành cho đội 
+Bên cạnh đó, SSIAM chú trọng phát triển năng lực nội bộ bằng cách tổ chức các chương trình đào tạo ESG dành cho đội
 ngũ đầu tư, giúp nâng cao nhận thức và khả năng tích hợp ESG vào quá trình ra quyết định đầu tư.
-Một trong những dấu mốc quan trọng trong năm 2024 là việc SSIAM hoàn thành báo cáo ESG thường niên đầu tiên theo 
-khung của UNPRI (United Nations Principles for Responsible Investment). Báo cáo này thể hiện cam kết mạnh mẽ của 
-SSIAM trong việc thực hiện các nguyên tắc đầu tư có trách nhiệm, đồng thời nâng cao tính minh bạch và trách nhiệm giải 
+Một trong những dấu mốc quan trọng trong năm 2024 là việc SSIAM hoàn thành báo cáo ESG thường niên đầu tiên theo
+khung của UNPRI (United Nations Principles for Responsible Investment). Báo cáo này thể hiện cam kết mạnh mẽ của
+SSIAM trong việc thực hiện các nguyên tắc đầu tư có trách nhiệm, đồng thời nâng cao tính minh bạch và trách nhiệm giải
 trình trong lĩnh vực quản lý quỹ.
-Nhằm tăng cường công bố thông tin và tạo điều kiện cho các bên liên quan tiếp cận dễ dàng hơn với các sáng kiến ESG của 
-Công ty, SSIAM đã hoàn thiện và ra mắt chuyên trang ESG trên website chính thức. Trang này đóng vai trò là kênh truyền 
+Nhằm tăng cường công bố thông tin và tạo điều kiện cho các bên liên quan tiếp cận dễ dàng hơn với các sáng kiến ESG của
+Công ty, SSIAM đã hoàn thiện và ra mắt chuyên trang ESG trên website chính thức. Trang này đóng vai trò là kênh truyền
 thông quan trọng, cung cấp các báo cáo ESG, cập nhật tiến độ triển khai và các sáng kiến ESG nổi bật của Công ty.
 CÔNG TY CỔ PHẦN TẬP ĐOÀN PAN
-Bên cạnh hoạt động kinh doanh cốt lõi, SSI còn có công ty liên kết là CTCP Tập đoàn PAN (HOSE: PAN). PAN hoạt động trong 
-lĩnh vực nông nghiệp, chế biến và đóng gói thực phẩm. Hoạt động kinh doanh của PAN có nhiều ảnh hưởng tới môi trường 
-và xã hội. Là cổ đông lớn nắm giữ trên 10% vốn đồng thời có 4 đại diện SSI tham gia HĐQT của PAN, SSI đã đồng hành và 
-thúc đẩy PAN triển khai các hoạt động kinh doanh hướng tới phát triển bền vững, đem lại giá trị tích cực cho cộng đồng. PAN 
-luôn được các tổ chức quốc tế đánh giá cao là doanh nghiệp có thực hành phát triển bền vững một cách hiệu quả, thực tế. 
-Một minh chứng rõ nét lại tại hội nghị COP28 được tổ chức tại Dubai, PAN Group và Ngân hàng Standard Chartered đã ký 
-biên bản ghi nhớ hợp tác triển khai các giải pháp và dịch vụ tài chính theo tiêu chí ESG. Thỏa thuận này không chỉ là minh 
-chứng cho khả năng tiếp cận các nguồn vốn xanh của PAN trên thị trường tài chính quốc tế mà còn chứng minh năng lực 
-triển khai các dự án đáp ứng các tiêu chí ESG của các tổ chức tài chính. 
+Bên cạnh hoạt động kinh doanh cốt lõi, SSI còn có công ty liên kết là CTCP Tập đoàn PAN (HOSE: PAN). PAN hoạt động trong
+lĩnh vực nông nghiệp, chế biến và đóng gói thực phẩm. Hoạt động kinh doanh của PAN có nhiều ảnh hưởng tới môi trường
+và xã hội. Là cổ đông lớn nắm giữ trên 10% vốn đồng thời có 4 đại diện SSI tham gia HĐQT của PAN, SSI đã đồng hành và
+thúc đẩy PAN triển khai các hoạt động kinh doanh hướng tới phát triển bền vững, đem lại giá trị tích cực cho cộng đồng. PAN
+luôn được các tổ chức quốc tế đánh giá cao là doanh nghiệp có thực hành phát triển bền vững một cách hiệu quả, thực tế.
+Một minh chứng rõ nét lại tại hội nghị COP28 được tổ chức tại Dubai, PAN Group và Ngân hàng Standard Chartered đã ký
+biên bản ghi nhớ hợp tác triển khai các giải pháp và dịch vụ tài chính theo tiêu chí ESG. Thỏa thuận này không chỉ là minh
+chứng cho khả năng tiếp cận các nguồn vốn xanh của PAN trên thị trường tài chính quốc tế mà còn chứng minh năng lực
+triển khai các dự án đáp ứng các tiêu chí ESG của các tổ chức tài chính.
 HOẠT ĐỘNG VÌ CỘNG ĐỒNG
-Bước vào năm 2024, SSI tiếp tục khẳng định sứ mệnh của một doanh nghiệp tiên phong gắn kết chặt chẽ giữa hoạt động 
-kinh doanh với những giá trị bền vững và trách nhiệm xã hội. Với tổng ngân sách hơn 12 tỷ đồng dành cho các chương trình 
-cộng đồng và xã hội, Công ty không ngừng mở rộng phạm vi, quy mô, cũng như chiều sâu trong các hoạt động vì cộng đồng, 
+Bước vào năm 2024, SSI tiếp tục khẳng định sứ mệnh của một doanh nghiệp tiên phong gắn kết chặt chẽ giữa hoạt động
+kinh doanh với những giá trị bền vững và trách nhiệm xã hội. Với tổng ngân sách hơn 12 tỷ đồng dành cho các chương trình
+cộng đồng và xã hội, Công ty không ngừng mở rộng phạm vi, quy mô, cũng như chiều sâu trong các hoạt động vì cộng đồng,
 vừa thể hiện trách nhiệm với xã hội, vừa lan tỏa tinh thần sẻ chia, nhân ái tới từng thành viên nội bộ và đối tác bên ngoài.
-Một trong những điểm nhấn nổi bật chính là các chương trình hỗ trợ người dân vùng bão chịu thiệt hại nặng nề từ thiên 
-tai. Khi cơn bão Yagi đổ bộ vào các tỉnh phía Bắc, SSI đã nhanh chóng phát động chiến dịch quyên góp trong toàn hệ thống 
-với thông điệp đầy ý nghĩa: “Cá nhân đồng sức – Tổ chức đồng lòng”. Đây không chỉ là lời kêu gọi đơn thuần mà đã trở thành 
-tinh thần chung của tập thể SSI, khi mỗi cá nhân đều góp một phần công sức, để cùng nhau tạo nên nguồn lực to lớn, kịp 
-thời san sẻ khó khăn với đồng bào vùng bão lũ. Tổng số tiền quyên góp lên tới 10.460.780.225 VNĐ đã được SSI chuyển tới 
-Ủy ban Mặt trận Tổ quốc Việt Nam, góp phần mang lại sự hỗ trợ thiết thực cho bà con, giúp họ sớm vượt qua giai đoạn khó 
+Một trong những điểm nhấn nổi bật chính là các chương trình hỗ trợ người dân vùng bão chịu thiệt hại nặng nề từ thiên
+tai. Khi cơn bão Yagi đổ bộ vào các tỉnh phía Bắc, SSI đã nhanh chóng phát động chiến dịch quyên góp trong toàn hệ thống
+với thông điệp đầy ý nghĩa: “Cá nhân đồng sức – Tổ chức đồng lòng”. Đây không chỉ là lời kêu gọi đơn thuần mà đã trở thành
+tinh thần chung của tập thể SSI, khi mỗi cá nhân đều góp một phần công sức, để cùng nhau tạo nên nguồn lực to lớn, kịp
+thời san sẻ khó khăn với đồng bào vùng bão lũ. Tổng số tiền quyên góp lên tới 10.460.780.225 VNĐ đã được SSI chuyển tới
+Ủy ban Mặt trận Tổ quốc Việt Nam, góp phần mang lại sự hỗ trợ thiết thực cho bà con, giúp họ sớm vượt qua giai đoạn khó
 khăn và ổn định cuộc sống.
-Không dừng lại ở những chương trình phản ứng nhanh trước thiên tai, việc đồng hành cùng các hoàn cảnh khó khăn cũng 
-được Công ty thực hiện đều đặn, bền bỉ qua nhiều năm. Trong những dịp lễ, tết, SSI đều tổ chức các hoạt động thăm hỏi, 
-tặng quà tới các gia đình có hoàn cảnh đặc biệt, người già neo đơn, trẻ em mồ côi… Đây không chỉ là sự quan tâm về vật 
-chất mà còn là nguồn động viên tinh thần, thể hiện trách nhiệm và sự đồng cảm của SSI với những mảnh đời kém may mắn 
+Không dừng lại ở những chương trình phản ứng nhanh trước thiên tai, việc đồng hành cùng các hoàn cảnh khó khăn cũng
+được Công ty thực hiện đều đặn, bền bỉ qua nhiều năm. Trong những dịp lễ, tết, SSI đều tổ chức các hoạt động thăm hỏi,
+tặng quà tới các gia đình có hoàn cảnh đặc biệt, người già neo đơn, trẻ em mồ côi… Đây không chỉ là sự quan tâm về vật
+chất mà còn là nguồn động viên tinh thần, thể hiện trách nhiệm và sự đồng cảm của SSI với những mảnh đời kém may mắn
 trong xã hội.
-Một điểm nhấn mang đậm dấu ấn văn hóa nội bộ chính là chiến dịch “SSI Run for Smile”. Đây không chỉ đơn thuần là một 
-sự kiện thể thao trực tuyến dành cho CBNV mà còn là hoạt động gây quỹ đầy nhân văn, hướng tới trẻ em bị hở hàm ếch có 
-hoàn cảnh khó khăn. Thông qua mỗi bước chạy của mình, các thành viên SSI không chỉ rèn luyện sức khỏe mà còn trực tiếp 
-đóng góp vào quỹ phẫu thuật, mang lại những nụ cười trọn vẹn cho các em nhỏ kém may mắn. Tinh thần trách nhiệm xã hội, 
+Một điểm nhấn mang đậm dấu ấn văn hóa nội bộ chính là chiến dịch “SSI Run for Smile”. Đây không chỉ đơn thuần là một
+sự kiện thể thao trực tuyến dành cho CBNV mà còn là hoạt động gây quỹ đầy nhân văn, hướng tới trẻ em bị hở hàm ếch có
+hoàn cảnh khó khăn. Thông qua mỗi bước chạy của mình, các thành viên SSI không chỉ rèn luyện sức khỏe mà còn trực tiếp
+đóng góp vào quỹ phẫu thuật, mang lại những nụ cười trọn vẹn cho các em nhỏ kém may mắn. Tinh thần trách nhiệm xã hội,
 tính kết nối nội bộ và giá trị nhân văn sâu sắc đã được lan tỏa mạnh mẽ trong từng hoạt động như vậy.
-150 	
-	
-151
-BÁO CÁO THƯỜNG NIÊN 2024
+PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG
+
+Song song với các chương trình hướng về cộng đồng, SSI cũng kiên định với cam kết đầu tư vào thế hệ trẻ thông qua các
+chương trình giáo dục, phát triển tri thức tài chính, xây dựng nền tảng kiến thức bền vững cho tương lai. Trong năm 2024,
+SSI tiếp tục đồng hành cùng cuộc thi Vietnam ESG Challenge với vai trò Ban Giám khảo và Nhà tài trợ Vàng. Không chỉ đóng
+góp về tài chính, SSI còn trực tiếp tổ chức workshop với chủ đề “ESG và thực tiễn triển khai tại SSI”, mang tới những câu
+chuyện thực tế về hành trình áp dụng ESG tại doanh nghiệp, giúp các thí sinh không chỉ có thêm kiến thức mà còn hiểu rõ
+hơn về những thách thức và cơ hội khi áp dụng ESG vào thực tiễn kinh doanh.
+Bên cạnh đó, Công ty cũng duy trì hoạt động tài trợ cho các quỹ khuyến học như Quỹ Khuyến học Nguyễn Thị Một, Quỹ
+Khuyến học Báo Người Lao Động; đồng thời tham gia tài trợ xây dựng trường học và ký túc xá cho học sinh dân tộc thiểu số
+tại Trường THCS xã Tam Quang, huyện Tương Dương, tỉnh Nghệ An. Đây không chỉ là những đóng góp đơn lẻ mà là chuỗi
+các hành động cụ thể, nhất quán trong chiến lược phát triển giáo dục, tạo điều kiện cho thế hệ trẻ – đặc biệt là các em nhỏ
+ở vùng sâu, vùng xa – có cơ hội học tập và phát triển trong môi trường tốt hơn.
+Với định hướng nâng cao chất lượng quản trị doanh nghiệp gắn liền với ESG, SSI tiếp tục tài trợ và đồng hành cùng Diễn
+đàn Quản trị Công ty Thường niên do VIOD tổ chức. Sự kiện này không chỉ là nơi kết nối các chuyên gia, nhà quản lý mà
+còn là cơ hội để SSI chia sẻ kinh nghiệm thực tiễn, từ đó lan tỏa các tiêu chuẩn quản trị tiên tiến, thu hút sự quan tâm của
+các nhà đầu tư, đặc biệt là các quỹ đầu tư quốc tế.
+Không chỉ chú trọng các chương trình hướng ra bên ngoài, việc xây dựng và củng cố văn hóa ESG ngay trong nội bộ cũng
+được SSI đặc biệt quan tâm. Những chương trình như SSI Eco Challenge – Thử thách sống xanh hay F5 Không gian làm
+việc không chỉ tạo ra những sân chơi bổ ích, khơi dậy sự sáng tạo trong cải thiện môi trường làm việc, mà còn từng bước
+đưa ESG trở thành một phần không thể thiếu trong văn hóa Công ty. Chính những thay đổi tích cực từ bên trong này đang
+tạo nên sức lan tỏa mạnh mẽ, giúp mỗi thành viên SSI thấm nhuần tinh thần ESG, hiểu rõ trách nhiệm của bản thân với cộng
+đồng và với sự phát triển bền vững của tổ chức.
+Bằng sự cam kết bền bỉ, hành động nhất quán và những chương trình thiết thực, SSI không chỉ khẳng định vai trò tiên phong
+trong việc gắn kết giữa kinh doanh và trách nhiệm xã hội mà còn từng bước xây dựng một thương hiệu bền vững, mang lại
+những giá trị tích cực, lâu dài cho cộng đồng, khách hàng, nhà đầu tư và toàn thể xã hội.
 PHẦN 5 - HOẠT ĐỘNG PHÁT TRIỂN BỀN VỮNG

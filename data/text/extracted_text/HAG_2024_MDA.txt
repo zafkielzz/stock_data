@@ -1,5 +1,5 @@
 29  Tổ chức và nhân sự
-31  Báo cáo của HĐQT 
+31  Báo cáo của HĐQT
 31  Đánh giá của HĐQT về hoạt động
 32  Đánh giá của HĐQT về Ban TGĐ
 33  Các mục tiêu xã hội, môi trường
@@ -11,7 +11,6 @@
 47  Báo cáo của Ban Kiểm soát
 49  Tình hình đầu tư, thực hiện các dự án
 51  Các công ty con, công ty liên kết
-BÁO CÁO TÀI CHÍNH
 BÁO CÁO TÓM TẮT
 PHÁT TRIỂN BỀN VỮNG
 05  Thông tin khái quát
@@ -24,53 +23,40 @@ PHÁT TRIỂN BỀN VỮNG
 16  Giới thiệu Hội đồng Quản trị
 19  Giới thiệu Ban Tổng Giám đốc
 22  Giới thiệu Ban Kiểm soát
-24  Chiến lược phát triển
 25  Quản lý rủi ro
 TÌNH HÌNH HOẠT ĐỘNG
 TRONG NĂM 2024
 NỘI DUNG
 THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
 TỔNG QUAN HAGL 2024
-I
-II
-<Công ty=, <HAGL= : Công ty cổ phần Hoàng Anh Gia Lai 
- ĐHĐCĐ                       : Đại hội đồng cổ đông
- HĐQT                           : Hội đồng Quản trị
+<Công ty=, <HAGL= : Công ty cổ phần Hoàng Anh Gia Lai
+ĐHĐCĐ                       : Đại hội đồng cổ đông
+HĐQT                           : Hội đồng Quản trị
 DANH MỤC CÁC TỪ VIẾT TẮT
 TGĐ           : Tổng Giám đốc
 Ban TGĐ  : Ban Tổng Giám đốc
 BKS            : Ban Kiểm soát
-04
-28
-81
-01
-V
 74  Môi trường, con người, sản phẩm,
-       trách nhiệm đối với cộng đồng
+trách nhiệm đối với cộng đồng
 80  Bóng đá, tiếp nối niềm tự hào
-IV
-73
 57  Hội đồng Quản trị
 63  Ban Kiểm soát
 65  Cơ cấu cổ đông
 66  Tình hình thay đổi vốn của chủ sở hữu
 67   Giao dịch, thù lao, lợi ích của HĐQT,
-        Ban TGĐ và BKS năm 2024
-70   Thực hiện quy định về quản trị 
-        Công ty
-QUẢN TRỊ CÔNG TY
-III
-56
+Ban TGĐ và BKS năm 2024
+70   Thực hiện quy định về quản trị
+Công ty
 84  Báo cáo của Ban Tổng Giám đốc
 85  Báo cáo kiểm toán độc lập
 87  Bảng cân đối kế toán
-       Báo cáo kết quả kinh doanh
-       Báo cáo lưu chuyển tiền tệ hợp nhất
+Báo cáo kết quả kinh doanh
+Báo cáo lưu chuyển tiền tệ hợp nhất
 
 THÔNG ĐIỆP
-THÔNG ĐIỆP 
+THÔNG ĐIỆP
 CỦA CHỦ TỊCH
-CỦA CHỦ TỊCH 
+CỦA CHỦ TỊCH
 HỘI ĐỒNG QUẢN TRỊ
 HỘI ĐỒNG QUẢN TRỊ
 Hoàng Anh Gia Lai xây dựng nền móng
@@ -91,7 +77,7 @@ xuất hiện, trong đó đáng chú ý nhất là bão số 3 với sức tàn
 này đã gây thiệt hại nặng nề cho ngành nông nghiệp tại 26 tỉnh miền Bắc, đồng thời
 mang theo mưa lớn và gió mạnh ảnh hưởng đến khu vực Tây Nguyên và miền Nam Lào.
 Bên cạnh đó, tình hình dịch tả heo Châu Phi diễn biến phức tạp và giá thức ăn chăn nuôi
-còn ở mức cao. 
+còn ở mức cao.
 Để tập trung vào các mục tiêu ưu tiên và truyền đạt thông tin chỉ đạo định hướng phát
 triển Tập đoàn, HĐQT đã thông qua chiến lược kinh doanh giai đoạn 2024 - 2030. Theo
 đó, HAGL  tập trung cao vào sáng tạo và chuyển giao giá trị cho các khách hàng là doanh
@@ -101,9 +87,8 @@ Hàn Quốc. Heo ăn chuối, chuối và một số sản phẩm nông nghiệp
 cấp cho các doanh nghiệp trong nước, trong đó có chuỗi siêu thị Kingfoodmart. Với năng
 lực về thương hiệu sẵn có, HAGL nhắm đến việc tạo dựng thương hiệu nông sản Việt có
 uy tín không chỉ trên thị trường trong nước mà còn thị trường Quốc tế.
-01
 HAGL với chiến lược kinh doanh tập trung vào khách hàng lớn
-LÀM NÔNG NGHIỆP CÓ TRÁCH NHIỆM 
+LÀM NÔNG NGHIỆP CÓ TRÁCH NHIỆM
 Với bối cảnh đó, nông nghiệp Việt Nam năm 2024 vẫn giữ vững vai trò là lợi thế quốc gia,
 trụ đỡ của nền kinh tế với một số kết quả tích cực như: Tốc độ tăng trưởng toàn ngành
 đạt khoảng 3,3%. Tổng kim ngạch xuất khẩu nông, lâm, thủy sản đạt mức cao kỷ lục 62,4
@@ -120,13 +105,12 @@ Xin chúc quý vị sức khỏe, hạnh phúc và nhiều thắng lợi!
 Trân trọng,
 Đoàn Nguyên Đức
 Chủ tịch HĐQT
-02
 Trải qua 17 năm làm nông nghiệp, không phải quá dài nhưng HAGL hiểu và coi trọng nông
 nghiệp có trách nhiệm, nghĩa là các thành viên tham gia trong chuỗi giá trị có trách
 nhiệm với sản phẩm, với người tiêu dùng và môi trường. Thực tế, mô hình nông nghiệp
 tuần hoàn mà HAGL đang áp dụng bao gồm 3 nguyên tắc chính: tập trung vào tầm quan
 trọng của các quá trình tự nhiên - sử dụng nguồn lực một cách hiệu quả  - giảm thiểu tổn
-thất sản phẩm. 
+thất sản phẩm.
 Với mục đích bắt kịp xu hướng bùng nổ thông tin và toàn cầu hóa, HĐQT cũng thông qua
 chủ trương triển khai chương trình số hóa nông nghiệp, theo đó tích hợp, áp dụng công
 nghệ số để nâng cao năng lực và sức cạnh tranh, nâng cao hiệu quả kinh doanh, hiệu
@@ -142,54 +126,40 @@ Năm 2024 mang ý nghĩa đặc biệt đối với HAGL, không chỉ là năm 
 còn là năm bản lề của chiến lược kinh doanh giai đoạn 2024 - 2030. Trong năm, Công ty
 ghi nhận doanh thu thuần hợp nhất đạt 5.783 tỷ đồng, hoàn thành 74,6% kế hoạch. Lợi
 nhuận sau thuế đạt 1.060 tỷ đồng, hoàn thành 80,3% kế hoạch và lỗ lũy kế hợp nhất giảm
-còn 422,7 tỷ đồng. 
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
+còn 422,7 tỷ đồng.
 
-năm
- Kiến tạo và chuyển giao giá trị
-1993 - 2023
+Kiến tạo và chuyển giao giá trị
 HAGL Kỷ niệm 30 năm thành lập.
-Phát triển thêm diện tích chuối và sầu riêng. 
-2018
- 2019
-2022
-2024 
+Phát triển thêm diện tích chuối và sầu riêng.
 Hợp tác chiến lược với Tập đoàn THACO.
 Bắt đầu trồng sầu riêng tại Việt Nam.
 HĐQT phê duyệt chiến lược kinh doanh
 giai đoạn 2024 - 2030; Áp dụng mô hình
-Nông nghiệp tuần hoàn. 
-2023
+Nông nghiệp tuần hoàn.
 Xuất khẩu chuối sang thị trường Nhật
 Bản; Hoàn thành xây dựng các cụm
 chuồng trại chăn nuôi heo ăn chuối quy
 mô lớn; Tái cấu trúc tổng thể Tập đoàn,
 tinh gọn hoạt động.
-2012
 Thủy điện Bá Thước 2 và Đăksrông 3B
 hòa lưới điện; Hoàn tất trồng 50 ngàn ha
 cao su.
-Huân chương Phát triển 
+Huân chương Phát triển
 hạng Nhất nhà nước Lào.
 Huân chương công
-trạng hạng Nhất 
+trạng hạng Nhất
 nhà nước Campuchia.
-2013
-2014
-Khánh thành Cụm công nghiệp mía đường  
+Khánh thành Cụm công nghiệp mía đường
 công suất 7.000 tấn mía/ngày tại huyện
 Phu Vông, tỉnh Attapeu, Lào; Mở rộng kinh
 doanh sang lĩnh vực trồng cây chuối và
 chăn nuôi.
-2015
-2017
 Khai trương Trung tâm thương mại
 Myanmar Plaza; Khánh thành Sân bay
 quốc tế Attapeu, Lào; Niêm yết cổ
 phiếu HNG; Khánh thành thủy điện
 Đăkrông 3A và Bá Thước 1.
 LÀM NÔNG NGHIỆP CÓ TRÁCH NHIỆM
-07
 Diện tích chuối đạt 7.000ha và sầu riêng
 2.000ha; Chăn nuôi heo ăn chuối tại các
 cụm chuồng trại với công suất nuôi 500
@@ -199,7 +169,6 @@ Chiến lược phát triển giai đoạn 2024 - 2030 của HAGL được hoạ
 tin có được từ việc khảo sát những yếu tố bên trong và bên ngoài Công ty:
 Một là: Tập trung cao vào sáng tạo và chuyển giao giá trị cho các khách hàng là doanh
 nghiệp lớn, các thương nhân Quốc tế; bắt kịp xu hướng bùng nổ thông tin và toàn cầu
-hóa.
 Hai là: Vận hành xuất sắc, hài hòa, gắn kết, hướng tới sự tối ưu trong hoạt động và chi
 phí, giảm thiểu tối đa các rủi ro trong quá trình vận hành.
 Để thực thi thành công chiến lược kinh doanh 2024-2030, HAGL sẽ đổi mới bộ máy quản
@@ -208,7 +177,6 @@ trị, quản lý và điều hành Công ty. HĐQT tập trung vào quản tr�
 cho Ban TGĐ tổ chức thực hiện. Việc thực thi hiệu quả chiến lược, hiện thực hóa tầm nhìn,
 dựa trên cơ sở tập trung vào các mục tiêu ưu tiên nhưng vẫn đảm bảo thực thi hài hòa
 các thành tố về khách hàng, năng lực nội bộ, quy trình vận hành và tài chính.
-CHIẾN LƯỢC PHÁT TRIỂN
 Thành tố về khách hàng
 Thành tố năng lực nội bộ
 Tập trung cao vào sáng tạo và chuyển giao giá trị
@@ -218,8 +186,6 @@ Thành tố quy trình vận hành
 Bắt kịp xu hướng bùng nổ thông tin và toàn cầu hóa
 Tối ưu trong hoạt động và chi phí, giảm thiểu tối đa
 các rủi ro
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-24
 HAGL vận hành theo mô hình nông nghiệp tuần hoàn, tập trung vào tầm quan trọng của
 các quá trình tự nhiên, sử dụng nguồn lực một cách hiệu quả, giảm thiểu tổn thất sản
 phẩm thông qua việc tái chế chất thải thành nguồn đầu vào cho sản xuất nông nghiệp.
@@ -237,7 +203,6 @@ vào thị trường Trung Quốc theo giá CNF
 biến động lớn trong năm. Trong khi đó,
 xuất khẩu sang Nhật Bản và Hàn Quốc
 thì ký hợp đồng với giá ổn định cho cả
-năm.  
 Việc xuất khẩu trái cây tươi ra nước
 ngoài cần phải tuân thủ yêu cầu về
 kiểm dịch thực vật, mã số vùng trồng
@@ -255,7 +220,7 @@ công tác dự báo để làm giảm rủi ro biến
 Trong năm 2024, cùng với việc duy trì
 xuất sang thị trường Trung Quốc, HAGL đã
 tăng sản lượng xuất khẩu chuối sang thị
-trường Nhật Bản và Hàn Quốc. 
+trường Nhật Bản và Hàn Quốc.
 HAGL có những biện pháp để tuân thủ yêu
 cầu về kiểm dịch thực vật, trong đó có
 quy định về mã số vùng trồng, cơ sở đóng
@@ -268,15 +233,13 @@ Campuchia, đồng thời xuất khẩu trái
 cây tươi thu ngoại tệ nên có khả năng
 có rủi ro từ biến động tỷ giá VND so với
 đồng LAK (Kíp Lào), KHR (Đồng Riel
-Campuchia) và USD (Đô la Mỹ). 
+Campuchia) và USD (Đô la Mỹ).
 Trong những năm gần đây, tỷ giá VND
 và USD, KHR tương đối ổn định. Tuy
 nhiên, giá trị đồng LAK mất giá mạnh
 so với VND có ảnh hưởng đến giá trị
 đầu tư bằng đồng LAK tại Lào khi quy
-đổi về VND. 
 Toàn bộ chênh lệch tỷ giá được phản ánh
-trong báo cáo tài chính và sẽ có tác động
 đến lợi nhuận khi khoản đầu tư được
 thanh lý.
 Nguồn thu của HAGL từ xuất khẩu trái cây
@@ -284,7 +247,7 @@ tươi là ngoại tệ USD. Vì vậy, tỷ giá giữa
 USD và VND, LAK, KHR tăng là có lợi hơn
 cho HAGL với tư cách là nhà xuất khẩu.
 Tuy vậy, HAGL luôn chú ý đến biến động
-tỷ giá để chủ động ứng phó.   
+tỷ giá để chủ động ứng phó.
 Phân tích rủi ro
 Ứng phó rủi ro
 Quản lý rủi ro là quá trình phân tích môi trường (bên trong, bên ngoài) để nhận diện,
@@ -310,7 +273,6 @@ biên độ đủ bù đắp chi phí lãi vay.
 Phân tích rủi ro
 Ứng phó rủi ro
 LÀM NÔNG NGHIỆP CÓ TRÁCH NHIỆM
-25
 
 HAGL hoạt động đầu tư, kinh doanh tại
 Việt Nam, Lào và Campuchia và xuất
@@ -329,9 +291,9 @@ kỹ thuật chặt chẽ về kiểm dịch động
 thực vật và vệ sinh an toàn thực
 phẩm, điều này phần nào gây khó
 khăn cho hoạt động xuất nhập khẩu
-hàng hóa của Công ty. 
+hàng hóa của Công ty.
 RỦI RO
- PHÁP LÝ
+PHÁP LÝ
 Tuân thủ pháp luật chính là biện pháp
 ứng phó hiệu quả nhất đối với các rủi ro về
 pháp lý. Do đó, HAGL tuân thủ các quy
@@ -360,20 +322,19 @@ ro trong khâu sản xuất.
 thiên tai cần được chú ý nhất còn đối
 với chăn nuôi thì rủi ro dịch bệnh cần
 được quan tâm nhất.
-RỦI RO VỀ 
+RỦI RO VỀ
 MÔI TRƯỜNG,
-THIÊN TAI, 
+THIÊN TAI,
 DỊCH BỆNH
 HAGL áp dụng mô hình nông nghiệp tuần
-hoàn, 
-thực 
-hành 
-nông 
-nghiệp 
-tốt
+hoàn,
+thực
+hành
+nông
+nghiệp
 GLOBALG.A.P để giảm thiểu tác động môi
 trường. Các phụ phẩm nông nghiệp được sử
-dụng để bồi đắp trở lại cho nông nghiệp. 
+dụng để bồi đắp trở lại cho nông nghiệp.
 Đối với trồng trọt: Các biện pháp giảm
 thiểu rủi ro do thời tiết khí hậu mang lại bao
 gồm nhưng không giới hạn: Trước mùa
@@ -385,15 +346,12 @@ pháp chống đổ ngã cho cây và trồng vành
 Đối với chăn nuôi: Thường xuyên kiểm tra
 dịch bệnh đối với chăn nuôi heo, thực hiện
 nghiêm cách ly và đảm bảo an toàn sinh
-học.
 Nhận diện rủi ro
 Phân tích rủi ro
 Ứng phó rủi ro
 Nhận diện rủi ro
 Phân tích rủi ro
 Ứng phó rủi ro
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-26
 
 ĐÁNH GIÁ CỦA HĐQT VỀ KẾT QUẢ HOẠT ĐỘNG CỦA CÔNG TY 2024
 Về triển khai các nhiệm vụ theo Nghị quyết ĐHĐCĐ thường niên 2024
@@ -410,16 +368,12 @@ Trái phiếu 2016, giảm đáng kể nợ trái phiếu.
 Ký kết Hợp tác chiến lược với Công ty cổ phần King Food Market để phân phối các sản
 phẩm nông nghiệp của Tập đoàn vào hệ thống siêu thị Kingfoodmart.
 Kết quả đạt được cụ thể như sau:
-BÁO CÁO CỦA HĐQT 
+BÁO CÁO CỦA HĐQT
 LÀM NÔNG NGHIỆP CÓ TRÁCH NHIỆM
-31
 Tổng doanh thu và thu nhập khác năm 2024 đạt
-5.783 tỷ đồng
-hoàn thành 74,6% kế hoạch 
+hoàn thành 74,6% kế hoạch
 Lợi nhuận sau thuế 2024 đạt
-1.060
-hoàn thành 80,3% kế hoạch 
-tỷ đồng
+hoàn thành 80,3% kế hoạch
 Trái cây mang lại doanh thu chủ yếu
 và tăng 39% so với 2023, trong khi
 doanh thu heo giảm 49%.
@@ -433,19 +387,17 @@ tục cải tiến sản phẩm, đảm bảo đáp ứng ngày càng tốt hơn
 phía khách hàng.
 Đảm bảo sử dụng tiết kiệm nguồn vốn, tăng cường đàm phán với các Ngân hàng
 thương mại để gia tăng các khoản vay ngắn hạn phục vụ chăm sóc, thu hoạch chuối,
-sầu riêng và heo ăn chuối.  
+sầu riêng và heo ăn chuối.
 Bám sát định hướng Chiến lược phát triển giai đoạn 2024-2030, theo đó đẩy mạnh
 chuyển đổi số. Bước đầu đã xây dựng môi trường làm việc số, sử dụng phần mềm để
 ghi chép, phân tích số liệu từ các nông trường, quản lý kho và điều chuyển vật tư.
 HAGL xây dựng vận hành website mới của Công ty với giao diện linh hoạt và nhiều
 tính năng mới.
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-32
 ĐÁNH GIÁ CỦA HĐQT VỀ HOẠT ĐỘNG CỦA BAN TGĐ
 Đã chủ động bám sát diễn biến thị trường nhằm đề ra giải pháp linh hoạt, đồng bộ về
 sản phẩm, nguồn vốn, nhân lực và quản lý rủi ro. Công ty hoàn thành 74,6% kế hoạch
 doanh thu và 80,3% kế hoạch lợi nhuận năm 2024 trong bối cảnh Tập đoàn còn phải
-đối mặt với không ít khó khăn, thách thức. 
+đối mặt với không ít khó khăn, thách thức.
 Công ty phát triển được những sản phẩm mới và các hoạt động chuyển đổi số toàn
 diện bám sát định hướng Chiến lược phát triển giai đoạn 2024-2030.
 Ban TGĐ đã thực hiện các quyền và nhiệm vụ được giao một cách cẩn trọng, trung
@@ -468,7 +420,6 @@ hiện các Nghị quyết của ĐHĐCĐ và HĐQT thông qua các cơ chế nh
 các chỉ đạo trực tiếp bằng các Nghị quyết của HĐQT, sự hỗ trợ giám sát của Tiểu ban
 kiểm toán nội bộ và thông qua công tác kiểm tra, giám sát của BKS. Thông qua các cơ
 chế kiểm tra, giám sát nêu trên, HĐQT đánh giá cao hoạt động của Ban TGĐ trong năm
-2024:
 
 KẾ HOẠCH VÀ ĐỊNH HƯỚNG CỦA HĐQT NĂM 2025
 Kế hoạch, định hướng, chỉ đạo cụ thể
@@ -480,14 +431,10 @@ ngành cây ăn trái và chăn nuôi heo là ngành chủ lực. Mục tiêu đ
 30.000ha đưa HAGL trở thành nhóm dẫn đầu Việt Nam trong lĩnh vực nông
 nghiệp. HĐQT rà soát, đánh giá thực hiện chiến lược và kế hoạch kinh
 doanh để đề xuất ĐHĐCĐ về việc bổ sung, sửa đổi (nếu cần).
- 
 Tiếp tục thực hiện các các biện pháp tái cơ cấu tài chính nhằm giảm hơn
 nữa số dư nợ phải trả ngân hàng, cải thiện vận hành, tiến tới xóa lỗ lũy kế.
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-34
 Trên cơ sở các quy định của pháp luật, căn cứ tình hình thực tế và các nhiệm vụ SXKD của
 Tập đoàn năm 2025, HĐQT đã ban hành Chương trình công tác trọng tâm của HĐQT trong
-năm 2025.
 Tiếp tục tổ chức bộ máy HĐQT làm việc chuyên trách với tinh thần trách nhiệm cao,
 tuân thủ quy định của pháp luật, Điều lệ của Công ty và Quy chế hoạt động của
 HĐQT. Tập trung chỉ đạo và giám sát Ban TGĐ triển khai các giải pháp nhằm thực
@@ -501,10 +448,41 @@ Tăng cường hợp tác với các đối tác trong và ngoài nước để 
 Tiếp tục nâng cao trách nhiệm của doanh nghiệp trong công tác môi trường - xã
 hội vì sự phát triển bền vững của doanh nghiệp và cộng đồng.
 
+Đối với chăn nuôi heo: Năm 2024, ngành chăn nuôi heo có những thuận lợi và thách thức
+đan xen. Yếu tố thuận lợi là giá heo tăng mạnh so với năm 2023. Các yếu tố ảnh hưởng
+tiêu cực đến chăn nuôi heo là:
+Biến động giá thức ăn chăn nuôi: Giá thức ăn chăn nuôi có những biến động mạnh,
+ảnh hưởng đến chi phí sản xuất, đặc biệt giá một nguyên liệu đầu vào chính như bắp,
+đậu tương.
+Dịch bệnh: Dịch tả heo châu Phi (ASF) và các bệnh khác vẫn tiềm ẩn nguy cơ lây lan
+nhanh và gây thiệt hại lớn cho đàn heo. Việc kiểm soát dịch bệnh đòi hỏi các biện
+pháp phòng ngừa nghiêm ngặt và chi phí cao.
+Vấn đề môi trường và bền vững: Các vấn đề liên quan đến ô nhiễm từ chất thải chăn
+nuôi và yêu cầu về thực hành nông nghiệp bền vững đang ngày càng được chú trọng
+đòi hỏi doanh nghiệp phải áp dụng nhiều giải pháp để đáp ứng.
+Đối với cây ăn trái: Thị trường tiêu thụ trái cây chủ yếu của Tập đoàn là Trung Quốc. Đây
+là một thị trường lớn và yếu tố thuận lợi là hai nước Việt Nam - Trung Quốc đã ký Nghị
+định thư về yêu cầu kiểm dịch thực vật đối với quả chuối tươi và sầu riêng từ Việt Nam
+xuất qua Trung Quốc. Việc ký Nghị định thư đã tạo ra sự minh bạch trong yêu cầu kiểm
+dịch thực vật và truy xuất nguồn gốc. Tuy vậy, việc tập trung vào một thị trường cũng
+tiềm ẩn những rủi ro. Sản phẩm chuối tươi của công ty xuất vào thị trường Trung Quốc
+theo giá CNF được chốt hàng tuần nên có thể có biến động lớn trong năm. Trong khi đó,
+xuất khẩu sang Nhật Bản và Hàn Quốc thì ký hợp đồng với giá ổn định cho cả năm.
+Việc xuất khẩu trái cây tươi ra nước ngoài cần phải tuân thủ yêu cầu về kiểm dịch thực
+vật, mã số vùng trồng và cơ sở đóng gói theo Nghị định thư đã ký với nước nhập khẩu.
+Đặc biệt, Tổng cục Hải quan Trung Quốc đã áp dụng một số biện pháp bổ sung đối với
+các loại trái cây như sầu riêng, mít, thanh long xuất khẩu vào nước này. Quy định mới yêu
+cầu các lô hàng trái cây trước khi xuất khẩu phải có kết quả phân tích một số hoạt chất
+mà phía Trung Quốc quan tâm, đồng thời các phòng kiểm nghiệm hoạt chất này phải
+được phía Trung Quốc công nhận.
+Những nhân tố ảnh hưởng đến tình hình hoạt động và kinh doanh của HAGL
+trong năm 2024
+Bao buồng bảo vệ buồng chuối
+
 Trong quá trình giám sát hoạt động của Công ty, BKS đã được HĐQT, Ban TGĐ và các
 cán bộ quản lý cung cấp kịp thời các thông tin theo yêu cầu, tạo mọi điều kiện để BKS
 hoàn thành nhiệm vụ.
-Không có yêu cầu kiểm tra hoặc khiếu nại nào từ Cổ đông. 
+Không có yêu cầu kiểm tra hoặc khiếu nại nào từ Cổ đông.
 BKS đã thông báo cho HĐQT các thủ tục trình ĐHĐCĐ phê chuẩn chọn công ty kiểm toán
 độc lập cho năm tài chính 2025 trong kỳ họp ĐHĐCĐ gần nhất.
 Trong năm 2024, BKS đã tham dự các cuộc họp của HĐQT theo yêu cầu, qua đó BKS
@@ -532,19 +510,15 @@ vọng có thể hoàn trả các khoản nợ đến hạn và tiếp tục ho�
 theo. Dựa trên các cơ sở này, Ban TGĐ lập Báo cáo tài chính hợp nhất trên cơ sở đáp
 ứng giả định hoạt động liên tục.
 Ngoài các vấn đề cần lưu ý trên, BKS đánh giá báo cáo tài chính 6 tháng và năm 2024
-được trình bày trung thực, hợp lý và phù hợp với quy định của pháp luật hiện hành. 
+được trình bày trung thực, hợp lý và phù hợp với quy định của pháp luật hiện hành.
 Kết quả giám sát hoạt động quản lý điều hành của HĐQT và Ban TGĐ
 Đánh giá sự phối hợp hoạt động giữa BKS với HĐQT và Ban TGĐ
 Lựa chọn đơn vị kiểm toán độc lập
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-48
 
-STT
 Họ và tên
 Chức vụ
 Chuyên môn
 TIỂU BAN KIỂM TOÁN NỘI BỘ THUỘC HĐQT
-1
 Nguyễn Thị Hạnh Thương
 Trưởng ban
 Kế toán kiểm toán
@@ -559,11 +533,8 @@ các vấn đề tồn đọng về tài chính, từ đó đề xuất phương
 Ban TGĐ;
 Thực hiện tư vấn chuyên môn về quy trình quản trị, quản lý rủi ro, cơ cấu tài chính và
 kiểm soát nội bộ, đảm bảo sự phù hợp với định hướng và đặc thù hoạt động của Công
-ty;
 Báo cáo định kỳ về kết quả kiểm toán;
 Thực hiện các nhiệm vụ khác theo sự phân công của HĐQT.
 Hoạt động của tiểu ban kiểm toán nội bộ trong năm 2024:
 Thành phần tiểu ban kiểm toán nội bộ
-HAGL - BÁO CÁO THƯỜNG NIÊN 2024
-60
 Bầu Đức tặng 1 triệu quả chuối Pleiku Sweet cho khách hàng

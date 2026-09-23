@@ -1,208 +1,669 @@
-TÊN ĐẦY ĐỦ
-CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ
-Địa chỉ
-Tầng 05, tòa nhà Viện Dầu khí Việt Nam, số 167 đường Trung Kính, phường Yên 
-Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam
-Mã số
-0109308963
-Ngành nghề 
-kinh doanh chính
-Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, 
-vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện 
-mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác)
-Vốn điều lệ
-270.000.000.000 đồng 
-Tỉ lệ nắm giữ của 
-PV POWER
-51% 
-Các công ty con
-CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ
-STT
-DANH SÁCH
-ĐỊA CHỈ
-LĨNH VỰC SẢN XUẤT 
-KINH DOANH CHÍNH
-VỐN ĐIỀU LỆ
-(TỶ ĐỒNG) 
-TỶ LỆ 
-SỞ HỮU
-1
-CTCP Thủy điện Nậm 
-Chiến
-Sơn La
-Sản xuất kinh doanh điện năng
-2.000
-15,49%
-2
-CTCP Năng lượng Sông 
-Hồng
-Yên Bái
-Khai thác, sản xuất kinh doanh điện
-74,63
-44,07%
-3
-CTCP Điện Việt Lào
-Hà Nội
-Sản xuất kinh doanh điện năng
-4.377,53
-6,98%
-4
+DANH MỤC VIẾT TẮT
+BCTC
+CTCP
+Công ty Cổ phần
+ĐHĐCĐ
+Đại hội đồng cổ đông
+Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV
+EVNEPTC
+Công ty Mua bán điện (đơn vị được EVN ủy quyền)
+EVNI
 CTCP EVN Quốc tế
-Đà Nẵng
-Sản xuất kinh doanh điện năng
-366,77
-7,69%
-5
-CTCP Thủy điện Sông 
-Tranh 3
-Quảng 
-Nam
-Sản xuất kinh doanh điện năng
-620
-5,34%
-6
-CTCP Cơ điện Dầu khí
+GPMB
+Giải phóng mặt bằng
+HĐQT
+Hội đồng quản trị
+Hợp đồng bán khí (GSA) là hợp đồng bán khí giữa bên bán khí với các
+hộ tiêu thụ khí hạ nguồn
+Chào bán lần đầu ra công chúng
+Liquefied Natural Gas (Khí tự nhiên hóa lỏng)
+Một thành viên
+CTCP Thủy điện Nậm Chiến
+NCKT
+Nghiên cứu khả thi
+NLTT
+Năng lượng tái tạo
+NSMO
+Công ty TNHH MTV Vận hành hệ thống điện và thị trường điện
+Quốc gia
+Operate and Maintenance (Bảo dưỡng và sửa chữa)
+PCCC
+Phòng cháy chữa cháy
+Power Purchase Agreement (Hợp đồng mua bán điện)
+PV Gas
+Tổng công ty Khí Việt Nam - CTCP
+PV Power
+Tổng công ty Điện lực Dầu khí Việt Nam - CTCP
+PV Power  REC
+CTCP Năng lượng tái tạo Điện lực dầu khí
+PV Power DHC
+CTCP Thủy điện Đakđrinh
+PV Power HHC
+CTCP Thủy điện Hủa Na
+PV Power NT2
+CTCP Điện lực Dầu khí Nhơn Trạch 2
+PV Power Services
+CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí
+PVC Mekong
+CTCP Phát triển Đô thị Dầu khí
+Tập đoàn Dầu khí Việt Nam (Nay là Tập đoàn Công nghiệp - Năng lượng
+Quốc gia Việt Nam)
+PVPP
+Ban quản lý dự án điện
+QH Điện VII
+Quy hoạch phát triển điện lực quốc gia giai đoạn 2011-2020, có xét đến
+QH Điện VIII
+Quy hoạch phát triển điện lực quốc gia thời kỳ 2021 - 2030, tầm nhìn
+đến năm 2050
+Sản lượng điện hợp đồng
+CTCP Năng lượng Sông Hồng
+SXKD
+Sản xuất kinh doanh
+Tổng giám đốc
+TNHH
+Trách nhiệm hữu hạn
+CTCP Điện Việt Lào
+KHÁT VỌNG VƯƠN XA
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
 Hà Nội
-Cơ điện lạnh
-10
-10,00%
-7
-CTCP Phát triển Đô thị 
-Dầu khí
-Cần Thơ
-Đầu tư xây dựng khu đô thị mới, các 
-khu nhà ở...
-280
-6,48%
-8
-CTCP Điện khí LNG 
+Quảng Ngãi
+Quần đảo Hoàng sa
+Quần đảo Trường sa
+Nghệ An
+Hà Tĩnh
+Cà Mau
 Quảng Ninh
-Quảng 
-Ninh
-Khai thác, sản xuất kinh doanh điện
-100
-30,00%
-Các công ty liên kết, công ty có phần vốn góp của PV POWER
-39
-38
+Sản xuất và kinh doanh
+điện năng
+Quản lý xây dựng và vận
+hành các nhà máy điện
+Xuất nhập khẩu năng
+lượng, nhiên liệu cho sản
+xuất, kinh doanh điện
+Xuất nhập khẩu thiết bị,
+vật tư, phụ tùng cho sản
+xuất, kinh doanh điện
+Đầu tư xây dựng mới các
+dự án điện độc lập (IPP)
+Thực hiện đầu tư, xây lắp,
+mở rộng phát triển sản
+xuất kinh doanh điện
+Kinh doanh các sản phẩm
+tro, xỉ, phế liệu
+Xây dựng, phát triển, quản
+lý thực hiện các dự án CDM
+điện năng sạch
+Cung cấp dịch vụ quản lý
+dự án cho các dự án điện,
+dịch vụ tư vấn cho các
+công trình
+Nghiên cứu, áp dụng các
+tiến bộ công nghệ mới vào
+việc đầu tư phát triển các
+dự án điện, sử dụng năng
+lượng như: điện gió, điện
+mặt trời, điện nguyên tử
+Thực hiện các dịch vụ kỹ
+thuật thương mại trong
+lĩnh vực sản xuất, kinh
+doanh điện
+Cung cấp giải pháp giảm
+phát thải khí nhà kính được
+chứng nhận (CERs) của các
+dự án điện năng
+Đầu tư xây dựng phát triển
+cơ sở hạ tầng điện năng,
+trong đó có đầu tư kinh
+doanh đồng bộ lưới trung
+thế, hạ thế và bán điện
+công nghiệp
+Cung cấp các dịch vụ kỹ
+thuật, vận hành, đào tạo
+nguồn nhân lực quản lý
+vận hành, sửa chữa, bảo
+dưỡng phục vụ sản xuất
+kinh doanh điện
+Hoạt động kiến trúc và tư vấn
+kỹ thuật có liên quan. Chi tiết:
+Tư vấn đấu thầu; Tư vấn quản
+lý dự án; Thiết kế, thẩm tra
+thiết kế xây dựng công trình;
+Lập, thẩm tra dự án đầu tư
+xây dựng; Giám sát thi công
+xây dựng công trình; Quản lý
+chi phí đầu tư xây dựng
+Tổng công ty Điện lực Dầu khí Việt Nam - CTCP là doanh nghiệp hoạt động trong lĩnh vực sản xuất và kinh doanh
+điện năng. PV Power đã đầu tư, vận hành các nhà máy điện trong tất cả các lĩnh vực nhiệt điện, thủy điện, điện khí
+hóa lỏng và điện năng lượng tái tạo.
+Bên cạnh đó, PV Power cũng phát triển các dịch vụ như vận hành, bảo dưỡng sửa chữa, dịch vụ kỹ thuật điện, cung
+ứng nhiên liệu cho các nhà máy điện... và trở thành doanh nghiệp hàng đầu trên thị trường điện tại Việt Nam.
+NGÀNH NGHỀ VÀ ĐỊA BÀN KINH DOANH
+Ngành nghề kinh doanh
+Địa bàn kinh doanh
 KHÁT VỌNG VƯƠN XA - I. THÔNG TIN CHUNG
 TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
 
-STT
+TÊN ĐẦY ĐỦ
+CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ
+Địa chỉ
+Tầng 05, tòa nhà Viện Dầu khí Việt Nam, số 167 đường Trung Kính, phường Yên
+Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam
+Ngành nghề
+kinh doanh chính
+Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu,
+vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện
+mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác)
+Vốn điều lệ
+Tỉ lệ nắm giữ của
+PV POWER
+Các công ty con
+CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ
+DANH SÁCH
+ĐỊA CHỈ
+LĨNH VỰC SẢN XUẤT
+KINH DOANH CHÍNH
+VỐN ĐIỀU LỆ
+CTCP Thủy điện Nậm
+Chiến
+Sơn La
+Sản xuất kinh doanh điện năng
+CTCP Năng lượng Sông
+Hồng
+Yên Bái
+Khai thác, sản xuất kinh doanh điện
+CTCP Điện Việt Lào
+Hà Nội
+Sản xuất kinh doanh điện năng
+CTCP EVN Quốc tế
+Đà Nẵng
+Sản xuất kinh doanh điện năng
+CTCP Thủy điện Sông
+Tranh 3
+Quảng
+Sản xuất kinh doanh điện năng
+CTCP Cơ điện Dầu khí
+Hà Nội
+Cơ điện lạnh
+CTCP Phát triển Đô thị
+Dầu khí
+Cần Thơ
+Đầu tư xây dựng khu đô thị mới, các
+khu nhà ở...
+CTCP Điện khí LNG
+Quảng Ninh
+Quảng
+Ninh
+Khai thác, sản xuất kinh doanh điện
+Các công ty liên kết, công ty có phần vốn góp của PV POWER
+KHÁT VỌNG VƯƠN XA - I. THÔNG TIN CHUNG
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+ĐỊNH HƯỚNG PHÁT TRIỂN
+Các mục tiêu chủ yếu của Tổng công ty
+QUAN ĐIỂM
+MỤC TIÊU
+•	 Phát huy tối đa nội lực, tận dụng các nguồn lực
+bên ngoài và tăng cường hợp tác quốc tế để phát
+triển PV Power thành thương hiệu có uy tín trong
+nước và trong khu vực
+•	 Lấy hiện trạng làm nền tảng, tiếp tục khai thác,
+quản lý, vận hành an toàn, hiệu quả và ổn định
+các nhà máy điện hiện hữu, trong đó An toàn và
+Hiệu quả là kim chỉ nam xuyên suốt quá trình
+phát triển
+•	 Phát triển PV Power phù hợp với chiến lược phát
+triển ngành Điện Việt Nam, phù hợp với định hướng
+phát triển lĩnh vực công nghiệp điện của PVN và
+phù hợp xu thế chung của thế giới; sử dụng công
+nghệ tiên tiến, thân thiện với môi trường để phát
+triển bền vững; tập trung phát triển nhiệt điện khí
+(bao gồm LNG), đẩy mạnh phát triển năng lượng
+tái tạo, tham gia thị trường điện theo lộ trình của
+một cách hiệu quả
+•	 Phát triển các lĩnh vực dịch vụ kỹ thuật điện, dịch
+vụ cung ứng nhiên liệu và các dịch vụ khác có
+liên quan
+•	 Phát triển PV Power trên nguyên tắc không ngừng
+hoàn thiện công tác quản trị doanh nghiệp, đảm
+bảo công khai, minh bạch và hài hòa lợi ích của các
+cổ đông, của Nhà nước và người lao động
+Phát triển PV Power trở thành một Tổng công ty Công nghiệp Điện - Dịch vụ mạnh, với mục tiêu:
+Cao về sức cạnh tranh
+Xanh về môi trường
+Mạnh về tài chính
+Hiệu quả trong
+sản xuất kinh doanh
+Chuyên nghiệp về
+quản trị
+hính
+chín
+Mạnh về
+Mạnh về tài h
+àiài ch
+vềài iài
+Định hướng triển khai, nhiệm vụ chủ yếu và các chỉ tiêu kế hoạch
+LĨNH VỰC SẢN XUẤT KINH
+DOANH ĐIỆN
+Tập trung cho công tác quản lý, vận hành ổn định/hiệu quả các nhà máy điện hiện hữu và các nhà máy điện mới do
+PV Power trực tiếp đầu tư hoặc tham gia góp vốn đầu tư; chủ động tham gia đầu tư trong lĩnh vực Điện Khí và tích
+cực tham gia đầu tư phát triển các dự án sử dụng năng lượng tái tạo theo xu hướng phát triển năng lượng điện Quốc
+gia và xu thế chung của thế giới, tổng công suất đặt của PV Power là 5.854 MW, chiếm khoảng 6% công suất đặt
+toàn hệ thống, sản lượng điện bình quân năm là 24 tỷ kWh, tốc độ tăng trưởng sản lượng điện bình quân đạt 6%/năm.
+Phát triển các lĩnh vực dịch vụ liên quan đến sản xuất điện bao gồm dịch vụ bảo dưỡng sửa chữa và gia công chế
+tạo, phục hồi vật tư, thiết bị; dịch vụ cung ứng nhiên liệu cho các nhà máy điện,... để hỗ trợ cho lĩnh vực sản xuất kinh
+doanh điện năng phù hợp với từng giai đoạn phát triển.
+Tiếp tục quản lý, vận hành ổn định/hiệu quả các nhà
+máy điện Khí, Thủy điện, Than, Năng lượng tái tạo hiện
+hữu và các nhà máy điện mới do PV Power trực tiếp
+đầu tư hoặc tham gia góp vốn đầu tư đưa vào vận hành
+trong giai đoạn này.
+Tham gia thị trường điện một cách hiệu quả; chuẩn
+bị các điều kiện cần thiết để tham gia thị trường bán
+buôn/bán lẻ điện cạnh tranh theo lộ trình do Thủ tướng
+Chính Phủ quy định. PV Power sẽ triển khai nghiên cứu
+để nắm rõ nguyên tắc hoạt động của thị trường bán
+buôn cạnh tranh và đưa ra các kế hoạch cụ thể trong
+giai đoạn này.
+KHÁT VỌNG VƯƠN XA - I. THÔNG TIN CHUNG
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+LĨNH VỰC ĐẦU TƯ
+PHÁT TRIỂN NGUỒN ĐIỆN
+•	 Tập trung phát triển nhiệt điện khí, coi đây là thế mạnh số
+một trên cơ sở tận dụng tối đa các nguồn khí tự nhiên hiện
+có và LNG nhập khẩu. Đây là việc kết nối chuỗi trên cơ sở
+tận dụng cơ sở hạ tầng sẵn có ở khâu thượng nguồn, trung
+nguồn tại các đơn vị thành viên của PVN.
+•	 Ưu tiên nghiên cứu đầu tư các dự án năng lượng tái tạo
+đạt hiệu quả đầu tư để gia tăng tỷ lệ sản xuất điện năng từ
+nguồn năng lượng tái tạo.
+Bao gồm 02 lĩnh vực: Cung cấp dịch vụ kỹ thuật cho các nhà
+máy điện và dịch vụ cung ứng nhiên liệu.
+LĨNH VỰC DỊCH VỤ
+Cùng với các đơn vị sản xuất điện đảm bảo, duy
+trì độ khả dụng và tin cậy các hệ thống thiết bị
+trong các nhà máy điện của Tổng công ty, cụ thể:
+Cung cấp dịch vụ kỹ thuật
+cho các nhà máy điện
+Tận dụng, phát huy các nguồn lực, nhân lực,
+các điều kiện đã có từ Tổng công ty như
+nhân sự, nhà xưởng, công cụ dụng cụ… cũng
+như kinh nghiệm bảo dưỡng sửa chữa của
+các nhà máy điện.
+Phát triển nguồn nhân lực chất lượng cao
+đảm bảo công tác bảo dưỡng sửa chữa các
+nhà máy điện cũng như vận hành O&M các
+nhà máy điện (Chiến lược đào tạo: Triển khai
+đào tạo nội bộ, đào tạo chuyên sâu, tuyển
+dụng các nhân sự giàu kinh nghiệm, xây dựng
+bộ máy nhân sự nòng cốt cho Trung tâm
+trong tương lai…).
+Tìm kiếm thị trường cung cấp dịch vụ vận
+hành O&M các nhà máy điện.
+Tập trung cho công tác bảo dưỡng sửa chữa
+định kỳ/thường xuyên các nhà máy điện của
+PV Power.
+Dịch vụ cung ứng nhiên liệu
+Đa dạng hóa nguồn cung nhiên liệu, tìm kiếm
+các nguồn nhiên liệu chất lượng tốt phục vụ
+cho nhu cầu tiêu thụ của các nhà máy điện.
+Xây dựng, vận hành và quản trị các chuỗi
+cung ứng nhiên liệu hiện đại, tiên tiến và hiệu
+quả nhằm hoàn thành tốt nhiệm vụ cung ứng
+nhiên liệu cho các nhà máy điện, góp phần
+đảm bảo an ninh năng lượng quốc gia.
+Hợp tác kinh doanh nhiên liệu và dịch vụ
+cho các nhà máy điện trên cơ sở đảm bảo
+hiệu quả kinh tế.
+Phát huy mọi nguồn lực để đảm bảo luôn
+cung ứng đủ nhiên liệu cho các nhà máy điện
+vận hành với chất lượng tốt nhất, chi phí cạnh
+tranh, hợp lý, đem lại hiệu quả hoạt động, kinh
+tế cho Tổng công ty, góp phần đảm bảo an
+ninh năng lượng quốc gia.
+KHÁT VỌNG VƯƠN XA - I. THÔNG TIN CHUNG
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+Một số kết quả, thành tựu đạt được trong năm 2024
+Công tác đầu tư dự án Nhà máy điện khí LNG
+Quảng Ninh: đơn vị đang triển khai lập báo cáo
+đánh giá tác động môi trường và xã hội; đã ký hợp
+đồng tư vấn quốc tế và Hợp đồng lập hồ sơ mời
+thầu EPC dự án; đang làm việc với địa phương về
+công tác đền bù giải phóng mặt bằng.
+Công tác lắp đặt hệ thống tiết kiệm năng lượng
+sử dụng biến tần tại Nhà máy điện Vũng Áng 1 đã
+hoàn thành lắp đặt tổ máy số 1; bước đầu mang
+lại nguồn doanh thu ổn định cho PV Power REC.
+Ngày 31/10/2024, PV Power chính thức khánh
+thành và đưa vào vận hành trạm sạc xe điện thí
+điểm đầu tiên tại số 6 phố Huỳnh Thúc Kháng, Ba
+Đình, Hà Nội.
+Dự án Tòa nhà Văn phòng sau khi hoàn thành
+thẩm định thiết kế cơ sở, hồ sơ thiết kế PCCC vào
+tháng 5/2024, Tổng công ty đã tích cực triển khai
+công tác hoàn thiện tòa nhà để sớm đưa vào sử
+dụng trong thời gian sớm nhất.
+Tiếp tục rà soát sắp xếp tổ chức bộ máy từ Công
+ty mẹ đến các Đơn vị thành viên/trực thuộc; Đẩy
+nhanh thực hiện thoái vốn tại các công ty liên kết.
+Thoái vốn thành công dự án Luang Prabang tại
+Lào, thu hồi được hơn 144 tỷ chi phí đã thực hiện
+trong quá trình nghiên cứu khảo sát đầu tư dự án.
+Cổ phiếu POW tiếp tục duy trì vị trí trong nhóm
+VN30-INDEX .
+Năm thứ tư liên tiếp, được công nhận là “Doanh
+nghiệp tiêu biểu vì Người lao động”.
+Ngày 16/11/2024, PV Power được vinh danh
+tốt nhất nhóm ngành phi tài chính năm 2023.
+Ngày 29/11/2024, PV Power lần thứ 5 liên tiếp
+được vinh danh trong Top 100 Doanh nghiệp bền
+vững Việt Nam.
+KHÁT VỌNG VƯƠN XA - II. TÌNH HÌNH HOẠT ĐỘNG NĂM 2024
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+CTCP Thủy điện Đakđrinh
+(PV Power DHC)
+Vào thời điểm 20 giờ 05 phút
+Thứ 4 ngày 18/12/2024 Công ty
+đã hoàn thành đạt sản lượng điện
+là 527,01 triệu kWh (kế hoạch
+527 triệu kWh) và về đích trước
+13 ngày  so với kế hoạch cả năm
+được giao.
+Các chỉ tiêu chính cả năm 2024
+toán) đạt được như sau:
+triệu kWh/
+kế hoạch 527 triệu kWh
+kế hoạch 110 tỷ đồng
+kế hoạch 591,5 tỷ đồng
+kế hoạch 104,5 tỷ đồng
+kế hoạch 138,1 tỷ đồng
+đạt 107,5% kế hoạch,
+vượt kế hoạch 39,3 triệu kWh
+đạt 132,2% kế hoạch,
+vượt kế hoạch 35,4 tỷ đồng
+đạt 106,1% kế hoạch,
+vượt kế hoạch 35,9 tỷ đồng
+đạt 132,7% kế hoạch,
+vượt kế hoạch 34,1 tỷ đồng
+đạt 101,2% kế hoạch,
+vượt kế hoạch 1,6 tỷ đồng
+Sản lượng điện thương mại
+Lợi nhuận trước thuế
+Doanh thu cả năm
+Lợi nhuận sau thuế
+Nộp NSNN
+Năm 2024 không có hoạt động bảo dưỡng sửa chữa lớn, tuy nhiên
+PV Power Services đã nỗ lực phấn đấu, tìm kiếm và ký kết thêm các hợp đồng
+dịch vụ mới ngoài các hợp đồng trong Tổng công ty, tiết giảm tiết kiệm tối
+đa các khoản mục chi phí, mua sắm chưa cần thiết… nhằm hoàn thành vượt
+mức các chỉ tiêu kế hoạch được Đại hội đồng cổ đông, Tổng công ty giao từ
+đầu năm.
+CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí
+(PV Power Services)
+PV Power REC đang trong giai đoạn vừa sản xuất kinh doanh điện vừa nghiên
+cứu, xúc tiến đầu tư các dự án Năng lượng tái tạo mới. Đến nay PV Power REC
+đã và đang sở hữu 5 dự án/ nhà máy điện mặt trời mái nhà cụ thể như là: Nhà
+máy Điện mặt trời mái nhà Phú Mỹ 1, 2, 3 và Nhà máy Điện mặt trời mái nhà
+Dung Quất 1, 2.
+Năm 2024, sản lượng điện đạt 4,21 triệu kWh; Doanh thu đạt 18,15 tỷ đồng;
+Cả năm 2024 lỗ 3,22 tỷ đồng.
+CTCP Năng lượng tái tạo Điện lực
+Dầu khí
+(PV Power REC)
+Doanh thu đạt
+Doanh thu đạt
+bằng 143% kế hoạch
+Lợi nhuận sau thuế đạt
+Sản lượng điện đạt
+bằng 111,9% kế hoạch
+triệu kWh
+Năm 2024 chỉ tiêu Doanh thu
+và Lợi nhuận của công ty đều
+vượt so với kế hoạch được giao
+KHÁT VỌNG VƯƠN XA - II. TÌNH HÌNH HOẠT ĐỘNG NĂM 2024
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
 TIÊU CHÍ
-SỐ LƯỢNG 
+SỐ LƯỢNG
 CỔ PHIẾU
-TỶ LỆ SỞ HỮU 
-(%)
-SỐ LƯỢNG 
+TỶ LỆ SỞ HỮU
+SỐ LƯỢNG
 CỔ ĐÔNG
-1
-Tỷ lệ sở hữu 
-Cổ đông lớn 
-1.872.141.477 
-79,97 
-1 
-Cổ đông nhỏ 
-469.730.123 
-20,06 
-59.225 
-2
-Cổ đông tổ chức và cổ đông cá nhân 
- 
- 
- 
-Cổ đông tổ chức 
-1.993.576.274 
-85,13 
-146 
-Cổ đông cá nhân 
-348.295.326 
-14,87 
-59.080 
-3
-Cổ đông trong nước và cổ đông nước ngoài 
- 
- 
-Cổ đông trong nước 
-2.255.615.517 
-96,32 
-58.744 
-Cổ đông nước ngoài 
-86.256.083 
-3,68 
-482 
-4
-Cổ đông nhà nước và cổ đông khác 
- 
- 
-Cổ đông nhà nước 
-1.872.141.477 
-79,94 
-1 
-Cổ đông khác 
-469.730.123 
-20,06 
-59.225 
-5
-Tỷ lệ sở hữu nước ngoài tối đa 
-49 
+Tỷ lệ sở hữu
+Cổ đông lớn
+Cổ đông nhỏ
+Cổ đông tổ chức và cổ đông cá nhân
+Cổ đông tổ chức
+Cổ đông cá nhân
+Cổ đông trong nước và cổ đông nước ngoài
+Cổ đông trong nước
+Cổ đông nước ngoài
+Cổ đông nhà nước và cổ đông khác
+Cổ đông nhà nước
+Cổ đông khác
+Tỷ lệ sở hữu nước ngoài tối đa
 •	 Tổng số cổ phần đang lưu hành: 2.341.871.600 cổ phần
 •	 Mệnh giá: 10.000 đồng/ cổ phần
 •	 Loại cổ phần: cổ phần phổ thông
 •	 Số lượng cổ phần chuyển nhượng tự do: 1.146.699.884 cổ phần
 •	 Số lượng cổ phần bị hạn chế chuyển nhượng: 1.195.171.716 cổ phần
-CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ CỦA 
-CHỦ SỞ HỮU 
-Cổ phần 
+CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ CỦA
+CHỦ SỞ HỮU
+Cổ phần
 Cơ cấu cổ đông (tại ngày 22/04/2024)
-Tình hình thay đổi vốn đầu tư của chủ sở hữu 
-Kể từ khi thành lập, Tổng công ty không thực hiện tăng vốn cổ phần.   
-Giao dịch cổ phiếu quỹ 
-Số lượng cổ phiếu quỹ hiện tại: 0 cổ phiếu. 
-Trong năm 2024, Tổng công ty không thực hiện giao dịch cổ phiếu quỹ.  
-Các chứng khoán khác 
-Trong năm 2024, Tổng công ty không thực hiện phát hành chứng khoán khác. 
-Tổng phát thải khí nhà kính (GHG) trực tiếp từ hoạt động sản xuất điện 
-năng tại 4 nhà máy nhiệt điện của PV Power: 9.538.546 tấn CO2 quy đổi 
-(thực hiện kiểm kê khí thải theo hướng dẫn của Tập đoàn dầu khí Việt 
-Nam ban hành kèm theo Quyết định số 445/QĐ-PVN ngày 25/01/2022 
-của Tổng Giám đốc Tập đoàn Dầu khí Việt Nam). 
-Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính: Theo kế 
-hoạch đã đăng ký với PVN và được ban hành theo kế hoạch chung của 
-PVN tại Quyết định số 2128/QĐ-DKVN ngày 19/04/2024 ​về việc “Ban 
-hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của 
-Tập đoàn Dầu khí, giai đoạn 2018-2030” PV Power có 13 dự án giảm 
-nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo 
-tính toán của PVN sẽ giảm thiểu được 160.884 tấn CO2e trong giai đoạn 
-2018-2025 và 109.420 tấn CO2e trong giai đoạn 2026-2030. Trong đó, 
-trừ giải pháp vận hành Nhà máy Nhiệt điện Nậm Cắt (hiện nay không 
-thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252 
-tấn CO2e trong giai đoạn 2018-2025 và 72.150 tấn CO2e trong giai 
-đoạn 2026-2030.  
-Do đặc điểm nhà máy điện là đơn vị sản xuất năng lượng nên sử dụng 
-lượng nhiên liệu rất lớn và lượng phát thải khí nhà kính cũng rất lớn và 
-khó có giải pháp giảm thiểu hiệu quả. Các nhà máy điện của PV Power 
-đều sử dụng công nghệ tiên tiến của các nước phát triển nên tiềm năng 
-cải tiến công nghệ để giảm thiểu trực tiếp nhiên liệu sử dụng, nâng hiệu 
-suất là rất thấp. Các giải pháp đã đăng ký đa phần thuộc giải pháp tiết 
-kiệm, giảm thiểu năng lượng sử dụng trong sản xuất và sử dụng năng 
-lượng mặt trời.  
-BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG 
-VÀ XÃ HỘI CỦA CÔNG TY 
+Tình hình thay đổi vốn đầu tư của chủ sở hữu
+Kể từ khi thành lập, Tổng công ty không thực hiện tăng vốn cổ phần.
+Giao dịch cổ phiếu quỹ
+Số lượng cổ phiếu quỹ hiện tại: 0 cổ phiếu.
+Trong năm 2024, Tổng công ty không thực hiện giao dịch cổ phiếu quỹ.
+Các chứng khoán khác
+Trong năm 2024, Tổng công ty không thực hiện phát hành chứng khoán khác.
+Tổng phát thải khí nhà kính (GHG) trực tiếp từ hoạt động sản xuất điện
+năng tại 4 nhà máy nhiệt điện của PV Power: 9.538.546 tấn CO2 quy đổi
+(thực hiện kiểm kê khí thải theo hướng dẫn của Tập đoàn dầu khí Việt
+Nam ban hành kèm theo Quyết định số 445/QĐ-PVN ngày 25/01/2022
+của Tổng Giám đốc Tập đoàn Dầu khí Việt Nam).
+Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính: Theo kế
+hoạch đã đăng ký với PVN và được ban hành theo kế hoạch chung của
+PVN tại Quyết định số 2128/QĐ-DKVN ngày 19/04/2024 ​về việc “Ban
+hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của
+Tập đoàn Dầu khí, giai đoạn 2018-2030” PV Power có 13 dự án giảm
+nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo
+tính toán của PVN sẽ giảm thiểu được 160.884 tấn CO2e trong giai đoạn
+trừ giải pháp vận hành Nhà máy Nhiệt điện Nậm Cắt (hiện nay không
+thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252
+tấn CO2e trong giai đoạn 2018-2025 và 72.150 tấn CO2e trong giai
+Do đặc điểm nhà máy điện là đơn vị sản xuất năng lượng nên sử dụng
+lượng nhiên liệu rất lớn và lượng phát thải khí nhà kính cũng rất lớn và
+khó có giải pháp giảm thiểu hiệu quả. Các nhà máy điện của PV Power
+đều sử dụng công nghệ tiên tiến của các nước phát triển nên tiềm năng
+cải tiến công nghệ để giảm thiểu trực tiếp nhiên liệu sử dụng, nâng hiệu
+suất là rất thấp. Các giải pháp đã đăng ký đa phần thuộc giải pháp tiết
+kiệm, giảm thiểu năng lượng sử dụng trong sản xuất và sử dụng năng
+lượng mặt trời.
+BÁO CÁO TÁC ĐỘNG LIÊN QUAN ĐẾN MÔI TRƯỜNG
+VÀ XÃ HỘI CỦA CÔNG TY
 Tác động lên môi trường
 Tổng phát thải khí nhà kính (GHG)
-9.538.546 
 tấn CO2
 13 Dự án
 giảm nhẹ phát thải khí nhà kính
-giai đoạn 2018-2030
-Giai đoạn 2018-2025
-160.884
 tấn CO2e
-Giai đoạn 2026-2030
-109.420
 tấn CO2e
-85
-84
 KHÁT VỌNG VƯƠN XA - II. TÌNH HÌNH HOẠT ĐỘNG NĂM 2024
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+HOẠT ĐỘNG ĐÀO TẠO
+NGƯỜI LAO ĐỘNG
+Năm 2024, Tổng công ty đã triển khai thực hiện
+công tác đào tạo và phát triển nhân lực theo
+kế hoạch được phê duyệt, cụ thể tính đến thời
+điểm 31/12/2024 Công ty mẹ - Tổng công ty đã
+triển khai đào tạo cho 2.013 lượt người tham
+gia các chương trình đào tạo Thạc sĩ, kỹ thuật/
+kỹ thuật chuyên sâu, bồi dưỡng thường xuyên
+chuyên môn nghiệp vụ với tổng kinh phí 8,575
+Một số chương trình đào tạo trọng tâm trong
+năm 2024, cụ thể:
+Về cơ bản các chương trình đào tạo đều nhận được sự phản hồi tích cực từ các học viên tham gia khóa học về nội
+dung chương trình đào tạo thiết thực, giúp cán bộ công nhân viên hiểu biết/nâng cao kỹ năng công tác/trình độ
+chuyên môn phục vụ công việc cán bộ công nhân viên; công tác tổ chức đào tạo, đội ngũ giảng viên/chuyên gia
+chất lượng, có trình độ chuyên môn sâu, giàu kinh nghiệm; đặc biệt là các khóa học chuyên ngành kỹ thuật/kỹ thuật
+chuyên sâu ngoài việc được cập nhật, bổ sung thêm kiến thức mới về lĩnh vực đào tạo các học viên còn được hướng
+dẫn thực hành thực tế trên máy móc, thiết bị mô phỏng tại hiện trường khóa học/nhà máy điện tăng tính ứng dụng
+và hiệu quả đào tạo.
+Các khóa học phát triển năng lực lãnh đạo dành cho đội ngũ cán bộ
+quản lý cấp cao và cán bộ thuộc diện quy hoạch đội ngũ cán bộ quản lý
+cấp cao của Tổng công ty do PVN tổ chức nằm trong chương trình đào
+tạo khung - phát triển cán bộ Quản lý PVN.
+Các chương trình đào tạo nhằm nâng cao năng lực cho đội ngũ cán bộ
+quản lý kỹ thuật tại Cơ quan Tổng công ty, các đơn vị trực thuộc Tổng
+công ty: (i) Kiểm tra vật liệu, phân tích thiết bị hư hỏng thiết bị công
+nghiệp; (ii) Ăn mòn và kiểm soát ăn mòn nhà máy điện; (iii) Thực hành bôi
+trơn máy móc thiết bị; (iv) Nâng cao kiến thức về vận hành hệ thống điều
+khiển - thủy lực trong nhà máy điện; (v) Nâng cao kiến thức về kỹ thuật
+cháy và công nghệ đốt than, dầu trong lò hơi - Nguyên nhân và cách xử
+lý các vấn đề gây ra hư hỏng và ảnh hưởng đến hiệu suất cháy và buồng
+đốt lò hơi nhà máy nhiệt điện tổ máy 600 MW...
+Các khóa học Thạc sĩ Quản trị kinh doanh cao cấp, đào tạo nâng cao kỹ năng
+công tác, phát triển, xây dựng văn hóa doanh nghiệp - truyền thông nội bộ;
+Thị trường bán buôn điện cạnh tranh; chuyển đổi số/ứng dụng công cụ số
+nâng cao hiệu quả công việc và các khóa học cập nhật kiến thức pháp luật
+mới về các lĩnh vực chuyên môn (Pháp luật về tiền lương, chế độ chính sách,
+tuyển dụng và sử dụng lao động, quản lý dự án đầu tư...) để cán bộ công
+nhân viên cập nhật kịp thời các quy định mới, vận dụng có hiệu quả vào công
+việc thực tế tại Tổng công ty.
+Báo cáo liên quan đến trách nhiệm đối với cộng đồng địa phương
+PV Power đang làm việc với các đối tác để hợp tác đầu tư trong lĩnh vực năng lượng tái tạo, tìm kiếm nguồn tài trợ từ
+các tổ chức tín dụng cho vay để thực hiện các dự án năng lượng tái tạo như điện mặt trời, điện gió, thủy điện... nhằm
+khai thác tiềm năng thị trường vốn xanh.
+Báo cáo liên quan đến hoạt động thị trường vốn xanh theo hướng dẫn
+của Uỷ ban Chứng khoán Nhà nước
+Kết quả thực hiện hỗ trợ xây
+dựng Nhà đại đoàn kết cho
+các địa phương: Năm 2024,
+PV Power thực hiện xây dựng
+45 căn Nhà đại đoàn kết thông
+qua Hội người cao tuổi Việt
+Nam với kinh phí 3,225 tỷ đồng
+(Tổng thực hiện 119 căn nhà đại
+đoàn kết với kinh phí thực hiện
+Tổng kinh phí ASXH
+PV Power tự thực
+hiện đã giải ngân là:
+Tổng kinh phí an sinh xã hội
+(ASXH) PV Power giải ngân
+theo tiến độ năm 2024/
+tổng kinh phí PVN giao
+15,625 tỷ đồng/40 tỷ đồng
+Tổng số chương trình đang triển
+khai/tổng số được giao: 10/10.
+KHÁT VỌNG VƯƠN XA - II. TÌNH HÌNH HOẠT ĐỘNG NĂM 2024
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP
+
+GIẢI TRÌNH CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI Ý KIẾN
+CỦA KIỂM TOÁN:
+BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM
+VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA TỔNG CÔNG TY
+Bảng thông số các chỉ tiêu môi trường toàn Tổng công ty năm 2024:
+(1) trong đó 1.173.417.108 m3 nước biển sử dụng tại Nhà máy Nhiệt điện
+Vũng Áng 1;
+(2) trong đó 282.591.200 m3 nước biển dùng cho hệ thống FGD do Nhà
+máy điện Vũng Áng 1 sử dụng nước biển để khử lưu huỳnh thay cho hệ
+thống dùng đá vôi truyền thống.
+CHỈ TIÊU
+Nước sạch tiêu thụ
+Nước mặt làm mát(1)
+Tiêu thụ năng lượng (tỉ lệ điện tự dùng)
+Tổng lượng khí thải
+triệu m
+Tổng lượng nước thải(2)
+Chất thải rắn thông thường
+Tro xỉ nhiệt điện than
+Chất thải nguy hại
+Đánh giá liên quan đến vấn đề người lao động
+không có.
+Đánh giá liên quan đến các chỉ tiêu môi trường (tiêu thụ nước, năng
+lượng, phát thải...)
+Tất cả khối lượng chất thải rắn thông
+thường và nguy hại phát sinh đều
+được các nhà máy thuê đơn vị đủ
+năng lực xử lý, nước thải trước khi xả
+vào môi trường đều được xử lý đảm
+bảo tiêu chuẩn.
+Năm 2024, PV Power và PV Power
+Hà Tĩnh đã nỗ lực thúc đẩy xử lý,
+tiêu thụ tro xỉ, kết quả tiêu thụ được
+tro bay trực tiếp tại silo và 307.047
+tấn hỗn hợp tro xỉ từ bãi thải xỉ.
+•	 Người lao động được hưởng đầy đủ các chế độ, chính
+sách theo quy định của Nhà nước (về thời giờ làm
+việc/nghỉ ngơi, đóng bảo hiểm xã hội, bảo hiểm y tế,
+bảo hiểm thất nghiệp, thanh toán đầy đủ các chế độ
+trợ cấp BHXH&BHYT cho cán bộ nhân viên như ốm
+đau, thai sản…), theo Quy chế khen thưởng, phúc lợi
+và Thỏa ước lao động tập thể của Tổng công ty…
+•	 Tiếp tục duy trì chế độ bảo hiểm chăm sóc sức khỏe
+chất lượng cao PVI Care, chương trình bảo hiểm Hưu
+trí tự nguyện cho cán bộ công nhân viên...
+•	 Nâng cao đời sống vật chất, tinh thần cho người lao
+động, tạo môi trường và điều kiện lao động thân
+thiện, hợp vệ sinh; tổ chức tham quan nghỉ mát cho
+cán bộ công nhân viên; tổ chức các phong trào văn
+hóa, văn nghệ, thể thao,... tạo không khí vui tươi
+phấn khởi. Thực hiện khám sức khỏe định kỳ; trang bị
+đầy đủ công cụ, dụng cụ, phương tiện an toàn – bảo
+hiểm lao động cho Người lao động.
+•	 Năm 2024, Tổng công ty đã phê duyệt chương trình
+và khái toán mua Bảo hiểm nhân thọ trả sau cho cán
+bộ công nhân viên Công ty mẹ - PV Power và hiện tại
+đang thực hiện các bước tổ chức lựa chọn nhà thầu
+rộng rãi công khai theo Quy định của pháp luật, của
+Tổng công ty.
+Đánh giá liên quan
+đến trách nhiệm
+của doanh nghiệp
+đối với cộng đồng
+địa phương
+PV Power luôn nhận thức một cách cụ thể, rõ ràng về trách nhiệm của
+PV Power đối với cộng đồng đặc biệt trong môi trường cạnh tranh, xã hội
+ngày càng có cái nhìn khắt khe hơn đối với doanh nghiệp về bổn phận, trách
+nhiệm trước cộng đồng, xã hội. Hiện nay, trách nhiệm của các doanh nghiệp
+đối với xã hội ngày càng trở nên quan trọng hơn; Doanh nghiệp muốn phát
+triển bền vững không chỉ bảo đảm sản xuất kinh doanh phải có lợi nhuận,
+mà còn cả những chuẩn mực về bảo vệ môi trường thiên nhiên, môi trường
+lao động, về thực hiện bình đẳng giới, an toàn lao động, quyền lợi lao động...
+Các hoạt động thể hiện trách nhiệm xã hội của Tổng công ty được thống
+nhất triển khai tới toàn bộ các đơn vị thành viên/trực thuộc thông qua việc
+triển khai các chương trình công tác gắn liền với hoạt động sản xuất kinh
+doanh, tạo nên ảnh hưởng tốt cho xã hội ở từng địa phương như:
+PV Power luôn tích cực tham gia các hoạt động an sinh xã hội hướng tới cộng đồng: Hoạt động hỗ trợ
+khắc phục thiên tai, hỗ trợ người nghèo, người có hoàn cảnh đặc biệt khó khăn và các hoạt động hỗ trợ
+về giáo dục, tích cực tham gia các chương trình hiến máu nhân đạo …
+Các đơn vị sản xuất của PV Power có khai thác sử dụng nguồn nước đều đã ký hợp đồng với Quỹ
+môi trường rừng của địa phương để đóng phí dịch vụ môi trường rừng tương ứng với phần nước
+khai thác.
+Các đơn vị vận hành nhà máy thủy điện luôn tuân thủ quy định vận hành liên hồ, thường xuyên phối
+hợp với địa phương để điều tiết thủy lợi trên lưu vực sông phù hợp với kế hoạch phòng chống thiên tai
+và tìm kiếm cứu nạn; đã phối hợp với địa phương trồng rừng, tái định cư các hộ dân tại khu vực lòng hồ
+đúng quy định.
+Đối với đơn vị vận hành nhà máy nhiệt điện đều kiểm soát liên tục nguồn nước thải, khí thải đảm bảo
+tuân thủ quy chuẩn về môi trường; số liệu được hiển thị trên bảng thông tin công khai tại từng nhà máy.
+Trong các hoạt động sản xuất, kinh doanh PV Power luôn xem xét phương án hạn chế thấp nhất những
+tác động bất lợi đến lợi ích của cộng đồng (các nhà máy điện của PV Power đều nằm trong khu công
+nghiệp, xa khu dân cư, hạn chế thấp nhất nguy cơ ảnh hưởng đến an toàn giao thông, nguy cơ thiệt hại
+đến người dân khi xảy ra sự cố cháy nổ...).
+Nâng cao chất lượng nguồn nhân lực qua hoạt động đào tạo, tăng cường ứng dụng công nghệ mới
+nhằm tăng năng suất lao động, giảm hao phí xã hội, nâng cao lợi nhuận doanh nghiệp qua sử dụng
+vốn đầu tư hiệu quả, chi phí thấp. Phối hợp với các tổ chức công đoàn thực thi đầy đủ hoặc cao hơn
+luật định trách nhiệm về vật chất, tinh thần đối với người lao động của đơn vị.
+PV Power và các đơn vị thành viên thường xuyên có các hoạt động tại các địa phương nhằm hỗ trợ
+cộng đồng cũng như thể hiện trách nhiệm của doanh nghiệp như thực hiện tốt việc quản lý/xử lý tốt
+chất thải/chất thải độc hại, hưởng ứng các hoạt động thường niên về công tác bảo vệ môi trường, làm
+sạch bãi biển, trồng cây xanh, khơi thông cống rãnh vào các ngày Môi trường thế giới, ngày Nước thế
+giới, chiến dịch giờ trái đất …
+KHÁT VỌNG VƯƠN XA - III. BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN TỔNG GIÁM ĐỐC
 TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP

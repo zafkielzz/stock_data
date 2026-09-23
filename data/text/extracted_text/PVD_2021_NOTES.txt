@@ -1,3384 +1,488 @@
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-226
-227
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-Báo cáo của Tổng giám đốc
-Báo cáo kiểm toán độc lập
-Bảng cân đối kế toán hợp nhất
-Báo cáo kết quả hoạt động
-sản xuất kinh doanh hợp nhất
-Báo cáo lưu chuyển tiền tệ hợp nhất
-Thuyết minh báo cáo tài chính hợp nhất
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-228
-229
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
-Ban Tổng Giám đốc Tổng công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí (gọi tắt là “Công ty mẹ”) đệ trình báo cáo này 
-cùng với báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam của Công ty mẹ và các công ty con (gọi chung là 
-“Tổng công ty”) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
-HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
-Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc Tổng công ty đã điều hành Tổng công ty trong năm và đến 
-ngày lập báo cáo này gồm:
-Hội đồng Quản trị 
-Ông Mai Thế Toàn	
-	
-Chủ tịch (bổ nhiệm ngày 04 tháng 8 năm 2021) 
-Ông Phạm Tiến Dũng	
-	
-Chủ tịch (miễn nhiệm ngày 04 tháng 8 năm 2021) 
-Ông Đỗ Đức Chiến	
-	
-Phó chủ tịch 
-Ông Nguyễn Xuân Cường	 	
-Thành viên 
-Ông Nguyễn Văn Toàn	
-	
-Thành viên 
-Ông Văn Đức Tờng	
-	
-Thành viên 
-Ông Hoàng Xuân Quốc	
-	
-Thành viên 
-Ông Vũ Thuỵ Tường	
-	
-Thành viên (bổ nhiệm ngày 04 tháng 8 năm 2021)
-Bà Nguyễn Thị Thủy	
-	
-Thành viên (miễn nhiệm ngày 04 tháng 8 năm 2021)
-	
-Ban Tổng Giám đốc	
-Ông Nguyễn Xuân Cường	 	
-Tổng Giám đốc
-Ông Đào Ngọc Anh	
-	
-Phó Tổng Giám đốc
-Ông Trịnh Văn Vinh	
-	
-Phó Tổng Giám đốc
-Ông Vũ Văn Minh		
-	
-Phó Tổng Giám đốc (miễn nhiệm ngày 22 tháng 12 năm 2021)
-Ông Hồ Vũ Hải	
-	
-	
-Phó Tổng Giám đốc 
-Ông Đỗ Danh Rạng	
-	
-Phó Tổng Giám đốc 
-Ông Nguyễn Công Đoàn 	 	
-Phó Tổng Giám đốc 
-Ông Nguyễn Thế Sơn	
-	
-Phó Tổng Giám đốc (bổ nhiệm ngày 16 tháng 2 năm 2022)
-TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC
-Ban Tổng Giám đốc Tổng công ty có trách nhiệm lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam phản 
-ánh một cách trung thực và hợp lý tình hình tài chính của Tổng công ty tại ngày 31 tháng 12 năm 2021, cũng như kết 
-quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù 
-hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập 
-và trình bày báo cáo tài chính hợp nhất. Trong việc lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam này, 
-Ban Tổng Giám đốc được yêu cầu phải:
-»	 Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
-»	 Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
-»	 Nêu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần 
-được công bố và giải thích trong báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam hay không;
-»	 Lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam trên cơ sở hoạt động liên tục trừ trường hợp 
-không thể cho rằng Tổng công ty sẽ tiếp tục hoạt động kinh doanh; và
-»	 Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài 
-chính hợp nhất chuyển đổi sang Đồng Việt Nam hợp lý nhằm hạn chế rủi ro và gian lận.
-Ban Tổng Giám đốc chịu trách nhiệm đảm bảo rằng sổ kế toán được ghi chép một cách phù hợp để phản ánh một cách 
-hợp lý tình hình tài chính hợp nhất của Tổng công ty ở bất kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất 
-chuyển đổi sang Đồng Việt Nam tuân thủ chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định 
-pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Ban Tổng Giám đốc cũng chịu trách nhiệm 
-đảm bảo an toàn cho tài sản của Tổng công ty và thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các 
-hành vi gian lận và sai phạm khác.
-Ban Tổng Giám đốc xác nhận rằng Tổng công ty đã tuân thủ các yêu cầu nêu trên trong việc lập báo cáo tài chính hợp 
-nhất chuyển đổi sang Đồng Việt Nam.
-Thay mặt và đại diện cho Ban Tổng Giám đốc,
-Nguyễn Xuân Cường
-Tổng Giám đốc
-Ngày 29 tháng 3 năm 2022
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-230
-231
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-Phó Tổng Giám đốc  
-Giấy chứng nhận đăng ký hành nghề
-kiểm toán số 1808-2018-001-1
-CHI NHÁNH CÔNG TY TNHH DELOITTE VIỆT NAM
-Ngày 29 tháng 3 năm 2022
-Thành phố Hồ Chí Minh, CHXHCN Việt Nam
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP
-Kính gửi:	
-Các Cổ đông, Hội đồng Quản trị và Ban Tổng Giám đốc
-	
-	
-Tổng công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí
-Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo của Tổng công ty Cổ 
-phần Khoan và Dịch vụ Khoan Dầu khí (gọi tắt là “Công ty mẹ”) và các công ty con (gọi chung là “Tổng công ty”), được lập 
-ngày 29 tháng 3 năm 2022, từ trang 5 đến trang 50, bao gồm Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 
-2021, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc 
-cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam.
-Trách nhiệm của Ban Tổng Giám đốc 
-Ban Tổng Giám đốc Tổng công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp 
-nhất chuyển đổi sang Đồng Việt Nam của Tổng công ty theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt 
-Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và chịu trách nhiệm về kiểm soát 
-nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất 
-chuyển đổi sang Đồng Việt Nam không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
-Trách nhiệm của Kiểm toán viên 
-Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam dựa trên kết 
-quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các chuẩn mực kiểm toán Việt Nam. Các chuẩn mực 
-này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc 
-kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam của 
-Tổng công ty có còn sai sót trọng yếu hay không.
-Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết 
-minh trên báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam. Các thủ tục kiểm toán được lựa chọn dựa trên 
-xét đoán của Kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất chuyển đổi 
-sang Đồng Việt Nam do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, Kiểm toán viên đã xem xét kiểm 
-soát nội bộ của Tổng công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt 
-Nam trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục 
-đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng công ty. Công việc kiểm toán cũng bao gồm đánh giá tính 
-thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc 
-cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam.
-Số: 0553/VN1A-HC-BC
-Tôn Thất Tiến
-Kiểm toán viên
-Giấy chứng nhận đăng ký hành nghề
-kiểm toán số 4326-2018-001-1
-Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho 
-ý kiến kiểm toán của chúng tôi.
-Ý kiến của kiểm toán viên 
-Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam của Tổng công ty cho năm tài 
-chính kết thúc ngày 31 tháng 12 năm 2021 đã được lập, trên các khía cạnh trọng yếu, phù hợp với chuẩn mực kế toán, 
-chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính 
-hợp nhất.
-Vấn đề khác
-Tổng công ty đã lập một bộ báo cáo tài chính hợp nhất bằng đồng tiền kế toán là Đô la Mỹ cho năm tài chính kết thúc 
-ngày 31 tháng 12 năm 2021 phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định 
-pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và chúng tôi đã phát hành báo cáo kiểm toán độc lập đề 
-ngày 29 tháng 3 năm 2022 về báo cáo tài chính hợp nhất đó với ý kiến chấp nhận toàn phần.
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-232
-233
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT 
-Tại ngày 31 tháng 12 năm 2021
-MẪU SỐ B 01-DN/HN
-Đơn vị tính: VND
-TÀI SẢN
-Mã số
-Thuyết 
-minh
-Số cuối năm
-Số đầu năm
-A.
-TÀI SẢN NGẮN HẠN 
-100
-5.428.797.240.960
-5.107.391.677.605
-I.
-Tiền và các khoản tương đương tiền
-110
-4
-1.130.703.090.240
-925.196.651.735
-1.
-Tiền
-111
-768.120.048.960
-885.136.644.480
-2.
-Các khoản tương đương tiền
-112
-362.583.041.280
-40.060.007.255
-II.
-Đầu tư tài chính ngắn hạn
-120
-1.544.250.741.200
-1.195.960.822.115
-1.
-Đầu tư nắm giữ đến ngày đáo hạn
-123
-5
-1.544.250.741.200
-1.195.960.822.115
-III.
-Các khoản phải thu ngắn hạn
-130
-1.935.799.443.760
-1.949.493.904.595
-1.
-Phải thu ngắn hạn của khách hàng
-131
-6
-1.311.560.013.440
-861.176.144.250
-2.
-Trả trước cho người bán ngắn hạn
-132
-67.452.597.200
-414.092.823.800
-3.
-Phải thu ngắn hạn khác
-136
-7
-644.155.136.480
-768.235.447.650
-4.
-Dự phòng phải thu ngắn hạn khó đòi
-137
-6
-(87.368.303.360)
-(94.010.511.105)
-IV.
+Mặc dù doanh thu và lợi nhuận năm 2021 sụt giảm khiến cho tỷ suất lợi nhuận trên vốn chủ sở hữu và tỷ suất lợi nhuận
+trên tổng tài sản ở mức thấp nhưng các chỉ tiêu về thanh khoản, cơ cấu nợ/vốn an toàn cũng như chỉ tiêu bảo toàn vốn
+vẫn đảm bảo, minh chứng sức khỏe tài chính PV Drilling rất lành mạnh. Điều này thể hiện công tác quản lý tài chính của
+PV Drilling trong nhiều năm qua, đặc biệt trong bối cảnh suy giảm của ngành rất được chú trọng.
+• Cơ cấu Tổng tài sản: Tổng tài sản tại 31/12/2021 của PV Drilling đạt 20.761 tỷ đồng, giảm nhẹ 0,5% so năm 2020.
+Trong năm 2021, đã có sự chuyển dịch trong cơ cấu tổng tài sản của PV Drilling. Nguồn lực tài chính đã được tập trung
+cho công tác tái khởi động giàn khoan PV DRILLING V (TAD) để thực hiện hợp đồng khoan với BSP tại Brunei. Giá trị
+thuần của khoản mục tài sản cố định tiếp tục giảm qua các năm do PV Drilling chỉ tập trung đầu tư các dự án thật sự
+cần thiết cho hoạt động sản xuất kinh doanh, bên cạnh giá trị khấu hao tài sản tăng hằng năm.
+• Cơ cấu nợ phải trả: Tổng dư nợ phải trả cuối năm 2021 của PV Drilling gần 6.930 tỷ đồng, tăng 1,7% so với năm 2020.
+Mức tăng chủ yếu đến từ khoản vay đầu tư cụm thiết bị DES của PV Drilling trong năm 2021. Tuy nhiên, biến động tăng
+tổng nợ trong năm không làm ảnh hưởng nhiều đến cơ cấu nợ trên tổng tài sản cũng như các chỉ số liên quan đến khả
+năng thanh toán của PV Drilling. Tỷ số tổng nợ phải trả trên tổng tài sản dao động quanh mức 33% trong năm 2021, chỉ
+số thanh toán ngắn hạn và thanh toán nhanh của PV Drilling năm 2021 luôn vượt ngưỡng 1, lần lượt đạt 1,79 lần và 1,54 lần,
+vượt xa mức an toàn quy định trong Quy chế tài chính của Tổng công ty cũng như các quy chuẩn chung trong công tác
+kiểm soát tài chính.
+Tổng số dư nợ vay cuối năm 2021 là 3.954 tỷ đồng, chiếm tỷ trọng 57% trong tổng nợ phải trả. Khoản nợ vay trên báo
+cáo tài chính hợp nhất chủ yếu từ các khoản đầu từ giàn khoan PV DRILLING  V, PV DRILLING VI và đóng mới cụm thiết
+bị khoan DES phục vụ cho chiến dịch khoan ở Brunei. Tổng lãi vay phát sinh trong năm 2021 là 109 tỷ đồng, giảm nhẹ so
+với năm 2020 chủ yếu do giảm gốc vay đầu tư giàn khoan PV DRILLING VI. Khả năng thanh toán lãi vay của PV Drilling
+là 1,57 lần, là một ngưỡng an toàn cao.
+Khoản vay vốn đầu tư giàn PV DRILLING V của PVD Deepwater: dư nợ vay tại 31/12/2021 là 382 tỷ đồng – tương
+đương 16,87 triệu USD. Tháng 01/2022, giàn khoan PV DRILLING V đã bắt đầu thực hiện khoan cho khách hàng
+BSP tại Brunei, tạo dòng tiền cho PVD Deepwater tiếp tục trả khoản nợ vay này.
+Khoản vay vốn đầu tư giàn PV DRILLING VI của PVD Overseas: dư nợ vay tại 31/12/2021 là 3.026 tỷ đồng – tương
+đương 133,66 triệu USD. Khoản vay này đã được các ngân hàng tái cơ cấu vào năm 2018 với việc gia hạn thời
+gian trả gốc thêm 7 năm, kéo dài từ năm 2023 - 2030. PVD Overseas tiếp tục theo dõi dòng tiền của đơn vị để
+chủ động đề xuất với ngân hàng điều chỉnh lịch trả nợ phù hợp với kế hoạch dòng tiền và xin giảm lãi suất hỗ
+trợ đơn vị trong giai đoạn khó khăn.
+Khoản vay vốn đóng mới DES của PVD Tech: dư nợ vay tại 31/12/2021 là gần 546 tỷ đồng – tương đương 24,11
+triệu USD, trong đó PVD Tech đã giải ngân thêm 14,35 triệu USD trong năm 2021.
+BÁO CÁO CỦA
+BAN TỔNG GIÁM ĐỐC (tiếp theo)
+Chi tiết
+Ghi chú cho năm 2021
+Tỷ trọng
+Tỷ trọng
+Tổng giá trị
+tài sản
+Cơ cấu tài sản ngắn hạn và dài hạn năm 2021 vẫn ổn định so với các năm
+trước, trong đó: tài sản ngắn hạn và dài hạn lần lượt chiếm 26% và 74%
+trên tổng tài sản. Trong năm, tổng tài sản của PV Drilling có những thay
+đổi như sau:
+“Tiền và các
+khoản tiền tương
+đương tiền
+(bao gồm các
+khoản đầu tư
+nắm giữ đến
+ngày đáo hạn)”
+Khoản mục tiền và tương đương tiền giảm. Năm 2021, PV Drilling tập trung
+nguồn lực tài chính cho công tác tái khởi động giàn khoan PV DRILLING V
+(TAD) để chuẩn bị sẵn sàng cho dự án cung cấp giàn tại Brunei.
+Các khoản
+phải thu
+Doanh thu quý 4/2021 tăng mạnh so với quý 4/2020 (Q4/2021: 3,16 giàn so
+với Q4/2020: 2,84 giàn), do đó, các khoản phải thu khách hàng vào cuối
+năm 2021 tăng so với cuối năm 2020.
 Hàng tồn kho
-140
-8
-757.836.145.920
-958.938.457.945
-1.
-Hàng tồn kho
-141
-883.229.212.240
-1.095.186.221.470
-2.
-Dự phòng giảm giá hàng tồn kho
-149
-(125.393.066.320)
-(136.247.763.525)
-V.
-Tài sản ngắn hạn khác
-150
-60.207.819.840
-77.801.841.215
-1.
-Chi phí trả trước ngắn hạn 
-151
-50.138.589.280
-7.040.739.890
-2.
-Thuế giá trị gia tăng được khấu trừ
-152
-8.440.825.920
-67.201.779.195
-3.
-Thuế và các khoản khác phải thu
-Nhà nước
-153
-16
-1.628.404.640
-3.559.322.130
-B.
-TÀI SẢN DÀI HẠN
-200
-15.332.405.243.200
-15.748.798.528.055
-I.
-Các khoản phải thu dài hạn
-210
-50.362.046.080
-14.494.405.190
-1.
-Phải thu dài hạn khác
-216
-50.362.046.080
-14.494.405.190
-II.
+"Hàng tồn kho giảm mạnh vào cuối kỳ do biến động tạm thời số dư tồn kho
+hàng hóa cuối năm 2020 của mảng dịch vụ thương mại.
+Hơn 84% giá trị hàng tồn kho của PV Drilling là vật tư phục vụ cho hoạt động
+giàn khoan. Chỉ số vòng quay hàng tồn kho của PV Drilling đạt mức bình quân
+gần 5 lần/năm và không biến động nhiều so với các năm trước."
 Tài sản cố định
-220
-12.961.890.042.800
-13.496.287.352.850
-1.
-Tài sản cố định hữu hình
-221
-9
-12.784.902.046.560
-13.321.630.546.590
- - Nguyên giá
-222
-23.187.118.919.200
-23.360.545.984.345
- - Giá trị hao mòn lũy kế
-223
-(10.402.216.872.640)
-(10.038.915.437.755)
-2.
-Tài sản cố định vô hình 
-227
-10
-176.987.996.240
-174.656.806.260
- - Nguyên giá
-228
-311.128.502.000
-298.541.501.005
- - Giá trị hao mòn lũy kế
-229
-(134.140.505.760)
-(123.884.694.745)
-III.
-Tài sản dở dang dài hạn
-240
-920.902.330.720
-216.844.602.535
-1.
-Chi phí xây dựng cơ bản dở dang
-242
-11
-920.902.330.720
-216.844.602.535
-IV.
-Đầu tư tài chính dài hạn 
-250
-601.847.655.280
-1.788.950.711.940
-1.
-Đầu tư vào công ty liên doanh
-252
-12
-601.847.655.280
-698.717.775.625
-2.
-Đầu tư nắm giữ đến ngày đáo hạn
-255
-5
--
-1.090.232.936.315
-V.
-Tài sản dài hạn khác
-260
-797.403.168.320
-232.221.455.540
-1.
-Chi phí trả trước dài hạn
-261
-13
-633.264.730.480
-84.137.525.825
-2.
-Tài sản thuế thu nhập hoãn lại
-262
-14
-164.138.437.840
-148.083.929.715
-TỔNG CỘNG TÀI SẢN (270=100+200)
-270
-20.761.202.484.160
-20.856.190.205.660
-NGUỒN VỐN
-Mã số
-Thuyết 
-minh
-Số cuối năm
-Số đầu năm
-C.
-NỢ PHẢI TRẢ
-300
-6.929.622.017.040
-6.814.172.858.945
-I.
-Nợ ngắn hạn
-310
-3.030.445.254.960
-2.798.539.771.775
-1.
-Phải trả người bán ngắn hạn
-311
-15
-779.809.714.880
-696.166.257.780
-2.
-Người mua trả tiền trước ngắn hạn
-312
-15.608.219.760
-22.505.678.735
-3.
-Thuế và các khoản phải nộp Nhà nước
-313
-16
-88.263.285.200
-48.300.732.435
-4.
-Phải trả người lao động
-314
-130.127.928.000
-127.581.466.720
-5.
-Chi phí phải trả ngắn hạn
-315
-17
-497.363.489.280
-283.662.572.560
-6.
-Phải trả ngắn hạn khác
-319
-18
-369.553.580.320
-333.345.957.835
-7.
-Vay ngắn hạn 
-320
-19
-748.408.238.640
-634.897.534.430
-8.
-Dự phòng phải trả ngắn hạn
-321
-20
-297.839.455.920
-529.125.029.835
-9.
-Quỹ khen thưởng, phúc lợi
-322
-103.471.342.960
-122.954.541.445
-II.
-Nợ dài hạn
-330
-3.899.176.762.080
-4.015.633.087.170
-1.
-Phải trả dài hạn khác
-337
-25
-474.294.076.400
-476.436.936.125
-2.
-Vay dài hạn
-338
-21
-3.205.703.464.640
-3.230.533.923.335
-3.
-Dự phòng phải trả dài hạn
-342
-22
-127.557.472.960
-154.424.129.185
-4.
-Quỹ phát triển khoa học và công nghệ
-343
-23
-91.621.748.080
-154.238.098.525
-D.
-VỐN CHỦ SỞ HỮU
-400
-13.831.580.467.120
-14.042.017.346.715
-I.
-Vốn chủ sở hữu
-410
-24
-13.831.580.467.120
-14.042.017.346.715
-1.
-Vốn góp của chủ sở hữu
-411
-4.215.457.890.000
-4.215.457.890.000
-- Cổ phiếu phổ thông có quyền biểu quyết
-411a
-4.215.457.890.000
-4.215.457.890.000
-2.
-Thặng dư vốn cổ phần 
-412
-2.434.086.374.663
-2.434.086.374.663
-3.
-Cổ phiếu quỹ
-415
-(20.948.559.850)
-(20.948.559.850)
-4.
-Chênh lệch tỷ giá hối đoái
-417
-1.450.764.484.622
-1.638.002.496.237
-5.
-Quỹ đầu tư phát triển
-418
-3.589.768.966.060
-3.589.677.032.350
-6.
-Lợi nhuận sau thuế chưa phân phối
-421
-1.922.901.754.595
-1.937.943.722.530
-- Lợi nhuận sau thuế chưa phân phối lũy kế 
-đến cuối năm trước
-421a
-1.937.943.722.530
-1.837.222.903.339
-- Lợi nhuận sau thuế chưa phân phối
-năm nay
-421b
-(15.041.967.935)
-100.720.819.191
-7.
-Lợi ích cổ đông không kiểm soát
-429
-25
-239.549.557.030
-247.798.390.785
-TỔNG CỘNG NGUỒN VỐN 
-(440=300+400)
-440
-20.761.202.484.160
-20.856.190.205.660
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
-Tại ngày 31 tháng 12 năm 2021
-MẪU SỐ B 01-DN/HN
-Đơn vị tính: VND
-Nguyễn Xuân Cường
-Tổng Giám đốc
-Ngày 29 tháng 3 năm 2022
-Nguyễn Ngọc Trường
-Kế toán trưởng
-Trần Kim Hoàng
-Người lập biểu
+& tài sản
+dở dang
+"Trong năm 2021, công tác đóng mới thiết bị DES phục vụ cho dự án cung
+cấp giàn khoan TAD tại Brunei của PVD Tech dần được hoàn thiện với tổng
+giá trị dở dang gần 816 tỷ đồng.
+Bên cạnh đó, PV Drilling đã giảm thiểu đầu tư trong năm, tối ưu hóa nguồn lực
+sẵn có. Theo đó, với giá trị khấu hao tăng chủ yếu do tăng số giàn hoạt động,
+giá trị thuần của Tài sản cố định cuối năm 2021 giảm sụt so với năm 2020."
+Đầu tư
+liên doanh
+Năm 2021, lợi nhuận từ hoạt động đầu tư Liên doanh giảm so với năm
+2020 do tác động của dịch bệnh và thị trường. Tổng giá trị vốn góp của
+PV Drilling vào các Công ty Liên doanh (giá gốc) hơn 489 tỷ đồng, khoảng
+104 tỷ đồng vào tổng lợi nhuận của PV Drilling trong năm 2021 - đạt tỷ suất
+sinh lời trên vốn góp hơn 21%.
+Khác
+Tổng giá trị của công tác tái khởi động và chuẩn bị giàn khoan
+PV DRILLING V nhằm phục vụ chiến dịch khoan của BSP tính đến thời
+điểm cuối năm là hơn 577 tỷ đồng.
+Vay vốn đầu tư DES
+Vay vốn đầu tư
+Giàn PV Drilling V
+Vay vốn đầu tư
+Giàn PV Drilling VI
+Tổng vốn vay
+Lãi vay
+EBIT
+Vay vốn đầu tư DES
+Vay vốn đầu tư Giàn PV Drilling V
+Vay vốn đầu tư Giàn PV Drilling VI
+Tổng vốn vay
+Lãi vay
+EBIT
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-234
-235
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 03-DN/HN
 Đơn vị tính: VND
-Nguyễn Xuân Cường
-Tổng Giám đốc
-Ngày 29 tháng 3 năm 2022
-Nguyễn Ngọc Trường
-Kế toán trưởng
-Trần Kim Hoàng
-Người lập biểu
-CHỈ TIÊU
-Mã số
-Thuyết 
-minh
-Năm nay
-Năm trước
-1.
-Doanh thu bán hàng và cung cấp dịch vụ
-01
-3.995.471.964.670
-5.228.638.834.323
-2.
-Doanh thu thuần về bán hàng và 
-cung cấp dịch vụ (10=01)
-10
-28
-3.995.471.964.670
-5.228.638.834.323
-3.
-Giá vốn hàng bán và dịch vụ cung cấp
-11
-29
-3.624.231.518.305
-4.899.843.841.029
-4.
-Lợi nhuận gộp về bán hàng và 
-cung cấp dịch vụ (20=10-11)
-20
-371.240.446.365
-328.794.993.294
-5.
-Doanh thu hoạt động tài chính 
-21
-31
-163.817.011.240
-157.249.532.793
-6.
-Chi phí tài chính
-22
-32
-170.854.507.055
-201.037.635.156
-- Trong đó: Chi phí lãi vay
-23
-109.283.560.320
-118.896.544.398
-7.
-Phần lãi trong công ty liên doanh
-24
-12
-103.585.930.965
-216.407.722.962
-8.
-Chi phí bán hàng
-25
-12.925.934.430
-16.370.720.328
-9.
-Chi phí quản lý doanh nghiệp
-26
-33
-385.609.141.765
-311.282.604.552
-10.
-Lợi nhuận thuần từ hoạt động kinh
-doanh (30=20+(21-22)+24-(25+26))
-30
-69.253.805.320
-173.761.289.013
-11.
-Thu nhập khác
-31
-34
-51.561.635.515
-79.717.991.343
-12.
-Chi phí khác
-32
-35
-58.316.160.010
-49.836.555.774
-13.
-(Lỗ)/lợi nhuận khác (40=31-32)
-40
-(6.754.524.495)
-29.881.435.569
-14.
-Tổng lợi nhuận kế toán trước thuế (50=30+40)
-50
-62.499.280.825
-203.642.724.582
-15.
-Chi phí thuế thu nhập doanh nghiệp hiện hành
-51
-36
-43.888.070.775
-43.080.862.464
-16.
-Thu nhập thuế thu nhập doanh nghiệp hoãn lại
-52
-14
-(18.158.757.360)
-(23.262.286.857)
-17.
-Lợi nhuận sau thuế thu nhập 
-doanh nghiệp (60=50-51-52)
-60
-36.769.967.410
-183.824.148.975
-Phân bổ cho:
-- Cổ đông của Công ty mẹ
-61
-19.553.861.685
-186.494.200.107
-- Lợi ích của cổ đông không kiểm soát và các bên 
-trong hợp đồng hợp tác kinh doanh
-62
-25
-17.216.105.725
-(2.670.051.132)
-18.
-(Lỗ)/Lãi cơ bản trên cổ phiếu
-70
-37
-(36)
-282
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-MẪU SỐ B 03-DN/HN
-Đơn vị tính: VND
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT 
- Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-CHỈ TIÊU
-Mã số
-Năm nay
-Năm trước
-I.
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
-1.
-Lợi nhuận trước thuế
-01
- 62.499.280.825 
-203.642.724.582
-2.
-Điều chỉnh cho các khoản:
-Khấu hao tài sản cố định 
-02
- 534.408.144.380 
- 488.324.043.000 
-Các khoản dự phòng
-03
- 16.008.294.070 
- 46.517.903.590 
-Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền 
-tệ có gốc ngoại tệ
-04
- (28.488.169.610)
- (9.141.612.219)
-Lãi từ hoạt động đầu tư
-05
- (226.232.807.305)
- (325.276.157.049)
-Chi phí lãi vay
-06
- 109.283.560.320 
- 118.896.544.398 
-Các khoản điều chỉnh khác
-07
- (45.806.629.114)
- (13.378.742.209)
-3.
-Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động
-08
-421.671.673.566
-509.584.704.093
-Thay đổi các khoản phải thu
-09
- (289.168.031.115)
- 399.946.952.580 
-Thay đổi hàng tồn kho
-10
- 194.840.802.085 
- (147.449.482.983)
-Thay đổi các khoản phải trả
-11
- 271.446.221.480 
- (371.937.923.589)
-Thay đổi chi phí trả trước
-12
- (796.489.572.515)
- (41.850.803.532)
-Tiền lãi vay đã trả
-14
- (78.251.640.215)
- (105.347.213.289)
-Thuế thu nhập doanh nghiệp đã nộp
-15
- (47.125.091.870)
- (37.965.023.937)
-Tiền chi khác cho hoạt động kinh doanh
-17
- (53.326.872.355)
- (40.778.703.873)
-Lưu chuyển tiền thuần từ hoạt động kinh doanh
-20
- (376.402.510.939)
- 164.202.505.470 
-II.
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
-1.
-Tiền chi mua sắm, xây dựng tài sản cố định và tài sản dài hạn khác
-21
- (608.266.399.100)
- (578.666.769.075)
-2.
-Tiền thu thanh lý, nhượng bán tài sản cố định
-22
- 17.171.920 
- 353.631.525 
-3.
-Tiền chi mua công cụ nợ của đơn vị khác
-23
- (557.756.520.548)
- (2.043.133.137.326)
-4.
-Tiền thu hồi bán lại các công cụ nợ của đơn vị khác
-24
- 1.299.307.601.463 
-1.213.619.128.859
-5.
-Tiền thu lãi, cổ tức và lợi nhuận được chia
-27
- 323.723.460.225 
- 152.354.346.447 
-Lưu chuyển tiền thuần từ hoạt động đầu tư
-30
- 457.025.313.960 
- (1.255.472.799.570)
-III.
-LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
-1.
-Tiền thu từ đi vay
-33
- 346.154.280.725 
- 260.240.437.302 
-2.
-Tiền trả nợ gốc vay 
-34
- (192.159.813.240)
- (130.686.376.356)
-3.
-Cổ tức đã trả cho chủ sở hữu
-36
- (2.792.342.000)
- (2.792.342.000)
-Lưu chuyển tiền thuần từ hoạt động tài chính
-40
- 151.202.125.485 
- 126.761.718.946 
-Lưu chuyển tiền thuần trong năm (50=20+30+40)
-50
- 231.824.928.506 
- (964.508.575.154)
-Tiền và tương đương tiền đầu năm
-60
-925.196.651.735
-1.890.029.157.920
-Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ
-61
- 4.312.047.225 
- (1.834.647.297)
-Chênh lệch tỷ giá do chuyển đổi báo cáo
-62
- (30.630.537.226)
-1.510.716.266
-Tiền và tương đương tiền cuối năm (70=50+60+61+62)
-70
-1.130.703.090.240
-925.196.651.735
-Nguyễn Xuân Cường
-Tổng Giám đốc
-Ngày 29 tháng 3 năm 2022
-Nguyễn Ngọc Trường
-Kế toán trưởng
-Trần Kim Hoàng
-Người lập biểu
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-236
-237
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-1. THÔNG TIN KHÁI QUÁT
-Hình thức sở hữu vốn
-Cấu trúc của Tổng công ty bao gồm Tổng công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí (“Công ty mẹ”), 7 công ty con 
-và 6 công ty liên doanh. 
-Thông tin về các công ty trong Tổng công ty cụ thể như sau:
-Công ty mẹ
-Công ty mẹ được thành lập tại Việt Nam dưới hình thức công ty cổ phần theo Giấy chứng nhận đăng ký kinh doanh số 
-4103004335 ngày 15 tháng 02 năm 2006 và Giấy chứng nhận điều chỉnh lần thứ 15 ngày 30 tháng 9 năm 2019 do Sở Kế 
-hoạch và Đầu tư Thành phố Hồ Chí Minh cấp, mã số doanh nghiệp số 0302495126. Công ty mẹ được thành lập từ việc cổ 
-phần hóa Công ty Khoan và Dịch vụ Khoan Dầu khí, thành viên của Tập đoàn Dầu khí Việt Nam (gọi tắt là “Petrovietnam”).
-Công ty mẹ có hai xí nghiệp trực thuộc và bốn chi nhánh hoạt động tại nước ngoài với thông tin chi tiết như sau:
-	»
-Xí nghiệp Điều hành Khoan được thành lập theo Nghị quyết ngày 09 tháng 4 năm 2007 của Hội đồng Quản 
-trị và Quyết định số 1249/QĐ-PVD ngày 24 tháng 5 năm 2007 của Tổng Giám đốc về việc chuyển đổi Ban điều 
-hành Khoan thành Xí nghiệp Điều hành Khoan và theo Giấy chứng nhận đăng ký kinh doanh số 0302495126-
-007 ngày 16 tháng 3 năm 2010 thay thế cho Giấy chứng nhận đăng ký kinh doanh số 4113028028 cùng do Sở 
-Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp. Trụ sở đăng ký của Xí nghiệp Điều hành Khoan đặt tại Lầu 3, 
-Tòa nhà Sailing Tower, Số 111A, Đường Pasteur, Quận 1, Thành phố Hồ Chí Minh, Việt Nam. Xí nghiệp Điều hành 
-Khoan quản lý và vận hành 03 giàn khoan gồm PV DRILLING I, PV DRILLING II và PV DRILLING III.
-	»
-Xí nghiệp Dịch vụ Đầu tư Khoan Dầu khí (gọi tắt là “PVD Invest”) được thành lập theo Quyết định số 06/12/
-QĐ-HĐQT ngày 30 tháng 12 năm 2009 của Hội đồng Quản trị và theo Giấy chứng nhận đăng ký kinh doanh số 
-0302495126 ngày 18 tháng 01 năm 2010, và theo Giấy chứng nhận đăng ký kinh doanh điều chỉnh ngày 19 tháng 
-5 năm 2010 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp. Trụ sở đăng ký của PVD Invest đặt tại Lầu 3, 
-Tòa nhà Sailing Tower, Số 111A, Đường Pasteur, Quận 1, Thành phố Hồ Chí Minh, Việt Nam.
-	»
-Chi nhánh Algeria được thành lập theo Quyết định số 13/QĐ-HĐQT ngày 02 tháng 3 năm 2006 của Hội đồng 
-Quản trị và Giấy chứng nhận thành lập số 04/STM-TT.TNNN ngày 23 tháng 3 năm 2006 do Sở Thương mại 
-Thành phố Hồ Chí Minh cấp. Trụ sở đăng ký của Chi nhánh Algeria đặt tại Cité Si El, Houas, No. 02, Villa No. 
-101, Hassi Messaoud, Ouargla, Algeria. Chi nhánh Algeria thuộc sự quản lý và điều hành trực tiếp của Xí nghiệp 
-Điều hành Khoan. Chi nhánh Algeria quản lý và vận hành 01 giàn khoan PV DRILLING 11.
-	»
-Chi nhánh Myanmar được thành lập theo Quyết định số 01/03/2015/QĐ-HĐQT ngày 04 tháng 3 năm 2015 của 
-Hội đồng Quản trị và Giấy chứng nhận thành lập số 594/CNĐK-SCT ngày 18 tháng 6 năm 2015 do Sở Công 
-thương Thành phố Hồ Chí Minh cấp. Trụ sở đăng ký của Chi nhánh Myanmar đặt tại số 33/36, Garden Street (U 
-Yin Lane), Bahan Township, Yangon, Myanmar.
-	»
-Chi nhánh Malaysia được thành lập theo Quyết định số 01/8/2017/NQ-HĐQT ngày 17 tháng 10 năm 2017 của Hội 
-đồng Quản trị và Giấy chứng nhận thành lập số 1461/CNĐK-SCT ngày 25 tháng 9 năm 2017 do Sở Công thương 
-Thành phố Hồ Chí Minh cấp. Trụ sở đăng ký của Chi nhánh Malaysia đặt tại số 22.03, Level 22, Menara TA One, 
-22, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia.
-	»
-Chi nhánh Brunei được thành lập theo Quyết định số 02/02/2020/NQ-HĐQT ngày 25 tháng 02 năm 2020 của 
-Hội đồng Quản trị và Giấy chứng nhận thành lập số RFC20005196 ngày 30 tháng 4 năm 2020 do Cơ quan đăng 
-ký công ty Brunei cấp. Trụ sở đăng ký của Chi nhánh Brunei đặt tại tầng 5, Wisma Hajjah Famimah, số 22-23 
-Jalan Sultan BS8811 Bandar Seri Bagawan, Brunei Darussalam.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Tổng số nhân viên của Công ty mẹ và các công ty con tại ngày 31 tháng 12 năm 2021 lần lượt là 429 người và 1.687 người 
-(tại ngày 31 tháng 12 năm 2020: 404 người và 1.607 người).
-Các công ty con
-Công ty TNHH Một thành viên Dịch vụ Kỹ thuật Dầu khí Biển PVD (gọi tắt là “PVD Offshore”) là một công ty trách nhiệm 
-hữu hạn được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh số 3500803145 do Sở Kế hoạch và Đầu tư Tỉnh Bà 
-Rịa - Vũng Tàu cấp ngày 01 tháng 9 năm 2009, và theo các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh. Trụ sở đăng 
-ký của PVD Offshore đặt tại Số 43A, Đường 30 tháng 4, Phường 9, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt 
-Nam. Hoạt động chính của PVD Offshore bao gồm chế tạo, sửa chữa, kiểm định, bảo dưỡng vật tư thiết bị và phương tiện 
-chuyên ngành dầu khí; cung ứng lao động có chuyên môn khoan, khai thác dầu khí cho các nhà thầu hoạt động trong và 
-ngoài nước; tư vấn lập báo cáo đánh giá tác động môi trường, kế hoạch ứng cứu sự cố tràn dầu cho các phương tiện và 
-hoạt động có rủi ro gây tràn dầu. 
-Công ty TNHH Một thành viên Dịch vụ Giếng khoan Dầu khí PVD (gọi tắt là “PVD Well”) là một công ty trách nhiệm hữu 
-hạn được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh số 4104001468 do Sở Kế hoạch và Đầu tư Thành phố Hồ 
-Chí Minh cấp ngày 01 tháng 8 năm 2007 và theo các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh. Trụ sở đăng ký của 
-PVD Well đặt tại Phòng 13, Lầu 12A, Tòa nhà Vincom Center, Số 47, Đường Lý Tự Trọng, Phường Bến Nghé, Quận 1, Thành 
-phố Hồ Chí Minh, Việt Nam. Hoạt động chính của PVD Well bao gồm cung cấp dịch vụ kéo thả ống chống, cho thuê thiết 
-bị khoan, dịch vụ kỹ thuật giếng khoan, cung cấp vật tư thiết bị chuyên ngành phục vụ công tác dịch vụ giếng khoan.
-Công ty TNHH Một thành viên Địa Vật lý Giếng khoan Dầu khí (gọi tắt là “PVD Logging”) là một công ty trách nhiệm hữu 
-hạn được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh số 4104001513 do Sở Kế hoạch và Đầu tư Thành phố Hồ 
-Chí Minh cấp ngày 07 tháng 8 năm 2007 và theo các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh. Trụ sở đăng ký của 
-PVD Logging đặt tại Tầng 4, Tòa nhà PVFCCo, Số 43 Mạc Đĩnh Chi, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt 
-Nam. Hoạt động chính của PVD Logging bao gồm cung cấp dịch vụ đo địa vật lý giếng khoan dầu khí, thử giếng khoan 
-dầu khí, thử vỉa, bơm trám xi măng, cung ứng nhân lực, vật tư, thiết bị cho các dịch vụ có liên quan.
-Công ty Cổ phần Thương mại và Dịch vụ Kỹ thuật Khoan Dầu khí PVD (trước đây là Công ty TNHH Một thành viên Thương 
-mại và Dịch vụ Kỹ thuật Khoan Dầu khí, gọi tắt là “PVD Tech”) được chuyển đổi hình thức từ công ty trách nhiệm hữu hạn 
-sang hình thức công ty cổ phần và chính thức hoạt động dưới hình thức công ty cổ phần theo Giấy Chứng nhận Đăng ký 
-Kinh doanh điều chỉnh gần nhất số 0305124602 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 25 tháng 02 
-năm 2022. Trụ sở đăng ký của PVD Tech đặt tại Lầu 10, Tòa nhà Phước Thành, 199 Điện Biên Phủ, Phường 15, Quận Bình 
-Thạnh, Thành phố Hồ Chí Minh, Việt Nam. Hoạt động chính của PVD Tech bao gồm cung cấp vật tư thiết bị cho ngành 
-dầu khí và các ngành công nghiệp khác, thực hiện các dịch vụ lắp đặt, kiểm tra sửa chữa, bảo dưỡng giàn khoan, giàn 
-sửa giếng, giàn khai thác dầu khí và cho thuê cụm thiết bị khoan (DES). 
-Công ty Cổ phần Đào tạo Kỹ thuật PVD (gọi tắt là “PVD Training”), trước đây là Công ty TNHH Cửu Long, là một công ty cổ 
-phần được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh số 3500677518 do Sở Kế hoạch và Đầu tư Tỉnh Bà Rịa - 
-Vũng Tàu cấp ngày 12 tháng 8 năm 2011 và các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh. Trụ sở đăng ký của PVD 
-Training đặt tại Khu Công nghiệp Đông Xuyên, Đường 30 tháng 4, Phường Rạch Dừa, Thành phố Vũng Tàu, Tỉnh Bà Rịa - 
-Vũng Tàu, Việt Nam. Hoạt động chính của PVD Training bao gồm đào tạo, giới thiệu và cung ứng nhân lực ngành dầu khí 
-trong và ngoài nước, cho thuê nhà và văn phòng, kho bãi.
- 
-Công ty TNHH Một thành viên Khoan Dầu khí Nước sâu PVD (gọi tắt là “PVD Deepwater”), là một công ty trách nhiệm hữu 
-hạn được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh số 0310139354 do Sở Kế hoạch và Đầu tư Thành phố Hồ 
-Chí Minh cấp ngày 14 tháng 7 năm 2010 và các Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh. Trụ sở đăng ký của PVD 
-Deepwater đặt tại Lầu 5, Tòa nhà Sailing Tower, Số 111A, Đường Pasteur, Quận 1, Thành phố Hồ Chí Minh, Việt Nam. Hoạt 
-động chính của PVD Deepwater bao gồm dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên; cung ứng giàn khoan biển 
-nước sâu phục vụ tìm kiếm, thăm dò, khai thác dầu khí; cung ứng vật tư thiết bị, máy móc ngành dầu khí và các ngành 
-nghề khác có liên quan; nghiên cứu và phát triển thực nghiệm tự nhiên và khoa học kỹ thuật; tư vấn về công nghệ trong 
-lĩnh vực dầu khí. PVD Deepwater quản lý và vận hành 01 giàn khoan PV DRILLING V.
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-238
-239
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Công ty PV Drilling Overseas Company Private Limited (gọi tắt là “PVD Overseas”) được thành lập tại Singapore theo Hợp 
-đồng Liên doanh với Falcon Energy Group Limited và Giấy Đăng ký Doanh nghiệp số 201308977C ngày 04 tháng 4 năm 
-2013. Trụ sở đăng ký của PVD Overseas đặt tại Số 9 Temasek Boulevard, #31_00 Suntec Tower 2, Singapore. Hoạt động 
-chính của PVD Overseas bao gồm đầu tư, cho thuê giàn khoan, cung cấp dịch vụ khoan và các dịch vụ liên quan đến 
-hoạt động thăm dò, khai thác dầu khí. PVD Overseas quản lý và vận hành 01 giàn khoan PV DRILLING VI.
-Thông tin chi tiết về tình hình góp vốn và giá trị khoản đầu tư vào các công ty con của Công ty mẹ tại ngày 31 tháng 12 
-năm 2021 và tại ngày 31 tháng 12 năm 2020 như sau:
-Số cuối năm
-Số đầu năm
-Tỷ lệ 
-sở 
-hữu/ 
-biểu 
-quyết
-Vốn điều lệ 
-đăng ký
-Vốn điều lệ đã góp 
-của các bên
-Giá trị 
-khoản 
-đầu tư
-Tỷ lệ 
-sở 
-hữu/ 
-biểu 
-quyết
-Vốn điều lệ 
-đăng ký
-Vốn điều lệ đã góp 
-của các bên
-Giá trị 
-khoản 
-đầu tư
-Tên công ty con
-%
-(nguyên tệ)
-(nguyên tệ)
-USD
-%
-(nguyên tệ)
-(nguyên tệ)
-USD
-PVD Offshore
-100
- 130.000.000.000 VND 
- 130.000.000.000 VND 
- 6.748.980 
-100 
- 130.000.000.000 VND 
- 130.000.000.000 VND 
- 6.748.980 
-PVD Well
-100
- 80.000.000.000 VND 
- 80.000.000.000 VND 
- 4.081.469 
-100 
- 80.000.000.000 VND 
- 80.000.000.000 VND 
- 4.081.469 
-PVD Logging
-100
- 80.000.000.000 VND 
- 80.000.000.000 VND 
- 4.236.959 
-100 
- 80.000.000.000 VND 
- 80.000.000.000 VND 
- 4.236.959 
-PVD Tech
-100
- 450.000.000.000 VND 
- 450.000.000.000 VND 
- 21.049.065 
-100  200.000.000.000 VND  450.000.000.000 VND 
- 21.049.065 
-PVD Training
-51.8
- 28.958.670.000 VND 
- 28.958.670.000 VND 
- 1.096.066 
- 51.8 
- 28.958.670.000 VND 
- 28.958.670.000 VND 
- 1.096.066 
-PVD Deepwater
-100
- 764.000.000.000 VND 
- 764.000.000.000 VND 
- 39.692.090 
-100 
- 764.000.000.000 VND 
- 764.000.000.000 VND 
- 39.692.090 
-PVD Overseas
-81.6
- 66.698.050 USD
- 66.698.050 USD 
- 54.400.000 
-81.6
- 41.961.000 USD
- 66.698.050 USD 
- 54.400.000 
- 131.304.629 
-131.304.629 
-Các công ty liên doanh
-Thông tin chi tiết về các công ty liên doanh đồng kiểm soát của Tổng công ty với tỷ lệ quyền biểu quyết nắm giữ là 50%: 
-Công ty TNHH Liên doanh Dịch vụ BJ - PV Drilling (gọi tắt là “BJ-PVD”) là một công ty liên doanh được thành lập tại Việt 
-Nam theo Giấy Chứng nhận Đầu tư số 492021000003 do Ủy ban Nhân dân Tỉnh Bà Rịa - Vũng Tàu cấp ngày 28 tháng 9 
-năm 2006, và các Giấy Chứng nhận Đầu tư điều chỉnh. Trụ sở đăng ký của BJ - PVD đặt tại Số 65A, Đường 30 tháng 4, 
-Phường Thắng Nhất, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam. Hoạt động chính của BJ-PVD bao gồm 
-cung cấp trọn gói toàn bộ các dịch vụ như bơm trám xi măng, kích vỉa, kéo thả ống mềm và bơm nitơ... cùng với các giải 
-pháp kỹ thuật, dịch vụ phòng thí nghiệm và cung cấp hóa chất. Tổng vốn điều lệ của BJ - PVD là 5 triệu USD, trong đó 
-Tổng công ty nắm giữ tỷ lệ sở hữu là 49% tại Công ty này. 
-Công ty TNHH Liên doanh Kỹ thuật Giếng khoan PV Drilling và Baker Hughes (gọi tắt là “PVD-Baker Hughes”) được thành 
-lập tại Việt Nam theo Giấy Chứng nhận Đầu tư số 411022000556 do Ủy ban Nhân dân Thành phố Hồ Chí Minh cấp ngày 
-26 tháng 01 năm 2011, và các Giấy Chứng nhận Đầu tư điều chỉnh. Trụ sở đăng ký của PVD-Baker Hughes đặt tại Tầng 
-5, Khu phức hợp Cantavil An Phú, Số 1 Đường Song Hành, Phường An Phú, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh, 
-Việt Nam. Hoạt động chính của PVD-Baker Hughes bao gồm cung cấp dịch vụ khoan định hướng và khảo sát, dịch vụ 
-đo trong khi khoan, dịch vụ lấy mẫu lõi, dịch vụ đo địa vật lý giếng khoan, dịch vụ treo đầu ống chống lửng, dịch vụ cứu 
-kẹt, dịch vụ choòng khoan, dịch vụ ép vỉa nhân tạo, dịch vụ hoàn thiện giếng thông minh và dịch vụ công nghệ khai thác 
-mỏ. Tổng vốn điều lệ của PVD - Baker Hughes là 20 triệu USD tương đương 370.880.000.000 VND, trong đó Tổng công ty 
-nắm giữ tỷ lệ sở hữu là 51% tại Công ty này. 
-Công ty TNHH Cần ống Khoan Dầu khí Việt Nam (gọi tắt là “PVD Tubulars”) là một công ty liên doanh được thành lập theo 
-Giấy Chứng nhận Đầu tư số 492022000134 do Ban quản lý các Khu Công nghiệp Tỉnh Bà Rịa - Vũng Tàu cấp ngày 07 tháng 
-10 năm 2008, và các Giấy chứng nhận đầu tư điều chỉnh. Trụ sở đăng ký của PVD Tubulars đặt tại Khu công nghiệp Phú 
-Mỹ 1, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam. Hoạt động chính của PVD Tubulars bao gồm cung cấp các sản 
-phẩm cần khoan, ống chống, ống khai thác và cung cấp dịch vụ quản lý ống chống trọn gói cho tất cả các công ty dầu khí 
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-đang hoạt động thăm dò, khai thác trong bờ, ngoài khơi và cả những vùng nước sâu tại Việt Nam. Tổng vốn điều lệ của 
-PVD Tubulars là 57.995.000.000 VND tương đương 3,5 triệu USD. Tổng công ty nắm giữ tỷ lệ sở hữu là 51% tại công ty này. 
-Công ty TNHH Vietubes (gọi tắt là “Vietubes”) được thành lập tại Việt Nam theo Giấy chứng nhận đầu tư số 492022000111 
-do Ban Quản lý Khu công nghiệp tỉnh Bà Rịa - Vũng Tàu cấp ngày 15 tháng 02 năm 1995 và các sửa đổi bổ sung. Trụ sở 
-đăng ký của Vietubes đặt tại Đường số 11, Khu công nghiệp Đông Xuyên, Phường Rạch Dừa, Thành phố Vũng Tàu, Việt 
-Nam. Hoạt động chính của Vietubes bao gồm ren, gia công, sửa chữa, phục hồi và kiểm tra, kiểm định các loại cần 
-khoan ống chống, chế tạo đầu nối, khớp nối và các phụ kiện phục vụ cho hoạt động khoan thăm dò, khai thác dầu khí; 
-gia công kim loại, bao gồm cắt, định dạng và ổn định cấu trúc kim loại; gia công cơ khí chính xác chi tiết lớn trên máy tự 
-động. Tổng vốn điều lệ của Vietubes là 77.297.205.000 VND tương đương 3.707.300 USD. Tổng công ty nắm giữ tỷ lệ sở 
-hữu là 51% tại Vietubes. 
-Công ty TNHH PV Drilling Expro International (trước đây là Công ty TNHH PV Drilling Production Testers International, 
-gọi tắt là “PVD-Expro”) là một công ty liên doanh được thành lập theo Giấy Chứng nhận Đầu tư số 491022000098 do Ủy 
-ban Nhân dân Tỉnh Bà Rịa - Vũng Tàu cấp ngày 25 tháng 4 năm 2008 và các Giấy Chứng nhận Đầu tư điều chỉnh. Trụ sở 
-đăng ký của PVD-Expro đặt tại số 65A, đường 30 tháng 4, Phường Thắng Nhất, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng 
-Tàu, Việt Nam. Hoạt động chính của PVD – Expro bao gồm cung cấp các dịch vụ thử vỉa giếng khoan và cho thuê các 
-thiết bị khai thác, cung ứng nhân lực nhằm cung ứng nhân lực cho chính các mảng dịch vụ đơn vị đang hoạt động với 
-đội ngũ các kỹ sư, công nhân có tay nghề cao và kinh nghiệm làm việc từ các nhà thầu nước ngoài. Tổng vốn điều lệ của 
-PVD-Expro là 6.371.352 USD. Tổng công ty hiện đang nắm giữ tỷ lệ sở hữu là 51% tại Công ty này.
-Công ty TNHH Liên doanh PVD Tech-Oil States Industries (gọi tắt là “PVD-OSI”), được thành lập tại Việt Nam theo Giấy 
-Chứng nhận Đầu tư số 492022000217 do Ban Quản lý Khu công nghiệp Tỉnh Bà Rịa - Vũng Tàu cấp ngày 24 tháng 11 năm 
-2011. Trụ sở đăng ký của PVD - OSI đặt tại Đường số 11, Khu Công nghiệp Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng 
-Tàu. Hoạt động chính của PVD – OSI bao gồm sản xuất, chế tạo ren, tiện các loại đầu nối ống chống và cấu kiện, phụ 
-tùng thay thế phục vụ ngành khoan thăm dò và khai thác dầu khí; và cung cấp các dịch vụ sửa chữa, bảo dưỡng các loại 
-đầu nối ống trong khoan thăm dò và khai thác dầu khí. Tổng vốn điều lệ của PVD - OSI là 105.000.000.000 VND, tương 
-đương 5 triệu USD. Tổng công ty hiện đang nắm giữ tỷ lệ sở hữu là 51% tại Công ty này.
-Hoạt động chính
-Hoạt động chính của Tổng công ty bao gồm cung cấp các loại hình dịch vụ khoan, dịch vụ giếng khoan, dịch vụ đo địa vật 
-lý giếng khoan, dịch vụ ứng cứu sự cố dầu tràn, cung ứng giàn khoan, vật tư, thiết bị khoan, cung ứng lao động cho các 
-giàn khoan, tư vấn đầu tư - quản lý dự án, hoạt động tư vấn quản lý, và cung cấp các dịch vụ khác liên quan đến ngành 
-công nghiệp dầu khí. 
-Sự kiện quan trọng trong năm tài chính có ảnh hưởng đến Báo cáo tài chính hợp nhất 
-Đại dịch Covid-19 đang gây ra suy thoái kinh tế và tác động xấu cho hầu hết các doanh nghiệp trong nhiều ngành. Ban 
-Tổng Giám đốc đã đánh giá ảnh hưởng của Covid-19 đối với tình hình tài chính và hoạt động kinh doanh của Tổng công 
-ty, đồng thời theo dõi các chính sách hỗ trợ của Chính phủ để thực hiện tất cả các biện pháp thích hợp nhằm hạn chế 
-tác động tiêu cực của dịch bệnh tới hoạt động của Tổng công ty trong năm tài chính. Ban Tổng Giám đốc cũng tin tưởng 
-rằng Covid-19 không ảnh hưởng đến khả năng hoạt động liên tục của Tổng công ty.
-Chu kỳ sản xuất, kinh doanh thông thường
-Chu kỳ sản xuất, kinh doanh thông thường của Tổng công ty được thực hiện trong thời gian 12 tháng.
-Thuyết minh về khả năng so sánh thông tin trên báo cáo tài chính hợp nhất chuyển đổi sang Đồng 
-Việt Nam 
-Số liệu so sánh trên bảng cân đối kế toán hợp nhất chuyển đổi sang Đồng Việt Nam là số liệu của báo cáo tài chính hợp 
-nhất chuyển đổi sang Đồng Việt Nam cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đã được kiểm toán (gọi tắt 
-là “Số đầu năm”). Số liệu so sánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất chuyển đổi sang Đồng Việt Nam và 
-báo cáo lưu chuyển tiền tệ hợp nhất chuyển đổi sang Đồng Việt Nam là số liệu của báo cáo tài chính hợp nhất chuyển đổi 
-sang Đồng Việt Nam cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đã được kiểm toán (gọi tắt là “Năm trước”).
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-240
-241
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-2.  CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT CHUYỂN ĐỔI SANG ĐỒNG VIỆT NAM VÀ NĂM TÀI CHÍNH
-Cơ sở lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam 
-Tổng công ty sử dụng Đô la Mỹ (USD) làm đơn vị tiền tệ kế toán. Ban Tổng Giám đốc Tổng công ty cho rằng việc sử dụng 
-đơn vị tiền tệ kế toán bằng Đô la Mỹ là cần thiết để phản ánh bản chất kinh tế của các nghiệp vụ liên quan đến hoạt động 
-kinh doanh của Tổng công ty. Theo các quy định kế toán hiện hành tại Việt Nam, Tổng công ty đã thực hiện chuyển đổi 
-báo cáo tài chính hợp nhất đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 được lập bằng Đô la 
-Mỹ (USD) sang Đồng Việt Nam (VND) theo nguyên tắc sau:
-	»
-Tài sản và nợ phải trả được chuyển đổi ra Đồng Việt Nam theo tỷ giá giao dịch thực tế cuối năm ngày 31 tháng 
-12 năm 2021 là 22,640 VND/USD (là tỷ giá chuyển khoản của Ngân hàng Thương mại Cổ phần Ngoại thương Việt 
-Nam - Chi nhánh Thành phố Hồ Chí Minh nơi Tổng công ty thường xuyên có giao dịch tại thời điểm báo cáo);
-	»
-Vốn chủ sở hữu (vốn góp của chủ sở hữu, thặng dư vốn cổ phần và cổ phiếu quỹ) được chuyển đổi sang Đồng 
-Việt Nam theo tỷ giá giao dịch thực tế tại ngày góp vốn hoặc mua lại cổ phiếu quỹ;
-	»
-Chênh lệch tỷ giá được chuyển đổi ra Đồng Việt Nam theo tỷ giá giao dịch thực tế tại ngày đánh giá;
-	»
-Lợi nhuận sau thuế chưa phân phối, các quỹ trích từ lợi nhuận sau thuế chưa phân phối phát sinh sau ngày đầu 
-tư được chuyển đổi sang Đồng Việt Nam bằng cách tính toán theo các khoản mục của Báo cáo kết quả hoạt 
-động kinh doanh hợp nhất;
-	»
-Các khoản mục thuộc Báo cáo kết quả hoạt động kinh doanh hợp nhất và Báo cáo lưu chuyển tiền tệ hợp nhất 
-được chuyển đổi ra Đồng Việt Nam theo tỷ giá bình quân năm tài chính vì tỷ giá này xấp xỉ với tỷ giá thực tế tại 
-thời điểm phát sinh giao dịch (chênh lệch không vượt quá 3%). Theo đó, Báo cáo kết quả hoạt động kinh doanh 
-hợp nhất và Báo cáo lưu chuyển tiền tệ hợp nhất được chuyển đổi theo tỷ giá bình quân trong năm là 22,835 
-VND/USD của Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam – Chi nhánh Thành phố Hồ Chí Minh.
-Chênh lệch tỷ giá phát sinh khi chuyển đổi báo cáo tài chính hợp nhất được lập bằng đồng ngoại tệ sang Đồng Việt Nam 
-được ghi nhận trên chỉ tiêu “Chênh lệch tỷ giá hối đoái” - Mã số 417 thuộc phần Vốn chủ sở hữu của Bảng cân đối kế toán 
-hợp nhất.
-Báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo không nhằm phản ánh tình hình tài chính, kết quả 
-hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại 
-các nước khác ngoài Việt Nam.
-	
-	
-Năm tài chính
-Năm tài chính của Tổng công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
- 
-3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
-Sau đây là các chính sách kế toán chủ yếu được Tổng công ty áp dụng trong việc lập báo cáo tài chính hợp nhất chuyển 
-đổi sang Đồng Việt Nam:
-Ước tính kế toán 
-Việc lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam tuân thủ theo chuẩn mực kế toán, chế độ kế toán 
-doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Tổng 
-Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công 
-nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam cũng như các số liệu về 
-doanh thu và chi phí trong suốt niên độ kế toán. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban 
-Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Cơ sở hợp nhất báo cáo tài chính 
-Báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam bao gồm báo cáo tài chính của Công ty mẹ và báo cáo tài 
-chính của các công ty con do Công ty mẹ kiểm soát (“các công ty con”) được lập cho đến ngày lập báo cáo hàng năm. 
-Việc kiểm soát này đạt được khi Công ty mẹ có khả năng kiểm soát các chính sách tài chính và hoạt động của các công 
-ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
-Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp 
-dụng tại Công ty mẹ và các công ty con là giống nhau. 
-Tất cả các nghiệp vụ và số dư giữa các công ty trong Tổng công ty được loại bỏ khi hợp nhất báo cáo tài chính. 
-Lợi ích của cổ đông không kiểm soát trong tài sản thuần của công ty con hợp nhất được xác định là một chỉ tiêu riêng 
-biệt tách khỏi phần vốn chủ sở hữu của cổ đông của công ty mẹ. Lợi ích của cổ đông không kiểm soát bao gồm giá trị 
-các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm 
-soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con 
-phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở 
-hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
-Hợp nhất kinh doanh 
-Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ 
-khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thế thương mại. Bất kỳ 
-khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận vào kết quả hoạt động kinh 
-doanh của niên độ kế toán phát sinh hoạt động mua công ty con. 
-Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông 
-không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
-Công cụ tài chính
-Ghi nhận ban đầu
-Tài sản tài chính: Tại ngày ghi nhận ban đầu. tài sản tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có 
-liên quan trực tiếp đến việc mua sắm tài sản tài chính đó. Tài sản tài chính của Tổng công ty bao gồm tiền và các khoản 
-tương đương tiền, các khoản đầu tư nắm giữ đến ngày đáo hạn, các khoản phải thu khách hàng và phải thu khác. 
-Công nợ tài chính: Tại ngày ghi nhận ban đầu. công nợ tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có 
-liên quan trực tiếp đến việc phát hành công nợ tài chính đó. Công nợ tài chính của Tổng công ty bao gồm các khoản vay, 
-phải trả người bán và phải trả khác và chi phí phải trả.
-Đánh giá lại sau lần ghi nhận ban đầu
-Hiện tại, chưa có quy định về đánh giá lại công cụ tài chính sau ghi nhận ban đầu.
-Tiền và các khoản tương đương tiền
-Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn 
-hạn có khả năng thanh khoản cao, dễ dàng chuyển đổi sang Đồng Việt Nam thành tiền và ít rủi ro liên quan đến việc biến 
-động giá trị.
-Các khoản đầu tư nắm giữ đến ngày đáo hạn
-Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Tổng công ty có ý định và khả năng giữ đến 
-ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn với mục 
-đích thu lãi hàng kỳ.
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-242
-243
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo 
-giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày 
-đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh hợp nhất chuyển đổi sang đồng Việt 
-Nam trên cơ sở dự thu. 
-Các khoản đầu tư nắm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi. Dự phòng phải 
-thu khó đòi của các khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành.
-Nợ phải thu
-Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi 
-sổ trừ đi các khoản dự phòng phải thu khó đòi. 
-Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán hoặc các khoản nợ phải 
-thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.	
-	
-Hàng tồn kho
-Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn 
-kho mua ngoài bao gồm trị giá mua vào của hàng tồn kho và chi phí thu mua, nếu có, để có được hàng tồn kho ở địa điểm 
-và trạng thái hiện tại. Giá gốc hàng tồn kho được sản xuất bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực 
-tiếp và chi phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá gốc của hàng tồn 
-kho được xác định theo phương pháp bình quân gia quyền. Giá trị thuần có thể thực hiện được được xác định bằng giá 
-bán ước tính trừ các chi phí tiếp thị. bán hàng và phân phối phát sinh.
-Dự phòng giảm giá hàng tồn kho của Tổng công ty được trích lập theo các quy định kế toán hiện hành. Theo đó, Tổng 
-công ty được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hỏng, kém phẩm chất và chậm luân chuyển trong 
-trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc niên độ kế toán.
-Tài sản cố định hữu hình và khấu hao
-Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình 
-bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. 
-Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh 
-cộng chi phí lắp đặt và chạy thử. 
-Giàn khoan (máy móc và thiết bị) được khấu hao theo số giờ hoạt động của giàn khoan. tương đương thời gian hữu dụng 
-của giàn khoan như chi tiết bên dưới:
-Số năm
-Giàn PV DRILLING I
-20
-Giàn PV DRILLING II
-35
-Giàn PV DRILLING III 
-35
-Giàn PV DRILLING V
-20 
-Giàn PV DRILLING VI 
-35
-Giàn PV DRILLING 11
-10
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Các tài sản cố định hữu hình khác được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. 
-cụ thể như sau:
-Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và 
-được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất chuyển đổi sang Đồng Việt Nam.
-Thuê tài sản
-Một khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro 
-về quyền sở hữu tài sản.
-Tổng công ty là bên cho thuê: Doanh thu cho thuê hoạt động được ghi nhận theo phương pháp đường thẳng trong suốt 
-thời gian cho thuê.
-Tổng công ty là bên đi thuê: Chi phí thuê hoạt động được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất chuyển 
-đổi sang Đồng Việt Nam theo phương pháp đường thẳng trong suốt thời gian thuê.
-Tài sản cố định vô hình và khấu hao
-Tài sản cố định vô hình thể hiện quyền sử dụng đất và các phần mềm máy tính được trình bày theo nguyên giá trừ giá trị 
-hao mòn lũy kế. Giá trị quyền sử dụng đất không thời hạn không được khấu hao. Giá trị quyền sử dụng đất có thời hạn 
-được khấu hao theo phương pháp đường thẳng dựa trên thời gian sử dụng của lô đất. Phần mềm máy tính được khấu hao 
-theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính là từ 3-5 năm.
-Chi phí xây dựng cơ bản dở dang
-Tài sản đang trong quá trình mua sắm phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác 
-được ghi nhận theo giá gốc. Giá gốc bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết 
-bị, chi phí khác và chi phí đi vay có liên quan phù hợp với chính sách kế toán của Tổng công ty. Các chi phí này sẽ được 
-chuyển sang nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được 
-bàn giao đưa vào sử dụng. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản dài hạn khác, 
-bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.
-Đầu tư vào công ty liên doanh
-Các khoản góp vốn liên doanh là thỏa thuận trên cơ sở ký kết hợp đồng mà theo đó Tổng công ty và các bên tham gia 
-thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát. Cơ sở đồng kiểm soát được hiểu là việc đưa ra các quyết định 
-mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của đơn vị liên doanh phải có sự đồng thuận 
-của các bên đồng kiểm soát. 
-Trong trường hợp một công ty thành viên trực tiếp thực hiện hoạt động kinh doanh theo các thoả thuận liên doanh, 
-phần vốn góp vào tài sản đồng kiểm soát và bất kỳ khoản nợ phải trả phát sinh chung phải gánh chịu cùng với các bên 
-góp vốn liên doanh khác từ hoạt động của liên doanh được hạch toán vào báo cáo tài chính của công ty tương ứng và 
-được phân loại theo bản chất của nghiệp vụ kinh tế phát sinh. Các khoản công nợ và chi phí phát sinh có liên quan trực 
-tiếp đến phần vốn góp trong phần tài sản đồng kiểm soát được hạch toán trên cơ sở dồn tích. Các khoản thu nhập từ 
-việc bán hàng hoặc sử dụng phần sản phẩm được chia từ hoạt động của liên doanh và phần chi phí phát sinh phải gánh 
-chịu được ghi nhận khi chắc chắn khoản lợi ích kinh tế có được từ các giao dịch này được chuyển tới hoặc chuyển ra khỏi 
-Tổng công ty và các khoản lợi ích kinh tế này có thể được xác định một cách đáng tin cậy. 
-Số năm
-Nhà xưởng và vật kiến trúc
-6 - 50
-Máy móc và thiết bị - Khác
-5 - 10
-Thiết bị văn phòng
-3 - 5
-Phương tiện vận tải
-7 - 12 
-Tài sản khác
-3 - 7
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-244
-245
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Các thỏa thuận góp vốn liên doanh liên quan đến việc thành lập một cơ sở kinh doanh độc lập trong đó có các bên tham 
-gia góp vốn liên doanh được gọi là cơ sở kinh doanh đồng kiểm soát. Tổng công ty lập báo cáo về các khoản lợi ích trong 
-các cơ sở kinh doanh đồng kiểm soát theo phương pháp vốn chủ sở hữu.
-Các khoản trả trước
-Chi phí trả trước bao gồm công cụ, dụng cụ đã xuất dùng, chi phí bảo hiểm, sửa chữa văn phòng và chi phí phục vụ chiến 
-dịch khoan tại Brunei phát sinh trong năm và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Tổng 
-công ty.
-Các chi phí công cụ, dụng cụ đã xuất dùng và chi phí bảo hiểm được phân bổ vào kết quả hoạt động kinh doanh hợp nhất 
-chuyển đổi sang Đồng Việt Nam trong năm theo phương pháp đường thẳng trong vòng từ 1 đến 3 năm.
-Chi phí phục vụ chiến dịch khoan tại Brunei sẽ được phân bổ vào kết quả hoạt đông kinh doanh hợp nhất theo phương 
-pháp đường thẳng dựa trên thời gian ước tính trong vòng 6 năm khi chiến dịch khoan bắt đầu từ quý I năm 2022.
-	
-	
-Chi phí phải trả
-Chi phí phải trả bao gồm các khoản chi phí trích trước cho hoạt động của các giàn khoan và các khoản chi phí phải trả 
-khác. Chi phí phải trả phản ánh giá trị các khoản đã trích trước vào chi phí sản xuất, kinh doanh nhưng chưa được thực 
-chi tại ngày kết thúc niên độ kế toán. 
-	
-Dự phòng phải trả	
-Các khoản dự phòng phải trả được ghi nhận khi Tổng công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra 
-và Tổng công ty có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của 
-Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc niên độ kế toán.
-Dự phòng sửa chữa lớn tài sản cố định thể hiện các khoản chi phí sửa chữa lớn tài sản cố định được trích đều mỗi năm 
-căn cứ vào chi phí ước tính phải trả liên quan đến chi phí sửa chữa lớn sẽ phát sinh định kỳ theo yêu cầu kỹ thuật cho các 
-giàn khoan của Tổng công ty. Tại năm phát sinh chi phí sửa chữa lớn tài sản cố định, nếu chi phí sửa chữa thực tế lớn hơn 
-số trích theo dự toán hoặc ngược lại thì số chênh lệch được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất 
-của niên độ kế toán đó.
- 
-Ghi nhận doanh thu
-Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
-(a)	
-Tổng công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho 	
-	
-người mua;
-(b)	
-Tổng công ty không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát 	
-	
-hàng hóa;
-(c)	
-Doanh thu được xác định tương đối chắc chắn;
-(d)	
-Tổng công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
-(e)	
-Xác định được chi phí liên quan đến giao dịch bán hàng.
-Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch được xác định một cách đáng tin 
-cậy. Trường hợp giao dịch cung cấp dịch vụ liên quan đến nhiều năm, doanh thu được ghi nhận trong năm tương ứng với 
-phần công việc đã hoàn thành tại ngày kết thúc niên độ kế toán. Kết quả của giao dịch cung cấp dịch vụ được xác định 
-khi thỏa mãn tất cả bốn (4) điều kiện sau:
-(a)	
-Doanh thu được xác định tương đối chắc chắn;
-(b)	
-Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ;
-(c)	
-Xác định được phần công việc đã hoàn thành tại ngày kết thúc niên độ kế toán; và
-(d)	
-Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành dịch vụ cung cấp.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
- 
-Lãi từ các khoản đầu tư được ghi nhận khi Tổng công ty có quyền nhận khoản lãi.
-Trợ cấp thôi việc phải trả
-Trợ cấp thôi việc cho nhân viên được trích trước vào cuối mỗi kỳ báo cáo cho toàn bộ người lao động đã làm việc tại Tổng 
-công ty từ đủ 12 tháng trở lên. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc 
-thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của 
-pháp luật và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc. Mức trích cho mỗi năm làm việc 
-bằng một nửa mức lương bình quân tháng theo Luật Lao động, Luật Bảo hiểm xã hội và các văn bản hướng dẫn có liên 
-quan. Mức lương bình quân tháng để tính trợ cấp thôi việc sẽ được điều chỉnh vào cuối mỗi kỳ báo cáo theo mức lương 
-bình quân của sáu tháng gần nhất tính đến thời điểm lập báo cáo tài chính. Tăng hay giảm của khoản trích trước này sẽ 
-được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất.
-Ngoại tệ
-Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi sang Đồng Việt Nam theo tỷ giá tại ngày phát sinh nghiệp vụ. Số 
-dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc niên độ kế toán được chuyển đổi sang Đồng Việt Nam theo tỷ 
-giá tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất. 
-Để lập báo cáo tài chính hợp nhất. tài sản và công nợ của các công ty con và chi nhánh ở nước ngoài được chuyển đổi 
-sang đơn vị tiền tệ hạch toán theo tỷ giá tại ngày kết thúc niên độ kế toán. Các khoản thu nhập và chi phí được chuyển 
-đổi theo tỷ giá bình quân của niên độ kế toán và chỉ áp dụng tỷ giá tại ngày phát sinh nghiệp vụ khi tỷ giá này có biến 
-động lớn trong năm. Chênh lệch tỷ giá hối đoái phát sinh khi chuyển đổi sang Đồng Việt Nam báo cáo tài chính của công 
-ty con và chi nhánh ở nước ngoài được phản ánh lũy kế trong phần vốn chủ sở hữu của Bảng cân đối kế toán hợp nhất 
-theo nguyên tắc:
-	»
-Phần chênh lệch tỷ giá hối đoái phân bổ cho Công ty mẹ được trình bày tại chỉ tiêu “Chênh lệch tỷ giá hối đoái” 
-thuộc phần vốn chủ sở hữu của Bảng cân đối kế toán hợp nhất;
-	»
-Phần chênh lệch tỷ giá hối đoái phân bổ cho cổ đông không kiểm soát được trình bày tại chỉ tiêu “Lợi ích cổ đông 
-không kiểm soát”.
-Chênh lệch tỷ giá hối đoái phát sinh liên quan đến việc chuyển đổi khoản lợi thế thương mại chưa phân bổ hết cuối năm 
-được tính toàn bộ cho công ty mẹ và được ghi nhận vào chỉ tiêu “Chênh lệch tỷ giá hối đoái” thuộc phần vốn chủ sở hữu 
-của Bảng cân đối kế toán hợp nhất.
-Chênh lệch tỷ giá hối đoái được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất khi công ty con hoặc chi nhánh ở 
-nước ngoài chấm dứt hoạt động hoặc được thanh lý.
-Chi phí lãi vay
-Chi phí lãi vay được ghi nhận vào chi phí sản xuất. kinh doanh trong năm khi phát sinh. trừ khi được vốn hoá theo quy 
-định của Chuẩn mực kế toán Việt Nam số 16 “Chi phí đi vay”. Theo đó. chi phí đi vay liên quan trực tiếp đến việc mua. 
-đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh 
-doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu 
-nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay 
-riêng phục vụ việc xây dựng tài sản cố định. lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
-Thuế
-Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại. 
-Số thuế phải trả hiện tại được tính dựa trên thu nhập tính thuế trong năm. Thu nhập tính thuế khác với lợi nhuận trước 
-thuế được trình bày trên báo cáo kết quả hoạt động kinh doanh hợp nhất  vì thu nhập tính thuế không bao gồm các 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-246
-247
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang. nếu có) và 
-ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ. 
-Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản 
-mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất nhất chuyển đổi sang Đồng Việt Nam. Thuế thu nhập hoãn 
-lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi 
-nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời. 
-Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả 
-được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất và chỉ ghi 
-vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu. 
-Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tổng công ty có quyền hợp pháp để 
-bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn 
-lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan 
-thuế và Tổng công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
-Việc xác định thuế thu nhập của Tổng công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên. những quy định này 
-thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của 
-cơ quan thuế có thẩm quyền. Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
-4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
-5. ĐẦU TƯ NẮM GIỮ ĐẾN NGÀY ĐÁO HẠN
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Số cuối năm
-Số đầu năm
-VND
-VND
-Tiền mặt
- 4.455.497.890 
- 5.691.994.570 
-Tiền gửi ngân hàng không kỳ hạn
- 763.664.551.070 
- 879.444.649.910 
-Các khoản tương đương tiền
- 362.583.041.280 
- 40.060.007.255 
-          1.130.703.090.240 
-925.196.651.735 
-Các khoản tương đương tiền thể hiện các khoản tiền gửi có kỳ hạn không quá ba tháng. 
-Tại ngày 31 tháng 12 năm 2021. Tổng công ty có 11.811.381.880 VND (bao gồm 488.281 USD và 522.333.946 VND) là tiền 
-gửi không kỳ hạn và có kỳ hạn dưới 3 tháng đang được gửi tại Ngân hàng Thương mại TNHH MTV Đại Dương (tại ngày 31 
-tháng 12 năm 2020 là 20.433.541.284 VND, bao gồm 488.281 USD và 9.185.997.202 VND).
-Số cuối năm
-Số đầu năm
-VND
-VND
-VND
-VND
-Giá gốc
-Giá trị ghi sổ
-Giá gốc
-Giá trị ghi sổ
-a. Ngắn hạn
-- Tiền gửi có kỳ hạn
- 1.544.250.741.200 
- 1.544.250.741.200 
- 1.195.960.822.115 
- 1.195.960.822.115 
-b. Dài hạn
-- Tiền gửi có kỳ hạn
--
--
-1.090.232.936.315 
- 1.090.232.936.315 
-Đầu tư nắm giữ đến ngày đáo hạn tại ngày 31 tháng 12 năm 2021 thể hiện các khoản tiền gửi bằng Việt Nam Đồng có kỳ 
-hạn tại các ngân hàng thương mại đáo hạn trong khoảng thời gian trên 3 tháng với lãi suất thay đổi hàng kỳ theo thông 
-báo của các ngân hàng.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Phải thu ngắn hạn của khách hàng khác là các bên liên quan: xem Thuyết minh số 41.
-Số cuối năm
-Số đầu năm
-VND
-VND
-Idemitsu Gas Production (Vietnam) Co., Ltd.
- 243.115.361.040 
- 12.215.299.255 
-Công ty Liên doanh Điều hành Cửu Long
- 162.520.696.640 
- 7.460.437.590 
-Các khoản phải thu khách hàng khác
- 905.923.955.760 
- 841.500.407.405 
-1.311.560.013.440
- 861.176.144.250 
-Số cuối năm
-Số đầu năm
-VND
-VND
-Nợ quá hạn 
-(Giá gốc)
-Dự phòng
-Nợ quá hạn 
-(Giá gốc)
-Dự phòng
-KrisEnergy (Apsara) Company Limited
- 89.187.110.400 
- (26.756.133.120)
--
--
-Công ty TNHH MTV Điều Hành Thăm Dò 
-Khai Thác Dầu Khí Trong Nước
- 44.786.017.840 
- (22.555.937.680)
- 45.258.960.685 
- (45.253.224.970)
-Tổng công ty Thăm dò Khai thác Dầu khí
- 9.167.897.787 
- (9.167.886.880)
- 28.887.502.450 
- (28.185.879.385)
-Destini Oil Services Sdn Bhd
- 25.732.940.960 
- (20.586.348.240)
- 16.246.078.730 
- (12.968.958.385)
-Các khách hàng khác
- 15.794.388.480 
- (8.301.997.440)
- 20.377.382.945 
- (7.602.448.365)
- 184.668.355.467 
- (87.368.303.360)
- 110.769.924.810 
- (94.010.511.105)
-Và đồng thời trong đó, tương ứng với một số các hợp đồng tiền gửi có kỳ hạn nêu trên. Tổng công ty có ký kết các 
-hợp đồng hoán đổi tiền tệ với các ngân hàng thương mại để cam kết hoán đổi cho số tiền 30.649.000 USD tương ứng 
-746.622.311.573 VND khi đáo hạn (tại ngày 31 tháng 12 năm 2020 là 73.190.000 USD tương ứng 1.780.618.196.065 VND).
-Tại ngày 31 tháng 12 năm 2021. Tổng công ty có 5.298.757 USD, tương ứng 119.963.868.053 VND là tiền gửi có kỳ hạn trên 
-3 tháng được gửi tại Ngân hàng Thương mại TNHH Một thành viên Đại Dương (tại ngày 31 tháng 12 năm 2020 là 4.832.352 
-USD tương ứng 111.313.225.791 VND).
-6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-248
-249
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-(*) Trong năm 2020, Tổng công ty và KrisEnergy (Apsara) Company Limited (“KrisEnergy Apsara”) ký hợp đồng dịch vụ 
-cung cấp giàn khoan PV DRILLING III cho chương trình khoan phát triển giai đoạn 1A mỏ Apsara thuộc Lô A, Campuchia, 
-chương trình khoan đã kết thúc vào ngày 12 tháng 02 năm 2021. Dự án phát triển mỏ Apsara Lô A có cơ cấu cổ phần sở 
-hữu gồm (i) KrisEnergy Apsara (71,25%); (ii) KrisEnergy (Cambodia) Ltd (23,75%) và Chính phủ Hoàng gia Campuchia 
+(*) Trong năm 2020, Tổng công ty và KrisEnergy (Apsara) Company Limited (“KrisEnergy Apsara”) ký hợp đồng dịch vụ
+cung cấp giàn khoan PV DRILLING III cho chương trình khoan phát triển giai đoạn 1A mỏ Apsara thuộc Lô A, Campuchia,
+chương trình khoan đã kết thúc vào ngày 12 tháng 02 năm 2021. Dự án phát triển mỏ Apsara Lô A có cơ cấu cổ phần sở
+hữu gồm (i) KrisEnergy Apsara (71,25%); (ii) KrisEnergy (Cambodia) Ltd (23,75%) và Chính phủ Hoàng gia Campuchia
 (5%), trong đó KrisEnergy Apsara là nhà điều hành của dự án.
-Ngày 04 tháng 6 năm 2021, Công ty KrisEnergy Limited thành lập tại Singapore - công ty mẹ của KrisEnergy Apsara Ltd 
-và KrisEnergy (Cambodia) Ltd đã đệ đơn lên tòa án tại Cayman Island về việc xin giải thể công ty do tình hình tài chính 
-khó khăn. Trước tình hình Công ty KrisEnergy Limited đệ đơn giải thể, ngày 08 tháng 6 năm 2021, Công ty Borrelli Walsh 
-Ltd đã được chủ nợ của KrisEnergy Apsara là Công ty Keppel Corporation chỉ định là bên nhận và quản lý cổ phần và tài 
-sản của KrisEnergy Apsara. Số dư phải thu công nợ của Tổng công ty với KrisEnergy Apsara tại ngày 31 tháng 12 năm 
-2021 là 3.939.360 USD tương ứng với  89.187.110.400 VND.
-Tại ngày lập báo cáo tài chính tài chính hợp nhất chuyển đổi sang Đồng Việt Nam này, Tổng công ty đang tiếp tục làm 
-việc với KrisEnergy Apsara và Borrelli Walsh Ltd để thu hồi công nợ, đồng thời liên hệ với Kepple Corporation Limited, 
-Bộ Mỏ và Năng lượng Campuchia và Đại sứ quán Việt Nam tại Campuchia để nhờ hỗ trợ. Nhằm đảm bảo tính thận trọng 
-và an toàn về tài chính đối với khoản nợ từ KrisEnergy Apsara, Ban Tổng Giám đốc quyết định mức trích lập dự phòng nợ 
+Ngày 04 tháng 6 năm 2021, Công ty KrisEnergy Limited thành lập tại Singapore - công ty mẹ của KrisEnergy Apsara Ltd
+và KrisEnergy (Cambodia) Ltd đã đệ đơn lên tòa án tại Cayman Island về việc xin giải thể công ty do tình hình tài chính
+khó khăn. Trước tình hình Công ty KrisEnergy Limited đệ đơn giải thể, ngày 08 tháng 6 năm 2021, Công ty Borrelli Walsh
+Ltd đã được chủ nợ của KrisEnergy Apsara là Công ty Keppel Corporation chỉ định là bên nhận và quản lý cổ phần và tài
+sản của KrisEnergy Apsara. Số dư phải thu công nợ của Tổng công ty với KrisEnergy Apsara tại ngày 31 tháng 12 năm
+Tại ngày lập báo cáo tài chính tài chính hợp nhất chuyển đổi sang Đồng Việt Nam này, Tổng công ty đang tiếp tục làm
+việc với KrisEnergy Apsara và Borrelli Walsh Ltd để thu hồi công nợ, đồng thời liên hệ với Kepple Corporation Limited,
+Bộ Mỏ và Năng lượng Campuchia và Đại sứ quán Việt Nam tại Campuchia để nhờ hỗ trợ. Nhằm đảm bảo tính thận trọng
+và an toàn về tài chính đối với khoản nợ từ KrisEnergy Apsara, Ban Tổng Giám đốc quyết định mức trích lập dự phòng nợ
 phải thu khó đòi từ KrisEnergy Apsara là 30% trên tổng công nợ phải thu tại ngày 31 tháng 12 năm 2021.
 7. PHẢI THU NGẮN HẠN KHÁC
 8. HÀNG TỒN KHO
-Số cuối năm
-Số đầu năm
-VND
-VND
 Phải thu lãi tiền gửi
-84.810.572.000
- 83.838.600.630 
 Phải thu lợi nhuận được chia từ liên doanh (xem tại Thuyết minh số 41)
-73.301.392.160
- 86.700.008.330 
 Phải thu người lao động
-288.184.560
- 1.004.625.455 
 Ký cược. ký quỹ
-149.023.113.520
- 259.745.608.480 
 Thuế nhà thầu tạm nộp của chi nhánh Malaysia
-292.553.989.440
- 293.561.357.040 
 Phải thu khác
-44.177.884.800
- 43.385.247.715 
-644.155.136.480 
- 768.235.447.650 
-Số cuối năm
-Số đầu năm
-VND
-VND
-VND
-VND
 Giá gốc
 Dự phòng
 Giá gốc
 Dự phòng
 Hàng mua đang đi đường
-8.949.727.840
--
- 53.863.062.990 
- - 
-Nguyên liệu, vật liệu 
-713.374.830.960
-(125.393.066.320)
- 694.859.781.685 
- (136.247.763.525)
-Công cụ, dụng cụ 
-111.318.231.120
--
- 125.945.751.370 
- - 
+Nguyên liệu, vật liệu
+Công cụ, dụng cụ
 Chi phí sản xuất, kinh doanh dở dang
-29.849.708.000
--
- 30.393.369.505 
- - 
 Hàng hoá
-19.736.714.320
--
- 187.141.085.210 
- - 
 Hàng gửi bán
--
--
- 2.983.170.710 
- - 
-883.229.212.240
-(125.393.066.320)
- 1.095.186.221.470 
- (136.247.763.525)
-Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021, Tổng công ty hoàn nhập dự phòng giảm giá hàng tồn kho với số 
-tiền là 8.591.714.420 VND từ việc đánh giá lại tình trạng hiện thời và lợi ích kinh tế trong tương lai của hàng tồn kho (năm 
-2020: trích lập 19.720.212.245 VND).
-MẪU SỐ B 09-DN/HN
+Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021, Tổng công ty hoàn nhập dự phòng giảm giá hàng tồn kho với số
+tiền là 8.591.714.420 VND từ việc đánh giá lại tình trạng hiện thời và lợi ích kinh tế trong tương lai của hàng tồn kho (năm
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Như trình bày tại Thuyết minh số 21, Tổng công ty đã thế chấp một số tài sản cố định hữu hình là giàn khoan PV DRILLING V 
-và PV DRILLING VI với giá trị còn lại tại ngày 31 tháng 12 năm 2021 là  6.713.260.910.000 VND (tại ngày 31 tháng 12 năm 
+Như trình bày tại Thuyết minh số 21, Tổng công ty đã thế chấp một số tài sản cố định hữu hình là giàn khoan PV DRILLING V
+và PV DRILLING VI với giá trị còn lại tại ngày 31 tháng 12 năm 2021 là  6.713.260.910.000 VND (tại ngày 31 tháng 12 năm
 2020: là 6.908.696.705.025 VND) làm đảm bảo cho các khoản vay của Tổng công ty.
-	
-Tại ngày 31 tháng 12 năm 2021, cụm thiết bị khoan hiện tại của giàn khoan PV Drilling V đã được hoàn thành tháo dỡ từ 
-ngày 31 tháng 12 năm 2020 để chuẩn bị cho công việc tái khởi động giàn khoan PVD Drilling V và lắp đặt cụm thiết bị 
-khoan do PVD Tech thực hiện đóng mới. Đồng thời, Tổng công ty đang tìm kiếm các hợp đồng khoan mới để sử dụng 
+Tại ngày 31 tháng 12 năm 2021, cụm thiết bị khoan hiện tại của giàn khoan PV Drilling V đã được hoàn thành tháo dỡ từ
+ngày 31 tháng 12 năm 2020 để chuẩn bị cho công việc tái khởi động giàn khoan PVD Drilling V và lắp đặt cụm thiết bị
+khoan do PVD Tech thực hiện đóng mới. Đồng thời, Tổng công ty đang tìm kiếm các hợp đồng khoan mới để sử dụng
 cụm thiết bị khoan hiện tại đã tháo dỡ.
-Nguyên giá của tài sản cố định hữu hình bao gồm các tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại 
-ngày 31 tháng 12 năm 2021 với giá trị là 1.762.031.461.479 VND (tại ngày 31 tháng 12 năm 2020: 1.508.389.203.220 VND). 
-Khấu hao tài sản cố định hữu hình trong năm bao gồm 7.438.312.795 VND là hao mòn tài sản cố định được đầu tư, mua 
-sắm bằng Quỹ Phát triển Khoa học và Công nghệ sử dụng cho mục đích nghiên cứu, phát triển khoa học và công nghệ 
-(năm 2020: 15.637.062.951 VND).
-Chênh lệch tỷ giá thể hiện khoản chênh lệch tỷ giá từ việc chuyển đổi báo cáo tài chính của chi nhánh Algeria từ Dinar 
-Algeria sang Đô la Mỹ và chuyển đổi báo cáo tài chính các công ty con từ Đồng Việt Nam sang Đô la Mỹ và chuyển đổi 
-báo cáo tài chính hợp nhất từ Đô la Mỹ sang Đồng Việt Nam.
+Nguyên giá của tài sản cố định hữu hình bao gồm các tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại
+Khấu hao tài sản cố định hữu hình trong năm bao gồm 7.438.312.795 VND là hao mòn tài sản cố định được đầu tư, mua
+sắm bằng Quỹ Phát triển Khoa học và Công nghệ sử dụng cho mục đích nghiên cứu, phát triển khoa học và công nghệ
+Chênh lệch tỷ giá thể hiện khoản chênh lệch tỷ giá từ việc chuyển đổi báo cáo tài chính của chi nhánh Algeria từ Dinar
+Algeria sang Đô la Mỹ và chuyển đổi báo cáo tài chính các công ty con từ Đồng Việt Nam sang Đô la Mỹ và chuyển đổi
 9. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH HỮU HÌNH
 Nhà xưởng và
 vật kiến trúc
 Máy móc và
 thiết bị
-Thiết bị 
+Thiết bị
 văn phòng
-Phương tiện 
+Phương tiện
 vận tải
 Khác
 Tổng
-VND
-VND
-VND
-VND
-VND
-VND
 NGUYÊN GIÁ
-Số dư đầu năm 
- 382.123.837.260 
- 22.827.620.525.035 
- 72.357.150.405  76.918.702.350 
- 1.525.769.295 
- 23.360.545.984.345 
+Số dư đầu năm
 Tăng trong năm
- 51.860.705.510 
- 105.352.149.710 
- 6.872.307.425 
- 5.201.082.280 
- - 
- 169.286.244.925 
 Thanh lý, nhượng bán
- - 
- (13.016.406.700)
- (1.265.287.350)
- (988.435.810)
- - 
- (15.270.129.860)
 Giảm khác
- - 
- (206.702.420)
- - 
- - 
- - 
- (206.702.420)
 Chênh lệch tỷ giá
- (6.115.869.250)
- (319.185.842.025)
- (995.958.640)
- (919.526.820)
- (19.281.055)
- (327.236.477.790)
 Số dư cuối năm
- 427.868.673.520 
-22.600.563.723.600 
- 76.968.211.840  80.211.822.000 
- 1.506.488.240 
- 23.187.118.919.200 
-GIÁ TRỊ HAO MÒN 
-LŨY KẾ
+GIÁ TRỊ HAO MÒN
 Số dư đầu năm
- 188.978.495.020 
- 9.710.681.476.225 
- 64.910.856.305 
- 73.041.105.625 
- 1.303.504.580 
- 10.038.915.437.755 
-Khấu hao trong năm 
- 9.897.031.525 
- 514.521.896.435 
- 3.468.065.625 
- 1.610.210.025 
- 47.428.295 
- 529.544.631.905 
+Khấu hao trong năm
 Thanh lý, nhượng bán
- - 
- (13.016.406.700)
- (1.265.287.350)
- (988.435.810)
- - 
- (15.270.129.860)
 Giảm khác
- - 
- (206.702.420)
- - 
- - 
- - 
- (206.702.420)
 Chênh lệch tỷ giá
- (2.594.424.145)
- (146.401.399.700)
- (883.778.500)
- (867.423.760)
- (19.338.635)
- (150.766.364.740)
-Số dư cuối năm 
- 196.281.102.400 
- 10.065.578.863.840 
- 66.229.856.080  72.795.456.080 
- 1.331.594.240 
- 10.402.216.872.640 
+Số dư cuối năm
 GIÁ TRỊ CÒN LẠI
 Tại ngày đầu năm
- 193.145.342.240 
- 13.116.939.048.810 
- 7.446.294.100 
- 3.877.596.725 
- 222.264.715  13.321.630.546.590 
 Tại ngày cuối năm
- 231.587.571.120 
-12.534.984.859.760 
- 10.738.355.760 
- 7.416.365.920 
- 174.894.000 12.784.902.046.560 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-250
-251
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-10. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH VÔ HÌNH
-11. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
-Quyền sử dụng đất
-Phần mềm máy tính
-Tổng
-VND
-VND
-VND
-NGUYÊN GIÁ
-Số dư đầu năm
-196.246.383.045
-102.295.117.960
-298.541.501.005
-Tăng trong năm 
--
-16.723.166.580
-16.723.166.580
-Thanh lý trong năm
--
-(144.956.580)
-(144.956.580)
-Chênh lệch tỷ giá
-(2.418.143.525)
-(1.573.065.480)
-(3.991.209.005)
-Số dư cuối năm
-193.828.239.520
-117.300.262.480
-311.128.502.000
-GIÁ TRỊ HAO MÒN LŨY KẾ
-Số dư đầu năm
-39.761.842.215
-84.122.852.530
-123.884.694.745
-Khấu hao trong năm 
-4.110.825.205
-8.255.743.065
-12.366.568.270
-Thanh lý trong năm
--
-(144.956.580)
-(144.956.580)
-Chênh lệch tỷ giá
-(553.925.340)
-(1.411.875.335)
-(1.965.800.675)
-Số dư cuối năm
-43.318.742.080
-90.821.763.680
-134.140.505.760
-GIÁ TRỊ CÒN LẠI
-Tại ngày đầu năm
-156.484.540.830
-18.172.265.430 
-174.656.806.260
-Tại ngày cuối năm
-150.509.497.440
-26.478.498.800
-176.987.996.240
-Chênh lệch tỷ giá thể hiện khoản chênh lệch tỷ giá từ việc chuyển đổi báo cáo tài chính của chi nhánh Algeria từ Dinar 
-Algeria sang Đô la Mỹ và chuyển đổi báo cáo tài chính các công ty con từ Đồng Việt Nam sang Đô la Mỹ và chuyển đổi 
-báo cáo tài chính hợp nhất từ Đô la Mỹ sang Đồng Việt Nam.
-Nguyên giá của tài sản cố định vô hình bao gồm các tài sản cố định vô hình đã khấu hao hết nhưng vẫn còn sử dụng tại 
-ngày 31 tháng 12 năm 2021 với giá trị là 75.247.126.285 VND (tại ngày 31 tháng 12 năm 2020: 74.572.219.040 VND).
-Như trình bày tại Thuyết minh số 21, Tổng công ty đã thế chấp cụm thiết bị khoan (DES) hình thành trong tương lai làm 
-tài sản đảm bảo cho khoản vay tại Ngân hàng Thương mại Cổ phần Tiên Phong (“TPBank”).
-Số cuối năm
-Số đầu năm
-VND
-VND
-Dự án đóng mới cụm thiết bị khoan đóng mới (DES)
-815.954.723.920
-188.408.516.980
-Các công trình xây dựng cơ bản khác
-104.947.606.800
-28.436.085.555
-920.902.330.720
-216.844.602.535
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-12. ĐẦU TƯ VÀO CÔNG TY LIÊN DOANH
-Tóm tắt các thông tin liên quan đến các khoản đầu tư vào công ty liên doanh của Tổng công ty:
-Giá trị ghi nhận theo phương pháp vốn chủ sở hữu các khoản đầu tư vào công ty liên doanh tại ngày kết thúc niên độ kế 
-toán như sau:
-Biến động giá trị khoản đầu tư tại các công ty liên doanh trong năm như sau:
-Tên công ty liên doanh
-Vốn điều lệ 
-đăng ký
-Tỷ lệ
-sở hữu
-Vốn điều lệ 
-đã góp
-Giá gốc khoản đầu tư
-Số cuối năm
-Số đầu năm
-USD
-%
-USD
-VND
-VND
-BJ-PVD
-5.000.000 
-49 
- 2.450.000 
-48.039.113.955 
-48.039.113.955 
-PVD-Expro
-6.371.352 
-51 
- 3.249.390 
-59.528.570.997 
-59.528.570.997 
-PVD Tubulars
-3.500.000 
-51 
- 1.785.000 
-30.515.952.000 
-30.515.952.000 
-PVD-Baker Hughes
-20.000.000 
-51 
- 10.200.000 
-211.753.000.000 
-211.753.000.000 
-Vietubes
-3.707.300 
-51 
- 1.890.723 
-86.637.631.068 
-86.637.631.068 
-PVD-OSI
-5.000.000 
-51 
- 2.550.000 
-53.111.400.000 
-53.111.400.000 
-Số cuối năm
-Số đầu năm
-VND
-VND
-BJ-PVD
-81.269.155.280
- 80.267.069.950 
-PVD-Expro
-58.733.344.560
- 68.762.861.145 
-PVD Tubulars
-51.907.112.880
- 50.252.096.390 
-PVD-Baker Hughes
-265.719.725.680
- 348.996.420.570 
-Vietubes
-96.695.666.400
- 90.321.824.415 
-PVD-OSI
-47.522.650.480
- 60.117.503.155 
-601.847.655.280
- 698.717.775.625 
-Tại ngày 
-đầu năm
-Lợi nhuận/(lỗ)
-trong liên doanh
-Lợi nhuận 
-được chia
-Chênh lệch tỷ giá do 
-chuyển đổi 
-báo cáo
-Tại ngày
-cuối năm
-VND
-VND
-VND
-VND
-VND
-BJ-PVD
-80.267.069.950
-2.398.976.595
--
-(1.396.891.265)
-81.269.155.280
-PVD-Expro
-68.762.861.145
-364.218.250
-(10.393.738.445)
-3.610
-58.733.344.560
-PVD Tubulars
-50.252.096.390
-2.538.407.105
--
-(883.390.615)
-51.907.112.880
-PVD-Baker Hughes
-348.996.420.570
-96.397.198.945
-(174.355.089.720)
-(5.318.804.115)
-265.719.725.680
-Vietubes
-90.321.824.415
-7.810.688.915
--
-(1.436.846.930)
-96.695.666.400
-PVD-OSI
-60.117.503.155
-(5.923.558.845)
-(6.671.313.755)
-19.925
-47.522.650.480
-698.717.775.625
-103.585.930.965
-(191.420.141.920)
-(9.035.909.390)
-601.847.655.280
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-252
-253
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Tổng công ty chưa đánh giá giá trị hợp lý của các khoản đầu tư vào công ty liên doanh tại ngày kết thúc niên độ kế toán 
+Tổng công ty chưa đánh giá giá trị hợp lý của các khoản đầu tư vào công ty liên doanh tại ngày kết thúc niên độ kế toán
 do chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý.
-Theo Nghị quyết số 01/08/2018/NQ-HĐQT ngày 06 tháng 8 năm 2018 và Nghị quyết số 05/12/2018/NQ-HĐQT ngày 28 
-tháng 12 năm 2018. Hội đồng Quản trị đã phê duyệt phương án tái cấu trúc Công ty Liên Doanh Dịch vụ BJ-PVD. Theo đó. 
-BJ-PVD sẽ giải thể khi hết hạn hợp đồng liên doanh. Tại ngày lập báo cáo tài chính niên độ ngày 31 tháng 12 năm 2021. 
-BJ-PVD đang tiến hành các thủ tục giải thể. 
+Theo Nghị quyết số 01/08/2018/NQ-HĐQT ngày 06 tháng 8 năm 2018 và Nghị quyết số 05/12/2018/NQ-HĐQT ngày 28
+tháng 12 năm 2018. Hội đồng Quản trị đã phê duyệt phương án tái cấu trúc Công ty Liên Doanh Dịch vụ BJ-PVD. Theo đó.
+BJ-PVD sẽ giải thể khi hết hạn hợp đồng liên doanh. Tại ngày lập báo cáo tài chính niên độ ngày 31 tháng 12 năm 2021.
+BJ-PVD đang tiến hành các thủ tục giải thể.
 Các giao dịch và số dư trọng yếu giữa Tổng công ty và công ty liên doanh trong năm: Xem Thuyết minh số 41.
-(*) Chi phí trả trước dự án khoan tại Brunei bao gồm các chi phí Tổng công ty đã thực hiện để tái khởi động và chuẩn bị 
-giàn khoan PV DRILLING V nhằm phục vụ chiến dịch khoan của Brunei Shell Petroleum Company Sdn Bhd (gọi tắt là 
+(*) Chi phí trả trước dự án khoan tại Brunei bao gồm các chi phí Tổng công ty đã thực hiện để tái khởi động và chuẩn bị
+giàn khoan PV DRILLING V nhằm phục vụ chiến dịch khoan của Brunei Shell Petroleum Company Sdn Bhd (gọi tắt là
 “BSP”), bắt đầu khoan chính thức từ tháng 01 năm 2022.
-Tài sản thuế thu nhập hoãn lại tại ngày 31 tháng 12 năm 2021 thể hiện thuế thu nhập hoãn lại phát sinh từ các khoản 
-chênh lệch tạm thời là chi phí khấu hao, chi phí phải trả, các khoản dự phòng khác và chênh lệch tỷ giá hối đoái chưa 
+Tài sản thuế thu nhập hoãn lại tại ngày 31 tháng 12 năm 2021 thể hiện thuế thu nhập hoãn lại phát sinh từ các khoản
+chênh lệch tạm thời là chi phí khấu hao, chi phí phải trả, các khoản dự phòng khác và chênh lệch tỷ giá hối đoái chưa
 thực hiện khi đánh giá lại các tài khoản tiền và các khoản phải thu.
 13. CHI PHÍ TRẢ TRƯỚC DÀI HẠN
 14. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI
-Số cuối năm
-Số đầu năm
-VND
-VND
 Chi phi trả trước chiến dịch khoan tại Brunei (*)
-577.493.354.480
-54.610.709.985
 Khác
-55.771.376.000
-29.526.815.840
-633.264.730.480
-84.137.525.825
- Chi phí khấu hao, chi phí 
-phải trả và các khoản dự 
+Chi phí khấu hao, chi phí
+phải trả và các khoản dự
 phòng khác
-Chênh lệch tỷ giá hối 
+Chênh lệch tỷ giá hối
 đoái chưa thực hiện
 Tổng
-VND
-VND
-VND
 Số dư đầu năm trước
-125.624.623.920 
- (253.880.720)
- 125.370.743.200 
-Ghi nhận vào kết quả kinh doanh hợp nhất chuyển 
+Ghi nhận vào kết quả kinh doanh hợp nhất chuyển
 đổi sang Đồng Việt Nam trong năm
-22.330.227.597
-932.059.260
-23.262.286.857
 Chênh lệch tỷ giá do chuyển đổi sang Đồng
-Việt Nam báo cáo tài chính
-(73.744.977)
-(475.355.365)
-(549.100.342)
 Số dư đầu năm nay
-147.881.106.540
-202.823.175
-148.083.929.715
-Ghi nhận vào kết quả kinh doanh hợp nhất chuyển 
+Ghi nhận vào kết quả kinh doanh hợp nhất chuyển
 đổi sang Đồng Việt Nam trong năm
-18.158.757.360
--
-18.158.757.360
 Chênh lệch tỷ giá do chuyển đổi sang Đồng
-Việt Nam báo cáo tài chính
-(2.011.909.260)
-(92.339.975)
-(2.104.249.235)
 Số dư cuối năm nay
-164.027.954.640
-110.483.200
-164.138.437.840
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Phải trả người bán là các bên liên quan: xem Thuyết minh số 41.
 15. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
 16. THUẾ VÀ CÁC KHOẢN PHẢI THU/NỘP NHÀ NƯỚC
-Số cuối năm
-Số đầu năm
-VND
-VND
 Giá trị
 Số có khả năng trả nợ
 Giá trị
 Số có khả năng trả nợ
-Công ty Oil States 
+Công ty Oil States
 Industries (Asia)
- 13.947.938.000 
- 13.947.938.000 
- 181.901.981.775 
- 181.901.981.775 
 Japan Drilling Co.,Ltd
- 70.749.750.960 
- 70.749.750.960 
- 9.577.533.970 
- 9.577.533.970 
-Các khoản phải trả 
+Các khoản phải trả
 người bán khác
- 695.112.025.920 
- 695.112.025.920 
- 504.686.742.035 
- 504.686.742.035 
- 779.809.714.880 
- 779.809.714.880 
- 696.166.257.780 
- 696.166.257.780 
-Số đầu năm
 Số phải nộp
 Số đã nộp
-Chênh lệch tỷ giá do 
+Chênh lệch tỷ giá do
 quy đổi báo cáo
 tài chính
-Số cuối năm
-VND
-VND
-VND
-VND
-VND
 Thuế giá trị gia tăng
-      1.794.564.710 
-      95.323.451.575 
-      78.009.155.350 
-(199.072.615)
-  18.909.788.320 
-Thuế GTGT hàng 
+Thuế GTGT hàng
 nhập khẩu
-                               - 
-       31.771.728.435 
-       31.763.873.195 
-                    (89.720)
-        7.765.520 
-Thuế thu nhập 
+Thuế thu nhập
 doanh nghiệp
-    16.496.377.040 
-43.888.070.775 
-47.125.091.870 
-        (26.502.345)
-13.232.853.600 
 Thuế thu nhập cá nhân
-     9.581.200.935 
-   182.217.317.230 
-   164.738.654.675 
-   (260.555.890)
-    26.799.307.600 
 Thuế xuất, nhập khẩu
-                               - 
-      28.520.937.835 
-      28.520.937.835 
-                          - 
-                       - 
 Các loại thuế khác
-    16.869.267.620 
-   103.877.237.060 
-       92.727.523.105 
-      (333.816.055)
-   27.685.165.520 
- 44.741.410.305 
- 485.598.742.910 
- 442.885.236.030 
- (820.036.625)
- 86.634.880.560 
 Trong đó:
 Thuế và các khoản
 khác phải thu Nhà nước
- (3.559.322.130)
- (1.628.404.640)
-Thuế và các khoản phải 
+Thuế và các khoản phải
 nộp Nhà nước
- 48.300.732.435 
- 88.263.285.200 
 Tình hình thực hiện nghĩa vụ với Ngân sách Nhà nước trong năm của Tổng công ty như sau:
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-254
-255
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 17. CHI PHÍ PHẢI TRẢ NGẮN HẠN
 18. PHẢI TRẢ NGẮN HẠN KHÁC
 19. VAY NGẮN HẠN
-Số cuối năm
-Số đầu năm
-VND
-VND
 Trích trước chi phí hoạt động của các giàn khoan
-209.709.678.800
-86.513.816.425
-Trích trước chi phí liên quan đến hoạt động cung ứng hàng hóa và 
+Trích trước chi phí liên quan đến hoạt động cung ứng hàng hóa và
 dịch vụ
-135.975.160.800
-75.884.684.235
 Trích trước chi phí lãi vay
-76.318.851.360
-46.346.673.385
 Trích trước chi phí hợp đồng hoán đổi tiền tệ
-27.011.784.000
-26.523.074.875
 Các khoản khác
-48.348.014.320
-48.394.323.640
-497.363.489.280
-283.662.572.560
-Số cuối năm
-Số đầu năm
-VND
-VND
 Lợi nhuận phải trả các bên trong hợp đồng hợp tác kinh doanh (“BCC”)
- 300.293.699.840 
- 278.798.501.960 
 Các khoản phải trả khác
- 69.259.880.480 
- 54.547.455.875 
- 369.553.580.320 
- 333.345.957.835 
-Số đầu năm
 Trong năm
-Số cuối năm
-VND
-VND
-VND
-VND
-VND
 Giá trị
 Tăng
 Giảm
-Ảnh hưởng của 
+Ảnh hưởng của
 áp dụng tỷ giá
 chuyển đổi báo cáo
 Giá trị
 Vay ngắn hạn
- 37.551.173.265 
-38.655.156.505
-(76.499.784.685)
-293.454.915
--
-Vay dài hạn đến hạn 
+Vay dài hạn đến hạn
 trả (Thuyết minh số 21
- 597.346.361.165 
-301.210.410.890
-(138.454.245.245)
-(11.694.288.170)
-748.408.238.640
- 634.897.534.430 
-339.865.567.395
-(214.954.029.930)
-(11.400.833.255)
-748.408.238.640
-Số dư nợ vay ngắn hạn của Tổng công ty tại ngày 31 tháng 12 năm 2021 bao gồm khoản nợ vay dài hạn đến hạn trả 
-của Công ty PVD Deepwater cho mục đích tài trợ xây dựng Giàn khoan PV DRILLING V đã đến hạn thanh toán nhưng 
-chưa được Công ty PVD Deepwater thanh toán với số tiền gốc là 16.874.673 USD (tương đương 386.767.496.221 VND), 
-lãi là 2.217.345 USD (tương đương 51.321.998.764 VND) và lãi phạt chậm thanh toán là 1.000.243 USD (tương đương 
-23.118.216.776 VND) (tại ngày 31 tháng 12 năm 2020: số tiền đến hạn chưa thanh toán của gốc vay là 16.885.473 USD 
-(tương đương 391.996.246.641 VND), lãi là 1.678.857 USD (tương đương 38.979.861.597 VND) và lãi phạt chậm thanh toán 
-là 649.277 USD (tương đương 15.074.081.098 VND). 
-MẪU SỐ B 09-DN/HN
+Số dư nợ vay ngắn hạn của Tổng công ty tại ngày 31 tháng 12 năm 2021 bao gồm khoản nợ vay dài hạn đến hạn trả
+của Công ty PVD Deepwater cho mục đích tài trợ xây dựng Giàn khoan PV DRILLING V đã đến hạn thanh toán nhưng
+chưa được Công ty PVD Deepwater thanh toán với số tiền gốc là 16.874.673 USD (tương đương 386.767.496.221 VND),
+lãi là 2.217.345 USD (tương đương 51.321.998.764 VND) và lãi phạt chậm thanh toán là 1.000.243 USD (tương đương
+23.118.216.776 VND) (tại ngày 31 tháng 12 năm 2020: số tiền đến hạn chưa thanh toán của gốc vay là 16.885.473 USD
+(tương đương 391.996.246.641 VND), lãi là 1.678.857 USD (tương đương 38.979.861.597 VND) và lãi phạt chậm thanh toán
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 20. DỰ PHÒNG PHẢI TRẢ NGẮN HẠN
 21. VAY DÀI HẠN
-Trong năm tài chính 2021, PVD Deepwater đã gửi công văn đến các ngân hàng VietcomBank, MB, VietinBank và 
+Trong năm tài chính 2021, PVD Deepwater đã gửi công văn đến các ngân hàng VietcomBank, MB, VietinBank và
 OceanBank để xin tạm hoãn thu hồi các khoản nợ gốc, lãi vay và xử lý tài sản đảm bảo.
-Đồng thời, số dư nợ vay ngắn hạn của Tổng công ty tại ngày 31 tháng 12 năm 2021 bao gồm khoản nợ vay dài hạn đến hạn 
-trả của Công ty PVD Oversea cho mục đích tài trợ xây dựng Giàn khoan PV DRILLING VI đã đến hạn thanh toán nhưng 
-chưa được Công ty PVD Oversea thanh toán với số tiền gốc là 2.200.000 USD tương đương với 49.808.000.000 VND, lãi 
-là 902.698 USD tương đương với 20.437.082.720 VND. Nợ gốc và lãi quá hạn đã được các Ngân hàng thương mại chấp 
+Đồng thời, số dư nợ vay ngắn hạn của Tổng công ty tại ngày 31 tháng 12 năm 2021 bao gồm khoản nợ vay dài hạn đến hạn
+trả của Công ty PVD Oversea cho mục đích tài trợ xây dựng Giàn khoan PV DRILLING VI đã đến hạn thanh toán nhưng
+chưa được Công ty PVD Oversea thanh toán với số tiền gốc là 2.200.000 USD tương đương với 49.808.000.000 VND, lãi
+là 902.698 USD tương đương với 20.437.082.720 VND. Nợ gốc và lãi quá hạn đã được các Ngân hàng thương mại chấp
 thuận việc gia hạn thanh toán trong năm 2022.
-Dự phòng sửa chữa 
+Dự phòng sửa chữa
 lớn tài sản cố định
-Dự phòng bảo hành 
+Dự phòng bảo hành
 sản phẩm hàng hóa
-Dự phòng trợ cấp 
+Dự phòng trợ cấp
 thôi việc
 Tổng
-VND
-VND
-VND
-VND
-Số dư đầu năm 
- 504.793.504.860 
- - 
- 24.331.524.975 
- 529.125.029.835 
+Số dư đầu năm
 Sử dụng trong năm
-(283.147.583.365)
- - 
- (558.612.605)
-(283.706.195.970)
 Phân loại từ dự phòng dài hạn
- 83.392.004.230 
- - 
- - 
- 83.392.004.230 
 Hoàn nhập dự phòng trong năm
- (84.413.573.625)
- - 
- (1.950.771.215)
- (86.364.344.840)
 Trích lập dự phòng trong năm
- 44.349.611.795 
- 11.337.303.480 
- 1.386.107.335 
- 57.073.022.610 
 Chênh lệch tỷ giá
- (1.323.534.215)
- (138.653.880)
- (217.871.850)
- (1.680.059.945)
 Số dư cuối năm
- 263.650.429.680 
- 11.198.649.600 
- 22.990.376.640 
- 297.839.455.920 
-Số cuối năm
-Số đầu năm
-VND
-VND
 Các khoản vay dài hạn
-3.954.111.703.280
- 3.827.880.284.500 
 Vay dài hạn đến hạn trả (Thuyết minh 19)
-(748.408.238.640)
- (597.346.361.165)
-3.205.703.464.640
- 3.230.533.923.335 
-Số đầu năm
 Trong năm
-Số cuối năm
-VND
-VND
-VND
 Giá trị
 Tăng
 Giảm
-Ảnh hưởng của 
-áp dụng tỷ giá 
+Ảnh hưởng của
+áp dụng tỷ giá
 chuyển đổi báo cáo
 Giá trị
-Vay dài hạn 
- 3.230.533.923.335 
-330.293.340.910
-(301.210.410.890)
-(53.913.388.715)
-3.205.703.464.640
- 3.230.533.923.335 
-330.293.340.910
-(301.210.410.890)
-(53.913.388.715)
-3.205.703.464.640
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Vay dài hạn
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-256
-257
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-Số cuối năm
-Số đầu năm
-VND
-VND
 Ngân hàng Thương mại Cổ phần Ngoại thương
 Việt Nam (“Vietcombank”)
-49.023.659.840
-50.127.730.425
-Ngân hàng Thương mại Cổ phần Quân đội (“MBBank”) và Ngân hàng Thương mại 
+Ngân hàng Thương mại Cổ phần Quân đội (“MBBank”) và Ngân hàng Thương mại
 Cổ phần Công thương Việt Nam (“Vietinbank”)
-246.073.526.080
-250.387.202.065
-Ngân hàng Thương mại Cổ phần Quân đội (“MBBank”) và Ngân hàng Thương mại 
+Ngân hàng Thương mại Cổ phần Quân đội (“MBBank”) và Ngân hàng Thương mại
 TNHH MTV Đại Dương (“OceanBank”)
-86.945.433.440
-88.441.938.065
 Ngân hàng Thương mại Cổ phần Đông Nam Á
 (“Seabank”) và Ngân hàng Thương mại Cổ phần
 Ngoại thương Việt Nam (“Vietcombank”)
-3.026.131.814.240
-3.214.374.548.345
 Ngân hàng Thương mại Cổ phần Quân đội (“MBBank”)
--
-3.877.366.375
 Ngân hàng Thương mại Cổ phần Tiên phong (“TPBank”)
-545.937.269.680
-220.671.499.225
-3.954.111.703.280
-3.827.880.284.500
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Chi tiết các khoản vay dài hạn như sau: 
+Chi tiết các khoản vay dài hạn như sau:
 Thông tin bổ sung cho các khoản vay của Tổng công ty:
 Ngân hàng
 Mục đích tài trợ xây dựng
 Lãi suất %
 Hình thức đảm bảo
- Dư nợ 
-cuối năm 
+Dư nợ
+cuối năm
 Đơn vị
 Vietcombank
-Giàn PV DRILLING V 
+Giàn PV DRILLING V
 LIBOR 6 tháng
 + biên
-Giàn PV DRILLING V và 
-doanh thu hình thành từ 
-vốn góp theo tỷ lệ góp vốn 
-vào BCC 
- 2.165.356 
-USD
-MBBank and  
+Giàn PV DRILLING V và
+doanh thu hình thành từ
+vốn góp theo tỷ lệ góp vốn
+vào BCC
+MBBank and
 Vietinbank
 Giàn PV DRILLING V
 LIBOR 6 tháng
 + biên
-Giàn PV DRILLING V và 
-doanh thu hình thành từ 
-vốn góp theo tỷ lệ góp vốn 
-vào BCC 
- 10.868.972 
-USD
-MBBank and 
+Giàn PV DRILLING V và
+doanh thu hình thành từ
+vốn góp theo tỷ lệ góp vốn
+vào BCC
+MBBank and
 OceanBank
 Giàn PV DRILLING V
 LIBOR 6 tháng
 + biên
-Giàn PV DRILLING V và 
-doanh thu hình thành từ 
-vốn góp theo tỷ lệ góp vốn 
-vào BCC 
- 3.840.346 
-USD
-Seabank and 
+Giàn PV DRILLING V và
+doanh thu hình thành từ
+vốn góp theo tỷ lệ góp vốn
+vào BCC
+Seabank and
 Vietcombank
 Giàn PV DRILLING VI
 LIBOR 3 tháng
-+ 3% 
 Giàn PV DRILLING VI
-tương ứng với tỷ lệ cho vay 
- 133.663.066 
-USD
+tương ứng với tỷ lệ cho vay
 TPBank
 Mua sắm tài sản cố định
-LIBOR 3 tháng + 
-3.8%/năm. tối thiểu 
-4.8%/năm 
-Tài sản cố định hình thành 
-trong tương lai 
-24.113.837
-USD
+LIBOR 3 tháng +
+3.8%/năm. tối thiểu
+Tài sản cố định hình thành
+trong tương lai
 Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:
-Số cuối năm
-Số đầu năm
-VND
-VND
 Trong vòng một năm
-748.408.238.640
- 597.346.361.165 
 Trong năm thứ hai
-293.372.176.400
- 234.418.879.365 
-Từ năm thứ ba đến năm thứ năm 
-861.098.951.840
- 692.660.538.095 
+Từ năm thứ ba đến năm thứ năm
 Sau năm năm
-2.051.232.336.400
- 2.303.454.505.875 
-3.954.111.703.280
- 3.827.880.284.500 
 Trừ: số phải trả trong vòng 12 tháng (được trình bày ở phần vay ngắn hạn)
-(748.408.238.640)
- (597.346.361.165)
 Số phải trả sau 12 tháng
-3.205.703.464.640
- 3.230.533.923.335 
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 22. DỰ PHÒNG PHẢI TRẢ DÀI HẠN
 23. QUỸ PHÁT TRIỂN KHOA HỌC VÀ CÔNG NGHỆ
-Theo Điều lệ của Tổng công ty, Tổng công ty được trích lập Quỹ Phát triển Khoa học và Công nghệ với tỷ lệ tối đa 10% thu 
+Theo Điều lệ của Tổng công ty, Tổng công ty được trích lập Quỹ Phát triển Khoa học và Công nghệ với tỷ lệ tối đa 10% thu
 nhập tính thuế để phát triển các hoạt động khoa học công nghệ.
 Tình hình trích lập và sử dụng Quỹ Phát triển Khoa học và Công nghệ trong năm như sau:
 Dự phòng sửa chữa lớn tài sản cố định
-VND
-Số dư đầu năm 
-  154.424.129.185
+Số dư đầu năm
 Trích lập dự phòng trong năm
-58.964.788.185
 Phân loại sang dự phòng ngắn hạn
-(83.392.004.230)
 Chênh lệch tỷ giá
-(2.439.440.180)
 Số dư cuối năm
-127.557.472.960
 Quỹ phát triển khoa học công nghệ
-VND
 Khả dụng
 Đã hình thành
 tài sản cố định
-Tổng cộng
 Số dư đầu năm trước
-107.942.484.218
-76.304.333.142
- 184.246.817.360 
 Tăng trong năm
- 20.937.125.719 
- 5.866.250.000 
- 26.803.375.719 
 - Trích lập
- 20.937.125.719 
- - 
- 20.937.125.719 
 - Hình thành tài sản cố định
- - 
- 5.866.250.000 
- 5.866.250.000 
 Giảm trong năm
- (40.866.044.887)
- (15.637.062.951)
- (56.503.107.838)
 - Sử dụng
- (6.550.176.959)
- - 
- (6.550.176.959)
 - Hoàn nhập
- (34.315.867.928)
- - 
- (34.315.867.928)
 - Khấu hao tài sản cố định
- - 
- (15.637.062.951)
- (15.637.062.951)
 Chênh lệch tỷ giá do chuyển đổi
- (38.686.718)
- (270.299.998)
- (308.986.716)
 Số dư đầu năm nay
- 87.974.878.332 
- 66.263.220.193 
- 154.238.098.525 
 Tăng trong năm
-    2.859.195.244 
-4.886.698.278 
-   7.745.893.522 
 - Trích lập
-   2.859.195.244 
- 2.859.195.244 
 - Hình thành tài sản cố định
-4.886.698.278 
- 4.886.698.278 
 Giảm trong năm
-(54.030.373.636)
-                    (7.438.312.795)
-(61.468.686.431)
 - Sử dụng
-(5.364.549.278)
- - 
-(5.364.549.278)
-      + Công ty Mẹ
-                        (1.188.526.000)
-                        (1.188.526.000)
-      + Công ty Con
-                        (4.176.023.278)
-                        (4.176.023.278)
++ Công ty Mẹ
++ Công ty Con
 - Hoàn nhập (*)
- (48.665.824.358)
-(48.665.824.358)
 - Khấu hao tài sản cố định
- (7.438.312.795)
-(7.438.312.795)
 Chênh lệch tỷ giá do chuyển đổi
- 344.940.300 
- (9.238.497.836)
-(8.893.557.536)
 Số dư cuối năm nay
-           37.148.640.240 
-54.473.107.840 
-91.621.748.080 
-(*) Trong năm 2021, Tổng công ty đã thực hiện hoàn nhập Quỹ Phát triển Khoa học và Công nghệ đã trích của năm 2016 
-nhưng chưa sử dụng sau 5 năm tại PVD Logging, PVD Ofshore và PVD  Deepwater với số tiền 48.665.824.358 VND, tương 
-đương với 2.131.266 USD (năm 2020: 34.315.867.928 VND, tương đương với 1.482.242 USD). Số tiền hoàn nhập trong năm 
-được xác định dựa theo số tiền Việt Nam đồng màTổng công ty đã kê khai trên tờ khai quyết toán thuế thu nhập doanh 
+(*) Trong năm 2021, Tổng công ty đã thực hiện hoàn nhập Quỹ Phát triển Khoa học và Công nghệ đã trích của năm 2016
+nhưng chưa sử dụng sau 5 năm tại PVD Logging, PVD Ofshore và PVD  Deepwater với số tiền 48.665.824.358 VND, tương
+đương với 2.131.266 USD (năm 2020: 34.315.867.928 VND, tương đương với 1.482.242 USD). Số tiền hoàn nhập trong năm
+được xác định dựa theo số tiền Việt Nam đồng màTổng công ty đã kê khai trên tờ khai quyết toán thuế thu nhập doanh
 nghiệp với cơ quan thuế tại năm thực hiện trích lập Quỹ.
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-258
-259
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-24. VỐN CHỦ SỞ HỮU
-Vốn điều lệ
-Theo Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh lần 15, vốn điều lệ của Tổng công ty tại ngày 31 tháng 12 năm 2021 
-là 4.215.457.890.000 VND, tương đương 213.404.459 USD. Số cổ phần được duyệt và đã phát hành của Tổng công ty:
-Số cuối năm
-Số đầu năm
-Số lượng cổ phần
-VND
-Số lượng cổ phần
-VND
-Số cổ phần được duyệt
- 421.545.789 
- 4.215.457.890.000 
- 421.545.789 
- 4.215.457.890.000 
-Số cổ phần đã phát hành
-Cổ phần phổ thông
- 421.545.789 
- 4.215.457.890.000 
- 421.545.789 
- 4.215.457.890.000 
- 421.545.789 
- 4.215.457.890.000 
- 421.545.789 
- 4.215.457.890.000 
-Cổ phiếu quỹ
-Cổ phần phổ thông
- (416.000)
- (4.160.000.000)
- (416.000)
- (4.160.000.000)
- (416.000)
- (4.160.000.000)
- (416.000)
- (4.160.000.000)
-Số cổ phần hiện đang lưu hành
-Cổ phần phổ thông
- 421.129.789 
- 4.211.297.890.000 
- 421.129.789 
- 4.211.297.890.000 
- 421.129.789 
- 4.211.297.890.000 
- 421.129.789 
- 4.211.297.890.000 
-Cổ phần phổ thông có mệnh giá là 10.000 đồng. Tổng công ty chỉ có một loại cổ phần phổ thông không hưởng cổ tức cố 
-định. Cổ đông sở hữu cổ phần phổ thông được nhận cổ tức khi được công bố và có quyền biểu quyết theo tỷ lệ một quyền 
-biểu quyết cho mỗi cổ phần sở hữu tại các cuộc họp cổ đông của Tổng công ty. Tất cả các cổ phần đều có quyền thừa 
-hưởng như nhau đối với giá trị tài sản thuần của Tổng công ty. 
-Cổ đông sáng lập đồng thời là cổ đông chính của Tổng công ty là PetroVietnam hiện sở hữu 212.497.404 cổ phần tương 
-ứng với tỷ lệ 50,4% tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020 so với tổng số cổ phần đã phát hành của 
-Tổng công ty.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Vốn góp của 
-chủ sở hữu
-Thặng dư
-vốn cổ phần
-Cổ phiếu quỹ
-Chênh lệch tỷ giá 
-hối đoái
-Quỹ đầu tư
-phát triển
-Lợi nhuận sau thuế 
-chưa phân phối
-Lợi ích cổ đông
-không kiểm soát
-Tổng
-VND
-VND
-VND
-VND
-VND
-VND
-VND
-VND
-Số dư đầu năm trước 
-4.215.457.890.000
-2.434.086.374.663
-(20.948.559.850)
-1.683.839.941.483
-1.603.935.262.878
-3.805.222.417.790
-246.868.538.156
-13.968.461.865.120
-Cổ tức công bố
--
--
--
--
--
--
-(2.792.342.000)
-(2.792.342.000)
-Chênh lệch tỷ giá 
-hối đoái
- - 
- - 
- - 
-(45.837.445.246)
- - 
-(315.478.677)
-252.044.937
-(45.900.878.986)
-Lợi nhuận trong năm
- - 
- - 
- - 
- - 
- - 
-183.824.148.975
--
-183.824.148.975
-Phân phối quỹ
- - 
- - 
- - 
- - 
-1.985.741.769.472
-(2.053.457.416.690)
-(682.584.084)
-(68.398.231.302)
-Phân bổ cho cổ đông 
-không kiểm soát
- - 
- - 
- - 
- - 
--
-(4.152.733.776)
-4.152.733.776
--
-Phân phối cho các 
-bên BCC (Thuyết 
-minh số 25)
- - 
- - 
- - 
- - 
- - 
-6822784908
--
-6.822.784.908
-Số dư đầu năm nay
-4.215.457.890.000
-2.434.086.374.663
-(20.948.559.850)
-1.638.002.496.237
-3.589.677.032.350
-1.937.943.722.530
-247.798.390.785
-14.042.017.346.715
-Cổ tức công bố
--
--
--
--
--
--
-(2.792.342.000)
-(2.792.342.000)
-Chênh lệch tỷ giá 
-hối đoái
- - 
- - 
- - 
-(187.238.011.615)
- - 
-822.539.535
-1.070.207.945
-(185.345.264.135)
-Lợi nhuận trong năm
- - 
- - 
- - 
- - 
- - 
-36.769.967.410
--
-36.769.967.410
-Phân phối quỹ
- - 
- - 
- - 
- - 
-91.933.710
-(35.418.369.155)
-(712.360.660)
-(36.038.796.105)
-Phân bổ cho cổ đông 
-không kiểm soát
- - 
- - 
- - 
- - 
--
-5.814.339.040
-(5.814.339.040)
--
-Phân phối cho các 
-bên BCC (Thuyết 
-minh số 25)
--
--
--
--
--
-(23.030.444.765)
--
-(23.030.444.765)
-Số dư cuối năm nay
-4.215.457.890.000
-2.434.086.374.663
-(20.948.559.850)
-1.450.764.484.622
-3.589.768.966.060
-1.922.901.754.595
-239.549.557.030
-13.831.580.467.120
-Thay đổi vốn chủ sở hữu trong năm như sau:
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-260
-261
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Chênh lệch tỷ giá thể hiện khoản chênh lệch tỷ giá từ việc chuyển đổi báo cáo tài chính của chi nhánh Algeria từ Dinar 
-Algeria sang Đô la Mỹ và chuyển đổi báo cáo tài chính các công ty con từ Đồng Việt Nam sang Đô la Mỹ và chuyển đổi 
-báo cáo tài chính hợp nhất từ Đô la Mỹ sang Đồng Việt Nam.
-Thực hiện Nghị quyết số 02/2021/NQ-DHDCD ngày 04 tháng 8 năm 2021 của Đại hội Đồng Cổ đông, Hội đồng quản trị 
-đã ban hành Nghị quyết số 02/02/2022/NQ-HĐQT ngày 18/02/2022 liên quan đến việc chia cổ tức năm 2019 và 2020 từ 
-nguồn lợi nhuận sau thuế với tỷ lệ 10% mỗi năm và gia hạn thời gian chi trả cổ tức năm 2019 và 2020. Theo đó,  thời gian 
-thực hiện chi trả cổ tức năm 2019 và 2020 dự kiến trước ngày 30 tháng 6 năm 2022 sau khi nhận được chấp thuận của 
-Ủy Ban Chứng khoán Nhà Nước.
-Trong năm 2021, Tổng công ty đã trích Quỹ Khen thưởng và Phúc lợi, Quỹ Đầu tư và Phát triển từ lợi nhuận sau thuế theo 
-quy định. 
-CLTG từ việc chuyển đổi báo 
-cáo tài chính của cơ sở
-hoạt động nước ngoài
-CLTG từ việc chuyển đổi báo 
-cáo tài chính của
-các công ty con
-Tổng
-VND
-VND
-VND
-Số dư đầu năm trước
- (47.578.558.855)
-1.731.418.500.338
- 1.683.839.941.483 
-Phát sinh trong năm
-        (15.920.726.178)
-             (30.546.719.068)
- (45.837.445.246)
-Số dư đầu năm nay
- (62.869.285.033)
- 1.700.871.781.270 
- 1.638.002.496.237 
-Phát sinh trong năm
- (1.710.295.830)
- (185.527.715.785)
- (187.238.011.615)
-Số dư cuối năm nay
- (64.579.580.863)
- 1.515.344.065.485 
- 1.450.764.484.622 
-Chi tiết chênh lệch tỷ giá hối đoái (“CLTG”) như sau:
-25. LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIỂM SOÁT VÀ CÁC BÊN TRONG HỢP ĐỒNG HỢP TÁC KINH DOANH
-Lợi ích của cổ đông không kiểm soát và các bên trong hợp đồng hợp tác kinh doanh thể hiện phần nắm giữ của các cổ 
-đông khác đối với kết quả hoạt động kinh doanh của PVD Training và PVD Overseas và lợi ích của các bên trong hợp 
-đồng hợp tác kinh doanh với chi tiết như sau: 
-(*) Chi tiết lợi ích của cổ đông không kiểm soát tại PVD Training và PVD Overseas
-Năm nay
-Năm trước
-VND
-VND
-(Lỗ)/lãi của cổ đông không kiểm soát tại 
-PVD Training và PVD Overseas (*)
-(5.814.339.040)
- 4.152.733.776 
-Lãi/(lỗ) của các bên trong hợp đồng
-hợp tác kinh doanh (**)
-23.030.444.765
- (6.822.784.908)
-17.216.105.725
- (2.670.051.132)
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Tỷ lệ lợi ích của cổ đông không kiểm soát tại PVD Training và PVD Overseas tại ngày 31 tháng 12 năm 2021 và ngày 31 
-tháng 12 năm 2020 được xác định như sau:
-PVD Training
-PVD Overseas
-VND
-USD
-Vốn điều lệ của công ty con
- 28.958.670.000 
- 66.698.050 
-Trong đó:
-Vốn phân bổ cho Công ty mẹ
- 14.996.960.000 
- 54.400.000 
-Vốn phân bổ cho cổ đông không kiểm soát
- 13.961.710.000 
- 12.298.050 
-Tỷ lệ lợi ích của cổ đông không kiểm soát
-48.21%
-18.44%
-Lợi ích cổ đông không kiểm soát trong tài sản thuần tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020 
-như sau:
-Số cuối năm
-Số đầu năm
-VND
-VND
-Lợi ích của cổ đông không kiểm soát
-239.549.557.030
-247.798.390.785
-Chi tiết như sau:
-PVD Training
-Vốn điều lệ
-13.961.710.000
- 13.961.710.000 
-Thặng dư vốn cổ phần
-150.655.698
- 150.655.698 
-Các quỹ khác
-10.153.582.750
- 8.855.174.165 
-Lợi nhuận chưa phân phối
-23.628.150.890
- 21.007.423.083 
-PVD Overseas
-Vốn điều lệ
-263.191.917.150
- 263.191.917.150 
-Chênh lệch tỷ giá do quy đổi báo cáo tài chính
-(4.090.112.893)
- (2.897.965.104)
-Lỗ lũy kế chưa phân phối
-(67.446.346.565)
- (56.470.524.207)
-Lợi ích của cổ đông không kiểm soát trong kết quả hoạt động kinh doanh:
-Số cuối năm
-Số đầu năm
-VND
-VND
-(Lỗ)/lãi trong năm
-(47.440.329.045)
- 7.280.549.631 
-(Lỗ)/lãi của cổ đông không kiểm soát
-(5.814.339.040)
- 4.152.733.776 
-(**) Chi tiết lợi ích của các bên trong hợp đồng hợp tác kinh doanh (“BCC”)
-Tổng công ty cùng với Petrovietnam, Ngân hàng Thương mại Cổ phần (“TMCP”) Quân đội (gọi tắt là “MBBank”) và Ngân 
-hàng TMCP Đại Dương (gọi tắt là “OceanBank”) hợp tác cùng tham gia dự án góp vốn đầu tư đóng mới và kinh doanh giàn 
-khoan tiếp trợ nửa nổi nửa chìm (giàn khoan “TAD” hay giàn khoan “PV DRILLING V”) với thời hạn hợp đồng hợp tác kinh 
-doanh là 17 năm tính từ ngày 10 tháng 9 năm 2009. Theo thỏa thuận giữa các bên, Tổng công ty được ủy quyền quản lý và 
-điều hành dự án cũng như thực hiện hạch toán kết quả hoạt động kinh doanh của hợp đồng hợp tác kinh doanh và phân 
-chia lợi nhuận cho các bên theo tỷ lệ vốn góp.
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-262
-263
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Tỷ lệ vốn góp của các bên theo thỏa thuận tại BCC như sau:
-Tỷ lệ góp
-%
-Phần vốn góp của Petrovietnam
- 23,00 
-Phần vốn góp của Tổng công ty
- 62,43 
-Phần vốn góp của MBBank
- 9,71 
-Phần vốn góp của OceanBank
- 4,86 
-Tình hình tài chính của BCC được trình bày trong báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam của Tổng 
-công ty như sau:
-Số cuối năm
-Số đầu năm
-VND
-VND
-Tổng tài sản
- 2.916.806.171.742 
- 2.916.806.171.742 
-Trong đó: Giá trị còn lại của giàn khoan PV DRILLING V
- 2.334.776.580.294 
- 2.813.090.939.700 
-Phần vốn thực góp của đối tác trong BCC bao gồm Petrovietnam, MBBank và OceanBank nhằm ứng vốn tham gia dự án 
-hợp tác góp vốn đầu tư đóng mới và kinh doanh giàn khoan TAD được ghi nhận là phải trả dài hạn khác. Số dư khoản phải 
-trả dài hạn khác này tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020 như sau:
-Số cuối năm
-Số đầu năm
-VND
-VND
-Petrovietnam
- 278.173.894.859 
- 278.173.894.859 
-MBBank
- 133.229.238.748 
- 133.229.238.748 
-OceanBank
- 68.756.768.760 
- 68.756.768.760 
-Chênh lệch tỷ giá do quy đổi báo cáo tài chính
- (5.865.825.967)
- (3.722.966.242)
- 474.294.076.400 
- 476.436.936.125 
-Tình hình hoạt động kinh doanh và phân chia lãi/(lỗ) theo tỷ lệ vốp góp cho năm tài chính kết thúc ngày 31 tháng 12 năm 
-2021 và ngày 31 tháng 12 năm 2020 như sau:
-Năm nay
-Năm trước
-VND
-VND
-Doanh thu 
- 18.565.365.240 
- 18.294.661.990 
-Giá vốn
- (70.950.712.833)
- 30.262.251.027 
-Chi phí quản lý
- 1.805.058.325 
- 1.706.413.678 
-Chi phí tài chính
- 12.342.137.167 
- 14.908.498.393 
-Doanh thu tài chính
- 5.426.416.521 
- 105.960.622 
-Lợi nhuận khác
- (17.255.247.510)
- 10.947.757.667 
- 1.934.554.308 
-Lỗ thuần 
- 61.605.497.284 
- (17.528.782.819)
-Điều chỉnh cho các khoản chi phí không thuộc BCC
- (305.378.709)
- (631.440.913)
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Đến ngày lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam này, kết quả hoạt động kinh doanh của BCC 
-cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 chưa được kiểm tra và quyết toán bởi các bên trong BCC. Do đó, 
-Tổng công ty tạm thời ghi nhận kết quả hoạt động kinh doanh và phân phối lỗ cho các bên trong BCC theo tỷ lệ vốn góp.
-26. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
-Tài sản thuê ngoài
-Tổng số tiền thuê tối thiểu trong tương lai của hợp đồng thuê hoạt động tài sản không hủy ngang theo các thời hạn được 
-trình bày ở Thuyết minh số 38.
-Số cuối năm
-Số đầu năm
-Đồng Việt Nam ("VND")
-2.022.007.680.898
-2.435.065.418.798
-Euro ("EUR")
-3.713
-13.072
-Bảng Anh ("GBP")
-2.775
-2.775
-Myanmar Kyat ("MMK")
--
-1.342.675
-Đô la Singapore ("SGD")
-33.737
-34.162
-Dinar Algeria ("DZD")
-25.371.859
-3.812.471
-Baht Thái ("THB)
-380.071
-2.259
-Malaysia Ringgit ("MYR")
-2.259
-44.655
-Brunei ("BND")
-150.797
--
-Năm nay
-Năm trước
-Lỗ thuần phân phối cho các bên BCC
- 61.300.118.575 
- (18.160.223.732)
-Phân chia theo tỷ lệ vốn góp 
-Tổng công ty
- 38.269.673.810 
- (11.337.438.824)
-Các bên BCC khác:
- 23.030.444.765 
- (6.822.784.908)
-  Petrovietnam
- 14.099.027.272 
- (4.176.851.458)
-  MBBank
- 5.952.241.514 
- (1.763.357.724)
-  OceanBank
- 2.979.175.979 
- (882.575.726)
-27. BỘ PHẬN THEO LĨNH VỰC KINH DOANH VÀ BỘ PHẬN THEO KHU VỰC ĐỊA LÝ
-Bộ phận theo lĩnh vực kinh doanh
-Để phục vụ mục đích quản lý, cơ cấu tổ chức của Tổng công ty được chia thành 3 bộ phận hoạt động bao gồm bộ phận 
-cung cấp dịch vụ khoan, bộ phận thương mại và bộ phận cung cấp các dịch vụ khác. Tổng công ty lập báo cáo bộ phận 
-theo ba bộ phận kinh doanh này. 
-Hoạt động chủ yếu của ba bộ phận kinh doanh trên như sau:
-»	 Bộ phận cung cấp dịch vụ khoan (gọi tắt là “Dịch vụ khoan”): cung ứng giàn khoan và dịch vụ khoan.
-»	 Bộ phận thương mại (gọi tắt là “Thương mại”): cung ứng vật tư, thiết bị khoan.
-»	 Bộ phận cung cấp các dịch vụ khác (gọi tắt là “Dịch vụ khác”): cung cấp dịch vụ giếng khoan, dịch vụ đo địa vật 
-lý giếng khoan, dịch vụ ứng cứu sự cố dầu tràn, cung ứng lao động cho các giàn khoan, tư vấn đầu tư - quản lý dự 
-án, hoạt động tư vấn quản lý, và cung cấp các dịch vụ khác liên quan đến ngành công nghiệp dầu khí. 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-264
-265
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Thông tin bộ phận theo lĩnh vực kinh doanh của Tổng công ty như sau:
 Dịch vụ khoan
 Thương mại
 Dịch vụ khác
 Tổng
-VND
-VND
-VND
-VND
 Tài sản
 Tài sản bộ phận
- 18.089.251.531.760 
- 435.520.676.560 
- 2.236.430.275.840 
- 20.761.202.484.160 
 Tài sản không phân bổ
- - 
- - 
- - 
- - 
 Tổng tài sản hợp nhất
- 20.761.202.484.160 
 Nợ phải trả
 Nợ phải trả bộ phận
- 5.433.074.978.400 
- 174.625.059.440 
- 1.321.921.979.200 
- 6.929.622.017.040 
 Nợ phải trả không phân bổ
- - 
- - 
- - 
- - 
 Tổng nợ phải trả hợp nhất
- 6.929.622.017.040 
 Bảng cân đối kế toán
 Tại ngày 31 tháng 12 năm 2021
 Kết quả hoạt động kinh doanh
@@ -3387,61 +491,27 @@ Dịch vụ khoan
 Thương mại
 Dịch vụ khác
 Tổng
-VND
-VND
-VND
-VND
 Doanh thu gộp
- 1.837.734.722.430 
- 495.288.090.110 
- 1.662.449.152.130 
- 3.995.471.964.670 
 Doanh thu thuần
- 1.837.734.722.430 
- 495.288.090.110 
- 1.662.449.152.130 
- 3.995.471.964.670 
 Giá vốn hàng bán
- 1.835.180.033.970 
- 463.541.343.165 
- 1.325.510.141.170 
- 3.624.231.518.305 
-Lợi nhuận gộp 
- 2.554.688.460 
- 31.746.746.945 
- 336.939.010.960 
- 371.240.446.365 
+Lợi nhuận gộp
 Doanh thu hoạt động tài chính
- 163.817.011.240 
 Chi phí tài chính
- 170.854.507.055 
 Chi phí bán hàng
- 12.925.934.430 
 Chi phí quản lý doanh nghiệp
- 385.609.141.765 
 Lỗ thuần từ hoạt động kinh doanh
- (34.332.125.645)
 Thu nhập khác
- 51.561.635.515 
 Chi phí khác
- 58.316.160.010 
-Lỗ khác 
- (6.754.524.495)
-Tổng lỗ kế toán trước thuế 
- (41.086.650.140)
+Lỗ khác
+Tổng lỗ kế toán trước thuế
 Lợi nhuận từ đầu tư vào liên doanh
- 103.585.930.965 
-Chi phí thuế thu nhập doanh nghiệp 
+Chi phí thuế thu nhập doanh nghiệp
 hiện hành
- 43.888.070.775 
-Thu nhập thuế thu nhập doanh 
+Thu nhập thuế thu nhập doanh
 nghiệp hoãn lại
- (18.158.757.360)
-Lợi nhuận sau thuế 
- 36.769.967.410 
-MẪU SỐ B 09-DN/HN
+Lợi nhuận sau thuế
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Bảng cân đối kế toán
 Tại ngày 31 tháng 12 năm 2020
@@ -3451,114 +521,51 @@ Dịch vụ khoan
 Thương mại
 Dịch vụ khác
 Tổng
-VND
-VND
-VND
-VND
 Tài sản
 Tài sản bộ phận
- 18.488.876.322.125 
- 621.520.718.335 
- 1.745.793.165.200 
- 20.856.190.205.660 
 Tài sản không phân bổ
- - 
- - 
- - 
- - 
 Tổng tài sản hợp nhất
- 20.856.190.205.660 
 Nợ phải trả
 Nợ phải trả bộ phận
- 5.593.388.207.835 
- 364.838.695.750 
- 855.945.955.360 
- 6.814.172.858.945 
 Nợ phải trả không phân bổ
- - 
- - 
- - 
- - 
 Tổng nợ phải trả hợp nhất
- 6.814.172.858.945 
 Dịch vụ khoan
 Thương mại
 Dịch vụ khác
 Tổng
-VND
-VND
-VND
-VND
 Doanh thu gộp
- 3.076.172.479.431 
- 327.612.046.647 
- 1.824.854.308.245 
- 5.228.638.834.323 
 Doanh thu thuần
- 3.076.172.479.431 
- 327.612.046.647 
- 1.824.854.308.245 
- 5.228.638.834.323 
 Giá vốn hàng bán
- 3.143.805.648.774 
- 307.562.215.701 
- 1.448.475.976.554 
- 4.899.843.841.029 
-(Lỗ)/Lợi nhuận gộp 
- (67.633.169.343)
- 20.049.830.946 
- 376.378.331.691 
- 328.794.993.294 
+(Lỗ)/Lợi nhuận gộp
 Doanh thu hoạt động tài chính
- 157.249.532.793 
 Chi phí tài chính
- 201.037.635.156 
 Chi phí bán hàng
- 16.370.720.328 
 Chi phí quản lý doanh nghiệp
- 311.282.604.552 
 Lỗ thuần từ hoạt động kinh doanh
- (42.646.433.949)
 Thu nhập khác
- 79.717.991.343 
 Chi phí khác
- 49.836.555.774 
-Lợi nhuận khác 
- 29.881.435.569 
-Tổng lỗ kế toán trước thuế 
- (12.764.998.380)
-Lợi nhuận từ đầu tư vào liên 
+Lợi nhuận khác
+Tổng lỗ kế toán trước thuế
+Lợi nhuận từ đầu tư vào liên
 doanh
- 216.407.722.962 
-Chi phí thuế thu nhập doanh 
+Chi phí thuế thu nhập doanh
 nghiệp hiện hành
- 43.080.862.464 
-Thu nhập thuế thu nhập 
+Thu nhập thuế thu nhập
 doanh nghiệp hoãn lại
- (23.262.286.857)
-Lợi nhuận sau thuế 
- 183.824.148.975 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Lợi nhuận sau thuế
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-266
-267
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Bộ phận theo khu vực địa lý
-Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021, Tổng công ty có hoạt động kinh doanh tại các khu vực địa 
-lý là Việt Nam, Algeria, Myanmar, Cambodia, Brunei và Malaysia. Thông tin bộ phận theo khu vực địa lý của Tổng 
+Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021, Tổng công ty có hoạt động kinh doanh tại các khu vực địa
+lý là Việt Nam, Algeria, Myanmar, Cambodia, Brunei và Malaysia. Thông tin bộ phận theo khu vực địa lý của Tổng
 công ty như sau:
 Việt Nam
 Malaysia
@@ -3567,56 +574,19 @@ Brunei
 Myanmar
 Algeria
 Tổng
-VND
-VND
-VND
-VND
-VND
-VND
-VND
 Tài sản
 Tài sản bộ phận
- 13.112.540.225.200 
- 3.511.204.794.640 
- 83.547.101.520 
-3.918.157.323.040 
- 55.875.520 
- 135.697.164.240 
- 20.761.202.484.160 
-Tài sản không 
+Tài sản không
 phân bổ
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-Tổng tài sản 
+Tổng tài sản
 hợp nhất
- 20.761.202.484.160 
 Nợ phải trả
 Nợ phải trả
 bộ phận
- 6.682.620.410.177 
- 96.548.412.218 
- 11.566.889.200 
- 68.930.762.800 
- 55.875.520 
- 69.899.667.126 
- 6.929.622.017.040 
-Nợ phải trả 
+Nợ phải trả
 không phân bổ
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-Tổng nợ phải 
+Tổng nợ phải
 trả hợp nhất
- 6.929.622.017.040 
 Bảng cân đối kế toán
 Tại ngày 31 tháng 12 năm 2021
 Việt Nam
@@ -3626,80 +596,31 @@ Brunei
 Myanmar
 Algeria
 Tổng
-VND
-VND
-VND
-VND
-VND
-VND
-VND
 Doanh thu gộp
- 3.739.187.767.365 
- 37.641.807.710 
- 80.736.298.525 
- 45.745.058.645 
- - 
- 92.161.032.425 
- 3.995.471.964.670 
 Doanh thu thuần
- 3.739.187.767.365 
- 37.641.807.710 
- 80.736.298.525 
- 45.745.058.645 
- - 
- 92.161.032.425 
- 3.995.471.964.670 
 Giá vốn hàng bán
- 3.362.164.156.530 
- 48.184.087.830 
- 74.638.412.495 
- 45.320.624.500 
- - 
- 93.924.236.950 
- 3.624.231.518.305 
-Lợi nhuận/(lỗ) gộp 
- 377.023.610.835 
- (10.542.280.120)
- 6.097.886.030 
- 424.434.145 
- - 
- (1.763.204.525)
- 371.240.446.365 
+Lợi nhuận/(lỗ) gộp
 Doanh thu hoạt động tài chính
- 163.817.011.240 
 Chi phí tài chính
- 170.854.507.055 
 Chi phí bán hàng
- 12.925.934.430 
 Chi phí quản lý doanh nghiệp
- 385.609.141.765 
 Lỗ thuần từ hoạt động
 kinh doanh
- (34.332.125.645)
 Thu nhập khác
- 51.561.635.515 
 Chi phí khác
- 58.316.160.010 
-Lỗ nhuận khác 
- (6.754.524.495)
-Tổng lỗ kế toán trước thuế 
- (41.086.650.140)
+Lỗ nhuận khác
+Tổng lỗ kế toán trước thuế
 Lợi nhuận từ đầu tư vào
 liên doanh
- 103.585.930.965 
-Chi phí thuế thu nhập 
+Chi phí thuế thu nhập
 doanh nghiệp hiện hành
- 43.888.070.775 
-Thu nhập thuế thu nhập 
+Thu nhập thuế thu nhập
 doanh nghiệp hoãn lại
- (18.158.757.360)
-Lợi nhuận sau thuế 
- 36.769.967.410 
+Lợi nhuận sau thuế
 Kết quả hoạt động kinh doanh
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Bảng cân đối kế toán
 Tại ngày 31 tháng 12 năm 2020
@@ -3712,54 +633,17 @@ Brunei
 Myanmar
 Algeria
 Tổng
-VND
-VND
-VND
-VND
-VND
-VND
-VND
 Tài sản
 Tài sản bộ phận
- 17.500.728.977.410 
- 326.463.145.905 
- 2.962.399.152.135 
- 5.183.750.330 
- 1.396.496.875 
- 60.018.683.005 
- 20.856.190.205.660 
 Tài sản không
 phân bổ
- - 
- - 
- - 
- - 
- - 
- - 
- - 
 Tổng tài sản hợp nhất
- 20.856.190.205.660 
 Nợ phải trả
 Nợ phải trả bộ phận
- 6.675.185.704.115 
- 26.060.186.550 
- 58.968.816.810 
- 5.183.750.330 
- 1.188.652.070 
- 47.585.749.070 
- 6.814.172.858.945 
-Nợ phải trả không 
+Nợ phải trả không
 phân bổ
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-Tổng nợ phải trả 
+Tổng nợ phải trả
 hợp nhất
- 6.814.172.858.945 
 Việt Nam
 Malaysia
 Cambodia
@@ -3767,92 +651,36 @@ Brunei
 Myanmar
 Algeria
 Tổng
-VND
-VND
-VND
-VND
-VND
-VND
-VND
 Doanh thu gộp
- 4.032.903.320.262 
- 1.056.584.414.424 
- 136.218.330.957 
-- 
-- 
- 2.932.768.680 
- 5.228.638.834.323 
 Doanh thu thuần
- 4.032.903.320.262 
- 1.056.584.414.424 
- 136.218.330.957 
-- 
-- 
- 2.932.768.680 
- 5.228.638.834.323 
 Giá vốn hàng bán
- 3.795.970.267.965 
- 954.472.715.442 
- 122.735.558.973 
-- 
-- 
- 26.665.298.649 
- 4.899.843.841.029 
-Lợi nhuận/(lỗ) gộp 
- 236.933.052.297 
- 102.111.698.982 
- 13.482.771.984 
-- 
-- 
- (23.732.529.969)
- 328.794.993.294 
+Lợi nhuận/(lỗ) gộp
 Doanh thu hoạt động tài chính
- 157.249.532.793 
 Chi phí tài chính
- 201.037.635.156 
 Chi phí bán hàng
- 16.370.720.328 
 Chi phí quản lý doanh nghiệp
- 311.282.604.552 
 Lỗ thuần từ hoạt động
 kinh doanh
- (42.646.433.949)
 Thu nhập khác
- 79.717.991.343 
 Chi phí khác
- 49.836.555.774 
-Lợi nhuận khác 
- 29.881.435.569 
-Tổng lỗ kế toán trước thuế 
- (12.764.998.380)
+Lợi nhuận khác
+Tổng lỗ kế toán trước thuế
 Lợi nhuận từ đầu tư
 vào liên doanh
- 216.407.722.962 
 Chi phí thuế thu nhập
 doanh nghiệp hiện hành
- 43.080.862.464 
 Thu nhập thuế thu nhập
 doanh nghiệp hoãn lại
- (23.262.286.857)
-Lợi nhuận sau thuế 
- 183.824.148.975 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Lợi nhuận sau thuế
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-268
-269
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 28. DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
 29. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
@@ -3860,691 +688,243 @@ tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 31. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
 Năm nay
 Năm trước
-VND
-VND
 Doanh thu bán hàng hóa
-495.288.090.110
- 327.612.046.647 
 Doanh thu cung cấp dịch vụ khoan
-1.837.734.722.430
- 3.076.172.479.431 
 Doanh thu cung cấp dịch vụ kỹ thuật giếng khoan và các dịch vụ khác
-1.662.449.152.130
- 1.824.854.308.245 
-3.995.471.964.670
- 5.228.638.834.323 
 Doanh thu từ các bên liên quan: xem Thuyết minh số 41.
 Năm nay
 Năm trước
-VND
-VND
 Giá vốn bán hàng hóa
-463.541.343.165
- 307.562.215.701 
 Giá vốn cung cấp dịch vụ khoan
-1.835.180.033.970
- 3.143.805.648.774 
 Giá vốn cung cấp dịch vụ kỹ thuật giếng khoan và các dịch vụ khác
-1.325.510.141.170
- 1.448.475.976.554 
-3.624.231.518.305
- 4.899.843.841.029 
 Năm nay
 Năm trước
-VND
-VND
 Lãi tiền gửi
-122.629.704.420
- 109.719.603.753 
-Lãi chênh lệch tỷ giá 
-41.187.306.820
- 47.529.929.040 
-163.817.011.240
- 157.249.532.793 
+Lãi chênh lệch tỷ giá
 Năm nay
 Năm trước
-VND
-VND
 Chi phí nguyên liệu, vật liệu
- 823.147.105.845 
- 572.035.512.390 
 Chi phí nhân công
- 1.752.459.492.915 
- 1.697.435.927.049 
 Chi phí khấu hao tài sản cố định
- 486.576.697.455 
- 488.324.043.000 
 Chi phí thuê giàn khoan
- 235.590.293.450 
- 1.366.292.218.503 
 Chi phí dịch vụ mua ngoài
- 565.351.030.820 
- 933.167.382.615 
 Trích lập dự phòng
- 16.008.294.070 
- 47.251.445.661 
 Chi phí khác
- 143.633.679.945 
- 122.990.636.691 
- 4.022.766.594.500 
- 5.227.497.165.909 
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 32. CHI PHÍ TÀI CHÍNH
 33. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
 34. THU NHẬP KHÁC
 Năm nay
 Năm trước
-VND
-VND
 Chi phí lãi vay
- 109.283.560.320 
- 118.896.544.398 
-Chênh lệch tỷ giá 
- 21.903.788.700 
- 42.746.747.232 
+Chênh lệch tỷ giá
 Chi phí hợp đồng hoán đổi tiền tệ
- 39.667.158.035 
- 39.394.343.526 
-170.854.507.055
- 201.037.635.156 
 Năm nay
 Năm trước
-VND
-VND
 Chi phí nhân công
- 260.804.357.925 
- 257.286.045.588 
 Chi phí khấu hao tài sản cố định
- 13.649.644.085 
- 11.948.879.328 
 Chi phí dịch vụ mua ngoài
- 79.548.622.545 
- 85.645.550.232 
 Hoàn nhập dự phòng
- (6.180.909.295)
- (107.172.515.455)
 Chi phí khác
- 37.787.426.505 
- 63.574.644.859 
-385.609.141.765
- 311.282.604.552 
 Năm nay
 Năm trước
-VND
-VND
 Thanh lý, nhượng bán tài sản cố định
-17.171.920
-353.631.525
 Hoàn nhập Quỹ Phát Triển Khoa học và Công nghệ
 (trình bày tại Thuyết minh số 23)
- 48.665.824.358 
-34.315.867.928
 Tiền thu bồi thường hợp đồng
- 106.844.965 
-40.118.228.994
 Các khoản khác
- 2.771.794.272 
-4.930.262.896
- 51.561.635.515 
-79.717.991.343
 35. CHI PHÍ KHÁC
 Năm nay
 Năm trước
-VND
-VND
 Bồi thường, khoản phạt vi phạm hợp đồng
- 221.750.685 
- 47.934.492.765 
 Chi phí khấu hao
- 47.831.446.925 
- - 
 Các khoản khác
- 10.262.962.400 
- 1.902.063.009 
- 58.316.160.010 
- 49.836.555.774 
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-270
-271
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 36. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
 Chi phí thuế thu nhập doanh nghiệp hiện hành trong năm được tính như sau:
 Năm nay
 Năm trước
-VND
-VND
 Lợi nhuận trước thuế
-62.499.280.825
- 203.642.724.582 
-Điều chỉnh cho thu nhập chịu thuế 
- 
+Điều chỉnh cho thu nhập chịu thuế
 Trừ: Thu nhập không chịu thuế
-377.198.370.465
- 326.536.428.036 
 Cộng: Các khoản chi phí không được khấu trừ
-98.848.972.630
- 26.942.022.552 
 Lỗ tính thuế
-(215.850.117.010)
- (95.951.680.902)
 Chi phí thuế thu nhập doanh nghiệp
- 34.315.227.745 
- 40.116.608.424 
-Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập từ hoàn nhập Quỹ Phát triển 
+Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập từ hoàn nhập Quỹ Phát triển
 Khoa học và Công nghệ
- 9.733.304.575 
-3.430.492.029
-Điều chỉnh chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế 
+Điều chỉnh chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế
 thu nhập hiện hành năm nay
-            (160.461.545)
-(466.237.989)
 Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập tính thuế năm
 hiện hành
-43.888.070.775
- 43.080.862.464 
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021, theo quy định của luật thuế thu nhập doanh nghiệp, Tổng 
-công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp theo thuế suất 20% tính trên thu nhập tính thuế (năm 2020: 
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021, theo quy định của luật thuế thu nhập doanh nghiệp, Tổng
+công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp theo thuế suất 20% tính trên thu nhập tính thuế (năm 2020:
 20%), ngoại trừ các ưu đãi thuế như sau:
-»	 PVD Training có nghĩa vụ nộp thuế thu nhập doanh nghiệp theo thuế suất 10% trên thu nhập tính thuế cho hoạt 
+»	 PVD Training có nghĩa vụ nộp thuế thu nhập doanh nghiệp theo thuế suất 10% trên thu nhập tính thuế cho hoạt
 động đào tạo trong suốt quá trình kinh doanh, và thuế suất 20% cho các hoạt động khác.
-»	 PVD Deepwater có nghĩa vụ nộp thuế thu nhập doanh nghiệp với thuế suất 10% trong 15 năm từ Dự án đầu tư giàn 
-khoan PV Drilling V (2011). PVD Deepwater được miễn thuế thu nhập doanh nghiệp trong 4 năm kể từ năm đầu 
-tiên có thu nhập chịu thuế (từ 2012 đến 2015) và được giảm 50% trong 9 năm tiếp theo (từ 2016 đến 2024).	
-Tại ngày kết thúc niên độ kế toán, Tổng công ty có khoản lỗ tính thuế là 1.234.467.751.625 VND (năm 2020: 
-1.252.978.529.691 VND) có thể được sử dụng để khấu trừ vào lợi nhuận trong tương lai. Công ty không ghi nhận tài 
-sản thuế thu nhập hoãn lại cho các khoản lỗ này vì Tổng công ty không chắc chắn có đủ thu nhập tính thuế trong 
+»	 PVD Deepwater có nghĩa vụ nộp thuế thu nhập doanh nghiệp với thuế suất 10% trong 15 năm từ Dự án đầu tư giàn
+khoan PV Drilling V (2011). PVD Deepwater được miễn thuế thu nhập doanh nghiệp trong 4 năm kể từ năm đầu
+tiên có thu nhập chịu thuế (từ 2012 đến 2015) và được giảm 50% trong 9 năm tiếp theo (từ 2016 đến 2024).
+Tại ngày kết thúc niên độ kế toán, Tổng công ty có khoản lỗ tính thuế là 1.234.467.751.625 VND (năm 2020:
+1.252.978.529.691 VND) có thể được sử dụng để khấu trừ vào lợi nhuận trong tương lai. Công ty không ghi nhận tài
+sản thuế thu nhập hoãn lại cho các khoản lỗ này vì Tổng công ty không chắc chắn có đủ thu nhập tính thuế trong
 tương lai để sử dụng. Các khoản lỗ này có thể được mang sang với thời hạn tối đa là 5 năm kể từ năm phát sinh lỗ.
-Các khoản lỗ tính thuế được kê khai ban đầu bằng Đồng Việt Nam dựa trên kết quả kê khai thuế hàng năm. Việc 
+Các khoản lỗ tính thuế được kê khai ban đầu bằng Đồng Việt Nam dựa trên kết quả kê khai thuế hàng năm. Việc
 chuyển lỗ các khoản lỗ tính thuế này sẽ chịu ảnh hưởng của việc thay đổi chênh lệch tỷ giá qua các kỳ báo cáo.
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Các khoản lỗ mang sang này sẽ đáo hạn theo lịch biểu sau:
- Lỗ tính thuế
- Công ty mẹ 
- PVD Deepwater 
- Tổng 
-VND
-VND
-VND
-2022 
-461.276.407.062
-124.072.960.309
-585.349.367.371
-2023 
-148.896.518.946
-30.282.706.585
-179.179.225.531
-2024
--
-29.538.734.593
-29.538.734.593
-2025
-174.988.083.654
-15.377.107.952
-190.365.191.606
-2026
-224.642.646.410
-25.392.586.114
-250.035.232.524
-1.009.803.656.072
-224.664.095.553
-1.234.467.751.625
+Lỗ tính thuế
+Công ty mẹ
+PVD Deepwater
+Tổng
 37. (LỖ)/LÃI CƠ BẢN TRÊN CỔ PHIẾU
-Việc tính toán (lỗ)/lãi cơ bản trên cổ phiếu phân bổ cho các cổ đông sở hữu cổ phần phổ thông của Công ty mẹ được thực 
+Việc tính toán (lỗ)/lãi cơ bản trên cổ phiếu phân bổ cho các cổ đông sở hữu cổ phần phổ thông của Công ty mẹ được thực
 hiện trên cơ sở các số liệu sau:
 Năm nay
 Năm trước
-VND
-VND
 Lợi nhuận phân bổ cho cổ đông của Công ty mẹ
-19.553.861.685
- 186.494.200.107 
 Phân phối cho quỹ khen thưởng và phúc lợi
-(35.326.435.445)
- (67.715.647.218)
 (Lỗ)/lợi nhuận để tính (lỗ)/lãi cơ bản trên cổ phiếu
-(15.772.573.760)
- 118.778.552.889 
 Số cổ phiếu phổ thông bình quân gia quyền
-421.129.789
- 421.129.789 
 (Lỗ)/lãi cơ bản trên cổ phiếu
-(36)
- 282 
 Năm nay
 Năm trước
-VND
-VND
-Chi phí thuê hoạt động tối thiểu đã ghi nhận vào báo cáo kết quả hoạt 
+Chi phí thuê hoạt động tối thiểu đã ghi nhận vào báo cáo kết quả hoạt
 động kinh doanh hợp nhất chuyển đổi sang Đồng Việt Nam trong năm
-31.517.328.096
-48.221.356.806
 38. CÁC KHOẢN CÔNG NỢ TIỀM TÀNG
-Tại ngày lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam, Tổng công ty chưa hoàn tất việc quyết toán 
-thuế thu nhập doanh nghiệp cho chi nhánh ở Algeria, Malaysia và Brunei theo các thủ tục quyết toán thuế của nước sở 
-tại. Các thủ tục quyết toán thuế cho chi nhánh Algeria, Malaysia và Brunei sẽ được thực hiện bởi cơ quan có thẩm quyền 
-của Algeria, Malaysia và Brunei khi Tổng công ty hoàn tất dự án tại Algeria, Malaysia và Brunei và các nghĩa vụ thuế sẽ 
-được xác định vào thời điểm đó. Tuy nhiên, Ban Tổng Giám đốc Tổng công ty tin rằng sẽ không phát sinh thêm khoản 
-nợ thuế trọng yếu nào liên quan đến việc quyết toán thuế cho chi nhánh Algeria, Malaysia và Brunei mà cần phải lập dự 
+Tại ngày lập báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam, Tổng công ty chưa hoàn tất việc quyết toán
+thuế thu nhập doanh nghiệp cho chi nhánh ở Algeria, Malaysia và Brunei theo các thủ tục quyết toán thuế của nước sở
+tại. Các thủ tục quyết toán thuế cho chi nhánh Algeria, Malaysia và Brunei sẽ được thực hiện bởi cơ quan có thẩm quyền
+của Algeria, Malaysia và Brunei khi Tổng công ty hoàn tất dự án tại Algeria, Malaysia và Brunei và các nghĩa vụ thuế sẽ
+được xác định vào thời điểm đó. Tuy nhiên, Ban Tổng Giám đốc Tổng công ty tin rằng sẽ không phát sinh thêm khoản
+nợ thuế trọng yếu nào liên quan đến việc quyết toán thuế cho chi nhánh Algeria, Malaysia và Brunei mà cần phải lập dự
 phòng thêm.
 39. CÁC KHOẢN CAM KẾT
 Cam kết thuê hoạt động
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-272
-273
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
+Giá trị ghi sổ của các tài sản và công nợ có gốc ngoại tệ tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020
+như sau:
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Tại ngày kết thúc niên độ kế toán, Tổng công ty có các khoản cam kết thuê hoạt động không hủy ngang với lịch thanh 
-toán như sau: 
-Số cuối năm
-Số đầu năm
-VND
-VND
-Trong vòng một năm
- 34.992.308.330 
- 36.178.947.438 
-Từ năm thứ hai đến năm thứ năm
- 81.238.321.205 
- 83.074.608.531 
-Sau năm năm
- 27.571.001.835 
- 45.273.030.654 
- 143.801.631.370 
- 164.526.586.623 
-Số cuối năm
-Số đầu năm
-VND
-VND
-Các khoản vay
-3.954.111.703.280
- 3.865.431.457.765 
-Trừ: Tiền và các khoản tương đương tiền
-1.130.703.090.240
- 925.196.651.735 
-Nợ thuần 
-2.823.408.613.040
- 2.940.234.806.030 
-Vốn chủ sở hữu
-13.831.580.467.120
- 14.042.017.346.715 
-Tỷ lệ nợ thuần trên vốn chủ sở hữu
-0,20
- 0,21 
-Các khoản cam kết thuê hoạt động thể hiện số tiền thuê văn phòng, nhà kho và thuê đất phải trả liên quan đến các hợp 
-đồng thuê của Tổng công ty với thời gian thuê trên 1 năm.
-40. CÔNG CỤ TÀI CHÍNH
-Quản lý rủi ro vốn
-Tổng công ty quản lý nguồn vốn nhằm đảm bảo rằng Tổng công ty có thể vừa hoạt động liên tục vừa tối đa hóa lợi ích 
-của các cổ đông thông qua tối ưu hóa số dư nguồn vốn và công nợ. Cấu trúc vốn của Tổng công ty gồm có các khoản nợ 
-thuần (bao gồm các khoản vay như đã trình bày tại Thuyết minh số 19 và 21 trừ đi tiền và các khoản tương đương tiền) 
-và phần vốn thuộc sở hữu của các cổ đông của Công ty mẹ (bao gồm vốn góp của chủ sở hữu, thặng dư vốn cổ phần, cổ 
-phiếu quỹ, chênh lệch tỷ giá hối đoái, các quỹ dự trữ và lợi nhuận sau thuế chưa phân phối) và lợi ích của cổ đông không 
-kiểm soát.
-Hệ số đòn bẩy tài chính 
-Hệ số đòn bẩy tài chính của Tổng công ty tại ngày kết thúc niên độ kế toán như sau:
-Các chính sách kế toán chủ yếu
-Chi tiết các chính sách kế toán chủ yếu và các phương pháp mà Tổng công ty áp dụng (bao gồm các tiêu chí để ghi nhận. 
-cơ sở xác định giá trị và cơ sở ghi nhận các khoản thu nhập và chi phí) đối với từng loại tài sản tài chính và công nợ tài 
-chính được trình bày tại Thuyết minh số 3.
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Các loại công cụ tài chính
-Số cuối năm
-Số đầu năm
-VND
-VND
-Tài sản tài chính
-Tiền và các khoản tương đương tiền
-1.130.703.090.240
- 925.196.651.735 
-Phải thu khách hàng và phải thu khác 
-1.918.708.892.640
- 1.549.895.485.985 
-Đầu tư nắm giữ đến ngày đáo hạn
-1.544.250.741.200
- 2.286.193.758.430 
-4.593.662.724.080
- 4.761.285.896.150 
-Công nợ tài chính
-Các khoản vay
-3.954.111.703.280
- 3.865.431.457.765 
-Phải trả người bán và phải trả khác
- 845.678.779.920 
- 747.722.595.870 
-Chi phí phải trả
- 497.363.489.280 
- 283.662.572.560 
- 5.297.153.972.480 
- 4.896.816.626.195 
-Tổng công ty chưa đánh giá giá trị hợp lý của tài sản tài chính và công nợ tài chính tại ngày kết thúc niên độ kế toán do 
-Thông tư số 210/2009/TT-BTC do Bộ Tài chính ban hành ngày 06 tháng 11 năm 2009 (“Thông tư 210”) cũng như các quy 
-định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý của các tài sản tài chính và công nợ tài chính. 
-Thông tư 210 yêu cầu áp dụng Chuẩn mực báo cáo tài chính Quốc tế về việc trình bày báo cáo tài chính và thuyết minh 
-thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đương cho việc đánh giá và ghi nhận công cụ tài 
-chính bao gồm cả áp dụng giá trị hợp lý. nhằm phù hợp với Chuẩn mực báo cáo tài chính Quốc tế.
-Mục tiêu quản lý rủi ro tài chính
-Rủi ro tài chính bao gồm rủi ro thị trường (gồm có rủi ro tỷ giá và rủi ro lãi suất), rủi ro tín dụng và rủi ro thanh khoản. 
-Tổng công ty thực hiện các biện pháp phòng ngừa các rủi ro này trên cơ sở kiểm soát và cân đối dòng tiền (bao gồm 
-dòng tiền ngoại tệ) và theo dõi sát sao thông tin trên thị trường để thực hiện các biện pháp phòng ngừa rủi ro.
-Rủi ro thị trường
-Hoạt động kinh doanh của Tổng công ty sẽ chủ yếu chịu rủi ro khi có sự thay đổi về tỷ giá hối đoái và lãi suất.
-Quản lý rủi ro tỷ giá
-Tổng công ty thực hiện một số các giao dịch có gốc ngoại tệ. theo đó. Tổng công ty sẽ chịu rủi ro khi có biến động về tỷ 
-giá. Tuy nhiên, Tổng công ty quản lý cân đối nguồn thu và chi ngoại tệ thông qua việc thỏa thuận các hợp đồng kinh tế 
-trên cơ sở đối ứng nguồn ngoại tệ phải trả nhà cung cấp với phải thu khách hàng nên đảm bảo được các giao dịch thanh 
-toán bằng ngoại tệ và thực hiện các hợp đồng hoán đổi tiền tệ với các ngân hàng thương mại. hạn chế tối đa được rủi ro 
-về tỷ giá.
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-274
-275
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-Giá trị ghi sổ của các tài sản và công nợ có gốc ngoại tệ tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020 
-như sau: 
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Tài sản
 Công nợ
-Số cuối năm
-Số đầu năm
-Số cuối năm
-Số đầu năm
-VND
-VND
-VND
-VND
-Đô la Mỹ (“USD”) 
+Đô la Mỹ (“USD”)
 (các công ty con)
- 306.049.104.800 
-370.726.695.135
- 475.803.077.707 
-376.275.757.530
-Đồng Việt Nam (“VND”) 
+Đồng Việt Nam (“VND”)
 (Công ty mẹ)
-1.844.908.922.400 
-2.517.959.005.795
- 161.780.979.920 
-147.131.777.990
 Dinar Algeria (“DZD”)
- 12.185.866.800 
-686.235.685
- 18.054.652.880 
--
 Đô la Singapore (“SGD”)
- 9.526.273 
-839.994.310
- 485.854.400 
-2.673.948.870
 Euro (“EUR”)
- 917.961.440 
-110.199.440
- 3.218.321.280 
-2.655.106.240
 Bạt Thái (“THB”)
- - 
-1.704.590
- - 
--
 Bảng Anh (“GBP”)
- - 
-85.528.955
- - 
-383.486.680
 Myanmar Kyat (“MMK”)
- - 
--
- 173.512.960 
-357.480.165
 Malaysia Ringgit (MYR)
- 90.560 
-17.803.843.640
- 271.680 
-1.128.945.350
 Đô la Brunei
- - 
-131.322.535
- - 
--
 Đô la Úc (“AUD”)
- - 
--
- - 
-502.186.035
 Canadian Dollar (CAD)
- - 
--
- 452.800 
--
 Phân tích độ nhạy đối với ngoại tệ
-Tổng công ty chủ yếu chịu ảnh hưởng của thay đổi tỷ giá của Đồng Việt Nam so với Đô la Mỹ. 
-Tỷ lệ thay đổi 2% (năm 2020: 2%) được Tổng công ty sử dụng khi phân tích rủi ro tỷ giá và thể hiện đánh giá của Tổng 
-công ty về mức thay đổi có thể có của tỷ giá. Phân tích độ nhạy với ngoại tệ chỉ áp dụng cho các số dư của các khoản 
-mục tiền tệ bằng ngoại tệ tại thời điểm cuối năm và điều chỉnh việc đánh giá lại các khoản mục này khi có 2% thay đổi 
-của tỷ giá. Nếu tỷ giá của Đồng Việt Nam so với Đô la Mỹ tăng/giảm 2% thì lợi nhuận trước thuế của Tổng công ty sẽ thay 
+Tổng công ty chủ yếu chịu ảnh hưởng của thay đổi tỷ giá của Đồng Việt Nam so với Đô la Mỹ.
+Tỷ lệ thay đổi 2% (năm 2020: 2%) được Tổng công ty sử dụng khi phân tích rủi ro tỷ giá và thể hiện đánh giá của Tổng
+công ty về mức thay đổi có thể có của tỷ giá. Phân tích độ nhạy với ngoại tệ chỉ áp dụng cho các số dư của các khoản
+mục tiền tệ bằng ngoại tệ tại thời điểm cuối năm và điều chỉnh việc đánh giá lại các khoản mục này khi có 2% thay đổi
+của tỷ giá. Nếu tỷ giá của Đồng Việt Nam so với Đô la Mỹ tăng/giảm 2% thì lợi nhuận trước thuế của Tổng công ty sẽ thay
 đổi như sau:
 Quản lý rủi ro lãi suất
-Tổng công ty chịu rủi ro lãi suất trọng yếu phát sinh từ các khoản vay chịu lãi suất đã được ký kết. Tổng công ty chịu rủi 
-ro lãi suất khi Tổng công ty vay vốn theo lãi suất thả nổi và lãi suất cố định. Rủi ro này được Tổng công ty quản trị bằng 
+Tổng công ty chịu rủi ro lãi suất trọng yếu phát sinh từ các khoản vay chịu lãi suất đã được ký kết. Tổng công ty chịu rủi
+ro lãi suất khi Tổng công ty vay vốn theo lãi suất thả nổi và lãi suất cố định. Rủi ro này được Tổng công ty quản trị bằng
 cách duy trì ở mức độ hợp lý các khoản vay lãi suất cố định và lãi suất thả nổi.
 Năm nay
 Năm trước
-VND
-VND
 Giảm lợi nhuận ở Công ty mẹ
- (33.952.493.770)
- (47.655.314.856)
 Giảm lợi nhuận ở các công ty con
- (3.424.313.765)
- (111.541.518)
 Giảm lợi nhuận hợp nhất
- (37.376.807.535)
- (47.766.856.374)
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
 Độ nhạy của lãi suất
-Độ nhạy của các khoản vay đối với sự thay đổi lãi suất được Tổng công ty đánh giá có thể xảy ra ở mức độ hợp lý là biến 
-động tăng giảm trong lãi suất của các khoản vay thả nổi là tăng/giảm 30 điểm cơ bản. Với giả định là các biến số khác 
-không thay đổi và giả định số dư tiền vay cuối năm là số dư tiền vay trong suốt năm tài chính tiếp theo, nếu lãi suất của 
-các khoản vay với lãi suất thả nổi tăng/giảm 30 điểm cơ bản thì lợi nhuận trước thuế của Tổng công ty sẽ giảm/tăng một 
-khoản tương ứng là 11.862.386.480 VND (năm 2020: 11.596.294.373 VND).
+Độ nhạy của các khoản vay đối với sự thay đổi lãi suất được Tổng công ty đánh giá có thể xảy ra ở mức độ hợp lý là biến
+động tăng giảm trong lãi suất của các khoản vay thả nổi là tăng/giảm 30 điểm cơ bản. Với giả định là các biến số khác
+không thay đổi và giả định số dư tiền vay cuối năm là số dư tiền vay trong suốt năm tài chính tiếp theo, nếu lãi suất của
+các khoản vay với lãi suất thả nổi tăng/giảm 30 điểm cơ bản thì lợi nhuận trước thuế của Tổng công ty sẽ giảm/tăng một
 Rủi ro tín dụng
-Rủi ro tín dụng xảy ra khi một khách hàng hoặc đối tác không đáp ứng được các nghĩa vụ trong hợp đồng dẫn đến các 
-tổn thất tài chính cho Tổng công ty. Vì vậy, Tổng công ty có chính sách tín dụng phù hợp và thường xuyên theo dõi tình 
-hình để đánh giá mức độ rủi ro tín dụng. Tại ngày 31 tháng 12 năm 2021,Tổng công ty thực hiện trích lập dự phòng nợ phải 
-thu khó đòi cho những khoản nợ phải thu quá hạn hoặc có thể chưa quá hạn nhưng khó có khả năng thu hồi như chính 
+Rủi ro tín dụng xảy ra khi một khách hàng hoặc đối tác không đáp ứng được các nghĩa vụ trong hợp đồng dẫn đến các
+tổn thất tài chính cho Tổng công ty. Vì vậy, Tổng công ty có chính sách tín dụng phù hợp và thường xuyên theo dõi tình
+hình để đánh giá mức độ rủi ro tín dụng. Tại ngày 31 tháng 12 năm 2021,Tổng công ty thực hiện trích lập dự phòng nợ phải
+thu khó đòi cho những khoản nợ phải thu quá hạn hoặc có thể chưa quá hạn nhưng khó có khả năng thu hồi như chính
 sách kế toán trình bày tại Thuyết minh số 3.
 Quản lý rủi ro thanh khoản
-Mục đích quản lý rủi ro thanh khoản nhằm đảm bảo đủ nguồn vốn để đáp ứng các nghĩa vụ tài chính hiện tại và trong 
-tương lai. Tính thanh khoản cũng được Tổng công ty quản lý nhằm đảm bảo mức phụ trội giữa công nợ đến hạn và tài 
-sản đến hạn trong năm ở mức có thể được kiểm soát đối với số vốn mà Tổng công ty tin rằng có thể tạo ra trong năm 
-đó. Chính sách của Tổng công ty là theo dõi thường xuyên các yêu cầu về thanh khoản hiện tại và dự kiến trong tương 
-lai nhằm đảm bảo Tổng công ty duy trì đủ mức dự phòng tiền mặt, các khoản vay và đủ vốn mà các cổ đông cam kết góp 
+Mục đích quản lý rủi ro thanh khoản nhằm đảm bảo đủ nguồn vốn để đáp ứng các nghĩa vụ tài chính hiện tại và trong
+tương lai. Tính thanh khoản cũng được Tổng công ty quản lý nhằm đảm bảo mức phụ trội giữa công nợ đến hạn và tài
+sản đến hạn trong năm ở mức có thể được kiểm soát đối với số vốn mà Tổng công ty tin rằng có thể tạo ra trong năm
+đó. Chính sách của Tổng công ty là theo dõi thường xuyên các yêu cầu về thanh khoản hiện tại và dự kiến trong tương
+lai nhằm đảm bảo Tổng công ty duy trì đủ mức dự phòng tiền mặt, các khoản vay và đủ vốn mà các cổ đông cam kết góp
 nhằm đáp ứng các quy định về tính thanh khoản ngắn hạn và dài hạn hơn.
-Các bảng dưới đây trình bày chi tiết các mức đáo hạn theo hợp đồng còn lại đối với tài sản tài chính và công nợ tài chính 
-phi phái sinh và thời hạn thanh toán như đã được thỏa thuận. Các bảng này được trình bày dựa trên dòng tiền chưa chiết 
-khấu của tài sản tài chính và dòng tiền chưa chiết khấu của công nợ tài chính tính theo ngày sớm nhất mà Tổng công ty 
-phải trả. Việc trình bày thông tin tài sản tài chính phi phái sinh là cần thiết để hiểu được việc quản lý rủi ro thanh khoản 
+Các bảng dưới đây trình bày chi tiết các mức đáo hạn theo hợp đồng còn lại đối với tài sản tài chính và công nợ tài chính
+phi phái sinh và thời hạn thanh toán như đã được thỏa thuận. Các bảng này được trình bày dựa trên dòng tiền chưa chiết
+khấu của tài sản tài chính và dòng tiền chưa chiết khấu của công nợ tài chính tính theo ngày sớm nhất mà Tổng công ty
+phải trả. Việc trình bày thông tin tài sản tài chính phi phái sinh là cần thiết để hiểu được việc quản lý rủi ro thanh khoản
 của Tổng công ty khi tính thanh khoản được quản lý trên cơ sở công nợ và tài sản thuần.
-Dưới 1 năm 
+Dưới 1 năm
 Từ 1 - 5 năm
 Sau 5 năm
 Tổng
-VND
-VND
-VND
-VND
-Số cuối năm
 Tiền và các khoản
-tương đương tiền 
-1.130.703.090.240
--
--
-1.130.703.090.240
-Phải thu khách hàng và 
+tương đương tiền
+Phải thu khách hàng và
 phải thu khác
-1.868.346.846.560
-50.362.046.080
--
-1.918.708.892.640
-Đầu tư nắm giữ đến ngày 
+Đầu tư nắm giữ đến ngày
 đáo hạn
-1.544.250.741.200
--
--
-1.544.250.741.200
-4.543.300.678.000
-50.362.046.080
--
-4.593.662.724.080
 Các khoản vay
-748.408.238.640
-1.154.471.128.240
-2.051.232.336.400
-3.954.111.703.280
 Phải trả người bán và
 phải trả khác
-       845.678.779.920 
-                                   - 
-                                 - 
-       845.678.779.920 
 Chi phí phải trả
-      497.363.489.280 
-                                - 
-                                - 
-           497.363.489.280 
- 2.091.450.507.840 
- 1.154.471.128.240 
- 2.051.232.336.400 
- 5.297.153.972.480 
 Chênh lệch
 thanh khoản thuần
-  2.451.850.170.160 
-(1.104.109.082.160)
-  (2.051.232.336.400)
-      (703.491.248.400)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
 
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
 www.pvdrilling.com.vn
-276
-277
 Vững vàng vươn xa
 Củng cố nội lực
 Phát triển bền vững
 Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
 Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Dưới 1 năm 
+Dưới 1 năm
 Từ 1 - 5 năm
 Sau 5 năm
 Tổng
-VND
-VND
-VND
-VND
-Số cuối năm
 Tiền và các khoản
-tương đương tiền 
-925.196.651.735
--
--
-925.196.651.735
-Phải thu khách hàng và 
+tương đương tiền
+Phải thu khách hàng và
 phải thu khác
-1.535.401.080.795
-14.494.405.190
--
-1.549.895.485.985
-Đầu tư nắm giữ đến ngày 
+Đầu tư nắm giữ đến ngày
 đáo hạn
-1.195.960.822.115
-1.090.232.936.315
--
-2.286.193.758.430
-3.656.558.554.645
-1.104.727.341.505
--
-4.761.285.896.150
 Các khoản vay
-634.897.534.430
-927.079.417.460
-2.303.454.505.875
-3.865.431.457.765
 Phải trả người bán và
 phải trả khác
-747.722.595.870
-                                   - 
-                                 - 
-747.722.595.870
 Chi phí phải trả
-283.662.572.560
-                                - 
-                                - 
-283.662.572.560
-1.666.282.702.860
-927.079.417.460
-2.303.454.505.875 
-4.896.816.626.195
 Chênh lệch
 thanh khoản thuần
-1.990.275.851.785
-177.647.924.045
-(2.303.454.505.875)
- (135.530.730.045)
 41. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
 Danh sách các bên liên quan có giao dịch và số dư chủ yếu trong năm:
 Bên liên quan
@@ -4559,275 +939,63 @@ Công ty cùng có vốn đầu tư từ Petrovietnam
 Trong năm, Tổng công ty đã có các giao dịch chủ yếu sau với các bên liên quan:
 Năm nay
 Năm trước
-VND
-VND
 Bán hàng
 Các công ty thành viên thuộc Petrovietnam
- 243.291.397.200 
- 306.873.172.488 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
- - Công ty TNHH MTV Dịch vụ Cơ khí Hàng hải PTSC
- 90.617.683.280 
- 132.830.367.315 
+- Công ty TNHH MTV Dịch vụ Cơ khí Hàng hải PTSC
 Các công ty liên doanh/liên doanh điều hành/hợp đồng phân chia sản phẩm dầu khí của Petrovietnam
- 1.825.846.182.050 
- 770.162.001.900 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
- - Liên doanh Việt - Nga (Vietsovpetro)
- 508.123.529.435 
- 197.082.356.259 
+- Liên doanh Việt - Nga (Vietsovpetro)
 - Công ty Liên doanh Điều hành Hoàng Long
- 264.444.530.945 
- 355.154.374.629 
 - Công ty Liên doanh Điều hành Cửu Long
- 539.221.031.660 
- 34.834.730.925 
 - Công ty Liên doanh Điều hành Thăng Long
- 271.964.690.155 
- 3.037.781.616 
 Các công ty liên doanh của Tổng công ty
- 71.938.242.250 
- 110.864.906.874 
 Mua hàng
 Các công ty thành viên thuộc Petrovietnam
- 55.748.478.435 
- 55.933.441.077 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
 - Chi nhánh Tổng công ty Dịch vụ Kỹ thuật Dầu khí Việt Nam - Công ty Cảng Dịch vụ Dầu khí
- 41.674.834.070 
- 41.111.545.800 
 Các công ty liên doanh/liên doanh điều hành/hợp đồng phân chia sản phẩm dầu khí của Petrovietnam
- 118.927.762.725 
- 40.170.202.989 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
 Năm nay
 Năm trước
-VND
-VND
 - Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí Vũng Tàu
- 63.118.314.840 
- 18.513.021.264 
- - Công ty CP Chế tạo giàn khoan dầu khí
- 24.352.111.730 
- - 
+- Công ty CP Chế tạo giàn khoan dầu khí
 Các công ty liên doanh của Tổng công ty
- 28.003.610.910 
- 61.466.298.567 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
 - PVD-Expro
- 19.186.652.050 
- 50.998.828.578 
 Lợi nhuận được chia từ liên doanh
 Các công ty liên doanh của Tổng công ty
- 191.420.141.920 
- 164.679.128.562
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị giao dịch:
 - PVD-Baker Hughes
- 174.355.089.720 
- 156.642.791.385 
-MẪU SỐ B 09-DN/HN
 Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo
 tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Số cuối năm
-Số đầu năm
-VND
-VND
 Các khoản phải thu
 Các công ty thành viên thuộc Petrovietnam
- 49.155.152.960 
- 98.287.995.430 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
- - Công ty TNHH MTV Dịch vụ Cơ khí Hàng hải PTSC
- 19.427.248.160 
- 50.229.522.090 
+- Công ty TNHH MTV Dịch vụ Cơ khí Hàng hải PTSC
 Các công ty liên doanh/liên doanh điều hành/hợp đồng phân chia sản phẩm dầu khí của Petrovietnam
- 553.228.934.480 
- 201.002.373.425 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
 - Công Ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí Trong Nước
- 52.547.417.360 
- 48.289.399.215 
- - Tổng công ty Thăm dò Khai thác Dầu khí
- 25.915.894.800 
- 47.512.682.050 
- - Liên doanh Việt - Nga (Vietsovpetro)
- 95.436.271.120 
- 63.687.398.350 
+- Tổng công ty Thăm dò Khai thác Dầu khí
+- Liên doanh Việt - Nga (Vietsovpetro)
 - Công ty Liên doanh Điều hành Cửu Long
- 145.892.295.840 
- 63.687.398.350 
 - Công ty Liên doanh Điều hành Thăng Long
- 135.258.355.760 
- 63.687.398.350 
 Các công ty liên doanh của Tổng công ty
- 34.200.097.200 
- 47.506.692.950 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
 - PVD-Baker Hughes
- 28.082.316.400 
- 37.775.050.430 
- 636.584.184.640 
- 346.797.061.805 
 Các khoản phải thu ngắn hạn khác
 Các công ty liên doanh của Tổng công ty
- 73.301.392.160 
- 55.933.441.077 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
 - PVD-Baker Hughes
- 62.907.662.480 
- 41.111.545.800 
 Các khoản phải trả
 Các công ty thành viên thuộc Petrovietnam
- 23.661.494.160 
- 18.663.947.505 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
- - Chi nhánh Tổng công ty Dịch vụ Kỹ thuật Dầu khí Việt Nam - Công ty Cảng Dịch vụ Dầu khí
- 21.971.304.960 
- 15.205.357.430 
+- Chi nhánh Tổng công ty Dịch vụ Kỹ thuật Dầu khí Việt Nam - Công ty Cảng Dịch vụ Dầu khí
 Các công ty liên doanh/liên doanh điều hành/hợp đồng phân chia sản phẩm dầu khí của Petrovietnam
- 34.697.067.840 
- 23.774.653.850 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
- - Công ty Điều hành Dầu khí Biển Đông
- 12.954.902.320 
- 13.111.038.265 
+- Công ty Điều hành Dầu khí Biển Đông
 Các công ty liên doanh của Tổng công ty
- 25.354.581.280 
- 4.861.398.540 
 Trong đó chi tiết chiếm hơn 10% trên tổng giá trị số dư:
- - PVD-Expro
- 21.648.911.360 
- 3.666.665.230 
- 83.713.143.280 
- 47.299.999.895 
+- PVD-Expro
 Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán như sau:
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-www.pvdrilling.com.vn
-278
-279
-Vững vàng vươn xa
-Củng cố nội lực
-Phát triển bền vững
-Giữ vững thành quả
-Báo cáo tài chính kiểm toán năm 2021
-Khẳng định vị thế
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-Thu nhập của Hội đồng Quản trị, Ban Tổng Giám đốc và Ban Kiểm soát được hưởng trong năm như sau:
-Năm nay
-Năm trước
-VND
-VND
-Hội đồng Quản trị
-Ông Mai Thế Toàn
- 177.662.080 
- - 
-Ông Phạm Tiến Dũng
-- 
-132.503.200 
-Ông Đỗ Đức Chiến
- 495.817.400 
-453.340.640 
-Ông Nguyễn Xuân Cường
- 495.817.400 
-468.421.180 
-Bà Nguyễn Thị Thủy
- 856.270.809 
- 1.211.556.550 
-Ông Vũ Thụy Tường
- 442.667.918 
- - 
-Ông Văn Đức Tờng
- 120.000.000 
-120.000.000 
-Ông Nguyễn Văn Toàn
- 120.000.000 
-124.500.000 
-Ông Hoàng Xuân Quốc
- 120.000.000 
-64.300.000 
-Ban Tổng Giám đốc
-Ông Trần Văn Hoạt
-- 
-943.042.518 
-Ông Đào Ngọc Anh
-1.392.128.750 
- 1.263.303.750 
-Ông Trịnh Văn Vinh
-1.395.538.750 
- 1.267.643.750 
-Ông Hồ Vũ Hải
-1.395.538.750 
- 1.267.643.750 
-Ông Đỗ Danh Rạng
-1.390.152.875 
- 1.258.629.100 
-Ông Nguyễn Công Đoàn
-1.278.267.166 
-478.520.840 
-Ban Kiểm soát
-Ông Nguyễn Văn Tài
- 407.071.925 
-343.345.458 
-Ông Lương Thanh Tịnh
- 338.789.718 
- - 
-Ông Nguyễn Bình Hợp
- 34.363.636 
- - 
-Ông Vũ Thụy Tường
- 736.727.432 
- 1.038.130.750 
-Tổng cộng
-11.196.814.609 
- 10.434.881.486 
-MẪU SỐ B 09-DN/HN
-Đơn vị tính: VND
-Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo 
-tài chính hợp nhất chuyển đổi sang Đồng Việt Nam kèm theo
-42. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO LƯU CHUYỂN TIỀN TỆ 
-HỢP NHẤT CHUYỂN ĐỔI SANG ĐỒNG VIỆT NAM
-Thông tin bổ sung cho các khoản phi tiền tệ
-Tiền lãi vay đã trả trong năm không bao gồm số tiền 76.318.851.360  VND (năm 2020: 46.346.673.385 VND) là số chi phí 
-lãi vay phải trả trong năm chưa được thanh toán. Vì vậy, một khoản tiền tương ứng đã được điều chỉnh trên phần thay đổi 
-các khoản phải trả.
-Tiền chi mua sắm. xây dựng tài sản cố định và tài sản dài hạn khác trong năm không bao gồm số tiền   11.519.141.440 
-VND (năm 2020: 7.365.583.254 VND) là giá trị tài sản mua sắm trong năm nhưng chưa thanh toán. Vì vậy, một khoản tiền 
-tương ứng đã được điều chỉnh trên phần thay đổi các khoản phải trả.
-Tiền thu lãi tiền gửi, cổ tức và lợi nhuận được chia trong năm không bao gồm số tiền  159.473.794.240  VND (năm 2020: 
-tiền 170.538.608.960 VND) là số lãi tiền gửi, cổ tức và lợi nhuận được chia trong năm còn phải thu. Vì vậy, một khoản tiền 
-tương ứng đã được điều chỉnh trên phần thay đổi các khoản phải thu. 
-Tiền thu từ đi vay và tiền trả nợ gốc vay trong năm không bao gồm 22.794.218.550 VND (năm 2020: 13.470.548.256 VND) 
-là số tiền thu và trả nợ đối với các khoản đi vay có thời hạn không quá 3 tháng được trình bày trên cở sở thuần. Vì vậy, một 
-khoản tiền tương ứng đã được điều chỉnh trên phần tiền thu từ đi vay và tiền trả nợ gốc vay.
-43. PHÊ DUYỆT PHÁT HÀNH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHUYỂN ĐỔI SANG ĐỒNG VIỆT NAM 
-Báo cáo tài chính hợp nhất chuyển đổi sang Đồng Việt Nam cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 đã 
-được Ban Tổng Giám đốc Tổng công ty phê duyệt để phát hành vào ngày 29 tháng 3 năm 2022.
-Nguyễn Xuân Cường
-Tổng Giám đốc
-Ngày 29 tháng 3 năm 2022
-Nguyễn Ngọc Trường
-Kế toán trưởng
-Trần Kim Hoàng
-Người lập biểu
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
-
-BÁO CÁO THƯỜNG NIÊN
-TÍCH  HỢP 2021
-280
-Củng cố nội lực
-Giữ vững thành quả
-Khẳng định vị thế
-Lầu 4, Sailing Tower, Số 111A đường Pasteur,
-Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh
-(+84-28) 39 142 012
-(+84-28) 39 142 021 - 39 142 022
-www.pvdrilling.com.vn

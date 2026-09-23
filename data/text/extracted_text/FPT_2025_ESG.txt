@@ -1,57 +1,184 @@
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Báo cáo của Ban Điều hành về 
-kết quả kinh doanh 2025 và 
+Trong suốt 38 năm qua, FPT luôn khẳng định vị thế tiên phong, dẫn đầu trong các lĩnh vực Công nghệ, Viễn thông và Giáo dục. Đón đầu xu hướng công nghệ, thị trường, FPT
+tạo dựng Hệ sinh thái dịch vụ, sản phẩm, giải pháp, nền tảng Made by FPT thúc đẩy phát triển, tăng trưởng bền vững của các tổ chức, doanh nghiệp cũng như mang đến
+những trải nghiệm mới, khác biệt cho người dùng.
+NGÀNH NGHỀ KINH DOANH
+Công nghệ
+Tư vấn, triển khai Chuyển đổi số, Chuyển đổi xanh và Chuyển đổi AI;
+Tư vấn, phát triển, xây dựng các hệ thống chuyển đổi số cấp quốc gia, bộ ngành,
+tỉnh thành theo định hướng Nghị quyết 57-NQ/TW;
+Cung cấp hệ sinh thái tích hợp đồng bộ hạ tầng, công cụ và dịch vụ phục vụ
+toàn bộ vòng đời phát triển AI, từ xử lý dữ liệu, huấn luyện mô hình đến triển khai,
+suy luận và giám sát (FPT AI Factory);
+Dịch vụ an ninh mạng;
+Cung cấp giải pháp dựa trên các nền tảng công nghệ như: NVIDIA, Landing AI,
+SAP, Oracle, Microsoft, ESRI…;
+Thiết kế, kiểm thử, đóng gói tiên tiến chip bán dẫn;
+Thiết kế, triển khai, tích hợp, vận hành, bảo trì, kiểm thử... các hệ thống
+Công nghệ thông tin.
+Cung cấp các nền tảng tiên tiến như: nền tảng FPT.AI, nền tảng AI linh hoạt
+FleziPT, nền tảng FPT Cloud, nền tảng quản trị doanh nghiệp Base.vn;
+Phát triển chip nguồn và chip IoT Make in Vietnam;
+Sản phẩm, giải pháp chuyển đổi số tích hợp công nghệ AI, AI tạo sinh (Generative AI),
+tự động hóa (RPA), kết nối vạn vật (IoT)… chuyên sâu cho các lĩnh vực như:
+Chính phủ, Viễn thông, Ngân hàng, Tài chính, Bảo hiểm, Y tế, Giao thông vận tải,
+Sản xuất, Tài chính công, Năng lượng, Doanh nghiệp, Ô tô…;
+Hệ sinh thái toàn diện sản phẩm, giải pháp tiên tiến Made by FPT phục vụ các
+bài toán nền tảng số cấp quốc gia, bộ ngành và các bài toán nghiệp vụ chuyên
+sâu phục vụ lĩnh vực trọng yếu; giải quyết bài toán kinh doanh và tăng trưởng
+của doanh nghiệp, tổ chức như: quản trị sản xuất, quản trị bán hàng, quản lý
+chuỗi cung ứng, quản lý tài chính, quản lý nguồn nhân lực, quản lý quan hệ
+khách hàng và trải nghiệm người dùng, quản lý phát triển bền vững, chuyển đổi
+quy trình kinh doanh, chuyển đổi xanh, chuyển đổi AI….
+Nhóm sản phẩm, giải pháp
+Nhóm dịch vụ
+Thông tin chung
+Sứ mệnh, giá trị cốt lõi
+Ngành nghề kinh doanh
+Vị thế và quy mô
+Hành trình khẳng định năng lực
+và vị thế
+Cơ cấu quản trị và bộ máy quản lý
+Ban Lãnh đạo
+
+Đột phá chính sách của Việt Nam: Khoa học công nghệ, đổi mới sáng tạo
+và chuyển đổi số là trụ cột phát triển
+Tại Việt Nam, Chính phủ ban hành các quyết sách về làm sạch dữ liệu, xác thực
+danh tính số và tăng cường bảo đảm an toàn, an ninh mạng, đồng thời khuyến khích
+các tập đoàn công nghệ lớn trong nước tham gia triển khai các dự án quy mô quốc gia,
+Khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số được xác định là một trong
+08 trụ cột phát triển quan trọng trong Văn kiện Đại hội XIV của Đảng, đóng vai trò
+động lực then chốt của tăng trưởng kinh tế dài hạn. Đây không chỉ là nền tảng
+nâng cao năng suất và năng lực cạnh tranh quốc gia, mà còn là công cụ gia tăng hiệu
+quả quản trị, củng cố năng lực tự chủ, bảo đảm quốc phòng-an ninh, đồng thời mở
+ra các mô hình kinh doanh mới, việc làm mới và giá trị gia tăng mới cho nền kinh tế.
+Nghị quyết 57-NQ/TW của Bộ Chính trị về đột phá phát triển khoa học, công nghệ,
+đổi mới sáng tạo và chuyển đổi số quốc gia đã đặt ra tầm nhìn đầy tham vọng:
+đưa Việt Nam vào Top 3 ASEAN và Top 50 toàn cầu về năng lực cạnh tranh số,
+đồng thời đứng trong Top 3 ASEAN về nghiên cứu và phát triển AI vào năm 2030.
+Đáng chú ý, Nghị quyết đảm bảo dành ít nhất 3% ngân sách quốc gia hàng năm
+cho phát triển khoa học công nghệ và chuyển đổi số, với lộ trình tăng dần theo
+yêu cầu phát triển.
+Cụ thể hóa tầm nhìn này, một số mục tiêu trọng tâm được xác định gồm: phủ sóng
+5G toàn quốc, hoàn thành triển khai thành phố thông minh tại các thành phố
+trực thuộc trung ương và thu hút ba tổ chức công nghệ hàng đầu thế giới thành lập
+trụ sở và cơ sở R&D tại Việt Nam. Đồng thời, Bộ Chính trị cũng định hướng giao cho
+tập đoàn lớn trong nước đảm nhận các dự án chuyển đổi số quy mô quốc gia, qua đó
+hình thành những doanh nghiệp công nghệ trụ cột, có khả năng dẫn dắt hệ sinh thái
+và tham gia sâu vào chuỗi giá trị toàn cầu.
+Các nghị quyết bổ sung (NQ 66-NQ/TW, NQ 71-NQ/TW, NQ 72-NQ/TW), cùng các
+luật mới (Luật Công nghiệp công nghệ số; Luật Khoa học, Công nghệ và Đổi mới
+sáng tạo; Luật Công nghệ cao), Quyết định 1131/QĐ-TTg tạo hành lang pháp lý
+cho việc thử nghiệm các sản phẩm số trong môi trường kiểm soát (sandbox),
+xây dựng nền tảng số quốc gia và phát triển các công nghệ chiến lược như: AI,
+dữ liệu lớn, điện toán đám mây, IoT, blockchain và thực tế ảo.
+Một dấu mốc đáng chú ý trong năm 2025 là việc lần đầu tiên yếu tố “làm chủ và
+tự chủ công nghệ” được đưa vào Luật Công nghệ cao như tiêu chí cốt lõi để hưởng
+ưu đãi. Đây được xem là bước chuyển quan trọng về tư duy chính sách, nhằm
+khắc phục tình trạng phụ thuộc lâu dài vào công nghệ chuyển giao từ bên ngoài,
+một điểm nghẽn khiến giá trị gia tăng thấp và nền kinh tế dễ tổn thương trước các
+cú sốc toàn cầu.
+Trong định hướng phát triển mới, công nghệ chiến lược được xác định là chìa khóa để
+nâng cao năng lực tự chủ và vị thế quốc gia. Các lĩnh vực như: AI, dữ liệu lớn, bán dẫn,
+an ninh mạng, công nghệ xanh và năng lượng mới không chỉ phục vụ tăng trưởng
+kinh tế, mà còn gắn chặt với an ninh kinh tế và phát triển bền vững. Nhà nước
+khẳng định sẽ tập trung nguồn lực quốc gia để đầu tư, phát triển và từng bước làm chủ
+các công nghệ này, coi đây là trụ cột của mô hình tăng trưởng dựa trên tri thức.
+Bối cảnh chung
+
+BÁO CÁO CỦA BAN ĐIỀU HÀNH VỀ KẾT QUẢ KINH DOANH 2025 VÀ NHẬN ĐỊNH 2026
+Đánh giá chung
+• Bối cảnh
+• Kết quả kinh doanh
+Năm 2025, kinh tế thế giới tiếp tục vận động trong trạng thái thận trọng khi phải
+đối mặt với nhiều thách thức đan xen, bao gồm biến động địa chính trị, áp lực lạm
+phát kéo dài tại một số nền kinh tế lớn, xu hướng tái cấu trúc chuỗi cung ứng toàn
+cầu và chính sách tiền tệ thắt chặt. Trong bối cảnh đó, các doanh nghiệp và tổ chức
+trên toàn cầu có xu hướng kiểm soát chặt chẽ hơn quyết định đầu tư, ưu tiên hiệu
+quả, khả năng sinh lời và tính bền vững dài hạn. Tuy nhiên, song hành với những khó
+khăn là cơ hội mới khi làn sóng chuyển đổi số, ứng dụng AI, tự động hóa và dữ liệu
+lớn tiếp tục được đẩy mạnh nhằm nâng cao năng suất, tối ưu chi phí và tăng cường
+năng lực cạnh tranh. Công nghệ, đặc biệt là AI, chuyển dịch từ giai đoạn thử nghiệm
+sang triển khai thực tiễn, tạo ra nhu cầu ngày càng rõ nét đối với các giải pháp có
+khả năng tạo giá trị thực tiễn cho hoạt động sản xuất kinh doanh.
+Kinh tế Việt Nam tiếp tục duy trì đà tăng trưởng tích cực nhờ sự ổn định vĩ mô,
+chính sách điều hành linh hoạt và sự phục hồi của các hoạt động sản xuất, xuất khẩu
+và tiêu dùng trong nước. Chính phủ đẩy mạnh triển khai các chính sách hỗ trợ
+doanh nghiệp, cải thiện môi trường đầu tư, đồng thời thúc đẩy phát triển khu vực
+kinh tế tư nhân như một động lực quan trọng của tăng trưởng. Đặc biệt, Nghị quyết
+57-NQ/TW về phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số
+quốc gia tạo hành lang chính sách thuận lợi cho việc ứng dụng công nghệ, AI và
+dữ liệu trong cả khu vực công và khu vực tư nhân. Đây là nền tảng quan trọng thúc đẩy
+nhu cầu về các giải pháp công nghệ toàn diện, mở ra cơ hội tăng trưởng dài hạn cho
+các doanh nghiệp có năng lực công nghệ và uy tín trên thị trường.
+Trong bối cảnh đó, FPT tiếp tục khẳng định vai trò là doanh nghiệp công nghệ
+hàng đầu, chủ động thích ứng với những thay đổi của môi trường kinh doanh toàn
+cầu và trong nước. Tập đoàn tập trung nguồn lực vào các lĩnh vực công nghệ cốt lõi,
+bao gồm: AI, chuyển đổi số, bán dẫn, công nghệ ô tô số và hạ tầng số, đồng thời
+từng bước tối ưu hóa danh mục hoạt động theo hướng nâng cao hiệu quả và chất
+lượng tăng trưởng. Việc đẩy mạnh ứng dụng AI không chỉ giới hạn ở việc phát triển
+sản phẩm và dịch vụ mới, mà còn được Tập đoàn triển khai sâu rộng trong vận hành
+nội bộ, quản trị dự án và tối ưu quy trình, qua đó nâng cao năng suất lao động và
+năng lực cạnh tranh tổng thể. FPT kiên định chiến lược phát triển bền vững, cân bằng
+giữa mở rộng quy mô và nâng cao hiệu quả sử dụng vốn, từng bước xây dựng lợi thế
+cạnh tranh dài hạn trong bối cảnh cạnh tranh ngày càng gay gắt.
+Năm 2025, trong bối cảnh kinh tế toàn cầu xuất hiện thêm nhiều biến động khó
+lường so với thời điểm xây dựng kế hoạch kinh doanh đầu năm, đặc biệt là những
+tác động từ căng thẳng thương mại và chính sách thuế quan của Mỹ, FPT vẫn duy
+trì đà tăng trưởng hai chữ số và bám sát kế hoạch kinh doanh được đặt ra từ đầu
+năm với doanh thu đạt 93%, lợi nhuận trước thuế đạt 97% kế hoạch. Lợi nhuận sau
+thuế thuộc về cổ đông công ty mẹ và thu nhập trên mỗi cổ phiếu (EPS) đạt tương
+ứng đạt 98% và 100% kế hoạch. Kết quả này cho thấy năng lực điều hành linh hoạt
+và khả năng thích ứng kịp thời của Tập đoàn trước những biến động khó lường của
+thị trường.
+Doanh thu
+Tỷ VNĐ
+Lợi nhuận trước thuế
+Tỷ VNĐ
+LNST thuộc cổ đông
+công ty mẹ
+Tỷ VNĐ
+Thu nhập trên
+mỗi cổ phiếu
+Báo cáo của Ban Điều hành về
+kết quả kinh doanh 2025 và
 nhận định 2026
 Đánh giá của HĐQT về hoạt động
 của Tập đoàn
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-74
+
+Báo cáo của Ban Điều hành về
+kết quả kinh doanh 2025 và
+nhận định 2026
+Đánh giá của HĐQT về hoạt động
+của Tập đoàn
 Hoạt động ESG
-Cùng với việc đảm bảo sự tăng trưởng vững chắc về kinh tế, định hướng và những 
-ưu tiên về ESG được xem là một phần quan trọng trong chiến lược phát triển. 
-Theo đó, FPT lựa chọn bốn vấn đề trọng yếu trong phát triển bền vững bao gồm: 
-Quản trị hướng đến phát triển bền vững; Xây dựng môi trường làm việc đẳng cấp, 
-hạnh phúc; Hoạt động vì môi trường xanh và Song hành vì sự phát triển của cộng đồng. 
-Các hoạt động ESG được lồng ghép vào chiến lược kinh doanh, quản trị rủi ro, 
+Cùng với việc đảm bảo sự tăng trưởng vững chắc về kinh tế, định hướng và những
+ưu tiên về ESG được xem là một phần quan trọng trong chiến lược phát triển.
+Theo đó, FPT lựa chọn bốn vấn đề trọng yếu trong phát triển bền vững bao gồm:
+Quản trị hướng đến phát triển bền vững; Xây dựng môi trường làm việc đẳng cấp,
+hạnh phúc; Hoạt động vì môi trường xanh và Song hành vì sự phát triển của cộng đồng.
+Các hoạt động ESG được lồng ghép vào chiến lược kinh doanh, quản trị rủi ro,
 kế hoạch đầu tư trung và dài hạn của Tập đoàn.
-Về môi trường, FPT tập trung triển khai các sáng kiến giảm phát thải khí nhà kính 
-và sử dụng tài nguyên hiệu quả trong toàn bộ hoạt động sản xuất – kinh doanh. 
-Trong năm 2025, Tập đoàn tiếp tục đo lường và kiểm kê phát thải khí nhà kính 
-theo phạm vi 1 và phạm vi 2 tại các đơn vị trọng yếu, làm cơ sở xây dựng lộ trình 
-giảm phát thải phù hợp với đặc thù doanh nghiệp công nghệ. Các giải pháp tối ưu 
-tiêu thụ năng lượng được đẩy mạnh, bao gồm nâng cấp hệ thống điều hòa trung tâm, 
-sử dụng thiết bị tiết kiệm điện, tối ưu vận hành trung tâm dữ liệu và mở rộng tỷ lệ 
+Về môi trường, FPT tập trung triển khai các sáng kiến giảm phát thải khí nhà kính
+và sử dụng tài nguyên hiệu quả trong toàn bộ hoạt động sản xuất – kinh doanh.
+Trong năm 2025, Tập đoàn tiếp tục đo lường và kiểm kê phát thải khí nhà kính
+theo phạm vi 1 và phạm vi 2 tại các đơn vị trọng yếu, làm cơ sở xây dựng lộ trình
+giảm phát thải phù hợp với đặc thù doanh nghiệp công nghệ. Các giải pháp tối ưu
+tiêu thụ năng lượng được đẩy mạnh, bao gồm nâng cấp hệ thống điều hòa trung tâm,
+sử dụng thiết bị tiết kiệm điện, tối ưu vận hành trung tâm dữ liệu và mở rộng tỷ lệ
 sử dụng năng lượng tái tạo tại một số cơ sở lớn.
-Đối với cộng đồng, FPT và hàng chục nghìn CBNV đã triển khai nhiều chương trình 
-trách nhiệm xã hội mang lại những giá trị cả về vật chất và tinh thần thiết thực nhất. 
-Đặc biệt, FPT đã kịp thời phát động chiến dịch “Cùng đồng bào vượt lũ” thu hút 
-được sự sẻ chia từ hàng nghìn CBNV trong và ngoài nước giúp tái thiết 26 điểm 
-trường tại Nghệ An, Thanh Hóa, Lào Cai, Tuyên Quang, những điểm trường bị 
+Đối với cộng đồng, FPT và hàng chục nghìn CBNV đã triển khai nhiều chương trình
+trách nhiệm xã hội mang lại những giá trị cả về vật chất và tinh thần thiết thực nhất.
+Đặc biệt, FPT đã kịp thời phát động chiến dịch “Cùng đồng bào vượt lũ” thu hút
+được sự sẻ chia từ hàng nghìn CBNV trong và ngoài nước giúp tái thiết 26 điểm
+trường tại Nghệ An, Thanh Hóa, Lào Cai, Tuyên Quang, những điểm trường bị
 thiệt hại nặng sau bão trong năm 2025.
-Về quản trị, FPT duy trì hệ thống quản trị minh bạch, tuân thủ và ngày càng tiệm cận 
-các thông lệ quốc tế. Các yếu tố ESG được tích hợp vào khung quản trị rủi ro và 
-quy trình ra quyết định của Ban Điều hành. Công tác quản trị dữ liệu, an toàn 
-thông tin và bảo mật được tăng cường nhằm đáp ứng yêu cầu ngày càng cao của 
+Về quản trị, FPT duy trì hệ thống quản trị minh bạch, tuân thủ và ngày càng tiệm cận
+các thông lệ quốc tế. Các yếu tố ESG được tích hợp vào khung quản trị rủi ro và
+quy trình ra quyết định của Ban Điều hành. Công tác quản trị dữ liệu, an toàn
+thông tin và bảo mật được tăng cường nhằm đáp ứng yêu cầu ngày càng cao của
 thị trường và khách hàng toàn cầu.
-Nhìn chung, các hoạt động ESG trong năm 2025 cho thấy nỗ lực của FPT trong việc 
-cân bằng giữa tăng trưởng kinh doanh và trách nhiệm bền vững, qua đó củng cố 
+Nhìn chung, các hoạt động ESG trong năm 2025 cho thấy nỗ lực của FPT trong việc
+cân bằng giữa tăng trưởng kinh doanh và trách nhiệm bền vững, qua đó củng cố
 nền tảng vận hành dài hạn và tạo giá trị ổn định cho cổ đông, khách hàng và xã hội.
 Tình hình thực hiện các dự án đầu tư
 Khối
@@ -61,1433 +188,749 @@ So với kế hoạch
 Công nghệ
 Viễn thông
 Giáo dục
-6.000
-2.500
-2.500
- 2.823
- 
-1.751
- 
-749
-47,1%
-70,0%
-30,0%
 Đơn vị: Tỷ VNĐ
-Tổ hợp giáo dục FPT tại Huế được định hướng phát triển gắn kết đào tạo với các 
+Tổ hợp giáo dục FPT tại Huế được định hướng phát triển gắn kết đào tạo với các
 công nghệ mũi nhọn, như STEM, trí tuệ nhân tạo (AI), Robotics... từ bậc phổ thông.
 
+• Kết quả giám sát và đánh giá chung
+Trên cơ sở công tác giám sát, HĐQT ghi nhận các kết quả nổi bật trong hoạt động
+của Ban Điều hành như sau:
+Thứ nhất, duy trì tăng trưởng ổn định trong bối cảnh thị trường nhiều thách
+thức. Mặc dù môi trường kinh doanh còn nhiều biến động, Ban Điều hành đã chủ
+động, linh hoạt trong phân bổ nguồn lực và kiểm soát chi phí, qua đó duy trì
+tốc độ tăng trưởng bám sát kế hoạch đề ra, đồng thời tạo dựng các động lực tăng
+trưởng mới phù hợp với tầm nhìn dài hạn của Tập đoàn.
+Thứ hai, tổ chức thực hiện hiệu quả các nghị quyết của HĐQT. Các nghị quyết và
+quyết định của HĐQT được Ban Điều hành triển khai kịp thời, nghiêm túc và đồng bộ
+trong toàn Tập đoàn, bảo đảm tuân thủ đầy đủ các quy định về quản trị công ty,
+công bố thông tin và chế độ báo cáo.
+Thứ ba, bảo đảm kỷ luật tài chính và minh bạch trong quản trị. Ban Điều hành
+duy trì kỷ luật tài chính chặt chẽ, tổ chức theo dõi sát sao hoạt động kinh doanh,
+dòng tiền và công nợ, qua đó giúp Tập đoàn chủ động ứng phó với các biến động
+của thị trường và bảo đảm tiến độ thực hiện kế hoạch tài chính năm.
+Thứ tư, củng cố và nâng cao năng lực quản trị nhân sự. Trong năm 2025,
+Ban Điều hành tiếp tục chú trọng công tác quy hoạch, đào tạo, luân chuyển và
+bổ nhiệm đội ngũ cán bộ quản lý, từng bước hoàn thiện bộ máy điều hành theo
+hướng tinh gọn, hiệu quả và phù hợp với quy mô, mức độ quốc tế hóa ngày càng cao
+của Tập đoàn.
+Thứ năm, thúc đẩy hợp tác chiến lược và mở rộng quy mô hoạt động công nghệ.
+Ban Điều hành đã chủ động mở rộng hợp tác với các đối tác trong và ngoài nước,
+đồng thời đẩy mạnh triển khai các chương trình chuyển đổi số, ứng dụng công nghệ
+mới và các dự án quy mô lớn, góp phần nâng cao vị thế của FPT trong hệ sinh thái
+công nghệ và trên thị trường quốc tế.
+HĐQT đánh giá Ban Điều hành đã hoàn thành tốt vai trò, nhiệm vụ được giao
+trong năm 2025, thể hiện rõ năng lực điều hành, tinh thần trách nhiệm và sự gắn kết
+với các mục tiêu chiến lược của Tập đoàn. Những kết quả đạt được là cơ sở
+quan trọng để FPT tiếp tục củng cố nền tảng quản trị, nâng cao năng lực
+cạnh tranh và hướng tới mục tiêu phát triển bền vững trong các năm tiếp theo.
+HĐQT ghi nhận và đánh giá cao vai trò điều hành chủ động, linh hoạt và hiệu quả
+của Ban Điều hành trong năm 2025, đặc biệt trong bối cảnh kinh tế toàn cầu và
+trong nước tiếp tục chịu tác động mạnh từ biến động địa chính trị, dịch chuyển
+chuỗi cung ứng, áp lực lạm phát và xu hướng thận trọng trong chi tiêu công nghệ
+thông tin. Trên nền tảng chiến lược đã được xác lập và củng cố trong các năm
+trước, Ban Điều hành đã thể hiện rõ năng lực quản trị, khả năng thích ứng và tinh
+thần trách nhiệm cao trong tổ chức thực hiện các mục tiêu kinh doanh. Nhờ đó, FPT
+duy trì được đà tăng trưởng ổn định, kiểm soát tốt rủi ro, đồng thời từng bước triển
+khai các định hướng chiến lược trung và dài hạn, tạo tiền đề cho giai đoạn phát triển
+tiếp theo.
+Tuân thủ Điều lệ Công ty, Quy chế Quản trị công ty và các quy định pháp luật
+hiện hành, HĐQT đã thực hiện giám sát chặt chẽ, thường xuyên đối với hoạt động
+của Tổng giám đốc và Ban Điều hành trong việc tổ chức triển khai chiến lược,
+thực hiện các nghị quyết của ĐHĐCĐ và HĐQT. Các nội dung giám sát trọng tâm
+bao gồm:
+• Việc triển khai và thực thi chiến lược kinh doanh theo đúng định hướng đã được
+HĐQT và ĐHĐCĐ thông qua;
+• Tính tuân thủ và tiến độ thực hiện các nghị quyết, quyết định của HĐQT;
+• Công tác quản lý tài chính, tuân thủ chế độ báo cáo tài chính định kỳ (quý, bán niên,
+• Việc triển khai các chính sách về tổ chức bộ máy, nhân sự cấp cao, quy hoạch
+và phát triển đội ngũ lãnh đạo kế cận;
+• Hoạt động đầu tư, hợp tác chiến lược và quản lý rủi ro, bảo đảm hiệu quả và
+tính bền vững trong trung và dài hạn.
+• Đánh giá chung
+• Hoạt động giám sát của HĐQT
+Đánh giá của HĐQT về hoạt động của Ban Điều hành
+Báo cáo của Ban Điều hành về
+kết quả kinh doanh 2025 và
+nhận định 2026
+Đánh giá của HĐQT về hoạt động
+của Tập đoàn
+
+Quản trị công ty tiếp tục là điểm mạnh nổi bật của FPT, đóng vai trò then chốt
+trong việc gia tăng niềm tin của nhà đầu tư, nâng cao định giá thị trường và
+củng cố phát triển bền vững. FPT không chỉ tuân thủ đầy đủ các quy định pháp luật
+liên quan đến quản trị doanh nghiệp và công ty niêm yết mà còn thể hiện quyết tâm
+nâng cao chất lượng quản trị theo chuẩn quốc tế, đặc biệt trong bối cảnh các tiêu chí
+quốc tế ngày càng yêu cầu minh bạch, trách nhiệm và hiệu quả quản trị cao hơn.
+Trong khuôn khổ Hội nghị Doanh nghiệp niêm yết và Lễ trao giải VLCA 2025, FPT
+được vinh danh Top 8 Doanh nghiệp nhóm vốn hóa lớn có chất lượng quản trị công
+ty tốt nhất tại Việt Nam, phản ánh sự tiến bộ rõ rệt về cấu trúc và tính độc lập của
+thành viên HĐQT, kiểm soát rủi ro và minh bạch thông tin. Việc nhận kỷ niệm chương vì
+đóng góp tích cực cho HoSE và thị trường chứng khoán Việt Nam cũng khẳng định vai trò
+tiên phong của FPT trong việc nâng chuẩn quản trị công ty trong nước.
+Bên cạnh đó, trong các thang đo đánh giá khu vực ASEAN, FPT đã lọt vào Top 5
+Doanh nghiệp Việt Nam có điểm số cao nhất về chất lượng quản trị công ty.
+Hoạt động quan hệ nhà đầu tư của FPT cũng được thị trường đánh giá rất cao khi
+Tập đoàn liên tiếp được vinh danh tại IR Awards ở hai hạng mục dành cho
+doanh nghiệp nhóm vốn hóa lớn với hoạt động IR được nhà đầu tư và các định chế
+tài chính đánh giá cao. Điều này chứng tỏ FPT duy trì được minh bạch trong công bố
+thông tin, đối thoại nhà đầu tư và quản trị chiến lược rõ ràng. Đây cũng chính là yếu tố
+quan trọng giúp cổ phiếu được định giá công bằng và hấp dẫn hơn trên thị trường.
+Song song với việc thực thi quản trị công ty, FPT còn thúc đẩy việc ứng dụng công nghệ
+tiên tiến vào quản trị dữ liệu và quản lý nội bộ nhằm đảm bảo tính minh bạch,
+hiệu quả và quyền lợi của các bên liên quan.
+Những thành tựu này không chỉ củng cố vị thế của FPT trong nước mà còn góp phần
+nâng cao uy tín của doanh nghiệp Việt Nam trên bản đồ quản trị khu vực và quốc tế –
+một điểm nhấn quan trọng trong bối cảnh nhà đầu tư quốc tế ngày càng chú trọng đến
+chất lượng quản trị như một yếu tố quan trọng trong các quyết định đầu tư dài hạn.
+FPT đứng trong Top 8 Doanh nghiệp nhóm vốn hóa lớn có chất lượng quản trị công ty
+tốt nhất tại Việt Nam.
+FPT liên tiếp được các định chế tài chính đánh giá cao.
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+• Mô hình hoạt động, cơ cấu, vai trò, trách nhiệm và thù lao của thành viên HĐQT
+được quy định rõ trong Điều lệ Công ty và Quy chế Quản trị công ty, đồng thời
+được công bố công khai trên Báo cáo thường niên và website của Tập đoàn.
+• HĐQT xem xét và phê duyệt định hướng chiến lược của Tập đoàn, kế hoạch kinh
+doanh hàng năm, các khoản đầu tư không thuộc kế hoạch kinh doanh và ngân
+sách vượt quá 10% giá trị kế hoạch và ngân sách kinh doanh hàng năm.
+• HĐQT đã và đang thể hiện tốt vai trò giám sát tính hiệu quả của công tác quản trị,
+việc tuân thủ pháp luật của Tập đoàn. Điều này được thể hiện trong nội dung Báo
+cáo Đánh giá của HĐQT về hoạt động của Tập đoàn và Đánh giá của HĐQT về
+• HĐQT đã giao nhiệm vụ cho bộ phận Kiểm toán nội bộ kiểm tra, đánh giá, giám sát
+các vấn đề quản trị bền vững, báo cáo và đề xuất HĐQT các phương án thực hiện để
+đảm bảo quản trị rủi ro và cơ hội liên quan đến phát triển bền vững.
+• HĐQT cũng đã thực hiện giám sát, thúc đẩy các chuẩn mực cao về đạo đức kinh
+• Tỷ lệ thành viên HĐQT tham gia các cuộc họp định kỳ hàng quý hoặc lấy ý kiến
+bằng văn bản đạt gần 100%. Tài liệu họp được gửi đầy đủ đến các thành viên
+HĐQT tối thiểu bảy ngày trước ngày họp. Trong năm 2025, HĐQT đã tiến hành 07
+cuộc họp, trong đó, có 04 cuộc họp theo hình thức trực tiếp và 03 cuộc họp xin ý
+kiến bằng văn bản, đảm bảo đúng quy định về số lượng 01 cuộc họp/quý. HĐQT
+đã ban hành 08 Nghị quyết.
+Trách nhiệm của HĐQT
+Trong năm 2025, HĐQT đã hoạt động tích cực và tuân thủ đầy đủ các quy định
+liên quan đối với hoạt động và trách nhiệm của HĐQT đảm bảo các lợi ích của cổ đông.
+• Nguyên tắc 01: Thiết lập rõ vai trò, trách nhiệm và
+cam kết của HĐQT
+01 Cuộc họp/quý
+Cuộc họp xin ý kiến
+bằng văn bản
+Nghị quyết được
+ban hành
+Cuộc họp
+trực tiếp
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+HĐQT nhiệm kỳ 2022-2027 của FPT gồm bảy thành
+viên, đảm bảo các nguyên tắc đa dạng về kinh nghiệm
+chuyên môn, số lượng thành viên HĐQT độc lập và
+thành viên HĐQT không điều hành, đảm bảo tính
+khách quan, tính chuyên nghiệp và hiệu quả vì sự
+phát triển bền vững của Tập đoàn, lợi ích cao nhất
+của cổ đông và các bên liên quan.
+Các thành viên HĐQT đều am hiểu hoặc có kiến
+thức chuyên môn về tài chính, quản lý rủi ro, CNTT,
+pháp lý, quản trị kinh doanh, kinh nghiệm quốc tế, môi
+trường kinh doanh. Trong đó, có một thành viên có kinh
+nghiệm nhiều năm trong lĩnh vực tài chính là ông
+Jean-Charles Belliol; năm thành viên dày dạn kinh
+nghiệm trong lĩnh vực CNTT và một thành viên am hiểu
+sâu sắc lĩnh vực đầu tư và quản trị doanh nghiệp. Năm
+2025, HĐQT vẫn giữ nguyên bảy thành viên không
+thay đổi từ đầu nhiệm kỳ 2022-2027.
+Về đào tạo quản trị, tính đến thời điểm 31/12/2025,
+Tập đoàn có hai cán bộ là thành viên HĐQT, BKS
+ông Đỗ Cao Bảo, Ủy viên HĐQT và ông Nguyễn Việt
+Thắng, Trưởng BKS. Ngày 22/08/2025, bà Phạm
+Ngọc Anh, Chánh Văn phòng FPT đã hoàn thành
+khóa  học “Nâng cao nghiệp vụ Thư ký công ty tại các
+công ty đại chúng trong bối cảnh nâng hạng thị trường
+chứng khoán Việt Nam” do Ủy ban Chứng khoán
+Nhà nước chứng nhận.
+Hiện nay, các thành viên còn lại của HĐQT, BKS và
+Ban Điều hành vẫn liên tục cập nhật và tuân thủ theo các
+tới, các thành viên này sẽ sắp xếp thời gian để tham gia
+• Nguyên tắc 02: Thiết lập một HĐQT có năng lực và chuyên nghiệp
+Thành viên HĐQT độc lập
+Thành viên HĐQT có
+kinh nghiệm chuyên sâu
+trong lĩnh vực CNTT
+Thành viên HĐQT am hiểu
+sâu sắc lĩnh vực đầu tư và
+quản trị doanh nghiệp
+Thành viên HĐQT có
+kinh nghiệm chuyên sâu
+trong lĩnh vực tài chính
+Thành viên HĐQT nữ
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+Tập đoàn cam kết luôn minh bạch và công bằng trong việc công bố thông tin đến
+cổ đông và các bên có quyền lợi liên quan khác. Trong năm 2025, Tập đoàn không có
+bất cứ vi phạm nào về quy định công bố thông tin.
+Tập đoàn có bộ phận Quan hệ nhà đầu tư (IR) và bộ phận Công bố thông tin chịu
+trách nhiệm cập nhật thông tin đầy đủ, chính xác, kịp thời cho cổ đông và lưu trữ
+thông tin theo quy định của pháp luật. Trong nhiều năm qua, FPT luôn nằm trong
+Top 50 Công ty niêm yết tốt nhất Việt Nam, Top 50 Công ty đại chúng uy tín và hiệu quả
+nhất (VIX50) và đứng trong Top 3 Doanh nghiệp nhóm vốn hóa lớn có hoạt động IR
+được Nhà đầu tư yêu thích nhất và được Định chế tài chính đánh giá cao nhất.
+100% thông tin công bố được cập nhật chính xác, tuân thủ theo đúng các quy định
+liên quan về công bố thông tin đối với công ty niêm yết trên website của Tập đoàn
+và các kênh liên quan bằng cả tiếng Việt và tiếng Anh. Các thông tin liên quan và
+trọng yếu về hoạt động kinh doanh của Tập đoàn được công bố kịp thời thông qua
+nhiều kênh như website, kênh truyền thông đại chúng, gặp gỡ định kỳ với nhà đầu tư,
+phóng viên và các bên liên quan khác.
+Trong tất cả các cuộc trao đổi, gặp gỡ và tại ĐHĐCĐ thường niên, nhà đầu tư được
+quyền chủ động đặt câu hỏi liên quan đến hoạt động của Tập đoàn và được giải đáp
+trực tiếp ngay tại sự kiện. Đồng thời, Biên bản và Nghị quyết của ĐHĐCĐ thường
+niên được đăng tải công khai và đầy đủ trên website của Tập đoàn giúp cổ đông,
+nhà đầu tư chủ động nắm bắt thông tin.
+Thông tin về cấu trúc sở hữu và mô hình hoạt động của Tập đoàn; dữ liệu về cổ đông
+lớn, cổ đông nội bộ, thành viên HĐQT và Ban Điều hành; giao dịch với các bên liên quan
+được công bố cập nhật công khai trong Báo cáo thường niên và website của Tập đoàn.
+Thông tin về tác động môi trường và xã hội cũng như các hoạt động trách nhiệm xã hội
+của FPT được công bố công khai và cập nhật trong Báo cáo thường niên của Tập đoàn.
+• Nguyên tắc 08: Tăng cường hoạt động công bố thông tin
+Công bố thông tin và minh bạch
+FPT luôn tuân thủ đầy đủ, chính xác và đúng thời hạn các quy định về công bố thông tin
+đối với công ty niêm yết. Đồng thời, tất cả các bên liên quan đều có thể tiếp cận
+thông tin công bố của FPT một cách kịp thời, đầy đủ trên website của Tập đoàn.
+FPT lần đầu vượt qua các ngân hàng lớn, đứng vị trí số 1 trong danh sách VIX50.
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+Song song với việc đảm bảo tăng trưởng ổn định trước tình hình địa chính trị phức tạp và nền kinh tế trì trệ, các
+hoạt động kinh doanh của Tập đoàn đều được thực hiện trên nguyên tắc đảm bảo lợi ích cao nhất cho các bên
+liên quan. Đồng thời, để các bên liên quan có thể lên tiếng và/hoặc khiếu kiện về những vi phạm có thể xảy ra đối với
+quyền lợi của họ, FPT công khai thông tin liên hệ theo từng lĩnh vực trên website của Tập đoàn tại địa chỉ:
+https://fpt.com/vi/lien-he.
+HĐQT cũng đã ban hành Nghị quyết Quản lý giao dịch với các bên liên quan đối với các giao dịch nhỏ hơn 35%
+tổng giá trị tài sản của Tập đoàn được ghi trong Báo cáo tài chính tại thời điểm gần nhất. Trong năm 2025, FPT
+không phát hiện bất kỳ giao dịch nào có xung đột lợi ích với Tập đoàn. Chính sách chống tham nhũng và
+chống hối lộ cũng được Tập đoàn thực hiện nghiêm ngặt.
+• Đầu tư phát triển các nền tảng, giải pháp, sản phẩm, dịch vụ công nghệ, viễn thông,
+giáo dục đáp ứng nhu cầu của khách hàng;
+• Không ngừng nâng cao uy tín thương hiệu, chất lượng nguồn nhân lực nhằm
+đảm bảo uy tín với khách hàng.
+• Minh bạch hóa thông tin và nỗ lực mang lại lợi ích cao nhất cho cổ đông,
+nhà đầu tư.
+• Tạo điều kiện tốt nhất để CBNV phát huy thế mạnh, thành công.
+• Ứng dụng công nghệ kết nối cộng đồng, mang lại những giá trị tốt đẹp hơn cho
+cuộc sống và trở thành điểm tựa tin cậy, kịp thời cho sự phát triển của cộng đồng.
+• Luôn đồng hành với các chương trình, đề án lớn của quốc gia hướng đến mục tiêu
+vì một Việt Nam hùng cường, thịnh vượng.
+• Nỗ lực thiết lập quan hệ với các đối tác trên cơ sở thấu hiểu sâu sắc, phát huy
+tối đa sức mạnh hợp tác, gắn bó lâu dài, cùng thành công và phát triển bền vững.
+• Cung cấp kịp thời và minh bạch các thông tin liên quan đến hoạt động của FPT
+cũng như công ty thành viên.
+Khách hàng
+Cổ đông, nhà đầu tư
+Cán bộ nhân viên
+Chính phủ, bộ ban ngành,
+tỉnh thành
+Đối tác, nhà cung cấp
+Báo chí và cơ quan
+truyền thông
+Bên liên quan
+Cam kết của FPT
+• Nguyên tắc 10: Tăng cường tham gia hiệu quả của các bên có
+quyền lợi liên quan
+Quan hệ với các bên có quyền lợi liên quan
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+• Ủy ban Nhân sự và Lương thưởng
+Đánh giá hoạt động của các tiểu ban
+Trong năm 2025, Ủy ban Nhân sự và Lương thưởng tiếp tục phát huy vai trò tham mưu, định hướng và giám sát
+trong lĩnh vực phát triển nguồn nhân lực, góp phần bảo đảm nguồn nhân lực đáp ứng yêu cầu thực hiện chiến lược
+phát triển của Tập đoàn trong giai đoạn mới.
+Về công tác hoạch định chiến lược nhân sự, Ủy ban đã chỉ đạo Ban Điều hành nghiên cứu, xây dựng Chiến lược
+Nhân sự giai đoạn 2026-2028, phù hợp với mục tiêu làm chủ các công nghệ lõi, xây dựng đội ngũ nhân lực chất lượng
+cao, qua đó góp phần thực hiện mục tiêu phát triển bền vững và đóng góp vào chủ quyền công nghệ quốc gia.
+Về công tác quy hoạch, phát triển và luân chuyển cán bộ cấp cao, Ủy ban đã chỉ đạo xây dựng, triển khai các
+chính sách, chương trình phát triển đội ngũ cán bộ nguồn nhằm phát hiện, bồi dưỡng và chuẩn bị lực lượng cán
+bộ sẵn sàng kế cận các vị trí lãnh đạo, quản lý chủ chốt tại Tập đoàn và công ty thành viên. Đồng thời, Ủy ban
+định hướng xây dựng chương trình lãnh đạo toàn cầu, tập trung nâng cao năng lực quản trị, tư duy chiến lược
+và khả năng điều hành trong môi trường quốc tế cho đội ngũ lãnh đạo kế cận của Tập đoàn.
+Ủy ban Nhân sự và Lương thưởng thực hiện đánh giá, xem xét việc tái bổ nhiệm, luân chuyển và bổ nhiệm mới
+đối với các vị trí quản lý, lãnh đạo cấp cao tại Tập đoàn và công ty thành viên, bảo đảm phù hợp với yêu cầu
+phát triển và cơ cấu tổ chức của từng đơn vị. Cụ thể, Ủy ban đã xem xét tái bổ nhiệm các chức danh chủ chốt
+như: Tổng giám đốc FPT, Giám đốc Nhân sự FPT, đồng thời đánh giá, xem xét luân chuyển và bổ nhiệm mới đối
+với một số vị trí quan trọng tại công ty thành viên và thị trường trọng điểm như: Tổng giám đốc FPT IS,
+Tổng giám đốc FPT châu Mỹ, Phó tổng giám đốc FPT Software phụ trách thị trường châu Âu và Trung Đông.
+Bên cạnh đó, Ủy ban cũng xem xét việc bổ nhiệm lãnh đạo cho các đơn vị chiến lược mới của Tập đoàn
+nhằm đáp ứng yêu cầu phát triển trong các lĩnh vực công nghệ chiến lược.
+Về chính sách nhân sự và chế độ đãi ngộ, Ủy ban tiếp tục định hướng, chỉ đạo xây dựng, ban hành và triển khai
+các chương trình, chính sách nhân sự quan trọng của Tập đoàn và công ty thành viên. Trọng tâm là việc xây dựng,
+hoàn thiện và cải tiến các chính sách đãi ngộ đặc thù nhằm chăm sóc toàn diện đời sống người lao động,
+thu hút và giữ chân nhân tài, giảm tỷ lệ nghỉ việc, đặc biệt đối với đội ngũ cán bộ công nghệ và các vị trí nhân sự
+đặc thù. Các chính sách được triển khai bao gồm lộ trình phát triển nghề nghiệp cho cán bộ công nghệ, quy định về
+chế độ nghỉ, chế độ hưu trí, cũng như mở rộng các chính sách hỗ trợ vay mua nhà và phương tiện, góp phần
+nâng cao mức độ gắn kết và sự hài lòng của CBNV.
+Đánh giá chung
+BÁO CÁO CỦA HĐQT
+HĐQT tiếp tục phát huy tốt vai trò định hướng,
+giám sát và tư vấn chiến lược, tuân thủ đầy đủ
+các quy định của pháp luật, Điều lệ Công ty và các
+HĐQT duy trì sự chỉ đạo sát sao đối với Ban Điều hành
+trong việc triển khai Nghị quyết ĐHĐCĐ, thực hiện
+đặc biệt trong bối cảnh kinh tế thế giới tiếp tục tiềm
+ẩn nhiều yếu tố bất ổn và cạnh tranh toàn cầu ngày
+càng gia tăng. Thông qua cơ chế giám sát chặt chẽ,
+trao đổi thường xuyên và các quyết sách kịp thời,
+HĐQT đã tạo điều kiện thuận lợi để Ban Điều hành
+chủ động, linh hoạt trong điều hành hoạt động sản xuất
+kinh doanh, bảo đảm mục tiêu tăng trưởng và hiệu quả.
+Công tác hoạch định và triển khai chiến lược tiếp tục
+được kiện toàn trên toàn Tập đoàn, bảo đảm các
+mục tiêu chiến lược được truyền tải rõ ràng, thống nhất
+từ cấp Tập đoàn tới công ty thành viên, đồng thời
+nâng cao tính kỷ luật, tính đo lường và hiệu quả trong
+tổ chức thực hiện.
+Với sự tham gia tích cực của các thành viên HĐQT,
+đặc biệt là các thành viên HĐQT độc lập có uy tín và
+kinh nghiệm sâu rộng, HĐQT FPT tiếp tục nâng cao
+chất lượng quản trị, tính minh bạch và chuẩn mực
+trong hoạt động. Nhờ đó, FPT không chỉ duy trì
+đà tăng trưởng ổn định mà còn tiếp tục củng cố
+vị thế doanh nghiệp công nghệ hàng đầu Việt Nam,
+từng bước khẳng định năng lực cạnh tranh và hiện diện
+vững chắc trên thị trường quốc tế.
+các bên liên quan
+Báo cáo của HĐQT
+Báo cáo của Ban Kiểm soát
+
+Thông điệp và định hướng ESG
+Quản trị hướng đến phát triển bền vững
+Môi trường làm việc đẳng cấp,
+hạnh phúc
+Hoạt động vì môi trường xanh
+Song hành vì sự phát triển cộng đồng
+
 THÔNG ĐIỆP VÀ ĐỊNH HƯỚNG ESG
-BÁO CÁO ESG
 Thông điệp Phó tổng giám đốc
 ESG tăng cường tiềm năng của người FPT chúng tôi.
-Kính thưa Quý Cổ đông và các bên liên quan khác, 
-Chúng ta đang sống và làm việc trong kỷ nguyên đầy 
-biến động cùng sự xuất hiện, lớn mạnh và chiếm ưu 
-thế ngày càng không thể phủ nhận của AI. Thúc đẩy 
-tăng năng suất sản xuất bằng AI, tự động hóa quy 
-trình ngay từ khâu thiết kế, quyết định kinh doanh 
-chuyển hướng dựa vào dữ liệu, công nghệ kèm với 
-những phân tích chuyên sâu về thị trường, khách hàng 
-đã định hình một FPT năng động, bản lĩnh và khát 
-vọng hơn bao giờ hết về sự phát triển bền vững, 
-trường tồn. 
-Tiếp tục phát huy thế mạnh trong quản trị công ty và 
-luôn đề cao tính minh bạch trong vận hành, năm 2025, 
-FPT tiên phong trên thị trường Việt Nam về khẳng 
-định cam kết quản trị bền vững bằng việc sở hữu các 
-chứng nhận quốc tế về công bằng số, đạo đức AI và 
+Kính thưa Quý Cổ đông và các bên liên quan khác,
+Chúng ta đang sống và làm việc trong kỷ nguyên đầy
+biến động cùng sự xuất hiện, lớn mạnh và chiếm ưu
+thế ngày càng không thể phủ nhận của AI. Thúc đẩy
+tăng năng suất sản xuất bằng AI, tự động hóa quy
+trình ngay từ khâu thiết kế, quyết định kinh doanh
+chuyển hướng dựa vào dữ liệu, công nghệ kèm với
+những phân tích chuyên sâu về thị trường, khách hàng
+đã định hình một FPT năng động, bản lĩnh và khát
+vọng hơn bao giờ hết về sự phát triển bền vững,
+trường tồn.
+luôn đề cao tính minh bạch trong vận hành, năm 2025,
+FPT tiên phong trên thị trường Việt Nam về khẳng
+định cam kết quản trị bền vững bằng việc sở hữu các
+chứng nhận quốc tế về công bằng số, đạo đức AI và
 kiểm kê khí nhà kính.
-Các nguyên tắc ESG của tổ chức về mua sắm bền vững 
-và môi trường xanh đã được tích hợp một cách bài bản, 
-linh hoạt vào chiến lược và các hoạt động của Tập đoàn, 
-từ đầu tư hệ thống điện mặt trời, mua điện xanh/sạch, 
-sử dụng chữ ký số, thúc đẩy văn phòng điện tử, không 
-giấy tờ đến cam kết sử dụng nguồn nguyên liệu sạch, 
-tăng cường sử dụng xe điện. 
-Những bước đi này tiếp tục củng cố cam kết mạnh mẽ 
-và dài hạn của chúng tôi trên lộ trình hướng tới mục tiêu 
-Net Zero vào năm 2040. 
-Chúng tôi cũng luôn tự hào về những nỗ lực bền bỉ, 
-thầm lặng trong việc tạo ra những giá trị dài hạn về 
-cuộc sống và môi trường cho trẻ em, cộng đồng và 
-xã hội. Đồng thời, FPT không ngừng nâng cao chỉ số 
-hạnh phúc của CBNV bằng việc làm giàu cuộc sống 
-tinh thần, sức khỏe, trí lực hướng tới một đại gia đình 
-FPT gắn kết, dân chủ và nhân văn. 
-Tôi tin tưởng ESG không chỉ tạo nên sự khác biệt cho 
-FPT mà còn khơi dậy khát vọng lớn lao trong việc 
-tận dụng sức mạnh công nghệ, tinh thần sáng tạo và 
-trí tuệ của CBNV để khuếch đại tiềm năng, hiện thực 
+Các nguyên tắc ESG của tổ chức về mua sắm bền vững
+và môi trường xanh đã được tích hợp một cách bài bản,
+linh hoạt vào chiến lược và các hoạt động của Tập đoàn,
+từ đầu tư hệ thống điện mặt trời, mua điện xanh/sạch,
+sử dụng chữ ký số, thúc đẩy văn phòng điện tử, không
+giấy tờ đến cam kết sử dụng nguồn nguyên liệu sạch,
+tăng cường sử dụng xe điện.
+Những bước đi này tiếp tục củng cố cam kết mạnh mẽ
+và dài hạn của chúng tôi trên lộ trình hướng tới mục tiêu
+Net Zero vào năm 2040.
+Chúng tôi cũng luôn tự hào về những nỗ lực bền bỉ,
+thầm lặng trong việc tạo ra những giá trị dài hạn về
+cuộc sống và môi trường cho trẻ em, cộng đồng và
+xã hội. Đồng thời, FPT không ngừng nâng cao chỉ số
+hạnh phúc của CBNV bằng việc làm giàu cuộc sống
+tinh thần, sức khỏe, trí lực hướng tới một đại gia đình
+FPT gắn kết, dân chủ và nhân văn.
+Tôi tin tưởng ESG không chỉ tạo nên sự khác biệt cho
+FPT mà còn khơi dậy khát vọng lớn lao trong việc
+tận dụng sức mạnh công nghệ, tinh thần sáng tạo và
+trí tuệ của CBNV để khuếch đại tiềm năng, hiện thực
 hóa mục tiêu tăng trưởng bền vững trong dài hạn.
 PHÓ TỔNG GIÁM ĐỐC
 NGUYỄN THẾ PHƯƠNG
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
 Thông điệp và định hướng ESG
 Quản trị hướng đến phát triển bền vững
 Môi trường làm việc đẳng cấp,
 hạnh phúc
 Hoạt động vì môi trường xanh
 Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-109
 
-2025 là năm thứ 05, FPT thực hiện Báo cáo Môi trường – Trách nhiệm xã hội – Quản 
-trị (Báo cáo ESG). Thông qua Báo cáo này, FPT có cơ hội đánh giá toàn diện về các 
-hoạt động liên quan môi trường, trách nhiệm xã hội, quản trị, từ đó điều chỉnh và 
-cân bằng chiến lược, kế hoạch kinh doanh hướng đến mục tiêu phát triển bền vững 
-cho Tập đoàn và cộng đồng. 
-Báo cáo được xây dựng trên nguyên tắc đảm bảo các yếu tố sau: tính toàn diện, 
-tính rõ ràng, tính cập nhật và tính tin cậy, đồng thời tham chiếu theo bộ tiêu chuẩn 
+Môi trường làm việc
+đẳng cấp
+Nơi làm việc
+tốt nhất Việt Nam
+Việc làm ổn định
+Nhân sự người
+nước ngoài
+(82 quốc tịch)
+Cán bộ quản lý nữ
+Giờ học nâng cao
+kiến thức kỹ năng AI
+1,1 triệu
+Doanh nghiệp Việt Nam
+có chất lượng quản trị
+công ty tốt nhất ASEAN
+Hệ thống quản lý
+an toàn thông tin
+Hệ thống quản lý
+môi trường
+Hệ thống an toàn
+sức khoẻ
+Tiêu chuẩn đo lường
+và quản lý phát thải
+khí nhà kính
+ISO/IEC
+Tiêu chuẩn dành cho
+hệ thống quản lý trí tuệ
+nhân tạo (AIMS)
+Hoạt động
+vì môi trường xanh
+Tổng sản lượng
+Cơ sở được giám sát
+phát thải khí
+nhà kính định kỳ
+Hệ thống điện
+mặt trời mái nhà
+Trách nhiệm
+xã hội
+Liên tiếp triển khai
+Ngày FPT vì cộng đồng
+Điểm trường
+thiệt hại nặng được
+tái thiết sau lũ
+Trường Hy Vọng nhận
+giải thưởng Hành động vì
+cộng đồng ở hạng mục
+Dự án kịp thời
+Triển khai dự án máy khử
+rung tim tự động cho
+cộng đồng đầu tiên tại
+Việt Nam
+Quản trị
+bền vững
+Thông điệp và định hướng ESG
+Quản trị hướng đến phát triển bền vững
+Môi trường làm việc đẳng cấp,
+hạnh phúc
+Hoạt động vì môi trường xanh
+Song hành vì sự phát triển cộng đồng
+
+2025 là năm thứ 05, FPT thực hiện Báo cáo Môi trường – Trách nhiệm xã hội – Quản
+trị (Báo cáo ESG). Thông qua Báo cáo này, FPT có cơ hội đánh giá toàn diện về các
+hoạt động liên quan môi trường, trách nhiệm xã hội, quản trị, từ đó điều chỉnh và
+cân bằng chiến lược, kế hoạch kinh doanh hướng đến mục tiêu phát triển bền vững
+cho Tập đoàn và cộng đồng.
+Báo cáo được xây dựng trên nguyên tắc đảm bảo các yếu tố sau: tính toàn diện,
+tính rõ ràng, tính cập nhật và tính tin cậy, đồng thời tham chiếu theo bộ tiêu chuẩn
 GRI Standards của Tổ chức Sáng kiến toàn cầu (GRI).
 • Liên hệ
-Để gửi các câu hỏi, các khuyến nghị liên quan đến hoạt động ESG của FPT cũng 
+Để gửi các câu hỏi, các khuyến nghị liên quan đến hoạt động ESG của FPT cũng
 như nội dung chi tiết của Báo cáo ESG, vui lòng liên hệ theo thông tin như sau:
 • Bà: Mai Thị Lan Anh, Người ủy quyền công bố thông tin, Công ty Cổ phần FPT
 • Địa chỉ: Số 10 phố Phạm Văn Bạch, phường Cầu Giấy, Tp.Hà Nội
-• Điện thoại: +84 24 7300 7300
 • Email: fptnews@fpt.com
-• Thời gian báo cáo: 01/01/2025-31/12/2025. 
 • Chu kì báo cáo: Thường niên.
-• Phạm vi báo cáo: Báo cáo dựa trên hoạt động của Tập đoàn, công ty thành viên 
+• Phạm vi báo cáo: Báo cáo dựa trên hoạt động của Tập đoàn, công ty thành viên
 tại Việt Nam và một số thị trường trọng yếu.
 Thông tin chung về báo cáo
 • Phạm vi báo cáo
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
 Thông điệp và định hướng ESG
 Quản trị hướng đến phát triển bền vững
 Môi trường làm việc đẳng cấp,
 hạnh phúc
 Hoạt động vì môi trường xanh
 Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-111
 
-01
+Định hướng và các ưu tiên ESG tiếp tục được FPT xác định là một cấu phần quan
+trọng trong chiến lược phát triển dài hạn, qua đó thể hiện rõ vai trò và trách nhiệm
+của Tập đoàn đối với các bên liên quan trọng yếu.
+(*) Tổ chức sử dụng một số tiêu chuẩn hoặc một phần nội dung của tiêu chuẩn GRI để báo cáo các tác động liên quan đến từng chủ đề kinh tế, xã hội hoặc môi trường.
+Định hướng và cam kết về ESG của Tập đoàn
+• Định hướng ESG
+Trên nền tảng bốn trục nội dung xuyên suốt gồm: Quản trị xuất sắc, Môi trường làm
+việc đẳng cấp và hạnh phúc, Hoạt động vì môi trường xanh và Song hành vì sự phát
+triển cộng đồng, FPT tăng cường đầu tư vào công nghệ, con người và năng lực
+quản trị nhằm cụ thể hóa các cam kết ESG, bảo đảm tạo lập giá trị bền vững và lâu
+dài cho Tập đoàn.
+Các vấn đề trọng yếu
+Quản trị xuất sắc
+Tạo môi trường làm việc
+đẳng cấp, hạnh phúc
+ESG tạo thêm sức mạnh để FPT phát huy giá trị cốt lõi,
+tiếp tục thực hiện sứ mệnh Tập đoàn toàn cầu trường tồn và hạnh phúc.
+Hoạt động
+vì môi trường xanh
+Vì sự phát triển
+Tiêu chuẩn GRI (*)
+Cam kết của FPT
+Quản trị dữ liệu
+Quản trị rủi ro,
+chống tham nhũng
+Quản trị  an toàn thông tin
+Quản trị mua sắm
+bền vững
+Nơi làm việc hạnh phúc
+Tổ chức học tập suốt đời
+Bình đẳng và đa dạng
+Mục tiêu ngắn hạn đến
+tổng lượng khí thải
+khí nhà kính
+Mục tiêu dài hạn đến
+năm 2040 là Net Zero
+Tạo điều kiện tốt nhất để
+trẻ em Việt Nam có cơ hội
+tiếp cận giáo dục chất lượng
+và bền vững
+Đào tạo nguồn nhân lực
+công nghệ chất lượng cao
+Phương pháp
+quản trị
+Kinh tế
+Xã hội
+Xã hội
+Môi trường
+Thông điệp và định hướng ESG
+Quản trị hướng đến phát triển bền vững
+Môi trường làm việc đẳng cấp,
+hạnh phúc
+Hoạt động vì môi trường xanh
+Song hành vì sự phát triển cộng đồng
+
 • Lộ trình Net Zero 2040
-Là tập đoàn công nghệ toàn cầu với quy mô và phạm vi hoạt động ngày càng mở rộng, 
-FPT nhận thức rõ vai trò và trách nhiệm của mình không chỉ dừng ở cam kết mà cần 
-thúc đẩy các hành động cụ thể trong lộ trình giảm phát thải khí nhà kính, hướng tới 
+Là tập đoàn công nghệ toàn cầu với quy mô và phạm vi hoạt động ngày càng mở rộng,
+FPT nhận thức rõ vai trò và trách nhiệm của mình không chỉ dừng ở cam kết mà cần
+thúc đẩy các hành động cụ thể trong lộ trình giảm phát thải khí nhà kính, hướng tới
 mục tiêu Net Zero vào năm 2040.
-Năm 2025, FPT thực hiện chuẩn hóa và triển khai phương pháp tính toán phát thải 
-khí nhà kính dựa trên các nghiên cứu, hướng dẫn, quy định liên quan của Việt Nam 
-và thế giới, qua đó khẳng định nỗ lực chung trong quản trị chuyển đổi xanh và phát triển 
-bền vững. FPT xác định đây là những dữ liệu kiểm kê khởi đầu cho hành trình quản lý 
+Năm 2025, FPT thực hiện chuẩn hóa và triển khai phương pháp tính toán phát thải
+khí nhà kính dựa trên các nghiên cứu, hướng dẫn, quy định liên quan của Việt Nam
+và thế giới, qua đó khẳng định nỗ lực chung trong quản trị chuyển đổi xanh và phát triển
+bền vững. FPT xác định đây là những dữ liệu kiểm kê khởi đầu cho hành trình quản lý
 và giảm phát thải khí nhà kính trong những năm tiếp theo.
-Tập đoàn triển khai xây dựng lộ trình giảm phát thải khí nhà kính dựa trên việc tự tính toán và xác nhận đường cơ sở phát thải, 
+Tập đoàn triển khai xây dựng lộ trình giảm phát thải khí nhà kính dựa trên việc tự tính toán và xác nhận đường cơ sở phát thải,
 đặt mục tiêu đến năm 2030 giảm 15,8% tổng lượng phát thải khí nhà kính và hướng tới mục tiêu Net Zero vào năm 2040.
-Xác định lĩnh vực trọng tâm 
+Xác định lĩnh vực trọng tâm
 giảm phát thải
-02
-Xác định mục tiêu giảm phát 
+Xác định mục tiêu giảm phát
 thải cho từng lĩnh vực
-03
-Thiết lập các giải pháp giảm 
+Thiết lập các giải pháp giảm
 phát thải khả thi và hiệu quả
-04
 Xác định các giải pháp ưu tiên 05
 Kiểm soát và đánh giá định kỳ
 • Tiêu thụ điện trong Phạm vi 2.
-Chuyển đổi sang sử dụng năng 
-lượng sạch, song song với triển 
-khai các giải pháp nâng cao 
-hiệu quả năng lượng tại các cơ 
-sở vận hành, bao gồm: Tòa nhà 
+Chuyển đổi sang sử dụng năng
+lượng sạch, song song với triển
+khai các giải pháp nâng cao
+hiệu quả năng lượng tại các cơ
+sở vận hành, bao gồm: Tòa nhà
 văn phòng; Trung tâm dữ liệu.
-• Tối ưu hệ thống điện và ứng 
-dụng các giải pháp quản lý 
+• Tối ưu hệ thống điện và ứng
+dụng các giải pháp quản lý
 năng lượng thông minh;
-• Đẩy mạnh sử dụng điện từ 
-nguồn năng lượng tái tạo 
+• Đẩy mạnh sử dụng điện từ
+nguồn năng lượng tái tạo
 như năng lượng mặt trời;
-• Cân nhắc mua chứng chỉ 
+• Cân nhắc mua chứng chỉ
 năng lượng tái tạo (REC).
-• Tòa nhà văn phòng: Lắp đặt 
-đèn LED, hệ thống cảm biến 
-thông minh; tích hợp cảm biến 
-nhiệt độ và độ ẩm để điều 
+• Tòa nhà văn phòng: Lắp đặt
+đèn LED, hệ thống cảm biến
+thông minh; tích hợp cảm biến
+nhiệt độ và độ ẩm để điều
 khiển hệ thống điều hòa tự động;
-• Trung tâm dữ liệu: Tối ưu hệ 
-thống làm mát thông qua các 
-giải pháp Liquid Cooling, 
-AI-driven Thermal Management. 
-Sử dụng môi chất lạnh có chỉ số 
-GWP thấp; áp dụng cơ chế 
-vận hành tiết kiệm năng lượng 
-cho hệ thống máy chủ, áp dụng 
+• Trung tâm dữ liệu: Tối ưu hệ
+thống làm mát thông qua các
+giải pháp Liquid Cooling,
+AI-driven Thermal Management.
+Sử dụng môi chất lạnh có chỉ số
+GWP thấp; áp dụng cơ chế
+vận hành tiết kiệm năng lượng
+cho hệ thống máy chủ, áp dụng
 tiêu chuẩn xanh cho hạ tầng.
-• Theo dõi các tiêu chuẩn và 
-hạn mức phát thải của Việt Nam 
+• Theo dõi các tiêu chuẩn và
+hạn mức phát thải của Việt Nam
 để triển khai kiểm kê khí nhà kính;
-• Báo cáo, đo lường và xác nhận 
-lượng khí nhà kính/khí thải 
+• Báo cáo, đo lường và xác nhận
+lượng khí nhà kính/khí thải
 định kỳ;
-• Giám sát và theo dõi chặt chẽ các 
-hoạt động để đảm bảo hiệu quả 
+• Giám sát và theo dõi chặt chẽ các
+hoạt động để đảm bảo hiệu quả
 trong việc giảm phát thải.
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
 Thông điệp và định hướng ESG
 Quản trị hướng đến phát triển bền vững
 Môi trường làm việc đẳng cấp,
 hạnh phúc
 Hoạt động vì môi trường xanh
 Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-113
-•
+
+•  Cam kết, mục tiêu và kết quả nổi bật về ESG
+CÁC CHỈ TIÊU ESG CAM KẾT
+Chỉ tiêu
+Cam kết
+Cam kết
+QUẢN TRỊ XUẤT SẮC
+MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC
+HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH
+Số lượng sự cố an toàn thông tin ảnh hưởng đến danh tiếng Tập đoàn bằng 0.
+100% CBNV trải qua đào tạo/diễn tập an toàn bảo mật thông tin.
+100% cán bộ mua sắm được đào tạo về mua sắm bền vững.
+Không ký hợp đồng với các nhà cung cấp có các hoạt động ảnh hưởng đến
+sức khoẻ, an toàn lao động và môi trường.
+Tỷ lệ nghỉ việc thấp hơn so với mức trung bình thị trường (Khối Công nghệ).
+Hỗ trợ CBNV mua nhà, mua xe.
+Đẩy mạnh và nâng cao số giờ học trung bình CBNV/năm (giờ).
+Tỷ lệ nữ giới trong tổng số nhân sự.
+Tỷ lệ nữ giới là quản lý trong tổng số nhân sự quản lý.
+Tỷ lệ nhân viên được đào tạo nâng cao ý thức về môi trường.
+Tỷ lệ túi rác trong văn phòng sử dụng vật liệu tái chế.
+Tỷ lệ năng lượng sử dụng được giám sát.
+Tỷ lệ sử dụng bóng đèn LED.
+Cán bộ chuyên trách
+Nhân viên mới
+Kết quả
+Cam kết
+Thông điệp và định hướng ESG
+Quản trị hướng đến phát triển bền vững
+Môi trường làm việc đẳng cấp,
+hạnh phúc
+Hoạt động vì môi trường xanh
+Song hành vì sự phát triển cộng đồng
+Quản trị an toàn thông tin
+Quản trị mua sắm bền vững
+Nơi làm việc hạnh phúc
+Tổ chức học tập suốt đời
+Bình đẳng và đa dạng
+Chính sách môi trường
+Tiết kiệm điện
+Giám sát số liệu sử dụng
+năng lượng
+Dưới 14%
+Trên 1/3
+Dưới 15%
+Trên 1/3
+
+QUẢN TRỊ XUẤT SẮC
+Cam kết
+Mục tiêu
+Hoạt động trọng yếu
+hướng tới phát triển
+bền vững.
+Không ngừng nâng cao năng lực
+quản trị đáp ứng lợi ích của tất cả
+các bên liên quan.
+tốt nhất;
+• Tiên phong nghiên cứu và ứng dụng AI trong quản lý tài chính,
+bán hàng – marketing và tối ưu hệ thống CRM nhằm nâng cao
+hiệu quả vận hành và kiểm soát rủi ro;
+• Ứng dụng AI trong quản trị, phát triển và triển khai phần mềm,
+từ thiết kế, lập trình, kiểm thử đến đảm bảo chất lượng sản phẩm;
+• Triển khai hệ thống quản lý năng lượng thông minh trên nền tảng
+đám mây, tích hợp AI dự báo tiêu thụ và chi phí năng lượng,
+hướng tới mục tiêu phát thải ròng bằng không.
+Quản trị dữ liệu
+Đảm bảo an toàn và
+quyền riêng tư dữ liệu.
+Tuân thủ 100% quy định của
+luật pháp về quyền riêng tư của
+khách hàng.
+• Hướng dẫn, tư vấn triển khai tuân thủ quy định pháp luật và
+quy định nội bộ về bảo vệ dữ liệu cá nhân cho công ty thành viên;
+• Triển khai công cụ phân quyền, kiểm duyệt sử dụng dữ liệu giữa
+các đơn vị trong Tập đoàn;
+• Đạt ISO/IEC 42001:2023 – Tiêu chuẩn dành cho hệ thống
+quản lý trí tuệ nhân tạo (AIMS).
+Kết quả nổi bật 2025
+Quản trị rủi ro,
+chống tham nhũng
+• Cam kết tuân thủ pháp
+luật và duy trì tiêu chuẩn
+đạo đức cao nhất trong
+tất cả các hoạt động kinh
+doanh;
+• Không chấp nhận hành vi
+vi phạm các quy định về
+đạo đức của bất kỳ cá
+nhân nào trong tổ chức.
+• 100% cán bộ quản lý thực hiện
+kê khai chống xung đột lợi ích;
+• 100% các trường hợp liên quan
+đến xung đột lợi ích và gian lận
+được xử lý;
+• Triển khai AI trong quản trị lĩnh vực
+trọng yếu: tài chính, mua sắm.
+• Đẩy mạnh đào tạo, truyền thông để duy trì văn hóa chống
+tham nhũng;
+• Tổ chức bộ máy, xây dựng quy trình quy định, chế tài xử lý các
+vấn đề liên quan đến xung đột lợi ích và tham nhũng;
+• Ứng dụng AI trong mua sắm giúp kiểm soát chênh lệch giá;
+• Đẩy mạnh kênh iNghe – Nền tảng ghi nhận mọi ý kiến và đóng góp
+thẳng thắn của CBNV khi phát hiện những vấn đề tiêu cực;
+• Xử lý nghiêm minh với các trường hợp vi phạm.
+Thông điệp và định hướng ESG
+Quản trị hướng đến phát triển bền vững
+Môi trường làm việc đẳng cấp,
+hạnh phúc
+Hoạt động vì môi trường xanh
+Song hành vì sự phát triển cộng đồng
 
 Cam kết
 Mục tiêu
 Hoạt động trọng yếu
 Quản trị
 an toàn thông tin
-Cam kết hệ thống hiện 
+Cam kết hệ thống hiện
 đại, tập trung, bảo mật.
-• Số sự cố an toàn thông tin ảnh 
-hưởng danh tiếng của Tập đoàn 
+• Số sự cố an toàn thông tin ảnh
+hưởng danh tiếng của Tập đoàn
 bằng 0;
-• 100% CBNV được đào tạo nâng 
-cao nhận thức để ngăn chặn vi 
+• 100% CBNV được đào tạo nâng
+cao nhận thức để ngăn chặn vi
 phạm an toàn thông tin.
-• Không xảy ra sự cố an toàn thông tin ảnh hưởng đến danh tiếng   
+• Không xảy ra sự cố an toàn thông tin ảnh hưởng đến danh tiếng
 của Tập đoàn;
-• Ban hành và áp dụng bộ tiêu chuẩn an ninh bảo mật, làm cơ sở 
-thống nhất cho công tác triển khai, giám sát và tuân thủ tại công 
+• Ban hành và áp dụng bộ tiêu chuẩn an ninh bảo mật, làm cơ sở
+thống nhất cho công tác triển khai, giám sát và tuân thủ tại công
 ty thành viên;
-• Xây dựng, hoàn thiện và đưa vào vận hành Hệ thống giám sát và 
-cảnh báo sớm sự cố an toàn thông tin (SOC) tập trung trên toàn 
-Tập đoàn, phục vụ hiệu quả công tác giám sát, phòng ngừa và ứng 
+• Xây dựng, hoàn thiện và đưa vào vận hành Hệ thống giám sát và
+cảnh báo sớm sự cố an toàn thông tin (SOC) tập trung trên toàn
+Tập đoàn, phục vụ hiệu quả công tác giám sát, phòng ngừa và ứng
 phó sự cố;
-• Hoàn thành 03 đợt kiểm soát nội bộ an toàn thông tin với công ty 
+• Hoàn thành 03 đợt kiểm soát nội bộ an toàn thông tin với công ty
 thành viên.
 Quản trị
 mua sắm bền vững
-Tính bền vững trong 
+Tính bền vững trong
 chuỗi cung ứng.
-• Xây dựng các chính sách liên quan 
-đến nguồn cung ứng nhằm đáp 
-ứng mục tiêu mua sắm bền vững; 
-• Nỗ lực áp dụng chính sách mua 
-sắm bền vững cho 60% nhà cung 
-cấp trọng yếu vào năm 2026; 
-• Minh bạch quá trình mua sắm 
-thông qua hệ thống thông tin toàn 
-trình mua sắm, đấu thầu online và 
-đẩy mạnh ứng dụng AI vào quá 
-trình mua sắm, đánh giá nhà 
+• Xây dựng các chính sách liên quan
+đến nguồn cung ứng nhằm đáp
+ứng mục tiêu mua sắm bền vững;
+• Nỗ lực áp dụng chính sách mua
+sắm bền vững cho 60% nhà cung
+cấp trọng yếu vào năm 2026;
+• Minh bạch quá trình mua sắm
+thông qua hệ thống thông tin toàn
+trình mua sắm, đấu thầu online và
+đẩy mạnh ứng dụng AI vào quá
+trình mua sắm, đánh giá nhà
 cung cấp.
-• Triển khai đồng bộ hệ thống CNTT mua sắm tập trung, các quy 
-trình mua hàng và chính sách mua sắm bền vững, trong đó ưu tiên 
-hàng hóa, dịch vụ và nhà cung cấp đáp ứng các tiêu chí xanh; 
-• Triển khai đánh giá CSR 42% nhà cung cấp trọng yếu của 
+• Triển khai đồng bộ hệ thống CNTT mua sắm tập trung, các quy
+trình mua hàng và chính sách mua sắm bền vững, trong đó ưu tiên
+hàng hóa, dịch vụ và nhà cung cấp đáp ứng các tiêu chí xanh;
+• Triển khai đánh giá CSR 42% nhà cung cấp trọng yếu của
 Tập đoàn;
-• Đào tạo, hướng dẫn về phát triển bền vững, mục tiêu mua sắm bền 
+• Đào tạo, hướng dẫn về phát triển bền vững, mục tiêu mua sắm bền
 vững tới toàn bộ đội ngũ lãnh đạo và cán bộ quản lý mua sắm.
 Kết quả nổi bật 2025
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
 Thông điệp và định hướng ESG
 Quản trị hướng đến phát triển bền vững
 Môi trường làm việc đẳng cấp,
 hạnh phúc
 Hoạt động vì môi trường xanh
 Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-116
 QUẢN TRỊ XUẤT SẮC ( Tiếp theo)
-
-HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH
-VÌ SỰ PHÁT TRIỂN CỦA CỘNG ĐỒNG
-Cam kết
-Mục tiêu
-Vấn đề
-trọng yếu
-Bảo vệ
-môi trường
-Không ngừng cải thiện môi trường 
-làm việc hướng tới môi trường làm 
-việc xanh, an toàn, lành mạnh.
-•  Mục tiêu trung hạn: đến năm 2030, 
-giảm 15,8% tổng lượng phát thải 
-khí nhà kính phù hợp với mục tiêu 
-chung của Việt Nam;
-• Mục tiêu dài hạn: đến năm 2040 
-đạt Net Zero như cam kết của 
-Chính phủ Việt Nam tại COP 26.
-•  Chuẩn hóa phương pháp kiểm kê số liệu phát thải khí
-   nhà kính cho Phạm vi 1 và Phạm vi 2; thực hiện kiểm kê và 
-theo dõi số liệu toàn Tập đoàn định kỳ theo quý;
-•  100% số liệu sử dụng năng lượng được giám sát;
-•  Triển khai 02 hệ thống điện mặt trời mái nhà với tổng
-    sản lượng 842.749 kWh;
-•  100% cơ sở được kiểm kê và giám sát phát thải khí nhà kính 
-định kỳ.
-Kết quả nổi bật 2025
-Cam kết
-Mục tiêu
-Vấn đề
-trọng yếu
-Đào tạo nguồn 
-nhân lực công nghệ
-chất lượng cao
-Tạo điều kiện
-tốt nhất để trẻ em
-Việt Nam có cơ hội 
-tiếp cận giáo dục
-chất lượng và bền vững
-Là đơn vị dẫn đầu trong đào tạo 
-nhân lực số có năng lực cạnh tranh 
-toàn cầu.
-• Đào tạo 10.000 kỹ sư bán dẫn vào 
-năm 2030;
-• Đưa AI vào đào tạo người học ở tất 
-cả các bậc học thuộc hệ thống 
-giáo dục của FPT.
-• 3.700 sinh viên theo học các chương trình và chuyên ngành 
-đào tạo AI, thiết kế vi mạch bán dẫn của hệ thống giáo dục FPT;
-• Nghiên cứu, ứng dụng và phát triển các giải pháp công nghệ 
-tiên tiến nhất, gia tăng tương tác và cá nhân hóa trải nghiệm 
-của người học; đưa AI vào đào tạo từ bậc tiểu học đến 
-phổ thông, cao đẳng, đại học và sau đại học; 
-• Trao 151 tỷ đồng học bổng Nguyễn Văn Đạo.
-Chú trọng hỗ trợ tạo điều kiện 
-học tập tốt hơn cho các hoàn cảnh 
-yếu thế tại các khu vực kinh tế 
-khó khăn, vùng núi, vùng sâu, 
-vùng xa.
-• Tiếp tục duy trì quỹ dành cho các 
-hoạt động phát triển vì cộng đồng 
-tập trung chủ yếu vào các hoạt 
-động giáo dục.
-• Sử dụng 72,8 tỷ đồng cho các hoạt động trách nhiệm xã hội;
-• Trường Hy Vọng nhận giải thưởng Hành động vì cộng đồng ở 
-hạng mục Dự án kịp thời;
-• 26 điểm trường thiệt hại nặng được tái thiết kịp thời sau lũ.
-Kết quả nổi bật 2025
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-118
-
-•  Cộng đồng
-Kết quả năm 2025
-Chương trình hành động nổi bật
-Chung tay cùng cộng đồng vượt qua
-thách thức vì một cuộc sống tốt đẹp hơn
-• Trường Hy Vọng nhận giải thưởng Hành động vì cộng đồng ở hạng mục Dự án kịp thời;
-• 15 năm liên tiếp triển khai Ngày FPT vì cộng đồng; 
-• 26 điểm trường thiệt hại nặng được tái thiết kịp thời sau lũ; 
-• Triển khai dự án máy khử rung tim tự động cho cộng đồng đầu tiên tại Việt Nam; 
-• Tiếp tục đồng hành cùng chương trình “Nâng bước em đến trường” (Quỹ Hy Vọng khởi xướng) xây dựng cầu bê tông
-    kiên cố tại khu vực Đồng bằng sông Cửu Long. Năm 2025, FPT đã đóng góp 08 tỷ đồng cho Chương trình. 
-Triển khai các chương trình trao học bổng,
-hỗ trợ tài năng trẻ
-•  Cấp 38 học bổng với tổng số tiền tương ứng 912 triệu đồng hỗ trợ các thành viên Trung tâm bồi dưỡng tài năng trẻ FPT 
-(FYT), đồng thời hỗ trợ chi phí, cơ sở vật chất, kết nối chuyên gia trong một số lĩnh vực giúp các thành viên theo đuổi
-    khát vọng, mở rộng kết nối, phát triển các kỹ năng mềm thiết yếu cho tương lai;
-• Tiếp tục triển khai học bổng thường niên Nguyễn Văn Đạo với 8.875 học bổng cho các sinh viên có hoàn cảnh khó khăn 
-đạt thành tích học tập xuất sắc hoặc có tài năng nổi trội tại nhiều tỉnh thành trên toàn quốc.
-•  Báo chí và các cơ quan truyền thông
-Kết quả năm 2025
-Chương trình hành động nổi bật
-Thường xuyên, chủ động cung cấp thông tin 
-cho báo chí, thông qua: bản tin FPT, thông cáo 
-báo chí, họp báo, bài viết…
-• Cung cấp kịp thời, đầy đủ những thông tin có giá trị, hữu ích cho cộng đồng với các chủ đề đa dạng, từ xu hướng 
-thị trường CNTT, định hướng chiến lược đến kế hoạch kinh doanh và hoạt động của Tập đoàn, qua đó truyền tải/cập nhật 
-thông tin cho các đối tượng liên quan.
-Tích cực tham gia sáng kiến, diễn đàn truyền 
-thông về ESG
-• Tham gia Diễn đàn ESG Việt Nam do Báo Dân Trí khởi xướng và tổ chức. Tại sự kiện, FPT chia sẻ kinh nghiệm triển khai 
-lộ trình phát triển bền vững, cam kết Net Zero, đồng thời giới thiệu việc ứng dụng công nghệ số, dữ liệu và AI trong
-    quản trị và thực hành ESG.
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-123
-
-Xác định các vấn đề trọng yếu
-•  Quy trình xác định các vấn đề trọng yếu 
-Các vấn đề trọng yếu trong hoạt động ESG của FPT được xác định dựa trên 
-nguyên tắc: xây dựng chiến lược kinh doanh hướng tới sự phát triển bền vững, đảm 
-bảo hài hòa lợi ích và quyền lợi cao nhất cho các bên liên quan và cộng đồng, đồng 
-thời tuân thủ các quy định pháp luật liên quan.
-•  Vai trò và trách nhiệm của các bên trong quản trị 
-phát triển bền vững
-Bộ phận chịu trách nhiệm
-HĐQT
-• Phê duyệt, ban hành chiến lược và định hướng phát triển 
-bền vững trong toàn Tập đoàn.
-Đảm bảo việc triển khai chiến lược phát triển bền vững thông 
-qua các hoạt động:
-• Xây dựng mục tiêu phát triển bền vững cụ thể cho Tập đoàn 
-và công ty thành viên;
-• Chỉ đạo triển khai các chương trình hiện thực hóa chiến lược 
-phát triển bền vững của Tập đoàn;
-• Giám sát kết quả thực hiện mục tiêu phát triển bền vững của 
-Tập đoàn và công ty thành viên.
-• Đảm bảo hiện thực hóa các mục tiêu phát triển bền vững 
-theo định hướng và chiến lược chung của Tập đoàn;
-• Thực hiện báo cáo định kỳ về tình hình triển khai chiến lược 
-phát triển bền vững của đơn vị.
-Ban Điều hành
-Công ty 
-thành viên
-Xác định các vấn đề chính có ảnh hưởng lớn đến hoạt động kinh doanh 
-của Tập đoàn và lợi ích của các bên liên quan.
-• Bám sát các diễn biến kinh tế, chính trị, xã hội, môi trường của Việt Nam và thế giới;
-• Nghiên cứu thông tin từ các báo cáo kinh tế-xã hội, báo cáo thị trường, báo cáo 
-ngành do các tổ chức uy tín đưa ra;
-• Phân tích các báo cáo đánh giá, khảo sát khách hàng của Tập đoàn;
-• Phân tích đặc thù kinh doanh của ngành và các lĩnh vực hoạt động của Tập đoàn;
-• Ghi nhận phản hồi từ cổ đông, nhà đầu tư và các bên liên quan khác;
-• Tìm hiểu các hướng dẫn về xây dựng báo cáo phát triển bền vững.
-Bước 01
-Phân tích và xác định các vấn đề trọng yếu được các bên quan tâm.
-• Xác định các vấn đề trọng yếu dựa trên cơ sở tham vấn các bên liên quan và 
-đánh giá mức độ tác động đến chiến lược tăng trưởng dài hạn. Các vấn đề trọng 
-yếu được xác định tập trung vào quản trị minh bạch, an toàn dữ liệu, cam kết 
-chuyển đổi xanh, phát triển nguồn nhân lực chất lượng cao và quản trị chuỗi 
-cung ứng bền vững.
-Bước 02
-Phân tích các vấn đề trọng yếu trong mối quan hệ với các bên liên quan.
-• Xây dựng ma trận các vấn đề trọng yếu;
-• Lựa chọn các vấn đề trọng yếu.
-Bước 03
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-124
-Dựa trên nguyên tắc và quy trình xác định các vấn đề trọng yếu nêu trên, FPT lựa 
-chọn 04 vấn đề trọng yếu gồm: (1) Quản trị hướng đến phát triển bền vững; (2) Xây 
-dựng môi trường làm việc đẳng cấp, hạnh phúc; (3) Hoạt động vì môi trường xanh; 
-(4) Song hành vì sự phát triển cộng đồng.
-
-Các quy trình quản trị chuẩn mực là công cụ quan trọng để Tập đoàn đảm bảo tính 
-tuân thủ, hiệu quả trong việc thực hiện các mục tiêu phát triển bền vững nâng cao 
-năng lực cạnh tranh, vị thế cũng như mang lại giá trị cho các bên liên quan. 
-Năm 2025, FPT tiếp tục đẩy mạnh triển khai phương pháp quản trị theo mục tiêu 
-và kết quả then chốt (OKRs) trên toàn Tập đoàn, bảo đảm sự thống nhất giữa mục 
-tiêu của từng cá nhân với mục tiêu của phòng ban, công ty thành viên và Tập đoàn, 
-qua đó bám sát chiến lược và định hướng chung, góp phần nâng cao hiệu quả 
-hoạt động và năng suất lao động. Các mục tiêu và kết quả ở mọi cấp được cập 
-nhật, theo dõi và đánh giá định kỳ trên công cụ quản lý OKRs trực tuyến, giúp đo 
-lường chính xác mức độ hoàn thành theo kế hoạch chung. Tỷ lệ cá nhân hoàn 
-thành việc thiết lập và báo cáo mục tiêu duy trì ở mức cao, từ 95% đến 97% qua 
-các kỳ đánh giá.
-Bên cạnh đó, hoạt động của Tập đoàn và từng lĩnh vực kinh doanh cốt lõi áp dụng và 
-đạt được các chứng nhận tiêu chuẩn quốc tế uy tín.
-QUẢN TRỊ HƯỚNG ĐẾN PHÁT TRIỂN BỀN VỮNG
-Áp dụng các quy trình quản trị theo chuẩn quốc tế
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-125
-FPT nhận được chứng chỉ ISO/IEC 42001:2023 - tiêu chuẩn toàn cầu đầu tiên về Hệ thống quản lý Trí tuệ nhân tạo.
-
-Năm 2025, Tập đoàn thúc đẩy thực hành mua sắm 
-bền vững trong toàn bộ chuỗi cung ứng, với các kết 
-quả nổi bật như sau:
-• 42% nhà cung cấp trọng yếu tham gia đánh giá 
-CSR trên Cổng Hệ thống mua sắm FPT, tăng mạnh 
-so với tỷ lệ 18% của năm 2024;
-• 97% nhà cung cấp đạt yêu cầu theo các tiêu chí 
-đánh giá với điểm trung bình trên 04 (thang điểm 05);
-• 18% nhà cung cấp trọng yếu đã ký kết hợp đồng 
-nguyên tắc có tích hợp các điều khoản liên quan 
-đến môi trường, lao động và nhân quyền.
-Hoạt động đánh giá ESG đối với nhà cung cấp là một 
-trong những giải pháp trọng tâm nhằm đẩy mạnh 
-mua sắm bền vững trong chuỗi cung ứng của FPT. 
-Thông qua việc đánh giá định kỳ và minh bạch, FPT 
-hỗ trợ các nhà cung cấp rà soát toàn diện quy trình 
-quản trị và hoạt động vận hành theo cách tiếp cận 
-hệ thống, từng bước nâng cao năng lực thực hành 
-ESG. Đồng thời, hoạt động này giúp FPT xây dựng cơ 
-sở dữ liệu tập trung, phục vụ công tác quản lý, theo 
-dõi và báo cáo ESG một cách đầy đủ, nhất quán và 
-hiệu quả.
-Phát huy thế mạnh công nghệ, Tập đoàn tiếp tục đẩy 
-mạnh số hóa quy trình và ứng dụng AI vào các hoạt 
-động mua sắm như: hoàn thiện và cải tiến hệ thống 
-mua sắm tập trung, đấu thầu online; nhà cung cấp tự 
-báo giá online; tự động hóa các thao tác nội bộ;
-sử dụng AI hỗ trợ giao dịch mua sắm, hỏi đáp nhanh 
-về mua sắm, gợi ý nhà cung cấp, kiểm soát chênh 
-lệch giá giúp nâng cao sự minh bạch và đảm bảo 
-công bằng cho nhà cung cấp.
-Nhằm góp phần đạt được các mục tiêu về tính bền 
-vững của Tập đoàn trên quy mô toàn cầu, FPT hướng 
-đến xây dựng chuỗi cung ứng bền vững thông qua 
-việc: thiết lập và tuân thủ nghiêm ngặt các hướng 
-dẫn nội bộ về mua sắm xanh. Đồng thời, Tập đoàn 
-cam kết không hợp tác với các nhà cung cấp có hoạt 
-động ảnh hưởng đến sức khỏe, an toàn lao động và 
-môi trường.
-Tập đoàn đã ban hành quy trình đánh giá nhà cung 
-cấp trọng yếu nhằm đảm bảo nhà cung cấp không 
-chỉ đáp ứng yêu cầu về chất lượng, chi phí mà còn 
-tuân thủ tiêu chuẩn về đạo đức, lao động, môi trường 
-và quản trị. 
-Song song, để đảm bảo công tác mua sắm bền vững, 
-FPT tiếp tục duy trì: 
-• Chính sách mua sắm bền vững với những nguyên 
-tắc cơ bản nhằm tạo tác động tích cực nhất đến 
-môi trường, kinh tế và xã hội, đồng thời đảm bảo sự 
-công bằng, minh bạch và tuân thủ các quy định 
-của pháp luật cũng như quy định nội bộ của Tập đoàn 
-trong quá trình thực hiện mua sắm;
-• Các tiêu chí đảm bảo tính bền vững khi tìm kiếm, 
-đánh giá, lựa chọn nhà cung cấp, trong đó tiêu chí 
-đánh giá thông số năng lượng và thân thiện với môi 
-trường chiếm tối đa 5% tổng số điểm đánh giá cho 
-các phương án mua sắm thiết bị tiêu thụ điện;
-• Điều khoản “Cam kết không thực hiện hành vi hối lộ” 
-và tuân thủ nhân quyền, lao động, môi trường trong 
-tất cả các hợp đồng mẫu; 
-• Khóa học về mục tiêu và chính sách mua sắm bền 
-vững cho 100% cán bộ chuyên trách.
-Hướng đến mua sắm bền vững
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-127
-
-Căn cứ đặc thù từng lĩnh vực kinh doanh, khung quản lý rủi ro của Tập đoàn được 
-Tổng giám đốc chỉ đạo xây dựng, phê duyệt và cải tiến định kỳ hàng năm. Trong đó, 
-đối với phát triển bền vững, Tập đoàn xác định có 05 nhóm rủi ro chính bao gồm: 
-Rủi ro chiến lược, Rủi ro hoạt động, Rủi ro tài chính và Rủi ro luật định, Rủi ro môi trường 
-– thiên tai – dịch bệnh.
-Năm 2025, Tập đoàn và công ty thành viên tiếp tục tăng cường công tác kiểm 
-soát rủi ro thông qua việc hoàn thiện hệ thống kiểm soát nội bộ và chính sách quản lý 
-rủi ro; giám sát tuân thủ pháp luật trong hoạt động sản xuất kinh doanh; thực hiện 
-kiểm tra định kỳ và đột xuất; quản trị minh bạch quan hệ với đối tác, nhà cung cấp; 
-đồng thời chủ động đề xuất các giải pháp phòng ngừa rủi ro tiềm tàng trong tương lai.
-Quản trị rủi ro
-• Rủi ro chiến lược
-Nội dung
-Biện pháp quản trị
-Tên rủi ro
-Rủi ro về chiến lược, tầm nhìn
-• Tham gia các sự kiện kinh tế, công nghệ lớn tại Việt Nam và trên thế giới để 
-nắm bắt các xu hướng công nghệ mới, tìm kiếm cơ hội phát triển cho Tập đoàn;
-• Tổ chức Hội nghị chiến lược định kỳ hàng năm để cập nhật những xu hướng 
-mới nhất trong kinh doanh và công nghệ; 
-• Chủ động đầu tư mạnh mẽ vào AI và đào tạo AI cho toàn bộ CBNV để trở thành 
-“AI-First Company”; 
-Nhanh chóng thay đổi và luôn sẵn sàng thích ứng với sự phát triển của AI nhằm 
-biến rủi ro thành cơ hội tăng trưởng cao và bền vững. 
-• Xác định sai đường hướng phát triển 
-dẫn tới đầu tư phân bổ nguồn lực 
-không hợp lý, không phát triển được 
-những mảng kinh doanh mới tiềm 
-năng, hoặc không đưa ra được các 
-sản phẩm/dịch vụ mới có hàm lượng 
-công nghệ cao đáp ứng nhu cầu của 
-thị trường.
-• Sự phát triển của AI dẫn đến những 
-thay đổi của ngành CNTT.
-Rủi ro suy giảm năng lực cạnh tranh
-• Không ngừng cải tiến và nâng cao năng lực cạnh tranh thông qua cung cấp 
-dịch vụ toàn diện, làm chủ công nghệ và từng bước nâng cao vị thế trong chuỗi 
-giá trị dịch vụ CNTT;
-• Tăng cường đào tạo, phát triển đội ngũ cán bộ đặc biệt là đội ngũ cán bộ công nghệ 
-nhằm nâng cao năng lực công nghệ mới, đáp ứng nhu cầu cạnh tranh;
-• Liên tục cải tiến mô hình kinh doanh, cải tiến hệ thống thông tin, quy trình nội bộ 
-để tối ưu hóa quản trị, vận hành;
-• Đẩy mạnh chuyển đổi số nội bộ nhằm đảm bảo hoạt động của Tập đoàn được 
-thống nhất, thông suốt và minh bạch hướng đến mô hình công ty hoạt động theo 
-thời gian thực. 
-• Sức ép cạnh tranh từ các công ty 
-nước ngoài hoặc các công ty mới 
-nổi, năng động ở trong nước do các 
-lĩnh vực kinh doanh có rào cản ra 
-nhập thị trường không cao.
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-130
-
-• Luân chuyển, thăng tiến
-FPT luôn nỗ lực tạo môi trường tốt nhất để người lao động phát huy tài năng và có 
-cơ hội thăng tiến sự nghiệp thông qua chương trình luân chuyển cán bộ và các 
-cuộc thi trên toàn Tập đoàn.
-Luân chuyển nội bộ không chỉ là huyết mạch của sự phát triển mà còn là chìa khóa 
-để cán bộ lãnh đạo, quản lý có được những trải nghiệm phong phú, nâng cao năng 
-lực lãnh đạo, điều hành. Qua đó, FPT có thể phát hiện, bồi dưỡng và xây dựng đội 
-ngũ cán bộ quản lý kế cận, tạo nền tảng vững chắc cho sự phát triển bền vững của 
-Tập đoàn. Năm 2025, hàng trăm cán bộ lãnh đạo, quản lý các cấp đã được luân 
-chuyển và bổ nhiệm, thăng tiến. Các trường hợp tiêu biểu như: Phó giám đốc Công 
-nghệ FPT, Trưởng ban Mua sắm FPT, Phó tổng giám đốc FPT Software, Giám đốc 
-Vận hành FPT IS....
-• Các cuộc thi tìm kiếm tài năng
-Phát triển và nuôi dưỡng đội ngũ lãnh đạo kế cận là một trong những trọng tâm trong 
-chiến lược nguồn nhân lực của FPT. Trong đó, Trạng FPT – Cuộc thi lâu đời nhất của 
-Tập đoàn, đóng vai trò quan trọng trong việc phát hiện, vinh danh và quy hoạch 
-nhân sự trẻ có tố chất lãnh đạo và năng lực quản lý. Các thí sinh xuất sắc sau cuộc 
-thi được đào tạo, huấn luyện và phát triển theo lộ trình bài bản để trở thành đội ngũ 
-lãnh đạo kế cận. Thực tế cho thấy, nhiều cá nhân đạt giải Trạng FPT qua các năm đã 
-đảm nhiệm các vị trí quản lý, điều hành chủ chốt tại Tập đoàn và công ty thành viên. 
-Năm 2025, cuộc thi tiếp tục được đổi mới với nhiều vòng thi và nội dung tranh biện 
-chuyên sâu, giúp đánh giá toàn diện năng lực và bản lĩnh lãnh đạo của thí sinh.  
-FPT 13 Under 35 là chương trình thường niên nhằm tôn vinh CBNV dưới 35 tuổi có 
-thành tích nổi bật, đại diện cho thế hệ trẻ giàu tinh thần đổi mới, dám nghĩ dám làm và 
-lan tỏa các giá trị cốt lõi của FPT gồm: Tôn trọng – Đổi mới – Đồng đội, Chí công – 
-Gương mẫu – Sáng suốt. Các cá nhân được lựa chọn không chỉ là hình mẫu truyền 
-cảm hứng trong tổ chức mà còn nằm trong nhóm nhân sự nguồn, được xem xét tham 
-gia hoạch định chiến lược và quy hoạch cán bộ. Năm 2025, chương trình được nâng 
-cấp với hình thức thi theo nhóm và bổ sung thử thách ứng dụng AI, qua đó đánh giá 
-năng lực ứng dụng công nghệ, tư duy hợp tác và khả năng tối ưu hiệu quả công việc.
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-138
-FPT luôn nỗ lực tạo môi trường tốt nhất để người lao động phát huy tài năng.
-Trạng FPT – Cuộc thi lâu đời nhất của Tập đoàn, đóng vai trò quan trọng trong việc phát hiện, 
-vinh danh và quy hoạch nhân sự trẻ.
-
-Xuyên suốt trong 38 năm phát triển, FPT đã xác lập đổi mới sáng tạo là một trong 
-sáu giá trị cốt lõi, được nuôi dưỡng như một giá trị văn hóa bền vững. Tập đoàn luôn 
-thúc đẩy môi trường làm việc cởi mở, khuyến khích CBNV chủ động đề xuất ý tưởng 
-mới, thử nghiệm các giải pháp công nghệ và cải tiến quy trình kinh doanh. Văn hóa 
-sáng tạo giúp FPT mở rộng năng lực công nghệ mới trong các lĩnh vực chiến lược 
-như: AI, bán dẫn và chuyển đổi số, qua đó tạo nền tảng tăng trưởng bền vững cho 
-Tập đoàn và gia tăng giá trị dài hạn cho cổ đông.
-Điển hình là Cuộc thi iKhiến dành cho CBNV được tổ chức thường niên trên quy mô 
-toàn Tập đoàn từ năm 2017 đến nay. Không chỉ là một cuộc thi, qua từng năm, 
-iKhiến từng bước hình thành một “dòng chảy sáng tạo” liên tục trong nội bộ FPT và 
-trở thành bệ phóng cho các ý tưởng mới, tinh thần dám nghĩ, dám làm của CBNV. 
-Theo đó, các sáng kiến được phủ rộng trên cả ba nhóm gồm: Sáng kiến cải thiện 
-sản phẩm, giải pháp, dịch vụ; Sáng kiến cải tiến quy trình, phương tiện và công cụ 
-làm việc và Sáng kiến gắn kết nhân viên, lan tỏa giá trị văn hóa FPT. 
-Tính đến nay, iKhiến đã ghi nhận 13.227 sáng kiến, mang lại giá trị kinh tế hàng 
-nghìn tỷ đồng. Riêng trong năm 2025, chương trình đã thu hút 3.838 sáng kiến 
-đăng ký với giá trị kinh tế mang lại là gần 1.000 tỷ đồng cho Tập đoàn. Nhiều sáng 
-kiến bước ra từ iKhiến đã được đầu tư phát triển thành sản phẩm, giải pháp thương 
-mại hóa phục vụ cho khách hàng trên quy mô toàn cầu và đóng góp trực tiếp vào 
-năng lực làm chủ công nghệ và phát triển bền vững của Tập đoàn.
-Bên cạnh iKhiến, FPT thường xuyên tổ chức các hoạt động như Hackathon, 
-Innovation Day, Bird Tank nhằm khuyến khích nhân viên thử nghiệm ý tưởng mới 
-với sự hỗ trợ về hạ tầng AI, Cloud, dữ liệu và cố vấn chuyên môn. Các dự án tiềm 
-năng được cấp ngân sách, hỗ trợ kỹ thuật và thương mại hóa thông qua cơ chế nội 
-bộ linh hoạt, hình thành “vườn ươm công nghệ” ngay trong doanh nghiệp.
-Song song với đó, FPT tích cực đồng hành cùng hệ sinh thái khởi nghiệp đổi mới 
-sáng tạo quốc gia và cộng đồng sinh viên thông qua các chương trình hỗ trợ công 
-nghệ, tài chính và hợp tác nghiên cứu trong và ngoài nước. Qua đó, hàng chục 
-nghìn nhà khởi nghiệp và hàng trăm nghìn sinh viên đã được tiếp cận nguồn lực 
-công nghệ, cố vấn chuyên môn và cơ hội kết nối đầu tư, góp phần thúc đẩy thế hệ 
-doanh nhân công nghệ trẻ và mở rộng hệ sinh thái đổi mới sáng tạo Việt Nam.
-Akabot, nền tảng tự động hóa thông minh, tích hợp Agentic AI, OCR, IDP.... để tăng cường 
-năng lực của robot phần mềm RPA, giúp tự động các quy trình nghiệp vụ và tiết kiệm tới 80% 
-thời gian xử lý và chi phí vận hành. Giải pháp đã được triển khai cho hơn 4.500 khách hàng 
-trên 21 quốc gia.
-Duy trì và phát triển văn hóa sáng tạo
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-139
-Kyta Platform, nền tảng tiên phong số hoá Lowcode, Nocode, tích hợp AI và công cụ tự động 
-hóa để nâng cao hiệu quả vận hành. Kyta Platform được hơn 4.500 doanh nghiệp sử dụng và 
-được triển khai trên Nền tảng Thi hành án Dân sự (THADS) với phạm vi toàn quốc, phối hợp 
-cùng Bộ Tư pháp trong nhiệm vụ số hóa toàn diện ngành Thi hành án dân sự.
-
-Trước những thách thức toàn cầu về biến đổi khí hậu và suy giảm tài nguyên, FPT 
-khẳng định cam kết giảm thiểu tác động môi trường thông qua giám sát chặt chẽ, 
-chủ động thích ứng và ứng dụng linh hoạt công nghệ trong quản lý năng lượng và 
-tài nguyên. Các giải pháp môi trường được Tập đoàn triển khai đồng bộ, nhất quán 
-theo chính sách môi trường đã công bố và đóng vai trò kim chỉ nam cho toàn bộ 
-hoạt động của Tập đoàn.
-Với đặc thù là doanh nghiệp công nghệ, FPT không sử dụng nguyên vật liệu đầu vào 
-trực tiếp trong quá trình nghiên cứu, phát triển sản phẩm và dịch vụ, qua đó góp 
-phần giảm tiêu thụ tài nguyên hữu hạn và hạn chế tác động đến môi trường tự nhiên. 
-Trên nền tảng đó, FPT xác định bảo vệ môi trường và phát triển bền vững là trọng 
-tâm trong chiến lược dài hạn, tập trung vào các mục tiêu: (1) Duy trì và tăng cường 
-thực thi chính sách môi trường; (2) Tuân thủ pháp luật; (3) Quản lý nguyên liệu; (4) 
-Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính; (5) Quản lý nước thải, 
-chất thải và các nguồn phát thải khác; (6) Xây dựng môi trường làm việc xanh.
-FPT tiếp tục kiên định triển khai chính sách môi trường, tập trung vào giảm tiêu thụ 
-năng lượng, hạn chế hóa chất độc hại, kiểm soát và xử lý chất thải, thúc đẩy tái chế, 
-kiểm soát phát thải khí nhà kính và khuyến khích tiêu dùng bền vững. Song song với 
-các giải pháp kỹ thuật, Tập đoàn đẩy mạnh truyền thông và đào tạo nhằm hình thành 
-văn hóa trách nhiệm môi trường trên toàn hệ thống.
-Chính sách môi trường của FPT được xây dựng với cam kết và lộ trình cụ thể, phù hợp 
-với mục tiêu môi trường quốc gia. Theo đó, Tập đoàn đặt mục tiêu đến năm 2026, 
-2,5% điện năng tiêu thụ đến từ năng lượng tái tạo và 100% hệ thống chiếu sáng 
-chuyển sang đèn LED; đến năm 2030, giảm 15,8% tổng lượng phát thải khí nhà kính.
-HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH
-Duy trì và tăng cường thực thi chính sách môi trường
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-143
-Tuân thủ pháp luật
-Thực hiện Báo cáo đánh giá tác động môi trường tất cả các dự án theo 
-quy định Luật Bảo vệ môi trường 2020 và Nghị định 08/2022/NĐ-CP;
-Tổ chức thu gom, phân loại, lưu giữ, vận chuyển và xử lý chất thải rắn    
-sinh hoạt, chất thải rắn công nghiệp, chất thải nguy hại theo đúng quy định; 
-Quản lý, vận hành hệ thống thu gom và xử lý nước thải, đảm bảo toàn 
-bộ nước thải phát sinh đạt Quy chuẩn kỹ thuật quốc gia trước khi thải 
-ra môi trường;
-Triển khai các biện pháp phòng ngừa, giảm thiểu tác động tiêu cực và 
-chủ động ứng phó với rủi ro, sự cố môi trường;
-Thực hiện giám sát, báo cáo định kỳ các chỉ tiêu môi trường và gửi       
-cơ quan quản lý nhà nước kiểm tra, giám sát theo quy định. 
-FPT cụ thể hóa các cam kết thông qua việc tuân thủ nghiêm ngặt quy định pháp luật 
-về môi trường. Đây là yêu cầu nền tảng, bảo đảm mọi hoạt động của Tập đoàn được 
-triển khai minh bạch, nhất quán và phù hợp với các chuẩn mực phát triển bền vững.
-Trong nhiều năm qua, Tập đoàn không ghi nhận bất kỳ biên bản hay thông báo nào 
-liên quan đến việc vi phạm quy định pháp luật về môi trường. Thông tin này được 
-FPT khẳng định dựa trên các tài liệu, văn bản đến và đi được lưu trữ chặt chẽ trên 
-hệ thống thông tin dữ liệu của Tập đoàn. 
-Một số hoạt động quan trọng liên quan đến môi trường được FPT triển khai thường xuyên:
-
-Với đặc thù hoạt động chủ yếu trong lĩnh vực công nghệ và dịch vụ, FPT không sử dụng 
-nguyên vật liệu đầu vào với quy mô lớn như các doanh nghiệp sản xuất truyền 
-thống. Tuy nhiên, trong toàn bộ hoạt động vận hành và triển khai dịch vụ, FPT cam kết 
-ưu tiên sử dụng các nguyên vật liệu thân thiện với môi trường, có nguồn gốc bền vững, 
-nhằm giảm thiểu các tác động tiêu cực đến môi trường và xã hội.
-Song song, FPT tăng cường hợp tác với các đối tác và các bên liên quan 
-trong chuỗi cung ứng để thúc đẩy thực hành phát triển bền vững, nâng cao 
-năng lực quản trị và khả năng chống chịu của chuỗi cung ứng. Trên cơ sở tính khả thi, 
-Quản lý nguồn nguyên liệu
-FPT ưu tiên sử dụng nguyên vật liệu và vật liệu tái chế, qua đó giảm thiểu sự phụ 
-thuộc vào nguồn nguyên liệu nguyên sinh. Bên cạnh đó, FPT không thực hiện mua 
-nguyên vật liệu từ các khu vực có giá trị đa dạng sinh học quan trọng ở cấp quốc gia 
-hoặc toàn cầu, góp phần bảo tồn hệ sinh thái và đa dạng sinh học.
-Trên nền tảng các nguyên tắc cốt lõi đã xác lập, FPT chủ động triển khai các cơ chế 
-trong lựa chọn và quản lý nguyên vật liệu bền vững, từng bước hoàn thiện công tác 
-mua sắm có trách nhiệm, quản trị chuỗi cung ứng và sử dụng hiệu quả tài nguyên 
-trong toàn bộ hoạt động vận hành của Tập đoàn.
-Bền vững là trọng tâm
-Hành động
-Nguyên tắc
-• Ưu tiên sử dụng các vật liệu được chứng nhận bởi bên thứ ba hoặc đáp ứng các tiêu chuẩn phát triển bền vững được công nhận 
-rộng rãi trên phạm vi quốc tế, nhằm giảm thiểu các tác động tiêu cực đến môi trường và xã hội;
-• Ưu tiên triển khai sử dụng các vật liệu thân thiện với môi trường trong toàn bộ hoạt động vận hành nội bộ. Theo đó, Tập đoàn 
-thay thế nước đóng chai nhựa dùng một lần bằng chai thủy tinh và vật liệu tái chế tại 100% cuộc họp cấp Tập đoàn; 
-• Lựa chọn và hợp tác với nhà cung cấp có trách nhiệm về môi trường.
-Giảm thiểu việc sử dụng các 
-chất gây hại
-• Từng bước loại bỏ các chất có nguy cơ gây ảnh hưởng đến sức khỏe con người và môi trường thông qua việc ưu tiên áp dụng 
-các giải pháp và vật liệu thay thế an toàn hơn khi có thể. Cách tiếp cận này nhằm bảo đảm an toàn trong quá trình sử dụng, 
-đồng thời tuân thủ đầy đủ các quy định pháp luật và yêu cầu quản lý tại tất cả các khu vực mà FPT đang hoạt động.
-Thúc đẩy hiệu quả sử dụng
-tài nguyên
-• Cải tiến quy trình và tối ưu hóa vận hành nhằm nâng cao hiệu quả sử dụng vật liệu, hạn chế phát sinh chất thải và thúc đẩy 
-việc sử dụng bền vững các tài sản, góp phần kéo dài vòng đời sử dụng;
-• Triển khai các chương trình thu hồi, tái sử dụng và luân chuyển trang thiết bị văn phòng giữa các đơn vị theo quy trình quản lý 
-tài sản nhằm hạn chế phát sinh chất thải. Các tài sản được thu hồi và tái phân bổ bao gồm bàn ghế, trang thiết bị văn phòng 
-và các vật dụng liên quan.
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-144
-
-FPT thực hiện kiểm kê và quản lý dấu chân carbon theo các chuẩn mực quốc tế 
-được công nhận, bao gồm Nghị định thư Khí nhà kính (GHG Protocol) của 
-Viện Tài nguyên thế giới (WRI) và tiêu chuẩn ISO 14040/14044.
-Việc nâng cao độ chính xác của dữ liệu phát thải được Tập đoàn xác định là một 
-quá trình cải tiến liên tục. Trên cơ sở mở rộng nguồn dữ liệu, hoàn thiện phương 
-pháp tính toán và nâng cao năng lực phân tích, FPT định kỳ rà soát, cập nhật mô hình 
-và điều chỉnh lộ trình giảm phát thải phù hợp với từng giai đoạn phát triển và mức độ 
-sẵn sàng của dữ liệu.
-FPT chủ động thực hiện kiểm kê phát thải khí nhà kính tại trụ sở chính, các toà nhà, 
-địa điểm kinh doanh tại Việt Nam của 08 công ty thành viên. Phạm vi xác định dấu 
-chân carbon của FPT được xây dựng phù hợp với khuôn khổ GHG Protocol và các 
-nguồn phát thải trọng yếu, có liên quan trực tiếp đến hoạt động của Tập đoàn, 
-trên cơ sở mức độ sẵn có và độ tin cậy của dữ liệu. 
-Các nguồn phát thải khí nhà kính được FPT thực hiện kiểm kê trên 03 phạm vi bao gồm:
-• Phạm vi 1: Phát thải khí nhà kính trực tiếp phát sinh từ các nguồn do FPT sở hữu hoặc 
-kiểm soát, bao gồm: tiêu thụ xăng dầu cho phương tiện đi lại thuộc sở hữu của 
-Tập đoàn, máy phát điện, thất thoát môi chất lạnh của hệ thống…; 
-• Phạm vi 2: Phát thải khí nhà kính gián tiếp phát sinh từ việc sử dụng điện, nước được 
-mua từ nhà cung cấp bên ngoài;
-• Phạm vi 3 (đang nghiên cứu): Phát thải khí nhà kính gián tiếp khác do các hoạt động 
-của Tập đoàn nhưng từ các nguồn mà Tập đoàn không sở hữu.
-Quản lý hiệu quả tiêu thụ năng lượng và kiểm kê khí nhà kính
-• Phạm vi và phương pháp thu thập dữ liệu
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-145
-Năm 2025, lượng phát thải khí nhà kính của FPT là 127.952 tấn CO2. Hai nguồn 
-phát thải khí nhà kính phát sinh chủ yếu là xăng dầu dùng cho xe, máy phát điện 
-(Phạm vi 1) và điện năng phục vụ cho sản xuất, vận hành máy móc thiết bị (Phạm vi 
-2) thuộc sở hữu của FPT.
-Năm 2025, lượng phát thải khí nhà kính của FPT giảm so với năm 2024, trong khi 
-hoạt động kinh doanh tiếp tục duy trì tăng trưởng cho thấy các nỗ lực tối ưu vận hành, 
-ứng dụng công nghệ và quản lý năng lượng đã phát huy hiệu quả, ngay cả khi quy mô 
-hoạt động không ngừng mở rộng.
-Nguồn phát thải khí nhà kính chủ yếu của Tập đoàn phát sinh từ Phạm vi 2, chiếm 
-khoảng 96% tổng lượng phát thải của toàn Tập đoàn. Trong đó, tiêu thụ điện năng 
-tại các trung tâm Dữ liệu và tòa nhà văn phòng/ký túc xá là nguồn phát thải chính, 
-phản ánh đặc thù hoạt động của FPT trong lĩnh vực công nghệ và dịch vụ. 
-Trên hành trình hướng tới mục tiêu Net Zero vào năm 2040, Tập đoàn kiên định 
-tập trung đầu tư vào các giải pháp dài hạn, nâng cao hiệu quả vận hành hạ tầng 
-và mạng lưới, đồng hành cùng chuỗi cung ứng trong quá trình giảm phát thải và 
-thúc đẩy đổi mới sáng tạo thông qua hợp tác với các đối tác, đặc biệt trong các 
-lĩnh vực giảm phát thải. Cách tiếp cận này giúp FPT từng bước xây dựng nền tảng 
-tăng trưởng bền vững song hành với trách nhiệm khí hậu.
-• Kết quả thực hiện kiểm kê khí nhà kính
-Tổng hợp lượng phát thải khí nhà kính của FPT năm 2025
-Năm 2025
-Năm 2024
-Năm 2023
-Phạm vi
-Phạm vi 1
-13.217
-4.826
-4.383
-Phạm vi 2
-109.696
-138.748
-123.569
-122.913
-143.574
-127.952
-Phạm vi 3
-Tổng
-Chưa triển khai
-Triển khai thí điểm tại 
-FPT Software
-Triển khai tại 
-FPT Software
-Đơn vị: tấn CO2 tương đương
-
-FPT xây dựng kế hoạch giảm thiểu lượng phát thải khí nhà kính từ hai nguồn phát 
-sinh lớn thuộc Phạm vi 1 và Phạm vi 2, cũng như từ tất cả các nguồn phát sinh khác, 
-cụ thể như sau:
-• Đối với Phạm vi 1 và Phạm vi 2, FPT triển khai các chương trình tiết kiệm điện và 
-năng lượng, hướng tới việc sử dụng năng lượng xanh và năng lượng tái tạo; 
-• Các tòa nhà là nguồn tiêu thụ năng lượng chủ yếu, do đó, Tập đoàn chủ động 
-triển khai các sáng kiến tiết kiệm năng lượng trên nền tảng hạ tầng hiện hữu. 
-Thông qua việc ứng dụng các công nghệ tiên tiến và tăng cường hợp tác với các 
-chuyên gia, FPT từng bước nâng cao hiệu quả sử dụng năng lượng, hướng tới hệ thống 
-hạ tầng thân thiện hơn với môi trường;
-• Các lĩnh vực trọng tâm trong triển khai các biện pháp tiết kiệm năng lượng bao gồm: 
-tối ưu hệ thống chiếu sáng, hệ thống điều hòa không khí (HVAC), tự động hóa tòa 
-nhà, hệ thống UPS, mặt dựng công trình, trung tâm dữ liệu và phòng máy chủ. 
-Thông qua các sáng kiến này, FPT hướng tới giảm thiểu tác động môi trường 
-song song với việc nâng cao hiệu quả vận hành.
-Việc giảm 8,58% tổng mức tiêu thụ điện so với năm 2024 phản ánh những nỗ lực 
-nhất quán và có hệ thống của Tập đoàn trong triển khai các giải pháp tiết kiệm 
-năng lượng. Kết quả này đạt được nhờ việc ứng dụng các giải pháp quản lý và tối ưu 
-tiêu thụ điện thông minh, kết hợp với các chương trình truyền thông và đào tạo 
-nội bộ nhằm nâng cao nhận thức, thay đổi hành vi sử dụng năng lượng của CBNV 
-trong hoạt động hàng ngày.
-Đặc biệt, việc đầu tư và từng bước xây dựng các hệ thống năng lượng sạch đã đóng 
-vai trò quan trọng, không chỉ giúp giảm nhu cầu sử dụng điện từ nguồn truyền 
-thống mà còn tạo nền tảng cho quá trình chuyển dịch năng lượng bền vững trong 
-dài hạn. Các nỗ lực này cho thấy cách tiếp cận toàn diện của Tập đoàn, kết hợp 
-đồng thời giữa giải pháp công nghệ, yếu tố con người và định hướng đầu tư hạ tầng, 
-góp phần hiện thực hóa các mục tiêu sử dụng năng lượng hiệu quả và giảm phát 
-thải trong lộ trình Net Zero.
-Trong năm 2025, FPT hoàn thành và đưa vào hoạt động hai hệ thống điện mặt trời 
-mái nhà tại tòa nhà F-Complex (Đà Nẵng) và Data Center (Tp.Hồ Chí Minh) tạo ra 
-842.749 kWh điện. 
-Bảng tổng hợp so sánh kết quả tiêu thụ điện
-• Biện pháp giảm phát thải khí nhà kính
-  Đơn vị: kWh
-Điện mặt trời mái nhà
-Chênh lệch 
--8,58%
--
--
-Năm 2025
-187.453.013
-842.749
-0,45%
-Năm 2024
-205.053.314
-0
-0%
-Danh mục 
-Tiêu thụ điện
-Điện từ năng lượng tái tạo
-Tỷ lệ điện từ năng lượng tái 
-tạo so với điện tiêu thụ
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-146
-Hệ thống điện mặt trời mái nhà tại tòa nhà F-Complex (Đà Nẵng).
-
-Triển khai và duy trì mô hình 
-làm việc kết hợp từ xa, góp 
-phần tối ưu nhu cầu di chuyển 
-và giảm phát thải khí nhà kính 
-(Phạm vi 3). 
-Tiên phong thực hiện thành công 
-các hoạt động trồng rừng tại 
-Sóc Trăng (cũ), Tp.Huế, Thanh Hóa 
-với 4.500 cây được trồng tại các 
-khu vực rừng ngập mặn, khu bảo 
-tồn thiên nhiên góp phần tích 
-cực chống biến đổi khí hậu, bảo 
-vệ hệ sinh thái vì lợi ích của con 
-người và thiên nhiên.
-Thông qua việc hạn chế các 
-chuyến đi không cần thiết, ưu 
-tiên họp trực tuyến, lựa chọn 
-các chuyến bay thẳng khi phải 
-di chuyển, đồng thời khuyến 
-khích sử dụng các phương tiện 
-giao thông thân thiện với môi 
-trường và các giải pháp di 
-chuyển xanh.
-Nhằm trung hoà/bù trừ lượng 
-phát thải khí nhà kính. FPT đã 
-tham vấn đơn vị tư vấn chuyên 
-môn và tiến hành khảo sát tại 
-một số địa phương như Quảng 
-Bình, Quảng Trị và Thanh Hoá để 
-lên kế hoạch tổng thể triển khai 
-Dự án tín chỉ carbon trong thời 
-gian tới. 
-Khuyến khích CBNV sử dụng 
-phương tiện công cộng, bố trí 
-xe bus đưa đón CBNV tập trung 
-hoặc các tuyến xe tại các điểm 
-trung chuyển gần khu vực lưu 
-trú của CBNV; cấp tài khoản xe 
-công nghệ. Triển khai một số 
-hoạt động khuyến khích CBNV 
-sử dụng xe điện như: lắp đặt 
-trạm sạc tại một số tòa nhà 
-văn phòng; hợp tác với Vinfast 
-triển khai chương trình ưu đãi 
-mua xe và sử dụng dịch vụ
-vận chuyển bằng xe điện.
-Đối với Phạm vi 3, FPT tiên phong thực hiện các hoạt động sau:
-Các biện pháp khác
-Phương tiện công cộng/
-Phương tiện sử dụng điện 
-Nghiên cứu Dự án
-tín chỉ carbon rừng
-Giảm thiểu tác động
-từ các chuyến công tác
-Trồng rừng
-Làm việc từ xa
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-147
-• Điều chỉnh khung giờ sử dụng: tại tòa nhà FPT Tower – Trụ sở chính của Tập đoàn đã 
-thực hiện điều chỉnh khung giờ bật/tắt các hệ thống kỹ thuật, hệ thống chiếu 
-sáng, tận dụng các nguồn ánh sáng tự nhiên cho văn phòng trong giờ làm việc; 
-• Sử dụng hệ thống điều khiển các thiết bị điện, nước thông minh như: lắp đặt 
-cảm biến bật/tắt tự động tại hành lang và cầu thang nhằm tối ưu hóa tiêu thụ 
-điện năng;
-• Duy trì, sửa chữa định kỳ: để tránh tổn thất năng lượng cho hệ thống; thay thế việc 
-sử dụng các bình đun nước nóng cục bộ bằng việc sử dụng trung tâm cung cấp 
-nước nóng tập trung, có sử dụng năng lượng mặt trời; định kỳ làm vệ sinh các dàn 
-trao đổi nhiệt, đặc biệt các dàn nóng giải nhiệt gió không để bám bụi bẩn làm 
-giảm khả năng trao đổi nhiệt của dàn;
-• Nâng cao tính chuyên nghiệp của đội ngũ nhân sự liên quan đảm bảo quản lý và 
-vận hành một cách đúng đắn, khoa học, hệ thống điều hòa không khí và thông 
-gió trong các tòa nhà, cơ sở đào tạo thuộc sở hữu của Tập đoàn.
-
-Năm 2025, FPT không chỉ tập trung vào việc hỗ trợ các doanh nghiệp khác chuyển 
-mình thành doanh nghiệp xanh mà còn mạnh mẽ thúc đẩy quá trình chuyển đổi số 
-nội bộ để tối ưu hóa hoạt động và gián tiếp giảm thiểu tác động tiêu cực đến môi trường. 
-Đặc biệt, hầu hết các quy trình quản trị và vận hành của Tập đoàn được số hóa, 
-chuyển sang mô hình doanh nghiệp thông minh và hiệu quả hơn.
-Ngoài ra, FPT triển khai kế hoạch sử dụng văn bản điện tử (Paperless), bắt đầu với 
-việc rà soát toàn bộ tài liệu và phân loại các tài liệu cần ký số hoặc ký bản cứng. 
-Năm 2025, tỷ lệ sử dụng paperless tại FPT đạt 95,42%, đặc biệt, hợp đồng giao dịch 
-điện tử chiếm khoảng 97% tổng số hợp đồng ký kết. So với năm 2024, các chỉ số 
-này ghi nhận mức cải thiện rõ rệt, giúp tiết kiệm chi phí, thời gian và góp phần bảo vệ 
-môi trường. Đây là những bước đi quan trọng nhằm tiến gần hơn đến mục tiêu 
-trở thành doanh nghiệp không giấy tờ, giảm thiểu tác động đến môi trường và 
-nâng cao hiệu quả công việc.
-Việc tiếp nhận và xử lý văn bản cũng được số hóa hoàn toàn thông qua phần mềm 
-quản lý văn bản do Tập đoàn phát triển. Điều này không chỉ rút ngắn thời gian xử lý 
-mà còn nâng cao tính chính xác trong công tác quản lý. 100% văn bản nội bộ của 
-Tập đoàn (ngoại trừ các văn bản quan trọng, mật) đều được phát hành điện tử, tạo ra 
-một quy trình làm việc nhanh chóng và hiệu quả.
-• Văn phòng không giấy tờ
-2022
-2023
-2024
-2025
-7,1%
-92,9%
-17,6%
-82,4%
-78,9%
-95,42%
-21,1%
-4,58%
-Tỷ lệ văn bản phát 
-hành điện tử
-Tỷ lệ văn bản cứng
-Tỷ lệ các cuộc họp trực tuyến và trực tiếp giai đoạn 2023-2025
-2025
-2024
-2023
-0
-20
-40
-60
-80
-90
-70
-50
-30
-10
-100
-94,0%
-73,2%
-67,8%
-32,2%
-26,8%
-6,0%
-Họp trực tuyến
-Họp trực tiếp
-Bên cạnh đó, Tập đoàn cũng khuyến khích CBNV sử dụng các giải pháp công nghệ 
-hỗ trợ họp/trao đổi trực tuyến thay thế cho việc thường xuyên đi công tác để giảm 
-lượng khí thải carbon từ phương tiện cá nhân.
-Số liệu biểu đồ phản ánh tỷ lệ các cuộc họp trực tuyến tại FPT tăng đều qua các 
-năm, đạt 94% vào năm 2025, phản ánh nỗ lực đẩy mạnh ứng dụng công nghệ số 
-trong quản trị và vận hành. Việc giảm tỷ lệ họp trực tiếp góp phần hạn chế nhu cầu 
-di chuyển, qua đó giảm tiêu thụ năng lượng và phát thải gián tiếp, phù hợp với 
-mục tiêu phát triển bền vững của Tập đoàn.
-Tỷ lệ số hoá tài liệu giai đoạn 2022-2025
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-151
-100
-80
-60
-40
-20
-0
-
-Song song với việc duy trì tăng trưởng kinh tế bền vững, FPT nhất quán triển khai 
-các hoạt động trách nhiệm xã hội dài hạn lấy con người, đặc biệt là thế hệ trẻ làm 
-trung tâm và hướng tới tạo giá trị dài hạn cho cộng đồng. 
-Trên nền tảng triết lý phát triển gắn kết lợi ích doanh nghiệp với lợi ích xã hội, các 
-chương trình của FPT được triển khai xuyên suốt nhiều năm, với quy mô ngày càng 
-mở rộng và bám sát các Mục tiêu Phát triển Bền vững của Liên Hợp Quốc.
-Với sự đồng hành của CBNV, năm 2025, FPT đã đóng góp 72,8 tỷ đồng cho các 
-hoạt động trách nhiệm xã hội, mang lại giá trị vật chất và tinh thần thiết thực cho 
-97.300 người trên phạm vi toàn quốc. 
-Các chương trình trọng tâm tập trung vào lan tỏa tinh thần trách nhiệm cộng đồng, 
-mở rộng cơ hội học tập, phát triển tài năng trẻ và thu hẹp khoảng cách điều kiện 
-sống, học tập giữa các vùng miền, qua đó góp phần xây dựng một cộng đồng hạnh 
-phúc và nền tảng tăng trưởng bền vững dài hạn.
-SONG HÀNH VÌ SỰ PHÁT TRIỂN CỘNG ĐỒNG
-Từ năm 2010, FPT đã chọn ngày 13/3 là Ngày FPT Vì Cộng đồng nhằm khuyến 
-khích mỗi CBNV lan tỏa tinh thần nhân ái và trách nhiệm xã hội thông qua những 
-hành động thiết thực. Trên tinh thần sẻ chia đó, năm 2014, Quỹ Người FPT Vì Cộng 
-đồng được thành lập, chủ yếu từ sự đóng góp tự nguyện của CBNV thông qua 
-chương trình “Góp một ngày lương”. 
-Quỹ tập trung vào hai hoạt động chính là: hỗ trợ CBNV và người thân khi gặp khó 
-khăn, đồng thời triển khai các hoạt động hỗ trợ cộng đồng, phòng ngừa và khắc 
-phục hậu quả thiên tai. Năm 2025, các khoản đóng góp từ CBNV đạt 25,6 tỷ đồng, 
-tăng gần 12% so với năm 2024, phản ánh mức độ gắn kết của người lao động và 
-hiệu quả tạo giá trị xã hội. 
-Ngày FPT vì cộng đồng
-BÁO CÁO THƯỜNG NIÊN 2025
-LÀM CHỦ
-CÔNG NGHỆ CHIẾN LƯỢC
-01
-02
-03
-04
-05
-06
-07
-08
-Thông điệp và định hướng ESG
-Quản trị hướng đến phát triển bền vững
-Môi trường làm việc đẳng cấp,
-hạnh phúc
-Hoạt động vì môi trường xanh
-Song hành vì sự phát triển cộng đồng
-THÔNG ĐIỆP BAN LÃNH ĐẠO
-DẤU ẤN 2025
-TỔNG QUAN VỀ FPT
-CHIẾN LƯỢC PHÁT TRIỂN
-PHÂN TÍCH HOẠT ĐỘNG KINH DOANH
-QUẢN TRỊ CÔNG TY
-BÁO CÁO ESG
-BÁO CÀO TÀI CHÍNH HỢP NHẤT
-153
-16 năm liên tiếp FPT tổ chức Ngày FPT vì cộng đồng lan tỏa 
-tinh thần nhân ái và trách nhiệm xã hội.

@@ -1,278 +1,46 @@
-DANH MỤC
-CÁC TỪ VIẾT TẮT
-VIẾT TẮT
-DIỄN GIẢI
-BIDV
-Ngân hàng TCMP Đầu tư và Phát triển Việt Nam
-BCTC
-Báo cáo tài chính
-BĐH
-Ban Điều hành
-BKS 
-Ban Kiểm soát
-CAR 
-Tỷ lệ an toàn vốn
-CBNV 
-Cán bộ, nhân viên
-CBTT 
-Công bố thông tin
-CNTT 
-Công nghệ thông tin
-CSKH 
-Chăm sóc khách hàng
-DNNVV/SME
-Doanh nghiệp nhỏ và vừa
-DPRR
-Dự phòng rủi ro
-ĐHĐCĐ 
-Đại hội đồng cổ đông
-ĐKKD 
-Đăng ký kinh doanh
-ESG
-Môi trường, xã hội, và quản trị
-FDI 
-Đầu tư trực tiếp nước ngoài
-HĐQT 
-Hội đồng Quản trị
-HĐV
-Huy động vốn
-HOSE 
-Sở giao dịch Chứng khoán TP. Hồ Chí Minh
-IPO 
-Phát hành cổ phiếu lần đầu ra công chúng
-KHCN 
-Khách hàng cá nhân
-KHDN 
-Khách hàng doanh nghiệp
-KHKD
-Kế hoạch kinh doanh
-KTNB 
-Kiểm toán Nội bộ
-LNTT 
-Lợi nhuận trước thuế
-VIẾT TẮT
-DIỄN GIẢI
-LSCV 
-Lãi suất cho vay
-MT-XH 
-Môi trường - Xã hội
-MXH
-Mạng xã hội
-NHNN 
-Ngân hàng Nhà nước Việt Nam
-NHTM
-Ngân hàng thương mại
-QLRR 
-Quản lý rủi ro
-ROA 
-Tỷ lệ lợi nhuận trên tổng tài sản
-ROE 
-Tỷ lệ lợi nhuận trên vốn chủ sở hữu
-RRHĐ 
-Rủi ro hoạt động
-RRTD 
-Rủi ro tín dụng
-SPDV 
-Sản phẩm, dịch vụ
-TCKT 
-Tổ chức kinh tế
-TCTD 
-Tổ chức tín dụng
-TGĐ 
-Tổng Giám đốc
-TKTT
-Tài khoản thanh toán
-TMCP 
-Thương mại Cổ phần
-TNHH 
-Trách nhiệm hữu hạn
-TSBĐ 
-Tài sản bảo đảm
-UBCKNN
-Ủy ban Chứng khoán Nhà nước
-VBCĐ
-Văn bản chế độ
-VCSH 
-Vốn chủ sở hữu
-VHDN 
-Văn hóa doanh nghiệp
-WSME
-Doanh nghiệp nhỏ và vừa do phụ nữ làm chủ
-
-10
-11
-BÁO CÁO THƯỜNG NIÊN 2022
-THÔNG ĐIỆP 2022
-Thưa quý khách hàng, quý cổ đông, đối tác,
-Năm 2022 kinh tế thế giới rơi vào vòng xoáy đa khủng hoảng 
-với xung đột địa chính trị căng thẳng, lạm phát toàn cầu gia 
-tăng phi mã, hậu quả nặng nề của đại dịch Covid19 dẫn đến 
-nguy cơ suy giảm kinh tế toàn cầu… Trước bối cảnh khó khăn 
-chưa từng có trong tiền lệ, kinh tế Việt Nam năm 2022 vẫn 
-ghi nhận các kết quả tích cực sau 2 năm tập trung thực hiện 
-mục tiêu kép vừa phòng, chống dịch, vừa phát triển kinh tế: 
-Tăng trưởng GDP đạt 8,02%; chỉ số giá tiêu dùng bình quân 
-kiểm soát ở mức 3,15%; cán cân thương mại xuất siêu 11,2 tỷ 
-USD... Việt Nam cũng là quốc gia duy nhất ở khu vực Châu 
-Á - Thái Bình Dương và là một trong số ít quốc gia trên thế 
-giới được nâng bậc tín nhiệm trong năm. Đóng góp vào thành 
-công chung đó phải kể đến việc Ngân hàng nhà nước (NHNN) 
-đã chủ động điều hành, ứng phó linh hoạt, triển khai đồng bộ 
-các công cụ chính sách tiền tệ lãi suất, tỷ giá góp phần kiểm 
-soát lạm phát, ổn định kinh tế vĩ mô, nâng cao tính độc lập của 
-nền kinh tế.
-Hành trình tự hào, Khát vọng vươn cao
-Đối với BIDV, năm 2022 là một năm đặc biệt ghi dấu mốc son 
-65 năm xây dựng và trưởng thành. Dù kinh tế đối diện với 
-nhiều khó khăn, thách thức nhưng dưới sự lãnh đạo của Chính 
-phủ, NHNN, sự đồng hành gắn bó của đối tác, khách hàng, 
-sự nỗ lực đồng lòng của tập thể cán bộ người lao động toàn 
-hệ thống, BIDV đã hoàn thành toàn diện, đồng bộ, vượt trội 
-các mục tiêu của Chiến lược phát triển tổng thể hệ thống đến 
-2025, định hướng đến 2030 và kế hoạch kinh doanh năm 2022 
-do Đại hội đồng cổ đông đề ra, tiếp tục khẳng định vai trò 
-là định chế tài chính hàng đầu Đất nước. Kết thúc năm 2022, 
-BIDV là NHTM đầu tiên có Tổng tài sản vượt mốc trên 2 triệu 
-tỷ đồng, tăng 20,4% so với năm 2021, tiếp tục giữ vững vị thế 
-là NHTMCP có quy mô lớn nhất Việt Nam. Huy động vốn tổ 
-chức, dân cư đạt 1,64 triệu tỷ đồng, tăng 8,4%, chiếm khoảng 
-14% thị phần tiền gửi toàn ngành. Dư nợ tín dụng đạt 1,53 triệu 
-tỷ đồng, tăng 12,1%, chiếm 12,87% dư nợ tín dụng toàn nền 
-kinh tế, đứng đầu thị trường về thị phần tín dụng. Cơ cấu tín 
-dụng chuyển dịch theo hướng bền vững, tỷ trọng dư nợ bán lẻ 
-đạt 43,4%, tăng 3,6% so với đầu năm, tỷ trọng dư nợ SME đạt 
-22%... Chất lượng tín dụng được kiểm soát trong giới hạn, tỷ 
-lệ nợ xấu ở mức 0,96%. Hiệu quả kinh doanh tăng trưởng tích 
-cực so với cùng kỳ năm trước, đạt và vượt Kế hoạch năm 2022 
-đề ra: (i) Chênh lệch thu chi đạt 47.025 tỷ đồng. Lợi nhuận trước 
-thuế hợp nhất đạt 23.009 tỷ đồng, tăng trưởng 69,8%, hoàn 
-thành vượt kế hoạch ĐHĐCĐ giao; (ii) Năng lực tài chính được 
-cải thiện, vốn điều lệ đạt 50.585 tỷ đồng, vốn hóa thuộc nhóm 
-đẫn đầu thị trường, đạt 195,3 nghìn tỷ đồng (~8,34 tỷ USD); (iii) 
-Các chỉ tiêu sinh lời được cải thiện tích cực so với năm trước: 
-ROA đạt 0,95%; ROE đạt 19,34%; (iv) Trích lập DPRR đầy đủ 
-theo quy định, tỷ lệ bao phủ nợ xấu đạt 226%, các chỉ số an 
-toàn đảm bảo theo quy định và thông lệ tốt. BIDV cũng luôn là 
-một trong những ngân hàng đóng có góp tích cực vào ngân 
-sách nhà nước với mức đóng góp trong năm đạt hơn 6.700 
-tỷ đồng.
-Năm 2022, BIDV cũng đạt được nhiều bước tiến trong quản trị 
-điều hành, phát triển thể chế, trong đó đã triển khai hoàn thiện 
-cơ cấu, mô hình tổ chức phù hợp với mô hình kinh doanh ngân 
-hàng hiện đại gắn với kiện toàn nhân sự các cấp, đặc biệt chú 
-trọng tới công tác phát triển nhân tài, nhân lực chất lượng 
-cao cho hệ thống thông qua triển khai Chương trình phát triển 
-Lãnh đạo BIDV tuổi 30, xây dựng Quy chế chức danh và phát 
-triển nghề nghiệp. Kiên định bám sát các mục tiêu, chỉ tiêu 
-của Chiến lược kinh doanh tổng thể giai đoạn 2021-2025 và 07 
-Chiến lược cấu phần thông qua rà soát thường xuyên, đánh 
-giá kỹ lưỡng từ đó đề ra các giải pháp trọng tâm để đảm bảo 
-triển khai đúng định hướng đã đề ra. Trong đó, BIDV theo đuổi 
-chiến lược “ngân hàng xanh” và xác định là một trong những 
-mục tiêu ưu tiên trong giai đoạn tới. Thông qua tập trung xây 
-dựng và thực thi Khung quản trị, mô hình kinh doanh ESG (môi 
-trường, xã hội và quản trị); triển khai các chính sách, quy định, 
-phát triển sản phẩm, dịch vụ riêng biệt và điều chỉnh cơ cấu, 
-mô hình tổ chức hướng tới ngân hàng xanh, BIDV hiện dẫn 
-đầu thị trường về tài trợ lĩnh vực xanh, góp phần chuyển đổi 
-nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường. 
-Đồng thời, với vai trò NHTM lớn, BIDV đã tích cực, chủ động 
-triển khai các giải pháp tháo gỡ khó khăn, hỗ trợ khách hàng 
-phục hồi, phát triển hoạt động sản xuất kinh doanh. Tích cực 
-thực hiện các chương trình an sinh xã hội ủng hộ công tác 
-phòng chống dịch Covid-19, các chương trình hỗ trợ giáo dục, 
-an ninh quốc phòng, y tế, phát triển cộng đồng... Đây cũng là 
-năm quan hệ hợp tác chiến lược toàn diện, sâu rộng giữa BIDV 
-và Tập đoàn Tài chính Hana được nâng lên một tầm cao mới 
-với dấu ấn là thành công của giao dịch bán chiến lược Công 
-ty chứng khoán BIDV (BSC) - Hana Securities.
-Từ những kết quả tích cực đã đạt được, uy tín, thương hiệu 
-BIDV tiếp tục được khẳng định; niềm tin của đối tác, khách 
-hàng tiếp tục được nâng cao ở cả trong nước và quốc tế: 
-Moody’s nâng định hạng nhà phát hành và định hạng tiền gửi 
-(nội tệ/ngoại tệ) của BIDV từ mức Ba3 lên mức Ba2; Giải thưởng 
-“Ngân hàng bán lẻ tốt nhất Việt Nam 2022” (The Asian Banker); 
-Giải thưởng “Ngân hàng dành cho KHDN tốt nhất Đông Nam 
-Á năm 2022” và “Ngân hàng SME tốt nhất Đông Nam Á năm 
-2022” (Global Banking and Finance); Giải thưởng “Ngân hàng 
-phục vụ khách hàng FDI tốt nhất Việt Nam 2022” và “Ngân 
-hàng cung cấp dịch vụ ngoại hối và phái sinh tốt nhất Việt 
-Nam” (ABF Wholesale Banking Awards); Giải thưởng “Ngân 
-hàng quản lý rủi ro sáng tạo nhất năm 2022” (International 
-Business Magazine); Top 10 ngân hàng thương mại Việt Nam 
-uy tín 2022 (Vietnam Report)…
-Vững bước tiên phong, đồng hành phát triển
-Bước vào năm 2023, năm “bản lề” của KHKD 5 năm, hành 
-trang với BIDV là tâm thế chủ động, quyết tâm cao độ để tăng 
-tốc về đích, hoàn thành thắng lợi mục tiêu cả giai đoạn 2021-
-2025. BIDV xác định phương châm hành động của năm 2023 
-là “Kỷ cương - Hiệu quả - Chuyển đổi hoạt động”. Theo đó, 
-BIDV sẽ tiếp tục đẩy mạnh quy mô hoạt động gắn với đảm bảo 
-an toàn, nâng cao hiệu quả, chuyển dịch cơ cấu theo hướng 
-tập trung tối ưu hóa tài sản có rủi ro. Kiểm soát chặt chẽ chất 
-lượng tín dụng, nâng cao chất lượng tài sản; Nâng cao hiệu 
-quả hoạt động gắn với chuyển dịch cơ cấu thu nhập theo 
-hướng gia tăng thu nhập ngoài lãi; Thực hiện đồng bộ các giải 
-pháp chuyển đổi số và đẩy nhanh tiến độ triển khai các dự án 
-CNTT trọng điểm; Nâng cao năng lực quản trị điều hành, năng 
-lực quản lý rủi ro, chủ động ứng phó trước những biến động 
-khó lường của thị trường tài chính; Tập trung triển khai các 
-phương án tăng vốn nhằm nâng cao năng lực tài chính, phát 
-triển kinh doanh. Bên cạnh đó, với vai trò là ngân hàng tài trợ 
-xanh lớn nhất Việt Nam theo định hướng của Chính phủ, BIDV 
-cũng xác định chiến lược và hoạt động cốt lõi trong thời gian 
-tới dành nguồn lực tập trung phát triển xanh, tài chính bền 
-vững và nâng cao thực hành ESG.
-65 năm xây dựng và trưởng thành là hành trình đầy tự hào 
-của lớp lớp các thế hệ cán bộ lãnh đạo, người lao động của 
-BIDV, trải qua “bao thác, bao ghềnh” đã trui rèn, bồi tụ nên bản 
-lĩnh, cốt cách kiên cường, vượt khó của “Người BIDV”. Tại mốc 
-son này, với quyết tâm của Ban lãnh đạo, sự đồng sức, đồng 
-lòng của tập thể cán bộ người lao động, BIDV đã hội tụ đầy đủ 
-điều kiện, quyết tâm và khát vọng để thay đổi và chinh phục 
-những đỉnh cao mới. Mang tâm thế tiếp nối những giá trị lịch 
-sử quý báu, nhận diện thương hiệu của BIDV đã được thay 
-đổi với hình ảnh “Ngôi sao vàng 5 cánh, bông hoa mai và màu 
-xanh ngọc lục bảo”. Theo triết lý phương Đông số 5 thể hiện 
-sự sinh sôi, sức sống mãnh liệt, sự hòa hợp vững bền; tượng 
-trưng cho 5 châu - thể hiện khát vọng hội nhập, màu xanh 
-ngọc lục bảo tượng trưng cho sự bền vững, trường tồn, mang 
-hình ảnh của một ngân hàng “xanh”, như chiến lược mà BIDV 
-đang quyết tâm theo đuổi.
-Thay mặt Hội đồng quản trị BIDV, tôi xin gửi lời cảm ơn chân 
-thành đến toàn thể Ban Lãnh đạo và 2,8 vạn người lao động 
-đang cống hiến hết mình tại BIDV. Đặc biệt tôi cũng xin gửi lời 
-tri ân sâu sắc đến Quý Khách hàng, Quý Nhà đầu tư và đối tác 
-đã luôn tin tưởng và đồng hành cùng BIDV trong suốt thời gian 
-qua và mong muốn tiếp tục hợp tác, đồng hành với quý khách 
-hàng, nhà đầu tư, đối tác trong thời gian tới để chúng ta cùng 
-nhau kiến tạo nên những giá trị bền vững, hướng đến tương lai 
-phồn vinh và thịnh vượng!
-Chúc Quý vị ngày càng phát triển và thành công! 
-Trân trọng!
-	
-	
-TM.HỘI ĐỒNG QUẢN TRỊ
-	
-	
-              CHỦ TỊCH
-	
-	
-           Phan Đức Tú
-Ông Phan Đức Tú, Chủ tịch HĐQT BIDV
-BIDV mong muốn tiếp tục 
-hợp tác, đồng hành với  
-quý khách hàng, nhà đầu tư, 
-đối tác trong thời gian tới để 
-chúng ta cùng nhau kiến tạo 
-nên những giá trị bền vững, 
-hướng đến tương lai  
-phồn vinh và thịnh vượng!
-THÔNG ĐIỆP 
-CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
-
-TỔNG QUAN BIDV 
-2 0 2 2
+THÔNG ĐIỆP
+HOẠT ĐỘNG
+KINH DOANH
+QUẢN TRỊ
+CÔNG TY
+BÁO CÁO
+TÀI CHÍNH
+BÁO CÁO
+PHÁT TRIỂN BỀN VỮNG
+TỔNG QUAN BIDV
+THÔNG ĐIỆP CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+GIẢI THƯỞNG NĂM 2022
+TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
+TỔ CHỨC VÀ NHÂN SỰ
+CÔNG TY CON, CÔNG TY LIÊN KẾT
+TÌNH HÌNH ĐẦU TƯ, TÌNH HÌNH THỰC HIỆN CÁC DỰ ÁN
+TÌNH HÌNH TÀI CHÍNH
+CƠ CẤU CỔ ĐÔNG, THAY ĐỔI VỐN ĐẦU TƯ
+CỦA CHỦ SỞ HỮU
+HOẠT ĐỘNG CỦA HĐQT BIDV NĂM 2022
+HOẠT ĐỘNG CỦA BAN KIỂM SOÁT NĂM 2022,
+TRỌNG TÂM CÔNG TÁC NĂM 2023
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+MẠNG LƯỚI
+HOẠT ĐỘNG
+CHI NHÁNH VÀ ĐƠN VỊ TRỰC THUỘC
+CÔNG TY CON, CÔNG TY LIÊN DOANH, LIÊN KẾT
+THÔNG ĐIỆP CỦA BAN LÃNH ĐẠO VỀ
+PHÁT TRIỂN BỀN VỮNG
+HOẠT ĐỘNG KINH DOANH HƯỚNG ĐẾN
+MÔI TRƯỜNG XÃ HỘI
+TRÁCH NHIỆM ĐỐI VỚI KHÁCH HÀNG
+TRÁCH NHIỆM ĐỐI VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
+TRÁCH NHIỆM ĐỐI VỚI NGƯỜI LAO ĐỘNG
+TRÁCH NHIỆM ĐỐI VỚI CỘNG ĐỒNG XÃ HỘI
+THỰC HÀNH TIẾT KIỆM VÀ TUÂN THỦ PHÁP LUẬT
+VỀ MÔI TRƯỜNG
+TÀI CHÍNH XANH
+VĂN HÓA DOANH NGHIỆP, ĐẠO ĐỨC NGHỀ NGHIỆP
+THEO TIÊU CHUẨN CHUNG GRI STANDARD
 THÔNG TIN KHÁI QUÁT VỀ BIDV
 65 NĂM PHÁT TRIỂN CÙNG ĐẤT NƯỚC
 LỊCH SỬ HÌNH THÀNH VÀ PHÁT TRIỂN
@@ -286,445 +54,585 @@ BAN ĐIỀU HÀNH
 BAN KIỂM SOÁT
 ĐỊNH HƯỚNG PHÁT TRIỂN
 QUẢN LÝ RỦI RO
-18
-20
-24
-26
-28
-30
-36
-40
-42
-46
-51
-52
-56
-02
+BÁO CÁO ĐÁNH GIÁ CỦA
+BAN ĐIỀU HÀNH
+TÌNH HÌNH VĨ MÔ VÀ NGÀNH NGÂN HÀNG
+KẾT QUẢ CÔNG TÁC ĐIỀU HÀNH NĂM 2022
+ĐỊNH HƯỚNG HOẠT ĐỘNG KINH DOANH NĂM 2023
+ĐÁNH GIÁ CỦA
+HỘI ĐỒNG QUẢN TRỊ BIDV
+ĐÁNH GIÁ CỦA HĐQT VỀ CÁC MẶT HOẠT ĐỘNG
+ĐÁNH GIÁ HOẠT ĐỘNG CỦA BAN ĐIỀU HÀNH
+ĐỊNH HƯỚNG, TRỌNG TÂM HOẠT ĐỘNG CỦA HĐQT
 
-22
-23
-BÁO CÁO THƯỜNG NIÊN 2022
+DANH MỤC
+CÁC TỪ VIẾT TẮT
+VIẾT TẮT
+DIỄN GIẢI
+BIDV
+Ngân hàng TCMP Đầu tư và Phát triển Việt Nam
+BCTC
+Ban Điều hành
+Ban Kiểm soát
+Tỷ lệ an toàn vốn
+CBNV
+Cán bộ, nhân viên
+CBTT
+Công bố thông tin
+CNTT
+Công nghệ thông tin
+CSKH
+Chăm sóc khách hàng
+DNNVV/SME
+Doanh nghiệp nhỏ và vừa
+DPRR
+Dự phòng rủi ro
+ĐHĐCĐ
+Đại hội đồng cổ đông
+ĐKKD
+Đăng ký kinh doanh
+Môi trường, xã hội, và quản trị
+Đầu tư trực tiếp nước ngoài
+HĐQT
+Hội đồng Quản trị
+Huy động vốn
+HOSE
+Sở giao dịch Chứng khoán TP. Hồ Chí Minh
+Phát hành cổ phiếu lần đầu ra công chúng
+KHCN
+Khách hàng cá nhân
+KHDN
+Khách hàng doanh nghiệp
+KHKD
+Kế hoạch kinh doanh
+KTNB
+Kiểm toán Nội bộ
+LNTT
+Lợi nhuận trước thuế
+VIẾT TẮT
+DIỄN GIẢI
+LSCV
+Lãi suất cho vay
+MT-XH
+Môi trường - Xã hội
+Mạng xã hội
+NHNN
+Ngân hàng Nhà nước Việt Nam
+NHTM
+Ngân hàng thương mại
+QLRR
+Quản lý rủi ro
+Tỷ lệ lợi nhuận trên tổng tài sản
+Tỷ lệ lợi nhuận trên vốn chủ sở hữu
+RRHĐ
+Rủi ro hoạt động
+RRTD
+Rủi ro tín dụng
+SPDV
+Sản phẩm, dịch vụ
+TCKT
+Tổ chức kinh tế
+TCTD
+Tổ chức tín dụng
+Tổng Giám đốc
+TKTT
+Tài khoản thanh toán
+TMCP
+Thương mại Cổ phần
+TNHH
+Trách nhiệm hữu hạn
+TSBĐ
+Tài sản bảo đảm
+UBCKNN
+Ủy ban Chứng khoán Nhà nước
+VBCĐ
+Văn bản chế độ
+VCSH
+Vốn chủ sở hữu
+VHDN
+Văn hóa doanh nghiệp
+WSME
+
+THÔNG ĐIỆP 2022
+Thưa quý khách hàng, quý cổ đông, đối tác,
+Năm 2022 kinh tế thế giới rơi vào vòng xoáy đa khủng hoảng
+với xung đột địa chính trị căng thẳng, lạm phát toàn cầu gia
+tăng phi mã, hậu quả nặng nề của đại dịch Covid19 dẫn đến
+nguy cơ suy giảm kinh tế toàn cầu… Trước bối cảnh khó khăn
+chưa từng có trong tiền lệ, kinh tế Việt Nam năm 2022 vẫn
+ghi nhận các kết quả tích cực sau 2 năm tập trung thực hiện
+mục tiêu kép vừa phòng, chống dịch, vừa phát triển kinh tế:
+Tăng trưởng GDP đạt 8,02%; chỉ số giá tiêu dùng bình quân
+kiểm soát ở mức 3,15%; cán cân thương mại xuất siêu 11,2 tỷ
+USD... Việt Nam cũng là quốc gia duy nhất ở khu vực Châu
+Á - Thái Bình Dương và là một trong số ít quốc gia trên thế
+giới được nâng bậc tín nhiệm trong năm. Đóng góp vào thành
+công chung đó phải kể đến việc Ngân hàng nhà nước (NHNN)
+đã chủ động điều hành, ứng phó linh hoạt, triển khai đồng bộ
+các công cụ chính sách tiền tệ lãi suất, tỷ giá góp phần kiểm
+soát lạm phát, ổn định kinh tế vĩ mô, nâng cao tính độc lập của
+nền kinh tế.
+Hành trình tự hào, Khát vọng vươn cao
+Đối với BIDV, năm 2022 là một năm đặc biệt ghi dấu mốc son
+65 năm xây dựng và trưởng thành. Dù kinh tế đối diện với
+nhiều khó khăn, thách thức nhưng dưới sự lãnh đạo của Chính
+phủ, NHNN, sự đồng hành gắn bó của đối tác, khách hàng,
+sự nỗ lực đồng lòng của tập thể cán bộ người lao động toàn
+hệ thống, BIDV đã hoàn thành toàn diện, đồng bộ, vượt trội
+2025, định hướng đến 2030 và kế hoạch kinh doanh năm 2022
+do Đại hội đồng cổ đông đề ra, tiếp tục khẳng định vai trò
+là định chế tài chính hàng đầu Đất nước. Kết thúc năm 2022,
+BIDV là NHTM đầu tiên có Tổng tài sản vượt mốc trên 2 triệu
+tỷ đồng, tăng 20,4% so với năm 2021, tiếp tục giữ vững vị thế
+là NHTMCP có quy mô lớn nhất Việt Nam. Huy động vốn tổ
+chức, dân cư đạt 1,64 triệu tỷ đồng, tăng 8,4%, chiếm khoảng
+14% thị phần tiền gửi toàn ngành. Dư nợ tín dụng đạt 1,53 triệu
+tỷ đồng, tăng 12,1%, chiếm 12,87% dư nợ tín dụng toàn nền
+kinh tế, đứng đầu thị trường về thị phần tín dụng. Cơ cấu tín
+dụng chuyển dịch theo hướng bền vững, tỷ trọng dư nợ bán lẻ
+đạt 43,4%, tăng 3,6% so với đầu năm, tỷ trọng dư nợ SME đạt
+22%... Chất lượng tín dụng được kiểm soát trong giới hạn, tỷ
+lệ nợ xấu ở mức 0,96%. Hiệu quả kinh doanh tăng trưởng tích
+cực so với cùng kỳ năm trước, đạt và vượt Kế hoạch năm 2022
+đề ra: (i) Chênh lệch thu chi đạt 47.025 tỷ đồng. Lợi nhuận trước
+thuế hợp nhất đạt 23.009 tỷ đồng, tăng trưởng 69,8%, hoàn
+thành vượt kế hoạch ĐHĐCĐ giao; (ii) Năng lực tài chính được
+cải thiện, vốn điều lệ đạt 50.585 tỷ đồng, vốn hóa thuộc nhóm
+đẫn đầu thị trường, đạt 195,3 nghìn tỷ đồng (~8,34 tỷ USD); (iii)
+Các chỉ tiêu sinh lời được cải thiện tích cực so với năm trước:
+ROA đạt 0,95%; ROE đạt 19,34%; (iv) Trích lập DPRR đầy đủ
+theo quy định, tỷ lệ bao phủ nợ xấu đạt 226%, các chỉ số an
+toàn đảm bảo theo quy định và thông lệ tốt. BIDV cũng luôn là
+một trong những ngân hàng đóng có góp tích cực vào ngân
+sách nhà nước với mức đóng góp trong năm đạt hơn 6.700
+Năm 2022, BIDV cũng đạt được nhiều bước tiến trong quản trị
+điều hành, phát triển thể chế, trong đó đã triển khai hoàn thiện
+cơ cấu, mô hình tổ chức phù hợp với mô hình kinh doanh ngân
+hàng hiện đại gắn với kiện toàn nhân sự các cấp, đặc biệt chú
+trọng tới công tác phát triển nhân tài, nhân lực chất lượng
+cao cho hệ thống thông qua triển khai Chương trình phát triển
+Lãnh đạo BIDV tuổi 30, xây dựng Quy chế chức danh và phát
+triển nghề nghiệp. Kiên định bám sát các mục tiêu, chỉ tiêu
+của Chiến lược kinh doanh tổng thể giai đoạn 2021-2025 và 07
+Chiến lược cấu phần thông qua rà soát thường xuyên, đánh
+giá kỹ lưỡng từ đó đề ra các giải pháp trọng tâm để đảm bảo
+triển khai đúng định hướng đã đề ra. Trong đó, BIDV theo đuổi
+chiến lược “ngân hàng xanh” và xác định là một trong những
+mục tiêu ưu tiên trong giai đoạn tới. Thông qua tập trung xây
+dựng và thực thi Khung quản trị, mô hình kinh doanh ESG (môi
+trường, xã hội và quản trị); triển khai các chính sách, quy định,
+phát triển sản phẩm, dịch vụ riêng biệt và điều chỉnh cơ cấu,
+mô hình tổ chức hướng tới ngân hàng xanh, BIDV hiện dẫn
+đầu thị trường về tài trợ lĩnh vực xanh, góp phần chuyển đổi
+nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường.
+Đồng thời, với vai trò NHTM lớn, BIDV đã tích cực, chủ động
+triển khai các giải pháp tháo gỡ khó khăn, hỗ trợ khách hàng
+phục hồi, phát triển hoạt động sản xuất kinh doanh. Tích cực
+thực hiện các chương trình an sinh xã hội ủng hộ công tác
+phòng chống dịch Covid-19, các chương trình hỗ trợ giáo dục,
+an ninh quốc phòng, y tế, phát triển cộng đồng... Đây cũng là
+năm quan hệ hợp tác chiến lược toàn diện, sâu rộng giữa BIDV
+và Tập đoàn Tài chính Hana được nâng lên một tầm cao mới
+ty chứng khoán BIDV (BSC) - Hana Securities.
+Từ những kết quả tích cực đã đạt được, uy tín, thương hiệu
+BIDV tiếp tục được khẳng định; niềm tin của đối tác, khách
+hàng tiếp tục được nâng cao ở cả trong nước và quốc tế:
+Moody’s nâng định hạng nhà phát hành và định hạng tiền gửi
+(nội tệ/ngoại tệ) của BIDV từ mức Ba3 lên mức Ba2; Giải thưởng
+“Ngân hàng bán lẻ tốt nhất Việt Nam 2022” (The Asian Banker);
+Giải thưởng “Ngân hàng dành cho KHDN tốt nhất Đông Nam
+Á năm 2022” và “Ngân hàng SME tốt nhất Đông Nam Á năm
+2022” (Global Banking and Finance); Giải thưởng “Ngân hàng
+phục vụ khách hàng FDI tốt nhất Việt Nam 2022” và “Ngân
+hàng cung cấp dịch vụ ngoại hối và phái sinh tốt nhất Việt
+Nam” (ABF Wholesale Banking Awards); Giải thưởng “Ngân
+hàng quản lý rủi ro sáng tạo nhất năm 2022” (International
+Business Magazine); Top 10 ngân hàng thương mại Việt Nam
+uy tín 2022 (Vietnam Report)…
+Vững bước tiên phong, đồng hành phát triển
+Bước vào năm 2023, năm “bản lề” của KHKD 5 năm, hành
+trang với BIDV là tâm thế chủ động, quyết tâm cao độ để tăng
+tốc về đích, hoàn thành thắng lợi mục tiêu cả giai đoạn 2021-
+2025. BIDV xác định phương châm hành động của năm 2023
+là “Kỷ cương - Hiệu quả - Chuyển đổi hoạt động”. Theo đó,
+BIDV sẽ tiếp tục đẩy mạnh quy mô hoạt động gắn với đảm bảo
+an toàn, nâng cao hiệu quả, chuyển dịch cơ cấu theo hướng
+tập trung tối ưu hóa tài sản có rủi ro. Kiểm soát chặt chẽ chất
+lượng tín dụng, nâng cao chất lượng tài sản; Nâng cao hiệu
+quả hoạt động gắn với chuyển dịch cơ cấu thu nhập theo
+hướng gia tăng thu nhập ngoài lãi; Thực hiện đồng bộ các giải
+pháp chuyển đổi số và đẩy nhanh tiến độ triển khai các dự án
+CNTT trọng điểm; Nâng cao năng lực quản trị điều hành, năng
+lực quản lý rủi ro, chủ động ứng phó trước những biến động
+khó lường của thị trường tài chính; Tập trung triển khai các
+phương án tăng vốn nhằm nâng cao năng lực tài chính, phát
+triển kinh doanh. Bên cạnh đó, với vai trò là ngân hàng tài trợ
+xanh lớn nhất Việt Nam theo định hướng của Chính phủ, BIDV
+cũng xác định chiến lược và hoạt động cốt lõi trong thời gian
+tới dành nguồn lực tập trung phát triển xanh, tài chính bền
+vững và nâng cao thực hành ESG.
+65 năm xây dựng và trưởng thành là hành trình đầy tự hào
+của lớp lớp các thế hệ cán bộ lãnh đạo, người lao động của
+BIDV, trải qua “bao thác, bao ghềnh” đã trui rèn, bồi tụ nên bản
+lĩnh, cốt cách kiên cường, vượt khó của “Người BIDV”. Tại mốc
+son này, với quyết tâm của Ban lãnh đạo, sự đồng sức, đồng
+lòng của tập thể cán bộ người lao động, BIDV đã hội tụ đầy đủ
+điều kiện, quyết tâm và khát vọng để thay đổi và chinh phục
+những đỉnh cao mới. Mang tâm thế tiếp nối những giá trị lịch
+sử quý báu, nhận diện thương hiệu của BIDV đã được thay
+đổi với hình ảnh “Ngôi sao vàng 5 cánh, bông hoa mai và màu
+xanh ngọc lục bảo”. Theo triết lý phương Đông số 5 thể hiện
+sự sinh sôi, sức sống mãnh liệt, sự hòa hợp vững bền; tượng
+trưng cho 5 châu - thể hiện khát vọng hội nhập, màu xanh
+ngọc lục bảo tượng trưng cho sự bền vững, trường tồn, mang
+hình ảnh của một ngân hàng “xanh”, như chiến lược mà BIDV
+đang quyết tâm theo đuổi.
+Thay mặt Hội đồng quản trị BIDV, tôi xin gửi lời cảm ơn chân
+thành đến toàn thể Ban Lãnh đạo và 2,8 vạn người lao động
+đang cống hiến hết mình tại BIDV. Đặc biệt tôi cũng xin gửi lời
+tri ân sâu sắc đến Quý Khách hàng, Quý Nhà đầu tư và đối tác
+đã luôn tin tưởng và đồng hành cùng BIDV trong suốt thời gian
+qua và mong muốn tiếp tục hợp tác, đồng hành với quý khách
+hàng, nhà đầu tư, đối tác trong thời gian tới để chúng ta cùng
+nhau kiến tạo nên những giá trị bền vững, hướng đến tương lai
+phồn vinh và thịnh vượng!
+Chúc Quý vị ngày càng phát triển và thành công!
+Trân trọng!
+TM.HỘI ĐỒNG QUẢN TRỊ
+CHỦ TỊCH
+Phan Đức Tú
+Ông Phan Đức Tú, Chủ tịch HĐQT BIDV
+BIDV mong muốn tiếp tục
+hợp tác, đồng hành với
+quý khách hàng, nhà đầu tư,
+đối tác trong thời gian tới để
+chúng ta cùng nhau kiến tạo
+nên những giá trị bền vững,
+hướng đến tương lai
+phồn vinh và thịnh vượng!
+THÔNG ĐIỆP
+CỦA CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+
+TỔNG QUAN BIDV
+THÔNG TIN KHÁI QUÁT VỀ BIDV
+65 NĂM PHÁT TRIỂN CÙNG ĐẤT NƯỚC
+LỊCH SỬ HÌNH THÀNH VÀ PHÁT TRIỂN
+SỨ MỆNH, TẦM NHÌN, GIÁ TRỊ CỐT LÕI
+NGÀNH NGHỀ VÀ ĐỊA BÀN KINH DOANH
+SẢN PHẨM CHÍNH VÀ NỔI BẬT
+CHỈ SỐ HOẠT ĐỘNG CƠ BẢN
+CƠ CẤU TỔ CHỨC, MÔ HÌNH QUẢN TRỊ
+HỘI ĐỒNG QUẢN TRỊ
+BAN ĐIỀU HÀNH
+BAN KIỂM SOÁT
+ĐỊNH HƯỚNG PHÁT TRIỂN
+QUẢN LÝ RỦI RO
+
 TỔNG QUAN BIDV 2022
-Theo đó, Ngân hàng vẫn giữ nguyên 
-tên đầy đủ là Ngân hàng TMCP Đầu 
-tư và Phát triển Việt Nam, tên viết 
-tắt là “BIDV” nhưng hình ảnh biểu 
-tượng được điều chỉnh và khoác 
-lên mình màu sắc nhận diện mới. 
-Biểu tượng logo mới được lấy ý 
-tưởng từ hình ảnh hoa mai vàng 5 
-cánh là biểu tượng cho khí phách 
-quật cường, bản lĩnh và tinh thần 
-tiên phong, vượt lên mọi khó khăn, 
-thử thách. Trung tâm là biểu tượng 
-ngôi sao 5 cánh với ý nghĩa vừa dẫn 
-dắt, vừa là đích đến cho hành trình 
-vươn tới của BIDV. Tất cả đều mang 
-một số 5 trong văn hóa phương 
-Đông, là con số của sự phát triển, là 
-khát vọng vươn ra 5 châu, hội nhập, 
-sánh vai cùng các định chế trong 
+Theo đó, Ngân hàng vẫn giữ nguyên
+tên đầy đủ là Ngân hàng TMCP Đầu
+tư và Phát triển Việt Nam, tên viết
+tắt là “BIDV” nhưng hình ảnh biểu
+tượng được điều chỉnh và khoác
+lên mình màu sắc nhận diện mới.
+Biểu tượng logo mới được lấy ý
+tưởng từ hình ảnh hoa mai vàng 5
+cánh là biểu tượng cho khí phách
+quật cường, bản lĩnh và tinh thần
+tiên phong, vượt lên mọi khó khăn,
+thử thách. Trung tâm là biểu tượng
+ngôi sao 5 cánh với ý nghĩa vừa dẫn
+dắt, vừa là đích đến cho hành trình
+vươn tới của BIDV. Tất cả đều mang
+một số 5 trong văn hóa phương
+Đông, là con số của sự phát triển, là
+khát vọng vươn ra 5 châu, hội nhập,
+sánh vai cùng các định chế trong
 khu vực và trên thế giới.
-Hình ảnh nhận diện thương hiệu 
-mới là biểu tượng cho 05 giá trị cốt 
-lõi, kết tinh từ ý chí, khát vọng, tình 
-yêu và lao động miệt mài của lớp 
-lớp cán bộ BIDV suốt 65 năm qua. 
-Đó là Trí tuệ, Niềm tin, Liêm chính, 
+Hình ảnh nhận diện thương hiệu
+mới là biểu tượng cho 05 giá trị cốt
+lõi, kết tinh từ ý chí, khát vọng, tình
+yêu và lao động miệt mài của lớp
+lớp cán bộ BIDV suốt 65 năm qua.
+Đó là Trí tuệ, Niềm tin, Liêm chính,
 Chuyên nghiệp và Khát vọng.
-Màu sắc nhận diện thương hiệu 
-chủ đạo là màu xanh ngọc lục bảo 
-- một trong tứ đại ngọc quý. Màu 
-xanh cũng tượng trưng cho sức 
-sống và phát triển bền vững, một 
-ngân hàng BIDV Xanh. Màu sắc bổ 
-trợ là màu vàng của hoa mai, màu 
-của ánh bình minh ngày mới. Màu 
-vàng cũng là màu sắc đại diện cho 
+Màu sắc nhận diện thương hiệu
+chủ đạo là màu xanh ngọc lục bảo
+- một trong tứ đại ngọc quý. Màu
+xanh cũng tượng trưng cho sức
+sống và phát triển bền vững, một
+ngân hàng BIDV Xanh. Màu sắc bổ
+trợ là màu vàng của hoa mai, màu
+của ánh bình minh ngày mới. Màu
+vàng cũng là màu sắc đại diện cho
 nghề tài chính ngân hàng.
-Logo BIDV gồm 2 phiên bản (logo 
-kết hợp thành tố Since 1957 và logo 
-nguyên bản) được ban hành kèm 
-theo bộ nhận diện thương hiệu 
-với hướng dẫn sử dụng cụ thể cho 
-từng trường hợp. 
-Phát biểu tại buổi lễ công bố điều 
-chỉnh nhận diện thương hiệu, ông 
-Lê Ngọc Lâm - Tổng Giám đốc BIDV 
-- khẳng định: “Với hoài bão, khát 
-vọng, sẵn sàng cho sự chuyển mình 
-mạnh mẽ trong thời đại kỷ nguyên 
-số và hội nhập quốc tế sâu rộng, 
-BIDV cần có một diện mạo mới, một 
-ngân hàng chuyên nghiệp, thân 
-thiện với sứ mệnh mang lại tiện ích 
-và lợi ích tốt nhất cho khách hàng, 
-cổ đông, người lao động và cộng 
+Logo BIDV gồm 2 phiên bản (logo
+kết hợp thành tố Since 1957 và logo
+nguyên bản) được ban hành kèm
+theo bộ nhận diện thương hiệu
+với hướng dẫn sử dụng cụ thể cho
+từng trường hợp.
+Phát biểu tại buổi lễ công bố điều
+chỉnh nhận diện thương hiệu, ông
+Lê Ngọc Lâm - Tổng Giám đốc BIDV
+- khẳng định: “Với hoài bão, khát
+vọng, sẵn sàng cho sự chuyển mình
+mạnh mẽ trong thời đại kỷ nguyên
+số và hội nhập quốc tế sâu rộng,
+BIDV cần có một diện mạo mới, một
+ngân hàng chuyên nghiệp, thân
+thiện với sứ mệnh mang lại tiện ích
+và lợi ích tốt nhất cho khách hàng,
+cổ đông, người lao động và cộng
 BIDV ÁP DỤNG NHẬN DIỆN THƯƠNG HIỆU MỚI
-đồng xã hội. Kỷ niệm 65 năm ngày 
-thành lập và bước vào giai đoạn 
-thực hiện chiến lược phát triển mới, 
-là thời điểm ý nghĩa để BIDV giới 
-thiệu một hình ảnh thương hiệu 
-mới tới công chúng, đối tác, khách 
-hàng, tạo xung lực mới, khí thế mới 
+đồng xã hội. Kỷ niệm 65 năm ngày
+thành lập và bước vào giai đoạn
+là thời điểm ý nghĩa để BIDV giới
+thiệu một hình ảnh thương hiệu
+mới tới công chúng, đối tác, khách
+hàng, tạo xung lực mới, khí thế mới
 cho toàn hệ thống”.
-Việc điều chỉnh nhận diện thương 
-hiệu là bước đi mạnh mẽ trong 
-chiến lược phát triển của BIDV phù 
-hợp với xu hướng chuyển đổi số và 
-hội nhập quốc tế. Trong thời gian 
-tới, BIDV tiếp tục có những chuyển 
-mình mạnh mẽ để cung cấp sản 
-phẩm dịch vụ chất lượng cao và 
-đồng hành, hợp tác, phát triển cùng 
+Việc điều chỉnh nhận diện thương
+hiệu là bước đi mạnh mẽ trong
+hợp với xu hướng chuyển đổi số và
+hội nhập quốc tế. Trong thời gian
+tới, BIDV tiếp tục có những chuyển
+mình mạnh mẽ để cung cấp sản
+phẩm dịch vụ chất lượng cao và
+đồng hành, hợp tác, phát triển cùng
 khách hàng và đối tác...
 Tổng Giám đốc BIDV Lê Ngọc Lâm công bố bộ nhận diện thương hiệu mới của BIDV
-Hội đồng quản trị, Ban Điều hành cùng toàn 
-thể cán bộ, nhân viên BIDV cần tiếp tục kế 
-thừa những thành tựu tốt đẹp đã đạt được 
-trong 65 năm qua và phát huy cao độ bản 
-lĩnh, trí tuệ, tinh thần đổi mới, sáng tạo để tiếp 
-tục đưa BIDV phát triển mạnh mẽ, an toàn, 
-hiệu quả, bền vững trong giai đoạn tới, xứng 
-đáng với vai trò là ngân hàng thương mại 
-hàng đầu, chủ đạo, dẫn dắt thị trường trong 
+Hội đồng quản trị, Ban Điều hành cùng toàn
+thể cán bộ, nhân viên BIDV cần tiếp tục kế
+thừa những thành tựu tốt đẹp đã đạt được
+trong 65 năm qua và phát huy cao độ bản
+lĩnh, trí tuệ, tinh thần đổi mới, sáng tạo để tiếp
+tục đưa BIDV phát triển mạnh mẽ, an toàn,
+hiệu quả, bền vững trong giai đoạn tới, xứng
+đáng với vai trò là ngân hàng thương mại
+hàng đầu, chủ đạo, dẫn dắt thị trường trong
 hệ thống ngân hàng Việt Nam...”
-Nhân dịp kỷ niệm 65 năm ngày truyền thống, BIDV đã công bố điều chỉnh nhận diện thương hiệu và chính thức 
+Nhân dịp kỷ niệm 65 năm ngày truyền thống, BIDV đã công bố điều chỉnh nhận diện thương hiệu và chính thức
 áp dụng từ ngày 26/4/2022.
-Trải qua 65 năm xây dựng và trưởng thành, 
-với phạm vi hoạt động toàn diện trên các 
-lĩnh vực ngân hàng, bảo hiểm, chứng khoán, 
-đầu tư tài chính, BIDV đã trở thành một ngân 
-hàng thương mại hàng đầu tại Việt Nam về 
-quy mô, chất lượng, hiệu quả, năng lực tài 
-chính, phát triển thể chế, đồng thời là một 
-trong những đơn vị đi đầu trong việc thực 
-hiện có hiệu quả chủ trương, chính sách của 
+Trải qua 65 năm xây dựng và trưởng thành,
+với phạm vi hoạt động toàn diện trên các
+lĩnh vực ngân hàng, bảo hiểm, chứng khoán,
+đầu tư tài chính, BIDV đã trở thành một ngân
+hàng thương mại hàng đầu tại Việt Nam về
+quy mô, chất lượng, hiệu quả, năng lực tài
+chính, phát triển thể chế, đồng thời là một
+trong những đơn vị đi đầu trong việc thực
+hiện có hiệu quả chủ trương, chính sách của
 Đảng và Nhà nước...
-LÊ MINH KHÁI 
-Bí thư Trung ương Đảng, 
+LÊ MINH KHÁI
+Bí thư Trung ương Đảng,
 Phó Thủ tướng Chính phủ
-Phát biểu chỉ đạo tại lễ kỷ niệm 65 năm thành lập BIDV, 
-đồng chí Lê Minh Khái - Bí thư Trung ương Đảng, Phó 
-Thủ tướng Chính phủ - biểu dương những nỗ lực to lớn, 
-thành tích xuất sắc và đóng góp tích cực của BIDV đối 
-với sự phát triển chung của đất nước. Phó Thủ tướng 
-Lê Minh Khái tin tưởng rằng: trong thời gian tới BIDV sẽ 
-tiếp tục phát huy truyền thống tốt đẹp và những thành 
-tựu to lớn trong 65 năm qua, tập trung khắc phục những 
-hạn chế, bất cập, vượt qua khó, khăn thách thức, nỗ lực 
-phấn đấu hoàn thành xuất sắc các nhiệm vụ được giao, 
-ngày càng trưởng thành, vững mạnh về mọi mặt, đóng 
-góp nhiều hơn nữa cho sự nghiệp xây dựng và bảo vệ 
+Phát biểu chỉ đạo tại lễ kỷ niệm 65 năm thành lập BIDV,
+đồng chí Lê Minh Khái - Bí thư Trung ương Đảng, Phó
+Thủ tướng Chính phủ - biểu dương những nỗ lực to lớn,
+thành tích xuất sắc và đóng góp tích cực của BIDV đối
+với sự phát triển chung của đất nước. Phó Thủ tướng
+Lê Minh Khái tin tưởng rằng: trong thời gian tới BIDV sẽ
+tiếp tục phát huy truyền thống tốt đẹp và những thành
+tựu to lớn trong 65 năm qua, tập trung khắc phục những
+hạn chế, bất cập, vượt qua khó, khăn thách thức, nỗ lực
+phấn đấu hoàn thành xuất sắc các nhiệm vụ được giao,
+ngày càng trưởng thành, vững mạnh về mọi mặt, đóng
+góp nhiều hơn nữa cho sự nghiệp xây dựng và bảo vệ
 Tổ quốc.
-Đồng chí Nguyễn Thị Hồng - Ủy viên Trung ương Đảng, 
-Thống đốc Ngân hàng Nhà nước Việt Nam - ghi nhận, 
-đánh giá cao về những thành tựu đáng tự hào mà các 
-thế hệ BIDV đã cùng nhau xây đắp. Thống đốc NHNN 
-chỉ rõ nhiệm vụ BIDV phải tập trung triển khai trong thời 
-gian tới, bao gồm: thực hiện Chiến lược phát triển kinh 
-doanh giai đoạn 2021 - 2025, đồng hành cùng hệ thống 
-ngân hàng hoàn thành Chiến lược ngành ngân hàng 
-Việt Nam đến năm 2025, định hướng năm 2030; tăng 
-cường năng lực quản trị hệ thống hướng đến thông lệ 
-và nâng cao chất lượng tín dụng; đổi mới và ứng dụng 
-công nghệ cao trong hoạt động ngân hàng; nâng cao 
+Đồng chí Nguyễn Thị Hồng - Ủy viên Trung ương Đảng,
+Thống đốc Ngân hàng Nhà nước Việt Nam - ghi nhận,
+đánh giá cao về những thành tựu đáng tự hào mà các
+thế hệ BIDV đã cùng nhau xây đắp. Thống đốc NHNN
+chỉ rõ nhiệm vụ BIDV phải tập trung triển khai trong thời
+doanh giai đoạn 2021 - 2025, đồng hành cùng hệ thống
+ngân hàng hoàn thành Chiến lược ngành ngân hàng
+Việt Nam đến năm 2025, định hướng năm 2030; tăng
+cường năng lực quản trị hệ thống hướng đến thông lệ
+và nâng cao chất lượng tín dụng; đổi mới và ứng dụng
+công nghệ cao trong hoạt động ngân hàng; nâng cao
 năng lực tài chính...
-Với thành tựu và truyền thống tốt đẹp đã đạt được 
-trong 65 năm qua; với bản lĩnh, trí tuệ, tinh thần đoàn 
-kết, sáng tạo của các thế hệ lãnh đạo và nhân viên BIDV; 
-với tiềm lực tài chính, công nghệ và nguồn nhân lực chất 
-lượng cao; với vận hội từ cuộc Cách mạng công nghệ 
-lần thứ 4, BIDV quyết tâm triển khai quyết liệt, hiệu quả 
-chủ trương của Đảng, Nhà nước, hoàn thành xuất sắc 
-trọng trách mà Đảng, Nhà nước và Ngành ngân hàng 
-tin tưởng giao phó, góp phần tích cực vào sự nghiệp đổi 
-mới, phát triển kinh tế - xã hội và hội nhập quốc tế của 
+Với thành tựu và truyền thống tốt đẹp đã đạt được
+trong 65 năm qua; với bản lĩnh, trí tuệ, tinh thần đoàn
+kết, sáng tạo của các thế hệ lãnh đạo và nhân viên BIDV;
+với tiềm lực tài chính, công nghệ và nguồn nhân lực chất
+lượng cao; với vận hội từ cuộc Cách mạng công nghệ
+lần thứ 4, BIDV quyết tâm triển khai quyết liệt, hiệu quả
+chủ trương của Đảng, Nhà nước, hoàn thành xuất sắc
+trọng trách mà Đảng, Nhà nước và Ngành ngân hàng
+tin tưởng giao phó, góp phần tích cực vào sự nghiệp đổi
+mới, phát triển kinh tế - xã hội và hội nhập quốc tế của
 đất nước.
-NGUYỄN THỊ HỒNG 
-Ủy viên Trung ương Đảng, 
+NGUYỄN THỊ HỒNG
+Ủy viên Trung ương Đảng,
 Thống đốc NHNN Việt Nam
 65 NĂM PHÁT TRIỂN
 CÙNG ĐẤT NƯỚC
 (tiếp theo)
 
-26/04/1957
-26/04/2022
-27/05/1957
-11/01/2021
-15/11/1976
-11/11/2019
-24/06/1981
-25/05/2015
-14/11/1990
-24/01/2014
-01/01/1995
-01/05/2012
-23/03/1996
-28/12/2011
-27/12/2000
-25/04/2007
-Thành lập với tên gọi Ngân hàng Kiến thiết 
+Thành lập với tên gọi Ngân hàng Kiến thiết
 Việt Nam, trực thuộc Bộ Tài chính
-Chính thức áp dụng 
+Chính thức áp dụng
 nhận diện thương hiệu mới
-Ban hành “Chiến lược phát triển 
-kinh doanh của BIDV đến năm 2025, 
+kinh doanh của BIDV đến năm 2025,
 tầm nhìn 2030”
-Hoàn thành giao dịch chiến lược với 
-Tập đoàn Tài chính Hana (Hàn Quốc) và công 
-bố Hana Bank trở thành cổ đông chiến lược 
+Hoàn thành giao dịch chiến lược với
+Tập đoàn Tài chính Hana (Hàn Quốc) và công
+bố Hana Bank trở thành cổ đông chiến lược
 nước ngoài sở hữu 15% vốn điều lệ của BIDV
-Sáp nhập thành công Ngân hàng TMCP 
-Phát triển Nhà đồng bằng Sông Cửu Long 
+Sáp nhập thành công Ngân hàng TMCP
+Phát triển Nhà đồng bằng Sông Cửu Long
 (MHB) vào hệ thống BIDV
-Cổ phiếu BIDV (mã BID) chính thức 
+Cổ phiếu BIDV (mã BID) chính thức
 niêm yết trên sàn chứng khoán
-Thành lập 11 Chi nhánh  
+Thành lập 11 Chi nhánh
 Ngân hàng Kiến thiết đầu tiên
 Mở rộng quy mô hoạt động ra toàn quốc
-Đổi tên thành Ngân hàng Đầu tư  
-và Xây dựng Việt Nam, trực thuộc 
-Ngân hàng Nhà nước Việt Nam 
-Chính thức chuyển đổi hoạt động theo 
+Đổi tên thành Ngân hàng Đầu tư
+và Xây dựng Việt Nam, trực thuộc
+Ngân hàng Nhà nước Việt Nam
+Chính thức chuyển đổi hoạt động theo
 mô hình Ngân hàng thương mại
-Chính thức chuyển đổi thành Ngân 
-hàng thương mại cổ phần Đầu tư và 
+Chính thức chuyển đổi thành Ngân
+hàng thương mại cổ phần Đầu tư và
 Phát triển Việt Nam
-Trở thành Doanh nghiệp 
+Trở thành Doanh nghiệp
 Nhà nước hạng đặc biệt
-Phát hành cổ phiếu lần đầu 
+Phát hành cổ phiếu lần đầu
 ra công chúng (IPO)
 Đón nhận Huân chương Hồ Chí Minh
-Đổi tên thành Ngân hàng Đầu tư và Phát triển Việt Nam 
-Đón nhận Danh hiệu 
+Đổi tên thành Ngân hàng Đầu tư và Phát triển Việt Nam
+Đón nhận Danh hiệu
 “Anh hùng Lao động thời kỳ đổi mới”
 LỊCH SỬ
-HÌNH THÀNH VÀ PHÁT TRIỂN 
-25
+HÌNH THÀNH VÀ PHÁT TRIỂN
 TỔNG QUAN BIDV 2022
-24 BÁO CÁO THƯỜNG NIÊN 2022
 
-32 BÁO CÁO THƯỜNG NIÊN 2022
-Bên cạnh các ưu đãi về dịch vụ, BIDV luôn dành ưu 
-tiên cấp tín dụng cho đối tượng doanh nghiệp XNK 
-với các gói tín dụng ưu đãi và các điều kiện tín dụng 
-linh hoạt. Đồng thời, BIDV triển khai nhiều hình thức 
-sản phẩm tài trợ thương mại với điều kiện tài sản bảo 
-đảm linh hoạt như tín chấp, thế chấp khoản phải thu 
-từ hợp đồng xuất khẩu, lô hàng nhập… nhằm đáp 
-ứng kịp thời nhu cầu doanh nghiệp. Đặc biệt, các sản 
-phẩm dịch vụ thanh toán quốc tế, tài trợ thương mại 
-đã được số hóa, cho phép khách hàng doanh nghiệp 
-gửi hồ sơ giao dịch và tiếp nhận, theo dõi kết quả xử 
-lý từ ngân hàng qua chương trình ngân hàng điện tử 
+Bên cạnh các ưu đãi về dịch vụ, BIDV luôn dành ưu
+tiên cấp tín dụng cho đối tượng doanh nghiệp XNK
+với các gói tín dụng ưu đãi và các điều kiện tín dụng
+linh hoạt. Đồng thời, BIDV triển khai nhiều hình thức
+sản phẩm tài trợ thương mại với điều kiện tài sản bảo
+đảm linh hoạt như tín chấp, thế chấp khoản phải thu
+từ hợp đồng xuất khẩu, lô hàng nhập… nhằm đáp
+ứng kịp thời nhu cầu doanh nghiệp. Đặc biệt, các sản
+phẩm dịch vụ thanh toán quốc tế, tài trợ thương mại
+đã được số hóa, cho phép khách hàng doanh nghiệp
+gửi hồ sơ giao dịch và tiếp nhận, theo dõi kết quả xử
+lý từ ngân hàng qua chương trình ngân hàng điện tử
 BIDV iBank.
-Danh mục sản phẩm tài trợ thương mại (TTTM) của 
-BIDV đầy đủ, đa dạng, cơ chế sản phẩm tiêu chuẩn 
-theo thông lệ quốc tế: Thư tín dụng (L/C), nhờ thu, 
-chiết khấu hối phiếu đòi nợ, Forfaiting… Mạng lưới 
-ngân hàng đại lý/thị trường thanh toán quốc tế rộng 
-đem lại nhiều lợi thế cho BIDV trong triển khai, cung 
+Danh mục sản phẩm tài trợ thương mại (TTTM) của
+BIDV đầy đủ, đa dạng, cơ chế sản phẩm tiêu chuẩn
+theo thông lệ quốc tế: Thư tín dụng (L/C), nhờ thu,
+chiết khấu hối phiếu đòi nợ, Forfaiting… Mạng lưới
+ngân hàng đại lý/thị trường thanh toán quốc tế rộng
+đem lại nhiều lợi thế cho BIDV trong triển khai, cung
 cấp dịch vụ TTTM cho khách hàng.
-SẢN PHẨM 
+SẢN PHẨM
 TÀI TRỢ THƯƠNG MẠI
-SẢN PHẨM  
+SẢN PHẨM
 TÍN DỤNG XANH
-SẢN PHẨM  
+SẢN PHẨM
 TÍN DỤNG NGÀNH
-BIDV thiết kế riêng các gói sản phẩm tín dụng theo 
-ngành phù hợp với đặc thù về nhu cầu vốn, mô hình kinh 
-doanh của từng ngành; cung cấp các giải pháp trọn gói, 
-đóng gói sản phẩm dịch vụ (all-in-one) kèm ưu đãi giá 
-phí để đáp ứng tổng thể các nhu cầu về sản phẩm dịch 
+BIDV thiết kế riêng các gói sản phẩm tín dụng theo
+ngành phù hợp với đặc thù về nhu cầu vốn, mô hình kinh
+doanh của từng ngành; cung cấp các giải pháp trọn gói,
+đóng gói sản phẩm dịch vụ (all-in-one) kèm ưu đãi giá
+phí để đáp ứng tổng thể các nhu cầu về sản phẩm dịch
 vụ Ngân hàng của khách hàng trong từng ngành.
-Với định hướng phát triển bền vững, BIDV có tầm nhìn 
-chiến lược rõ ràng về phát triển tín dụng xanh, ngân 
-hàng xanh, luôn ưu tiên tập trung vốn tín dụng tài trợ 
-các dự án tín dụng xanh và đã đạt được những kết 
-quả rất tích cực. BIDV đã tăng cường hợp tác với các 
-tổ chức quốc tế trong lĩnh vực phát triển bền vững, 
-để hỗ trợ triển khai nguồn vốn xanh và bền vững về 
-Việt Nam. BIDV là định chế tài chính trong nước đầu 
-tiên hợp tác với Bộ Tài nguyên và Môi trường, xây 
-dựng các giải pháp và hành động cụ thể nhằm hướng 
-đến thực hiện các mục tiêu chiến lược về bảo vệ môi 
-trường, ứng phó với biến đổi khí hậu, thúc đẩy phát 
-triển tài chính xanh bền vững. 
-BIDV hiện là ngân hàng dẫn đầu thị trường về tài trợ 
-các dự án xanh với hàng ngàn khách hàng và dự án. 
-Dư nợ tín dụng xanh tập trung chủ yếu vào lĩnh vực 
-năng lượng tái tạo nhằm hướng tới mục tiêu phát triển 
+Với định hướng phát triển bền vững, BIDV có tầm nhìn
+chiến lược rõ ràng về phát triển tín dụng xanh, ngân
+hàng xanh, luôn ưu tiên tập trung vốn tín dụng tài trợ
+các dự án tín dụng xanh và đã đạt được những kết
+quả rất tích cực. BIDV đã tăng cường hợp tác với các
+tổ chức quốc tế trong lĩnh vực phát triển bền vững,
+để hỗ trợ triển khai nguồn vốn xanh và bền vững về
+Việt Nam. BIDV là định chế tài chính trong nước đầu
+tiên hợp tác với Bộ Tài nguyên và Môi trường, xây
+dựng các giải pháp và hành động cụ thể nhằm hướng
+đến thực hiện các mục tiêu chiến lược về bảo vệ môi
+trường, ứng phó với biến đổi khí hậu, thúc đẩy phát
+triển tài chính xanh bền vững.
+BIDV hiện là ngân hàng dẫn đầu thị trường về tài trợ
+các dự án xanh với hàng ngàn khách hàng và dự án.
+Dư nợ tín dụng xanh tập trung chủ yếu vào lĩnh vực
+năng lượng tái tạo nhằm hướng tới mục tiêu phát triển
 bền vững của cộng đồng.
-Trong giai đoạn dịch bệnh Covid-19 diễn biến phức 
-tạp, nguy cơ đứt gãy chuỗi cung ứng luôn hiện hữu, 
-nhu cầu về sản phẩm dịch vụ hỗ trợ các doanh nghiệp 
-trong chuỗi ngày càng tăng. BIDV là một trong các 
-ngân hàng tiên phong đẩy mạnh triển khai, xây dựng 
-giải pháp phù hợp, đáp ứng nhu cầu của doanh nghiệp 
-theo từng chuỗi khác nhau, nhanh chóng hỗ trợ doanh 
-nghiệp bổ sung vốn, kết nối mạng lưới, ổn định sản 
-xuất kinh doanh. 
-Theo đó, BIDV cung cấp các giải pháp tài trợ vốn lưu 
-động cho các doanh nghiệp trong chuỗi dựa trên sự 
-liên kết, chính sách mua bán hàng và thanh toán, chính 
-sách hỗ trợ/cam kết của doanh nghiệp trung tâm 
-nhằm thúc đẩy hoạt động kinh doanh của chuỗi cung 
-ứng, qua đó hỗ trợ tăng doanh số bán hàng và tối ưu 
-hóa dòng tiền luân chuyển trong chuỗi, hỗ trợ doanh 
+Trong giai đoạn dịch bệnh Covid-19 diễn biến phức
+tạp, nguy cơ đứt gãy chuỗi cung ứng luôn hiện hữu,
+nhu cầu về sản phẩm dịch vụ hỗ trợ các doanh nghiệp
+trong chuỗi ngày càng tăng. BIDV là một trong các
+ngân hàng tiên phong đẩy mạnh triển khai, xây dựng
+giải pháp phù hợp, đáp ứng nhu cầu của doanh nghiệp
+theo từng chuỗi khác nhau, nhanh chóng hỗ trợ doanh
+nghiệp bổ sung vốn, kết nối mạng lưới, ổn định sản
+xuất kinh doanh.
+Theo đó, BIDV cung cấp các giải pháp tài trợ vốn lưu
+động cho các doanh nghiệp trong chuỗi dựa trên sự
+liên kết, chính sách mua bán hàng và thanh toán, chính
+sách hỗ trợ/cam kết của doanh nghiệp trung tâm
+nhằm thúc đẩy hoạt động kinh doanh của chuỗi cung
+ứng, qua đó hỗ trợ tăng doanh số bán hàng và tối ưu
+hóa dòng tiền luân chuyển trong chuỗi, hỗ trợ doanh
 nghiệp hình thành chuỗi cung ứng bền vững.
-Đến nay, BIDV là ngân hàng duy nhất tại Việt Nam 
-được Ngân hàng Phát triển Châu Á (ADB) lựa chọn 
-tài trợ dự án Hỗ trợ kỹ thuật để xây dựng, thiết kế và 
-triển khai mô hình kinh doanh Tài trợ chuỗi cung ứng. 
-Với sự hỗ trợ của ADB, trong năm 2022, BIDV đã chuẩn 
-hóa các sản phẩm tài trợ chuỗi cung ứng (Tài trợ nhà 
-phân phối, Tài trợ nhà cung cấp) hướng tới thông lệ 
-quốc tế và đáp ứng nhu cầu thị trường. Theo đó BIDV 
-đẩy mạnh triển khai, tiếp thị sản phẩm và cung cấp 
-giải pháp cho hàng chục chuỗi cung ứng là các Doanh 
-nghiệp trung tâm đầu ngành trong các lĩnh vực tiềm 
-năng (Thức ăn chăn nuôi, Bia rượu thực phẩm, Vật liệu 
-xây dựng, Xây lắp, Viễn thông, Xăng dầu/hóa chất, ô 
-tô/điện tử,…) cũng như khách hàng vệ tinh là nhà cung 
-cấp, nhà phân phối (bao gồm cả KHDN trong nước và 
-KHDN nước ngoài). 
-SẢN PHẨM TÀI TRỢ 
+Đến nay, BIDV là ngân hàng duy nhất tại Việt Nam
+được Ngân hàng Phát triển Châu Á (ADB) lựa chọn
+tài trợ dự án Hỗ trợ kỹ thuật để xây dựng, thiết kế và
+triển khai mô hình kinh doanh Tài trợ chuỗi cung ứng.
+Với sự hỗ trợ của ADB, trong năm 2022, BIDV đã chuẩn
+hóa các sản phẩm tài trợ chuỗi cung ứng (Tài trợ nhà
+phân phối, Tài trợ nhà cung cấp) hướng tới thông lệ
+quốc tế và đáp ứng nhu cầu thị trường. Theo đó BIDV
+đẩy mạnh triển khai, tiếp thị sản phẩm và cung cấp
+giải pháp cho hàng chục chuỗi cung ứng là các Doanh
+nghiệp trung tâm đầu ngành trong các lĩnh vực tiềm
+năng (Thức ăn chăn nuôi, Bia rượu thực phẩm, Vật liệu
+xây dựng, Xây lắp, Viễn thông, Xăng dầu/hóa chất, ô
+tô/điện tử,…) cũng như khách hàng vệ tinh là nhà cung
+cấp, nhà phân phối (bao gồm cả KHDN trong nước và
+KHDN nước ngoài).
+SẢN PHẨM TÀI TRỢ
 CHUỖI CUNG ỨNG
 KHỐI NGÂN HÀNG BÁN BUÔN
-33
 TỔNG QUAN BIDV 2022
 SẢN PHẨM CHÍNH
 VÀ NỔI BẬT
 (tiếp theo)
 
-36
-37
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-44.256
-48.121
-50.037
-62.494
-69.582
 TỔNG TÀI SẢN
-TỔNG THU NHẬP  
+TỔNG THU NHẬP
 HOẠT ĐỘNG
-VỐN CHỦ SỞ HỮU 
-2018
-1.312.866
-989.671
-1.489.957
-1.114.163
-1.516.686
-1.226.674
-1.761.696
-1.380.398
-2.120.609
-1.473.598
-2019
-2020
-2021
-2022
-2018
-2019
-2020
-2021
-2022
-tỷ đồng
-tỷ đồng
-2018
-2019
-2020
-2021
-2022
-tỷ đồng
-69.582 
-11,3%
-tỷ đồng
-2.120.609
-tỷ đồng
-104.190
-20,7%
-tỷ đồng
-BIDV tiếp tục khẳng định vị thế hàng đầu với quy mô 
-tổng tài sản lớn nhất trong số các ngân hàng thương 
-mại cổ phần tại Việt Nam, là ngân hàng thương mại 
+VỐN CHỦ SỞ HỮU
+BIDV tiếp tục khẳng định vị thế hàng đầu với quy mô
+tổng tài sản lớn nhất trong số các ngân hàng thương
+mại cổ phần tại Việt Nam, là ngân hàng thương mại
 đầu tiên đạt mốc quy mô trên 2 triệu tỷ đồng.
 CHO VAY KHÁCH HÀNG
-2018
-2019
-2020
-2021
-2022
-1.522.222
-tỷ đồng
-tỷ đồng
-	• Tổng dư nợ tín dụng và đầu tư đạt 1.985.375 tỷ đồng, tăng 
-trưởng 18,4% so với năm 2021, trong đó dư nợ tín dụng đạt 
-1.534.242 tỷ đồng, tăng trưởng 12,1%, đảm bảo tuân thủ giới 
-hạn tín dụng NHNN giao. 
-	• Cho vay khách hàng năm 2022 đạt 1.522.222 tỷ đồng, tăng 
+• Tổng dư nợ tín dụng và đầu tư đạt 1.985.375 tỷ đồng, tăng
+trưởng 18,4% so với năm 2021, trong đó dư nợ tín dụng đạt
+1.534.242 tỷ đồng, tăng trưởng 12,1%, đảm bảo tuân thủ giới
+hạn tín dụng NHNN giao.
+• Cho vay khách hàng năm 2022 đạt 1.522.222 tỷ đồng, tăng
 trưởng 12,4% so với năm 2021.
-Tăng trưởng 11,3% so với năm 2021, là Ngân hàng 
-thương mại cổ phần có quy mô chênh lệch thu chi 
+Tăng trưởng 11,3% so với năm 2021, là Ngân hàng
+thương mại cổ phần có quy mô chênh lệch thu chi
 đứng đầu thị trường.
 TIỀN GỬI KHÁCH HÀNG
-2018
-2019
-2020
-2021
-2022
-tỷ đồng
-1.473.598
-6,8%
-12,4%
-tỷ đồng
-	• Huy động vốn tổ chức và dân cư đạt 1.636.341 tỷ đồng, tăng 
-8,4% so với năm 2021, chiếm gần 14% thị phần tiền gửi toàn 
+• Huy động vốn tổ chức và dân cư đạt 1.636.341 tỷ đồng, tăng
+8,4% so với năm 2021, chiếm gần 14% thị phần tiền gửi toàn
 ngành ngân hàng.
-	• Tiền gửi khách hàng đạt 1.473.598 tỷ đồng, tăng trưởng 
+• Tiền gửi khách hàng đạt 1.473.598 tỷ đồng, tăng trưởng
 6,8% so với năm 2021.
 Tăng trưởng 20,7% so với năm 2021.
-54.490
-988.739
-77.653
-1.116.998
-79.647
-1.214.296
-86.329
-1.354.633
-104.190
-1.522.222
-20,4%
 LỢI NHUẬN TRƯỚC THUẾ
-2018
-2019
-2020
-2021
-2022
-23.009
-tỷ đồng
-	• Lợi nhuận trước thuế năm 2022 vượt kế hoạch tài chính 
-Ngân hàng nhà nước và Đại hội đồng cổ đông giao. 
-	• Trích dự phòng rủi ro đầy đủ theo quy định (bao gồm trích 
-dự phòng cho dư nợ thông thường và trích 100% dự phòng 
-rủi ro cho nợ cơ cấu theo Thông tư 01, Thông tư 03, Thông 
-tư 04).
-9.391
-10.732
-9.026
-13.548
-23.009
-69,8%
-tỷ đồng
-CHỈ SỐ 
+• Lợi nhuận trước thuế năm 2022 vượt kế hoạch tài chính
+Ngân hàng nhà nước và Đại hội đồng cổ đông giao.
+• Trích dự phòng rủi ro đầy đủ theo quy định (bao gồm trích
+dự phòng cho dư nợ thông thường và trích 100% dự phòng
+rủi ro cho nợ cơ cấu theo Thông tư 01, Thông tư 03, Thông
 HOẠT ĐỘNG CƠ BẢN
 
-40
-41
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
 ĐẠI HỘI ĐỒNG CỔ ĐÔNG
 HỘI ĐỒNG QUẢN TRỊ
@@ -740,9 +648,8 @@ Ban Quản trị chiến lược
 Ủy ban CNTT
 Hội đồng rủi ro
 Các Hội đồng khác
-Ủy ban Hợp tác chiến lược 
+Ủy ban Hợp tác chiến lược
 BIDV - Hana Bank
-Hội đồng ALCO
 Hội đồng Quản lý vốn
 Khối
 Ngân hàng bán buôn
@@ -750,9 +657,9 @@ Khối
 Ngân hàng bán lẻ
 Khối
 Kinh doanh Vốn và Tiền tệ
-Khối 
+Khối
 CNTT và Ngân hàng số
-Khối 
+Khối
 Quản lý rủi ro
 Khối
 Thẩm định và Phê duyệt
@@ -764,28 +671,28 @@ Khối
 Tài chính Kế toán
 Khối
 Hỗ trợ
-Khối Pháp chế 
+Khối Pháp chế
 và Kiểm soát tuân thủ
 Trung tâm Xử lý nợ
 Công ty CP Cho thuê
 máy bay Việt Nam
 LIÊN KẾT
-Công ty TNHH lương thực 
+Công ty TNHH lương thực
 Campuchia - Việt Nam(*)
-Công ty TNHH MTV Quản lý 
+Công ty TNHH MTV Quản lý
 nợ và khai thác tài sản BIDV
 CÔNG TY TRỰC THUỘC
-Công ty CP 
+Công ty CP
 Chứng khoán BIDV
-Công ty CP 
+Công ty CP
 Chứng khoán MHBS
-Ngân hàng Đấu tư và 
+Ngân hàng Đấu tư và
 Phát triển Campuchia
 Công ty Liên doanh
 bảo hiểm Lào Việt (*)
 Ngân hàng Liên doanh
 Lào - Việt
-Công ty Cho thuê tài chính 
+Công ty Cho thuê tài chính
 TNHH BIDV - Sumi Trust
 Công ty Bảo hiểm
 Campuchia - Việt Nam (*)
@@ -794,8 +701,8 @@ Campuchia - Việt Nam (*)
 Tổng Công ty CP
 Bảo hiểm BIDV
 LIÊN DOANH
-Công ty TNHH Bảo hiểm 
-nhân thọ BIDV Metlife 
+Công ty TNHH Bảo hiểm
+nhân thọ BIDV Metlife
 Công ty Liên doanh
 Tháp BIDV
 Ngân hàng Liên doanh
@@ -805,11 +712,11 @@ tại Hội sở chính
 NGÂN HÀNG THƯƠNG MẠI
 Các Văn phòng
 Đại diện
-Viện Đào tạo 
+Viện Đào tạo
 và Nghiên cứu BIDV
 Các Chi nhánh
 Trung tâm CNTT
-Trung tâm Dịch vụ kho quỹ 
+Trung tâm Dịch vụ kho quỹ
 Phía Nam
 NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
 CƠ CẤU TỔ CHỨC
@@ -830,61 +737,58 @@ CƠ CẤU TỔ CHỨC CHI NHÁNH
 CƠ CẤU TỔ CHỨC
 MÔ HÌNH QUẢN TRỊ
 
-44
-45
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-	• Sinh năm 1962.
-	• Cử nhân Kinh tế.
-	• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và 
+• Sinh năm 1962.
+• Cử nhân Kinh tế.
+• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và
 Phát triển Việt Nam từ ngày 27/12/2019.
-	• Từng giữ các chức vụ: Phó Tổng Giám đốc Tập đoàn Tài chính 
-Hana; Giám đốc Khối Chiến lược Toàn cầu, Tập đoàn Tài chính 
-Hana; Giám đốc điều hành phụ trách Khối Kinh Doanh Toàn Cầu, 
+• Từng giữ các chức vụ: Phó Tổng Giám đốc Tập đoàn Tài chính
+Hana; Giám đốc Khối Chiến lược Toàn cầu, Tập đoàn Tài chính
+Hana; Giám đốc điều hành phụ trách Khối Kinh Doanh Toàn Cầu,
 Ngân hàng Hana.
-	• Sinh năm 1968.
-	• Thạc sỹ Tài chính ngân hàng.
-	• Bắt đầu làm việc tại BIDV từ năm 1998.
-	• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và Phát triển 
-Việt Nam từ ngày 01/06/2015. 
-	• Hiện kiêm chức vụ: Chủ tịch HĐQT Công ty cổ phần chứng khoán 
-BIDV (BSC), Chủ tịch Công ty TNHH 01 thành viên quản lý nợ và khai 
+• Sinh năm 1968.
+• Thạc sỹ Tài chính ngân hàng.
+• Bắt đầu làm việc tại BIDV từ năm 1998.
+• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và Phát triển
+Việt Nam từ ngày 01/06/2015.
+• Hiện kiêm chức vụ: Chủ tịch HĐQT Công ty cổ phần chứng khoán
+BIDV (BSC), Chủ tịch Công ty TNHH 01 thành viên quản lý nợ và khai
 thác tài sản (BAMC).
-	• Từng giữ các chức vụ: Giám đốc Ban Quản lý rủi ro BIDV; Giám đốc 
-Chi nhánh BIDV Hà Nội. 
-	• Sinh năm 1960.
-	• Tiến sỹ Kinh tế.
-	• Được bầu làm Ủy viên HĐQT độc lập Ngân hàng TMCP Đầu tư và 
+• Từng giữ các chức vụ: Giám đốc Ban Quản lý rủi ro BIDV; Giám đốc
+Chi nhánh BIDV Hà Nội.
+• Sinh năm 1960.
+• Tiến sỹ Kinh tế.
+• Được bầu làm Ủy viên HĐQT độc lập Ngân hàng TMCP Đầu tư và
 Phát triển Việt Nam từ ngày 29/04/2022.
-	• Từng đảm nhiệm vị trí: Vụ trưởng Vụ Tổ chức cán bộ - Ngân hàng 
-Nhà nước Việt Nam; Chủ tịch Hội đồng quản trị Bảo hiểm Tiền gửi 
+• Từng đảm nhiệm vị trí: Vụ trưởng Vụ Tổ chức cán bộ - Ngân hàng
+Nhà nước Việt Nam; Chủ tịch Hội đồng quản trị Bảo hiểm Tiền gửi
 Việt Nam; Phó Tổng giám đốc Ngân hàng Công thương Việt Nam.
-	• Sinh năm 1965.
-	• Thạc sỹ Quản trị Kinh doanh.
-	• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và 
+• Sinh năm 1965.
+• Thạc sỹ Quản trị Kinh doanh.
+• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và
 Phát triển Việt Nam từ ngày 07/03/2020.
-	• Hiện kiêm chức vụ: Chủ tịch HĐQT Ngân hàng Đầu tư và Phát triển 
-Campuchia (BIDC). 
-	• Từng giữ các chức vụ: Phó Tổng Giám đốc BIDV, Giám đốc 
-Chi nhánh BIDV Thành phố Hồ Chí Minh, Giám đốc Ban Quản lý 
+• Hiện kiêm chức vụ: Chủ tịch HĐQT Ngân hàng Đầu tư và Phát triển
+Campuchia (BIDC).
+• Từng giữ các chức vụ: Phó Tổng Giám đốc BIDV, Giám đốc
+Chi nhánh BIDV Thành phố Hồ Chí Minh, Giám đốc Ban Quản lý
 rủi ro tín dụng BIDV.
-	• Sinh năm 1971.
-	• Kỹ sư kinh tế, Cử nhân Luật.
-	• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và 
+• Sinh năm 1971.
+• Kỹ sư kinh tế, Cử nhân Luật.
+• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và
 Phát triển Việt Nam từ ngày 21/04/2018.
-	• Từng giữ các chức vụ: Phó Chủ tịch HĐTV Công ty cho thuê 
-tài chính TNHH BIDV – SUMITRUST (BSL), Chủ tịch HĐQT 
-Ngân hàng Phát triển Việt Nam (VDB), Phó Tổng Giám đốc BIDV, 
-Chủ tịch HĐQT kiêm Tổng Giám đốc Tổng Công ty Bảo hiểm 
+• Từng giữ các chức vụ: Phó Chủ tịch HĐTV Công ty cho thuê
+tài chính TNHH BIDV – SUMITRUST (BSL), Chủ tịch HĐQT
+Ngân hàng Phát triển Việt Nam (VDB), Phó Tổng Giám đốc BIDV,
+Chủ tịch HĐQT kiêm Tổng Giám đốc Tổng Công ty Bảo hiểm
 BIDV.
-	• Sinh năm 1965.
-	• Cử nhân Kinh tế.
-	• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và Phát triển 
+• Sinh năm 1965.
+• Cử nhân Kinh tế.
+• Được bầu làm Ủy viên HĐQT Ngân hàng TMCP Đầu tư và Phát triển
 Việt Nam từ ngày 07/03/2020.
-	• Hiện kiêm chức vụ: Chủ tịch HĐQT Tổng Công ty bảo hiểm BIDV, 
-Chủ tịch Công ty Cổ phần Bất động sản và xây dựng nhà Mê Kông 
+• Hiện kiêm chức vụ: Chủ tịch HĐQT Tổng Công ty bảo hiểm BIDV,
+Chủ tịch Công ty Cổ phần Bất động sản và xây dựng nhà Mê Kông
 (MHBR).
-	• Từng giữ các chức vụ: Phó Tổng Giám đốc BIDV, Giám đốc Ban 
+• Từng giữ các chức vụ: Phó Tổng Giám đốc BIDV, Giám đốc Ban
 Tổ chức cán bộ.
 Ông Yoo Je Bong - Ủy viên HĐQT
 Ông Ngô Văn Dũng  - Ủy viên HĐQT
@@ -895,1409 +799,1130 @@ Tổ chức cán bộ.
 (tiếp theo)
 HỘI ĐỒNG QUẢN TRỊ
 
-46
-47
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Ban Điều hành chịu trách nhiệm quản lý công việc hàng ngày của BIDV theo 
+Ban Điều hành chịu trách nhiệm quản lý công việc hàng ngày của BIDV theo
 Điều lệ của BIDV. Ban Điều hành chịu sự giám sát của HĐQT.
-Ban Điều hành có các hội đồng là Hội đồng Quản lý Tài sản Nợ - Tài sản Có, 
-Hội đồng Rủi ro, Hội đồng quản lý vốn,… 
+Ban Điều hành có các hội đồng là Hội đồng Quản lý Tài sản Nợ - Tài sản Có,
+Hội đồng Rủi ro, Hội đồng quản lý vốn,…
 Các thành viên Ban Điều hành chuyên trách làm việc tại BIDV tính đến ngày 31 tháng 12 năm 2022 bao gồm:
 HỌ VÀ TÊN
 CHỨC VỤ
-SỐ LƯỢNG  
+SỐ LƯỢNG
 CỔ PHIẾU
-TỶ LỆ  
-SỞ HỮU (%)
 Ông LÊ NGỌC LÂM
 Ủy viên HĐQT kiêm Tổng Giám đốc
-909
-0,00002
 Ông QUÁCH HÙNG HIỆP
 Phó Tổng Giám đốc
-44.118
-0,0009
 Ông TRẦN PHƯƠNG
 Phó Tổng Giám đốc
-26.596
-0,0005
 Ông LÊ TRUNG THÀNH
 Phó Tổng Giám đốc
-2.832
-0,000056
 Ông NGUYỄN THIÊN HOÀNG
 Phó Tổng Giám đốc
-3
-0,00..1
 Ông HOÀNG VIỆT HÙNG
 Phó Tổng Giám đốc
-10
-0,00..2
 Ông TRẦN LONG
 Phó Tổng Giám đốc
-0
-0
 Ông PHAN THANH HẢI
 Phó Tổng Giám đốc
-6
-0,00..1
 Bà NGUYỄN THỊ QUỲNH GIAO
 Phó Tổng Giám đốc
-3
-0,00..1
 Ông SUNG KI JUNG
 Thành viên Ban điều hành
-0
-0
 Ông TỪ QUỐC HỌC
 Trưởng khối Pháp chế và Kiểm soát tuân thủ
-0
-0
 Bà TẠ THỊ HẠNH
 Kế toán trưởng
-2.833
-0.00006
-	• Sinh năm 1969. 
-	• Tiến sỹ Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 1991. 
-	• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng Đầu tư và 
-Phát triển Việt Nam từ tháng 10/2010 và được bổ nhiệm là Phó 
-Tổng Giám đốc Ngân hàng TMCP Đầu tư và Phát triển Việt Nam 
-từ ngày 01/05/2012.
-	• Hiện kiêm chức vụ: Chủ tịch HĐQT Ngân hàng liên doanh Lào Việt 
-(LVB).
-	• Từng giữ các chức vụ: Giám đốc Sở giao dịch III BIDV, Phó Tổng 
-Giám đốc Ngân hàng Liên doanh Lào - Việt, Giám đốc Ban Nguồn 
-vốn và kinh doanh tiền tệ Trụ sở chính BIDV. 
-	• Sinh năm 1973.
-	• Thạc sỹ Tài chính ngân hàng.
-	• Bắt đầu làm việc tại BIDV từ năm 1997.
-	• Được bổ nhiệm là Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư 
+• Sinh năm 1969.
+• Tiến sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 1991.
+• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng Đầu tư và
+Phát triển Việt Nam từ tháng 10/2010 và được bổ nhiệm là Phó
+Tổng Giám đốc Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
+• Hiện kiêm chức vụ: Chủ tịch HĐQT Ngân hàng liên doanh Lào Việt
+• Từng giữ các chức vụ: Giám đốc Sở giao dịch III BIDV, Phó Tổng
+Giám đốc Ngân hàng Liên doanh Lào - Việt, Giám đốc Ban Nguồn
+vốn và kinh doanh tiền tệ Trụ sở chính BIDV.
+• Sinh năm 1973.
+• Thạc sỹ Tài chính ngân hàng.
+• Bắt đầu làm việc tại BIDV từ năm 1997.
+• Được bổ nhiệm là Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư
 và Phát triển Việt Nam từ ngày 01/05/2012.
-	• Từng giữ chức vụ: Giám đốc Ban Kế hoạch phát triển BIDV, 
-Giám đốc Ban Quản lý Dự án Cổ phần hóa BIDV. 
-	• Sinh năm 1975. 
-	• Thạc sỹ Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 1997. 
-	• Được bổ nhiệm giữ chức vụ Tổng Giám đốc BIDV từ ngày 
-12/03/2021.
-	• Hiện kiêm chức vụ: Ủy viên Ban chấp hành Phòng thương mại và 
+• Từng giữ chức vụ: Giám đốc Ban Kế hoạch phát triển BIDV,
+Giám đốc Ban Quản lý Dự án Cổ phần hóa BIDV.
+• Sinh năm 1975.
+• Thạc sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 1997.
+• Được bổ nhiệm giữ chức vụ Tổng Giám đốc BIDV từ ngày
+• Hiện kiêm chức vụ: Ủy viên Ban chấp hành Phòng thương mại và
 công nghiệp Việt Nam.
-	• Từng giữ các chức vụ: Phó Tổng Giám đốc phụ trách Ban điều 
-hành BIDV, Phó Tổng Giám đốc BIDV; Giám đốc Ban Quản lý rủi ro 
-tín dụng; Giám đốc Ban Khách hàng doanh nghiệp BIDV. 
+• Từng giữ các chức vụ: Phó Tổng Giám đốc phụ trách Ban điều
+hành BIDV, Phó Tổng Giám đốc BIDV; Giám đốc Ban Quản lý rủi ro
+tín dụng; Giám đốc Ban Khách hàng doanh nghiệp BIDV.
 Ông Quách Hùng Hiệp - Phó Tổng giám đốc
 Ông Trần Phương - Phó Tổng giám đốc
-Ông Lê Ngọc Lâm - Ủy viên HĐQT kiêm Tổng Giám đốc 
+Ông Lê Ngọc Lâm - Ủy viên HĐQT kiêm Tổng Giám đốc
 CHI TIẾT VỀ CÁC THÀNH VIÊN BAN ĐIỀU HÀNH
 Những thay đổi của Ban Điều hành trong năm 2022: Không có
 BAN ĐIỀU HÀNH
 
-48
-49
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-	• Sinh năm 1964. 
-	• Thạc sỹ Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 1992. 
-	• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng TMCP 
+• Sinh năm 1964.
+• Thạc sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 1992.
+• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng TMCP
 Đầu tư và Phát triển Việt Nam từ ngày 15/07/2014.
-	• Từng giữ các chức vụ: Giám đốc Chi nhánh BIDV Nam Kỳ 
-Khởi Nghĩa, Phó Giám đốc Chi nhánh BIDV An Giang. 
-	• Sinh năm 1973. 
-	• Thạc sỹ Quản trị kinh doanh.
-	• Bắt đầu làm việc tại BIDV từ năm 1994. 
-	• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng TMCP 
+• Từng giữ các chức vụ: Giám đốc Chi nhánh BIDV Nam Kỳ
+Khởi Nghĩa, Phó Giám đốc Chi nhánh BIDV An Giang.
+• Sinh năm 1973.
+• Thạc sỹ Quản trị kinh doanh.
+• Bắt đầu làm việc tại BIDV từ năm 1994.
+• Được bổ nhiệm chức vụ Phó Tổng Giám đốc Ngân hàng TMCP
 Đầu tư và Phát triển Việt Nam từ ngày 01/06/2016.
-	• Từng giữ các chức vụ: Giám đốc Ban Tổ chức cán bộ BIDV; 
+• Từng giữ các chức vụ: Giám đốc Ban Tổ chức cán bộ BIDV;
 Giám đốc Chi nhánh BIDV Quảng Bình.
-	• Sinh năm 1977.
-	• Thạc sỹ Tài chính ngân hàng.
-	• Bắt đầu làm việc tại BIDV từ năm 2001.
-	• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và 
-Phát triển Việt Nam từ ngày 12/03/2020. 
-	• Từng giữ các chức vụ: Trưởng khối Ngân hàng bán buôn kiêm 
-Giám đốc Ban Khách hàng doanh nghiệp, Giám đốc Ban Kế hoạch 
+• Sinh năm 1977.
+• Thạc sỹ Tài chính ngân hàng.
+• Bắt đầu làm việc tại BIDV từ năm 2001.
+• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và
+Phát triển Việt Nam từ ngày 12/03/2020.
+• Từng giữ các chức vụ: Trưởng khối Ngân hàng bán buôn kiêm
+Giám đốc Ban Khách hàng doanh nghiệp, Giám đốc Ban Kế hoạch
 chiến lược, Giám đốc Chi nhánh BIDV Vĩnh Long...
 Ông Lê Trung Thành - Phó Tổng giám đốc
 Ông Nguyễn Thiên Hoàng - Phó Tổng giám đốc
 Ông Phan Thanh Hải - Phó Tổng giám đốc
-	• Sinh năm 1976.
-	• Tiến sỹ Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 1999.
-	• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và 
-Phát triển Việt Nam từ ngày 12/03/2020. 
-	• Từng giữ các chức vụ: Giám đốc Chi nhánh BIDV Hà Thành, 
-Giám đốc Ban Kế hoạch chiến lược, Tổng Giám đốc Công ty 
-cổ phần cho thuê máy bay (VALC).
-	• Sinh năm 1978.
-	• Thạc sỹ Quản trị kinh doanh.
-	• Bắt đầu làm việc tại BIDV từ năm 2000.
-	• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và 
-Phát triển Việt Nam từ ngày 12/03/2020. 
-	• Hiện kiêm chức vụ: Chủ tịch HĐTV Công ty TNHH bảo hiểm 
-nhân thọ BIDV Metlife.
-	• Từng giữ các chức vụ: Giám đốc Ban Phát triển Ngân hàng 
-bán lẻ, Giám đốc Chi nhánh BIDV Hà Nội.
-	• Sinh năm 1972.
-	• Thạc sỹ Quản trị kinh doanh. 
-	• Bắt đầu làm việc tại BIDV từ năm 1996.
-	• Được bổ nhiệm là Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và 
+• Sinh năm 1976.
+• Tiến sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 1999.
+• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và
 Phát triển Việt Nam từ ngày 12/03/2020.
-	• Từng giữ các chức vụ: Giám đốc Ban Tổ chức cán bộ BIDV, Giám đốc 
-Chi nhánh BIDV Nghệ An. 
+• Từng giữ các chức vụ: Giám đốc Chi nhánh BIDV Hà Thành,
+Giám đốc Ban Kế hoạch chiến lược, Tổng Giám đốc Công ty
+cổ phần cho thuê máy bay (VALC).
+• Sinh năm 1978.
+• Thạc sỹ Quản trị kinh doanh.
+• Bắt đầu làm việc tại BIDV từ năm 2000.
+• Được bổ nhiệm Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và
+Phát triển Việt Nam từ ngày 12/03/2020.
+• Hiện kiêm chức vụ: Chủ tịch HĐTV Công ty TNHH bảo hiểm
+nhân thọ BIDV Metlife.
+• Từng giữ các chức vụ: Giám đốc Ban Phát triển Ngân hàng
+bán lẻ, Giám đốc Chi nhánh BIDV Hà Nội.
+• Sinh năm 1972.
+• Thạc sỹ Quản trị kinh doanh.
+• Bắt đầu làm việc tại BIDV từ năm 1996.
+• Được bổ nhiệm là Phó Tổng Giám đốc Ngân hàng TMCP Đầu tư và
+Phát triển Việt Nam từ ngày 12/03/2020.
+• Từng giữ các chức vụ: Giám đốc Ban Tổ chức cán bộ BIDV, Giám đốc
+Chi nhánh BIDV Nghệ An.
 Ông Trần Long - Phó Tổng giám đốc
 Bà Nguyễn Thị Quỳnh Giao - Phó Tổng giám đốc
 Ông Hoàng Việt Hùng - Phó Tổng giám đốc
 BAN ĐIỀU HÀNH
 (tiếp theo)
 
-50
-51
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-	• Sinh năm 1967. 
-	• Cử nhân Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 2020. 
-	• Được bổ nhiệm chức vụ Thành viên Ban Điều hành Ngân hàng 
+• Sinh năm 1967.
+• Cử nhân Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 2020.
+• Được bổ nhiệm chức vụ Thành viên Ban Điều hành Ngân hàng
 TMCP Đầu tư và Phát triển Việt Nam từ ngày 01/01/2020.
-	• Từng giữ các chức vụ: Trưởng Khối thành lập hợp tác BIDV - Hana, 
-Ngân hàng Hana Bank; Trưởng bộ phận chiến lược toàn cầu, 
+• Từng giữ các chức vụ: Trưởng Khối thành lập hợp tác BIDV - Hana,
+Ngân hàng Hana Bank; Trưởng bộ phận chiến lược toàn cầu,
 Ngân hàng Hana Bank.
-	• Sinh năm 1963. 
-	• Cử nhân Tài chính ngân hàng.
-	• Bắt đầu làm việc tại BIDV từ năm 1987. 
-	• Được bổ nhiệm chức vụ Trưởng Khối Pháp chế và kiểm soát 
-tuân thủ Ngân hàng TMCP Đầu tư và Phát triển Việt Nam từ 
-ngày 01/05/2019.
-	• Từng giữ các chức vụ: Giám đốc Ban Kiểm tra và Giám sát 
+• Sinh năm 1963.
+• Cử nhân Tài chính ngân hàng.
+• Bắt đầu làm việc tại BIDV từ năm 1987.
+• Được bổ nhiệm chức vụ Trưởng Khối Pháp chế và kiểm soát
+tuân thủ Ngân hàng TMCP Đầu tư và Phát triển Việt Nam từ
+• Từng giữ các chức vụ: Giám đốc Ban Kiểm tra và Giám sát
 tuân thủ BIDV; Giám đốc Chi nhánh BIDV Hòa Bình.
-	• Sinh năm 1972.
-	• Thạc sỹ Kinh tế.
-	• Bắt đầu làm việc tại BIDV từ năm 1994.
-	• Được bổ nhiệm Kế toán trưởng Ngân hàng Đầu tư và Phát triển 
-Việt Nam từ ngày 01/06/2011 và được bổ nhiệm là Kế toán trưởng 
+• Sinh năm 1972.
+• Thạc sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 1994.
+• Được bổ nhiệm Kế toán trưởng Ngân hàng Đầu tư và Phát triển
+Việt Nam từ ngày 01/06/2011 và được bổ nhiệm là Kế toán trưởng
 Ngân hàng TMCP Đầu tư và Phát triển Việt Nam từ ngày 01/05/2012.
-	• Hiện kiêm chức vụ Giám đốc Ban Kế toán.
-	• Từng giữ các chức vụ: Giám đốc Trung tâm dịch vụ khách hàng BIDV, 
-Phó Giám đốc Chi nhánh BIDV Sở giao dịch I. 
+• Hiện kiêm chức vụ Giám đốc Ban Kế toán.
+• Từng giữ các chức vụ: Giám đốc Trung tâm dịch vụ khách hàng BIDV,
+Phó Giám đốc Chi nhánh BIDV Sở giao dịch I.
 Ông Sung Ki Jung – Thành viên Ban điều hành
 Ông Từ Quốc Học - Trưởng khối Pháp chế và kiểm soát tuân thủ
 Bà Tạ Thị Hạnh - Kế toán trưởng
 BAN KIỂM SOÁT
-	• Sinh năm 1966.
-	• Thạc sỹ Kinh tế. 
-	• Bắt đầu làm việc tại BIDV từ năm 2002.
-	• Được bầu làm thành viên Ban Kiểm soát từ ngày 01/05/2012,  
+• Sinh năm 1966.
+• Thạc sỹ Kinh tế.
+• Bắt đầu làm việc tại BIDV từ năm 2002.
+• Được bầu làm thành viên Ban Kiểm soát từ ngày 01/05/2012,
 được giao nhiệm vụ phụ trách BKS từ ngày 14/12/2022.
-	• Từng giữ chức vụ: Kiêm nhiệm vị trí Trưởng Kiểm toán nội bộ; 
-Phó Giám đốc Ban Kiểm soát Hội đồng quản trị; Phó Giám đốc 
+• Từng giữ chức vụ: Kiêm nhiệm vị trí Trưởng Kiểm toán nội bộ;
+Phó Giám đốc Ban Kiểm soát Hội đồng quản trị; Phó Giám đốc
 Sở giao dịch III BIDV; Trưởng Ban Kiểm soát BIC.
-	• Sinh năm 1980.
-	• Thạc sỹ Tài chính ngân hàng. 
-	• Bắt đầu làm việc tại BIDV từ năm 2002.
-	• Được bầu làm thành viên Ban Kiểm soát từ ngày 12/03/2021.
-	• Từng giữ chức vụ: Phó Giám đốc Ban Quản lý hiệu quả hoạt động 
- BIDV; Phó Giám đốc Chi nhánh BIDV Hai Bà Trưng; Phó Giám đốc 
+• Sinh năm 1980.
+• Thạc sỹ Tài chính ngân hàng.
+• Bắt đầu làm việc tại BIDV từ năm 2002.
+• Được bầu làm thành viên Ban Kiểm soát từ ngày 12/03/2021.
+• Từng giữ chức vụ: Phó Giám đốc Ban Quản lý hiệu quả hoạt động
+BIDV; Phó Giám đốc Chi nhánh BIDV Hai Bà Trưng; Phó Giám đốc
 Ban Kế hoạch BIDV.
 Ông Cao Cự Trí  – Thành viên phụ trách
 Bà Nguyễn Thị Thu Hà - Thành viên
-Ban Kiểm soát là cơ quan do Đại hội đồng cổ đông bầu ra, thực hiện kiểm toán nội bộ, 
-giám sát việc chấp hành các quy định của pháp luật, quy định nội bộ, Điều lệ, Nghị quyết, 
-Quyết định của Đại hội đồng cổ đông, Hội đồng quản trị. 
+Ban Kiểm soát là cơ quan do Đại hội đồng cổ đông bầu ra, thực hiện kiểm toán nội bộ,
+giám sát việc chấp hành các quy định của pháp luật, quy định nội bộ, Điều lệ, Nghị quyết,
+Quyết định của Đại hội đồng cổ đông, Hội đồng quản trị.
 Các thành viên Ban Kiểm soát chuyên trách làm việc tại BIDV tính đến ngày 31 tháng 12 năm 2022 bao gồm:
 Những thay đổi của Ban Kiểm soát trong năm 2022:
-	• Bầu bà Võ Bích Hà giữ chức vụ Trưởng Ban Kiểm soát nhiệm kỳ 2022-2027 từ ngày 29/04/2022.
-	• Bầu ông Cao Cự Trí, bà Nguyễn Thị Thu Hà giữ chức vụ Thành viên Ban Kiểm soát nhiệm kỳ 2022-2027 từ ngày 
-29/04/2022.
-	• Bà Võ Bích Hà – Trưởng Ban Kiểm soát nhiệm kỳ 2022-2027 nghỉ hưu để hưởng chế độ bảo hiểm xã hội từ ngày 
-01/12/2022.
-	• Giao nhiệm vụ phụ trách hoạt động của Ban Kiểm soát đối với ông Cao Cự Trí – Thành viên Ban Kiểm soát nhiệm kỳ 
-2022-2027 từ ngày 14/12/2022. 
+• Bầu bà Võ Bích Hà giữ chức vụ Trưởng Ban Kiểm soát nhiệm kỳ 2022-2027 từ ngày 29/04/2022.
+• Bầu ông Cao Cự Trí, bà Nguyễn Thị Thu Hà giữ chức vụ Thành viên Ban Kiểm soát nhiệm kỳ 2022-2027 từ ngày
+• Bà Võ Bích Hà – Trưởng Ban Kiểm soát nhiệm kỳ 2022-2027 nghỉ hưu để hưởng chế độ bảo hiểm xã hội từ ngày
+• Giao nhiệm vụ phụ trách hoạt động của Ban Kiểm soát đối với ông Cao Cự Trí – Thành viên Ban Kiểm soát nhiệm kỳ
 HỌ VÀ TÊN
 CHỨC VỤ
-SỐ LƯỢNG  
+SỐ LƯỢNG
 CỔ PHIẾU
-TỶ LỆ  
-SỞ HỮU (%)
 Ông CAO CỰ TRÍ
-Thành viên phụ trách 
-4.503
-0,0001
+Thành viên phụ trách
 Bà NGUYỄN THỊ THU HÀ
 Thành viên
-0
-0
 BAN ĐIỀU HÀNH
 (tiếp theo)
 
-52 BÁO CÁO THƯỜNG NIÊN 2022
 CHỈ TIÊU KINH DOANH ĐỊNH HƯỚNG ĐẾN NĂM 2025:
 CÁC MỤC TIÊU CHIẾN LƯỢC
 Để hướng tới sự phát triển bền vững, BIDV xác định các mục tiêu chiến lược đến năm 2025, cụ thể như sau:
 Tổng tài sản
-9%-12,5%
-8%-12,5%
-10%-15%
-27%-34%
-Đến 2025 đạt ≥0,8%
-Đến 2025 đạt ≥12%
 Dư nợ tín dụng
 Huy động vốn
 LNTT
-ROA
-ROE
 Tổng tài sản
-9%-13%
-8,5%-12,5%
-10,5%-15%
-27%-34%
-Đến 2025 đạt ≥0,8%
-Đến 2025 đạt ≥12,5%
 Dư nợ tín dụng
 Huy động vốn
 LNTT
-ROA
-ROE
 Chỉ tiêu
 Tăng trưởng bình quân giai đoạn 2021 - 2025
-100%
-Đối với kế hoạch 
-kinh doanh  
+Đối với kế hoạch
+kinh doanh
 khối NHTM:
-Đối với kế hoạch 
-kinh doanh  
+Đối với kế hoạch
+kinh doanh
 hợp nhất:
 Chỉ tiêu
 Tăng trưởng bình quân giai đoạn 2021 - 2025
-100%
-Năng lực tài chính lành mạnh đáp ứng các yêu cầu an toàn hoạt động theo 
-quy định và thông lệ tốt, làm nền tảng tăng trưởng quy mô hoạt động, gia tăng 
+Năng lực tài chính lành mạnh đáp ứng các yêu cầu an toàn hoạt động theo
+quy định và thông lệ tốt, làm nền tảng tăng trưởng quy mô hoạt động, gia tăng
 thị phần và duy trì vị thế đứng đầu trên thị trường ngân hàng.
-Hiệu quả hoạt động bền vững trên cơ sở nâng cao chất lượng tài sản, cơ cấu 
-lại nguồn thu, nâng dần tỷ trọng thu nhập phi tín dụng và cung cấp các sản 
+Hiệu quả hoạt động bền vững trên cơ sở nâng cao chất lượng tài sản, cơ cấu
+lại nguồn thu, nâng dần tỷ trọng thu nhập phi tín dụng và cung cấp các sản
 phẩm dịch vụ ngân hàng - tài chính - bảo hiểm tốt nhất cho khách hàng.
-Cơ cấu nền khách hàng chuyển dịch tích cực, phát triển khách hàng FDI, duy 
-trì vị thế ngân hàng đứng đầu Việt Nam về thị phần trong phân khúc khách 
+Cơ cấu nền khách hàng chuyển dịch tích cực, phát triển khách hàng FDI, duy
+trì vị thế ngân hàng đứng đầu Việt Nam về thị phần trong phân khúc khách
 hàng bán lẻ và SME.
-Quản trị điều hành minh bạch, hiệu quả theo thông lệ, phấn đấu niêm yết trên 
+Quản trị điều hành minh bạch, hiệu quả theo thông lệ, phấn đấu niêm yết trên
 thị trường chứng khoán nước ngoài.
-Đi đầu về công nghệ thông tin và ứng dụng ngân hàng số tại Việt Nam trong 
-hoạt động kinh doanh và quản trị điều hành, thích ứng được với sự thay đổi 
+Đi đầu về công nghệ thông tin và ứng dụng ngân hàng số tại Việt Nam trong
+hoạt động kinh doanh và quản trị điều hành, thích ứng được với sự thay đổi
 của thời đại.
-Đội ngũ nhân sự chất lượng cao đảm bảo yêu cầu phát triển của ngành ngân 
-hàng trong xu thế hội nhập và CMCN 4.0; Phát triển văn hóa doanh nghiệp, 
-xây dựng và duy trì môi trường làm việc chuyên nghiệp, hiện đại, học hỏi, sáng 
+Đội ngũ nhân sự chất lượng cao đảm bảo yêu cầu phát triển của ngành ngân
+hàng trong xu thế hội nhập và CMCN 4.0; Phát triển văn hóa doanh nghiệp,
+xây dựng và duy trì môi trường làm việc chuyên nghiệp, hiện đại, học hỏi, sáng
 tạo, trách nhiệm xã hội.
 ĐỊNH HƯỚNG
 PHÁT TRIỂN
-53
 TỔNG QUAN BIDV 2022
 
-54
-55
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Với vai trò là một Định chế tài chính hàng đầu Việt Nam, bên cạnh nhiệm vụ chính là thực thi chính sách tiền tệ, 
-thực hiện kinh doanh hiệu quả, an toàn, BIDV luôn ưu tiên thực hiện trách nhiệm với xã hội, cộng đồng và môi 
-trường, coi đây một trong những nhiệm vụ quan trọng trong hoạt động; cam kết thực hiện các đường lối, chính 
+Với vai trò là một Định chế tài chính hàng đầu Việt Nam, bên cạnh nhiệm vụ chính là thực thi chính sách tiền tệ,
+thực hiện kinh doanh hiệu quả, an toàn, BIDV luôn ưu tiên thực hiện trách nhiệm với xã hội, cộng đồng và môi
+trường, coi đây một trong những nhiệm vụ quan trọng trong hoạt động; cam kết thực hiện các đường lối, chính
 sách của Nhà nước; ưu đãi, hỗ trợ khách hàng thuộc lĩnh vực ưu tiên của Chính phủ.
-Giai đoạn 2021 - 2025, BIDV sẽ tiếp tục đóng góp vào sự phát triển toàn diện và bền vững của cộng đồng xã hội 
-hướng đến sự thịnh vượng thông qua: 
-Triển khai thực hiện kế hoạch hành động thực hiện Chiến lược tài chính toàn 
-diện Quốc gia đến năm 2025, định hướng đến năm 2030 của NHNN, trong đó 
-đẩy mạnh các hoạt động, giải pháp nhằm cung ứng sản phẩm dịch vụ đến 
-mọi đối tượng trên toàn quốc, bao gồm cả vùng nông thôn, vùng sâu, vùng xa, 
+Giai đoạn 2021 - 2025, BIDV sẽ tiếp tục đóng góp vào sự phát triển toàn diện và bền vững của cộng đồng xã hội
+hướng đến sự thịnh vượng thông qua:
+Triển khai thực hiện kế hoạch hành động thực hiện Chiến lược tài chính toàn
+diện Quốc gia đến năm 2025, định hướng đến năm 2030 của NHNN, trong đó
+đẩy mạnh các hoạt động, giải pháp nhằm cung ứng sản phẩm dịch vụ đến
+mọi đối tượng trên toàn quốc, bao gồm cả vùng nông thôn, vùng sâu, vùng xa,
 người nghèo, người về hưu, học sinh sinh viên…
-Triển khai các gói “tín dụng xanh”, dành tỷ trọng nhất định để tài trợ cho các 
-khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản 
-xuất và tiêu dùng phát thải carbon thấp, thích ứng với biến đổi khí hậu, qua 
-đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi 
-trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, 
-năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường. Ngoài ra, bố 
-trí nguồn vốn cần thiết để phát triển các sản phẩm cho vay phục vụ đời sống 
-tạo điều kiện thuận lợi đáp ứng nhu cầu chính đáng của người dân, góp phần 
+Triển khai các gói “tín dụng xanh”, dành tỷ trọng nhất định để tài trợ cho các
+khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản
+xuất và tiêu dùng phát thải carbon thấp, thích ứng với biến đổi khí hậu, qua
+đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi
+trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên,
+năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường. Ngoài ra, bố
+trí nguồn vốn cần thiết để phát triển các sản phẩm cho vay phục vụ đời sống
+tạo điều kiện thuận lợi đáp ứng nhu cầu chính đáng của người dân, góp phần
 hạn chế tín dụng đen.
-Nghiên cứu mô hình chi nhánh/ Phòng giao dịch “Ngân hàng xanh” gắn với 
-yêu cầu thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã 
-hội trong hoạt động cấp tín dụng của NHNN trong đó thiết kế không gian giao 
-dịch xanh, áp dụng mô hình văn phòng xanh, dành tỷ trọng dư nợ nhất định 
+Nghiên cứu mô hình chi nhánh/ Phòng giao dịch “Ngân hàng xanh” gắn với
+yêu cầu thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã
+hội trong hoạt động cấp tín dụng của NHNN trong đó thiết kế không gian giao
+dịch xanh, áp dụng mô hình văn phòng xanh, dành tỷ trọng dư nợ nhất định
 để tài trợ tín dụng xanh.
-Phát triển các sản phẩm dịch vụ, tiện ích hiện đại nâng nhằm cao chất lượng 
+Phát triển các sản phẩm dịch vụ, tiện ích hiện đại nâng nhằm cao chất lượng
 dịch vụ cuộc sống.
-Thực hiện các hoạt động an sinh xã hội. Tham gia các hoạt động tài trợ mang 
-tính động lực chung của xã hội và tương lai, qua đó tác động ngược trở lại 
-tiếp tục góp phần tích cực cho chính hoạt động và sự phát triển bền vững của 
+Thực hiện các hoạt động an sinh xã hội. Tham gia các hoạt động tài trợ mang
+tính động lực chung của xã hội và tương lai, qua đó tác động ngược trở lại
+tiếp tục góp phần tích cực cho chính hoạt động và sự phát triển bền vững của
 BIDV.
-CÁC MỤC TIÊU PHÁT TRIỂN BỀN VỮNG  
+CÁC MỤC TIÊU PHÁT TRIỂN BỀN VỮNG
 (MÔI TRƯỜNG, XÃ HỘI VÀ QUẢN TRỊ)
 (tiếp theo)
 ĐỊNH HƯỚNG
 PHÁT TRIỂN
 
-56
-57
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
 BIDV xin lưu ý các nhân tố rủi ro có thể ảnh hưởng tới kết quả kinh doanh của BIDV.
-Năm 2022, môi trường kinh tế có nhiều diễn biến kém 
-thuận lợi, tác động đến kinh tế Việt Nam nói chung 
-và hoạt động của BIDV nói riêng. Theo đó, kinh thế 
-thế giới đã giảm đà tăng trưởng bởi nhiều cú sốc bất 
-ngờ: (i) xung đột Nga - Ukraina từ cuối tháng 2/2022 
-dai dẳng, khó lường và chưa có dấu hiệu chấm dứt; 
-(ii) dịch Covid-19 bùng phát trở lại và chính sách kiểm 
-soát dịch bệnh nghiêm ngặt của Trung Quốc; (iii) ngân 
-hàng trung ương các nước (như Mỹ, châu Âu, Anh…) 
-tăng lãi suất nhanh nhằm kiểm soát lạm phát; (iv) rủi 
-ro tài chính – tiền tệ, rủi ro an ninh lương thực, an ninh 
+Năm 2022, môi trường kinh tế có nhiều diễn biến kém
+thuận lợi, tác động đến kinh tế Việt Nam nói chung
+và hoạt động của BIDV nói riêng. Theo đó, kinh thế
+thế giới đã giảm đà tăng trưởng bởi nhiều cú sốc bất
+ngờ: (i) xung đột Nga - Ukraina từ cuối tháng 2/2022
+dai dẳng, khó lường và chưa có dấu hiệu chấm dứt;
+(ii) dịch Covid-19 bùng phát trở lại và chính sách kiểm
+soát dịch bệnh nghiêm ngặt của Trung Quốc; (iii) ngân
+hàng trung ương các nước (như Mỹ, châu Âu, Anh…)
+tăng lãi suất nhanh nhằm kiểm soát lạm phát; (iv) rủi
+ro tài chính – tiền tệ, rủi ro an ninh lương thực, an ninh
 năng lượng và chuỗi cung ứng gia tăng.
-Kinh tế trong nước năm 2022 dù đạt tốc độ tăng trưởng 
-cao nhất từ năm 2011 đến nay (8,02%), lạm phát được 
-kiểm soát ở mức 3,15% (tốt hơn so với mục tiêu khoảng 
-4% của Chính phủ), nhưng kinh tế Việt Nam cũng vẫn 
-phải đối mặt với những khó khăn, thách thức lớn như: 
-(i) rủi ro, thách thức từ bên ngoài vẫn hiện hữu và có 
-những tác động tiêu cực rõ nét hơn như đã nêu trên; 
-(ii) giải ngân đầu tư công, các chương trình mục tiêu 
+Kinh tế trong nước năm 2022 dù đạt tốc độ tăng trưởng
+cao nhất từ năm 2011 đến nay (8,02%), lạm phát được
+kiểm soát ở mức 3,15% (tốt hơn so với mục tiêu khoảng
+4% của Chính phủ), nhưng kinh tế Việt Nam cũng vẫn
+phải đối mặt với những khó khăn, thách thức lớn như:
+(i) rủi ro, thách thức từ bên ngoài vẫn hiện hữu và có
+những tác động tiêu cực rõ nét hơn như đã nêu trên;
+(ii) giải ngân đầu tư công, các chương trình mục tiêu
 quốc gia và Chương trình phục hồi và phát triển KT-
-XH 2022-2023 còn chậm dù đã có cải thiện; (iii) áp lực 
-lạm phát, tỷ giá, lãi suất tăng còn cao và là thách thức 
-lớn của năm 2022 và quý 1/2023; (iv) nợ xấu tiềm ẩn 
-vẫn là thách thức. Nợ xấu gia tăng trong bối cảnh dư 
-địa chính sách tiền tệ hạn hẹp (lạm phát còn tăng và 
-lãi suất đang ở mức cao) sẽ là thách thức kéo dài đối 
-với các TCTD và nền kinh tế sang cả năm 2023; (v) một 
-số động lực cho tăng trưởng kinh tế như xuất khẩu, 
-đầu tư, sản xuất… có dấu hiệu chững lại trong những 
-tháng cuối năm 2022 khi các điều kiện kinh doanh xấu 
+XH 2022-2023 còn chậm dù đã có cải thiện; (iii) áp lực
+lạm phát, tỷ giá, lãi suất tăng còn cao và là thách thức
+lớn của năm 2022 và quý 1/2023; (iv) nợ xấu tiềm ẩn
+vẫn là thách thức. Nợ xấu gia tăng trong bối cảnh dư
+địa chính sách tiền tệ hạn hẹp (lạm phát còn tăng và
+lãi suất đang ở mức cao) sẽ là thách thức kéo dài đối
+với các TCTD và nền kinh tế sang cả năm 2023; (v) một
+số động lực cho tăng trưởng kinh tế như xuất khẩu,
+đầu tư, sản xuất… có dấu hiệu chững lại trong những
+tháng cuối năm 2022 khi các điều kiện kinh doanh xấu
 đi và nhu cầu thế giới suy giảm mạnh.
-Trong năm 2022, trước những rủi ro từ môi trường quốc 
-tế và trong nước, BIDV luôn chủ động, phân tích, đánh 
-giá kịp thời và xây dựng kịch bản ứng phó linh hoạt, cụ 
-thể trước những biến động nhanh, bất thường của thị 
-trường, trên cơ sở tuân thủ các chính sách điều hành 
-của Chính phủ, NHNN và các cơ quan chức năng; từ 
-đó, giúp cho hoạt động của của BIDV luôn được an 
+Trong năm 2022, trước những rủi ro từ môi trường quốc
+tế và trong nước, BIDV luôn chủ động, phân tích, đánh
+giá kịp thời và xây dựng kịch bản ứng phó linh hoạt, cụ
+thể trước những biến động nhanh, bất thường của thị
+trường, trên cơ sở tuân thủ các chính sách điều hành
+của Chính phủ, NHNN và các cơ quan chức năng; từ
+đó, giúp cho hoạt động của của BIDV luôn được an
 toàn, thông suốt và hiệu quả.
-Năm 2023, những rủi ro, thách thức từ bối cảnh quốc 
-tế được dự báo vẫn hiện hữu như: (i) Dịch Covid-19 và 
-các dịch bệnh khác diễn biến còn phức tạp, khó lường; 
-(ii) Rủi ro địa chính trị và cạnh tranh chiến lược giữa 
-các nước lớn còn hiện hữu, tiếp tục tác động đến chuỗi 
-sản xuất, cung ứng toàn cầu; (iii) Bối cảnh lãi suất cao 
-khiến tăng trưởng kinh tế toàn cầu năm 2023 được 
-dự báo giảm từ mức 3,4% (năm 2022) xuống khoảng 
-2,8%. Trong đó, kinh tế Mỹ tăng trưởng 1,6%, EU tăng 
-trưởng khoảng 0,8% (trong đó một số nền kinh tế lớn 
-của khu vực có thể rơi vào suy thoái kỹ thuật), kinh tế 
-Trung Quốc dự báo phục hồi nhưng vẫn tăng trưởng 
-chậm trong năm 2023 (khoảng 5,2%) dù nước này đã 
-mở cửa trở lại từ đầu năm; (iv) Lạm phát dù hạ nhiệt 
-(sau khi đạt đỉnh hồi quý III/2022) song vẫn còn ở mức 
-cao trong năm 2023 (CPI toàn cầu khoảng 7,0% năm 
-2023, giảm từ mức 8,7% năm 2022, theo IMF tháng 
-4/2023), khiến ngân hàng trung ương các nước còn 
-tăng lãi suất (ít nhất là đến Quý II/2023) và giữ ở mức 
-cao trong năm 2023, còn gây áp lực lên lãi suất, tỷ giá, 
-rủi ro tài chính (nợ công, nợ doanh nghiệp và hộ gia 
-đình, thanh khoản thị trường tài chính, v.v.) và nhiều 
-cân đối vĩ mô khác; và (v) Thiên tai, lũ lụt, biến đổi khí 
-hậu bất thường ảnh hưởng tới khả năng phục hồi kinh 
+Năm 2023, những rủi ro, thách thức từ bối cảnh quốc
+tế được dự báo vẫn hiện hữu như: (i) Dịch Covid-19 và
+các dịch bệnh khác diễn biến còn phức tạp, khó lường;
+(ii) Rủi ro địa chính trị và cạnh tranh chiến lược giữa
+các nước lớn còn hiện hữu, tiếp tục tác động đến chuỗi
+sản xuất, cung ứng toàn cầu; (iii) Bối cảnh lãi suất cao
+khiến tăng trưởng kinh tế toàn cầu năm 2023 được
+dự báo giảm từ mức 3,4% (năm 2022) xuống khoảng
+2,8%. Trong đó, kinh tế Mỹ tăng trưởng 1,6%, EU tăng
+trưởng khoảng 0,8% (trong đó một số nền kinh tế lớn
+của khu vực có thể rơi vào suy thoái kỹ thuật), kinh tế
+Trung Quốc dự báo phục hồi nhưng vẫn tăng trưởng
+chậm trong năm 2023 (khoảng 5,2%) dù nước này đã
+mở cửa trở lại từ đầu năm; (iv) Lạm phát dù hạ nhiệt
+(sau khi đạt đỉnh hồi quý III/2022) song vẫn còn ở mức
+cao trong năm 2023 (CPI toàn cầu khoảng 7,0% năm
+2023, giảm từ mức 8,7% năm 2022, theo IMF tháng
+4/2023), khiến ngân hàng trung ương các nước còn
+tăng lãi suất (ít nhất là đến Quý II/2023) và giữ ở mức
+cao trong năm 2023, còn gây áp lực lên lãi suất, tỷ giá,
+rủi ro tài chính (nợ công, nợ doanh nghiệp và hộ gia
+đình, thanh khoản thị trường tài chính, v.v.) và nhiều
+cân đối vĩ mô khác; và (v) Thiên tai, lũ lụt, biến đổi khí
+hậu bất thường ảnh hưởng tới khả năng phục hồi kinh
 tế tại nhiều nước, khu vực.
-Khó khăn nội tại của kinh tế Việt Nam: (i) Môi trường 
-quốc tế đang kém thuận lợi; một số khu vực, quốc gia, 
-đặc biệt là các đối tác thương mại lớn của Việt Nam 
-có thể rơi vào suy thoái nhẹ, làm giảm lực cầu xuất 
-khẩu, đầu tư, tiêu dùng và du lịch quốc tế; (ii) Giải ngân 
-đầu tư công, các chương trình mục tiêu quốc gia và 
-Chương trình phục hồi và phát triển KT-XH 2022-2023 
-vẫn còn chậm; (iii) Áp lực lạm phát gia tăng trong khi 
-lãi suất còn ở mức cao; (iv) Nợ xấu tiềm ẩn có thể gia 
-tăng do bối cảnh kinh tế, kinh doanh của doanh nghiệp 
-khó khăn hơn; (v) Rủi ro trái phiếu doanh nghiệp, thị 
-trường chứng khoán, bất động sản… vẫn hiện hữu và 
-thanh khoản hệ thống ngân hàng cần thời gian để cải 
-thiện; và (vi) Thị trường lao động đang cải thiện nhưng 
-còn nhiều bấp bênh. Theo đó, kinh tế Việt Nam được 
-dự báo tăng trưởng thấp hơn (khoảng 6-6,5% theo 
-kịch bản cơ sở) và lạm phát cao hơn (khoảng 4-4,5%) 
+Khó khăn nội tại của kinh tế Việt Nam: (i) Môi trường
+quốc tế đang kém thuận lợi; một số khu vực, quốc gia,
+đặc biệt là các đối tác thương mại lớn của Việt Nam
+có thể rơi vào suy thoái nhẹ, làm giảm lực cầu xuất
+khẩu, đầu tư, tiêu dùng và du lịch quốc tế; (ii) Giải ngân
+đầu tư công, các chương trình mục tiêu quốc gia và
+Chương trình phục hồi và phát triển KT-XH 2022-2023
+vẫn còn chậm; (iii) Áp lực lạm phát gia tăng trong khi
+lãi suất còn ở mức cao; (iv) Nợ xấu tiềm ẩn có thể gia
+tăng do bối cảnh kinh tế, kinh doanh của doanh nghiệp
+khó khăn hơn; (v) Rủi ro trái phiếu doanh nghiệp, thị
+trường chứng khoán, bất động sản… vẫn hiện hữu và
+thanh khoản hệ thống ngân hàng cần thời gian để cải
+thiện; và (vi) Thị trường lao động đang cải thiện nhưng
+còn nhiều bấp bênh. Theo đó, kinh tế Việt Nam được
+dự báo tăng trưởng thấp hơn (khoảng 6-6,5% theo
+kịch bản cơ sở) và lạm phát cao hơn (khoảng 4-4,5%)
 trong năm 2023.
-Với triển vọng kinh tế quốc tế và trong nước được dự 
-báo cơ hội và thách thức đan xen, nhưng khó khăn, 
-thách thức sẽ nhiều hơn, lớn hơn; BIDV quyết tâm 
-hoàn thành kế hoạch kinh doanh của mình với phương 
-châm “Kỷ cương – Hiệu quả - Chuyển đổi hoạt động”, 
-nghiêm túc thực hiện theo định hướng điều hành của 
-Chính phủ và NHNN, đảm bảo hệ thống BIDV hoạt 
-động thông suốt, an toàn, đóng góp cho sự phát triển 
+Với triển vọng kinh tế quốc tế và trong nước được dự
+báo cơ hội và thách thức đan xen, nhưng khó khăn,
+thách thức sẽ nhiều hơn, lớn hơn; BIDV quyết tâm
+hoàn thành kế hoạch kinh doanh của mình với phương
+châm “Kỷ cương – Hiệu quả - Chuyển đổi hoạt động”,
+nghiêm túc thực hiện theo định hướng điều hành của
+Chính phủ và NHNN, đảm bảo hệ thống BIDV hoạt
+động thông suốt, an toàn, đóng góp cho sự phát triển
 của hệ thống ngân hàng và kinh tế cả nước.
-RỦI RO VỀ KINH TẾ 
-01
-QUẢN LÝ 
+RỦI RO VỀ KINH TẾ
+QUẢN LÝ
 RỦI RO
 
-58
-59
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Hiện nay, Việt Nam đang trong giai đoạn chuyển mình 
-với mục tiêu trở thành một trong những trung tâm 
-tài chính hàng đầu trong khu vực, cạnh tranh với các 
-trung tâm tài chính khác trên thế giới như Singapore, 
-Hong Kong, … Do đó, hệ thống pháp luật của Việt 
-Nam không ngừng được xây dựng nhằm hiện thực 
-hóa tầm nhìn của Việt Nam hướng tới mục tiêu hoàn 
-thiện một khung pháp lý mới chặt chẽ hơn cho các 
-tổ chức tín dụng (TCTD) tại Việt Nam, trong đó có các 
-NHTM cổ phần như BIDV làm cơ sở, tiền đề cho sự 
+Hiện nay, Việt Nam đang trong giai đoạn chuyển mình
+với mục tiêu trở thành một trong những trung tâm
+tài chính hàng đầu trong khu vực, cạnh tranh với các
+trung tâm tài chính khác trên thế giới như Singapore,
+Hong Kong, … Do đó, hệ thống pháp luật của Việt
+Nam không ngừng được xây dựng nhằm hiện thực
+hóa tầm nhìn của Việt Nam hướng tới mục tiêu hoàn
+thiện một khung pháp lý mới chặt chẽ hơn cho các
+tổ chức tín dụng (TCTD) tại Việt Nam, trong đó có các
+NHTM cổ phần như BIDV làm cơ sở, tiền đề cho sự
 phát triển bền vững.
-Hệ thống pháp luật, chính sách kinh tế đã được xây 
-dựng tương đối đồng bộ, cơ bản phù hợp với cơ chế 
-thị trường và đáp ứng được ở mức độ nhất định yêu 
-cầu, đòi hỏi của sự phát triển kinh tế thị trường và 
-hội nhập quốc tế. Những năm gần đây, Quốc hội Việt 
-Nam đã thông qua nhiều luật quan trọng nhằm hoàn 
-thiện khung pháp lý cho môi trường kinh doanh và 
-hoạt động của các TCTD tại Việt Nam, gồm: Luật kinh 
-doanh bảo hiểm số 08/2022/QH15; Luật Doanh nghiệp 
-số 59/2020/QH14; Luật Đầu tư số 61/2020/QH14; Luật 
-Chứng khoán số 54/2019/QH14; Luật Đầu tư theo 
-phương thức đối tác công tư số 64/2020/QH14; Luật 
-Quản lý thuế số 38/2019/QH14; Luật số 17/2017/QH14 
-sửa đổi, bổ sung một số điều của Luật Các tổ chức tín 
-dụng 2010; Luật số 55/2019/QH14 sửa đổi, bổ sung một 
+Hệ thống pháp luật, chính sách kinh tế đã được xây
+dựng tương đối đồng bộ, cơ bản phù hợp với cơ chế
+thị trường và đáp ứng được ở mức độ nhất định yêu
+cầu, đòi hỏi của sự phát triển kinh tế thị trường và
+hội nhập quốc tế. Những năm gần đây, Quốc hội Việt
+Nam đã thông qua nhiều luật quan trọng nhằm hoàn
+thiện khung pháp lý cho môi trường kinh doanh và
+hoạt động của các TCTD tại Việt Nam, gồm: Luật kinh
+doanh bảo hiểm số 08/2022/QH15; Luật Doanh nghiệp
+Chứng khoán số 54/2019/QH14; Luật Đầu tư theo
+phương thức đối tác công tư số 64/2020/QH14; Luật
+Quản lý thuế số 38/2019/QH14; Luật số 17/2017/QH14
+sửa đổi, bổ sung một số điều của Luật Các tổ chức tín
+dụng 2010; Luật số 55/2019/QH14 sửa đổi, bổ sung một
 số điều của Luật kiểm toán nhà nước; Luật số 03/2022/
-QH15 sửa đổi, bổ sung một số điều của Luật Đầu tư 
-công, Luật Đầu tư theo phương thức đối tác công tư, 
-Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện 
-lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và 
-Luật Thi hành án dân sự. Các quy định mới được ban 
-hành được đánh giá là phù hợp so với thực tiễn biến 
-đổi của môi trường kinh doanh hiện tại và đã tạo ra 
-những chuyển biến căn bản trong hoạt động của các 
-doanh nghiệp nói chung và BIDV nói riêng. 
-Liên quan tới vấn đề xử lý nợ xấu, Quốc hội đã ban 
-hành Nghị quyết số 63/2022/QH15 để kéo dài thời hạn 
-áp dụng Nghị quyết số 42/2017/QH14 (“Nghị quyết số 
-42”) về thí điểm xử lý nợ xấu của các TCTD đến hết 
-ngày 31/12/2023. Điều này giúp các TCTD, trong đó có 
-BIDV, được tiếp tục áp dụng Nghị quyết số 42 nhằm 
-đẩy nhanh quá trình xử lý nợ xấu, xử lý tài sản bảo 
-đảm trong hệ thống ngân hàng, đảm bảo sự an toàn 
-hoạt động của hệ thống ngân hàng nói riêng và nền 
-kinh tế nói chung. Mặc dù vậy, hiện nay phát sinh nhiều 
-các khoản nợ xấu không thuộc phạm vi điều chỉnh 
-của Nghị quyết số 42 (hình thành sau ngày 15/8/2017); 
-trong khi đó Bộ Luật dân sự năm 2015, Nghị định số 
-21/2021/NĐ-CP ngày 19/3/2021 quy định thi hành Bộ 
-Luật dân sự về bảo đảm thực hiện nghĩa vụ không còn 
-quy định cơ chế thu giữ tài sản bảo đảm để xử lý. Do 
-đó, Ngân hàng phải khởi kiện khi khách hàng không 
-hợp tác trong việc xử lý tài sản bảo đảm, dẫn đến việc 
-xử lý nợ xấu kéo dài và phụ thuộc vào trình tự giải 
-quyết của Tòa án có thẩm quyền. Ngoài ra, trong năm 
-2022, các TCTD (trong đó có BIDV) đã đóng góp, tham 
-gia ý kiến xây dựng cơ chế Luật hóa Nghị quyết số 42 
-về thí điểm xử lý nợ xấu của các TCTD - đây là một 
-cơ chế để thu nợ hiệu quả cho các TCTD nói chung và 
-BIDV nói riêng cần được nâng lên thành luật và các 
+QH15 sửa đổi, bổ sung một số điều của Luật Đầu tư
+công, Luật Đầu tư theo phương thức đối tác công tư,
+Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện
+lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và
+Luật Thi hành án dân sự. Các quy định mới được ban
+hành được đánh giá là phù hợp so với thực tiễn biến
+đổi của môi trường kinh doanh hiện tại và đã tạo ra
+những chuyển biến căn bản trong hoạt động của các
+doanh nghiệp nói chung và BIDV nói riêng.
+Liên quan tới vấn đề xử lý nợ xấu, Quốc hội đã ban
+hành Nghị quyết số 63/2022/QH15 để kéo dài thời hạn
+áp dụng Nghị quyết số 42/2017/QH14 (“Nghị quyết số
+42”) về thí điểm xử lý nợ xấu của các TCTD đến hết
+ngày 31/12/2023. Điều này giúp các TCTD, trong đó có
+BIDV, được tiếp tục áp dụng Nghị quyết số 42 nhằm
+đẩy nhanh quá trình xử lý nợ xấu, xử lý tài sản bảo
+đảm trong hệ thống ngân hàng, đảm bảo sự an toàn
+hoạt động của hệ thống ngân hàng nói riêng và nền
+kinh tế nói chung. Mặc dù vậy, hiện nay phát sinh nhiều
+các khoản nợ xấu không thuộc phạm vi điều chỉnh
+của Nghị quyết số 42 (hình thành sau ngày 15/8/2017);
+trong khi đó Bộ Luật dân sự năm 2015, Nghị định số
+21/2021/NĐ-CP ngày 19/3/2021 quy định thi hành Bộ
+Luật dân sự về bảo đảm thực hiện nghĩa vụ không còn
+quy định cơ chế thu giữ tài sản bảo đảm để xử lý. Do
+đó, Ngân hàng phải khởi kiện khi khách hàng không
+hợp tác trong việc xử lý tài sản bảo đảm, dẫn đến việc
+xử lý nợ xấu kéo dài và phụ thuộc vào trình tự giải
+quyết của Tòa án có thẩm quyền. Ngoài ra, trong năm
+2022, các TCTD (trong đó có BIDV) đã đóng góp, tham
+gia ý kiến xây dựng cơ chế Luật hóa Nghị quyết số 42
+về thí điểm xử lý nợ xấu của các TCTD - đây là một
+cơ chế để thu nợ hiệu quả cho các TCTD nói chung và
+BIDV nói riêng cần được nâng lên thành luật và các
 văn bản có liên quan.
-Liên quan tới việc giải quyết các tranh chấp trong lĩnh 
-vự dân sự, kinh doanh thương mại: Về cơ bản, việc giải 
-quyết tranh chấp tại Tòa án liên quan đến hợp đồng 
-tín dụng, tài sản bảo đảm đã đảm bảo được quyền 
-lợi chính đáng hợp pháp của TCTD. Bên cạnh đó, vẫn 
-còn tồn tại một số vụ việc BIDV là bên nhận thế chấp 
-ngay tình theo quy định của pháp luật (việc nhận tài 
-sản bảo đảm dựa trên Giấy chứng nhận sở hữu do Cơ 
-quan có thẩm quyền cấp, tại thời điểm nhận thế chấp 
-không có tranh chấp...), Tòa án vẫn tuyên giao dịch thế 
-chấp vô hiệu do giao dịch tài sản trước đó với bên thứ 
-ba bị tuyên vô hiệu. Ngày 02/8/2021, Tòa án nhân dân 
-tối cao đã ban hành Công văn số 02/TANDTC-PC v/v 
-giải đáp một số vướng mắc trong xét xử, theo đó, định 
-hướng quan điểm xét xử trong hệ thống Tòa án với nội 
-dung: các TCTD cần phải thực hiện thủ tục thẩm định, 
-xác minh tài sản để làm căn cứ chứng minh chủ sở hữu 
-thực tế của tài sản thì mới được xác định là bên thứ ba 
-ngay tình. Đây cũng là quan điểm mà các TCTD cần 
-lưu ý và rút kinh nghiệm trong quá trình xác lập các 
-quan hệ bảo đảm mới với khách hàng. 
-Bên cạnh đó, Chính phủ và NHNN cũng đã ban hành 
-một số Nghị định và Thông tư quan trọng nhằm hướng 
-dẫn thực hiện và triển khai các quy định của Luật trong 
-lĩnh vực tài chính - ngân hàng, bao gồm: Nghị định số 
-65/2022/NĐ-CP sửa đổi, bổ sung một số điều của Nghị 
-định số 153/2020/NĐ-CP ngày 31/12/2020 quy định về 
-chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ 
-tại thị trường trong nước và chào bán trái phiếu doanh 
+Liên quan tới việc giải quyết các tranh chấp trong lĩnh
+vự dân sự, kinh doanh thương mại: Về cơ bản, việc giải
+quyết tranh chấp tại Tòa án liên quan đến hợp đồng
+tín dụng, tài sản bảo đảm đã đảm bảo được quyền
+lợi chính đáng hợp pháp của TCTD. Bên cạnh đó, vẫn
+còn tồn tại một số vụ việc BIDV là bên nhận thế chấp
+ngay tình theo quy định của pháp luật (việc nhận tài
+sản bảo đảm dựa trên Giấy chứng nhận sở hữu do Cơ
+quan có thẩm quyền cấp, tại thời điểm nhận thế chấp
+không có tranh chấp...), Tòa án vẫn tuyên giao dịch thế
+chấp vô hiệu do giao dịch tài sản trước đó với bên thứ
+ba bị tuyên vô hiệu. Ngày 02/8/2021, Tòa án nhân dân
+tối cao đã ban hành Công văn số 02/TANDTC-PC v/v
+giải đáp một số vướng mắc trong xét xử, theo đó, định
+hướng quan điểm xét xử trong hệ thống Tòa án với nội
+dung: các TCTD cần phải thực hiện thủ tục thẩm định,
+xác minh tài sản để làm căn cứ chứng minh chủ sở hữu
+thực tế của tài sản thì mới được xác định là bên thứ ba
+ngay tình. Đây cũng là quan điểm mà các TCTD cần
+lưu ý và rút kinh nghiệm trong quá trình xác lập các
+quan hệ bảo đảm mới với khách hàng.
+Bên cạnh đó, Chính phủ và NHNN cũng đã ban hành
+một số Nghị định và Thông tư quan trọng nhằm hướng
+dẫn thực hiện và triển khai các quy định của Luật trong
+lĩnh vực tài chính - ngân hàng, bao gồm: Nghị định số
+65/2022/NĐ-CP sửa đổi, bổ sung một số điều của Nghị
+định số 153/2020/NĐ-CP ngày 31/12/2020 quy định về
+chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ
+tại thị trường trong nước và chào bán trái phiếu doanh
 nghiệp ra thị trường quốc tế; Nghị định số 99/2022/NĐ-
-CP ngày 30/11/2022 về đăng ký biện pháp bảo đảm; 
-Thông tư 11/2022/TT-NHNN ngày 30/9/2022 quy định 
+CP ngày 30/11/2022 về đăng ký biện pháp bảo đảm;
+Thông tư 11/2022/TT-NHNN ngày 30/9/2022 quy định
 về bảo lãnh ngân hàng thay thế Thông tư số 07/2015/
 TT-NHNN ngày 25/6/2015 và Thông tư số 13/2017/TT-
-NHNN ngày 29/9/2017 của Thống đốc Ngân hàng Nhà 
-nước; Thông tư số 26/2022/TT-NHNN ngày 31/12/2022 
+NHNN ngày 29/9/2017 của Thống đốc Ngân hàng Nhà
+nước; Thông tư số 26/2022/TT-NHNN ngày 31/12/2022
 sửa đổi, bổ sung một số điều của Thông tư số 22/2019/
-TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn 
-trong hoạt động của ngân hàng, chi nhánh ngân hàng 
+TT-NHNN quy định các giới hạn, tỷ lệ bảo đảm an toàn
+trong hoạt động của ngân hàng, chi nhánh ngân hàng
 nước ngoài; …
-Với đặc thù là một nền kinh tế đang phát triển và đang 
-trong quá trình hội nhập kinh tế quốc tế mạnh mẽ nên 
-mặc dù Việt Nam đã ban hành nhiều văn bản quy 
-phạm pháp luật để điều chỉnh trong lĩnh vực tài chính 
-- ngân hàng nhưng có thể đánh giá, hệ thống pháp 
-luật về ngân hàng tại Việt Nam vẫn đang trong quá 
-trình hoàn thiện để dần đáp ứng các chuẩn mực quốc 
-tế. Do vậy, Quốc hội, Chính phủ, NHNN sẽ tiếp tục ban 
-hành và/hoặc thay đổi các quy định pháp luật liên 
-quan tới hoạt động của các ngân hàng thương mại 
-nói chung và BIDV nói riêng. Ảnh hưởng của những 
-thay đổi về chính sách, pháp luật và trong tương lai là 
-không thể dự đoán trước và nằm ngoài tầm kiểm soát 
-của BIDV, vì vậy, đây vẫn có thể coi là một trong các rủi 
-ro tiềm tàng đối với các nhà đầu tư liên quan đến vấn 
-đề thay đổi quy định pháp luật từ phía các cơ quan 
+Với đặc thù là một nền kinh tế đang phát triển và đang
+trong quá trình hội nhập kinh tế quốc tế mạnh mẽ nên
+mặc dù Việt Nam đã ban hành nhiều văn bản quy
+phạm pháp luật để điều chỉnh trong lĩnh vực tài chính
+- ngân hàng nhưng có thể đánh giá, hệ thống pháp
+luật về ngân hàng tại Việt Nam vẫn đang trong quá
+trình hoàn thiện để dần đáp ứng các chuẩn mực quốc
+tế. Do vậy, Quốc hội, Chính phủ, NHNN sẽ tiếp tục ban
+hành và/hoặc thay đổi các quy định pháp luật liên
+quan tới hoạt động của các ngân hàng thương mại
+nói chung và BIDV nói riêng. Ảnh hưởng của những
+thay đổi về chính sách, pháp luật và trong tương lai là
+không thể dự đoán trước và nằm ngoài tầm kiểm soát
+của BIDV, vì vậy, đây vẫn có thể coi là một trong các rủi
+ro tiềm tàng đối với các nhà đầu tư liên quan đến vấn
+đề thay đổi quy định pháp luật từ phía các cơ quan
 quản lý Nhà nước có thẩm quyền.
 RỦI RO LUẬT PHÁP
-02
-QUẢN LÝ 
+QUẢN LÝ
 RỦI RO
 (tiếp theo)
 
-60
-61
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Rủi ro tín dụng đối tác (TDĐT) là rủi ro do đối tác không 
-thực hiện hoặc không có khả năng thực hiện một phần 
-hoặc toàn bộ nghĩa vụ thanh toán trước hoặc khi đến 
-hạn của các giao dịch bao gồm: (i) Giao dịch tự doanh, 
-(ii) Giao dịch repo và reverse repo, (iii) Giao dịch sản 
-phẩm phái sinh để phòng ngừa rủi ro, (iv) Giao dịch 
-mua bán ngoại tệ, tài sản tài chính với mục đích phục 
+Rủi ro tín dụng đối tác (TDĐT) là rủi ro do đối tác không
+thực hiện hoặc không có khả năng thực hiện một phần
+hoặc toàn bộ nghĩa vụ thanh toán trước hoặc khi đến
+hạn của các giao dịch bao gồm: (i) Giao dịch tự doanh,
+(ii) Giao dịch repo và reverse repo, (iii) Giao dịch sản
+phẩm phái sinh để phòng ngừa rủi ro, (iv) Giao dịch
+mua bán ngoại tệ, tài sản tài chính với mục đích phục
 vụ nhu cầu của khách hàng, đối tác.
-Để triển khai Chính sách và Quy định QLRR TDĐT 
-trong năm 2022, BIDV đã triển khai tính tài sản có rủi 
-ro TDĐT theo quy định tại Thông tư 41; xây dựng và 
-ban hành cẩm nang xác định TSCRR TDĐT; xây dựng 
-chỉ tiêu khẩu vị rủi ro và ngưỡng cảnh báo để giám 
-sát mức độ tuân thủ khẩu vị rủi ro đối với rủi ro TDĐT. 
-Bên cạnh đó, BIDV đã hoàn thành triển khai dự án tư 
-vấn “Quản lý và đo lường rủi ro tín dụng đối tác” – 
-PCR07, theo đó, trở thành ngân hàng đầu tiên trong hệ 
-thống triển khai đo lường theo phương pháp SA-CCR, 
-phù hợp với thông lệ Basel III bên cạnh việc triển khai 
+Để triển khai Chính sách và Quy định QLRR TDĐT
+trong năm 2022, BIDV đã triển khai tính tài sản có rủi
+ro TDĐT theo quy định tại Thông tư 41; xây dựng và
+ban hành cẩm nang xác định TSCRR TDĐT; xây dựng
+chỉ tiêu khẩu vị rủi ro và ngưỡng cảnh báo để giám
+sát mức độ tuân thủ khẩu vị rủi ro đối với rủi ro TDĐT.
+Bên cạnh đó, BIDV đã hoàn thành triển khai dự án tư
+vấn “Quản lý và đo lường rủi ro tín dụng đối tác” –
+PCR07, theo đó, trở thành ngân hàng đầu tiên trong hệ
+thống triển khai đo lường theo phương pháp SA-CCR,
+phù hợp với thông lệ Basel III bên cạnh việc triển khai
 khung quản lý rủi ro TDĐT đầy đủ, đồng bộ, bao gồm:
 RỦI RO TÍN DỤNG
 RỦI RO TÍN DỤNG ĐỐI TÁC
 (i) Cơ cấu tổ chức theo mô hình 3 tuyến bảo vệ.
-(ii) Xây dựng và ban hành hệ thống VBCĐ đầy đủ theo 
+(ii) Xây dựng và ban hành hệ thống VBCĐ đầy đủ theo
 quy định của NHNN.
-(iii) Có hệ thống khẩu vị, hạn mức, công cụ đo lường 
+(iii) Có hệ thống khẩu vị, hạn mức, công cụ đo lường
 phù hợp theo thông lệ.
 (iv) Có hệ thống công nghệ hỗ trợ quản lý rủi ro.
-Trong năm 2023, BIDV sẽ: (i) tiếp tục hoàn thiện hệ 
-thống VBCĐ phục vụ QLRR TDĐT, hướng tới khung 
-QLRR TDĐT toàn diện; (ii) triển khai các công cụ đo 
-lường và QLRR TDĐT theo các phương pháp tiên tiến, 
-đảm bảo tuân thủ yêu cầu của NHNN và phù hợp với 
-chuẩn mực Basel; (iii) tăng cường đào tạo, nghiên cứu 
-và truyền thông về khung QLRR TDĐT trên toàn hệ 
-thống và (iv) nâng cấp, xây dựng các chương trình, 
-phần mềm, tăng cường áp dụng chuyển đổi số trong 
+Trong năm 2023, BIDV sẽ: (i) tiếp tục hoàn thiện hệ
+thống VBCĐ phục vụ QLRR TDĐT, hướng tới khung
+QLRR TDĐT toàn diện; (ii) triển khai các công cụ đo
+lường và QLRR TDĐT theo các phương pháp tiên tiến,
+đảm bảo tuân thủ yêu cầu của NHNN và phù hợp với
+chuẩn mực Basel; (iii) tăng cường đào tạo, nghiên cứu
+và truyền thông về khung QLRR TDĐT trên toàn hệ
+thống và (iv) nâng cấp, xây dựng các chương trình,
+phần mềm, tăng cường áp dụng chuyển đổi số trong
 công tác QLRR TDĐT.
-Nhận thức rõ tầm quan trọng của công tác quản trị 
-rủi ro tín dụng trong quá trình hoạt động kinh doanh 
-hướng tới mục tiêu an toàn, hiệu quả và bền vững, 
-BIDV luôn chủ động, tiên phong áp dụng các thông lệ 
-quốc tế tốt nhất để quản trị rủi ro tín dụng. 
-Mô hình quản lý rủi ro của BIDV đã đáp ứng nguyên 
-tắc độc lập và tập trung theo khuyến nghị của Ủy ban 
-Basel. Trong toàn hệ thống BIDV từ Trụ sở chính (TSC) 
-đến các chi nhánh, cơ cấu tổ chức được thiết lập phù 
-hợp, phân định rõ chức năng nhiệm vụ quyền hạn của 
-các bộ phận/các cá nhân liên quan tuân thủ quy định 
-NHNN tại Thông tư 13/2018/TT-NHNN và chủ động 
-từng bước tập trung hóa quy trình tín dụng theo thông 
-lệ quốc tế về quản trị rủi ro tín dụng. Hệ thống văn 
-bản chế độ trong hoạt động cấp tín dụng và các chính 
-sách, chiến lược quản lý rủi ro tín dụng theo giai đoạn 
-tối thiểu 3 năm được ban hành đầy đủ, rà soát thường 
-xuyên, đáp ứng quy định của NHNN cũng như phù hợp 
-với thông lệ quốc tế. 
-BIDV đã được NHNN công nhận là một trong các ngân 
+Nhận thức rõ tầm quan trọng của công tác quản trị
+rủi ro tín dụng trong quá trình hoạt động kinh doanh
+hướng tới mục tiêu an toàn, hiệu quả và bền vững,
+BIDV luôn chủ động, tiên phong áp dụng các thông lệ
+quốc tế tốt nhất để quản trị rủi ro tín dụng.
+Mô hình quản lý rủi ro của BIDV đã đáp ứng nguyên
+tắc độc lập và tập trung theo khuyến nghị của Ủy ban
+Basel. Trong toàn hệ thống BIDV từ Trụ sở chính (TSC)
+đến các chi nhánh, cơ cấu tổ chức được thiết lập phù
+hợp, phân định rõ chức năng nhiệm vụ quyền hạn của
+các bộ phận/các cá nhân liên quan tuân thủ quy định
+NHNN tại Thông tư 13/2018/TT-NHNN và chủ động
+từng bước tập trung hóa quy trình tín dụng theo thông
+lệ quốc tế về quản trị rủi ro tín dụng. Hệ thống văn
+bản chế độ trong hoạt động cấp tín dụng và các chính
+sách, chiến lược quản lý rủi ro tín dụng theo giai đoạn
+tối thiểu 3 năm được ban hành đầy đủ, rà soát thường
+xuyên, đáp ứng quy định của NHNN cũng như phù hợp
+với thông lệ quốc tế.
+BIDV đã được NHNN công nhận là một trong các ngân
 hàng hoàn thành sớm, đáp ứng Thông tư 41/2016/
-TT-NHNN về chuẩn mực Basel II (theo phương pháp 
-tiêu chuẩn). BIDV cũng đã chủ động triển khai, hoàn 
-thành xây dựng công cụ đo lường rủi ro tín dụng theo 
-phương pháp tiên tiến (IRB) và vận dụng các công cụ 
-đo lường theo phương pháp IRB vào hoạt động quản 
-trị rủi ro tín dụng. Bên cạnh đó, BIDV đang tiếp tục 
-nghiên cứu để thực hiện kiểm định các công cụ đo 
-lường rủi ro theo IRB để sẵn sàng đáp ứng phương 
+TT-NHNN về chuẩn mực Basel II (theo phương pháp
+tiêu chuẩn). BIDV cũng đã chủ động triển khai, hoàn
+thành xây dựng công cụ đo lường rủi ro tín dụng theo
+phương pháp tiên tiến (IRB) và vận dụng các công cụ
+đo lường theo phương pháp IRB vào hoạt động quản
+trị rủi ro tín dụng. Bên cạnh đó, BIDV đang tiếp tục
+nghiên cứu để thực hiện kiểm định các công cụ đo
+lường rủi ro theo IRB để sẵn sàng đáp ứng phương
 pháp nâng cao ngay khi NHNN yêu cầu.
 RỦI RO VỀ TÍN DỤNG
-03
-QUẢN LÝ 
+QUẢN LÝ
 RỦI RO
 (tiếp theo)
 
-62
-63
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Rủi ro hoạt động (RRHĐ) là rủi ro do các quy trình nội 
-bộ quy định không đầy đủ hoặc có sai sót, do yếu tố 
-con người, do các lỗi, sự cố của hệ thống hoặc do các 
-yếu tố bên ngoài. RRHĐ có thể xảy ra trong mọi hoạt 
-động của ngân hàng và rất khó lường. 
-Để triển khai Chính sách và Quy định Quản lý rủi ro 
-hoạt động (QLRRHĐ) trong năm 2022, BIDV đã triển 
-khai đồng bộ các công việc QLRRHĐ bảo đảm tuân 
-thủ quy định của cơ quan chức năng, hướng theo 
-thông lệ và phù hợp với thực tế: 
-(i) Tiếp tục triển khai cơ cấu tổ chức theo mô hình 3 
+Rủi ro hoạt động (RRHĐ) là rủi ro do các quy trình nội
+bộ quy định không đầy đủ hoặc có sai sót, do yếu tố
+con người, do các lỗi, sự cố của hệ thống hoặc do các
+yếu tố bên ngoài. RRHĐ có thể xảy ra trong mọi hoạt
+động của ngân hàng và rất khó lường.
+Để triển khai Chính sách và Quy định Quản lý rủi ro
+hoạt động (QLRRHĐ) trong năm 2022, BIDV đã triển
+khai đồng bộ các công việc QLRRHĐ bảo đảm tuân
+thủ quy định của cơ quan chức năng, hướng theo
+thông lệ và phù hợp với thực tế:
+(i) Tiếp tục triển khai cơ cấu tổ chức theo mô hình 3
 tuyến bảo vệ;
-(ii) Rà soát, cải tiến, ban hành lại toàn bộ hệ thống 
-VBCĐ; 
-(iii) Thiết lập và giám sát tuân thủ khẩu vị, hạn mức 
-RRHĐ; 
-(iv) Triển khai các công cụ QLRRHĐ: RCSA (Tự đánh giá 
-kiểm soát RRHĐ), KRI (Chỉ số rủi ro trọng yếu), LDC (Thu 
-thập và phân tích sự kiện RRHĐ), sử dụng các phát 
-hiện của kiểm toán nội bộ và kiểm toán độc lập. Đồng 
-thời, hoàn thành nghiên cứu và đưa vào triển khai thí 
+(ii) Rà soát, cải tiến, ban hành lại toàn bộ hệ thống
+VBCĐ;
+(iii) Thiết lập và giám sát tuân thủ khẩu vị, hạn mức
+RRHĐ;
+(iv) Triển khai các công cụ QLRRHĐ: RCSA (Tự đánh giá
+kiểm soát RRHĐ), KRI (Chỉ số rủi ro trọng yếu), LDC (Thu
+thập và phân tích sự kiện RRHĐ), sử dụng các phát
+hiện của kiểm toán nội bộ và kiểm toán độc lập. Đồng
+thời, hoàn thành nghiên cứu và đưa vào triển khai thí
 điểm công cụ sơ đồ hóa quy trình nghiệp vụ;
-(v) QLRRHĐ đối với các hoạt động thuê ngoài; QLRRHĐ 
-đối với sản phẩm mới, hoạt động trong thị trường mới; 
-(vi) Xây dựng, diễn tập, báo cáo triển khai BCP (kế 
-hoạch duy trì hoạt động liên tục) và ứng phó các sự 
-kiện dịch Covid-19, dịch đậu mùa khỉ, dịch bệnh nguy 
-hiểm mùa hè, cảnh báo cướp ngân hàng, thiên tai. Về 
-cơ bản, hoạt động tại các đơn vị bảo đảm an toàn, 
+(v) QLRRHĐ đối với các hoạt động thuê ngoài; QLRRHĐ
+đối với sản phẩm mới, hoạt động trong thị trường mới;
+(vi) Xây dựng, diễn tập, báo cáo triển khai BCP (kế
+hoạch duy trì hoạt động liên tục) và ứng phó các sự
+kiện dịch Covid-19, dịch đậu mùa khỉ, dịch bệnh nguy
+hiểm mùa hè, cảnh báo cướp ngân hàng, thiên tai. Về
+cơ bản, hoạt động tại các đơn vị bảo đảm an toàn,
 thông suốt, sức khỏe cán bộ ổn định;
-(vii) Tính và kiểm tra sức chịu đựng về vốn yêu cầu 
-cho RRHĐ theo quy định của NHNN tại Thông tư 13, 
-Thông tư 41. Đồng thời chủ động nghiên cứu để đề 
-xuất kế hoạch triển khai tính Vốn yêu cầu cho RRHĐ 
+(vii) Tính và kiểm tra sức chịu đựng về vốn yêu cầu
+cho RRHĐ theo quy định của NHNN tại Thông tư 13,
+Thông tư 41. Đồng thời chủ động nghiên cứu để đề
+xuất kế hoạch triển khai tính Vốn yêu cầu cho RRHĐ
 theo Basel III;
-(viii) Thực hiện các báo cáo định kỳ, đột xuất về công 
-tác QLRRHĐ; 
-(ix) Xây dựng chương trình phần mềm phục vụ cho 
-công tác QLRRHĐ; 
-(x) Đào tạo, truyền thông về công tác QLRRHĐ trong 
+(viii) Thực hiện các báo cáo định kỳ, đột xuất về công
+tác QLRRHĐ;
+(ix) Xây dựng chương trình phần mềm phục vụ cho
+công tác QLRRHĐ;
+(x) Đào tạo, truyền thông về công tác QLRRHĐ trong
 toàn hệ thống.
-Trong năm tiếp theo (2023), BIDV sẽ tiếp tục triển khai 
-đầy đủ các công việc QLRRHĐ bảo đảm tuân thủ quy 
-định của NHNN, quy định nội bộ và phát triển các công 
-cụ quản lý rủi ro theo Basel III. Đồng thời, chủ động 
-nghiên cứu, cải tiến, nâng cao chất lượng công tác 
-cảnh báo RRHĐ hỗ trợ hoạt động kinh doanh và bảo 
+Trong năm tiếp theo (2023), BIDV sẽ tiếp tục triển khai
+đầy đủ các công việc QLRRHĐ bảo đảm tuân thủ quy
+định của NHNN, quy định nội bộ và phát triển các công
+cụ quản lý rủi ro theo Basel III. Đồng thời, chủ động
+nghiên cứu, cải tiến, nâng cao chất lượng công tác
+cảnh báo RRHĐ hỗ trợ hoạt động kinh doanh và bảo
 đảm an toàn hoạt động.
-Rủi ro thị trường là rủi ro do biến động bất lợi của lãi 
-suất (đối với sổ kinh doanh), tỷ giá, giá cổ phiếu (đối với 
-sổ kinh doanh) và giá hàng hóa trên thị trường. 
-Để triển khai Chính sách và Quy định quản lý rủi ro thị 
-trường trong năm 2022, BIDV đã thiết lập cơ cấu tổ 
-chức theo mô hình 3 tuyến bảo vệ, ban hành đầy đủ, 
-đồng bộ hệ thống văn bản chế độ, văn bản hướng dẫn 
-nhằm nhận dạng, đo lường, theo dõi, kiểm soát rủi ro 
-thị trường bảo đảm tuân thủ quy định của NHNN, đáp 
-ứng yêu cầu quản trị nội bộ của BIDV và tiệm cận với 
-thông lệ quốc tế. Năm 2022, BIDV áp dụng các công 
-cụ đo lường rủi ro thị trường như: (i) Trạng thái, (ii) Lãi/ 
-lỗ thực tế và dự kiến, (iii) Độ nhạy, (iv) Giá trị chịu rủi ro 
-(VaR), (v) Kiểm nghiệm giả thuyết (backtest), (vi) Kiểm 
-tra sức chịu đựng (stresstest), (vii) Vốn yêu cầu cho rủi 
-ro thị trường. Trên cơ sở kết quả đo lường rủi ro thông 
-qua các công cụ nêu trên, hệ thống hạn mức được 
-xác lập và theo dõi hàng ngày nhằm bảo đảm kiểm 
-soát chặt chẽ rủi ro của ngân hàng. Ngoài ra, trong 
-năm 2022 BIDV đã nghiên cứu để tự động hóa báo 
-cáo đánh giá rủi ro thị trường hàng ngày, tính VaR tích 
-hợp,…
-Kế hoạch trong năm 2023, BIDV sẽ tiếp tục đẩy mạnh 
-nghiên cứu, triển khai các công cụ đo lường quản lý 
-rủi ro thị trường mới theo Basel III; phát triển hệ thống 
-phần mềm, đồng thời tích cực ứng dụng công nghệ 
-thông tin, chuyển đổi số trong công tác quản lý rủi ro 
-thị trường hàng ngày. 
-Rủi ro lãi suất sổ ngân hàng (LSSNH) là rủi ro phát sinh 
-do biến động bất lợi của lãi suất đối với thu nhập, giá 
-trị tài sản, giá trị nợ phải trả và giá trị cam kết ngoại 
+Rủi ro thị trường là rủi ro do biến động bất lợi của lãi
+suất (đối với sổ kinh doanh), tỷ giá, giá cổ phiếu (đối với
+sổ kinh doanh) và giá hàng hóa trên thị trường.
+Để triển khai Chính sách và Quy định quản lý rủi ro thị
+trường trong năm 2022, BIDV đã thiết lập cơ cấu tổ
+chức theo mô hình 3 tuyến bảo vệ, ban hành đầy đủ,
+đồng bộ hệ thống văn bản chế độ, văn bản hướng dẫn
+nhằm nhận dạng, đo lường, theo dõi, kiểm soát rủi ro
+thị trường bảo đảm tuân thủ quy định của NHNN, đáp
+ứng yêu cầu quản trị nội bộ của BIDV và tiệm cận với
+thông lệ quốc tế. Năm 2022, BIDV áp dụng các công
+cụ đo lường rủi ro thị trường như: (i) Trạng thái, (ii) Lãi/
+lỗ thực tế và dự kiến, (iii) Độ nhạy, (iv) Giá trị chịu rủi ro
+(VaR), (v) Kiểm nghiệm giả thuyết (backtest), (vi) Kiểm
+tra sức chịu đựng (stresstest), (vii) Vốn yêu cầu cho rủi
+ro thị trường. Trên cơ sở kết quả đo lường rủi ro thông
+qua các công cụ nêu trên, hệ thống hạn mức được
+xác lập và theo dõi hàng ngày nhằm bảo đảm kiểm
+soát chặt chẽ rủi ro của ngân hàng. Ngoài ra, trong
+năm 2022 BIDV đã nghiên cứu để tự động hóa báo
+cáo đánh giá rủi ro thị trường hàng ngày, tính VaR tích
+Kế hoạch trong năm 2023, BIDV sẽ tiếp tục đẩy mạnh
+nghiên cứu, triển khai các công cụ đo lường quản lý
+rủi ro thị trường mới theo Basel III; phát triển hệ thống
+phần mềm, đồng thời tích cực ứng dụng công nghệ
+thông tin, chuyển đổi số trong công tác quản lý rủi ro
+thị trường hàng ngày.
+Rủi ro lãi suất sổ ngân hàng (LSSNH) là rủi ro phát sinh
+do biến động bất lợi của lãi suất đối với thu nhập, giá
+trị tài sản, giá trị nợ phải trả và giá trị cam kết ngoại
 bảng của ngân hàng thương mại.
-Để triển khai Chính sách và Quy định QLRR LSSNH, 
-BIDV đã thực hiện đầy đủ các nội dung để QLRR 
+Để triển khai Chính sách và Quy định QLRR LSSNH,
+BIDV đã thực hiện đầy đủ các nội dung để QLRR
 LSSNH trong năm 2022, cụ thể:
-• Rà soát hệ thống văn bản chế độ, ban hành lại/ban 
-hành mới các cẩm nang hướng dẫn phù hợp với thực 
+• Rà soát hệ thống văn bản chế độ, ban hành lại/ban
+hành mới các cẩm nang hướng dẫn phù hợp với thực
 tế triển khai.
-• Áp dụng đầy đủ các công cụ đo lường rủi ro LSSNH 
-theo quy định của NHNN và thông lệ: (i) Trạng thái 
-chênh lệch kỳ định lại lãi suất (repricing gap); (ii) Thay 
-đổi thu nhập lãi thuần (∆NII); (iii) Khe hở thời lượng 
-(duration gap); (iv) Thay đổi giá trị kinh tế của vốn chủ 
-sở hữu (∆EVE). 
-• Hệ thống hạn mức được xác lập và theo dõi hàng 
-ngày trên cơ sở kết quả đo lường rủi ro nhằm bảo đảm 
-kiểm soát rủi ro của ngân hàng. 
-• Kiểm tra sức chịu đựng về vốn đối với rủi ro LSSNH 
-khi thực hiện trong quy trình đánh giá mức độ đủ vốn, 
-qua đó xác định vốn yêu cầu và TSCRR LSSNH. Ngoài 
-ra, BIDV thực hiện kiểm tra sức chịu đựng riêng đối với 
-rủi ro LSSNH định kỳ 6 tháng với các kịch bản phù hợp 
+• Áp dụng đầy đủ các công cụ đo lường rủi ro LSSNH
+theo quy định của NHNN và thông lệ: (i) Trạng thái
+chênh lệch kỳ định lại lãi suất (repricing gap); (ii) Thay
+đổi thu nhập lãi thuần (∆NII); (iii) Khe hở thời lượng
+(duration gap); (iv) Thay đổi giá trị kinh tế của vốn chủ
+sở hữu (∆EVE).
+• Hệ thống hạn mức được xác lập và theo dõi hàng
+ngày trên cơ sở kết quả đo lường rủi ro nhằm bảo đảm
+kiểm soát rủi ro của ngân hàng.
+• Kiểm tra sức chịu đựng về vốn đối với rủi ro LSSNH
+khi thực hiện trong quy trình đánh giá mức độ đủ vốn,
+qua đó xác định vốn yêu cầu và TSCRR LSSNH. Ngoài
+ra, BIDV thực hiện kiểm tra sức chịu đựng riêng đối với
+rủi ro LSSNH định kỳ 6 tháng với các kịch bản phù hợp
 khuyến nghị của Basel.
-Trong năm 2023, BIDV sẽ tiếp tục thực hiện đầy đủ 
-các công việc QLRR LSSNH bám sát các quy định của 
-pháp luật và NHNN; rà soát và cải tiến hệ thống văn 
-bản chế độ; đồng thời tiếp tục nghiên cứu cải tiến hệ 
-thống công cụ đo lường theo Basel III, hoàn thành xây 
-dựng và chính thức triển khai hệ thống phần mềm 
-Quản lý tài sản nợ - có (ALM) nhằm hỗ trợ công tác 
+Trong năm 2023, BIDV sẽ tiếp tục thực hiện đầy đủ
+các công việc QLRR LSSNH bám sát các quy định của
+pháp luật và NHNN; rà soát và cải tiến hệ thống văn
+bản chế độ; đồng thời tiếp tục nghiên cứu cải tiến hệ
+thống công cụ đo lường theo Basel III, hoàn thành xây
+dựng và chính thức triển khai hệ thống phần mềm
+Quản lý tài sản nợ - có (ALM) nhằm hỗ trợ công tác
 QLRR LSSNH.
-RỦI RO HOẠT ĐỘNG 
-04
-RỦI RO THỊ TRƯỜNG 
-05
-RỦI RO LÃI SUẤT 
-SỔ NGÂN HÀNG 
-06
-QUẢN LÝ 
+RỦI RO HOẠT ĐỘNG
+RỦI RO THỊ TRƯỜNG
+RỦI RO LÃI SUẤT
+SỔ NGÂN HÀNG
+QUẢN LÝ
 RỦI RO
 (tiếp theo)
 
-64
-65
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Rủi ro thanh khoản là rủi ro phát sinh khi ngân hàng 
-không có khả năng thực hiện các nghĩa vụ trả nợ khi 
-đến hạn hoặc có khả năng thực hiện nghĩa vụ trả nợ 
-khi đến hạn nhưng phải trả chi phí cao hơn mức chi 
-phí bình quân của thị trường theo quy định nội bộ của 
-ngân hàng thương mại. 
-Để triển khai Chính sách và Quy định quản lý rủi ro 
-thanh khoản trong năm 2022, BIDV đã thực hiện đầy 
-đủ các nội dung để quản lý rủi ro thanh khoản theo 
-quy định hiện hành của NHNN, đồng thời nghiên cứu 
+Rủi ro thanh khoản là rủi ro phát sinh khi ngân hàng
+không có khả năng thực hiện các nghĩa vụ trả nợ khi
+đến hạn hoặc có khả năng thực hiện nghĩa vụ trả nợ
+khi đến hạn nhưng phải trả chi phí cao hơn mức chi
+phí bình quân của thị trường theo quy định nội bộ của
+ngân hàng thương mại.
+Để triển khai Chính sách và Quy định quản lý rủi ro
+thanh khoản trong năm 2022, BIDV đã thực hiện đầy
+đủ các nội dung để quản lý rủi ro thanh khoản theo
+quy định hiện hành của NHNN, đồng thời nghiên cứu
 áp dụng thông lệ tiên tiến phù hợp. Cụ thể:
-	• Hệ thống văn bản đã được ban hành đồng bộ bao 
-gồm chính sách, quy định, các văn bản hướng dẫn, 
-được rà soát đảm bảo tính phù hợp. 
-	• Việc nhận dạng, đo lường, theo dõi, kiểm soát rủi 
-ro và báo cáo được thực hiện hàng ngày và định 
-kỳ theo đúng quy định của NHNN, đáp ứng yêu cầu 
-quản trị nội bộ. 
-	• Bên cạnh các chỉ tiêu quản lý theo quy định của 
-NHNN, BIDV chủ động xây dựng các chỉ tiêu quản 
-lý rủi ro thanh khoản nội bộ, bộ chỉ tiêu nhận dạng 
-căng thẳng thanh khoản, xây dựng mô hình hành vi 
-khách hàng để ước tính chính xác hơn dòng tiền… 
-	• Kiểm tra sức chịu đựng thanh khoản được thực 
-hiện định kỳ 6 tháng và đột xuất khi thị trường có 
-dấu hiệu căng thẳng, qua đó xây dựng kế hoạch dự 
-phòng để sẵn sàng đối phó các tình huống bất lợi. 
-	• BIDV luôn bám sát các diễn biến của thị trường, nhu 
-cầu thanh toán của khách hàng, chuẩn bị sẵn các 
-kịch bản điều hành cân đối vốn phù hợp nhằm đảm 
-bảo an toàn thanh khoản trong mọi trường hợp. 
-Kế hoạch năm 2023, bên cạnh việc triển khai công tác 
-QLRR thanh khoản theo đúng quy định của NHNN, 
-BIDV sẽ tiếp tục đẩy mạnh nghiên cứu các chỉ tiêu 
-QLRR thanh khoản theo Basel III, phát triển các mô 
-hình hành vi khách hàng thông qua hệ thống phần 
+• Hệ thống văn bản đã được ban hành đồng bộ bao
+gồm chính sách, quy định, các văn bản hướng dẫn,
+được rà soát đảm bảo tính phù hợp.
+• Việc nhận dạng, đo lường, theo dõi, kiểm soát rủi
+ro và báo cáo được thực hiện hàng ngày và định
+kỳ theo đúng quy định của NHNN, đáp ứng yêu cầu
+quản trị nội bộ.
+• Bên cạnh các chỉ tiêu quản lý theo quy định của
+NHNN, BIDV chủ động xây dựng các chỉ tiêu quản
+lý rủi ro thanh khoản nội bộ, bộ chỉ tiêu nhận dạng
+căng thẳng thanh khoản, xây dựng mô hình hành vi
+khách hàng để ước tính chính xác hơn dòng tiền…
+• Kiểm tra sức chịu đựng thanh khoản được thực
+hiện định kỳ 6 tháng và đột xuất khi thị trường có
+dấu hiệu căng thẳng, qua đó xây dựng kế hoạch dự
+phòng để sẵn sàng đối phó các tình huống bất lợi.
+• BIDV luôn bám sát các diễn biến của thị trường, nhu
+cầu thanh toán của khách hàng, chuẩn bị sẵn các
+kịch bản điều hành cân đối vốn phù hợp nhằm đảm
+bảo an toàn thanh khoản trong mọi trường hợp.
+Kế hoạch năm 2023, bên cạnh việc triển khai công tác
+QLRR thanh khoản theo đúng quy định của NHNN,
+BIDV sẽ tiếp tục đẩy mạnh nghiên cứu các chỉ tiêu
+QLRR thanh khoản theo Basel III, phát triển các mô
+hình hành vi khách hàng thông qua hệ thống phần
 mềm Quản lý nợ - có (ALM).
-Rủi ro tập trung trong hoạt động giao dịch tự doanh là 
-rủi ro xuất phát từ hoạt động tự doanh, tập trung vào 
-một đối tác, sản phẩm, loại tiền tệ. 
-Để triển khai Chính sách và Quy định QLRR tập trung 
-trong giao dịch tự doanh trong năm 2022, BIDV đã xây 
-dựng hệ thống văn bản chế độ và cẩm nang hướng 
-dẫn nhằm nhận dạng, đo lường, theo dõi, kiểm soát 
-rủi ro tập trung trong hoạt động giao dịch tự doanh 
-bảo đảm tuân thủ quy định của NHNN, đáp ứng yêu 
-cầu quản trị nội bộ của BIDV và tiệm cận với thông lệ 
-quốc tế. Năm 2022, BIDV đã triển khai đồng bộ, đầy đủ 
-hệ thống mô hình, hạn mức, báo cáo định kỳ, đột xuất 
-nhằm nhận diện, đo lường, theo dõi và kiểm soát rủi 
-ro. Trong đó, rủi ro tập trung trong hoạt động giao dịch 
-tự doanh được đo lường bởi các phương pháp dựa 
-trên: (i) tỷ trọng số dư của đối tác, sản phẩm giao dịch, 
-loại tiền tệ so với tổng số dư giao dịch tự doanh; (ii) chỉ 
-số HHI; (iii) vốn yêu cầu cho rủi ro tập trung trong hoạt 
-động giao dịch tự doanh. 
-Năm 2023, BIDV sẽ tiếp tục triển khai công tác QLRR 
-tập trung trong hoạt động giao dịch tự doanh theo 
-quy định; đồng thời phát triển hệ thống phần mềm, 
-đẩy mạnh nghiên cứu, triển khai các công cụ đo lường 
+Rủi ro tập trung trong hoạt động giao dịch tự doanh là
+rủi ro xuất phát từ hoạt động tự doanh, tập trung vào
+một đối tác, sản phẩm, loại tiền tệ.
+Để triển khai Chính sách và Quy định QLRR tập trung
+trong giao dịch tự doanh trong năm 2022, BIDV đã xây
+dựng hệ thống văn bản chế độ và cẩm nang hướng
+dẫn nhằm nhận dạng, đo lường, theo dõi, kiểm soát
+rủi ro tập trung trong hoạt động giao dịch tự doanh
+bảo đảm tuân thủ quy định của NHNN, đáp ứng yêu
+cầu quản trị nội bộ của BIDV và tiệm cận với thông lệ
+quốc tế. Năm 2022, BIDV đã triển khai đồng bộ, đầy đủ
+hệ thống mô hình, hạn mức, báo cáo định kỳ, đột xuất
+nhằm nhận diện, đo lường, theo dõi và kiểm soát rủi
+ro. Trong đó, rủi ro tập trung trong hoạt động giao dịch
+tự doanh được đo lường bởi các phương pháp dựa
+trên: (i) tỷ trọng số dư của đối tác, sản phẩm giao dịch,
+loại tiền tệ so với tổng số dư giao dịch tự doanh; (ii) chỉ
+số HHI; (iii) vốn yêu cầu cho rủi ro tập trung trong hoạt
+động giao dịch tự doanh.
+Năm 2023, BIDV sẽ tiếp tục triển khai công tác QLRR
+tập trung trong hoạt động giao dịch tự doanh theo
+quy định; đồng thời phát triển hệ thống phần mềm,
+đẩy mạnh nghiên cứu, triển khai các công cụ đo lường
 mới bám sát thông lệ quốc tế.
-Môi trường kinh doanh với những biến động khôn 
-lường, đòi hỏi các ngân hàng phải luôn cập nhật xu 
-hướng và quản lý các loại rủi ro mới phát sinh. Theo 
-đó, BIDV luôn thường xuyên cập nhật, bám sát tình 
-hình nền kinh tế để truyền thông nội bộ, chủ động triển 
-khai các biện pháp ứng xử phù hợp, kịp thời, kiểm soát 
-sớm rủi ro phát sinh để luôn đảm bảo hiệu quả hoạt 
-động kinh doanh trước mọi biến động của môi trường 
-kinh doanh. 
-Đối với công tác quản trị rủi ro chiến lược, BIDV đã 
-thiết lập hệ thống chính sách, quy định, khẩu vị và các 
-hạn mức rủi ro nhằm nhận diện, đo lường, giám sát và 
-kiểm soát rủi ro theo quy định nội bộ cũng như tuân 
-thủ các quy định của Ngân hàng Nhà nước tại Thông 
-tư 13/2018/TT-NHNN. 
-BIDV là một trong các ngân hàng đầu tiên tại Việt 
-Nam áp dụng công cụ đo lường đánh giá mức độ rủi 
-ro cho các loại rủi ro định tính như: rủi ro chiến lược. 
-Công tác quản trị rủi ro chiến lược luôn được BIDV 
-theo dõi, kiểm soát và bám sát định hướng, chiến lược 
-phát triển kinh doanh của BIDV đến năm 2025, tầm 
-nhìn đến năm 2030. 
-Trong năm 2022, BIDV định kỳ nâng cấp, rà soát các 
-chính sách, quy định, chương trình đo lường, quản 
-lý rủi ro chiến lược nhằm đáp ứng tốt nhất các quy 
-định của Ngân hàng nhà nước cũng như các thông lệ 
+Môi trường kinh doanh với những biến động khôn
+lường, đòi hỏi các ngân hàng phải luôn cập nhật xu
+hướng và quản lý các loại rủi ro mới phát sinh. Theo
+đó, BIDV luôn thường xuyên cập nhật, bám sát tình
+hình nền kinh tế để truyền thông nội bộ, chủ động triển
+khai các biện pháp ứng xử phù hợp, kịp thời, kiểm soát
+sớm rủi ro phát sinh để luôn đảm bảo hiệu quả hoạt
+động kinh doanh trước mọi biến động của môi trường
+kinh doanh.
+Đối với công tác quản trị rủi ro chiến lược, BIDV đã
+thiết lập hệ thống chính sách, quy định, khẩu vị và các
+hạn mức rủi ro nhằm nhận diện, đo lường, giám sát và
+kiểm soát rủi ro theo quy định nội bộ cũng như tuân
+thủ các quy định của Ngân hàng Nhà nước tại Thông
+tư 13/2018/TT-NHNN.
+BIDV là một trong các ngân hàng đầu tiên tại Việt
+Nam áp dụng công cụ đo lường đánh giá mức độ rủi
+ro cho các loại rủi ro định tính như: rủi ro chiến lược.
+Công tác quản trị rủi ro chiến lược luôn được BIDV
+theo dõi, kiểm soát và bám sát định hướng, chiến lược
+phát triển kinh doanh của BIDV đến năm 2025, tầm
+nhìn đến năm 2030.
+Trong năm 2022, BIDV định kỳ nâng cấp, rà soát các
+chính sách, quy định, chương trình đo lường, quản
+lý rủi ro chiến lược nhằm đáp ứng tốt nhất các quy
+định của Ngân hàng nhà nước cũng như các thông lệ
 quốc tế.
-RỦI RO THANH KHOẢN 
-07
-RỦI RO TẬP TRUNG  
-TRONG HOẠT ĐỘNG  
-GIAO DỊCH TỰ DOANH 
-08
+RỦI RO THANH KHOẢN
+RỦI RO TẬP TRUNG
+TRONG HOẠT ĐỘNG
+GIAO DỊCH TỰ DOANH
 RỦI RO CHIẾN LƯỢC
-09
-QUẢN LÝ 
+QUẢN LÝ
 RỦI RO
 (tiếp theo)
 
-66
-67
-BÁO CÁO THƯỜNG NIÊN 2022
 TỔNG QUAN BIDV 2022
-Trong năm 2022, công tác quản lý rủi ro danh tiếng 
-được thực hiện theo đúng chính sách, quy định đã 
-được HĐQT ban hành. BIDV vinh dự được trao nhận 
-nhiều giải thưởng cao quý cả trong và ngoài nước; 
-được vinh danh là Doanh nghiệp đạt chuẩn văn hóa 
-kinh doanh Việt Nam năm 2022. Bên cạnh đó là các 
-giải thưởng như: Ngân hàng SME tốt nhất Việt Nam 
-lần thứ 5 liên tiếp, BIDV có giá trị thương hiệu tăng 
-trưởng 2,5 lần so với 2020 và trong Top 5 thương hiệu 
-tài chính hàng đầu (theo Tạp chí Forbes Việt Nam); 
-BIDV lọt Top 10 thương hiệu mạnh ngành Ngân hàng 
-(Theo tạp chí Kinh tế Việt Nam); BIDV nhận giải Chuyển 
+Trong năm 2022, công tác quản lý rủi ro danh tiếng
+được thực hiện theo đúng chính sách, quy định đã
+được HĐQT ban hành. BIDV vinh dự được trao nhận
+nhiều giải thưởng cao quý cả trong và ngoài nước;
+được vinh danh là Doanh nghiệp đạt chuẩn văn hóa
+kinh doanh Việt Nam năm 2022. Bên cạnh đó là các
+giải thưởng như: Ngân hàng SME tốt nhất Việt Nam
+lần thứ 5 liên tiếp, BIDV có giá trị thương hiệu tăng
+trưởng 2,5 lần so với 2020 và trong Top 5 thương hiệu
+tài chính hàng đầu (theo Tạp chí Forbes Việt Nam);
+BIDV lọt Top 10 thương hiệu mạnh ngành Ngân hàng
+(Theo tạp chí Kinh tế Việt Nam); BIDV nhận giải Chuyển
 đổi số Việt Nam năm 2022.
-Quy trình Quản lý rủi ro danh tiếng của BIDV là sự kết 
-hợp chặt chẽ giữa cơ cấu tổ chức, các chính sách, quy 
-định, hạn mức và khẩu vị rủi ro danh tiếng, được xây 
-dựng theo các tiêu chuẩn tiên tiến trên thế giới và tuân 
-thủ quy định nội bộ về Quản lý rủi ro cũng như quy 
-định của NHNN. Việc quản lý rủi ro danh tiếng được 
-thực hiện chi tiết đến từng đơn vị, cá nhân. Trên cơ 
-sở chính sách quản lý rủi ro danh tiếng do HĐQT ban 
-hành, BIDV có thể chủ động phòng ngừa, hạn chế các 
-rủi ro liên quan đến danh tiếng. Bên cạnh các công cụ 
-kỹ thuật, BIDV cũng không ngừng tập trung nâng cao 
-văn hóa kiểm soát rủi ro thông qua công tác đào tạo, 
-truyền thông, bảo đảm tuân thủ Bộ quy tắc ứng xử 
-và đạo đức nghề nghiệp, sổ tay văn hóa và xây dựng 
-một môi trường lao động gắn kết để ngăn ngừa rủi ro. 
-Đồng thời, BIDV tiếp tục rà soát, định kỳ cập nhật các 
-chính sách, quy định, phương pháp đo lường và bổ 
-sung, nâng cấp hệ thống, chương trình đo lường, quản 
-lý rủi ro danh tiếng theo hướng chuyển đổi số nhằm 
-đáp ứng tốt nhất các quy định của Ngân hàng Nhà 
+Quy trình Quản lý rủi ro danh tiếng của BIDV là sự kết
+hợp chặt chẽ giữa cơ cấu tổ chức, các chính sách, quy
+định, hạn mức và khẩu vị rủi ro danh tiếng, được xây
+dựng theo các tiêu chuẩn tiên tiến trên thế giới và tuân
+thủ quy định nội bộ về Quản lý rủi ro cũng như quy
+định của NHNN. Việc quản lý rủi ro danh tiếng được
+thực hiện chi tiết đến từng đơn vị, cá nhân. Trên cơ
+sở chính sách quản lý rủi ro danh tiếng do HĐQT ban
+hành, BIDV có thể chủ động phòng ngừa, hạn chế các
+rủi ro liên quan đến danh tiếng. Bên cạnh các công cụ
+kỹ thuật, BIDV cũng không ngừng tập trung nâng cao
+văn hóa kiểm soát rủi ro thông qua công tác đào tạo,
+truyền thông, bảo đảm tuân thủ Bộ quy tắc ứng xử
+và đạo đức nghề nghiệp, sổ tay văn hóa và xây dựng
+một môi trường lao động gắn kết để ngăn ngừa rủi ro.
+Đồng thời, BIDV tiếp tục rà soát, định kỳ cập nhật các
+chính sách, quy định, phương pháp đo lường và bổ
+sung, nâng cấp hệ thống, chương trình đo lường, quản
+lý rủi ro danh tiếng theo hướng chuyển đổi số nhằm
+đáp ứng tốt nhất các quy định của Ngân hàng Nhà
 nước cũng như bám sát theo các thông lệ quốc tế.
-Rủi ro công nghệ thông tin (RRCNTT) là khả năng xảy 
-ra tổn thất khi thực hiện các hoạt động liên quan đến 
-hệ thống thông tin; liên quan đến quản lý, sử dụng 
-phần cứng, phần mềm, truyền thông, giao diện hệ 
+Rủi ro công nghệ thông tin (RRCNTT) là khả năng xảy
+ra tổn thất khi thực hiện các hoạt động liên quan đến
+hệ thống thông tin; liên quan đến quản lý, sử dụng
+phần cứng, phần mềm, truyền thông, giao diện hệ
 thống, vận hành và con người.
-BIDV đã xác định RRCNTT là một loại rủi ro trọng yếu 
-độc lập với RRHĐ và đã triển khai đồng bộ các công 
-việc QLRRCNTT bảo đảm tuân thủ quy định của cơ 
-quan chức năng, hướng theo thông lệ và phù hợp với 
+BIDV đã xác định RRCNTT là một loại rủi ro trọng yếu
+độc lập với RRHĐ và đã triển khai đồng bộ các công
+việc QLRRCNTT bảo đảm tuân thủ quy định của cơ
+quan chức năng, hướng theo thông lệ và phù hợp với
 thực tế.
-Trong năm 2022, để triển khai Chính sách và Quy định 
+Trong năm 2022, để triển khai Chính sách và Quy định
 QLRR CNTT, BIDV đã thực hiện các công việc như sau:
-(i) Tiếp tục triển khai cơ cấu tổ chức theo mô hình 3 
+(i) Tiếp tục triển khai cơ cấu tổ chức theo mô hình 3
 tuyến bảo vệ;
-(ii) Rà soát, cải tiến hệ thống VBCĐ; 
-(iii) Thiết lập và giám sát tuân thủ khẩu vị, hạn mức 
-RRCNTT; 
- (iv) Chính thức triển khai độc lập các công cụ đo 
-lường QLRR CNTT như RCSA (Tự đánh giá kiểm soát 
-RRCNTT), KRI (Chỉ số rủi ro trọng yếu), thẻ điểm đo 
-lường, LDC (Thu thập và phân tích sự kiện RRCNTT), 
-sử dụng các phát hiện của kiểm toán nội bộ và kiểm 
+(ii) Rà soát, cải tiến hệ thống VBCĐ;
+(iii) Thiết lập và giám sát tuân thủ khẩu vị, hạn mức
+RRCNTT;
+(iv) Chính thức triển khai độc lập các công cụ đo
+lường QLRR CNTT như RCSA (Tự đánh giá kiểm soát
+RRCNTT), KRI (Chỉ số rủi ro trọng yếu), thẻ điểm đo
+lường, LDC (Thu thập và phân tích sự kiện RRCNTT),
+sử dụng các phát hiện của kiểm toán nội bộ và kiểm
 toán độc lập.
-(v) Thực hiện các báo cáo định kỳ, đột xuất về công tác 
+(v) Thực hiện các báo cáo định kỳ, đột xuất về công tác
 QLRR CNTT.
-Trong năm tiếp theo (2023), BIDV sẽ tiếp tục triển khai 
-đầy đủ các công việc QLRRCNTT bảo đảm tuân thủ 
-quy định của NHNN, quy định nội bộ và hướng theo 
-thông lệ. Đồng thời, chủ động nghiên cứu, cải tiến, 
+Trong năm tiếp theo (2023), BIDV sẽ tiếp tục triển khai
+đầy đủ các công việc QLRRCNTT bảo đảm tuân thủ
+quy định của NHNN, quy định nội bộ và hướng theo
+thông lệ. Đồng thời, chủ động nghiên cứu, cải tiến,
 nâng cao chất lượng công tác cảnh báo RRCNTT.
 RỦI RO DANH TIẾNG
-10
 RỦI RO CÔNG NGHỆ THÔNG TIN
-11
-QUẢN LÝ 
+QUẢN LÝ
 RỦI RO
 (tiếp theo)
 
-70
-71
-BÁO CÁO THƯỜNG NIÊN 2022
 HOẠT ĐỘNG KINH DOANH
 TÌNH HÌNH HOẠT ĐỘNG KINH DOANH
-TỔNG TÀI SẢN đạt 2.120.609 tỷ đồng, tăng 20,4% 
-so với năm 2021, là Ngân hàng thương mại đầu tiên 
-vượt mốc 2 triệu tỷ đồng, tiếp tục là Ngân hàng 
-thương mại cổ phần có quy mô tổng tài sản lớn 
-nhất tại Việt Nam. 
-Năm 2022 là năm đánh dấu mốc 65 năm xây dựng và trưởng thành của BIDV; Vượt qua nhiều khó khăn, biến 
-động cả trong nước và quốc tế, năm 2022 tiếp tục ghi dấu những kết quả hoạt động tích cực của BIDV, hoàn 
-thành đồng bộ và toàn diện các chỉ tiêu, kế hoạch năm 2022 tại Nghị quyết của Đại hội đồng cổ đông và kế hoạch 
-kinh doanh do NHNN giao cả về quy mô, cơ cấu, chất lượng, hiệu quả.... Bên cạnh đó, BIDV tiếp tục khẳng định 
-vai trò chủ lực trong thực thi hiệu quả chính sách tiền tệ, góp phần duy trì, ổn định hoạt động của hệ thống ngân 
+TỔNG TÀI SẢN đạt 2.120.609 tỷ đồng, tăng 20,4%
+so với năm 2021, là Ngân hàng thương mại đầu tiên
+vượt mốc 2 triệu tỷ đồng, tiếp tục là Ngân hàng
+thương mại cổ phần có quy mô tổng tài sản lớn
+nhất tại Việt Nam.
+Năm 2022 là năm đánh dấu mốc 65 năm xây dựng và trưởng thành của BIDV; Vượt qua nhiều khó khăn, biến
+động cả trong nước và quốc tế, năm 2022 tiếp tục ghi dấu những kết quả hoạt động tích cực của BIDV, hoàn
+thành đồng bộ và toàn diện các chỉ tiêu, kế hoạch năm 2022 tại Nghị quyết của Đại hội đồng cổ đông và kế hoạch
+kinh doanh do NHNN giao cả về quy mô, cơ cấu, chất lượng, hiệu quả.... Bên cạnh đó, BIDV tiếp tục khẳng định
+vai trò chủ lực trong thực thi hiệu quả chính sách tiền tệ, góp phần duy trì, ổn định hoạt động của hệ thống ngân
 hàng, thúc đẩy sự phục hồi và phát triển của nền kinh tế.
 Kết quả hoạt động kinh doanh của BIDV đến 31/12/2022 cụ thể như sau:
-TT
 Chỉ tiêu
 Thực hiện
-2021
-Kế hoạch 2022 tại  
+Kế hoạch 2022 tại
 Nghị quyết ĐHĐCĐ
-Thực hiện 31/12/2022
-Đánh giá  
-so với  
+Đánh giá
+so với
 Kế hoạch
 Tuyệt đối
-% tăng 
+% tăng
 trưởng
-1
 Tổng tài sản
-1.761.696
-2.120.609
-20,4%
- 
-2
 Nguồn vốn huy động
-1.641.777
-1.973.861
- 20,2%
- 
--
-Trong đó: Huy động 
-vốn từ tổ chức, dân 
-cư
-1.509.483
-Điều hành phù hợp với tình 
-hình sử dụng vốn, đảm bảo 
+Trong đó: Huy động
+vốn từ tổ chức, dân
+Điều hành phù hợp với tình
+hình sử dụng vốn, đảm bảo
 an toàn, hiệu quả
-1.636.341
-8,4%
-Vượt  
+Vượt
 kế hoạch
-3
-Dư nợ tín dụng và 
+Dư nợ tín dụng và
 đầu tư
-1.677.310
- 
-1.985.375
-18,4%
--
-Trong đó: Dư nợ tín 
-dụng tổ chức kinh 
-tế, cá nhân và trái 
+Trong đó: Dư nợ tín
+dụng tổ chức kinh
+tế, cá nhân và trái
 phiếu doanh nghiệp
-1.368.029
-Tăng trưởng đảm bảo tuân 
-thủ giới hạn tín dụng NHNN 
-giao 
-1.534.242
-12,1%
-Đạt  
+Tăng trưởng đảm bảo tuân
+thủ giới hạn tín dụng NHNN
+giao
 kế hoạch
-4
-Tỷ lệ nợ xấu theo 
+Tỷ lệ nợ xấu theo
 Thông tư 11/2021/TT-
 NHNN
-0,82%
-< 1,6%
-0,96%
-Đảm bảo 
-kiểm soát 
-theo  
+Đảm bảo
+kiểm soát
+theo
 kế hoạch
-5
-Lợi nhuận trước 
+Lợi nhuận trước
 thuế
-13.548
-20.600
-23.009
-69,8%
-Vượt  
+Vượt
 kế hoạch
 Ghi chú:
-	• Các mục tiêu Kế hoạch kinh doanh 2022 của ĐHĐCĐ tại Nghị quyết số 383/2022/NQ-ĐHĐCĐ ngày 29/04/2022  
-	• Số liệu thực hiện năm 2022 là số liệu theo Báo cáo tài chính hợp nhất năm 2022 đã được kiểm toán.
-2.120.609
-1.973.861
-1.985.375
-0,96
-226
-tỷ đồng
-tỷ đồng
-tỷ đồng
-%
-%
-NGUỒN VỐN HUY ĐỘNG đáp ứng đủ nhu cầu 
-sử dụng vốn, đảm bảo an toàn thanh khoản hệ 
-thống: Tổng nguồn vốn huy động1 đến 31/12/2022 
-đạt 1.973.861 tỷ đồng; trong đó huy động vốn tổ 
-chức, dân cư đạt 1.636.341 tỷ đồng, tăng 8,4% so 
-với đầu năm; chiếm khoảng 14% thị phần tiền gửi 
+• Các mục tiêu Kế hoạch kinh doanh 2022 của ĐHĐCĐ tại Nghị quyết số 383/2022/NQ-ĐHĐCĐ ngày 29/04/2022
+• Số liệu thực hiện năm 2022 là số liệu theo Báo cáo tài chính hợp nhất năm 2022 đã được kiểm toán.
+NGUỒN VỐN HUY ĐỘNG đáp ứng đủ nhu cầu
+sử dụng vốn, đảm bảo an toàn thanh khoản hệ
+thống: Tổng nguồn vốn huy động1 đến 31/12/2022
+đạt 1.973.861 tỷ đồng; trong đó huy động vốn tổ
+chức, dân cư đạt 1.636.341 tỷ đồng, tăng 8,4% so
+với đầu năm; chiếm khoảng 14% thị phần tiền gửi
 toàn ngành ngân hàng.
-TỔNG DƯ NỢ TÍN DỤNG VÀ ĐẦU TƯ2 đạt 
-1.985.375 tỷ đồng; trong đó dư nợ tín dụng riêng 
-lẻ đạt 1.499.937 tỷ đồng, tăng 12,65% so với năm 
-2021, tuân thủ giới hạn tín dụng NHNN giao (tối 
-đa 12,7%), dư nợ tín dụng hợp nhất đạt 1.534.242 
-tỷ đồng, tăng 12,1% so với đầu năm, cao hơn mức 
-thực hiện năm 2021 (11,2%), chiếm 12,87% dư nợ 
-tín dụng toàn nền kinh tế, đứng đầu về thị phần 
-cho vay tổ chức kinh tế và dân cư trong khối Ngân 
-hàng thương mại cổ phần. 
-CHẤT LƯỢNG TÍN DỤNG của BIDV tiếp tục được 
-kiểm soát trong giới hạn: Tỷ lệ nợ xấu theo Thông 
-tư 11/2021/TT-NHNN đến 31/12/2022 kiểm soát ở 
-mức 0,96%, hoàn thành kế hoạch Đại hội đồng 
-cổ đông giao, đảm bảo mục tiêu định hướng của 
-NHNN (<1,6%). 
-1 Tổng nguồn vốn huy động gồm HĐV Thị trường 1; Các khoản nợ Chính phủ 
-và NHNN; Tiền gửi và vay các TCTD khác ; Vốn tài trợ, ủy thác đầu tư, cho 
+TỔNG DƯ NỢ TÍN DỤNG VÀ ĐẦU TƯ2 đạt
+1.985.375 tỷ đồng; trong đó dư nợ tín dụng riêng
+lẻ đạt 1.499.937 tỷ đồng, tăng 12,65% so với năm
+2021, tuân thủ giới hạn tín dụng NHNN giao (tối
+đa 12,7%), dư nợ tín dụng hợp nhất đạt 1.534.242
+tỷ đồng, tăng 12,1% so với đầu năm, cao hơn mức
+thực hiện năm 2021 (11,2%), chiếm 12,87% dư nợ
+tín dụng toàn nền kinh tế, đứng đầu về thị phần
+cho vay tổ chức kinh tế và dân cư trong khối Ngân
+hàng thương mại cổ phần.
+CHẤT LƯỢNG TÍN DỤNG của BIDV tiếp tục được
+kiểm soát trong giới hạn: Tỷ lệ nợ xấu theo Thông
+tư 11/2021/TT-NHNN đến 31/12/2022 kiểm soát ở
+mức 0,96%, hoàn thành kế hoạch Đại hội đồng
+cổ đông giao, đảm bảo mục tiêu định hướng của
+NHNN (<1,6%).
+1 Tổng nguồn vốn huy động gồm HĐV Thị trường 1; Các khoản nợ Chính phủ
+và NHNN; Tiền gửi và vay các TCTD khác ; Vốn tài trợ, ủy thác đầu tư, cho
 vay mà TCTD chịu rủi ro.
-2  Tổng dư nợ tín dụng và đầu tư gồm Cho vay khách hàng; Tiền gửi tại và 
-cho vay các TCTD khác; Chứng khoán kinh doanh, chứng khoán đầu tư và 
+2  Tổng dư nợ tín dụng và đầu tư gồm Cho vay khách hàng; Tiền gửi tại và
+cho vay các TCTD khác; Chứng khoán kinh doanh, chứng khoán đầu tư và
 góp vốn đầu tư dài hạn.
 Đơn vị: Tỷ đồng/%
 TỔNG TÀI SẢN
 TỔNG NGUỒN VỐN HUY ĐỘNG
 TỔNG DƯ NỢ TÍN DỤNG VÀ ĐẦU TƯ
 TỶ LỆ NỢ XẤU
-TỶ LỆ BAO PHỦ NỢ XẤU 
-KHỐI NGÂN HÀNG THƯƠNG MẠI 
-TỶ LỆ BAO PHỦ NỢ XẤU KHỐI NGÂN HÀNG 
-THƯƠNG MẠI đến 31/12/2022 đạt 226%. Trích dự 
-phòng rủi ro thực hiện đầy đủ theo quy định, bao 
-gồm trích dự phòng cho dư nợ thông thường và 
-trích 100% dự phòng cụ thể đối với khách hàng 
-có dư nợ được cơ cấu lại do ảnh hưởng của dịch 
-Covid-19 theo quy định tại Thông tư 01/Thông tư số 
+TỶ LỆ BAO PHỦ NỢ XẤU
+KHỐI NGÂN HÀNG THƯƠNG MẠI
+TỶ LỆ BAO PHỦ NỢ XẤU KHỐI NGÂN HÀNG
+THƯƠNG MẠI đến 31/12/2022 đạt 226%. Trích dự
+phòng rủi ro thực hiện đầy đủ theo quy định, bao
+gồm trích dự phòng cho dư nợ thông thường và
+trích 100% dự phòng cụ thể đối với khách hàng
+có dư nợ được cơ cấu lại do ảnh hưởng của dịch
+Covid-19 theo quy định tại Thông tư 01/Thông tư số
 03/Thông tư số 14.
 TÌNH HÌNH
 HOẠT ĐỘNG KINH DOANH
 
-76
-77
-BÁO CÁO THƯỜNG NIÊN 2022
 HOẠT ĐỘNG KINH DOANH
-35
-78%
-28.435
 CHẤT LƯỢNG NHÂN SỰ
 ĐỘ TUỔI BÌNH QUÂN
 LAO ĐỘNG
 hơn 1000 LAO ĐỘNG SO VỚI NĂM 2021
-TUỔI
-92%
-TRÌNH ĐỘ 
-ĐẠI HỌC 
+TRÌNH ĐỘ
+ĐẠI HỌC
 TRỞ LÊN
 TRÌNH ĐỘ ĐẠI HỌC
 TRỞ LÊN
-KHÁC
-92%
-KHÁC
 8X VỀ SAU
 TỔNG SỐ CÁN BỘ NHÂN VIÊN
-Bất chấp ảnh hưởng của đại dịch Covid-19 khiến không ít các NHTM phải lựa chọn chiến lược cắt giảm nhân sự, 
-quy mô lao động tại BIDV vẫn duy trì mức tăng ổn định giai đoạn 2020 - 2022, qua đó tạo thêm nhiều cơ hội việc 
-làm cho thị trường lao động và góp phần giải quyết các vấn đề an sinh xã hội sau đại dịch Covid-19 theo đúng 
+Bất chấp ảnh hưởng của đại dịch Covid-19 khiến không ít các NHTM phải lựa chọn chiến lược cắt giảm nhân sự,
+quy mô lao động tại BIDV vẫn duy trì mức tăng ổn định giai đoạn 2020 - 2022, qua đó tạo thêm nhiều cơ hội việc
+làm cho thị trường lao động và góp phần giải quyết các vấn đề an sinh xã hội sau đại dịch Covid-19 theo đúng
 chủ trương của Chính phủ.
-BIDV nhận thức được rằng nguồn nhân lực là nhân tố quan trọng hàng đầu cho sự phát triển và thành công của tổ 
-chức. Vì vậy, một trong những mục tiêu quan trọng nhất của BIDV là phải xây dựng và phát triển đội ngũ nhân viên 
+BIDV nhận thức được rằng nguồn nhân lực là nhân tố quan trọng hàng đầu cho sự phát triển và thành công của tổ
+chức. Vì vậy, một trong những mục tiêu quan trọng nhất của BIDV là phải xây dựng và phát triển đội ngũ nhân viên
 đảm bảo đủ về số lượng và chất lượng để thực hiện thắng lợi các mục tiêu, chiến lược kinh doanh của hệ thống.
-Người lao động thuộc thế hệ 
-từ 8x về sau chiếm khoảng 78% 
+Người lao động thuộc thế hệ
+từ 8x về sau chiếm khoảng 78%
 Tại thời điểm 31/12/2022
 TỔ CHỨC
 VÀ NHÂN SỰ
 
-80
-81
-BÁO CÁO THƯỜNG NIÊN 2022
 HOẠT ĐỘNG KINH DOANH
 Kết quả triển khai công tác nhân sự năm 2022
-Công tác quy hoạch, bổ nhiệm được tiến hành bài bản, 
-đúng các quy định của Đảng và Nhà nước và các quy 
-định liên quan của BIDV trên nguyên tắc tập trung dân 
-chủ; việc quy hoạch mang tính chất mở và động vẫn 
-được duy trì và triển khai tốt. Danh sách quy hoạch đã 
-được bổ sung, điều chỉnh trên cơ sở theo sát sự phát 
-triển của cán bộ, loại khỏi danh sách quy hoạch những 
-cán bộ không còn đủ điều kiện, tiêu chuẩn, không có 
-triển vọng phát triển, bổ sung vào danh sách những 
-nhân tố mới triển vọng… Trong năm 2022, BIDV bắt 
-đầu thực hiện rà soát, sắp xếp lãnh đạo quản lý tại các 
-đơn vị Trụ sở chính theo Quy chế Chức danh và phát 
-triển nghề nghiệp mới, đảm bảo nâng cao hiệu quả 
-quản lý, điều hành và đảm bảo vị trí chức danh phù 
+Công tác quy hoạch, bổ nhiệm được tiến hành bài bản,
+đúng các quy định của Đảng và Nhà nước và các quy
+định liên quan của BIDV trên nguyên tắc tập trung dân
+chủ; việc quy hoạch mang tính chất mở và động vẫn
+được duy trì và triển khai tốt. Danh sách quy hoạch đã
+được bổ sung, điều chỉnh trên cơ sở theo sát sự phát
+triển của cán bộ, loại khỏi danh sách quy hoạch những
+cán bộ không còn đủ điều kiện, tiêu chuẩn, không có
+triển vọng phát triển, bổ sung vào danh sách những
+nhân tố mới triển vọng… Trong năm 2022, BIDV bắt
+đầu thực hiện rà soát, sắp xếp lãnh đạo quản lý tại các
+đơn vị Trụ sở chính theo Quy chế Chức danh và phát
+triển nghề nghiệp mới, đảm bảo nâng cao hiệu quả
+quản lý, điều hành và đảm bảo vị trí chức danh phù
 hợp với năng lực, định hướng phát triển của cán bộ.
-Luân chuyển cán bộ giữa Trụ sở chính và Chi nhánh 
-tiếp tục được đẩy mạnh nhằm đào tạo, bồi dưỡng cán 
-bộ, đồng thời góp phần bổ sung, tăng cường nguồn 
-cán bộ có chuyên môn, kinh nghiệm từ Trụ sở chính để 
+Luân chuyển cán bộ giữa Trụ sở chính và Chi nhánh
+tiếp tục được đẩy mạnh nhằm đào tạo, bồi dưỡng cán
+bộ, đồng thời góp phần bổ sung, tăng cường nguồn
+cán bộ có chuyên môn, kinh nghiệm từ Trụ sở chính để
 hỗ trợ các Chi nhánh.
-Luân chuyển để đào tạo bồi dưỡng đáp ứng yêu cầu 
-quản lý và yêu cầu kiểm soát nội bộ tại các đơn vị cũng 
-được thực hiện thường xuyên, liên tục, dần hình thành 
-thông lệ, thói quen tích cực đối với cán bộ, nhân viên. 
-Xây dựng kế hoạch đào tạo hàng năm và theo giai 
-đoạn để tổ chức đào tạo, tập huấn nghiệp vụ cho 
-người lao động nhằm nâng cao trình độ, kiến thức, kỹ 
+Luân chuyển để đào tạo bồi dưỡng đáp ứng yêu cầu
+quản lý và yêu cầu kiểm soát nội bộ tại các đơn vị cũng
+được thực hiện thường xuyên, liên tục, dần hình thành
+thông lệ, thói quen tích cực đối với cán bộ, nhân viên.
+Xây dựng kế hoạch đào tạo hàng năm và theo giai
+đoạn để tổ chức đào tạo, tập huấn nghiệp vụ cho
+người lao động nhằm nâng cao trình độ, kiến thức, kỹ
 TUYỂN DỤNG LAO ĐỘNG
 QUY HOẠCH, BỔ NHIỆM CÁN BỘ
-Trong năm 2022, BIDV tiếp tục thực thi linh hoạt các 
-giải pháp tuyển dụng, bổ sung lao động để phát triển 
-hoạt động kinh doanh, đảm bảo an toàn, hiệu quả 
-trong bối cảnh dịch Covid-19 vẫn còn diễn biến khó 
-lường. Công tác tuyển dụng lao động của BIDV được 
-triển khai bài bản, chuyên nghiệp, công khai, minh 
-bạch, thống nhất trong toàn hệ thống. Qua đó, BIDV 
-thu hút được đội ngũ ứng viên có chất lượng cao từ 
-năng nghiệp vụ, ngoại ngữ và kỹ năng mềm… đối với 
-người lao động. Phát triển và triển khai các chương 
-trình đào tạo đội ngũ lãnh đạo cấp trung của BIDV 
-(Chương trình đào tạo lãnh đạo ngân hàng tương lai, 
-Chương trình Tập sự giám đốc ngân hàng). Đây là các 
-chương trình được thiết kế toàn diện, kết hợp đào tạo 
-tập trung, thực tập thế vai tại các đơn vị TSC và chi 
-nhánh, bảo vệ đề tài cuối khóa với tính ứng dụng thực 
-tế cao… nhằm phát triển năng lực của đội ngũ cán bộ 
-và nhận diện các cá nhân xuất sắc để trở thành đội 
+Trong năm 2022, BIDV tiếp tục thực thi linh hoạt các
+giải pháp tuyển dụng, bổ sung lao động để phát triển
+hoạt động kinh doanh, đảm bảo an toàn, hiệu quả
+trong bối cảnh dịch Covid-19 vẫn còn diễn biến khó
+lường. Công tác tuyển dụng lao động của BIDV được
+triển khai bài bản, chuyên nghiệp, công khai, minh
+bạch, thống nhất trong toàn hệ thống. Qua đó, BIDV
+thu hút được đội ngũ ứng viên có chất lượng cao từ
+năng nghiệp vụ, ngoại ngữ và kỹ năng mềm… đối với
+người lao động. Phát triển và triển khai các chương
+trình đào tạo đội ngũ lãnh đạo cấp trung của BIDV
+(Chương trình đào tạo lãnh đạo ngân hàng tương lai,
+Chương trình Tập sự giám đốc ngân hàng). Đây là các
+chương trình được thiết kế toàn diện, kết hợp đào tạo
+tập trung, thực tập thế vai tại các đơn vị TSC và chi
+nhánh, bảo vệ đề tài cuối khóa với tính ứng dụng thực
+tế cao… nhằm phát triển năng lực của đội ngũ cán bộ
+và nhận diện các cá nhân xuất sắc để trở thành đội
 ngũ lãnh đạo cấp trung kế cận.
-BIDV rất chú trọng thực hiện các chính sách động viên, 
-chăm sóc người lao động với nhiều hình thức phong 
-phú như tiền sinh nhật, thăm hỏi hiếu, hỉ, nghỉ mát, quà 
-tặng nhân dịp Tết Nguyên Đán và Kỷ niệm thành lập 
-BIDV, khám sức khỏe định kỳ, bảo hiểm sức khỏe, bảo 
-hiểm nhân thọ, khen thưởng, khuyến khích tuyển dụng 
+BIDV rất chú trọng thực hiện các chính sách động viên,
+chăm sóc người lao động với nhiều hình thức phong
+phú như tiền sinh nhật, thăm hỏi hiếu, hỉ, nghỉ mát, quà
+tặng nhân dịp Tết Nguyên Đán và Kỷ niệm thành lập
+BIDV, khám sức khỏe định kỳ, bảo hiểm sức khỏe, bảo
+hiểm nhân thọ, khen thưởng, khuyến khích tuyển dụng
 con em cán bộ có thành tích học tập xuất sắc…
-Công đoàn và Đoàn thanh niên BIDV thường xuyên 
-tổ chức các hoạt động có ý nghĩa giúp nâng cao sức 
-khỏe về thể chất và tinh thần và gắn kết người lao 
-động như Giải chạy Tết ấm cho người nghèo, Hội thao 
-BIDV, Hội nghị người lao động, chương trình nghỉ mát 
-hàng năm tại từng đơn vị, các chương trình về nguồn 
-tìm hiểu lịch sử, văn hóa, phong trào đọc sách, chương 
-trình khám chữa bệnh và gặp mặt hàng năm với cán 
+Công đoàn và Đoàn thanh niên BIDV thường xuyên
+tổ chức các hoạt động có ý nghĩa giúp nâng cao sức
+khỏe về thể chất và tinh thần và gắn kết người lao
+động như Giải chạy Tết ấm cho người nghèo, Hội thao
+BIDV, Hội nghị người lao động, chương trình nghỉ mát
+hàng năm tại từng đơn vị, các chương trình về nguồn
+tìm hiểu lịch sử, văn hóa, phong trào đọc sách, chương
+trình khám chữa bệnh và gặp mặt hàng năm với cán
 bộ hưu trí BIDV v.v…
-khắp mọi miền của cả nước, tạo ấn tượng tốt đối với 
-xã hội nói chung và thí sinh nói riêng, góp phần quảng 
-bá và nâng cao thương hiệu, hình ảnh BIDV trên thị 
-trường. Các thí sinh được tuyển dụng đáp ứng yêu 
-cầu về năng lực, trình độ, góp phần đổi mới, nâng cao 
-chất lượng nguồn nhân lực, thực hiện tốt nhiệm vụ kế 
-hoạch kinh doanh và phát triển mạng lưới, đảm bảo 
+khắp mọi miền của cả nước, tạo ấn tượng tốt đối với
+xã hội nói chung và thí sinh nói riêng, góp phần quảng
+bá và nâng cao thương hiệu, hình ảnh BIDV trên thị
+trường. Các thí sinh được tuyển dụng đáp ứng yêu
+cầu về năng lực, trình độ, góp phần đổi mới, nâng cao
+chất lượng nguồn nhân lực, thực hiện tốt nhiệm vụ kế
+hoạch kinh doanh và phát triển mạng lưới, đảm bảo
 an toàn trong hoạt động kinh doanh của hệ thống.
 TỔ CHỨC
 VÀ NHÂN SỰ
 (tiếp theo)
 
-88
-89
-BÁO CÁO THƯỜNG NIÊN 2022
 HOẠT ĐỘNG KINH DOANH
 NGÂN HÀNG LIÊN DOANH VIỆT - NGA
 CÔNG TY LIÊN DOANH THÁP BIDV
 Tên viết tắt
-VRB
 Tên viết tắt
 BIDV Tower
 Giấy phép ngân hàng
-Số 0102100878 ngày 09/11/2006 của Sở Kế 
-hoạch và Đầu tư Thành phố Hà Nội và được 
+hoạch và Đầu tư Thành phố Hà Nội và được
 sửa đổi lần thứ 14 ngày 18/07/2022.
 Giấy phép hoạt động
-Số 2523/GP do Bộ Kế hoạch và Đầu tư 
-cấp ngày 02/11/2005
+Số 2523/GP do Bộ Kế hoạch và Đầu tư
 Lĩnh vực hoạt động
 Ngân hàng
 Lĩnh vực hoạt động
-Quản lý, vận hành tòa tháp BIDV, 
+Quản lý, vận hành tòa tháp BIDV,
 194 Trần Quang Khải, Hà Nội
-Vốn điều lệ (31/12/2022)
-3.008 tỷ đồng.
-Vốn điều lệ (31/12/2022)
-209 tỷ đồng
 Tỷ lệ sở hữu của BIDV
-50%
 Tỷ lệ sở hữu của BIDV
-55%
 Địa chỉ
 75 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
 Địa chỉ
-Tầng 13, Tháp BIDV, 194 Trần Quang Khải, 
+Tầng 13, Tháp BIDV, 194 Trần Quang Khải,
 Hoàn Kiếm, Hà Nội
-Điện thoại 
-024.39426668
-Điện thoại 
-024.22205539
-Fax
-024.39426669
-Fax
-024.22205535
-Ngân hàng Liên doanh Việt - Nga (VRB) là liên doanh giữa 
-BIDV và Ngân hàng ngoại thương Nga (VTB), được thành 
-lập năm 2006 với vai trò kết nối hệ thống ngân hàng và góp 
-phần thúc đẩy quan hệ hợp tác kinh tế, thương mại giữa hai 
+Điện thoại
+Điện thoại
+Ngân hàng Liên doanh Việt - Nga (VRB) là liên doanh giữa
+BIDV và Ngân hàng ngoại thương Nga (VTB), được thành
+lập năm 2006 với vai trò kết nối hệ thống ngân hàng và góp
+phần thúc đẩy quan hệ hợp tác kinh tế, thương mại giữa hai
 nước Việt Nam - Liên Bang Nga.
-Năm 2022, hệ thống ngân hàng nói chung và VRB nói riêng 
-phải đối mặt với nhiều áp lực do biến động khó lường của 
-tỷ giá, lãi suất và lạm phát có xu hướng tăng cao, sự bất 
-ổn về kinh tế, chính trị trên thế giới. Tuy nhiên, VRB đã chủ 
-động triển khai các giải pháp ứng phó, nắm bắt cơ hội kinh 
-doanh mới và đạt kết quả kinh doanh khá ấn tượng, cụ thể: 
-huy động vốn từ tổ chức kinh tế đạt 14.522 tỷ đồng, tăng 
-8%; dư nợ tín dụng đạt 14.225 tỷ đồng, tăng 15%; lợi nhuận 
-trước thuế đạt gần 236 tỷ đồng, tăng 51% so với năm 2021; 
-tuân thủ các tỷ lệ an toàn hoạt động theo quy định. Công 
-tác quản trị rủi ro, quản trị hiệu quả sử dụng vốn tiếp tục 
-được kiện toàn, phù hợp với nguyên tắc, chuẩn mực Basel II. 
-Qua 16 năm, hoạt động của VRB không ngừng được mở 
-rộng quy mô, nâng cao chất lượng dịch vụ, đưa thương hiệu 
-của ngân hàng đến khắp các tỉnh, thành phố trọng điểm 
-trên cả nước. Hiện nay, VRB đã có mặt tại Hà Nội, TP. Hồ Chí 
-Minh, Hải Phòng, Đà Nẵng, Khánh Hòa, Vũng Tàu, với 20 Chi 
+Năm 2022, hệ thống ngân hàng nói chung và VRB nói riêng
+phải đối mặt với nhiều áp lực do biến động khó lường của
+tỷ giá, lãi suất và lạm phát có xu hướng tăng cao, sự bất
+ổn về kinh tế, chính trị trên thế giới. Tuy nhiên, VRB đã chủ
+động triển khai các giải pháp ứng phó, nắm bắt cơ hội kinh
+doanh mới và đạt kết quả kinh doanh khá ấn tượng, cụ thể:
+huy động vốn từ tổ chức kinh tế đạt 14.522 tỷ đồng, tăng
+8%; dư nợ tín dụng đạt 14.225 tỷ đồng, tăng 15%; lợi nhuận
+trước thuế đạt gần 236 tỷ đồng, tăng 51% so với năm 2021;
+tuân thủ các tỷ lệ an toàn hoạt động theo quy định. Công
+tác quản trị rủi ro, quản trị hiệu quả sử dụng vốn tiếp tục
+được kiện toàn, phù hợp với nguyên tắc, chuẩn mực Basel II.
+Qua 16 năm, hoạt động của VRB không ngừng được mở
+rộng quy mô, nâng cao chất lượng dịch vụ, đưa thương hiệu
+của ngân hàng đến khắp các tỉnh, thành phố trọng điểm
+trên cả nước. Hiện nay, VRB đã có mặt tại Hà Nội, TP. Hồ Chí
+Minh, Hải Phòng, Đà Nẵng, Khánh Hòa, Vũng Tàu, với 20 Chi
 nhánh và phòng giao dịch.
-Công ty Liên doanh Tháp BIDV là liên doanh được thành lập 
-cuối năm 2005 giữa BIDV và Công ty Bloomhills Holdings 
-Pte Ltd. của Singapore. Từ năm 2006 đến hết năm 2009, 
-hoạt động chính của Công ty là đầu tư xây dựng công trình 
-Tòa tháp BIDV tại 194 Trần Quang Khải, Quận Hoàn Kiểm, 
-Hà Nội. Đến đầu năm 2010, công tác xây dựng hoàn thành 
+Công ty Liên doanh Tháp BIDV là liên doanh được thành lập
+cuối năm 2005 giữa BIDV và Công ty Bloomhills Holdings
+Pte Ltd. của Singapore. Từ năm 2006 đến hết năm 2009,
+hoạt động chính của Công ty là đầu tư xây dựng công trình
+Tòa tháp BIDV tại 194 Trần Quang Khải, Quận Hoàn Kiểm,
+Hà Nội. Đến đầu năm 2010, công tác xây dựng hoàn thành
 và dự án tháp BIDV đi vào khai thác.
-Năm 2022, thị trường văn phòng cho thuê Hà Nội đã phục 
-hồi và hoạt động tốt sau khi vượt qua đỉnh dịch Covid19 vào 
-cuối Quý 1/2022. Trước tình hình đó, Công ty tiếp tục hoạt 
-động ổn định, đạt kết quả kinh doanh tích cực: tỷ lệ lấp đầy 
-đạt 99%, cao hơn tỷ lệ lấp đầy chung và giữ được mức giá 
-thuê cao so với trung bình toàn thị trường. 
-Năm 2022, Công ty hoàn thành vượt chỉ tiêu kế hoạch kinh 
-doanh được giao: doanh thu cho thuê văn phòng đạt 218 tỷ 
-đồng (+3% so với kế hoạch đề ra), lợi nhuận trước thuế 142 
-tỷ đồng (+8% so với kế hoạch đề ra). 
+Năm 2022, thị trường văn phòng cho thuê Hà Nội đã phục
+hồi và hoạt động tốt sau khi vượt qua đỉnh dịch Covid19 vào
+cuối Quý 1/2022. Trước tình hình đó, Công ty tiếp tục hoạt
+động ổn định, đạt kết quả kinh doanh tích cực: tỷ lệ lấp đầy
+đạt 99%, cao hơn tỷ lệ lấp đầy chung và giữ được mức giá
+thuê cao so với trung bình toàn thị trường.
+Năm 2022, Công ty hoàn thành vượt chỉ tiêu kế hoạch kinh
+doanh được giao: doanh thu cho thuê văn phòng đạt 218 tỷ
+đồng (+3% so với kế hoạch đề ra), lợi nhuận trước thuế 142
+tỷ đồng (+8% so với kế hoạch đề ra).
 CÔNG TY CON
 CÔNG TY LIÊN KẾT
 (tiếp theo)
-
-98
-99
-BÁO CÁO THƯỜNG NIÊN 2022
-BÁO CÁO ĐÁNH GIÁ CỦA BAN ĐIỀU HÀNH
-	• Tổng tài sản đến 31/12/2022 đạt 2,12 triệu tỷ đồng, 
-tăng 20,4% so với năm 2021, là NHTM đầu tiên vượt 
-mốc 2 triệu tỷ đồng, tiếp tục duy trì vị thế NHTMCP 
-có quy mô tổng tài sản lớn nhất tại Việt Nam.
-	• Tổng dư nợ tín dụng và đầu tư đến 31/12/2022 đạt 
-1,99 triệu tỷ đồng, tăng 18,4% so với đầu năm. Trong 
-đó dư nợ tín dụng riêng lẻ đạt 1,5 triệu tỷ đồng, tăng 
-12,65% so với đầu năm, cao hơn mức thực hiện năm 
-2021 (11,2%), đảm bảo giới hạn tín dụng NHNN giao 
-(12,7%), đứng đầu thị trường về thị phần tín dụng 
-(chiếm khoảng 13%).
-	• Tổng nguồn vốn huy động đến 31/12/2022 đạt 1,97 
-triệu tỷ đồng, tăng 20,2% so với đầu năm; trong đó 
-huy động vốn tổ chức, dân cư đạt 1,64 triệu tỷ đồng, 
-tăng 8,4% so với đầu năm và chiếm khoảng 14% thị 
-phần tiền gửi toàn ngành ngân hàng. 
-Tỷ lệ nợ xấu theo Thông tư 11 đến 31/12/2022 kiểm 
-soát ở mức 0,96%, thấp hơn mục tiêu định hướng của 
-ĐHĐCĐ tại Nghị quyết số 383/2022/NQ-ĐHĐCĐ ngày 
-29/04/2022 (<1,6%); Tỷ lệ bao phủ nợ xấu khối NHTM 
-đến 31/12/2022 đạt 226%. 
-QUY MÔ HOẠT ĐỘNG  
-TĂNG TRƯỞNG TỐT
-CHẤT LƯỢNG TÍN DỤNG ĐƯỢC 
-KIỂM SOÁT TRONG GIỚI HẠN
-Kinh tế thế giới năm 2022 gặp nhiều khó khăn do 
-chiến tranh Nga - Ukraina kéo dài; lạm phát thế giới 
-tăng cao, xu hướng tăng lãi suất, thắt chặt chính sách 
-tiền tệ, tài khóa và hậu quả của đại dịch Covid-19 dẫn 
-đến suy giảm tăng trưởng kinh tế toàn cầu. Trong bối 
-cảnh khó khăn như vậy, dưới sự lãnh đạo sâu sát, kịp 
-thời của Đảng; sự chủ động, tích cực, phối hợp chặt 
-chẽ của Quốc hội; sự chỉ đạo điều hành quyết liệt của 
-Chính phủ; cùng sự tham gia tích cực, đồng lòng của 
-các cấp, các ngành, địa phương, cộng đồng doanh 
-nghiệp và người dân; kinh tế Việt Nam năm 2022 vẫn 
-ghi nhận kết quả tích cực: tăng trưởng GDP đạt 8,02%; 
-chỉ số giá tiêu dùng bình quân kiểm soát ở mức 3,15%; 
-tổng kim ngạch xuất nhập khẩu đạt 732,5 tỷ USD, cao 
-nhất từ trước tới nay, cán cân thương mại xuất siêu 
-11,2 tỷ USD. 
-Ngân hàng Nhà nước (NHNN) điều hành chủ động, 
-linh hoạt, đồng bộ các công cụ chính sách tiền tệ, góp 
-phần kiểm soát lạm phát, ổn định kinh tế vĩ mô, hỗ trợ 
-phục hồi kinh tế, trong đó: (i) Điều hành linh hoạt các 
-mức lãi suất từ ngày 23/09/2022, đồng thời vận động 
-các TCTD tiết giảm chi phí để giữ ổn định mặt bằng 
-lãi suất cho vay và giảm lãi suất ở một số lĩnh vực ưu 
-tiên; (ii) Điều hành tín dụng theo hướng gia tăng thêm 
-nguồn lực, khả năng mở rộng tín dụng cho những 
-doanh nghiệp, đối tượng, lĩnh vực cấp thiết có nhu cầu 
-trong nền kinh tế nhưng vẫn đảm bảo tăng trưởng 
-an toàn, hiệu quả, nhờ đó tăng trưởng tín dụng toàn 
-ngành đạt 14,5% so với năm 2021. Bên cạnh đó, NHNN 
-điều hành tỷ giá phù hợp, kết hợp bán lượng lớn ngoại 
-tệ can thiệp để bổ sung nguồn cung thanh khoản cho 
-thị trường, góp phần ổn định thị trường ngoại tệ trong 
-bối cảnh đồng USD tăng giá mạnh.
-01
-02
-KẾT QUẢ HOẠT ĐỘNG KINH DOANH
-KINH TẾ THẾ GIỚI NĂM 2022 
-01
-NGÀNH NGÂN HÀNG
-02
-	• Tổng thu nhập (tổng doanh thu) đạt 146.049 tỷ đồng, 
-tăng 16,2% so với năm 2021. Chênh lệch thu chi năm 
-2022 đạt 47.025 tỷ đồng, tăng 9,3% so với năm 2021, 
-là NHTMCP có quy mô chênh lệch thu chi đứng đầu 
-thị trường. 
-	• Lợi nhuận trước thuế khối NHTM năm 2022 đạt 
-22.506 tỷ đồng, tăng 79,4% so với năm 2021. Lợi 
-nhuận trước thuế hợp nhất đạt 23.009 tỷ đồng, tăng 
-69,8% so với năm 2021, hoàn thành 112% kế hoạch 
-tại Nghị quyết của ĐHĐCĐ năm 2022. Các chỉ tiêu 
-sinh lời, chỉ tiêu an toàn hoạt động của hệ thống 
-được đảm bảo: ROA đạt 0,95%, lần đầu tiên tiệm 
-cận mức 1%; ROE đạt 19,34%, hoàn thành vượt kế 
-hoạch đề ra.
-HIỆU QUẢ KINH DOANH 
-TĂNG TRƯỞNG TÍCH CỰC 
-SO VỚI CÙNG KỲ NĂM 
-TRƯỚC, ĐẠT VÀ VƯỢT KẾ 
-HOẠCH NĂM 2022 ĐỀ RA
-03
-TÌNH HÌNH VĨ MÔ
-KẾT QUẢ
-VÀ NGÀNH NGÂN HÀNG 
-NĂM 2022  
-CÔNG TÁC ĐIỀU HÀNH NĂM 2022

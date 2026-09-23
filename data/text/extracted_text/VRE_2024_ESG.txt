@@ -1,6 +1,4 @@
-01
 Vincom Retail
-năm 2024
 Tổng quan Vincom Retail
 Các dấu mốc phát triển
 Lĩnh vực kinh doanh
@@ -11,7 +9,6 @@ Ban Kiểm soát
 Chiến lược kinh doanh
 Tầm nhìn, sứ mệnh, giá trị cốt lõi
 Điểm nhấn năm 2024
-Các dấu ấn thành tựu nổi bật năm 2024
 Thông điệp của Chủ tịch Hội đồng Quản trị
 Thông điệp của Tổng Giám đốc
 Các chỉ tiêu kinh doanh cơ bản
@@ -27,7 +24,7 @@ Báo cáo của Hội đồng Quản trị
 Báo cáo của Ban Kiểm soát
 Báo cáo Quản trị
 Hoạt động của Kiểm toán nội bộ
-Các nội dung theo khuyến nghị của 
+Các nội dung theo khuyến nghị của
 Thẻ điểm quản trị ASEAN (ACGS)
 Thông tin cổ phiếu
 Hoạt động quan hệ cổ đông và nhà đầu tư
@@ -40,702 +37,635 @@ Bảng cân đối kế toán hợp nhất
 Báo cáo kết quả hoạt động
 kinh doanh hợp nhất
 Báo cáo lưu chuyển tiền tệ hợp nhất
-Thuyết minh báo cáo tài chính hợp nhất
-26
-28
-32
-38
-40
-42
-44
-46
-52
-58
-62
-66
-72
-73
-78
-79
-89
-90
-102
-108
-112
-120
-122
-124
-127
-128
-130
-6
-8
-10
-14
-16
-20
-22
-02
 Giới thiệu
 Vincom Retail
-03
-Báo cáo Ban Giám đốc về kết quả 
-hoạt động kinh doanh năm 2024 
+Báo cáo Ban Giám đốc về kết quả
+hoạt động kinh doanh năm 2024
 và kế hoạch hoạt động năm 2025
-04
 Quản trị
 Doanh nghiệp
-05
 Phát triển bền vững
-06
-Báo cáo tài chính
-Mục lục
 VINCOM RETAIL
 CHƯƠNG 1
-BÁO CÁO THƯỜNG NIÊN 2024
-BÁO CÁO THƯỜNG NIÊN 2024
-2
-3
 
-Kính gửi Quý Cổ đông, 
-Nhìn lại hành trình phát triển 20 năm, Vincom 
-Retail ghi nhận tốc độ tăng trưởng kép (CAGR) 
-hàng năm ấn tượng, đạt trung bình 14% về tổng 
-diện tích sàn bán lẻ và 15% về doanh thu cho 
-thuê trong suốt thập kỷ qua. Điều này khẳng 
-định vị thế dẫn đầu thị trường của chúng tôi về 
-quy mô và hiệu quả hoạt động. Vincom Retail 
-tự hào là đơn vị kinh doanh, quản lý và vận hành 
-mặt bằng bán lẻ hàng đầu tại Việt Nam, sở hữu 
-quy mô phát triển rộng khắp cả nước, chất 
-lượng dịch vụ đẳng cấp và khát vọng vươn tầm 
-quốc tế. Sứ mệnh của chúng tôi là tiên phong 
-mang đến những trải nghiệm mua sắm, vui chơi 
-và ẩm thực độc đáo, góp phần định hình phong 
+Kính gửi Quý Cổ đông,
+Nhìn lại hành trình phát triển 20 năm, Vincom
+Retail ghi nhận tốc độ tăng trưởng kép (CAGR)
+hàng năm ấn tượng, đạt trung bình 14% về tổng
+diện tích sàn bán lẻ và 15% về doanh thu cho
+thuê trong suốt thập kỷ qua. Điều này khẳng
+định vị thế dẫn đầu thị trường của chúng tôi về
+quy mô và hiệu quả hoạt động. Vincom Retail
+tự hào là đơn vị kinh doanh, quản lý và vận hành
+mặt bằng bán lẻ hàng đầu tại Việt Nam, sở hữu
+quy mô phát triển rộng khắp cả nước, chất
+lượng dịch vụ đẳng cấp và khát vọng vươn tầm
+quốc tế. Sứ mệnh của chúng tôi là tiên phong
+mang đến những trải nghiệm mua sắm, vui chơi
+và ẩm thực độc đáo, góp phần định hình phong
 cách tiêu dùng mới cho người dân Việt Nam.
-Chúng tôi luôn nỗ lực kiến tạo các mô hình bán 
-lẻ hiện đại, đa dạng, đáp ứng toàn diện nhu 
-cầu của mọi phân khúc khách hàng, đồng thời 
-phù hợp với thị hiếu của thị trường Việt Nam. 
-Vincom Retail tự hào là đối tác tin cậy của hơn 
-1.000 thương hiệu bán lẻ hàng đầu trong nước 
-và quốc tế. Chúng tôi cũng đã đạt được những 
-bước tiến đáng kể trong quá trình chuyển 
-đổi số, ứng dụng thành công các công nghệ 
-tiên tiến như SAP, hệ thống quản lý tài sản, hệ 
-thống BI, văn phòng điện tử E-Office cho quản 
-lý vận hành, cũng đầu tư cho hệ thống CRM 
-Salesforce, Cam AI, Beacon, Vincom App… 
+Chúng tôi luôn nỗ lực kiến tạo các mô hình bán
+lẻ hiện đại, đa dạng, đáp ứng toàn diện nhu
+cầu của mọi phân khúc khách hàng, đồng thời
+phù hợp với thị hiếu của thị trường Việt Nam.
+Vincom Retail tự hào là đối tác tin cậy của hơn
+1.000 thương hiệu bán lẻ hàng đầu trong nước
+và quốc tế. Chúng tôi cũng đã đạt được những
+bước tiến đáng kể trong quá trình chuyển
+đổi số, ứng dụng thành công các công nghệ
+tiên tiến như SAP, hệ thống quản lý tài sản, hệ
+thống BI, văn phòng điện tử E-Office cho quản
+lý vận hành, cũng đầu tư cho hệ thống CRM
+Salesforce, Cam AI, Beacon, Vincom App…
 nhằm nâng cao trải nghiệm khách hàng.
 Thông điệp của
 Chủ tịch Hội đồng Quản trị
-Việt Nam đang bước vào “kỷ nguyên vươn 
-mình” với nhiều cơ hội lịch sử. Trong bối cảnh 
-nền kinh tế Việt Nam được dự báo sẽ tiếp tục 
-tăng trưởng mạnh mẽ, song còn đối diện với 
-những biến chuyển liên tục, Vincom Retail 
-nhận thức rằng việc không ngừng học hỏi, đổi 
-mới và tối ưu hóa hiệu quả vận hành là then 
-chốt để gia tăng lợi thế cạnh tranh, phát triển 
-bền vững và thành công trong dài hạn. Để hiện 
-thực hóa mục tiêu này, Hội đồng quản trị đã xây 
-dựng những định hướng chiến lược toàn diện, 
-đóng vai trò kim chỉ nam cho sự phát triển của 
+Việt Nam đang bước vào “kỷ nguyên vươn
+mình” với nhiều cơ hội lịch sử. Trong bối cảnh
+nền kinh tế Việt Nam được dự báo sẽ tiếp tục
+tăng trưởng mạnh mẽ, song còn đối diện với
+những biến chuyển liên tục, Vincom Retail
+nhận thức rằng việc không ngừng học hỏi, đổi
+mới và tối ưu hóa hiệu quả vận hành là then
+chốt để gia tăng lợi thế cạnh tranh, phát triển
+bền vững và thành công trong dài hạn. Để hiện
+thực hóa mục tiêu này, Hội đồng quản trị đã xây
+dựng những định hướng chiến lược toàn diện,
+đóng vai trò kim chỉ nam cho sự phát triển của
 Vincom Retail.
-Đầu tiên, về chiến lược phát triển, Vincom 
-Retail tiếp tục mở rộng quy mô, phát triển các 
-mô hình Vincom Mega Mall hiện đại tại các 
-thành phố lớn và các thị trường tiềm năng trên 
-cả nước, đồng thời khẳng định mạnh mẽ sự 
-hiện diện tại Hà Nội và Thành phố Hồ Chí Minh. 
-Thứ hai, về chiến lược sản phẩm, chúng tôi tiếp 
-tục phát triển và nâng cấp các TTTM đang hoạt 
-động theo hướng phát triển thành các TTTM 
-theo chủ đề hoặc TTTM outlet độc đáo, không 
-ngừng mang đến những trải nghiệm mua sắm 
-và giải trí mới lạ cho khách hàng. Vincom Retail 
-lần lượt cải tạo và nâng cấp các TTTM hiện hữu, 
-mang đến các không gian mua sắm trẻ trung, 
-năng động và mang đậm bản sắc văn hóa địa 
-phương. Bên cạnh đó, chúng tôi sẽ phát triển 
-khu phố thương mại thành các trung tâm giải 
-trí sôi động, điểm đến hấp dẫn cho người dân 
-địa phương và quốc tế, tạo nên nền tảng mua 
-sắm, ẩm thực, vui chơi giải trí mới cho các nhà 
-bán lẻ. 
-Thứ ba, hưởng ứng cam kết của Chính phủ 
-trong việc đạt mức phát thải ròng bằng 0 vào 
-năm 2050, Vincom Retail sẽ chú trọng xây 
-dựng chiến lược phát triển bền vững, tập trung 
-nghiên cứu các giải pháp chú yếu liên quan tới 
-các mục tiêu về năng lượng xanh, di chuyển 
+Retail tiếp tục mở rộng quy mô, phát triển các
+mô hình Vincom Mega Mall hiện đại tại các
+thành phố lớn và các thị trường tiềm năng trên
+cả nước, đồng thời khẳng định mạnh mẽ sự
+hiện diện tại Hà Nội và Thành phố Hồ Chí Minh.
+Thứ hai, về chiến lược sản phẩm, chúng tôi tiếp
+tục phát triển và nâng cấp các TTTM đang hoạt
+động theo hướng phát triển thành các TTTM
+theo chủ đề hoặc TTTM outlet độc đáo, không
+ngừng mang đến những trải nghiệm mua sắm
+và giải trí mới lạ cho khách hàng. Vincom Retail
+lần lượt cải tạo và nâng cấp các TTTM hiện hữu,
+mang đến các không gian mua sắm trẻ trung,
+năng động và mang đậm bản sắc văn hóa địa
+phương. Bên cạnh đó, chúng tôi sẽ phát triển
+khu phố thương mại thành các trung tâm giải
+trí sôi động, điểm đến hấp dẫn cho người dân
+địa phương và quốc tế, tạo nên nền tảng mua
+sắm, ẩm thực, vui chơi giải trí mới cho các nhà
+bán lẻ.
+Thứ ba, hưởng ứng cam kết của Chính phủ
+trong việc đạt mức phát thải ròng bằng 0 vào
+năm 2050, Vincom Retail sẽ chú trọng xây
+nghiên cứu các giải pháp chú yếu liên quan tới
+các mục tiêu về năng lượng xanh, di chuyển
 xanh và tiêu dùng xanh.
-Đồng thời, Vincom Retail tiếp tục áp dụng các 
-tiêu chuẩn quản trị công ty theo thông lệ tốt 
-nhất của ASEAN. Công ty cũng sẽ lập Báo cáo 
-Phát triển bền vững riêng từ năm 2025 theo 
-chuẩn GRI (Global Reporting Initiative), tăng 
-cường cung cấp thông tin và thể hiện cam kết 
+Đồng thời, Vincom Retail tiếp tục áp dụng các
+nhất của ASEAN. Công ty cũng sẽ lập Báo cáo
+Phát triển bền vững riêng từ năm 2025 theo
+chuẩn GRI (Global Reporting Initiative), tăng
+cường cung cấp thông tin và thể hiện cam kết
 của Công ty với vấn đề phát triển bền vững.
-Cuối cùng, chúng tôi sẽ đẩy mạnh chuyển đổi 
-số toàn diện mang đến trải nghiệm vượt trội 
-cho khách hàng cũng như trong các hoạt động 
-kinh doanh và quản trị vận hành. Chúng tôi 
-cũng tập trung vào tối ưu hóa chi phí và nâng 
-cao biên lợi nhuận, định hướng trở thành một 
-trong những nhà phát triển bất động sản bán 
-lẻ có hiệu quả khai thác và vận hành tốt nhất 
-trong khu vực Đông Nam Á. 
-Thay mặt HĐQT, tôi xin gửi lời cảm ơn đến Ban 
-Giám đốc, tập thể cán bộ nhân viên của Vincom 
-Retail, các khách hàng, các quý đối tác, quý cổ 
-đông và các bên liên quan khác đã đồng hành, 
-hợp tác chặt chẽ trong năm 2024 vừa qua. Sự 
-tin tưởng, đồng hành của quý vị luôn là điểm 
-tựa vững chắc để Vincom Retail bứt phá trong 
+Cuối cùng, chúng tôi sẽ đẩy mạnh chuyển đổi
+số toàn diện mang đến trải nghiệm vượt trội
+cho khách hàng cũng như trong các hoạt động
+kinh doanh và quản trị vận hành. Chúng tôi
+cũng tập trung vào tối ưu hóa chi phí và nâng
+cao biên lợi nhuận, định hướng trở thành một
+trong những nhà phát triển bất động sản bán
+lẻ có hiệu quả khai thác và vận hành tốt nhất
+trong khu vực Đông Nam Á.
+Thay mặt HĐQT, tôi xin gửi lời cảm ơn đến Ban
+Giám đốc, tập thể cán bộ nhân viên của Vincom
+Retail, các khách hàng, các quý đối tác, quý cổ
+đông và các bên liên quan khác đã đồng hành,
+hợp tác chặt chẽ trong năm 2024 vừa qua. Sự
+tin tưởng, đồng hành của quý vị luôn là điểm
+tựa vững chắc để Vincom Retail bứt phá trong
 kỷ nguyên mới.
-Kính chúc Quý vị sức khỏe, hạnh phúc và 
+Kính chúc Quý vị sức khỏe, hạnh phúc và
 thành công!
-Trân trọng cảm ơn. 
-Thay mặt Hội đồng Quản trị 
-Chủ tịch HĐQT 
+Trân trọng cảm ơn.
+Thay mặt Hội đồng Quản trị
+Chủ tịch HĐQT
 TRẦN MAI HOA
 Bứt phá trong
-kỷ nguyên mới 
+kỷ nguyên mới
 VINCOM RETAIL
 CHƯƠNG 1
-BÁO CÁO THƯỜNG NIÊN 2024
-BÁO CÁO THƯỜNG NIÊN 2024
-14
-15
 
-Báo cáo của Ban Kiểm soát 
-Trong năm 2024, BKS đã tăng cường các hoạt động kiểm tra, kiểm soát, phối hợp với HĐQT và BGĐ bám sát quá trình triển khai và 
-đánh giá kết quả thực hiện các Nghị quyết của ĐHĐCĐ và HĐQT. Trong phạm vi chức năng nhiệm vụ được quy định tại Luật Doanh 
-Nghiệp, Điều lệ Công ty và các quy chế được ban hành, BKS cũng đã tham gia giám sát công tác kiểm toán, kiểm soát nội bộ tại 
-Công ty, đảm bảo các hoạt động vận hành, kinh doanh tuân thủ đúng các quy định của pháp luật và Quy chế Quản trị của Công 
+Các dấu mốc phát triển
+•	 Khai trương 13 TTTM, nâng tổng diện tích
+sàn bán lẻ xây dựng lên gần 1,6 triệu m2
+tại 43 tỉnh thành trên cả nước
+•	 Đưa vào hoạt động Landmark 81 –
+SkyView – Đài quan sát cao nhất Đông
+•	 Vincom Center Landmark 81 được vinh
+danh tại cả hai hạng mục TTTM tốt
+nhất Châu Á và TTTM tốt nhất thế giới
+tại Giải thưởng Bất động sản thế giới
+International Property Awards 2019
+•	 Top 10 thương hiệu giá trị nhất Việt Nam
+do Forbes Việt Nam bình chọn với giá trị
+155,6 triệu đô la Mỹ
+•	 Khai trương Vincom Mega Mall Ocean
+Park với quy mô bốn tầng nổi, diện tích
+56.000 m2, mang đến trải nghiệm mua
+sắm, ẩm thực và vui chơi giải trí hiện đại,
+độc đáo cho người dân Hà Nội và các khu
+vực lân cận
+•	 Top 10 thương hiệu dẫn đầu Việt Nam
+2020 do Tạp chí Forbes Việt Nam bình
+chọn với giá trị thương hiệu đạt 168,8
+triệu đô la Mỹ, tăng 13,2 triệu đô la Mỹ so
+với năm 2019
+•	 Chính thức ra mắt thành công mô hình
+du lịch bán lẻ Grand World Phú Quốc tại
+Phú Quốc United Center
+•	 Top 20 công ty có cổ phiếu trong danh
+mục Chỉ số Phát triển Bền vững (VNSI)
+cao nhất thị trường trong kỳ đánh giá
+•	 Khai trương TTTM “Thế hệ mới” Vincom
+phong với mô hình “Life-Design Mall”,
+đánh dấu bước phát triển mới của trung
+tâm thương mại trải nghiệm và kết nối tại
+Việt Nam
+•	 Vincom Retail được vinh danh Thương
+hiệu truyền cảm hứng tại giải thưởng
+APEA (Asia Pacific Enterprise Award)
+•	 Đạt mức doanh thu và lợi nhuận kỉ lục
+từ khi thành lập nhờ việc nâng cao hiệu
+quả hoạt động của 83 TTTM hiện hữu.
+tăng mạnh thông qua những nỗ lực của
+Vincom Retail trong việc liên tục cải tiến
+các yếu tố Môi trường – Xã hội – Quản trị
+công ty (ESG) được ghi nhận bởi cơ quan
+quản lý
+•	 Khai trương 5 TTTM mới, nổi bật là
+TTTM Vincom Mega Mall Grand Park,
+TTTM “Thế hệ mới” – Life-Design
+Mall – với thiết kế theo chủ đề độc
+đáo và ngành hàng đa dạng, kết hợp
+hài hòa giữa không gian mua sắm và
+trải nghiệm
+•	 Được vinh danh với nhiều giải thưởng về
+thương hiệu và phát triển bền vững, nổi
+bật là Top 100 Thương hiệu giá trị và mạnh
+nhất theo Brand Finance, Doanh nghiệp
+Lãnh đạo Xanh Tiên Phong (Pioneer
+Green Leadership) tại Giải thưởng Doanh
+nghiệp Trách nhiệm châu Á 2024 (Asia
+Responsible Entrepreneurship Awards –
+AREA), Top 50 doanh nghiệp niêm yết có
+Nam do Viện Thành viên Hội đồng Quản
+trị Việt Nam (VIOD) khởi xướng
+VINCOM RETAIL
+CHƯƠNG 2
+
+Báo cáo của Ban Kiểm soát
+Trong năm 2024, BKS đã tăng cường các hoạt động kiểm tra, kiểm soát, phối hợp với HĐQT và BGĐ bám sát quá trình triển khai và
+đánh giá kết quả thực hiện các Nghị quyết của ĐHĐCĐ và HĐQT. Trong phạm vi chức năng nhiệm vụ được quy định tại Luật Doanh
+Nghiệp, Điều lệ Công ty và các quy chế được ban hành, BKS cũng đã tham gia giám sát công tác kiểm toán, kiểm soát nội bộ tại
+Công ty, đảm bảo các hoạt động vận hành, kinh doanh tuân thủ đúng các quy định của pháp luật và Quy chế Quản trị của Công
 ty, góp phần hạn chế rủi ro trong lĩnh vực hoạt động.
-Năm 2024, BKS tiến hành họp 03 cuộc họp, trong đó 02 cuộc họp định kỳ và một cuộc họp bất thường để bầu Trưởng BKS cho 
+Năm 2024, BKS tiến hành họp 03 cuộc họp, trong đó 02 cuộc họp định kỳ và một cuộc họp bất thường để bầu Trưởng BKS cho
 nhiệm kỳ 2024 – 2028 ngay sau khi có sự thay đổi về các thành viên BKS nhiệm kỳ 2024 – 2028 được ĐHĐCĐ phê duyệt.
-BKS ghi nhận trong năm 2024, Công ty đã 
-thực hiện tốt công tác dự báo kinh doanh và 
-lập báo cáo tài chính, đảm bảo tính chính xác 
-và kịp thời. Công tác quản lý và kiểm soát tình 
-hình thực hiện ngân sách được thực hiện hiệu 
-quả, góp phần tối ưu hóa dòng tiền hoạt động. 
-Qua quá trình xem xét và đánh giá, BKS thống 
-nhất với các nội dung của các Báo cáo tài 
-chính hợp nhất giữa niên độ của Công ty. Các 
-báo cáo này đã phản ánh trung thực và hợp 
-lý tình hình tài chính, kết quả hoạt động kinh 
-doanh và lưu chuyển tiền tệ trong các giai 
-đoạn tài chính tương ứng, phù hợp với các quy 
-định của hệ thống kế toán hiện hành. Bên cạnh 
-đó, BKS cũng thống nhất với các nội dung 
-của Báo cáo tài chính hợp nhất năm 2024 đã 
-được kiểm toán bởi Công ty TNHH Kiểm toán 
-Deloitte Việt Nam. Báo cáo tài chính này đã 
-trình bày trung thực và hợp lý tình hình tài 
-chính tại ngày 31 tháng 12 năm 2024, cũng như 
-kết quả hoạt động kinh doanh và lưu chuyển 
-tiền tệ cho giai đoạn tài chính từ ngày 01 tháng 
-01 năm 2024 đến ngày 31 tháng 12 năm 2024.
-Nhờ việc thực hiện nghiêm túc quy chế quản 
-trị công ty, HĐQT đã chủ động trong việc giám 
-sát và điều hành kịp thời chiến lược kinh doanh 
-cũng như các quyết sách cụ thể liên quan đến 
-hoạt động của Công ty. Trong năm qua, BKS 
-cũng đã đẩy mạnh kiểm tra, kiểm soát việc 
-tuân thủ quy chế hoạt động, nâng cao chất 
-lượng cũng như tính độc lập của hoạt động 
-kiểm soát, đặc biệt là với các giao dịch trọng 
+BKS ghi nhận trong năm 2024, Công ty đã
+thực hiện tốt công tác dự báo kinh doanh và
+và kịp thời. Công tác quản lý và kiểm soát tình
+hình thực hiện ngân sách được thực hiện hiệu
+quả, góp phần tối ưu hóa dòng tiền hoạt động.
+Qua quá trình xem xét và đánh giá, BKS thống
+nhất với các nội dung của các Báo cáo tài
+chính hợp nhất giữa niên độ của Công ty. Các
+báo cáo này đã phản ánh trung thực và hợp
+lý tình hình tài chính, kết quả hoạt động kinh
+doanh và lưu chuyển tiền tệ trong các giai
+đoạn tài chính tương ứng, phù hợp với các quy
+định của hệ thống kế toán hiện hành. Bên cạnh
+đó, BKS cũng thống nhất với các nội dung
+được kiểm toán bởi Công ty TNHH Kiểm toán
+trình bày trung thực và hợp lý tình hình tài
+chính tại ngày 31 tháng 12 năm 2024, cũng như
+kết quả hoạt động kinh doanh và lưu chuyển
+tiền tệ cho giai đoạn tài chính từ ngày 01 tháng
+Nhờ việc thực hiện nghiêm túc quy chế quản
+trị công ty, HĐQT đã chủ động trong việc giám
+sát và điều hành kịp thời chiến lược kinh doanh
+cũng như các quyết sách cụ thể liên quan đến
+hoạt động của Công ty. Trong năm qua, BKS
+cũng đã đẩy mạnh kiểm tra, kiểm soát việc
+tuân thủ quy chế hoạt động, nâng cao chất
+lượng cũng như tính độc lập của hoạt động
+kiểm soát, đặc biệt là với các giao dịch trọng
 yếu và giao dịch với các bên liên quan.
-BKS đánh giá các hoạt động của Công ty trong 
-năm 2024 phát triển an toàn, bền vững, tuân 
-thủ theo đúng pháp luật hiện hành. Mọi vấn 
-đề quan trọng đều trải qua quá trình đánh giá, 
-thảo luận kỹ lưỡng và cẩn trọng trước khi ban 
-hành Nghị quyết. BGĐ đã bám sát và thực hiện 
-nghiêm túc các Nghị quyết của HĐQT. Trong 
-phạm vi quyền hạn, trách nhiệm của mình, 
-BKS đánh giá HĐQT, BGĐ và các phòng ban 
-liên quan đã tổ chức thực hiện tốt và không để 
-xảy ra thiếu sót hay vi phạm nào lớn ảnh hưởng 
+BKS đánh giá các hoạt động của Công ty trong
+năm 2024 phát triển an toàn, bền vững, tuân
+thủ theo đúng pháp luật hiện hành. Mọi vấn
+đề quan trọng đều trải qua quá trình đánh giá,
+thảo luận kỹ lưỡng và cẩn trọng trước khi ban
+hành Nghị quyết. BGĐ đã bám sát và thực hiện
+nghiêm túc các Nghị quyết của HĐQT. Trong
+phạm vi quyền hạn, trách nhiệm của mình,
+BKS đánh giá HĐQT, BGĐ và các phòng ban
+liên quan đã tổ chức thực hiện tốt và không để
+xảy ra thiếu sót hay vi phạm nào lớn ảnh hưởng
 tới hoạt động của Công ty.
-Đánh giá tình 
-hình tài chính của 
+Đánh giá tình
+hình tài chính của
 Công ty
-Công tác giám 
-sát, kiểm tra thực 
-hiện quy chế 
-quản trị nội bộ 
+Công tác giám
+sát, kiểm tra thực
+hiện quy chế
+quản trị nội bộ
 Công ty
-Đánh giá việc 
-tuân thủ pháp 
-luật, thực hiện 
-các Nghị quyết 
-của ĐHĐCĐ và 
-HĐQT 
-Báo cáo quản trị 
-Vincom Retail lọt Top 50 Doanh nghiệp tiên 
-phong và cam kết nâng cao quản trị công ty 
-tại Việt Nam – VNCG50: Với sự nỗ lực không 
-ngừng trong việc nâng cao chất lượng quản trị 
-Công ty, HĐQT cũng như BGĐ luôn luôn tìm 
-kiếm các giải pháp để nâng cao chất lượng 
-quản trị, vượt lên trên sự tuân thủ pháp luật. 
-Kết quả này đã được ghi nhận thông qua việc 
-Vincom Retail là 1 trong 42 doanh nghiệp niêm 
-yết tốt nhất Việt Nam được lựa chọn vào danh 
-sách VNCG50 được công bố tại Diễn đàn 
-thường niên AF7 ngày 05/12/2024. VNCG50 
-là bộ thẻ điểm quản trị được xây dựng dựa 
-trên các chỉ số đánh giá của ACGS theo các 
-thông lệ tốt, đồng thời dựa trên thực tiễn về 
-quản trị công ty tại Việt Nam. VNCG50 được 
-đánh giá bởi Hội đồng do Sở Giao dịch chứng 
-khoán Việt Nam (VNX) chủ trì, gồm các thành 
-viên là các chuyên gia đến từ các Sở Giao dịch 
-Chứng khoán Thành phố Hồ Chí Minh (HOSE), 
-Sở Giao dịch Chứng khoán Hà Nội (HNX), đại 
-diện quỹ, công ty chứng khoán và chuyên gia 
+Đánh giá việc
+tuân thủ pháp
+luật, thực hiện
+các Nghị quyết
+của ĐHĐCĐ và
+HĐQT
+Báo cáo quản trị
+Vincom Retail lọt Top 50 Doanh nghiệp tiên
+tại Việt Nam – VNCG50: Với sự nỗ lực không
+ngừng trong việc nâng cao chất lượng quản trị
+Công ty, HĐQT cũng như BGĐ luôn luôn tìm
+kiếm các giải pháp để nâng cao chất lượng
+quản trị, vượt lên trên sự tuân thủ pháp luật.
+Kết quả này đã được ghi nhận thông qua việc
+Vincom Retail là 1 trong 42 doanh nghiệp niêm
+yết tốt nhất Việt Nam được lựa chọn vào danh
+sách VNCG50 được công bố tại Diễn đàn
+thường niên AF7 ngày 05/12/2024. VNCG50
+là bộ thẻ điểm quản trị được xây dựng dựa
+trên các chỉ số đánh giá của ACGS theo các
+thông lệ tốt, đồng thời dựa trên thực tiễn về
+đánh giá bởi Hội đồng do Sở Giao dịch chứng
+khoán Việt Nam (VNX) chủ trì, gồm các thành
+viên là các chuyên gia đến từ các Sở Giao dịch
+Chứng khoán Thành phố Hồ Chí Minh (HOSE),
+Sở Giao dịch Chứng khoán Hà Nội (HNX), đại
+diện quỹ, công ty chứng khoán và chuyên gia
 độc lập.
-Bên cạnh đó, số điểm quản trị Công ty theo 
-đánh giá bởi Thẻ điểm quản trị Asean (ACGS) 
-thì mức điểm quản trị dự kiến của kỳ 2024 so 
+đánh giá bởi Thẻ điểm quản trị Asean (ACGS)
+thì mức điểm quản trị dự kiến của kỳ 2024 so
 với kỳ liền trước cũng tăng lên được 11 điểm.
-Kết quả nêu trên cho thấy HĐQT Công ty luôn 
-coi quản trị công ty là nền tảng quan trọng 
-giúp tăng cường tính minh bạch và trách 
-nhiệm giải trình của Công ty khi thực thi chiến 
-lược phát triển bền vững và là một yếu tố 
-rất quan trọng để thu hút nguồn vốn vào thị 
-trường Việt Nam nói chung và Vincom Retail 
-nói riêng, đồng thời giúp Công ty tối ưu hóa 
-hiệu quả hoạt động, quản lý rủi ro hiệu quả và 
-tạo dựng uy tín với các nhà đầu tư, đặc biệt là 
+Kết quả nêu trên cho thấy HĐQT Công ty luôn
+giúp tăng cường tính minh bạch và trách
+nhiệm giải trình của Công ty khi thực thi chiến
+lược phát triển bền vững và là một yếu tố
+rất quan trọng để thu hút nguồn vốn vào thị
+trường Việt Nam nói chung và Vincom Retail
+nói riêng, đồng thời giúp Công ty tối ưu hóa
+hiệu quả hoạt động, quản lý rủi ro hiệu quả và
+tạo dựng uy tín với các nhà đầu tư, đặc biệt là
 các tổ chức quốc tế.
-Trong năm 2024, Vincom Retail tiếp tục đẩy 
-mạnh công cuộc tinh gọn bộ máy, phân bổ 
-nguồn lực hợp lý để tận dụng tối đa được sự 
-đóng góp của mỗi thành viên HĐQT, từ đó 
-củng cố tính hiệu quả của hoạt động kiểm 
-soát của HĐQT, đảm bảo các nguyên tắc quản 
-trị chung được áp dụng trên toàn hệ thống, 
-tăng cường sự khăng khít trong các mối quan 
+Trong năm 2024, Vincom Retail tiếp tục đẩy
+mạnh công cuộc tinh gọn bộ máy, phân bổ
+nguồn lực hợp lý để tận dụng tối đa được sự
+đóng góp của mỗi thành viên HĐQT, từ đó
+củng cố tính hiệu quả của hoạt động kiểm
+soát của HĐQT, đảm bảo các nguyên tắc quản
+trị chung được áp dụng trên toàn hệ thống,
+tăng cường sự khăng khít trong các mối quan
 hệ giữa Công ty với các bên có liên quan.
-Phòng Đầu tư của Vincom Retail đã duy trì 
-những hoạt động thiết thực và nỗ lực cao trong 
-việc cung cấp thông tin cho cổ đông và nhà 
-đầu tư như: (i) tổ chức đầy đủ các cuộc họp với 
-nhà đầu tư hàng quý; (ii) cung cấp công khai 
-kết quả đánh giá hoạt động kinh doanh hàng 
-quý và tài liệu thuyết trình được cập nhật định 
-kỳ tại đường dẫn ir.vincom.com.vn; (iii) Lịch 
-sự kiện hàng năm – Quan hệ nhà đầu tư được 
+Phòng Đầu tư của Vincom Retail đã duy trì
+những hoạt động thiết thực và nỗ lực cao trong
+việc cung cấp thông tin cho cổ đông và nhà
+đầu tư như: (i) tổ chức đầy đủ các cuộc họp với
+nhà đầu tư hàng quý; (ii) cung cấp công khai
+kết quả đánh giá hoạt động kinh doanh hàng
+quý và tài liệu thuyết trình được cập nhật định
+kỳ tại đường dẫn ir.vincom.com.vn; (iii) Lịch
+sự kiện hàng năm – Quan hệ nhà đầu tư được
 công bố thông tin công khai ngay từ đầu năm.
-Báo cáo tài chính của Công ty và các Công ty 
-con được kiểm toán bởi công ty kiểm toán có 
+con được kiểm toán bởi công ty kiểm toán có
 uy tín trên toàn cầu là Deloitte.
-Năm 2025 tiếp tục với định hướng quản trị 
-công ty là nền tảng quan trọng khi thực thi 
-chiến lược phát triển bền vững, HĐQT sẽ tiếp 
-tục cầu thị và tiệm cận với thông lệ quản trị tốt 
-của bộ Thẻ điểm quản trị ASEAN, tích cực tìm 
-kiếm các giải pháp để đồng hành cùng mục 
-tiêu chung của Chính phủ hướng tới cam kết 
+Năm 2025 tiếp tục với định hướng quản trị
+công ty là nền tảng quan trọng khi thực thi
+tục cầu thị và tiệm cận với thông lệ quản trị tốt
+của bộ Thẻ điểm quản trị ASEAN, tích cực tìm
+kiếm các giải pháp để đồng hành cùng mục
+tiêu chung của Chính phủ hướng tới cam kết
 của Việt Nam đạt Net Zero vào năm 2050.
-Đồng thời, định hướng ESG là mục tiêu trọng 
-tâm chiến lược nên năm 2025 HĐQT sẽ lập 
-Báo cáo phát triển bền vững riêng biệt và xác 
-định các vấn đề trọng yếu để xây dựng chiến 
-lược thực thi, quản trị các rủi ro môi trường và 
-xã hội. 
-Các kết quả đạt 
-được về quản trị 
-doanh nghiệp 
+Đồng thời, định hướng ESG là mục tiêu trọng
+tâm chiến lược nên năm 2025 HĐQT sẽ lập
+Báo cáo phát triển bền vững riêng biệt và xác
+định các vấn đề trọng yếu để xây dựng chiến
+lược thực thi, quản trị các rủi ro môi trường và
+xã hội.
+Các kết quả đạt
+được về quản trị
+doanh nghiệp
 trong năm 2024
-Kế hoạch năm 
-2025 về quản trị 
-Công Ty 
+Kế hoạch năm
+2025 về quản trị
+Công Ty
 VINCOM RETAIL
 CHƯƠNG 4
-BÁO CÁO THƯỜNG NIÊN 2024
-BÁO CÁO THƯỜNG NIÊN 2024
-78
-79
 
-Ký hiệu 
+Ký hiệu
 của ACGS
 Tiêu chí đánh giá theo thẻ điểm quản trị
 công ty ASEAN
-Thực hành của Vincom Retail theo thẻ điểm quản trị Công ty ASEAN
-A.6.5
-Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp 
+Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp
 dễ dàng không?
-Mẫu Giấy Ủy quyền được cung cấp cùng với bộ tài liệu họp ĐHĐCĐ và 
+Mẫu Giấy Ủy quyền được cung cấp cùng với bộ tài liệu họp ĐHĐCĐ và
 được công bố trên website để các cổ đông có thể tải về.
 Link website: https://ir.vincom.com.vn/wp-content/uploads/2024/03/
 Bo-tai-lieu-hop-DHDCD_Vn-1.pdf
-A.8.2
-Công ty có chính sách yêu cầu thành viên HĐQT 
-không tham gia họp HĐQT trong các cuộc họp 
-về các hoạt động cụ thể mà thành viên đó có 
+Công ty có chính sách yêu cầu thành viên HĐQT
+không tham gia họp HĐQT trong các cuộc họp
+về các hoạt động cụ thể mà thành viên đó có
 xung đột lợi ích?
-Theo quy định tại Điều 37.4 Điều lệ Công ty, thành viên HĐQT không 
-được biểu quyết đối với các giao dịch mang lại lợi ích cho thành viên 
+Theo quy định tại Điều 37.4 Điều lệ Công ty, thành viên HĐQT không
+được biểu quyết đối với các giao dịch mang lại lợi ích cho thành viên
 đó hoặc người có liên quan của thành viên đó.
-A.9.1
-Công ty có công bố về các giao dịch bên liên 
-quan được thực hiện theo cách đảm bảo tính 
+Công ty có công bố về các giao dịch bên liên
+quan được thực hiện theo cách đảm bảo tính
 công bằng và độc lập hay không?
-Báo cáo thường niên 2023, trang 64 đã nêu: "Tất cả các giao dịch với 
-bên liên quan được thực hiện đúng theo quy định của pháp luật và 
+Báo cáo thường niên 2023, trang 64 đã nêu: "Tất cả các giao dịch với
+bên liên quan được thực hiện đúng theo quy định của pháp luật và
 dựa trên thông lệ thị trường."
-B.1.4
-Công ty có công bố các mục tiêu bền vững dưới 
+Công ty có công bố các mục tiêu bền vững dưới
 dạng số liệu hay không?
-Báo cáo thường niên 2023, mục Phát triển bền vững có ghi nhận mục 
-tiêu năm 2024 là tối ưu 8-10% sản lượng điện hệ thống điều hòa 
+Báo cáo thường niên 2023, mục Phát triển bền vững có ghi nhận mục
+tiêu năm 2024 là tối ưu 8-10% sản lượng điện hệ thống điều hòa
 không khí tại TTTM.
-B.3.1
-Công ty có công bố rằng hội đồng quản trị xem 
-xét hàng năm cấu trúc vốn và nợ của công ty để 
-đảm bảo tính tương thích với các mục tiêu chiến 
-lược và mức độ chấp nhận rủi ro liên quan 
+Công ty có công bố rằng hội đồng quản trị xem
+xét hàng năm cấu trúc vốn và nợ của công ty để
+đảm bảo tính tương thích với các mục tiêu chiến
+lược và mức độ chấp nhận rủi ro liên quan
 hay không?
-Báo cáo thường niên 2023 nêu phân tích cấu trúc vốn, phần các chỉ 
-tiêu tài chính cơ bản, thực hiện phân tích tỷ lệ vốn chủ sở hữu trên 
-tổng nguồn vốn (79%) đi ngang với tỷ lệ được ghi nhận trong năm 
+Báo cáo thường niên 2023 nêu phân tích cấu trúc vốn, phần các chỉ
+tiêu tài chính cơ bản, thực hiện phân tích tỷ lệ vốn chủ sở hữu trên
+tổng nguồn vốn (79%) đi ngang với tỷ lệ được ghi nhận trong năm
 2022 cho thấy không có biến động đáng kể về cấu trúc nguồn vốn.
-B.4.3
-Công ty có nỗ lực để đảm bảo rằng chuỗi giá 
-trị của mình thân thiện với môi trường hoặc phù 
-hợp với việc thúc đẩy phát triển bền vững  
+Công ty có nỗ lực để đảm bảo rằng chuỗi giá
+trị của mình thân thiện với môi trường hoặc phù
+hợp với việc thúc đẩy phát triển bền vững
 hay không?
-Báo cáo thường niên 2023, trang 83 nêu các mục tiêu và nỗ lực của 
+Báo cáo thường niên 2023, trang 83 nêu các mục tiêu và nỗ lực của
 Công ty để bảo vệ môi trường.
-B.4.4
-Công ty có nỗ lực tương tác (tiếp cận) với các 
+Công ty có nỗ lực tương tác (tiếp cận) với các
 cộng đồng nơi công ty hoạt động hay không?
-Báo cáo thường niên 2023, trang 84 nêu "Tiến hành nghiên cứu tác 
-động môi trường, cộng đồng trước khi triển khai các dự án. Thường 
-xuyên trao đổi với các cơ quan quản lý địa phương để cải thiện môi 
-trường sở tại. Tại mỗi địa bàn hoạt động, tận dụng nguồn nhân lực tại 
+động môi trường, cộng đồng trước khi triển khai các dự án. Thường
+xuyên trao đổi với các cơ quan quản lý địa phương để cải thiện môi
+trường sở tại. Tại mỗi địa bàn hoạt động, tận dụng nguồn nhân lực tại
 chỗ, tạo công ăn việc làm và góp phần cải thiện kinh tế địa phương."
-B.4.5
-Công ty có các chương trình và quy trình chống 
+Công ty có các chương trình và quy trình chống
 tham nhũng hay không?
-Báo cáo thường niên 2023, trang 90 nêu: "Đối với khách hàng, nhà 
-cung cấp có ký kết Thỏa thuận với Vincom Retail thì luôn luôn được 
-yêu cầu ký kết điều kiện về “Cam kết chống hối lộ”. 
-•	 Phần III Quy chế về đảm bảo sự minh bạch đã nêu các chính sách và 
+cung cấp có ký kết Thỏa thuận với Vincom Retail thì luôn luôn được
+yêu cầu ký kết điều kiện về “Cam kết chống hối lộ”.
+•	 Phần III Quy chế về đảm bảo sự minh bạch đã nêu các chính sách và
 quy định về chống hối lộ và tham nhũng.
 •	 Có cung cấp thông tin liên lạc
-B.6.1
-Công ty có công bố rõ ràng các chính sách và 
-thực hành về các vấn đề như sức khỏe, an toàn 
+Công ty có công bố rõ ràng các chính sách và
+thực hành về các vấn đề như sức khỏe, an toàn
 và phúc lợi cho nhân viên của mình hay không?
-Báo cáo thường niên 2023, trang 71 và 90 có nêu các chính sách về 
+Báo cáo thường niên 2023, trang 71 và 90 có nêu các chính sách về
 sức khỏe, phúc lợi và an toàn của nhân viên
-C.1.1
-Các thông tin về cổ phần có tiết lộ danh tính của 
-các chủ sở hữu thực sự nắm giữ từ 5% cổ phần 
+Các thông tin về cổ phần có tiết lộ danh tính của
+các chủ sở hữu thực sự nắm giữ từ 5% cổ phần
 trở lên hay không?
-Trang 76, Báo cáo thường niên 2023 trình bày thông tin về các cổ 
 đông lớn nắm giữa trên 5% số lượng cổ phiếu đang lưu hành
-C.1.3
-Công ty có công bố việc sở hữu cổ phần trực 
-tiếp và (được cho là) gián tiếp của thành viên 
+Công ty có công bố việc sở hữu cổ phần trực
+tiếp và (được cho là) gián tiếp của thành viên
 HĐQT?
-Trang 76, Báo cáo thường niên 2023 trình bày thông tin về các cổ 
-đông nội bộ là thành viên HĐQT, BGĐ, BKS, chi tiết đến từng  
+đông nội bộ là thành viên HĐQT, BGĐ, BKS, chi tiết đến từng
 thành viên.
-C.1.4
-Công ty có công bố việc sở hữu cổ phần trực 
-tiếp và (được cho là) gián tiếp của ban  
+Công ty có công bố việc sở hữu cổ phần trực
+tiếp và (được cho là) gián tiếp của ban
 điều hành?
-Trang 76, Báo cáo thường niên 2023 trình bày thông tin về các cổ 
-đông nội bộ là thành viên HĐQT, BGĐ, BKS, chi tiết đến từng 
+đông nội bộ là thành viên HĐQT, BGĐ, BKS, chi tiết đến từng
 thành viên.
-C.1.5
-Công ty có công bố chi tiết về công ty mẹ, công 
-ty con, công ty liên kết, công ty liên doanh và 
-doanh nghiệp/công ty có mục đích đặc biệt 
+Công ty có công bố chi tiết về công ty mẹ, công
+ty con, công ty liên kết, công ty liên doanh và
+doanh nghiệp/công ty có mục đích đặc biệt
 (SPE)/ (SPV)?
-Báo cáo thường niên 2023, trang 146-147, phần Thuyết minh Báo cáo 
-tài chính về giao dịch bên liên quan trình bày chi tiết từng bên liên 
-quan và mối quan hệ, giá trị các giao dịch trọng yếu với từng bên liên 
+Báo cáo thường niên 2023, trang 146-147, phần Thuyết minh Báo cáo
+tài chính về giao dịch bên liên quan trình bày chi tiết từng bên liên
+quan và mối quan hệ, giá trị các giao dịch trọng yếu với từng bên liên
 quan năm nay và năm trước.
-Ký hiệu 
+Ký hiệu
 của ACGS
 Tiêu chí đánh giá theo thẻ điểm quản trị
 công ty ASEAN
-Thực hành của Vincom Retail theo thẻ điểm quản trị Công ty ASEAN
-C.2.1
-Báo cáo thường niên của công ty có công bố 
 mục tiêu hoạt động hay không?
-Báo cáo thường niên 2023, trang 6-7, mô tả về Sứ mệnh, Tầm nhìn, 
 Giá trị cốt lõi.
-C.2.2
-Báo cáo thường niên của công ty có công bố chỉ 
 số hiệu suất tài chính hay không?
-Báo cáo thường niên 2023, trang 8-11, 18-19, 54 trình bày về tình hình và 
-kết quả kinh doanh trong năm và so sánh với các năm trước về các chỉ 
-tiêu: Doanh thu, lợi nhuận, trong đó chi tiết doanh thu theo từng hoạt 
-động, chi tiết lợi nhuận hoạt động từ cho thuê bất động sản đầu từ và 
+Báo cáo thường niên 2023, trang 8-11, 18-19, 54 trình bày về tình hình và
+kết quả kinh doanh trong năm và so sánh với các năm trước về các chỉ
+tiêu: Doanh thu, lợi nhuận, trong đó chi tiết doanh thu theo từng hoạt
+động, chi tiết lợi nhuận hoạt động từ cho thuê bất động sản đầu từ và
 cung cấp các dịch vụ liên quan và tỷ lệ lợi nhuận trên doanh thu.
-C.2.3
-Báo cáo thường niên của công ty có công bố 
 các chỉ số hiệu suất phi tài chính hay không?
-Báo cáo thường niên 2023, phần Phát triển bền vững trang 86, 91, nêu 
-một số thông tin định lượng về tiết kiệm năng lượng, tái chế rác thải 
+Báo cáo thường niên 2023, phần Phát triển bền vững trang 86, 91, nêu
+một số thông tin định lượng về tiết kiệm năng lượng, tái chế rác thải
 và cơ cấu nhân sự.
-C.2.5
-Báo cáo thường niên của công ty có công bố 
-chi tiết tiểu sử (tối thiểu tuổi, trình độ đào tạo, 
-chuyên môn, ngày đầu bổ nhiệm, kinh nghiệm 
-phù hợp, và vị trí thành viên HĐQT nào khác đang 
-nắm giữ tại các công ty niêm yết) của thành viên 
+chi tiết tiểu sử (tối thiểu tuổi, trình độ đào tạo,
+chuyên môn, ngày đầu bổ nhiệm, kinh nghiệm
+phù hợp, và vị trí thành viên HĐQT nào khác đang
+nắm giữ tại các công ty niêm yết) của thành viên
 HĐQT hay không?
-Báo cáo thường niên 2023, trang 34-38, đã công bố thông tin chi tiết 
+Báo cáo thường niên 2023, trang 34-38, đã công bố thông tin chi tiết
 về họ tên, học vấn, ngày bổ nhiệm lần đầu, các kinh nghiệm liên quan.
-C.3.2
-Công ty có công bố công khai (ví dụ: trong báo 
-cáo thường niên hoặc các tài liệu công khai 
-khác) chi tiết thù lao của từng thành viên/ủy viên 
+Công ty có công bố công khai (ví dụ: trong báo
+cáo thường niên hoặc các tài liệu công khai
+khác) chi tiết thù lao của từng thành viên/ủy viên
 hội đồng quản trị không điều hành hay không?
 Báo cáo thường niên 2023 nêu về thù lao của từng thành viên HĐQT/
 BKS năm đó và năm trước.
-C.3.4
-Công ty có công bố công khai (ví dụ: trong báo 
-cáo thường niên hoặc các tài liệu công khai 
-khác) chi tiết thù lao của từng giám đốc điều 
-hành và CEO (nếu ông/bà không phải là thành 
+Công ty có công bố công khai (ví dụ: trong báo
+cáo thường niên hoặc các tài liệu công khai
+khác) chi tiết thù lao của từng giám đốc điều
+hành và CEO (nếu ông/bà không phải là thành
 viên của Hội đồng quản trị) hay không?
-Báo cáo thường niên 2023, phần Thuyết minh BCTC nêu tổng thù lao 
 của từng thành viên HĐQT điều hành và BGĐ.
-C.4.2
-Công ty có công bố tên của bên liên quan, mối 
-quan hệ, bản chất và giá trị cho mỗi giao dịch với 
+Công ty có công bố tên của bên liên quan, mối
+quan hệ, bản chất và giá trị cho mỗi giao dịch với
 người có liên quan (RPT) quan trọng hay không?
-Báo cáo thường niên 2023, phần Thuyết minh BCTC công bố tên các 
-bên liên quan, mối quan hệ, bản chất và giá trị cùng từng RPT  
+bên liên quan, mối quan hệ, bản chất và giá trị cùng từng RPT
 quan trọng
-C.5.1
-Công ty có công bố giao dịch cổ phiếu của công 
-ty do người người nội bộ của công ty thực hiện 
+Công ty có công bố giao dịch cổ phiếu của công
+ty do người người nội bộ của công ty thực hiện
 hay không?
-Báo cáo thường niên 2023 đã nêu không có các giao dịch của các 
-thành viên chủ chốt (HĐQT, BKS, BGĐ) và những người có liên quan 
+thành viên chủ chốt (HĐQT, BKS, BGĐ) và những người có liên quan
 của các thành viên này.
-C.7.1
-Công ty có sử dụng hình thức báo cáo quý  
+Công ty có sử dụng hình thức báo cáo quý
 hay không?
 Công ty công bố đầy đủ các BCTC quý theo luật định.
-C.7.2
-Công ty có sử dụng hình thức trang thông tin 
+Công ty có sử dụng hình thức trang thông tin
 điện tử của công ty hay không?
 Website Công ty đã thiết lập theo luật định.
-C.7.3
-Công ty có sử dụng hình thức đánh giá của 
+Công ty có sử dụng hình thức đánh giá của
 chuyên gia phân tích hay không?
-Báo cáo tóm tắt cho giới phân tích được công bố định kỳ hàng quý 
+Báo cáo tóm tắt cho giới phân tích được công bố định kỳ hàng quý
 trên website Công ty.
-C.7.4
-Công ty có sử dụng hình thức thông tin trên 
+Công ty có sử dụng hình thức thông tin trên
 phương tiện truyền thông/họp báo hay không?
-Báo cáo thường niên 2023, trang 79, công bố chi tiết Lịch sự kiện 
+Báo cáo thường niên 2023, trang 79, công bố chi tiết Lịch sự kiện
 Quan hệ nhà đầu tư.
-C.8.1
-Báo cáo tài chính năm đã kiểm toán có được 
-công bố công khai trong vòng 120 ngày kể từ thời 
+công bố công khai trong vòng 120 ngày kể từ thời
 điểm kết thúc năm tài chính?
-BCTC 2023 riêng và hợp nhất được kiểm toán ban hành ngày 
-23/03/2024 và công bố ngày 26/03/2024.
-C.8.2
-Báo cáo thường niên có được công bố công khai 
-trong vòng 120 ngày kể từ thời điểm kết thúc 
+BCTC 2023 riêng và hợp nhất được kiểm toán ban hành ngày
+trong vòng 120 ngày kể từ thời điểm kết thúc
 năm tài chính?
-Báo cáo thường niên 2023 đã được công bố và gửi cho Ủy ban chứng 
-khoán nhà nước ngày 12/04/2024 (nhỏ hơn 120 ngày từ ngày kết thúc 
-năm tài chính). 
-C.8.3
-Sự trung thực và hợp lý của báo cáo tài chính 
-năm có được thành viên HĐQT và/hoặc thành 
-viên điều hành có thẩm quyền của công ty  
+khoán nhà nước ngày 12/04/2024 (nhỏ hơn 120 ngày từ ngày kết thúc
+năm tài chính).
+năm có được thành viên HĐQT và/hoặc thành
+viên điều hành có thẩm quyền của công ty
 khẳng định?
-Báo cáo Ban giám đốc, BCTC 2023 được kiểm toán, BGĐ Công ty đã 
+Báo cáo Ban giám đốc, BCTC 2023 được kiểm toán, BGĐ Công ty đã
 khẳng định tính trung thực và hợp lý của BCTC.
 VINCOM RETAIL
 CHƯƠNG 4
-BÁO CÁO THƯỜNG NIÊN 2024
-BÁO CÁO THƯỜNG NIÊN 2024
-98
-99
 
-BÁO CÁO THƯỜNG NIÊN 2024
 VINCOM RETAIL
-110
-BÁO CÁO THƯỜNG NIÊN 2024
 Phát triển bền vững
-05
 CHƯƠNG
-112
-Định hướng phát triển bền vững theo 17 mục tiêu 
+Định hướng phát triển bền vững theo 17 mục tiêu
 phát triển bền vững của Liên Hợp Quốc
 VINCOM RETAIL
-BÁO CÁO THƯỜNG NIÊN 2024
-110
-BÁO CÁO THƯỜNG NIÊN 2024
-111
 CHƯƠNG 5
 
-Định hướng phát triển bền vững 
+Định hướng phát triển bền vững
 theo 17 mục tiêu phát triển
 bền vững của Liên Hiệp Quốc
-Trong năm 2024, Vincom Retail tiếp tục nghiên 
-cứu, triển khai các giải pháp phù hợp với từng 
-nhóm TTTM theo từng cấp độ vận hành nhằm 
-mục đích cải thiện quản lý, bảo vệ môi trường 
-thông qua việc tuân thủ các tiêu chuẩn bảo vệ 
-môi trường và ứng dụng các giải pháp để giảm 
-lượng chất thải như tiết kiệm năng lượng, hướng 
-tới sử dụng các nguồn năng lượng sạch, phân 
-loại xử lý rác thải. Năm 2025, Vincom Retail sẽ 
-lập Báo cáo phát triển bền vững riêng biệt, xác 
-định các vấn đề trọng yếu để xây dựng chiến 
-lược thực thi, quản trị rủi ro môi trường và xã hội, 
-đồng thời coi ESG (Môi trường, Xã hội và Quản 
-trị) là mục tiêu trọng tâm chiến lược. HĐQT tiếp 
-tục định hướng quản trị công ty là nền tảng 
-quan trọng khi thực thi chiến lược phát triển 
-bền vững, cầu thị và tiệm cận với thông lệ quản 
-trị tốt của bộ Thẻ điểm quản trị ASEAN, tích cực 
-tìm kiếm giải pháp đồng hành cùng các mục 
-tiêu Năng lượng Xanh, Di chuyển Xanh và Tiêu 
-Dùng Xanh cũng như hướng tới các mục tiêu 
-Phát triển bền vững của Liên Hiệp Quốc. 
-Mục tiêu của 
+Trong năm 2024, Vincom Retail tiếp tục nghiên
+cứu, triển khai các giải pháp phù hợp với từng
+nhóm TTTM theo từng cấp độ vận hành nhằm
+mục đích cải thiện quản lý, bảo vệ môi trường
+thông qua việc tuân thủ các tiêu chuẩn bảo vệ
+môi trường và ứng dụng các giải pháp để giảm
+lượng chất thải như tiết kiệm năng lượng, hướng
+tới sử dụng các nguồn năng lượng sạch, phân
+loại xử lý rác thải. Năm 2025, Vincom Retail sẽ
+lập Báo cáo phát triển bền vững riêng biệt, xác
+định các vấn đề trọng yếu để xây dựng chiến
+lược thực thi, quản trị rủi ro môi trường và xã hội,
+đồng thời coi ESG (Môi trường, Xã hội và Quản
+trị) là mục tiêu trọng tâm chiến lược. HĐQT tiếp
+bền vững, cầu thị và tiệm cận với thông lệ quản
+trị tốt của bộ Thẻ điểm quản trị ASEAN, tích cực
+tìm kiếm giải pháp đồng hành cùng các mục
+tiêu Năng lượng Xanh, Di chuyển Xanh và Tiêu
+Dùng Xanh cũng như hướng tới các mục tiêu
+Phát triển bền vững của Liên Hiệp Quốc.
+Mục tiêu của
 Liên Hiệp Quốc
 Hoạt động nổi bật 2024
 Tác động/Hiệu quả
 Định hướng 2025
-•	 Tạo ra 2.480 lao động trực tiếp và gián tiếp góp phần tăng 
-tỷ lệ lao động tại địa phương với 17.500 việc làm tại tất cả 
+•	 Tạo ra 2.480 lao động trực tiếp và gián tiếp góp phần tăng
+tỷ lệ lao động tại địa phương với 17.500 việc làm tại tất cả
 các gian hàng trên toàn hệ thống TTTM.
 •	 Tài trợ 2 tỷ đồng xây trường Trường Trung học Chi Khê –
 điểm lẻ bản Chằn Nằn, huyện Con Cuông, tỉnh Nghệ An.
-Góp phần ổn định sinh 
-kế, thúc đẩy kinh tế địa 
-phương, cải thiện cơ sở 
+Góp phần ổn định sinh
+kế, thúc đẩy kinh tế địa
+phương, cải thiện cơ sở
 hạ tầng vùng khó khăn.
-Tuyển dụng tại địa phương cho 3 
-TTTM mới mới tại Hưng Yên, Hải 
+Tuyển dụng tại địa phương cho 3
+TTTM mới mới tại Hưng Yên, Hải
 Phòng, Vinh.
-•	 Trao 4.473 suất quà Tết (600.000 đồng/1 suất quà bằng 
+•	 Trao 4.473 suất quà Tết (600.000 đồng/1 suất quà bằng
 tiền mặt) tương ứng với 2.682.752.896 đồng.
-•	 Tài trợ 30 tỷ & kêu gọi CBNV đóng góp thêm gần 900 triệu 
-đồng cho các cộng đồng địa phương chịu ảnh hưởng 
+•	 Tài trợ 30 tỷ & kêu gọi CBNV đóng góp thêm gần 900 triệu
+đồng cho các cộng đồng địa phương chịu ảnh hưởng
 nặng nề trong bão Yagi.
-Giảm khó khăn tạm thời 
-và hỗ trợ tái thiết cộng 
+Giảm khó khăn tạm thời
+và hỗ trợ tái thiết cộng
 đồng sau thiên tai.
-Duy trì chương trình trao quà Tết; hỗ 
-trợ một số vùng khó khăn tại các địa 
+Duy trì chương trình trao quà Tết; hỗ
+trợ một số vùng khó khăn tại các địa
 phương có TTTM Vincom hiện diện.
-•	 Thu nhập trung bình 15 triệu/tháng cao gấp hơn 3 lần 
-mức lương tối thiểu vùng cao nhất theo quy định pháp 
+•	 Thu nhập trung bình 15 triệu/tháng cao gấp hơn 3 lần
+mức lương tối thiểu vùng cao nhất theo quy định pháp
 luật hiện hành.
-•	 Chương trình bảo hiểm sức khỏe cho 2.355 CBNV; khám 
+•	 Chương trình bảo hiểm sức khỏe cho 2.355 CBNV; khám
 sức khỏe định kỳ.
 •	 Chế độ phúc lợi toàn diện.
-Cải thiện chất lượng 
-cuộc sống và phúc lợi 
+Cải thiện chất lượng
+cuộc sống và phúc lợi
 người lao động.
-Duy trì thu nhập và các chính sách 
-phúc lợi; tổ chức hoạt động gắn kết 
+Duy trì thu nhập và các chính sách
+phúc lợi; tổ chức hoạt động gắn kết
 và nâng cao sức khỏe CBNV.
-142.346 giờ đào tạo chuyên môn và đào tạo quản lý lãnh 
+142.346 giờ đào tạo chuyên môn và đào tạo quản lý lãnh
 đạo từ trưởng bộ phận các TTTM tới cấp lãnh đạo công ty.
-Nâng cao năng lực 
-nhân sự và hỗ trợ phát 
-triển giáo dục cho con 
+Nâng cao năng lực
+nhân sự và hỗ trợ phát
+triển giáo dục cho con
 em CBNV.
-Tiếp tục đào tạo nâng cấp chuyên 
-môn, cải tiến NSLĐ, áp dụng công 
-nghệ và tự động vào công việc từ 
-các TTTM tới các khối phòng ban cấp 
+Tiếp tục đào tạo nâng cấp chuyên
+môn, cải tiến NSLĐ, áp dụng công
+nghệ và tự động vào công việc từ
+các TTTM tới các khối phòng ban cấp
 công ty.
-Tỷ lệ cán bộ lãnh đạo, cán bộ cấp quản lý đạt 35% và tỷ lệ 
-nhân viên nữ đạt 36%. Không phân biệt giới tính, dân tộc, 
+Tỷ lệ cán bộ lãnh đạo, cán bộ cấp quản lý đạt 35% và tỷ lệ
+nhân viên nữ đạt 36%. Không phân biệt giới tính, dân tộc,
 tôn giáo.
-Thúc đẩy môi trường 
-làm việc đa dạng, bình 
+Thúc đẩy môi trường
+làm việc đa dạng, bình
 đẳng và hòa nhập.
-Duy trì tỷ lệ nữ >30%; đảm bảo không 
-phân biệt đối xử trong tuyển dụng và 
+Duy trì tỷ lệ nữ >30%; đảm bảo không
+phân biệt đối xử trong tuyển dụng và
 đãi ngộ.
 100% TTTM sử dụng nước sạch và xử lý nước thải đạt chuẩn.
-Đảm bảo điều kiện 
-vệ sinh và môi trường 
-an toàn tại toàn bộ hệ 
+Đảm bảo điều kiện
+vệ sinh và môi trường
+an toàn tại toàn bộ hệ
 thống TTTM.
-Tiếp tục duy trì và nâng cấp hệ thống 
-nước sạch, xử lý nước thải chuẩn tại 
+Tiếp tục duy trì và nâng cấp hệ thống
+nước sạch, xử lý nước thải chuẩn tại
 các TTTM.
-Lắp đặt hệ thống điện năng lượng mặt trời tại 56/88 TTTM; 
-sản lượng tiêu thụ năm 2024 đặt 15,5 triệu kWh, tiết kiệm 
+Lắp đặt hệ thống điện năng lượng mặt trời tại 56/88 TTTM;
+sản lượng tiêu thụ năm 2024 đặt 15,5 triệu kWh, tiết kiệm
 13,6 tỷ đồng; giảm ~10.000 tấn CO₂.
-Giảm phát thải CO₂, 
-giảm chi phí điện năng, 
-tăng nhận diện thương 
+Giảm phát thải CO₂,
+giảm chi phí điện năng,
+tăng nhận diện thương
 hiệu xanh.
-Dự kiến lắp thêm 4 hệ thống điện 
-năng lượng mặt trời; nghiên cứu tối 
+Dự kiến lắp thêm 4 hệ thống điện
+năng lượng mặt trời; nghiên cứu tối
 ưu năng lượng toàn hệ thống.
 Ứng dụng công nghệ, các hệ thống phần mềm vào các ng-
-hiệp vụ như hệ thống lõi SAP, hệ thống quản lý tài sản, hệ 
-thống BI, văn phòng điện tử E-Office cho quản lý vận hành, 
-cũng đầu tư cho hệ thống CRM Sale Force, Cam AI, Beacon, 
+hiệp vụ như hệ thống lõi SAP, hệ thống quản lý tài sản, hệ
+thống BI, văn phòng điện tử E-Office cho quản lý vận hành,
+cũng đầu tư cho hệ thống CRM Sale Force, Cam AI, Beacon,
 Vincom App… nâng cao trải nghiệm khách hàng.
-•	 Tạo ra 2.480 lao động trực tiếp và gián tiếp góp phần tăng 
-tỷ lệ lao động tại địa phương với 17.500 việc làm tại tất cả 
+•	 Tạo ra 2.480 lao động trực tiếp và gián tiếp góp phần tăng
+tỷ lệ lao động tại địa phương với 17.500 việc làm tại tất cả
 các gian hàng trên toàn hệ thống TTTM.
-•	 Giá trị thương hiệu năm 2024 đạt 300,5 triệu USD, vươn 
-lên vị trí thứ 8, và cũng là doanh nghiệp duy nhất trong 
-lĩnh vực bất động sản bán lẻ được vinh danh do Forbes 
+•	 Giá trị thương hiệu năm 2024 đạt 300,5 triệu USD, vươn
+lên vị trí thứ 8, và cũng là doanh nghiệp duy nhất trong
+lĩnh vực bất động sản bán lẻ được vinh danh do Forbes
 bình chọn.
 •	 Đạt nhiều giải thưởng doanh nghiệp tiêu biểu:
-	› Doanh nghiệp lãnh đạo xanh (Green Leadership) tại 
-Giải thưởng trách nhiệm xã hội doanh nghiệp châu Á 
-– Asia Responsible Entrepreneurship Awards (AREA) 
-2024.
-	› Top 50 Công ty niêm yết tốt nhất Việt Nam 2024 do 
+› Doanh nghiệp lãnh đạo xanh (Green Leadership) tại
+Giải thưởng trách nhiệm xã hội doanh nghiệp châu Á
+– Asia Responsible Entrepreneurship Awards (AREA)
+› Top 50 Công ty niêm yết tốt nhất Việt Nam 2024 do
 Forbes Việt Nam bình chọn
-	› Top 25 Thương hiệu dẫn đầu do Forbes Việt Nam bình 
-chọn. 
-	› Top 100 thương hiệu giá trị nhất và mạnh nhất Việt Nam 
+› Top 25 Thương hiệu dẫn đầu do Forbes Việt Nam bình
+chọn.
+› Top 100 thương hiệu giá trị nhất và mạnh nhất Việt Nam
 theo Brand Finance.
-Tối ưu hiệu suất lao 
-động, giảm chi phí 
-hành chính, nâng cao 
-năng suất và giá trị 
+Tối ưu hiệu suất lao
+động, giảm chi phí
+hành chính, nâng cao
+năng suất và giá trị
 thương hiệu.
-•	 Tiếp tục số hóa và tự động hóa 
-quy trình làm việc, nâng cao năng 
-suất lao động và trải nghiệm khách 
-hàng; Nâng cao văn hóa Dịch vụ 
-khách hàng đến từ trái tim. 
-•	 Tạo công ăn việc làm trực tiếp tại 3 
-địa phương nơi có 3 TTTM mở mới 
+•	 Tiếp tục số hóa và tự động hóa
+quy trình làm việc, nâng cao năng
+suất lao động và trải nghiệm khách
+hàng; Nâng cao văn hóa Dịch vụ
+khách hàng đến từ trái tim.
+•	 Tạo công ăn việc làm trực tiếp tại 3
+địa phương nơi có 3 TTTM mở mới
 (Hưng Yên, Hải Phòng, Vinh).
-•	 Đạt các giải thưởng danh giá và 
-tiêu biểu nâng cao uy tín, tầm vóc 
+•	 Đạt các giải thưởng danh giá và
+tiêu biểu nâng cao uy tín, tầm vóc
 và giá trị thương hiệu.
 VINCOM RETAIL
 CHƯƠNG 6
-BÁO CÁO THƯỜNG NIÊN 2024
-BÁO CÁO THƯỜNG NIÊN 2024
-112
-113

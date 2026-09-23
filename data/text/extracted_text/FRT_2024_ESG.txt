@@ -1,474 +1,948 @@
-38
-Báo cáo thường niên 2024
-Chương I: Dấu ấn FPT Retail 2024
-39
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-CHIẾN LƯỢC PHÁT TRIỂN
-FPT Retail tiếp tục kiên định với chiến lược phát triển cốt lõi: 
-“Ứng dụng công nghệ AI” và “Xây dựng hệ sinh thái chăm 
-sóc sức khỏe toàn diện”. Lấy kim chỉ nam “Dẫn đầu Công 
-nghệ – Chăm sóc toàn diện”, FPT Retail không ngừng mở 
-rộng quy mô, đa dạng hóa danh mục sản phẩm và dịch vụ, 
-đồng thời tối ưu hóa vận hành bằng những giải pháp công 
+CHƯƠNG I:
+ẤN TƯỢNG FPT RETAIL 2024
+Các chỉ tiêu kinh doanh cơ bản 2024
+Thông điệp Chủ tịch Hội đồng Quản trị
+Các sự kiện nổi bật năm 2024
+Giải thưởng tiêu biểu năm 2024
+Tầm nhìn, sứ mệnh và giá trị cốt lõi
+Dấu mốc phát triển
+Lĩnh vực kinh doanh
+Mô hình quản trị & cơ cấu bộ máy quản lý
+CHƯƠNG II:
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH NĂM 2024
+Đánh giá kết quả hoạt động kinh doanh 2024
+Những cải tiến về cơ cấu tổ chức, chính sách quản lý
+Tình hình tài chính
+Tình hình đầu tư & thực hiện các dự án
+Kế hoạch hoạt động năm 2025
+Thông tin cổ phiếu và cơ cấu cổ đông
+CHƯƠNG III:
+BÁO CÁO QUẢN TRỊ DOANH NGHIỆP
+Báo cáo của Hội đồng Quản trị
+Báo cáo của Ban Kiểm soát
+Quản trị doanh nghiệp
+Quản trị rủi ro
+CHƯƠNG IV:
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Tầm nhìn bền vững
+Báo cáo phát triển bền vững
+CHƯƠNG V:
+
+Giá trị cốt lõi
+TẦM NHÌN, SỨ MỆNH VÀ GIÁ TRỊ CỐT LÕI
+FPT Retail hướng đến trở thành doanh nghiệp bán lẻ đa ngành hàng
+đầu Việt Nam, tiên phong ứng dụng công nghệ và đổi mới mô hình kinh
+doanh để mang đến trải nghiệm mua sắm vượt trội và không ngừng mở
+rộng hệ sinh thái sản phẩm – dịch vụ, tối ưu vận hành để tạo giá trị bền
+vững cho khách hàng, đối tác, cổ đông và cộng đồng.
+Tầm nhìn
+FPT Retail xây dựng hệ thống bán lẻ hiện đại, nơi khách hàng trải nghiệm
+sản phẩm công nghệ tiên tiến, dược phẩm chất lượng và dịch vụ tiện
+ích hàng đầu. Chúng tôi tiên phong ứng dụng công nghệ, chuyển đổi số
+nhằm tối ưu vận hành, cá nhân hóa trải nghiệm khách hàng và thúc đẩy
+sự phát triển bền vững.
+Sứ mệnh
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+Không ngừng đổi mới, ứng dụng công nghệ để nâng cao hiệu suất và
+tạo lợi thế cạnh tranh.
+Tiên phong đổi mới, công nghệ dẫn lối
+Phát triển bền vững
+Đa dạng hóa hệ sinh thái, tạo giá trị lâu dài cho khách hàng, cổ đông và
+Minh bạch, chuyên nghiệp
+Hành động với sự chính trực, duy trì sự minh bạch để xây dựng niềm tin
+vững chắc.
+Nuôi dưỡng tài năng, thúc đẩy sáng tạo và đoàn kết vì mục tiêu chung.
+Con người là nền tảng
+Mỗi sản phẩm, dịch vụ đều hướng đến việc nâng cao trải nghiệm, đáp
+ứng nhu cầu và mang lại giá trị thiết thực cho khách hàng.
+Khách hàng là trọng tâm
+
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+“Ứng dụng công nghệ AI” và “Xây dựng hệ sinh thái chăm
+sóc sức khỏe toàn diện”. Lấy kim chỉ nam “Dẫn đầu Công
+nghệ – Chăm sóc toàn diện”, FPT Retail không ngừng mở
+rộng quy mô, đa dạng hóa danh mục sản phẩm và dịch vụ,
+đồng thời tối ưu hóa vận hành bằng những giải pháp công
 nghệ tiên tiến, nâng cao trải nghiệm của khách hàng.
-“
-Với mong muốn kiến tạo những giá trị bền vững, FPT Retail không ngừng đổi mới để nâng tầm chất 
-lượng cuộc sống cho khách hàng nói riêng và người dân Việt Nam nói chung. Trên hành trình này, FPT 
-Retail không chỉ mở rộng quy mô và lĩnh vực kinh doanh của các chuỗi bán lẻ, mà còn từng bước xây 
-dựng một hệ sinh thái sức khỏe toàn diện, nơi công nghệ tiên tiến đồng hành cùng y tế hiện đại, mang 
+Với mong muốn kiến tạo những giá trị bền vững, FPT Retail không ngừng đổi mới để nâng tầm chất
+lượng cuộc sống cho khách hàng nói riêng và người dân Việt Nam nói chung. Trên hành trình này, FPT
+Retail không chỉ mở rộng quy mô và lĩnh vực kinh doanh của các chuỗi bán lẻ, mà còn từng bước xây
+dựng một hệ sinh thái sức khỏe toàn diện, nơi công nghệ tiên tiến đồng hành cùng y tế hiện đại, mang
 đến những giải pháp tối ưu, góp phần nâng cao chất lượng cuộc sống cho cộng đồng.
-Chuỗi FPT Long Châu nỗ lực hết mình, liên tục 
-đổi mới sáng tạo để đóng góp tích cực vào nỗ lực 
-chung của quốc gia thực hiện mục tiêu xây dựng 
-nền y tế hiện đại và hiệu quả. Trong năm 2025, 
-FPT Long Châu sẽ giữ vững vị thế dẫn đầu trong 
-chuỗi nhà thuốc bằng cách tiếp tục mở rộng vùng 
-phủ, đẩy mạnh ứng dụng AI vào chăm sóc khách 
-hàng, phát triển các dịch vụ thông minh, nâng cao 
-trải nghiệm người dùng. FPT Long Châu sẽ tiếp 
-tục đầu tư mạnh mẽ vào chuỗi tiêm chủng hiện 
-tại để góp phần gia tăng độ phủ vắc-xin, nâng cao 
-chất lượng dịch vụ và trải nghiệm khách hàng. Với 
-đội ngũ dược sĩ, điều dưỡng và bác sĩ đông đảo, 
-giàu kinh nghiệm và chuyên môn cao, chúng tôi 
-kỳ vọng sẽ nâng cao nhận thức cộng đồng về tầm 
-quan trọng của vắc-xin và tiêm chủng, đồng thời 
-mang dịch vụ đến gần hơn với khách hàng. Bên 
-cạnh đó, FPT Long Châu sẽ nỗ lực ra mắt các dịch 
-vụ mới, mang đến giải pháp chăm sóc sức khỏe 
-toàn diện và tiện lợi hơn cho khách hàng nói riêng 
+Chuỗi FPT Long Châu nỗ lực hết mình, liên tục
+đổi mới sáng tạo để đóng góp tích cực vào nỗ lực
+chung của quốc gia thực hiện mục tiêu xây dựng
+nền y tế hiện đại và hiệu quả. Trong năm 2025,
+FPT Long Châu sẽ giữ vững vị thế dẫn đầu trong
+chuỗi nhà thuốc bằng cách tiếp tục mở rộng vùng
+phủ, đẩy mạnh ứng dụng AI vào chăm sóc khách
+hàng, phát triển các dịch vụ thông minh, nâng cao
+trải nghiệm người dùng. FPT Long Châu sẽ tiếp
+tục đầu tư mạnh mẽ vào chuỗi tiêm chủng hiện
+tại để góp phần gia tăng độ phủ vắc-xin, nâng cao
+chất lượng dịch vụ và trải nghiệm khách hàng. Với
+đội ngũ dược sĩ, điều dưỡng và bác sĩ đông đảo,
+giàu kinh nghiệm và chuyên môn cao, chúng tôi
+kỳ vọng sẽ nâng cao nhận thức cộng đồng về tầm
+quan trọng của vắc-xin và tiêm chủng, đồng thời
+mang dịch vụ đến gần hơn với khách hàng. Bên
+cạnh đó, FPT Long Châu sẽ nỗ lực ra mắt các dịch
+vụ mới, mang đến giải pháp chăm sóc sức khỏe
+toàn diện và tiện lợi hơn cho khách hàng nói riêng
 và người dân Việt Nam nói chung.
-Về mảng kinh doanh chuỗi sản phẩm ICT, FPT 
-Shop sẽ phát triển các danh mục sản phẩm, dịch 
-vụ với biên lợi nhuận cao hơn, nâng cao chất lượng 
-phục vụ khách hàng thông qua ứng dụng công 
-nghệ tiên tiến, nhằm đảm bảo mục tiêu lợi nhuận 
-và gia tăng đóng góp cho FPT Retail. Cụ thể, FPT 
-Shop đẩy mạnh chiến lược mở rộng kinh doanh với 
-hệ thống điện máy và thúc đẩy tăng trưởng cho 
-các mảng dịch vụ mới như MVNO, mở ra những cơ 
+Về mảng kinh doanh chuỗi sản phẩm ICT, FPT
+Shop sẽ phát triển các danh mục sản phẩm, dịch
+vụ với biên lợi nhuận cao hơn, nâng cao chất lượng
+phục vụ khách hàng thông qua ứng dụng công
+nghệ tiên tiến, nhằm đảm bảo mục tiêu lợi nhuận
+và gia tăng đóng góp cho FPT Retail. Cụ thể, FPT
+Shop đẩy mạnh chiến lược mở rộng kinh doanh với
+hệ thống điện máy và thúc đẩy tăng trưởng cho
+các mảng dịch vụ mới như MVNO, mở ra những cơ
 hội phát triển bền vững trong tương lai.
-FPT Retail đặt mục tiêu mở rộng quy mô, ứng dụng công nghệ và xây dựng hệ sinh thái bán lẻ – chăm 
-sóc sức khỏe toàn diện, hướng tới phát triển bền vững và nâng tầm trải nghiệm khách hàng. Hướng tới 
-mục tiêu này, FPT Retail đặt ra những mục tiêu chiến lược trung và dài hạn, định hướng cho sự phát triển 
+FPT Retail đặt mục tiêu mở rộng quy mô, ứng dụng công nghệ và xây dựng hệ sinh thái bán lẻ – chăm
+sóc sức khỏe toàn diện, hướng tới phát triển bền vững và nâng tầm trải nghiệm khách hàng. Hướng tới
+mục tiêu này, FPT Retail đặt ra những mục tiêu chiến lược trung và dài hạn, định hướng cho sự phát triển
 bền vững và bứt phá trong tương lai.
 Mở rộng quy mô
-Mở rộng mạng lưới các cửa hàng ở vị trí tiềm năng. 
-Việc mở rộng này không chỉ giúp nâng cao khả 
-năng hiện diện thương hiệu, mà còn tạo ra nhiều 
-điểm chạm hơn trong hành trình mua sắm của 
-khách hàng. Song song đó, Công ty tập trung tối 
-ưu hiệu quả hoạt động tại từng cửa hàng, nâng 
-cao chất lượng dịch vụ thông qua việc chuẩn 
-hóa quy trình, đào tạo đội ngũ chuyên nghiệp và 
-ứng dụng công nghệ hiện đại. Tất cả những yếu 
-tố này góp phần tạo nên lợi thế cạnh tranh bền 
-vững, khẳng định vị thế của FPT Retail trên thị 
+Mở rộng mạng lưới các cửa hàng ở vị trí tiềm năng.
+Việc mở rộng này không chỉ giúp nâng cao khả
+năng hiện diện thương hiệu, mà còn tạo ra nhiều
+điểm chạm hơn trong hành trình mua sắm của
+khách hàng. Song song đó, Công ty tập trung tối
+ưu hiệu quả hoạt động tại từng cửa hàng, nâng
+cao chất lượng dịch vụ thông qua việc chuẩn
+hóa quy trình, đào tạo đội ngũ chuyên nghiệp và
+ứng dụng công nghệ hiện đại. Tất cả những yếu
+tố này góp phần tạo nên lợi thế cạnh tranh bền
+vững, khẳng định vị thế của FPT Retail trên thị
 trường bán lẻ và chăm sóc sức khỏe.
 Ứng dụng công nghệ
-Đẩy mạnh chuyển đổi số, tiên phong ứng dụng 
-trí tuệ nhân tạo (AI) nhằm tối ưu hóa vận hành 
-và nâng cao trải nghiệm khách hàng. Công nghệ 
-AI không chỉ giúp tinh gọn quy trình, nâng cao 
-hiệu suất mà còn cá nhân hóa dịch vụ, đáp ứng 
-chính xác nhu cầu của từng khách hàng. Từ khâu 
-tư vấn, gợi ý sản phẩm đến dịch vụ hậu mãi, mọi 
-trải nghiệm đều được thiết kế để mang lại sự 
-thuận tiện tối đa, tạo nên sự khác biệt vượt trội, 
-giúp khách hàng tận hưởng dịch vụ nhanh chóng, 
+Đẩy mạnh chuyển đổi số, tiên phong ứng dụng
+trí tuệ nhân tạo (AI) nhằm tối ưu hóa vận hành
+và nâng cao trải nghiệm khách hàng. Công nghệ
+AI không chỉ giúp tinh gọn quy trình, nâng cao
+hiệu suất mà còn cá nhân hóa dịch vụ, đáp ứng
+chính xác nhu cầu của từng khách hàng. Từ khâu
+tư vấn, gợi ý sản phẩm đến dịch vụ hậu mãi, mọi
+trải nghiệm đều được thiết kế để mang lại sự
+thuận tiện tối đa, tạo nên sự khác biệt vượt trội,
+giúp khách hàng tận hưởng dịch vụ nhanh chóng,
 chính xác và hiệu quả.
 Xây dựng hệ sinh thái
-Chú trọng kết nối chặt chẽ giữa hai lĩnh vực cốt 
-lõi của các chuỗi bán lẻ về công nghệ và chăm 
-sóc sức khỏe, từng bước kiến tạo một hệ sinh 
-thái toàn diện, nơi các dịch vụ và sản phẩm bổ 
-trợ lẫn nhau nhằm nâng cao trải nghiệm khách 
-hàng. Sự tích hợp này không chỉ mang lại giá trị 
-gia tăng vượt trội, đáp ứng nhu cầu ngày càng 
-đa dạng mà còn góp phần nâng cao chất lượng 
-chăm sóc sức khỏe cho khách hàng, hướng tới 
+Chú trọng kết nối chặt chẽ giữa hai lĩnh vực cốt
+lõi của các chuỗi bán lẻ về công nghệ và chăm
+sóc sức khỏe, từng bước kiến tạo một hệ sinh
+thái toàn diện, nơi các dịch vụ và sản phẩm bổ
+trợ lẫn nhau nhằm nâng cao trải nghiệm khách
+hàng. Sự tích hợp này không chỉ mang lại giá trị
+gia tăng vượt trội, đáp ứng nhu cầu ngày càng
+đa dạng mà còn góp phần nâng cao chất lượng
+chăm sóc sức khỏe cho khách hàng, hướng tới
 một cuộc sống tiện ích và bền vững hơn.
 Phát triển bền vững
-Cam kết phát triển bền vững, không chỉ tập 
-trung vào tăng trưởng lợi nhuận mà còn hài hòa 
-với trách nhiệm xã hội, hướng đến những giá trị 
-lâu dài cho cộng đồng. FPT Retail không ngừng 
-nâng cao chất lượng sản phẩm, dịch vụ, đồng 
-thời đẩy mạnh các hoạt động vì cộng đồng, góp 
-phần cải thiện đời sống và mang lại lợi ích thiết 
-thực cho xã hội. Với chiến lược phát triển bền 
-vững và định hướng kinh doanh có trách nhiệm, 
+Cam kết phát triển bền vững, không chỉ tập
+trung vào tăng trưởng lợi nhuận mà còn hài hòa
+với trách nhiệm xã hội, hướng đến những giá trị
+lâu dài cho cộng đồng. FPT Retail không ngừng
+nâng cao chất lượng sản phẩm, dịch vụ, đồng
+thời đẩy mạnh các hoạt động vì cộng đồng, góp
+phần cải thiện đời sống và mang lại lợi ích thiết
+vững và định hướng kinh doanh có trách nhiệm,
 FPT Retail tiếp tục củng cố vị thế trên thị trường.
 Mục tiêu
 Chiến lược ngắn hạn
 Chiến lược trung và dài hạn
 
-91
+Chương III: Báo cáo quản trị doanh nghiệp
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-90
-Báo cáo thường niên 2024
+QUẢN TRỊ RỦI RO
+Rủi ro hoạt động
+Rủi ro từ nguồn cung ứng
+FPT Retail đẩy mạnh
+mở rộng danh mục
+sản phẩm, hạn chế
+sự phụ thuộc vào
+một nhóm hàng hóa
+nhất định, từ đó gia
+tăng khả năng thích
+ứng trước những biến
+động của thị trường.
+Năm 2024, chuỗi cung ứng toàn cầu tiếp tục chịu ảnh hưởng từ các
+biến động địa chính trị và kinh tế. Xung đột tại Ukraine và Trung
+Đông làm gián đoạn dòng chảy thương mại, trong khi biến đổi khí
+hậu ảnh hưởng đến các tuyến vận tải quan trọng như kênh đào
+Panama và Suez, đẩy chi phí logistics lên cao và kéo dài thời gian
+giao hàng. Những thách thức này tạo áp lực lớn lên chuỗi cung ứng
+toàn cầu, đặc biệt đối với các ngành có tỷ lệ nhập khẩu cao như
+công nghệ và dược phẩm. Trong bối cảnh đó, nhập khẩu hàng hóa
+của Việt Nam đạt 380,76 tỷ USD trong năm 2024, tăng 16,7% so
+với cùng kỳ năm trước, phản ánh sự phục hồi mạnh của hoạt động
+thương mại. Tuy nhiên, sự phụ thuộc vào nguồn cung nước ngoài
+tiếp tục gia tăng, đặc biệt trong lĩnh vực ICT và dược phẩm.
+Theo số liệu từ Tổng cục hải quan, Nhập khẩu máy vi tính, sản phẩm
+điện tử và linh kiện lần đầu tiên vượt 100 tỷ USD, đạt 107,05 tỷ USD,
+tăng 21,7% so với năm trước, trong đó Việt Nam chủ yếu nhập khẩu
+từ Trung Quốc (34,59 tỷ USD, tăng 47,7%), Hàn Quốc (31,89 tỷ USD,
+tăng 10,9%) và Đài Loan (13,86 tỷ USD, tăng 36,1%). Sự phụ thuộc
+lớn vào các thị trường này khiến các doanh nghiệp bán lẻ như FPT
+Retail đối mặt với rủi ro gián đoạn chuỗi cung ứng khi có biến động
+về chính sách thương mại, logistics hoặc tỷ giá.
+Đối với lĩnh vực dược phẩm, Việt Nam vẫn phụ thuộc lớn vào nguồn
+nhập khẩu nguyên liệu và thành phẩm. Theo số liệu từ Bộ Y tế, giá
+trị nhập khẩu dược phẩm năm 2024 đạt khoảng 3,87 tỷ USD, trong
+khi giá trị xuất khẩu chỉ khoảng 280 triệu USD, cho thấy sự chênh
+lệch lớn giữa cung và cầu trong nước.
+Trước những thách thức đặt ra, FPT Retail chủ động xây dựng một
+chiến lược linh hoạt và toàn diện nhằm củng cố sức mạnh chuỗi
+cung ứng. Công ty không ngừng mở rộng và đa dạng hóa nguồn
+cung, thiết lập mối quan hệ hợp tác chặt chẽ với các đối tác để tối
+ưu hóa quy trình nhập hàng, giảm thiểu rủi ro gián đoạn. Song song
+đó, FPT Retail đẩy mạnh mở rộng danh mục sản phẩm, hạn chế sự
+phụ thuộc vào một nhóm hàng hóa nhất định, từ đó gia tăng khả
+năng thích ứng trước những biến động của thị trường.
+Không chỉ dừng lại ở đó, doanh nghiệp còn ứng dụng các giải pháp
+quản lý tồn kho hiện đại, đảm bảo sự linh hoạt trong điều phối hàng
+hóa và tối ưu hóa nguồn lực. Chính sự chủ động và chiến lược bài
+bản này đã giúp FPT Retail duy trì sự ổn định trong vận hành, sẵn
+sàng đáp ứng nhu cầu thị trường một cách nhanh chóng và hiệu
+quả. Đây không chỉ là giải pháp trước mắt mà còn là nền tảng vững
+chắc để Công ty tiếp tục vươn xa, khẳng định vị thế trên thị trường
+bán lẻ đầy cạnh tranh.
+Rủi ro về hàng tồn kho
+Quản lý hàng tồn kho là một bài toán quan trọng đối với các doanh
+nghiệp bán lẻ, và FPT Retail cũng không nằm ngoài thách thức này
+khi phần lớn hàng tồn kho được tài trợ bởi nợ vay ngắn hạn. Nếu
+không kiểm soát chặt chẽ, mức tồn kho cao có thể tạo áp lực lớn
+lên dòng tiền, làm gia tăng chi phí tài chính và ảnh hưởng trực tiếp
+đến hiệu quả kinh doanh. Đặc biệt, trong bối cảnh thị trường bán lẻ
+liên tục biến động, xu hướng tiêu dùng thay đổi nhanh chóng, nhất
+là đối với các sản phẩm công nghệ có vòng đời ngắn, nguy cơ hàng
+tồn kho ngày càng trở nên đáng lo ngại.
+Nhận thức rõ điều này, FPT Retail không ngừng tối ưu hóa chuỗi
+cung ứng, cải tiến hệ thống quản lý hàng hóa và nâng cao năng
+lực dự báo nhu cầu dựa trên dữ liệu. Công ty đẩy mạnh ứng dụng
+công nghệ vào quản lý tồn kho, tối ưu hóa tốc độ luân chuyển hàng
+hóa để đảm bảo lượng hàng luôn phù hợp với nhu cầu thực tế của
+thị trường. Song song đó, FPT Retail cũng triển khai các chiến lược
+linh hoạt như điều chỉnh danh mục sản phẩm, tối ưu chính sách bán
+hàng và kiểm soát chặt chẽ quá trình nhập hàng từ nhà cung cấp.
+Những giải pháp đồng bộ này không chỉ giúp công ty duy trì mức
+tồn kho hợp lý, giảm thiểu áp lực tài chính mà còn nâng cao hiệu
+quả kinh doanh, tạo nền tảng vững chắc cho sự phát triển bền vững
+trong dài hạn.
+Retail
+không
+ngừng tối ưu hóa chuỗi
+cung ứng, cải tiến hệ
+thống quản lý hàng
+hóa và nâng cao năng
+lực dự báo nhu cầu
+dựa trên dữ liệu.
+Rủi ro khác
+Ngoài những rủi ro có thể dự báo, FPT Retail còn đối mặt với các
+yếu tố bất khả kháng có thể gây tác động đáng kể đến hoạt động
+kinh doanh. Mặc dù xác suất xảy ra không cao, song khi phát sinh,
+những yếu tố này có thể làm gián đoạn chuỗi cung ứng, gia tăng
+chi phí vận hành và ảnh hưởng trực tiếp đến doanh thu. Các rủi ro
+này bao gồm thiên tai, dịch bệnh, xung đột địa chính trị, bất ổn xã
+hội và các sự kiện bất ngờ nằm ngoài phạm vi kiểm soát của doanh
+nghiệp.
+Nhằm hạn chế tác động tiêu cực từ những rủi ro tiềm ẩn, FPT Retail
+chủ động xây dựng chiến lược vận hành linh hoạt, đảm bảo sự ổn
+định của chuỗi cung ứng và duy trì hiệu quả hoạt động kinh doanh.
+Công ty không ngừng theo dõi sát diễn biến thị trường, phân tích
+các nguy cơ có thể phát sinh và cập nhật kịch bản ứng phó phù hợp
+với từng tình huống cụ thể. Đồng thời, FPT Retail tập trung nâng
+cao năng lực vận hành, tối ưu hóa hệ thống quản lý rủi ro và tăng
+cường khả năng thích ứng trước những biến động bất ngờ. Với định
+hướng chiến lược này, doanh nghiệp không chỉ giảm thiểu rủi ro mà
+còn củng cố nền tảng phát triển bền vững, đảm bảo khả năng phục
+hồi nhanh chóng trước những thách thức của thị trường.
+FPT Retail tập trung
+nâng cao năng lực vận
+hành, tối ưu hóa hệ
+thống quản lý rủi ro và
+tăng cường khả năng
+thích ứng trước những
+biến động bất ngờ.
+
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+CHƯƠNG IV
+Tầm nhìn bền vững
+Báo cáo phát triển bền vững
+
+Dẫn đầu công nghệ - Chăm sóc toàn diện
 Chương IV: Báo cáo phát triển bền vững
-TẦM NHÌN BỀN VỮNG 
-Tại FPT Retail, chúng tôi tin rằng sự phát triển bền vững là yếu tố cốt lõi để tạo dựng giá 
-trị doanh nghiệp và đồng thời là cam kết lâu dài đối với cộng đồng, và tất cả các bên 
-liên quan trong và ngoài doanh nghiệp. Mục tiêu của chúng tôi là nỗ lực không ngừng 
-để cung cấp những sản phẩm và dịch vụ chất lượng, đồng thời cam kết tạo ra những 
-tác động tích cực cho xã hội và bảo vệ môi trường. FPT Retail luôn hướng đến việc tối 
-ưu hóa hoạt động vận hành song hành với việc tạo ra những tác động tích cực đến xã 
-hội và môi trường. Với định hướng này, chúng tôi đặt ra các nguyên tắc phát triển bền 
-vững làm nền tảng cho mọi hoạt động kinh doanh, đồng thời đồng thời khuyến khích 
-tất cả các cá nhân và đối tác trong hệ sinh thái cùng chung tay xây dựng một tương lai 
-phát triển thịnh vượng và bền vững, qua đó tạo ra giá trị lâu dài cho khách hàng, nhân 
+TẦM NHÌN BỀN VỮNG
+Tại FPT Retail, chúng tôi tin rằng sự phát triển bền vững là yếu tố cốt lõi để tạo dựng giá
+trị doanh nghiệp và đồng thời là cam kết lâu dài đối với cộng đồng, và tất cả các bên
+liên quan trong và ngoài doanh nghiệp. Mục tiêu của chúng tôi là nỗ lực không ngừng
+để cung cấp những sản phẩm và dịch vụ chất lượng, đồng thời cam kết tạo ra những
+tác động tích cực cho xã hội và bảo vệ môi trường. FPT Retail luôn hướng đến việc tối
+ưu hóa hoạt động vận hành song hành với việc tạo ra những tác động tích cực đến xã
+hội và môi trường. Với định hướng này, chúng tôi đặt ra các nguyên tắc phát triển bền
+vững làm nền tảng cho mọi hoạt động kinh doanh, đồng thời đồng thời khuyến khích
+tất cả các cá nhân và đối tác trong hệ sinh thái cùng chung tay xây dựng một tương lai
+phát triển thịnh vượng và bền vững, qua đó tạo ra giá trị lâu dài cho khách hàng, nhân
 viên và cộng đồng.
 Môi trường (Environment)
-•	
-Giảm thiểu tác động đến môi trường trong chuỗi bán lẻ bằng cách tối ưu hóa quy trình vận hành, tiết 
+Giảm thiểu tác động đến môi trường trong chuỗi bán lẻ bằng cách tối ưu hóa quy trình vận hành, tiết
 kiệm năng lượng tại hệ thống cửa hàng và kho vận.
-•	
-Từng bước áp dụng giải pháp tiêu dùng xanh, khuyến khích khách hàng sử dụng bao bì thân thiện 
+Từng bước áp dụng giải pháp tiêu dùng xanh, khuyến khích khách hàng sử dụng bao bì thân thiện
 với môi trường và hạn chế rác thải nhựa trong hoạt động bán lẻ.
-•	
-Xây dựng chuỗi cung ứng bền vững, hợp tác với đối tác để tối ưu hóa quy trình logistics, giảm khí 
+Xây dựng chuỗi cung ứng bền vững, hợp tác với đối tác để tối ưu hóa quy trình logistics, giảm khí
 thải và nâng cao hiệu quả phân phối sản phẩm.
 Xã hội (Social)
-•	
-Cung cấp sản phẩm chất lượng cao, đảm bảo giá cả hợp lý, đặc biệt trong lĩnh vực dược phẩm, giúp 
+Cung cấp sản phẩm chất lượng cao, đảm bảo giá cả hợp lý, đặc biệt trong lĩnh vực dược phẩm, giúp
 khách hàng tiếp cận các sản phẩm thuốc chính hãng với giá tốt.
-•	
-Đầu tư vào phát triển nguồn nhân lực, tạo môi trường làm việc chuyên nghiệp, chính sách đãi ngộ 
+Đầu tư vào phát triển nguồn nhân lực, tạo môi trường làm việc chuyên nghiệp, chính sách đãi ngộ
 công bằng, cùng cơ hội đào tạo và thăng tiến rõ ràng.
-•	
-Thực hiện các chương trình trách nhiệm xã hội (CSR), mở rộng hoạt động hỗ trợ cộng đồng thông 
+Thực hiện các chương trình trách nhiệm xã hội (CSR), mở rộng hoạt động hỗ trợ cộng đồng thông
 qua các sáng kiến chăm sóc sức khỏe.
 Quản trị doanh nghiệp (Governance)
-•	
-Duy trì quản trị minh bạch, tuân thủ pháp luật và đảm bảo lợi ích của cổ đông, xây dựng hệ thống 
+Duy trì quản trị minh bạch, tuân thủ pháp luật và đảm bảo lợi ích của cổ đông, xây dựng hệ thống
 kiểm soát nội bộ và quản trị rủi ro chặt chẽ.
-•	
-Ứng dụng công nghệ vào quản trị và vận hành, tối ưu hóa quy trình hoạt động để nâng cao hiệu quả 
+Ứng dụng công nghệ vào quản trị và vận hành, tối ưu hóa quy trình hoạt động để nâng cao hiệu quả
 kinh doanh và đảm bảo phát triển bền vững.
-•	
-Thực hiện theo các tiêu chuẩn phát triển bền vững, xây dựng cơ chế đo lường và giám sát các chỉ số 
+Thực hiện theo các tiêu chuẩn phát triển bền vững, xây dựng cơ chế đo lường và giám sát các chỉ số
 ESG để đảm bảo tính minh bạch trong hoạt động.
 
-92
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
-93
 Dẫn đầu công nghệ - Chăm sóc toàn diện
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-Tại FPT Retail, chúng tôi hiểu rõ rằng dù hoạt động kinh doanh của công ty không gây ra khí thải công 
-nghiệp lớn, nhưng vẫn có những ảnh hưởng nhất định đến môi trường, đặc biệt là từ việc tiêu thụ năng 
-lượng, vận chuyển hàng hóa và xử lý chất thải. Với nhận thức này, chúng tôi cam kết thực hiện các giải 
-pháp phát triển bền vững, nỗ lực không ngừng để giảm thiểu tác động tiêu cực đến môi trường, đồng 
-thời nâng cao hiệu quả hoạt động của công ty. FPT Retail luôn tuân thủ đầy đủ các quy định pháp luật 
-về bảo vệ môi trường, thực hiện giám sát và báo cáo định kỳ theo yêu cầu của pháp luật, và cam kết 
-không vi phạm các quy định này trong suốt quá trình vận hành để đảm bảo bảo vệ môi trường và tránh 
+Tại FPT Retail, chúng tôi hiểu rõ rằng dù hoạt động kinh doanh của công ty không gây ra khí thải công
+nghiệp lớn, nhưng vẫn có những ảnh hưởng nhất định đến môi trường, đặc biệt là từ việc tiêu thụ năng
+lượng, vận chuyển hàng hóa và xử lý chất thải. Với nhận thức này, chúng tôi cam kết thực hiện các giải
+pháp phát triển bền vững, nỗ lực không ngừng để giảm thiểu tác động tiêu cực đến môi trường, đồng
+thời nâng cao hiệu quả hoạt động của công ty. FPT Retail luôn tuân thủ đầy đủ các quy định pháp luật
+về bảo vệ môi trường, thực hiện giám sát và báo cáo định kỳ theo yêu cầu của pháp luật, và cam kết
+không vi phạm các quy định này trong suốt quá trình vận hành để đảm bảo bảo vệ môi trường và tránh
 các hình thức xử phạt.
 Giảm phát thải khí nhà kính
-FPT Retail cam kết giảm thiểu tác động đến môi trường thông qua 
-việc tối ưu hóa việc sử dụng năng lượng, áp dụng các giải pháp 
-logistics xanh và cải thiện hiệu quả quản lý chất thải. Công ty đang 
-triển khai các chương trình tiết kiệm năng lượng, chuyển đổi sang 
-các nguồn năng lượng hiệu quả hơn và nâng cấp hệ thống xử lý 
-nước thải nhằm giảm thiểu tác động tiêu cực đến môi trường. Đồng 
-thời, FPT Retail luôn tuân thủ đầy đủ các quy định về bảo vệ môi 
-trường, thực hiện giám sát và báo cáo định kỳ về phát thải. Các biện 
-pháp quản lý môi trường hiện tại đang được triển khai mạnh mẽ, 
-hướng tới mục tiêu phát triển bền vững và trách nhiệm xã hội trong 
+FPT Retail cam kết giảm thiểu tác động đến môi trường thông qua
+việc tối ưu hóa việc sử dụng năng lượng, áp dụng các giải pháp
+logistics xanh và cải thiện hiệu quả quản lý chất thải. Công ty đang
+triển khai các chương trình tiết kiệm năng lượng, chuyển đổi sang
+các nguồn năng lượng hiệu quả hơn và nâng cấp hệ thống xử lý
+nước thải nhằm giảm thiểu tác động tiêu cực đến môi trường. Đồng
+thời, FPT Retail luôn tuân thủ đầy đủ các quy định về bảo vệ môi
+trường, thực hiện giám sát và báo cáo định kỳ về phát thải. Các biện
+pháp quản lý môi trường hiện tại đang được triển khai mạnh mẽ,
+hướng tới mục tiêu phát triển bền vững và trách nhiệm xã hội trong
 mô hình kinh doanh của công ty.
-FPT Retail đã triển khai nhiều sáng kiến và biện pháp hiệu quả 
-nhằm giảm thiểu phát thải khí nhà kính, góp phần vào chiến lược 
-phát triển bền vững của Công ty. Một trong những nỗ lực đầu tiên 
-là tiết kiệm điện năng, bao gồm việc thay thế đèn huỳnh quang 
-bằng đèn LED, giúp giảm đáng kể tiêu thụ điện năng và tiết kiệm 
-chi phí. Ngoài ra, Công ty còn tận dụng tối đa ánh sáng và thông gió 
-tự nhiên tại các cửa hàng và văn phòng, nhằm giảm sự phụ thuộc 
-vào điện năng. 
-Bên cạnh đó, FPT Retail cũng chú trọng đến việc giảm tiêu thụ 
-nhiên liệu trong hoạt động vận chuyển. Công ty đã tối ưu hóa lộ 
-trình giao hàng để giảm thiểu tiêu hao nhiên liệu, đồng thời triển 
-khai các phương tiện vận chuyển tiết kiệm nhiên liệu hơn, nhằm 
-giảm thiểu tác động tiêu cực đến môi trường và giảm chi phí vận 
+FPT Retail đã triển khai nhiều sáng kiến và biện pháp hiệu quả
+nhằm giảm thiểu phát thải khí nhà kính, góp phần vào chiến lược
+phát triển bền vững của Công ty. Một trong những nỗ lực đầu tiên
+là tiết kiệm điện năng, bao gồm việc thay thế đèn huỳnh quang
+bằng đèn LED, giúp giảm đáng kể tiêu thụ điện năng và tiết kiệm
+chi phí. Ngoài ra, Công ty còn tận dụng tối đa ánh sáng và thông gió
+tự nhiên tại các cửa hàng và văn phòng, nhằm giảm sự phụ thuộc
+vào điện năng.
+Bên cạnh đó, FPT Retail cũng chú trọng đến việc giảm tiêu thụ
+nhiên liệu trong hoạt động vận chuyển. Công ty đã tối ưu hóa lộ
+trình giao hàng để giảm thiểu tiêu hao nhiên liệu, đồng thời triển
+khai các phương tiện vận chuyển tiết kiệm nhiên liệu hơn, nhằm
+giảm thiểu tác động tiêu cực đến môi trường và giảm chi phí vận
 hành.
-Ngoài ra, FPT Retail cũng đặc biệt quan tâm đến việc xử lý nước 
-thải. Công ty đã nâng cấp hệ thống xử lý nước thải để giảm thiểu 
-phát thải khí metan (CH4), đồng thời thực hiện kiểm tra định kỳ hệ 
-thống cấp thoát nước để hạn chế tình trạng rò rỉ và thất thoát nước. 
-Những nỗ lực này thể hiện cam kết mạnh mẽ của FPT Retail trong 
-việc giảm thiểu tác động môi trường, đồng thời đảm bảo các hoạt 
+Ngoài ra, FPT Retail cũng đặc biệt quan tâm đến việc xử lý nước
+thải. Công ty đã nâng cấp hệ thống xử lý nước thải để giảm thiểu
+phát thải khí metan (CH4), đồng thời thực hiện kiểm tra định kỳ hệ
+thống cấp thoát nước để hạn chế tình trạng rò rỉ và thất thoát nước.
+Những nỗ lực này thể hiện cam kết mạnh mẽ của FPT Retail trong
+việc giảm thiểu tác động môi trường, đồng thời đảm bảo các hoạt
 động kinh doanh của công ty phát triển bền vững.
-Phát thải CO2 từ 
+Phát thải CO2 từ
 tiêu thụ điện
-16.248
 tấn CO2-e
-Phát thải CO2 
+Phát thải CO2
 từ nhiên liệu
-130,78
 tấn CO2-e
 Phát thải CH4 từ
 nước thải
-0,99
 tấn CO2-e
 Tiết kiệm năng lượng tiêu thụ
-Trong năm 2024, FPT Retail tiếp tục đẩy mạnh việc tối ưu hóa sử 
-dụng năng lượng để giảm thiểu tác động đến môi trường và nâng 
-cao hiệu suất hoạt động. Công ty chủ động triển khai các giải pháp 
-tiết kiệm năng lượng trên toàn bộ hệ thống cửa hàng, trung tâm 
-kho vận và văn phòng, nhằm đảm bảo hoạt động bền vững và tối 
-ưu hóa chi phí vận hành. Những nỗ lực này không chỉ giúp giảm 
-thiểu lượng phát thải khí nhà kính mà còn đóng góp vào việc cải 
+Trong năm 2024, FPT Retail tiếp tục đẩy mạnh việc tối ưu hóa sử
+dụng năng lượng để giảm thiểu tác động đến môi trường và nâng
+cao hiệu suất hoạt động. Công ty chủ động triển khai các giải pháp
+tiết kiệm năng lượng trên toàn bộ hệ thống cửa hàng, trung tâm
+kho vận và văn phòng, nhằm đảm bảo hoạt động bền vững và tối
+ưu hóa chi phí vận hành. Những nỗ lực này không chỉ giúp giảm
+thiểu lượng phát thải khí nhà kính mà còn đóng góp vào việc cải
 thiện hiệu quả hoạt động của Công ty.
-Điện năng là nguồn tiêu thụ chính trong hoạt động vận hành của 
-FPT Retail, phục vụ cho các nhu cầu chiếu sáng, điều hòa không 
-khí, hệ thống IT và các thiết bị vận hành trong chuỗi cửa hàng và 
-trung tâm kho vận. Nhằm giảm thiểu tác động môi trường và tối 
-ưu hóa chi phí, công ty đang triển khai các giải pháp tiết kiệm điện 
-hiệu quả, bao gồm việc thay thế đèn huỳnh quang bằng đèn LED 
-tiết kiệm năng lượng, tối ưu hóa hệ thống điều hòa không khí và áp 
-dụng các biện pháp quản lý năng lượng thông minh. Cụ thể, Công 
-ty thực hiện các biện pháp như tắt thiết bị điện không cần thiết khi 
-không sử dụng và tận dụng tối đa ánh sáng tự nhiên để giảm tiêu 
-thụ điện năng. Đặc biệt, việc cài đặt nhiệt độ máy lạnh ở mức tối ưu 
-(24 - 26°C) kết hợp với bảo trì định kỳ giúp duy trì hiệu suất hoạt 
-động tốt nhất, đồng thời tiết kiệm năng lượng. FPT Retail thường 
-xuyên thực hiện giám sát, kiểm tra hệ thống điện thường xuyên để 
-phát hiện và khắc phục rò rỉ, tránh thất thoát năng lượng. Ngoài 
-ra, việc trồng cây xanh trong không gian văn phòng và cửa hàng 
-không chỉ giúp cải thiện chất lượng không khí và giảm nhiệt độ môi 
-trường, mà còn góp phần giảm nhu cầu sử dụng điều hòa, từ đó tiết 
-kiệm năng lượng và tạo ra một môi trường làm việc dễ chịu hơn cho 
+Điện năng là nguồn tiêu thụ chính trong hoạt động vận hành của
+FPT Retail, phục vụ cho các nhu cầu chiếu sáng, điều hòa không
+khí, hệ thống IT và các thiết bị vận hành trong chuỗi cửa hàng và
+trung tâm kho vận. Nhằm giảm thiểu tác động môi trường và tối
+ưu hóa chi phí, công ty đang triển khai các giải pháp tiết kiệm điện
+hiệu quả, bao gồm việc thay thế đèn huỳnh quang bằng đèn LED
+tiết kiệm năng lượng, tối ưu hóa hệ thống điều hòa không khí và áp
+dụng các biện pháp quản lý năng lượng thông minh. Cụ thể, Công
+ty thực hiện các biện pháp như tắt thiết bị điện không cần thiết khi
+không sử dụng và tận dụng tối đa ánh sáng tự nhiên để giảm tiêu
+thụ điện năng. Đặc biệt, việc cài đặt nhiệt độ máy lạnh ở mức tối ưu
+(24 - 26°C) kết hợp với bảo trì định kỳ giúp duy trì hiệu suất hoạt
+động tốt nhất, đồng thời tiết kiệm năng lượng. FPT Retail thường
+xuyên thực hiện giám sát, kiểm tra hệ thống điện thường xuyên để
+phát hiện và khắc phục rò rỉ, tránh thất thoát năng lượng. Ngoài
+ra, việc trồng cây xanh trong không gian văn phòng và cửa hàng
+không chỉ giúp cải thiện chất lượng không khí và giảm nhiệt độ môi
+trường, mà còn góp phần giảm nhu cầu sử dụng điều hòa, từ đó tiết
+kiệm năng lượng và tạo ra một môi trường làm việc dễ chịu hơn cho
 nhân viên.
-Những nỗ lực này không chỉ giúp FPT Retail tiết kiệm chi phí vận 
-hành mà còn đóng góp vào việc bảo vệ môi trường và thực hiện 
+Những nỗ lực này không chỉ giúp FPT Retail tiết kiệm chi phí vận
+hành mà còn đóng góp vào việc bảo vệ môi trường và thực hiện
 mục tiêu phát triển bền vững.
 Quản lý nguồn nguyên vật liệu
-FPT Retail hoạt động chủ yếu trong lĩnh vực bán lẻ, phân phối các thiết bị công nghệ và dược phẩm, 
-thay vì trực tiếp sản xuất sản phẩm. Nhằm đảm bảo tính bền vững và giảm thiểu tác động tiêu cực đến 
-môi trường, công ty đã áp dụng các tiêu chí quản lý nguyên vật liệu trong chuỗi cung ứng, với ưu tiên 
-đặc biệt đối với việc lựa chọn các đối tác cung cấp sản phẩm và bao bì thân thiện với môi trường. Bên 
-cạnh đó, FPT Retail triển khai chương trình thu hồi và tái chế thiết bị điện tử đã qua sử dụng tại các cửa 
-hàng, không chỉ giúp giảm thiểu rác thải điện tử mà còn nâng cao nhận thức của khách hàng về tiêu 
-dùng bền vững. Những nỗ lực này phản ánh cam kết của FPT Retail trong việc phát triển kinh doanh 
+FPT Retail hoạt động chủ yếu trong lĩnh vực bán lẻ, phân phối các thiết bị công nghệ và dược phẩm,
+thay vì trực tiếp sản xuất sản phẩm. Nhằm đảm bảo tính bền vững và giảm thiểu tác động tiêu cực đến
+môi trường, công ty đã áp dụng các tiêu chí quản lý nguyên vật liệu trong chuỗi cung ứng, với ưu tiên
+đặc biệt đối với việc lựa chọn các đối tác cung cấp sản phẩm và bao bì thân thiện với môi trường. Bên
+cạnh đó, FPT Retail triển khai chương trình thu hồi và tái chế thiết bị điện tử đã qua sử dụng tại các cửa
+hàng, không chỉ giúp giảm thiểu rác thải điện tử mà còn nâng cao nhận thức của khách hàng về tiêu
+dùng bền vững. Những nỗ lực này phản ánh cam kết của FPT Retail trong việc phát triển kinh doanh
 gắn liền với bảo vệ môi trường.
 Hệ số phát thải điện
-0,67
 tCO2/MWh
 Tổng tiêu thụ điện
-24.648.532
-kWh
 Phát thải CO2 từ điện
-16.248
 tấn CO2-e
 Quản lý tác động môi trường
 
-100
-Báo cáo thường niên 2024
-Chương IV: Báo cáo phát triển bền vững
-101
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-Chính sách đào tạo và phát triển nhân viên của 
-FPT Retail tập trung vào việc nâng cao năng 
-lực đội ngũ thông qua các chương trình đào tạo 
-chuyên sâu, nhằm đảm bảo nhân viên luôn được 
-trang bị kiến thức và kỹ năng cần thiết để phát 
-triển sự nghiệp bền vững và đóng góp vào sự 
+Chương IV: Báo cáo phát triển bền vững
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Quản lý tiêu thụ nhiên liệu
+Dầu Diesel (DO)
+Lượng tiêu thụ
+Phát thải CO2-e
+Xăng
+Lượng tiêu thụ
+Phát thải CO2-e
+Tổng lượng nước thải xử lý
+0,99 Tấn CO2-e
+Phát thải CH4 từ nước thải
+Xử lý nước thải và tiết kiệm nước
+Quản lý tác động môi trường
+Ngoài việc sử dụng điện năng, FPT Retail còn tiêu thụ các loại nhiên
+liệu hóa thạch phục vụ cho hoạt động vận chuyển và kho vận. Bên
+cạnh việc tối ưu hóa lộ trình vận chuyển hàng hóa để giảm lượng
+nhiên liệu tiêu thụ, FPT Retail cũng nỗ lực cải thiện hiệu suất kho
+vận và từng bước chuyển đổi sang các phương tiện vận chuyển tiết
+kiệm nhiên liệu hơn, nhằm hướng tới một mô hình vận hành bền
+vững và hiệu quả hơn trong tương lai. Nhằm giảm thiểu tác động
+môi trường và tối ưu hóa chi phí vận hành, Công ty đã đặt mục
+tiêu giảm tiêu thụ nhiên liệu thông qua việc tối ưu hóa lộ trình vận
+chuyển, từ đó giảm thiểu lượng nhiên liệu tiêu thụ và phát thải khí
+nhà kính. Ngoài ra, FPT Retail khuyến khích sử dụng phương tiện
+vận chuyển tiết kiệm nhiên liệu và tích cực nghiên cứu, áp dụng các
+giải pháp logistics xanh, nhằm hướng tới một hệ thống vận hành
+bền vững và hiệu quả hơn trong tương lai.
+Trong năm 2024, tổng lượng nước thu về và sử dụng của FPT Retail
+đạt 7.761.000 lít, tất cả đều được cung cấp từ nguồn nước thủy cục.
+Lượng nước này chủ yếu được sử dụng cho các hoạt động sinh hoạt
+và vận hành hệ thống cửa hàng, trong khi không có lượng nước tiêu
+thụ cho hoạt động sản xuất.
+Để giảm thiểu lãng phí và bảo vệ tài nguyên, FPT Retail đã triển
+khai biện pháp kiểm tra và sửa chữa hệ thống cấp thoát nước định
+kỳ, nhằm hạn chế thất thoát nước và đảm bảo sử dụng tài nguyên
+nước một cách hiệu quả.
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+Đối với người lao động
+Tổng số người lao động năm 2024
+Tỷ lệ lãnh đạo nữ
+(trong HĐQT và BĐH)
+Hợp đồng ngắn hạn dưới 1 năm
+Hợp đồng có thời hạn 1 đến 3 năm
+Hợp đồng không xác định thời hạn
+Theo
+Theo
+giới tính
+Lao động phổ thông
+Trình độ Cao đẳng, Trung cấp chuyên nghiệp
+Trình độ Đại học và trên Đại học
+Theo
+trình độ
+Năm 2024, FPT Retail tiếp tục hoàn thiện hệ thống chính sách nhân sự nhằm thu hút, phát triển và giữ
+chân nhân tài, đồng thời nâng cao chất lượng nguồn nhân lực để đáp ứng nhu cầu mở rộng kinh doanh.
+Chính sách nhân sự của Công ty tập trung vào các yếu tố: đào tạo và phát triển năng lực, tuyển dụng
+chiến lược, đảm bảo chế độ phúc lợi toàn diện và môi trường làm việc an toàn.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Trách nhiệm với con người & xã hội
+FPT Retail luôn coi nguồn nhân lực là yếu
+vững của Công ty. Trong năm qua, FPT Retail
+tiếp tục triển khai các chương trình đào tạo
+chuyên sâu nhằm nâng cao kỹ năng cho nhân
+viên, phát triển đội ngũ quản lý cấp trung và
+cải thiện điều kiện làm việc. Các chính sách
+tiền lương, thưởng và phúc lợi được điều chỉnh
+phù hợp, không chỉ nhằm thu hút và giữ chân
+nhân tài, mà còn tạo động lực mạnh mẽ thúc
+đẩy hiệu quả công việc. Đặc biệt, chúng tôi
+đặc biệt chú trọng cải thiện môi trường làm
+việc, bảo đảm an toàn lao động và xây dựng
+một văn hóa doanh nghiệp tích cực, qua đó
+giúp nhân viên phát huy tối đa tiềm năng và
+đóng góp vào sự phát triển chung của FPT
+Retail. Năm 2025, Công ty tiếp tục mở rộng
+mạng lưới cửa hàng và trung tâm vận hành,
+tạo thêm nhiều cơ hội việc làm mới.
+Cơ cấu người lao động
+Chính sách nhân sự
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+Chính sách đãi ngộ, phúc lợi
+Chính sách đãi ngộ và phúc lợi của FPT Retail
+được thiết kế với mục tiêu không chỉ thu hút và
+giữ chân nhân tài, mà còn tạo điều kiện để nhân
+viên phát triển sự nghiệp bền vững với mức lương
+cạnh tranh và chế độ đãi ngộ toàn diện.
+FPT Retail cam kết thực hiện đầy đủ các chế độ
+bảo hiểm theo quy định của pháp luật, bao gồm
+bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất
+nghiệp, bảo vệ quyền lợi cho người lao động.
+Đồng thời, công ty triển khai gói bảo hiểm sức
+khỏe FPT Care, giúp chăm sóc sức khỏe toàn
+diện cho nhân viên và người thân, tạo sự an tâm
+cho đội ngũ nhân sự.
+Nhằm đảm bảo công việc diễn ra thuận lợi, FPT
+Retail cung cấp đầy đủ trang thiết bị làm việc như
+máy tính xách tay và phụ cấp điện thoại. Đồng
+thời, công ty cũng triển khai chính sách công tác
+phí cho những nhân viên phải đi công tác, giúp
+họ có đủ nguồn lực để hoàn thành nhiệm vụ một
+cách hiệu quả và suôn sẻ.
+Bên cạnh đó, FPT Retail đặc biệt chú trọng đến
+việc xây dựng các hoạt động gắn kết nội bộ,
+như hội thao, team building, và các sự kiện văn
+hóa, qua đó tạo ra một môi trường làm việc năng
+động, sáng tạo và đoàn kết. Những hoạt động
+này không chỉ giúp nhân viên giải trí, mà còn tăng
+cường tình đoàn kết, nâng cao tinh thần đồng đội
+và khuyến khích sự hợp tác giữa các phòng ban.
+Nhằm nâng cao chất lượng sống cho nhân viên,
+Công ty triển khai chính sách hỗ trợ lãi suất mua
+nhà và mua xe, giúp nhân viên cải thiện đời sống
+cá nhân và đảm bảo sự ổn định lâu dài. Đây là
+một phần trong cam kết của FPT Retail đối với sự
+phát triển toàn diện của nhân viên, khuyến khích
+sự gắn bó và đóng góp lâu dài cho công ty.
+Trong những thời điểm khó khăn, Công ty luôn
+kịp thời hỗ trợ người lao động vượt qua thách
+thức với minh chứng là Công đoàn FPT Retail đã
+hỗ trợ hơn 1 tỷ đồng cho 429 cán bộ nhan viên
+chịu ảnh hưởng từ cơn bão lịch sử Yagi. Điều này
+thể hiện cam kết mạnh mẽ của Công ty trong
+việc bảo vệ quyền lợi và chăm sóc nhân viên,
+nhất là trong những thời điểm khó khăn.
+FPT Retail luôn quan tâm đến sức khỏe của đội
+ngũ nhân sự, tổ chức khám sức khỏe định kỳ
+nhằm phát hiện và giải quyết sớm các vấn đề
+sức khỏe. Việc này không chỉ giúp nhân viên duy
+trì thể chất tốt mà còn đảm bảo hiệu quả làm
+việc lâu dài, tạo ra một môi trường làm việc khỏe
+mạnh và năng động.
+Chính sách tuyên dương và khen thưởng của FPT
+Retail luôn ghi nhận những đóng góp xuất sắc
+của nhân viên. Các thành tích nổi bật sẽ được
+công nhận và tưởng thưởng xứng đáng, qua đó
+tạo động lực cho nhân viên tiếp tục nỗ lực, sáng
+tạo và cống hiến nhiều hơn cho sự phát triển
+chung của Công ty. Ngoài ra, lộ trình thăng tiến
+rõ ràng được FPT Retail xây dựng đặc biệt cho
+nhân viên khối cửa hàng, nhằm tạo động lực
+phát triển sự nghiệp và giúp nhân viên có cơ hội
+thăng tiến trong nghề. Chính sách này khuyến
+khích nhân viên không ngừng nỗ lực và đạt được
+những thành tựu lớn trong sự nghiệp, đóng góp
+tích cực vào sự phát triển của Công ty.
+Chính sách tuyển dụng của FPT Retail tập trung
+vào việc tối ưu hóa nguồn nhân lực, đặc biệt
+thông qua chương trình giới thiệu nội bộ, nhằm
+thu hút những ứng viên phù hợp và xây dựng đội
+ngũ nhân viên chất lượng, góp phần vào sự phát
+triển bền vững của công ty.
+FPT Retail triển khai chính sách giới thiệu nội bộ
+cho chuỗi FPT Shop và FPT Long Châu, cho phép
+nhân viên giới thiệu ứng viên phù hợp cho các vị
+trí tuyển dụng. Chính sách này không chỉ tạo cơ
+hội cho nhân viên tham gia vào quá trình phát
+triển nguồn nhân lực của Công ty mà còn giúp
+tìm kiếm những ứng viên chất lượng, phù hợp với
+văn hóa và yêu cầu công việc tại FPT Retail.
+Để khuyến khích nhân viên tích cực tham gia giới
+thiệu ứng viên, FPT Retail áp dụng chính sách
+thưởng linh hoạt cho mỗi ứng viên được tuyển
+dụng thành công. Chính sách này không chỉ tạo
+động lực cho nhân viên tham gia tuyển dụng mà
+còn góp phần vào việc thu hút nhân tài, giúp
+Công ty tìm kiếm những người có năng lực và
+phù hợp với mục tiêu phát triển lâu dài.
+Tiền thưởng giới thiệu ứng viên được chia làm
+nhiều đợt để đảm bảo sự minh bạch và động viên
+nhân viên tham gia vào quy trình tuyển dụng từ
+đầu đến cuối. Cách thức này giúp FPT Retail
+khuyến khích nhân viên giới thiệu những ứng
+viên tiềm năng có thể gắn bó lâu dài với Công ty.
+FPT Retail thực hiện tuyển dụng dựa trên kế
+hoạch kinh doanh cụ thể, kết hợp với việc tuyển
+dụng định kỳ để duy trì nguồn nhân lực ổn định.
+Bên cạnh đó, công ty cũng thực hiện tuyển dụng
+theo nhu cầu phát sinh từ các phòng ban, nhằm
+đáp ứng kịp thời các yêu cầu về nhân sự trong
+quá trình phát triển và mở rộng hoạt động kinh
+doanh. Chính sách tuyển dụng linh hoạt này giúp
+FPT Retail nhanh chóng thích ứng với sự thay đổi
+của thị trường và nhu cầu nhân sự.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Trách nhiệm với con người & xã hội
+Chính sách tuyển dụng
+ĐỐI VỚI NGƯỜI LAO ĐỘNG
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+Chính sách đào tạo và phát triển nhân viên của
+FPT Retail tập trung vào việc nâng cao năng
+lực đội ngũ thông qua các chương trình đào tạo
+chuyên sâu, nhằm đảm bảo nhân viên luôn được
+trang bị kiến thức và kỹ năng cần thiết để phát
+triển sự nghiệp bền vững và đóng góp vào sự
 thành công chung của công ty.
-Trong năm qua, FPT Retail đã chú trọng phát 
-triển các chương trình đào tạo dành cho nhân 
-viên mới, giúp họ nhanh chóng hòa nhập và hiểu 
-rõ văn hóa nội bộ. Chương trình không chỉ bao 
-gồm các khóa học chuyên môn mà còn tập trung 
-vào việc nâng cao kỹ năng mềm và kỹ năng quản 
-lý, đảm bảo sự phát triển toàn diện của đội ngũ 
-nhân sự ngay từ những bước đi đầu tiên. Đặc 
-biệt, đối với các cấp quản lý, FPT Retail đã triển 
-khai các khóa đào tạo kế thừa nhằm chuẩn bị đội 
-ngũ lãnh đạo tương lai, tạo nền tảng vững chắc 
+Trong năm qua, FPT Retail đã chú trọng phát
+triển các chương trình đào tạo dành cho nhân
+viên mới, giúp họ nhanh chóng hòa nhập và hiểu
+rõ văn hóa nội bộ. Chương trình không chỉ bao
+gồm các khóa học chuyên môn mà còn tập trung
+vào việc nâng cao kỹ năng mềm và kỹ năng quản
+lý, đảm bảo sự phát triển toàn diện của đội ngũ
+nhân sự ngay từ những bước đi đầu tiên. Đặc
+biệt, đối với các cấp quản lý, FPT Retail đã triển
+khai các khóa đào tạo kế thừa nhằm chuẩn bị đội
+ngũ lãnh đạo tương lai, tạo nền tảng vững chắc
 cho sự phát triển bền vững của Công ty.
-Ngoài ra, chúng tôi đã tích cực ứng dụng công 
-nghệ vào quá trình đào tạo, giúp tối ưu hóa hiệu 
-quả giảng dạy và việc tiếp thu kiến thức. Việc áp 
-dụng các công cụ công nghệ hiện đại không chỉ 
-nâng cao chất lượng đào tạo mà còn tạo điều 
-kiện thuận lợi cho nhân viên học hỏi, phát triển kỹ 
+Ngoài ra, chúng tôi đã tích cực ứng dụng công
+nghệ vào quá trình đào tạo, giúp tối ưu hóa hiệu
+quả giảng dạy và việc tiếp thu kiến thức. Việc áp
+dụng các công cụ công nghệ hiện đại không chỉ
+nâng cao chất lượng đào tạo mà còn tạo điều
+kiện thuận lợi cho nhân viên học hỏi, phát triển kỹ
 năng một cách linh hoạt và hiệu quả.
 Một số chương trình đào tạo nổi bật tại FPT Retail trong năm 2024:
-Chương trình đào tạo “Thủ lĩnh xuất sắc 2024”: đầu tư hơn 500 triệu đồng tổ chức khóa 
-học dành cho 230 quản lý cấp trung, tập trung vào 3 kỹ năng quan trọng bao gồm tư duy 
+Chương trình đào tạo “Thủ lĩnh xuất sắc 2024”: đầu tư hơn 500 triệu đồng tổ chức khóa
+học dành cho 230 quản lý cấp trung, tập trung vào 3 kỹ năng quan trọng bao gồm tư duy
 trải nghiệm khách hàng, kỹ năng triển khai công việc hiệu quả và giải quyết xung đột.
-1
-Hội thi “FRT’s Got Talent 2024”: tạo sân chơi giúp cán bộ quản lý trau dồi chuyên môn, 
-khai phá năng lực và tìm kiếm nhân sự chủ chốt, thu hút gần 600 cán bộ quản lý từ FPT 
+Hội thi “FRT’s Got Talent 2024”: tạo sân chơi giúp cán bộ quản lý trau dồi chuyên môn,
+khai phá năng lực và tìm kiếm nhân sự chủ chốt, thu hút gần 600 cán bộ quản lý từ FPT
 Shop và hơn 1.000 dược sĩ quản lý tại FPT Long Châu tham gia.
-2
-Chương trình thực tập thực chiến “FRT The Next X-Factor”: tuyển chọn 17 thực tập sinh 
-xuất sắc từ hơn 351 hồ sơ, giúp các bạn trẻ trải nghiệm thực tế tại các phòng ban của công 
+Chương trình thực tập thực chiến “FRT The Next X-Factor”: tuyển chọn 17 thực tập sinh
+xuất sắc từ hơn 351 hồ sơ, giúp các bạn trẻ trải nghiệm thực tế tại các phòng ban của công
 ty, được hướng dẫn theo mô hình “Sư phụ - Đệ tử”.
-3
-Khóa huấn luyện “Kích hoạt năng lượng - Đánh thức tiềm năng”: hỗ trợ tái tạo năng lượng, 
+Khóa huấn luyện “Kích hoạt năng lượng - Đánh thức tiềm năng”: hỗ trợ tái tạo năng lượng,
 nâng cao tinh thần và động lực làm việc cho nhân sự.
-4
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 Trách nhiệm với con người & xã hội
 ĐỐI VỚI NGƯỜI LAO ĐỘNG
 Chính sách đào tạo và phát triển nhân viên
 
-108
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
-109
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-FPT Retail đóng góp thông qua hệ thống bán lẻ sản phẩm công 
-nghệ FPT Shop thông qua các hoạt động triển khai các chương 
-trình hỗ trợ thiên tai, cung cấp thiết bị công nghệ cho học sinh ở 
-vùng sâu, vùng xa và tổ chức các khóa đào tạo kỹ năng số. Những 
-sáng kiến này không chỉ giúp cải thiện điều kiện học tập của học 
-sinh mà còn góp phần thúc đẩy sự phát triển bền vững của cộng 
-đồng.
-Trong năm 2024, sau khi cơn bão lịch sử Yagi đổ bộ vào miền Bắc, 
-Công đoàn FPT Retail đã thể hiện sự quan tâm và trách nhiệm đối 
-với các cán bộ nhân viên khi cho 429 người bị ảnh hưởng bởi cơn 
-bão Yagi. Sự hỗ trợ này không chỉ giúp các CBNV vượt qua khó 
-khăn mà còn thể hiện tinh thần đoàn kết và tương trợ lẫn nhau 
+Chính sách an toàn và bảo hộ lao động của FPT
+Retail tập trung vào việc xây dựng một môi
+trường làm việc an toàn, bảo vệ sức khỏe và
+quyền lợi của nhân viên, đồng thời đảm bảo mọi
+quy định về an toàn lao động được tuân thủ ng-
+hiêm ngặt để mang lại sự yên tâm và hiệu quả
+công việc cho toàn thể nhân viên.
+FPT Retail không ngừng đổi mới và áp dụng các
+giải pháp công nghệ tiên tiến vào công tác quản
+trị nhân sự. Công ty tạo ra một môi trường làm
+việc lý tưởng, giúp mỗi cá nhân phát huy tối đa
+tiềm năng và đóng góp vào sự phát triển chung.
+FPT Retail luôn chú trọng đầu tư vào cơ sở vật
+chất hiện đại để tạo ra một môi trường làm việc
+thuận lợi cho nhân viên. Các văn phòng, cửa
+hàng và khu vực làm việc đều được trang bị đầy
+đủ trang thiết bị, tiện nghi, giúp nhân viên có thể
+hoàn thành công việc hiệu quả và thoải mái. Môi
+trường làm việc hiện đại và tiện nghi là yếu tố
+quan trọng để nâng cao năng suất làm việc và
+giữ chân nhân tài.
+Nhằm đảm bảo sức khỏe và an toàn cho cán bộ
+nhân viên, FPT Retail cung cấp bảo hiểm tai nạn
+và bảo hiểm sức khỏe cho toàn bộ nhân viên.
+Điều này không chỉ giúp nhân viên an tâm trong
+công việc mà còn thể hiện cam kết của công ty
+trong việc bảo vệ quyền lợi và chăm sóc toàn
+diện cho đội ngũ nhân sự. Chính sách bảo hiểm
+sức khỏe cũng là một phần trong các phúc lợi dài
+hạn mà FPT Retail mang lại cho nhân viên.
+FPT Retail thực hiện kiểm tra định kỳ và rà soát
+các điều kiện làm việc, nhằm phát hiện và cải
+thiện kịp thời các yếu tố có thể gây rủi ro đối với
+sức khỏe của nhân viên. Công ty không ngừng
+nâng cao chất lượng môi trường làm việc, tạo ra
+một không gian an toàn và lành mạnh, giảm thiểu
+các tác động xấu và đảm bảo sự phát triển bền
+vững cho cả nhân viên và công ty.
+Với các chính sách nhân sự toàn diện, FPT Retail
+không ngừng nâng cao chất lượng đội ngũ nhân
+viên, xây dựng môi trường làm việc chuyên ng-
+hiệp và đầy đủ sự hỗ trợ. Những chính sách này
+không chỉ giúp thu hút và giữ chân nhân tài, mà
+còn tạo động lực mạnh mẽ để nhân viên gắn bó
+lâu dài, phát triển sự nghiệp bền vững và đồng
+hành cùng sự phát triển của Công ty. FPT Retail
+cam kết tiếp tục phát huy những nỗ lực này để
+xây dựng đội ngũ nhân sự vững mạnh, góp phần
+vào sự thành công lâu dài của doanh nghiệp.
+KẾ HOẠCH NHÂN SỰ NĂM 2025
+Hướng tới mục tiêu dẫn đầu công nghệ và chăm sóc toàn diện, FPT Retail đã hoạch
+định lộ trình chuyển đổi số toàn diện trong quản trị nhân sự năm 2025. Trọng tâm của
+kế hoạch là việc nâng cấp toàn diện nền tảng HRDX - hệ thống quản trị nhân sự thông
+minh tích hợp AI, hướng tới tự động hóa toàn diện các quy trình nhân sự từ tuyển dụng,
+đào tạo đến đánh giá và phát triển. Song song với đó, dự án số hóa hồ sơ nhân sự sẽ
+được triển khai mạnh mẽ, chuyển đổi toàn bộ tài liệu giấy sang định dạng điện tử với
+hệ thống bảo mật đa lớp, không chỉ góp phần bảo vệ môi trường mà còn nâng cao hiệu
+quả quản lý và tính bảo mật của dữ liệu nhân sự. Đặc biệt, FPT Retail sẽ tiên phong áp
+dụng mô hình “Happy Workplace” - một hệ sinh thái làm việc thông minh được thiết kế
+dựa trên nghiên cứu về hành vi và nhu cầu của người lao động, tích hợp các giải pháp
+công nghệ tiên tiến nhằm tạo môi trường làm việc lý tưởng, nâng cao sự gắn kết và hài
+lòng của nhân viên, từ đó giảm thiểu tỷ lệ nghỉ việc và xây dựng đội ngũ nhân sự ổn
+định, chất lượng cao. Những sáng kiến này không chỉ thể hiện cam kết của FPT Retail
+trong việc ứng dụng công nghệ vào quản trị doanh nghiệp mà còn khẳng định tầm
+nhìn tiên phong trong việc xây dựng môi trường làm việc của tương lai.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Trách nhiệm với con người & xã hội
+ĐỐI VỚI NGƯỜI LAO ĐỘNG
+Chính sách an toàn, bảo hộ lao động
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+FPT Retail luôn chú trọng đến việc tham gia các hoạt động cộng đồng,
+đặc biệt là trong các chương trình thiện nguyện và hỗ trợ giáo dục.
+Công ty không ngừng nỗ lực để đóng góp vào sự phát triển chung của
+xã hội, thông qua việc triển khai các sáng kiến hỗ trợ thiết thực cho
+các cộng đồng. Các hoạt động này thể hiện cam kết lâu dài của FPT
+Retail trong việc cải thiện chất lượng cuộc sống cho cộng đồng.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Trách nhiệm với con người & xã hội
+ĐỐI VỚI CỘNG ĐỒNG - XÃ HỘI
+Chung tay với Tập đoàn FPT đóng góp vào cuộc sống của những người dân, hộ gia đình có hoàn cảnh khó khăn:
+Các số liệu liên quan tới hoạt động cộng đồng tại FPT Retail
+đóng góp vào “Quỹ Người FPT
+Vì Cộng Đồng” trong năm 2024
+Giúp đỡ
+435 người
+vượt qua thiên tai, bão lũ với số tiền
+23 trường hợp
+mắc bệnh hiểm nghèo, tai nạn
+nghiêm trọng với số tiền
+Chia sẻ khó khăn với
+có hoàn cảnh khó khăn
+thông qua các hoạt động
+thiện nguyện, đóng góp gần
+Xây dựng
+68 cây cầu kiên cố
+Xây dựng
+50 ngôi trường
+cho trẻ em vùng cao
+Hiến tặng
+180 đơn vị máu
+Hỗ trợ
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+Trong lĩnh vực chăm sóc sức khỏe, FPT Retail đã mở rộng các hoạt động cộng đồng qua hệ thống bán
+lẻ dược phẩm FPT Long Châu với các hoạt động chăm sóc y tế, cung cấp dịch vụ tiêm chủng và thuốc
+thiết yếu cho người dân tại các khu vực khó khăn. Đây là một trong những nỗ lực lớn của FPT Retail
+nhằm nâng cao sức khỏe cộng đồng, đặc biệt là ở các vùng sâu, vùng xa, nơi còn nhiều thiếu thốn về
+cơ sở vật chất y tế.
+ngày thuốc miễn phí
+Tổ chức 120
+chương trình khám bệnh lưu động
+Tổ chức hơn 50
+chương trình hợp tác với các trường y
+Tổ chức 600
+chương trình khám, tư vấn sức khỏe
+Gửi tặng 10.000
+mũi vaccine tại Đà Nẵng
+Tính đến hết Quý 1 năm 2024, Long Châu đã triển khai nhiều hoạt động ý nghĩa, bao gồm việc cung cấp 2
+triệu ngày thuốc miễn phí và tổ chức 600 chương trình khám, tư vấn sức khỏe cộng đồng. Bên cạnh đó,
+chúng tôi cũng đã thực hiện 120 chương trình khám bệnh lưu động, tổ chức miễn phí tầm soát bệnh mãn
+tính và ung thư, góp phần nâng cao nhận thức sức khỏe cho người dân. Đặc biệt, hơn 50 chương trình
+hợp tác với các trường y dược đã được tổ chức, giúp phát thuốc và khám bệnh miễn phí tại các vùng sâu,
+vùng xa trên toàn quốc, giúp cho người dân có thể tiếp cận với các dịch vụ chăm sóc y tế thiết yếu. Vào
+Quý 2 năm 2024, Long Châu đồng hành với các ban ngành, hiệp hội để khởi động dự án toàn cầu “Tháng
+5 đo huyết áp” - MMM 2024 và tham gia “Hội nghị Tăng huyết áp - Lần thứ VI” do Phân hội Tăng Huyết
+Áp Việt Nam - Hội Tim mạch học Việt Nam (VNHA) tổ chức. Long Châu nhận thức rõ sứ mệnh và trách
+nhiệm trong việc là “Cánh tay nối dài” của ngành y trong các hoạt động chăm sóc sức khỏe cộng đồng:
+Tiêm chủng FPT Long Châu và Tập đoàn FPT đã gửi tặng 10.000 mũi vaccine, đồng hành chăm sóc sức
+khỏe học sinh, phụ nữ và trẻ em tại Đà Nẵng vào Quý 3 năm 2024.
+Dự án “Long Châu Sẻ Chia” là một phần trong hành trình nối rộng vòng tay yêu thương và chăm sóc sức
+khỏe cộng đồng của Long Châu. Công ty đã khởi động Dự án “Long Châu Sẻ Chia - Đồng hành cùng
+chiến binh nhí”, và dự án “Long Châu Sẻ Chia - Trao Sức Khỏe Trẻ Đến Trường” phối hợp cùng Trung
+tâm Kiểm soát Dịch bệnh TP.HCM triển khai chiến dịch tiêm chủng miễn phí vaccine sởi - rubella cho trẻ
+em. Hoạt động này không chỉ bảo vệ sức khỏe cho các em nhỏ mà còn góp phần nâng cao ý thức về
+phòng ngừa dịch bệnh trong cộng đồng. Với những đóng góp thiết thực trong công tác bảo vệ sức khỏe
+cộng đồng, dự án “Long Châu Sẻ Chia” đã vinh dự nhận giải thưởng “Giải Dự án Kịp thời” - Human Act
+Prize năm 2024, ghi nhận những nỗ lực không ngừng của FPT Long Châu trong việc mang lại sức khỏe
+và hạnh phúc cho cộng đồng.
+Trong việc ứng dụng công nghệ để nâng cao trải nghiệm khách hàng, Ứng dụng Long Châu đã có một
+bước tiến đáng chú ý là hợp tác với cơ quan nhà nước để triển khai tính năng mua thuốc trực tuyến qua
+VNeID, tạo điều kiện cho hàng triệu khách hàng dễ dàng tiếp cận các dược phẩm chất lượng, thuận tiện
+ngay trên nền tảng số. Bên cạnh đó, Ứng dụng Long Châu đã vinh dự nhận giải thưởng “Ứng dụng đột
+phá cho nhu cầu sức khỏe” tại Better Choice Awards, khẳng định sự hiệu quả của ứng dụng trong việc
+hỗ trợ người dân Việt Nam tiếp cận dịch vụ y tế và chăm sóc sức khỏe một cách dễ dàng, nhanh chóng
+và an toàn hơn.
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+Trách nhiệm với con người & xã hội
+ĐỐI VỚI CỘNG ĐỒNG - XÃ HỘI
+Hoạt động chăm sóc sức khỏe cộng đồng
+
+Chương IV: Báo cáo phát triển bền vững
+Dẫn đầu công nghệ - Chăm sóc toàn diện
+FPT Retail đóng góp thông qua hệ thống bán lẻ sản phẩm công
+nghệ FPT Shop thông qua các hoạt động triển khai các chương
+trình hỗ trợ thiên tai, cung cấp thiết bị công nghệ cho học sinh ở
+vùng sâu, vùng xa và tổ chức các khóa đào tạo kỹ năng số. Những
+sáng kiến này không chỉ giúp cải thiện điều kiện học tập của học
+sinh mà còn góp phần thúc đẩy sự phát triển bền vững của cộng
+Trong năm 2024, sau khi cơn bão lịch sử Yagi đổ bộ vào miền Bắc,
+Công đoàn FPT Retail đã thể hiện sự quan tâm và trách nhiệm đối
+với các cán bộ nhân viên khi cho 429 người bị ảnh hưởng bởi cơn
+bão Yagi. Sự hỗ trợ này không chỉ giúp các CBNV vượt qua khó
+khăn mà còn thể hiện tinh thần đoàn kết và tương trợ lẫn nhau
 trong cộng đồng FPT Retail.
-Đối với cộng đồng, Công ty cũng đã tích cực tham gia vào các hoạt 
-động từ thiện, đặc biệt là thông qua hợp tác với Sunhouse trong 
-việc tái thiết cuộc sống cho các hộ gia đình và trường học hứng 
-chịu ảnh hưởng của siêu bão tại các tỉnh miền núi phía Bắc. FPT 
-Retail và Sunhouse đã trao tặng hàng ngàn phần quà, bao gồm máy 
-lọc nước, đèn sưởi, chảo gia dụng, laptop và thiết bị giảng dạy cho 
-các gia đình và trường học tại Lạng Sơn, Yên Bái và Thái Nguyên, 
-với tổng giá trị hơn 1,3 tỷ đồng. Những món quà này không chỉ cải 
-thiện đời sống vật chất mà còn góp phần nâng cao chất lượng giáo 
-dục tại các khu vực khó khăn. 
+Đối với cộng đồng, Công ty cũng đã tích cực tham gia vào các hoạt
+động từ thiện, đặc biệt là thông qua hợp tác với Sunhouse trong
+việc tái thiết cuộc sống cho các hộ gia đình và trường học hứng
+chịu ảnh hưởng của siêu bão tại các tỉnh miền núi phía Bắc. FPT
+Retail và Sunhouse đã trao tặng hàng ngàn phần quà, bao gồm máy
+lọc nước, đèn sưởi, chảo gia dụng, laptop và thiết bị giảng dạy cho
+các gia đình và trường học tại Lạng Sơn, Yên Bái và Thái Nguyên,
+với tổng giá trị hơn 1,3 tỷ đồng. Những món quà này không chỉ cải
+thiện đời sống vật chất mà còn góp phần nâng cao chất lượng giáo
+dục tại các khu vực khó khăn.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 Trách nhiệm với con người & xã hội
 ĐỐI VỚI CỘNG ĐỒNG - XÃ HỘI
 Hoạt động hỗ trợ đồng bào gặp thiên tai
 Tặng hàng ngàn
 phần quà trị giá
-1,3 tỷ VND
-Hỗ trợ 10 tấn 
+Hỗ trợ 10 tấn
 thuốc trị giá
-2,5 tỷ VND
-Ủng hộ Quỹ “Vì đồng bào 
+Ủng hộ Quỹ “Vì đồng bào
 miền Bắc thương yêu”
-100 triệu VND
-Ngoài ra, FPT Long Châu  đã kịp thời hỗ trợ 10 tấn thuốc trị giá 2,5 tỷ đồng, triển khai các hoạt động sơ 
-cứu và phát thuốc miễn phí tại 24 tỉnh thành, đồng thời quyên góp vào các chương trình cứu trợ trên 
-cả nước. Những hành động này đã giúp hàng nghìn người dân tiếp cận được dịch vụ chăm sóc sức khỏe 
-miễn phí, giảm bớt khó khăn trong thời gian khẩn cấp. Không dừng lại ở đó, FPT Long Châu  còn ủng hộ 
-Quỹ “Vì đồng bào miền Bắc thương yêu” của Đài Truyền hình TP.HCM với số tiền 100 triệu đồng, nhằm 
-hỗ trợ đồng bào miền Bắc vượt qua những khó khăn sau thiên tai. Đồng thời, Công ty cũng tài trợ 200 
-thùng nước điện giải cho các vùng bị bão lũ tại Bắc Giang và Hà Nội, giúp người dân ổn định cuộc sống 
-và duy trì sức khỏe trong giai đoạn khắc nghiệt. Những đóng góp này của FPT Long Châu  đã góp phần 
-không nhỏ vào việc hỗ trợ cộng đồng vượt qua những khó khăn, đồng thời phản ánh cam kết của công 
+Ngoài ra, FPT Long Châu  đã kịp thời hỗ trợ 10 tấn thuốc trị giá 2,5 tỷ đồng, triển khai các hoạt động sơ
+cứu và phát thuốc miễn phí tại 24 tỉnh thành, đồng thời quyên góp vào các chương trình cứu trợ trên
+cả nước. Những hành động này đã giúp hàng nghìn người dân tiếp cận được dịch vụ chăm sóc sức khỏe
+miễn phí, giảm bớt khó khăn trong thời gian khẩn cấp. Không dừng lại ở đó, FPT Long Châu  còn ủng hộ
+Quỹ “Vì đồng bào miền Bắc thương yêu” của Đài Truyền hình TP.HCM với số tiền 100 triệu đồng, nhằm
+hỗ trợ đồng bào miền Bắc vượt qua những khó khăn sau thiên tai. Đồng thời, Công ty cũng tài trợ 200
+thùng nước điện giải cho các vùng bị bão lũ tại Bắc Giang và Hà Nội, giúp người dân ổn định cuộc sống
+và duy trì sức khỏe trong giai đoạn khắc nghiệt. Những đóng góp này của FPT Long Châu  đã góp phần
+không nhỏ vào việc hỗ trợ cộng đồng vượt qua những khó khăn, đồng thời phản ánh cam kết của công
 ty đối với trách nhiệm xã hội.
 
-111
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-110
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
 Cơ cấu quản trị và công tác quản lý hướng tới phát triển bền vững
-Quản trị công ty đóng vai trò quan trọng trong việc đảm bảo sự phát triển bền vững 
-của FPT Retail. Trong năm qua, Công ty đã chú trọng hoàn thiện cơ chế quản trị, tăng 
-cường kiểm soát nội bộ và ứng dụng công nghệ nâng cao hiệu quả công tác quản lý. 
-Chúng tôi luôn nỗ lực cải tiến các phương thức quản trị, tăng cường khả năng thích ứng 
-linh hoạt với các thách thức và biến động từ thị trường. FPT Retail đặc biệt cam kết xây 
-dựng hệ thống quản trị công ty minh bạch và hiệu quả, tuân thủ các quy định pháp luật 
-và thông lệ quản trị tốt nhất, đảm bảo nền tảng vững chắc cho phát triển bền vững của 
-Công ty. Trong năm 2025, FPT Retail sẽ tiếp tục cải tiến mô hình quản trị, đảm bảo sự 
+Quản trị công ty đóng vai trò quan trọng trong việc đảm bảo sự phát triển bền vững
+của FPT Retail. Trong năm qua, Công ty đã chú trọng hoàn thiện cơ chế quản trị, tăng
+cường kiểm soát nội bộ và ứng dụng công nghệ nâng cao hiệu quả công tác quản lý.
+Chúng tôi luôn nỗ lực cải tiến các phương thức quản trị, tăng cường khả năng thích ứng
+linh hoạt với các thách thức và biến động từ thị trường. FPT Retail đặc biệt cam kết xây
+dựng hệ thống quản trị công ty minh bạch và hiệu quả, tuân thủ các quy định pháp luật
+và thông lệ quản trị tốt nhất, đảm bảo nền tảng vững chắc cho phát triển bền vững của
+Công ty. Trong năm 2025, FPT Retail sẽ tiếp tục cải tiến mô hình quản trị, đảm bảo sự
 phát triển bền vững và ổn định trong mọi giai đoạn hoạt động.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-Hoạt động quản trị công ty
-Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc 
-định hướng chiến lược chung và thiết lập các mục tiêu phát triển 
-bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng 
-về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng 
-giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có 
-nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản 
-trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các 
-hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với 
+Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc
+định hướng chiến lược chung và thiết lập các mục tiêu phát triển
+bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng
+về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng
+giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có
+nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản
+trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các
+hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với
 các bên liên quan.
-Chức năng của 
+Chức năng của
 Hội đồng quản trị
-Ban Điều hành của FPT Retail chịu trách nhiệm nghiên cứu, xây 
-dựng và triển khai các kế hoạch hành động cụ thể để hiện thực hóa 
-tầm nhìn phát triển bền vững của Công ty. Với sự tập trung vào việc 
-hoàn thành được các mục tiêu dài hạn, Ban Điều hành luôn tìm kiếm 
-các giải pháp sáng tạo và hiệu quả, đồng thời giám sát chặt chẽ quá 
-trình thực hiện. Bên cạnh đó, Ban Điều hành phối hợp chặt chẽ với 
-các phòng ban chức năng để đảm bảo các mục tiêu bền vững được 
-thực thi một cách đồng bộ và hiệu quả, từ đó góp phần vào sự phát 
+Ban Điều hành của FPT Retail chịu trách nhiệm nghiên cứu, xây
+dựng và triển khai các kế hoạch hành động cụ thể để hiện thực hóa
+tầm nhìn phát triển bền vững của Công ty. Với sự tập trung vào việc
+hoàn thành được các mục tiêu dài hạn, Ban Điều hành luôn tìm kiếm
+các giải pháp sáng tạo và hiệu quả, đồng thời giám sát chặt chẽ quá
+trình thực hiện. Bên cạnh đó, Ban Điều hành phối hợp chặt chẽ với
+các phòng ban chức năng để đảm bảo các mục tiêu bền vững được
+thực thi một cách đồng bộ và hiệu quả, từ đó góp phần vào sự phát
 triển toàn diện và bền vững của FPT Retail.
 Chức năng của
 Ban Điều hành
-Các công ty con và các phòng ban chức năng của FPT Retail có 
-nhiệm vụ thực thi các chính sách và quy trình quản trị bền vững 
-theo định hướng từ Hội đồng quản trị và Ban Điều hành. Mỗi đơn 
-vị đều đóng vai trò quan trọng trong việc triển khai các sáng kiến 
-phát triển bền vững, đảm bảo rằng các mục tiêu chiến lược được 
-thực hiện hiệu quả trên toàn hệ thống. Đồng thời, các bên liên quan 
-chủ động ứng dụng công nghệ hiện đại để tối ưu hóa quy trình vận 
-hành, từ đó nâng cao hiệu suất công việc và giảm thiểu tác động 
+Các công ty con và các phòng ban chức năng của FPT Retail có
+nhiệm vụ thực thi các chính sách và quy trình quản trị bền vững
+theo định hướng từ Hội đồng quản trị và Ban Điều hành. Mỗi đơn
+vị đều đóng vai trò quan trọng trong việc triển khai các sáng kiến
+phát triển bền vững, đảm bảo rằng các mục tiêu chiến lược được
+thực hiện hiệu quả trên toàn hệ thống. Đồng thời, các bên liên quan
+chủ động ứng dụng công nghệ hiện đại để tối ưu hóa quy trình vận
+hành, từ đó nâng cao hiệu suất công việc và giảm thiểu tác động
 tiêu cực đến môi trường.
 Chức năng của
-công ty thành viên 
+công ty thành viên
 và các bên liên quan
 
-112
-Báo cáo thường niên 2024
 Chương IV: Báo cáo phát triển bền vững
-113
 Dẫn đầu công nghệ - Chăm sóc toàn diện
-Quản trị rủi ro và 
+Quản trị rủi ro và
 phát triển bền vững
-Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc 
-định hướng chiến lược chung và thiết lập các mục tiêu phát triển 
-bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng 
-về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng 
-giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có 
-nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản 
-trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các 
-hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với 
+Hội đồng quản trị của FPT Retail đóng vai trò thiết yếu trong việc
+định hướng chiến lược chung và thiết lập các mục tiêu phát triển
+bền vững. Các mục tiêu này không chỉ hướng đến sự tăng trưởng
+về doanh thu mà còn đảm bảo sự phát triển lâu dài và cân bằng
+giữa các yếu tố kinh tế, xã hội và môi trường. Hội đồng quản trị có
+nhiệm vụ giám sát chặt chẽ quá trình triển khai các kế hoạch quản
+trị bền vững để đảm bảo sự minh bạch, hiệu quả trong tất cả các
+hoạt động của công ty, góp phần xây dựng niềm tin vững chắc với
 các bên liên quan.
-Đảm bảo sự minh bạch 
+Đảm bảo sự minh bạch
 về quy chế
-Nhằm đảm bảo sự minh bạch và hiệu quả trong hoạt động kinh 
-doanh, FPT Retail đã xây dựng và triển khai quy chế quản trị được 
-áp dụng đồng bộ trên toàn hệ thống, bao gồm cả các nhà cung 
-cấp và đối tác liên quan. Các quy chế này bao gồm các quy định 
-về phòng chống tham nhũng, phòng chống hối lộ và rửa tiền, kiểm 
-soát giao dịch nội bộ, quy trình chọn lựa và làm việc với các nhà 
-cung cấp, các quy định nhằm đảm bảo sự minh bạch và các vấn đề 
-pháp lý khác. Các quy định này được phổ biến rộng rãi đến toàn bộ 
-cán bộ nhân viên để đảm bảo sự tuân thủ nghiêm ngặt, đồng thời 
-không ảnh hưởng đến hoạt động của công ty và không gây thiệt 
-hại cho lợi ích chung của FPT Retail. Đồng thời, FPT Retail luôn cam 
-kết tuân thủ đầy đủ các quy định pháp luật hiện hành và các quy 
-định riêng của Tập đoàn FPT trong công tác quản lý và vận hành 
+Nhằm đảm bảo sự minh bạch và hiệu quả trong hoạt động kinh
+doanh, FPT Retail đã xây dựng và triển khai quy chế quản trị được
+áp dụng đồng bộ trên toàn hệ thống, bao gồm cả các nhà cung
+cấp và đối tác liên quan. Các quy chế này bao gồm các quy định
+về phòng chống tham nhũng, phòng chống hối lộ và rửa tiền, kiểm
+soát giao dịch nội bộ, quy trình chọn lựa và làm việc với các nhà
+cung cấp, các quy định nhằm đảm bảo sự minh bạch và các vấn đề
+pháp lý khác. Các quy định này được phổ biến rộng rãi đến toàn bộ
+cán bộ nhân viên để đảm bảo sự tuân thủ nghiêm ngặt, đồng thời
+không ảnh hưởng đến hoạt động của công ty và không gây thiệt
+hại cho lợi ích chung của FPT Retail. Đồng thời, FPT Retail luôn cam
+kết tuân thủ đầy đủ các quy định pháp luật hiện hành và các quy
+định riêng của Tập đoàn FPT trong công tác quản lý và vận hành
 doanh nghiệp.
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-Hoạt động quản trị công ty
 Kế hoạch quản trị năm 2025
-Trong năm 2025, FPT Retail tiếp tục đặt ra các mục tiêu cải tiến mạnh mẽ nhằm nâng cao hiệu quả quản 
-trị doanh nghiệp. Một trong những trọng tâm quan trọng là tăng cường tính minh bạch trong quản trị. 
-Công ty sẽ hoàn thiện hơn hệ thống báo cáo nội bộ, đồng thời công khai thông tin một cách rõ ràng, chi 
-tiết hơn để đảm bảo tính minh bạch trong các hoạt động tài chính và vận hành. Điều này không chỉ giúp 
+Trong năm 2025, FPT Retail tiếp tục đặt ra các mục tiêu cải tiến mạnh mẽ nhằm nâng cao hiệu quả quản
+trị doanh nghiệp. Một trong những trọng tâm quan trọng là tăng cường tính minh bạch trong quản trị.
+Công ty sẽ hoàn thiện hơn hệ thống báo cáo nội bộ, đồng thời công khai thông tin một cách rõ ràng, chi
+tiết hơn để đảm bảo tính minh bạch trong các hoạt động tài chính và vận hành. Điều này không chỉ giúp
 các bên liên quan dễ dàng tiếp cận thông tin mà còn củng cố niềm tin đối với công ty.
-Tiếp theo, FPT Retail sẽ nâng cao vai trò giám sát của Ban Kiểm soát. Việc cải tiến quy trình kiểm toán 
-nội bộ sẽ giúp tăng cường hiệu quả giám sát và phòng ngừa gian lận, đồng thời bảo vệ tài sản của công 
-ty. Ban Kiểm soát sẽ đóng vai trò then chốt trong việc đảm bảo các hoạt động tuân thủ nghiêm ngặt các 
+Tiếp theo, FPT Retail sẽ nâng cao vai trò giám sát của Ban Kiểm soát. Việc cải tiến quy trình kiểm toán
+nội bộ sẽ giúp tăng cường hiệu quả giám sát và phòng ngừa gian lận, đồng thời bảo vệ tài sản của công
+ty. Ban Kiểm soát sẽ đóng vai trò then chốt trong việc đảm bảo các hoạt động tuân thủ nghiêm ngặt các
 quy định và chuẩn mực trong ngành, tạo nền tảng vững chắc cho sự phát triển lâu dài của FPT Retail.
-Bên cạnh đó, FPT Retail sẽ hoàn thiện hơn quy trình quản trị rủi ro, tập trung vào việc triển khai các giải 
-pháp quản trị rủi ro toàn diện. Đặc biệt, Công ty sẽ chú trọng vào việc kiểm soát rủi ro trong các lĩnh vực 
-tài chính và vận hành, qua đó đảm bảo sự ổn định và an toàn trong mọi điều kiện thị trường với các biện 
+Bên cạnh đó, FPT Retail sẽ hoàn thiện hơn quy trình quản trị rủi ro, tập trung vào việc triển khai các giải
+pháp quản trị rủi ro toàn diện. Đặc biệt, Công ty sẽ chú trọng vào việc kiểm soát rủi ro trong các lĩnh vực
+tài chính và vận hành, qua đó đảm bảo sự ổn định và an toàn trong mọi điều kiện thị trường với các biện
 pháp phòng ngừa rủi ro được áp dụng kịp thời, giúp Công ty đối phó hiệu quả với các biến động bất ngờ.
-Cuối cùng, FPT Retail sẽ tiếp tục ứng dụng công nghệ trong quản trị. Công ty cam kết đẩy mạnh số hóa 
-và tự động hóa trong các quy trình quản lý, từ đó tối ưu hóa hiệu suất công việc và giảm thiểu sai sót. 
-Việc ứng dụng công nghệ hiện đại sẽ giúp FPT Retail nâng cao năng lực cạnh tranh, đồng thời mang lại 
-sự linh hoạt trong quá trình vận hành, đáp ứng nhanh chóng với thay đổi của thị trường. 
-Với những cải tiến này, FPT Retail kỳ vọng không chỉ đạt được các mục tiêu ngắn và dài hạn mà còn xây 
+Cuối cùng, FPT Retail sẽ tiếp tục ứng dụng công nghệ trong quản trị. Công ty cam kết đẩy mạnh số hóa
+và tự động hóa trong các quy trình quản lý, từ đó tối ưu hóa hiệu suất công việc và giảm thiểu sai sót.
+Việc ứng dụng công nghệ hiện đại sẽ giúp FPT Retail nâng cao năng lực cạnh tranh, đồng thời mang lại
+sự linh hoạt trong quá trình vận hành, đáp ứng nhanh chóng với thay đổi của thị trường.
+Với những cải tiến này, FPT Retail kỳ vọng không chỉ đạt được các mục tiêu ngắn và dài hạn mà còn xây
 dựng nền tảng vững chắc cho sự phát triển bền vững trong tương lai.

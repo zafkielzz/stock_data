@@ -1,190 +1,110 @@
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-5
-4
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
 THUẬT NGỮ VIẾT TẮT
-ASEAN 	
+ASEAN
 Hiệp hội các quốc gia Đông Nam Á
-BC 	
 Báo cáo
-BCTC 	
-Báo cáo tài chính
-BCTN 	
-Báo cáo thường niên
-BĐS 	
+BCTC
+BCTN
 Bất động sản
-BT 	
 Dự án xây dựng - chuyển giao
-CAGR 	
+CAGR
 Tỷ lệ tăng trưởng kép hàng năm
-CBTT	
+CBTT
 Công bố thông tin
-CNTT 	
+CNTT
 Công nghệ thông tin
-CP 	
 Cổ phần
-CSR 	
 Trách nhiệm xã hội của doanh nghiệp
-CTCP 	
+CTCP
 Công ty cổ phần
-ĐH 	
 Đại học
-ĐHĐCĐ 	
+ĐHĐCĐ
 Đại hội đồng cổ đông
-ĐVT 	
 Đơn vị tính
-ĐLCT	
+ĐLCT
 Điều lệ công ty
-EBIT	
+EBIT
 Thu nhập trước Lãi vay và Thuế
-EBITDA 	
+EBITDA
 Thu nhập trước Lãi vay, Thuế và Khấu hao
-EPS 	
 Tỷ suất thu nhập trên cổ phần
-ESG 	
-Môi trường, Xã hội và Quản trị Công ty
-ESOP 	
+ESOP
 Phát hành cổ phần theo chương trình lựa chọn cho người lao động
-GDCK 	
+GDCK
 Giao dịch chứng khoán
-GRI 	
 Tổ chức Sáng kiến Báo cáo toàn cầu
-HĐQT 	
+HĐQT
 Hội đồng quản trị
-HĐTV 	
+HĐTV
 Hội đồng thành viên
-HNX 	
 Sở Giao dịch Chứng khoán Hà Nội
-HSX	
 Sở Giao dịch Chứng khoán TP.HCM
-HOSE 	
+HOSE
 Sở Giao dịch Chứng khoán TP.HCM
-IR 	
 Quan hệ nhà đầu tư
-IRC 	
 Giấy chứng nhận đăng ký đầu tư
-KCN 	
 Khu công nghiệp
-KDC 	
 Khu dân cư
-KĐT 	
 Khu đô thị
-KTNB 	
+KTNB
 Kiểm toán nội bộ
-LHQ 	
 Liên hiệp quốc
-LNST 	
+LNST
 Lợi nhuận sau thuế
-LNTT 	
+LNTT
 Lợi nhuận trước thuế
-M&A 	
 Mua bán và sáp nhập
-NĐT 	
 Nhà đầu tư
-NLĐ	
 Người lao động
-OECD 	
+OECD
 Tổ chức hợp tác và phát triển kinh tế
-PDR 	
 Công ty Cổ phần Phát triển Bất động sản Phát Đạt
-PE 	
 Hệ số giá trên lợi nhuận một cổ phiếu
-PTBV 	
+PTBV
 Phát triển bền vững
-QH 	
 Quy hoạch
-QLRR 	
+QLRR
 Quản lý rủi ro
-QTCT 	
-Quản trị công ty
-ROA 	
+QTCT
 Lợi nhuận ròng/Tổng tài sản bình quân
-ROE 	
 Lợi nhuận ròng/Vốn chủ sở hữu bình quân
-TGĐ 	
 Tổng Giám đốc
-TNDN 	
+TNDN
 Thu nhập doanh nghiệp
-TNHH 	
+TNHH
 Trách nhiệm hữu hạn
-TP 	
 Thành phố
-TP.HCM 	
+TP.HCM
 Thành phố Hồ Chí Minh
 TNHH MTV 	 Trách nhiệm hữu hạn một thành viên
-TTCK 	
+TTCK
 Thị trường chứng khoán
-UBKT 	
+UBKT
 Ủy ban kiểm toán
-UBND 	
+UBND
 Ủy ban Nhân dân
-UBCK	
+UBCK
 Ủy ban Chứng khoán
-USD 	
 Đô la Mỹ
-VAT 	
 Thuế giá trị gia tăng
-VCSH 	
+VCSH
 Vốn chủ sở hữu
-VĐL 	
 Vốn điều lệ
-VND 	
-Việt Nam đồng
-Tất cả số liệu, thông tin trong BCTN này được thu thập và có giá trị trong phạm vi từ ngày 01/01/2023 đến 31/12/2023. Với những số 
+Tất cả số liệu, thông tin trong BCTN này được thu thập và có giá trị trong phạm vi từ ngày 01/01/2023 đến 31/12/2023. Với những số
 liệu và thông tin ngoài các mốc thời gian trên, PDR sẽ ghi chú mốc thời gian cụ thể.
 NỘI DUNG CHÍNH
-02-19
-40-59
-20-39
-60-135
-136-173
-174-199
-200-217
-218-261
 Uy tín và trách nhiệm
 Năng lực ứng phó
 Tốc độ phục hồi
 Tập trung và hiệu quả
 Giá trị tất yếu về phát triển bền vững
 Thông điệp của Chủ tịch HĐQT
-06-07
-08-09
-10-11
-12-13
-14-15
-16-19
-22-25
-28-29
-30-39
-42-51
-52-59
-66-67
-68-77
-78-79
-84-103
-104-107
-108-116
-118-127
-138-141
-148-149
-150-173
-176-179
-180-187
-188-199
-204-207
-208-211
-212-217
-218-261
 Ban lãnh đạo PDR, HĐQT, ban TGĐ
-Tiểu sử vắt tắt của thành viên  
+Tiểu sử vắt tắt của thành viên
 Ban lãnh đạo
 Thông tin tổng quan
 Lịch sử doanh nghiệp qua các cột mốc chính
@@ -206,1400 +126,947 @@ Thông điệp về PTBV
 Các sự kiện PTBV tiêu biểu
 Thực hành PTBV theo tiêu chuẩn GRI
 Nội dung báo cáo
-PHẦN 1.  
-MỞ ĐẦU
-PHẦN 3.  
 ĐỘI NGŨ LÃNH ĐẠO
-PHẦN 2.  
-TỔNG QUAN VỀ PDR
-PHẦN 4.  
-BÁO CÁO QUẢN TRỊ CÔNG TY
-PHẦN 5.  
-BÁO CÁO CỦA  
+BÁO CÁO CỦA
 BAN TỔNG GIÁM ĐỐC
-PHẦN 6.  
-NĂM 2024 
 NỘI LỰC MỚI – VẬN HỘI MỚI
-PHẦN 7.  
-BÁO CÁO  
+BÁO CÁO
 PHÁT TRIỂN BỀN VỮNG
-PHẦN 8.  
-BÁO CÁO TÀI CHÍNH  
 HỢP NHẤT ĐÃ KIỂM TOÁN
 
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+UY TÍN VÀ TRÁCH NHIỆM
+SỨC MẠNH CỦA TÀI SẢN VÔ HÌNH
+Ngày 25/12/2023, bằng việc mua lại thành công 2 lô trái phiếu có tổng mệnh giá 800 tỷ đồng, PDR chính thức
+tất toán đúng hạn và trước hạn tất cả trái phiếu đã phát hành, dứt điểm hoàn toàn khoản nợ này như mục tiêu
+đã công bố trước đó.
+Đây là một kết quả vô cùng quan trọng giữa bối cảnh thị trường tài chính bị thắt chặt và nhiều doanh nghiệp
+bất động sản vẫn còn đang phải vật lộn trong khủng hoảng.
+Việc giải quyết sạch trái phiếu không chỉ giúp PDR giải tỏa áp lực nợ ngắn hạn, tăng cường sự lành mạnh cho
+sức khỏe tài chính, mà còn chứng minh thuyết phục cho quyết tâm giữ vững nguyên tắc hành xử trong kinh
+doanh quan trọng nhất của Công ty: tôn trọng cam kết và nỗ lực ở mức cao nhất để thực hiện cam kết trong
+mọi hợp tác.
+Bên cạnh trái phiếu, trong năm qua, PDR cũng không có bất kỳ vi phạm hay chậm trễ nào với những cam kết và
+trách nhiệm cần thực hiện trong tất cả lĩnh vực.
+Với nỗ lực và kết quả lớn như trên, PDR một lần nữa nhận được sự tôn trọng và tin cậy sâu sắc từ đối tác, khách
+hàng và cộng đồng kinh doanh. Qua đó, uy tín của Công ty được củng cố vững chắc.
+Nguyên tắc tôn trọng cam kết và nỗ lực ở mức cao nhất để thực hiện cam kết trong mọi hợp tác đã được PDR
+bảo vệ và thực thi thành công suốt tiến trình hình thành - phát triển doanh nghiệp. Trong giai đoạn ngặt nghèo
+như vừa qua, nguyên tắc này vẫn tiếp tục được giữ vững.
+Từ hành xử kiên định như thế, PDR đã vun đắp được tài sản vô hình cực kỳ quan trọng trong kinh doanh. Tài
+sản vô hình này giúp PDR giữ vững được những mối quan hệ hợp tác hiệu quả từ đối tác, khách hàng, nhà đầu
+tư, chính quyền địa phương và các bên liên quan khác. Đây cũng chính là chìa khóa mở ra những cơ hội và triển
+vọng mới để cùng phát triển trong sự an tâm, tin cậy giữa môi trường kinh doanh đầy bất định.
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+NĂNG LỰC ỨNG PHÓ
+CHÌA KHÓA SINH TỒN TRONG BÃO TỐ
+4 năm qua, sau đại dịch Covid-19, môi trường kinh doanh của Việt Nam tiếp tục bị khủng hoảng sâu sắc bởi sự đổ
+vỡ từ lĩnh vực bất động sản và chứng khoán. Bị chấn động dữ dội, liên tục và kéo dài, nhiều doanh nghiệp thực sự
+phải đối diện với bờ vực sinh tử đúng nghĩa. Ngay cả nhiều tên tuổi lớn, đã từng có vị thế dẫn dắt thị trường cũng
+không tránh khỏi nguy cơ bị sàng lọc.
+Trong vòng xoáy rung lắc đó, chỉ những doanh nghiệp có năng lực thích nghi mạnh mẽ và chiến lược ứng phó hữu
+hiệu mới có cơ hội vượt thoát và phục hồi.
+PDR đã thể hiện năng lực ứng phó vượt trội trong suốt giai đoạn kịch tính vừa qua của nền kinh tế - xã hội với
+những thăng trầm đáng chiêm nghiệm. Trong thời gian thị trường chìm đắm giữa đại dịch, PDR đã phát huy thực lực
+và tốc độ để chinh phục những thành tựu rực rỡ, đưa doanh nghiệp tiến đến những cao độ mới và vun đắp được
+những nền tảng vững vàng.
+Khi thị trường xoay chiều với những diễn biến bất ngờ, PDR cũng đã dũng cảm lựa chọn, kể cả phải hy sinh một số
+quyền lợi và tiềm năng, để quyết liệt giữ vững doanh nghiệp cho hành trình dài hạn hơn.
+Trong năm 2023, PDR đã “vượt bão” thành công bằng một chiến lược hợp lý. Trong đó, trọng tâm là kế hoạch tái
+cấu trúc danh mục đầu tư và tài chính. Chấp nhận hạ thấp một số mục tiêu, thoái vốn khỏi công ty con, sắp xếp lại
+thứ tự ưu tiên của các dự án trọng điểm… để quyết liệt giữ vững cơ hội xa hơn cho doanh nghiệp.
+Lựa chọn hợp lý và hành động quyết đoán đã đưa PDR đi đúng hướng. Công ty đã tháo gỡ thành công các nút thắt
+tài chính, giải tỏa áp lực nợ ngắn hạn, duy trì được dòng tiền và tìm lại trạng thái cân bằng kịp thời.
+Đến cuối năm 2023, PDR đã chính thức vượt qua khỏi vòng xoáy nguy hiểm và tự tin thúc đẩy chiến lược tăng
+trưởng mới. Những “đánh đổi” và “hy sinh” mà PDR phải lựa chọn trong thời gian qua đều có ý nghĩa cho những
+triển vọng lớn hơn trong tương lai.
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+TỐC ĐỘ PHỤC HỒI
+LỜI ĐÁP TỪ THỊ TRƯỜNG
+Giá cổ phiếu PDR vào ngày giao dịch cuối năm 2023 đạt mức tăng 105% so với cùng thời điểm 2022. Trong
+những tháng đầu năm 2024, cổ phiếu PDR vẫn giữ mức giá tăng ổn định.
+Với sức phục hồi tốt, các chỉ số tài chính lành mạnh, tỷ lệ nợ ở mức thấp, nền tảng doanh nghiệp vững chắc
+và kế hoạch phát triển sôi động, PDR được đánh giá rất cao về tính sẵn sàng trong việc đón đầu những làn
+sóng thị trường sớm nhất.
+Lợi thế vượt bậc như trên đưa PDR vào tầm ưu tiên cao của giới đầu tư với kỳ vọng trở thành một trong
+những cổ phiếu bất động sản có khả năng tăng trưởng tốt nhất trong năm 2024.
+Bên cạnh triển vọng tươi sáng trên thị trường chứng khoán, PDR hiện nay cũng nhận được sự ưu ái lớn của
+các đối tác tài chính. Nhiều dự án của PDR đã hội đủ các điều kiện lý tưởng để triển khai nhanh, đặc biệt là
+tính pháp lý hoàn chỉnh. Do đó, PDR được rộng mở trong khả năng huy động nguồn vốn từ nhiều nguồn tối
+ưu. Điển hình như cuối năm 2023, Công ty đạt được sự hợp tác toàn diện từ MB Bank cho việc phát triển
+dự án Khu nhà ở phức hợp cao tầng Thuận An 1 và 2 với tổng giá trị lên đến 6.000 tỷ đồng.
+Tính sẵn sàng và mức độ chuyên nghiệp cao cũng giúp PDR nhận được sự quan tâm từ các đối tác quốc tế.
+Công ty đang tích cực nâng cấp tiêu chuẩn trong các dự án mới để hướng tới tiếp cận các nguồn vốn xanh.
+Thị trường bất động sản vẫn còn dè dặt. Vì thế, sự tham gia của các doanh nghiệp có tính sẵn sàng cao sẽ
+giúp hâm nóng niềm tin và mãi lực nhanh hơn. PDR xác định tâm thế chủ động kiến tạo cơ hội mới cho
+chính mình để góp phần thúc đẩy sinh khí chung của toàn ngành.
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+Trước biến động bất ngờ và dữ dội của thị trường trong năm qua, các kế hoạch của PDR đã bị
+ảnh hưởng khiến nhiều mục tiêu chưa thể đạt được như kỳ vọng.
+Từ quý IV/2022, khi thị trường BĐS diễn biến ngày càng phức tạp, PDR đã linh hoạt xây dựng các
+giải pháp thích ứng. Ban Lãnh đạo PDR xác định, nhiệm vụ quan trọng lúc này là giữ vững doanh
+nghiệp trước vòng xoáy khốc liệt của thời cuộc, bảo vệ tối đa nền tảng mà Công ty đã gầy dựng.
+Dù còn phải đối mặt với nhiều thử thách và áp lực từ tình hình chung, PDR vẫn giữ vững hoạt
+động cốt lõi với các sản phẩm và dự án trọng tâm. Năm 2022, nhiều chỉ số quan trọng, tiêu biểu
+cho sức khỏe doanh nghiệp như tổng tài sản, vốn chủ sở hữu, vốn điều lệ, biên lợi nhuận ròng,
+biên lợi nhuận gộp… được duy trì ở mức ổn định.
+Hiện nay, PDR tiếp tục dành sự tập trung cao độ và huy động mọi nguồn lực để đưa Công ty
+vượt qua giai đoạn suy thoái chung. Bên cạnh đó, Công ty cũng nỗ lực quyết liệt để củng cố
+nền tảng, nâng cấp nội lực và tích cực chuẩn bị cho những kế hoạch mới.
+NỖ LỰC BẢO VỆ THÀNH TỰU
+TẬP TRUNG VÀ HIỆU QUẢ
+MỆNH LỆNH TỐI CAO
+Để tạo nên những thành tựu mang tính bứt phá như đã có, PDR đặt tính hiệu quả làm một trong những
+tiêu chí tiên quyết trong mọi hoạt động kinh doanh, đặc biệt là quá trình phát triển dự án. Hiệu quả về thời
+gian, dòng tiền, lợi nhuận, nguồn lực… Điều này lý giải cho tỷ suất lợi nhuận luôn ở mức cao và tốc độ tăng
+trưởng đáng kinh ngạc của PDR ở giai đoạn trước.
+Trên hành trình mới, PDR tiếp tục chú trọng tiêu chí này. Với kinh nghiệm dày dặn đã tích lũy được, cùng
+với yêu cầu phục hồi nhanh nhất có thể, PDR còn đặt chỉ tiêu hiệu quả cao hơn và xem đây là mệnh lệnh tối
+thượng cho các kế hoạch sắp tới.
+Một cơ sở quan trọng giúp PDR có thể nâng cao hiệu quả đến mức tối ưu là tính tập trung. Sau quá trình
+tái cấu trúc để phù hợp với biến động của thị trường, hiện nay, PDR chỉ tập trung vào mảng bất động sản
+dân dụng, gồm sản phẩm bất động sản nhà ở và bất động sản nghỉ dưỡng – du lịch. Với các dự án nằm trong
+ưu tiên phát triển, PDR sẽ dành toàn lực để triển khai và chỉ hướng tới mục tiêu duy nhất là kết quả tối đa
+như đã được hoạch định.
+Tuy nhiên, tính hiệu quả mà PDR theo đuổi cần được hiểu đúng và toàn diện. Mệnh lệnh về hiệu quả không
+đồng nghĩa với sự thiếu cẩn trọng trong xây dựng kế hoạch hành động, đánh đổi về chất lượng sản phẩm
+và coi nhẹ tính bền vững trong quá trình phát triển. Tính hiệu quả của PDR được xây dựng trên hệ giá trị
+tổng thể và thỏa mãn các tiêu chí nghiêm khắc của một nhà phát triển dự án bất động sản chuyên nghiệp.
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
 PHÁT TRIỂN BỀN VỮNG
-GIÁ TRỊ TẤT YẾU ĐỂ  
+GIÁ TRỊ TẤT YẾU ĐỂ
 KIẾN TẠO KHÔNG GIAN SỐNG
-PDR đang có ít nhất 6 dự án lớn hội đủ tất cả điều kiện lý tưởng để đưa ra thị trường. Dựa trên diễn biến thực tiễn, 
-Công ty sẽ quyết định nhịp độ tung sản phẩm phù hợp. Tổng giá trị doanh thu các dự án khả thi dự kiến mang về 
+PDR đang có ít nhất 6 dự án lớn hội đủ tất cả điều kiện lý tưởng để đưa ra thị trường. Dựa trên diễn biến thực tiễn,
+Công ty sẽ quyết định nhịp độ tung sản phẩm phù hợp. Tổng giá trị doanh thu các dự án khả thi dự kiến mang về
 cho PDR khoảng 40.000 tỷ đồng trong thời gian tới.
-Với quy mô lớn, địa thế đắt giá và sứ mệnh có tính khai phá hoặc tiên phong trong việc thay đổi diện mạo của địa 
-phương, các dự án đều được PDR đầu tư chuyên nghiệp để trở thành những sản phẩm có giá trị cao trong dài hạn. 
-Đồng thời, PDR luôn chú trọng về hiệu quả sử dụng thực tế và lâu dài của sản phẩm bất động sản. Do vậy, không 
-chỉ đáp ứng nhu cầu tiện nghi trước mắt, các dự án do PDR phát triển còn có thể thay đổi phong cách sống theo 
-xu hướng tích cực và nâng cao chất lượng cuộc sống cho cộng đồng cư dân. Đây chính là giá trị cụ thể của tôn chỉ 
+Với quy mô lớn, địa thế đắt giá và sứ mệnh có tính khai phá hoặc tiên phong trong việc thay đổi diện mạo của địa
+phương, các dự án đều được PDR đầu tư chuyên nghiệp để trở thành những sản phẩm có giá trị cao trong dài hạn.
+Đồng thời, PDR luôn chú trọng về hiệu quả sử dụng thực tế và lâu dài của sản phẩm bất động sản. Do vậy, không
+chỉ đáp ứng nhu cầu tiện nghi trước mắt, các dự án do PDR phát triển còn có thể thay đổi phong cách sống theo
+xu hướng tích cực và nâng cao chất lượng cuộc sống cho cộng đồng cư dân. Đây chính là giá trị cụ thể của tôn chỉ
 kiến tạo không gian sống mà PDR đã đặt ra cho chính mình.
-Thời gian qua, để chuẩn bị cho kỷ nguyên phát triển tiếp theo, trong chiến lược tái cấu trúc, PDR đã dành nhiều 
-sự đầu tư cho nhiệm vụ tái thiết kế sản phẩm. Trong đó, Công ty chú trọng áp dụng các tiêu chuẩn mới về phát 
-triển bền vững theo cập nhật của ngành bất động sản thế giới. 
-PDR là một trong những nhà phát triển dự án áp dụng tiêu chuẩn Fitwel đầu tiên tại Việt Nam. Bên cạnh đó, các 
-hệ thống tiêu chuẩn đã hiện hữu đều được tuân thủ nghiêm khắc, cập nhật và nâng cấp. 
-Không chỉ đặt tiêu chí thấu hiểu nhu cầu thực tại của khách hàng để đáp ứng bằng sản phẩm phù hợp, PDR còn 
-thể hiện vai trò của nhà phát triển dự án bất động sản chuyên nghiệp bằng việc chủ động mang đến những giá trị 
+Thời gian qua, để chuẩn bị cho kỷ nguyên phát triển tiếp theo, trong chiến lược tái cấu trúc, PDR đã dành nhiều
+sự đầu tư cho nhiệm vụ tái thiết kế sản phẩm. Trong đó, Công ty chú trọng áp dụng các tiêu chuẩn mới về phát
+triển bền vững theo cập nhật của ngành bất động sản thế giới.
+PDR là một trong những nhà phát triển dự án áp dụng tiêu chuẩn Fitwel đầu tiên tại Việt Nam. Bên cạnh đó, các
+hệ thống tiêu chuẩn đã hiện hữu đều được tuân thủ nghiêm khắc, cập nhật và nâng cấp.
+Không chỉ đặt tiêu chí thấu hiểu nhu cầu thực tại của khách hàng để đáp ứng bằng sản phẩm phù hợp, PDR còn
+thể hiện vai trò của nhà phát triển dự án bất động sản chuyên nghiệp bằng việc chủ động mang đến những giá trị
 hiện đại, thúc đẩy lối sống văn minh và nhân bản hơn cho cư dân.
-Đầu tư nâng cấp tiêu chuẩn cho sản phẩm cũng chính là gia tăng yếu tố để sản phẩm được thị trường hấp thu. Vì 
+Đầu tư nâng cấp tiêu chuẩn cho sản phẩm cũng chính là gia tăng yếu tố để sản phẩm được thị trường hấp thu. Vì
 vậy, đây chính là cơ sở cho sự phát triển bền vững của cả PDR và cộng đồng.
-15
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-14
 
-BÁO CÁO CỦA HĐQT
-PDR LÀ DOANH NGHIỆP BĐS DUY NHẤT 
-TRONG TOP 10 DOANH NGHIỆP  
-NIÊM YẾT QTCT TỐT NHẤT
-Trong khuôn khổ Hội nghị Doanh nghiệp niêm yết thường niên năm 2023 được tổ chức tại Cam Ranh vào 
-trung tuần tháng 12 vừa qua, PDR đã được vinh doanh là một trong 10 doanh nghiệp của nhóm vốn hóa lớn 
-đạt năng lực QTCT tốt nhất. 
-Đây là kết quả đánh giá do HOSE, HNX và Báo Đầu tư Chứng khoán thực hiện, với sự tham dự của lãnh 
-đạo Ủy ban Chứng khoán Nhà nước, lãnh đạo các sở giao dịch Chứng khoán, Tổng Công ty Lưu ký và Bù trừ 
-chứng khoán Việt Nam cùng đại diện gần 300 công ty niêm yết, công ty chứng khoán, công ty quản lý quỹ và 
-các định chế tài chính khác trên thị trường.
-Trước đó, 104 doanh nghiệp có tình hình QTCT tốt nhất được chọn vào vòng chung khảo, phân theo từng 
-nhóm vốn hóa. Trong đó, nhóm vốn hóa lớn có 34 doanh nghiệp. 
-Theo Ban tổ chức, bộ tiêu chí đánh giá năng lực QTCT năm nay được bổ sung thêm 18 câu hỏi, bao gồm 1 
-câu về tổ chức đại hội cổ đông, 2 câu về đề cử thành viên HĐQT nâng cao khả năng đa dạng hoá, 15 câu về 
-phát triển bền vững và tính bền bỉ. Đây được xem là bước đầu cho những yêu cầu mới về QTCT trong bối 
-cảnh Chính phủ đẩy mạnh thực hiện các cam kết về giảm phát thải, ứng phó với biến đổi khí hậu và phát triển 
-bền vững sau Hội nghị COP26. 
-Hội đồng bình chọn cho biết, điểm QTCT của các doanh nghiệp cho thấy sự tiến bộ và ngày càng chú trọng 
-thực hiện hoạt động quản trị tốt. 
-Với tư cách là doanh nghiệp BĐS duy nhất trong nhóm vốn hóa lớn đạt được danh hiệu này, PDR sẽ tiếp tục 
-phát huy để không ngừng nâng cao năng lực QTCT, làm nền tảng cho tính minh bạch, chuyên nghiệp, hướng 
-tới tinh thần phát triển bền vững như tôn chỉ nhất quán của Công ty. 
-Ông Phan Lê Hòa (phải), Phó TGĐ của 
-PDR, nhận giải thưởng.
-BÁO CÁO THƯỜNG NIÊN 2023
-CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-63
-62
-BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+THÔNG ĐIỆP CỦA
+CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
+TIẾN VỀ PHÍA TRƯỚC
+BẰNG NỖ LỰC QUYẾT LIỆT NHẤT
+Đây không còn là lúc để chỉ nói về thách thức
+của thị trường và tinh thần vượt khó của doanh
+nghiệp nữa. Đã đến lúc phải quyết liệt tìm kiếm
+cơ hội và tự kiến tạo cơ hội. PDR xác định cho
+chính mình mệnh lệnh đó để thúc đẩy từ tâm
+thế đến hành động.
+Tập trung cao độ, có kế hoạch phù hợp với thị
+trường thực tiễn, đặt mục tiêu khả thi, lạc quan
+nhưng không chủ quan và hướng tới hiệu quả
+thiết thực là cách PDR tiến về phía trước.
 
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-BẢNG ĐÁNH GIÁ NGẮN HẠN 
-A. QUYỀN CỦA CỔ ĐÔNG
-A.2.1
-Cổ đông có cơ hội, thể hiện bởi nội dung trên chương trình 
-nghị sự, thông qua thù lao (phí, thù lao, các hình thức quyền lợi 
-hiện vật hoặc các bổng lộc khác) hoặc mọi khoản tăng thù lao 
-cho thành viên/uỷ viên HĐQT không điều hành?
-Cổ đông được quyền có ý kiến và thông qua thù lao hoặc mọi 
-khoản tăng thù lao cho thành viên HĐQT được thể hiện chi 
-tiết trong Phần Thảo luận của cổ đông - Hỏi đáp và Biên bản 
-họp ĐHĐCĐ năm 2023.
-A.2.3
-Công ty có cho phép cổ đông bầu chọn từng thành viên/ủy 
-viên HĐQT?
-Công ty cho cổ đông bầu chọn từng thành viên HĐQT theo 
-đúng quy định tại Quy chế bầu cử HĐQT nhiệm kỳ 2023-2028 
-trên mục Tài liệu ĐHĐCĐ thường niên 2023 tại website Công 
-ty, việc bầu cử được thể hiện chi tiết tại Biên bản họp ĐHĐCĐ 
-thường niên 2023.
-A.2.4
-Công ty có công bố thủ tục biểu quyết được sử dụng trước khi 
-đại hội tiến hành?
-Công ty công bố thủ tục biểu quyết trong tài liệu Thể lệ biểu 
-quyết tại cuộc họp ĐHĐCĐ thường niên 2023 trên mục Tài 
-liệu ĐHĐCĐ thường niên 2023 tại website Công ty. Đồng thời 
-trước khi cổ đông tiến hành biểu quyết, Công ty có thông qua 
-nội dung Thể lệ biểu quyết được thể hiện trong Biên bản họp 
-ĐHĐCĐ thường niên 2023.
-A.2.5
-Biên bản họp ĐHĐCĐ mới nhất có ghi nhận rằng cổ đông có cơ 
-hội đặt câu hỏi và câu hỏi cùng câu trả lời có được ghi nhận?
-Được thể hiện chi tiết tại mục 2.5 Phần II Biên bản họp 
-ĐHĐCĐ năm 2023.
-A.2.6
-Công ty có công bố kết quả bầu chọn bao gồm số phiếu thông 
-qua, phản đối và phiếu trống cho mỗi nội dung dự thảo lấy ý 
-kiến của ĐHĐCĐ gần nhất?
-Biên bản cuộc họp ĐHĐCĐ thường niên của PDR có nêu chi 
-tiết tỷ lệ tán thành, không tán thành và không có ý kiến thông 
-qua cho biểu quyết theo từng nội dung lấy ý kiến của cuộc 
-họp.
-A.2.7
-Công ty có công bố danh sách thành viên HĐQT tham dự cuộc 
-họp ĐHĐCĐ gần nhất?
-Biên bản cuộc họp ĐHĐCĐ thường niên của PDR luôn công 
-bố danh sách thành viên HĐQT và TGĐ tham dự cuộc họp.
-A.2.8
-Công ty có công bố rằng tất cả thành viên HĐQT và TGĐ/Giám 
-đốc Điều hành (nếu TGĐ/Giám đốc Điều hành không phải là 
-thành viên HĐQT) có tham dự cuộc họp ĐHĐCĐ gần nhất?
-A.2.9
-Công ty có cho phép biểu quyết vắng mặt?
-Năm 2023, PDR chỉ tổ chức cho cổ đông biểu quyết trực tiếp, 
-PDR sẽ xem xét bổ sung các hình thức biểu quyết khác cho các 
-năm sau.
-A.2.10
-Công ty sử dụng hình thức biểu quyết căn cứ theo số phiếu 
-biểu quyết của cổ đông (không phải bằng cách giơ tay) đối với 
-mọi nghị quyết tại ĐHĐCĐ mới nhất?
-Cổ đông biểu quyết các vấn đề tại cuộc họp bằng “Thẻ biểu 
-quyết”, có ghi số phiếu biểu quyết của cổ đông, theo từng ý 
-kiến biểu quyết (tán thành, không tán thành, không có ý kiến).
-A.2.11
-Công ty có công bố việc đã bổ nhiệm một bên độc lập (kiểm 
-tra, giám sát viên) tham gia ban kiểm phiếu để đếm và/hoặc 
-thẩm định phiếu bầu tại ĐHĐCĐ?
-Công ty chỉ định thành viên Ban KTNB và một cổ đông không 
-phải là người đang làm việc cho công ty tham gia ban kiểm 
-phiếu và được thông qua tại cuộc họp ĐHĐCĐ thường niên 
-năm 2023.
-A.2.12
-Công ty có công bố công khai vào ngày làm việc tiếp theo kết quả 
-biểu quyết đối với tất cả nghị quyết trong ĐHĐCĐ gần nhất?
-Biên bản và nghị quyết cuộc họp ĐHĐCĐ thường niên được 
-công bố cùng ngày tổ chức ĐHĐCĐ thường niên.
-A.2.13
-Công ty có thông báo cuộc họp ĐHĐCĐ thường niên và cuộc 
-họp ĐHCĐ bất thường trước tối thiểu 21 ngày?
-Công ty luôn đảm bảo việc gửi thư mời trước ĐHĐCĐ 21 
-ngày, cụ thể đối với ĐHĐCĐ thường niên 2023, Công ty 
-gửi thư mời cho cổ đông vào ngày 05/06/2023 và cuộc họp 
-thường niên diễn ra vào ngày 30/06/2023. 
-A.2.14
-Công ty có cung cấp cơ sở, thông tin và giải trình cho mỗi mục 
-trong dự thảo nghị quyết cần được cổ đông thông qua trong 
-thông báo về ĐHĐCĐ/tài liệu ĐHĐCĐ/Dự thảo và/hoặc các 
-báo cáo đính kèm?
-Công ty có tờ trình chi tiết cho mỗi mục trong Dự thảo nghị 
-quyết được đăng tải trong mục Tài liệu ĐHĐCĐ thường niên 
-2023 tại website Công ty
-A.2.15
-Công ty có tạo cơ hội cho các cổ đông đề xuất/kiến nghị về nội 
-dung chương trình họp ĐHĐCĐ và/hoặc yêu cầu triệu tập đại 
-hội theo tỷ lệ nhất định không?
-Cổ đông được quyền ý kiến và biểu quyết thông qua nội dung 
-chương trình họp được thể hiện tại Biên bản họp ĐHĐCĐ 
-thường niên
-A.4.1
-Công ty có công bố công khai chính sách/thực hành nhằm 
-khuyến khích tham gia của cổ đông bên ngoài khuôn khổ cuộc 
-họp ĐHĐCĐ?
-Ngoài cuộc họp ĐHĐCĐ, Công ty luôn khuyến khích cổ đông 
-tham gia có ý kiến về hoạt động của Công ty thông qua hộp 
-thư liên lạc với bộ phận IR của Công ty 
-A.5.1
-Trong trường hợp Công ty có nhiều hơn một loại cổ phiếu, 
-Công ty có công bố số phiếu biểu quyết gắn với mỗi loại cổ 
-phiếu (ví dụ: thông qua trang thông tin điện tử/báo cáo/sở 
-giao dịch chứng khoán/trang thông tin điện tử của cơ quan 
-quản lý)?
-PDR không có cổ phiếu khác ngoài cổ phiếu phổ thông.
-A.6.1
-Mỗi nghị quyết trong cuộc họp ĐHĐCĐ gần nhất chỉ liên quan 
-đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp 
-nhiều nội dung vào trong cùng một nghị quyết?
-Nghị quyết cuộc họp ĐHĐCĐ thường niên năm 2023 có tách 
-một số nội dung thành từng Nghị quyết.
-A.6.2
-Thông báo và tài liệu cuộc họp ĐHĐCĐ gần nhất có được dịch 
-đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu 
-theo ngôn ngữ địa phương?
-Toàn bộ thông báo và tài liệu cuộc họp ĐHĐCĐ được công bố 
-bằng song ngữ Việt - Anh vào cùng thời điểm.
-A.6.3
-Có cung cấp tiểu sử của thành viên/ủy viên HĐQT sẽ được bầu 
-chọn/bầu chọn lại (tối thiểu là tuổi, trình độ đào tạo, chuyên 
-môn, ngày bổ nhiệm đầu tiên, kinh nghiệm và vị trí thành viên 
-HĐQT đang tại vị trong các công ty niêm yết khác)?
-PDR có công bố đầy đủ tiểu sử của thành viên HĐQT được 
-bầu lại trong tài liệu Danh sách ứng cử viên thành viên HĐQT 
-nhiệm kỳ 2023-2028.
-A.6.4
-Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu 
-chọn lại có được xác định rõ ràng?
-PDR có xác định rõ ràng các tiêu chí lựa chọn công ty kiểm 
-toán và đề xuất công ty kiểm toán cụ thể thông qua Tờ trình 
-được công bố trong mục Tài liệu ĐHĐCĐ thường niên 2023 
-trên website Công ty.
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-A.6.5
-Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng?
-Mẫu giấy uỷ quyền được gửi kèm trong thư mời tham dự 
-ĐHĐCĐ, đồng thời đăng tải trên mục Tài liệu ĐHĐCĐ thường 
-niên 2023 trên website Công ty để cổ đông thuận tiện tải về.
-A.7.1
-Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ 
-phiếu công ty trong vòng 3 ngày làm việc?
-Thành viên HĐQT PDR tuân thủ việc báo cáo giao dịch cổ 
-phiếu công ty trong vòng 3 ngày làm việc và công bố thông 
-tin trên trang thông tin của SSC, HOSE và website Công ty tại 
-mục Thông báo cổ đông.
-A.9.2
-Trong trường hợp cần có phê duyệt của cổ đông thông qua 
-các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải 
-được biểu quyết bởi các cổ đông không liên quan lợi ích.
-PDR luôn tuân thủ trong việc phê duyệt các giao dịch với bên 
-liên quan và việc phê duyệt được biểu quyết bởi các cổ đông/
-thành viên không có lợi ích liên quan. Điều này được thể hiện 
-cụ thể tại Điều lệ Công ty, Quy chế hoạt động của HĐQT và 
-các Nghị quyết của HĐQT được công bố trên website Công ty.
-C. PHÁT TRIỂN BỀN VỮNG VÀ BỀN BỈ
-C.4.1
-Công bố chính sách và các thực hành nhằm bảo vệ quyền lợi 
-khách hàng?
-PDR công bố chính sách nhằm bảo vệ quyền lợi khách hàng 
-trong các hợp đồng, BCTN, các văn bản lưu hành và thực hành 
-xuyên suốt trong mọi hoạt động bán hàng.
-C.4.2
-Công bố chính sách và các thực hành, qui trình và thủ tục lựa 
-chọn nhà cung cấp/nhà thầu?
-PDR trình bày chính sách và thủ tục/quy trình về lựa chọn nhà 
-cung cấp/ nhà thầu thông qua các quy định/quy trình mua 
-sắm, quản lý hợp đồng của Công ty. 
-C.4.3
-Công bố chính sách và các thực hành, mô tả nỗ lực của Công ty 
-nhằm bảo đảm chuỗi giá trị của Công ty thân thiện với môi trường 
-hoặc phù hợp với việc thúc đẩy phát triển bền vững ?
-Thể hiện trong mục Phát triển bền vững của BCTN. 
-C.4.4
-Công bố chính sách và các thực hành, mô tả nỗ lực của Công 
-ty trong việc tương tác với cộng đồng nơi Công ty hoạt động?
-Thể hiện trong BCTN, các hoạt động tương tác trực tiếp, 
-hưởng ứng các chương trình hành động chung vì cộng đồng tại 
-nơi Công ty đang hoạt động. 
-C.4.5
-Công bố chính sách và các thực hành phòng chống tham 
-nhũng của Công ty?
-Công bố chính sách trong BCTN, điều khoản cụ thể về phòng 
-chống tham nhũng trong hợp đồng với các nhà cung cấp 
-và thường xuyên kiểm soát việc chống tham nhũng của các 
-Phòng/Ban, cá nhân có liên quan.
-C.4.6
-Công bố chính sách và các thực hành, mô tả cách thức bảo vệ 
-quyền lợi của chủ nợ?
-PDR công bố trong Điều 20 Quy chế hoạt động của HĐQT.
-C.4.7
-Công ty có viết báo cáo/nội dung riêng mô tả các nỗ lực về các 
-vấn đề về môi trường/kinh tế và xã hội?
-Thể hiện trong mục Phát triển bền vững của BCTN. 
-C.5.1
-Công ty có cung cấp thông tin liên hệ trên website của Công 
-ty hay BCTN để các bên có quyền lợi liên quan (ví dụ: khách 
-hàng, nhà cung cấp, công chúng...) có thể sử dụng để lên tiếng 
-về lo ngại và/hoặc khiếu kiện về những vi phạm có thể xảy ra?
-Công ty có cung cấp đầy đủ thông tin liên hệ trên website và 
-BCTN tại mục Giới thiệu.
-C.6.1
-Công ty có công bố rõ ràng chính sách và thực hành, nỗ lực về 
-sức khỏe, an toàn và phúc lợi cho nhân viên?
-Công ty có công bố rõ ràng chính sách nỗ lực về sức khỏe, an 
-toàn và phúc lợi cho nhân viên trong các văn bản lưu hành nội 
-bộ, các cuộc họp nội bộ và thực hành xuyên suốt trong quá 
-trình hoạt động.
-C.6.2
-Công ty có công bố rõ ràng chính sách và thực hành, nỗ lực về 
-các chương trình đào tạo và phát triển cho nhân viên?
-Công ty có công bố rõ ràng chính sách và thực hành về các 
-chương trình đào tạo, phát triển cho nhân viên trong các văn 
-bản nội bộ và các cuộc họp, các chương trình đào tạo, phát 
-triển năng lực cho nhân viên được tổ chức thường xuyên theo 
-tháng. 
-C. 6.3
-Công ty có chính sách khen thưởng gắn với hiệu quả hoạt 
-động của Công ty trong dài hạn hơn là trong ngắn hạn?
-Quy định về khen thưởng được công bố bằng các văn bản lưu 
-hành nội bộ gắn với hiệu quả hoạt động của Công ty trong dài 
-hạn. 
-D. CÔNG BỐ THÔNG TIN VÀ MINH BẠCH
-D.1.1
-Thông tin về cổ đông có tiết lộ danh tính của các chủ sở hữu 
-nắm giữ 5% cổ phần trở lên?
-Công ty tuân thủ việc công bố thông tin về cổ đông lớn sở 
-hữu 5% cổ phần trở lên trên trang thông tin của SSC, HOSE và 
-website Công ty tại mục Thông báo cổ đông. Ngoài ra, Công ty 
-tuân thủ việc báo cáo định kỳ hàng quý về Danh sách cổ đông 
-lớn cho HOSE.
-D.1.5
-Công ty có công bố chi tiết về công ty mẹ, công ty con, công 
-ty liên kết, công ty liên doanh và doanh nghiệp/công ty có mục 
-đích đặc biệt (SPE)/ (SPV)?
-Báo cáo tình hình quản trị Công ty, BCTC định kỳ và BCTN.
-D.2.1
-Mục tiêu của Công ty
-BCTN 2023, Nghị quyết ĐHĐCĐ/HĐQT
-D.2.2
-Chỉ số hiệu quả tài chính
-BCTN 2023, Nghị quyết ĐHĐCĐ/HĐQT
-D.2.3
-Chỉ số hiệu quả phi tài chính
-BCTN 2023, Nghị quyết ĐHĐCĐ/HĐQT
-D.2.4
-Chính sách cổ tức
-BCTN 2023, Nghị quyết ĐHĐCĐ/HĐQT
-D.2.5
-Chi tiết tiểu sử (tối thiểu tuổi, trình độ đào tạo, chuyên môn, 
-ngày đầu bổ nhiệm, kinh nghiệm phù hợp, và vị trí thành viên 
-HĐQT nào khác đang nắm giữ tại các công ty niêm yết) của 
-thành viên HĐQT.
-Công ty có công bố chi tiết tiểu sử của thành viên HĐQT trong 
-Mục Giới thiệu thành viên HĐQT trên website và trong BCTN.
-D.2.6
-BCTN có công bố phát biểu, tuyên bố khẳng định sự tuân thủ 
-đầy đủ của công ty với các quy tắc quản trị công ty và trong 
-trường hợp có tình trạng không tuân thủ, có xác định rõ và giải 
-thích lý do cho mỗi vấn đề đó không?
-BCTN và Báo cáo tình hình QTCT có công bố rõ các quy tắc 
-quản trị và yêu cầu tuân thủ. Công ty không có tình trạng 
-không tuân thủ cho vấn đề này. 
-D.3.1
-Cơ cấu thù lao cho thành viên HĐQT không điều hành có được 
-công bố công khai?
-Công bố trong BCTC được kiểm toán và trong BCTN.
-D.3.2
-Công ty có công bố công khai (trong BCTN hoặc các tài liệu 
-công bố công khai khác) chi tiết thù lao của từng thành viên 
-HĐQT không điều hành 
-Công bố trong BCTC được kiểm toán và trong BCTN.
-Chưa tuân thủ
-Tuân thủ một phần
-Tuân thủ
-BẢNG THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN
-BÁO CÁO THƯỜNG NIÊN 2023
-CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-121
-120
-BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+Trong năm 2024, để thiết lập đà tăng trưởng mới, tiêu chí tiên quyết của PDR là tập trung. PDR sẽ chỉ tập trung
+duy nhất vào mảng bất động sản. Các dự án được PDR ưu tiên phát triển chỉ tập trung vào những sản phẩm
+thiết thực với nhu cầu và mãi lực hiện hữu của khách hàng, trên các thị trường giàu tiềm năng nhất. Đồng thời,
+PDR sẽ tập trung vào chiến lược bán hàng hiệu quả, thúc đẩy tốc độ hoạt động để tạo dòng tiền nhanh nhất.
+Hiện nay, PDR chuẩn bị đưa ra thị trường 4 đến 6 dự án lớn với những sản phẩm có tính sẵn sàng cao. Tổng
+giá trị doanh thu dự kiến lên đến 40.000 tỷ đồng. Công ty tập trung mọi nguồn lực để thúc đẩy chiến lược
+kinh doanh hiệu quả bằng nỗ lực quyết liệt nhất. Không chỉ tìm kiếm cơ hội và chờ thị trường phục hồi, PDR
+xác định phải chủ động kiến tạo cơ hội và góp phần thúc đẩy đà phục hồi chung.
+Tiến về phía trước sẽ chỉ là một khẩu hiệu đơn thuần nếu không đứng trên nền tảng vững chắc và động lực
+mạnh mẽ. Nền tảng và động lực của PDR vẫn liên tục được bảo vệ, nâng cấp và thúc đẩy. Dù phải gánh chịu
+nhiều tổn thất nặng nề trong gần 2 năm thị trường biến động, PDR vẫn là một trong những doanh nghiệp
+đang sở hữu ưu thế vượt trội về sự cân bằng tài chính, năng lực huy động nguồn vốn, năng lực phát triển
+dự án, quỹ đất sạch và dồi dào, đội ngũ nhân sự giàu kinh nghiệm và thương hiệu doanh nghiệp có uy tín
+vững chắc…
+Bên cạnh đó, PDR cũng nhận thức rõ các nguy cơ rủi ro và đánh giá kỹ lưỡng những thách thức mới từ thị
+trường. Do vậy, bên cạnh tốc độ triển khai quyết liệt, PDR cũng đảm bảo tính cẩn trọng và khiêm tốn để
+đảm bảo các kế hoạch hướng đến đều có hiệu quả chắc chắn và tối ưu.
+2024 vẫn còn là một năm đầy khó khăn cho nền kinh tế - xã hội nói chung và ngành bất động sản nói riêng.
+Song, tôi tin rằng đây là thời điểm phải triển khai hoạt động mạnh mẽ với chiến lược đúng và nỗ lực đủ.
+PDR trân trọng mọi sự đồng hành và hợp tác trong thời gian qua. Chúng tôi tin tưởng vào việc được chia
+sẻ cơ hội mới cùng quý vị trong thời gian tới.
+Trân trọng!
+Nguyễn Văn Đạt
+Kính gởi quý cổ đông – nhà đầu tư, khách hàng và đối tác!
+Tôi có thể cảm nhận rất rõ rằng thời gian qua, quý vị đã dõi theo
+PDR bằng nhiều cung bậc cảm xúc. Năm 2023 thực sự là đoạn
+đường sinh tử của ngành bất động sản. Những nút thắt ngặt
+nghèo, những áp lực từ hữu hình đến vô hình cực kỳ lớn, những
+diễn biến phức tạp từ nhiều phía… đã đặt nhiều doanh nghiệp,
+trong đó có PDR, trước những tình thế hết sức gian nguy mà có
+thể quý vị đều nhìn thấy.
+Trong bối cảnh ấy, sự chia sẻ, đồng hành và hợp tác hữu hiệu
+từ các bên liên quan là vô cùng quý giá. Nhờ đó, các nỗ lực và
+giải pháp của PDR mới có thể phát huy tác dụng mạnh mẽ để
+giải quyết từng vấn đề và tháo gỡ từng nút thắt một cách tối
+ưu. Đến nay, chúng tôi có thể tự tin nói rằng PDR đã vượt qua
+được khúc quanh hiểm nghèo nhất để chính thức bước sang
+giai đoạn phục hồi và hướng đến những triển vọng mới.
+Những chấn động bất ngờ và dữ dội của thị trường trong hai
+năm qua đã khiến cho tốc độ phát triển của PDR bị chậm lại rất
+nhiều. Các kế hoạch dài hạn vốn được chuẩn bị chu đáo cũng
+phải thay đổi. Nhiều chỉ tiêu tăng trưởng bắt buộc phải được
+điều chỉnh… PDR cần một khoảng thời gian nhất định, với các
+điều kiện khách quan lẫn chủ quan tương ứng, để quay trở lại
+một số chỉ số đỉnh cao đã từng thiết lập được. Đây là thực tế
+cần được thấu hiểu để có tâm thế và hành động đúng đắn trên
+chặng đường tiếp theo.
+Tuy nhiên, chúng tôi cũng xác định rằng những gì đã trải qua
+là diễn biến thăng trầm tất yếu trên hành trình phát triển của
+doanh nghiệp. Điều quan trọng nhất là PDR vẫn giữ vững được
+công ty, kiên định với chiến lược lớn và không ngừng gia cố
+nền tảng để tiếp tục hành trình hướng tới tương lai. Một doanh
+nghiệp sẽ trưởng thành với “sức đề kháng” mạnh mẽ hơn nếu
+phát huy tốt giá trị và kinh nghiệm sau khi đã vượt qua thách
+thức sinh tử.
+Nhìn lại giai đoạn hết sức ngặt nghèo vừa qua, có thể khái quát
+được kinh nghiệm và giá trị nào lớn nhất mà PDR đã phát huy?
+Chắc chắn, đáng kể nhất là ý chí kiên định, năng lực ứng phó
+với biến động và khả năng nhận diện – giải quyết vấn đề một
+cách sâu sát.
+Cụ thể hơn, trong năm 2023, sau khi đánh giá được biến động
+dữ dội của thị trường, PDR đã quyết liệt triển khai chiến lược
+tái cấu trúc danh mục đầu tư và tài chính. Trong đó, chấp nhận
+cả việc hy sinh quyền lợi ngắn hạn như bán một số tài sản,
+chuyển nhượng cổ phần tại một số công ty con… để tập trung
+cho những những vấn đề cấp bách hơn.
+Kết quả cụ thể là PDR đã tháo gỡ được áp lực về tài chính, đặc
+biệt là tất toán thành công toàn bộ trái phiếu đúng hạn và trước
+hạn trước khi năm 2023 kết thúc, trở thành doanh nghiệp bất
+động sản hiếm hoi sạch nợ trái phiếu trong bối cảnh cực kỳ ảm
+đạm của toàn ngành.
+Qua đây, PDR đã chứng minh thực tế uy tín và tinh thần trách
+nhiệm trước các bên liên quan. Suốt giai đoạn đầy thách thức
+vừa qua, ngay cả trong những thời điểm chật vật nhất, PDR
+cũng vẫn luôn giữ đúng uy tín, không vi phạm hay phá vỡ bất kỳ
+cam kết nào, đặc biệt là quyền lợi của các trái chủ.
+Chính tinh thần và năng lực đó đã giúp PDR gia tăng niềm tin
+với các bên liên quan, mở ra những cơ hội đồng hành và hợp
+tác mới, dần cân bằng cục diện và trở thành một trong những
+doanh nghiệp bất động sản có triển vọng phục hồi sớm nhất
+hiện nay.
+THÔNG ĐIỆP CỦA
+CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
 
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-(B)D.1.1
-Báo cáo tài chính hàng năm được kiểm toán có được công bố 
-công khai trong vòng 60 ngày kể từ khi kết thúc năm tài chính?
-Báo cáo tài chính hàng năm được kiểm toán công bố trong vòng 10 
-ngày kể từ ngày ký BCTC theo quy định TT 96/2020/TT-BCTC.
-(B)E.1.2
-Công ty có công bố chính sách và các mục tiêu có thể đo 
-lường để thực thi sự đa dạng của HĐQT và báo cáo tiến độ 
-đạt được?
-PDR đang trong quá trình hoàn thiện các mục tiêu này mặc dù 
-đã có sự đa dạng về chuyên môn, kỹ năng.
-(P) CÁC CÂU HỎI PHẠT
-(P)A.1.1
-Công ty không hoặc sơ suất không đối xử công bằng đối với 
-việc mua lại cổ phần đối với tất cả các cổ đông?
-Điều lệ công ty và Quy chế nội bộ về QTCT có quy định rõ ràng 
-về việc đối xử công bằng với việc mua lại cổ phần đối với tất cả 
-các cổ đông.
-(P)A.2.1
-Có bằng chứng gì về rào cản đối với việc cổ đông không được 
-trao đổi thông tin hoặc tham khảo ý kiến của các cổ đông 
-khác?
-PDR không ghi nhận bất kỳ rào cản nào.
-(P)A.3.1
-Công ty có đưa nội dung bổ sung và không được thông báo 
-trước trong chương trình  nghị sự vào thông báo ĐHĐCĐ/
-ĐHĐCĐ bất thường?
-PDR luôn thông báo trước cho cổ đông các nội dung bổ sung 
-trong chương trình ĐHĐCĐ/ĐHĐCĐ bất thường tại mục Thông 
-báo cổ đông trên website phatdat.com.vn. theo đúng quy định.
-(P)A.3.2
-Chủ tịch HĐQT và Chủ tịch các Ủy ban và TGĐ có vắng mặt 
-trong kỳ ĐHĐCĐ gần đây nhất không?
-PDR thực hiện tốt điều này. Chủ tịch HĐQT và Chủ tịch các Ủy 
-ban và TGĐ không vắng mặt trong kỳ ĐHĐCĐ gần đây nhất.
-(P)A.4.1
-Thỏa thuận cổ đông?
-Tại PDR không tồn tại thỏa thuận này.
-(P)A.4.2
-Giới hạn biểu quyết?
-PDR không có việc giới hạn biểu quyết như quy định cụ thể 
-trong Chương trình - thể lệ/quy chế biểu quyết tại ĐHĐCĐ 
-thường niên.
-(P)A.4.3
-Cổ phiếu nhiều quyền biểu quyết?
-Tại PDR không tồn tại loại cổ phiếu có nhiều quyền biểu quyết.
-(P)B.1.1
-Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên 
-quan đến thành viên HĐQT, Ban điều hành và nhân viên công 
-ty trong ba năm qua?
-PDR không ghi nhận bất kỳ vi phạm nào.
-(P)B.2.1
-Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy 
-định liên quan đến GDBLQ đáng kể hoặc trọng yếu trong ba 
-năm trước không?
-PDR không ghi nhận bất kỳ vi phạm không tuân thủ luật pháp nào. 
-(P)B.2.2
-Có bất kỳ GDBLQ nào có thể được phân loại là hỗ trợ tài chính 
-(nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) 
-cho các đơn vị không phải là công ty con?
-PDR không ghi nhận bất kỳ giao dịch với bên liên quan nào 
-được phân loại là hỗ trợ tài chính.
-(P)C.1.1
-Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người 
-tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường?
-PDR không ghi nhận bất kỳ vi phạm nào.
-(P)C.2.1
-Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản 
-lý vì đã không công bố thông tin trong khoảng thời gian được 
-yêu cầu đối với các sự kiện trọng yếu?
-PDR tuân thủ chặt chẽ quy định về CBTT và không ghi nhận bất 
-kì vi phạm nào.
-(P)D.1.1
-Công ty có nhận được "ý kiến loại trừ" trong Báo cáo kiểm 
-toán độc lập?
-BCTC được kiểm toán của PDR được đơn vị kiểm toán E&Y đưa 
-ra ý kiến "Chấp nhận toàn phần".
-(P)D.1.2
-Công ty có nhận được "ý kiến bất lợi" trong Báo cáo kiểm toán 
-độc lập?
-BCTC được kiểm toán của PDR được đơn vị kiểm toán E&Y đưa 
-ra ý kiến "Chấp nhận toàn phần".
-(P)D.1.3
-Công ty có nhận được "từ chối đưa ra ý kiến" trong Báo cáo 
-kiểm toán độc lập?
-BCTC được kiểm toán của PDR được đơn vị kiểm toán E&Y đưa 
-ra ý kiến "Chấp nhận toàn phần".
-(P)D1.4
-Công ty có sửa đổi BCTC trong năm vừa qua vì những lý do 
-khác với lý do thay đổi trong chính sách kế toán?
-PDR tuân thủ chặt chẽ và không sửa đổi BCTC.
-(P)E.1.1
-Có bằng chứng gì là công ty đã không tuân thủ quy tắc và quy 
-định nào về niêm yết trong năm qua ngoài các quy định về 
-công bố thông tin?
-PDR không ghi nhận bất cứ vi phạm nào.
-(P)E.1.2
-Có trường hợp nào mà thành viên HĐQT không điều hành đã 
-từ nhiệm và nêu ra bất kỳ lo ngại nào liên quan đến quản trị
-Năm 2023 PDR không có trường hợp nào.
-(P)E.2.2
-Công ty đã không xác định rõ ai là thành viên HĐQT độc lập?
-PDR xác định rõ thành viên độc lập HĐQT theo quy định và đáp 
-ứng tốt chỉ tiêu này.
-(P)E.2.3
-Công ty có bất kỳ thành viên HĐQT độc lập nào giữ vai trò 
-quản trị ở tổng cộng hơn 5 HĐQT của các công ty đại chúng?
-PDR không ghi nhận bất cứ trường hợp nào.
-(P)E.3.1
-(Trong hai năm trước) Có thành viên HĐQT hay lãnh đạo điều 
-hành cấp cao nào từng là nhân viên hoặc thành viên hợp danh 
-của Công ty Kiểm toán độc lập hiện tại?
-PDR không ghi nhận bất cứ trường hợp nào.
-(P)E.(3.4)
-Chủ tịch HĐQT có phải là TGĐ của Công ty trong 3 năm qua 
-không?
-PDR đã tách bạch vị trí chủ tịch và TGĐ từ 04/2020.
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-BẢNG ĐÁNH GIÁ DÀI HẠN 
-A. QUYỀN CỦA CỔ ĐÔNG
-A.1.1
-Công ty có trả cổ tức (kỳ giữa và kỳ cuối hàng năm) một cách bình 
-đẳng và kịp thời; nghĩa là, tất cả cổ đông được đối xử bình đẳng và 
-được trả trong vòng 30 ngày sau khi được (i) công bố đối với cổ tức 
-giữa kỳ và (ii) được cổ đông thông qua tại các cuộc họp ĐHĐCĐ 
-đối với cổ tức cuối năm? Trong trường hợp Công ty công bố 
-phương án chọn lựa chi trả cổ tức cổ phiếu (script dividend), Công 
-ty có trả cổ tức trong vòng 60 ngày kể từ ngày công bố hay không? 
-Trong năm 2023 Công ty không chia cổ tức. LNST lũy kế đến 
-31/12/2023 dự kiến sẽ được chia cổ tức cho cổ đông bằng cổ phiếu tối 
-thiểu 15% vốn điều lệ.
-A.2.2
-Công ty có cho phép cổ đông không có quyền kiểm soát quyền 
-đề cử thành viên/ủy viên HĐQT?
-Tại ĐHĐCĐ thường niên của PDR, việc bầu thành viên HĐQT 
-đều có Thông báo đề cử, ứng cử tại mục Tài liệu Đại hội đồng cổ 
-đông thường niên trên website Công ty để quy định thể lệ đề 
-cử rõ ràng cho cổ đông, theo đó các cổ đông không có quyền 
-kiểm soát có quyền lập thành nhóm cổ đông để thực hiện quyền 
-đề cử.
-A.3.1
-Trong các trường hợp sáp nhập, mua lại và/hoặc thâu tóm cần 
-được cổ đông thông qua, thành viên/ủy viên HĐQT của Công 
-ty được đề nghị có bổ nhiệm một bên độc lập đánh giá sự hợp 
-lý của giá giao dịch sáp nhập, mua lại?
-Tại PDR chưa phát sinh trường hợp này.
-A.8.1
-Công ty có chính sách yêu cầu một tiểu ban bao gồm thành 
-viên độc lập HĐQT rà soát giao dịch bên liên quan trọng yếu/
-quan trọng để xác định liệu những giao dịch đó có phục vụ lợi 
-ích tốt nhất của Công ty và cổ đông không?
-PDR có Ban KTNB trực thuộc UBKT thường xuyên phối hợp 
-với các phòng/ban liên quan để rà soát giao dịch với bên liên 
-quan và báo cáo cho UBKT.
-A.8.2
-Công ty có chính sách yêu cầu thành viên HĐQT không tham 
-gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch 
-mà thành viên đó có xung đột lợi ích?
-PDR không cho thành viên HĐQT có xung đột lợi ích tham gia 
-biểu quyết trong các cuộc họp về giao dịch liên quan. Không có 
-cơ sở luật định để yêu cầu thành viên HĐQT không tham gia.
-A.8.3
-Công ty có chính sách về khoản vay cho thành viên HĐQT, 
-trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các 
-khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi 
-suất thị trường?
-PDR tuân thủ các quy định khi cấp các khoản vay cho thành 
-viên HĐQT theo Khoản 2, Điều 44 ĐLCT với mức lãi suất được 
-tham chiếu theo mức trung bình của các ngân hàng lớn phù 
-hợp với thị trường.
-A.9.1
-Công ty có công bố về việc GDBLQ được thực hiện theo cách 
-đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị 
-trường?
-PDR đảm bảo tiêu chí này.
-C. PHÁT TRIỂN BỀN VỮNG VÀ BỀN BỈ
-C.1.1
-Công ty có xác định/báo cáo các chủ đề ESG mà có tính trọng 
-yếu đối với chiến lược cốt lõi của tổ chức không?
-Được thể hiện trong Báo cáo QTCT và mục Phát triển bền 
-vững của BCTN.
-C.1.2
-Công ty có xác định biến đổi khí hậu là một vấn đề quan trọng 
-hay không?
-C.1.3
-Công ty có áp dụng khuôn khổ hoặc tiêu chuẩn báo cáo được 
-quốc tế công nhận khi lập báo cáo phát triển bền vững không (ví 
-dụ: GRI, Báo cáo tích hợp, SASB, Tiêu chuẩn công bố thông tin 
-bền vững IFRS)?
-C.1.4
-Các mục tiêu phát triển bền vững định lượng có được công bố 
-không?
-C.1.5
-Các kết quả thực hiện các mục tiêu phát triển bền vững được đề 
-xuất có được công bố không?
-C.1.6
-Có thông tin cho thấy Báo cáo Phát triển Bền vững đã được 
-xem xét và/hoặc phê duyệt bởi HĐQT hoặc một Ủy ban cấp 
-HĐQT không?
-C.2.1
-Công ty có thiết lập kênh tương tác để thường xuyên tiếp 
-nhận và phản hồi các mối quan tâm của các bên hữu quan bên 
-trong về các vấn đề ESG/phát triển bền vững trọng yếu không?
-C.2.2
-Công ty có thiết lập kênh tương tác để thường xuyên tiếp nhận 
-và phản hồi các mối quan tâm của các bên hữu quan bên ngoài 
-về các vấn đề ESG/phát triển bền vững trọng yếu không?
-C.3.1
-HĐQT có đánh giá hàng năm rằng cơ cấu nợ vay của công ty 
-có tương thích với các mục tiêu chiến lược và khẩu vị rủi ro 
-của công ty hay không?
-C.7.1
-Công ty có chính sách tố giác bao gồm quy trình khiếu nại 
-dành cho nhân viên và các bên liên quan về hành vi không hợp 
-pháp (kể cả tham nhũng) hoặc không phù hợp đạo đức và cung 
-cấp thông tin liên hệ khiếu nại chi tiết được đề cập trên trang 
-web Công ty hoặc BCTN?
-Được quy định trong Thỏa ước lao động tập thể và Bộ quy tắc 
-ứng xử "Chuẩn mực Người Phát Đạt".
-C.7.2
-Công ty có chính sách hay thủ tục để bảo vệ nhân viên/cá nhân 
-khỏi bị trả đũa vì đã tiết lộ hành vi không hợp pháp/không phù 
-hợp đạo đức ?
-Được quy định trong Thỏa ước lao động tập thể và Bộ quy tắc 
-ứng xử "Chuẩn mực Người Phát Đạt".
-D. CÔNG BỐ THÔNG TIN MINH BẠCH
-D.1.2
-Công ty có công bố việc sở hữu cổ phần trực tiếp và (được cho 
-là) gián tiếp của cổ đông lớn?
-Công ty tuân thủ việc công bố thông tin về cổ đông lớn  trên 
-trang thông tin của SSC, HOSE và website Công ty tại mục 
-Thông báo cổ đông, Báo cáo tình hình quản trị công ty định kỳ. 
-Ngoài ra, Công ty tuân thủ việc báo cáo định kỳ hàng quý về 
-Danh sách cổ đông lớn cho HOSE.
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-125
-124
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+20 năm hình thành và phát triển, PDR là doanh nghiệp có trải nghiệm thương trường sâu
+sắc, nội lực vững vàng, nền tảng doanh nghiệp chắc chắn, quỹ đất đẹp dồi dào và năng lực
+phát triển dự án đã được chứng thực.
+PDR tự tin tiếp tục hành trình vượt qua thách thức và biến động của thị trường, quyết tâm
+kiến tạo những triển vọng mới để củng cố vị thế doanh nghiệp BĐS hàng đầu cả về quy mô
+và giá trị với vị thế một nhà phát triển bất động sản chuyên nghiệp.
 
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-E.4.3
-Có bất kỳ thành viên HĐQT là nguyên TGĐ/Giám đốc điều 
-hành của Công ty trong 2 năm trước?
-Ông Bùi Quang Anh Vũ vừa là thành viên HĐQT vừa là TGĐ từ 
-năm 04/2020.
-E.4.5
-Nếu chủ tịch không phải là thành viên độc lập HĐQT, HĐQT 
-có bầu chọn Trưởng thành viên độc lập (Lead independent 
-director) và vai trò của vị trí này có được xác định rõ ràng?
-Công ty nhận thấy tầm quan trọng của việc bầu chọn, xác định 
-vai trò cụ thể của vị trí Trưởng thành viên độc lập HĐQT và sẽ 
-từng bước hoàn thiện. 
-E.5.3
-Công ty có công bố cách thức thành viên HĐQT xây dựng quy 
-hoạch kế nhiệm cho vị trí TGĐ/Giám đốc Điều hành/quản lý 
-chủ chốt?
-PDR xây dựng/quy hoạch kế nhiệm cho vị trí TGĐ/quản lý chủ 
-chốt thông qua các quy định nội bộ của Công ty. 
-E.5.4
-Thành viên HĐQT có thực hiện đánh giá hiệu quả hàng năm 
-đối với TGĐ/Giám đốc Điều hành/quản lý chủ chốt?
-PDR trình bày chi tiết trên BCTN - phần Báo cáo đánh giá của 
-HĐQT.
-E.5.5
-Công ty có tiến hành đánh giá năng lực hằng năm đối với 
-HĐQT và công bố quy trình đánh giá cũng như các tiêu chí 
-dùng trong đánh giá?
-PDR tiến hành đánh giá năng lực hằng năm đối với từng thành 
-viên HĐQT và được báo cáo nội bộ. PDR sẽ xem xét đăng tải 
-báo cáo ra công chúng trong tương lai.
-E.5.6
-Công ty có tiến hành đánh giá năng lực hằng năm đối với từng 
-thành viên HĐQT và công bố quy trình đánh giá cũng như các 
-tiêu chí dùng trong đánh giá?
-PDR tiến hành đánh giá năng lực hằng năm đối với từng thành 
-viên HĐQT và được báo cáo nội bộ. PDR sẽ xem xét đăng tải 
-báo cáo ra công chúng trong tương lai.
-E.5.7
-Công ty có tiến hành đánh giá năng lực hằng năm đối với các 
-Ủy ban của HĐQT và công bố quy trình đánh giá cũng như các 
-tiêu chí dùng trong đánh giá?
-PDR tiến hành đánh giá năng lực hằng năm đối với các tiểu 
-ban của HĐQT và được báo cáo nội bộ. PDR sẽ xem xét đăng 
-tải báo cáo ra công chúng trong tương lai.
-B. CÁC CÂU HỎI THƯỞNG
-(B)C.1.1
-Cách thức quản lý các rủi ro và cơ hội liên quan đến biến đổi 
-khí hậu có được công bố không?
-Mục Phát triển bền vững trong BCTN
-(B)C.1.2
-Báo cáo phát triển bền vững của công ty có được kiểm định 
-bởi tổ chức độc lập không?
-(B)C.1.3
-Công ty có công bố kênh tương tác/đối thoại với các bên hữu 
-quan và cách công ty phản hồi các mới quan ngại về ESG của 
-các bên hữu quan không?
-(B)C.1.4
-Công ty có thành lập một đơn vị/bộ phận/ủy ban chịu trách 
-nhiệm giám sát/quản lý các vấn đề phát triển bền vững không?
-(B)C.1.5
-Công ty có công bố các hoạt động thực tế của HĐQT đối với 
-việc quản trị các rủi ro và cơ hội liên quan đến phát triển bền 
-vững không?
-(B)C.1.6
-Công ty có kết nối chính sách thu nhập của thành viên HĐQT 
-điều hành và các quản lý cấp cao với hiệu quả hoạt động quản 
-trị bền vững trong năm trước không?
-(B)C.1.7
-Chính sách/hệ thống tố giác của công ty có được quản lý  bởi 
-các bên/tổ chức độc lập không?
-Công ty có chính sách/ hệ thống tố giác được quản lý bởi 
-HĐQT và Ban TGĐ.
-(B)E.1.1
-Công ty có tối thiểu một thành viên HĐQT độc lập là nữ?
-Báo cáo QTCT định kỳ và BCTN.
-(B)E.2.1
-Ủy ban bổ nhiệm có bao gồm đa số thành viên HĐQT độc lập?
-Việc bổ nhiệm các chức danh quản lý cấp cao có sự tham gia 
-và phê duyệt của HĐQT.
-(B)E.2.2
-Ủy ban bổ nhiệm có thực hiện quy trình xây dựng tiêu chí chất 
-lượng các thành viên HĐQT phù hợp với định hướng chiến 
-lược của công ty?
-(B)E. 3.1
-Công ty có sử dụng các công ty tìm kiếm hay nguồn ứng cử 
-viên độc lập bên ngoài (như cơ sở dữ liệu thành viên HĐQT do 
-các viện thành viên HĐQT hay hiệp hội cổ đông thiết lập) khi 
-tìm kiếm ứng cử viên cho thành viên HĐQT?
-PDR có sử dụng các công ty tìm kiếm hay nguồn ứng cử viên 
-độc lập bên ngoài khi tìm kiếm ứng cử viên cho thành viên 
-HĐQT.
-(B)E.4.1
-Công ty có số thành viên HĐQT độc lập không điều hành 
-chiếm trên 50% số thành viên HĐQT với chủ tịch là thành viên 
-độc lập?
-PDR có số thành viên độc lập HĐQT và không điều hành 
-chiếm trên 50% số thành viên HĐQT. 
-(B)E.5.1
-HĐQT có mô tả quy trình quản trị về vấn đề liên quan công 
-nghệ thông tin như gián đoạn, an ninh mạng, khôi phục thảm 
-họa, để đảm bảo rằng tất cả các rủi ro chính được xác định, 
-quản lý và báo cáo cho HĐQT?
-Quy chế hoạt động của HĐQT và BCTN.
-(B)E.6.1 
-Công ty có Ủy ban QLRR riêng biệt?
-PDR đã có UBKT và Ban KTNB trực thuộc UBKT với việc xây 
-dựng chính sách QLRR là một trong những nhiệm vụ trọng tâm. 
-(P) CÁC CÂU HỎI PHẠT
-(P)A.5.1
-Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu chéo có 
-tồn tại không?
-PDR không ghi nhận cấu trúc sở hữu kim tự tháp hay cấu trúc 
-sở hữu chéo.
-(P)C.2.2
-Có bằng chứng nào cho thấy công ty đang tham gia vào các 
-hoạt động quảng cáo xanh (greenwashing) không?
-PDR không tham gia vào các hoạt động quảng cáo xanh 
-(greenwashing).
-(P)E.2.1
-Công ty có giới hạn về nhiệm kỳ tối đa 9 năm hoặc ít hơn 
-hoặc tối đa 2 nhiệm kỳ 5 năm (1) đối với mỗi thành viên 
-HĐQT độc lập? 
-(1)Nhiệm kỳ 5 năm phải được yêu cầu bởi các đạo luật đã có từ 
-trước khi đưa ra Thẻ Điểm QTCT ASEAN vào năm 2011.
-Khoản 2, Điều 28 ĐLCT.
-(P)E.4.2
-Các thành viên độc lập không điều hành có được nhận các 
-quyền chọn mua cổ phiếu, cổ phiếu thưởng không?
-PDR không ghi nhận bất kỳ trường hợp nào.
-Câu hỏi
-Nội dung câu hỏi
-Tình hình tuân thủ
-Cơ sở đánh giá cho năm 2023
-2022
-2023
-D.1.3
-Công ty có công bố việc sở hữu cổ phần trực tiếp và (được cho 
-là) gián tiếp của thành viên HĐQT?
-Công ty tuân thủ việc công bố thông tin về sở hữu cổ phần 
-trực tiếp và (được cho là) gián tiếp của thành viên HĐQT trên 
-trang thông tin của SSC, HOSE và website Công ty tại mục 
-Thông báo cổ đông, Báo cáo QTCT định kỳ.
-D.1.4
-Công ty có công bố việc sở hữu cổ phần trực tiếp và (được cho là) 
-giàn tiếp của ban điều hành?
-Công ty tuân thủ việc công bố thông tin về sở hữu cổ phần 
-trực tiếp và (được cho là) gián tiếp của Ban điều hành trên 
-trang thông tin của SSC, HOSE và website Công ty tại mục 
-Thông báo cổ đông, Báo cáo QTCT định kỳ.
-E. VAI TRÒ CỦA HỘI ĐỒNG QUẢN TRỊ 
-E.2.4
-Thành viên độc lậpHĐQT có chiếm tối thiểu 50% số thành viên 
-HĐQT?
-PDR hiện có 1/3 thành viên HĐQT là thành viên độc lập 
-HĐQT
-Hiện tại, số lượng thành viên HĐQT là sáu (06) thành viên. 
-Tổng số thành viên độc lập của Công ty là hai (02) thành viên 
-được thể hiện rõ trong Báo cáo QTCT và BCTN.
-E.2.5
-Công ty có giới hạn về nhiệm kỳ tối đa 9 năm hoặc ít hơn hoặc tối 
-đa 2 nhiệm kỳ 5 năm (1) đối với mỗi thành viên HĐQT độc lập?
-(1)Nhiệm kỳ 5 năm phải được yêu cầu bởi các đạo luật đã có từ 
-trước khi đưa ra Thẻ Điểm QTCT ASEAN vào năm 2011.
-Khoản 2, Điều 28 ĐLCT.
-E.2.8
-Công ty có Ủy ban bổ nhiệm hay không?
-Việc bổ nhiệm các chức danh quản lý cấp cao có sự tham gia 
-và phê duyệt của HĐQT
-E.2.9
-Ủy ban bổ nhiệm có bao gồm đa số thành viên HĐQT độc lập?
-E.2.10
-Chủ tịch của Ủy ban bổ nhiệm có phải là thành viên HĐQT 
-độc lập?
-E.2.11
-Công ty có công bố quy chế hoạt động/cơ cấu quản trị/điều lệ 
-của Ủy ban bổ nhiệm?
-E. 2.12
-Sự tham gia của thành viên trong các cuộc họp của Ủy ban bổ 
-nhiệm có được công bố công khai, nếu có. Ủy ban bổ nhiệm có 
-họp tối thiểu hai lần trong năm?
-E.2.13
-Công ty có Ủy ban thù lao lương thưởng không?
-Thù lao, lương thưởng do HĐQT quyết định.
-E.2.14
-Ủy ban thù lao lương thưởng có bao gồm toàn bộ thành viên 
-HĐQT không điều hành với đa số thành viên/ủy viên HĐQT độc 
-lập?
-E.2.15
-Chủ tịch của Ủy ban thù lao lương thưởng có phải là thành 
-viên HĐQT độc lập?
-E.2.16
-Công ty có công bố quy chế hoạt động/cơ cấu quản trị/điều lệ 
-của Ủy ban thù lao lương thưởng?
-E.2.17
-Sự tham gia của thành viên trong các cuộc họp của Ủy ban thù 
-lao lương thưởng  có được công bố công khai, nếu có. Ủy ban 
-thù lao lương thưởng  có họp tối thiểu hai lần trong năm?
-E.2.18
-Công ty có UBKT không?
-Từ năm 2021, PDR đã thành lập UBKT.
-E.2.19
-UBKT có bao gồm toàn bộ thành viên HĐQT không điều hành 
-với đa số thành viên/ủy viên độc lập HĐQT?
-Các thành viên của UBKT đều là thành viên HĐQT không điều 
-hành, trong đó có 2 thành viên độc lập HĐQT
-E.2.20
-Chủ tịch của UBKT có phải là thành viên độc lập HĐQT?
-Chủ tịch của UBKT tại PDR là thành viên độc lập HĐQT.
-E.2.21
-Công ty có công bố quy chế hoạt động/cơ cấu quản trị/điều lệ 
-của UBKT?
-Quy chế hoạt động của UBKT được công bố tại website của 
-Công ty.
-E.2.22
-Tối thiểu một thành viên độc lập HĐQT của UBKT có chuyên 
-môn về kế toán không (trình độ chuyên môn hoặc kinh nghiệm 
-kế toán)?
-02 thành viên độc lập của UBKT có kiến thức và kinh nghiệm 
-về kế toán. 
-E.2.23
-Sự tham gia của thành viên trong các cuộc họp của UBKT có 
-được công bố công khai, nếu có, UBKT có họp tối thiểu bốn 
-lần trong năm?
-Sự tham gia của thành viên trong các cuộc họp của UBKT 
-được công bố công khai tại Báo cáo QTCT định kỳ 6 tháng và 
-hàng năm (BC QTCT được CBTT tại wesite Công ty: mục Cổ 
-đông/Thông báo cổ đông; wesite UBCKNN và HOSE). UBKT 
-đã tổ chức 09 cuộc họp trong năm 2023. 
-E.2.24
-UBKT có trách nhiệm chính trong việc đưa ra khuyến nghị về 
-bổ nhiệm và miễn nhiệm kế toán độc lập?
-Thực hiện theo Quy chế hoạt động của Ủy ban kiểm toán, 
-hằng năm, UBKT trình HĐQT thông qua (trước khi trình lên 
-Đại hội đồng cổ đông thường niên phê duyệt) về việc lựa chọn 
-đơn vị kiểm toán độc lập.
-E.3.9
-Công ty có công bố các tiêu chí sử dụng để lựa chọn thành 
-viên HĐQT mới?
-PDR công bố các tiêu chí để lựa chọn thành viên HĐQT mới 
-trong Thông báo đề cử, ứng cử trong mục Tài liệu ĐHĐCĐ 
-thường niên trên website công ty..
-E.3.10
-Công ty có mô tả quy trình được áp dụng trong việc bổ nhiệm 
-thành viên HĐQT mới?
-Quy trình bầu thành viên HĐQT mới được công bố tại Quy chế 
-bầu cử trong mục Tài liệu ĐHĐCĐ thường niên trên website 
-công ty.
-E.3.13
-Công ty có các chính sách, tiêu chuẩn có thể đo lường để gắn 
-mức thù lao chi trả dựa trên thành tích của các thành viên 
-HĐQT điều hành hoặc Ban TGĐ với lợi ích lâu dài của Công ty, 
-chẳng hạn như áp dụng điều khoản thu hồi, chính sách khoản 
-thưởng hoãn lại (Clawback, provision, deffered bonus)?
-PDR có công bố về thù lao chi trả dựa trên kết quả kinh doanh 
-và được ĐHĐCĐ thông qua.
-E.3.16
-Việc bổ nhiệm và miễn nhiệm kiểm toán nội bộ có phải được 
-UBKT thông qua?
-HĐQT của PDR bổ nhiệm Trường/Phó Ban KTNB và kiểm toán 
-nội bộ trên cơ sở đề xuất của Chủ tịch UBKT.
-E.4.2
-Chủ tịch có phải là thành viên HĐQT độc lập?
-Thành viên độc lập HĐQT của PDR không phải là Chủ tịch. 
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-127
-126
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+Năm 2024, PDR tròn hai thập kỷ hình thành và phát triển. Sau 20 năm
+hiện diện trên thị trường, định hình được một doanh nghiệp có tầm vóc,
+một tên tuổi có giá trị cao, những dự án có sức ảnh hưởng rộng... PDR
+đang tích cực kiến tạo một tương lai mới với khát vọng mạnh mẽ và
+những mục tiêu vượt trội. Tất cả trải nghiệm thăng trầm đều được biến
+thành hành trang để PDR vững vàng và kiên định hơn trên vai trò một
+nhà phát triển dự án BĐS chuyên nghiệp.
+Công ty Cổ phần Phát triển Bất động sản Phát Đạt, được gọi tắt là PDR, được thành lập từ năm 2004
+với tôn chỉ nhất quán là kiến tạo không gian sống giàu giá trị thông qua sản phẩm BĐS.
+Tôn chỉ trên được thực thi cụ thể bằng việc đảm bảo tất cả dự án của PDR đều hội đủ các tiêu chí tối
+quan trọng như vị trí đắc địa, quy hoạch hài hòa, công năng tối ưu, chất lượng bền vững, giá trị pháp lý
+rõ ràng...
+Sau hai thập niên, thông qua các dự án đã thành công và xác lập dấu ấn vững chắc trên thị trường, PDR
+đã chứng minh tính thực tế của cam kết phát triển những sản phẩm BĐS có khả năng được thị trường
+hấp thụ nhanh nhất và giữ được giá trị bền vững trước biến động của nền kinh tế - xã hội. Tất cả dự án
+của PDR đều có ý nghĩa lớn trong việc thúc đẩy cơ hội phát triển cho địa phương, nâng cao tiêu chuẩn
+dành cho sản phẩm BĐS trong mỗi phân khúc và mang đến trải nghiệm mới cho khách hàng.
+Trong quá trình phát triển, PDR đề cao tính hiệu quả, tốc độ và tinh thần tiên phong song vẫn luôn cân
+bằng với tính bền vững, các giá trị về chiều sâu và vai trò tích cực của một doanh nghiệp BĐS chân
+chính. Qua đó, mỗi dự án của PDR đều thỏa mãn lợi ích chính đáng cho cả doanh nghiệp, nhà đầu tư,
+cổ đông lẫn khách hàng, cộng đồng và là động lực góp phần thúc đẩy nền kinh tế - xã hội tại các địa
+phương.
+Trong những giai đoạn thăng trầm của ngành BĐS, đặc biệt là hai năm đầy thách thức khắc nghiệt vừa
+qua, PDR phải ứng biến linh hoạt để bảo vệ doanh nghiệp song vẫn luôn nỗ lực giữ vững tôn chỉ và giá
+trị cốt lõi của mình. Điều này giúp Công ty không chỉ vượt qua sóng gió, mà còn bảo toàn được phẩm
+chất, nâng cao uy tín và nắm giữ những cơ hội phục hồi sớm nhất.
+Sau cơn biến động dữ dội, thị trường BĐS đang cần tư duy mới của các doanh nghiệp – nhà phát triển dự
+án. PDR nhận thức rõ nhu cầu đó nên cũng hướng tới tương lai bằng một tâm thế mới. Trong chiến lược
+phát triển sản phẩm, PDR đặt yêu cầu cao hơn về tính thẩm mỹ, giá trị văn hóa, tiêu chuẩn nhân văn, các chỉ
+tiêu liên quan đến môi trường thiên nhiên... để kiến tạo những không gian sống giàu giá trị tinh thần hơn,
+tiện nghi cao hơn, đáp ứng và dẫn dắt phong cách sống văn minh của cư dân đô thị hiện đại.
+Đến nay, PDR đã đặt dấu ấn tại các thị trường trọng điểm TP.HCM, Quảng Ngãi, Bình Định và đang thúc đẩy
+tốc độ phủ sóng các dự án mới tại Đà Nẵng, Bình Dương, Bà Rịa – Vũng Tàu, Phú Quốc... Sản phẩm của PDR
+hiện nay cũng đã đa dạng từ lĩnh vực BĐS dân dụng đến du lịch – nghỉ dưỡng. Tất cả dự án đều được đầu tư
+và phát triển cẩn trọng bằng tầm nhìn và năng lực của một nhà phát triển BĐS chuyên nghiệp.
+Với lịch sử và trải nghiệm dày dặn, nội lực hùng hậu, nền tảng doanh nghiệp vững vàng, quỹ đất đẹp dồi
+dào và năng lực phát triển dự án đã được chứng thực, PDR tự tin tiếp tục hành trình vượt qua thách
+thức và biến động của thị trường, quyết tâm kiến tạo những triển vọng mới để củng cố vị thế doanh
+nghiệp BĐS hàng đầu cả về quy mô và giá trị.
+PDR ĐÓN TUỔI HAI MƯƠI,
+HƯỚNG TỚI TƯƠNG LAI MỚI
 
-SỰ THAM GIA CỦA CÁC BÊN LIÊN QUAN
-GR 102 - 43: QUY TRÌNH XÁC ĐỊNH CÁC BÊN LIÊN QUAN
-PDR xác định các bên liên quan thông qua các tác động và ảnh hưởng sau đây:  
-GR 102 - 42: NHẬN DIỆN VÀ LỰA CHỌN CÁC BÊN LIÊN QUAN 
-PDR liệt kê tất cả những nhóm liên quan bị tác động bởi hoạt động của Công ty, có mối quan tâm và có ảnh hưởng nhất định đến 
-sự phát triển bền vững của Công ty. Sau đó dựa trên mức độ tương tác từ thấp đến cao của các nhóm với PDR, chúng tôi xác 
-định các bên liên quan trọng yếu.
-Danh sách các bên liên quan đến hoạt động phát triển bền vững của PDR được xác định như sau: 
-KHÁCH HÀNG
-Là người sử dụng trực tiếp sản phẩm do PDR tạo ra.
-ĐỐI TÁC
-Các đơn vị cung cấp dịch vụ, giải pháp liên quan đến phát triển dự án bất 
-động sản, các nhà thầu thi công, các đơn vị cung ứng vật liệu, trang thiết bị…
-CỔ ĐÔNG VÀ  
-NHÀ ĐẦU TƯ
-Là cá nhân hoặc tổ chức nắm giữ quyền sở hữu hợp pháp một phần hoặc 
-toàn bộ phần vốn góp. Có quyền lợi và nghĩa vụ gắn liền với kết quả hoạt 
-động của PDR. 
-NGƯỜI LAO ĐỘNG
-Một trong những yếu tố nòng cốt cấu thành nên lực lượng sản xuất của Công ty. 
-CỘNG ĐỒNG
-Được hình thành trên cơ sở các mối liên hệ giữa cá nhân và tập thể.
-CHÍNH PHỦ
-Các cơ quan pháp lý hoặc cơ quan quản lý Nhà nước tham gia vào công tác 
-giám định và đưa ra các quy định.
-ĐỐI THỦ  
-CẠNH TRANH
-Những đối thủ có cùng phân khúc khách hàng, cùng sản phẩm, cùng giá và có 
-sức mạnh cạnh tranh trên cùng phân khúc thị trường của PDR.
-CƠ QUAN BÁO CHÍ 
-TRUYỀN THÔNG
-Là những cơ quan có hoạt động về xuất bản báo chí, truyền thông. 
-ĐỊNH CHẾ TÀI CHÍNH
-Là những cơ quan có hoạt động quan hệ về giải pháp tài chính.
-PHÂN TÍCH HOẠT ĐỘNG
-ĐỀ XUẤT DANH SÁCH
-Phân tích các hoạt động trong chuỗi 
-giá trị của dự án BĐS và dự án BT.
-Đề xuất danh sách các tổ chức, cá nhân 
-có liên quan đến từng hoạt động trong 
-chuỗi giá trị, chú trọng đến các tổ chức, 
-cá nhân đã từng có quan hệ làm việc, đối 
-tác với Công ty và các tổ chức, cá nhân 
-có kinh nghiệm và năng lực trong từng 
-hoạt động.
-THẢO LUẬN VÀ ĐÁNH GIÁ
-Thảo luận và đánh giá về các bên liên 
-quan thông qua phương pháp chuyên 
-môn kết hợp với các số liệu sẵn có.
-XÁC ĐỊNH DANH SÁCH
-Xác định danh sách các bên liên quan 
-trong từng hoạt động và sắp xếp theo 
-thứ tự ưu tiên.
-GR102-43
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-129
-128
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+UY TÍN
+TRÁCH NHIỆM
+HIỆU QUẢ
+giá trị hàng đầu, thận trọng với lời hứa
+của mình, nỗ lực hết sức để hoàn
+thành lời hứa và cam kết.
+Người Phát Đạt luôn hành xử bằng
+thân, đồng nghiệp, công ty, gia đình và
+xã hội, không quản ngại khó khăn để
+hoàn thành tốt nhiệm vụ và vai trò.
+Người Phát Đạt luôn làm việc dựa
+đến kết quả cụ thể”, hiệu quả của cá
+nhân đi liền với hiệu quả của tổ chức.
+NHÌN XA TRÔNG RỘNG,
+PHÁT TRIỂN VỮNG BỀN.
+TRIẾT LÝ KINH DOANH
+GIÁ TRỊ CỐT LÕI
+Trở thành tập đoàn phát triển bất động sản hàng đầu Việt Nam
+thông qua việc sở hữu các thương hiệu dẫn đầu.
+TẦM NHÌN
+Kiến tạo những không gian sống hoàn hảo với kiến trúc độc đáo
+và chất lượng vượt trội nhằm mang lại giá trị gia tăng
+cho khách hàng, cổ đông và cộng đồng.
+SỨ MỆNH
+THÔNG TIN
+Tên tiếng Việt:
+CÔNG TY CỔ PHẦN PHÁT TRIỂN BẤT ĐỘNG SẢN PHÁT ĐẠT
+Tên tiếng Anh:
+PHAT DAT REAL ESTATE DEVELOPMENT CORPORATION
+Địa chỉ:
+39 Phạm Ngọc Thạch, P. Võ Thị Sáu, Q.3, TP.HCM, Việt Nam
+Điện thoại:
+Website:
+www.phatdat.com.vn
+ĐỊA BÀN KINH DOANH
+PDR đã đánh dấu sự hiện diện trên nhiều địa phương. Trong đó, thị trường trọng điểm là TP.HCM,
+Bà Rịa - Vũng Tàu, Bình Dương, Đồng Nai, Phú Quốc, Quảng Ngãi, Đà Nẵng, Bình Định…
+NGÀNH NGHỀ KINH DOANH CHÍNH
+Đầu tư, phát triển các dự án BĐS dân dụng (nhà ở, căn hộ, biệt thự, khách sạn, resort…), công trình
+công nghiệp, cầu đường và cung cấp các dịch vụ về BĐS.
+THÔNG TIN NIÊM YẾT
+Mã cổ phiếu:
+Ngày niêm yết:
+Địa chỉ niêm yết:
+Sàn Giao dịch chứng khoán
+Sở Giao dịch chứng khoán TP.HCM – HOSE
+ĐƠN VỊ KIỂM TOÁN
+Công ty TNHH Ernst & Young Việt Nam
+Địa chỉ:
+02 Hải Triều, P. Bến Nghé, Q.1, TP.HCM, Việt Nam
+Điện thoại:
+http://www.ey.com/vn/en/home/ey-vietnam
+VỐN ĐIỀU LỆ:
+VỐN CHỦ SỞ HỮU:
 
-TIÊU CHUẨN CỦA BÁO CÁO
-Từ năm 2018, Báo cáo Phát triển bền vững của PDR được thực hiện định kỳ hằng năm nhằm ghi nhận và đánh giá công tác thực 
-hành phát triển bền vững xuyên suốt quá trình triển khai hoạt động kinh doanh – vận hành doanh nghiệp. Với quy mô hiện có, PDR 
-công bố Báo cáo Phát triển bền vững trong phạm vi tích hợp cùng BCTN.
-Nội dung Báo cáo Phát triển bền vững của PDR được lập trên cơ sở tham chiếu phiên bản mới nhất của GRI - Bộ tiêu chuẩn quốc 
-tế về Báo cáo Phát triển bền vững dành cho doanh nghiệp đang được áp dụng tại nhiều quốc gia. Thông tin và số liệu được báo 
-cáo trong phạm vi từng năm. Với những dữ liệu có liên quan đến các khung thời gian khác, PDR sẽ thuyết trình hoặc ghi chú cụ thể.
-Để xác định các lĩnh vực trọng yếu, PDR dựa trên đánh giá kết hợp giữa mức độ quan tâm của các bên liên quan và tác động của 
-chúng tới Công ty.  Các lĩnh vực trọng yếu đó được chúng tôi công bố trong báo cáo này như những nội dung cốt lõi. 
-Bên cạnh việc tuân thủ, PDR còn sử dụng Bộ tiêu chuẩn GRI 2021 như là khung đánh giá giúp Công ty nhận diện thiếu sót trong 
-phương diện phát triển bền vững. Qua đó, Công ty có phương hướng cải thiện và chủ động hướng tới tuân thủ hoàn toàn các tiêu 
-chuẩn quốc tế về phát triển bền vững trong tương lai.
-Ngoài ra, chúng tôi còn tham khảo Hướng dẫn công bố thông tin về môi trường và xã hội của IFC, Ủy ban Chứng khoán Nhà nước 
-và Thông tư 155/2015/TT-BTC nhằm thực hiện báo cáo một cách thuận tiện và phù hợp.
-Phạm vi của báo cáo
-Báo cáo này được lập tại Việt Nam, về lĩnh vực đầu tư và kinh doanh BĐS. 
-Báo cáo này được lập cho phạm vi hoạt động của Công ty CP Phát triển BĐS Phát Đạt (PDR), bao gồm hoạt động của văn phòng 
-chính, 03 chi nhánh và 10 công ty con.
-•	
-Các chi nhánh:  
-Chi nhánh Quảng Ngãi, chi nhánh Phú Thuận và chi nhánh Quận 5, TP.HCM.
-•	
-Công ty con:
-Xin xem thông tin chi tiết tại trang 90-91.
-Chu kỳ của báo cáo
-Thông tin trong báo cáo được cập nhật cho năm tài chính 2023, bắt đầu từ ngày 01/01/2023 và kết thúc ngày 31/12/2023. Báo 
-cáo chính thức được công bố cùng BCTN trong khung thời gian quy định về công bố thông tin.
-Thông tin liên hệ 
-Nhằm giúp gia tăng giá trị thông tin và tham khảo cho chính PDR cũng như các bên có liên quan, NĐT và cổ đông, PDR mong nhận 
-được ý kiến góp ý cho các nội dung đã được lập trong báo cáo này. Mọi phản hồi, vui lòng gửi đến địa chỉ: 
-Công ty CP Phát triển BĐS Phát Đạt 
-39 Phạm Ngọc Thạch, P. Võ Thị Sáu, Q.3, TP.HCM
-Điện thoại: +84.28.3898 6868
-Fax: +84.28.3898 8686
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-203
-202
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+MỘT SỐ DANH HIỆU
+– GIẢI THƯỞNG TIÊU BIỂU
+XẾP HẠNG CỦA VIETNAM REPORT
+Top 500 doanh nghiệp tư nhân lớn nhất Việt Nam năm 2018 và 2019
+Top 500 doanh nghiệp tư nhân có lợi nhuận tốt nhất Việt Nam năm 2018
+Top 500 doanh nghiệp tăng trưởng nhanh nhất Việt Nam năm 2019
+Top 50 doanh nghiệp tăng trưởng xuất sắc nhất Việt Nam năm 2021
+XẾP HẠNG CỦA FORBES ASIA
+Top 200 công ty có doanh thu dưới 1 tỷ đô la tốt nhất Châu Á năm 2020
+Doanh nghiệp phát triển bền vững năm 2022
+Nhóm 3 doanh nghiệp dẫn đầu trong Top 50 công ty kinh doanh hiệu quả nhất
+XẾP HẠNG CỦA ANPHABE
+Top 100 môi trường làm việc tốt nhất Việt Nam năm 2022
+XẾP HẠNG CỦA NHỊP CẦU ĐẦU TƯ
 
-THÔNG ĐIỆP VỀ PHÁT TRIỂN BỀN VỮNG
-Những năm gần đây, đời sống kinh tế - xã hội trên toàn cầu liên 
-tục biến động nghiêm trọng. Tình hình suy thoái đang tác động 
-trên diện rộng sau những diễn biến chưa từng có trong lịch sử 
-nhân loại như đại dịch Covid-19, các hiện tượng thiên tai cực 
-đoan, thảm họa dồn dập và cả mâu thuẫn vũ trang kéo dài.
-Việt Nam cũng nằm trong bức tranh chung trên. Bên cạnh đó, 
-với đặc thù của một quốc gia đang phát triển, Việt Nam còn 
-phải đối diện với nhiều vấn đề nội tại liên quan đến môi trường 
-tự nhiên và môi trường xã hội. Bài toán tăng trưởng kinh tế, 
-đảm bảo dân sinh và giữ gìn tài nguyên luôn rất thách thức.
-Thực tế đó đặt ra nhiều trách nhiệm hơn cho các doanh nghiệp. 
-Trách nhiệm về giảm tác động tiêu cực đến môi trường trong 
-quá trình sản xuất – kinh doanh. Trách nhiệm về tiết kiệm 
-nguồn tài nguyên. Trách nhiệm về sáng chế, phát minh các giải 
-pháp mới nhằm bảo tồn môi trường sống và phục hồi thế giới 
-tự nhiên đã bị tổn thương. Trách nhiệm về thúc đẩy phát triển 
-tiêu chuẩn văn minh và thịnh vượng cho cộng đồng mà không 
-đánh đổi bằng những hệ quả đi kèm cho thiên nhiên và di sản 
-văn hóa…
-Với tư cách là một doanh nghiệp phát triển BĐS, hoạt động của 
-PDR sẽ gắn liền với trách nhiệm và thách thức trên. Quá trình 
-triển khai một dự án BĐS sẽ luôn có hai vế song hành là kiến tạo 
-công trình mới cho thị trường và làm thay đổi bức tranh thiên 
-nhiên – xã hội đã có trước đó. 
-Vì vậy, PDR nhận thức rất rõ rằng các dự án do mình phát triển 
-sẽ có tác động lớn và lâu dài đến bức tranh chung của xã hội. 
-Triết lý kinh doanh, giá trị lựa chọn và phương thức hành động 
-của doanh nghiệp sẽ quyết định mức độ ảnh hưởng tích cực 
-hay tiêu cực đối với cộng đồng. 
-Từ nhận thức như vậy, PDR xác lập tiêu chí nhất quán về phát 
-triển có trách nhiệm. Xuyên suốt mọi chiến lược tăng trưởng, 
-PDR đều nỗ lực tối đa để hài hòa lợi ích của doanh nghiệp và 
-giá trị mang lại cho cộng đồng –xã hội ở cả hiện tại và tương 
-lai. Triết lý kiến tạo không gian sống của PDR chính là sự nhắc 
-nhở thường trực cho yêu cầu đảm bảo sự hài hòa này. Công ty 
-phải mang đến những sản phẩm BĐS góp phần tạo nên sự thay 
-đổi tích cực cho địa phương, nâng cao chất lượng cuộc sống 
-của khách hàng và tăng thêm tiện ích cho các thành phần có 
-liên quan.
-Cụ thể hơn, tất cả dự án của PDR đều tuân thủ nghiêm khắc tất 
-cả quy định về đến phát triển bền vững, từ tiêu chuẩn chung 
-đến các quy chế đặc thù ngành. Hơn nữa, ngoài phạm vi tuân 
-thủ, PDR còn chủ động tiếp cận và áp dụng các tiêu chuẩn cao 
-hơn trong phạm vi năng lực doanh nghiệp cho phép. Đó là lý do 
-nhiều dự án của PDR đạt đến các tiêu chuẩn quốc tế mới, tiêu 
-biểu như bộ tiêu chuẩn LEED và FITWEL. 
-Để phát triển bền vững được thực hành nhất quán và hiệu quả, 
-PDR cũng thiết lập định hướng tương ứng với chiến lược phát 
-triển kinh doanh dài hạn, trung hạn và ngắn hạn của Công ty.
-Trong định hướng dài hạn, PDR hướng đến xây dựng bộ tiêu 
-chuẩn riêng đối với lĩnh vực ESG. Bộ tiêu chuẩn này phải vượt 
-trên mức độ tuân thủ các quy định chung cho doanh nghiệp 
-trong ngành. Bằng việc chủ động và tiên phong áp dụng các tiêu 
-chuẩn vượt trội, PDR sẽ tạo tính khác biệt và giá trị mới cho sản 
-phẩm. Từ đó, giúp gia tăng cơ hội cạnh tranh và năng lực dẫn 
-dắt thị trường. 
-Về trung hạn, PDR thành lập bộ phận chuyên trách để xây dựng 
-các chương trình hành động chuyên nghiệp và áp dụng cụ thể 
-trên toàn quy trình phát triển kinh doanh – vận hành doanh 
-nghiệp, giám sát và thúc đẩy để đạt kết quả thiết thực trên từng 
-sản phẩm, hoạt động hoặc mối liên quan. Công ty phải khẳng 
-định được tầm ảnh hưởng tích cực về thực hành ESG với các 
-địa phương, cộng đồng khách hàng – đối tác và nhân viên. 
-Biến đổi khí hậu là một trong những cơ sở hàng đầu để 
-PDR cân nhắc điều chỉnh và thích nghi các tiêu chuẩn 
-trong phát triển dự án. Việc điều chỉnh và thích nghi được 
-thực hiện xuyên suốt quy trình thiết kế - xây dựng và đưa 
-vào sử dụng.
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-205
-204
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+- Cổ phiếu PDR chính thức được HOSE thêm vào
+nhóm VN30.
+- Giá trị vốn hoá thị trường vượt mốc 2 tỷ USD vào kết
+phiên giao dịch 25/06/2021.
+- Được đưa vào danh mục MSCI Frontier Markets Index.
+- Tăng vốn điều lệ lên 4.927,7 tỷ đồng.
+- Lợi nhuận trước thuế vượt mốc 2.000 tỷ đồng (đạt
+* Vị trí thứ 1 trong Top 10 BCTN tốt nhất – nhóm vốn
+hoá lớn do Sở GDCK TP.HCM phối hợp với Sở GDCK
+Hà Nội và Báo Đầu tư Chứng khoán tổ chức.
+* Top 50 doanh nghiệp tăng trưởng xuất sắc nhất Việt
+Nam theo xếp hạng của Vietnam Report.
+* Nhóm 3 doanh nghiệp dẫn đầu của Top 50 Công ty
+kinh doanh hiệu quả nhất Việt Nam 2020-2021 theo xếp
+hạng của Tạp chí Nhịp cầu Đầu tư.
+-	 Chiến thắng 5 giải thưởng tại Vietnam Property Awards 2021.
+- Khởi công dự án Cadia Quy Nhon (Bình Định) và khai
+trương nhà mẫu Cadia Quy Nhon, đa dạng hóa sản
+phẩm sang loại hình BĐS du lịch – nghỉ dưỡng.
+- Chính thức bước vào Top 100 môi trường làm việc tốt
+nhất Việt Nam với vị trí thứ 68.
+- Chiến thắng 7 giải thưởng quan trọng tại Vietnam
+PropertyGuru Awards 2022.
+- Đạt nhiều danh hiệu và chứng nhận trong nước lẫn
+quốc tế, khẳng định vị thế doanh nghiệp BĐS hàng
+đầu giữa diễn biến khắc nghiệt của thị trường (xin xem
+thông tin chi tiết tại trang 14-15).
+- Tăng vốn điều lệ lên 7.388,1 tỷ đồng.
+- Hoàn thành Tòa nhà văn phòng Phát Đạt – trụ sở mới
+của Công ty tại 39 Phạm Ngọc Thạch, quận 3, TP.HCM.
+- Triển khai thi công dự án Khu đô thị Bắc Hà Thanh.
+- Tất toán thành công trái phiếu, giữ vững doanh nghiệp
+trong bối cảnh cực kỳ khó khăn của toàn ngành BĐS.
+* Vị trí 5 trong Top 10 Chủ đầu tư BĐS năm 2023 theo xếp
+hạng của Vietnam Report.
+nhất tại nhóm vốn hóa lớn tại lễ trao giải Cuộc bình chọn
+Doanh nghiệp niêm yết lần thứ 16.
+* Vị trí thứ 26 trong Top 100 “Nhà tuyển dụng được yêu
+thích – Employer of Choice” do CareerViet và Amco
+Vietnam đồng tổ chức.
+TRÊN HÀNH TRÌNH PHÁT TRIỂN
+- PDR được thành lập.
+- Hợp tác đầu tư thực hiện các dự
+án tại Khu dân cư Trung Sơn –
+Bình Chánh và dự án khu căn hộ
+Sao Mai tại quận 5, TP.HCM.
+- Khởi công xây dựng dự án The
+EverRich 1 tại quận 11, TP.HCM với
+tổng vốn đầu tư 1.100 tỷ đồng.
+- Tiếp tục triển khai xây dựng dự án
+The EverRich 1.
+- Phát triển quỹ đất cho các dự án
+mới tại quận 7, quận 9, Nhà Bè,
+TP.HCM.
+- Chính thức trở thành công ty đại
+chúng, tăng vốn điều lệ lên 1.298
+- Đầu tư resort cao cấp tại Cam
+Ranh, Hội An, Phú Quốc.
+- Ký hợp đồng với Tập đoàn
+Starwood và Marriott để quản
+lý vận hành The Westin Resort
+& Spa (Cam Ranh) và khách sạn
+Marriott (Hội An).
+- Hoàn thành và bàn giao căn
+hộ dự án The EverRich 1 cho
+khách hàng.
+- Chính thức ra mắt hệ thống nhận
+diện thương hiệu với logo và
+slogan mới.
+- Chính thức niêm yết cổ phiếu trên
+sàn HOSE (Mã CK: PDR).
+- Khởi công xây dựng và khai trương
+hệ thống nhà mẫu dự án The
+EverRich 2, quận 7, TP.HCM.
+- Khởi công xây dựng cầu Phú Thuận,
+quận 7, TP.HCM.
+- Khánh thành và bàn giao cầu
+Phú Thuận.
+-	 Triển khai thi công dự án The
+EverRich 3, quận 7, TP.HCM.
+* Danh hiệu Top 10 Nhà phát triển
+dự án của BCI Asia Top 10 Awards.
+- Tiếp tục triển khai xây dựng tại dự
+án The EverRich 2.
+- Hoàn thiện các thủ tục pháp lý và
+đầu tư để đưa Khu biệt thự của dự
+án The EverRich 3 vào giai đoạn
+kinh doanh.
+- Tiếp tục triển khai xây dựng và cất
+nóc block C, dự án The EverRich 2.
+- Đầu tư cơ sở hạ tầng và các hạng
+mục tạo cảnh quan của dự án The
+EverRich 3.
+- Hoàn thành việc xây dựng block C,
+dự án The EverRich 2 và bàn giao
+căn hộ cho khách hàng.
+- Khởi công dự án BOT đầu tư xây
+dựng cầu Mỹ Lợi, nối Long An và
+Tiền Giang.
+- Triển khai xây dựng dự án căn hộ The
+EverRich Infinity, quận 5, TP.HCM.
+- Khánh thành cầu Mỹ Lợi, đưa vào vận
+hành và khai thác.
+- Tăng vốn điều lệ lên 2.018,1 tỷ đồng.
+- Khởi công xây dựng dự án
+Millennium, quận 4, TP.HCM.
+- Cất nóc dự án The EverRich Infinity.
+- Hoàn thành khu biệt thự của dự án
+The EverRich 3 và bàn giao các villa
+cho khách hàng.
+- Trao giấy chứng nhận sở hữu tài sản
+cho cư dân tại dự án The EverRich
+Infinity.
+- Trả toàn bộ các khoản nợ gốc trái
+phiếu, nợ vay và các khoản lãi phát
+sinh cho các trái chủ và Ngân hàng
+Đông Á.
+* 	Danh hiệu Top 10 nhà phát triển
+BĐS hàng đầu Việt Nam của BCI
+Asia Awards.
+* 	Giải thưởng Dự án căn hộ cao cấp
+tốt nhất của Vietnam Property Awards
+cho dự án The EverRich Infinity.
+- Khởi công dự án Xây dựng Hạ tầng
+Kỹ thuật Nội bộ Khu I – Khu Cổ Đại,
+quận 9, TP.HCM.
+- Hoàn thành và bàn giao toàn bộ dự
+án Millennium.
+- Tăng vốn điều lệ lên 2.663,9 tỷ đồng.
+* Hạng 62 trong Top 500 doanh nghiệp
+tư nhân có lợi nhuận tốt nhất Việt Nam
+theo xếp hạng của Vietnam Report.
+* Hạng 313 trong Top 500 doanh
+nghiệp tư nhân lớn nhất Việt Nam theo
+xếp hạng của Vietnam Report.
+- Đấu giá thành công tại Dự án KĐT Du lịch Sinh
+thái Nhơn Hội (116,2ha), dự án Bắc Hà Thanh
+(55,7ha) và khu đất số 1 Ngô Mây, TP. Quy Nhơn.
+- Tăng vốn điều lệ lên 3.276,58 tỷ đồng.
+- Đầu tư 639 tỷ đồng để sở hữu 3,73ha đất tại Bình
+Dương.
+- Lợi nhuận trước thuế đạt 1.105 tỷ đồng - lần đầu
+tiên vượt mốc 1.000 tỷ đồng.
+* Hạng 54 trong Top 500 doanh nghiệp tăng trưởng
+nhanh nhất Việt Nam theo xếp hạng của Vietnam
+Report.
+* Hạng 251 trong Top 500 doanh nghiệp tư nhân
+lớn nhất Việt Nam theo xếp hạng của Vietnam
+Report.
+* Vị trí 7 trong Top 10 BCTN tốt nhất – nhóm vốn
+hoá lớn do Sở GDCK TP.HCM phối hợp với Sở
+GDCK Hà Nội và Báo Đầu tư Chứng khoán tổ chức.
+- Chính thức mở rộng kinh doanh sang mảng BĐS
+công nghiệp với dự án đầu tiên tại khu vực Cảng
+Cái Mép (Bà Rịa - Vũng Tàu).
+* Được ghi nhận ở cấp độ quốc tế khi được xếp
+vào Top 200 công ty có doanh thu dưới một tỷ đô
+la tốt nhất châu Á của Forbes Asia và Giải Đồng –
+Giải thưởng Kinh doanh Quốc tế The International
+Business Awards, hạng mục Thành tựu Tăng trưởng
+của The Stevie Awards.
+* Vị trí 5 trong Top 10 BCTN tốt nhất – nhóm vốn
+hoá lớn do Sở GDCK TP.HCM phối hợp với Sở
+GDCK Hà Nội và Báo Đầu tư Chứng khoán tổ chức.
 
-Đối với kế hoạch thực hành phát triển bền vững trong năm 
-2024, PDR giám sát chặt chẽ quy trình tuân thủ mọi quy định 
-và tiêu chuẩn. Quan trọng hơn, Công ty đẩy mạnh triển khai 
-các tiêu chuẩn quốc tế như LEED và FITWEL vào các dự án 
-đang được triển khai. 
-Để có định hướng cụ thể cho việc nghiên cứu và thực thi phát 
-triển bền vững, PDR xác định 3 nguyên tắc chính:
-•	
-Phát triển cùng địa phương
-Tại nhiều địa phương, nhất là các đô thị đang phát triển, PDR 
-là một trong những doanh nghiệp tiên phong mở đường cho 
-sự khởi sắc của lĩnh vực BĐS. Vì vậy, tiêu chí của PDR là tạo 
-nên tiền lệ tốt, góp phần thay đổi diện mạo đô thị, mang đến 
-nhiều cơ hội kinh tế và thúc đẩy lối sống hiện đại – văn minh. 
-Mọi dự án của PDR đều phải có giá trị tích cực với đời sống 
-của cư dân. Các công trình của PDR được phát triển phù hợp 
-với chủ trương phát triển của địa phương và có mức độ hoàn 
-thiện tương đương các sản phẩm tiêu chuẩn cao tại các đô thị 
-lớn.
-•	
-Phát triển có trách nhiệm
-Trong quá trình phát triển dự án, PDR luôn đề cao việc tận 
-dụng điều kiện tự nhiên, cảnh quan vốn có và dùng năng lực 
-quy hoạch – thiết kế kiến trúc để tạo nên sự hòa hợp cao nhất. 
-Bên cạnh đó, PDR nghiên cứu các giải pháp mới để nâng cao 
-hiệu quả sử dụng tài nguyên, luôn lựa chọn các giải pháp kỹ 
-thuật – công nghệ giúp tiết giảm cao nhất tiêu thụ năng lượng, 
-khí thải, phát thải...
-•	
-Phát triển nguồn lực con người 
-PDR luôn hướng tới mục tiêu nâng cao chất lượng cuộc sống 
-và góp phần phát triển con người. Đối với nhân viên, Công ty 
-đã và đang nỗ lực tạo nên một môi trường làm việc nhân văn, 
-liên tục cải thiện các chính sách dành cho người lao động, từ 
-lương thưởng đến chế độ phúc lợi. Công ty cũng tạo điều kiện 
-tốt nhất cho người lao động được phát huy hết tiềm năng 
-thông qua chính sách tuyển dụng linh hoạt và các chương 
-trình đào tạo chuyên sâu. 
-Đối với khách hàng – người tiêu dùng sản phẩm, Công ty luôn 
-lựa chọn các phương án tốt nhất để kiến tạo không gian sống 
-tối ưu. Qua đó, góp phần nâng cao chất lượng cuộc sống và 
-mở rộng cơ hội cho sự phát triển của thế hệ tương lai.
-Đối với cộng đồng, PDR thường xuyên triển khai các chương 
-trình hành động hướng tới các thành phần bị thiệt thòi trong 
-xã hội. Công ty ưu tiên các chương trình hỗ trợ giáo dục, phát 
-triển văn hóa và sức khỏe của cộng đồng.
-Trong thời gian qua, PDR đã từng bước tích lũy kinh nghiệm 
-hữu ích trong thực hành phát triển bền vững. Công ty sẽ phát 
-huy những kinh nghiệm đã có để xây dựng một chiến lược về 
-phát triển bền vững chuyên nghiệp, có chiều sâu, hướng đến 
-hiệu quả thiết thực và tầm ảnh hưởng lớn hơn trong tương lai.
-Để sản phẩm có giá trị xuyên suốt nhu cầu sử dụng 
-về sau, PDR tham khảo xu hướng thay đổi của môi 
-trường xã hội lẫn môi trường tự nhiên tại từng địa 
-phương nơi dự án tọa lạc. Trên cơ sở đó, đầu tư và áp 
-dụng các tiêu chuẩn quốc tế mới một cách phù hợp để 
-gia tăng giá trị trước mắt lẫn lâu dài cho công trình.
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-207
-206
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+Lịch sử và uy tín của PDR được định hình qua sự thành
+bất động sản TP.HCM, Quảng Ngãi, Bình Định và một số
+địa phương khác.
+PDR sử dụng thương hiệu The EverRich cho các dự án
+thuộc phân khúc căn hộ cao cấp. Công ty còn  khẳng định
+năng lực phát triển dự án với những công trình tiêu biểu
+như Millennium và Astral City.
+Mặt khác, PDR đã kiến tạo dự án có quy mô lớn là Khu đô
+thị Du lịch Sinh thái Nhơn Hội (Bình Định), sau đó được
+tiếp tục phát triển với các tên thương mại như Nhon Hoi
+New City, Ky Co Gateway...
+NHỮNG DỰ ÁN
+TIÊU BIỂU CỦA PDR
 
-HOẠT ĐỘNG TIÊU BIỂU TRONG NĂM LIÊN QUAN 
-ĐẾN THỰC THI PHÁT TRIỂN BỀN VỮNG
-Tòa nhà văn phòng mới của PDR được thiết kế và xây dựng theo tiêu chuẩn LEED – 
-chứng chỉ được cấp bởi Hội đồng Công trình xanh Hoa Kỳ. Đây là dự án theo xu thế 
-phát triển xanh nổi bật giữa trung tâm TP.HCM. 
-Với việc sử dụng nguyên vật liệu và trang thiết bị theo công nghệ mới, đáp ứng đầy đủ 
-các tiêu chuẩn LEED nghiêm ngặt, trong quá trình vận hành về sau, dự án ước tính tiết 
-kiệm được hơn 40% lượng nước và hơn 10% lượng điện sử dụng so với tiêu chuẩn 
-bình thường.
-Mặt khác, với thiết kế theo tiêu chuẩn hiện đại, tòa nhà này cung cấp một không gian 
-thoáng đãng, góp phần mang lại sự lành mạnh về thể lý lẫn tinh thần cho người sử dụng. 
-Việc áp dụng hiệu quả tiêu chí xanh trên dự án tòa nhà văn phòng mới là minh chứng 
-cho quyết tâm nâng cao các tiêu chuẩn về phát triển bền vững của PDR. Đây là kinh 
-nghiệm và cảm hứng để PDR đẩy mạnh triển khai vào các dự án khác của Công ty.
- 
-Một trường hợp điển hình khác là việc áp dụng hệ thống tiêu chuẩn Fitwel cho dự án 
-Thuận An 1 và 2. Đây là hệ thống tiêu chuẩn mới, được đề xướng từ năm 2016, bởi 
-Trung tâm kiểm soát Bệnh tật (CDC) và Cơ quan quản lý dịch vụ tổng hợp (GSA) Hoa 
-Kỳ. Fitwel lấy trải nghiệm về sức khỏe và sự thịnh vượng toàn diện của con người làm 
-cơ sở để xây dựng hệ thống tiêu chuẩn cho các công trình xây dựng. Theo đó, trong 
-thiết kế các dự án, Fitwel đánh giá khắt khe trên 12 hạng mục, từ lối vào, cảnh quan 
-đến không gian trong nhà…
-Fitwel được khuyến khích tham chiếu và ứng dụng mạnh gần đây vì tương thích với 
-xu hướng của đời sống hiện đại, đặc biệt là tại các đô thị. Trong đó, con người cần lối 
-sống hòa hợp hơn với thiên nhiên dưới tác động ngày càng rõ nét của biến đổi khí hậu, 
-cơ hội tăng cường sức khỏe trước nguy cơ bệnh tật, tiện nghi hơn để dễ dàng tiếp 
-cận cơ hội tập luyện thể dục thể thao, sinh hoạt lành mạnh, đặc biệt là các điều kiện 
-tạo nên sự công bằng, bình đẳng cho mọi đối tượng, kể cả người khuyết tật, người 
-già, trẻ em… 
-PDR là một trong những nhà phát triển BĐS tiên phong trong việc áp dụng tiêu chuẩn 
-Fitwel tại Việt Nam. Với tiêu chuẩn mới này, dự án Thuận An 1 và 2 mang đến cho 
-thị trường Bình Dương một mô hình sản phẩm vượt trội về giá trị, cung cấp một môi 
-trường sống đẳng cấp và chất lượng nhất hiện nay cho cư dân địa phương. 
-ĐẨY MẠNH ÁP DỤNG CÁC 
-TIÊU CHUẨN QUỐC TẾ VỀ 
-PHÁT TRIỂN BỀN VỮNG VÀO 
-CÁC DỰ ÁN MỚI
-Những lựa chọn thực tế của PDR để thích nghi với biến đổi khí hậu
-•	
-Quy hoạch và thiết kế kiến trúc trên lợi thế điều kiện tự nhiên
-•	
-Ưu tiên giữ tối đa mảng xanh, phục hồi và trồng mới mảng xanh
-•	
-Áp dụng kỹ thuật - công nghệ mới để tiết kiệm tài nguyên
-•	
-Lựa chọn nguyên vật liệu tối ưu để giảm thiểu tiêu hao tài nguyên và xả thải.
-BÁO CÁO THƯỜNG NIÊN 2023
-CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-209
-208
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
-
-CÁC VẤN ĐỀ TRỌNG YẾU TRONG THAM CHIẾU 
-VỚI BỘ TIÊU CHUẨN GRI
-PDR dùng bộ tiêu chuẩn GRI để làm tham chiếu khi đánh giá các vấn đề trọng yếu trong phát triển bền vững. Kết quả đánh giá 
-các vấn đề trọng yếu được thông qua các bộ phận chuyên trách và Ban lãnh đạo của Công ty. 
-PDR thông qua quá trình tham chiếu này để hiểu rõ mức độ thực hành phát triển bền vững hiện có và xây dựng định hướng cho 
-quá trình hoạt động tiếp theo. Trong đó, Công ty sẽ xác định rõ hơn tầm quan trọng của các Bên liên quan, đặc biệt là NĐT và cổ 
-đông, để giám sát và thực hiện vai trò tốt hơn.
-Trong phạm vi và tính chất của hoạt động kinh doanh như hiện nay, Công ty tập trung vào 17 lĩnh vực trọng yếu thuộc 3 chủ đề 
-quan trọng là Kinh tế – Môi trường - Xã hội. 
-Mức độ trọng yếu đối với PDR theo thang điểm
-Tầm quan trọng của các bên liên quan
-Cao
-Cao
- Phát triển xã hội
-GRI 401 Việc làm
-GRI 402 Mối quan hệ Lao động/ Quản lý
-GRI 403 An toàn và sức khỏe nghề nghiệp
-GRI 404 Giáo dục và đào tạo
-GRI 405 Đa dạng và bình đẳng
-GRI 406 Không phân biệt đối xử
-GRI 415 Chính sách công
-GRI 416 An toàn và sức khỏe khách hàng
-GRI 418 Quyền bảo mật thông tin của 
-khách hàng
- Hiệu quả Kinh tế
-GRI 201 Hiệu quả kinh tế
-GRI 204 Thông lệ mua sắm
-GRI 205 Chống tham nhũng
- Bảo vệ môi trường
-GRI 301 Vật liệu
-GRI 302 Năng lượng
-GRI 303 Nước
-GRI 305 Chất thải, phát thải
-GRI 307 Tuân thủ môi trường
-GRI 200 –  KINH TẾ
-1. GRI 201. HIỆU QUẢ KINH TẾ
-Đối với lĩnh vực kinh tế, Công ty tập trung xây dựng thông tin 
-dựa trên giá trị kinh tế trực tiếp được tạo ra và phân bổ với cơ 
-sở dự thu dự chi. Nỗ lực bảo vệ doanh nghiệp trong tình hình 
-thị trường biến động suốt thời gian qua, PDR đã duy trì được 
-khả năng đóng góp thiết thực cho ngân sách nhà nước và cộng 
-đồng - xã hội, giữ được cơ hội làm việc cho NLĐ, bảo vệ tối đa 
-quyền lợi của NĐT và cổ đông… 
-Dù phải hứng chịu rất nhiều ảnh hưởng và thiệt hại từ khủng 
-hoảng chung của toàn ngành BĐS, trong năm qua, PDR vẫn 
-tạo ra tổng giá trị kinh tế trực tiếp hơn 1.640 tỷ đồng, đến từ 
-doanh thu bán hàng, hoạt động tài chính và các nguồn doanh 
-thu khác. Tổng khoản nộp ngân sách Nhà nước của PDR là 
-197.887.405.481 đồng. Khoản lợi sau thuế chưa phân phối là 
-763.664.641.664 đồng.
-2. GRI 204. THÔNG LỆ MUA SẮM 
-PDR thực hiện quy trình mua sắm trên quy định chặt chẽ về 
-tính tuân thủ, minh bạch và công bằng. Công ty thường xuyên 
-cập nhật tình hình biến động của nguồn cung ứng nguyên vật 
-liệu, thiết bị máy móc và nhân lực thi công để đảm bảo tính 
-thực tế và cơ hội tối đa cho tất cả các bên có liên quan.  
-Một số nguyên tắc chính trong thông lệ mua sắm của PDR:
-•	
-Hỗ trợ các doanh nghiệp vừa và nhỏ cùng nguồn lao 
-động địa phương thông qua cơ chế đấu thầu cởi mở và 
-bình đẳng, trên cơ sở đảm bảo chất lượng và hiệu quả 
-kinh tế cao cho các gói thầu.
-•	
-Ưu tiên nhà thầu trong nước có cam kết ưu tiên sử 
-dụng lao động phổ thông tại địa phương khi thi công 
-các dự án.
-•	
-Ưu tiên sử dụng các đơn vị tư vấn thiết kế trong nước đủ 
-năng lực. Chỉ sử dụng tư vấn thiết kế nước ngoài cho các 
-hạng mục thiết kế quan trọng như quy hoạch tổng thể, 
-thiết kế kiến trúc, nội thất, cảnh quan, ánh sáng… để đảm 
-bảo:
-o	 Dự án được thiết kế bởi kiến trúc sư danh tiếng, giàu 
-kinh nghiệm trên thị trường quốc tế.
-o	 Ý tưởng thiết kế quy hoạch đô thị có tầm nhìn thời đại, 
-tư duy phát triển bền vững về mặt kinh tế xã hội và kiến 
-tạo không gian sống hoàn hảo.
-o	 Giải pháp thiết kế hòa hợp giữa xu hướng thế giới hiện 
-đại và văn hóa bản địa.
-o	 Thiết kế kiến trúc độc đáo, năng động sáng tạo và sang 
-trọng.
-•	
-Tối đa tỷ trọng hàng hóa có nguồn gốc trong nước, cụ thể 
-là khoảng 85% vật liệu sử dụng cho các dự án nhà ở của 
-PDR là vật liệu được sản xuất trong nước hoặc cung cấp 
-bởi nhà cung cấp trong nước.
-Trong thời gian qua, với nguyên tắc trên, PDR sử dụng 100% 
-nhà thầu thi công và 95% tư vấn thiết kế nội địa.
-3. GRI 205. CHỐNG THAM NHŨNG 
-Thông qua việc đánh giá, PDR đã nhận diện những rủi ro trọng 
-yếu liên quan đến tham nhũng trong các công đoạn sau:
-•	
-Giải phóng mặt bằng và đền bù đất đai, nhà cửa.
-•	
-Đấu thầu chọn lựa các nhà cung cấp dịch vụ, các nhà 
-thầu thi công.
-•	
-Quản lý các nhà thầu trong tiến trình cung cấp dịch vụ, 
-thi công.
-•	
-Phân phối các sản phẩm của Công ty đến khách hàng.
-Từ việc đánh giá này, PDR có thể xác định quy trình quản lý, 
-phòng chống thông qua 3 tuyến phòng vệ:
-Tuyến phòng vệ 1
-Ban hành các quy trình, quy định trong đấu thầu, quản lý hợp 
-đồng, thanh toán, thi công để các phòng ban chuyên môn áp 
-dụng và thực hiện đúng.
-Tuyến phòng vệ 2
-Các hoạt động liên quan đến việc mua sắm của PDR và các 
-công ty con đều phải được đánh giá dựa trên cơ sở dữ liệu, 
-thực trạng và đàm phán của Phòng Kiểm soát Nội bộ nhằm 
-cung cấp thông tin cho Ban lãnh đạo khi ra quyết định.
-Tuyến phòng vệ 3
-Dựa trên kết quả đánh giá rủi ro hàng năm của PDR và công ty 
-con, Ban KTNB sẽ lên kế hoạch thực hiện kiểm toán hoạt động 
-mua sắm.
-PDR thực hiện việc truyền thông, đào tạo về các chính sách và 
-quy trình chống tham nhũng đến toàn bộ nhân viên và nhà cung 
-cấp, nhà thầu thi công, nhà tư vấn. 
-Với các nỗ lực trên, năm 2023, ở PDR không xảy ra các vụ việc 
-tham nhũng nào.
-BÁO CÁO THƯỜNG NIÊN 2023
 CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
-213
-212
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+THE EVERRICH 2
+DỰ ÁN VỚI KIẾN TRÚC ĐỘC ĐÁO
+THE EVERRICH 1
+DỰ ÁN KHỞI ĐẦU LỊCH SỬ CỦA PDR
+Quận 11, TP.HCM
+Quận 7, TP.HCM
+Quyết tâm theo đuổi mục tiêu trở thành nhà phát triển BĐS chuyên nghiệp, PDR đã
+gây tiếng vang với dự án căn hộ đầu tiên dưới thương hiệu The EverRich mang ý nghĩa
+về sự thịnh vượng bền vững.
+The EverRich 1 có giá trị chứng minh năng lực và triển vọng của PDR trên thị trường
+bất động sản cao cấp tại TP.HCM.
+Dự án được chính thức khởi công vào 10/2006 và hoàn thành vượt tiến độ cam kết
+vào 11/2009, gồm 2 tòa cao ốc, 85.645m2 sàn với 350 căn hộ và các tầng trung tâm
+thương mại, dịch vụ tiện ích.
+Tọa lạc tại giao điểm của các quận 5, 6, 10, 11 và Tân Bình, dễ dàng tiếp cận những
+điểm đến tiêu biểu nhất của TP.HCM, cùng các tiện ích và hạ tầng vượt trội so với mặt
+bằng chung của thị trường lúc bấy giờ, The EverRich 1 được xem là lựa chọn lý tưởng
+của những người thành đạt và đã hình thành nên một cộng đồng thịnh vượng. Đến
+nay, dự án vẫn giữ vững uy tín và giá trị trên thị trường.
+Trong triết lý phát triển sản phẩm bất động sản của PDR, tinh thần duy mỹ - theo đuổi cái đẹp là một đặc điểm
+nổi bật.
+The EverRich 2 thể hiện rất rõ tinh thần này bằng thiết kế kiến trúc độc đáo. Trên những tiêu chuẩn thẩm mỹ
+theo phong cách kiến trúc Pháp, The EverRich 2 được phát triển hài hoà với cảnh quan bản địa, tận dụng lợi thế
+ven sông để tạo nên một không gian đô thị lý tưởng.
+Khu căn hộ mẫu của The EverRich 2 được chính thức giới thiệu vào 10/2010. Lợi thế về vị trí, kiến trúc, không
+gian xanh,... đã khiến dự án thu hút sự chú ý rất lớn của giới đầu tư và những người đang tìm kiếm không gian
+sống chuẩn mực.
+Sự hình thành của The EverRich 2 góp phần thay đổi đáng kể diện mạo của khu vực phường Phú Thuận. Dự án
+cũng được kỳ vọng góp phần tạo nên một trục phát triển mới của quận 7 bên cạnh khu Phú Mỹ Hưng.
+The EverRich 2 có quy mô lớn với diện tích đất 112.585m2, tổng diện tích sàn xây dựng là 643.535m2 (mật độ
+xây dựng chỉ 25%) với 3.125 căn hộ và căn hộ penthouse.
+Những diễn biến bất lợi của thị trường khiến The EverRich 2 không được PDR triển khai như dự kiến. Tuy nhiên,
+PDR đã kiến tạo nền tảng và lợi thế để các nhà đầu tư tiếp theo của dự án kế thừa và tiếp tục phát triển sau
+quá trình chuyển nhượng.
+
 BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
-BÁO CÁO TÀI CHÍNH 
-BÁO CÁO QUẢN TRỊ CÔNG TY
 BÁO CÁO CỦA BAN TGĐ
 ĐỘI NGŨ LÃNH ĐẠO
-MỞ ĐẦU
-TỔNG QUAN VỀ PDR
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+THE EVERRICH 3
+DỰ ÁN CỦA KHÔNG GIAN SỐNG HOÀN HẢO
+Cùng với The EverRich 2, The EverRich 3 là dự án có quy mô lớn của
+PDR tại phường Phú Thuận. PDR không chỉ phát triển tạo lập quỹ đất,
+hoàn thiện thủ tục pháp lý cho dự án mà còn xây dựng cầu Phú Thuận
+để kết nối khu vực này với khu đô thị sầm uất Phú Mỹ Hưng.
+Bằng sự hình thành của 2 dự án trên, cả diện mạo đô thị và giá trị của
+BĐS tại khu vực này cũng đã được nâng tầm.
+Sở hữu địa thế lý tưởng, hài hoà về phong thuỷ và cảnh quan, The
+EverRich 3 là dự án có ưu thế nổi bật về môi trường xanh trên diện tích
+9,9ha. The EverRich 3 được kỳ vọng là không gian sống đẳng cấp. Dự án
+cũng được chuyển nhượng để đối tác tiếp tục phát triển.
+PDR nhận diện rõ nhu cầu rất cao của thị trường về những dự án có quy mô
+vừa và nhỏ, có không gian duy mỹ, tiện nghi và giàu tính nhân văn ngay tại khu
+vực trung tâm sầm uất của TP.HCM. Do đó, PDR xác định một trong những
+định hướng chiến lược là phát triển các dự án đáp ứng tối ưu nhu cầu này.
+The EverRich Infinity là dự án theo định hướng đó và đã chứng minh tính
+đúng đắn khi nhanh chóng được thị trường đón nhận. Sự thành công của
+The EverRich Infinity đã giúp củng cố thương hiệu PDR trên thị trường BĐS
+TP.HCM.
+Được thiết kế theo mô hình compound khép kín như một resort, The EverRich
+Infinity mang đến không gian yên bình, tĩnh tại không dễ tìm thấy ngay giữa
+lòng đô thị tấp nập. Kiến trúc độc đáo cũng đã mang về cho dự án được nhiều
+giải thưởng uy tín trong và ngoài nước.
+Dự án có diện tích đất 8.050,4m2, tổng diện tích sàn là 68.382m2, với 439
+căn hộ - căn hộ văn phòng và căn hộ dịch vụ thương mại.
+The EverRich Infinity được hoàn thành vào tháng 11/2016 và hiện là một
+trong những dự án căn hộ cao cấp có nhiều lợi thế nhất khu vực trung tâm
+TP.HCM.
+Quận 7, TP.HCM
+Quận 5, TP.HCM
+THE EVERRICH INFINITY
+DỰ ÁN KHẲNG ĐỊNH THƯƠNG HIỆU CỦA PDR
+
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+MILLENNIUM
+DỰ ÁN NÂNG TẦM VỊ THẾ CỦA PDR
+Millennium tiếp nối định hướng của PDR trong chiến lược tiến về thị trường trọng
+điểm TP.HCM khi sở hữu vị trí rất đắt giá tại quận 4, nhìn sang trung tâm quận 1, chỉ
+cách những điểm đến mang tính biểu tượng của Sài Gòn bằng cự ly rất ngắn.
+Kiến trúc của Millennium hài hoà giữa phong cách hiện đại, năng động và nét đẹp tinh
+tế của lối sống thượng lưu. Từ nội thất, tiện ích công cộng đến cảnh quan, tiêu chí sang
+trọng, văn minh đều được thể hiện nhất quán.
+Dự án gồm 653 căn hộ - căn hộ văn phòng và 17 căn nhà phố thương mại với tổng
+diện tích sàn là 87.631m2, mật độ xây dựng tại khối đế là 50% và khối tháp là 35%, đã
+được hoàn thành và bàn giao từ 06/2018.
+Sau thành công của The EverRich Infinity, PDR tiếp tục củng cố vị thế của nhà phát
+triển BĐS chuyên nghiệp với dự án Millennium. Dự án này được phối hợp phát triển
+cùng đối tác để phát huy hiệu quả cao nhất.
+Năm 2017, PDR bắt đầu đẩy mạnh chiến lược đa dạng hoá sản phẩm, hướng tới các địa phương mới
+ngoài thị trường trọng điểm TP.HCM. Các thành phố trẻ duyên hải miền Trung với lợi thế lớn về tiềm
+năng du lịch, mức độ sẵn sàng của hạ tầng kinh tế - xã hội, nhu cầu lớn của thế hệ cư dân mới, chính
+sách thu hút đầu tư cởi mở... được PDR xác định là thị trường ưu tiên. Trong đó, TP. Quảng Ngãi hội
+đủ các điều kiện thuận lợi nhất để PDR nhanh chóng triển khai dự án Khu dân cư Phát Đạt - Bàu Cả.
+Trên quy mô 7,7ha gồm 325 nền nhà phố, toạ lạc ngay tại trung tâm của TP. Quảng Ngãi, Khu dân
+cư Phát Đạt Bàu Cả được xem như làn gió mới cho thị trường BĐS địa phương với một dự án được
+phát triển đồng bộ. Trên nền tảng quy hoạch chuyên nghiệp, dự án cung cấp những tiện ích hàng
+đầu như hồ bơi, sân thể thao đa năng, vườn BBQ, công viên, khu vui chơi dành cho trẻ em... Đây vốn
+vẫn còn là những hạng mục xa xỉ tại nhiều thành phố đang phát triển.
+Với hạ tầng hiện đại và giàu tiện ích, Khu dân cư Phát Đạt Bàu Cả mang đến một mô hình sản phẩm
+BĐS mang tính tiên phong cho khách hàng địa phương, góp phần nâng cao chất lượng cuộc sống
+của cư dân, kiến tạo môi trường sinh hoạt văn minh và phong cách sống lành mạnh.
+Đến nay, Khu dân cư Phát Đạt Bàu Cả đã trở thành một trong những lựa chọn được yêu chuộng
+nhất của thế hệ cư dân đô thị mới khi tìm kiếm không gian sống theo tiêu chuẩn hiện đại, phù hợp
+với xu hướng sống năng động và phong cách sống văn minh.
+PHÁT ĐẠT BÀU CẢ
+DỰ ÁN MỞ CỬA THỊ TRƯỜNG DUYÊN HẢI MIỀN TRUNG CHO PDR
+TP. Quảng Ngãi, tỉnh Quảng Ngãi
+Quận 4, TP.HCM
+
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+KHU ĐÔ THỊ DU LỊCH SINH THÁI NHƠN HỘI
+DỰ ÁN TẠO ĐỘNG LỰC CHUYỂN MÌNH MẠNH MẼ CHO PDR
+Sau khi thiết lập được vị thế nhất định trên các thị trường giàu tính cạnh tranh, PDR đã có bước bứt phá
+mạnh mẽ trên nhóm doanh nghiệp BĐS dẫn đầu bằng các dự án có quy mô lớn, mang tính khai mở trên các
+đô thị trẻ.
+KĐT Du lịch Sinh thái Nhơn Hội là một trong những dự án thể hiện rõ nhất năng lực đột phá của PDR, từ
+tầm nhìn, khả năng phát triển dự án, tốc độ triển khai xây dựng cho đến chiến lược kinh doanh – bán hàng.
+Đây là dự án có quy mô lớn với lộ trình phát triển qua nhiều năm. PDR đã triển khai theo từng giai đoạn với
+phân khu 2, phân khu 4 và phân khu 9 theo tiến độ phù hợp, đảm bảo hiệu quả cho cả doanh nghiệp và địa
+phương.
+Với địa thế đẹp, môi trường tự nhiên sinh động của bán đảo Nhơn Hội, PDR đã góp phần kiến tạo một khu
+dân cư vùng duyên hải giàu tiện ích và giá trị kinh tế - nhân sinh. Bên cạnh rừng và biển sẵn có với vẻ đẹp
+thiên phú, dự án này được thiết kế - quy hoạch hợp lý với các khu vực nhà ở cao tầng – thấp tầng, trung tâm
+kinh doanh – thương mại, công viên sinh thái, hồ bơi, khu vui chơi, thể thao, trường học, bệnh viện, quảng
+trường biển… để trở thành một không gian đô thị lý tưởng trong tương lai gần.
+Trên nền tảng do PDR kiến tạo, KĐT Du lịch Sinh thái Nhơn Hội được các đối tác tiếp tục phát triển với các
+tên gọi thương mại như Nhon Hoi New City, Ky Co Gateway... Trong vài năm qua, dự án này đã góp phần
+quan trọng làm thay đổi diện mạo của bán đảo Nhơn Hội, TP. Quy Nhơn, hình thành một trục phát triển kinh
+tế - xã hội – văn hóa - du lịch và phong cách sống của Bình Định cùng cả khu vực duyên hải Nam Trung Bộ.
+KĐT Du lịch Sinh thái Nhơn Hội còn nằm trên trục kết nối các tuyến giao thông huyết mạch và đường bay
+quốc tế nên chắc chắn sẽ còn phát huy vai trò và giá trị khi thị trường phục hồi, trở thành điểm đến không
+chỉ của cả cư dân, nhà đầu tư và du khách.
+TP. Quy Nhơn, tỉnh Bình Định
+ASTRAL CITY
+DỰ ÁN MỞ RỘNG ĐỘ PHỦ CỦA PDR TẠI THỊ TRƯỜNG TRỌNG ĐIỂM
+PHÍA NAM
+Sau vùng duyên hải miền Trung, PDR đẩy mạnh tốc độ chinh phục các đô thị trẻ giàu tiềm năng khu vực
+miền Nam, đặc biệt là các đô thị phụ cận TP.HCM. PDR chọn Bình Dương là địa phương ưu tiên vì nhu cầu
+thị trường và mức độ sẵn sàng phát triển đều đã rất cao.
+Theo đó, PDR đã mở đường cho độ phủ của mình tại Bình Dương bằng Astral City - gồm Astral City 1 và 2.
+Ngay khi vừa hiện diện, Astral City đã sớm xác lập ấn tượng mạnh với thị trường qua quy mô và cách thức
+triển khai của PDR, trở thành “biểu tượng tâm điểm đô thị hạt nhân” của TP. Thuận An và cả khu vực lân cận.
+Dự án không chỉ có sức hút mạnh với khách hàng tại địa phương, mà còn nhận được quan tâm lớn của giới
+đầu tư từ các tỉnh thành xung quanh.
+Trải rộng trên 3,7ha với 300m mặt tiền thuộc cung đường đắt giá của QL13 (đoạn được quy hoạch trở thành
+đại lộ tài chính, thương mại, dịch vụ lớn nhất Bình Dương), tọa lạc trên địa thế lý tưởng ngay cửa ngõ “thủ
+phủ công nghiệp”, Astral City sở hữu “vị trí vàng” khi dễ dàng kết nối với các khu vực kinh tế trọng điểm từ
+TP.HCM đến TP. Dĩ An, TP. Thủ Dầu Một và các địa phương lân cận đang vươn mình mạnh mẽ. Đồng thời,
+xung quanh Astral City cũng đã sẵn sàng môi trường tiện ích, giải trí, y tế, giáo dục, phong cách sống sôi
+động nhất khu vực phía Nam.
+Astral City do PDR đầu tư và kiến tạo không chỉ đánh dấu bước vươn mình của PDR mà còn góp phần tạo
+động lực mới cho sự phát triển về kinh tế - xã hội cho toàn khu vực xung quanh dự án.
+Sau giai đoạn kiến tạo dự án, PDR thực hiện chuyển nhượng Astral City cho đối tác tiếp tục phát triển và
+vận hành.
+TP. Thuận An, tỉnh Bình Dương
+
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+Gồm các cổ đông có quyền biểu quyết, là cơ quan quyết định cao nhất của
+Công ty. Trong năm, Công ty đã tổ chức cuộc họp ĐHĐCĐ thường niên để
+thông qua các vấn đề thuộc thẩm quyền quyết định của ĐHĐCĐ.
+HỘI ĐỒNG QUẢN TRỊ
+Là cơ quan quản lý Công ty, có toàn quyền nhân danh Công ty để quyết định,
+thực hiện các quyền và nghĩa vụ của Công ty không thuộc thẩm quyền của
+ĐHĐCĐ.
+HĐQT phân công các thành viên phụ trách các lĩnh vực chủ chốt của Công
+ty. Khi cần quyết định các vấn đề quan trọng, HĐQT sẽ triệu tập cuộc họp để
+thành viên phụ trách lĩnh vực báo cáo. Các thành viên khác của HĐQT sẽ trao
+đổi, thảo luận, đưa ý kiến đánh giá… HĐQT có quyết định cuối cùng dựa trên
+biểu quyết tán thành.
+Trong năm qua, PDR đã bắt đầu HĐQT của nhiệm kỳ mới với 06 thành viên.
+Trong đó, có 02 thành viên độc lập và 02 thành viên không điều hành. Nhiệm
+kỳ của thành viên HĐQT là 05 năm, bắt đầu từ năm 2023.
+Cơ cấu và tổ chức của HĐQT nhiệm kỳ mới cũng được tinh gọn để linh hoạt
+hơn. Tuy nhiên, vẫn đảm bảo tính đa dạng và cân bằng từ phương diện chuyên
+môn đến vai trò của các thành viên. Qua đó, tinh thần tuân thủ pháp luật, năng
+lực giám sát và hiệu quả điều hành cũng chặt chẽ hơn. Vai trò, năng lực và tính
+độc lập của UBKT cũng được đảm bảo.
+ỦY BAN KIỂM TOÁN
+Được thành lập theo đúng yêu cầu của Chính phủ về QTCT, gồm các thành
+viên có chuyên môn và kinh nghiệm phù hợp. UBKT có vai trò tham mưu, giúp
+việc cho HĐQT trong việc giám sát tính trung thực của các BCTC, tính tuân
+thủ pháp luật của Công ty và thực hiện các chức năng, nhiệm vụ theo Quy chế
+QTCT.
+TỔNG GIÁM ĐỐC
+TGĐ là người điều hành hoạt động kinh doanh và công việc hàng ngày của
+Công ty, do HĐQT chọn lựa và bổ nhiệm trong số các thành viên HĐQT.
+Nhiệm kỳ của TGĐ là 05 năm kể từ ngày được bổ nhiệm. Hỗ trợ cho TGĐ có
+các Phó TGĐ và giám đốc chức năng.
+PDR tiếp tục áp dụng mô hình quản trị đã được
+thiết kế phù hợp cho nhu cầu và đặc điểm của
+doanh nghiệp mình trên cơ sở tuân thủ các quy
+định tại Luật Doanh nghiệp, Nghị định của Chính
+phủ về QTCT và các thông lệ quốc tế theo tiêu
+chuẩn hiện hành.
+CẤU TRÚC TỔ CHỨC,
+QUẢN LÝ VÀ BAN LÃNH ĐẠO
+ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+HỘI ĐỒNG QUẢN TRỊ
+TỔNG GIÁM ĐỐC
+PHÓ TGĐ
+Phòng
+Kế Hoạch
+PHÒNG
+PHÁP LÝ
+PHÒNG
+QUẢN LÝ
+DỰ ÁN BT
+PHÒNG
+CÔNG NGHỆ
+THÔNG TIN
+PHÒNG
+NHÂN SỰ
+PHÒNG
+HÀNH CHÍNH
+Phòng
+Phát Triển
+Phòng
+Thiết Kế
+PHÓ TGĐ
+PHÓ TGĐ
+Phòng
+Dự Toán
+Phòng
+Điều Hành
+Thiết Kế
+Phòng
+Quản Lý
+Mua Sắm
+Phòng
+Quản Lý
+Thanh Toán
+Phòng
+Quản Lý
+Phòng
+Quan Hệ
+Nhà Đầu Tư
+Phòng
+Nguồn vốn
+Phòng
+Tài Chính &
+Kế Toán
+PHÓ TGĐ
+PHÓ TGĐ
+Phòng
+Kinh Doanh
+Phòng
+Phát Triển
+PHÒNG
+KIỂM SOÁT
+VĂN PHÒNG
+QUẢN TRỊ
+ỦY BAN KIỂM TOÁN
+BAN KIỂM TOÁN NỘI BỘ
+Phòng
+Tiếp Thị &
+Truyền Thông
+Phòng
+Dịch vụ
+Khách hàng
+PHÓ TGĐ
+Phòng
+Quản Lý
+Xây Dựng 1
+PHÓ TGĐ
+Phòng
+Quản Lý
+Xây Dựng 2
+
+BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+NĂM 2024: NỘI LỰC MỚI – VẬN HỘI MỚI
+BÁO CÁO CỦA BAN TGĐ
+ĐỘI NGŨ LÃNH ĐẠO
+CÔNG TY CP PHÁT TRIỂN BĐS PHÁT ĐẠT
+Năm sinh: 1977
+Trình độ chuyên môn: Thạc sĩ Quản trị Kinh doanh
+Quá trình công tác:
+Ông tham gia vào PDR từ 09/2023 với vai trò Phó TGĐ.
+Trước PDR, ông đã làm việc tại các doanh nghiệp như Hung
+Thinh Land, BW Industrial Development JSC, Novaland
+Group, Temasek International…
+Ông PHAN LÊ HÒA
+PHÓ TỔNG GIÁM ĐỐC
+Năm sinh: 1978
+Trình độ chuyên môn: Thạc sĩ ngành Cơ Kỹ thuật
+Quá trình công tác:
+Ông tham gia vào PDR từ 2016 đến nay với các vai trò
+như giám đốc dự án, giám đốc quản lý xây dựng,
+Phó TGĐ.
+Ngoài vai trò Phó TGĐ tại PDR, ông còn giữ vị trí TGĐ
+Công ty TNHH Đầu tư Xây dựng Công trình PĐP và
+Công ty CP Địa ốc Sài Gòn – KL.
+Trước PDR, ông làm việc tại Tổng Công ty Xây dựng Số
+1 (CC1), Công ty CP Xây dựng 9.2 Hà Nội, Công ty CP
+Constrexim Số 1 (Confitech), Công ty TNHH Đầu tư Xây
+dựng Mekong.
+Ông NGUYỄN KHẮC SINH
+PHÓ TỔNG GIÁM ĐỐC
+Năm sinh: 1974
+Trình độ chuyên môn: Kỹ sư Xây dựng, Cử nhân Luật
+Quá trình công tác:
+Ông làm việc tại PDR từ 2021 đến nay với vai trò Phó
+TGĐ Xây dựng.
+Trước PDR, ông làm việc tại Công ty CP Xây lắp Thương
+mại 2 (ACSC), Công ty CP Sữa Việt Nam (Vinamilk), Công
+ty CP Xây dựng số 1 (COFICO), Công ty CP Xây dựng
+Công nghiệp Descon, Công ty CP Thương mại Xây dựng
+LACONS và Công ty CP Tập đoàn Đầu tư Địa ốc No Va.
+Ông NGUYỄN ĐÌNH TRÍ
+PHÓ TỔNG GIÁM ĐỐC
+Năm sinh: 1984
+Trình độ chuyên môn: Thạc sĩ ngành Quản lý Dự án
+Quá trình công tác:
+Ông tham gia vào PDR từ 2007 qua nhiều vai trò như
+kỹ sư xây dựng, giám sát công trình, phụ trách phòng
+Quản lý Xây dựng, giám đốc quản lý thiết kế, Phó TGĐ.
+Ngoài PDR, ông còn đảm nhận vai trò Phó TGĐ Công
+ty CP Đầu tư Phú Mỹ Hưng và Phó TGĐ Xây dựng –
+Công ty CP Đầu tư và Phát triển Vĩnh Hội.
+Ông TRƯƠNG NGỌC DŨNG
+PHÓ TỔNG GIÁM ĐỐC

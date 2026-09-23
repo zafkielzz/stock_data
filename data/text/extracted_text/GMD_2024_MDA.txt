@@ -1,213 +1,128 @@
 Chương I: Kiến Tạo Nền Tảng
-10.
 Thông điệp của Chủ tịch Hội đồng quản trị
-12.
 Sứ mệnh – Tầm nhìn – Giá trị cốt lõi của Công ty
-14.
 Giới thiệu về Gemadept
-16.
 Quá trình hình thành và phát triển
-18.
 Ngành nghề kinh doanh và các dịch vụ
-22.
 Công ty con – Công ty liên kết, liên doanh
-02. Mục Lục
 05. Giới thiệu về Gemadept
 06. Danh mục các từ viết tắt
 07. Thông tin Công ty
 Chương II: Lan Tỏa Giá Trị
-28.
 Sơ đồ tổ chức và cơ cấu quản trị
-29.
 Hội đồng quản trị - Ban kiểm soát – Ban Tổng giám đốc
-32.
 Thông tin cổ đông và cổ phần
-37.
 Quá trình tăng vốn điều lệ từ khi cổ phần hóa
-38.
 Báo cáo của Hội đồng quản trị
-44
 Báo cáo Đánh giá của Thành viên HĐQT Độc lập
-45.
 Báo cáo của Ban kiểm soát
-48.
 Báo cáo của Ban Tổng giám đốc
-62.
-Lương, thưởng, thù lao, các khoản lợi ích của các thành 
+Lương, thưởng, thù lao, các khoản lợi ích của các thành
 viên quản lý chủ chốt
-64.
 Báo cáo quản lý rủi ro
-69.
 Báo cáo hoạt động quan hệ nhà đầu tư
 Chương III: Xây Đắp Tương Lai
-72.
 Khối cảng Phước Long và Bình Dương
-77.
 Cảng Nước sâu Gemalink
-82.
 Cảng Nam Hải
-83.
 Cảng Nam Hải Đình Vũ
-84.
 Cụm Cảng Nam Đình Vũ
-87.
 Cảng Nam Hải ICD
-89.
 Cảng Dung Quất
-92.
 Báo cáo hoạt động Logistics
-96.
 Vận tải container quốc tế và nội thủy
-97.
 Vận tải hàng siêu trường siêu trọng
-98.
 Đại lý tàu biển
-98.
 Đầu tư, quản lý đội tàu
-100.
 Cảng hàng hóa hàng không SCSC
-103.
 Mekong Logistics
-106.
 Trung tâm tiếp vận xe ô tô K’line Gemadept (KGL)
-108.
 Đầu tư chiến lược - Trồng rừng
-110.
 Đầu tư chiến lược - Bất động sản
 Chương IV: Tăng Trưởng Bền Vững
-114
 Báo cáo của ban Tổng Giám Đốc
-117
 Báo cáo Kiểm toán năm 2023
-118
 Bảng cân đối kế toán hợp nhất
-123
 Báo cáo Lưu chuyển tiền tệ hợp nhất
-126
 Phụ lục 1
-128
 Phụ lục 2
-130
 Phụ lục 3
-132
 Phụ lục 4
-MỤC LỤC
-BÁO CÁO THƯỜNG NIÊN 2024
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-6
-7
-BCPTBV	
+BCPTBV
 Báo cáo phát triển bền vững
-BCTC	 	
-Báo cáo tài chính
-BCTN	 	
-Báo cáo thường niên
-BKS	
-	
+BCTC
+BCTN
 Ban kiểm soát
-BTGĐ	 	
+BTGĐ
 Ban tổng giám đốc
-Công ty	
+Công ty
 Công ty Cổ phần Gemadept
-CAGR	 	
+CAGR
 Tăng trưởng kép bình quân
-CBTT	 	
+CBTT
 Công bố thông tin
-CBCNV		
+CBCNV
 Cán bộ công nhân viên
-CPI	
-	
 Chỉ số giá tiêu dùng
-CTCP	
-	
+CTCP
 Công ty cổ phần
-ĐHĐCĐ		
+ĐHĐCĐ
 Đại hội đồng cổ đông
-EBITDA	
+EBITDA
 Thu nhập trước thuế, khấu hao và lãi vay
-ERP	
-	
 Phần mềm quản lý
-GDP	
-	
 Tổng sản phẩm quốc nội
-Gemadept	
+Gemadept
 Công ty Cổ phần Gemadept
-HOSE	 	
+HOSE
 Sở Giao dịch Chứng khoán TP.HCM
-HĐQT	 	
+HĐQT
 Hội đồng quản trị
-PR-IR	 	
+PR-IR
 Quan hệ công chúng – Quan hệ nhà đầu tư
-M&A	
-	
 Mua bán và sáp nhập
-MTV	
-	
 Một thành viên
-PTBV	 	
+PTBV
 Phát triển bền vững
-QLRR	 	
+QLRR
 Quản lý rủi ro
-R&D	
-	
-Nghiên cứu và phát triển 
-ROA	
-	
+Nghiên cứu và phát triển
 Lợi nhuận sau thuế / Tổng tài sản
-ROE	
-	
 Lợi nhuận sau thuế / Vốn chủ sở hữu
-TNHH	 	
+TNHH
 Trách nhiệm hữu hạn
-TP.HCM	
+TP.HCM
 Thành phố Hồ Chí Minh
-TSCĐ	 	
+TSCĐ
 Tài sản cố định
-UBCKNN	
+UBCKNN
 Ủy ban Chứng khoán Nhà nước
-VAS	
-	
 Chuẩn mực kế toán Việt Nam
 DANH MỤC CÁC TỪ VIẾT TẮT
-BAN BIÊN TẬP BÁO CÁO THƯỜNG NIÊN – BÁO CÁO PHÁT TRIỂN BỀN VỮNG	
-Thẩm quyền phê duyệt báo cáo : 	
-	
+Thẩm quyền phê duyệt báo cáo :
 Nguyễn Thanh Bình  - Tổng giám đốc
-Trưởng ban biên tập: 
-	
-Nguyễn Thị Thu Thảo - TP. Quan hệ Công chúng và Nhà đầu tư	
-Thành viên: 
-	
+Trưởng ban biên tập:
+Nguyễn Thị Thu Thảo - TP. Quan hệ Công chúng và Nhà đầu tư
+Thành viên:
 Nguyễn Hoàng Anh  - Trưởng nhóm  PR-IR
-	
 Đỗ Ngọc Khánh Nhi   - Chuyên viên PR-IR
-	
 Nguyễn Diệu Anh      - Chuyên viên PR-IR
-	
 Phạm Hoàng Thu Uyên - Chuyên viên PR-IR
-THÔNG TIN LIÊN HỆ BAN BIÊN TẬP: 
+THÔNG TIN LIÊN HỆ BAN BIÊN TẬP:
 Phòng Quan hệ Công chúng và Nhà đầu tư
-	
-Trụ sở chính Công ty Cổ phần Gemadept 
-	
-Lầu 21, Số 6 Lê Thánh Tôn, Phường Bến Nghé, 
-	
+Trụ sở chính Công ty Cổ phần Gemadept
+Lầu 21, Số 6 Lê Thánh Tôn, Phường Bến Nghé,
 Quận 1, TP.HCM
-	
-Tel: (84.28) 38 236 236 / Ext: 117
-	
 Email: ir@gemadept.com.vn
 Tên Công ty
 Tên tiếng Anh
@@ -216,207 +131,191 @@ Mã cổ phiếu
 Vốn điều lệ
 Trụ sở chính
 Điện thoại
-Fax
 Email
 Website
 : Công ty Cổ phần Gemadept
-: Gemadept Corporation 
-: GMD
-: 0301116791
-: 4.139.826.090.000 VNĐ (tại thời điểm 31/12/2024) 
+: Gemadept Corporation
 : Số 6 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP.HCM
-: (84.28) 38 236 236  
-: (84.28) 38 235 236  
 : info@gemadept.com.vn
 : www.gemadept.com.vn
 THÔNG TIN CÔNG TY
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
 Chủ Tịch Hội Đồng Quản Trị
 Đỗ Văn Nhân
-Báo cáo thường niên
 Gemadept Corporation
-10
-11
 Thông điệp của
 CHỦ TỊCH HỘI ĐỒNG QUẢN TRỊ
-Thay mặt Hội đồng Quản trị, Ban Tổng giám đốc 
-cùng toàn thể Cán bộ Nhân viên Gemadept, tôi xin 
-chân thành cám ơn quý vị Cổ đông, quý Khách hàng, 
-Đối tác, các Cơ quan chức năng và các bên hữu quan 
-luôn quan tâm, tin tưởng, ủng hộ và đồng hành cùng 
-Gemadept trong suốt hành trình phát triển 35 năm 
-qua. 
-Năm 2024 thế giới tiếp tục đối diện với nhiều 
-biến động mạnh mẽ. Tình hình địa chính trị các nước 
-và căng thẳng tại Biển Đỏ tiếp tục diễn biến phức 
-tạp, tác động lên các mạch máu chuỗi cung ứng và 
-hoạt động giao thương toàn cầu. Kinh tế thế giới 
-tiếp tục quá trình phục hồi chậm và không đồng đều. 
-Các thị trường xuất khẩu chủ lực của chúng ta như 
-Châu Âu, Mỹ, Trung Quốc... đối mặt với nhiều thách 
+Thay mặt Hội đồng Quản trị, Ban Tổng giám đốc
+cùng toàn thể Cán bộ Nhân viên Gemadept, tôi xin
+chân thành cám ơn quý vị Cổ đông, quý Khách hàng,
+Đối tác, các Cơ quan chức năng và các bên hữu quan
+luôn quan tâm, tin tưởng, ủng hộ và đồng hành cùng
+Gemadept trong suốt hành trình phát triển 35 năm
+Năm 2024 thế giới tiếp tục đối diện với nhiều
+biến động mạnh mẽ. Tình hình địa chính trị các nước
+và căng thẳng tại Biển Đỏ tiếp tục diễn biến phức
+tạp, tác động lên các mạch máu chuỗi cung ứng và
+hoạt động giao thương toàn cầu. Kinh tế thế giới
+tiếp tục quá trình phục hồi chậm và không đồng đều.
+Các thị trường xuất khẩu chủ lực của chúng ta như
+Châu Âu, Mỹ, Trung Quốc... đối mặt với nhiều thách
 thức.
-Bằng sự kiên cường, chủ động, linh hoạt và đồng 
-lòng của Chính phủ cùng cộng đồng doanh nghiệp, 
-Việt Nam đã có sự lội ngược dòng đáng ghi nhận với 
-tăng trưởng cả năm đạt 7,09% - là điểm sáng tăng 
+Bằng sự kiên cường, chủ động, linh hoạt và đồng
+lòng của Chính phủ cùng cộng đồng doanh nghiệp,
+Việt Nam đã có sự lội ngược dòng đáng ghi nhận với
+tăng trưởng cả năm đạt 7,09% - là điểm sáng tăng
 trưởng kinh tế trong khu vực và thế giới.
-Đối với Gemadept, năm 2024 là một năm khá 
-thành công khi chúng ta đã hoàn thành vượt các chỉ 
-tiêu về Doanh thu, Lợi nhuận được Đại hội đồng Cổ 
-đông tin tưởng giao phó, tạo tiền đề quan trọng để 
-hoàn thành kế hoạch Tầm nhìn 2025, và là cơ sở để 
-Công ty hướng đến những mục tiêu trong Tầm nhìn 
-5 năm tiếp theo (2026-2030).
-Tại cửa ngõ miền Bắc, hiện nay chúng ta đang 
-khẩn trương hoàn thiện thi công Giai đoạn 3 của 
-cụm cảng Nam Đình Vũ, dự kiến hoàn thành đưa vào 
-khai thác ngay trong Q.4/2025, tăng thêm 50% so 
-với công suất hiện hữu, nâng tổng công suất của 
-cụm cảng lên gần 2 triệu TEU. Dự án sở hữu nhiều 
-lợi thế vượt trội, khi hoàn thành có thể tiếp nhận 7 
+Đối với Gemadept, năm 2024 là một năm khá
+thành công khi chúng ta đã hoàn thành vượt các chỉ
+tiêu về Doanh thu, Lợi nhuận được Đại hội đồng Cổ
+đông tin tưởng giao phó, tạo tiền đề quan trọng để
+hoàn thành kế hoạch Tầm nhìn 2025, và là cơ sở để
+Công ty hướng đến những mục tiêu trong Tầm nhìn
+Tại cửa ngõ miền Bắc, hiện nay chúng ta đang
+khẩn trương hoàn thiện thi công Giai đoạn 3 của
+cụm cảng Nam Đình Vũ, dự kiến hoàn thành đưa vào
+khai thác ngay trong Q.4/2025, tăng thêm 50% so
+với công suất hiện hữu, nâng tổng công suất của
+cụm cảng lên gần 2 triệu TEU. Dự án sở hữu nhiều
+lợi thế vượt trội, khi hoàn thành có thể tiếp nhận 7
 tàu feeder cùng lúc.
-Đặc biệt, chúng ta là doanh nghiệp tiên phong 
-trong ngành Hàng hải được Chính phủ giao triển 
-khai dự án Quốc gia, nâng cấp luồng Kênh Hà Nam. 
-Dự án góp phần khơi thông luồng lạch, gia tăng sức 
-chở của tàu, tiết giảm thời gian và chi phí Logistics, 
-đồng thời gia tăng lợi thế vượt trội của cụm cảng 
-Hải Phòng nói chung và cảng Nam Đình Vũ nói riêng. 
-Tại phía Nam, Cảng Gemalink giai đoạn 1 đã thiết 
-lập những kỷ lục mới về năng suất xếp dỡ trong 
-lịch sử của ngành khai thác cảng Việt Nam, góp 
-phần nâng cao năng lực cạnh tranh của cụm cảng 
-Cái Mép, là cơ sở để chúng ta triển khai xây dựng 
-Gemalink giai đoạn 2A trong năm 2025, tăng thêm 
-gần 50% so với công suất hiện hữu, để đưa vào khai 
-thác dự kiến trong vòng 18 tháng sau khởi công. 
-Cảng Gemalink đã và đang đóng góp tích cực nâng 
-cao vị thế cụm cảng Cái Mép lên vị trí thứ 7 toàn 
-cầu về hiệu quả khai thác (theo World Bank 2024), 
-hướng đến trở thành một Trung tâm trung chuyển 
-quan trọng hàng đầu châu Á. 
-Bước sang năm 2025, chúng ta có sự khởi đầu 
-khá thuận lợi trong Quý 1 với GDP tăng 6,93%, cho 
-thấy kinh tế vĩ mô ổn định, lạm phát được kiểm soát 
-và các cân đối lớn tiếp tục được đảm bảo. Tuy nhiên, 
-việc Mỹ đang xem xét áp dụng chính sách thuế 
-quan mới với các nước được dự báo sẽ tác động đến 
-kinh tế toàn cầu, trong đó có Việt Nam. Việc này 
-cũng thúc đẩy tiến trình Việt Nam tái cấu trúc nền 
-kinh tế, đa dạng hóa thị trường và chuỗi cung ứng. 
-Giai đoạn 3 tháng kể từ khi Mỹ tuyên bố tạm dừng 
-áp thuế đối ứng với hầu hết các quốc gia là thời gian 
-thuận lợi để đẩy mạnh hoạt động xuất nhập khẩu, 
-tích cực đàm phán thuế quan, xây dựng kế hoạch 
-thích ứng và chuẩn bị các nguồn lực cho thời gian 
-tới. 
-Năm 2025, Gemadept bước vào tuổi 35 tròn đầy, 
+Đặc biệt, chúng ta là doanh nghiệp tiên phong
+trong ngành Hàng hải được Chính phủ giao triển
+khai dự án Quốc gia, nâng cấp luồng Kênh Hà Nam.
+Dự án góp phần khơi thông luồng lạch, gia tăng sức
+chở của tàu, tiết giảm thời gian và chi phí Logistics,
+đồng thời gia tăng lợi thế vượt trội của cụm cảng
+Hải Phòng nói chung và cảng Nam Đình Vũ nói riêng.
+Tại phía Nam, Cảng Gemalink giai đoạn 1 đã thiết
+lập những kỷ lục mới về năng suất xếp dỡ trong
+lịch sử của ngành khai thác cảng Việt Nam, góp
+phần nâng cao năng lực cạnh tranh của cụm cảng
+Cái Mép, là cơ sở để chúng ta triển khai xây dựng
+Gemalink giai đoạn 2A trong năm 2025, tăng thêm
+gần 50% so với công suất hiện hữu, để đưa vào khai
+thác dự kiến trong vòng 18 tháng sau khởi công.
+Cảng Gemalink đã và đang đóng góp tích cực nâng
+cao vị thế cụm cảng Cái Mép lên vị trí thứ 7 toàn
+cầu về hiệu quả khai thác (theo World Bank 2024),
+hướng đến trở thành một Trung tâm trung chuyển
+quan trọng hàng đầu châu Á.
+Bước sang năm 2025, chúng ta có sự khởi đầu
+khá thuận lợi trong Quý 1 với GDP tăng 6,93%, cho
+thấy kinh tế vĩ mô ổn định, lạm phát được kiểm soát
+và các cân đối lớn tiếp tục được đảm bảo. Tuy nhiên,
+việc Mỹ đang xem xét áp dụng chính sách thuế
+quan mới với các nước được dự báo sẽ tác động đến
+kinh tế toàn cầu, trong đó có Việt Nam. Việc này
+cũng thúc đẩy tiến trình Việt Nam tái cấu trúc nền
+kinh tế, đa dạng hóa thị trường và chuỗi cung ứng.
+Giai đoạn 3 tháng kể từ khi Mỹ tuyên bố tạm dừng
+áp thuế đối ứng với hầu hết các quốc gia là thời gian
+thuận lợi để đẩy mạnh hoạt động xuất nhập khẩu,
+tích cực đàm phán thuế quan, xây dựng kế hoạch
+thích ứng và chuẩn bị các nguồn lực cho thời gian
+Năm 2025, Gemadept bước vào tuổi 35 tròn đầy,
 cũng là năm cuối hiện thực hóa Tầm nhìn 2021-
-2025 và tạo nền tảng cho việc xây dựng Tầm nhìn 
-2030. Với lợi thế vượt trội về Hệ sinh thái tích hợp 
-Cảng và Logistics, kết nối giao thương giữa Việt 
-Nam với ASEAN, toàn vùng nội Á và Châu Âu, Châu 
-Mỹ, Châu Phi…, chúng ta giữ vững tâm thế, linh hoạt 
-ứng phó với những biến động của thị trường; đẩy 
-mạnh hợp tác đối tác; chủ động tìm kiếm cơ hội đầu 
-tư vào các dự án Quốc gia cũng như các dự án tăng 
-cường sản xuất kinh doanh. 
+2025 và tạo nền tảng cho việc xây dựng Tầm nhìn
+2030. Với lợi thế vượt trội về Hệ sinh thái tích hợp
+Cảng và Logistics, kết nối giao thương giữa Việt
+Nam với ASEAN, toàn vùng nội Á và Châu Âu, Châu
+Mỹ, Châu Phi…, chúng ta giữ vững tâm thế, linh hoạt
+ứng phó với những biến động của thị trường; đẩy
+mạnh hợp tác đối tác; chủ động tìm kiếm cơ hội đầu
+tư vào các dự án Quốc gia cũng như các dự án tăng
+cường sản xuất kinh doanh.
 Kính thưa Quý vị Cổ đông, Quý khách hàng, Đối tác và các bên hữu quan,
-Đồng hành cùng Chính phủ và cộng đồng Doanh nghiệp, Gemadept với ý chí kiên định và niềm tin vững chắc, tiếp tục 
-nỗ lực hết sức mình cùng các Khách hàng, Đối tác, Cổ đông vững vàng, hợp lực vượt qua giai đoạn thử thách để cùng 
-đưa Đất nước tiến lên trên con đường phát triển. 
-Thay mặt Hội đồng Quản trị và Ban Tổng giám đốc, tôi xin kính chúc quý vị Cổ đông, quý Khách hàng, Đối tác và các 
+Đồng hành cùng Chính phủ và cộng đồng Doanh nghiệp, Gemadept với ý chí kiên định và niềm tin vững chắc, tiếp tục
+nỗ lực hết sức mình cùng các Khách hàng, Đối tác, Cổ đông vững vàng, hợp lực vượt qua giai đoạn thử thách để cùng
+đưa Đất nước tiến lên trên con đường phát triển.
+Thay mặt Hội đồng Quản trị và Ban Tổng giám đốc, tôi xin kính chúc quý vị Cổ đông, quý Khách hàng, Đối tác và các
 bên hữu quan sức khỏe, an lành, hạnh phúc và thành công!
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Khởi nghiệp - trực thuộc Liên hiệp 
-Hàng hải Việt Nam. 
-Tiên phong cổ phần hóa. 
-Triển khai các dịch vụ vận tải 
+Khởi nghiệp - trực thuộc Liên hiệp
+Hàng hải Việt Nam.
+Tiên phong cổ phần hóa.
+Triển khai các dịch vụ vận tải
 container đầu tiên.
-Khai sinh cảng cạn 
-đầu tiên tại Việt Nam - 
+Khai sinh cảng cạn
+đầu tiên tại Việt Nam -
 Phước Long ICD.
-Mở các tuyến vận tải 
-container đầu tiên 
+Mở các tuyến vận tải
+container đầu tiên
 trên sông Mekong.
-Đạt vị trí thứ 2 cả 
-nước về sản lượng xếp 
+Đạt vị trí thứ 2 cả
+nước về sản lượng xếp
 dỡ container.
 Niêm yết
 cổ phiếu Gemadept
 trên TTCK.
-Vươn tầm khu vực, mở các chi 
+Vươn tầm khu vực, mở các chi
 nhánh tại nước ngoài.
-Mở 4 tuyến vận tải đường biển, 
-thành lập 3 công ty liên doanh với 
+Mở 4 tuyến vận tải đường biển,
+thành lập 3 công ty liên doanh với
 đối tác quốc tế lớn.
-Đột phá đầu tư cảng Container 
-tư nhân tại 
+Đột phá đầu tư cảng Container
+tư nhân tại
 Dung Quất, Quảng Ngãi.
-Chiến lược trở thành nhà khai thác 
-cảng hàng đầu miền Bắc - Khai 
-trương Cảng Nam Hải tại Hải Phòng. 
-Công ty cổ phần đầu tiên 
-tham gia sở hữu và khai thác 
-cảng hàng hóa hàng không 
-(SCSC); Nâng tỷ lệ sở hữu 
-trong Công ty Cảng Nam Hải 
-lên 99,98%.
-Khởi động chiến lược Logistics, 
-với các Trung tâm Logistics quy 
-mô, hiện đại tại TP.HCM; từ đó 
-nhân rộng ra các tỉnh thành trong 
-cả nước. 
-Khai trương Cảng Nam 
-Hải Đình Vũ, bước tiến 
-nổi bật tại thị trường 
-khai thác cảng phía 
-Bắc; Nâng cấp năng 
-lực Cảng quốc tế 
-Gemadept Dung Quất 
-lên 70.000DWT
-Đưa vào khai thác Trung tâm 
-Logistics hàng lạnh - kho lạnh 
-đơn quy mô hàng đầu Đông 
-Nam Á tại vùng ĐBSCL; Triển 
-khai Nam Hải ICD - Logistics 
-tại Miền Bắc. 
-Liên doanh khai thác 
-Trung tâm Logistics Ô tô 
+Chiến lược trở thành nhà khai thác
+cảng hàng đầu miền Bắc - Khai
+trương Cảng Nam Hải tại Hải Phòng.
+Công ty cổ phần đầu tiên
+tham gia sở hữu và khai thác
+cảng hàng hóa hàng không
+(SCSC); Nâng tỷ lệ sở hữu
+trong Công ty Cảng Nam Hải
+Khởi động chiến lược Logistics,
+với các Trung tâm Logistics quy
+mô, hiện đại tại TP.HCM; từ đó
+nhân rộng ra các tỉnh thành trong
+cả nước.
+Khai trương Cảng Nam
+Hải Đình Vũ, bước tiến
+nổi bật tại thị trường
+khai thác cảng phía
+Bắc; Nâng cấp năng
+lực Cảng quốc tế
+Gemadept Dung Quất
+Đưa vào khai thác Trung tâm
+Logistics hàng lạnh - kho lạnh
+đơn quy mô hàng đầu Đông
+Nam Á tại vùng ĐBSCL; Triển
+khai Nam Hải ICD - Logistics
+tại Miền Bắc.
+Liên doanh khai thác
+Trung tâm Logistics Ô tô
 đầu tiên tại Việt Nam.
-Hợp tác chiến lược với 
-Tập đoàn CJ, đối tác 
-hàng đầu về Logistics 
+Hợp tác chiến lược với
+Tập đoàn CJ, đối tác
+hàng đầu về Logistics
 của Hàn Quốc.
-Khai trương cụm Cảng Nam 
-Đình Vũ giai đoạn 1, xác lập 
-vị thế nhà khai thác Cảng 
-hàng đầu khu vực phía Bắc; 
-SCSC chính thức niêm yết 
-trên sàn giao dịch chứng 
+Khai trương cụm Cảng Nam
+Đình Vũ giai đoạn 1, xác lập
+vị thế nhà khai thác Cảng
+hàng đầu khu vực phía Bắc;
+SCSC chính thức niêm yết
+trên sàn giao dịch chứng
 khoán HOSE, mã CK: SCS
-Khởi công dự án cảng nước sâu 
-Gemalink tại Cái Mép, BRVT; Khai 
-thác giai đoạn 2 của Trung tâm 
-Logistics hàng ô tô (KGL) tại KCN 
+Khởi công dự án cảng nước sâu
+Gemalink tại Cái Mép, BRVT; Khai
+thác giai đoạn 2 của Trung tâm
+Logistics hàng ô tô (KGL) tại KCN
 Long Hậu, tỉnh Long An.
 Mở rộng Cảng Bình Dương;
 Hoàn thành thi công, vận hành
@@ -424,67 +323,41 @@ thử nghiệm Cảng nước sâu
 Gemalink để đưa vào khai thác
 từ đầu Q.1/2021; Đẩy mạnh
 hoạt động Contract Logistics.
-Chính thức đưa Cảng nước 
-sâu Gemalink giai đoạn 1 tại 
-Cái Mép - BRVT vào khai thác; 
-Khởi công xây dựng giai đoạn 
-2 cụm cảng Nam Đình Vũ tại 
+Chính thức đưa Cảng nước
+sâu Gemalink giai đoạn 1 tại
+Cái Mép - BRVT vào khai thác;
+Khởi công xây dựng giai đoạn
+2 cụm cảng Nam Đình Vũ tại
 Hải Phòng.
- 
-Triển khai xây dựng giai 
-đoạn 2 cụm cảng Nam Đình 
-Vũ; Triển khai thành công 
-nhân rộng ứng dụng Cảng 
-thông minh (SmartPort) 
-trong hệ thống Cảng của 
-Gemadept.  
-Khai trương giai đoạn 2 cụm 
-cảng Nam Đình Vũ; Thoái vốn 
-cảng Nam Hải Đình Vũ; Triển 
-khai các ứng dụng River Gate 
+Triển khai xây dựng giai
+đoạn 2 cụm cảng Nam Đình
+Vũ; Triển khai thành công
+nhân rộng ứng dụng Cảng
+thông minh (SmartPort)
+trong hệ thống Cảng của
+Gemadept.
+Khai trương giai đoạn 2 cụm
+cảng Nam Đình Vũ; Thoái vốn
+cảng Nam Hải Đình Vũ; Triển
+khai các ứng dụng River Gate
 và Smart Gate
-Khởi công giai đoạn 3 cụm 
-cảng Nam Đình Vũ; Thoái vốn 
-cảng Nam Hải, tập trung phát 
-triển cụm cảng Nam Đình Vũ 
-trở thành cảng sông lớn nhất 
-miền Bắc; Chuẩn bị các thủ tục 
-để khởi công giai đoạn 2 cảng 
-nước sâu Gemalink. 
-1990
-1991
-1993
-1995
-1997
-2000
-2002
-2004
-2007
-2008
-2009
-2010
-2011
-2014
-2015
-2016
-2017
-2018
-2020
-2019
-2021
-2022
-2023
-2024
+Khởi công giai đoạn 3 cụm
+cảng Nam Đình Vũ; Thoái vốn
+cảng Nam Hải, tập trung phát
+triển cụm cảng Nam Đình Vũ
+trở thành cảng sông lớn nhất
+miền Bắc; Chuẩn bị các thủ tục
+để khởi công giai đoạn 2 cảng
+nước sâu Gemalink.
 QUÁ TRÌNH HÌNH THÀNH VÀ PHÁT TRIỂN
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
 LAN TỎA GIÁ TRỊ
 Chương II: LAN TỎA GIÁ TRỊ
@@ -495,23 +368,20 @@ Quá trình tăng vốn điều lệ từ khi cổ phần hóa
 Báo cáo của Hội đồng quản trị
 Báo cáo của Ban kiểm soát
 Báo cáo của Ban Tổng giám đốc
-Lương, thưởng, thù lao, các khoản lợi ích của các thành viên quản lý chủ 
+Lương, thưởng, thù lao, các khoản lợi ích của các thành viên quản lý chủ
 chốt
 Báo cáo quản lý rủi ro
 Báo cáo hoạt động quan hệ nhà đầu tư
 
-ĐẠI HỘI ĐỒNG 
 CỔ ĐÔNG
-HỘI ĐỒNG 
 QUẢN TRỊ
 CÔNG TY CON,
 LIÊN KẾT, LIÊN DOANH
-CÁC PHÒNG BAN 
+CÁC PHÒNG BAN
 CHỨC NĂNG
-BAN
 TỔNG GIÁM ĐỐC
 BAN KIỂM SOÁT
-Ông NGUYỄN THANH BÌNH 
+Ông NGUYỄN THANH BÌNH
 Thành viên HĐQT
 Ông VŨ NINH
 Thành viên HĐQT
@@ -530,39 +400,35 @@ Thành viên HĐQT Độc lập
 HỘI ĐỒNG QUẢN TRỊ
 Ông ĐỖ VĂN NHÂN
 Chủ tịch HĐQT
-Trải qua 35 năm hình thành và phát triển, Gemadept ngày nay là một doanh nghiệp hàng đầu về hệ sinh thái tích hợp 
-Cảng và Logistics tại Việt Nam. Thành quả đó được kết tinh từ sự nhiệt thành, chung sức và nỗ lực của các thế hệ 
-người Gemadept cùng với các đối tác đồng hành, dưới sự dẫn dắt của Ban lãnh đạo có năng lực, tầm nhìn, tận tụy vì 
-những giá trị tốt đẹp đem đến cho các bên liên quan, góp phần phụng sự cho sự phát triển của ngành, của nền kinh 
+Trải qua 35 năm hình thành và phát triển, Gemadept ngày nay là một doanh nghiệp hàng đầu về hệ sinh thái tích hợp
+Cảng và Logistics tại Việt Nam. Thành quả đó được kết tinh từ sự nhiệt thành, chung sức và nỗ lực của các thế hệ
+người Gemadept cùng với các đối tác đồng hành, dưới sự dẫn dắt của Ban lãnh đạo có năng lực, tầm nhìn, tận tụy vì
+những giá trị tốt đẹp đem đến cho các bên liên quan, góp phần phụng sự cho sự phát triển của ngành, của nền kinh
 tế và Đất nước.
-Hội đồng quản trị Gemadept gồm 10 thành viên - Ban kiểm soát gồm 3 thành viên và Ban Tổng giám đốc 
+Hội đồng quản trị Gemadept gồm 10 thành viên - Ban kiểm soát gồm 3 thành viên và Ban Tổng giám đốc
 gồm 4 thành viên.
-Báo cáo thường niên
 Gemadept Corporation
-30
-31
 HỘI ĐỒNG QUẢN TRỊ -  BAN KIỂM SOÁT
 BAN TỔNG GIÁM ĐỐC
 SƠ ĐỒ TỔ CHỨC VÀ CƠ CẤU QUẢN TRỊ
-Sơ đồ tổ chức của Gemadept được triển khai chặt chẽ, khoa học, đảm bảo hoạt động đúng chức năng, nhiệm vụ, phát 
-huy tối đa năng lực, chuyên môn và hiệu quả. Trách nhiệm từ các cấp Quản lý, các Phòng ban, Đơn vị cho đến từng cá 
-nhân được phân định rõ ràng, cụ thể, đảm bảo để Công ty hoạt động thông suốt, hợp lực sức mạnh tập thể, góp phần 
+Sơ đồ tổ chức của Gemadept được triển khai chặt chẽ, khoa học, đảm bảo hoạt động đúng chức năng, nhiệm vụ, phát
+huy tối đa năng lực, chuyên môn và hiệu quả. Trách nhiệm từ các cấp Quản lý, các Phòng ban, Đơn vị cho đến từng cá
+nhân được phân định rõ ràng, cụ thể, đảm bảo để Công ty hoạt động thông suốt, hợp lực sức mạnh tập thể, góp phần
 đưa Gemadept phát triển cân bằng, bền vững và trường tồn.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
 Ông LƯU TƯỜNG GIAI
 Trưởng Ban Kiểm Soát
 Bà VŨ THỊ HOÀNG BẮC
 Thành viên Ban Kiểm Soát
-Ông NGUYỄN THANH BÌNH 
+Ông NGUYỄN THANH BÌNH
 Tổng Giám Đốc
 Ông TRẦN ĐỨC THUẬN
 Thành viên Ban Kiểm Soát
@@ -577,417 +443,343 @@ Kế Toán Trưởng
 BAN KIỂM SOÁT
 KẾ TOÁN TRƯỞNG
 BAN TỔNG GIÁM ĐỐC
-Báo cáo thường niên
 Gemadept Corporation
-32
-33
 HỘI ĐỒNG QUẢN TRỊ -  BAN KIỂM SOÁT
 BAN TỔNG GIÁM ĐỐC
-Trải qua hơn 35 năm hình thành và phát triển, Gemadept ngày nay là một doanh nghiệp hàng đầu về hệ sinh thái tích 
-hợp Cảng và Logistics tại Việt Nam. Thành quả đó được kết tinh từ sự nhiệt thành, chung sức, nỗ lực và tâm huyết của 
-các thế hệ người Gemadept cùng với các đối tác đồng hành, dưới sự dẫn dắt của Ban lãnh đạo có năng lực, tầm nhìn, 
-tận tụy vì những giá trị tốt đẹp đem đến cho các bên liên quan, góp phần phụng sự cho sự phát triển của ngành, của 
-nền kinh tế và đất nước. 
+Trải qua hơn 35 năm hình thành và phát triển, Gemadept ngày nay là một doanh nghiệp hàng đầu về hệ sinh thái tích
+hợp Cảng và Logistics tại Việt Nam. Thành quả đó được kết tinh từ sự nhiệt thành, chung sức, nỗ lực và tâm huyết của
+các thế hệ người Gemadept cùng với các đối tác đồng hành, dưới sự dẫn dắt của Ban lãnh đạo có năng lực, tầm nhìn,
+tận tụy vì những giá trị tốt đẹp đem đến cho các bên liên quan, góp phần phụng sự cho sự phát triển của ngành, của
+nền kinh tế và đất nước.
 HỘI ĐỒNG QUẢN TRỊ
-Stt
 Thành viên HĐQT
 Chức vụ
 Ngày bổ nhiệm
 Ngày miễn nhiệm
-1
 Ông Đỗ Văn Nhân
 Chủ tịch HĐQT
-30/05/2018 và tái bổ nhiệm 09/06/2023
-2
 Ông Chu Đức Khang
 Phó chủ tịch HĐQT
-30/05/2018 và tái bổ nhiệm 09/06/2023
-3
-Ông Nguyễn Thanh Bình 
+Ông Nguyễn Thanh Bình
 Thành viên HĐQT
-30/06/2021 và tái bổ nhiệm 09/06/2023
-4
 Ông Vũ Ninh
 Thành viên HĐQT
-30/05/2018 và tái bổ nhiệm 09/06/2023
-5
 Bà Bùi Thị Thu Hương
 Thành viên HĐQT
-30/05/2018 và tái bổ nhiệm 09/06/2023
-6
 Bà Nguyễn Minh Nguyệt
 Thành viên HĐQT
-30/05/2018 và tái bổ nhiệm 09/06/2023
-7
 Ông Shinya Hosoi
 Thành viên HĐQT
-25/04/2022 và tái bổ nhiệm 09/06/2023
-8
-Ông Nguyễn Văn Hùng 
+Ông Nguyễn Văn Hùng
 Thành viên HĐQT độc lập
-09/06/2023
-9
 Ông Lâm Đình Dụ
 Thành viên HĐQT độc lập
-09/06/2023
-10
 Ông Nguyễn Thái Sơn
 Thành viên HĐQT độc lập
-09/06/2023
 BAN KIỂM SOÁT
-STT
-Thành viên BKS/ Ủy ban 
+Thành viên BKS/ Ủy ban
 Kiểm toán
 Chức vụ
-Ngày bắt đầu/không 
+Ngày bắt đầu/không
 còn là thành viên BKS/ Ủy ban Kiểm toán
 Trình độ chuyên môn
-1
-Ông Lưu Tường Giai    
+Ông Lưu Tường Giai
 Trưởng BKS
-30/05/2018 và tái bổ nhiệm 09/06/2023
-Thạc sỹ quản trị kinh doanh, Cử 
+Thạc sỹ quản trị kinh doanh, Cử
 nhân luật, Kỹ sư kinh tế vận tải biển.
-2
-Bà Vũ Thị Hoàng Bắc 
+Bà Vũ Thị Hoàng Bắc
 Kiểm soát viên
-30/05/2018 và tái bổ nhiệm 09/06/2023
-Cử nhân Kinh tế, Kế toán trưởng, 
+Cử nhân Kinh tế, Kế toán trưởng,
 Kiểm toán nội bộ chuyên nghiệp
-3
-Ông Trần Đức Thuận   
- Kiểm soát viên
-30/05/2018 và tái bổ nhiệm 09/06/2023
-Cử nhân Tài chính, chứng chỉ Thiết 
-lập báo cáo tài chính nội bộ, quản lý 
+Ông Trần Đức Thuận
+Kiểm soát viên
+Cử nhân Tài chính, chứng chỉ Thiết
 chi phí, thẩm định giá.
 BAN TỔNG GIÁM ĐỐC
-STT
-Thành viên Ban điều 
-hành      
+Thành viên Ban điều
+hành
 Ngày tháng năm sinh
 Trình độ chuyên môn
-Ngày bổ nhiệm/ miễn nhiệm thành 
+Ngày bổ nhiệm/ miễn nhiệm thành
 viên Ban điều hành/
-1
 Ông Nguyễn Thanh Bình
-Tổng Giám đốc  
-12/01/1968
+Tổng Giám đốc
 Cử nhân Kinh tế
-07/5/2021 và tái bổ nhiệm 
-09/06/2023
-2
+07/5/2021 và tái bổ nhiệm
 Ông Phạm Quốc Long
 Phó Tổng Giám đốc
-06/03/1963
 Cử nhân Kinh tế vận tải biển
-11/04/2013 và tái bổ nhiệm 
-12/06/2023
-3
-Ông Nguyễn Thế Dũng 
-Phó Tổng Giám đốc  
-22/11/1971
-Cử nhân Ngân Hàng
-17/04/2018 và tái bổ nhiệm 
-12/06/2023
-4
-Ông Đỗ Công Khanh 
+11/04/2013 và tái bổ nhiệm
+Ông Nguyễn Thế Dũng
 Phó Tổng Giám đốc
-05/10/1977
+Cử nhân Ngân Hàng
+17/04/2018 và tái bổ nhiệm
+Ông Đỗ Công Khanh
+Phó Tổng Giám đốc
 Cử nhân Kinh tế vận tải biển
-28/03/2019 và tái bổ nhiệm 
-12/06/2023
+28/03/2019 và tái bổ nhiệm
 KẾ TOÁN TRƯỞNG
-Họ và Tên      
+Họ và Tên
 Ngày tháng năm sinh
 Trình độ chuyên môn nghiệp vụ
 Ngày bổ nhiệm/ miễn nhiệm
 Bà Nguyễn Minh Nguyệt
-31/01/1967
 Cử nhân ngoại ngữ, kế toán
-01/05/2007 và tái bổ nhiệm 
-09/06/2023
+01/05/2007 và tái bổ nhiệm
 Ông Khoa Năng Lưu
-08/01/1968
 Cử nhân kinh tế vận tải biển, kế toán
-29/08/2024
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-44
-45
-Đánh giá thực hiện chiến lược: Hội đồng quản trị định kỳ hàng năm có yêu cầu Ban Tổng giám đốc có báo cáo đánh 
-giá việc thực hiện chiến lược Vision 2025 và đo lường các mục tiêu 5 năm; đảm bảo cho sự hoàn thành kế hoạch dài 
-hạn đồng thời với việc hoàn thành mục tiêu hàng năm. Yêu cầu báo cáo này được áp dụng cho các đơn vị sản xuất 
-chủ yếu khối cảng Miền Nam, khối Hải Phòng, Cảng nước sâu Gemalink và khối Holding Logistics. Trong Nghị quyết 
+Đánh giá thực hiện chiến lược: Hội đồng quản trị định kỳ hàng năm có yêu cầu Ban Tổng giám đốc có báo cáo đánh
+giá việc thực hiện chiến lược Vision 2025 và đo lường các mục tiêu 5 năm; đảm bảo cho sự hoàn thành kế hoạch dài
+hạn đồng thời với việc hoàn thành mục tiêu hàng năm. Yêu cầu báo cáo này được áp dụng cho các đơn vị sản xuất
+chủ yếu khối cảng Miền Nam, khối Hải Phòng, Cảng nước sâu Gemalink và khối Holding Logistics. Trong Nghị quyết
 HNSXKD 2024 có phần Đánh giá thực hiện Tầm nhìn 2025.
-Đánh giá hoạt động của Hội đồng quản trị: Các thành viên Hội đồng quản trị độc lập thực hiện lập “Báo cáo đánh 
-giá về hoạt động của Hội đồng quản trị” và được công bố trong cuốn báo cáo thường niên này. Bên cạnh đó việc đánh 
-giá hoạt động của từng thành viên HĐQT đang làm việc tại Gemadept được thực hiện liên tục thông qua hệ thống báo 
+Đánh giá hoạt động của Hội đồng quản trị: Các thành viên Hội đồng quản trị độc lập thực hiện lập “Báo cáo đánh
+giá về hoạt động của Hội đồng quản trị” và được công bố trong cuốn báo cáo thường niên này. Bên cạnh đó việc đánh
+giá hoạt động của từng thành viên HĐQT đang làm việc tại Gemadept được thực hiện liên tục thông qua hệ thống báo
 cáo tuần gửi trực tiếp tới Chủ tịch Hội đồng quản trị, và chương trình đánh giá 360 độ lấy ý kiến từ 3 cấp.
-Đánh giá chung, 2024 là một năm Gemadept đã hoàn thành ở mức cao và đồng đều các mặt; có mức lợi nhuận tăng 
-trưởng cao; thực hiện tốt Nghị quyết Đại hội đồng cổ đông; phát hành thành công cổ phiếu ra công chúng cho cổ đông 
+Đánh giá chung, 2024 là một năm Gemadept đã hoàn thành ở mức cao và đồng đều các mặt; có mức lợi nhuận tăng
+trưởng cao; thực hiện tốt Nghị quyết Đại hội đồng cổ đông; phát hành thành công cổ phiếu ra công chúng cho cổ đông
 hiện hữu, nâng vốn điều lệ lên mức mới.
 V. Đánh giá của HĐQT về hoạt động của Ban Tổng giám đốc năm 2024:
 Ban tổng giám đốc của Gemadept được Hội đồng quản trị bổ nhiệm cho giai đọan 2023-2028 gồm 4 thành viên là:
-	
 - Ông Nguyễn Thanh Bình	- Tổng giám đốc
-	
-- Ông Đỗ Công Khanh	
+- Ông Đỗ Công Khanh
 - Phó tổng giám đốc
-	
 - Ông Nguyễn Thế Dũng	 - Phó tổng giám đốc
-	
-- Ông Phạm Quốc Long	
+- Ông Phạm Quốc Long
 - Phó tổng giám đốc
-Năm 2024, Ban Tổng giám đốc đã phân công các thành viên phụ trách các mảng sản xuất chính: Khối Cảng gồm các 
-cảng Miền Nam và Hải Phòng; Khối Hollding Logistisc – và Shipping; Khối Marketing và một số đơn vị, phòng ban chức 
+Năm 2024, Ban Tổng giám đốc đã phân công các thành viên phụ trách các mảng sản xuất chính: Khối Cảng gồm các
+cảng Miền Nam và Hải Phòng; Khối Hollding Logistisc – và Shipping; Khối Marketing và một số đơn vị, phòng ban chức
 năng.
-Với năng lực, kinh nghiệm làm việc, các thành viên ban Tổng giám đốc đã thực hiện tốt nhiệm vụ trên các lĩnh vực mình 
-phụ trách thể hiện bằng kết quả chung của toàn Tập đoàn, bằng sản lượng cảng Gemalink, cảng Nam Đình Vũ tăng 
-mạnh; thực hiện được lộ trình điều chỉnh giá bốc xếp cảng biển; tham gia xã hội hóa nạo vét kênh hà nam; các dự án 
+Với năng lực, kinh nghiệm làm việc, các thành viên ban Tổng giám đốc đã thực hiện tốt nhiệm vụ trên các lĩnh vực mình
+phụ trách thể hiện bằng kết quả chung của toàn Tập đoàn, bằng sản lượng cảng Gemalink, cảng Nam Đình Vũ tăng
+mạnh; thực hiện được lộ trình điều chỉnh giá bốc xếp cảng biển; tham gia xã hội hóa nạo vét kênh hà nam; các dự án
 quan trọng đã được triển khai đúng tiến độ…
-Trong chỉ đạo điều hành, Ban tổng giám đốc đã bám sát các đơn vị sản xuất; kịp thời chỉ đạo tháo gỡ khó khăn của thị 
+Trong chỉ đạo điều hành, Ban tổng giám đốc đã bám sát các đơn vị sản xuất; kịp thời chỉ đạo tháo gỡ khó khăn của thị
 trường; tình hình biến động tuyến hàng hải; phòng ngừa và khắc phục hậu quả thiên tai bão Yagi.
-Ban Tổng giám đốc cũng đã chủ động tăng cường tham vấn, tổ chức các cuộc họp xin ý kiến mở rộng với Hội đồng 
+Ban Tổng giám đốc cũng đã chủ động tăng cường tham vấn, tổ chức các cuộc họp xin ý kiến mở rộng với Hội đồng
 quản trị tạo sự thống nhất cao trong toàn hệ thống.
-Hội đồng quản trị, thông qua công tác đánh giá cán bộ, qua việc kiểm tra giám sát, và qua các phiên họp định kỳ, phối 
-hợp chỉ đạo hàng quý… đánh giá cao Ban Tổng giám đốc về những cố gắng nỗ lực; về phương pháp điều hành và biện 
-pháp ngắn hạn góp phần quan trọng nhất để thực hiện Nghị quyết Đại hội đồng cổ đông, nghị quyết của Hội đồng 
+Hội đồng quản trị, thông qua công tác đánh giá cán bộ, qua việc kiểm tra giám sát, và qua các phiên họp định kỳ, phối
+hợp chỉ đạo hàng quý… đánh giá cao Ban Tổng giám đốc về những cố gắng nỗ lực; về phương pháp điều hành và biện
+pháp ngắn hạn góp phần quan trọng nhất để thực hiện Nghị quyết Đại hội đồng cổ đông, nghị quyết của Hội đồng
 quản trị, hoàn thành xuất sắc các KPI, chỉ tiêu Doanh thu lợi nhuận năm 2024.
-III. Hoạt động của các thành viên HĐQT độc lập: 
-Năm 2024, Hội đồng Quản trị Gemadept hoạt động với 03 thành viên Hội đồng quản trị độc lập (chiếm 1/3 số thành 
-viên), gồm các ông:  
-	
+III. Hoạt động của các thành viên HĐQT độc lập:
+Năm 2024, Hội đồng Quản trị Gemadept hoạt động với 03 thành viên Hội đồng quản trị độc lập (chiếm 1/3 số thành
+viên), gồm các ông:
 1- Ông Nguyễn Văn Hùng	- Thành viên HĐQT độc lập
-	
-2- Ông Lâm Đình Dụ	
+2- Ông Lâm Đình Dụ
 - Thành viên HĐQT độc lập
-	
 3- Ông Nguyễn Thái Sơn	 - Thành viên HĐQT độc lập
-	
-Do tính chất đặc thù ngành nghề của Gemadept, việc bầu chọn được 3 thành viên HĐQT độc lập từ kỳ Đại 
-hội đồng cổ đông 09/06/2023 là một nỗ lực cao, tuân thủ các quy định của pháp luật và từng bước nâng cao quản trị 
+Do tính chất đặc thù ngành nghề của Gemadept, việc bầu chọn được 3 thành viên HĐQT độc lập từ kỳ Đại
+hội đồng cổ đông 09/06/2023 là một nỗ lực cao, tuân thủ các quy định của pháp luật và từng bước nâng cao quản trị
 công ty theo hướng hiện đại.
 Sau hơn một năm hoạt động, HĐQT đánh giá cao những đóng góp của 3 thành viên HĐQT độc lập về các mặt:
--	 Thường xuyên cho ý kiến tư vấn sâu, khách quan, độc lập về các lĩnh vực chuyên môn hàng hải, quản lý, vận hành 
+-	 Thường xuyên cho ý kiến tư vấn sâu, khách quan, độc lập về các lĩnh vực chuyên môn hàng hải, quản lý, vận hành
 mà các thành viên độc lập có kinh nghiệm
--	 Trong các cuộc họp HĐQT, các thành viên độc lập đã đóng góp nhiều ý kiến giá trị với nhiều góc nhìn đa chiều 
-không chỉ về phát triển cảng biển, thị trường tàu, tuyến hàng hải, về logistics và các thông tin ngành, nghề mà 
+-	 Trong các cuộc họp HĐQT, các thành viên độc lập đã đóng góp nhiều ý kiến giá trị với nhiều góc nhìn đa chiều
+không chỉ về phát triển cảng biển, thị trường tàu, tuyến hàng hải, về logistics và các thông tin ngành, nghề mà
 những vấn đề về quản trị, chiến lược, tầm nhìn…
--	 Hoạt động của các thành viên động lập trong HĐQT Gemadept đã thể hiện tính đa dạng về quan điểm, kinh 
-nghiệm; đồng thời thể hiện tính độc lập, giám sát, khách quan; không xảy ra tình trạng xung đột, tập trung quyền 
+-	 Hoạt động của các thành viên động lập trong HĐQT Gemadept đã thể hiện tính đa dạng về quan điểm, kinh
+nghiệm; đồng thời thể hiện tính độc lập, giám sát, khách quan; không xảy ra tình trạng xung đột, tập trung quyền
 lực, mâu thuẫn lợi ích trong quá trình ra quyết định.
--	 Đóng góp và bảo vệ quyền lợi của các cổ đông trong các quyết định lớn, đặc biệt trong quá trình phát hành tăng 
+-	 Đóng góp và bảo vệ quyền lợi của các cổ đông trong các quyết định lớn, đặc biệt trong quá trình phát hành tăng
 vốn và các dự án M&A của Tập đoàn trong năm 2024.
--	 Tăng cường uy tín và tuân thủ quản trị doanh nghiệp trong bối cảnh toàn cầu hóa, yêu cầu tiêu chuẩn cao về bền 
+-	 Tăng cường uy tín và tuân thủ quản trị doanh nghiệp trong bối cảnh toàn cầu hóa, yêu cầu tiêu chuẩn cao về bền
 vững trong công tác quản trị.
-.
 IV. Đánh giá của HĐQT về các hoạt động của Công ty năm 2024
-Quyết nghị của Đại hội đồng cổ đông Gemadept ngày 25/6/2024 đã giao chỉ tiêu sản xuất kinh doanh cho năm tài 
+Quyết nghị của Đại hội đồng cổ đông Gemadept ngày 25/6/2024 đã giao chỉ tiêu sản xuất kinh doanh cho năm tài
 chính 2024 gồm:
 -	 Doanh thu thuần là 4.000 tỷ (bằng 102% so với kế hoạch 2023)
 -	 Lợi nhuận trước thuế (LNTT) là 1.686 tỷ (bằng 148% so với kế hoạch 2023)
-Đồng thời Nghị quyết cũng đưa ra các nhiệm vụ khác bao gồm: Phân phối lợi nhuận, chia cổ tức và trích lập các quỹ 
-năm 2023; Phương án phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu; thực hiện sửa đổi điều lệ điều 15 và 
+Đồng thời Nghị quyết cũng đưa ra các nhiệm vụ khác bao gồm: Phân phối lợi nhuận, chia cổ tức và trích lập các quỹ
+năm 2023; Phương án phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu; thực hiện sửa đổi điều lệ điều 15 và
 28 theo quyết định của Đại hội đồng cổ đông; Lựa chọn kiểm toán.
 Đánh giá chung về hoạt động sản xuất kinh doanh
-1.	Về mặt tài chính: Đã hoàn thành vượt mức các chỉ tiêu Doanh thu và Lợi nhuận do Đại hội đồng cổ đông giao ghi 
-trong Nghị quyết. Các chỉ tiêu này cũng là 2 KPI chính, là nhiệm vụ quan trọng nhất trong hệ thống thẻ điểm cân 
-bằng BSC/KPI (Balance Score Card) mà Gemadept đang áp dụng. Con số doanh thu và lợi nhuận đã đạt được ghi 
-trong phần báo cáo tài chính hợp nhất đã thể hiện được kết quả của những nỗ lực cao trong hoạt động sản xuất 
-kinh doanh 2024, đặc biệt là từ hoạt động khai thác Cảng và Logistics. Đồng thời trong năm 2024, công ty cũng 
-đẩy mạnh các hoạt động đầu tư và có một số M&A thành công. Những hoạt động này giúp hoạt động của công 
+1.	Về mặt tài chính: Đã hoàn thành vượt mức các chỉ tiêu Doanh thu và Lợi nhuận do Đại hội đồng cổ đông giao ghi
+trong Nghị quyết. Các chỉ tiêu này cũng là 2 KPI chính, là nhiệm vụ quan trọng nhất trong hệ thống thẻ điểm cân
+bằng BSC/KPI (Balance Score Card) mà Gemadept đang áp dụng. Con số doanh thu và lợi nhuận đã đạt được ghi
+trong phần báo cáo tài chính hợp nhất đã thể hiện được kết quả của những nỗ lực cao trong hoạt động sản xuất
+kinh doanh 2024, đặc biệt là từ hoạt động khai thác Cảng và Logistics. Đồng thời trong năm 2024, công ty cũng
+đẩy mạnh các hoạt động đầu tư và có một số M&A thành công. Những hoạt động này giúp hoạt động của công
 ty tốt hơn và gia tăng năng lực khai thác cảng, Logistics.
-2.	Về khách hàng: Công ty đã thiết lập được hệ thống chỉ đạo; quản lý xuyên suốt từ tập đoàn tới các đơn vị về 
-khách hàng thông qua việc tổ chức tốt khối Marketing H.O, nhờ đó đã nâng cao được chất lượng phục vụ cho 
-khách hàng hiện hữu, thu hút thêm được các đối tác mới, hãng tàu sử dụng dịch vụ của GMD; có thêm nhiều tuyến 
-mới.
-3.	Về quản trị & quy trình: Năm 2024 hệ thống quản trị, giám sát các công việc hàng ngày thông qua phòng RM 
-(Risk Management Department), hệ thống kế toán, kiểm toán nội bộ đã vận hành tốt. Đây là công cụ quản lý giúp 
+2.	Về khách hàng: Công ty đã thiết lập được hệ thống chỉ đạo; quản lý xuyên suốt từ tập đoàn tới các đơn vị về
+khách hàng thông qua việc tổ chức tốt khối Marketing H.O, nhờ đó đã nâng cao được chất lượng phục vụ cho
+khách hàng hiện hữu, thu hút thêm được các đối tác mới, hãng tàu sử dụng dịch vụ của GMD; có thêm nhiều tuyến
+3.	Về quản trị & quy trình: Năm 2024 hệ thống quản trị, giám sát các công việc hàng ngày thông qua phòng RM
+(Risk Management Department), hệ thống kế toán, kiểm toán nội bộ đã vận hành tốt. Đây là công cụ quản lý giúp
 nâng cao hiệu quả, phòng ngừa rủi ro; đảm bảo thu hồi công nợ…
-4.	Về học hỏi và phát triển: Hướng tới mục tiêu phát triển bền vững song song với việc đạt chỉ tiêu hàng năm. Năm 
-2024 đã triển khai các chương trình phát triển nhân lực, xây dựng đội ngũ kế thừa cùng với việc triển khai các 
-chương trình điều chỉnh lương, phát hành cổ phiếu ESPP; đẩy mạnh ứng dụng công nghệ thông tin, quản trị số; 
+4.	Về học hỏi và phát triển: Hướng tới mục tiêu phát triển bền vững song song với việc đạt chỉ tiêu hàng năm. Năm
+2024 đã triển khai các chương trình phát triển nhân lực, xây dựng đội ngũ kế thừa cùng với việc triển khai các
+chương trình điều chỉnh lương, phát hành cổ phiếu ESPP; đẩy mạnh ứng dụng công nghệ thông tin, quản trị số;
 các ứng dụng khai thác Cảng; đào tạo hướng dẫn khai thác AI tới cấp nhân viên
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-50
-51
 B. MÔI TRƯỜNG KIỂM SOÁT
 Nguyên tắc 7: Thiết lập khung quản lý rủi ro và môi trường kiểm soát vững mạnh
-Công ty Gemadept đang duy trì tốt một Hệ thống kiểm soát, quản lý rủi ro toàn diện, nhằm bảo vệ và gia tăng giá 
-trị cho công ty, đồng thời hỗ trợ đạt được các mục tiêu chiến lược. Hệ thống này được xây dựng trên nền tảng vững 
-chắc, kết hợp chặt chẽ giữa các tuyến phòng vệ và cơ chế kiểm soát nội bộ hiệu quả. Đồng thời, hệ thống này giúp 
+Công ty Gemadept đang duy trì tốt một Hệ thống kiểm soát, quản lý rủi ro toàn diện, nhằm bảo vệ và gia tăng giá
+trị cho công ty, đồng thời hỗ trợ đạt được các mục tiêu chiến lược. Hệ thống này được xây dựng trên nền tảng vững
+chắc, kết hợp chặt chẽ giữa các tuyến phòng vệ và cơ chế kiểm soát nội bộ hiệu quả. Đồng thời, hệ thống này giúp
 công ty quản lý rủi ro hiệu quả, bảo vệ lợi ích của cổ đông và hướng đến sự phát triển bền vững.
-Với Ban kiểm soát, không chỉ giúp Gemadept nâng cao hiệu quả quản lý rủi ro, mà còn góp phần quan trọng trong 
-việc xây dựng và củng cố niềm tin từ phía các cổ đông, nhà đầu tư và thị trường. Sự tin tưởng này là nền tảng vững 
+Với Ban kiểm soát, không chỉ giúp Gemadept nâng cao hiệu quả quản lý rủi ro, mà còn góp phần quan trọng trong
+việc xây dựng và củng cố niềm tin từ phía các cổ đông, nhà đầu tư và thị trường. Sự tin tưởng này là nền tảng vững
 chắc cho sự phát triển bền vững của Gemadept, giúp công ty tạo dựng uy tín và vị thế cạnh tranh trên thị trường.
 Tuyến phòng vệ và chức năng tuân thủ:
-•	 Công ty đã thành lập Phòng Quản lý Rủi ro, đóng vai trò là tuyến phòng vệ thứ hai, với nhiệm vụ hỗ trợ các đơn 
+•	 Công ty đã thành lập Phòng Quản lý Rủi ro, đóng vai trò là tuyến phòng vệ thứ hai, với nhiệm vụ hỗ trợ các đơn
 vị kiểm tra, giám sát và đảm bảo hiệu quả hoạt động của HTKS QLRR.
-•	 Các tuyến phòng vệ phối hợp chặt chẽ, giúp kiểm soát hoạt động toàn hệ thống, ngăn ngừa, phát hiện và xử lý 
+•	 Các tuyến phòng vệ phối hợp chặt chẽ, giúp kiểm soát hoạt động toàn hệ thống, ngăn ngừa, phát hiện và xử lý
 kịp thời các rủi ro và bất cập trong quản lý điều hành, duy trì hoạt động ổn định của công ty.
 Kiểm soát nội bộ tại các đơn vị:
 •	 Các đơn vị có trách nhiệm xây dựng và thực hiện hệ thống kiểm soát nội bộ hiệu quả.
-•	 Cơ chế kiểm tra, kiểm soát nội bộ được thiết kế và triển khai trong mọi quy trình nghiệp vụ, thông qua các hình 
+•	 Cơ chế kiểm tra, kiểm soát nội bộ được thiết kế và triển khai trong mọi quy trình nghiệp vụ, thông qua các hình
 thức như phân cấp ủy quyền, kiểm tra chéo, hạn mức rủi ro, quy trình thẩm định và phê duyệt.
-•	 Việc văn bản hóa quy trình, quy định, thiết lập quy trình QLRR, kiểm soát tuân thủ và báo cáo kết quả là các khâu 
+•	 Việc văn bản hóa quy trình, quy định, thiết lập quy trình QLRR, kiểm soát tuân thủ và báo cáo kết quả là các khâu
 bắt buộc trong việc duy trì HTKS QLRR.
 C. CÔNG BỐ THÔNG TIN MINH BẠCH
 Nguyên tắc 8: Tăng cường hoạt động công bố thông tin của Công ty
-Với mục tiêu phát triển bền vững và mang lại lợi ích lâu dài cho cổ đông và nhà đầu tư, Gemadept cam kết tuân thủ 
+Với mục tiêu phát triển bền vững và mang lại lợi ích lâu dài cho cổ đông và nhà đầu tư, Gemadept cam kết tuân thủ
 nguyên tắc minh bạch và công bằng trong việc công bố thông tin.
-Để đáp ứng các quy định và giúp cổ đông và nhà đầu tư có cái nhìn toàn diện về tình hình kinh doanh, Gemadept 
-công bố định kỳ kết quả kinh doanh trên trang web chính thức của công ty. Bộ phận Quan hệ nhà đầu tư thường xuyên 
+Để đáp ứng các quy định và giúp cổ đông và nhà đầu tư có cái nhìn toàn diện về tình hình kinh doanh, Gemadept
+công bố định kỳ kết quả kinh doanh trên trang web chính thức của công ty. Bộ phận Quan hệ nhà đầu tư thường xuyên
 tiếp xúc với cổ đông, nhà đầu tư để giải đáp các thắc mắc và tiếp nhận phản hồi qua email, họp trực tiếp và trực tuyến.
- 
-Hằng năm, Gemadept tổ chức Đại hội đồng cổ đông thường niên để báo cáo kết quả kinh doanh và đề ra chiến lược. 
-Công ty đồng thời thường xuyên tổ chức các cuộc họp với cổ đông, nhà đầu tư và các bên liên quan, thông qua đó các 
+Hằng năm, Gemadept tổ chức Đại hội đồng cổ đông thường niên để báo cáo kết quả kinh doanh và đề ra chiến lược.
+Công ty đồng thời thường xuyên tổ chức các cuộc họp với cổ đông, nhà đầu tư và các bên liên quan, thông qua đó các
 cổ đông và nhà đầu tư trực tiếp trao đổi, đặt câu hỏi.
-Gemadept đảm bảo thông tin được công bố dễ dàng tiếp cận, không phân biệt đối xử qua nhiều kênh truyền thông. 
-Công ty cam kết công bố thông tin song ngữ (Tiếng Việt và Tiếng Anh) để cổ đông và nhà đầu tư cập nhật thông tin 
+Gemadept đảm bảo thông tin được công bố dễ dàng tiếp cận, không phân biệt đối xử qua nhiều kênh truyền thông.
+Công ty cam kết công bố thông tin song ngữ (Tiếng Việt và Tiếng Anh) để cổ đông và nhà đầu tư cập nhật thông tin
 nhanh chóng và thuận tiện nhất. Các kênh công bố thông tin của Gemadept bao gồm:
 -	 Trên Website của công ty tại đường dẫn: www.gemadept.com.vn
 -	 Trên Website của HoSE tại đường dẫn: https://www.hsx.vn/Modules/Listed/Web/SymbolView/65
 -	 Trên các phương tiện truyền thông đại chúng, các báo, đài…
 -	 Thông qua các đại hội và các cuộc họp giữa Ban lãnh đạo công ty với các cổ đông, nhà đầu tư
 -	 Thông qua Phòng Quan hệ công chúng và Nhà đầu tư:
-•	 Trụ sở chính Công ty cổ phần Gemadept – Lầu 21, số 6 Lê Thánh Tôn, P. Bến Nghé, 
-     Q.1, TP. Hồ Chí Minh
-•	 Tel: (84.28) 38 236 236 / Ext: 117
+•	 Trụ sở chính Công ty cổ phần Gemadept – Lầu 21, số 6 Lê Thánh Tôn, P. Bến Nghé,
+Q.1, TP. Hồ Chí Minh
 •	 Email: ir@gemadept.com.vn
 Nguyên tắc 4: Hoạt động của tiểu ban thuộc HĐQT:
-Tại Gemadept, với cách thức tổ chức Hội đồng quản trị gọn nhẹ hiệu năng, hiệu quả, thì ngoài bộ phận Kiểm toán 
-nội bộ, HĐQT không thiết lập thêm các tiểu ban khác. Nhưng tất cả các vấn đề về chính sách, lương thưởng, kiểm toán, 
-giám sát, v.v… đều được tất cả 10 thành viên HĐQT cùng họp và cho ý kiến. Để giúp việc cho HĐQT, nhiều chuyên gia 
+Tại Gemadept, với cách thức tổ chức Hội đồng quản trị gọn nhẹ hiệu năng, hiệu quả, thì ngoài bộ phận Kiểm toán
+nội bộ, HĐQT không thiết lập thêm các tiểu ban khác. Nhưng tất cả các vấn đề về chính sách, lương thưởng, kiểm toán,
+giám sát, v.v… đều được tất cả 10 thành viên HĐQT cùng họp và cho ý kiến. Để giúp việc cho HĐQT, nhiều chuyên gia
 về nhân sự, tiền lương, pháp luật, tài chính đã được lựa chọn.
-Thông qua cơ cấu đó HĐQT thực hiện giám sát một cách toàn diện và hiệu quả, tuân thủ nghiêm ngặt các quy định 
-được đề ra trong Điều lệ Công ty và Quy chế nội bộ Công ty. Trọng tâm của hoạt động giám sát là theo dõi và đánh 
-giá việc thực thi các nhiệm vụ được giao cho Ban Tổng giám đốc trong việc điều hành hoạt động sản xuất kinh doanh, 
+Thông qua cơ cấu đó HĐQT thực hiện giám sát một cách toàn diện và hiệu quả, tuân thủ nghiêm ngặt các quy định
+được đề ra trong Điều lệ Công ty và Quy chế nội bộ Công ty. Trọng tâm của hoạt động giám sát là theo dõi và đánh
+giá việc thực thi các nhiệm vụ được giao cho Ban Tổng giám đốc trong việc điều hành hoạt động sản xuất kinh doanh,
 cũng như việc triển khai các Nghị quyết đã được thông qua bởi Đại hội đồng cổ đông và HĐQT.
 a. Giám sát tại các phiên họp HĐQT thường kỳ và mở rộng:
--  HĐQT đã tổ chức các cuộc họp định kỳ hàng quý và các cuộc họp mở rộng khi cần thiết để theo dõi sát sao tình 
+-  HĐQT đã tổ chức các cuộc họp định kỳ hàng quý và các cuộc họp mở rộng khi cần thiết để theo dõi sát sao tình
 hình hoạt động của Công ty.
--	 Tại các cuộc họp này, HĐQT đã tiến hành rà soát kỹ lưỡng tình hình sản xuất kinh doanh, bao gồm kết quả hoạt 
+-	 Tại các cuộc họp này, HĐQT đã tiến hành rà soát kỹ lưỡng tình hình sản xuất kinh doanh, bao gồm kết quả hoạt
 động kinh doanh của từng quý và lũy kế.
 b. Giám sát thông qua việc ban hành nghị quyết:
--	 HĐQT đã ban hành các Nghị quyết cụ thể, rõ ràng, làm cơ sở pháp lý và định hướng cho Ban Tổng giám đốc trong 
+-	 HĐQT đã ban hành các Nghị quyết cụ thể, rõ ràng, làm cơ sở pháp lý và định hướng cho Ban Tổng giám đốc trong
 việc triển khai thực hiện các nhiệm vụ.
 c. Giám sát thông qua các kênh thông tin:
--	 HĐQT đã thiết lập và duy trì các kênh thông tin hiệu quả để thu thập thông tin về hoạt động của Công ty, bao 
+-	 HĐQT đã thiết lập và duy trì các kênh thông tin hiệu quả để thu thập thông tin về hoạt động của Công ty, bao
 gồm các báo cáo định kỳ báo cáo đột xuất và thông tin từ các bộ phận chuyên môn.
 Nguyên tắc 5: Đảm bảo hoạt động hiệu quả của HĐQT
-Hàng năm, HĐQT đều thực hiện việc đánh giá kết quả hoạt động của HĐQT, Ban kiểm soát và Ban điều hành trong 
-năm. Việc đánh giá hoạt động của từng thành viên đều được thực hiện thông qua quy trình được ban hành với các 
-tiêu chí đánh giá được quy định rõ ràng và soát xét cẩn trọng nhằm xác định hiệu quả công việc, đóng góp công sức 
-của từng thành viên HĐQT, Ban kiểm soát và Ban điều hành. Báo cáo chi tiết của Hội đồng quản trị được thể hiện chi 
-tiết tại Báo cáo thường niên này.
-Mức thù lao cho thành viên HĐQT được xét duyệt dựa trên vai trò, nhiệm vụ, kết quả hoạt động của từng thành 
-viên và của Công ty trong năm, và tạo động lực để HĐQT lãnh đạo Công ty đạt được cả mục tiêu ngắn hạn và dài hạn. 
-Bên cạnh các khoản lợi ích, thành viên HĐQT và Ban điều hành được tham gia vào Chương trình Bảo hiểm sức khỏe 
-và Tai nạn dành cho bản thân và người thân gia đình trực hệ theo chính sách Bảo hiểm chung của Công ty. Thù lao 
+Hàng năm, HĐQT đều thực hiện việc đánh giá kết quả hoạt động của HĐQT, Ban kiểm soát và Ban điều hành trong
+năm. Việc đánh giá hoạt động của từng thành viên đều được thực hiện thông qua quy trình được ban hành với các
+tiêu chí đánh giá được quy định rõ ràng và soát xét cẩn trọng nhằm xác định hiệu quả công việc, đóng góp công sức
+của từng thành viên HĐQT, Ban kiểm soát và Ban điều hành. Báo cáo chi tiết của Hội đồng quản trị được thể hiện chi
+Mức thù lao cho thành viên HĐQT được xét duyệt dựa trên vai trò, nhiệm vụ, kết quả hoạt động của từng thành
+viên và của Công ty trong năm, và tạo động lực để HĐQT lãnh đạo Công ty đạt được cả mục tiêu ngắn hạn và dài hạn.
+Bên cạnh các khoản lợi ích, thành viên HĐQT và Ban điều hành được tham gia vào Chương trình Bảo hiểm sức khỏe
+và Tai nạn dành cho bản thân và người thân gia đình trực hệ theo chính sách Bảo hiểm chung của Công ty. Thù lao
 và các khoản lợi ích của HĐQT, Ban kiểm soát và Ban điều hành được thể hiện chi tiết tại Báo cáo thường niên này.
 Nguyên tắc 6: Thiết lập và duy trì văn hóa đạo đức Công ty
-Gemadept đã ban hành Sổ tay văn hóa Gemadept và Quy chế nội bộ về quản trị Công ty, trong đó nêu rõ các quy 
+Gemadept đã ban hành Sổ tay văn hóa Gemadept và Quy chế nội bộ về quản trị Công ty, trong đó nêu rõ các quy
 tắc đạo đức và quy định báo cáo, minh bạch lợi ích của thành viên HĐQT, Ban kiểm soát và Ban điều hành.
-Những nội dung này được phổ biến cho HĐQT, Ban Tổng giám đốc và CBNV thông qua các kênh truyền thông nội 
+Những nội dung này được phổ biến cho HĐQT, Ban Tổng giám đốc và CBNV thông qua các kênh truyền thông nội
 và công bố tại Website chính thức của Công ty nhằm tăng cường nhận thức và đảm bảo tính tuân thủ các quy định.
-HĐQT là đầu mối và chịu trách nhiệm tập thể về quản trị Công ty, mang lại giá trị bền vững cho các bên có quyền 
+HĐQT là đầu mối và chịu trách nhiệm tập thể về quản trị Công ty, mang lại giá trị bền vững cho các bên có quyền
 lợi liên quan của Công ty.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-56
-57
 13.BÁO CÁO CỦA BAN KIỂM SOÁT
-12.	BÁO CÁO ĐÁNH GIÁ CỦA THÀNH VIÊN HĐQT ĐỘC 
+12.	BÁO CÁO ĐÁNH GIÁ CỦA THÀNH VIÊN HĐQT ĐỘC
 LẬP VỀ HOẠT ĐỘNG CỦA HĐQT CÔNG TY NĂM 2024
-Năm 2024 tình hình kinh tế, chính trị thế giới tiếp tục có nhiều biến động bất thường kéo dài từ năm trước như chiến 
-tranh tại Ukraine, Trung Đông và cuộc bầu cử Tổng thống Mỹ. Tuy vậy, xu hướng tích cực hơn trong những tháng cuối 
-năm đã giúp tăng trưởng kinh tế Việt Nam đạt mức tăng trưởng GDP là 7,09%. Trong bối cảnh đó, Công ty Cổ phần 
-Gemadept đã có nhiều nỗ lực để đạt kết quả kinh doanh theo mục tiêu đề ra, thông qua việc nâng cao vai trò quản trị, 
+Năm 2024 tình hình kinh tế, chính trị thế giới tiếp tục có nhiều biến động bất thường kéo dài từ năm trước như chiến
+tranh tại Ukraine, Trung Đông và cuộc bầu cử Tổng thống Mỹ. Tuy vậy, xu hướng tích cực hơn trong những tháng cuối
+năm đã giúp tăng trưởng kinh tế Việt Nam đạt mức tăng trưởng GDP là 7,09%. Trong bối cảnh đó, Công ty Cổ phần
+Gemadept đã có nhiều nỗ lực để đạt kết quả kinh doanh theo mục tiêu đề ra, thông qua việc nâng cao vai trò quản trị,
 tăng cường kiểm soát rủi ro, cắt giảm chi phí, tái cơ cấu các hoạt động sản xuất kinh doanh.
-I.ĐÁNH GIÁ CHUNG VỀ NGÀNH CẢNG BIỂN, LOGISTICS TRONG NĂM 2024: 
-Kinh tế thế giới có dấu hiệu phục hồi nhưng chưa ổn định. Xung đột tại Trung Đông, Biển Đỏ và Ukraine vẫn còn 
-tiềm ẩn nhiều rủi ro. Nguy cơ chiến tranh thương mại khi Mỹ áp dụng chính sách thuế quan với các nước có thặng dư 
+I.ĐÁNH GIÁ CHUNG VỀ NGÀNH CẢNG BIỂN, LOGISTICS TRONG NĂM 2024:
+Kinh tế thế giới có dấu hiệu phục hồi nhưng chưa ổn định. Xung đột tại Trung Đông, Biển Đỏ và Ukraine vẫn còn
+tiềm ẩn nhiều rủi ro. Nguy cơ chiến tranh thương mại khi Mỹ áp dụng chính sách thuế quan với các nước có thặng dư
 thương mại…
-Tại Việt Nam, cơn bão Yagi làm thiệt hại nặng, gây đảo lộn chuỗi cung ứng dịch vụ Cảng tại Hải Phòng và nhiều tỉnh 
+Tại Việt Nam, cơn bão Yagi làm thiệt hại nặng, gây đảo lộn chuỗi cung ứng dịch vụ Cảng tại Hải Phòng và nhiều tỉnh
 phía Bắc.
 Trong bối cảnh dó, thị trường Cảng biển và Logistics có phục hồi nhưng không ổn định, kèm theo các yếu tố khó lường.
-II. Hoạt động của HĐQT: 
-Đại hội đồng cổ đông thường niên Công ty Cổ phần Gemadept 2023 đã bầu chọn 10 thành viên HĐQT cho nhiệm kỳ 
-2023-2028 trong đó có 03 thành viên độc lập. 
+II. Hoạt động của HĐQT:
+Đại hội đồng cổ đông thường niên Công ty Cổ phần Gemadept 2023 đã bầu chọn 10 thành viên HĐQT cho nhiệm kỳ
+2023-2028 trong đó có 03 thành viên độc lập.
 Thành viên HĐQT độc lập báo cáo về hoạt động của HĐQT Công ty năm 2024 như sau:
 1. Về việc tổ chức các cuộc họp HĐQT
 -	Năm 2024, HĐQT đã tổ chức 9 cuộc họp, bao gồm các cuộc họp định kỳ hàng quý và lấy ý kiến bằng văn bản.
--	Các cuộc họp của HĐQT có sự tham gia đầy đủ của các thành viên HĐQT và thực hiện với lịch trình cụ thể, 
-chuẩn bị tài liệu đầy đủ theo đúng quy định và có sự tham gia của ban kiểm soát. Nội dung các cuộc họp được 
+-	Các cuộc họp của HĐQT có sự tham gia đầy đủ của các thành viên HĐQT và thực hiện với lịch trình cụ thể,
+chuẩn bị tài liệu đầy đủ theo đúng quy định và có sự tham gia của ban kiểm soát. Nội dung các cuộc họp được
 thảo luận, phản biện, đánh giá đầy đủ và cẩn trọng để đưa ra những định hướng, giải pháp tốt nhất.
--	Các vấn đề liên quan đến thực thi Nghị quyết của Đại Hội Đồng Cổ Đông, chiến lược kinh doanh, tuân thủ các 
-tiêu chuẩn về ngành nghề kinh doanh, an toàn lao động, chất lượng dịch vụ... đều được thảo luận, kiểm soát 
+-	Các vấn đề liên quan đến thực thi Nghị quyết của Đại Hội Đồng Cổ Đông, chiến lược kinh doanh, tuân thủ các
+tiêu chuẩn về ngành nghề kinh doanh, an toàn lao động, chất lượng dịch vụ... đều được thảo luận, kiểm soát
 một cách chặt chẽ giữa HĐQT và Ban Tổng giám đốc.
--	Các quyết định của HĐQT tại các cuộc họp đều được thông qua theo nguyên tắc đa số, biên bản cuộc họp được 
-lập đầy đủ, hợp lệ và các Nghị quyết HĐQT được ban hành sau mỗi cuộc họp để Ban Điều Hành triển khai cụ 
+-	Các quyết định của HĐQT tại các cuộc họp đều được thông qua theo nguyên tắc đa số, biên bản cuộc họp được
+lập đầy đủ, hợp lệ và các Nghị quyết HĐQT được ban hành sau mỗi cuộc họp để Ban Điều Hành triển khai cụ
 thể từng công việc.
 2. Về việc giám sát Tổng Giám Đốc và các thành viên khác trong Ban Điều Hành
--	Về tổng thể, HĐQT đã triển khai theo đúng Nghị quyết ĐHĐCĐ, thực hiện tốt công tác giám sát đối với Ban 
+-	Về tổng thể, HĐQT đã triển khai theo đúng Nghị quyết ĐHĐCĐ, thực hiện tốt công tác giám sát đối với Ban
 Điều Hành, đảm bảo hoạt động của công ty được kiểm soát chặt chẽ.
--	Thành viên HĐQT giữ chức vụ Tổng Giám Đốc trong Ban Điều Hành luôn tham dự đầy đủ các cuộc họp HĐQT. 
-Các quyết định của Ban Điều Hành được phân tích, phản biện và tham vấn từ HĐQT nhằm đảm bảo lợi ích của 
+-	Thành viên HĐQT giữ chức vụ Tổng Giám Đốc trong Ban Điều Hành luôn tham dự đầy đủ các cuộc họp HĐQT.
+Các quyết định của Ban Điều Hành được phân tích, phản biện và tham vấn từ HĐQT nhằm đảm bảo lợi ích của
 công ty. Qua đó, HĐQT nắm rõ tình hình hoạt động của công ty, cập nhật nhanh nhất các yêu cầu từ thực tế.
- -	HĐQT dành sự quan tâm đặc biệt tới hệ thống Kiểm soát nội bộ và Quản lý rủi ro của Công ty nhằm hỗ trợ Ban 
-Điều Hành nhận diện sớm các vấn đề, giúp Công ty hoạt động bền vững, an toàn và ổn định, bảo vệ lợi ích của 
+-	HĐQT dành sự quan tâm đặc biệt tới hệ thống Kiểm soát nội bộ và Quản lý rủi ro của Công ty nhằm hỗ trợ Ban
+Điều Hành nhận diện sớm các vấn đề, giúp Công ty hoạt động bền vững, an toàn và ổn định, bảo vệ lợi ích của
 cổ đông cũng như các nhà đầu tư.
 3. Đánh giá chung về hoạt động của HĐQT:
--	Về tổng thể: HĐQT đã thực hiện tốt vai trò của mình trong việc triển khai các kế hoạch, chủ trương, định hướng 
+-	Về tổng thể: HĐQT đã thực hiện tốt vai trò của mình trong việc triển khai các kế hoạch, chủ trương, định hướng
 chiến lược do ĐHĐCĐ đề ra trên cơ sở tuân thủ các quy định của pháp luật, Điều lệ Công ty.
--	HĐQT đã tuân thủ các quy định về quản trị công ty, triệu tập các cuộc họp nhằm kịp thời chỉ đạo, ban hành các 
+-	HĐQT đã tuân thủ các quy định về quản trị công ty, triệu tập các cuộc họp nhằm kịp thời chỉ đạo, ban hành các
 quyết định phù hợp đáp ứng tình hình thực tế.
--	Các thành viên HĐQT chủ động trong vai trò, trách nhiệm hỗ trợ Ban Điều Hành nhận diện sớm các vấn đề giúp 
+-	Các thành viên HĐQT chủ động trong vai trò, trách nhiệm hỗ trợ Ban Điều Hành nhận diện sớm các vấn đề giúp
 Công ty duy trì tính bền vững và ổn định trong hoạt động, hài hòa lợi ích của Công ty và các cổ đông.
--	Trong năm 2024, kinh tế Thế giới có dấu hiệu phục hồi nhưng chưa ổn định kèm theo các yếu tố khó lường 
-như thiên tai, xung đột chính trị, chiến tranh thương mại… Nhưng với tinh thần trách nhiệm cao, đoàn kết, hợp 
-tác, thực hiện nhiệm vụ một các trung thực, cẩn trọng, HĐQT đã triển khai các giải pháp quyết liệt trong công 
-tác giám sát, chỉ đạo BĐH thực hiện Nghị quyết ĐHĐCĐ, Nghị quyết HĐQT và hoàn thành vượt mức kế hoạch 
+-	Trong năm 2024, kinh tế Thế giới có dấu hiệu phục hồi nhưng chưa ổn định kèm theo các yếu tố khó lường
+như thiên tai, xung đột chính trị, chiến tranh thương mại… Nhưng với tinh thần trách nhiệm cao, đoàn kết, hợp
+tác, thực hiện nhiệm vụ một các trung thực, cẩn trọng, HĐQT đã triển khai các giải pháp quyết liệt trong công
+tác giám sát, chỉ đạo BĐH thực hiện Nghị quyết ĐHĐCĐ, Nghị quyết HĐQT và hoàn thành vượt mức kế hoạch
 doanh thu và lợi nhuận trước thuế năm 2024.
 Ban Kiểm soát (BKS) nhiệm kỳ 2023 – 2028 bao gồm ba (03) thành viên.
-Trong năm 2024, với sự phối hợp chặt chẽ của HĐQT và BĐH, BKS đã đã thực hiện đầy đủ nhiệm vụ giám sát hoạt 
-động của Công ty trong việc tuân thủ quy định của pháp luật, Điều lệ, Nghị quyết Đại hội đồng cổ đông 2024 và các 
-chỉ tiêu kế hoạch, định hướng tại Nghị quyết của ĐHĐCĐ để đưa ra các vấn đề cần lưu ý, khuyến nghị góp phần đảm 
-bảo hoạt động của Công ty phù hợp với quy định của pháp luật, tăng cường quản trị rủi ro và nâng cao hiệu quả kinh 
+Trong năm 2024, với sự phối hợp chặt chẽ của HĐQT và BĐH, BKS đã đã thực hiện đầy đủ nhiệm vụ giám sát hoạt
+động của Công ty trong việc tuân thủ quy định của pháp luật, Điều lệ, Nghị quyết Đại hội đồng cổ đông 2024 và các
+chỉ tiêu kế hoạch, định hướng tại Nghị quyết của ĐHĐCĐ để đưa ra các vấn đề cần lưu ý, khuyến nghị góp phần đảm
+bảo hoạt động của Công ty phù hợp với quy định của pháp luật, tăng cường quản trị rủi ro và nâng cao hiệu quả kinh
 doanh.
-BKS đã thực hiện việc giám sát các hoạt động của HĐQT liên quan đến việc thực hiện kế hoạch năm 2024 đã được 
-Đại hội đồng cổ đông thông qua. Giám sát tình hình hoạt động của Công ty, các Công ty con, Chi nhánh nhằm đánh giá 
-tiến độ hoàn thành kế hoạch, nhắc nhở việc tuân thủ qui trình hoạt động, phát hiện những rủi ro và kiến nghị những 
+BKS đã thực hiện việc giám sát các hoạt động của HĐQT liên quan đến việc thực hiện kế hoạch năm 2024 đã được
+Đại hội đồng cổ đông thông qua. Giám sát tình hình hoạt động của Công ty, các Công ty con, Chi nhánh nhằm đánh giá
+tiến độ hoàn thành kế hoạch, nhắc nhở việc tuân thủ qui trình hoạt động, phát hiện những rủi ro và kiến nghị những
 giải pháp tăng cường sản xuất kinh doanh và quản lý tài chính của Công ty.
 Giám sát việc thực hiện các Nghị quyết Đại hội đồng cổ đông. Thẩm định báo cáo tài chính 2024 hàng quý và cả năm.
 I. HOẠT ĐỘNG CỦA BAN KIỂM SOÁT NĂM 2024
@@ -996,1143 +788,764 @@ Trong năm 2024, BKS đã tổ chức 04 phiên họp như sau:
 Các Thành viên HĐQT độc lập
 Nguyễn Văn Hùng, Nguyễn Thái Sơn, Lâm Đình Dụ
 Ngày họp
-Số thành viên 
+Số thành viên
 tham dự
 Các nội dung chính
-15/04/2024
-3/3
-•	
 Tổng kết các hoạt động của BKS năm 2023 và triển các khai công tác năm 2024.
-•	
-Thẩm định báo cáo tài chính năm 2023 của Công ty.
-•	
-Đánh giá tình hình tuân thủ pháp luật và Điều lệ công ty trong năm 2023 và Quý I năm 
-2024.
-29/04/2024
-3/3
-•	
-Thẩm định báo cáo tài chính Quý I năm 2024 của Công ty.
-•	
+Đánh giá tình hình tuân thủ pháp luật và Điều lệ công ty trong năm 2023 và Quý I năm
 Thông qua Báo cáo của BKS tại ĐHĐCĐ thường niên 2024.
-26/09/2024
-3/3
-•	
 Thẩm định báo cáo tài chính, tình hình kinh doanh 6 tháng đầu năm 2024.
-•	
 Xem xét đánh giá tình hình thực hiện Nghị quyết ĐHĐCĐ năm 2024.
-•	
 Đánh giá tình hình hoạt động của Công ty trong 09 tháng đầu năm 2024.
-16/12/2024
-3/3
-•	
 Thẩm định báo cáo tài chính, tình hình kinh doanh 9 tháng đầu năm 2024.
-•	
 Tổng kết hoạt động của BKS năm 2024.
-•	
 Đánh giá tình hình thực hiện Nghị quyết ĐHĐCĐ năm 2024.
-•	
 Định hướng kế hoạch hoạt động của BKS năm 2025.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
-58
 TP. Hồ Chí Minh, ngày 04 tháng 03 năm 2025
 T/M BAN KIỂM SOÁT
-	
-	
-	
-	
-	
-	
-	
-       	
-    
 TRƯỞNG BAN
 Lưu Tường Giai
 III. TỔNG KẾT THÙ LAO VÀ CHI PHÍ CHO BKS
-Tại Nghị quyết Đại Hội đồng cổ đông thường niên ngày 25/06/2024, ĐHĐCĐ đã phê duyệt mức trích quỹ Hội đồng 
+Tại Nghị quyết Đại Hội đồng cổ đông thường niên ngày 25/06/2024, ĐHĐCĐ đã phê duyệt mức trích quỹ Hội đồng
 Quản trị năm 2023 bằng 3% lợi nhuận sau thuế.
 IV. GIÁM SÁT TÌNH HÌNH THỰC HIỆN NGHỊ QUYẾT ĐHĐCĐ NĂM 2024
-Trong năm 2024, Ban Kiểm soát đã tập trung xem xét, đánh giá hoạt động của HĐQT liên quan đến việc thực hiện 
-kế hoạch tài chính và hoạt động năm 2024 đã được Đại hội đồng cổ đông thông qua, giám sát việc tuân thủ quy định 
+Trong năm 2024, Ban Kiểm soát đã tập trung xem xét, đánh giá hoạt động của HĐQT liên quan đến việc thực hiện
+kế hoạch tài chính và hoạt động năm 2024 đã được Đại hội đồng cổ đông thông qua, giám sát việc tuân thủ quy định
 của Pháp luật và Điều lệ Công ty.
 Công ty đã thực hiện Nghị quyết của ĐHĐCĐ:
-  
 + Phân phối lợi nhuận và trích lập các quỹ năm 2023: Đã thực hiện.
 + Chào bán thêm cổ phiếu ra công chúng cho cổ đông hiện hữu năm 2024: Đã thực hiện.
-+ Kết quả kinh doanh năm 2024: Với sự nỗ lực của toàn Công ty, mặc dù tình hình kinh tế không thuận lợi, theo số 
++ Kết quả kinh doanh năm 2024: Với sự nỗ lực của toàn Công ty, mặc dù tình hình kinh tế không thuận lợi, theo số
 liệu Báo cáo tài chính năm 2024, Công ty đạt 121% kế hoạch doanh thu và đạt 124% kế hoạch lợi nhuận trước thuế.
 V. KẾ HOẠCH HOẠT ĐỘNG CỦA BKS TRONG NĂM 2024
-BKS thực hiện các chức năng và nhiệm vụ qui định trong Điều lệ Công ty và Qui chế hoạt động của BKS. Thực hiện 
-nhiệm vụ giám sát hoạt động của Công ty trong việc tuân thủ quy định của pháp luật, Điều lệ, Nghị quyết ĐHĐCĐ. 
+BKS thực hiện các chức năng và nhiệm vụ qui định trong Điều lệ Công ty và Qui chế hoạt động của BKS. Thực hiện
+nhiệm vụ giám sát hoạt động của Công ty trong việc tuân thủ quy định của pháp luật, Điều lệ, Nghị quyết ĐHĐCĐ.
 Giám sát tình hình triển khai thực hiện kế hoạch sản xuất kinh doanh năm 2025.
-BKS sẽ tiếp tục phối hợp chặt chẽ với Bộ phận Quản lý rủi ro tăng cường kiểm tra việc tuân thủ qui phạm pháp luật và 
+BKS sẽ tiếp tục phối hợp chặt chẽ với Bộ phận Quản lý rủi ro tăng cường kiểm tra việc tuân thủ qui phạm pháp luật và
 qui định nội bộ của Công ty.
 Tổ chức thẩm định các báo cáo tài chính hàng quý và cả năm. Thực hiện các công tác của BKS.
-Các thành viên Ban Kiểm soát, trên cơ sở được phân công, sẽ kiểm tra và đánh giá các bộ phận liên quan để tăng 
+Các thành viên Ban Kiểm soát, trên cơ sở được phân công, sẽ kiểm tra và đánh giá các bộ phận liên quan để tăng
 cường quản trị rủi ro đối với vốn, tài sản và nguồn lực của Công ty.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-60
-61
 14. BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
 I. THỊ TRƯỜNG, NGÀNH VÀ GEMADEPT
- 
 1.Tổng quan thị trường :
-Bức tranh kinh tế thế giới năm 2024 phản ánh rõ nét những biến động thông qua quá trình hồi phục chậm và không 
-đồng đều giữa các quốc gia và khu vực, xung đột địa chính trị tiếp tục leo thang, các nền kinh tế bước vào giai đoạn 
-điều chỉnh chính sách tiền tệ sau thời gian dài thắt chặt, chi phí nhiên liệu tăng... Tuy nhiên, bên cạnh những gam màu 
-tối, nền kinh tế toàn cầu vẫn khi nhận những kết quả đáng khích lệ, đánh dấu bước chuyển mình quan trọng trong bối 
-cảnh hậu đại dịch và tái định hình chuỗi cung ứng: Lạm phát toàn cầu được kiểm soát, tỷ lệ thất nghiệp giảm dần, nền 
-kinh tế Mỹ chứng kiến mức tăng trưởng khả quan khi tiêu dùng cải thiện, Trung Quốc đạt mức tăng trưởng cao nhờ 
-đầu tư công và xuất khẩu khởi sắc. Trong tầm nhìn chung, sự dịch chuyển chuỗi cung ứng rõ rệt và các tiêu chuẩn khắt 
-khe về môi trường đang mở ra cả cơ hội lẫn thách thức trong việc ổn định và phát triển bền vững, đặc biệt đối với các 
-nền kinh tế mới nổi trên con đường vươn lên đón đầu xu hướng và khẳng định vai trò trong việc thúc đẩy phát triển 
-bền vững. Kết thúc năm 2024, tăng trưởng kinh tế toàn cầu (GDP) đạt 3.2%, cao hơn mức 3.1% năm 2023. 
-Trong nước, kinh tế Việt Nam ghi nhận những kết quả tích cực với tốc độ tăng trưởng GDP đạt 7.09%, cao hơn mục 
-tiêu Quốc hội đề ra (6-6.5%), nâng quy mô nền kinh tế lên vị trí 33 thế giới. Hoạt động xuất nhập khẩu tiếp tục phục 
-hồi với tổng kim ngạch xuất nhập khẩu hàng hóa năm 2024 đạt 786,29 tỷ USD, tăng 15% so với năm 2023. Thu hút 
-FDI có bước tiến đáng kể khi vốn giải ngân đạt khoảng 25.35 tỷ USD, tăng 9.4% so với năm 2023 và là mức giải ngân 
-cao kỷ lục từ trước đến nay. Điều này phần nào phản ánh niềm tin vững chắc của các nhà đầu tư vào môi trường kinh 
-doanh Việt Nam. Cùng với đó, Chính phủ đang đẩy nhanh, mạnh cải cách hành chính trên quy mô lớn nhằm tinh gọn 
-bộ máy, tạo điều kiện thuận lợi hơn cho các doanh nghiệp và nhà đầu tư, góp phần đưa Việt Nam trở thành điểm sáng 
+Bức tranh kinh tế thế giới năm 2024 phản ánh rõ nét những biến động thông qua quá trình hồi phục chậm và không
+đồng đều giữa các quốc gia và khu vực, xung đột địa chính trị tiếp tục leo thang, các nền kinh tế bước vào giai đoạn
+điều chỉnh chính sách tiền tệ sau thời gian dài thắt chặt, chi phí nhiên liệu tăng... Tuy nhiên, bên cạnh những gam màu
+tối, nền kinh tế toàn cầu vẫn khi nhận những kết quả đáng khích lệ, đánh dấu bước chuyển mình quan trọng trong bối
+cảnh hậu đại dịch và tái định hình chuỗi cung ứng: Lạm phát toàn cầu được kiểm soát, tỷ lệ thất nghiệp giảm dần, nền
+kinh tế Mỹ chứng kiến mức tăng trưởng khả quan khi tiêu dùng cải thiện, Trung Quốc đạt mức tăng trưởng cao nhờ
+đầu tư công và xuất khẩu khởi sắc. Trong tầm nhìn chung, sự dịch chuyển chuỗi cung ứng rõ rệt và các tiêu chuẩn khắt
+khe về môi trường đang mở ra cả cơ hội lẫn thách thức trong việc ổn định và phát triển bền vững, đặc biệt đối với các
+nền kinh tế mới nổi trên con đường vươn lên đón đầu xu hướng và khẳng định vai trò trong việc thúc đẩy phát triển
+bền vững. Kết thúc năm 2024, tăng trưởng kinh tế toàn cầu (GDP) đạt 3.2%, cao hơn mức 3.1% năm 2023.
+Trong nước, kinh tế Việt Nam ghi nhận những kết quả tích cực với tốc độ tăng trưởng GDP đạt 7.09%, cao hơn mục
+tiêu Quốc hội đề ra (6-6.5%), nâng quy mô nền kinh tế lên vị trí 33 thế giới. Hoạt động xuất nhập khẩu tiếp tục phục
+hồi với tổng kim ngạch xuất nhập khẩu hàng hóa năm 2024 đạt 786,29 tỷ USD, tăng 15% so với năm 2023. Thu hút
+FDI có bước tiến đáng kể khi vốn giải ngân đạt khoảng 25.35 tỷ USD, tăng 9.4% so với năm 2023 và là mức giải ngân
+cao kỷ lục từ trước đến nay. Điều này phần nào phản ánh niềm tin vững chắc của các nhà đầu tư vào môi trường kinh
+doanh Việt Nam. Cùng với đó, Chính phủ đang đẩy nhanh, mạnh cải cách hành chính trên quy mô lớn nhằm tinh gọn
+bộ máy, tạo điều kiện thuận lợi hơn cho các doanh nghiệp và nhà đầu tư, góp phần đưa Việt Nam trở thành điểm sáng
 hấp dẫn trong dòng chảy giao thương và cung ứng toàn cầu.
-Bước sang năm 2025, kinh tế Việt Nam được dự báo sẽ tăng trưởng, tiếp tục là một trong những nền kinh tế phát 
-triển nhanh nhất khu vực. Ngân hàng Thế giới (WB) dự báo tăng trưởng GDP năm 2025 đạt mức 3.3% đối với toàn 
-cầu và đạt mức gấp đôi (khoảng 6.5%) đối với Việt Nam. Quốc hội Việt Nam cũng đã thống nhất mục tiêu tăng trưởng 
+Bước sang năm 2025, kinh tế Việt Nam được dự báo sẽ tăng trưởng, tiếp tục là một trong những nền kinh tế phát
+triển nhanh nhất khu vực. Ngân hàng Thế giới (WB) dự báo tăng trưởng GDP năm 2025 đạt mức 3.3% đối với toàn
+cầu và đạt mức gấp đôi (khoảng 6.5%) đối với Việt Nam. Quốc hội Việt Nam cũng đã thống nhất mục tiêu tăng trưởng
 kinh tế trên 8% – một mục tiêu rất thách thức và đòi hỏi sự chung tay quyết liệt của cả nước trên nhiều “mặt trận”.
 2. Ngành khai thác Cảng và Logistics :
-Theo Báo cáo của Hội nghị Liên Hợp Quốc về Thương mại và Phát triển (UNCTAD), thương mại toàn cầu dự kiến đạt 
-mức cao kỷ lục gần 33 nghìn tỷ USD trong năm 2024, tăng 3.3% so với năm 2023. Trong đó, thương mại hàng hóa 
-tăng 2%, tuy thấp hơn mức đỉnh điểm năm 2022 nhưng vẫn là mức phục hồi tích cực so với năm 2023. Điều này góp 
-phần tạo động lực cho sự phát triển ngành Cảng và Logistics toàn cầu. 
-Tại Việt Nam, ngành khai thác Cảng và Logistics cũng ghi nhận những bước tiến đáng kể. Theo thống kê của Cục Hàng 
-hải Việt Nam, khối lượng hàng hóa thông qua hệ thống cảng biển cả nước ước đạt 864,4 triệu tấn, tăng 14% so với 
-cùng kỳ năm 2023, hàng container thông qua hệ thống cảng biển Việt Nam ước đạt 29,9 triệu TEU, tăng 21%. Trong 
-đó ba cụm cảng của Việt Nam (TP. HCM, Hải Phòng và Cái Mép – Thị Vải) nằm trong danh sách 50 cảng container có 
-sản lượng thông qua lớn nhất thế giới –kết quả khẳng định vị thế ngành hàng hải quốc gia trên trường quốc tế. Năm 
-2024 cũng ghi nhận kết quả tích cực khi số lượt tàu biển và số lượt phương tiện thủy nội địa thông qua cảng biển 
-nước ta tăng lần lượt 2% và 8% so với năm 2023. Đặc biệt, khối lượng hàng hóa thông qua cảng biển Việt Nam do đội 
-tàu biển Việt Nam vận chuyển năm 2024 cũng tăng 3% tính theo Tấn và 11% tính theo TEU so với năm trước. Đến 
-hiện tại, đội tàu biển Việt Nam đang đứng thứ 3 trong khối ASEAN và thứ 22 thế giới, với tổng trọng tải và dung tích 
+Theo Báo cáo của Hội nghị Liên Hợp Quốc về Thương mại và Phát triển (UNCTAD), thương mại toàn cầu dự kiến đạt
+mức cao kỷ lục gần 33 nghìn tỷ USD trong năm 2024, tăng 3.3% so với năm 2023. Trong đó, thương mại hàng hóa
+tăng 2%, tuy thấp hơn mức đỉnh điểm năm 2022 nhưng vẫn là mức phục hồi tích cực so với năm 2023. Điều này góp
+phần tạo động lực cho sự phát triển ngành Cảng và Logistics toàn cầu.
+Tại Việt Nam, ngành khai thác Cảng và Logistics cũng ghi nhận những bước tiến đáng kể. Theo thống kê của Cục Hàng
+hải Việt Nam, khối lượng hàng hóa thông qua hệ thống cảng biển cả nước ước đạt 864,4 triệu tấn, tăng 14% so với
+cùng kỳ năm 2023, hàng container thông qua hệ thống cảng biển Việt Nam ước đạt 29,9 triệu TEU, tăng 21%. Trong
+đó ba cụm cảng của Việt Nam (TP. HCM, Hải Phòng và Cái Mép – Thị Vải) nằm trong danh sách 50 cảng container có
+sản lượng thông qua lớn nhất thế giới –kết quả khẳng định vị thế ngành hàng hải quốc gia trên trường quốc tế. Năm
+2024 cũng ghi nhận kết quả tích cực khi số lượt tàu biển và số lượt phương tiện thủy nội địa thông qua cảng biển
+nước ta tăng lần lượt 2% và 8% so với năm 2023. Đặc biệt, khối lượng hàng hóa thông qua cảng biển Việt Nam do đội
+tàu biển Việt Nam vận chuyển năm 2024 cũng tăng 3% tính theo Tấn và 11% tính theo TEU so với năm trước. Đến
+hiện tại, đội tàu biển Việt Nam đang đứng thứ 3 trong khối ASEAN và thứ 22 thế giới, với tổng trọng tải và dung tích
 tăng trưởng, phù hợp với xu hướng tăng kích cỡ tàu toàn cầu.
-Năm 2025 được nhận định tiếp tục là một năm nhiều biến động cho ngành hàng hải, với những tác động từ việc tái 
-cấu trúc các Liên minh hãng tàu, thay đổi trong chính sách thương mại của Hoa Kỳ,  căng thẳng địa chính trị, xu hướng 
-xanh hóa – số hóa cảng biển với yêu cầu ngày càng cao và tốc độ chuyển đổi rất nhanh… Tại Việt Nam, với định hướng 
-ưu tiên đẩy nhanh giải ngân các dự án đầu tư công, cơ quan ban ngành tiếp tục nghiên cứu các cơ chế chính sách mới 
-nhằm phát huy lợi thế cạnh tranh quốc gia, tạo điều kiện để doanh nghiệp phát triển, góp phần nâng cao hơn nữa vị 
-thế Việt Nam trên bản đồ hàng hải thế giới.  
- 
-3. Gemadept – Vượt sóng tăng trưởng 
-Năm 2024, trong bối cảnh kinh tế và thương mại toàn cầu có nhiều biến động, Gemadept tiếp tục khẳng định vị thế 
-là một trong những doanh nghiệp hàng đầu trong hoạt động khai thác cảng và logistics tại Việt Nam khi duy trì được 
-tốc độ tăng trưởng ổn định nhờ chiến lược phát triển bền vững, tối ưu hóa hệ sinh thái cảng và logistics và mở rộng 
+Năm 2025 được nhận định tiếp tục là một năm nhiều biến động cho ngành hàng hải, với những tác động từ việc tái
+cấu trúc các Liên minh hãng tàu, thay đổi trong chính sách thương mại của Hoa Kỳ,  căng thẳng địa chính trị, xu hướng
+xanh hóa – số hóa cảng biển với yêu cầu ngày càng cao và tốc độ chuyển đổi rất nhanh… Tại Việt Nam, với định hướng
+ưu tiên đẩy nhanh giải ngân các dự án đầu tư công, cơ quan ban ngành tiếp tục nghiên cứu các cơ chế chính sách mới
+nhằm phát huy lợi thế cạnh tranh quốc gia, tạo điều kiện để doanh nghiệp phát triển, góp phần nâng cao hơn nữa vị
+thế Việt Nam trên bản đồ hàng hải thế giới.
+3. Gemadept – Vượt sóng tăng trưởng
+Năm 2024, trong bối cảnh kinh tế và thương mại toàn cầu có nhiều biến động, Gemadept tiếp tục khẳng định vị thế
+là một trong những doanh nghiệp hàng đầu trong hoạt động khai thác cảng và logistics tại Việt Nam khi duy trì được
+tốc độ tăng trưởng ổn định nhờ chiến lược phát triển bền vững, tối ưu hóa hệ sinh thái cảng và logistics và mở rộng
 quy mô khai thác cảng.
-Tại miền Bắc, ngay từ đầu năm 2024, Gemadept đã khẩn trưởng khởi công Dự án “Nâng cấp luồng hàng hải đoạn từ 
-vũng quay tàu cảng Container quốc tế Hải Phòng đến cảng Nam Đình Vũ” (luồng Kênh Hà Nam). Đến tháng 7/2024, 
-Dự án chính thức hoàn thành và nhận Thông báo hàng hải ghi nhận độ sâu -8.5m (độ sâu trước nâng cấp: -7.0m), góp 
-phần tăng khả năng cạnh tranh, cho phép các tàu có trọng tải lớn lên đến 48.000 DWT đầy tải hành hải, thúc đẩy giao 
-thương toàn miền Bắc. Cũng trong năm, Cảng Nam Đình Vũ đã triển khai xây dựng giai đoạn 3 từ tháng 10/2024 khi 
-giai đoạn 1 và 2 với sản lượng thông qua cảng trung bình đạt hơn 100.000 TEU/tháng. Khi hoàn thiện cả 3 giai đoạn, 
-với những lợi thế cạnh tranh tự thân vượt trội và đóng góp tích cực từ luồng Kênh Hà Nam sau khi được nâng cấp, cụm 
-cảng Nam Đình Vũ sẽ trở thành cảng sông lớn nhất miền Bắc, sẵn sàng mang đến những giá trị vượt trội đáp ứng yêu 
+Tại miền Bắc, ngay từ đầu năm 2024, Gemadept đã khẩn trưởng khởi công Dự án “Nâng cấp luồng hàng hải đoạn từ
+vũng quay tàu cảng Container quốc tế Hải Phòng đến cảng Nam Đình Vũ” (luồng Kênh Hà Nam). Đến tháng 7/2024,
+Dự án chính thức hoàn thành và nhận Thông báo hàng hải ghi nhận độ sâu -8.5m (độ sâu trước nâng cấp: -7.0m), góp
+phần tăng khả năng cạnh tranh, cho phép các tàu có trọng tải lớn lên đến 48.000 DWT đầy tải hành hải, thúc đẩy giao
+thương toàn miền Bắc. Cũng trong năm, Cảng Nam Đình Vũ đã triển khai xây dựng giai đoạn 3 từ tháng 10/2024 khi
+giai đoạn 1 và 2 với sản lượng thông qua cảng trung bình đạt hơn 100.000 TEU/tháng. Khi hoàn thiện cả 3 giai đoạn,
+với những lợi thế cạnh tranh tự thân vượt trội và đóng góp tích cực từ luồng Kênh Hà Nam sau khi được nâng cấp, cụm
+cảng Nam Đình Vũ sẽ trở thành cảng sông lớn nhất miền Bắc, sẵn sàng mang đến những giá trị vượt trội đáp ứng yêu
 cầu ngày càng cao của thị trường.
-Tại miền Nam, Cảng Gemalink kết thúc một năm thắng lợi với sản lượng ghi nhận đạt hơn 1.7 triệu TEU  khi tận dụng 
-tối đa các cơ hội từ tình hình tắc nghẽn cảng tại Singapore và khu vực, sự tin tưởng, ủng hộ của các khách hàng, hãng 
-tàu và sự quan tâm, hỗ trợ từ các cơ quan ban ngành, các đối tác, đơn vị đồng hành. Để tiếp tục phát huy tài nguyên 
-quốc gia, nâng cao năng lực khai thác, Gemadept đang nghiên cứu phương án tối ưu để sớm triển khai Gemalink giai 
-đoạn 2A ngay trong năm 2025, sẵn sàng tiếp nhận song song các cỡ tàu mẹ siêu lớn lên đến 24.000 TEUs, đưa Cái 
+Tại miền Nam, Cảng Gemalink kết thúc một năm thắng lợi với sản lượng ghi nhận đạt hơn 1.7 triệu TEU  khi tận dụng
+tối đa các cơ hội từ tình hình tắc nghẽn cảng tại Singapore và khu vực, sự tin tưởng, ủng hộ của các khách hàng, hãng
+tàu và sự quan tâm, hỗ trợ từ các cơ quan ban ngành, các đối tác, đơn vị đồng hành. Để tiếp tục phát huy tài nguyên
+quốc gia, nâng cao năng lực khai thác, Gemadept đang nghiên cứu phương án tối ưu để sớm triển khai Gemalink giai
+đoạn 2A ngay trong năm 2025, sẵn sàng tiếp nhận song song các cỡ tàu mẹ siêu lớn lên đến 24.000 TEUs, đưa Cái
 Mép – Thị Vải trở thành cảng trung chuyển quốc tế của cả khu vực và thế giới.
-Kết thúc năm 2024, Gemadept ghi nhận sản lượng container thông qua hệ thống cảng đạt hơn 4.4 triệu TEUs, đóng 
-góp gần 15% trong tổng sản lượng hàng container qua cảng biển cả nước. Đây là cơ sở để Gemadept tiếp tục vững 
-vàng bước sang năm 2025 – mục tiêu cán đích thành công Tầm nhìn 2025 đã được ĐHĐCĐ giao phó. 
-THÁNG 01/2024              
+Kết thúc năm 2024, Gemadept ghi nhận sản lượng container thông qua hệ thống cảng đạt hơn 4.4 triệu TEUs, đóng
+góp gần 15% trong tổng sản lượng hàng container qua cảng biển cả nước. Đây là cơ sở để Gemadept tiếp tục vững
+vàng bước sang năm 2025 – mục tiêu cán đích thành công Tầm nhìn 2025 đã được ĐHĐCĐ giao phó.
 Gemadept và Gemalink cùng được vinh danh trong Top 10 công ty uy tín ngành Cảng và Logistics năm 2023
- 
-Ngày 18/01/2024, tổ chức Vietnam Report phối hợp cùng báo VietnamNet long trọng tổ chức Lễ công bố Bảng 
-xếp hạng VNR500 và Top 10 Công ty Uy tín các nhóm ngành năm 2023. Trong đó, CTCP Gemadept và Cảng nước 
-sâu Gemalink cùng được vinh danh trong Top 10 công ty uy ngành Cảng và Logistics năm 2023, khẳng định sự ghi 
-nhận và đánh giá cao của các tổ chức uy tín trong và ngoài nước đối với những nỗ lực bền bỉ và đóng góp tích cực của 
+Ngày 18/01/2024, tổ chức Vietnam Report phối hợp cùng báo VietnamNet long trọng tổ chức Lễ công bố Bảng
+xếp hạng VNR500 và Top 10 Công ty Uy tín các nhóm ngành năm 2023. Trong đó, CTCP Gemadept và Cảng nước
+sâu Gemalink cùng được vinh danh trong Top 10 công ty uy ngành Cảng và Logistics năm 2023, khẳng định sự ghi
+nhận và đánh giá cao của các tổ chức uy tín trong và ngoài nước đối với những nỗ lực bền bỉ và đóng góp tích cực của
 Gemadept đối với sự phát triển của ngành và đất nước.
 Cảng Nam Đình Vũ khởi công dự án nâng cấp luồng hàng hải Hải Phòng
-Ngày 31/01/2024, tại Cảng Nam Đình Vũ diễn ra Lễ khởi công Dự án “Nâng cấp luồng hàng hải đoạn từ vũng quay tàu 
-cảng Container quốc tế Hải Phòng đến cảng Nam Đình Vũ”. Đây là dự án nạo vét nhằm hạ độ sâu luồng từ -7m xuống 
--8.5m để tiếp nhận tàu 48.000 DWT đầy tải hành hải do Gemadept nghiên cứu và đề xuất, được Bộ GTVT chấp thuận 
-và thông qua chủ trương triển khai nhằm góp phần nâng cao chất lượng dịch vụ, gia tăng năng lực cạnh tranh và hiệu 
+Ngày 31/01/2024, tại Cảng Nam Đình Vũ diễn ra Lễ khởi công Dự án “Nâng cấp luồng hàng hải đoạn từ vũng quay tàu
+cảng Container quốc tế Hải Phòng đến cảng Nam Đình Vũ”. Đây là dự án nạo vét nhằm hạ độ sâu luồng từ -7m xuống
+-8.5m để tiếp nhận tàu 48.000 DWT đầy tải hành hải do Gemadept nghiên cứu và đề xuất, được Bộ GTVT chấp thuận
+và thông qua chủ trương triển khai nhằm góp phần nâng cao chất lượng dịch vụ, gia tăng năng lực cạnh tranh và hiệu
 quả hoạt động, tạo động lực thay đổi diện mạo cho cả hệ thống cảng trọng điểm phía Bắc.
-THÁNG 02/2024
- 
-Gemalink vinh dự đón tiếp đoàn lãnh đạo tỉnh Bà Rịa – Vũng Tàu đến thăm 
-Ngày 05/02/2024, Gemalink vinh dự tiếp đón đoàn của Tỉnh ủy, Sở, Ban ngành do ông Phạm Viết Thanh, Ủy viên BCH 
-Trung ương Đảng, Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh BRVT làm Trưởng đoàn đã đến thăm, thể hiện sự quan tâm của 
+Gemalink vinh dự đón tiếp đoàn lãnh đạo tỉnh Bà Rịa – Vũng Tàu đến thăm
+Ngày 05/02/2024, Gemalink vinh dự tiếp đón đoàn của Tỉnh ủy, Sở, Ban ngành do ông Phạm Viết Thanh, Ủy viên BCH
+Trung ương Đảng, Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh BRVT làm Trưởng đoàn đã đến thăm, thể hiện sự quan tâm của
 các cơ quan ban ngành đối với sự đóng góp của cảng Gemalink – cảng nước sâu lớn nhất cả nước.
 II. TOÀN CẢNH HOẠT ĐỘNG GEMADEPT NĂM 2024
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-64
-65
-THÁNG 12/2024
 Thỏa thuận hợp tác chiến lược giữa Gemadept và Ngân hàng BIDV
-Ngày 17/12/2024, tại Hà Nội, Công ty Cổ phần Gemadept và Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) 
-đã cùng ký kết Biên bản ghi nhớ Hợp tác Chiến lược Toàn diện, đánh dấu bước phát triển quan trọng, nâng tầm mối 
-quan hệ hợp tác song phương của hai doanh nghiệp hàng đầu trong hoạt động khai thác cảng-logistics và định chế 
+Ngày 17/12/2024, tại Hà Nội, Công ty Cổ phần Gemadept và Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV)
+đã cùng ký kết Biên bản ghi nhớ Hợp tác Chiến lược Toàn diện, đánh dấu bước phát triển quan trọng, nâng tầm mối
+quan hệ hợp tác song phương của hai doanh nghiệp hàng đầu trong hoạt động khai thác cảng-logistics và định chế
 tài chính ngân hàng lớn nhất Việt Nam.
-III. KẾT QUẢ KINH DOANH 2024 
+III. KẾT QUẢ KINH DOANH 2024
 1. KẾT QUẢ KINH DOANH :
 DOANH THU THUẦN
 Hoạt động kinh doanh
-2022
-2023
-2024
 Giá trị
-% 
 Giá trị
-%
 Giá trị
-%
 Khai thác cảng
-3.086 
-79%
-2.909
-76%
-4.191 
-87%
 Logistics
-812 
-21%
-937
-24%
-641 
-13%
 TỔNG DOANH THU THUẦN
-3.898 
-100%
-3.846
-100%
-4.832 
-100%
-ĐVT: Tỷ Đồng
-ĐVT: Tỷ Đồng
-Năm 2024, trong bối cảnh nền kinh tế toàn cầu vẫn tiềm ẩn nhiều thách thức và biến động khó lường của thị trường 
-vận tải biển, nhưng cũng mở ra nhiều cơ hội để Gemadept thể hiện những quyết tâm và nỗ lực, giữ vững vị thế của 
-mình, không ngừng vươn lên mạnh mẽ. Với chiến lược linh hoạt, chủ động tìm kiếm và tối ưu hóa các giải pháp nhằm 
-nâng cao hiệu quả hoạt động, sản lượng khai thác đạt hơn 4.4 triệu TEUs, tăng 47% so với năm 2023. Doanh thu 
-thuần đạt 4.832 tỷ đồng, vượt 21% so với kế hoạch năm đã đăng ký ĐHĐCĐ, trong đó hoạt động khai thác cảng đóng 
-góp chủ yếu với tỷ trọng 87%, tương đương 4.191 tỷ đồng. Đồng thời, hoạt động Logistics cũng tăng cường mở rộng 
-chuỗi dịch vụ và nâng cao chất lượng dịch vụ, đóng góp 13% vào tổng doanh thu. Gemadept đã tận dụng tốt cơ hội từ 
+Năm 2024, trong bối cảnh nền kinh tế toàn cầu vẫn tiềm ẩn nhiều thách thức và biến động khó lường của thị trường
+vận tải biển, nhưng cũng mở ra nhiều cơ hội để Gemadept thể hiện những quyết tâm và nỗ lực, giữ vững vị thế của
+mình, không ngừng vươn lên mạnh mẽ. Với chiến lược linh hoạt, chủ động tìm kiếm và tối ưu hóa các giải pháp nhằm
+nâng cao hiệu quả hoạt động, sản lượng khai thác đạt hơn 4.4 triệu TEUs, tăng 47% so với năm 2023. Doanh thu
+thuần đạt 4.832 tỷ đồng, vượt 21% so với kế hoạch năm đã đăng ký ĐHĐCĐ, trong đó hoạt động khai thác cảng đóng
+góp chủ yếu với tỷ trọng 87%, tương đương 4.191 tỷ đồng. Đồng thời, hoạt động Logistics cũng tăng cường mở rộng
+chuỗi dịch vụ và nâng cao chất lượng dịch vụ, đóng góp 13% vào tổng doanh thu. Gemadept đã tận dụng tốt cơ hội từ
 thị trường cho thuê tàu và các dịch vụ hỗ trợ, thể hiện sự linh hoạt và khả năng thích ứng trong điều kiện thách thức.
-Tại khu vực Hải Phòng, cảng Nam Đình Vũ đã thiết lập kỷ lục mới trong lịch sử khai thác cảng tại khu vực, nhờ vào 
-những lợi thế từ kênh Hà Nam. Nằm trên tuyến hàng hải huyết mạch kết nối hàng hóa tại khu vực phía Bắc với thế 
-giới, cảng Nam Đình Vũ đang thu hút các tuyến Nội Á trọng điểm từ các hãng tàu quốc tế. Đối với khu vực Miền Trung, 
-cảng Dung Quất duy trì vị thế là mắt xích quan trọng trong hoạt động khai thác cảng của Gemadept. Bên cạnh đó, 
-Gemadept cũng không ngừng nâng cao chất lượng dịch vụ và hiệu quả hoạt động tại khu vực Hồ Chí Minh, Bình Dương 
-và Bà Rịa - Vũng Tàu, đạt mức tăng trưởng ấn tượng trong năm 2024. Sự phát triển này không chỉ thể hiện cam kết 
-của Gemadept đối với khách hàng, cổ đông mà còn góp phần vào sự phát triển bền vững của ngành cảng và logistics 
+Tại khu vực Hải Phòng, cảng Nam Đình Vũ đã thiết lập kỷ lục mới trong lịch sử khai thác cảng tại khu vực, nhờ vào
+những lợi thế từ kênh Hà Nam. Nằm trên tuyến hàng hải huyết mạch kết nối hàng hóa tại khu vực phía Bắc với thế
+giới, cảng Nam Đình Vũ đang thu hút các tuyến Nội Á trọng điểm từ các hãng tàu quốc tế. Đối với khu vực Miền Trung,
+cảng Dung Quất duy trì vị thế là mắt xích quan trọng trong hoạt động khai thác cảng của Gemadept. Bên cạnh đó,
+Gemadept cũng không ngừng nâng cao chất lượng dịch vụ và hiệu quả hoạt động tại khu vực Hồ Chí Minh, Bình Dương
+và Bà Rịa - Vũng Tàu, đạt mức tăng trưởng ấn tượng trong năm 2024. Sự phát triển này không chỉ thể hiện cam kết
+của Gemadept đối với khách hàng, cổ đông mà còn góp phần vào sự phát triển bền vững của ngành cảng và logistics
 tại Việt Nam.
 CHI PHÍ
 Chi tiêu
-Năm 2022
-Năm 2023
-Năm 2024
 Doanh thu thuần về bán hàng và CCDV
-3.898
-3.846
-4.832
 Giá vốn
-2.180
-2.068
-2.697
 Chi phí bán hàng
-142
-110
-247
 Chi phí quản lý doanh nghiệp
-524
-552
-575
 Chi phí lãi vay
-131
-135
-139
 Chi phí tài chính không bao gồm lãi vay
-35
-20
-11
 Tỷ lệ so với doanh thu thuần
 Doanh thu thuần về bán hàng và CCDV
-100,0%
-100,0%
-100,0%
 Giá vốn
-55,9%
-53,8%
-55,8%
 Chi phí bán hàng
-3,6%
-2,8%
-5,1%
 Chi phí quản lý doanh nghiệp
-13,5%
-14,4%
-11,9%
 Chi phí lãi vay
-3,4%
-3,5%
-2,9%
 Chi phí tài chính không bao gồm lãi vay
-0,9%
-0,5%
-0,2%
 II. TOÀN CẢNH HOẠT ĐỘNG GEMADEPT 2024 (Tiếp theo)
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-66
-67
 2.TÌNH HÌNH TÀI CHÍNH
-TÌNH HÌNH TÀI SẢN – NGUỒN VỐN                 
-Tổng tài sản ghi nhận vào ngày 31/12/2024 đạt 17.998 tỷ đồng, tăng 33% so với thời điểm 31/12/2023. Tài sản 
+TÌNH HÌNH TÀI SẢN – NGUỒN VỐN
+Tổng tài sản ghi nhận vào ngày 31/12/2024 đạt 17.998 tỷ đồng, tăng 33% so với thời điểm 31/12/2023. Tài sản
 dài hạn chiếm tỷ trọng lớn với 63% cơ cấu tài sản. Trong đó:
-Tài sản ngắn hạn ghi nhận 6.674 tỷ đồng, tăng 97% so với thời điểm 31/12/2023, chủ yếu tăng ở các khoản tiền, 
-tương đương tiền và tiền gửi có kỳ hạn 
-Tài sản dài hạn ghi nhận 11.324 tỷ đồng, tăng 11% so với thời điểm 31/12/2023, chủ yếu tăng ở khoản đầu tư tài 
+Tài sản ngắn hạn ghi nhận 6.674 tỷ đồng, tăng 97% so với thời điểm 31/12/2023, chủ yếu tăng ở các khoản tiền,
+tương đương tiền và tiền gửi có kỳ hạn
+Tài sản dài hạn ghi nhận 11.324 tỷ đồng, tăng 11% so với thời điểm 31/12/2023, chủ yếu tăng ở khoản đầu tư tài
 chính dài hạn và tài sản dài hạn khác.
-Tổng nợ phải trả vào cuối năm 2024 ghi nhận 4.226 tỷ đồng, tăng 11% so với thời điểm 31/12/2023, chủ yếu tăng 
+Tổng nợ phải trả vào cuối năm 2024 ghi nhận 4.226 tỷ đồng, tăng 11% so với thời điểm 31/12/2023, chủ yếu tăng
 nợ dài hạn. Hệ số Nợ trên Vốn chủ sở hữu là 0.3 tại cuối năm 2024.
-Vốn chủ sở hữu vào ngày 31/12/2024 ghi nhận 13.772 tỷ đồng, tăng 42% so với thời điểm 31/12/2023 do tăng 
+Vốn chủ sở hữu vào ngày 31/12/2024 ghi nhận 13.772 tỷ đồng, tăng 42% so với thời điểm 31/12/2023 do tăng
 vốn từ phát hành cho cổ đông hiện hữu trong năm 2024 và tăng lợi nhuận sau thuế chưa phân phối.
-Về cấu trúc nguồn vốn, tỷ lệ vốn chủ sở hữu so với tổng tài sản luôn được duy trì ổn định nhằm đảm bảo sức khỏe 
+Về cấu trúc nguồn vốn, tỷ lệ vốn chủ sở hữu so với tổng tài sản luôn được duy trì ổn định nhằm đảm bảo sức khỏe
 tài chính và hiệu quả của các hoạt động kinh doanh. Tại ngày 31/12/2024, tỷ lệ này là 77%.
-Dưới áp lực cạnh tranh khốc liệt, Gemadept đã xác định rõ kiểm soát chi phí và tối ưu hóa hiệu quả hoạt động là các 
-nhiệm vụ trọng tâm trong quản trị và điều hành hoạt động sản xuất kinh doanh. Với sự chỉ đạo kịp thời và quyết liệt 
-trong công tác quản lý của Ban điều hành, cùng với những biện pháp cắt giảm chi phí đã góp phần duy trì hiệu quả 
+Dưới áp lực cạnh tranh khốc liệt, Gemadept đã xác định rõ kiểm soát chi phí và tối ưu hóa hiệu quả hoạt động là các
+nhiệm vụ trọng tâm trong quản trị và điều hành hoạt động sản xuất kinh doanh. Với sự chỉ đạo kịp thời và quyết liệt
+trong công tác quản lý của Ban điều hành, cùng với những biện pháp cắt giảm chi phí đã góp phần duy trì hiệu quả
 kinh doanh và giúp công ty nâng cao năng lực cạnh tranh.
-Bước qua nhiều thách thức của năm 2024 với những tác động tiêu cực từ bất ổn kinh tế - chính trị trên thế giới, nhiều 
-biến động của ngành hàng hải trên thế giới như liên minh hãng tàu, kích thước tàu ngày càng tăng cũng như tình 
-hình thị trường cảng trong nước tăng nguồn cung mạnh mẽ dẫn đến cạnh tranh ngày càng khốc liệt, tình hình kinh 
-tế trong nước có nhiều xáo trộn, không ít vướng mắc về rào cản pháp lý, thủ tục hành chính nhưng bằng nỗ lực,quyết 
-tâm, cùng tinh thần “luôn đổi mới, sáng tạo" của toàn thể CBNV cùng sự chỉ đạo đúng đắn, sát sao, kịp thời của Ban 
-lãnh đạo, Gemadept đã không ngừng nỗ lực tìm mọi giải pháp kinh doanh phát huy hiệu quả hệ sinh thái của Tập đoàn, 
-quản lý dòng tiền, tối ưu chi phí và quyết tâm hoàn thành tốt kết quả sản xuất kinh doanh hướng tới là Doanh nghiệp 
+Bước qua nhiều thách thức của năm 2024 với những tác động tiêu cực từ bất ổn kinh tế - chính trị trên thế giới, nhiều
+biến động của ngành hàng hải trên thế giới như liên minh hãng tàu, kích thước tàu ngày càng tăng cũng như tình
+hình thị trường cảng trong nước tăng nguồn cung mạnh mẽ dẫn đến cạnh tranh ngày càng khốc liệt, tình hình kinh
+tế trong nước có nhiều xáo trộn, không ít vướng mắc về rào cản pháp lý, thủ tục hành chính nhưng bằng nỗ lực,quyết
+tâm, cùng tinh thần “luôn đổi mới, sáng tạo" của toàn thể CBNV cùng sự chỉ đạo đúng đắn, sát sao, kịp thời của Ban
+lãnh đạo, Gemadept đã không ngừng nỗ lực tìm mọi giải pháp kinh doanh phát huy hiệu quả hệ sinh thái của Tập đoàn,
+quản lý dòng tiền, tối ưu chi phí và quyết tâm hoàn thành tốt kết quả sản xuất kinh doanh hướng tới là Doanh nghiệp
 khai thác cảng hiệu quả hàng đầu ngành Hàng hải Việt Nam.
-Kết thúc năm 2024, lợi nhuận trước thuế đạt 2.099 tỷ đồng và 1.781 tỷ đồng lần lượt đối với trường hợp bao 
-gồm và không bao gồm lợi nhuận từ chuyển nhượng vốn góp. Kết quả thực hiện năm 2024 từ hoạt động SXKD 
-chính tăng 36% so với cùng kỳ và vượt 32% kế hoạch năm, xét chung lợi nhuận trước thuế năm 2024 vượt 24% KH 
-cả năm - hoàn thành xuất sắc chỉ tiêu đã đăng ký với Đại hội đồng cổ đông. Riêng lợi nhuận từ hoạt động khai thác 
-cảng tăng xấp xỉ 44% lần so với cùng kỳ năm trước. Kết quả này khẳng định sự quyết tâm và nỗ lực không ngừng của 
+Kết thúc năm 2024, lợi nhuận trước thuế đạt 2.099 tỷ đồng và 1.781 tỷ đồng lần lượt đối với trường hợp bao
+gồm và không bao gồm lợi nhuận từ chuyển nhượng vốn góp. Kết quả thực hiện năm 2024 từ hoạt động SXKD
+chính tăng 36% so với cùng kỳ và vượt 32% kế hoạch năm, xét chung lợi nhuận trước thuế năm 2024 vượt 24% KH
+cả năm - hoàn thành xuất sắc chỉ tiêu đã đăng ký với Đại hội đồng cổ đông. Riêng lợi nhuận từ hoạt động khai thác
+cảng tăng xấp xỉ 44% lần so với cùng kỳ năm trước. Kết quả này khẳng định sự quyết tâm và nỗ lực không ngừng của
 Gemadept, đồng thời tạo đà cho những bước tiến mạnh mẽ trong tương lai.
 LỢI NHUẬN
 TÌNH HÌNH NỢ VÀ CÁC BIẾN ĐỘNG LỚN VỀ CÁC KHOẢN NỢ
 KHOẢN MỤC
 SỐ KỲ NÀY
-SỐ KỲ 
-TRƯỚC
-% TĂNG/
-GIẢM
 GHI CHÚ
 NỢ PHẢI TRẢ
-4.226
-3.814
-11%
- Giảm chủ yếu ở nợ ngắn hạn
+Giảm chủ yếu ở nợ ngắn hạn
 I. Nợ ngắn hạn
-2.101
-1.915
-10%
 Phải trả người bán ngắn hạn
-487
-518
--6%
 Người mua trả tiền trước ngắn hạn
-8
-4
-91%
 Thuế và các khoản phải nộp Nhà nước
-67
-74
--10%
 Phải trả người lao động
-192
-140
-37%
 Chi phí phải trả ngắn hạn
-230
-318
--28%
 Doanh thu chưa thực hiện ngắn hạn
-1
-8
--85%
 Phải trả ngắn hạn khác
-482
-307
-57%
 Vay và nợ thuê tài chính ngắn hạn
-422
-445
--5%
 Dự phòng phải trả ngắn hạn
-148
-52
-185%
-Chủ yếu tăng khoản dự phòng tổn thất 
+Chủ yếu tăng khoản dự phòng tổn thất
 phải bồi thường
 Quỹ khen thưởng, phúc lợi
-64
-49
-31%
- 
 II. Nợ dài hạn
-2.125
-1.898
-12%
 Doanh thu chưa thực hiện dài hạn
-264
-275
--4%
 Phải trả dài hạn khác
-116
-105
-10%
 Vay và nợ thuê tài chính dài hạn
-1.745
-1.518
-15%
-Giải ngân các khoản vay mới tài 
+Giải ngân các khoản vay mới tài
 trợ cho các dự án
 Chỉ tiêu
 Đơn vị tính
-Năm 2022
-Năm 2023
-Năm 2024
 Hệ số Nợ /Vốn chủ sở hữu
-Lần
-0,64 
-0,39 
-0,31
 Hệ số Nợ/Tổng tài sản
-Lần
-0,39 
-0,28 
-0,23
 Cơ cấu Nợ Vốn
-Công ty duy trì cơ cấu Nợ - Vốn phù hợp để đảm bảo thực hiện các mục tiêu chiến lược cũng như kiểm soát được mức 
-độ chấp nhận rủi ro liên quan. Việc phát hành cổ phiếu cho cổ đông hiện hữu đã bổ sung nguồn vốn chủ sở hữu, củng 
-cố sức khỏe tài chính để sẵn sàng nắm bắt cơ hội đối với dự án đầu tư lớn trong tương lai. Đồng thời, Công ty cũng chú 
-trọng quản lý dòng tiền nhằm đảm bảo thanh khoản và nguồn thặng dư cho hoạt động đầu tư. Những nỗ lực này tạo 
-nền tảng vững chắc cho sự phát triển bền vững và khẳng định vị thế dẫn đầu trong ngành với các dự án trọng điểm 
+Công ty duy trì cơ cấu Nợ - Vốn phù hợp để đảm bảo thực hiện các mục tiêu chiến lược cũng như kiểm soát được mức
+độ chấp nhận rủi ro liên quan. Việc phát hành cổ phiếu cho cổ đông hiện hữu đã bổ sung nguồn vốn chủ sở hữu, củng
+cố sức khỏe tài chính để sẵn sàng nắm bắt cơ hội đối với dự án đầu tư lớn trong tương lai. Đồng thời, Công ty cũng chú
+trọng quản lý dòng tiền nhằm đảm bảo thanh khoản và nguồn thặng dư cho hoạt động đầu tư. Những nỗ lực này tạo
+nền tảng vững chắc cho sự phát triển bền vững và khẳng định vị thế dẫn đầu trong ngành với các dự án trọng điểm
 và không ngừng mở rộng quy mô.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-68
-69
-Kết quả sản xuất kinh doanh năm 2024 đủ đảm bảo khả năng trả lãi vay. Cụ thể, hệ số khả năng thanh toán lãi vay 
-năm 2024 là 16,05 lần.
+Kết quả sản xuất kinh doanh năm 2024 đủ đảm bảo khả năng trả lãi vay. Cụ thể, hệ số khả năng thanh toán lãi vay
 Ảnh hưởng chênh lệch tỷ giá hối đoái đến kết quả kinh doanh của Công ty
-Năm 2024 được xem là một năm biến động mạnh của tỷ giá USD/VND trước áp lực liên tục từ thị trường quốc tế cộng 
-hưởng với các yếu tố trong nước, mặc dù vậy Gemadept đã kiểm soát hiệu quả rủi ro tỷ giá, ghi nhận chênh lệch tỷ 
-giá đã phát sinh và đánh giá lại các khoản mục có gốc ngoại tệ từ các khoản mục ngoại tệ lãi thuần 4,9 tỷ đồng. Điều 
+Năm 2024 được xem là một năm biến động mạnh của tỷ giá USD/VND trước áp lực liên tục từ thị trường quốc tế cộng
+hưởng với các yếu tố trong nước, mặc dù vậy Gemadept đã kiểm soát hiệu quả rủi ro tỷ giá, ghi nhận chênh lệch tỷ
+giá đã phát sinh và đánh giá lại các khoản mục có gốc ngoại tệ từ các khoản mục ngoại tệ lãi thuần 4,9 tỷ đồng. Điều
 này đã minh chứng cho quyết tâm vượt trở ngại của đội ngũ Gemadept trước những biến động của tỷ giá hối đoái.
 Hiệu suất sinh lời
 Chỉ tiêu
-Năm 2022
-Năm 2023
-Năm 2024
 Chi phí lãi vay
-               131 
-               135 
-               139 
 Lợi nhuận trước thuế và lãi vay
-            1.439 
-            3.282 
-            2.238 
 Hệ số khả năng thanh toán lãi vay (lần)
-            11,01 
-            24,32 
-            16,05 
 Ảnh hưởng chênh lệch lãi vay đến kết quả kinh doanh của Công ty
-ĐVT: tỷ đồng
-ĐVT: %
 Khả năng thanh toán, chỉ số thanh khoản
-Chỉ tiêu 
-Năm 2022
-Năm 2023
-Năm 2023 
-(*)
-Năm 2024
-Năm 2024 
-(*)
+Chỉ tiêu
 Tỷ suất Lợi nhuận gộp
-44%
-46%
-46%
-44%
-44%
 Tỷ suất Lợi nhuận từ hoạt động kinh doanh
-34%
-83%
-34%
-50%
-43%
 Tỷ suất Lợi nhuận trước thuế
-34%
-82%
-34%
-43%
-37%
 Tỷ suất Lợi nhuận sau thuế
-30%
-66%
-29%
-40%
-33%
 Tỷ suất sinh lời trên tổng tài sản (ROA)
-10%
-19%
-8%
-12%
-9%
 Tỷ suất sinh lời trên VCSH (ROE)
-15%
-29%
-12%
-16%
-12%
 Chỉ tiêu
 Đơn vị
-Năm 2022
-Năm 2023
-Năm 2024
 Hệ số khả năng thanh toán ngắn hạn
-Lần
-              0,82 
-              1,76 
-              3,18 
 Hệ số khả năng thanh toán nhanh
-Lần
-              0,79 
-              1,73 
-              3,14 
-Hệ số khả năng thanh toán tiền mặt 
-Lần     
-              0,42 
-              0,77 
-              1,89 
-ĐÁNH GIÁ HIỆU QUẢ HOẠT ĐỘNG CỦA CÁC CÔNG TY CON, CÔNG TY LIÊN DOANH LIÊN KẾT: 
-Giá trị phần sở hữu của Gemadept tại các Công ty liên doanh, liên kết tính đến cuối năm 2024 là gần 3.805 tỷ đồng, 
-tăng 23% so với cùng kỳ năm trước. Lợi nhuận từ các công ty liên doanh, liên kết tiếp tục đóng góp đáng kể trong 
-tổng lợi nhuận của Công ty. Lợi nhuận từ công ty liên doanh, liên kết năm 2024 ghi nhận 829 tỷ đồng, tăng trưởng 
-202% so với năm trước, chủ yếu từ sự đóng góp của Công ty Cổ phần Cảng Cái Mép Gemadept – Terminal Link, Công ty 
-cổ phần Dịch Vụ Hàng Hóa Sài Gòn SCSC và nhóm các công ty liên doanh Holdings kinh doanh về Logistics và Shipping 
+Hệ số khả năng thanh toán tiền mặt
+ĐÁNH GIÁ HIỆU QUẢ HOẠT ĐỘNG CỦA CÁC CÔNG TY CON, CÔNG TY LIÊN DOANH LIÊN KẾT:
+Giá trị phần sở hữu của Gemadept tại các Công ty liên doanh, liên kết tính đến cuối năm 2024 là gần 3.805 tỷ đồng,
+tăng 23% so với cùng kỳ năm trước. Lợi nhuận từ các công ty liên doanh, liên kết tiếp tục đóng góp đáng kể trong
+tổng lợi nhuận của Công ty. Lợi nhuận từ công ty liên doanh, liên kết năm 2024 ghi nhận 829 tỷ đồng, tăng trưởng
+202% so với năm trước, chủ yếu từ sự đóng góp của Công ty Cổ phần Cảng Cái Mép Gemadept – Terminal Link, Công ty
+cổ phần Dịch Vụ Hàng Hóa Sài Gòn SCSC và nhóm các công ty liên doanh Holdings kinh doanh về Logistics và Shipping
 tiếp tục tăng trưởng và phát triển tốt.
 Các chỉ tiêu tài chính khác:
 Khả năng hoạt động
 Đơn vị
-Năm 2022
-Năm 2023
-Năm 2024
 Số vòng quay hàng tồn kho
-Lần
-28,83
-27,44
-27,44
 Vòng quay khoản phải thu
-Lần
-7,97
-6,83
-8,17
 Vòng quay khoản phải trả
-Lần
-3,60
-3,03
-5,40
 Ghi chú: (*) Số liệu tính toán không bao gồm khoản lợi nhuận từ chuyển nhượng vốn góp
-Năm 2024, hiệu suất sinh lời của Công ty tiếp tục duy trì ở mức cao, biên lợi nhuận gộp và biên lợi nhuận sau thuế 
-lần lượt đạt 44% và 40%. Nếu không xét đến khoản lợi nhuận từ chuyển nhượng vốn góp thì biên lợi nhuận sau thuế 
-của Công ty năm 2024 vẫn tăng so với năm 2023, các chỉ số ROA, ROE tăng trưởng tốt qua các năm, lần lượt đạt 
-12% và 16%.
-Khả năng thanh toán, chỉ số thanh khoản luôn duy trì ở mức an toàn và cải thiện qua từng năm, trong năm 2024, hệ 
-số thanh toán ngắn hạn và thanh toán tiền mặt lần lượt đạt 3,18 và 1,89. Từ đó phản ánh sức khỏe tài chính vững 
+Năm 2024, hiệu suất sinh lời của Công ty tiếp tục duy trì ở mức cao, biên lợi nhuận gộp và biên lợi nhuận sau thuế
+lần lượt đạt 44% và 40%. Nếu không xét đến khoản lợi nhuận từ chuyển nhượng vốn góp thì biên lợi nhuận sau thuế
+của Công ty năm 2024 vẫn tăng so với năm 2023, các chỉ số ROA, ROE tăng trưởng tốt qua các năm, lần lượt đạt
+Khả năng thanh toán, chỉ số thanh khoản luôn duy trì ở mức an toàn và cải thiện qua từng năm, trong năm 2024, hệ
+số thanh toán ngắn hạn và thanh toán tiền mặt lần lượt đạt 3,18 và 1,89. Từ đó phản ánh sức khỏe tài chính vững
 chắc và khả năng quản lý dòng tiền hiệu quả của Công ty.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Đương đầu với những thách thức, mở đường đón những vận hội mới từ thị trường, Gemadept đang vững bước tiến đến 
-mục tiêu hoàn thành tầm nhìn 2025. Với những thành tựu đáng tự hào năm 2024, Tập đoàn tiếp tục triển khai kế 
+Đương đầu với những thách thức, mở đường đón những vận hội mới từ thị trường, Gemadept đang vững bước tiến đến
+mục tiêu hoàn thành tầm nhìn 2025. Với những thành tựu đáng tự hào năm 2024, Tập đoàn tiếp tục triển khai kế
 hoạch năm 2025, kiên định với định hướng phát triển bền vững hướng đến tầm nhìn đến 2030, với các trọng tâm sau:
-•	Tối đa hóa năng lực khai thác và vận hành hệ sinh thái tích hợp Cảng – Logistics 
+•	Tối đa hóa năng lực khai thác và vận hành hệ sinh thái tích hợp Cảng – Logistics
 •	Hợp tác đầu tư, mở rộng chuỗi dịch vụ thuộc lĩnh vực đồng tâm
 •	Chuẩn hóa chất lượng quản trị doanh nghiệp, quản trị rủi ro
 •	Đẩy nhanh tốc độ chuyển đổi số, vận hành hiệu quả và thông minh
-•	Doanh nghiệp tiên phong, đóng góp giá trị cho ngành, đất nước và môi sinh. 
-Đối với khối Miền Bắc 
-•	Triển khai đúng tiến độ Dự án Cảng Nam Đình Vũ giai đoạn 3, tối ưu năng suất vận hành các giai đoạn, phát 
+•	Doanh nghiệp tiên phong, đóng góp giá trị cho ngành, đất nước và môi sinh.
+Đối với khối Miền Bắc
+•	Triển khai đúng tiến độ Dự án Cảng Nam Đình Vũ giai đoạn 3, tối ưu năng suất vận hành các giai đoạn, phát
 huy tối đa lợi thế từ việc nâng cấp, mở rộng Kênh Hà Nam trong thời gian tới
-•	Đầu tư nâng cấp, mở rộng hệ sinh thái Cảng, ICD, Depot…tạo mạng lưới hậu cầu kết nối và năng lực khai thác 
-hiệu quả 
-•	Áp dụng các giải pháp đột phá về quản lý và vận hành cảng, kết hợp với chuyển đổi số toàn diện để nâng cao 
+•	Đầu tư nâng cấp, mở rộng hệ sinh thái Cảng, ICD, Depot…tạo mạng lưới hậu cầu kết nối và năng lực khai thác
+hiệu quả
+•	Áp dụng các giải pháp đột phá về quản lý và vận hành cảng, kết hợp với chuyển đổi số toàn diện để nâng cao
 chất lượng dịch vụ, tăng cường sức cạnh tranh tại khu vực
 •	Mở rộng phạm vi hoạt động và tăng cường kết nối với doanh nghiệp, hãng tàu mới, đa dạng hóa nguồn hàng
-Đối với khối Miền Trung 
-•	Trở thành đơn vị hàng đầu về hiệu quả khai thác cảng tại khu vực Miền Trung, tiên phong vận hành mô hình 
+Đối với khối Miền Trung
+•	Trở thành đơn vị hàng đầu về hiệu quả khai thác cảng tại khu vực Miền Trung, tiên phong vận hành mô hình
 Cảng xanh, Cảng sinh thái bền vững
-•	Tăng cường hợp tác, đầu tư, đồng hành cùng các cảng trong khu vực hình thành cụm cảng xanh đạt chuẩn 
+•	Tăng cường hợp tác, đầu tư, đồng hành cùng các cảng trong khu vực hình thành cụm cảng xanh đạt chuẩn
 quốc tế
 •	Nghiên cứu, tìm kiếm các cơ hội hợp tác, đầu tư nhằm mở rộng quy mô
 •	Chú trọng nâng cao chất lượng dịch vụ, tối ưu chi phí, đa dạng hóa nguồn hàng
 •	Tham gia đầu tư dự án thuộc lĩnh vực đồng tâm tại Đà Nẵng và các tỉnh miền Trung
 •	Đẩy mạnh vai trò, vị thế của Gemadept tại khu vực miền Trung với hệ sinh thái Port-Logs hiệu quả
-Đối với khối Miền Nam 
+Đối với khối Miền Nam
 •	Khai thác hiệu quả, tối ưu năng suất vận hành của cảng Gemalink hiệu hữu
 •	Triển khai thành công và đưa vào khai thác sớm Dự án cảng Gemalink giai đoạn 2
-•	Hoàn thiện cơ sở hạ tầng, trang thiết bị hiện đại và nền tảng số hóa đồng bộ, đáp ứng các tiêu chuẩn xanh 
+•	Hoàn thiện cơ sở hạ tầng, trang thiết bị hiện đại và nền tảng số hóa đồng bộ, đáp ứng các tiêu chuẩn xanh
 của ngành, đưa Gemalink trở thành cảng trung chuyển quốc tế hàng đầu Đông Nam Á và thế giới.
-•	Đầu tư nâng cấp, mở rộng hệ thống ICDs hậu cầu tạo nên mạng lưới kết nối mạnh mẽ giữa Gemalink và các 
+•	Đầu tư nâng cấp, mở rộng hệ thống ICDs hậu cầu tạo nên mạng lưới kết nối mạnh mẽ giữa Gemalink và các
 khu vực trọng điểm như Hồ Chí Minh, Đồng Nai, Bình Dương và ĐBSCL
-•	Phát triển hệ sinh thái cảng thủy, khu công nghiệp, trung tâm logistics tại miền Nam, tạo ra các giải pháp 
-logistics bền vững và đáp ứng nhu cầu vận chuyển hàng hóa ngày càng tăng 
-•	Phát triển mạnh hoạt động vận tải thủy nội địa kết nối cụm cảng nước sâu Gemalink và các khu vực tiềm năng 
-tại miền Nam và nước bạn Campuchia. 
-Đối với khối Logistics: 
-•	Khẳng định vị thế dẫn đầu trong ngành logistics tại Việt Nam thông qua xây dựng và phát triển cơ sở hạ tầng 
+•	Phát triển hệ sinh thái cảng thủy, khu công nghiệp, trung tâm logistics tại miền Nam, tạo ra các giải pháp
+logistics bền vững và đáp ứng nhu cầu vận chuyển hàng hóa ngày càng tăng
+•	Phát triển mạnh hoạt động vận tải thủy nội địa kết nối cụm cảng nước sâu Gemalink và các khu vực tiềm năng
+tại miền Nam và nước bạn Campuchia.
+Đối với khối Logistics:
+•	Khẳng định vị thế dẫn đầu trong ngành logistics tại Việt Nam thông qua xây dựng và phát triển cơ sở hạ tầng
 đồng bộ, hiện đại và thông minh
-•	Mở rộng thị phần toàn quốc với chiến lược đa dạng hóa và cá nhân hóa danh mục khách hàng, nhằm đáp ứng 
+•	Mở rộng thị phần toàn quốc với chiến lược đa dạng hóa và cá nhân hóa danh mục khách hàng, nhằm đáp ứng
 mọi nhu cầu của thị trường
-•	Tăng cường hợp tác và liên minh chiến lược với các đối tác trong nước và quốc tế, mở rộng chuỗi giá trị 
+•	Tăng cường hợp tác và liên minh chiến lược với các đối tác trong nước và quốc tế, mở rộng chuỗi giá trị
 logistics và tối ưu hóa hiệu quả hoạt động của Tập đoàn
-•	Cung cấp dịch vụ giá trị cao, tích hợp công nghệ tiên tiến để nâng cao năng suất vận hành và cải thiện chất 
+•	Cung cấp dịch vụ giá trị cao, tích hợp công nghệ tiên tiến để nâng cao năng suất vận hành và cải thiện chất
 lượng dịch vụ
-•	Nhân rộng mô hình Ga hàng hóa hàng không, đầu tư hiệu quả Ga hàng hóa sân bay quốc tế Long Thành, tạo 
+•	Nhân rộng mô hình Ga hàng hóa hàng không, đầu tư hiệu quả Ga hàng hóa sân bay quốc tế Long Thành, tạo
 nền tảng vững chắc cho sự phát triển các lĩnh vực đồng tâm
-Đối với khối Shipping 
+Đối với khối Shipping
 •	Phát triển mạng lưới vận tải đường thủy, đường bộ rộng khắp với chất lượng dịch vụ uy tín
-•	Nghiên cứu nâng cấp các tuyến dịch vụ hiện hữu và tiên phong mở rộng, triển khai các tuyến vận tải mới hiệu 
-quả.
-•	Cải tổ bộ máy tổ chức, nâng cao chất lượng quản trị và vận hành, tạo nên một hệ thống linh hoạt, hiệu quả và 
+•	Nghiên cứu nâng cấp các tuyến dịch vụ hiện hữu và tiên phong mở rộng, triển khai các tuyến vận tải mới hiệu
+•	Cải tổ bộ máy tổ chức, nâng cao chất lượng quản trị và vận hành, tạo nên một hệ thống linh hoạt, hiệu quả và
 chuyên nghiệp.
-•	Đầu tư có hiệu quả vào tài sản như đội tàu biển, container, đội xe… nhằn tăng cường khả năng khai thác, tối 
+•	Đầu tư có hiệu quả vào tài sản như đội tàu biển, container, đội xe… nhằn tăng cường khả năng khai thác, tối
 ưu nguồn lực sẵn có
-•	Tăng cường hợp tác và liên minh với các đối tác trong nước và quốc tế để mở rộng phạm vi hoạt động và nâng 
+•	Tăng cường hợp tác và liên minh với các đối tác trong nước và quốc tế để mở rộng phạm vi hoạt động và nâng
 cao lợi thế cạnh tranh.
-Báo cáo thường niên
 Gemadept Corporation
-72
-73
 VI. ĐỊNH HƯỚNG CHIẾN LƯỢC ĐẾN 2025
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-74
-75
-Stt
 Họ Và Tên
 Chức danh
 Năm nay
 Năm trước
 Ghi chú
- 
- HỘI ĐỒNG QUẢN TRỊ
- 
- 
-1
+HỘI ĐỒNG QUẢN TRỊ
 Ông  Đỗ Văn Nhân
 Chủ tịch HĐQT
-6.829.533.332
-3.015.918.840
-2
 Ông  Chu Đức Khang
 Phó Chủ tịch HĐQT
-5.910.315.034
-3.447.900.000
-3
 Ông  Nguyễn Thanh Bình
 Thành viên HĐQT kiêm Tổng Giám đốc
-6.694.365.068
-3.175.443.150
-4
 Bà  Bùi Thị Thu Hương
 Thành viên HĐQT kiêm Giám đốc tài chính
-3.920.567.534
-2.389.642.650
-5
 Bà  Nguyễn Minh Nguyệt
 Thành viên HĐQT kiêm Người được Ủy quyền CBTT
-3.898.633.092
-2.338.667.832
-6
-Ông Vũ Ninh 
+Ông Vũ Ninh
 Thành viên HĐQT kiêm Người phụ trách quản trị
-2.461.925.135
-1.911.921.850
-7
-Ông Nguyễn Văn Hùng 
+Ông Nguyễn Văn Hùng
 Thành viên HĐQT độc lập (được bầu từ ngày 25 tháng 4 năm 2022)
-840.000.000
-360.000.000
-8
 Ông  Shinya Hosoi
 Thành viên HĐQT (được bầu từ ngày 01 tháng 4 năm 2023)
-840.000.000
-270.000.000
-9
 Ông  Lâm Đình Dụ
 Thành viên HĐQT độc lập  (được bầu từ ngày 10 tháng 6 năm 2023)
-840.000.000
-200.000.000
-10
 Ông  Nguyễn Thái Sơn
 Thành viên HĐQT độc lập (được bầu từ ngày 10 tháng 6 năm 2023)
-840.000.000
-200.000.000
-11
 Ông  Bolat Duisenov
 Thành viên HĐQT (đã miễn nhiệm từ ngày 09 tháng 6 năm 2023)
--
-160.000.000
-12
 Ông  David Do
 Thành viên HĐQT (đã miễn nhiệm từ ngày 09 tháng 6 năm 2023)
--
-160.000.000
-13
 Ông Tsuyoshi Kato
 Thành viên HĐQT (đã miễn nhiệm từ ngày 01 tháng 4 năm 2023)
--
-90.000.000
-14
 Bà  Hà Thu Hiền
 Thành viên HĐQT (đã miễn nhiệm từ ngày 25 tháng 4 năm 2022)
--
--
- 
- BAN KIỂM SOÁT
- 
- 
-1
+BAN KIỂM SOÁT
 Ông  Lưu Tường Giai
 Trưởng Ban kiểm soát
-120.000.000
-120.000.000
-2
 Bà  Vũ Thị Hoàng Bắc
 Thành viên Ban kiểm soát
-1.010.087.883
-970.862.400
-3
 Ông  Trần Đức Thuận
 Thành viên Ban kiểm soát
-727.076.642
-619.402.200
-4
 Bà  Phan Cẩm Ly
 Thành viên Ban kiểm soát (đã miễn nhiệm từ ngày 09 tháng 6 năm 2023)
--
-53.333.340
-5
 Bà  Trần Hoàng Ngọc Uyên
 Thành viên Ban kiểm soát (đã miễn nhiệm từ ngày 09 tháng 6 năm 2023)
--
-53.333.340
- 
- BAN TỔNG GIÁM ĐỐC
- 
- 
-1
-Ông Phạm Quốc Long 
+BAN TỔNG GIÁM ĐỐC
+Ông Phạm Quốc Long
 Phó Tổng Giám đốc
-4.326.532.767
-2.114.603.150
-2
 Ông  Đỗ Công Khanh
 Phó Tổng Giám đốc
-4.539.601.802
-1.810.628.150
-3
-Ông Nguyễn Thế Dũng 
+Ông Nguyễn Thế Dũng
 Phó Tổng Giám đốc
-4.886.241.802
-2.125.138.150
-15.	THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HỘI ĐỒNG 
-QUẢN TRỊ, BAN KIỂM SOÁT VÀ BAN ĐIỀU HÀNH 
-NĂM 2024
+15.	THÙ LAO VÀ CÁC KHOẢN LỢI ÍCH CỦA HỘI ĐỒNG
+QUẢN TRỊ, BAN KIỂM SOÁT VÀ BAN ĐIỀU HÀNH
 Thu nhập của các thành viên quản lý chủ chốt và Ban kiểm soát
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-76
-77
 I. HỆ THỐNG QUẢN TRỊ RỦI RO CỦA CÔNG TY
 II. KẾT QUẢ CÔNG TÁC QUẢN TRỊ RỦI RO NĂM 2024
 16. BÁO CÁO CÔNG TÁC QUẢN TRỊ RỦI RO
-Hoạt động hệ thống kiểm soát quản lý rủi ro (HTKSQLRR) của Công ty đã góp phần bảo vệ và đóng góp những giá 
-trị tăng thêm cho Công ty, hỗ trợ đạt được mục tiêu kế hoạch Công ty đã đề ra, thông qua việc thực hiện các nhiệm 
+Hoạt động hệ thống kiểm soát quản lý rủi ro (HTKSQLRR) của Công ty đã góp phần bảo vệ và đóng góp những giá
+trị tăng thêm cho Công ty, hỗ trợ đạt được mục tiêu kế hoạch Công ty đã đề ra, thông qua việc thực hiện các nhiệm
 vụ chính sau đây:
- 
-1. Hiệu quả và an toàn trong hoạt động; bảo vệ, quản lý, sử dụng tài sản và các nguồn lực một cách an toàn và 
+1. Hiệu quả và an toàn trong hoạt động; bảo vệ, quản lý, sử dụng tài sản và các nguồn lực một cách an toàn và
 tối ưu hiệu quả.
 2. Bảo đảm hệ thống thông tin quản lý trung thực, hợp lý, đầy đủ và kịp thời.
 3. Bảo đảm tuân thủ pháp luật và các quy chế, quy trình, quy định nội bộ.
-4. Đánh giá các rủi ro mà đơn vị phải đối diện, xây dựng và thực hiện quy trình kiểm soát, quản lý nhằm phòng 
-ngừa, ngăn chặn kịp thời các rủi ro có thể xảy ra; hoặc có biện pháp thích ứng một cách nhanh nhất để giảm 
-thiểu tác dụng tiêu cực của rủi ro nếu xảy ra; có thể biến rủi ro tiềm ẩn thành cơ hội mang lại giá trị gia tăng 
+4. Đánh giá các rủi ro mà đơn vị phải đối diện, xây dựng và thực hiện quy trình kiểm soát, quản lý nhằm phòng
+ngừa, ngăn chặn kịp thời các rủi ro có thể xảy ra; hoặc có biện pháp thích ứng một cách nhanh nhất để giảm
+thiểu tác dụng tiêu cực của rủi ro nếu xảy ra; có thể biến rủi ro tiềm ẩn thành cơ hội mang lại giá trị gia tăng
 cho Công ty.
-5.	Tất cả các cấp từ Ban lãnh đạo Công ty, xuống các phòng ban đơn vị và từng cá nhân phải thường xuyên, liên 
-tục kiểm tra và tự kiểm tra việc thực hiện các quy định, quy trình nội bộ có liên quan và chịu trách nhiệm về 
-kết quả thực hiện hoạt động nghiệp vụ của mình trước Công ty và Pháp luật. Công ty tổ chức kiểm tra, đánh 
+5.	Tất cả các cấp từ Ban lãnh đạo Công ty, xuống các phòng ban đơn vị và từng cá nhân phải thường xuyên, liên
+tục kiểm tra và tự kiểm tra việc thực hiện các quy định, quy trình nội bộ có liên quan và chịu trách nhiệm về
+kết quả thực hiện hoạt động nghiệp vụ của mình trước Công ty và Pháp luật. Công ty tổ chức kiểm tra, đánh
 giá việc thực hiện HTKSQLRR của từng đơn vị, và của từng hoạt động nghiệp vụ.
-6.	Các đơn vị có trách nhiệm xây dựng Hệ thống kiểm soát nội bộ hữu hiệu. Cơ chế kiểm tra, kiểm soát nội bộ 
-được thiết kế, cài đặt, tổ chức thực hiện ngay trong mọi quy trình nghiệp vụ, tại tất cả các đơn vị của Công 
-ty dưới nhiều hình thức: Phân cấp ủy quyền; kiểm tra chéo; giới hạn rủi ro; quy trình, cơ chế thẩm định, kiểm 
-tra, chấp thuận, duyệt. Bên cạnh việc văn bản hóa quy trình, quy định; thiết lập quy trình quản lý rủi ro; kiểm 
-soát tuân thủ và báo cáo kết quả kiểm soát, quản lý rủi ro là các khâu bắt buộc trong thiết lập và duy trì 
+6.	Các đơn vị có trách nhiệm xây dựng Hệ thống kiểm soát nội bộ hữu hiệu. Cơ chế kiểm tra, kiểm soát nội bộ
+được thiết kế, cài đặt, tổ chức thực hiện ngay trong mọi quy trình nghiệp vụ, tại tất cả các đơn vị của Công
+ty dưới nhiều hình thức: Phân cấp ủy quyền; kiểm tra chéo; giới hạn rủi ro; quy trình, cơ chế thẩm định, kiểm
+tra, chấp thuận, duyệt. Bên cạnh việc văn bản hóa quy trình, quy định; thiết lập quy trình quản lý rủi ro; kiểm
+soát tuân thủ và báo cáo kết quả kiểm soát, quản lý rủi ro là các khâu bắt buộc trong thiết lập và duy trì
 HTKSQLRR tại Công ty.
-Năm 2024, thị trường hàng hóa toàn cầu chịu ảnh hưởng bởi diễn biến phức tạp của tình hình chính trị, kinh tế, xã 
-hội thế giới. Xung đột leo thang ở Nga - Ukraine, Trung Đông. Cạnh tranh chiến lược giữa các nước lớn gay gắt. Bảo 
-hộ thương mại và rào cản thương mại có xu hướng gia tăng khiến cho tình trạng phân mảnh của nền kinh tế toàn cầu 
+Năm 2024, thị trường hàng hóa toàn cầu chịu ảnh hưởng bởi diễn biến phức tạp của tình hình chính trị, kinh tế, xã
+hội thế giới. Xung đột leo thang ở Nga - Ukraine, Trung Đông. Cạnh tranh chiến lược giữa các nước lớn gay gắt. Bảo
+hộ thương mại và rào cản thương mại có xu hướng gia tăng khiến cho tình trạng phân mảnh của nền kinh tế toàn cầu
 diễn ra ngày càng nghiêm trọng.
-Dù vậy, với sự nỗ lực của cả nước, kinh tế - xã hội Việt Nam năm 2024 tiếp tục trong xu hướng phục hồi, kinh tế 
-vĩ mô ổn định, lạm phát trong tầm kiểm soát, các cân đối lớn được đảm bảo. Tốc độ tăng GDP năm 2024 của cả nền 
-kinh tế đạt 7,09% so với năm trước. Tổng kim ngạch xuất, nhập khẩu hàng hóa đạt 786,29 tỷ USD, tăng 15,4% so 
-với năm trước, cán cân thương mại hàng hóa xuất siêu 24,77 tỷ USD. Điểm sáng của nền kinh tế Việt Nam đến từ thu 
-hút vốn đầu tư nước ngoài (FDI) theo khu vực, song lại chịu ảnh hưởng mạnh từ sự giảm tốc của nền kinh tế Trung 
-Quốc, chính sách thắt chặt tiền tệ để kiềm chế lạm phát đã làm tăng chi phí tài chính toàn cầu gây áp lực lên cán cân 
+Dù vậy, với sự nỗ lực của cả nước, kinh tế - xã hội Việt Nam năm 2024 tiếp tục trong xu hướng phục hồi, kinh tế
+vĩ mô ổn định, lạm phát trong tầm kiểm soát, các cân đối lớn được đảm bảo. Tốc độ tăng GDP năm 2024 của cả nền
+kinh tế đạt 7,09% so với năm trước. Tổng kim ngạch xuất, nhập khẩu hàng hóa đạt 786,29 tỷ USD, tăng 15,4% so
+với năm trước, cán cân thương mại hàng hóa xuất siêu 24,77 tỷ USD. Điểm sáng của nền kinh tế Việt Nam đến từ thu
+hút vốn đầu tư nước ngoài (FDI) theo khu vực, song lại chịu ảnh hưởng mạnh từ sự giảm tốc của nền kinh tế Trung
+Quốc, chính sách thắt chặt tiền tệ để kiềm chế lạm phát đã làm tăng chi phí tài chính toàn cầu gây áp lực lên cán cân
 thương mại của Việt Nam.
-Trong bối cảnh chung của thị trường, năm 2024, Tập đoàn Gemadept với sự chỉ đạo sát sao của Ban lãnh đạo và 
-sự phối hợp linh hoạt hiệu quả của các phòng ban đơn vị, đã hoàn thành vượt chỉ tiêu kế hoạch tài chính năm đề ra, và 
+Trong bối cảnh chung của thị trường, năm 2024, Tập đoàn Gemadept với sự chỉ đạo sát sao của Ban lãnh đạo và
+sự phối hợp linh hoạt hiệu quả của các phòng ban đơn vị, đã hoàn thành vượt chỉ tiêu kế hoạch tài chính năm đề ra, và
 ngày càng khẳng định vị thế trên thị trường. Khối Cảng đạt kết quả ấn tượng với sản lượng khai thác tăng cao.
-Gemadept tiếp tục được vinh danh trong danh sách Doanh nghiệp có doanh thu dưới 1 tỷ USD tốt nhất châu Á 
-của Forbes 2024, được Vinh Danh Top 10 Công Ty Đại Chúng Uy Tín Và Hiệu Quả Năm 2024, tiếp tục trong Bảng xếp 
+Gemadept tiếp tục được vinh danh trong danh sách Doanh nghiệp có doanh thu dưới 1 tỷ USD tốt nhất châu Á
+của Forbes 2024, được Vinh Danh Top 10 Công Ty Đại Chúng Uy Tín Và Hiệu Quả Năm 2024, tiếp tục trong Bảng xếp
 hạng Top 10 Công ty uy tín Ngành Logistics, Top 20 Báo cáo thường niên tốt nhất năm 2024.
-Năm 2024, công tác quản trị rủi ro Công ty hướng đến duy trì hiệu quả hoạt động của hệ thống và tăng cường bổ 
-sung các chốt kiểm soát thông qua kiểm tra, rà soát các bất cập trong hoạt động sản xuất kinh doanh của tất cả các 
+Năm 2024, công tác quản trị rủi ro Công ty hướng đến duy trì hiệu quả hoạt động của hệ thống và tăng cường bổ
+sung các chốt kiểm soát thông qua kiểm tra, rà soát các bất cập trong hoạt động sản xuất kinh doanh của tất cả các
 đơn vị, nhằm giúp phòng ngừa, ngăn chặn kịp thời các rủi ro có thể xảy ra.
-.
 BLĐ CÔNG TY
 CÁC ĐƠN VỊ
 CÁ NHÂN
 PHÒNG QLRR
 QUẢN TRỊ TẬP TRUNG
 Chỉ đạo điều hành
-Ban hành chính sách 
+Ban hành chính sách
 chiến lược hoạt động
 Thiết lập KSNB
-Kiểm soát giám sát, báo 
+Kiểm soát giám sát, báo
 cáo kết quả thực hiện
 Kiểm tra và tự kiểm tra
-Thực hiện trách nhiệm 
+Thực hiện trách nhiệm
 về kết quả thực hiện
-Tham vấn hoàn thiện hệ thống 
+Tham vấn hoàn thiện hệ thống
 KSQLRR
-Kiểm tra giám sát, đánh giá kết 
+Kiểm tra giám sát, đánh giá kết
 quả thực hiện Tập đoàn
 THIẾT LẬP VÀ DUY TRÌ HTKS QLRR
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-78
-79
 III. KẾ HOẠCH QUẢN TRỊ RỦI RO NĂM 2025
 Trong năm 2024, công tác QTRR đã thực hiện:
-1. Giám sát & ứng phó rủi ro thị trường: Liên tục cập nhật thông tin tình hình thị trường, biến động kinh tế 
-toàn cầu và Việt Nam, tác động của các sự kiện kinh tế thế giới, cùng với các đơn vị đánh giá mức độ ảnh hưởng 
+1. Giám sát & ứng phó rủi ro thị trường: Liên tục cập nhật thông tin tình hình thị trường, biến động kinh tế
+toàn cầu và Việt Nam, tác động của các sự kiện kinh tế thế giới, cùng với các đơn vị đánh giá mức độ ảnh hưởng
 để thiết lập các phương án ứng phó, đồng thời kịp thời nắm bắt cơ hội để tăng cường, phát triển hoạt động.
-2. Kiểm toán chuyên đề: Trên cơ sở nhận diện danh mục các rủi ro trọng yếu trong hoạt động SXKD năm 2024, 
-phòng QLRR Tập đoàn đã tăng cường kiểm toán, rà soát chuyên đề nhằm đảm bảo tính tuân thủ, kịp thời khuyến 
-nghị, đề xuất, hỗ trợ các phòng ban đơn vị ứng phó linh hoạt với các biến động nhanh, khó lường của thị trường, 
+2. Kiểm toán chuyên đề: Trên cơ sở nhận diện danh mục các rủi ro trọng yếu trong hoạt động SXKD năm 2024,
+phòng QLRR Tập đoàn đã tăng cường kiểm toán, rà soát chuyên đề nhằm đảm bảo tính tuân thủ, kịp thời khuyến
+nghị, đề xuất, hỗ trợ các phòng ban đơn vị ứng phó linh hoạt với các biến động nhanh, khó lường của thị trường,
 thông qua các giải pháp:
-•	 Linh hoạt điều chỉnh theo rủi ro thời điểm, thực hiện kiểm toán chuyên sâu, kiểm soát rủi ro về nhân lực, tài 
+•	 Linh hoạt điều chỉnh theo rủi ro thời điểm, thực hiện kiểm toán chuyên sâu, kiểm soát rủi ro về nhân lực, tài
 sản, doanh thu, chi phí nhằm tối ưu hiệu suất và giảm thiểu rủi ro.
-•	 Tập trung vào mục tiêu và rủi ro bằng cách ưu tiên rà soát trọng yếu, tăng cường quản trị và kiểm soát. 
-Phòng QLRR đã đưa ra khuyến nghị về an toàn khai thác, vận hành (quản lý tàu, kho bãi, phòng cháy nổ) và 
-giải pháp quản trị tối ưu dòng tiền. Đồng thời, đánh giá hiệu quả kiểm soát, cảnh báo sớm và đề xuất biện 
+•	 Tập trung vào mục tiêu và rủi ro bằng cách ưu tiên rà soát trọng yếu, tăng cường quản trị và kiểm soát.
+Phòng QLRR đã đưa ra khuyến nghị về an toàn khai thác, vận hành (quản lý tàu, kho bãi, phòng cháy nổ) và
+giải pháp quản trị tối ưu dòng tiền. Đồng thời, đánh giá hiệu quả kiểm soát, cảnh báo sớm và đề xuất biện
 pháp phòng ngừa rủi ro.
 •	 Tăng cường số hóa, ứng dụng các công cụ quản trị để tối ưu quy trình và nâng cao hiệu quả kiểm soát.
-•	 Kiểm soát rủi ro an ninh mạng, bảo vệ dữ liệu và truyền thông ý thức, cách thức phòng tránh trong toàn Tập 
+•	 Kiểm soát rủi ro an ninh mạng, bảo vệ dữ liệu và truyền thông ý thức, cách thức phòng tránh trong toàn Tập
 đoàn.
-3. Tăng cường kiểm soát & cải tiến quản trị: Kiểm tra và đánh giá tính phù hợp, hiệu quả của hệ thống quản 
-trị, quản lý rủi ro và kiểm soát nội bộ nhằm giúp Công ty đạt được các mục tiêu chiến lược, hoạt động, tuân thủ 
-và tài chính như: Đánh giá rủi ro liên quan đến việc đạt được các mục tiêu chiến lược của Công ty; mức độ tối ưu 
-bảo vệ và sử dụng tài sản, PTTB; khuyến cáo các nguy cơ, rủi ro, các vấn đề cần tăng cường kiểm soát và biện 
+3. Tăng cường kiểm soát & cải tiến quản trị: Kiểm tra và đánh giá tính phù hợp, hiệu quả của hệ thống quản
+trị, quản lý rủi ro và kiểm soát nội bộ nhằm giúp Công ty đạt được các mục tiêu chiến lược, hoạt động, tuân thủ
+và tài chính như: Đánh giá rủi ro liên quan đến việc đạt được các mục tiêu chiến lược của Công ty; mức độ tối ưu
+bảo vệ và sử dụng tài sản, PTTB; khuyến cáo các nguy cơ, rủi ro, các vấn đề cần tăng cường kiểm soát và biện
 pháp ứng phó.
- 
-4. Tối ưu quy trình & tuân thủ: Rà soát, đánh giá tuân thủ quy trình quản lý tài chính, vận hành khai thác, đề 
-xuất giải pháp xử lý sai sót, cải tiến quy trình, báo cáo, và thúc đẩy chuyển đổi số nhằm nâng cao hiệu quả hoạt 
+4. Tối ưu quy trình & tuân thủ: Rà soát, đánh giá tuân thủ quy trình quản lý tài chính, vận hành khai thác, đề
+xuất giải pháp xử lý sai sót, cải tiến quy trình, báo cáo, và thúc đẩy chuyển đổi số nhằm nâng cao hiệu quả hoạt
 động.
-5. Kiểm soát & cải tiến: Xây dựng, thực hiện kế hoạch kiểm soát tuân thủ, phối hợp kiểm toán nội bộ, quản lý rủi 
+5. Kiểm soát & cải tiến: Xây dựng, thực hiện kế hoạch kiểm soát tuân thủ, phối hợp kiểm toán nội bộ, quản lý rủi
 ro, theo dõi đánh giá cải thiện sau kiểm tra.
-6. Ứng dụng công nghệ: Kiểm tra tuân thủ các quy định, chính sách và đánh giá hệ thống CNTT, tối ưu khai thác 
-và quản lý dữ liệu, thúc đẩy chuyển đổi số để nâng cao năng suất lao động, tăng lợi thế cạnh tranh, mở rộng thu 
+6. Ứng dụng công nghệ: Kiểm tra tuân thủ các quy định, chính sách và đánh giá hệ thống CNTT, tối ưu khai thác
+và quản lý dữ liệu, thúc đẩy chuyển đổi số để nâng cao năng suất lao động, tăng lợi thế cạnh tranh, mở rộng thu
 hút và giữ chân khách hàng.
-7.	Quản trị rủi ro & hợp tác: Tiếp tục quản trị tập trung theo lĩnh vực, hỗ trợ tốt cho hoạt động SXKD các đơn 
-vị. Phối hợp triển khai các dự án trọng điểm và thúc đẩy phát huy sức mạnh hợp lực nội bộ và hợp tác liên doanh 
+7.	Quản trị rủi ro & hợp tác: Tiếp tục quản trị tập trung theo lĩnh vực, hỗ trợ tốt cho hoạt động SXKD các đơn
+vị. Phối hợp triển khai các dự án trọng điểm và thúc đẩy phát huy sức mạnh hợp lực nội bộ và hợp tác liên doanh
 liên kết.
-8. Giám sát & ESG: Tăng cường kiểm tra giám sát hiện trường các đơn vị, đảm bảo tuân thủ HSSE, thực thi ESG 
+8. Giám sát & ESG: Tăng cường kiểm tra giám sát hiện trường các đơn vị, đảm bảo tuân thủ HSSE, thực thi ESG
 (Môi trường - Xã hội - và Quản trị) theo hướng phát triển bền vững.
-9. Cải tiến hệ thống kiểm soát: Tổng kết, đánh giá và liên tục cải tiến nâng cao hiệu quả kiểm soát nội bộ và 
+9. Cải tiến hệ thống kiểm soát: Tổng kết, đánh giá và liên tục cải tiến nâng cao hiệu quả kiểm soát nội bộ và
 quản lý rủi ro.
-Nhìn chung, với nỗ lực toàn Công ty, bên cạnh, sự tích cực kịp thời ứng phó với diễn biến tình hình kinh tế - xã hội năm 
-2024, linh hoạt ứng biến theo sự thay đổi của thị trường và duy trì hiệu quả hoạt động hệ thống kiểm soát QTRR của 
+Nhìn chung, với nỗ lực toàn Công ty, bên cạnh, sự tích cực kịp thời ứng phó với diễn biến tình hình kinh tế - xã hội năm
+2024, linh hoạt ứng biến theo sự thay đổi của thị trường và duy trì hiệu quả hoạt động hệ thống kiểm soát QTRR của
 Tập đoàn, Công ty đã hoàn thành mục tiêu kế hoạch tài chính năm 2024 đề ra.
-Kinh tế Việt Nam dự báo sẽ bứt phá mạnh mẽ năm 2025. Nền kinh tế trong nước đứng trước những thời cơ, thuận 
-lợi với xu hướng đà phục hồi tiếp tục cải thiện dần theo thời gian sẽ là động lực, nền tảng quan trọng để kinh tế Việt 
+Kinh tế Việt Nam dự báo sẽ bứt phá mạnh mẽ năm 2025. Nền kinh tế trong nước đứng trước những thời cơ, thuận
+lợi với xu hướng đà phục hồi tiếp tục cải thiện dần theo thời gian sẽ là động lực, nền tảng quan trọng để kinh tế Việt
 Nam nói chung và Công ty Cổ phần Gemadept nói riêng có cơ hội tăng trưởng trong năm 2025.
-Đối với Gemadept, năm 2025 là năm tăng tốc, bứt phá, có ý nghĩa đặc biệt quan trọng với Công ty trong việc thực 
-hiện mục tiêu kế hoạch 5 năm 2021-2025. Các đơn vị được yêu cầu tiếp tục đẩy nhanh tiến độ triển khai phát triển 
-các hoạt động sản xuất kinh doanh theo mục tiêu kế hoạch năm 2025 đã đề ra, làm tiền đề cho việc xây dựng Bản đồ 
+Đối với Gemadept, năm 2025 là năm tăng tốc, bứt phá, có ý nghĩa đặc biệt quan trọng với Công ty trong việc thực
+hiện mục tiêu kế hoạch 5 năm 2021-2025. Các đơn vị được yêu cầu tiếp tục đẩy nhanh tiến độ triển khai phát triển
+các hoạt động sản xuất kinh doanh theo mục tiêu kế hoạch năm 2025 đã đề ra, làm tiền đề cho việc xây dựng Bản đồ
 chiến lược và mục tiêu kế hoạch 5 năm tiếp theo 2026-2030.
-Căn cứ vào mục tiêu nhiệm vụ trọng tâm năm 2025 của Công ty, công tác QLRR trong năm 2025 sẽ tập trung 
+Căn cứ vào mục tiêu nhiệm vụ trọng tâm năm 2025 của Công ty, công tác QLRR trong năm 2025 sẽ tập trung
 thực hiện các nhiệm vụ chính sau đây:
-1. Xác định danh mục Top 10 rủi ro năm 2025 - xây dựng kế hoạch kiểm soát quản lý rủi ro theo thứ tự ưu 
+1. Xác định danh mục Top 10 rủi ro năm 2025 - xây dựng kế hoạch kiểm soát quản lý rủi ro theo thứ tự ưu
 tiên, tập trung vào các rủi ro trọng yếu theo diễn biến của thị trường và tình hình hoạt động của các đơn vị, bao gồm:
-•	 Rủi ro từ các sự kiện toàn cầu: Các sự kiện toàn cầu như xung đột ở Biển Đỏ, chiến tranh Nga-Ukraine, 
-nhiệm kỳ mới của tân Tổng thống Mỹ,… có thể gây ra những tác động đến thị trường vận tải toàn cầu, biến 
-động mạnh trong giá cước vận tải và sản xuất. Các đơn vị cần cập nhật sát sao diễn biến thị trường và điều 
+•	 Rủi ro từ các sự kiện toàn cầu: Các sự kiện toàn cầu như xung đột ở Biển Đỏ, chiến tranh Nga-Ukraine,
+nhiệm kỳ mới của tân Tổng thống Mỹ,… có thể gây ra những tác động đến thị trường vận tải toàn cầu, biến
+động mạnh trong giá cước vận tải và sản xuất. Các đơn vị cần cập nhật sát sao diễn biến thị trường và điều
 chỉnh chiến thuật kinh doanh, phương án khai thác phù hợp.
-•	 Rủi ro an toàn dữ liệu và an ninh mạng: Gia tăng tấn công mạng, mất an toàn dữ liệu ảnh hưởng nghiêm 
-trọng đến vận hành và uy tín doanh nghiệp. Phòng CNTT và CĐS của Công ty thiết lập các kế hoạch kiểm 
+•	 Rủi ro an toàn dữ liệu và an ninh mạng: Gia tăng tấn công mạng, mất an toàn dữ liệu ảnh hưởng nghiêm
+trọng đến vận hành và uy tín doanh nghiệp. Phòng CNTT và CĐS của Công ty thiết lập các kế hoạch kiểm
 tra giám sát thường xuyên và xây dựng phương án dự phòng (backup dữ liệu, khắc phục sự cố nhanh chóng).
- 
-•	 Rủi ro khí hậu, thời tiết cực đoan: hạn hán, bão lụt, giông lốc, có thể gây thiệt hại về cơ sở vật chất, làm gián 
-đoạn hoạt động SXKD. Các đơn vị xây dựng kịch bản ứng phó chủ động và cập nhật kịp thời các luồng thông 
+•	 Rủi ro khí hậu, thời tiết cực đoan: hạn hán, bão lụt, giông lốc, có thể gây thiệt hại về cơ sở vật chất, làm gián
+đoạn hoạt động SXKD. Các đơn vị xây dựng kịch bản ứng phó chủ động và cập nhật kịp thời các luồng thông
 tin liên quan để thiết lập chủ động quy trình.
-•	 Rủi ro giảm lợi nhuận khi chi phí tăng nhanh hơn doanh thu: Do hạn chế về cơ sở vật chất, tốc độ số hóa, 
-quy mô dịch vụ, vốn,… Các phòng ban đơn vị đăng ký kế hoạch thực hiện Lean - cắt giảm lãng phí nhằm cải 
+•	 Rủi ro giảm lợi nhuận khi chi phí tăng nhanh hơn doanh thu: Do hạn chế về cơ sở vật chất, tốc độ số hóa,
+quy mô dịch vụ, vốn,… Các phòng ban đơn vị đăng ký kế hoạch thực hiện Lean - cắt giảm lãng phí nhằm cải
 thiện tỷ suất lợi nhuận.
-•	 Rủi ro bởi sự thay đổi nhu cầu của thị trường: Xu hướng thị trường thay đổi nhanh chóng có thể khiến dự 
-báo trở nên không chính xác, cần linh hoạt điều chỉnh và có các kịch bản phòng ngừa. Các phòng ban đơn vị 
+•	 Rủi ro bởi sự thay đổi nhu cầu của thị trường: Xu hướng thị trường thay đổi nhanh chóng có thể khiến dự
+báo trở nên không chính xác, cần linh hoạt điều chỉnh và có các kịch bản phòng ngừa. Các phòng ban đơn vị
 khai thác hiệu quả các luồng thông tin, nguồn dữ liệu, phục vụ quản trị điều hành.
-•	 Rủi ro liên quan đến khách hàng: Phụ thuộc vào khách hàng lớn, khi khách hàng thay đổi cơ cấu hoạt động, 
-đòi hỏi phát triển hệ thống khách hàng rộng, cơ cấu đa dạng, có sự tương tác trao đổi thường xuyên giữa các 
-bên, cải thiện nâng cao chất lượng dịch vụ, là cơ sở kiến tạo sự hợp tác đồng hành của khách hàng với Công 
-ty. Các đơn vị liên tục theo dõi, rà soát và nâng cao chất lượng dịch vụ nhằm tăng cường sự gắn kết, tạo dựng 
+•	 Rủi ro liên quan đến khách hàng: Phụ thuộc vào khách hàng lớn, khi khách hàng thay đổi cơ cấu hoạt động,
+đòi hỏi phát triển hệ thống khách hàng rộng, cơ cấu đa dạng, có sự tương tác trao đổi thường xuyên giữa các
+bên, cải thiện nâng cao chất lượng dịch vụ, là cơ sở kiến tạo sự hợp tác đồng hành của khách hàng với Công
+ty. Các đơn vị liên tục theo dõi, rà soát và nâng cao chất lượng dịch vụ nhằm tăng cường sự gắn kết, tạo dựng
 niềm tin vững chắc và duy trì mối quan hệ bền chặt với khách hàng.
-•	 Rủi ro liên quan đến nhà cung cấp: Phụ thuộc vào đối tác, nhà cung cấp không đáp ứng được yêu cầu về 
-giá, chất lượng DV, hoặc thời gian. Phòng mua sắm của Tập đoàn phối hợp chặt chẽ với các đơn vị để cập nhật 
+•	 Rủi ro liên quan đến nhà cung cấp: Phụ thuộc vào đối tác, nhà cung cấp không đáp ứng được yêu cầu về
+giá, chất lượng DV, hoặc thời gian. Phòng mua sắm của Tập đoàn phối hợp chặt chẽ với các đơn vị để cập nhật
 kịp thời các biến động của nhà cung cấp, và phát triển mở rộng mạng lưới nhà cung cấp.
-•	 Rủi ro về tuân thủ quy trình, an toàn khai thác và HSSE, ESG: Quy trình chưa được tuân thủ hoặc chậm 
-cải tiến theo điều kiện thực tế gây mất an toàn và nguy cơ xảy ra rủi ro. Phòng HSSE cần đẩy mạnh đào tạo, 
-hướng dẫn tuân thủ, truyền thông về HSSE và ESG để đảm bảo môi trường làm việc an toàn, bền vững cho 
+•	 Rủi ro về tuân thủ quy trình, an toàn khai thác và HSSE, ESG: Quy trình chưa được tuân thủ hoặc chậm
+cải tiến theo điều kiện thực tế gây mất an toàn và nguy cơ xảy ra rủi ro. Phòng HSSE cần đẩy mạnh đào tạo,
+hướng dẫn tuân thủ, truyền thông về HSSE và ESG để đảm bảo môi trường làm việc an toàn, bền vững cho
 người lao động.
-•	 Rủi ro từ sự thiếu hụt nguồn nhân lực chất lượng cao: Không có đủ nhân sự giỏi để đáp ứng tốc độ phát 
-triển của Tập Đoàn. Phòng Nhân sự phối hợp cùng các đơn vị rà soát, điều chỉnh chính sách nhân sự nhằm 
+•	 Rủi ro từ sự thiếu hụt nguồn nhân lực chất lượng cao: Không có đủ nhân sự giỏi để đáp ứng tốc độ phát
+triển của Tập Đoàn. Phòng Nhân sự phối hợp cùng các đơn vị rà soát, điều chỉnh chính sách nhân sự nhằm
 nâng cao chất lượng đội ngũ và giữ chân nhân tài.
-•	 Rủi ro khi mức độ cạnh tranh gia tăng: Các công ty mới nổi có thể tạo ra áp lực cạnh tranh lớn hơn cho các 
-doanh nghiệp truyền thống. PBĐV luôn luôn trong tâm thế đổi mới, sáng tạo, đẩy mạnh ứng dụng cộng nghệ 
+•	 Rủi ro khi mức độ cạnh tranh gia tăng: Các công ty mới nổi có thể tạo ra áp lực cạnh tranh lớn hơn cho các
+doanh nghiệp truyền thống. PBĐV luôn luôn trong tâm thế đổi mới, sáng tạo, đẩy mạnh ứng dụng cộng nghệ
 cao để nâng cao lợi thế cạnh tranh.
 II. KẾT QUẢ CÔNG TÁC QUẢN TRỊ RỦI RO NĂM 2024 (tiếp theo)
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-80
-81
-BÁO CÁO QUAN HỆ NHÀ ĐẦU TƯ 
-Là một trong những doanh nghiệp niêm yết hàng 
-đầu trên thị trường, Gemadept tiếp tục đặt trọng 
-tâm vào việc xây dựng và duy trì mối quan hệ bền 
-vững, minh bạch với các cổ đông và nhà đầu tư trong 
-năm 2024 thông qua các hoạt động Quan hệ Nhà 
+BÁO CÁO QUAN HỆ NHÀ ĐẦU TƯ
+Là một trong những doanh nghiệp niêm yết hàng
+đầu trên thị trường, Gemadept tiếp tục đặt trọng
+tâm vào việc xây dựng và duy trì mối quan hệ bền
+vững, minh bạch với các cổ đông và nhà đầu tư trong
+năm 2024 thông qua các hoạt động Quan hệ Nhà
 đầu tư (Investor Relations - IR).
-Đây là một chiến lược quan trọng nhằm nâng cao 
-giá trị doanh nghiệp và củng cố niềm tin từ các bên liên 
+Đây là một chiến lược quan trọng nhằm nâng cao
+giá trị doanh nghiệp và củng cố niềm tin từ các bên liên
 quan.
-Trong năm qua, Phòng Quan hệ Nhà đầu tư Gemadept 
-đã nỗ lực phối hợp chặt chẽ với các công ty chứng khoán 
-uy tín như HSC, SSI, VietCap, Maybank, VinaCapital, 
-Yuanta… cùng với các cổ đông, nhà đầu tư, tổ chức và 
-chuyên gia phân tích trong và ngoài nước. Thông qua 
-đó, Công ty liên tục cập nhật thông tin về tình hình hoạt 
-động kinh doanh, diễn biến thị trường và chiến lược phát 
+Trong năm qua, Phòng Quan hệ Nhà đầu tư Gemadept
+đã nỗ lực phối hợp chặt chẽ với các công ty chứng khoán
+uy tín như HSC, SSI, VietCap, Maybank, VinaCapital,
+Yuanta… cùng với các cổ đông, nhà đầu tư, tổ chức và
+chuyên gia phân tích trong và ngoài nước. Thông qua
+đó, Công ty liên tục cập nhật thông tin về tình hình hoạt
+động kinh doanh, diễn biến thị trường và chiến lược phát
 triển của Gemadept.
-Để đảm bảo thông tin được truyền đạt hiệu quả, 
-Gemadept đã tổ chức các cuộc gặp gỡ đa dạng, từ họp 
-Đại hội đồng cổ đông, các cuộc họp trực tiếp và trực 
-tuyến, đến các diễn đàn, phương tiện truyền thông 
-đại chúng, trao đổi qua điện thoại, email, website, cổng 
+Để đảm bảo thông tin được truyền đạt hiệu quả,
+Gemadept đã tổ chức các cuộc gặp gỡ đa dạng, từ họp
+Đại hội đồng cổ đông, các cuộc họp trực tiếp và trực
+tuyến, đến các diễn đàn, phương tiện truyền thông
+đại chúng, trao đổi qua điện thoại, email, website, cổng
 thông tin, văn bản và hộp thư góp ý.
-Thông qua các kênh kết nối này, Ban lãnh đạo Công 
-ty đồng thời chủ động và tích cực lắng nghe các góp ý, 
-đóng góp, đề xuất của các cổ đông, nhà đầu tư, các tổ 
-chức, chuyên gia, đối tác… nhằm đưa Gemadept vững 
-vàng vượt qua những thách thức, biến động của năm 
-2024, tăng cường hiệu quả hoạt động, kiên định trên 
-con đường phát triển bền vững, đem đến lợi ích và giá trị 
+Thông qua các kênh kết nối này, Ban lãnh đạo Công
+ty đồng thời chủ động và tích cực lắng nghe các góp ý,
+đóng góp, đề xuất của các cổ đông, nhà đầu tư, các tổ
+chức, chuyên gia, đối tác… nhằm đưa Gemadept vững
+vàng vượt qua những thách thức, biến động của năm
+2024, tăng cường hiệu quả hoạt động, kiên định trên
+con đường phát triển bền vững, đem đến lợi ích và giá trị
 cho các bên.
-Gemadept đảm bảo các điều kiện để thông tin công 
-bố dễ dàng tiếp cận, công bằng và minh bạch, thông qua 
-nhiều kênh truyền thông khác nhau. Các tài liệu dành 
-cho nhà đầu tư gồm Báo cáo thường niên, Báo cáo Phát 
-triển bền vững, Báo cáo tài chính quý/bán niên/năm, các 
-bản tin Nhà đầu tư hàng quý, các bản tin hoạt động sản 
-xuất kinh doanh hàng tháng, các thông báo… song ngữ 
-Việt – Anh được cập nhật kịp thời và liên tục tại Website, 
-các trang mạng xã hội của Công ty, cũng như thông qua 
-các kênh truyền thông, báo đài… Bên cạnh đó, các nhà 
-đầu tư có thể liên hệ trực tiếp với Phòng Quan hệ công 
-chúng và nhà đầu (Phòng PR-IR) của Gemadept để được 
-giải đáp các quan tâm, thắc mắc. Thông tin liên hệ tại 
+Gemadept đảm bảo các điều kiện để thông tin công
+bố dễ dàng tiếp cận, công bằng và minh bạch, thông qua
+nhiều kênh truyền thông khác nhau. Các tài liệu dành
+bản tin Nhà đầu tư hàng quý, các bản tin hoạt động sản
+xuất kinh doanh hàng tháng, các thông báo… song ngữ
+Việt – Anh được cập nhật kịp thời và liên tục tại Website,
+các trang mạng xã hội của Công ty, cũng như thông qua
+các kênh truyền thông, báo đài… Bên cạnh đó, các nhà
+đầu tư có thể liên hệ trực tiếp với Phòng Quan hệ công
+chúng và nhà đầu (Phòng PR-IR) của Gemadept để được
+giải đáp các quan tâm, thắc mắc. Thông tin liên hệ tại
 phần đầu của báo cáo này.
-Ngoài ra, nhằm tạo điều kiện để các cổ đông, nhà 
-đầu tư và các bên quan tâm có cơ hội trải nghiệm thực 
+Ngoài ra, nhằm tạo điều kiện để các cổ đông, nhà
+đầu tư và các bên quan tâm có cơ hội trải nghiệm thực
 tế về các lĩnh vực hoạt động của Gemadept, Phòng PR-
-IR thường xuyên phối hợp với các phòng ban, đơn vị tổ 
-chức các buổi tham quan hiện trường Cảng, Trung tâm 
-phân phối, Nhà ga hàng hóa hàng không… Những chuyến 
-tham quan thú vị, bổ ích và giàu thông tin tại hệ sinh thái 
-Cảng – Logistics của Gemadept luôn tạo sự hứng khởi và 
+IR thường xuyên phối hợp với các phòng ban, đơn vị tổ
+chức các buổi tham quan hiện trường Cảng, Trung tâm
+phân phối, Nhà ga hàng hóa hàng không… Những chuyến
+tham quan thú vị, bổ ích và giàu thông tin tại hệ sinh thái
+Cảng – Logistics của Gemadept luôn tạo sự hứng khởi và
 củng cố niềm tin của cổ đông, nhà đầu tư.
-Với những nỗ lực không ngừng, Gemadept đã được 
-vinh danh trong nhiều giải thưởng uy tín về sản xuất 
-kinh doanh, quản trị doanh nghiệp và quan hệ nhà đầu 
-tư, bao gồm “Top 10 Công Ty Uy Tín Ngành Logistics 
-Năm 2024”, "Top 50 doanh nghiệp hoạt động hiệu 
-quả và bền vững", "Top 10 Công ty đại chúng uy tín 
-và hiệu quả năm 2024", được đề cử IR Awards và 
-là "Doanh nghiệp đạt chuẩn công bố thông tin năm 
-2024", Top 50 Doanh nghiệp niêm yết thực hành 
-quản trị công ty tốt nhất VNCG50…
-Bên cạnh các giải thưởng uy tín trên, Gemadept 
-tiếp tục được vinh danh trong Top 20 Doanh nghiệp 
-có Báo cáo thường niên tốt nhất tại Lễ trao giải Cuộc 
-bình chọn Doanh nghiệp niêm yết do Sở Giao dịch Chứng 
-khoán Thành phố Hồ Chí Minh (HOSE), Sở Giao dịch 
-Chứng khoán Hà Nội (HNX) và Báo Đầu tư phối hợp tổ 
-chức. Những thành tựu này không chỉ khẳng định vị thế 
-vững chắc của Gemadept trên thị trường mà còn củng 
+Với những nỗ lực không ngừng, Gemadept đã được
+vinh danh trong nhiều giải thưởng uy tín về sản xuất
+kinh doanh, quản trị doanh nghiệp và quan hệ nhà đầu
+tư, bao gồm “Top 10 Công Ty Uy Tín Ngành Logistics
+Năm 2024”, "Top 50 doanh nghiệp hoạt động hiệu
+quả và bền vững", "Top 10 Công ty đại chúng uy tín
+và hiệu quả năm 2024", được đề cử IR Awards và
+là "Doanh nghiệp đạt chuẩn công bố thông tin năm
+2024", Top 50 Doanh nghiệp niêm yết thực hành
+Bên cạnh các giải thưởng uy tín trên, Gemadept
+tiếp tục được vinh danh trong Top 20 Doanh nghiệp
+bình chọn Doanh nghiệp niêm yết do Sở Giao dịch Chứng
+khoán Thành phố Hồ Chí Minh (HOSE), Sở Giao dịch
+Chứng khoán Hà Nội (HNX) và Báo Đầu tư phối hợp tổ
+chức. Những thành tựu này không chỉ khẳng định vị thế
+vững chắc của Gemadept trên thị trường mà còn củng
 cố niềm tin từ phía các cổ đông và nhà đầu tư.
-Trong thời gian tới, Gemadept tiếp tục nâng cao vai 
-trò và hiệu quả của hoạt động quan hệ nhà đầu tư, nhằm 
-tạo ra những giá trị bền vững cho các bên liên quan, góp 
-phần củng cố vị thế và thương hiệu của Gemadept trên 
-thị trường, đồng thời đóng góp tích cực vào sự phát triển 
+Trong thời gian tới, Gemadept tiếp tục nâng cao vai
+trò và hiệu quả của hoạt động quan hệ nhà đầu tư, nhằm
+tạo ra những giá trị bền vững cho các bên liên quan, góp
+phần củng cố vị thế và thương hiệu của Gemadept trên
+thị trường, đồng thời đóng góp tích cực vào sự phát triển
 kinh tế và thịnh vượng của đất nước.
-Công tác QTRR năm 2025 ưu tiên tập trung, xây dựng các chốt kiểm soát, phối hợp xây dựng kế hoạch kinh doanh 
-liên tục tại các Đơn vị phòng ban, với mục tiêu phòng ngừa và ứng phó các sự cố một cách hiệu quả, nhằm đáp ứng 
-yêu cầu của các bên: Khách hàng, Cổ đông, Nhà đầu tư; Nâng cao năng lực cạnh tranh và đảm bảo hiệu quả thực chất 
-nhằm duy trì tốc độ phát triển của các phòng ban đơn vị cũng như toàn Công ty, theo mục tiêu kế hoạch năm 2025 
+Công tác QTRR năm 2025 ưu tiên tập trung, xây dựng các chốt kiểm soát, phối hợp xây dựng kế hoạch kinh doanh
+liên tục tại các Đơn vị phòng ban, với mục tiêu phòng ngừa và ứng phó các sự cố một cách hiệu quả, nhằm đáp ứng
+yêu cầu của các bên: Khách hàng, Cổ đông, Nhà đầu tư; Nâng cao năng lực cạnh tranh và đảm bảo hiệu quả thực chất
+nhằm duy trì tốc độ phát triển của các phòng ban đơn vị cũng như toàn Công ty, theo mục tiêu kế hoạch năm 2025
 Công ty đã đề ra.
-2. Kiểm toán theo rủi ro: Kế hoạch kiểm toán năm được lập theo nguyên tắc bám sát các rủi ro trọng yếu trong 
-hoạt động của Công ty; Giám sát triển khai thực hiện kế hoạch sản xuất kinh doanh, công tác kiểm soát cắt giảm chi 
-phí, quản lý dòng tiền, tối ưu hiệu quả sử dụng tài sản tại các đơn vị, cảnh báo các nhân tố ảnh hưởng đến khả năng 
+2. Kiểm toán theo rủi ro: Kế hoạch kiểm toán năm được lập theo nguyên tắc bám sát các rủi ro trọng yếu trong
+hoạt động của Công ty; Giám sát triển khai thực hiện kế hoạch sản xuất kinh doanh, công tác kiểm soát cắt giảm chi
+phí, quản lý dòng tiền, tối ưu hiệu quả sử dụng tài sản tại các đơn vị, cảnh báo các nhân tố ảnh hưởng đến khả năng
 hoàn thành chỉ tiêu kế hoạch.
-3. Cải tiến liên tục và tuân thủ: Phối hợp rà soát, cải tiến, kiểm tra, đánh giá tuân thủ Quy trình quy định, tăng 
-cường ứng dụng số hóa, tối ưu hệ thống CNTT hiện hữu, đưa ra kiến nghị hoàn thiện quy trình quản trị và quản lý rủi 
+3. Cải tiến liên tục và tuân thủ: Phối hợp rà soát, cải tiến, kiểm tra, đánh giá tuân thủ Quy trình quy định, tăng
+cường ứng dụng số hóa, tối ưu hệ thống CNTT hiện hữu, đưa ra kiến nghị hoàn thiện quy trình quản trị và quản lý rủi
 ro, đảm bảo khắc phục sau kiểm tra.
-4. Đào tạo và kiểm soát rủi ro: Tăng cường công tác đào tạo, truyền thông ứng phó rủi ro đến từng phòng ban 
-đơn vị và cá nhân. Lưu ý các đơn vị về việc phối kết hợp chặt chẽ giữa các tuyến phòng vệ nhằm kiểm soát hoạt động 
+4. Đào tạo và kiểm soát rủi ro: Tăng cường công tác đào tạo, truyền thông ứng phó rủi ro đến từng phòng ban
+đơn vị và cá nhân. Lưu ý các đơn vị về việc phối kết hợp chặt chẽ giữa các tuyến phòng vệ nhằm kiểm soát hoạt động
 toàn hệ thống, ngăn ngừa, phát hiện và xử lý rủi ro kịp thời.
- 
-5. Tối ưu hệ sinh thái & hợp lực: Phát huy sức mạnh Khối quản trị tập trung; Phối hợp đánh giá mức độ gắn kết 
-với khách hàng và đối tác và công tác triển khai các hoạt động liên doanh liên kết và phát triển các gói dịch vụ hệ sinh 
+5. Tối ưu hệ sinh thái & hợp lực: Phát huy sức mạnh Khối quản trị tập trung; Phối hợp đánh giá mức độ gắn kết
+với khách hàng và đối tác và công tác triển khai các hoạt động liên doanh liên kết và phát triển các gói dịch vụ hệ sinh
 thái theo mục tiêu kế hoạch.
-6. Nâng cao hệ thống kiểm soát: Đánh giá hệ thống kiểm soát quản lý rủi ro thông qua tổng kết báo cáo, đúc 
-kết kinh nghiệm nhằm tiếp tục phát huy điểm mạnh, liên tục cải tiến, nâng cao hiệu quả hoạt động của hệ thống kiểm 
-soát nội bộ và quản lý rủi ro. Phối hợp HSSE, CĐS tập trung đánh giá rủi ro khí hậu, môi trường, ứng dụng AI trong dự 
+6. Nâng cao hệ thống kiểm soát: Đánh giá hệ thống kiểm soát quản lý rủi ro thông qua tổng kết báo cáo, đúc
+kết kinh nghiệm nhằm tiếp tục phát huy điểm mạnh, liên tục cải tiến, nâng cao hiệu quả hoạt động của hệ thống kiểm
+soát nội bộ và quản lý rủi ro. Phối hợp HSSE, CĐS tập trung đánh giá rủi ro khí hậu, môi trường, ứng dụng AI trong dự
 báo, lập kịch bản ứng phó chủ động nhằm cảnh báo sớm và phòng ngừa các rủi ro hiệu quả.
-Hướng đến năm 2025, Gemadept xác định Quản trị rủi ro luôn là một phần quan trọng và là công cụ hỗ trợ tích cực 
-cho công tác quản trị điều hành, bên cạnh việc cải tiến quy trình liên tục và nâng cao năng lực thích ứng linh hoạt là 
-nhiệm vụ trọng tâm trong chiến lược phát triển bền vững của Công ty. Trong năm 2025, công tác Quản trị rủi ro của 
-Công ty sẽ tăng cường truyền thông nhận thức quản trị rủi ro, tiếp tục phối kết nối hiệu quả giữa các phòng ban đơn 
-vị, thông qua áp dụng số hoá, bổ sung các chốt kiểm soát nhằm ngăn ngừa sớm các rủi ro, góp phần nâng cao hiệu 
+Hướng đến năm 2025, Gemadept xác định Quản trị rủi ro luôn là một phần quan trọng và là công cụ hỗ trợ tích cực
+cho công tác quản trị điều hành, bên cạnh việc cải tiến quy trình liên tục và nâng cao năng lực thích ứng linh hoạt là
+nhiệm vụ trọng tâm trong chiến lược phát triển bền vững của Công ty. Trong năm 2025, công tác Quản trị rủi ro của
+Công ty sẽ tăng cường truyền thông nhận thức quản trị rủi ro, tiếp tục phối kết nối hiệu quả giữa các phòng ban đơn
+vị, thông qua áp dụng số hoá, bổ sung các chốt kiểm soát nhằm ngăn ngừa sớm các rủi ro, góp phần nâng cao hiệu
 quả và giá trị Công ty, đảm bảo lợi ích cho các Nhà đầu tư và các Cổ đông của Công ty.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
 XÂY ĐẮP TƯƠNG LAI
 Chương III: XÂY ĐẮP TƯƠNG LAI
@@ -2154,71 +1567,66 @@ Trung tâm tiếp vận xe ô tô K’line Gemadept (KGL)
 Đầu tư chiến lược - Trồng rừng
 Đầu tư chiến lược - Bất động sản
 
-Báo cáo thường niên
 Gemadept Corporation
-84
-85
 1.1 GIỚI THIỆU TỔNG QUAN CẢNG PHƯỚC LONG:
-Công ty TNHH Cảng Phước Long (PIP) lthành viên trực 
-thuộc Gemadept, tự hào là một trong những đơn vị tiên 
-phong tại Việt Nam trong lĩnh vực khai thác cảng container, 
+Công ty TNHH Cảng Phước Long (PIP) lthành viên trực
+thuộc Gemadept, tự hào là một trong những đơn vị tiên
+phong tại Việt Nam trong lĩnh vực khai thác cảng container,
 ICD (kho nội địa) và Logistics.
-Địa chỉ: 404A Võ Nguyên Giáp, Phường Phước Long A, Thành 
+Địa chỉ: 404A Võ Nguyên Giáp, Phường Phước Long A, Thành
 phố Thủ Đức, TP. Hồ Chí Minh, Việt Nam.
-Nằm trong vùng kinh tế trọng điểm phía Nam, PIP sở hữu vị 
-trí chiến lược trên trục đường Võ Nguyên Giáp (trước đây là 
-Xa lộ Hà Nội), kết nối hệ thống bãi container (CY) và Depot 
-với các khu công nghiệp lớn cũng như các tuyến giao thông 
-huyết mạch. Với uy tín và hiệu quả vượt trội, PIP được công 
-nhận là một trong những đơn vị khai thác cảng và ICD hàng 
-đầu tại khu vực TP. Hồ Chí Minh, Đồng Nai và Bà Rịa - Vũng 
-Tàu.
-PIP hoạt động với đầy đủ chức năng của một cảng, cửa khẩu 
-quốc tế và ICD, phục vụ thông quan hàng hóa xuất nhập 
-khẩu. Bên cạnh đó, công ty cung cấp chuỗi dịch vụ Logistics 
+Nằm trong vùng kinh tế trọng điểm phía Nam, PIP sở hữu vị
+trí chiến lược trên trục đường Võ Nguyên Giáp (trước đây là
+Xa lộ Hà Nội), kết nối hệ thống bãi container (CY) và Depot
+với các khu công nghiệp lớn cũng như các tuyến giao thông
+huyết mạch. Với uy tín và hiệu quả vượt trội, PIP được công
+nhận là một trong những đơn vị khai thác cảng và ICD hàng
+đầu tại khu vực TP. Hồ Chí Minh, Đồng Nai và Bà Rịa - Vũng
+PIP hoạt động với đầy đủ chức năng của một cảng, cửa khẩu
+quốc tế và ICD, phục vụ thông quan hàng hóa xuất nhập
+khẩu. Bên cạnh đó, công ty cung cấp chuỗi dịch vụ Logistics
 khép kín, bao gồm:
 •	Dịch vụ Depot;
 •	Khai thuê hải quan và đại lý giao nhận;
-•	Vận chuyển đa phương thức door-to-door bằng sà lan 
-và đầu kéo (sở hữu hơn 160 đầu kéo và hơn 45 sà lan 
+•	Vận chuyển đa phương thức door-to-door bằng sà lan
+và đầu kéo (sở hữu hơn 160 đầu kéo và hơn 45 sà lan
 tự hành thế hệ mới);
-•	Dịch vụ khai thác container lạnh hàng đầu tại Việt 
-Nam, kèm theo bảo hành, bảo dưỡng và sửa chữa 
+•	Dịch vụ khai thác container lạnh hàng đầu tại Việt
+Nam, kèm theo bảo hành, bảo dưỡng và sửa chữa
 container.
 1.2  CÔNG TY CỔ PHẦN CẢNG BÌNH DƯƠNG
 1. GIỚI THIỆU NHÓM CÔNG TY THUỘC KHỐI CẢNG MIỀN NAM
 KHỐI CẢNG GEMADEPT TẠI MIỀN NAM
 Công ty cổ phần Cảng Bình Dương (“Cảng Bình Dương”) hoặc viết tắt (“BDP”) được thành lập năm 2002.
-•	
-Địa chỉ trụ sở chính: TĐ số 1738, TBĐ số 9 (8BT-B), Tổ 5, Khu phố Quyết Thắng, Phường Bình Thắng, TP. Dĩ An, 
+Địa chỉ trụ sở chính: TĐ số 1738, TBĐ số 9 (8BT-B), Tổ 5, Khu phố Quyết Thắng, Phường Bình Thắng, TP. Dĩ An,
 Tỉnh Bình Dương, Việt Nam
-Cảng Bình Dương ra đời với vai trò quan trọng trong chương trình quy hoạch hệ thống cảng biển quốc gia của Chính 
-phủ, góp phần giảm tải áp lực giao thông tại các khu vực nội đô trung tâm và thúc đẩy giao thương trong tam giác 
+Cảng Bình Dương ra đời với vai trò quan trọng trong chương trình quy hoạch hệ thống cảng biển quốc gia của Chính
+phủ, góp phần giảm tải áp lực giao thông tại các khu vực nội đô trung tâm và thúc đẩy giao thương trong tam giác
 kinh tế Bình Dương – Đồng Nai – Bà Rịa - Vũng Tàu.
-Năm 2014, Cảng Bình Dương vinh dự được công nhận là cảng container cửa khẩu quốc tế duy nhất tại tỉnh Bình 
-Dương. Tọa lạc trong khu kinh tế trọng điểm phía Nam, trên trục đường cao tốc Hà Nội và Mỹ Phước – Tân Vạn, cảng 
-sở hữu hệ thống bãi container (CY) và Depot kết nối hiệu quả với các khu công nghiệp lớn cùng các tuyến giao thông 
-huyết mạch. Với uy tín và hiệu quả vượt trội, Cảng Bình Dương khẳng định vị thế là một trong những đơn vị khai thác 
+Năm 2014, Cảng Bình Dương vinh dự được công nhận là cảng container cửa khẩu quốc tế duy nhất tại tỉnh Bình
+Dương. Tọa lạc trong khu kinh tế trọng điểm phía Nam, trên trục đường cao tốc Hà Nội và Mỹ Phước – Tân Vạn, cảng
+sở hữu hệ thống bãi container (CY) và Depot kết nối hiệu quả với các khu công nghiệp lớn cùng các tuyến giao thông
+huyết mạch. Với uy tín và hiệu quả vượt trội, Cảng Bình Dương khẳng định vị thế là một trong những đơn vị khai thác
 cảng hàng đầu tại Bình Dương, Đồng Nai và Bà Rịa - Vũng Tàu.
-Nằm tại ngã ba sông Đồng Nai giao với sông Sài Gòn, Cảng Bình Dương kết nối trực tiếp với cụm cảng biển quốc tế 
-Cái Mép (Bà Rịa - Vũng Tàu) và hệ thống vận tải thủy nội địa giữa các khu công nghiệp lớn với các cảng nước sâu Cái 
-Mép cũng như các cảng khác tại TP. Hồ Chí Minh. Điều này không chỉ giảm áp lực giao thông đường bộ mà còn tối ưu 
+Nằm tại ngã ba sông Đồng Nai giao với sông Sài Gòn, Cảng Bình Dương kết nối trực tiếp với cụm cảng biển quốc tế
+Cái Mép (Bà Rịa - Vũng Tàu) và hệ thống vận tải thủy nội địa giữa các khu công nghiệp lớn với các cảng nước sâu Cái
+Mép cũng như các cảng khác tại TP. Hồ Chí Minh. Điều này không chỉ giảm áp lực giao thông đường bộ mà còn tối ưu
 hóa thời gian và chi phí logistics cho các doanh nghiệp địa phương.
-Cảng Bình Dương đóng vai trò là mắt xích quan trọng trong chiến lược phát triển hệ thống cảng biển của Tập đoàn 
+Cảng Bình Dương đóng vai trò là mắt xích quan trọng trong chiến lược phát triển hệ thống cảng biển của Tập đoàn
 Gemadept, đồng thời là hậu phương chiến lược hỗ trợ cảng nước sâu Gemalink.
-Trước những thách thức về môi trường trong ngành khai thác cảng biển và định hướng phát triển bền vững toàn cầu, 
-Cảng Bình Dương đang tiên phong “xanh hóa” hoạt động theo mô hình cân bằng giữa bảo vệ môi trường và nhu cầu 
-phát triển kinh doanh. Năm 2024, cảng được tổ chức BSI (Viện Tiêu chuẩn Anh Quốc) công nhận đạt tiêu chí Cảng 
+Trước những thách thức về môi trường trong ngành khai thác cảng biển và định hướng phát triển bền vững toàn cầu,
+Cảng Bình Dương đang tiên phong “xanh hóa” hoạt động theo mô hình cân bằng giữa bảo vệ môi trường và nhu cầu
+phát triển kinh doanh. Năm 2024, cảng được tổ chức BSI (Viện Tiêu chuẩn Anh Quốc) công nhận đạt tiêu chí Cảng
 Xanh. Để đạt được thành tựu này, Cảng Bình Dương đã:
-•	 Thay thế thiết bị nâng hạ chạy bằng dầu diesel bằng thiết bị chạy điện, tiết kiệm hơn 6 tỷ đồng/năm chi phí 
+•	 Thay thế thiết bị nâng hạ chạy bằng dầu diesel bằng thiết bị chạy điện, tiết kiệm hơn 6 tỷ đồng/năm chi phí
 vận hành;
 •	 Đầu tư thêm 02 cẩu RTG hiện đại (mới 100%) trong năm 2024, nâng tổng số cẩu RTG lên 06 chiếc;
-•	 Đẩy mạnh vận tải thủy với sức chở mỗi chuyến sà lan lên đến 250 TEU, tương đương việc thay thế khoảng 
+•	 Đẩy mạnh vận tải thủy với sức chở mỗi chuyến sà lan lên đến 250 TEU, tương đương việc thay thế khoảng
 120 xe container, góp phần giảm tải giao thông đường bộ;
-•	 Triển khai trồng cây xanh trong khuôn viên, sử dụng vật liệu thân thiện với môi trường và giảm thiểu phát 
+•	 Triển khai trồng cây xanh trong khuôn viên, sử dụng vật liệu thân thiện với môi trường và giảm thiểu phát
 thải khí nhà kính.
-Cũng trong năm 2024, Cảng Bình Dương áp dụng tiêu chuẩn ISO 45001:2018, khẳng định cam kết tuân thủ pháp 
-luật, chú trọng đảm bảo an toàn lao động, giảm thiểu rủi ro và xây dựng môi trường làm việc an toàn, hiệu quả cho 
+Cũng trong năm 2024, Cảng Bình Dương áp dụng tiêu chuẩn ISO 45001:2018, khẳng định cam kết tuân thủ pháp
+luật, chú trọng đảm bảo an toàn lao động, giảm thiểu rủi ro và xây dựng môi trường làm việc an toàn, hiệu quả cho
 đội ngũ nhân viên.
 CƠ SỞ HẠ TẦNG
 TRANG THIẾT BỊ
@@ -2264,97 +1672,79 @@ Diện tích kho CFS
 Sơ mi rơ mooc
 Ổ căm điện khu RF
 Chiều dài cầu tàu
-170.000m²
-170.000m²
-165.000m²
-165.000m²
-250m
-250m
-250
-250
-500
-500
-BÁO CÁO HOẠT ĐỘNG KHAI THÁC CẢNG 
-Chương II: 
+BÁO CÁO HOẠT ĐỘNG KHAI THÁC CẢNG
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-90
-91
-3. KẾ HOẠCH SẢN XUẤT KINH DOANH CỦA CÁC CÔNG TY THUỘC 
+3. KẾ HOẠCH SẢN XUẤT KINH DOANH CỦA CÁC CÔNG TY THUỘC
 KHỐI CẢNG GEMADEPT MIỀN NAM NĂM 2025.
-1. Nhận định về thị trường năm 2025 (trọng tâm hoạt động khai thác cảng) 
+1. Nhận định về thị trường năm 2025 (trọng tâm hoạt động khai thác cảng)
 Nguy cơ:
 -	 Thách thức: Tắc nghẽn hạ tầng, chi phí nhiên liệu tăng và biến động kinh tế toàn cầu tiếp tục là những rủi ro lớn.
--	 Nhiên liệu: Dầu DO vẫn là nguồn năng lượng chính cho vận tải biển và máy móc công nghiệp tại Việt Nam. Nhu 
-cầu dầu DO có thể giảm nhẹ trong năm 2025, nhưng không đáng kể do quá trình chuyển đổi sang năng lượng 
+-	 Nhiên liệu: Dầu DO vẫn là nguồn năng lượng chính cho vận tải biển và máy móc công nghiệp tại Việt Nam. Nhu
+cầu dầu DO có thể giảm nhẹ trong năm 2025, nhưng không đáng kể do quá trình chuyển đổi sang năng lượng
 tái tạo (điện mặt trời, điện gió) còn chậm.
--	 Chi phí vận hành: Có xu hướng tăng, nhưng mức độ phụ thuộc vào khả năng tối ưu hóa công nghệ và chính sách 
-giá dịch vụ. Việc tăng giá cước xếp dỡ (như mức 10% trong năm 2024 nếu có) có thể bù đắp phần nào chi phí 
+-	 Chi phí vận hành: Có xu hướng tăng, nhưng mức độ phụ thuộc vào khả năng tối ưu hóa công nghệ và chính sách
+giá dịch vụ. Việc tăng giá cước xếp dỡ (như mức 10% trong năm 2024 nếu có) có thể bù đắp phần nào chi phí
 nhiên liệu và sản xuất.
 Cơ hội:
--	 Thị trường châu Á: Các quốc gia như Ấn Độ, Indonesia, Việt Nam và Philippines dự báo tăng trưởng kinh tế 
-mạnh trong năm 2025. Sự tăng trưởng này thúc đẩy nhu cầu logistics và vận tải biển, đặc biệt trong khu vực 
-Nội Á (Intra-Asia). Cảng nổi GFT/PIP có thể tận dụng luồng hàng hóa Nội Á gia tăng, nhất là các tuyến ngắn 
-giữa ASEAN và Ấn Độ, tạo cơ hội cho PIP tăng sản lượng. Tuy nhiên, cạnh tranh khốc liệt từ các cảng lớn như 
-Singapore, Port Klang (Malaysia) và Laem Chabang (Thái Lan), cảng Cát Lái (Tp HCM) đòi hỏi đơn vị tiếp tục nỗ 
+-	 Thị trường châu Á: Các quốc gia như Ấn Độ, Indonesia, Việt Nam và Philippines dự báo tăng trưởng kinh tế
+mạnh trong năm 2025. Sự tăng trưởng này thúc đẩy nhu cầu logistics và vận tải biển, đặc biệt trong khu vực
+Nội Á (Intra-Asia). Cảng nổi GFT/PIP có thể tận dụng luồng hàng hóa Nội Á gia tăng, nhất là các tuyến ngắn
+giữa ASEAN và Ấn Độ, tạo cơ hội cho PIP tăng sản lượng. Tuy nhiên, cạnh tranh khốc liệt từ các cảng lớn như
+Singapore, Port Klang (Malaysia) và Laem Chabang (Thái Lan), cảng Cát Lái (Tp HCM) đòi hỏi đơn vị tiếp tục nỗ
 lực và linh hoạt trong vận hành, khai thác để vượt qua thách thức, đảm bảo hoàn thành các mục tiêu đề ra.
 2. Kế hoạch năm 2025 của các công ty thuộc Khối Cảng Gemadept Miền Nam
 Năm 2025, Khối cảng Gemadept Miền Nam, tiếp tục triển khai thực hiện các mục tiêu chiến lược như sau:
 Về thị trường:
--	 Duy trì và củng cố sự tin tưởng, ủng hộ từ các đối tác hiện hữu, bao gồm các hãng tàu, liên minh hãng tàu và 
+-	 Duy trì và củng cố sự tin tưởng, ủng hộ từ các đối tác hiện hữu, bao gồm các hãng tàu, liên minh hãng tàu và
 nhóm khách hàng xuất nhập khẩu lớn.
--	 Tập trung đẩy mạnh doanh thu từ các dịch vụ giá trị gia tăng, bao gồm kinh doanh vận tải thủy, vận tải bộ và 
+-	 Tập trung đẩy mạnh doanh thu từ các dịch vụ giá trị gia tăng, bao gồm kinh doanh vận tải thủy, vận tải bộ và
 hoạt động xếp dỡ hàng hóa.
--	 Nâng cao chất lượng dịch vụ, tăng cường sự gắn kết chặt chẽ với khách hàng nhằm đáp ứng tốt hơn nhu cầu 
+-	 Nâng cao chất lượng dịch vụ, tăng cường sự gắn kết chặt chẽ với khách hàng nhằm đáp ứng tốt hơn nhu cầu
 ngày càng đa dạng của thị trường.
 Về hoạt động khai thác:
 -	 Đảm bảo khai thác an toàn và hiệu quả cảng nổi GFT, CY.
 -	 Tích cực tìm kiếm cơ hội hợp tác và đầu tư để mở rộng cơ sở hạ tầng cảng.
- -	Tuân thủ nghiêm ngặt các quy trình HSSE (Sức khỏe, An toàn, Môi trường) và quy trình vận hành khai thác.
+-	Tuân thủ nghiêm ngặt các quy trình HSSE (Sức khỏe, An toàn, Môi trường) và quy trình vận hành khai thác.
 -	 Đẩy mạnh số hóa và tự động hóa trong các hoạt động khai thác nhằm nâng cao hiệu suất và tối ưu hóa quy trình.
 Về công tác nhân sự:
 -	 Tăng cường phát triển năng lực cho đội ngũ kế thừa, đảm bảo sự sẵn sàng cho các vị trí chủ chốt.
--	 Duy trì và nâng cao hiệu quả làm việc, năng suất lao động thông qua các chương trình đào tạo chuyên sâu, tập 
+-	 Duy trì và nâng cao hiệu quả làm việc, năng suất lao động thông qua các chương trình đào tạo chuyên sâu, tập
 trung vào nâng cao kỹ năng chuyên môn và năng lực quản lý cho đội ngũ nhân sự.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-94
-95
 4. CÔNG TÁC CHUẨN BỊ THỦ TỤC PHÁP LÝ ĐỂ KHỞI CÔNG GIAI ĐOẠN 2
-Trong năm 2024, Cảng Gemalink đã tiếp tục thực hiên công tác điều chỉnh qui hoạch chi tiết xây dựng 1/500 kéo 
-dài câu bến để nâng tính cạnh tranh và phù hợp với xu hướng các cỡ tàu lớn trên thế giới hiện nay, phối hợp với các 
+Trong năm 2024, Cảng Gemalink đã tiếp tục thực hiên công tác điều chỉnh qui hoạch chi tiết xây dựng 1/500 kéo
+dài câu bến để nâng tính cạnh tranh và phù hợp với xu hướng các cỡ tàu lớn trên thế giới hiện nay, phối hợp với các
 đơn vị tư vấn thực nhiện báo cáo nghiên cứu khả thi cho các hạng mục giai đoạn 2A của dự án.
-Bên cạnh đó, kế hoạch trong năm 2025, GML sẽ tiếp tục hoàn thiện các thủ tục pháp lý cần thiết còn lại: qui hoạch 
-chi tiết xây dựng 1/500, thỏa thuận tuyến mép bến, phê duyệt thiết kế cơ sở, đánh giá môi trường, thiết kế chi tiết, 
-giấy phép xây dựng… để chuẩn bị cho việc khởi công giai đoạn 2A của dự án dự kiến vào Quý 4/2025 và đưa vào khai 
+Bên cạnh đó, kế hoạch trong năm 2025, GML sẽ tiếp tục hoàn thiện các thủ tục pháp lý cần thiết còn lại: qui hoạch
+chi tiết xây dựng 1/500, thỏa thuận tuyến mép bến, phê duyệt thiết kế cơ sở, đánh giá môi trường, thiết kế chi tiết,
+giấy phép xây dựng… để chuẩn bị cho việc khởi công giai đoạn 2A của dự án dự kiến vào Quý 4/2025 và đưa vào khai
 thác trong năm 2026.
-Hòa nhịp với chiến lược phát triển cân bằng và bền vững của Gemadept, cảng Gemalink đặt mục tiêu phát triển 
+Hòa nhịp với chiến lược phát triển cân bằng và bền vững của Gemadept, cảng Gemalink đặt mục tiêu phát triển
 toàn diện trên cả 4 phương diện: Tài chính, Khách hàng, Quy trình, Học hỏi và Phát triển.
-Tiếp tục hành trình của Gemadept nhằm kiến tạo hệ sinh thái Cảng – Logistics ngày càng thông minh hơn và xanh 
-hơn - “Smarter and Greener”, Gemalink đang trong quá trình số hóa mạnh mẽ, phát huy tối đa hiệu quả, năng suất, 
+Tiếp tục hành trình của Gemadept nhằm kiến tạo hệ sinh thái Cảng – Logistics ngày càng thông minh hơn và xanh
+hơn - “Smarter and Greener”, Gemalink đang trong quá trình số hóa mạnh mẽ, phát huy tối đa hiệu quả, năng suất,
 đồng thời tiết kiệm năng lượng và thân thiện với môi trường.
-Trong thời gian tới, Cảng tiếp tục triển khai các dự án ESG như trồng bù rừng ngập mặn, tiếp tục đo lượng phát 
-thải khí nhà kính để từ đó xây dựng lộ trình cắt giảm phát thải… chung tay bảo vệ bầu khí quyển, hạn chế tác động của 
-biến đổi khí hậu. Gemalink tiếp tục nỗ lực phát huy vị thế cảng nước sâu hàng đầu Việt Nam, đóng góp và có tầm ảnh 
+Trong thời gian tới, Cảng tiếp tục triển khai các dự án ESG như trồng bù rừng ngập mặn, tiếp tục đo lượng phát
+thải khí nhà kính để từ đó xây dựng lộ trình cắt giảm phát thải… chung tay bảo vệ bầu khí quyển, hạn chế tác động của
+biến đổi khí hậu. Gemalink tiếp tục nỗ lực phát huy vị thế cảng nước sâu hàng đầu Việt Nam, đóng góp và có tầm ảnh
 hưởng quan trọng đối với ngành cảng biển nước nhà.
 3. ĐÁNH GIÁ KẾT QUẢ THỰC HIỆN SO VỚI KẾ HOẠCH 2024 VÀ NĂM TRƯỚC
 KẾT QUẢ
@@ -2370,155 +1760,138 @@ Sản lượng vượt kế hoạch
 Vượt kế hoạch Lợi nhuận trước thuế
 Sản lượng vượt kế hoạch
 Linh hoạt trong quản trị chi phí Hợp lý hóa khai thác, giảm chi phí
-Duy trì năng suất khai thác, chất 
+Duy trì năng suất khai thác, chất
 lượng dịch vụ ở mức cao
 Linh hoạt, chủ động trong sắp xếp cầu bến, bãi, bố trí ca sản xuất.
 Đảm bảo tốt AV của phương tiện thiết bị và công nghệ thông tin.
 Không xảy ra tai nạn nghiêm trọng
 Luôn nhấn mạnh và ưu tiên Safety
 Thực hiện Gemba Walk để kịp thời phát hiện, ngăn ngừa nguy cơ.
-Đạt vị trí top 5 trong hệ thống các 
+Đạt vị trí top 5 trong hệ thống các
 cảng của CMAT về HSSE.
 Thực hiện đào tạo HSSE theo tiêu chuẩn CMAT cho toàn bộ CBCNV Cảng.
 1. TỔNG KẾT HOẠT ĐỘNG SXKD CỦA ĐƠN VỊ TRONG NĂM 2024
-Thị trường năm 2024 dù có nhiều thách thức và biến động nhưng đồng thời ghi nhận sự phục hồi tích cực với việc 
-các hãng tàu đưa tàu 24.000 TEU vào khai thác, tình trạng tắc nghẽn tại các Cảng trung chuyển tạo cơ hội cho khu 
-vực Cái Mép thu hút thêm lượng hàng trong khu vực, GML đã thưc hiện phối hợp chặt chẽ trong hoạt động, tối ưu cầu 
-bến, bến bãi, đảm bảo tiếp nhận thêm các tàu addhoc, các tuyến dịch vụ mới giúp hoạt động sản xuất kinh doanh của 
+Thị trường năm 2024 dù có nhiều thách thức và biến động nhưng đồng thời ghi nhận sự phục hồi tích cực với việc
+các hãng tàu đưa tàu 24.000 TEU vào khai thác, tình trạng tắc nghẽn tại các Cảng trung chuyển tạo cơ hội cho khu
+vực Cái Mép thu hút thêm lượng hàng trong khu vực, GML đã thưc hiện phối hợp chặt chẽ trong hoạt động, tối ưu cầu
+bến, bến bãi, đảm bảo tiếp nhận thêm các tàu addhoc, các tuyến dịch vụ mới giúp hoạt động sản xuất kinh doanh của
 GML đạt được những kết quả ấn tượng với sản lượng vượt kế hoạch 28%.
-Việc GML duy trì sự ổn định và hoàn thành vượt mức các chỉ tiêu đề ra, khẳng định năng lực vận hành linh hoạt và 
+Việc GML duy trì sự ổn định và hoàn thành vượt mức các chỉ tiêu đề ra, khẳng định năng lực vận hành linh hoạt và
 hiệu quả trong bối cảnh đầy biến động.
 2. PHÂN TÍCH NHỮNG THAY ĐỔI, BIẾN ĐỘNG CỦA THỊ TRƯỜNG:
 Về thị trường:
-•	 Tăng trưởng sản lượng thị trường: Tổng sản lượng thị trường tăng 33%, điều này cho thấy sự mở rộng và tiềm 
+•	 Tăng trưởng sản lượng thị trường: Tổng sản lượng thị trường tăng 33%, điều này cho thấy sự mở rộng và tiềm
 năng tăng trưởng mạnh mẽ.
-•	 Khu vực CM-TV: GML đóng góp khoảng 27% tổng sản lượng của khu vực Cái Mép – Thị Vải, góp phần thúc đẩy 
+•	 Khu vực CM-TV: GML đóng góp khoảng 27% tổng sản lượng của khu vực Cái Mép – Thị Vải, góp phần thúc đẩy
 tăng trưởng chung của khu vực Cảng nước sâu chiến lược này.
 Về doanh thu:
-•	 Hiệu suất vượt kế hoạch: Doanh thu năm 2024 của GML đạt 129% so với kế hoạch và mức tăng trưởng lợi nhuận 
-tích cực, là kết quả từ việc tối ưu hóa quy trình, gia tăng hiệu suất hoặc tăng cường mở rộng thị trường. Con số 
+•	 Hiệu suất vượt kế hoạch: Doanh thu năm 2024 của GML đạt 129% so với kế hoạch và mức tăng trưởng lợi nhuận
+tích cực, là kết quả từ việc tối ưu hóa quy trình, gia tăng hiệu suất hoặc tăng cường mở rộng thị trường. Con số
 này không chỉ vượt mục tiêu mà còn phản ánh tiềm năng tăng trưởng của GML.
-•	 Về sản lượng thông qua Cảng so với cùng kỳ: Tăng 181% so với cùng kỳ, đây là một dấu hiệu ấn tượng về tốc độ 
+•	 Về sản lượng thông qua Cảng so với cùng kỳ: Tăng 181% so với cùng kỳ, đây là một dấu hiệu ấn tượng về tốc độ
 phát triển của GML và là tiền đề thuận lợi để GML đảm bảo hiệu suất cao khi giai đoạn 2A được đưa vào khai thác.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục
 
-Báo cáo thường niên
 Gemadept Corporation
-96
-97
-Cụm Cảng Nam Đình Vũ là một trong những dự án cảng 
-trọng điểm của Tập đoàn Gemadept. Nam Đình Vũ không chỉ 
-nổi bật với vị trí đắc địa nhất, quy mô lớn mà còn bởi năng lực 
+Cụm Cảng Nam Đình Vũ là một trong những dự án cảng
+trọng điểm của Tập đoàn Gemadept. Nam Đình Vũ không chỉ
+nổi bật với vị trí đắc địa nhất, quy mô lớn mà còn bởi năng lực
 tiếp nhận được cỡ tàu lớn nhất khu vực Đình Vũ.
-Cảng sở hữu vị trí thuận lợi, tọa lạc trong khu công nghiệp 
-Nam Đình Vũ - đầu mối vận tải hàng hóa thương mại quốc tế 
-và nội địa quan trọng bậc nhất của toàn miền Bắc (ngay cửa 
-sông Bạch Đằng với mớn nước sâu và vũng quay tàu rộng), 
-Cảng Nam Đình Vũ là cửa ngõ thông ra biển gần nhất so với 
+Cảng sở hữu vị trí thuận lợi, tọa lạc trong khu công nghiệp
+Nam Đình Vũ - đầu mối vận tải hàng hóa thương mại quốc tế
+và nội địa quan trọng bậc nhất của toàn miền Bắc (ngay cửa
+sông Bạch Đằng với mớn nước sâu và vũng quay tàu rộng),
+Cảng Nam Đình Vũ là cửa ngõ thông ra biển gần nhất so với
 các cảng khác tại khu vực Hải Phòng.
-Diện tích toàn cụm cảng là 65 ha, tổng công suất thiết kế 3 
-giai đoạn là 2 triệu TEU/năm. Sở hữu 7 cầu bến kéo dài 1,5 km 
-và năng lực tiếp nhận cỡ tàu container lên tới 48.000DWT, 
-khi hoàn thiện, cụm cảng Nam Đình Vũ là cảng sông lớn nhất 
-và quy mô nhất tại miền Bắc, có thể đón được các tàu feeder, 
+Diện tích toàn cụm cảng là 65 ha, tổng công suất thiết kế 3
+giai đoạn là 2 triệu TEU/năm. Sở hữu 7 cầu bến kéo dài 1,5 km
+và năng lực tiếp nhận cỡ tàu container lên tới 48.000DWT,
+khi hoàn thiện, cụm cảng Nam Đình Vũ là cảng sông lớn nhất
+và quy mô nhất tại miền Bắc, có thể đón được các tàu feeder,
 tàu nội Á lớn nhất khu vực cảng sông.
-Thực hiện đúng cam kết với Chính phủ và UBND TP. Hải 
-Phòng, Gemadept và đối tác là Tập đoàn Sao Đỏ đã đầu tư và 
-đưa vào khai thác Cụm cảng Nam Đình Vũ giai đoạn I từ năm 
-2018. Và tháng 05/2023, cụm cảng Nam Đình Vũ giai đoạn 
+Thực hiện đúng cam kết với Chính phủ và UBND TP. Hải
+Phòng, Gemadept và đối tác là Tập đoàn Sao Đỏ đã đầu tư và
+đưa vào khai thác Cụm cảng Nam Đình Vũ giai đoạn I từ năm
+2018. Và tháng 05/2023, cụm cảng Nam Đình Vũ giai đoạn
 II chính thức được đưa vào vận hành.
-Diện tích cả 2 giai đoạn là 42ha, 880m cầu bến và công suất 
-1,2 triệu TEU/năm. Với giai đoạn 1 và 2, Nam Đình Vũ có thể 
-tiếp nhận cùng lúc 4 – 5 tàu feeder. Cảng được xây dựng và 
-đầu tư đồng bộ về cơ sở hạ tầng, thiết bị và công nghệ theo 
-tiêu chuẩn quốc tế, hiện đại và thân thiện với môi trường. Với 
-chủ trương phát triển bền vững, tối ưu hóa hiệu quả hoạt 
-động, Gemadept phát triển Cụm cảng Nam Đình Vũ cũng như 
-các cảng khác trong Hệ sinh thái của Gemadept theo hướng 
+Diện tích cả 2 giai đoạn là 42ha, 880m cầu bến và công suất
+1,2 triệu TEU/năm. Với giai đoạn 1 và 2, Nam Đình Vũ có thể
+tiếp nhận cùng lúc 4 – 5 tàu feeder. Cảng được xây dựng và
+đầu tư đồng bộ về cơ sở hạ tầng, thiết bị và công nghệ theo
+tiêu chuẩn quốc tế, hiện đại và thân thiện với môi trường. Với
+chủ trương phát triển bền vững, tối ưu hóa hiệu quả hoạt
+động, Gemadept phát triển Cụm cảng Nam Đình Vũ cũng như
+các cảng khác trong Hệ sinh thái của Gemadept theo hướng
 Thông minh hơn và Xanh hơn (Smarter & Greener).
- 
 1. CỤM CẢNG NAM ĐÌNH VŨ
 I. GIỚI THIỆU TỔNG QUAN CỤM CẢNG NAM ĐÌNH VŨ
-II. KẾT QUẢ ĐẠT ĐƯỢC 2024 VỀ MỤC TIÊU SẢN XUẤT KINH DOANH VÀ TÀI CHÍNH: 
+II. KẾT QUẢ ĐẠT ĐƯỢC 2024 VỀ MỤC TIÊU SẢN XUẤT KINH DOANH VÀ TÀI CHÍNH:
 Phân tích kết quả thực hiện 2024
--	 Đảm bảo thủ tục cấp phép, khởi công và tiến độ xây dựng Dự án Nam Đình Vũ giai đoạn 3 đúng kế hoạch, mục 
+-	 Đảm bảo thủ tục cấp phép, khởi công và tiến độ xây dựng Dự án Nam Đình Vũ giai đoạn 3 đúng kế hoạch, mục
 tiêu đưa vào khai thác trong Q.4/2025.
 -	 Hoàn thành vượt mức các chỉ tiêu về sản lượng, doanh thu được ĐHĐCĐ giao năm 2024.
--	 Khai thác an toàn, đạt năng suất cao 928 chuyến tàu, Đạt 112% kế hoạch năm. Khai thác nhiều chuyến tàu mới, 
+-	 Khai thác an toàn, đạt năng suất cao 928 chuyến tàu, Đạt 112% kế hoạch năm. Khai thác nhiều chuyến tàu mới,
 cỡ lớn, đặc biệt khai thác cùng lúc những tàu trọng điểm có năng suất xếp dỡ trung bình đến 75 MPH.
--	 Đảm bảo tốt hoạt động quản trị vận hành tại đơn vị với việc vận hành dự án Cảng Nam Đình Vũ 2 giai đoạn với 
+-	 Đảm bảo tốt hoạt động quản trị vận hành tại đơn vị với việc vận hành dự án Cảng Nam Đình Vũ 2 giai đoạn với
 04 cầu tàu.
--	 Cơ chế hợp lực CY nối dài NHI, nâng cao chất lượng dịch vụ, khai thác hiệu quả sản lượng MT tăng cao và thu hút 
+-	 Cơ chế hợp lực CY nối dài NHI, nâng cao chất lượng dịch vụ, khai thác hiệu quả sản lượng MT tăng cao và thu hút
 sự ủng hộ, gắn bó của các hãng tàu khách hàng, thu hút thêm các tuyến dịch vụ mới.
--	 Ứng phó bão Yagi: đảm bảo an toàn phương tiện thiết bị và tài sản của Tập đoàn, nhanh chóng ổn định sản xuất 
-ngay sau bão, góp phần đảm bảo duy trì kết nối và lưu thông hàng hóa khu vực phía Bắc nói riêng và cả nước nói 
+-	 Ứng phó bão Yagi: đảm bảo an toàn phương tiện thiết bị và tài sản của Tập đoàn, nhanh chóng ổn định sản xuất
+ngay sau bão, góp phần đảm bảo duy trì kết nối và lưu thông hàng hóa khu vực phía Bắc nói riêng và cả nước nói
 chung.
--	 Triển khai thành công dự án nâng cấp luồng hàng hải Hải Phòng đoạn từ vũng quay trở cảng Lạch Huyện đến 
-Cảng Nam Đình Vũ; nạo vét độ đáy luồng xuống -8.5m và đưa vào khai thác hiệu quả, tạo lợi thế độc quyền và 
-nâng cao hình ảnh vị thế tiên phong của Gemadept, tạo tiền đề phá vỡ tập quán tàu vào theo con nước nhật 
-triều, gia tăng tải trọng hàng hóa trên mỗi chuyến tàu, mở ra xu hướng mới trong đầu tư Dự án công cộng bằng 
+-	 Triển khai thành công dự án nâng cấp luồng hàng hải Hải Phòng đoạn từ vũng quay trở cảng Lạch Huyện đến
+Cảng Nam Đình Vũ; nạo vét độ đáy luồng xuống -8.5m và đưa vào khai thác hiệu quả, tạo lợi thế độc quyền và
+nâng cao hình ảnh vị thế tiên phong của Gemadept, tạo tiền đề phá vỡ tập quán tàu vào theo con nước nhật
+triều, gia tăng tải trọng hàng hóa trên mỗi chuyến tàu, mở ra xu hướng mới trong đầu tư Dự án công cộng bằng
 nguồn vốn tư nhân, thay đổi tư duy của thị trường về giới hạn cỡ tàu nhỏ ra vào luồng Bạch Đằng.
--	 Đảm bảo tiến độ và chất lượng duy tu độ sâu trước bến (-9.5m) và vũng quay trở (-8.5m) phục vụ khai thác cỡ 
+-	 Đảm bảo tiến độ và chất lượng duy tu độ sâu trước bến (-9.5m) và vũng quay trở (-8.5m) phục vụ khai thác cỡ
 tàu lớn.
--	 Tận dụng tối ưu cơ hội gia tăng lượng tàu – hàng addhoc và thu hút thêm sự ủng hộ của các Hãng tàu tiềm 
-năng, phối hợp tốt với các phòng ban, đơn vị liên quan để gia tăng sản lượng, chuyến tàu mới tạo tiền đề thuận 
+-	 Tận dụng tối ưu cơ hội gia tăng lượng tàu – hàng addhoc và thu hút thêm sự ủng hộ của các Hãng tàu tiềm
+năng, phối hợp tốt với các phòng ban, đơn vị liên quan để gia tăng sản lượng, chuyến tàu mới tạo tiền đề thuận
 lợi hoàn thành vượt kế hoạch kinh doanh năm 2024, tạo tiền đề cho việc thực hiện kế hoạch năm 2025.
--	 Tiếp tục phát triển, nâng cấp ứng dụng Smart Port với phân hệ tự động Smart Gate và các tiện ích nhằm nâng 
+-	 Tiếp tục phát triển, nâng cấp ứng dụng Smart Port với phân hệ tự động Smart Gate và các tiện ích nhằm nâng
 cao chất lượng dịch vụ phục vụ khách hàng.
--	 Cải tiến liên tục và đưa vào ứng dụng hàng loạt các công cụ chuyển đổi số trong khai thác (VA, SMP/SMG, số hóa 
+-	 Cải tiến liên tục và đưa vào ứng dụng hàng loạt các công cụ chuyển đổi số trong khai thác (VA, SMP/SMG, số hóa
 100% hoạt động khai thác, tiết giảm chi phí hiệu quả).
--	 Tiên phong thực hiện chuyển đổi xanh thông qua hoạt động giám sát mức độ phát thải khí nhà kính và đã được 
+-	 Tiên phong thực hiện chuyển đổi xanh thông qua hoạt động giám sát mức độ phát thải khí nhà kính và đã được
 đơn vị đánh giá độc lập là Viện tiêu chuẩn Anh (BSI) cấp báo cáo xác nhận.
 -	 Đảm bảo mục tiêu kiểm kê phát thải KNK - Chứng chỉ Cảng Xanh - ISO MT&SKNN đúng kế hoạch.
 KHỐI CẢNG GEMADEPT TẠI MIỀN BẮC
-Tiếp nhận tàu lớn nhất 
+Tiếp nhận tàu lớn nhất
 Diện tích bãi
 Chiều dài cầu bến chính
 Công suất
 Ổ cắm điện
 Diện tích kho
-48.000 DWT
-48.000 DWT
-10.000m²
-10.000m²
-65 HA
-65 HA
-1.500m
-1.500m
-1200
-1200
 2 Triệu Teus/Năm
 2 Triệu Teus/Năm
-Gemadept đã nghiên cứu và lựa chọn hợp tác với các công ty sản xuất thiết bị khai thác hàng đầu thế giới để trang bị 
-cho Cảng Nam Đình Vũ những thiết bị có hiệu năng lớn, vận hành bằng điện và tiết kiệm năng lượng, hạn chế tối đa 
+Gemadept đã nghiên cứu và lựa chọn hợp tác với các công ty sản xuất thiết bị khai thác hàng đầu thế giới để trang bị
+cho Cảng Nam Đình Vũ những thiết bị có hiệu năng lớn, vận hành bằng điện và tiết kiệm năng lượng, hạn chế tối đa
 khói bụi, tiếng ồn cũng như, giảm phát thải khí nhà kính ra môi trường.
-Tiếp tục đầu tư, nâng cao năng lực hệ sinh thái Cảng và Logistics nhằm đáp ứng nhu cầu thị trường, Gemadept đang 
-tiếp tục triển khai giai đoạn 3 của Cụm cảng Nam Đình Vũ để sẵn sàng đưa vào khai thác từ Q.4/2025. Khi hoàn thiện 
-đầu tư cả 3 giai đoạn, cụm cảng Nam Đình Vũ phát huy tối đa lợi thế, cộng hưởng với những lợi ích từ kênh Hà Nam 
-được nâng cấp, cho phép tàu lên đến 50.000 DWT cập cảng, đem đến những giá trị vượt trội cho các khách hàng, đối 
-tác.
-Năm 2024, Gemadept tự hào là doanh nghiệp hàng hải Việt Nam tiên phong được Chính phủ giao triển khai Dự án 
-nâng cấp luồng kênh Hà Nam, hoàn thành vào cuối tháng 7/2024. Dự án mang tầm vóc quốc gia này đã góp phần 
-khơi thông luồng lạch, thay đổi tập quán khai thác cảng và cân bằng mớn nước giữa hai khu vực cảng lớn nhất cả nước, 
-gia tăng sức chở của tàu, tiết giảm thời gian, chi phí Logistics và phát huy lợi thế vượt trội của cụm cảng khu vực nói 
+Tiếp tục đầu tư, nâng cao năng lực hệ sinh thái Cảng và Logistics nhằm đáp ứng nhu cầu thị trường, Gemadept đang
+tiếp tục triển khai giai đoạn 3 của Cụm cảng Nam Đình Vũ để sẵn sàng đưa vào khai thác từ Q.4/2025. Khi hoàn thiện
+đầu tư cả 3 giai đoạn, cụm cảng Nam Đình Vũ phát huy tối đa lợi thế, cộng hưởng với những lợi ích từ kênh Hà Nam
+được nâng cấp, cho phép tàu lên đến 50.000 DWT cập cảng, đem đến những giá trị vượt trội cho các khách hàng, đối
+Năm 2024, Gemadept tự hào là doanh nghiệp hàng hải Việt Nam tiên phong được Chính phủ giao triển khai Dự án
+nâng cấp luồng kênh Hà Nam, hoàn thành vào cuối tháng 7/2024. Dự án mang tầm vóc quốc gia này đã góp phần
+khơi thông luồng lạch, thay đổi tập quán khai thác cảng và cân bằng mớn nước giữa hai khu vực cảng lớn nhất cả nước,
+gia tăng sức chở của tàu, tiết giảm thời gian, chi phí Logistics và phát huy lợi thế vượt trội của cụm cảng khu vực nói
 chung và cảng Nam Đình Vũ nói riêng.
-Cảng Nam Đình Vũ đã và đang góp phần thúc đẩy tăng trưởng kinh tế miền Bắc, là mắt xích chiến lược kết nối các 
-vành đai kinh tế trong chuỗi hoạt động logistics của cả nước. Đồng thời, Nam Đình Vũ đánh dấu bước ngoặt quan 
+Cảng Nam Đình Vũ đã và đang góp phần thúc đẩy tăng trưởng kinh tế miền Bắc, là mắt xích chiến lược kết nối các
+vành đai kinh tế trong chuỗi hoạt động logistics của cả nước. Đồng thời, Nam Đình Vũ đánh dấu bước ngoặt quan
 trọng nâng cao vị thế của Gemadept, đưa Công ty trở thành nhà khai thác Cảng lớn hàng đầu tại khu vực phía Bắc.
-Chương II: 
+Chương II:
 Lan Tỏa Giá Trị
-Chương III: 
+Chương III:
 Xây Đắp Tương Lai
-Chương IV: 
+Chương IV:
 Tăng Trưởng Bền Vững
-Chương I: 
+Chương I:
 Kiến Tạo Nền Tảng
-Mục Lục

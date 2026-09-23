@@ -1,3754 +1,1144 @@
-1
-THÔNG TIN CHUNG VỀ DOANH NGHIỆP
-Công ty Cổ phần Chứng khoán Bản Việt (“Công ty”) là một công ty cổ phần được thành lập tại Việt Nam theo Giấy 
-phép thành lập và hoạt động số 68/UBCK-GP do Ủy ban Chứng khoán Nhà nước Việt Nam cấp ngày 6 tháng 11 năm 
-2007. Giấy phép thành lập và hoạt động đã được điều chỉnh nhiều lần và lần gần nhất số 52/GPĐC-UBCK được cấp 
-ngày 12 tháng 7 năm 2021.
-Cổ phiếu của Công ty được niêm yết trên Sở Giao dịch Chứng khoán Thành Phố Hồ Chí Minh theo Quyết định số 233/
-QĐ-SGDHCM của Sở Giao dịch Chứng khoán Thành Phố Hồ Chí Minh ngày 30 tháng 6 năm 2017.
-Trụ sở chính và thông tin liên hệ
-Công ty có trụ sở chính đặt tại tầng 15, Tháp Tài Chính Bitexco, số 2 Đường Hải Triều, Quận 1, Thành phố Hồ Chí Minh, 
-Việt Nam.
-Thông tin liên hệ:  
-Email: info@vcsc.com.vn 
-Điện thoại: (+84) 8 3914 3588
-Điều lệ hoạt động
-Điều lệ hoạt động của Công ty được ban hành ngày 19 tháng 4 năm 2017 và sửa đổi, bổ sung lần gần nhất vào ngày 
-23 tháng 6 năm 2021. 
-Số lượng nhân viên
-Tại ngày 31 tháng 12 năm 2021, Công ty có 291 nhân viên (tại ngày 31 tháng 12 năm 2020: 228 nhân viên). 
-Quy mô vốn
-Tại ngày 31 tháng 12 năm 2021  (“ngày báo cáo”) 
-VND
-Vốn điều lệ của Công ty
-3.330.000.000.000
-Tổng vốn chủ sở hữu
-6.541.863.245.387
-Tổng tài sản 
-16.636.264.947.117
-Hoạt động chính
-Hoạt động chính của Công ty là môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán và 
-lưu ký chứng khoán, tư vấn tài chính doanh nghiệp và đầu tư chứng khoán, giao dịch ký quỹ chứng khoán và hoạt 
-động kinh doanh chứng khoán phái sinh. 
-Mục tiêu đầu tư và hạn chế đầu tư
-Mục tiêu đầu tư của Công ty là tối ưu hóa lợi nhuận.Hoạt động đầu tư phải phù hợp với chiến lược phát triển của Công 
-ty và đảm bảo tuân thủ với pháp luật chứng khoán hiện hành.
-Mạng lưới hoạt động
-Tại ngày báo cáo, Công ty có 1 chi nhánh và 3 phòng giao dịch trong phạm vi lãnh thổ Việt Nam.
-2
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU 
-2.1	
-Cơ sở lập báo cáo tài chính 
-Báo cáo tài chính đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông 
-tư 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 (“Thông tư 210/2014/TT-BTC”), Thông tư 334/2016/TT-BTC ngày 27 
-tháng 12 năm 2016 (“Thông tư 334/2016/TT-BTC”), Công văn 6190/BTC-CĐKT ngày 12 tháng 5 năm 2017 (“Công văn 
-6190/BTC-CĐKT”) và Thông tư 23/2018/TT-BTC ngày 12 tháng 3 năm 2018 (“Thông tư 23/2018/TT-BTC”) do Bộ Tài 
-Chính ban hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính áp dụng cho các công 
-ty chứng khoán hoạt động tại Việt Nam.
-Báo cáo tài chính kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động, tình hình lưu 
-chuyển tiền tệ và tình hình biến động vốn chủ sở hữu theo các nguyên tắc và thông lệ kế toán thường được chấp 
-nhận ở các nước và các thể chế khác ngoài Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại Việt Nam có thể 
-khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
-Báo cáo tài chính được lập theo nguyên tắc giá gốc, ngoại trừ các tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”) 
-và tài sản tài chính sẵn sàng để bán (“AFS”) được đo lường và ghi nhận theo giá trị thị trường hoặc giá trị hợp lý (trong 
-trường hợp không có giá thị trường).
-2.2	 Ước tính kế toán
-Việc lập báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và 
-các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính áp dụng cho các công ty chứng khoán 
-hoạt động tại Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu và 
-việc trình bày các công nợ và tài sản tiềm tàng tại ngày báo cáo, cũng như các số liệu về doanh thu và chi phí trong 
-suốt năm tài chính. 
-Các ước tính và giả định có ảnh hưởng trọng yếu đến báo cáo tài chính bao gồm:
-•	 Giá trị thị trường/giá trị hợp lý của các tài sản tài chính (Thuyết minh 2.7 và Thuyết minh 3.2);
-•	 Dự phòng suy giảm giá trị các khoản đầu tư HTM và các khoản cho vay (Thuyết minh 2.7 và Thuyết minh 3.2);
-•	 Dự phòng suy giảm giá trị các khoản phải thu (Thuyết minh 2.8 và Thuyết minh 3.4);
-•	 Đánh giá khả năng thu hồi của các khoản phải thu khác và tài sản khác (Thuyết minh 3.4, Thuyết minh 3.5 và 
-Thuyết minh 3.7(a)).
-2.3	 Hệ thống và hình thức sổ kế toán áp dụng
-Công ty sử dụng phần mềm kế toán theo hình thức nhật ký chung để ghi sổ các nghiệp vụ kinh tế phát sinh.
-2.4	 Năm tài chính 
-Năm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
-2.5	 Đơn vị tiền tệ sử dụng trong kế toán
-Đơn vị tiền tệ trình bày trên báo cáo tài chính là Đồng Việt Nam (“VND” hoặc “Đồng”), cũng là đơn vị tiền tệ sử dụng 
-trong kế toán của Công ty.
-Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp 
-vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả 
-hoạt động.
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-146
-147
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.5	 Đơn vị tiền tệ sử dụng trong kế toán (tiếp theo)
-Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày báo cáo, ngoại trừ các khoản vay và nợ phải trả mà Công 
-ty đã sử dụng công cụ tài chính để phòng ngừa rủi ro tỷ giá hối đoái, lần lượt được quy đổi theo tỷ giá mua và tỷ giá 
-bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày báo cáo. Các khoản 
-ngoại tệ gửi ngân hàng tại ngày báo cáo được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty 
-mở tài khoản ngoại tệ.
-Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả 
-hoạt động.
-2.6	 Tiền và các khoản tương đương tiền
-Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng của công ty chứng khoán, tiền gửi 
-ký quỹ cho chứng quyền và các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 3 tháng kể từ ngày mua, có 
-tính thanh khoản cao, có thể chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong việc 
-chuyển đổi thành tiền. 
-Tiền gửi của nhà đầu tư về giao dịch chứng khoán và tiền gửi của tổ chức phát hành được phản ánh tại các chỉ tiêu 
-ngoài báo cáo tình hình tài chính.
- 2.7	 Tài sản tài chính
-(a)	
-Phân loại và đo lường
-(i)	
-Tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”)
-Tài sản tài chính FVTPL là các tài sản tài chính được nắm giữ cho mục đích kinh doanh hoặc do Ban Tổng Giám đốc 
-xác định từ ban đầu là được ghi nhận thông qua lãi/lỗ. 
-Một tài sản tài chính được phân loại vào nhóm nắm giữ để kinh doanh nếu:
-•	 Được mua hoặc tạo ra chủ yếu cho mục đích bán lại/mua lại trong thời gian ngắn; hoặc
-•	 Tại thời điểm ghi nhận ban đầu nó là một phần của một danh mục các công cụ tài chính cụ thể được quản lý và 
-có bằng chứng về việc kinh doanh danh mục đó để nhằm mục đích thu lợi ngắn hạn; hoặc
-•	 Nó là một công cụ phái sinh (ngoại trừ các công cụ phái sinh được xác định là một hợp đồng bảo lãnh tài chính 
-hoặc một công cụ phòng ngừa rủi ro hiệu quả).
-Tại thời điểm ghi nhận ban đầu, một tài sản tài chính được xác định là tài sản tài chính FVTPL nếu việc phân loại này 
-sẽ làm các thông tin về tài sản tài chính được trình bày một cách hợp lý hơn vì một trong các lý do sau đây: 
-•	 Nó loại trừ hoặc làm giảm đáng kể sự không thống nhất trong ghi nhận hoặc xác định giá trị (còn được gọi là sự 
-“không thống nhất kế toán”) mà sự không thống nhất này có thể bắt nguồn từ việc xác định giá trị của các tài sản 
-hoặc ghi nhận lãi hoặc lỗ theo các cơ sở khác nhau; hoặc
-•	 Một nhóm các tài sản tài chính được quản lý và kết quả quản lý của nó được đánh giá dựa trên cơ sở giá trị hợp lý 
-và phù hợp với chính sách quản lý rủi ro hoặc chiến lược đầu tư đã được quy định và thông tin về nhóm tài sản này 
-được cung cấp nội bộ cho những người quản lý quan trọng của Công ty (được nêu rõ trong Chuẩn mực Kế toán - 
-Thuyết minh về các bên liên quan), ví dụ như Hội đồng Quản trị và Ban Tổng Giám đốc, cổ đông lớn của Công ty. 
-Tài sản tài chính FVTPL được ghi nhận ban đầu theo giá mua không bao gồm các chi phí mua. Các chi phí mua các 
-tài sản tài chính FVTPL được ghi nhận vào báo cáo kết quả hoạt động ngay khi phát sinh.
-Sau ghi nhận ban đầu, tài sản tài chính FVTPL được ghi nhận theo giá trị thị trường hoặc giá trị hợp lý (trong trường 
-hợp không có giá thị trường). Các khoản đầu tư vào công cụ vốn không có giá niêm yết trên thị trường hoạt động và 
-các khoản đầu tư mà giá trị không thể xác định một cách đáng tin cậy sẽ được phản ánh theo giá gốc.
-Mọi khoản lãi hoặc lỗ phát sinh từ việc thay đổi giá trị của các tài sản tài chính này được ghi nhận vào thu nhập hoặc 
-chi phí trên báo cáo kết quả hoạt động.
- (ii)	
-Đầu tư nắm giữ đến ngày đáo hạn (“HTM”)
-Các khoản đầu tư HTM là các tài sản tài chính phi phái sinh mà:
-•	 Việc hoàn trả là cố định hay xác định được;
-•	 Ngày đáo hạn là cố định; và
-•	 Công ty có ý định tích cực và có khả năng giữ đến ngày đáo hạn.
-Các khoản đầu tư HTM không bao gồm:
-•	 Các tài sản tài chính phi phái sinh mà tại thời điểm ghi nhận ban đầu đã được Công ty xếp loại vào nhóm ghi nhận 
-theo giá trị thông qua lãi/lỗ (“FVTPL”);
-•	 Các tài sản tài chính phi phái sinh đã được Công ty xếp loại vào nhóm sẵn sàng để bán (“AFS”); và
-•	 Các tài sản tài chính phi phái sinh thỏa mãn định nghĩa về các khoản cho vay và các khoản phải thu.
-Một tài sản tài chính sẽ không được phân loại vào các khoản đầu tư HTM nếu, trong năm tài chính hiện tại hoặc trong 
-hai năm tài chính gần nhất Công ty đã bán hoặc phân loại lại một số lượng đáng kể các tài sản tài chính HTM trước 
-thời hạn, trong đó mức độ đáng kể được so với tổng giá trị các tài sản tài chính HTM, trừ khi việc bán hoặc phân loại 
-lại thỏa mãn một số các điều kiện sau:
-•	 Rất gần ngày đáo hạn (không quá 3 tháng trước khi đáo hạn) mà việc thay đổi lãi suất thị trường không ảnh hưởng 
-trọng yếu đến giá trị của tài sản tài chính;
-•	 Được thực hiện sau khi Công ty đã thu được phần lớn tiền gốc của các tài sản tài chính này theo tiến độ thanh 
-toán hoặc được thanh toán trước; hoặc
-•	 Do liên quan đến một sự kiện đặc biệt ngoài khả năng kiểm soát của Công ty và nguyên nhân này không lặp lại và 
-sự kiện này Công ty không thể dự đoán trước được.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-148
-149
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.7	
-Tài sản tài chính (tiếp theo)
-(a)	
-Phân loại và đo lường (tiếp theo)
-(ii)	
-Đầu tư nắm giữ đến ngày đáo hạn (“HTM”) (tiếp theo)
-Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí giao dịch phát sinh trực 
-tiếp từ việc mua các tài sản tài chính này, sau đó ghi nhận theo giá trị phân bổ sử dụng phương pháp lãi suất thực 
-(“EIR”).
-Phương pháp lãi suất thực là một phương pháp tính toán chi phí phân bổ về thu nhập lãi hoặc chi phí lãi trong kỳ liên 
-quan của một tài sản tài chính hoặc một nhóm các tài sản tài chính HTM.
-Lãi suất thực là lãi suất chiết khấu chính xác các luồng tiền ước tính sẽ chi trả hoặc nhận được trong tương lai trong 
-suốt vòng đời dự kiến của công cụ tài chính hoặc trong kỳ hạn ngắn hơn, nếu cần thiết, trở về giá trị ghi sổ hiện tại 
-ròng của tài sản hoặc nợ tài chính.
-Giá trị phân bổ của tài sản tài chính HTM được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi các 
-khoản hoàn trả gốc, cộng (hoặc trừ) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh 
-lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do 
-không thể thu hồi (nếu có).
-Tại ngày báo cáo, các khoản đầu tư HTM được trích lập dự phòng khi có bất kỳ bằng chứng khách quan nào về việc 
-suy giảm giá trị hoặc khả năng không thu hồi được do một số sự kiện xảy ra sau thời điểm ghi nhận ban đầu gây ảnh 
-hưởng đến dòng tiền ước tính trong tương lai của các khoản đầu tư HTM. Bằng chứng khách quan của việc suy giảm 
-giá trị có thể bao gồm:
-•	 Khó khăn trọng yếu về tài chính của tổ chức phát hành hoặc tổ chức giao ước;
-•	 Vi phạm hợp đồng, ví dụ như mất khả năng trả nợ hoặc không thanh toán lãi hoặc gốc đúng hạn;
-•	 Công ty đã đưa ra một số ưu đãi nhượng bộ cho bên đi vay, vì lý do kinh tế hoặc pháp luật liên quan đến khó khăn 
-tài chính của bên đi vay, mà Công ty không thể xem xét hơn được;
-•	 Khả năng phá sản hoặc tái cơ cấu tài chính của bên đi vay là cao;
-•	 Các dữ liệu thu thập được cho thấy có sự suy giảm đo lường được của dòng tiền ước tính trong tương lai phát sinh 
-từ một nhóm các khoản đầu tư HTM kể từ khi ghi nhận ban đầu, mặc dù sự suy giảm đó chưa được xác định cụ 
-thể đối với từng tài sản riêng lẻ trong nhóm, bao gồm:
-(i)	 Những thay đổi tiêu cực trong tình hình trả nợ của những người vay trong cùng một nhóm; hoặc
-(ii)	 Các điều kiện kinh tế trong nước hoặc địa phương có mối liên quan tới mất khả năng thanh toán đối với 	 	
-	
-các khoản đầu tư HTM trong nhóm.
-Mức trích lập dự phòng suy giảm giá trị được xác định bằng chênh lệch của giá trị có thể thu hồi ước tính và giá trị ghi 
-sổ của khoản đầu tư HTM tại ngày báo cáo. Dự phòng/(hoàn nhập) dự phòng suy giảm giá trị các khoản đầu tư HTM 
-được ghi nhận tăng/(giảm) chi phí trong báo cáo kết quả hoạt động.
-Các khoản đầu tư HTM được phân loại ngắn hạn và dài hạn trên báo cáo tình hình tài chính căn cứ theo kỳ hạn còn 
-lại của các khoản đầu tư này tại ngày báo cáo.
-(iii)	
-Các khoản cho vay 
-Các khoản cho vay là các tài sản tài chính phi phái sinh có các khoản thanh toán cố định hoặc có thể xác định và 
-không được niêm yết trên thị trường hoạt động.
-Trong năm, Công ty có các khoản cho vay bao gồm:
-•	 Cho vay giao dịch ký quỹ: là số tiền tài trợ cho nhà đầu tư mua chứng khoán niêm yết trên cơ sở giao dịch ký quỹ 
-theo Quyết định 87/QĐ-UBCK do Ủy ban Chứng khoán Nhà nước ban hành ngày 25 tháng 1 năm 2017. Theo quy 
-định này, tỷ lệ ký quỹ ban đầu (tỷ lệ giá trị tài sản thực có so với giá trị chứng khoán dự kiến mua được bằng lệnh 
-giao dịch ký quỹ tính theo giá thị trường tại thời điểm giao dịch) do công ty chứng khoán quy định nhưng không 
-được thấp hơn 50%. Số dư cho vay ký quỹ được đảm bảo bởi chứng khoán được phép giao dịch ký quỹ; và
-•	 Cho vay ứng trước tiền bán chứng khoán: là số tiền ứng trước cho nhà đầu tư có giao dịch bán chứng khoán tại 
-ngày giao dịch. Các khoản ứng trước này có thời hạn hoàn trả trong vòng hai (2) ngày giao dịch.
-Các khoản cho vay được ghi nhận ban đầu theo giá gốc. Sau ghi nhận ban đầu, các khoản cho vay được ghi nhận 
-theo giá trị phân bổ sử dụng phương pháp lãi suất thực (“EIR”).
-Giá trị phân bổ của các khoản cho vay được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi các 
-khoản hoàn trả gốc, cộng (hoặc trừ) các khoản phân bổ lũy kế tính theo phương pháp lãi suất thực của phần chênh 
-lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do 
-không thể thu hồi (nếu có).
-Tại ngày báo cáo, các khoản cho vay được trích lập dự phòng khi có bằng chứng về việc suy giảm giá trị. Mức trích 
-lập dự phòng suy giảm giá trị được xác định bằng chênh lệch của giá trị thị trường của tài sản đảm bảo và giá trị ghi 
-sổ của khoản cho vay tại ngày báo cáo. Dự phòng/(hoàn nhập dự phòng) suy giảm giá trị các khoản cho vay được ghi 
-nhận tăng/(giảm) chi phí trong báo cáo kết quả hoạt động.
-(iv)	
-Các tài sản tài chính sẵn sàng để bán (“AFS”)
-Các tài sản tài chính AFS bao gồm các tài sản tài chính phi phái sinh mà không được phân loại là FVTPL, HTM, khoản 
-cho vay hay phải thu. 
-Tài sản tài chính AFS được ghi nhận ban đầu theo giá gốc, bao gồm giá mua và các chi phí phát sinh trực tiếp liên 
-quan đến việc mua các tài sản tài chính này.
-Tại ngày báo cáo, tài sản tài chính AFS được trình bày theo giá trị hợp lý. Các khoản đầu tư vào công cụ vốn không có 
-giá niêm yết trên thị trường hoạt động và các khoản đầu tư mà giá trị không thể xác định một cách đáng tin cậy sẽ 
-được phản ánh theo giá gốc. 
-Mọi khoản lãi hoặc lỗ phát sinh từ tài sản tài chính AFS khi đánh giá theo giá trị hợp lý sẽ được ghi nhận trực tiếp vào 
-vốn chủ sở hữu (thu nhập toàn diện khác), thông qua việc ghi nhận trên báo cáo tình hình biến động vốn chủ sở hữu, 
-ngoại trừ các khoản lỗ do suy giảm giá trị tài sản tài chính AFS. Việc ghi nhận như vậy sẽ tiếp tục cho đến khi tài sản 
-tài chính được dừng ghi nhận.
-Tại thời điểm dừng ghi nhận, các khoản lãi hoặc lỗ lũy kế trước đây đã được phản ánh vào vốn chủ sở hữu sẽ được 
-ghi nhận vào báo cáo kết quả hoạt động như là các điều chỉnh do phân loại lại. Các khoản lãi được tính theo phương 
-pháp lãi suất thực sẽ được ghi nhận vào báo cáo kết quả hoạt động theo quy định của Chuẩn mực Kế toán về ghi 
-nhận doanh thu. 
-Tại ngày báo cáo, các tài sản tài chính AFS được trích lập dự phòng khi có bất kỳ bằng chứng khách quan nào về việc 
-suy giảm giá trị. 
-Đối với các công cụ nợ, bằng chứng khách quan của việc suy giảm giá trị được xác định tương tự các tài sản tài chính HTM. 
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-150
-151
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.7	
-Tài sản tài chính (tiếp theo)
-(a)	
-Phân loại và đo lường (tiếp theo)
-(iv)	
-Các tài sản tài chính sẵn sàng để bán (“AFS”) (tiếp theo)
-Đối với các công cụ vốn, bằng chứng khách quan của việc suy giảm giá trị có thể bao gồm: 
-•	 Những thay đổi đáng kể có ảnh hưởng tiêu cực đến hoạt động của tổ chức phát hành do những thay đổi về công 
-nghệ, thị trường, kinh tế hoặc môi trường pháp lý cho thấy khả năng không thể thu hồi lại giá gốc của công cụ vốn;
-•	 Sự suy giảm đáng kể hoặc kéo dài về giá trị của một khoản đầu tư vào công cụ vốn xuống dưới giá gốc.
-Mức trích lập dự phòng được xác định bằng chênh lệch của giá trị có thể thu hồi ước tính và giá trị ghi sổ của tài sản 
-tài chính AFS tại ngày báo cáo.
-Lỗ suy giảm giá trị của tài sản tài chính AFS được ghi nhận trực tiếp vào vốn chủ sở hữu trước đây (nếu có), khi có 
-bằng chứng khách quan cho thấy tài sản tài chính AFS bị suy giảm giá trị thì lỗ lũy kế đã được ghi nhận trực tiếp vào 
-vốn chủ sở hữu sẽ được chuyển sang ghi nhận vào lãi/(lỗ) như là một bút toán điều chỉnh do phân loại lại mặc dù tài 
-sản đó chưa bị dừng ghi nhận.
- (b)	
-Phân loại lại 
-(i)	
-Phân loại lại khi bán tài sản tài chính không thuộc nhóm FVTPL
-Khi bán các tài sản tài chính không thuộc nhóm tài sản tài chính FVTPL, Công ty phải thực hiện phân loại lại các tài 
-sản tài chính từ các nhóm tài sản khác có liên quan về tài sản tài chính FVTPL trước khi bán. Các chênh lệch đánh 
-giá lại tài sản tài chính AFS lũy kế trong vốn chủ sở hữu sẽ được ghi nhận vào báo cáo kết quả hoạt động như là các 
-điều chỉnh do phân loại lại. 
-(ii)	
-Phân loại lại do thay đổi dự định hoặc khả năng nắm giữ
-Công ty được phân loại lại các tài sản tài chính vào nhóm tài sản tài chính khác phù hợp do thay đổi dự định hoặc 
-khả năng nắm giữ, theo đó:
-•	 Tài sản tài chính FVTPL phi phái sinh và không bị yêu cầu phân loại vào nhóm tài sản tài chính FVTPL vào lúc ghi 
-nhận ban đầu có thể được phân loại lại vào nhóm cho vay và phải thu trong một số trường hợp đặc biệt hoặc vào 
-nhóm tiền và tương đương tiền nếu thỏa mãn các điều kiện được phân loại vào nhóm này. Các khoản lãi, lỗ đã ghi 
-nhận do đánh giá lại tài sản tài chính FVTPL trước thời điểm phân loại lại sẽ không được hoàn nhập.
-•	 Nếu do thay đổi dự định hoặc khả năng nắm giữ, việc phân loại một khoản đầu tư vào nhóm nắm giữ đến ngày 
-đáo hạn (“HTM”) không còn phù hợp thì khoản đầu tư đó phải được chuyển sang nhóm tài sản tài chính sẵn sàng 
-để bán (“AFS”) và phải được định giá lại theo giá trị hợp lý. Chênh lệch giữa giá trị ghi sổ và giá trị hợp lý sẽ được 
-ghi nhận vào lãi/(lỗ) trên báo cáo kết quả hoạt động như là các điều chỉnh do phân loại lại.
-(c)	
-Ghi nhận/chấm dứt ghi nhận 
-Việc mua và bán các tài sản tài chính được ghi nhận theo ngày thực hiện giao dịch - là ngày Công ty trở thành một 
-bên tham gia trong các điều khoản hợp đồng của công cụ tài chính. 
-Các tài sản tài chính được chấm dứt ghi nhận khi quyền nhận dòng tiền từ các tài sản tài chính đã hết hạn hoặc về 
-bản chất Công ty đã chuyển giao toàn bộ rủi ro và lợi ích gắn liền với quyền sở hữu các tài sản tài chính đó. 
-Khi Công ty chuyển giao quyền thu tiền phát sinh từ tài sản hoặc đã ký hợp đồng chuyển giao với bên thứ ba, nhưng 
-vẫn chưa chuyển giao phần lớn mọi rủi ro và lợi ích gắn liền với tài sản hoặc chưa chuyển giao quyền kiểm soát đối 
-với tài sản, tài sản vẫn được ghi nhận là tài sản của Công ty. Trong trường hợp đó, Công ty cũng ghi nhận một khoản 
-nợ phải trả tương ứng. Tài sản được chuyển giao và nợ phải trả tương ứng được ghi nhận trên cơ sở phản ánh quyền 
-và nghĩa vụ mà Công ty giữ lại.
-(d)	
-Ghi nhận ban đầu
-Tài sản tài chính FVTPL được ghi nhận ban đầu theo giá mua không bao gồm chi phí mua. Các tài sản tài chính khác 
-được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài 
-sản tài chính này.
-Cổ phiếu thưởng và cổ tức chia bằng cổ phiếu được hạch toán vào các tài sản tài chính với giá trị bằng không (0).
-(e)	
-Căn cứ xác định giá trị thị trường/giá trị hợp lý
-Công ty áp dụng nguyên tắc định giá tài sản tài chính theo Thông tư 91/2020/TT-BTC ngày 13 tháng 11 năm 2020 
-về chỉ tiêu an toàn tài chính của tổ chức kinh doanh chứng khoán (“Thông tư 91/2020/TT-BTC”) (2020: Thông tư 
-87/2017/TT-BTC ngày 15 tháng 8 năm 2027) và Thông tư 146/2014/TT-BTC ngày 6 tháng 10 năm 2014 về quy chế tài 
-chính của công ty chứng khoán và công ty quản lý quỹ (“Thông tư 146/2014/TT-BTC”) do Bộ Tài chính ban hành để 
-làm căn cứ xác định giá trị thị trường/giá trị hợp lý, cụ thể như sau:
-(i)	
-Cổ phiếu niêm yết trên các sở giao dịch chứng khoán, cổ phiếu của công ty đại chúng đăng ký giao dịch trên thị 
-	
-trường giao dịch cổ phiếu của công ty đại chúng chưa niêm yết (“UPCoM”)
-Các cổ phiếu này được đánh giá lại căn cứ vào giá đóng cửa của ngày có giao dịch gần nhất trước ngày đánh giá lại. 
-(ii)	
-Cổ phiếu khác
-Các cổ phiếu khác được đánh giá lại phương pháp nội bộ của Công ty. Các cổ phiếu không có đủ thông tin giao dịch 
-và giá trị không thể xác định một cách đáng tin cậy sẽ được phản ánh theo giá gốc.
-(iii)	
-Trái phiếu niêm yết trên sở giao dịch chứng khoán
-Các trái phiếu này được định giá căn cứ vào giá yết (giá sạch) trên hệ thống giao dịch tại sở giao dịch chứng khoán 
-tại ngày có giao dịch gần nhất trước ngày đánh giá lại cộng lãi lũy kế. 
-Các trái phiếu không có giao dịch trong nhiều hơn hai (2) tuần tính đến ngày định giá sẽ được trình bày theo giá mua 
-cộng lãi lũy kế.
-(iv)	
-Trái phiếu không niêm yết
-Trái phiếu chưa niêm yết được đánh giá lại theo giá mua cộng lãi lũy kế.
-(v)	
-Chứng chỉ quỹ mở/ quỹ hoán đổi danh mục (“ETF”)
-Các chứng chỉ quỹ mở/quỹ ETF được đánh giá lại theo giá trị tài sản ròng trên một (1) chứng chỉ quỹ tại kỳ báo cáo 
-gần nhất trước ngày định giá.
-(vi)	
-Chứng khoán niêm yết bị hủy hoặc bị đình chỉ giao dịch hoặc bị ngừng giao dịch kể từ ngày giao dịch thứ sáu trở đi
-Các chứng khoán này được định giá dựa trên giá trị sổ sách tại ngày báo cáo gần nhất.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-152
-153
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.7	
-Tài sản tài chính (tiếp theo)
-(f)	
-Hạch toán lãi/(lỗ)
-Chi phí mua
-Chi phí mua liên quan đến tài sản tài chính FVTPL được hạch toán vào chi phí hoạt động trong năm trên báo cáo kết 
-quả hoạt động. Chi phí mua liên quan đến tài sản tài chính khác được hạch toán vào giá gốc của tài sản.
-Chi phí bán
-Chi phí giao dịch bán các tài sản tài chính được hạch toán vào chi phí hoạt động trên báo cáo kết quả hoạt động.
-Lãi/(lỗ) từ việc thanh lý, nhượng bán
-Lãi/(lỗ) từ việc thanh lý, nhượng bán tài sản tài chính được hạch toán vào doanh thu/(chi phí) hoạt động trên báo 
-cáo kết quả hoạt động. Giá vốn được xác định theo phương pháp bình quân gia quyền tính đến cuối ngày giao dịch. 
-Dự phòng/(hoàn nhập dự phòng) suy giảm giá trị tài sản tài chính
-Dự phòng/(hoàn nhập dự phòng) suy giảm giá trị tài sản tài chính được ghi tăng/(giảm) chi phí hoạt động trên báo 
-cáo kết quả hoạt động.
- 2.8	 Các khoản phải thu
-Các khoản phải thu bao gồm những khoản phải thu bán các tài sản tài chính, phải thu và dự thu cổ tức, tiền lãi các tài 
-sản tài chính, phải thu phí dịch vụ cung cấp, phải thu về lỗi giao dịch chứng khoán và các khoản phải thu khác. Các 
-khoản phải thu được ghi nhận trên cơ sở dồn tích và được phản ánh theo giá gốc trừ đi dự phòng do suy giảm giá trị 
-hoặc do không thể thu hồi (nếu có).
-Các khoản phải thu được phân loại ngắn hạn và dài hạn trên báo cáo tình hình tài chính căn cứ theo kỳ hạn còn lại 
-của các khoản phải thu tại ngày báo cáo.
-Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo 
-cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất ước tính có thể xảy 
-ra. Các khoản nợ phải thu được xác định là không thể thu hồi sẽ được xóa sổ.
-Dự phòng/(hoàn nhập dự phòng) phát sinh trong năm được hạch toán tăng/(giảm) chi phí hoạt động trong báo cáo 
-kết quả hoạt động.
-2.9	 Hợp đồng tương lai
-Hợp đồng tương lai là chứng khoán phái sinh niêm yết, trong đó xác nhận cam kết giữa các bên để thực hiện một 
-trong các giao dịch sau:
-•	 Mua hoặc bán một số lượng tài sản cơ sở nhất định theo một mức giá đã được xác định vào một ngày đã được ấn 
-định trước trong tương lai; hoặc
-•	 Thanh toán khoản chênh lệch giữa giá trị tài sản cơ sở đã xác định trước tại thời điểm giao kết hợp đồng và giá trị 
-tài sản cơ sở tại một ngày được ấn định trước trong tương lai.
-Công ty hạch toán các giao dịch liên quan đến hợp đồng tương lai theo hướng dẫn trong Công văn 6190/BTC-CĐKT, 
-cụ thể như sau:
-Giao dịch tự doanh
-Tiền gửi ký quỹ tự doanh chứng khoán phái sinh được ghi nhận và trình bày trong chỉ tiêu 'Tài sản ngắn hạn khác' 
-trên báo cáo tình hình tài chính.
-Chứng khoán đem ký quỹ để giao dịch chứng khoán phái sinh không bị dừng ghi nhận mà được theo dõi trên tài 
-khoản chi tiết của cùng loại tài sản tài chính và thuyết minh trên báo cáo tài chính.
-Lãi (hoặc lỗ) vị thế của hợp đồng tương lai được xác định và thanh toán hàng ngày dựa trên giá thanh toán cuối ngày 
-hạch toán trừ đi giá thanh toán cuối ngày giao dịch gần nhất. Lãi (hoặc lỗ) vị thế được ghi nhận vào thu nhập (hoặc 
-chi phí) đã thực hiện trong báo cáo kết quả hoạt động ở chỉ tiêu 'Lãi (hoặc lỗ) bán các tài sản tài chính FVTPL'.
-Lãi tiền gửi ngân hàng phát sinh từ tiền gửi ký quỹ được ghi nhận vào doanh thu hoạt động tài chính trong báo cáo 
-kết quả hoạt động ở chỉ tiêu 'Doanh thu, dự thu cổ tức, lãi tiền gửi ngân hàng không cố định'.
-Giao dịch môi giới 
-Tiền nộp vào Quỹ Bù trừ chứng khoán phái sinh được ghi nhận và trình bày trong chỉ tiêu 'Tài sản dài hạn khác' 
-trên báo cáo tình hình tài chính.
-Doanh thu từ phí giao dịch hợp đồng tương lai được ghi nhận vào báo cáo kết quả hoạt động ở chỉ tiêu 'Doanh thu 
-nghiệp vụ môi giới chứng khoán'.
-Tiền và tài sản ký quỹ giao dịch chứng khoán phái sinh của khách hàng được ghi nhận ngoài báo cáo tình hình tài 
-chính, ở chỉ tiêu 'Tài sản ký quỹ của nhà đầu tư' và 'Tiền gửi ký quỹ của nhà đầu tư tại VSD'.
-2.10	 Nguyên tắc kế toán ghi nhận các khoản đầu tư đem đi cầm cố, thế chấp
-Trong năm, Công ty có các khoản đầu tư đem đi cầm cố, thế chấp để đảm bảo cho các nghĩa vụ của Công ty. 
-Theo các điều kiện và điều khoản của hợp đồng cầm cố, thế chấp trong thời gian hiệu lực của hợp đồng, 
-Công ty không được sử dụng các tài sản cầm cố, thế chấp để bán, chuyển nhượng, tham gia vào các hợp đồng bán 
-và cam kết mua lại, hợp đồng hoán đổi với bất kỳ bên thứ ba nào khác.
-Trong trường hợp Công ty không thực hiện nghĩa vụ phải trả, bên nhận cầm cố, thế chấp sẽ được sử dụng tài sản cầm 
-cố, thế chấp để thanh toán các nghĩa vụ của Công ty sau khoảng thời gian xác định trong hợp đồng cầm cố, thế chấp 
-kể từ ngày nghĩa vụ thanh toán của Công ty bắt đầu quá hạn. 
-Các tài sản đem đi cầm cố, thế chấp được theo dõi trên báo cáo tình hình tài chính theo nguyên tắc phù hợp với loại 
-tài sản mà tài sản đó được phân loại.
- 2.11	 Tài sản cố định
-Tài sản cố định hữu hình và tài sản cố định vô hình
-Tài sản cố định được phản ánh theo nguyên giá trừ đi khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực 
-tiếp đến việc có được tài sản cố định ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ 
-được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử 
-dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí trong năm.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-154
-155
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.11	 Tài sản cố định (tiếp theo)
-Khấu hao và hao mòn
-Tài sản cố định được khấu hao theo phương pháp đường thẳng để giảm dần nguyên giá tài sản trong suốt thời gian 
-hữu dụng ước tính. Các tỷ lệ khấu hao chủ yếu hàng năm như sau:
-Phương tiện vận chuyển
-16,67%
-Thiết bị văn phòng
-33,33%
-Phần mềm vi tính
-33,33% - 50%
-Thanh lý 
-Lãi hoặc lỗ phát sinh do thanh lý nhượng bán tài sản cố định được xác định bằng số chênh lệch giữa số tiền thu thuần 
-do thanh lý và giá trị còn lại của tài sản và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động.
-Chi phí xây dựng cơ bản dở dang
-Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình hình thành nhằm phục vụ công việc 
-kinh doanh hoặc quản trị, được ghi nhận theo giá gốc, bao gồm toàn bộ chi phí liên quan trực tiếp đến việc có được 
-tài sản. Khấu hao của những tài sản này, cũng giống như các loại tài sản cố định khác, sẽ bắt đầu được trích khi tài 
-sản đã sẵn sàng cho mục đích sử dụng.
-2.12	 Thuê tài sản
-Thuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản 
-thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt 
-động theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
-2.13	 Chi phí trả trước 
-Chi phí trả trước bao gồm số tiền trả trước để được cung cấp hàng hóa, dịch vụ, và công cụ, dụng cụ không đáp ứng 
-tiêu chuẩn để hạch toán là tài sản cố định theo quy định hiện hành. Chi phí trả trước được ghi nhận theo giá gốc và 
-được kết chuyển vào chi phí hoạt động theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.
-2.14	 Ký quỹ, ký cược ngắn hạn/dài hạn 
-Các khoản ký quỹ, ký cược ngắn hạn/dài hạn được ghi nhận khi Công ty thanh toán khoản tiền ký quỹ, ký cược theo 
-điều khoản hợp đồng và được phân loại là tài sản ngắn hạn/dài hạn khác.
-2.15	 Nợ phải trả 
-(a)	
-Ghi nhận/chấm dứt ghi nhận
-Nợ phải trả được ghi nhận khi Công ty phát sinh nghĩa vụ từ việc nhận về một tài sản, tham gia một cam kết hoặc phát 
-sinh các nghĩa vụ pháp lý khi ký kết hợp đồng giao dịch. Nợ phải trả được chấm dứt ghi nhận khi Công ty đã hoàn 
-thành nghĩa vụ phát sinh. Các khoản phải trả được ghi nhận trên cơ sở dồn tích và thận trọng.
-(b)	
-Phân loại
-Các khoản nợ phải trả được phân loại dựa vào loại nghiệp vụ phát sinh bao gồm: 
-•	 Nợ vay; 
-•	 Trái phiếu phát hành;
-•	 Phải trả liên quan đến hoạt động giao dịch chứng khoán; 
-•	 Phải trả chứng quyền có bảo đảm do Công ty phát hành; 
-•	 Phải trả người bán gồm các khoản phải trả phát sinh từ giao dịch mua các tài sản tài chính, hàng hóa, dịch vụ;
-•	 Người mua trả tiền trước; và
-•	 Phải trả khác gồm các khoản phải trả không có tính thương mại và không liên quan đến giao dịch mua các tài sản 
-tài chính, hàng hóa và dịch vụ.
-Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên báo cáo tình hình tài chính căn cứ theo kỳ hạn còn lại 
-của các khoản phải trả tại ngày báo cáo. 
-2.16	 Nguyên tắc bù trừ tài sản tài chính và nợ tài chính
-Nợ phải trả tài chính của Công ty là các nghĩa vụ mang tính bắt buộc để thanh toán tiền hoặc tài sản tài chính cho 
-đơn vị khác hoặc trao đổi các tài sản tài chính hoặc nợ phải trả tài chính với đơn vị khác theo các điều kiện không có 
-lợi cho Công ty hoặc là các hợp đồng có thể được thanh toán bằng các công cụ vốn chủ sở hữu của Công ty.
-Tài sản tài chính và nợ tài chính được trình bày theo giá trị thuần trên báo cáo tài chính trong trường hợp Công ty có 
-quyền hợp pháp để bù trừ và có dự định thanh toán trên cơ sở thuần, hoặc để cùng lúc thanh toán một tài sản và một 
-khoản nợ phải trả.
-2.17	 Các khoản vay
-Vay bao gồm các khoản tiền vay từ các ngân hàng, tổ chức tài chính, công ty tài chính và các đối tượng khác. Các 
-khoản vay được trình bày theo giá gốc tại ngày báo cáo.
-Các khoản vay được phân loại ngắn hạn và dài hạn trên báo cáo tình hình tài chính căn cứ theo kỳ hạn còn lại của 
-các khoản vay tại ngày báo cáo.
-2.18	 Trái phiếu phát hành
-Trái phiếu phát hành được ghi nhận ban đầu theo giá phát hành. Phụ trội/(chiết khấu) trái phiếu được xác định tại 
-thời điểm phát hành và phân bổ vào chi phí đi vay hoặc vốn hóa trong suốt thời hạn của trái phiếu theo phương pháp 
-đường thẳng.
-Số dư trái phiếu phát hành được trình bày trên cơ sở thuần (mệnh giá cộng phụ trội hoặc trừ chiết khấu chưa phân 
-bổ hết tại ngày báo cáo). 
-Số dư trái phiếu phát hành được phân loại ngắn hạn và dài hạn trên báo cáo tình hình tài chính căn cứ theo thời hạn 
-của trái phiếu.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-156
-157
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.19	 Chứng quyền có bảo đảm
-Chứng quyền có bảo đảm là chứng khoán có tài sản đảm bảo do công ty chứng khoán phát hành, cho phép người sở 
-hữu được quyền mua (chứng quyền mua) hoặc được quyền bán (chứng quyền bán) chứng khoán cơ sở cho tổ chức 
-phát hành chứng quyền đó theo một mức giá đã được xác định trước, tại hoặc trước một thời điểm đã được ấn định, 
-hoặc nhận khoản tiền chênh lệch giữa giá thực hiện và giá chứng khoán cơ sở tại thời điểm thực hiện. Công ty chứng 
-khoán phát hành chứng quyền phải ký quỹ tiền, tài sản tài chính hoặc có bảo lãnh thanh toán của ngân hàng lưu ký 
-để bảo đảm nghĩa vụ thanh toán với người sở hữu chứng quyền.
-Công ty hạch toán các giao dịch liên quan đến chứng quyền có bảo đảm theo hướng dẫn trong Thông tư 23/2018/
-TT-BTC, cụ thể như sau:
-Chứng quyền có bảo đảm do Công ty phát hành
-Khi phân phối chứng quyền cho nhà đầu tư, số tiền thu được hạch toán tăng phải trả chứng quyền.
-Khi Công ty mua lại chứng quyền đã phát hành trong vai trò tạo lập thị trường, hoặc khi chứng quyền bị hủy niêm yết 
-và Công ty phải thu hồi, chênh lệch dương (hoặc âm) giữa giá mua lại và giá trị ghi sổ của chứng quyền được ghi nhận 
-vào lỗ (hoặc lãi) trong báo cáo kết quả hoạt động.
-Các chi phí mua và phát hành chứng quyền được ghi nhận vào chi phí trong năm phát sinh. Tiền bồi thường thiệt hại 
-cho nhà đầu tư tiền phạt trả chậm tiền cho nhà đầu tư được ghi nhận vào chi phí khác.
-Cuối năm, chứng quyền có bảo đảm được đánh giá lại theo giá trị hợp lý. Chênh lệch tăng (hoặc giảm) đánh giá lại 
-chứng quyền có bảo đảm được ghi nhận vào lỗ (hoặc lãi) trong báo cáo kết quả hoạt động.
-Lãi (hoặc lỗ) tại ngày đáo hạn chứng quyền được hạch toán vào lãi (hoặc lỗ) bán các tài sản tài chính FVTPL trong 
-báo cáo kết quả hoạt động.
-Số lượng chứng quyền được phép phát hành, số lượng đã phát hành và mua lại được hạch toán và theo dõi trong tài 
-khoản ngoại bảng. Số lượng chứng quyền tại ngày báo cáo được trình bày trong các chỉ tiêu ngoài báo cáo tình hình 
-tài chính.
-Chứng khoán dùng cho hoạt động phòng ngừa rủi ro đối với chứng quyền
-Chứng khoán dùng cho hoạt động phòng ngừa rủi ro đối với chứng quyền được theo dõi trong tài khoản riêng và 
-được đánh giá lại cuối năm. Kết quả đánh giá lại được hạch toán tương tự như tài sản tài chính FVTPL.
-Giao dịch tự doanh chứng quyền
-Khi Công ty mua các chứng quyền của tổ chức khác phát hành để đầu tư thì Công ty hạch toán tương tự với tài sản 
-tài chính FVTPL.
-2.20	 Thuế thu nhập của nhà đầu tư
-Theo các quy định thuế hiện hành tại Việt Nam, đối với nhà đầu tư là tổ chức nước ngoài, Công ty có trách nhiệm giữ 
-lại 0,1% số tiền giao dịch bán để nộp thuế nhà thầu thay cho nhà đầu tư. Đối với nhà đầu tư là cá nhân (kể cả cá nhân 
-cư trú và cá nhân không cư trú), Công ty cần giữ lại 0,1% số tiền giao dịch bán để nộp thuế thu nhập cá nhân thay 
-cho nhà đầu tư. Công ty sẽ kê khai và nộp thuế cho các nhà đầu tư. Đối với nhà đầu tư là tổ chức trong nước, Công ty 
-không giữ lại tiền thuế trên số tiền giao dịch bán mà chính các tổ chức trong nước này tự chịu trách nhiệm kê khai 
-và nộp thuế đối với phần thu nhập này.
-2.21	 Chi phí phải trả
-Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm nhưng 
-thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, và được ghi nhận vào chi phí trong năm.
-2.22	 Các khoản dự phòng 
-Các khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đới, phát sinh từ các sự kiện 
-đã xảy ra; việc thanh toán nghĩa vụ nợ có thể dẫn đến sự giảm sút những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó 
-được ước tính một cách đáng tin cậy. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
-Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời 
-gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phản ánh 
-những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do 
-ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. 
-Chênh lệch giữa khoản dự phòng lập ở cuối năm này và khoản dự phòng đã lập chưa sử dụng ở cuối năm trước được 
-ghi nhận tăng hoặc giảm chi phí hoạt động trong năm.
-2.23	 Dự phòng trợ cấp thôi việc
-Theo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng 
-khoản trợ cấp thôi việc. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực 
-tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời 
-gian làm việc đã được Công ty chi trả trợ cấp thôi việc.
-Trợ cấp thôi việc của người lao động được trích trước cuối mỗi năm theo tỷ lệ bằng một nửa mức lương bình quân 
-tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thôi việc dựa trên mức lương bình quân theo 
-hợp đồng lao động của sáu tháng gần nhất tính đến trước ngày báo cáo.
-Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định 
-hiện hành.
-2.24	 Vốn chủ sở hữu
- (a)	
-Vốn góp của chủ sở hữu
-Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phản ánh theo mệnh giá của 
-cổ phiếu. 
-Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; 
-chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
-Cổ phiếu quỹ là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty nhưng chưa bị huỷ bỏ tại ngày báo 
-cáo. Cổ phiếu quỹ được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Công ty không ghi nhận các khoản lãi/
-(lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của chính Công ty.	
-•	 Cổ phiếu quỹ mua lại trước ngày hiệu lực của Luật Chứng khoán 2019 (ngày 1 tháng 1 năm 2021) là cổ phiếu do 
-Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị huỷ bỏ và sẽ được tái phát hành trở lại trong 
-khoảng thời gian theo quy định của pháp luật về chứng khoán. 
-•	 Cổ phiếu quỹ mua sau ngày 1 tháng 1 năm 2021 sẽ được hủy bỏ và điều chỉnh giảm vốn chủ sở hữu. Công ty không 
-có giao dịch mua lại cổ phiếu quỹ sau ngày 1 tháng 1 năm 2021 tính đến ngày phát hành báo cáo này. 
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-158
-159
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.24	 Vốn chủ sở hữu (tiếp theo)
-(b)	
-Chênh lệch đánh giá tài sản theo giá trị hợp lý
-Chênh lệch đánh giá tài sản theo giá trị hợp lý phản ánh số chênh lệch do đánh giá lại tài sản tài chính AFS theo giá 
-trị hợp lý.
-(c)	
-Quỹ dự phòng tài chính và rủi ro nghiệp vụ và quỹ dự trữ bổ sung vốn điều lệ
-Theo Thông tư 146/2014/TT-BTC, Công ty phải trích lập quỹ dự phòng tài chính và rủi ro nghiệp vụ và quỹ dự trữ bổ 
-sung vốn điều lệ ở mức 5% lợi nhuận sau thuế TNDN của Công ty cho mỗi quỹ vào mỗi năm Công ty có lợi nhuận cho 
-đến khi mỗi quỹ này đạt 10% vốn điều lệ của Công ty.
-Quỹ dự phòng tài chính và rủi ro nghiệp vụ được trích lập để sử dụng bù đắp phần còn lại của những tổn thất, thiệt 
-hại về tài sản xảy ra trong quá trình kinh doanh sau khi được bù đắp bằng tiền bồi thường của tổ chức, cá nhân gây ra 
-tổn thất và của tổ chức bảo hiểm, sử dụng quỹ bảo vệ nhà đầu tư và sử dụng dự phòng trích lập trong chi phí.
-Quỹ dự trữ bổ sung vốn điều lệ trích lập để bổ sung vốn điều lệ.
-(d)	
-Lợi nhuận chưa phân phối
-Lợi nhuận chưa phân phối phản ánh kết quả hoạt động sau thuế TNDN của Công ty tại ngày báo cáo, bao gồm lợi 
-nhuận đã thực hiện và lợi nhuận chưa thực hiện từ các giao dịch đã phát sinh lũy kế đến ngày báo cáo.
-Lợi nhuận/(lỗ) sau thuế chưa thực hiện trong năm là số chênh lệch giữa tổng giá trị lãi, lỗ đánh giá lại của các tài sản 
-tài chính FVTPL hoặc tài sản tài chính khác được ghi nhận vào báo cáo kết quả hoạt động thuộc danh mục tài sản tài 
-chính và thuế thu nhập hoãn lại trên kết quả đánh giá lại đó.
-Lợi nhuận đã thực hiện trong năm là số chênh lệch giữa tổng doanh thu, thu nhập với tổng các khoản chi phí được 
-ghi nhận vào báo cáo kết quả hoạt động ngoài các khoản lãi, lỗ do đánh giá lại tài sản tài chính đã được ghi nhận vào 
-lợi nhuận/(lỗ) chưa thực hiện.
-2.25	 Chia cổ tức
-Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính khi cổ tức được thông qua tại Đại hội 
-đồng Cổ đông hoặc khi Hội đồng Quản trị công bố quyết định trả cổ tức giữa kỳ phù hợp với Điều lệ công ty và quy 
-định pháp luật hiện hành.
-Cơ sở lợi nhuận phân phối cho cổ đông là lợi nhuận đã thực hiện sau thuế TNDN và sau khi đã trích lập các quỹ dự trữ 
-bổ sung vốn điều lệ, quỹ dự phòng tài chính và rủi ro nghiệp vụ.
-2.26	 Tài sản của khách hàng và nợ phải trả khách hàng
-Tài sản của khách hàng và nợ phải trả khách hàng được phản ánh tại các chỉ tiêu ngoài báo cáo tình hình tài chính 
-bao gồm: 
-•	 Tiền gửi của nhà đầu tư về giao dịch chứng khoán, tiền gửi của tổ chức phát hành và nợ phải trả tương ứng; và
-•	 Tài sản tài chính của nhà đầu tư.
-2.27	 Ghi nhận doanh thu và thu nhập khác
-(a)	
-Doanh thu cung cấp dịch vụ cho nhà đầu tư
-Doanh thu cung cấp dịch vụ cho nhà đầu tư bao gồm phí môi giới chứng khoán, phí bảo lãnh phát hành, phí tư vấn 
-tài chính, phí lưu ký chứng khoán và hoạt động ủy thác đấu giá. 
-Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động khi dịch vụ đã được cung cấp, bằng cách 
-tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng 
-dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau: 
-•	 Doanh thu được xác định tương đối chắc chắn;
-•	 Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
-•	 Xác định được phần công việc đã hoàn thành tại ngày báo cáo; và
-•	 Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
-Khi kết quả của một giao dịch về cung cấp dịch vụ không thể xác định được chắc chắn thì doanh thu được ghi nhận 
-tương ứng với chi phí đã ghi nhận và có thể thu hồi.
-Các khoản giảm trừ doanh thu bao gồm các khoản giảm giá dịch vụ đã cung cấp. Các khoản giảm trừ doanh thu phát 
-sinh cùng năm cung cấp dịch vụ được ghi nhận điều chỉnh giảm doanh thu của năm phát sinh.
-Các khoản giảm trừ doanh thu phát sinh sau ngày báo cáo nhưng trước thời điểm phát hành báo cáo tài chính được 
-ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.
- (b)	
-Thu nhập từ hoạt động tự doanh tài sản tài chính 
-Thu nhập từ hoạt động tự doanh và góp vốn bao gồm lãi/(lỗ) từ thanh lý, nhượng bán tài sản tài chính và cổ tức. 
-Lãi/(lỗ) từ thanh lý, nhượng bán tài sản tài chính là khoản chênh lệch giữa giá bán chưa trừ phí bán và giá vốn của 
-tài sản tài chính được thanh lý, nhượng bán. Giá vốn được xác định theo phương pháp bình quân gia quyền tính đến 
-cuối ngày giao dịch.
-Thu nhập từ cổ tức bằng tiền được ghi nhận trong báo cáo kết quả hoạt động khi quyền nhận cổ tức được xác lập. 
-Cổ tức nhận bằng cổ phiếu chỉ được cập nhật và theo dõi số lượng cổ phiếu nắm giữ mà không được ghi nhận là 
-thu nhập.
-(c)	
-Thu nhập trên vốn kinh doanh
-Thu nhập trên vốn kinh doanh bao gồm lãi tiền gửi ngân hàng, lãi từ các khoản đầu tư HTM, lãi thu được từ các hợp 
-đồng giao dịch ký quỹ và ứng trước tiền bán chứng khoán. Các khoản thu nhập này được ghi nhận theo phương pháp 
-dồn tích trừ khi khả năng thu hồi tiền lãi không chắc chắn.
-(d)	
-Thu nhập khác
-Thu nhập khác bao gồm các khoản thu nhập không thường xuyên phát sinh từ các hoạt động ngoài các hoạt động 
-tạo ra doanh thu và thu nhập nêu trên.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-160
-161
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
- 2	
-CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
-2.28	 Chi phí 
-(a)	
-Ghi nhận	
-Chi phí hoạt động được ghi nhận trên cơ sở dồn tích, theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
-(b)	
-Phân loại
-Chi phí của Công ty được phân loại theo chức năng như sau:
-•	 Chi phí hoạt động;
-•	 Chi phí tài chính;
-•	 Chi phí quản lý; và
-•	 Chi phí khác.
-2.29	 Doanh thu hoạt động tài chính 
-Doanh thu hoạt động tài chính phản ánh những khoản doanh thu từ hoạt động đầu tư phát sinh trong năm chủ yếu 
-bao gồm lãi tiền gửi ngân hàng và lãi do chênh lệch tỷ giá hối đoái.
-2.30	 Chi phí tài chính
-Chi phí tài chính phản ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm chi phí lãi 
-vay và lỗ do chênh lệch tỷ giá hối đoái.
-2.31	 Chi phí đi vay 
-Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc hình thành bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn 
-hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. 
-Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc hình thành bất kỳ tài sản 
-đủ tiêu chuẩn thì Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia 
-quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc hình thành tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính 
-theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ 
-cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động khi 
-phát sinh.
-2.32	 Chi phí quản lý doanh nghiệp
-Chi phí quản lý doanh nghiệp phản ánh các chi phí quản lý chung của Công ty chủ yếu bao gồm chi phí nhân viên, 
-chi phí dịch vụ mua ngoài, chi phí vật liệu văn phòng phẩm, chi phí khấu hao, chi phí đi lại, chi phí thuê văn phòng và 
-chi phí quản lý khác.
-2.33	 Thuế TNDN hiện hành và thuế TNDN hoãn lại
-Thuế TNDN bao gồm toàn bộ số thuế thu nhập tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi 
-phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại. 
-Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế theo thuế suất thuế 
-TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi 
-xác định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc sự kiện 
-được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác. 
-Thuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, trên các khoản chênh lệch tạm thời giữa giá trị 
-ghi sổ của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính và cơ sở tính thuế TNDN của các khoản mục 
-này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của 
-một tài sản hay nợ phải trả của một giao dịch không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng 
-đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được 
-tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh 
-toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày báo cáo.
-Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế trong tương lai để sử dụng những 
-chênh lệch tạm thời được khấu trừ.
-2.34	 Các bên liên quan
-Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty 
-hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con 
-và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nắm quyền biểu quyết 
-của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chốt bao gồm Hội đồng Quản trị 
-và Ban Tổng Giám đốc của Công ty, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên 
-kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
-Trong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chứ không 
-chỉ hình thức pháp lý của các quan hệ đó. 
-2.35	 Báo cáo bộ phận
-Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp dịch vụ và đầu tư (bộ 
-phận chia theo hoạt động), hoặc cung cấp dịch vụ và đầu tư trong một môi trường kinh tế cụ thể (bộ phận chia theo 
-khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ 
-bản của Công ty được dựa theo bộ phận chia theo hoạt động.
-2.36	 Số liệu bằng không
-Các khoản mục được quy định trong Thông tư 334/2016/TT-BTC, Công văn 6190/BTC-CĐKT và Thông tư 23/2018/
-TT-BTC không được thể hiện trong báo cáo tài chính này được hiểu là có số liệu bằng không.
-3
-THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH
-3.1	
-Tiền và các khoản tương đương tiền
+CHỈ TIÊU
+Thuyết
+minh
 Tại ngày
-31.12.2021 
- VND
-31.12.2020 
-VND
+TÀI SẢN
+TÀI SẢN NGẮN HẠN
+Tài sản tài chính
+Tiền và các khoản tương đương tiền
 Tiền
-Tiền mặt tại quỹ
-577.800.477
-960.096.290
-Tiền gửi ngân hàng
-1.131.170.799.056
-641.552.887.300
-1.131.748.599.533
-642.512.983.590
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-162
-163
-Thông điệp 
+Các tài sản tài chính ghi nhận thông qua lãi/lỗ
+(“FVTPL”)
+Các khoản đầu tư nắm giữ đến ngày đáo hạn (“HTM”)
+Các khoản cho vay
+Tài sản tài chính sẵn sàng để bán (“AFS”)
+Dự phòng suy giảm giá trị các tài sản tài chính
+và tài sản thế chấp
+Các khoản phải thu
+Phải thu bán các tài sản tài chính
+Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính
+Dự thu cổ tức, tiền lãi chưa đến ngày nhận
+Trả trước cho người bán
+Phải thu các dịch vụ công ty chứng khoán cung cấp
+Các khoản phải thu khác
+Dự phòng suy giảm giá trị các khoản phải thu
+Tài sản ngắn hạn khác
+Tạm ứng
+Vật tư văn phòng, công cụ, dụng cụ
+Chi phí trả trước ngắn hạn
+Thuế giá trị gia tăng được khấu trừ
+Tài sản ngắn hạn khác
+TÀI SẢN DÀI HẠN
+Tài sản cố định
+Tài sản cố định hữu hình
+Nguyên giá
+Giá trị khấu hao luỹ kế
+Tài sản cố định vô hình
+Nguyên giá
+Giá trị hao mòn luỹ kế
+Chi phí xây dựng cơ bản dở dang
+Tài sản dài hạn khác
+Cầm cố, thế chấp, ký quỹ, ký cược dài hạn
+Chi phí trả trước dài hạn
+Tiền nộp Quỹ hỗ trợ thanh toán
+Tài sản dài hạn khác
+TỔNG CỘNG TÀI SẢN
+CHỈ TIÊU
+Thuyết
+minh
+Tại ngày
+NỢ PHẢI TRẢ
+Nợ phải trả ngắn hạn
+Vay và nợ thuê tài sản tài chính ngắn hạn
+Vay ngắn hạn
+Trái phiếu phát hành ngắn hạn
+Phải trả hoạt động giao dịch chứng khoán
+Phải trả người bán ngắn hạn
+Người mua trả tiền trước ngắn hạn
+Thuế và các khoản phải nộp Nhà nước
+Phải trả người lao động
+Các khoản trích nộp phúc lợi nhân viên
+Chi phí phải trả ngắn hạn
+Các khoản phải trả, phải nộp khác ngắn hạn
+Nợ phải trả dài hạn
+Thuế thu nhập hoãn lại phải trả
+TỔNG CỘNG NỢ PHẢI TRẢ
+VỐN CHỦ SỞ HỮU
+Vốn chủ sở hữu
+Vốn đầu tư của chủ sở hữu
+Vốn góp của chủ sở hữu
+Cổ phiếu phổ thông có quyền biểu quyết
+Thặng dư vốn cổ phần
+Chênh lệch đánh giá tài sản theo giá trị hợp lý
+Quỹ dự trữ bổ sung vốn điều lệ
+Quỹ dự phòng tài chính và rủi ro nghiệp vụ
+Lợi nhuận chưa phân phối
+Lợi nhuận sau thuế đã thực hiện
+Lợi nhuận sau thuế chưa thực hiện
+TỔNG CỘNG VỐN CHỦ SỞ HỮU
+TỔNG CỘNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+Mẫu số B01 - CTCK
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
+vị thế
+
+CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH
+CHỈ TIÊU
+Thuyết
+minh
+Tại ngày
+TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN VÀ TÀI SẢN
+QUẢN LÝ THEO CAM KẾT
+Nợ khó đòi đã xử lý (VND)
+Ngoại tệ các loại (quy ra VND)
+Cổ phiếu đang lưu hành (cổ phiếu)
+Theo số lượng
+Tài sản tài chính niêm yết/đăng ký giao dịch tại
+Trung tâm Lưu ký Chứng khoán (VSD) của công ty
+chứng khoán
+Tài sản tài chính chờ về của công ty chứng khoán
+Tài sản tài chính chưa lưu ký tại VSD của công ty
+chứng khoán
+Chứng quyền có bảo đảm được phép phát hành
+nhưng chưa lưu hành
+TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN
+QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG
+Theo số lượng
+Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD
+của nhà đầu tư
+Tài sản tài chính giao dịch tự do chuyển nhượng
+Tài sản tài chính hạn chế chuyển nhượng
+Tài sản tài chính giao dịch cầm cố
+Tài sản tài chính phong tỏa, tạm giữ
+Tài sản tài chính chờ thanh toán
+Tài sản tài chính chờ về của nhà đầu tư
+CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
+CHỈ TIÊU
+Tại ngày
+TÀI SẢN VÀ CÁC KHOẢN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ
+CAM KẾT VỚI KHÁCH HÀNG (tiếp theo)
+Theo giá trị (VND)
+Tiền gửi của khách hàng
+Tiền gửi của nhà đầu tư về giao dịch chứng khoán
+theo phương thức công ty chứng khoán quản lý
+Tiền gửi ký quỹ của nhà đầu tư tại VSD
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+của nhà đầu tư trong nước
+Tiền gửi tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+của nhà đầu tư nước ngoài
+Phải trả nhà đầu tư về tiền gửi giao dịch chứng khoán
+theo phương thức công ty chứng khoán quản lý
+Phải trả nhà đầu tư trong nước về tiền gửi giao dịch
+chứng khoán theo phương thức công ty chứng khoán quản lý
+Phải trả nhà đầu tư nước ngoài về tiền gửi giao dịch
+chứng khoán theo phương thức công ty chứng khoán quản lý
+Phải trả cổ tức, gốc và lãi trái phiếu
+Mẫu số B01 - CTCK
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
+Nguyễn Thị Lành
+Đoàn Minh Thiện
+Tô Hải
+Người lập
+Kế toán trưởng
+Tổng Giám đốc
+Ngày 10 tháng 3 năm 2022
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Thông điệp
+Ban Lãnh đạo
+VCSC -
+Tiềm năng
+nội tại
+Sức khỏe doanh nghiệp
+& Quản trị rủi ro
+Chiến lược
+Quản trị
+Vươn xa
+cùng kỷ nguyên số
+Phát triển
+bền vững
+Khẳng định
+vị thế
+
+CHỈ TIÊU
+Thuyết
+minh
+Năm tài chính kết thúc ngày
+DOANH THU HOẠT ĐỘNG
+Lãi từ các tài sản tài chính ghi nhận thông qua
+lãi/lỗ (“FVTPL”)
+Lãi bán các tài sản tài chính FVTPL
+Tăng/(giảm) chênh lệch tăng về đánh giá lại
+các tài sản tài chính FVTPL
+Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL
+Tăng chênh lệch giảm đánh giá lại phải trả
+chứng quyền đang lưu hành
+Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn
+Lãi từ các khoản cho vay và phải thu
+Cổ tức từ các tài sản tài chính AFS
+Doanh thu nghiệp vụ môi giới chứng khoán
+Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành
+chứng khoán
+Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán
+Doanh thu nghiệp vụ lưu ký chứng khoán
+Doanh thu hoạt động tư vấn tài chính
+Thu nhập hoạt động khác
+TỔNG DOANH THU HOẠT ĐỘNG
+CHI PHÍ HOẠT ĐỘNG
+Lỗ các tài sản tài chính ghi nhận thông qua
+lãi/lỗ (“FVTPL”)
+Lỗ bán các tài sản tài chính FVTPL
+(Tăng)/giảm chênh lệch giảm về đánh giá lại
+các tài sản tài chính FVTPL
+Giảm chênh lệch tăng đánh giá lại phải trả
+chứng quyền đang lưu hành
+Hoàn nhập dự phòng tài sản tài chính, xử lý tổn thất
+các khoản phải thu khó đòi và lỗ suy giảm tài sản
+tài chính và chi phí đi vay của các khoản cho vay
+Chi phí hoạt động tự doanh
+Chi phí nghiệp vụ môi giới chứng khoán
+Chi phí nghiệp vụ lưu ký chứng khoán
+Chi phí nghiệp vụ tư vấn tài chính
+Chi phí các dịch vụ khác
+TỔNG CHI PHÍ HOẠT ĐỘNG
+CHỈ TIÊU
+Thuyết
+minh
+Năm tài chính kết thúc ngày
+DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+Chênh lệch lãi tỷ giá hối đoái đã thực hiện
+Doanh thu, dự thu cổ tức, lãi tiền gửi ngân hàng
+không cố định
+TỔNG DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+CHI PHÍ TÀI CHÍNH
+Chênh lệch lỗ tỷ giá hối đoái đã thực hiện
+Chi phí lãi vay
+Chi phí tài chính khác
+TỔNG CHI PHÍ TÀI CHÍNH
+CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN
+KẾT QUẢ HOẠT ĐỘNG
+THU NHẬP KHÁC VÀ CHI PHÍ KHÁC
+Thu nhập khác
+Chi phí khác
+TỔNG KẾT QUẢ HOẠT ĐỘNG KHÁC
+TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ
+Lợi nhuận đã thực hiện
+Lợi nhuận chưa thực hiện
+CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP (“TNDN”)
+Chi phí thuế TNDN hiện hành
+Chi phí/(hoàn nhập) thuế TNDN hoãn lại
+LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN
+THU NHẬP TOÀN DIỆN KHÁC SAU THUẾ TNDN
+Chênh lệch tăng từ đánh giá lại các tài sản tài chính
+sẵn sàng để bán
+TỔNG THU NHẬP TOÀN DIỆN
+THU NHẬP THUẦN TRÊN CỔ PHIẾU PHỔ THÔNG
+Lãi cơ bản trên cổ phiếu phổ thông (Đồng/cổ phiếu)
+Thu nhập pha loãng trên cổ phiếu (Đồng/cổ phiếu)
+Mẫu số B02 - CTCK
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG
+Nguyễn Thị Lành
+Đoàn Minh Thiện
+Tô Hải
+Người lập
+Kế toán trưởng
+Tổng Giám đốc
+Ngày 10 tháng 3 năm 2022
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Thông điệp
+Ban Lãnh đạo
+VCSC -
+Tiềm năng
+nội tại
+Sức khỏe doanh nghiệp
+& Quản trị rủi ro
+Chiến lược
+Quản trị
+Vươn xa
+cùng kỷ nguyên số
+Phát triển
+bền vững
+Khẳng định
+vị thế
+
+CHỈ TIÊU
+Năm tài chính kết thúc ngày
+Lưu chuyển tiền từ hoạt động kinh doanh
+Lợi nhuận trước thuế thu nhập doanh nghiệp
+Điều chỉnh cho các khoản
+Khấu hao tài sản cố định
+Các khoản dự phòng
+Chi phí lãi vay
+Lãi từ thanh lý tài sản cố định
+Dự thu tiền lãi
+Điều chỉnh các chi phí phi tiền tệ
+Tăng/(giảm) chênh lệch giảm đánh giá lại giá trị các tài sản
+tài chính ghi nhận thông qua lãi/lỗ FVTPL
+Điều chỉnh các doanh thu phi tiền tệ
+(Tăng)/giảm chênh lệch tăng đánh giá lại giá trị các tài sản
+tài chính ghi nhận thông qua lãi/lỗ FVTPL
+Thay đổi trong vốn lưu động
+(Tăng)/giảm tài sản tài chính ghi nhận thông qua lãi/lỗ
+(Tăng)/giảm các khoản đầu tư nắm giữ đến ngày đáo hạn (“HTM”)
+Tăng các khoản cho vay
+Tăng tài sản tài chính sẵn sàng để bán
+Giảm/(tăng) phải thu bán các tài sản tài chính
+Giảm phải thu tiền lãi các tài sản tài chính
+Tăng các khoản phải thu các dịch vụ
+công ty chứng khoán cung cấp
+Giảm các khoản phải thu khác
+(Tăng)/giảm các tài sản khác
+(Giảm)/tăng chi phí phải trả
+(không bao gồm chi phí lãi vay)
+Giảm/(tăng) chi phí trả trước
+Thuế TNDN công ty chứng khoán đã nộp
+Lãi vay đã trả
+Tăng phải trả người bán
+Tăng các khoản trích nộp phúc lợi nhân viên
+Tăng thuế và các khoản phải nộp Nhà nước
+(không bao gồm thuế TNDN đã nộp)
+Tăng/(giảm) phải trả người lao động
+Tăng/(giảm) phải trả, phải nộp khác
+Tiền chi khác cho hoạt động kinh doanh
+Lưu chuyển tiền thuần từ hoạt động kinh doanh
+Lưu chuyển tiền từ hoạt động đầu tư
+Tiền chi để mua sắm, hình thành tài sản cố định
+Tiền thu từ thanh lý, nhượng bán tài sản cố định
+Lưu chuyển tiền thuần từ hoạt động đầu tư
+CHỈ TIÊU
+Thuyết
+minh
+Năm tài chính kết thúc ngày
+Lưu chuyển tiền từ hoạt động tài chính
+Tiền thu từ phát hành cổ phiếu
+Tiền chi mua lại cổ phiếu đã phát hành
+Tiền vay gốc
+Tiền chi trả nợ gốc vay khác
+Cổ tức, lợi nhuận đã trả cho chủ sở hữu
+Lưu chuyển tiền thuần từ hoạt động tài chính
+Tăng/(giảm) tiền thuần trong năm
+Tiền và các khoản tương đương tiền đầu năm
+Tiền
+Các khoản tương đương tiền
+Tiền và các khoản tương đương tiền cuối năm
+Tiền
+Các thông tin liên quan đến báo cáo lưu chuyển tiền tệ được trình bày tại Thuyết minh 6.
+Mẫu số B03b - CTCK
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ
+(Theo phương pháp gián tiếp)
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Thông điệp
+Ban Lãnh đạo
+VCSC -
+Tiềm năng
+nội tại
+Sức khỏe doanh nghiệp
+& Quản trị rủi ro
+Chiến lược
+Quản trị
+Vươn xa
+cùng kỷ nguyên số
+Phát triển
+bền vững
+Khẳng định
+vị thế
+
+PHẦN LƯU CHUYỂN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+CHỈ TIÊU
+Năm tài chính kết thúc ngày
+Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng
+Tiền thu bán chứng khoán môi giới cho khách hàng
+Tiền chi mua chứng khoán môi giới cho khách hàng
+Nhận tiền gửi để thanh toán giao dịch chứng khoán
+của khách hàng
+Tiền gửi ký quỹ của nhà đầu tư tại VSD
+Chi trả phí lưu ký chứng khoán của khách hàng
+Tăng tiền thuần trong năm
+Tiền và các khoản tương đương tiền đầu năm
+của khách hàng
+Tiền gửi ngân hàng đầu năm
+Tiền gửi của nhà đầu tư về giao dịch chứng khoán theo
+phương thức công ty chứng khoán quản lý
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+Tiền và các khoản tương đương tiền cuối năm
+của khách hàng
+Tiền gửi ngân hàng cuối năm
+Tiền gửi của nhà đầu tư về giao dịch chứng khoán theo
+phương thức công ty chứng khoán quản lý
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán
+Chỉ tiêu
+Tại ngày
+Trong năm tài chính kết thúc
+ngày 31 tháng 12 năm 2020
+Trong năm tài chính kết thúc
+ngày 31 tháng 12 năm 2021
+Tại ngày
+Tăng
+Giảm
+Tăng
+Giảm
+Biến động vốn chủ sở hữu
+Vốn đầu tư của chủ sở hữu
+Cổ phiếu phổ thông có quyền biểu quyết
+Thặng dư vốn cổ phần
+Cổ phiếu quỹ
+Quỹ dự trữ bổ sung vốn điều lệ
+Quỹ dự phòng tài chính và rủi ro nghiệp vụ
+Chênh lệch đánh giá tài sản theo giá trị hợp lý
+Lợi nhuận chưa phân phối
+Lợi nhuận sau thuế đã thực hiện
+Lợi nhuận chưa thực hiện
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ (tiếp theo)
+BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU
+Mẫu số B03b - CTCK
+Nguyễn Thị Lành
+Đoàn Minh Thiện
+Tô Hải
+Người lập
+Kế toán trưởng
+Tổng Giám đốc
+Ngày 10 tháng 3 năm 2022
+Mẫu số B04 - CTCK
+Nguyễn Thị Lành
+Đoàn Minh Thiện
+Tô Hải
+Người lập
+Kế toán trưởng
+Tổng Giám đốc
+Ngày 10 tháng 3 năm 2022
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Các thuyết minh từ trang 146 đến trang 205 là một phần cấu thành báo cáo tài chính này.
+Thông điệp
+Ban Lãnh đạo
+VCSC -
+Tiềm năng
+nội tại
+Sức khỏe doanh nghiệp
+& Quản trị rủi ro
+Chiến lược
+Quản trị
+Vươn xa
+cùng kỷ nguyên số
+Phát triển
+bền vững
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
- 3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.2	 Danh mục tài sản tài chính
-(a)	
-Tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”)
-Tại ngày 31 tháng 12 năm 2021
-Chênh lệch đánh giá lại
-Giá trị thị trường/ 
-giá trị hợp lý 
- VND
-Giá gốc 
-VND
-Chênh lệch tăng 
-VND
-Chênh lệch giảm 
-VND
-Cổ phiếu niêm yết và cổ 
-phiếu giao dịch trên UPCoM
-851.299.716.153
-273.373.185.965
-(27.319.684.446)
-1.097.353.217.672
-Chứng chỉ tiền gửi (*)
-100.000.000.000
--
--
-100.000.000.000
-Trái phiếu chưa niêm yết (*)
-14.163.251.763
--
--
-14.163.251.763
-Chứng chỉ quỹ  
-chưa niêm yết (*)
-10.000.000.000
--
--
-10.000.000.000
-Tổng cộng
-975.462.967.916
-273.373.185.965
-(27.319.684.446)
-1.221.516.469.435
-Tại ngày 31 tháng 12 năm 2020
-Chênh lệch đánh giá lại
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Giá gốc 
-VND
-Chênh lệch tăng 
-VND
-Chênh lệch giảm 
-VND
-Cổ phiếu niêm yết và cổ 
-phiếu giao dịch trên UPCoM
-457.279.318.135
-89.701.189.793
-(2.756.717.629)
-544.223.790.299
-Cổ phiếu chưa niêm yết và 
-chưa đăng ký giao dịch (*)
-28.907.300.000
--
--
-28.907.300.000
-Tài sản cơ sở cho hoạt 
-động phòng ngừa rủi ro của 
-chứng quyền
-27.498.567.893
-1.038.445.865
-(1.501.758)
-28.535.512.000
-Trái phiếu chưa niêm yết (*)
-13.157.000.000
--
--
-13.157.000.000
-Tổng cộng
-526.842.186.028
-90.739.635.658
-(2.758.219.387)
-614.823.602.299
-(*) 	Các công cụ tài chính này không có giá niêm yết trên thị trường hoạt động và giá trị hợp lý của chúng không thể 
-xác định một cách đáng tin cậy, nên được phản ánh theo giá gốc.
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Giá gốc VND
-Giá trị thị trường/ 
-giá trị hợp lý
-Giá gốc VND
-Giá trị thị trường/ 
-giá trị hợp lý
-Cổ phiếu niêm yết và 
-cổ phiếu giao dịch trên 
-UPCoM
-851.299.716.153
-1.097.353.217.672
-457.279.318.135
-544.223.790.299
-CTCP Đầu tư và Kinh doanh 
-nhà Khang Điền (KDH)
-151.103.163.136
-415.571.245.800
-95.478.111.044
-167.353.073.700
-Công ty Cổ phần Tập đoàn 
-Ma San (MSN)
-388.580.716.249
-363.888.000.000
-16.680.436.247
-17.673.320.000
-Cổ phiếu khác
-311.615.836.768
-317.893.971.872
-345.120.770.844
-359.197.396.599
-Cổ phiếu chưa niêm yết và 
-chưa đăng ký giao dịch
--
--
-28.907.300.000
-28.907.300.000
-CTCP Đầu tư Xây dựng và 
-KD nhà SG
--
--
-26.846.800.000
-26.846.800.000
-CTCP Đầu tư & Xây dựng 
-Tây Hồ
--
--
-2.060.500.000
-2.060.500.000
-Tài sản cơ sở cho hoạt 
-động phòng ngừa rủi ro 
-của chứng quyền
--
--
-27.498.567.893
-28.535.512.000
-CTCP Tập đoàn Hòa Phát 
-(HPG)
--
--
-17.552.107.933
-18.291.885.000
-Ngân hàng TMCP Việt Nam 
-Thịnh Vượng (VPB)
--
--
-8.737.055.501
-8.989.500.000
-Cổ phiếu khác
--
--
-1.209.404.459
-1.254.127.000
-Chứng chỉ tiền gửi (**)
-100.000.000.000
-100.000.000.000
--
--
-Trái phiếu chưa niêm yết (***)
-14.163.251.763
-14.163.251.763
-13.157.000.000
-13.157.000.000
-Chứng chỉ quỹ chưa niêm yết
-10.000.000.000
-10.000.000.000
--
--
-Tổng cộng
-975.462.967.916
-1.221.516.469.435
-526.842.186.028
-614.823.602.299
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-164
-165
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
- 3	
-THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.2	
 Danh mục tài sản tài chính (tiếp theo)
-(a)	
 Tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”) (tiếp theo)
 (**) 	 Thông tin chi tiết chứng chỉ tiền gửi như sau:
-Tại ngày 
-31.12.2021 
-VND
+Tại ngày
 Đặc điểm chính
-Ngày 
+Ngày
 phát hành
-Ngày 
+Ngày
 đáo hạn
 Lãi suất/ năm
-Mệnh giá/ 
-chứng chỉ 
-VND
+Mệnh giá/
+chứng chỉ
 Tổ chức phát hành
 Ngân hàng thương mại trong nước
-100.000.000.000
-Không có 
+Không có
 tài sản đảm bảo
-30.12.2021
-30.12.2022
-5%
-100.000.000.000
 (***)	 Thông tin chi tiết trái phiếu chưa niêm yết như sau:
-Tại ngày 
-31.12.2021 
-VND
+Tại ngày
 Đặc điểm chính
-Ngày 
+Ngày
 phát hành
-Ngày 
+Ngày
 đáo hạn
 Lãi suất/ năm
-Mệnh giá/ 
-chứng chỉ 
-VND
+Mệnh giá/
+chứng chỉ
 Trái phiếu chưa niêm yết
 Trái phiếu chưa niêm yết
-13.157.000.000
-Có chuyển đổi, không kèm 
-chứng quyền, không tài 
+Có chuyển đổi, không kèm
+chứng quyền, không tài
 sản đảm bảo
-02.11.2020
-02.11.2025
-11%
-1.000.000
 Trái phiếu chưa niêm yết
-1.006.251.763
-Có chuyển đổi, 
-kèm chứng quyền, không 
+Có chuyển đổi,
+kèm chứng quyền, không
 tài sản đảm bảo
-12.11.2019
-12.11.2022
-6%
-1.000.000.000
-14.163.251.763
-	 	 	
-	
-	
-	
-	
-	
-	
-Giá trị các cổ phiếu trong danh mục tài sản tài chính FVTPL được dùng làm tài sản đảm bảo cho các khoản vay ngân hàng ngắn hạn tại ngày 31 tháng 12 năm 2021 
+Giá trị các cổ phiếu trong danh mục tài sản tài chính FVTPL được dùng làm tài sản đảm bảo cho các khoản vay ngân hàng ngắn hạn tại ngày 31 tháng 12 năm 2021
 được trình bày ở Thuyết minh 3.8.
- (b)	
 Các khoản đầu tư nắm giữ đến ngày đáo hạn (“HTM”)
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Giá trị phân bổ 
- VND
-Dự phòng 
-suy giảm giá trị 
-VND
-Giá trị phân bổ 
-VND
-Dự phòng 
-suy giảm giá trị 
-VND
+Giá trị phân bổ
+Dự phòng
+suy giảm giá trị
+Giá trị phân bổ
+Dự phòng
+suy giảm giá trị
 Tiền gửi có kỳ hạn
-642.329.000.000
--
-16.000.000.000
--
 Trái phiếu doanh nghiệp
-5.000.000.000
--
-5.000.000.000
--
 Tiền gửi ký quỹ cho chứng quyền
-106.390.000.000
--
-5.000.000.000
--
 Chứng chỉ tiền gửi
--
--
-80.000.000.000
--
-753.719.000.000
--
-106.000.000.000
--
-Chi tiết các khoản đầu tư nắm giữ đến ngày đáo hạn tại ngày 31 tháng 12 năm 2021 như sau: 
+Chi tiết các khoản đầu tư nắm giữ đến ngày đáo hạn tại ngày 31 tháng 12 năm 2021 như sau:
 Tổ chức phát hành/đối tác
-Ngày phát 
+Ngày phát
 hành
-Ngày 
+Ngày
 đáo hạn
 Mệnh giá
 Lãi suất/năm
 Tiền gửi ngân hàng có kỳ hạn
-642.329.000.000
 Ngân hàng nước ngoài (*)
-18.11.2021
-30.11.2022
-625.625.000.000
-3,2%
 Ngân hàng nước ngoài (*)
-12.5.2021
-12.5.2022
-16.704.000.000
-4,4%
 Trái phiếu doanh nghiệp
-5.000.000.000
-Ngân hàng thương mại 
+Ngân hàng thương mại
 trong nước
-11.9.2020
-11.9.2027
-5.000.000.000
-8,5%
-Tiền gửi ký quỹ cho  
+Tiền gửi ký quỹ cho
 chứng quyền (**)
-106.390.000.000
-Ngân hàng trong nước 
-(*)
-(*)
-106.390.000.000
-3,5% - 3,9%
-(*)	 Khoản tiền gửi này được dùng làm tài sản đảm bảo cho khoản vay của Công ty (Thuyết minh 3.9(i)). 
-(**)	 Đây là tiền gửi ký quỹ tại ngân hàng lưu ký nhằm đảm bảo thanh toán cho chứng quyền có bảo đảm do Công ty 
-	
+Ngân hàng trong nước
+(*)	 Khoản tiền gửi này được dùng làm tài sản đảm bảo cho khoản vay của Công ty (Thuyết minh 3.9(i)).
+(**)	 Đây là tiền gửi ký quỹ tại ngân hàng lưu ký nhằm đảm bảo thanh toán cho chứng quyền có bảo đảm do Công ty
 phát hành có thời gian đáo hạn trên 3 tháng.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-166
-167
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.2	
 Danh mục tài sản tài chính (tiếp theo)
-(c)	
-Tài sản tài chính sẵn sàng để bán (“AFS”)
-Tại ngày 31 tháng 12 năm 2021
-Chênh lệch đánh giá
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Giá gốc 
-VND
-Chênh lệch tăng 
-VND
-Chênh lệch giảm 
-VND
-Cổ phiếu niêm yết và 
-cổ phiếu giao dịch trên 
-UPCoM
-2.236.662.240.537
-1.851.962.817.056
-(15.005.867.294)
-4.073.619.190.299
-Tài sản cơ sở cho hoạt 
-động phòng ngừa rủi ro 
-của chứng quyền
-300.376.493.448
-61.669.518.833
-(4.159.359.281)
-357.886.653.000
-Cổ phiếu chưa niêm yết 
-và chưa đăng ký  
-giao dịch
-704.704.425.713 
-187.600.000.000 
--
-892.304.425.713 
-Phản ánh theo giá gốc (*)
-296.464.425.713 
--
--
-296.464.425.713
-Phản ánh theo giá trị 
-hợp lý (**)
-408.240.000.000
-187.600.000.000
--
-595.840.000.000
-Tổng cộng
-3.241.743.159.698 
-2.101.232.335.889 
-(19.165.226.575) 
-5.323.810.269.012 
-Tại ngày 31 tháng 12 năm 2020
-Chênh lệch đánh giá
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Giá gốc 
-VND
-Chênh lệch tăng 
-VND
-Chênh lệch giảm 
-VND
-Cổ phiếu niêm yết và 
-cổ phiếu giao dịch trên 
-UPCoM
-1.758.078.325.813
-533.463.647.633
-(94.476.250)
-2.291.447.497.196
-Cổ phiếu chưa niêm yết 
-và chưa đăng ký  
-giao dịch
-421.210.055.713
--
--
-421.210.055.713
-Phản ánh theo giá gốc (*)
-421.210.055.713
--
--
-421.210.055.713
-Tổng cộng
-2.179.288.381.526
-533.463.647.633
-(94.476.250)
-2.712.657.552.909
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Giá gốc 
-VND
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Giá gốc 
-VND
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Cổ phiếu niêm yết và 
-cổ phiếu giao dịch 
-trên UPCoM
-2.236.662.240.537 
-4.073.619.190.299 
-1.758.078.325.813
-2.291.447.497.196
-CTCP Đầu tư và Kinh 
-doanh nhà Khang 
-Điền (KDH)
-452.567.246.223
-534.020.653.200
--
--
-Công ty Cổ phần Sữa 
-Quốc tế (IDP)
-440.985.822.375 
-1.290.905.866.000 
-440.985.822.375
-440.985.822.375
-Công ty Cổ phần Đầu 
-tư Thế Giới Di Động 
-(MWG)
-150.542.126.824
-388.664.622.900
-77.753.188.852 
-229.717.891.400 
-CTCP Tập đoàn Hà Đô 
-(HDG) 
-325.705.938.800 
-786.568.251.000
--
--
-Cổ phiếu khác
-866.861.106.315
-1.073.459.797.199 
-1.239.339.314.586 
-1.620.743.783.421 
-Tài sản cơ sở cho 
-hoạt động phòng 
-ngừa rủi ro của 
-chứng quyền
-300.376.493.448 
-357.886.653.000 
--
--
-CTCP Đầu tư và Kinh 
-doanh nhà Khang 
-Điền (KDH)
-51.286.089.496
-60.516.600.000
--
--
-Công ty Cổ phần Đầu 
-tư Thế Giới Di Động 
-(MWG)
-25.750.694.140 
-66.482.280.000 
--
--
-Cổ phiếu khác
-223.339.709.812 
-230.887.773.000 
--
--
-Cổ phiếu chưa niêm 
-yết và chưa đăng ký 
-giao dịch
-704.704.425.713 
-892.304.425.713 
-421.210.055.713
-421.210.055.713
-Công ty Cổ phần 
-Thanh toán Quốc gia 
-Việt Nam (NAPAS) (**)
-408.240.000.000 
-595.840.000.000 
-286.040.000.000
-286.040.000.000
-Công ty Tài chính 
-TNHH Ngân hàng Việt 
-Nam Thịnh Vượng 
-SMBC (*)
-161.294.370.000
-161.294.370.000
--
--
-Cổ phiếu khác (*)
-135.170.055.713 
-135.170.055.713
-135.170.055.713
-135.170.055.713
-Tổng cộng
-3.241.743.159.698 
-5.323.810.269.012 
-2.179.288.381.526
-2.712.657.552.909
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-168
-169
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
-THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.2	
-Danh mục tài sản tài chính (tiếp theo)
-(c)	
 Tài sản tài chính sẵn sàng để bán (“AFS”) (tiếp theo)
-(*)	Các công cụ tài chính này không có giá niêm yết trên thị trường hoạt động và giá trị hợp lý của chúng không thể 
+(*)	Các công cụ tài chính này không có giá niêm yết trên thị trường hoạt động và giá trị hợp lý của chúng không thể
 xác định một cách đáng tin cậy, nên được phản ánh theo giá gốc.
-(**)	Khoản đầu tư vào cổ phiếu NAPAS được định giá theo mô hình định giá nội bộ của Công ty sử dụng phương pháp 
-hệ số thị trường. Giá trị hợp lý được xác định là giá trị trung bình đơn thuần của hai kết quả ước tính theo phương 
+(**)	Khoản đầu tư vào cổ phiếu NAPAS được định giá theo mô hình định giá nội bộ của Công ty sử dụng phương pháp
+hệ số thị trường. Giá trị hợp lý được xác định là giá trị trung bình đơn thuần của hai kết quả ước tính theo phương
 pháp hệ số thu nhập (PE) và phương pháp hệ số sổ sách (PB).
-Giá trị các cổ phiếu trong danh mục tài sản tài chính AFS được dùng làm tài sản đảm bảo cho các khoản vay ngân 
-hàng ngắn hạn tại ngày 31 tháng 12 năm 2021 được trình bày ở Thuyết minh 3.8. 
+Giá trị các cổ phiếu trong danh mục tài sản tài chính AFS được dùng làm tài sản đảm bảo cho các khoản vay ngân
+hàng ngắn hạn tại ngày 31 tháng 12 năm 2021 được trình bày ở Thuyết minh 3.8.
 3.3	 Các khoản cho vay và dự phòng suy giảm giá trị
-(a)	
 Các khoản cho vay
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Giá trị 
-phân bổ 
-VND
-Dự phòng 
-suy giảm giá trị 
-VND
-Giá trị 
-phân bổ 
-VND
-Dự phòng 
-suy giảm giá trị 
-VND
-Hợp đồng giao dịch  
+Giá trị
+phân bổ
+Dự phòng
+suy giảm giá trị
+Giá trị
+phân bổ
+Dự phòng
+suy giảm giá trị
+Hợp đồng giao dịch
 ký quỹ (*)
-7.515.786.303.555
-(2.169.825.587)
-3.758.105.223.519
-(2.384.027.974)
-Tạm ứng giao dịch 
-chứng khoán 
-185.450.827.924
--
-123.537.494.653
--
-7.701.237.131.479
-(2.169.825.587)
-3.881.642.718.172
-(2.384.027.974)
-(*)	Chứng khoán của khách hàng tham gia vào giao dịch ký quỹ được Công ty nắm giữ như tài sản đảm bảo cho 
-khoản vay. Giá trị thị trường của tổng tài sản đảm bảo tại ngày 31 tháng 12 năm 2021 là 48.721.316.206.750 Đồng 
-(tại ngày 31 tháng 12 năm 2020: 17.980.801.537.100 Đồng).
-(b)	
+Tạm ứng giao dịch
+chứng khoán
+(*)	Chứng khoán của khách hàng tham gia vào giao dịch ký quỹ được Công ty nắm giữ như tài sản đảm bảo cho
+khoản vay. Giá trị thị trường của tổng tài sản đảm bảo tại ngày 31 tháng 12 năm 2021 là 48.721.316.206.750 Đồng
 Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp
 Biến động số dư dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp trong năm như sau:
-Số dư 
-đầu năm 
-VND
-Trích lập 
-trong năm 
-VND
-Hoàn nhập 
-trong năm 
-VND
-Số dư 
- cuối năm 
-VND
-Hợp đồng giao dịch 
-ký quỹ 
-2.384.027.974
--
-(214.202.387)
-2.169.825.587
-3.4	 Các khoản phải thu 
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Giá trị ghi sổ 
-VND
-Giá trị dự phòng 
-phải thu khó đòi 
-VND
-Giá trị ghi sổ 
-VND
-Giá trị dự phòng 
-phải thu khó đòi 
-VND
+Số dư
+đầu năm
+Trích lập
+trong năm
+Hoàn nhập
+trong năm
+Số dư
+cuối năm
+Hợp đồng giao dịch
+ký quỹ
+3.4	 Các khoản phải thu
+Giá trị ghi sổ
+Giá trị dự phòng
+phải thu khó đòi
+Giá trị ghi sổ
+Giá trị dự phòng
+phải thu khó đòi
 Phải thu bán các tài sản tài chính
-Phải thu bán chứng 
+Phải thu bán chứng
 khoán niêm yết
-187.029.585.000 
--
-200.542.089.400
--
-Phải thu bán chứng 
+Phải thu bán chứng
 quyền có bảo đảm
-1.265.222.000 
--
-308.525.900
--
-188.294.807.000 
--
-200.850.615.300
--
 Phải thu và dự thu cổ tức, tiền lãi từ các tài sản tài chính
-Dự thu cổ tức, tiền lãi 
+Dự thu cổ tức, tiền lãi
 chưa đến ngày nhận
- 47.852.123.094
--
-20.948.002.265
--
 Phải thu các dịch vụ công ty chứng khoán cung cấp
-Phải thu phí dịch vụ 
+Phải thu phí dịch vụ
 cung cấp
-30.823.037.084
-1.928.450.000
-14.833.156.124
-1.928.450.000
 Phải thu khác
-Phải thu tiền mua 
-chứng khoán theo hợp 
-đồng môi giới 
--
--
-5.939.376.000
--
-266.969.967.178
-1.928.450.000 
-242.571.149.689
-1.928.450.000
+Phải thu tiền mua
+chứng khoán theo hợp
 Chi tiết biến động dự phòng phải thu khó đòi trong năm như sau:
 Giá trị phải thu khó đòi
 Dự phòng
-Tại ngày 
-đầu năm 
-VND
-Tại ngày 
-cuối năm 
-VND
-Tại ngày 
-đầu năm 
-VND
-Trích lập 
-trong năm 
-VND
-Hoàn nhập 
-trong năm 
-VND
-Tại ngày 
-cuối năm 
-VND
-Phải thu phí dịch vụ cung cấp
-1.928.450.000
-1.928.450.000
-1.928.450.000
--
--
-1.928.450.000
-Công ty TNHH Besra Việt Nam
-582.450.000
-582.450.000
-582.450.000
--
--
-582.450.000
-Công ty Cổ phần Thực phẩm QVD 
-Đồng Tháp
-462.000.000
-462.000.000
-462.000.000
--
--
-462.000.000
-Các khách hàng khác
-884.000.000
-884.000.000
-884.000.000
--
--
-884.000.000
-Tổng cộng
-1.928.450.000
-1.928.450.000
-1.928.450.000
--
--
-1.928.450.000
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-170
-171
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
-THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.5	 Trả trước cho người bán
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Đặt cọc mua chứng khoán chưa niêm yết
-18.049.315.068
-18.049.315.068
-Khác
-2.115.513.031 
-698.306.388
-20.164.828.099 
-18.747.621.456
-3.6	
-Tài sản cố định
-(a)	
-Tài sản cố định hữu hình	
-Phương tiện 
-vận chuyển 
-VND
-Thiết bị 
-văn phòng 
-VND
-Tổng cộng 
-VND
-Nguyên giá
-Tại ngày 1.1.2021
-4.785.892.156
-51.329.248.640
-56.115.140.796
-Mua trong năm
--
- 3.092.260.910
-3.092.260.910
-Chuyển từ chi phí xây dựng cơ bản 
-dở dang (Thuyết minh 3.6(c))
-2.952.394.545
-223.910.909
-3.176.305.454
-Tại ngày 31.12.2021
-7.738.286.701
-54.645.420.459
-62.383.707.160
-Khấu hao lũy kế
-Tại ngày 1.1.2021
-2.386.348.910
-45.693.843.973
-48.080.192.883
-Khấu hao trong năm
-892.722.068
-3.450.017.788
-4.342.739.856
-Tại ngày 31.12.2021
-3.279.070.978
-49.143.861.761
-52.422.932.739
-Giá trị còn lại
-Tại ngày 1.1.2021
-2.399.543.246
-5.635.404.667
-8.034.947.913
-Tại ngày 31.12.2021
-4.459.215.723
-5.501.558.698
-9.960.774.421
-Tại ngày 31 tháng 12 năm 2021, Công ty không có các cam kết về việc mua/bán tài sản cố định có giá trị lớn chưa 
-thực hiện.
-Nguyên giá tài sản cố định hữu hình cuối năm đã khấu hao hết nhưng còn sử dụng là 47.216 triệu Đồng (tại ngày 31 
-tháng 12 năm 2020: 42.731 triệu Đồng).
-(b)	
-Tài sản cố định vô hình
-Phần mềm vi tính 
-VND
-Nguyên giá
-Tại ngày 1.1.2021 và ngày 31.12.2021
-49.981.431.542
-Khấu hao lũy kế
-Tại ngày 1.1.2021
-43.632.177.943
-Khấu hao trong năm
-3.154.202.596
-Tại ngày 31.12.2021
-46.786.380.539
-Giá trị còn lại
-Tại ngày 1.1.2021
-6.349.253.599
-Tại ngày 31.12.2021
-3.195.051.003
-Tại ngày 31 tháng 12 năm 2021, Công ty không có các cam kết về việc mua/bán tài sản cố định có giá trị lớn chưa 
-thực hiện.
-Nguyên giá tài sản cố định vô hình cuối năm đã khấu hao hết nhưng còn sử dụng là 40.541 triệu Đồng 
-(tại ngày 31 tháng 12 năm 2020: 40.487 triệu Đồng).
-(c)	
-Chi phí xây dựng cơ bản dở dang
-Biến động chi phí xây dựng cơ bản dở dang trong năm như sau:
-Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Số dư đầu năm
-5.649.600.000
-6.939.777.881
-Tăng trong năm
-3.887.381.898
-9.196.474.820
-Kết chuyển vào tài sản cố định hữu hình  
-(Thuyết minh 3.6(a))
-(3.176.305.454)
-(2.988.952.701)
-Kết chuyển vào tài sản cố định vô hình  
-(Thuyết minh 3.6(b))
--
-(7.497.700.000)
-Kết chuyển vào chi phí trả trước 
-(551.076.444)
--
-Số dư cuối năm
-5.809.600.000
-5.649.600.000
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-172
-173
-Thông điệp 
+đầu năm
+Tại ngày
+cuối năm
+Tại ngày
+đầu năm
+Trích lập
+trong năm
+Hoàn nhập
+trong năm
+Tại ngày
+cuối năm
+Phải thu phí dịch vụ cung cấp
+Công ty TNHH Besra Việt Nam
+Công ty Cổ phần Thực phẩm QVD
+Các khách hàng khác
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.7	
 Tài sản khác
-(a)	
 Tài sản ngắn hạn khác
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Tiền ký quỹ tự doanh chứng khoán phái sinh (*)
-150.714.917.648
-91.333.803.000
-(*)	
-Đây là tiền ký quỹ của Công ty cho giao dịch tự doanh chứng khoán phái sinh theo Quyết định 96/QĐ-VSD 
+Đây là tiền ký quỹ của Công ty cho giao dịch tự doanh chứng khoán phái sinh theo Quyết định 96/QĐ-VSD
 ngày 23 tháng 3 năm 2017 của Trung tâm Lưu ký Chứng khoán Việt Nam.
-(b)	
 Tiền nộp Quỹ hỗ trợ thanh toán
-Theo Quyết định 45/QĐ-VSD ngày 22 tháng 5 năm 2014 của Trung tâm Lưu ký Chứng khoán Việt Nam, Công ty phải 
-ký quỹ với số tiền ban đầu là 120 triệu Đồng tại Trung tâm Lưu ký Chứng khoán Việt Nam và hàng năm đóng thêm số 
+Theo Quyết định 45/QĐ-VSD ngày 22 tháng 5 năm 2014 của Trung tâm Lưu ký Chứng khoán Việt Nam, Công ty phải
+ký quỹ với số tiền ban đầu là 120 triệu Đồng tại Trung tâm Lưu ký Chứng khoán Việt Nam và hàng năm đóng thêm số
 tiền là 0,01% trên tổng giá trị chứng khoán đã giao dịch và môi giới trong năm trước nhưng không quá 2,5 tỷ Đồng/
-năm. Mức đóng góp tối đa vào Quỹ hỗ trợ thanh toán là 20 tỷ đồng. 
+năm. Mức đóng góp tối đa vào Quỹ hỗ trợ thanh toán là 20 tỷ đồng.
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Số dư đầu năm
-21.169.262.072
-20.000.000.000
-Tiền nộp bổ sung 
--
--
+Tiền nộp bổ sung
 Tiền lãi phân bổ trong năm
-1.422.180.960
-1.169.262.072
 Số dư cuối năm
-22.591.443.032
-21.169.262.072
-(c)	
 Tài sản dài hạn khác
-Đây là tiền nộp Quỹ bù trừ giao dịch chứng khoán phái sinh. Theo Quy chế Quản lý và Sử dụng Quỹ bù trừ giao dịch 
-chứng khoán phái sinh ban hành kèm theo Quyết định số 97/QĐ-VSD ngày 23 tháng 3 năm 2017 của Trung tâm Lưu 
+Đây là tiền nộp Quỹ bù trừ giao dịch chứng khoán phái sinh. Theo Quy chế Quản lý và Sử dụng Quỹ bù trừ giao dịch
+chứng khoán phái sinh ban hành kèm theo Quyết định số 97/QĐ-VSD ngày 23 tháng 3 năm 2017 của Trung tâm Lưu
 ký Chứng khoán Việt Nam, mức đóng góp tối thiểu ban đầu là 10 tỷ Đồng đối với thành viên bù trừ trực tiếp.
 3.8	 Tài sản đã cầm cố, thế chấp
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Các khoản đầu tư nắm giữ đến ngày đáo hạn
 Tiền gửi có kỳ hạn (Thuyết minh 3.2(b))
-642.329.000.000
-16.000.000.000
 Cổ phiếu niêm yết và cổ phiếu giao dịch trên UPCoM
 Trong danh mục FVTPL (Thuyết minh 3.2(a))
--
-163.225.000.000
 Trong danh mục AFS (Thuyết minh 3.2(c))
-2.128.160.000.000
-855.800.000.000
-2.770.489.000.000
-1.035.025.000.000
 Các tài sản đã cầm cố, thế chấp để đảm bảo các khoản vay ngân hàng ngắn hạn của Công ty (Thuyết minh 3.9).
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.9	 Các khoản vay và trái phiếu phát hành 
+3.9	 Các khoản vay và trái phiếu phát hành
 Tổng hợp tình hình tăng giảm các khoản vay trong năm như sau:
-Số dư đầu năm 
-VND
-Số vay trong năm 
-VND
-Số trả trong năm 
-VND
-Số dư cuối năm 
-VND
+Số dư đầu năm
+Số vay trong năm
+Số trả trong năm
+Số dư cuối năm
 Vay ngắn hạn
-Vay ngân hàng nước ngoài 
-(i)
--
-2.260.000.000.000
-2.260.000.000.000
-Vay ngân hàng trong nước
-(ii)
-400.000.000.000
-3.380.000.000.000
-(2.780.000.000.000)
-1.000.000.000.000
 Vay ngân hàng nước ngoài
-(iii)
-931.200.000.000
-928.616.600.000
-(938.836.600.000)
-920.980.000.000
 Vay ngân hàng trong nước
-(iv)
-350.000.000.000
-1.660.000.000.000
-(1.510.000.000.000)
-500.000.000.000
+Vay ngân hàng nước ngoài
 Vay ngân hàng trong nước
-(v)
--
-1.700.000.000.000
-(1.200.000.000.000)
-500.000.000.000
 Vay ngân hàng trong nước
-(vi)
-499.000.000.000
-2.689.000.000.000
-(2.759.000.000.000)
-429.000.000.000
 Vay ngân hàng trong nước
-(vii)
-160.000.000.000
-670.000.000.000
-(530.000.000.000)
-300.000.000.000
+Vay ngân hàng trong nước
 Vay ngân hàng nước ngoài
 (viiii)
-140.730.000.000
-138.300.000.000
-(140.730.000.000)
-138.300.000.000
-Vay ngân hàng nước ngoài 
-(ix)
-115.200.000.000
-459.890.000.000
-(460.690.000.000)
-114.400.000.000
+Vay ngân hàng nước ngoài
 Vay ngân hàng trong nước
-(x)
-100.000.000.000
-453.000.000.000
-(453.000.000.000)
-100.000.000.000
 Vay ngân hàng trong nước
-(xi)
--
-500.000.000.000
-(400.000.000.000)
-100.000.000.000
 Tổng vay ngắn hạn
-2.696.130.000.000
-14.838.806.600.000
-(11.172.256.600.000)
-6.362.680.000.000
 Trái phiếu phát hành
-(xii)
-668.320.000.000
-1.752.760.000.000
-(457.010.000.000)
-1.964.070.000.000
 Tổng
-3.364.450.000.000
-16.591.566.600.000
-(11.629.266.600.000)
-8.326.750.000.000
-(i)	
-Đây là khoản vay hợp vốn từ các ngân hàng nước ngoài với hạn mức tín dụng là 150 triệu đô la Mỹ có hiệu lực đến ngày 30 tháng 11 năm 2022. Công ty 
-đã thực hiện phòng ngừa rủi ro tỷ giá với 100% dư nợ đi vay thông qua hợp đồng mua bán ngoại tệ kỳ hạn với một ngân hàng thương mại trong nước. Kỳ 
-hạn phòng ngừa tương đương kỳ hạn của khoản vay. Khoản vay được đảm bảo bằng tiền gửi có kỳ hạn tại ngân hàng cho vay (Thuyết minh 3.8). 
-(ii)	
+Đây là khoản vay hợp vốn từ các ngân hàng nước ngoài với hạn mức tín dụng là 150 triệu đô la Mỹ có hiệu lực đến ngày 30 tháng 11 năm 2022. Công ty
+đã thực hiện phòng ngừa rủi ro tỷ giá với 100% dư nợ đi vay thông qua hợp đồng mua bán ngoại tệ kỳ hạn với một ngân hàng thương mại trong nước. Kỳ
+hạn phòng ngừa tương đương kỳ hạn của khoản vay. Khoản vay được đảm bảo bằng tiền gửi có kỳ hạn tại ngân hàng cho vay (Thuyết minh 3.8).
 Đây là các khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.000 tỷ Đồng có hiệu lực đến ngày 25 tháng 2 năm 2022.
-(iii)	
-Đây là khoản vay hợp vốn từ các ngân hàng nước ngoài với hạn mức tín dụng là 40 triệu đô la Mỹ có hiệu lực đến ngày 13 tháng 5 năm 2023. Công ty đã 
-thực hiện phòng ngừa rủi ro tỷ giá với 75% dư nợ đi vay thông qua hợp đồng hoán đổi ngoại tệ với các ngân hàng thương mại trong nước. Kỳ hạn hoán 
+Đây là khoản vay hợp vốn từ các ngân hàng nước ngoài với hạn mức tín dụng là 40 triệu đô la Mỹ có hiệu lực đến ngày 13 tháng 5 năm 2023. Công ty đã
+thực hiện phòng ngừa rủi ro tỷ giá với 75% dư nợ đi vay thông qua hợp đồng hoán đổi ngoại tệ với các ngân hàng thương mại trong nước. Kỳ hạn hoán
 đổi tương đương kỳ hạn của khoản vay. Khoản vay được đảm bảo bằng tiền gửi có kỳ hạn tại ngân hàng cho vay (Thuyết minh 3.8).
-(iv)	
-Đây là các khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.000 tỷ Đồng có hiệu lực đến ngày 9 tháng 4 năm 2022, bao gồm hạn mức 
-cho vay tín chấp không có tài sản đảm bảo là 800 tỷ Đồng và hạn mức cho vay có tài sản đảm bảo là 200 tỷ Đồng. Dư nợ tại ngày 31 tháng 12 năm 2021 
+Đây là các khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.000 tỷ Đồng có hiệu lực đến ngày 9 tháng 4 năm 2022, bao gồm hạn mức
+cho vay tín chấp không có tài sản đảm bảo là 800 tỷ Đồng và hạn mức cho vay có tài sản đảm bảo là 200 tỷ Đồng. Dư nợ tại ngày 31 tháng 12 năm 2021
 nằm trong hạn mức tín chấp nên không có tài sản đảm bảo.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-174
-175
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.9	
 Các khoản vay và trái phiếu phát hành (tiếp theo)
-(v)	
-Đây là các khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.000 tỷ Đồng có hiệu lực đến ngày 
-25 tháng 3 năm 2022, bao gồm hạn mức tín chấp là 800 tỷ Đồng và hạn mức có tài sản đảm bảo là 200 tỷ Đồng. 
+Đây là các khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.000 tỷ Đồng có hiệu lực đến ngày
+25 tháng 3 năm 2022, bao gồm hạn mức tín chấp là 800 tỷ Đồng và hạn mức có tài sản đảm bảo là 200 tỷ Đồng.
 Khoản vay được đảm bảo bằng cổ phiếu trong danh mục tài sản tài chính AFS của Công ty (Thuyết minh 3.8).
-(vi)	
-Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.100 tỷ Đồng có hiệu lực đến 
-ngày 23 tháng 8 năm 2022, bao gồm hạn mức tín chấp là 900 tỷ Đồng và hạn mức có tài sản đảm bảo là 200 
-tỷ Đồng. Khoản vay được đảm bảo bằng cổ phiếu trong danh mục tài sản tài chính FVTPL và AFS của Công ty 
+Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 1.100 tỷ Đồng có hiệu lực đến
+ngày 23 tháng 8 năm 2022, bao gồm hạn mức tín chấp là 900 tỷ Đồng và hạn mức có tài sản đảm bảo là 200
+tỷ Đồng. Khoản vay được đảm bảo bằng cổ phiếu trong danh mục tài sản tài chính FVTPL và AFS của Công ty
 (Thuyết minh 3.8).
-(vii)	
-Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 300 tỷ Đồng có hiệu lực đến 
-ngày 21 tháng 12 năm 2021 và đang trong quá trình gia hạn. Các khoản vay này được đảm bảo bằng cổ phiếu 
-trong danh mục tài sản tài chính AFS của Công ty (Thuyết minh 3.8). 
-(viii)	 Đây là khoản vay tín chấp từ một ngân hàng nước ngoài với hạn mức tín dụng là 6 triệu đô la Mỹ cấp 
+Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 300 tỷ Đồng có hiệu lực đến
+ngày 21 tháng 12 năm 2021 và đang trong quá trình gia hạn. Các khoản vay này được đảm bảo bằng cổ phiếu
+trong danh mục tài sản tài chính AFS của Công ty (Thuyết minh 3.8).
+(viii)	 Đây là khoản vay tín chấp từ một ngân hàng nước ngoài với hạn mức tín dụng là 6 triệu đô la Mỹ cấp
 ngày 11 tháng 3 năm 2019 và tự động gia hạn sau mỗi năm kể từ ngày ký kết.
-(ix)	
-Đây là khoản vay tín chấp từ một ngân hàng nước ngoài với hạn mức tín dụng là 5 triệu đô la Mỹ cấp 
+Đây là khoản vay tín chấp từ một ngân hàng nước ngoài với hạn mức tín dụng là 5 triệu đô la Mỹ cấp
 ngày 3 tháng 10 năm 2017 và tự động gia hạn sau mỗi năm kể từ ngày ký kết.
-(x)	
-Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 500 tỷ Đồng có hiệu lực đến 
-ngày 31 tháng 3 năm 2022. 
-(xi)	
-Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 300 tỷ Đồng có hiệu lực đến 
+Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 500 tỷ Đồng có hiệu lực đến
+ngày 31 tháng 3 năm 2022.
+Đây là khoản vay từ một ngân hàng trong nước với hạn mức tín dụng là 300 tỷ Đồng có hiệu lực đến
 ngày 17 tháng 6 năm 2022.
-(xii)	
-Đây là trái phiếu ghi danh không chuyển đổi do Công ty phát hành riêng lẻ cho nhà đầu tư là cá nhân, tổ chức 
-trong và ngoài nước theo các nghị quyết của Hội đồng Quản trị. Các trái phiếu có mệnh giá 10.000.000 Đồng 
-hoặc 100.000.000 Đồng Việt Nam, có thời hạn từ 1 đến 2 năm kể từ ngày phát hành. Trái chủ có quyền yêu cầu 
+Đây là trái phiếu ghi danh không chuyển đổi do Công ty phát hành riêng lẻ cho nhà đầu tư là cá nhân, tổ chức
+trong và ngoài nước theo các nghị quyết của Hội đồng Quản trị. Các trái phiếu có mệnh giá 10.000.000 Đồng
+hoặc 100.000.000 Đồng Việt Nam, có thời hạn từ 1 đến 2 năm kể từ ngày phát hành. Trái chủ có quyền yêu cầu
 Công ty mua lại trước ngày đáo hạn. Lãi suất trái phiếu áp dụng tùy thuộc vào thời gian nắm giữ của trái chủ.
-	 	
-Tại ngày 31 tháng 12 năm 2021, Công ty không có trái phiếu phát hành cho trái chủ là bên liên quan (tại ngày 31 
+Tại ngày 31 tháng 12 năm 2021, Công ty không có trái phiếu phát hành cho trái chủ là bên liên quan (tại ngày 31
 tháng 12 năm 2020: Công ty không có trái phiếu phát hành cho trái chủ là bên liên quan)
-Toàn bộ các khoản vay và trái phiếu phát hành của Công ty nhằm mục đích bổ sung vốn lưu động cho hoạt động kinh 
-doanh. Các khoản vay và trái phiếu phát hành chịu lãi suất từ 3,02% đến 11% một năm tùy thuộc vào thời điểm giải 
+Toàn bộ các khoản vay và trái phiếu phát hành của Công ty nhằm mục đích bổ sung vốn lưu động cho hoạt động kinh
+doanh. Các khoản vay và trái phiếu phát hành chịu lãi suất từ 3,02% đến 11% một năm tùy thuộc vào thời điểm giải
 ngân/phát hành (2020: từ 3,02% đến 11% một năm).
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản vay hoặc trái phiếu phát 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản vay hoặc trái phiếu phát
 hành nào đến hạn nhưng chưa thanh toán.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được
 các khoản này.
 3.10	 Phải trả hoạt động giao dịch chứng khoán
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Phải trả chứng quyền có bảo đảm (Thuyết minh 5.2(b))
-58.858.728.000
-7.332.770.800
 Phải trả cho Sở Giao dịch chứng khoán TP. Hồ Chí Minh
-18.797.160.047
-9.699.468.529
 Phải trả cho Sở Giao dịch chứng khoán Hà Nội
-1.005.210.960
-853.711.798
 Phải trả cho Trung tâm Lưu ký Chứng khoán
-920.743.295
-988.649.090
-79.581.842.302 
-18.874.600.217
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản phải trả nào đến hạn nhưng 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản phải trả nào đến hạn nhưng
 chưa thanh toán.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được
 các khoản phải trả này.
 3.11	 Phải trả người bán ngắn hạn
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Phải trả mua chứng khoán qua các sở giao dịch 
-517.001.230.000
-95.298.300.000
-Phải trả mua chứng khoán chưa niêm yết 
-66.780.000.000
--
+Phải trả mua chứng khoán qua các sở giao dịch
+Phải trả mua chứng khoán chưa niêm yết
 Phải trả VSD - lỗ tự doanh chứng khoán phái sinh
-2.977.730.000
-4.714.590.000
 Phải trả mua hàng hóa và dịch vụ
-86.368.020
-83.736.804
 Phải trả mua chứng quyền có bảo đảm
-348.263.000
-17.231.400
-587.193.591.020
-100.113.858.204
-Công ty không có khoản phải trả người bán là các bên liên quan tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 
-năm 2020. 
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản phải trả nào đến hạn nhưng 
+Công ty không có khoản phải trả người bán là các bên liên quan tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có khoản phải trả nào đến hạn nhưng
 chưa thanh toán.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được
 các khoản phải trả này.
 3.12	 Người mua trả tiền trước ngắn hạn
 Số dư này chủ yếu bao gồm tiền ứng trước cho các dịch vụ cung cấp.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-176
-177
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
-THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-3.13	 Thuế và các khoản khác phải nộp Nhà nước
-Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Thuế thu nhập doanh nghiệp - hiện hành
-99.506.790.795
-67.713.185.433
-Thuế thu nhập cá nhân giao dịch chứng khoán nộp hộ khách hàng
-54.189.541.107
-24.548.798.650
-Thuế thu nhập cá nhân
-3.933.526.117
-1.584.580.331
-Thuế giá trị gia tăng
--
-2.008.852.473
-157.629.858.019
-95.855.416.887
-Tình hình biến động trong năm của thuế và các khoản khác phải nộp ngân sách Nhà nước như sau: 
-Tại ngày 
-1.1.2021 
-VND
-Số phát sinh 
-trong năm 
- VND
-Số chi trả 
-trong năm 
- VND
- Tại ngày 
-31.12.2021 
-VND
-Thuế thu nhập doanh 
-nghiệp - hiện hành
-67.713.185.433
-309.748.513.618
-(277.954.908.256)
-99.506.790.795
-Thuế thu nhập  
-cá nhân giao dịch 
-chứng khoán nộp hộ 
-khách hàng
-24.548.798.650
-355.410.975.551
-(325.770.233.094)
-54.189.541.107
-Thuế thu nhập  
-cá nhân
-1.584.580.331
-61.642.673.287
-(59.293.727.501)
-3.933.526.117
-Thuế GTGT hàng bán 
-nội địa
-2.008.852.473
-26.869.024.271
-(28.877.876.744)
--
-95.855.416.887
-753.671.186.727
-(691.896.745.595)
-157.629.858.019
-3.14	 Chi phí phải trả ngắn hạn
-Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Chi phí lãi vay
-64.249.022.318
-24.721.227.333
-Chi phí phải trả khác
-8.662.663.461
-5.099.298.346
-72.911.685.779
-29.820.525.679
-3.15	 Các khoản phải trả, phải nộp khác ngắn hạn
-Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Tạm ứng từ khách hàng (i)
--
-15.000.000.000
-Quỹ hoạt động của Hội đồng Quản trị (Thuyết minh 8(b))
-9.123.667.500
-10.932.367.500
-Cổ tức phải trả cho các cổ đông (ii)
-2.289.043.140
-1.612.265.940
-Các khoản phải trả, phải nộp khác 
-465.112.336
-140.022.470
-11.877.822.976
-27.684.655.910
-(i)	
-Đây là khoản tiền khách hàng tạm ứng cho Công ty theo các hợp đồng môi giới chứng khoán nhằm thanh toán 
-hộ các giao dịch chứng khoán của khách hàng. 
-(ii)	
-Chi tiết biến động cổ tức phải trả trong năm như sau: 
-Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Số dư đầu năm 
-1.612.265.940
-1.227.733.440
-Cổ tức bằng tiền công bố trong năm 
-730.800.000.000
-412.025.979.000
-Trong đó: 
-Cổ tức năm 2019 (Thuyết minh 7.1(i))
--
-246.425.979.000
-Cổ tức đợt 1 năm 2020 (Thuyết minh 7.1(iii))
--
-165.600.000.000
-Cổ tức đợt 2 năm 2020 (Thuyết minh 7.1(vi))
-331.200.000.000
--
-Cổ tức đợt 1 năm 2021 (Thuyết minh 7.1(vii))
-399.600.000.000
--
-Cổ tức đã trả
-(730.123.222.800)
-(411.641.446.500)
-Số dư cuối năm
-2.289.043.140
-1.612.265.940
-Số dư cổ tức chưa chi trả tại ngày báo cáo là do một số cổ đông chưa đến nhận.
-Ngoài khoản (ii), Công ty không có khoản phải trả nào đến hạn nhưng chưa thanh toán.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, Công ty không có nguy cơ không thanh toán được 
-các khoản phải trả này.	
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-178
-179
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
 3.16	 Thuế thu nhập hoãn lại
-Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù 
-trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải trả và khi thuế thu nhập hoãn lại có liên 
-quan đến cùng một cơ quan thuế. Chi tiết số liệu về bù trừ như sau: 
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù
+trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải trả và khi thuế thu nhập hoãn lại có liên
+quan đến cùng một cơ quan thuế. Chi tiết số liệu về bù trừ như sau:
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Tài sản thuế thu nhập hoãn lại được thu hồi  
+Tài sản thuế thu nhập hoãn lại được thu hồi
 trong vòng 12 tháng (i)
-433.965.117
-1.056.563.890
-Thuế thu nhập hoãn lại phải trả phải trả  
+Thuế thu nhập hoãn lại phải trả phải trả
 trong vòng 12 tháng (ii)
-(479.353.545.230)
-(128.118.052.275)
-(478.919.580.113) 
-(127.061.488.385)
-Biến động gộp của thuế thu nhập hoãn lại, được bù trừ các số dư liên quan đến cùng một cơ quan thuế, trong năm 
-như sau: 
+Biến động gộp của thuế thu nhập hoãn lại, được bù trừ các số dư liên quan đến cùng một cơ quan thuế, trong năm
+như sau:
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Số dư đầu năm
-(127.061.488.385)
-(102.259.071.579)
-Ghi nhận vào báo cáo kết quả hoạt động 
- (Thuyết minh 5.5)
-(42.118.504.142) 
-296.130.854
-Ghi nhận vào báo cáo tình hình biến động  
+Ghi nhận vào báo cáo kết quả hoạt động
+(Thuyết minh 5.5)
+Ghi nhận vào báo cáo tình hình biến động
 vốn chủ sở hữu
-(309.739.587.586) 
-(25.098.547.660)
 Số dư cuối năm
-(478.919.580.113) 
-(127.061.488.385)
-(i)	
-Chi tiết tài sản thuế thu nhập hoãn lại như sau: 
+Chi tiết tài sản thuế thu nhập hoãn lại như sau:
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Chênh lệch tạm thời được khấu trừ:
-Chênh lệch đánh giá lại chứng quyền có bảo đảm  
+Chênh lệch đánh giá lại chứng quyền có bảo đảm
 (Thuyết minh 5.2)
--
-2.898.791.483
 Dự phòng các khoản cho vay ký quỹ
-2.169.825.587
-2.384.027.974
-2.169.825.587
-5.282.819.457
 Tính ở thuế suất 20%:
-Tài sản thuế thu nhập hoãn lại được thu hồi  
+Tài sản thuế thu nhập hoãn lại được thu hồi
 trong vòng 12 tháng
-433.965.117
-1.056.563.890
-Tài sản thuế thu nhập hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cấn 
+Tài sản thuế thu nhập hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cấn
 trừ các khoản chênh lệch tạm thời đã phát sinh này.
-(ii)	
-Chi tiết thuế thu nhập hoãn lại phải trả như sau: 
+Chi tiết thuế thu nhập hoãn lại phải trả như sau:
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Chênh lệch tạm thời chịu thuế:
 Trích trước tiền lãi phải thu
-43.628.294.179
-19.239.673.718
-Chênh lệch đánh giá lại tài sản tài chính FVTPL  
+Chênh lệch đánh giá lại tài sản tài chính FVTPL
 (Thuyết minh 5.2)
-246.053.501.519
-87.981.416.271
-Chênh lệch đánh giá lại tài sản tài chính AFS  
+Chênh lệch đánh giá lại tài sản tài chính AFS
 (Thuyết minh 3.18)
-2.082.067.109.314
-533.369.171.383
-Chênh lệch đánh giá lại chứng quyền có bảo đảm  
+Chênh lệch đánh giá lại chứng quyền có bảo đảm
 (Thuyết minh 5.2)
-25.018.821.136
--
-2.396.767.726.148
-640.590.261.372
 Tính ở thuế suất 20%:
 Thuế thu nhập hoãn lại phải trả trong vòng 12 tháng
-479.353.545.230
-128.118.052.275
 3.17	 Vốn góp của chủ sở hữu
- (a)	
 Số lượng cổ phiếu
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Số lượng cổ phiếu đăng ký
-333.000.000
-165.600.000
 Số lượng cổ phiếu đã phát hành
-333.000.000
-165.600.000
 Số lượng cổ phiếu đã mua lại
--
--
-333.000.000
-165.600.000
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, toàn bộ cổ phiếu của Công ty là cổ phiếu phổ thông. 
-Mỗi cổ phiếu phổ thông có mệnh giá là 10.000 Đồng. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại 
-các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ 
-phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. 
-(b)	
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, toàn bộ cổ phiếu của Công ty là cổ phiếu phổ thông.
+Mỗi cổ phiếu phổ thông có mệnh giá là 10.000 Đồng. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại
+các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ
+phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty.
 Tình hình biến động của vốn cổ phần
 Năm tài chính kết thúc ngày
-31.12.2021
-31.12.2020
 Số lượng tại ngày đầu năm
-165.600.000
-164.349.986
 Cổ phiếu mới phát hành trong năm
-167.400.000
-1.200.000
 Cổ phiếu mua lại trong năm
--
-(71.000)
 Cổ phiếu quỹ tái phát hành trong năm
--
-121.014
 Số lượng tại ngày cuối năm
-333.000.000
-165.600.000
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-180
-181
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-3	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
 3.18	 Chênh lệch đánh giá tài sản theo giá trị hợp lý
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Chênh lệch đánh giá tài sản tài chính AFS theo giá trị hợp lý 
+Chênh lệch đánh giá tài sản tài chính AFS theo giá trị hợp lý
 (Thuyết minh 3.2(c))
-2.082.067.109.314
-533.369.171.383
-Điều chỉnh: thuế TNDN hoãn lại 
-(416.413.421.863)
-(106.673.834.277)
-1.665.653.687.451
-426.695.337.106
+Điều chỉnh: thuế TNDN hoãn lại
 Chi tiết biến động của chênh lệch đánh giá tài sản theo giá trị hợp lý trong năm như sau:
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
- VND
 Số dư đầu năm
-426.695.337.106
-326.301.146.470
 Ghi nhận vào vốn chủ sở hữu
-1.238.958.350.345
-100.394.190.636
 Số dư cuối năm
-1.665.653.687.451
-426.695.337.106
-3.19	
 Lợi nhuận chưa phân phối
 Chi tiết biến động của lợi nhuận chưa phân phối trong năm như sau:
-Số dư tại ngày 
-31.12.2020 
-VND
-Thu nhập 
-trong năm 
-VND
-Chia cổ tức 
-VND
-Trích lập 
-các quỹ 
-VND
-Tăng vốn điều lệ 
-từ lợi nhuận 
-chưa phân phối 
-VND
-Số dư tại ngày 
-31.12.2021 
-VND
-Lợi nhuận sau thuế 
-đã thực hiện 
-1.504.450.539.793
-1.349.926.617.034 (730.800.000.000)
-(134.992.661.704) (964.325.457.016)
-1.024.259.038.107
-Lợi nhuận sau thuế 
-chưa thực hiện
-68.066.099.831
-148.791.758.294
--
--
--
-216.857.858.125
-Lợi nhuận  
+Số dư tại ngày
+Thu nhập
+trong năm
+Chia cổ tức
+Trích lập
+các quỹ
+Tăng vốn điều lệ
+từ lợi nhuận
 chưa phân phối
-1.572.516.639.624 1.498.718.375.328 (730.800.000.000) (134.992.661.704) (964.325.457.016) 1.241.116.896.232
+Số dư tại ngày
+Lợi nhuận sau thuế
+đã thực hiện
+Lợi nhuận sau thuế
+chưa thực hiện
+Lợi nhuận
+chưa phân phối
 Chi tiết biến động của lợi nhuận chưa phân phối trong năm trước như sau:
-Số dư tại ngày 
-31.12.2019 
-VND
-Thu nhập 
-trong năm 
-VND
-Chia cổ tức 
-VND
-Trích lập 
-các quỹ 
-VND
-Số dư tại ngày 
-31.12.2020 
-VND
-Lợi nhuận sau thuế đã thực hiện 
-1.202.423.825.444
-761.656.425.183 (412.025.979.000)
-(47.603.731.834)
-1.504.450.539.793
+Số dư tại ngày
+Thu nhập
+trong năm
+Chia cổ tức
+Trích lập
+các quỹ
+Số dư tại ngày
+Lợi nhuận sau thuế đã thực hiện
 Lợi nhuận sau thuế chưa thực hiện
-60.810.235.593
-7.255.864.238
--
--
-68.066.099.831
 Lợi nhuận chưa phân phối
-1.263.234.061.037
-768.912.289.421 (412.025.979.000)
-(47.603.731.834)
-1.572.516.639.624
-4
 THÔNG TIN BỔ SUNG CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH
-4.1	
 Nợ khó đòi đã xử lý
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Hợp đồng giao dịch ký quỹ
-25.145.170.448
-25.145.170.448
-Nợ khó đòi đã xử lý liên quan đến số dư cho vay theo hợp đồng giao dịch ký quỹ trong năm 2011 mà Công ty không thu hồi được đầy đủ 
-do giá trị của tài sản đảm bảo giảm thấp hơn dư nợ. Công ty đã trích lập dự phòng toàn bộ phần nợ không thu hồi được trước khi xóa sổ 
-các số dư khó đòi này theo Nghị Quyết số 09/2015/QĐ-HTQT.VCSC  ngày 19 tháng 10 năm 2015 của Hội đồng Quản trị. 
+Nợ khó đòi đã xử lý liên quan đến số dư cho vay theo hợp đồng giao dịch ký quỹ trong năm 2011 mà Công ty không thu hồi được đầy đủ
+do giá trị của tài sản đảm bảo giảm thấp hơn dư nợ. Công ty đã trích lập dự phòng toàn bộ phần nợ không thu hồi được trước khi xóa sổ
+các số dư khó đòi này theo Nghị Quyết số 09/2015/QĐ-HTQT.VCSC  ngày 19 tháng 10 năm 2015 của Hội đồng Quản trị.
 4.2	 Ngoại tệ các loại
 Khoản mục tiền và các khoản tương đương tiền bao gồm các số dư ngoại tệ như sau:
 Tại ngày
-31.12.2021
-31.12.2020
 Theo nguyên tệ
 Đô la Mỹ
-10.335.519
-861.862
 Bảng Anh
-83.960
-61.356
 Euro
-19.215
-6.592
-Quy ra VND
 Đô la Mỹ
-234.256.245.326
-20.579.719.026
 Bảng Anh
-2.585.237.357
-1.872.154.971
 Euro
-476.524.405
-152.665.521
-237.318.007.088
-22.604.539.518
 4.3	 Cổ phiếu đang lưu hành
 Tại ngày
-31.12.2021
-31.12.2020
 Cổ phiếu phổ thông
 Số lượng lưu hành dưới 1 năm
-167.400.000
-1.200.000
 Số lượng lưu hành từ 1 năm trở lên
-165.600.000
-164.400.000
-333.000.000
-165.600.000
 4.4	 Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD của công ty chứng khoán
 Tại ngày
-31.12.2021
-31.12.2020
 Tài sản tài chính (số lượng chứng khoán)
 Giao dịch tự do chuyển nhượng
-76.829.064
-38.836.180
 Giao dịch cầm cố
-16.700.000
-26.650.000
 Chờ thanh toán
-5.053.300
-4.205.564
-98.582.364
-69.691.744
 4.5	 Tài sản tài chính chờ về của công ty chứng khoán
 Tại ngày
-31.12.2021
-31.12.2020
 Tài sản tài chính (số lượng chứng khoán)
 Chờ thanh toán
-5.226.586
-3.090.532
 4.6	 Tài sản tài chính chưa lưu ký tại VSD của công ty chứng khoán
 Tại ngày
-31.12.2021
-31.12.2020
 Tài sản tài chính (số lượng chứng khoán)
 Giao dịch tự do chuyển nhượng
-22.184.159
-20.394.381
 Hạn chế chuyển nhượng
-2.738.000
-2.738.000
-24.922.159
-23.132.381
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-182
-183
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-4	
-THÔNG TIN BỔ SUNG CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH (tiếp theo)
-4.7	 Chứng quyền có bảo đảm được phép phát hành nhưng chưa lưu hành 
-Tại ngày 31 tháng 12 năm 2021
-Mã chứng quyền
-Chứng khoán cơ sở
-Ngày phát hành
-Ngày đáo hạn
-Số lượng 
-chứng quyền được 
-phép phát hành
-Số lượng 
-chứng quyền 
-hủy đăng ký
-Số lượng 
-chứng quyền 
-đang lưu hành
-Số lượng 
-chứng quyền 
-chưa lưu hành
-FPT/VCSC/M/Au/T/A3
-CTCP FPT (FPT)
-09.07.2021
-10.01.2022
-1.000.000
--
-848.100
-151.900
-FPT/VCSC/M/Au/T/A4
-CTCP FPT (FPT)
-23.11.2021
-24.05.2022
-3.000.000
--
-27.200
-2.972.800
-HPG/VCSC/M/Au/T/A2
-CTCP Tập đoàn Hòa Phát (HPG)
-09.07.2021
-10.01.2022
-3.000.000
--
-2.988.100
-11.900
-HPG/VCSC/M/Au/T/A3
-CTCP Tập đoàn Hòa Phát (HPG)
-23.11.2021
-24.05.2022
-3.000.000
--
-918.100
-2.081.900
-KDH/VCSC/M/Au/T/A3
-CTCP Đầu tư và Kinh doanh nhà Khang Điền (KDH)
-09.08.2021
-10.02.2022
-3.000.000
--
-1.784.300
-1.215.700
-MBB/VCSC/M/Au/T/A2
-Ngân hàng Thương mại Cổ phần Quân đội (MBB)
-09.08.2021
-10.02.2022
-3.000.000
--
-2.164.800
-835.200
-MSN/VCSC/M/Au/T/A2
-CTCP Tập đoàn Masan (MSN)
-10.09.2021
-14.03.2022
-2.000.000
--
-1.790.500
-209.500
-MSN/VCSC/M/Au/T/A4
-CTCP Tập đoàn Masan (MSN)
-23.11.2021
-24.05.2022
-3.000.000
--
-51.300
-2.948.700
-MWG/VCSC/M/Au/T/A1
-CTCP Đầu tư Thế giới di động (MWG)
-10.09.2021
-14.03.2022
-2.000.000
--
-1.227.100
-772.900
-MWG/VCSC/M/Au/T/A3
-CTCP Đầu tư Thế giới di động (MWG)
-15.10.2022
-10.02.2022
-1.500.000
--
-1.253.800
-246.200
-MWG/VCSC/M/Au/T/A6
-CTCP Đầu tư Thế giới di động (MWG)
-23.11.2021
-24.05.2022
-3.000.000
--
-147.800
-2.852.200
-PNJ/VCSC/M/Au/T/A2
-CTCP Vàng bạc Đá quý Phú Nhuận (PNJ)
-10.09.2021
-14.03.2022
-2.000.000
--
-1.099.400
-900.600
-PNJ/VCSC/M/Au/T/A2
-CTCP Vàng bạc Đá quý Phú Nhuận (PNJ)
-15.10.2022
-10.02.2022
-1.500.000
--
-854.400
-645.600
-PNJ/VCSC/M/Au/T/A5
-CTCP Vàng bạc Đá quý Phú Nhuận (PNJ)
-23.11.2021
-24.05.2022
-3.000.000
--
-93.800
-2.906.200
-STB/VCSC/M/Au/T/A1
-Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín (STB)
-09.07.2021
-10.01.2022
-3.000.000
--
-2.571.100
-428.900
-STB/VCSC/M/Au/T/A2
-Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín (STB)
-23.11.2021
-24.05.2022
-3.000.000
--
-384.200
-2.615.800
-TCB/VCSC/M/Au/T/A2
-Ngân hàng TMCP Kỹ Thương-Techcombank (TCB)
-10.09.2021
-14.03.2022
-2.000.000
--
-1.998.000
-2.000
-VHM/VCSC/M/Au/T/A1
-CTCP Vinhomes (VHM)
-09.08.2021
-10.02.2022
-3.000.000
--
-2.963.100
-36.900
-VIC/VCSC/M/Au/T/A2
-CTCP Vincom (VIC)
-23.11.2021
-24.05.2022
-3.000.000
--
-79.200
-2.920.800
-VNM/VCSC/M/Au/T/A2
-CTCP Sữa Việt Nam (VNM)
-09.07.2021
-13.01.2022
-3.000.000
--
-2.985.300
-14.700
-VNM/VCSC/M/Au/T/A3
-CTCP Sữa Việt Nam (VNM)
-23.11.2021
-24.05.2022
-3.000.000
--
-66.000
-2.934.000
-VPB/VCSC/M/Au/T/A3
-Ngân hàng TMCP Việt Nam Thịnh Vượng (VPB)
-10.09.2021
-14.03.2022
-2.000.000
--
-1.997.500
-2.500
-VRE/VCSC/M/Au/T/A1
-CTCP Vincom Retail (VRE)
-23.11.2021
-24.05.2022
-3.000.000
--
-125.300
-2.874.700
-ACB/VCSC/M/Au/T/A1
-Ngân hàng TMCP Á Châu (ACB)
-23.11.2021
-24.05.2022
-3.000.000
--
-164.200
-2.835.800
-62.000.000
--
-28.582.600
-33.417.400
-FPT/VCSC/M/AU/T/A2
-CTCP FPT (FPT)
-29.10.2020
-09.04.2021
-1.000.000
--
-21.350
-978.650
-HPG/VCSC/M/AU/T/A1
-CTCP Tập đoàn Hòa Phát (HPG)
-29.10.2020
-09.04.2021
-1.000.000
--
-467.760
-532.240
-MSN/VCSC/M/AU/T/A1
-CTCP Tập đoàn Masan (MSN)
-29.10.2020
-09.04.2021
-1.000.000
--
-14.550
-985.450
-VNM/VCSC/M/AU/T/A1
-CTCP Sữa Việt Nam (VNM)
-29.10.2020
-09.04.2021
-1.000.000
--
-293.620
-706.380
-VPB/VCSC/M/AU/T/A2
-CTCP Sữa Việt Nam (VNM)
-29.10.2020
-09.04.2021
-1.000.000
--
-304.740
-695.260
-5.000.000
--
-1.102.020
-3.897.980
- 4.8	 Hợp đồng tương lai
-Vị thế mở đối với các hợp đồng tương lai tại ngày báo cáo như sau:
-Tại ngày 31.12.2021
-Tại ngày 31.12.2020
-Mã hợp đồng
-Ngày giao dịch  
-đầu tiên
-Ngày giao dịch  
-cuối cùng
-Khối lượng bán
-Giá thanh toán 
-cuối ngày
-Vị thế bán
-Khối lượng bán
-Giá thanh toán 
-cuối ngày
-Vị thế bán
-VN30F2201
-19.11.2021
-20.01.2022
-2.202
-1.537.000
-338.447.400.000
--
--
--
-VN30F2101
-20.11.2020
-21.01.2021
--
--
--
-3.231
-1.083.900
-350.208.090.000
-338.447.400.000
-350.208.090.000
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-184
-185
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-5
-THÔNG TIN BỔ SUNG BÁO CÁO KẾT QUẢ HOẠT ĐỘNG 
-5.1	
-Lãi ròng từ việc bán các tài sản tài chính FVTPL và kết quả giao dịch chứng quyền đã thực hiện
-Năm tài chính kết thúc ngày
-31.12.2021 
- VND
-31.12.2020 
- VND
-Lãi bán các tài sản tài chính FVTPL
-1.589.792.906.521
-893.175.954.490
-Trong đó: 
-Lãi bán chứng khoán cơ sở 
-1.283.077.542.959
-808.127.958.877
-Lãi bán chứng khoán phái sinh 
-298.086.692.000
-81.855.511.000
-Lãi khi mua lại chứng quyền có bảo đảm do  
-Công ty phát hành 
-3.098.142.001
-1.510.542.303
-Lãi khi đáo hạn chứng quyền có bảo đảm do  
-Công ty phát hành 
-5.530.529.561
-1.681.942.310
-Lỗ bán các tài sản tài chính FVTPL
-(616.696.682.328)
-(273.047.363.561)
-Trong đó:
-Lỗ bán chứng khoán cơ sở 
-(303.204.365.047)
-(168.475.650.165)
-Lỗ bán chứng khoán phái sinh 
-(297.705.817.000)
-(104.432.282.000)
-Lỗ khi mua lại chứng quyền có bảo đảm do  
-Công ty phát hành
-(8.587.327.082)
-(139.431.396)
-Lỗ khi đáo hạn chứng quyền có bảo đảm do  
-Công ty phát hành
-(7.199.173.199)
--
-973.096.224.193
-620.128.590.929
-Chi tiết theo từng loại như sau:
-Số lượng 
-bán 
-VND
-Tổng giá trị bán 
-VND
-Giá vốn (*) 
-VND
-Lãi/(lỗ) bán 
-năm này 
-VND
-Lãi bán 
-năm trước 
-VND
-Cổ phiếu
-380.662.308
-18.880.847.127.181 17.887.255.262.650
-993.591.864.531
-619.994.664.364
-Trái phiếu
-42.364.950 6.922.238.647.387
-6.949.835.360.189
-(27.596.712.802)
-6.949.678.044
-Chứng chỉ quỹ
-88.516.708
-2.070.005.913.496
-2.056.092.131.076
-13.913.782.420
-12.707.966.304
-Chứng chỉ tiền gửi
-7.074
-4.351.427.553.483
-4.351.463.309.720
-(35.756.237)
--
-Lãi bán chứng khoán cơ sở
-979.873.177.912
-639.652.308.712
-Lãi/(lỗ) vị thế từ hợp đồng tương lai
-380.875.000
-(22.576.771.000)
-(Lỗ)/lãi khi mua lại chứng quyền có 
-bảo đảm do Công ty phát hành 
-(5.489.185.081)
-1.371.110.907
-(Lỗ)/lãi khi đáo hạn chứng quyền có 
-bảo đảm do Công ty phát hành 
-(1.668.643.638)
-1.681.942.310
-973.096.224.193
-620.128.590.929
-(*) Giá vốn được xác định theo phương pháp bình quân gia quyền tính đến cuối ngày giao dịch
-5.2	 Chênh lệch đánh giá lại các tài sản tài chính FVTPL và chứng quyền có bảo đảm
-(a)	
-Chênh lệch đánh giá lại các tài sản tài chính FVTPL
-Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Tăng/(giảm) chênh lệch tăng
-182.633.550.307
-(60.530.814.811)
-(Tăng)/giảm chênh lệch giảm 
-(24.561.465.059)
-72.499.436.591
-158.072.085.248
-11.968.621.780
-Chi tiết chênh lệch đánh giá lại các tài sản tài chính FVTPL theo từng loại như sau:
-Giá gốc 
-VND
-Giá trị thị 
-trường/ giá trị 
-hợp lý 
-VND
-Chênh lệch 
-đánh giá lại 
-lũy kế tại ngày 
-31.12.2021 
-VND
-Chênh lệch 
-đánh giá lại 
-lũy kế tại ngày 
-31.12.2020 
-VND
-Ghi nhận 
- vào kết quả 
-hoạt động 
-trong năm 
-VND
-Cổ phiếu niêm 
-yết và cổ phiếu 
-giao dịch trên 
-UPCoM 
-851.299.716.153
-1.097.353.217.672
-246.053.501.519
-86.944.472.164
-159.109.029.355
-Cổ phiếu chưa 
-niêm yết và chưa 
-đăng ký giao dịch 
--
--
--
--
--
-Tài sản cơ sở cho 
-hoạt động phòng 
-ngừa rủi ro của 
-chứng quyền 
--
--
--
-1.036.944.107
-(1.036.944.107)
-Trái phiếu chưa 
-niêm yết
-14.163.251.763
-14.163.251.763
--
--
--
-865.462.967.916
-1.111.516.469.435
-246.053.501.519
-87.981.416.271
-158.072.085.248
-(b)	
-Chênh lệch đánh giá lại chứng quyền có bảo đảm
-Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Tăng chênh lệch giảm 
-36.920.003.501
-14.319.579
-Giảm chênh lệch tăng 
-(9.002.390.882)
-(2.913.111.062)
-27.917.612.619
-(2.898.791.483)
-Chi tiết chênh lệch đánh giá lại chứng quyền có bảo đảm như sau:
-Giá gốc 
-VND
-Giá trị thị trường/ 
-giá trị hợp lý 
-VND
-Chênh lệch đánh 
-giá lại lũy kế tại 
-ngày 31.12.2021 
-VND
-Chênh lệch đánh 
-giá lại lũy kế tại 
-ngày 31.12.2020 
-VND
-Ghi nhận vào kết 
-quả hoạt động 
-trong năm 
-VND
-Chứng quyền có 
-bảo đảm
-83.877.549.136 
-58.858.728.000 
-25.018.821.136 
-(2.898.791.483) 
-27.917.612.619 
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-186
-187
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-5	
 THÔNG TIN BỔ SUNG BÁO CÁO KẾT QUẢ HOẠT ĐỘNG (tiếp theo)
 5.3	 Cổ tức và tiền lãi phát sinh từ các tài sản tài chính FVTPL
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Cổ tức
-50.986.767.890
-46.033.065.876
 Tiền lãi
-4.123.941.988
-10.701.473.291
-55.110.709.878
-56.734.539.167
- 5.4	 Chi phí quản lý công ty chứng khoán
+5.4	 Chi phí quản lý công ty chứng khoán
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
- VND
 Chi phí nhân viên
-137.742.773.794
-32.943.437.965
 Chi phí dịch vụ mua ngoài
-21.200.474.739
-17.595.600.997
 Chi phí vật liệu văn phòng phẩm
-4.871.934.093
-3.607.819.610
 Khấu hao tài sản cố định
-1.265.276.256
-1.384.432.374
-Dự phòng phải thu khó đòi 
--
-3.000.000
+Dự phòng phải thu khó đòi
 Chi phí quản lý khác
-22.777.769.409
-16.870.728.539
-187.858.228.291
-72.405.019.485
 5.5	 Thuế thu nhập doanh nghiệp
-Số thuế trên lợi nhuận trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% 
-như sau: 
+Số thuế trên lợi nhuận trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20%
+như sau:
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Lợi nhuận kế toán trước thuế
-1.850.585.393.088
-951.038.957.081
 Thuế tính ở thuế suất 20%
-370.117.078.618
-190.207.791.416
 Điều chỉnh:
 Thu nhập không chịu thuế
-(19.714.245.933)
-(8.965.955.641)
 Chi phí không được khấu trừ
-1.263.101.235
-884.831.885
 Dự phòng thiếu của các năm trước
-201.083.840
--
 Chi phí thuế thu nhập doanh nghiệp (*)
-351.867.017.760
-182.126.667.660
 Ghi nhận trong báo cáo kết quả hoạt động:
-Chi phí thuế thu nhập doanh nghiệp - hiện hành 
-309.748.513.618
-182.422.798.514
-Chi phí/(hoàn nhập) thuế thu nhập doanh nghiệp - hoãn lại 
+Chi phí thuế thu nhập doanh nghiệp - hiện hành
+Chi phí/(hoàn nhập) thuế thu nhập doanh nghiệp - hoãn lại
 (Thuyết minh 3.16)
-42.118.504.142
-(296.130.854)
-351.867.017.760
-182.126.667.660
- (*)	Chi phí thuế thu nhập doanh nghiệp được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy 
+(*)	Chi phí thuế thu nhập doanh nghiệp được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy
 thuộc vào sự kiểm tra của cơ quan thuế.
 Cơ quan thuế đã thực hiện quyết toán thuế thu nhập doanh nghiệp cho đến hết ngày 31 tháng 12 năm 2020.
 5.6	 Lãi trên cổ phiếu
-(a)	
 Lãi cơ bản trên cổ phiếu
-Theo quy định, lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số 
-trích quỹ khen thưởng, phúc lợi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành 
+Theo quy định, lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số
+trích quỹ khen thưởng, phúc lợi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành
 trong năm, điều chỉnh cho cổ phiếu thưởng phát hành trong năm trừ đi cổ phiếu quỹ.
-Các khoản thu nhập toàn diện khác không được tính vào lợi nhuận dùng để tính lãi trên cổ phiếu do chưa có hướng 
+Các khoản thu nhập toàn diện khác không được tính vào lợi nhuận dùng để tính lãi trên cổ phiếu do chưa có hướng
 dẫn chi tiết.
 Năm tài chính kết thúc ngày
-31.12.2021
-31.12.2020 
 Trình bày lại (*)
 Lợi nhuận kế toán sau thuế TNDN (VND)
-1.498.718.375.328
-768.912.289.421
 Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi (VND)
--
--
 Lợi nhuận thuần phân bổ cho các cổ đông (VND)
-1.498.718.375.328
-768.912.289.421
-Bình quân gia quyền số cổ phiếu phổ thông đang lưu hành 
+Bình quân gia quyền số cổ phiếu phổ thông đang lưu hành
 (cổ phiếu)
-332.897.253
-329.457.788
 Lãi cơ bản trên cổ phiếu (VND)
-4.502
-2.334
-(*)	 Lãi cơ bản trên cổ phiếu của năm tài chính kết thúc ngày 31 tháng 12 năm 2020 được trình bày lại do điều chỉnh 
-số lượng cổ phiếu đang lưu hành từ đợt phát hành tăng vốn điều lệ từ nguồn vốn chủ sở hữu trong năm 2021 (Thuyết 
+(*)	 Lãi cơ bản trên cổ phiếu của năm tài chính kết thúc ngày 31 tháng 12 năm 2020 được trình bày lại do điều chỉnh
+số lượng cổ phiếu đang lưu hành từ đợt phát hành tăng vốn điều lệ từ nguồn vốn chủ sở hữu trong năm 2021 (Thuyết
 minh 7(iv)), cụ thể như sau:
 Năm tài chính kết thúc ngày 31 tháng 12 năm 2020
-Theo báo cáo 
- trước đây
- Điều chỉnh 
-  Số liệu tính lại 
-Lợi nhuận thuần phân bổ cho các  
-cổ đông (VND)
-768.912.289.421
--
-768.912.289.421
-Bình quân gia quyền số cổ phiếu  
+Theo báo cáo
+trước đây
+Điều chỉnh
+Số liệu tính lại
+Lợi nhuận thuần phân bổ cho các
+Bình quân gia quyền số cổ phiếu
 phổ thông đang lưu hành (cổ phiếu)
-164.728.894
-164.728.894
-329.457.788
 Lãi cơ bản trên mỗi cổ phiếu (VND)
-4.668
-2.334
 (b) 	 Thu nhập pha loãng trên cổ phiếu
-Thu nhập pha loãng trên cổ phiếu còn gọi là lãi suy giảm trên cổ phiếu. Công ty không có cổ phiếu phổ thông tiềm 
-tàng có tác động suy giảm trong năm và cho đến ngày lập báo cáo tài chính này. Do đó lãi suy giảm trên cổ phiếu 
+Thu nhập pha loãng trên cổ phiếu còn gọi là lãi suy giảm trên cổ phiếu. Công ty không có cổ phiếu phổ thông tiềm
+tàng có tác động suy giảm trong năm và cho đến ngày lập báo cáo tài chính này. Do đó lãi suy giảm trên cổ phiếu
 bằng với lãi cơ bản trên cổ phiếu.
-6
-THÔNG TIN BỔ SUNG BÁO CÁO LƯU CHUYỂN TIỀN TỆ 
-6.1 	
+THÔNG TIN BỔ SUNG BÁO CÁO LƯU CHUYỂN TIỀN TỆ
 Số tiền đi vay thực thu trong năm
-Số tiền đi vay thực thu trong năm là tiền vay theo khế ước thông thường và tiền thu từ phát hành trái phiếu (Thuyết 
+Số tiền đi vay thực thu trong năm là tiền vay theo khế ước thông thường và tiền thu từ phát hành trái phiếu (Thuyết
 minh 3.9).
 6.2 	 Số tiền đã thực trả gốc vay trong năm
-Số tiền đã thực trả gốc vay trong năm là tiền chi trả nợ vay theo khế ước thông thường và tiền trả cho trái chủ (Thuyết 
+Số tiền đã thực trả gốc vay trong năm là tiền chi trả nợ vay theo khế ước thông thường và tiền trả cho trái chủ (Thuyết
 minh 3.9).
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-188
-189
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
- 7
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU
-7.1	
-Chi tiết biến động vốn chủ sở hữu 
+Chi tiết biến động vốn chủ sở hữu
 Chi tiết biến động vốn chủ sở hữu như sau:
-Vốn góp 
-của chủ sở hữu 
-VND
-Thặng dư 
-vốn cổ phần 
-VND
-Cổ phiếu quỹ 
-VND
-Chênh lệch đánh giá 
-tài sản theo giá trị 
-hợp lý 
-VND
-Quỹ dự 
-trữ bổ sung 
-vốn điều lệ 
-VND
-Quỹ dự phòng 
-tài chính và 
-rủi ro nghiệp vụ 
-VND
-Lợi nhuận 
-sau thuế 
-chưa phân phối 
-VND
-Tổng cộng 
-VND
-Tại ngày 1.1.2020
-1.644.000.000.000
-585.317.720.000
-(1.000.592.110)
-326.301.146.470
-77.674.425.835
-156.079.089.425
-1.263.234.061.037
-4.051.605.850.657
+Vốn góp
+của chủ sở hữu
+Thặng dư
+vốn cổ phần
+Cổ phiếu quỹ
+Chênh lệch đánh giá
+tài sản theo giá trị
+hợp lý
+Quỹ dự
+trữ bổ sung
+vốn điều lệ
+Quỹ dự phòng
+tài chính và
+rủi ro nghiệp vụ
+Lợi nhuận
+sau thuế
+chưa phân phối
 Lợi nhuận thuần trong năm
--
--
--
--
--
--
-768.912.289.421
-768.912.289.421
 Cổ tức năm 2019
-(i)
--
--
--
--
--
--
-(246.425.979.000)
-(246.425.979.000)
-Phát hành cổ phiếu theo chương trình lựa 
+Phát hành cổ phiếu theo chương trình lựa
 chọn cho người lao động
-(ii)
-12.000.000.000
--
--
--
--
--
--
-12.000.000.000
 Cổ tức đợt 1 năm 2020
-(iii)
--
--
--
--
--
--
-(165.600.000.000)
-(165.600.000.000)
-Mua lại cổ phiếu quỹ 
--
-(400.424.110)
-1.000.592.110
--
--
--
--
-600.168.000
+Mua lại cổ phiếu quỹ
 Đánh giá lại tài sản tài chính AFS
--
--
--
-100.394.190.636
--
--
--
-100.394.190.636
 Trích lập các quỹ (Thuyết minh 2.24(c))
--
--
--
--
-38.082.821.259
-9.520.910.575
-(47.603.731.834)
-- 
-Tại ngày 31.12.2020
-1.656.000.000.000
-584.917.295.890
--
-426.695.337.106
-115.757.247.094
-165.600.000.000
-1.572.516.639.624
-4.521.486.519.714
 Phát hành cổ phiếu thưởng cho cổ đông hiện hữu
-(iv)
-1.665.000.000.000
-(584.917.295.890)
--
--
-(115.757.247.094)
--
-(964.325.457.016)
--
 Lợi nhuận thuần trong năm
--
--
--
--
--
--
-1.498.718.375.328
-1.498.718.375.328
 Đánh giá lại tài sản tài chính AFS
--
--
--
-1.238.958.350.345
--
--
--
-1.238.958.350.345
-Phát hành cổ phiếu theo chương trình lựa 
+Phát hành cổ phiếu theo chương trình lựa
 chọn cho người lao động
-(v)
-9.000.000.000
-4.500.000.000
--
--
--
--
--
-13.500.000.000
 Cổ tức đợt 2 năm 2020
-(vi)
--
--
--
--
--
--
-(331.200.000.000)
-(331.200.000.000)
 Cổ tức đợt 1 năm 2021
-(vii)
--
--
--
--
--
--
-(399.600.000.000)
-(399.600.000.000)
 Trích lập các quỹ (Thuyết minh 2.24(c))
--
--
--
--
-67.496.330.852
-67.496.330.852
-(134.992.661.704)
--
-Tại ngày 31.12.2021
-3.330.000.000.000
-4.500.000.000
--
-1.665.653.687.451
-67.496.330.852
-233.096.330.852
-1.241.116.896.232
-6.541.863.245.387
-(i)	
-Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020 đã thông qua mức chi trả cổ tức năm 
-2019 là 15% (tương đương 1.500 Đồng/cổ phiếu) trên vốn điều lệ 1.644.000.000.000 Đồng và được chi trả bằng tiền. 
-Theo đó, ngày 29 tháng 6 năm 2020, Hội đồng Quản trị đã quyết định chi trả cổ tức năm 2019 cho các cổ đông có tên 
+Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020 đã thông qua mức chi trả cổ tức năm
+2019 là 15% (tương đương 1.500 Đồng/cổ phiếu) trên vốn điều lệ 1.644.000.000.000 Đồng và được chi trả bằng tiền.
+Theo đó, ngày 29 tháng 6 năm 2020, Hội đồng Quản trị đã quyết định chi trả cổ tức năm 2019 cho các cổ đông có tên
 trong danh sách chốt ngày 17 tháng 7 năm 2020. Ngày thanh toán là ngày 3 tháng 8 năm 2020.
-(ii)	
-Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020 và Nghị quyết của Hội đồng Quản 
-trị ngày 20 tháng 7 năm 2020, Công ty đã phát hành 1.200.000 cổ phần phổ thông theo chương trình lựa chọn cho 
-cán bộ và nhân viên của Công ty vào ngày 31 tháng 8 năm 2020. Toàn bộ tiền thu phát hành là đóng góp của nhân 
-viên. Công ty đã hạch toán ghi nhận tăng giá trị vốn góp của chủ sở hữu - cổ phần phổ thông theo khoản giá phát 
-hành bằng với mệnh giá 10.000 đồng/cổ phần. Cổ phiếu phát hành bị hạn chế chuyển nhượng trong vòng một (1) năm 
+Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020 và Nghị quyết của Hội đồng Quản
+trị ngày 20 tháng 7 năm 2020, Công ty đã phát hành 1.200.000 cổ phần phổ thông theo chương trình lựa chọn cho
+cán bộ và nhân viên của Công ty vào ngày 31 tháng 8 năm 2020. Toàn bộ tiền thu phát hành là đóng góp của nhân
+viên. Công ty đã hạch toán ghi nhận tăng giá trị vốn góp của chủ sở hữu - cổ phần phổ thông theo khoản giá phát
+hành bằng với mệnh giá 10.000 đồng/cổ phần. Cổ phiếu phát hành bị hạn chế chuyển nhượng trong vòng một (1) năm
 kể từ ngày phát hành.
-(iii)	
-Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020, mức chi trả cổ tức của năm 2020 
-dự kiến trong khoảng 10% - 15%. Theo đó, ngày 9 tháng 12 năm 2020, Hội đồng Quản trị đã quyết định tạm ứng cổ 
-tức đợt 1 năm 2020 là 10% (tương đương 1.000 Đồng/cổ phiếu) trên vốn điều lệ 1.656.000.000.000 Đồng và được chi 
-trả bằng tiền cho các cổ đông có tên trong danh sách chốt ngày 23 tháng 12 năm 2020. Ngày thanh toán là ngày 31 
+Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 24 tháng 6 năm 2020, mức chi trả cổ tức của năm 2020
+dự kiến trong khoảng 10% - 15%. Theo đó, ngày 9 tháng 12 năm 2020, Hội đồng Quản trị đã quyết định tạm ứng cổ
+tức đợt 1 năm 2020 là 10% (tương đương 1.000 Đồng/cổ phiếu) trên vốn điều lệ 1.656.000.000.000 Đồng và được chi
+trả bằng tiền cho các cổ đông có tên trong danh sách chốt ngày 23 tháng 12 năm 2020. Ngày thanh toán là ngày 31
 tháng 12 năm 2020.
-(iv)	
-Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 đã thông qua phương án phát hành cổ 
-phiếu từ nguồn vốn chủ sở hữu cho cổ đông hiện hữu theo tỷ lệ 1 : 1 (cổ đông sở hữu 1 cổ phiếu được nhận 1 cổ phiếu 
+Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 đã thông qua phương án phát hành cổ
+phiếu từ nguồn vốn chủ sở hữu cho cổ đông hiện hữu theo tỷ lệ 1 : 1 (cổ đông sở hữu 1 cổ phiếu được nhận 1 cổ phiếu
 mới). Theo đó, Công ty đã phát hành thêm 166.500.000 cổ phiếu vào ngày 23 tháng 6 năm 2021.
-(v)	
-Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 và Nghị quyết của Hội đồng Quản 
-trị ngày 12 tháng 4 năm 2021, Công ty đã phát hành 900.000 cổ phần phổ thông theo chương trình lựa chọn cho cán 
-bộ và nhân viên của Công ty vào ngày 12 tháng 5 năm 2021. Công ty đã hạch toán ghi nhận giá trị thặng dư vốn cổ 
-phần của đợt phát hành riêng lẻ cổ phần phổ thông theo khoản chênh lệch giữa mệnh giá 10.000 Đồng/cổ phần và 
-giá phát hành 15.000 Đồng/cổ phần. Cổ phiếu phát hành bị hạn chế chuyển nhượng trong vòng một (1) năm kể từ 
+Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 và Nghị quyết của Hội đồng Quản
+trị ngày 12 tháng 4 năm 2021, Công ty đã phát hành 900.000 cổ phần phổ thông theo chương trình lựa chọn cho cán
+bộ và nhân viên của Công ty vào ngày 12 tháng 5 năm 2021. Công ty đã hạch toán ghi nhận giá trị thặng dư vốn cổ
+phần của đợt phát hành riêng lẻ cổ phần phổ thông theo khoản chênh lệch giữa mệnh giá 10.000 Đồng/cổ phần và
+giá phát hành 15.000 Đồng/cổ phần. Cổ phiếu phát hành bị hạn chế chuyển nhượng trong vòng một (1) năm kể từ
 ngày phát hành.
-(vi)	
-Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 đã thông qua mức chi trả cổ tức đợt 2 
-năm 2020 là 20% (tương đương 2.000 Đồng/cổ phiếu) trên vốn điều lệ 1.656.000.000.000 Đồng và được chi trả bằng 
-tiền. Theo đó, ngày 15 tháng 4 năm 2021, Hội đồng Quản trị đã quyết định chi trả cổ tức đợt 2 năm 2020 cho các cổ 
+Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021 đã thông qua mức chi trả cổ tức đợt 2
+năm 2020 là 20% (tương đương 2.000 Đồng/cổ phiếu) trên vốn điều lệ 1.656.000.000.000 Đồng và được chi trả bằng
+tiền. Theo đó, ngày 15 tháng 4 năm 2021, Hội đồng Quản trị đã quyết định chi trả cổ tức đợt 2 năm 2020 cho các cổ
 đông có tên trong danh sách chốt ngày 4 tháng 5 năm 2021. Ngày thanh toán là ngày 17 tháng 5 năm 2021.
-(vii)	 Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021, mức chi trả cổ tức của năm 2021 
-dự kiến trong khoảng 10% - 15%. Theo đó, ngày 6 tháng 12 năm 2021, Hội đồng Quản trị đã quyết định tạm ứng cổ tức 
-đợt 1 năm 2021 là 12% (tương đương 1.200 Đồng/cổ phiếu) trên vốn điều lệ 3.330.000.000.000 Đồng và được chi trả 
-bằng tiền cho các cổ đông có tên trong danh sách chốt ngày 20 tháng 12 năm 2021. Ngày thanh toán là ngày 29 tháng 
-12 năm 2021.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-190
-191
-Thông điệp 
+(vii)	 Theo Nghị quyết của Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021, mức chi trả cổ tức của năm 2021
+dự kiến trong khoảng 10% - 15%. Theo đó, ngày 6 tháng 12 năm 2021, Hội đồng Quản trị đã quyết định tạm ứng cổ tức
+đợt 1 năm 2021 là 12% (tương đương 1.200 Đồng/cổ phiếu) trên vốn điều lệ 3.330.000.000.000 Đồng và được chi trả
+bằng tiền cho các cổ đông có tên trong danh sách chốt ngày 20 tháng 12 năm 2021. Ngày thanh toán là ngày 29 tháng
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-7	
 THÔNG TIN BỔ SUNG BÁO CÁO TÌNH HÌNH BIẾN ĐỘNG VỐN CHỦ SỞ HỮU (tiếp theo)
-7.2	
 Tình hình phân phối thu nhập cho cổ đông
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Lợi nhuận đã thực hiện chưa phân phối năm trước 
-1.504.450.539.793
-1.202.423.825.444
+Lợi nhuận đã thực hiện chưa phân phối năm trước
 Lợi nhuận đã thực hiện trong năm (Thuyết minh 3.19)
-1.349.926.617.034
-761.656.425.183
-Tăng vốn từ lợi nhuận chưa phân phối 
-(964.325.457.016)
--
-Số trích lập trong năm: 
-Quỹ dự trữ bổ sung vốn điều lệ 
-(67.496.330.852)
-(38.082.821.259)
-Quỹ dự phòng tài chính và rủi ro nghiệp vụ 
-(67.496.330.852)
-(9.520.910.575)
+Tăng vốn từ lợi nhuận chưa phân phối
+Số trích lập trong năm:
+Quỹ dự trữ bổ sung vốn điều lệ
+Quỹ dự phòng tài chính và rủi ro nghiệp vụ
 Lợi nhuận phân phối cho cổ đông trong năm
-(730.800.000.000)
-(412.025.979.000)
 Lợi nhuận còn lại có thể phân phối cho cổ đông
-1.024.259.038.107
-1.504.450.539.793
 Lợi nhuận phân phối cho cổ đông trong năm
-730.800.000.000
-412.025.979.000
-Thuế phải nộp tính trên thu nhập phân phối cho  
+Thuế phải nộp tính trên thu nhập phân phối cho
 nhà đầu tư sở hữu cổ phiếu
-(28.362.323.840)
-(15.259.257.750)
 Tổng thu nhập phân phối cho cổ đông
-702.437.676.160
-396.766.721.250
- 
-8
 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
 Bên liên quan
 Mối quan hệ
 Ngân hàng Thương mại Cổ phần Bản Việt
 Cùng thành viên Hội đồng Quản trị (“HĐQT”)
-Công ty Cổ phần Quản lý Quỹ Đầu tư  
+Công ty Cổ phần Quản lý Quỹ Đầu tư
 Chứng khoán Bản Việt (“VCAM”)
 Cùng thành viên HĐQT
 Quỹ Đầu tư Cân Bằng Bản Việt
@@ -3757,988 +1147,496 @@ Công ty Cổ phần Sữa Quốc Tế (“IDP”)
 Cùng thành viên HĐQT
 Hội đồng Quản trị và Ban Tổng Giám đốc
 Nhân sự quản lý chủ chốt
-(a)	
 Nghiệp vụ với các bên liên quan
 Trong năm, các nghiệp vụ sau đây được thực hiện với các bên liên quan:
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Ngân hàng Thương mại Cổ phần Bản Việt
 Doanh thu phí môi giới, phí lưu ký, phí tư vấn và dịch vụ khác
-6.045.842.109
-4.557.902.134
 Năm tài chính kết thúc ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
-Công ty Cổ phần Quản lý Quỹ Đầu tư 
+Công ty Cổ phần Quản lý Quỹ Đầu tư
 Chứng khoán Bản Việt
 Doanh thu phí môi giới chứng khoán
-87.336.360
-329.972.715
 Quỹ Đầu tư Cân Bằng Bản Việt
 Doanh thu phí môi giới chứng khoán
-7.645.118
-22.811.661
-Các khoản chi cho các nhân sự quản lý chủ chốt 
+Các khoản chi cho các nhân sự quản lý chủ chốt
 Lương và các quyền lợi gộp khác
-83.988.890.000
-6.395.740.000
-Trong đó: 
+Trong đó:
 Ban Tổng Giám đốc
 Ông Tô Hải
-2.738.150.000
-2.128.580.000
 Ông Đinh Quang Hoàn
-2.480.370.000
-2.133.580.000
 Ông Nguyễn Quang Bảo
-2.480.370.000
-2.133.580.000
 Khoản thưởng theo kết quả kinh doanh năm 2020
-3.850.000.000
--
 Khoản thưởng dự kiến theo kết quả kinh doanh năm 2021 (*)
-71.900.000.000
--
 Hội đồng Quản trị
-540.000.000
--
-(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021, Ban Tổng Giám đốc chỉ nhận thưởng 
-khi lợi nhuận trước thuế năm 2021 cao hơn so với lợi nhuận trước thuế thực hiện năm 2020. Khi đó, mức thưởng cho 
-Ban Tổng Giám đốc là 8% của số tiền vượt so với lợi nhuận trước thuế thực hiện năm 2020 là 951 tỷ Đồng. 
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-192
-193
-Thông điệp 
+(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên ngày 9 tháng 4 năm 2021, Ban Tổng Giám đốc chỉ nhận thưởng
+khi lợi nhuận trước thuế năm 2021 cao hơn so với lợi nhuận trước thuế thực hiện năm 2020. Khi đó, mức thưởng cho
+Ban Tổng Giám đốc là 8% của số tiền vượt so với lợi nhuận trước thuế thực hiện năm 2020 là 951 tỷ Đồng.
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-8	
 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
-(b)	
 Số dư cuối năm với các bên liên quan
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Hội đồng Quản trị
 Quỹ hoạt động của Hội đồng Quản trị (Thuyết minh 3.15)
-9.123.667.500
-10.932.367.500
-Các nhân sự quản lý chủ chốt 
+Các nhân sự quản lý chủ chốt
 Lương và các quyền lợi gộp khác
-71.900.000.000
--
-9
-BÁO CÁO BỘ PHẬN 
-Ban Tổng Giám đốc của Công ty nhận định rằng, việc ra các quyết định quản lý của Công ty chủ yếu dựa trên các loại 
+BÁO CÁO BỘ PHẬN
+Ban Tổng Giám đốc của Công ty nhận định rằng, việc ra các quyết định quản lý của Công ty chủ yếu dựa trên các loại
 dịch vụ mà Công ty cung cấp. Do vậy báo cáo bộ phận chính yếu của Công ty là theo lĩnh vực kinh doanh.
-(a)	
-Báo cáo bộ phận theo khu vực địa lý 
-Hoạt động của Công ty được thực hiện chủ yếu trong lãnh thổ Việt Nam. Vì vậy, rủi ro và tỷ suất sinh lời của Công 
-ty không chịu tác động trọng yếu bởi những khác biệt về sản phẩm hay khu vực địa lý. Theo đó, Ban Tổng Giám đốc 
+Báo cáo bộ phận theo khu vực địa lý
+Hoạt động của Công ty được thực hiện chủ yếu trong lãnh thổ Việt Nam. Vì vậy, rủi ro và tỷ suất sinh lời của Công
+ty không chịu tác động trọng yếu bởi những khác biệt về sản phẩm hay khu vực địa lý. Theo đó, Ban Tổng Giám đốc
 nhận định là Công ty chỉ có một bộ phận chia theo khu vực địa lý.
-(b)	
-Báo cáo bộ phận theo lĩnh vực kinh doanh 
-Bộ phận Môi giới và dịch vụ tạo ra doanh thu và phát sinh chi phí liên quan đến hoạt động môi giới chứng khoán, dịch 
+Báo cáo bộ phận theo lĩnh vực kinh doanh
+Bộ phận Môi giới và dịch vụ tạo ra doanh thu và phát sinh chi phí liên quan đến hoạt động môi giới chứng khoán, dịch
 vụ bảo lãnh, đại lý phát hành chứng khoán, dịch vụ lưu ký chứng khoán và các dịch vụ chứng khoán khác.
-Bộ phận tự doanh tạo ra thu nhập và phát sinh chi phí liên quan đến danh mục tài sản tài chính FVTPL, các công cụ 
+Bộ phận tự doanh tạo ra thu nhập và phát sinh chi phí liên quan đến danh mục tài sản tài chính FVTPL, các công cụ
 phái sinh phòng ngừa rủi ro và lỗ suy giảm tài sản tài chính.
-Bộ phận kinh doanh vốn tạo ra thu nhập và phát sinh chi phí liên quan đến hoạt động cho vay giao dịch ký quỹ, ứng 
+Bộ phận kinh doanh vốn tạo ra thu nhập và phát sinh chi phí liên quan đến hoạt động cho vay giao dịch ký quỹ, ứng
 trước tiền bán chứng khoán và đầu tư tài sản tài chính HTM.
-Bộ phận tư vấn tạo ra doanh thu và phát sinh chi phí liên quan đến hoạt động tư vấn tài chính và tư vấn đầu tư chứng khoán. 
+Bộ phận tư vấn tạo ra doanh thu và phát sinh chi phí liên quan đến hoạt động tư vấn tài chính và tư vấn đầu tư chứng khoán.
 Doanh thu và chi phí theo lĩnh vực kinh doanh chính của Công ty như sau:
 Năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-Môi giới và dịch vụ 
-VND
-Tự doanh 
-VND
-Kinh doanh vốn 
-VND
-Tư vấn 
- VND
-Tổng cộng 
-VND
+Môi giới và dịch vụ
+Tự doanh
+Kinh doanh vốn
+Tư vấn
 Doanh thu và thu nhập (*)
-882.556.923.539
-1.959.006.362.871
-580.221.442.123
-285.283.995.959
-3.707.068.724.492
 Chi phí
-(587.679.970.323)
-(868.698.742.658)
-(179.350.219.328)
-(58.245.253.838)
-(1.693.974.186.147)
 Trong đó:
 Chi phí trực tiếp bằng tiền
-(556.725.983.015)
-(679.037.373.668)
--
-(55.351.143.702)
-(1.291.114.500.385)
-Tổng giá trị các khoản chi phí lớn không bằng tiền  
+Tổng giá trị các khoản chi phí lớn không bằng tiền
 ngoại trừ chi phí khấu hao và chi phí phân bổ
--
--
-214.202.387
--
-214.202.387
 Chi phí khấu hao tài sản cố định
-(5.746.832.507)
-(210.968.025)
--
-(273.865.664)
-(6.231.666.196)
 Chi phí được phân bổ từ chi phí trả trước ngắn hạn và dài hạn
-(25.207.154.801)
-(1.174.459.055)
--
-(2.620.244.472)
-(29.001.858.328)
 Chi phí phân bổ khác
--
-(188.275.941.910)
-(179.564.421.715)
--
-(367.840.363.625)
 Kết quả bộ phận
-294.876.953.216
-1.090.307.620.213
-400.871.222.795
-227.038.742.121
-2.013.094.538.345
 Thu nhập tài chính thuần
-25.616.869.946
 Chi phí quản lý doanh nghiệp
-(187.858.228.291)
 Thu nhập khác
-(267.786.912)
 Lợi nhuận trước thuế
-1.850.585.393.088
 (*) 	 Toàn bộ doanh thu tạo ra từ việc cung cấp dịch vụ ra bên ngoài, và toàn bộ thu nhập tạo ra từ giao dịch với các đối tác bên ngoài.
 Năm tài chính kết thúc ngày 31 tháng 12 năm 2020
-Môi giới và dịch vụ 
-VND
-Tự doanh 
-VND
-Kinh doanh vốn 
-VND
-Tư vấn 
-VND
-Tổng cộng 
-VND
+Môi giới và dịch vụ
+Tự doanh
+Kinh doanh vốn
+Tư vấn
 Doanh thu và thu nhập (*)
-491.987.477.412
-884.287.679.932
-319.051.320.794
-34.265.112.425
-1.729.591.590.563
 Chi phí
-(307.175.511.034)
-(285.037.610.194)
-(109.142.791.575)
-(11.271.336.166)
-(712.627.248.969)
 Trong đó:
 Chi phí trực tiếp bằng tiền
-(277.152.619.014)
-(202.361.613.628)
--
-(9.472.593.881)
-(488.986.826.523)
-Tổng giá trị các khoản chi phí lớn không bằng tiền 
+Tổng giá trị các khoản chi phí lớn không bằng tiền
 ngoại trừ chi phí khấu hao và chi phí phân bổ
--
--
-38.400.000
--
-38.400.000
 Chi phí khấu hao tài sản cố định
-(8.326.876.812)
-(499.202.919)
-(424.134.000)
-(9.250.213.731)
 Chi phí được phân bổ từ chi phí trả trước ngắn hạn và dài hạn
-(21.696.015.208)
-(735.221.485)
--
-(1.374.608.285)
-(23.805.844.978)
 Chi phí phân bổ khác
--
-(81.441.572.162)
-(109.181.191.575)
--
-(190.622.763.737)
 Kết quả bộ phận
-184.811.966.378
-599.250.069.738
-209.908.529.219
-22.993.776.259
-1.016.964.341.594
 Thu nhập tài chính thuần
-5.858.556.094
 Chi phí quản lý doanh nghiệp
-(72.405.019.485)
 Thu nhập khác
-621.078.878
 Lợi nhuận trước thuế
-951.038.957.081
 (*) Toàn bộ doanh thu tạo ra từ việc cung cấp dịch vụ ra bên ngoài, và toàn bộ thu nhập tạo ra từ giao dịch với các đối tác bên ngoài.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-194
-195
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
- 9	
 BÁO CÁO BỘ PHẬN (tiếp theo)
-(b)	
 Báo cáo bộ phận theo lĩnh vực kinh doanh (tiếp theo)
 Tài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:
 Tại ngày 31 tháng 12 năm 2021
-Môi giới và dịch vụ 
-VND
-Tự doanh 
-VND
-Kinh doanh vốn 
-VND
-Tư vấn 
-VND
-Tổng cộng 
-VND
+Môi giới và dịch vụ
+Tự doanh
+Kinh doanh vốn
+Tư vấn
 Tài sản bộ phận
-86.752.629.731
-7.437.703.560.985
-9.081.346.938.559
-3.201.894.333
-16.609.005.023.608
 Tài sản không phân bổ
-27.259.923.509
 Tổng tài sản
-16.636.264.947.117
 Nợ phải trả bộ phận
-438.525.528.602
-4.670.202.304.006
-4.307.990.309.332
--
-9.416.718.141.940
 Nợ phải trả không phân bổ
-677.683.559.790
 Tổng nợ phải trả
-10.094.401.701.730
-Tổng chi phí phát sinh hình thành  tài sản  
+Tổng chi phí phát sinh hình thành  tài sản
 cố định trong năm
-73.870.000
 Trong đó:
 Tài sản cố định của bộ phận
-66.143.524
-3.855.984
--
-3.870.492
-73.870.000
 Tài sản cố định không phân bổ
--
-	 	 	
-	
-	
 Tài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:
 Tại ngày 31 tháng 12 năm 2020
-Môi giới và dịch vụ 
-VND
-Tự doanh 
-VND
-Kinh doanh vốn 
-VND
-Tư vấn 
-VND
-Tổng cộng 
-VND
+Môi giới và dịch vụ
+Tự doanh
+Kinh doanh vốn
+Tư vấn
 Tài sản bộ phận
-73.008.017.638
-3.924.612.711.275
-4.346.453.577.136
-3.749.109.642
-8.347.823.415.691
 Tài sản không phân bổ
-34.581.709.749
 Tổng tài sản
-8.382.405.125.440
 Nợ phải trả bộ phận
-112.579.684.417
-1.690.880.568.686
-1.798.404.516.851
-15.000.000.000
-3.616.864.769.954
 Nợ phải trả không phân bổ
-244.053.835.772
 Tổng nợ phải trả
-3.860.918.605.726
-Tổng chi phí phát sinh hình thành tài sản  
+Tổng chi phí phát sinh hình thành tài sản
 cố định trong năm
-7.613.828.701
 Trong đó:
 Tài sản cố định của bộ phận
-5.116.644.170
-234.002.864
--
-476.354.940
-5.827.001.973
 Tài sản cố định không phân bổ
-1.786.826.728
-10
 QUẢN LÝ RỦI RO TÀI CHÍNH
-Các hoạt động của Công ty có thể chịu một số rủi ro tài chính bao gồm rủi ro thị trường, rủi ro tín dụng và rủi ro thanh 
-khoản. Nhìn chung các chính sách quản lý rủi ro của Công ty là nhằm giảm thiểu ảnh hưởng bất lợi tiềm tàng từ các 
+Các hoạt động của Công ty có thể chịu một số rủi ro tài chính bao gồm rủi ro thị trường, rủi ro tín dụng và rủi ro thanh
+khoản. Nhìn chung các chính sách quản lý rủi ro của Công ty là nhằm giảm thiểu ảnh hưởng bất lợi tiềm tàng từ các
 rủi ro này đến kết quả hoạt động của Công ty.
-Ban Tổng Giám đốc của Công ty có trách nhiệm đặt ra mục tiêu và những quy tắc cơ bản về quản trị rủi ro tài chính 
-cho Công ty. Ban Tổng Giám đốc xác lập những chính sách chi tiết như nhận diện rủi ro và đo lường rủi ro, chiến lược 
-đầu tư và giới hạn đầu tư. Chính sách quản trị rủi ro tài chính được xem xét và điều chỉnh thường xuyên nhằm đối phó 
+Ban Tổng Giám đốc của Công ty có trách nhiệm đặt ra mục tiêu và những quy tắc cơ bản về quản trị rủi ro tài chính
+cho Công ty. Ban Tổng Giám đốc xác lập những chính sách chi tiết như nhận diện rủi ro và đo lường rủi ro, chiến lược
+đầu tư và giới hạn đầu tư. Chính sách quản trị rủi ro tài chính được xem xét và điều chỉnh thường xuyên nhằm đối phó
 với biến động và xu hướng của thị trường.
-Quản trị rủi ro tài chính được thực hiện bởi nhân sự tài chính. Nhân sự tài chính đo lường thực tế đầu tư với giới hạn 
-đầu tư đã được đặt ra và chuẩn bị báo cáo định kỳ cho Ban Tổng Giám đốc xem xét. 
+Quản trị rủi ro tài chính được thực hiện bởi nhân sự tài chính. Nhân sự tài chính đo lường thực tế đầu tư với giới hạn
+đầu tư đã được đặt ra và chuẩn bị báo cáo định kỳ cho Ban Tổng Giám đốc xem xét.
 Những thông tin sau đây được dựa trên những thông tin từ Ban Tổng Giám đốc.
-(a)	
 Rủi ro tín dụng
-Rủi ro tín dụng là rủi ro mà Công ty phải gánh chịu tổn thất tài chính do một bên tham gia trong một công cụ tài chính 
-không thực hiện nghĩa vụ hoặc cam kết đã ký với Công ty. Rủi ro này phát sinh chủ yếu từ tiền gửi ngân hàng, các tài 
+Rủi ro tín dụng là rủi ro mà Công ty phải gánh chịu tổn thất tài chính do một bên tham gia trong một công cụ tài chính
+không thực hiện nghĩa vụ hoặc cam kết đã ký với Công ty. Rủi ro này phát sinh chủ yếu từ tiền gửi ngân hàng, các tài
 sản tài chính, các khoản phải thu và tài sản khác.
-Rủi ro tín dụng tối đa của Công ty bằng với giá trị ghi sổ tài sản tiềm ẩn rủi ro tín dụng chưa trừ dự phòng đã lập và 
+Rủi ro tín dụng tối đa của Công ty bằng với giá trị ghi sổ tài sản tiềm ẩn rủi ro tín dụng chưa trừ dự phòng đã lập và
 chưa tính đến tài sản thế chấp cũng như các biện pháp đảm bảo khác, chi tiết như sau:
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Tiền và các khoản tương đương tiền (Thuyết minh 3.1)
-1.131.170.799.056
-641.552.887.300
 Tiền gửi ngân hàng
-1.131.170.799.056
-641.552.887.300
-Tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”)  
+Tài sản tài chính ghi nhận thông qua lãi/lỗ (“FVTPL”)
 (Thuyết minh 3.2(a))
-114.163.251.763
-13.157.000.000
-Chứng chỉ tiền gửi 
-100.000.000.000
--
+Chứng chỉ tiền gửi
 Trái phiếu doanh nghiệp
-14.163.251.763
-13.157.000.000
-Các khoản đầu tư nắm giữ đến ngày đáo hạn  
+Các khoản đầu tư nắm giữ đến ngày đáo hạn
 (Thuyết minh 3.2(b))
-753.719.000.000
-106.000.000.000
 Tiền gửi ngân hàng có kỳ hạn
-642.329.000.000
-16.000.000.000
 Tiền gửi ký quỹ cho chứng quyền
-106.390.000.000
-5.000.000.000
-Trái phiếu doanh nghiệp 
-5.000.000.000
-5.000.000.000
-Chứng chỉ tiền gửi 
--
-80.000.000.000
- 
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-196
-197
-Thông điệp 
+Trái phiếu doanh nghiệp
+Chứng chỉ tiền gửi
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-10	
 QUẢN LÝ RỦI RO TÀI CHÍNH (tiếp theo)
-(a)	
 Rủi ro tín dụng (tiếp theo)
 Giá trị tài sản tiềm ẩn rủi ro tín dụng (tiếp theo)
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Các khoản cho vay (Thuyết minh 3.3)
-7.701.237.131.479
-3.881.642.718.172
-Hợp đồng giao dịch ký quỹ 
-7.515.786.303.555
-3.758.105.223.519
+Hợp đồng giao dịch ký quỹ
 Tạm ứng giao dịch chứng khoán
-185.450.827.924
-123.537.494.653
 Các khoản phải thu (Thuyết minh 3.4)
-266.969.967.178
-242.571.149.689
 Phải thu bán các tài sản tài chính
-188.294.807.000
-200.850.615.300
 Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính
-47.852.123.094
-20.948.002.265
-Phải thu các dịch vụ CTCK cung cấp 
-30.823.037.084
-14.833.156.124
+Phải thu các dịch vụ CTCK cung cấp
 Phải thu khác
--
-5.939.376.000
 Trả trước cho người bán (Thuyết minh 3.5)
-18.049.315.068
-18.049.315.068
 Đặt cọc mua mua chứng khoán chưa niêm yết
-18.049.315.068
-18.049.315.068
 Tài sản ngắn hạn khác (Thuyết minh 3.7(a))
-150.714.917.648
-91.333.803.000
 Tiền ký quỹ tự doanh chứng khoán phái sinh
-150.714.917.648
-91.333.803.000
 Tài sản dài hạn khác
-4.927.625.066
-5.987.200.091
 Cầm cố, thế chấp, ký quỹ, ký cược dài hạn
-4.927.625.066
-5.987.200.091
 Tổng giá trị tài sản tiềm ẩn rủi ro tín dụng
-10.140.952.007.258
-5.000.294.073.320
-(i)	
 Số dư với ngân hàng và công ty tài chính
-Số dư với ngân hàng và công ty tài chính bao gồm tiền gửi không kỳ hạn, tiền gửi có kỳ hạn, tiền trong tài khoản tạm 
+Số dư với ngân hàng và công ty tài chính bao gồm tiền gửi không kỳ hạn, tiền gửi có kỳ hạn, tiền trong tài khoản tạm
 khóa, chứng chỉ tiền gửi và lãi dự thu.
-Tất cả các khoản tiền gửi ngân hàng và chứng chỉ tiền gửi của Công ty được gửi tại các tổ chức tín dụng mà Ban Tổng 
-Giám đốc tín nhiệm hoặc nằm trong danh sách được Nhà nước cấp phép thực hiện thanh toán và bù trừ. Số dư với 
-ngân hàng được theo dõi thường xuyên bởi bộ phận ngân quỹ theo chính sách của Công ty và báo cáo định kỳ cho 
-Ban Tổng Giám đốc. Công ty nhận định rủi ro tín dụng liên quan đến các số dư với ngân hàng là thấp. 
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có số dư nào với ngân hàng và công ty tài 
+Tất cả các khoản tiền gửi ngân hàng và chứng chỉ tiền gửi của Công ty được gửi tại các tổ chức tín dụng mà Ban Tổng
+Giám đốc tín nhiệm hoặc nằm trong danh sách được Nhà nước cấp phép thực hiện thanh toán và bù trừ. Số dư với
+ngân hàng được theo dõi thường xuyên bởi bộ phận ngân quỹ theo chính sách của Công ty và báo cáo định kỳ cho
+Ban Tổng Giám đốc. Công ty nhận định rủi ro tín dụng liên quan đến các số dư với ngân hàng là thấp.
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có số dư nào với ngân hàng và công ty tài
 chính nào bị quá hạn mà chưa thu hồi hoặc bị suy giảm giá trị.
-(ii)	
 Trái phiếu doanh nghiệp
-Trái phiếu doanh nghiệp thuộc danh mục tài sản tài chính FVTPL và HTM của Công ty là trái phiếu được phát hành 
-bởi tổ chức niêm yết có phương án phát hành được phê duyệt bởi Ủy ban Chứng khoán Nhà nước. Chi tiết điều khoản 
-của trái phiếu được trình bày ở Thuyết minh 3.2(a). Các đề xuất đầu tư vào các chứng khoán này được phê duyệt theo 
-chính sách đầu tư của Công ty. 
-Danh mục đầu tư vào chứng khoán nợ được theo dõi thường xuyên bởi bộ phận ngân quỹ và báo cáo định kỳ cho Ban 
+Trái phiếu doanh nghiệp thuộc danh mục tài sản tài chính FVTPL và HTM của Công ty là trái phiếu được phát hành
+bởi tổ chức niêm yết có phương án phát hành được phê duyệt bởi Ủy ban Chứng khoán Nhà nước. Chi tiết điều khoản
+của trái phiếu được trình bày ở Thuyết minh 3.2(a). Các đề xuất đầu tư vào các chứng khoán này được phê duyệt theo
+chính sách đầu tư của Công ty.
+Danh mục đầu tư vào chứng khoán nợ được theo dõi thường xuyên bởi bộ phận ngân quỹ và báo cáo định kỳ cho Ban
 Tổng Giám đốc. Công ty nhận định rủi ro tín dụng liên quan đến các chứng khoán nợ của Công ty là thấp.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có chứng khoán nợ nào chiếm trên 10% vốn 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có chứng khoán nợ nào chiếm trên 10% vốn
 chủ sở hữu của Công ty.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có chứng khoán nợ nào bị quá hạn mà chưa 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có chứng khoán nợ nào bị quá hạn mà chưa
 thu hồi hoặc bị suy giảm giá trị.
-(iii)	
 Ứng trước tiền bán chứng khoán và tiền gửi ký quỹ giao dịch chứng khoán phái sinh
-Ứng trước tiền bán chứng khoán được thu hồi trực tiếp từ Trung tâm Lưu ký Chứng khoán. Tiền gửi ký quỹ giao dịch 
-chứng khoán phái sinh được yêu cầu nộp vào đơn vị này. 
-Trung tâm Lưu ký Chứng khoán là một đơn vị thuộc sở hữu Nhà nước và chưa từng rơi vào tình trạng mất khả năng 
-thanh toán. 
-Trung tâm Lưu ký Chứng khoán yêu cầu các thành viên phải nộp tiền vào Quỹ Hỗ trợ Thanh toán và Quỹ bù trừ chứng 
-khoán phái sinh để đảm bảo khả năng thanh toán. 
-Công ty chứng khoán chỉ được nhận lệnh mua hoặc bán chứng khoán của khách hàng khi có đủ một trăm phần trăm 
-(100%) tiền hoặc chứng khoán và phải có các biện pháp cần thiết để đảm bảo khả năng thanh toán của khách hàng 
-khi lệnh giao dịch được thực hiện. 
+Ứng trước tiền bán chứng khoán được thu hồi trực tiếp từ Trung tâm Lưu ký Chứng khoán. Tiền gửi ký quỹ giao dịch
+chứng khoán phái sinh được yêu cầu nộp vào đơn vị này.
+Trung tâm Lưu ký Chứng khoán là một đơn vị thuộc sở hữu Nhà nước và chưa từng rơi vào tình trạng mất khả năng
+thanh toán.
+Trung tâm Lưu ký Chứng khoán yêu cầu các thành viên phải nộp tiền vào Quỹ Hỗ trợ Thanh toán và Quỹ bù trừ chứng
+khoán phái sinh để đảm bảo khả năng thanh toán.
+Công ty chứng khoán chỉ được nhận lệnh mua hoặc bán chứng khoán của khách hàng khi có đủ một trăm phần trăm
+(100%) tiền hoặc chứng khoán và phải có các biện pháp cần thiết để đảm bảo khả năng thanh toán của khách hàng
+khi lệnh giao dịch được thực hiện.
 Công ty nhận định rủi ro tín dụng liên quan đến các khoản ứng trước tiền bán chứng khoán là thấp.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có số dư nào với Trung tâm Lưu ký Chứng 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có số dư nào với Trung tâm Lưu ký Chứng
 khoán bị quá hạn mà chưa thu hồi bị suy giảm giá trị.
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-198
-199
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-10	
 QUẢN LÝ RỦI RO TÀI CHÍNH (tiếp theo)
-(a)	
 Rủi ro tín dụng (tiếp theo)
-(iv)	
 Hợp đồng giao dịch ký quỹ
-Hợp đồng giao dịch ký quỹ được đảm bảo bằng chứng khoán niêm yết trên các sở giao dịch chứng khoán được phép 
-giao dịch ký quỹ. Theo pháp luật chứng khoán hiện hành, mức cho vay ký quỹ tối đa là 50% giá trị chứng khoán được 
-phép giao dịch ký quỹ. Danh sách chứng khoán không được phép giao dịch ký quỹ được cập nhật thường xuyên bởi 
-các sở giao dịch chứng khoán. Danh sách chứng khoán được phép giao dịch ký quỹ được phê duyệt và cập nhật 
-thường xuyên bởi bộ phận quản trị rủi ro giao dịch ký quỹ dựa trên một số tiêu chí bao gồm biến động giá và tính 
-thanh khoản. 
-Bộ phận Dịch vụ Khách hàng có nhiệm vụ liên tục rà soát báo cáo giao dịch ký quỹ bao gồm dư nợ, giá trị tài sản đảm 
-bảo và tỷ lệ ký quỹ duy trì. Khi tỷ lệ ký quỹ duy trì giảm xuống thấp hơn 40% (theo luật định: 30%), hệ thống thông tin 
-của Công ty sẽ cảnh báo và Công ty xuất lệnh yêu cầu khách hàng ký quỹ bổ sung. Khi tỷ lệ ký quỹ duy trì giảm xuống 
-thấp hơn 30%, Công ty buộc phải thanh lý tài sản đảm bảo để thu hồi nợ. 
-Giá trị thị trường của tổng tài sản đảm bảo tại ngày 31 tháng 12 năm 2021 là 48.721.316.206.750 Đồng (tại ngày 31 
-tháng 12 năm 2020: 17.980.801.537.100 Đồng). 
-Theo pháp luật chứng khoán hiện hành, mức cho vay ký quỹ tối đa đối với một cá nhân hoặc một tổ chức là 3% vốn 
-chủ sở hữu của công ty chứng khoán. Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có 
+Hợp đồng giao dịch ký quỹ được đảm bảo bằng chứng khoán niêm yết trên các sở giao dịch chứng khoán được phép
+giao dịch ký quỹ. Theo pháp luật chứng khoán hiện hành, mức cho vay ký quỹ tối đa là 50% giá trị chứng khoán được
+phép giao dịch ký quỹ. Danh sách chứng khoán không được phép giao dịch ký quỹ được cập nhật thường xuyên bởi
+các sở giao dịch chứng khoán. Danh sách chứng khoán được phép giao dịch ký quỹ được phê duyệt và cập nhật
+thường xuyên bởi bộ phận quản trị rủi ro giao dịch ký quỹ dựa trên một số tiêu chí bao gồm biến động giá và tính
+thanh khoản.
+Bộ phận Dịch vụ Khách hàng có nhiệm vụ liên tục rà soát báo cáo giao dịch ký quỹ bao gồm dư nợ, giá trị tài sản đảm
+bảo và tỷ lệ ký quỹ duy trì. Khi tỷ lệ ký quỹ duy trì giảm xuống thấp hơn 40% (theo luật định: 30%), hệ thống thông tin
+của Công ty sẽ cảnh báo và Công ty xuất lệnh yêu cầu khách hàng ký quỹ bổ sung. Khi tỷ lệ ký quỹ duy trì giảm xuống
+thấp hơn 30%, Công ty buộc phải thanh lý tài sản đảm bảo để thu hồi nợ.
+Giá trị thị trường của tổng tài sản đảm bảo tại ngày 31 tháng 12 năm 2021 là 48.721.316.206.750 Đồng (tại ngày 31
+Theo pháp luật chứng khoán hiện hành, mức cho vay ký quỹ tối đa đối với một cá nhân hoặc một tổ chức là 3% vốn
+chủ sở hữu của công ty chứng khoán. Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có
 khoản cho vay ký quỹ nào vượt quá 3% vốn chủ sở hữu của Công ty.
 Phân tích chất lượng tín dụng của các khoản cho vay ký quỹ tại ngày báo cáo như sau:
-Tại ngày 
-31.12.2021 
-VND
-31.12.2020 
-VND
+Tại ngày
 Quá hạn và bị suy giảm giá trị
-2.169.825.587
-2.678.427.974
 Quá hạn nhưng không suy giảm giá trị
--
--
-Chưa quá hạn và không bị suy giảm 
+Chưa quá hạn và không bị suy giảm
 giá trị
-7.513.616.477.968
-3.755.426.795.545
 Dự phòng đã lập
-(2.169.825.587)
-(2.384.027.974)
 Giá trị thuần
-7.513.616.477.968
-3.755.721.195.545
-(v)	
-Các khoản phải thu 
-Công ty giới hạn rủi ro tín dụng bằng cách chỉ giao dịch với đối tác mà Công ty tín nhiệm và yêu cầu các biện pháp 
+Các khoản phải thu
+Công ty giới hạn rủi ro tín dụng bằng cách chỉ giao dịch với đối tác mà Công ty tín nhiệm và yêu cầu các biện pháp
 đảm bảo khi cần thiết.
-Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có khoản phải thu nào chiếm trên 10% vốn 
+Tại ngày 31 tháng 12 năm 2021 và tại ngày 31 tháng 12 năm 2020, không có khoản phải thu nào chiếm trên 10% vốn
 chủ sở hữu của Công ty.
 Phân tích chất lượng tín dụng của các khoản phải thu tại ngày báo cáo như sau:
-Quá hạn và 
-bị suy giảm 
-VND
-Quá hạn nhưng 
-không suy giảm 
-VND
-Chưa quá hạn 
-và không bị suy 
-giảm 
-VND
-Tổng 
-VND
-Tại ngày 31.12.2021
+Quá hạn và
+bị suy giảm
+Quá hạn nhưng
+không suy giảm
+Chưa quá hạn
+và không bị suy
+giảm
+Tổng
 Trong hạn
--
--
-265.041.517.178 
-265.041.517.178 
 Quá hạn dưới 1 tháng
--
--
--
--
 Quá hạn trên 3 tháng
-1.928.450.000
--
--
-1.928.450.000
-1.928.450.000
--
-265.041.517.178 
-266.969.967.178
 Dự phòng đã lập
-(1.928.450.000)
--
--
-(1.928.450.000)
 Giá trị thuần
--
--
-265.041.517.178 
-265.041.517.178
-Tại ngày 31.12.2020
 Trong hạn
--
--
-240.642.699.689
-240.642.699.689
 Quá hạn dưới 1 tháng
--
--
--
--
 Quá hạn trên 3 tháng
-1.928.450.000
--
--
-1.928.450.000
-1.928.450.000
--
-240.642.699.689
-242.571.149.689
 Dự phòng đã lập
-(1.928.450.000)
--
--
-(1.928.450.000)
 Giá trị thuần
--
--
-240.642.699.689
-240.642.699.689
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-200
-201
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-10	
 QUẢN LÝ RỦI RO TÀI CHÍNH (tiếp theo)
-(b)	
 Rủi ro thị trường
-Rủi ro thị trường là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động 
-theo những thay đổi của giá thị trường. Giá thị trường có các loại rủi ro: rủi ro lãi suất, rủi ro tiền tệ và rủi ro về giá 
+Rủi ro thị trường là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động
+theo những thay đổi của giá thị trường. Giá thị trường có các loại rủi ro: rủi ro lãi suất, rủi ro tiền tệ và rủi ro về giá
 chứng khoán.
-Công ty quản lý rủi ro giá thị trường bằng việc phân tích độ nhạy của các nhân tố ảnh hưởng đến tình hình tài chính 
-và kết quả hoạt động của Công ty, đa dạng hóa danh mục đầu tư và thận trọng trong việc lựa chọn các chứng khoán 
+Công ty quản lý rủi ro giá thị trường bằng việc phân tích độ nhạy của các nhân tố ảnh hưởng đến tình hình tài chính
+và kết quả hoạt động của Công ty, đa dạng hóa danh mục đầu tư và thận trọng trong việc lựa chọn các chứng khoán
 để đầu tư trong hạn mức được quy định, và thực hiện các biện pháp phòng ngừa rủi ro khi cần thiết.
 •	 Rủi ro lãi suất
-Rủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động 
-theo lãi suất thị trường. Công ty có rủi ro lãi suất chủ yếu liên quan đến các khoản tiền gửi ngân hàng, đầu tư trái 
+Rủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động
+theo lãi suất thị trường. Công ty có rủi ro lãi suất chủ yếu liên quan đến các khoản tiền gửi ngân hàng, đầu tư trái
 phiếu, cho vay và đi vay.
-Công ty quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có các mức lãi suất sao 
+Công ty quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có các mức lãi suất sao
 cho có lợi nhất cho mục đích của Công ty mà vẫn nằm trong giới hạn quản lý rủi ro.
-Các khoản tiền gửi ngân hàng, đầu tư trái phiếu, cho vay và đi vay của Công ty đều có lãi suất cố định và thời hạn 
-ngắn nên rủi ro do lãi suất biến động là không đáng kể. 
-Chi tiết lãi suất của các trái phiếu doanh nghiệp và các khoản đi vay của Công ty được trình bày ở Thuyết minh 
+Các khoản tiền gửi ngân hàng, đầu tư trái phiếu, cho vay và đi vay của Công ty đều có lãi suất cố định và thời hạn
+ngắn nên rủi ro do lãi suất biến động là không đáng kể.
+Chi tiết lãi suất của các trái phiếu doanh nghiệp và các khoản đi vay của Công ty được trình bày ở Thuyết minh
 3.2 và Thuyết minh 3.11.
 •	 Rủi ro về giá cổ phiếu
-Các cổ phiếu do Công ty nắm giữ trong danh mục tài sản tài chính, vị thế mở hợp đồng tương lai và chứng quyền 
-có bảo đảm do Công ty phát hành bị ảnh hưởng bởi các rủi ro thị trường phát sinh từ tính không chắc chắn về giá 
-trị tương lai của các khoản mục này. Công ty quản lý rủi ro về giá cổ phiếu bằng cách thiết lập hạn mức đầu tư và 
-thực hiện các biện pháp phòng ngừa rủi ro khi cần thiết. Hội đồng Đầu tư của Công ty cũng xem xét và phê duyệt 
+Các cổ phiếu do Công ty nắm giữ trong danh mục tài sản tài chính, vị thế mở hợp đồng tương lai và chứng quyền
+có bảo đảm do Công ty phát hành bị ảnh hưởng bởi các rủi ro thị trường phát sinh từ tính không chắc chắn về giá
+trị tương lai của các khoản mục này. Công ty quản lý rủi ro về giá cổ phiếu bằng cách thiết lập hạn mức đầu tư và
+thực hiện các biện pháp phòng ngừa rủi ro khi cần thiết. Hội đồng Đầu tư của Công ty cũng xem xét và phê duyệt
 các quyết định đầu tư vào chứng khoán và phát hành chứng quyền.
-Tại ngày 31 tháng 12 năm 2021, nếu giá chứng khoán tăng/giảm 10% trong khi tất cả các biến số khác (kể cả thuế 
-suất) giữ nguyên không đổi thì lợi nhuận trước thuế của Công ty sẽ cao hơn/thấp hơn 614.802.061.045 Đồng 
+Tại ngày 31 tháng 12 năm 2021, nếu giá chứng khoán tăng/giảm 10% trong khi tất cả các biến số khác (kể cả thuế
+suất) giữ nguyên không đổi thì lợi nhuận trước thuế của Công ty sẽ cao hơn/thấp hơn 614.802.061.045 Đồng
 tương ứng (tại ngày 31 tháng 12 năm 2020: cao hơn/thấp hơn 296.994.029.441 Đồng tương ứng).
 •	 Rủi ro tiền tệ
-Rủi ro tiền tệ là rủi ro mà giá trị của các công cụ tài chính bị thay đổi xuất phát từ những thay đổi về tỷ giá. Công 
-ty quản lý rủi ro tiền tệ bằng cách thường xuyên theo dõi tình hình tỷ giá, cập nhật kế hoạch dòng tiền bằng ngoại 
+Rủi ro tiền tệ là rủi ro mà giá trị của các công cụ tài chính bị thay đổi xuất phát từ những thay đổi về tỷ giá. Công
+ty quản lý rủi ro tiền tệ bằng cách thường xuyên theo dõi tình hình tỷ giá, cập nhật kế hoạch dòng tiền bằng ngoại
 tệ và tham gia hợp đồng hoán đổi ngoại tệ và hợp đồng mua bán ngoại tệ kỳ hạn (Thuyết minh 3.9).
 Việc kinh doanh của Công ty phải chịu rủi ro từ một số ngoại tệ, chủ yếu là từ đồng Đô la Mỹ (“USD”).
 Rủi ro tỷ giá Đô la Mỹ của Công ty được trình bày như sau:
 Ngoại tệ gốc USD
 Quy đổi sang VND
-31.12.2021
-31.12.2020
-31.12.2021
-31.12.2020
-Tài sản tài chính 
-Tiền 
-10.335.519
-861.862
- 234.256.245.326
-20.579.719.026
-Nợ tài chính 
-Các khoản vay 
-(phần chưa được 
+Tài sản tài chính
+Tiền
+Nợ tài chính
+Các khoản vay
+(phần chưa được
 phòng ngừa rủi ro)
-(21.000.000) 
-(11.000.000)
-(482.945.000.000)
-(255.930.000.000)
 Nợ tài chính thuần
-(10.664.481) 
-(10.138.138)
-(248.688.754.674) 
-(235.350.280.974)
-Mức độ rủi ro 
+Mức độ rủi ro
 ngoại tệ, thuần
-(10.664.481) 
-(10.138.138)
-(248.688.754.674) 
-(235.350.280.974)
-Tại ngày 31 tháng 12 năm 2021, nếu Đô la Mỹ mạnh lên/yếu đi 10% (ước tính % thay đổi tỷ giá hối đoái) so với Đồng Việt 
-Nam trong khi mọi biến số khác giữ nguyên không đổi, thì lợi nhuận trước thuế của Công ty cho năm tài chính sẽ thấp 
-hơn/cao hơn 227.844.375.467 Đồng tương ứng chủ yếu là do tăng/giảm lỗ quy đổi tỷ giá của các công cụ tài chính có 
+Tại ngày 31 tháng 12 năm 2021, nếu Đô la Mỹ mạnh lên/yếu đi 10% (ước tính % thay đổi tỷ giá hối đoái) so với Đồng Việt
+Nam trong khi mọi biến số khác giữ nguyên không đổi, thì lợi nhuận trước thuế của Công ty cho năm tài chính sẽ thấp
+hơn/cao hơn 227.844.375.467 Đồng tương ứng chủ yếu là do tăng/giảm lỗ quy đổi tỷ giá của các công cụ tài chính có
 gốc Đô la Mỹ (tại ngày 31 tháng 12 năm 2020: thấp hơn/cao hơn 23.535.028.097 Đồng tương ứng).
-(c)	
-Rủi ro thanh khoản 
-Rủi ro thanh khoản là rủi ro Công ty sẽ gặp khó khăn và không thể thực hiện các nghĩa vụ liên quan đến các khoản 
-nợ tài chính. 
-Phương pháp quản lý rủi ro thanh khoản của Công ty là duy trì một danh mục tài sản có tính thanh khoản cao nhằm 
+Rủi ro thanh khoản
+Rủi ro thanh khoản là rủi ro Công ty sẽ gặp khó khăn và không thể thực hiện các nghĩa vụ liên quan đến các khoản
+nợ tài chính.
+Phương pháp quản lý rủi ro thanh khoản của Công ty là duy trì một danh mục tài sản có tính thanh khoản cao nhằm
 đảm bảo khả năng đáp ứng các yêu cầu thanh toán trong ngắn hạn và dài hạn.
 Các tài sản của Công ty được dùng làm tài sản đảm bảo cho các khoản nợ được trình bày tại Thuyết minh 3.8.
-Bảng dưới đây liệt kê các khoản nợ tài chính của Công ty theo dòng tiền theo hợp đồng không chiết khấu có thời hạn 
+Bảng dưới đây liệt kê các khoản nợ tài chính của Công ty theo dòng tiền theo hợp đồng không chiết khấu có thời hạn
 dưới 1 năm:
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Vay ngắn hạn (Thuyết minh 3.9)
-6.362.680.000.000
-2.696.130.000.000
 Trái phiếu phát hành ngắn hạn (Thuyết minh 3.9)
-1.964.070.000.000
-668.320.000.000
-Phải trả hoạt động giao dịch chứng khoán  
+Phải trả hoạt động giao dịch chứng khoán
 (Thuyết minh 3.10)
-79.581.842.302
-18.874.600.217
 Phải trả người bán ngắn hạn (Thuyết minh 3.11)
-587.193.591.020
-100.113.858.204
 Chi phí phải trả ngắn hạn (Thuyết minh 3.14)
-72.911.685.779
-29.820.525.679
-Các khoản phải trả, phải nộp khác ngắn hạn 
+Các khoản phải trả, phải nộp khác ngắn hạn
 (Thuyết minh 3.15)
-11.877.822.976
-27.684.655.910
 Tổng nợ tài chính
-9.078.314.942.077
-3.540.943.640.010
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-202
-203
-Thông điệp 
+Thông điệp
 Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
+VCSC -
+Tiềm năng
 nội tại
-Sức khỏe doanh nghiệp  
+Sức khỏe doanh nghiệp
 & Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
+Chiến lược
+Quản trị
+Vươn xa
 cùng kỷ nguyên số
-Phát triển  
+Phát triển
 bền vững
-Khẳng định  
+Khẳng định
 vị thế
 
 Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
-THUYẾT MINH BÁO CÁO TÀI CHÍNH (tiếp theo)
-Mẫu số B09 - CTCK
-BÁO CÁO TÀI CHÍNH
-10 	
 QUẢN LÝ RỦI RO TÀI CHÍNH (tiếp theo)
-(d)	
 Chỉ tiêu an toàn tài chính
-Tỷ lệ vốn khả dụng là một thước đo đánh giá mức độ an toàn tài chính của Công ty, phản ánh khả năng của Công ty 
-trong việc thanh toán nhanh các nghĩa vụ tài chính và khả năng bù đắp các loại rủi ro phát sinh trong quá trình hoạt 
-động của Công ty. 
-Tỷ lệ này được tính toán và trình bày trong Báo cáo tỷ lệ an toàn tài chính của Công ty. Báo cáo này được lập định 
-kỳ hàng tháng và tuân thủ theo quy định trong Thông tư 91/2020/TT-BTC (tại ngày 31 tháng 12 năm 2020: Thông tư 
-87/2017/TT-BTC do Bộ Tài chính ban hành ngày 15 tháng 8 năm 2017), theo đó Công ty quản trị và kiểm soát tỷ lệ vốn 
+Tỷ lệ vốn khả dụng là một thước đo đánh giá mức độ an toàn tài chính của Công ty, phản ánh khả năng của Công ty
+trong việc thanh toán nhanh các nghĩa vụ tài chính và khả năng bù đắp các loại rủi ro phát sinh trong quá trình hoạt
+động của Công ty.
+Tỷ lệ này được tính toán và trình bày trong Báo cáo tỷ lệ an toàn tài chính của Công ty. Báo cáo này được lập định
+kỳ hàng tháng và tuân thủ theo quy định trong Thông tư 91/2020/TT-BTC (tại ngày 31 tháng 12 năm 2020: Thông tư
+87/2017/TT-BTC do Bộ Tài chính ban hành ngày 15 tháng 8 năm 2017), theo đó Công ty quản trị và kiểm soát tỷ lệ vốn
 khả dụng không thấp hơn 180%.
 Tại ngày 31 tháng 12 năm 2021, tỷ lệ vốn khả dụng của Công ty là 400% (tại ngày 31 tháng 12 năm 2020: 535%).
-11
-CAM KẾT THUÊ HOẠT ĐỘNG 
-Công ty hiện đang thuê văn phòng theo các hợp đồng thuê hoạt động. Đối với các hợp đồng thuê hoạt động không 
+CAM KẾT THUÊ HOẠT ĐỘNG
+Công ty hiện đang thuê văn phòng theo các hợp đồng thuê hoạt động. Đối với các hợp đồng thuê hoạt động không
 hủy ngang, Công ty phải trả mức tối thiểu trong tương lai như sau:
 Tại ngày
-31.12.2021 
- VND
-31.12.2020 
-VND
-Dưới 1 năm 
-19.231.527.348
-16.158.205.798
+Dưới 1 năm
 Từ 1 đến 5 năm
-13.972.557.162
-14.203.945.743
-Tổng cộng 
-33.204.084.510
-30.362.151.541
- 12
 CAM KẾT VỐN
-Cam kết mua tài sản cố định đã ký hợp đồng tại ngày báo cáo nhưng chưa được hạch toán vào báo cáo tài chính như 
-sau:
+Cam kết mua tài sản cố định đã ký hợp đồng tại ngày báo cáo nhưng chưa được hạch toán vào báo cáo tài chính như
 Tại ngày
-31.12.2021 
-VND
-31.12.2020 
-VND
 Phần mềm giao dịch
-8.714.400.000
-8.474.400.000
-13
 KHỐI LƯỢNG VÀ GIÁ TRỊ GIAO DỊCH THỰC HIỆN TRONG NĂM
-Khối lượng giao dịch 
+Khối lượng giao dịch
 thực hiện trong năm
-Giá trị khối lượng 
-giao dịch thực hiện 
-trong năm 
-VND
-a)
+Giá trị khối lượng
+giao dịch thực hiện
+trong năm
 Của Công ty
 Cổ phiếu
-688.055.635
-34.905.219.002.423
 Trái phiếu
-84.315.176
-9.672.603.234.824
 Hợp đồng tương lai
-192.779
-25.922.302.160.000
 Chứng quyền có bảo đảm
-31.321.200
-113.010.092.000
-b)
 Của nhà đầu tư
 Cổ phiếu
-14.445.147.997
-562.440.837.963.585
 Trái phiếu
-393.177.104
-40.465.543.118.201
 Hợp đồng tương lai
-516.652
-70.416.393.060.000
-Chứng quyền có bảo đảm 
-73.186.800
-247.684.159.000
-15.715.913.343
-744.183.592.790.033
- 
-14
-SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC NĂM TÀI CHÍNH 
-Từ ngày 1 tháng 2 năm 2022, Thông tư 114/2021/TT-BTC do Bộ Tài chính ban ngày 17 tháng 12 năm 2021 chính thức 
-có hiệu lực, theo đó: 
-•	 Chế độ tài chính đối với công ty chứng khoán và công ty quản lý quỹ theo Thông tư 146/2014/TT-BTC được bãi 
+Chứng quyền có bảo đảm
+SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC NĂM TÀI CHÍNH
+Từ ngày 1 tháng 2 năm 2022, Thông tư 114/2021/TT-BTC do Bộ Tài chính ban ngày 17 tháng 12 năm 2021 chính thức
+có hiệu lực, theo đó:
+•	 Chế độ tài chính đối với công ty chứng khoán và công ty quản lý quỹ theo Thông tư 146/2014/TT-BTC được bãi
 bỏ toàn bộ.
-•	 Đối với số dư quỹ dự trữ bổ sung vốn điều lệ được trích lập theo Thông tư 146/2014/TT-BTC, Công ty sẽ bổ sung 
+•	 Đối với số dư quỹ dự trữ bổ sung vốn điều lệ được trích lập theo Thông tư 146/2014/TT-BTC, Công ty sẽ bổ sung
 vốn điều lệ theo Luật Chứng khoán 2019, các văn bản hướng dẫn và Điều lệ hoạt động của Công ty.
-•	 Đối với số dư quỹ dự phòng tài chính và rủi ro nghiệp vụ được trích lập theo Thông tư 146/2014/TT-BTC, Công ty 
-sẽ bổ sung vốn điều lệ hoặc sử dụng theo quyết định của Đại hội đồng Cổ đông, Luật Chứng khoán 2019 và các 
-văn bản hướng dẫn, và Điều lệ hoạt động của Công ty, đảm bảo đáp ứng chỉ tiêu an toàn tài chính theo quy định 
+•	 Đối với số dư quỹ dự phòng tài chính và rủi ro nghiệp vụ được trích lập theo Thông tư 146/2014/TT-BTC, Công ty
+sẽ bổ sung vốn điều lệ hoặc sử dụng theo quyết định của Đại hội đồng Cổ đông, Luật Chứng khoán 2019 và các
+văn bản hướng dẫn, và Điều lệ hoạt động của Công ty, đảm bảo đáp ứng chỉ tiêu an toàn tài chính theo quy định
 của pháp luật chứng khoán.
-Ngoài sự kiện nêu trên, không có sự kiện trọng yếu nào khác phát sinh sau ngày báo cáo cần điều chỉnh hoặc trình 
-bày trên báo cáo tài chính này.
+Ngoài sự kiện nêu trên, không có sự kiện trọng yếu nào khác phát sinh sau ngày báo cáo cần điều chỉnh hoặc trình
 Báo cáo tài chính đã được Ban Tổng Giám đốc phê chuẩn để phát hành ngày 10 tháng 3 năm 2022.
-	
-	
- 
-Nguyễn Thị Lành	
-Đoàn Minh Thiện	
-Tô Hải  
-Người lập	
-Kế toán trưởng	
-Tổng Giám đốc 
-	
-	
-Ngày 10 tháng 3 năm 2022
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-204
-205
-Thông điệp 
-Ban Lãnh đạo
-VCSC -  
-Dấu ấn chuyển mình
-Tiềm năng  
-nội tại
-Sức khỏe doanh nghiệp  
-& Quản trị rủi ro
-Chiến lược  
-Quản trị 
-Vươn xa  
-cùng kỷ nguyên số
-Phát triển  
-bền vững
-Khẳng định  
-vị thế
-
-ĐẠI DIỆN CỦA 
-CÔNG TY CỔ PHẦN CHỨNG KHOÁN BẢN VIỆT
- Ngày 29 tháng 03 năm 2022
-Tô Hải 
+Nguyễn Thị Lành
+Đoàn Minh Thiện
+Tô Hải
+Người lập
+Kế toán trưởng
 Tổng Giám đốc
-Nhằm góp phần bảo vệ môi trường, Báo cáo thường niên 2021 của VCSC được in với số lượng có hạn. 
-Vì vậy, khi không còn nhu cầu sử dụng, Quý vị vui lòng chuyển cho những người có quan tâm. Ngoài ra, 
-Báo cáo thường niên 2021 của VCSC còn được công bố bằng phiên bản điện tử, Quý vị quan tâm vui lòng 
-truy cập website: www.vcsc.com.vn
-SCAN ĐỂ XEM 
-PHIÊN BẢN TRỰC TUYẾN
-BÁO CÁO THƯỜNG NIÊN VCSC 2021
-206
+Ngày 10 tháng 3 năm 2022
+Thông điệp
+Ban Lãnh đạo
+VCSC -
+Tiềm năng
+nội tại
+Sức khỏe doanh nghiệp
+& Quản trị rủi ro
+Chiến lược
+Quản trị
+Vươn xa
+cùng kỷ nguyên số
+Phát triển
+bền vững
+Khẳng định
+vị thế

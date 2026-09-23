@@ -1,7 +1,5 @@
-MỤC LỤC
 TẦM NHÌN LÃNH ĐẠO
 NỀN TẢNG PHÁT TRIỂN
-DẤU ẤN CHUYỂN MÌNH
 TRỤ CỘT VỮNG CHẮC
 DẪN DẮT TẦM NHÌN
 ĐỊNH HÌNH TRIỂN VỌNG
@@ -15,27 +13,14 @@ Tham chiếu chỉ số GRI
 CHỦ ĐỘNG BỨT PHÁ
 Thông tin cổ phiếu và hoạt động quan hệ nhà đầu tư
 Cơ cấu cổ đông
-Báo cáo tài chính
-08
-07
-06
-01
-03
-04
-02
-05
 CHUYỂN MÌNH
 TOÀN DIỆN
 CỦNG CỐ
-NỘI LỰC 
+NỘI LỰC
 SẴN SÀNG
 VƯƠN XA
 NỀN TẢNG
-CHUYỂN MÌNH 
-78 - 104
-06 - 24
-32 - 71
-110 - 136
+CHUYỂN MÌNH
 Thông điệp Chủ tịch HĐQT
 Lời mở đầu
 18 năm kiến tạo phát triển
@@ -44,7 +29,7 @@ Tổng quan thị trường năm 2025
 Nhân sự
 Ngân hàng Đầu tư
 Tư vấn Tài chính Doanh Nghiệp
-Tư vấn Đầu tư 
+Tư vấn Đầu tư
 Giao dịch Chứng khoán & Khách hàng Tổ chức
 Nghiên cứu & Phân tích
 Tự doanh
@@ -53,44 +38,6 @@ An toàn thông tin
 Đổi mới sáng tạo
 Thông tin doanh nghiệp
 Tầm nhìn - Sứ mệnh - Giá trị cốt lõi
-Dấu ấn tự hào
-Diễn giải báo cáo tài chính 2025
-06
-08
-10
-12
-18
-21
-22
-24
-32
-38
-48
-52
-54
-61
-62
-64
-66
-69
-71
-78
-82
-86
-88
-90
-100
-102
-104
-110
-112
-114
-119
-121
-130
-133
-134
-136
 Vị thế tài chính
 Quản trị rủi ro
 Đạo đức nghề nghiệp
@@ -106,981 +53,917 @@ NGUYỄN THANH PHƯỢNG
 Chủ tịch Hội đồng Quản trị
 Kính gửi Quý Cổ đông,
 Quý Khách hàng và Quý Đồng nghiệp,
-Năm 2025 đánh dấu bước phục hồi mạnh mẽ và bứt phá rõ nét 
-của nền kinh tế Việt Nam. Với mức tăng trưởng GDP xấp xỉ 8%, 
-nền kinh tế cho thấy sức bật đáng kể của sản xuất, xuất khẩu và 
-tiêu dùng nội địa, tạo nên một chu kỳ tăng trưởng mới trong bối 
-cảnh kinh tế thế giới vẫn tiềm ẩn nhiều bất định. Đà phục hồi lan 
-tỏa đồng đều ở các ngành trọng yếu, đặc biệt là sản xuất và dịch 
-vụ, đã củng cố nền tảng tăng trưởng vững chắc trong suốt các 
-quý của năm. Việt Nam tiếp tục khẳng định vị thế là điểm đến hấp 
-dẫn của dòng vốn đầu tư khi duy trì được ổn định vĩ mô, cải thiện 
-cán cân thương mại và giữ nhịp tăng trưởng tích cực của đầu tư 
-trực tiếp nước ngoài. Những yếu tố này không chỉ tạo dư địa cho 
-hoạt động sản xuất, kinh doanh, mà còn đóng vai trò quan trọng 
-trong việc nâng cao quy mô, chiều sâu và sức hấp dẫn của thị 
+Năm 2025 đánh dấu bước phục hồi mạnh mẽ và bứt phá rõ nét
+của nền kinh tế Việt Nam. Với mức tăng trưởng GDP xấp xỉ 8%,
+nền kinh tế cho thấy sức bật đáng kể của sản xuất, xuất khẩu và
+tiêu dùng nội địa, tạo nên một chu kỳ tăng trưởng mới trong bối
+cảnh kinh tế thế giới vẫn tiềm ẩn nhiều bất định. Đà phục hồi lan
+tỏa đồng đều ở các ngành trọng yếu, đặc biệt là sản xuất và dịch
+vụ, đã củng cố nền tảng tăng trưởng vững chắc trong suốt các
+quý của năm. Việt Nam tiếp tục khẳng định vị thế là điểm đến hấp
+dẫn của dòng vốn đầu tư khi duy trì được ổn định vĩ mô, cải thiện
+cán cân thương mại và giữ nhịp tăng trưởng tích cực của đầu tư
+trực tiếp nước ngoài. Những yếu tố này không chỉ tạo dư địa cho
+hoạt động sản xuất, kinh doanh, mà còn đóng vai trò quan trọng
+trong việc nâng cao quy mô, chiều sâu và sức hấp dẫn của thị
 trường vốn.
-Trên nền tảng ổn định của kinh tế vĩ mô và sự cải thiện rõ nét của 
-môi trường đầu tư, thị trường chứng khoán Việt Nam trong năm 
-2025 tiếp tục duy trì trạng thái vận hành an toàn, minh bạch và có 
-tính thanh khoản cao. Chỉ số VN-Index liên tục xác lập những cột 
-mốc mới, tính đến cuối tháng 12 tăng gần 41% so với cuối năm 
-trước, phản ánh niềm tin ngày càng gia tăng của nhà đầu tư vào 
-triển vọng tăng trưởng của nền kinh tế. Thanh khoản thị trường 
-duy trì ở mức cao, với giá trị giao dịch bình quân cả năm 2025 trên 
-tổng 3 sàn đạt hơn 29.500 tỷ đồng mỗi phiên, tăng trên 40% so 
-với năm 2024, cho thấy sự lan tỏa mạnh mẽ của dòng tiền trên 
-toàn thị trường. Quy mô vốn hóa thị trường cổ phiếu theo đó 
-cũng ghi nhận mức tăng khoảng 39% so với thời điểm cuối năm 
-2024, cùng với sự mở rộng nhanh chóng của cơ sở nhà đầu tư khi 
-số lượng tài khoản đạt hơn 11,9 triệu, vượt mục tiêu đặt ra trong 
-Chiến lược phát triển thị trường chứng khoán đến năm 2030. Đặc 
-biệt, việc tổ chức xếp hạng FTSE Russell chính thức công bố 
-nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận 
-biên lên thị trường mới nổi thứ cấp đã tạo thêm lực đẩy quan 
-trọng, góp phần củng cố niềm tin, thu hút dòng vốn và thúc đẩy 
+Trên nền tảng ổn định của kinh tế vĩ mô và sự cải thiện rõ nét của
+môi trường đầu tư, thị trường chứng khoán Việt Nam trong năm
+2025 tiếp tục duy trì trạng thái vận hành an toàn, minh bạch và có
+tính thanh khoản cao. Chỉ số VN-Index liên tục xác lập những cột
+mốc mới, tính đến cuối tháng 12 tăng gần 41% so với cuối năm
+trước, phản ánh niềm tin ngày càng gia tăng của nhà đầu tư vào
+triển vọng tăng trưởng của nền kinh tế. Thanh khoản thị trường
+duy trì ở mức cao, với giá trị giao dịch bình quân cả năm 2025 trên
+tổng 3 sàn đạt hơn 29.500 tỷ đồng mỗi phiên, tăng trên 40% so
+với năm 2024, cho thấy sự lan tỏa mạnh mẽ của dòng tiền trên
+toàn thị trường. Quy mô vốn hóa thị trường cổ phiếu theo đó
+cũng ghi nhận mức tăng khoảng 39% so với thời điểm cuối năm
+2024, cùng với sự mở rộng nhanh chóng của cơ sở nhà đầu tư khi
+số lượng tài khoản đạt hơn 11,9 triệu, vượt mục tiêu đặt ra trong
+biệt, việc tổ chức xếp hạng FTSE Russell chính thức công bố
+nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận
+biên lên thị trường mới nổi thứ cấp đã tạo thêm lực đẩy quan
+trọng, góp phần củng cố niềm tin, thu hút dòng vốn và thúc đẩy
 sự phát triển tích cực của thị trường trong suốt năm 2025.
-Trong bối cảnh đó, Vietcap đã chủ động nắm bắt các cơ hội triển 
-khai linh hoạt các chiến lược kinh doanh và tiếp tục củng cố nền 
-tảng vận hành. Nhờ cách tiếp cận thận trọng nhưng chủ động, 
-doanh nghiệp ghi nhận kết quả tăng trưởng khả quan trên nhiều 
-mảng hoạt động cốt lõi, tạo đà cho sự phát triển bền vững trong 
+Trong bối cảnh đó, Vietcap đã chủ động nắm bắt các cơ hội triển
+khai linh hoạt các chiến lược kinh doanh và tiếp tục củng cố nền
+tảng vận hành. Nhờ cách tiếp cận thận trọng nhưng chủ động,
+doanh nghiệp ghi nhận kết quả tăng trưởng khả quan trên nhiều
+mảng hoạt động cốt lõi, tạo đà cho sự phát triển bền vững trong
 giai đoạn tiếp theo.
-Trong cả năm 2025, lợi nhuận trước thuế đạt 1.629 tỷ đồng, 
-tương ứng hoàn thành khoảng 115% kế hoạch lợi nhuận cả năm. 
-Doanh thu hoạt động đạt 4.980 tỷ đồng, phản ánh hiệu quả từ 
-việc đa dạng hóa nguồn thu và tận dụng tốt diễn biến tích cực 
+Trong cả năm 2025, lợi nhuận trước thuế đạt 1.629 tỷ đồng,
+tương ứng hoàn thành khoảng 115% kế hoạch lợi nhuận cả năm.
+Doanh thu hoạt động đạt 4.980 tỷ đồng, phản ánh hiệu quả từ
+việc đa dạng hóa nguồn thu và tận dụng tốt diễn biến tích cực
 của thị trường.
-Các mảng kinh doanh cốt lõi như môi giới, cho vay ký quỹ và đầu 
-tư đều ghi nhận sự cải thiện rõ rệt cả về quy mô lẫn hiệu quả. 
-Vietcap tiếp tục giữ vững vị thế trong nhóm các công ty chứng 
-khoán dẫn đầu về thị phần khách hàng tổ chức, đồng thời từng 
-bước mở rộng thị phần ở phân khúc khách hàng cá nhân. Dư nợ 
-cho vay ký quỹ duy trì ở mức cao, cho thấy niềm tin ngày càng gia 
-tăng của nhà đầu tư đối với uy tín thương hiệu và năng lực vận 
+Các mảng kinh doanh cốt lõi như môi giới, cho vay ký quỹ và đầu
+tư đều ghi nhận sự cải thiện rõ rệt cả về quy mô lẫn hiệu quả.
+Vietcap tiếp tục giữ vững vị thế trong nhóm các công ty chứng
+khoán dẫn đầu về thị phần khách hàng tổ chức, đồng thời từng
+bước mở rộng thị phần ở phân khúc khách hàng cá nhân. Dư nợ
+cho vay ký quỹ duy trì ở mức cao, cho thấy niềm tin ngày càng gia
+tăng của nhà đầu tư đối với uy tín thương hiệu và năng lực vận
 hành của công ty.
-06
-07
 TẦM NHÌN LÃNH ĐẠO
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 NGUYỄN THANH PHƯỢNG
 Chủ tịch Hội đồng Quản trị
-Năm 2025 đánh dấu sự chuyển mình rõ nét của Vietcap trong 
-cách tiếp cận và triển khai chiến lược phát triển, khi công nghệ 
-và các ứng dụng trí tuệ nhân tạo ngày càng đóng vai trò trung 
-tâm trong hoạt động tài chính, chứng khoán. Bước sang năm 
-thứ 18 trên thị trường, Vietcap tiếp tục đẩy mạnh chiến lược 
-chuyển đổi số với hệ sinh thái công nghệ phân tích và Smart 
-Data. Bộ ba nền tảng Vietcap IQ, Vietcap AI News và AI Trading 
-được phát triển nhằm đồng hành cùng nhà đầu tư trong bối 
-cảnh thị trường biến động nhanh và đòi hỏi phản ứng linh hoạt 
-hơn. Thông qua việc ứng dụng các giải pháp công nghệ và AI vào 
-dịch vụ tài chính, Vietcap hướng tới nâng cao khả năng cá nhân 
-hóa, tăng tính chủ động cho nhà đầu tư, đồng thời tối ưu hiệu 
-quả vận hành và quản trị rủi ro. 
-Xuyên suốt hành trình chuyển mình, Vietcap kiên định với nền 
-tảng phát triển lấy con người làm trung tâm, đồng thời lựa chọn 
-đầu tư dài hạn vào các năng lực công nghệ vận hành như một 
-động lực cốt lõi cho giai đoạn phát triển tiếp theo. Trong bối 
-cảnh ngành tài chính, chứng khoán đang tái định hình mạnh mẽ, 
-Vietcap xác định tăng trưởng bền vững không chỉ đến từ hệ 
-thống hay nền tảng, mà trước hết đến từ năng lực con người 
-trong việc làm chủ tri thức, thích ứng với thay đổi và đưa ra 
-những quyết định có giá trị dài hạn. Theo đó, công nghệ được 
-Vietcap phát triển như một bệ đỡ chiến lược trong việc nâng cao 
-chất lượng phân tích, chuẩn hóa quy trình, gia tăng tốc độ và độ 
-chính xác trong vận hành, đồng thời mở rộng khả năng cá nhân 
-hóa trải nghiệm cho nhà đầu tư. Khi được đặt trong tay đội ngũ 
-giàu chuyên môn và tư duy đổi mới, các nền tảng số và ứng dụng 
-thông minh không chỉ tối ưu hiệu quả hoạt động, mà còn hỗ trợ 
-con người phát huy tốt hơn vai trò tư vấn, quản trị rủi ro và kiến 
-tạo giải pháp phù hợp với từng nhóm khách hàng. Mọi thay đổi 
-về mô hình, quy trình và nền tảng vì thế đều được triển khai xoay 
-quanh mục tiêu nâng cao trải nghiệm khách hàng, tạo dựng giá 
-trị bền vững cho cổ đông và phát huy tối đa năng lực của đội ngũ 
-trong một môi trường số hóa. Sự kết hợp hài hòa giữa con người 
-và công nghệ chính là nền tảng để Vietcap củng cố nội lực, nâng 
-cao năng lực cạnh tranh và sẵn sàng bước vào giai đoạn tiếp 
+Năm 2025 đánh dấu sự chuyển mình rõ nét của Vietcap trong
+và các ứng dụng trí tuệ nhân tạo ngày càng đóng vai trò trung
+tâm trong hoạt động tài chính, chứng khoán. Bước sang năm
+thứ 18 trên thị trường, Vietcap tiếp tục đẩy mạnh chiến lược
+chuyển đổi số với hệ sinh thái công nghệ phân tích và Smart
+Data. Bộ ba nền tảng Vietcap IQ, Vietcap AI News và AI Trading
+được phát triển nhằm đồng hành cùng nhà đầu tư trong bối
+cảnh thị trường biến động nhanh và đòi hỏi phản ứng linh hoạt
+hơn. Thông qua việc ứng dụng các giải pháp công nghệ và AI vào
+dịch vụ tài chính, Vietcap hướng tới nâng cao khả năng cá nhân
+hóa, tăng tính chủ động cho nhà đầu tư, đồng thời tối ưu hiệu
+quả vận hành và quản trị rủi ro.
+Xuyên suốt hành trình chuyển mình, Vietcap kiên định với nền
+tảng phát triển lấy con người làm trung tâm, đồng thời lựa chọn
+đầu tư dài hạn vào các năng lực công nghệ vận hành như một
+động lực cốt lõi cho giai đoạn phát triển tiếp theo. Trong bối
+cảnh ngành tài chính, chứng khoán đang tái định hình mạnh mẽ,
+Vietcap xác định tăng trưởng bền vững không chỉ đến từ hệ
+thống hay nền tảng, mà trước hết đến từ năng lực con người
+những quyết định có giá trị dài hạn. Theo đó, công nghệ được
+Vietcap phát triển như một bệ đỡ chiến lược trong việc nâng cao
+chất lượng phân tích, chuẩn hóa quy trình, gia tăng tốc độ và độ
+chính xác trong vận hành, đồng thời mở rộng khả năng cá nhân
+hóa trải nghiệm cho nhà đầu tư. Khi được đặt trong tay đội ngũ
+giàu chuyên môn và tư duy đổi mới, các nền tảng số và ứng dụng
+thông minh không chỉ tối ưu hiệu quả hoạt động, mà còn hỗ trợ
+con người phát huy tốt hơn vai trò tư vấn, quản trị rủi ro và kiến
+tạo giải pháp phù hợp với từng nhóm khách hàng. Mọi thay đổi
+về mô hình, quy trình và nền tảng vì thế đều được triển khai xoay
+quanh mục tiêu nâng cao trải nghiệm khách hàng, tạo dựng giá
+trị bền vững cho cổ đông và phát huy tối đa năng lực của đội ngũ
+trong một môi trường số hóa. Sự kết hợp hài hòa giữa con người
+và công nghệ chính là nền tảng để Vietcap củng cố nội lực, nâng
+cao năng lực cạnh tranh và sẵn sàng bước vào giai đoạn tiếp
 theo với tầm nhìn dài hạn và định hướng rõ ràng.
-Khép lại một năm nhiều chuyển biến và bước vào chặng đường 
-phát triển mới, thay mặt Hội đồng Quản trị, tôi xin trân trọng cảm 
-ơn Quý cổ đông, Quý khách hàng và Quý đối tác đã luôn tin 
-tưởng, đồng hành cùng Vietcap trong suốt thời gian qua. Sự tin 
-cậy và gắn bó bền vững của Quý vị chính là nền tảng để Vietcap 
-không ngừng đổi mới, nâng cao năng lực và chủ động thích ứng 
+Khép lại một năm nhiều chuyển biến và bước vào chặng đường
+phát triển mới, thay mặt Hội đồng Quản trị, tôi xin trân trọng cảm
+ơn Quý cổ đông, Quý khách hàng và Quý đối tác đã luôn tin
+tưởng, đồng hành cùng Vietcap trong suốt thời gian qua. Sự tin
+cậy và gắn bó bền vững của Quý vị chính là nền tảng để Vietcap
+không ngừng đổi mới, nâng cao năng lực và chủ động thích ứng
 trước những thay đổi của thị trường.
-Hướng tới chặng đường phía trước, Vietcap tin tưởng vào triển 
-vọng tích cực của nền kinh tế Việt Nam cũng như sự phát triển 
-của cộng đồng doanh nghiệp. Với tinh thần đổi mới, minh bạch 
-và phát triển bền vững, chúng tôi cam kết tiếp tục nâng cao giá 
-trị doanh nghiệp, đồng hành cùng Quý vị và vững bước trên hành 
+Hướng tới chặng đường phía trước, Vietcap tin tưởng vào triển
+vọng tích cực của nền kinh tế Việt Nam cũng như sự phát triển
+của cộng đồng doanh nghiệp. Với tinh thần đổi mới, minh bạch
+và phát triển bền vững, chúng tôi cam kết tiếp tục nâng cao giá
+trị doanh nghiệp, đồng hành cùng Quý vị và vững bước trên hành
 trình kiến tạo những giá trị dài hạn trong tương lai.
 Trân trọng,
-“
-Với tinh thần đổi mới, minh bạch 
-và phát triển bền vững, chúng 
-tôi cam kết tiếp tục nâng cao 
+Với tinh thần đổi mới, minh bạch
+và phát triển bền vững, chúng
+tôi cam kết tiếp tục nâng cao
 giá trị doanh nghiệp, đồng hành
-cùng Quý vị và vững bước trên 
-hành trình kiến tạo những giá trị 
+cùng Quý vị và vững bước trên
+hành trình kiến tạo những giá trị
 dài hạn trong tương lai.
 
 LỜI MỞ ĐẦU
-Mỗi chu kỳ phát triển đều mang đến những yêu cầu mới, đòi hỏi doanh 
-nghiệp không chỉ linh hoạt thích ứng mà còn phải chủ động bứt phá để 
-vươn tầm. Trong bối cảnh thị trường tài chính Việt Nam đang bước vào kỷ 
-nguyên số hóa toàn diện – nơi dữ liệu, tốc độ xử lý và khả năng kết nối thiết 
-lập nên những chuẩn mực mới – ngành chứng khoán đang chứng kiến sự tái 
-định hình sâu sắc từ mô hình vận hành, khung quản trị rủi ro cho đến hệ 
+Mỗi chu kỳ phát triển đều mang đến những yêu cầu mới, đòi hỏi doanh
+nghiệp không chỉ linh hoạt thích ứng mà còn phải chủ động bứt phá để
+vươn tầm. Trong bối cảnh thị trường tài chính Việt Nam đang bước vào kỷ
+nguyên số hóa toàn diện – nơi dữ liệu, tốc độ xử lý và khả năng kết nối thiết
+lập nên những chuẩn mực mới – ngành chứng khoán đang chứng kiến sự tái
+định hình sâu sắc từ mô hình vận hành, khung quản trị rủi ro cho đến hệ
 sinh thái dịch vụ dành cho nhà đầu tư.
-Bối cảnh này định hình một bài toán chiến lược dài hạn: làm thế nào để duy 
-trì đà tăng trưởng bền vững khi tốc độ đổi mới, năng lực thích ứng và trải 
-nghiệm Khách hàng trở thành thước đo năng lực cạnh tranh cốt lõi. Đối với 
-Vietcap, đây là thời khắc then chốt để củng cố nền tảng vững chắc đã được 
-kiến tạo, từ đó tự tin vươn mình mở ra một kỷ nguyên phát triển mới - 
+Bối cảnh này định hình một bài toán chiến lược dài hạn: làm thế nào để duy
+trì đà tăng trưởng bền vững khi tốc độ đổi mới, năng lực thích ứng và trải
+nghiệm Khách hàng trở thành thước đo năng lực cạnh tranh cốt lõi. Đối với
+Vietcap, đây là thời khắc then chốt để củng cố nền tảng vững chắc đã được
+kiến tạo, từ đó tự tin vươn mình mở ra một kỷ nguyên phát triển mới -
 Chuyển mình để vươn xa.
-Những biến chuyển mạnh mẽ của thị trường đã thôi thúc Vietcap tái định 
-hình toàn diện nền tảng vận hành, từ hệ thống công nghệ, quy trình tác 
-nghiệp đến mô hình dịch vụ và cấu trúc tổ chức. Quá trình chuyển đổi này 
-được triển khai nhất quán, như việc nâng cấp toàn bộ “đường ray” vận hành 
-– nơi các nền tảng số, dữ liệu và chuẩn hóa quy trình tạo nên một hệ thống 
-đồng bộ, linh hoạt và đủ năng lực đáp ứng nhịp độ phát triển ngày càng 
+Những biến chuyển mạnh mẽ của thị trường đã thôi thúc Vietcap tái định
+hình toàn diện nền tảng vận hành, từ hệ thống công nghệ, quy trình tác
+nghiệp đến mô hình dịch vụ và cấu trúc tổ chức. Quá trình chuyển đổi này
+được triển khai nhất quán, như việc nâng cấp toàn bộ “đường ray” vận hành
+– nơi các nền tảng số, dữ liệu và chuẩn hóa quy trình tạo nên một hệ thống
+đồng bộ, linh hoạt và đủ năng lực đáp ứng nhịp độ phát triển ngày càng
 nhanh của ngành tài chính, chứng khoán.
-Từ nền tảng chuyển đổi đó, Vietcap từng bước tăng tốc trong tầm nhìn và 
-chiến lược phát triển, chủ động nắm bắt cơ hội, mở rộng không gian tăng 
-trưởng và kiến tạo giá trị bền vững trong dài hạn. Trên hành trình hướng tới 
-phía trước, Vietcap tiếp tục đồng hành cùng Khách hàng và nhà đầu tư, 
-cùng tiến bước trên một lộ trình phát triển được dẫn dắt bởi công nghệ, 
+Từ nền tảng chuyển đổi đó, Vietcap từng bước tăng tốc trong tầm nhìn và
+chiến lược phát triển, chủ động nắm bắt cơ hội, mở rộng không gian tăng
+trưởng và kiến tạo giá trị bền vững trong dài hạn. Trên hành trình hướng tới
+phía trước, Vietcap tiếp tục đồng hành cùng Khách hàng và nhà đầu tư,
+cùng tiến bước trên một lộ trình phát triển được dẫn dắt bởi công nghệ,
 chất lượng dịch vụ và khát vọng vươn xa trong chương phát triển mới.
 CHUYỂN MÌNH
 ĐỂ VƯƠN XA
-08
-09
 TẦM NHÌN LÃNH ĐẠO
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 CHÍNH THỨC HOẠT ĐỘNG
 THÀNH LẬP CHI NHÁNH
-Vietnam Access Days trở thành hội nghị thường niên lớn 
-nhất thu hút hàng trăm nhà đầu tư và các doanh nghiệp 
-hàng đầu trong nước và quốc tế tham gia. 
-Đột phá trong kết quả kinh doanh, với tỷ suất lợi nhuận 
-(ROE) trên 30%. 
-Lần đầu tiên tổ chức thành công Vietnam Access Day, 
-thu hút hơn 300 khách mời, diễn giả và quỹ đầu tư trong 
-nước và quốc tế. 
+Vietnam Access Days trở thành hội nghị thường niên lớn
+nhất thu hút hàng trăm nhà đầu tư và các doanh nghiệp
+hàng đầu trong nước và quốc tế tham gia.
+Đột phá trong kết quả kinh doanh, với tỷ suất lợi nhuận
+(ROE) trên 30%.
+Lần đầu tiên tổ chức thành công Vietnam Access Day,
+thu hút hơn 300 khách mời, diễn giả và quỹ đầu tư trong
+nước và quốc tế.
 Vươn lên Top 3 CTCK có thị phần môi giới lớn nhất HoSE.
-Chuyển dịch cân bằng và hoàn thiện các mảng hoạt 
-động kinh doanh. 
+Chuyển dịch cân bằng và hoàn thiện các mảng hoạt
+động kinh doanh.
 VƯƠN LÊN TOP 3
 THỊ PHẦN TRÊN HoSE
 ĐỘT PHÁ TRONG KẾT QUẢ KINH DOANH,
-DUY TRÌ TOP 3 THỊ PHẦN 
+DUY TRÌ TOP 3 THỊ PHẦN
 Niêm yết trên HoSE vào ngày 07.07.2017
-Giữ vững thị phần môi giới, tăng cường hoạt động tư 
-vấn kinh doanh. 
-2017 - 2018
-2019 - 2020
+Giữ vững thị phần môi giới, tăng cường hoạt động tư
+vấn kinh doanh.
 NIÊM YẾT TRÊN HoSE,
-GIỮ VỮNG VỊ TRÍ TOP 3 
+GIỮ VỮNG VỊ TRÍ TOP 3
 GIỮ VỮNG THỊ PHẦN, HOÀN THÀNH
-KẾ HOẠCH KINH DOANH 
-Giữ vững thị phần môi giới, tăng cường hoạt động tư vấn 
-kinh doanh. 
-Tái cấu trúc thương hiệu chính thức đổi tên thành 
-Công ty Cổ phần Chứng khoán Vietcap (Vietcap) với 
-thông điệp “Nâng tầm nhà đầu tư Việt”. 
-Thăng hạng vượt bậc với vị trí Top 5 thị phần môi giới 
-cá nhân HSX. 
-Chứng kiến những đổi mới toàn diện trong mô hình kinh doanh. 
- 
-Đẩy mạnh truyền thông công nghệ số (Digital Marketing) 
-và ứng dụng vượt trội Công nghệ thông tin hàng đầu vào 
-các sản phẩm. 
-2021 - 2022
-2023 - 2024
+KẾ HOẠCH KINH DOANH
+Giữ vững thị phần môi giới, tăng cường hoạt động tư vấn
+kinh doanh.
+Tái cấu trúc thương hiệu chính thức đổi tên thành
+Công ty Cổ phần Chứng khoán Vietcap (Vietcap) với
+thông điệp “Nâng tầm nhà đầu tư Việt”.
+Thăng hạng vượt bậc với vị trí Top 5 thị phần môi giới
+cá nhân HSX.
+Chứng kiến những đổi mới toàn diện trong mô hình kinh doanh.
+Đẩy mạnh truyền thông công nghệ số (Digital Marketing)
+và ứng dụng vượt trội Công nghệ thông tin hàng đầu vào
+các sản phẩm.
 ĐỔI MỚI TOÀN DIỆN
 TẠO ĐÀ TĂNG TRƯỞNG
 KHÁT VỌNG
-VƯƠN TẦM 
+VƯƠN TẦM
 Vốn điều lệ
-398,4 Tỷ Đồng
 Vốn điều lệ
-500 Tỷ Đồng
-VCSC (Vietcapital) được thành lập và chính thức hoạt 
-động vào tháng 11.2017. 
-Thành lập chi nhánh đầu tiên tại Hà Nội. 
+VCSC (Vietcapital) được thành lập và chính thức hoạt
+động vào tháng 11.2017.
+Thành lập chi nhánh đầu tiên tại Hà Nội.
 Vốn điều lệ
-360 Tỷ Đồng
-2007 - 2008
-2011 - 2013
-2014 - 2015
 Vốn chủ sở hữu
-3.020 Tỷ Đồng
-tính đến cuối năm 2017. 
+tính đến cuối năm 2017.
 Vốn điều lệ
-1.200 Tỷ Đồng
 Vốn chủ sở hữu
-4.521 Tỷ Đồng
-tính đến cuối năm 2020. 
+tính đến cuối năm 2020.
 Vốn điều lệ
-1.656 Tỷ Đồng
 Vốn chủ sở hữu
-6.495  Tỷ Đồng
-tính đến cuối năm 2022. 
+tính đến cuối năm 2022.
 Vốn điều lệ
-4.355 Tỷ Đồng
 143,63 Triệu cổ phiếu riêng lẻ.
 Phát hành thành công hơn
-Đầu tư từ cốt lõi, lấy nền tảng vận hành và công nghệ làm 
+Đầu tư từ cốt lõi, lấy nền tảng vận hành và công nghệ làm
 trọng tâm.
-Chính thức mở rộng chiến lược phát triển bán lẻ thông qua 
-việc khai trương chi nhánh phòng giao dịch mới tại Mỹ 
+việc khai trương chi nhánh phòng giao dịch mới tại Mỹ
 Đình, Hà Nội.
-Chủ động thích ứng với những chuyển dịch nền tảng của 
-thời cuộc, khi thị trường trong nước tái cấu trúc hạ tầng với 
+Chủ động thích ứng với những chuyển dịch nền tảng của
+thời cuộc, khi thị trường trong nước tái cấu trúc hạ tầng với
 hệ thống KRX.
-Đồng hành cùng tiến trình hội nhập quốc tế, góp phần 
+Đồng hành cùng tiến trình hội nhập quốc tế, góp phần
 thúc đẩy nâng hạng thị trường chứng khoán Việt Nam.
-2025
 CHUYỂN MÌNH VẬN HÀNH
 KIẾN TẠO NỀN TẢNG VƯƠN XA
 Vốn chủ sở hữu
-18.010  
- Tỷ Đồng.
 Vốn điều lệ
-8.501  Tỷ Đồng
-127,5 Triệu cổ phiếu riêng lẻ. 
+127,5 Triệu cổ phiếu riêng lẻ.
 Phát hành thành công hơn
 Hoàn thành
 114,7% mục tiêu
 kế hoạch kinh doanh năm 2025.
-KIẾN TẠO PHÁT TRIỂN 
-18
-NĂM
-Đưa vào hoạt động một trong những hệ thống phần 
-mềm giao dịch tiên tiến nhất trong ngành, do Tong 
+KIẾN TẠO PHÁT TRIỂN
+Đưa vào hoạt động một trong những hệ thống phần
+mềm giao dịch tiên tiến nhất trong ngành, do Tong
 Yang cung cấp.
 Thành lập phòng giao dịch Nguyễn Công Trứ - TP.HCM.
 NÂNG CẤP HỆ THỐNG,
-TĂNG VỐN ĐIỀU LỆ 
+TĂNG VỐN ĐIỀU LỆ
 Vốn điều lệ
-378 Tỷ Đồng
-2009 - 2010
 Vốn chủ sở hữu
-12.944 Tỷ Đồng.
 Vốn điều lệ
-7.181 Tỷ Đồng
-10
-11
 TẦM NHÌN LÃNH ĐẠO
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-DẤU ẤN TỰ HÀO
 16 năm  liên tiếp
-nhận giải thưởng của 
-Alpha Southeast Asia 
-15 năm  liên tiếp nhận giải 
-thưởng của Diễn đàn M&A 
-Việt Nam 
-9 năm trên 11 năm nhận giải 
-thưởng của Finance Asia 
+nhận giải thưởng của
+Alpha Southeast Asia
+15 năm  liên tiếp nhận giải
+thưởng của Diễn đàn M&A
+Việt Nam
+9 năm trên 11 năm nhận giải
+thưởng của Finance Asia
 Giải thưởng
-Global  Brands Magazine (GBM)  
-Giải thưởng 
-VietnamNet & Vietnam Report 
+Global  Brands Magazine (GBM)
 Giải thưởng
-Euromoney 
+VietnamNet & Vietnam Report
 Giải thưởng
-Sàn GDCK Hà Nội 
+Euromoney
 Giải thưởng
-The Asset Asian Awards 
-Giải thưởng UBND TP.HCM 
-Giải thưởng FiinRatings 
-Giải thưởng Nhịp Cầu Đầu Tư 
+Sàn GDCK Hà Nội
+Giải thưởng
+The Asset Asian Awards
+Giải thưởng UBND TP.HCM
+Giải thưởng FiinRatings
+Giải thưởng Nhịp Cầu Đầu Tư
 Giải Thưởng Forbes Việt Nam
-Giải thưởng Viet Research 
-phối hợp với Báo Tài chính  - 
+Giải thưởng Viet Research
+phối hợp với Báo Tài chính  -
 Đầu tư
 Giải thưởng Sở GDCK Việt Nam
-2025
-Vietcap tiếp tục khẳng định vị thế khi được vinh danh 
+Vietcap tiếp tục khẳng định vị thế khi được vinh danh
 tại nhiều giải thưởng trong nước và quốc tế
-Alpha Southeast Asia 
-Thương vụ Cổ phiếu/IPO xuất sắc 
+Alpha Southeast Asia
+Thương vụ Cổ phiếu/IPO xuất sắc
 nhất Việt Nam 2025
 Sở GDCK Việt Nam
-Top 10 Công ty chứng khoán có 
+Top 10 Công ty chứng khoán có
 thị phần môi giới lớn nhất 2025
-Viet Research phối hợp với Báo 
+Viet Research phối hợp với Báo
 Tài chính  - Đầu tư
-Top 10 Doanh nghiệp ESG Việt Nam 
-Xanh 2025 ngành Tài chính - 
-Chứng khoán 2025. 
+Top 10 Doanh nghiệp ESG Việt Nam
+Xanh 2025 ngành Tài chính -
+Chứng khoán 2025.
 Diễn đàn M&A Việt Nam
-Tổ Chức Tư Vấn M&A Tiêu Biểu tại 
+Tổ Chức Tư Vấn M&A Tiêu Biểu tại
 Diễn Đàn M&A Việt Nam 2025
-Nhịp Cầu Đầu Tư 
-Top 50 C ô n g t y kinh doanh 
+Nhịp Cầu Đầu Tư
+Top 50 C ô n g t y kinh doanh
 hiệu quả nhất Việt Nam
 VietnamNet & Vietnam Report
 Top 10 Công ty uy tín nhất
 ngành Tài chính
- 
- 
-“Ngân hàng đầu tư tốt nhất 
-Việt Nam” - 2015, 2023  
-Một trong ba Công ty chứng 
-khoán có dịch vụ tư vấn tốt 
-nhất giai đoạn 2005 - 2015 
-“C ô n g t y môi giới tốt nhất 
-Việt Nam” - 2011 
-“Doanh nghiệp Sài Gòn 
-tiêu biểu” - 2011 
-“Xếp hạng tín nhiệm ở mức A - 
+“Ngân hàng đầu tư tốt nhất
+Một trong ba Công ty chứng
+khoán có dịch vụ tư vấn tốt
+nhất giai đoạn 2005 - 2015
+“C ô n g t y môi giới tốt nhất
+Việt Nam” - 2011
+“Doanh nghiệp Sài Gòn
+tiêu biểu” - 2011
+“Xếp hạng tín nhiệm ở mức A -
 với triển vọng ổn định” - 2021
- 
-“Xếp hạng tín nhiệm ở mức A  
+“Xếp hạng tín nhiệm ở mức A
 với triển vọng ổn định” - 2025
-“Top 50 Công ty kinh doanh 
-hiệu quả nhất Việt Nam” - 
-2023, 2025
-“Top 50 Công ty niêm yết tốt 
+“Top 50 Công ty kinh doanh
+hiệu quả nhất Việt Nam” -
+“Top 50 Công ty niêm yết tốt
 nhất Việt Nam” - 2024, 2025
-“Top 10 Doanh nghiệp ESG Việt 
-Nam Xanh 2025 ngành Tài chính  
+“Top 10 Doanh nghiệp ESG Việt
+Nam Xanh 2025 ngành Tài chính
 - Chứng khoán” - 2025
-“Top 10 Công ty chứng khoán 
-có thị phần môi giới lớn nhất”   
-- 2025
-“Nhà tư vấn thương vụ M&A do Quỹ đầu tư cổ phần tư nhân hậu thuẫn tốt nhất Đông Nam Á”  
-- 2019, 2020, 2021, 2022, 2023 
-“Nhà môi giới tổ chức tốt nhất Việt Nam” - 2012, 2013, 2014, 2018, 2023 
-“Ngân hàng Đầu tư và Nhà M&A tốt nhất” - 2017 
-“Nhà huy động vốn tốt nhất Việt Nam” - 2007 - 2016 
-“Công ty tư vấn tài chính doanh nghiệp quy mô vừa tốt nhất Việt Nam” - 2011, 2012, 2013, 2015 
-“Công ty tư vấn phát hành vốn tốt nhất Việt Nam” - 2013 
-“Công ty tư vấn phát hành vốn tốt nhất” - 2011 
-“Nhà môi giới Khách hàng cá nhân hàng đầu Việt Nam” - 2024 
-“Nhà tư vấn thương vụ M&A hàng đầu Việt Nam” - 2024 
-“Nhà tư vấn phát hành cổ phiếu hàng đầu Việt Nam” - 2024 
+“Top 10 Công ty chứng khoán
+có thị phần môi giới lớn nhất”
+“Nhà tư vấn thương vụ M&A do Quỹ đầu tư cổ phần tư nhân hậu thuẫn tốt nhất Đông Nam Á”
+“Nhà môi giới tổ chức tốt nhất Việt Nam” - 2012, 2013, 2014, 2018, 2023
+“Ngân hàng Đầu tư và Nhà M&A tốt nhất” - 2017
+“Nhà huy động vốn tốt nhất Việt Nam” - 2007 - 2016
+“Công ty tư vấn tài chính doanh nghiệp quy mô vừa tốt nhất Việt Nam” - 2011, 2012, 2013, 2015
+“Công ty tư vấn phát hành vốn tốt nhất Việt Nam” - 2013
+“Công ty tư vấn phát hành vốn tốt nhất” - 2011
+“Nhà môi giới Khách hàng cá nhân hàng đầu Việt Nam” - 2024
+“Nhà tư vấn thương vụ M&A hàng đầu Việt Nam” - 2024
+“Nhà tư vấn phát hành cổ phiếu hàng đầu Việt Nam” - 2024
 “Thương vụ IPO/ Vốn cổ phần tốt nhất Việt Nam” - 2021, 2025
-“Doanh nghiệp có thương vụ M&A tiêu biểu” - từ 2009 đến 2024 
-“Tổ chức tư vấn M&A tiêu biểu” - 2024, 2025 
-“Công ty tư vấn tốt nhất trên thị trường vốn cổ phần tại Việt Nam” - 2021, 2023 
-“Nhà môi giới tốt nhất Việt Nam” - 2016, 2017, 2018  
-“Ngân hàng đầu tư tốt nhất Việt Nam” - 2012, 2015, 2016, 2017, 2023, 2024 
-“Công ty ECM tốt nhất Việt Nam” - 2017 
-“Công ty tư vấn phát hành vốn tốt nhất Việt Nam” - 2011, 2022 
-“Công ty chứng khoán tốt nhất Việt Nam” - 2016 
-“Nhà tư vấn huy động vốn cổ phần tốt nhất Việt Nam” - 2024 
-“Ngân hàng đầu tư tốt nhất” - 2021, 2022, 2023 
-“Nhà tư vấn phát hành vốn tốt nhất” - 2021, 2022 
-“Nhà tư vấn M&A tốt nhất Việt Nam” - 2021, 2022 
-“Nhà huy động vốn tốt nhất và nhà môi giới tổ chức lớn nhất Việt Nam” - 2021 
-“Top 50 Doanh nghiệp Lợi nhuận xuất sắc” và “Top 500 Doanh nghiệp lớn nhất Việt Nam” - 
-2021, 2022 
-“Top 50 Công ty đại chúng uy tín” - 2021, 2022 
+“Doanh nghiệp có thương vụ M&A tiêu biểu” - từ 2009 đến 2024
+“Tổ chức tư vấn M&A tiêu biểu” - 2024, 2025
+“Công ty tư vấn tốt nhất trên thị trường vốn cổ phần tại Việt Nam” - 2021, 2023
+“Nhà môi giới tốt nhất Việt Nam” - 2016, 2017, 2018
+“Công ty ECM tốt nhất Việt Nam” - 2017
+“Công ty tư vấn phát hành vốn tốt nhất Việt Nam” - 2011, 2022
+“Công ty chứng khoán tốt nhất Việt Nam” - 2016
+“Nhà tư vấn huy động vốn cổ phần tốt nhất Việt Nam” - 2024
+“Ngân hàng đầu tư tốt nhất” - 2021, 2022, 2023
+“Nhà tư vấn phát hành vốn tốt nhất” - 2021, 2022
+“Nhà tư vấn M&A tốt nhất Việt Nam” - 2021, 2022
+“Nhà huy động vốn tốt nhất và nhà môi giới tổ chức lớn nhất Việt Nam” - 2021
+“Top 50 Doanh nghiệp Lợi nhuận xuất sắc” và “Top 500 Doanh nghiệp lớn nhất Việt Nam” -
+“Top 50 Công ty đại chúng uy tín” - 2021, 2022
 “Top 10 Công ty uy tín nhất ngành Tài chính” - 2024, 2025
-22
-23
 NỀN TẢNG PHÁT TRIỂN
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-NGUỒN NHÂN LỰC & PHÁT TRIỂN BỀN VỮNG TRONG MỘT 
+Vào tháng 2.2025
+Vietcap đã trả cổ tức tiền mặt đợt 2 năm 2024 là 250 đồng/cổ phiếu.
+Vào tháng 7.2025
+Vietcap đã ký hợp đồng vay hợp vốn không tài sản đảm bảo trị giá 41,6 triệu USD
+(tương đương 1.061 tỷ đồng). Khoản vay được thu xếp bởi CTBC Bank Co., Ltd.,
+Cathay United Bank Co., Ltd., Taipei Fubon Commercial Bank Co., Ltd., First
+Commercial Bank Co., Ltd.,
+shore Banking Branch và Union Bank of Taiwan.
+Vào tháng 7.2025
+Vietcap đã phát hành 4,5 triệu cổ phiếu ESOP (tương đương 0,6% tổng số cổ
+phiếu đang lưu hành trước khi phát hành ESOP). Tổng số cổ phiếu đang lưu hành
+của Vietcap tính đến cuối tháng 7.2025 là 722,6 triệu cổ phiếu.
+Vào tháng 10.2025
+FiinRatings công bố Xếp hạng Tín nhiệm Tổ chức Phát hành ở mức "A" cho Vietcap
+với triển vọng xếp hạng "Ổn định". Kết quả xếp hạng của FiinRatings phản ánh sự
+ghi nhận đối với năng lực tài chính vững mạnh, vị thế hàng đầu trong ngành chứng
+khoán và chiến lược quản trị rủi ro hiệu quả của Vietcap.
+Vào tháng 11.2025
+Vietcap đã ký kết khoản vay hợp vốn tín chấp trị giá 120 triệu USD (tương đương
+3.165 tỷ đồng) với quyền chọn gia tăng hạn mức (greenshoe option) lên tới 250
+triệu USD (tương đương 6.595 tỷ đồng). Khoản vay được thu xếp và/hoặc cam kết
+bởi các ngân hàng bao gồm nhưng không giới hạn ở: Maybank Securities Pte. Ltd.,
+Maybank International Labuan Branch, CTBC Bank Co., Ltd. (Chi nhánh Singa-
+pore), Cathay United Bank Co., Ltd., Taipei Fubon Commercial Bank Co., Ltd.,
+Taishin International Bank Co., Ltd. (Chi nhánh Singapore) và Union Bank of
+Taiwan Co. Ltd.
+Vào tháng 12.2025
+Vietcap đã hoàn tất đợt chào bán riêng lẻ 127,5 triệu cổ phiếu mới (tương đương
+18% số lượng cổ phiếu lưu hành trước đợt chào bán) với giá phát hành 31.000
+đồng/cổ phiếu. Tổng số lượng cổ phiếu lưu hành của Vietcap tính đến cuối tháng
+12.2025 là 850,1 triệu cổ phiếu.
+Phân tích Bảng cân đối kế toán năm 2025
+Các sự kiện doanh nghiệp đáng chú ý trong năm 2025
+Tổng tài sản của
+Vietcap
+NỀN TẢNG PHÁT TRIỂN
+Tỷ lệ tổng nợ trên VCSH của Vietcap giảm xuống 89,2% vào cuối tháng 12.2025 so với 97,1%
+vào cuối năm 2024.
+Tính đến cuối tháng 12.2025, tổng tài sản của Vietcap đạt 36.006 tỷ đồng – tăng 35% so với
+cuối năm 2024.
+Các khoản nợ của Vietcap tính đến cuối tháng 12.2025 là 16.065 tỷ đồng, tăng 28% so với cuối
+năm 2024. Tất cả các khoản nợ này đều là nợ ngắn hạn và chủ yếu được sử dụng để tài trợ cho
+hoạt động cho vay ký quỹ.
+
+NGUỒN NHÂN LỰC & PHÁT TRIỂN BỀN VỮNG TRONG MỘT
 NĂM ĐẦY BIẾN ĐỘNG
 NHÂN SỰ
-Trong bối cảnh thị trường tài chính – chứng khoán liên tục biến động và yêu cầu ngày càng cao về quản trị rủi ro, Vietcap xác định 
-nguồn nhân lực chính là lợi thế cạnh tranh bền vững và khác biệt nhất. Hoạt động trong lĩnh vực mà mỗi quyết định đều gắn liền với 
-trách nhiệm và niềm tin của thị trường, Vietcap kiên định với quan điểm: con người là nền tảng cốt lõi bảo đảm cho sự ổn định, minh 
+Trong bối cảnh thị trường tài chính – chứng khoán liên tục biến động và yêu cầu ngày càng cao về quản trị rủi ro, Vietcap xác định
+nguồn nhân lực chính là lợi thế cạnh tranh bền vững và khác biệt nhất. Hoạt động trong lĩnh vực mà mỗi quyết định đều gắn liền với
+trách nhiệm và niềm tin của thị trường, Vietcap kiên định với quan điểm: con người là nền tảng cốt lõi bảo đảm cho sự ổn định, minh
 bạch và phát triển dài hạn.
-Xuyên suốt 18 năm hình thành và phát triển, Vietcap luôn kiên 
-định với quan điểm coi con người là tài sản quý giá nhất. Sự kết 
-hợp hài hòa giữa đội ngũ nhân sự giàu kinh nghiệm, am hiểu sâu 
-sắc thị trường tài chính – chứng khoán và lực lượng nhân sự trẻ 
-năng động, sáng tạo đã tạo nên nền tảng nhân sự vững chắc 
-cho Công ty. Vietcap đặc biệt đề cao đạo đức nghề nghiệp, tinh 
-thần trách nhiệm và tính liêm chính – những giá trị cốt lõi góp 
-phần gìn giữ uy tín, nâng cao hiệu quả hoạt động và bảo đảm sự 
+Xuyên suốt 18 năm hình thành và phát triển, Vietcap luôn kiên
+định với quan điểm coi con người là tài sản quý giá nhất. Sự kết
+hợp hài hòa giữa đội ngũ nhân sự giàu kinh nghiệm, am hiểu sâu
+sắc thị trường tài chính – chứng khoán và lực lượng nhân sự trẻ
+năng động, sáng tạo đã tạo nên nền tảng nhân sự vững chắc
+cho Công ty. Vietcap đặc biệt đề cao đạo đức nghề nghiệp, tinh
+thần trách nhiệm và tính liêm chính – những giá trị cốt lõi góp
+phần gìn giữ uy tín, nâng cao hiệu quả hoạt động và bảo đảm sự
 minh bạch của thị trường.
-Năm 2025, khi yêu cầu về minh bạch, kỷ luật và chất lượng dịch 
-vụ tiếp tục được nâng cao, Vietcap tập trung củng cố đội ngũ 
-nhân sự có năng lực chuyên môn vững vàng, khả năng ra quyết 
-định thận trọng và tầm nhìn dài hạn, hướng tới lợi ích bền vững 
-của Khách hàng, cổ đông và các bên liên quan. Nhân sự không 
-chỉ đóng vai trò bảo đảm hiệu quả vận hành mà còn là động lực 
-thúc đẩy đổi mới sáng tạo và duy trì chất lượng dịch vụ ở tiêu 
+Năm 2025, khi yêu cầu về minh bạch, kỷ luật và chất lượng dịch
+vụ tiếp tục được nâng cao, Vietcap tập trung củng cố đội ngũ
+nhân sự có năng lực chuyên môn vững vàng, khả năng ra quyết
+định thận trọng và tầm nhìn dài hạn, hướng tới lợi ích bền vững
+của Khách hàng, cổ đông và các bên liên quan. Nhân sự không
+chỉ đóng vai trò bảo đảm hiệu quả vận hành mà còn là động lực
+thúc đẩy đổi mới sáng tạo và duy trì chất lượng dịch vụ ở tiêu
 chuẩn cao.
-Thông qua các chương trình đào tạo có trọng tâm, các sáng 
-kiến gắn kết người lao động và việc xây dựng văn hóa tổ chức 
-vững mạnh, Vietcap tiếp tục phát triển đội ngũ nhân sự linh 
-hoạt, có năng lực và đồng hành chặt chẽ cùng các mục tiêu 
-chiến lược của Công ty. Vietcap tin rằng kết quả kinh doanh 
-có thể biến động theo chu kỳ, nhưng một đội ngũ tận tâm, kỷ 
-luật và sẵn sàng đổi mới sẽ luôn là nền tảng tạo ra giá trị bền 
-vững dài hạn. 
-Con người là nền tảng cốt lõi bảo đảm cho sự ổn định, 
+Thông qua các chương trình đào tạo có trọng tâm, các sáng
+kiến gắn kết người lao động và việc xây dựng văn hóa tổ chức
+vững mạnh, Vietcap tiếp tục phát triển đội ngũ nhân sự linh
+hoạt, có năng lực và đồng hành chặt chẽ cùng các mục tiêu
+chiến lược của Công ty. Vietcap tin rằng kết quả kinh doanh
+có thể biến động theo chu kỳ, nhưng một đội ngũ tận tâm, kỷ
+luật và sẵn sàng đổi mới sẽ luôn là nền tảng tạo ra giá trị bền
+vững dài hạn.
+Con người là nền tảng cốt lõi bảo đảm cho sự ổn định,
 minh bạch và phát triển dài hạn.
-38
-39
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Vietcap xây dựng và duy trì hệ thống chính sách nhân sự đầy đủ, rõ ràng và được rà soát định kỳ. Các chính sách bao gồm tuyển 
-dụng, đào tạo và phát triển, lương thưởng – đãi ngộ, quy tắc đạo đức nghề nghiệp, phòng chống quấy rối, bảo hiểm, nghỉ phép và kỷ 
+Vietcap xây dựng và duy trì hệ thống chính sách nhân sự đầy đủ, rõ ràng và được rà soát định kỳ. Các chính sách bao gồm tuyển
+dụng, đào tạo và phát triển, lương thưởng – đãi ngộ, quy tắc đạo đức nghề nghiệp, phòng chống quấy rối, bảo hiểm, nghỉ phép và kỷ
 luật lao động.
-Toàn bộ nhân viên chính thức được tham gia đánh giá hiệu quả công việc hằng năm dựa trên KPIs đã xác định, với các cơ chế ghi 
-nhận phù hợp như tăng lương, thưởng và thăng tiến. Quy trình đánh giá được thực hiện xuyên suốt năm, bao gồm đánh giá giữa kỳ 
+Toàn bộ nhân viên chính thức được tham gia đánh giá hiệu quả công việc hằng năm dựa trên KPIs đã xác định, với các cơ chế ghi
+nhận phù hợp như tăng lương, thưởng và thăng tiến. Quy trình đánh giá được thực hiện xuyên suốt năm, bao gồm đánh giá giữa kỳ
 và cuối năm, giúp bảo đảm sự đồng bộ với mục tiêu của tổ chức và hỗ trợ phát triển nghề nghiệp dài hạn.
-Vietcap chú trọng xây dựng môi trường học tập liên tục, khuyến khích nhân viên phát huy tối đa năng lực chuyên môn. Đội ngũ nhân 
-sự có trình độ học vấn cao, nền tảng chuyên môn đa dạng và kinh nghiệm làm việc quốc tế đã tạo nên lợi thế cạnh tranh quan trọng, 
+Vietcap chú trọng xây dựng môi trường học tập liên tục, khuyến khích nhân viên phát huy tối đa năng lực chuyên môn. Đội ngũ nhân
+sự có trình độ học vấn cao, nền tảng chuyên môn đa dạng và kinh nghiệm làm việc quốc tế đã tạo nên lợi thế cạnh tranh quan trọng,
 góp phần thúc đẩy đổi mới sáng tạo và nâng cao chất lượng hoạt động của Công ty.
 YẾU TỐ GIỮ CHÂN NGƯỜI LAO ĐỘNG
 1. Hệ thống chính sách nhân sự rõ ràng
 3. Phát triển tối đa năng lực nghề nghiệp
-Vietcap thúc đẩy văn hóa giao tiếp cởi mở, tôn trọng và hỗ trợ lẫn nhau trong toàn tổ chức. Các hoạt động gắn kết nội bộ được tổ 
+Vietcap thúc đẩy văn hóa giao tiếp cởi mở, tôn trọng và hỗ trợ lẫn nhau trong toàn tổ chức. Các hoạt động gắn kết nội bộ được tổ
 chức thường xuyên nhằm tăng cường tinh thần đồng đội, xây dựng văn hóa doanh nghiệp tích cực, hòa nhập và bền vững.
-Mọi ý kiến, phản ánh và khiếu nại của người lao động đều được Vietcap  tiếp nhận và xử lý kịp thời thông qua các kênh giao tiếp minh 
-bạch, góp phần xây dựng môi trường làm việc tin cậy, duy trì quan hệ lao động hài hòa và khuyến khích nhân viên chủ động đóng góp 
+Mọi ý kiến, phản ánh và khiếu nại của người lao động đều được Vietcap  tiếp nhận và xử lý kịp thời thông qua các kênh giao tiếp minh
+bạch, góp phần xây dựng môi trường làm việc tin cậy, duy trì quan hệ lao động hài hòa và khuyến khích nhân viên chủ động đóng góp
 sáng kiến cho sự phát triển chung.
 4. Môi trường làm việc gắn kết
 5. Tiếp nhận và xử lý phản ánh kịp thời
 2. Đánh giá hiệu quả công việc minh bạch
-Cách tiếp cận của Vietcap đối với quản trị nguồn nhân lực 
-được triển khai trên nền tảng hệ thống chính sách và quy 
-trình chặt chẽ, tuân thủ Luật Lao động và các quy định liên 
-quan. Công ty cam kết xây dựng môi trường làm việc đa dạng, 
-hòa nhập, công bằng và tôn trọng, nơi mỗi cá nhân được tạo 
-điều kiện phát triển và đóng góp lâu dài. Khung quản trị nhân 
-sự vì vậy trở thành một cấu phần quan trọng trong chiến lược 
-quản trị tổng thể, góp phần bảo đảm việc quản lý hiệu quả và 
+Cách tiếp cận của Vietcap đối với quản trị nguồn nhân lực
+được triển khai trên nền tảng hệ thống chính sách và quy
+trình chặt chẽ, tuân thủ Luật Lao động và các quy định liên
+quan. Công ty cam kết xây dựng môi trường làm việc đa dạng,
+hòa nhập, công bằng và tôn trọng, nơi mỗi cá nhân được tạo
+điều kiện phát triển và đóng góp lâu dài. Khung quản trị nhân
+sự vì vậy trở thành một cấu phần quan trọng trong chiến lược
+quản trị tổng thể, góp phần bảo đảm việc quản lý hiệu quả và
 phát triển bền vững đội ngũ nhân sự của Vietcap.
-CHIẾN LƯỢC QUẢN TRỊ 
+CHIẾN LƯỢC QUẢN TRỊ
 NGUỒN NHÂN LỰC
-Chiến lược quản trị nguồn nhân lực của Vietcap được xây dựng 
-trên nền tảng tuân thủ pháp luật, minh bạch và lấy con người làm 
+Chiến lược quản trị nguồn nhân lực của Vietcap được xây dựng
+trên nền tảng tuân thủ pháp luật, minh bạch và lấy con người làm
 trung tâm, với các định hướng trọng tâm sau:
-Xây dựng nguồn nhân lực chất lượng cao và bền vững thông qua 
-việc tuyển dụng các ứng viên tiềm năng, phân tích chính xác 
-năng lực của nhân viên và triển khai các chương trình phát triển 
+Xây dựng nguồn nhân lực chất lượng cao và bền vững thông qua
+việc tuyển dụng các ứng viên tiềm năng, phân tích chính xác
+năng lực của nhân viên và triển khai các chương trình phát triển
 phù hợp với từng vị trí.
-Xây dựng và duy trì nguồn nhân lực nội bộ để nâng cao năng lực 
+Xây dựng và duy trì nguồn nhân lực nội bộ để nâng cao năng lực
 tổng thể của đội ngũ.
-Tái đào tạo và nâng cao kỹ năng cho tập thể nhân viên nhằm gia 
+Tái đào tạo và nâng cao kỹ năng cho tập thể nhân viên nhằm gia
 tăng hiệu quả làm việc và đáp ứng các mục tiêu kinh doanh.
-Tăng cường mức độ gắn kết của người lao động nhằm không 
-ngừng nâng cao mức độ hài lòng của nhân viên và cải thiện tỷ lệ 
+Tăng cường mức độ gắn kết của người lao động nhằm không
+ngừng nâng cao mức độ hài lòng của nhân viên và cải thiện tỷ lệ
 giữ chân nhân sự.
-Xây dựng hệ thống lương, thưởng minh bạch, công bằng và cạnh 
-tranh; Triển khai chương trình phát hành cổ phiếu ESOP hằng 
+Xây dựng hệ thống lương, thưởng minh bạch, công bằng và cạnh
+tranh; Triển khai chương trình phát hành cổ phiếu ESOP hằng
 năm nhằm ghi nhận đóng góp của đội ngũ nhân sự chủ chốt.
-Chú trọng đến phúc lợi toàn diện: Bảo hiểm sức khỏe cao cấp 
-PVI, chương trình chăm sóc sức khỏe định kỳ, chương trình du 
+Chú trọng đến phúc lợi toàn diện: Bảo hiểm sức khỏe cao cấp
+PVI, chương trình chăm sóc sức khỏe định kỳ, chương trình du
 lịch hàng năm, chính sách nghỉ phép linh hoạt.
-Hoàn thiện và tăng cường hệ thống chính sách nhân sự bằng 
-việc ban hành các chính sách mới và rà soát, điều chỉnh các 
+Hoàn thiện và tăng cường hệ thống chính sách nhân sự bằng
+việc ban hành các chính sách mới và rà soát, điều chỉnh các
 chính sách hiện hành khi cần thiết.
-Tự động hóa các quy trình nhân sự trọng yếu nhằm nâng cao 
-hiệu quả quản trị, không ngừng đổi mới sáng tạo trong hoạt 
+Tự động hóa các quy trình nhân sự trọng yếu nhằm nâng cao
+hiệu quả quản trị, không ngừng đổi mới sáng tạo trong hoạt
 động quản trị và vận hành.
-40
-41
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Số lượng nhân sự qua các năm 
+Số lượng nhân sự qua các năm
 Cơ cấu nhân sự theo độ tuổi (%)
 Cơ cấu nhân sự theo giới tính (%)
 Cơ cấu nhân sự theo số năm cống hiến (%)
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-190
-216
-245
-226
-291
-374
-382
-389
-442
-Năm
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
 Lợi nhuận trước thuế (VND)
-802.977.679.615
-1.011.455.908.924
-855.007.109.256
-951.038.957.081
-1.850.585.393.088
-1.059.738.713.385
-570.138.640.134
-1.089.337.104.906 
-1.629.219.547.893
 Số nhân viên
-216
-245
-245
-226
-291
-374
-382
-389
-442
 Lợi nhuận/người
-3.717.489.257
-4.128.391.465
-3.489.824.936
-4.208.136.978
-6.359.399.976
-2.833.525.972
-1.492.509.529
-2.800.352.455
-3.686.017.077
-Từ 40 - 50 tuổi(103)
-Từ 30 - 40 tuổi (184)
 Trên 50 tuổi (11)
 Dưới 30 tuổi (144)
 Dưới 5 năm (286)
-Từ 5-10 năm (78)
 Trên 10 năm (78)
-Nữ (187)
-Nam (255)
-245
-32,58%
-23,30%
-2,49%
-41,63%
-57,69%
-64,70%
-17,65%
-17,65%
-42,31%
-Vietcap kiên định theo đuổi chiến lược tuyển dụng có chọn lọc 
-và đầu tư bài bản,  tập trung thu hút và lựa chọn đội ngũ nhân sự 
-có năng lực chuyên môn cao, phù hợp với văn hóa doanh nghiệp 
-và định hướng phát triển dài hạn của Công ty. Hoạt động tuyển 
-dụng không chỉ tập trung vào kinh nghiệm và trình độ chuyên 
-môn, mà còn  đề cao tinh thần đổi mới, khả năng thích ứng và 
-cam kết tạo giá trị bền vững. Đây là nền tảng quan trọng góp 
-phần nâng cao hiệu quả triển khai chiến lược kinh doanh và đảm 
+Vietcap kiên định theo đuổi chiến lược tuyển dụng có chọn lọc
+và đầu tư bài bản,  tập trung thu hút và lựa chọn đội ngũ nhân sự
+có năng lực chuyên môn cao, phù hợp với văn hóa doanh nghiệp
+và định hướng phát triển dài hạn của Công ty. Hoạt động tuyển
+dụng không chỉ tập trung vào kinh nghiệm và trình độ chuyên
+môn, mà còn  đề cao tinh thần đổi mới, khả năng thích ứng và
+cam kết tạo giá trị bền vững. Đây là nền tảng quan trọng góp
+phần nâng cao hiệu quả triển khai chiến lược kinh doanh và đảm
 bảo tăng trưởng ổn định của Vietcap trong dài hạn.
-Với định hướng đầu tư dài hạn cho nguồn nhân lực, Vietcap tiếp 
-tục tập trung nguồn lực vào các  chương trình hợp tác chiến lược 
-với các cơ sở đào tạo uy tín. Thông qua việc kết nối, thiết lập 
-quan hệ hợp tác bền vững và triển khai nhiều hoạt động tuyển 
-sinh, hướng nghiệp và chương trình thực tập, Vietcap đã đồng 
-hành cùng các  trường đại học hàng đầu như Đại học Ngoại 
-thương, Đại học Kinh tế – Luật, Đại học Tôn Đức Thắng, Đại học 
-Kinh tế TP. Hồ Chí Minh, Đại học Kinh tế – Tài chính, Đại học Ngân 
-hàng TP. Hồ Chí Minh,… Qua đó, Công ty từng bước xây dựng 
-nguồn nhân lực kế thừa có nền tảng kiến thức vững chắc, tư duy 
-thực tiễn và khả năng thích ứng tốt với môi trường làm việc 
+Với định hướng đầu tư dài hạn cho nguồn nhân lực, Vietcap tiếp
+tục tập trung nguồn lực vào các  chương trình hợp tác chiến lược
+với các cơ sở đào tạo uy tín. Thông qua việc kết nối, thiết lập
+quan hệ hợp tác bền vững và triển khai nhiều hoạt động tuyển
+sinh, hướng nghiệp và chương trình thực tập, Vietcap đã đồng
+hành cùng các  trường đại học hàng đầu như Đại học Ngoại
+thương, Đại học Kinh tế – Luật, Đại học Tôn Đức Thắng, Đại học
+Kinh tế TP. Hồ Chí Minh, Đại học Kinh tế – Tài chính, Đại học Ngân
+hàng TP. Hồ Chí Minh,… Qua đó, Công ty từng bước xây dựng
+nguồn nhân lực kế thừa có nền tảng kiến thức vững chắc, tư duy
+thực tiễn và khả năng thích ứng tốt với môi trường làm việc
 chuyên nghiệp.
-Hướng tới mục tiêu chuẩn hóa và nâng cao chất lượng đào tạo 
-thực tiễn cho sinh viên, Vietcap tiếp tục triển khai thành công 
-Chương trình Thực tập sinh Tài năng Vietcap 2025. Chương 
-trình được định hướng trở thành hoạt động thường niên, mang 
-tính truyền thống của Công ty, góp phần phát hiện, đào tạo và 
-phát triển nguồn nhân lực trẻ chất lượng cao, đồng thời tạo nền 
-tảng để Vietcap chủ động xây dựng đội ngũ nhân sự kế thừa 
+Hướng tới mục tiêu chuẩn hóa và nâng cao chất lượng đào tạo
+thực tiễn cho sinh viên, Vietcap tiếp tục triển khai thành công
+Chương trình Thực tập sinh Tài năng Vietcap 2025. Chương
+trình được định hướng trở thành hoạt động thường niên, mang
+tính truyền thống của Công ty, góp phần phát hiện, đào tạo và
+phát triển nguồn nhân lực trẻ chất lượng cao, đồng thời tạo nền
+tảng để Vietcap chủ động xây dựng đội ngũ nhân sự kế thừa
 trong dài hạn.
-Song song với việc đẩy mạnh ứng dụng công nghệ trong lĩnh vực 
-chứng khoán, Vietcap cũng chú trọng mở rộng và nâng cao năng 
-lực chuyên môn của các Phòng Nghiên cứu và Phân tích, Phòng 
-Ngân hàng Đầu tư nhằm đáp ứng nhu cầu ngày càng gia tăng và 
-yêu cầu chuyên sâu của thị trường. Theo đó, Công ty tập trung 
-tìm kiếm, thu hút và phát triển đội ngũ nhân sự có chuyên môn 
-sâu, tư duy phân tích sắc bén và khả năng thích ứng linh hoạt, 
-qua đó  gia tăng năng lực cạnh tranh và tạo nền tảng cho sự phát 
+Song song với việc đẩy mạnh ứng dụng công nghệ trong lĩnh vực
+chứng khoán, Vietcap cũng chú trọng mở rộng và nâng cao năng
+lực chuyên môn của các Phòng Nghiên cứu và Phân tích, Phòng
+Ngân hàng Đầu tư nhằm đáp ứng nhu cầu ngày càng gia tăng và
+yêu cầu chuyên sâu của thị trường. Theo đó, Công ty tập trung
+tìm kiếm, thu hút và phát triển đội ngũ nhân sự có chuyên môn
+sâu, tư duy phân tích sắc bén và khả năng thích ứng linh hoạt,
+qua đó  gia tăng năng lực cạnh tranh và tạo nền tảng cho sự phát
 triển bền vững trong giai đoạn tiếp theo.
 TUYỂN DỤNG
 NGUỒN NHÂN LỰC CHẤT LƯỢNG CAO – CỐT LÕI TRONG GIAI ĐOẠN PHÁT TRIỂN BỀN VỮNG
 Lợi nhuận bình quân đầu người qua các năm
-42
-43
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Trong năm 2025, Vietcap đã tiếp nhận hơn 8.200 hồ sơ ứng tuyển 
-tiềm năng, trong đó gần 3.000 hồ sơ ứng tuyển vào Phòng Đổi 
-mới Sáng tạo & Công nghệ Thông tin, hơn 1.000 hồ sơ ứng tuyển 
-vào Phòng Nghiên cứu và Phân tích, gần 1.000 hồ sơ ứng tuyển 
-vào Phòng Ngân hàng Đầu tư và các hồ sơ còn lại đến từ các 
-phòng ban khác. Kết quả này tiếp tục khẳng định sức hút của 
-thương hiệu tuyển dụng Vietcap, đặc biệt trong các lĩnh vực 
-công nghệ, nghiên cứu và ngân hàng đầu tư – những trụ cột 
+Trong năm 2025, Vietcap đã tiếp nhận hơn 8.200 hồ sơ ứng tuyển
+tiềm năng, trong đó gần 3.000 hồ sơ ứng tuyển vào Phòng Đổi
+mới Sáng tạo & Công nghệ Thông tin, hơn 1.000 hồ sơ ứng tuyển
+vào Phòng Nghiên cứu và Phân tích, gần 1.000 hồ sơ ứng tuyển
+vào Phòng Ngân hàng Đầu tư và các hồ sơ còn lại đến từ các
+phòng ban khác. Kết quả này tiếp tục khẳng định sức hút của
+thương hiệu tuyển dụng Vietcap, đặc biệt trong các lĩnh vực
+công nghệ, nghiên cứu và ngân hàng đầu tư – những trụ cột
 chiến lược trong giai đoạn phát triển tiếp theo của Công ty.
-Định hướng năm 2026, Vietcap sẽ tiếp tục tập trung phát triển 
-nguồn nhân lực trẻ thông qua các chương trình đào tạo và tuyển 
-chọn có chiều sâu, đồng thời đẩy mạnh thu hút đội ngũ nhân sự 
-giàu kinh nghiệm và chuyên môn cao, nhằm tạo sự cân bằng giữa 
-nguồn nhân lực kế thừa và lực lượng nòng cốt. Bên cạnh đó, Công 
-ty tiếp tục tăng cường hợp tác với các trường đại học hàng đầu 
-trong các hoạt động tuyển sinh, hướng nghiệp và đào tạo thực 
-tiễn, qua đó xây dựng nền tảng nhân lực vững chắc, linh hoạt và 
-sẵn sàng thích ứng trước những biến động của thị trường trong 
+Định hướng năm 2026, Vietcap sẽ tiếp tục tập trung phát triển
+nguồn nhân lực trẻ thông qua các chương trình đào tạo và tuyển
+chọn có chiều sâu, đồng thời đẩy mạnh thu hút đội ngũ nhân sự
+giàu kinh nghiệm và chuyên môn cao, nhằm tạo sự cân bằng giữa
+nguồn nhân lực kế thừa và lực lượng nòng cốt. Bên cạnh đó, Công
+ty tiếp tục tăng cường hợp tác với các trường đại học hàng đầu
+trong các hoạt động tuyển sinh, hướng nghiệp và đào tạo thực
+tiễn, qua đó xây dựng nền tảng nhân lực vững chắc, linh hoạt và
+sẵn sàng thích ứng trước những biến động của thị trường trong
 giai đoạn phát triển tiếp theo.
-Nguồn nhân lực chất lượng cao tiếp tục được Vietcap xác định là 
-nền tảng cốt lõi, bảo đảm việc triển khai hiệu quả chiến lược kinh 
+Nguồn nhân lực chất lượng cao tiếp tục được Vietcap xác định là
+nền tảng cốt lõi, bảo đảm việc triển khai hiệu quả chiến lược kinh
 doanh và duy trì tăng trưởng bền vững trong dài hạn.
 Năm 2025 đánh dấu sự hoàn thiện của hệ sinh thái E-Learning, nơi công nghệ trở thành đòn bẩy để tối ưu hóa năng lực đội ngũ:
-Bên cạnh các sản phẩm truyền thống, Vietcap chủ động 
-trang bị kiến thức về Tài sản số (Blockchain, DeFi, NFT) và 
-Sản phẩm Trái phiếu chuyên sâu. Điều này khẳng định vị thế 
-của đội ngũ tư vấn Vietcap: am hiểu chuyên môn, tư vấn 
-toàn diện và sẵn sàng đón đầu các xu hướng mới của thị 
+Bên cạnh các sản phẩm truyền thống, Vietcap chủ động
+trang bị kiến thức về Tài sản số (Blockchain, DeFi, NFT) và
+Sản phẩm Trái phiếu chuyên sâu. Điều này khẳng định vị thế
+của đội ngũ tư vấn Vietcap: am hiểu chuyên môn, tư vấn
+toàn diện và sẵn sàng đón đầu các xu hướng mới của thị
 trường tài chính.
-Năm 2025 là giai đoạn Vietcap tập trung “xây nền” năng lực, chuẩn hóa tư duy, kiến thức và phương pháp làm việc, tạo tiền đề 
+Năm 2025 là giai đoạn Vietcap tập trung “xây nền” năng lực, chuẩn hóa tư duy, kiến thức và phương pháp làm việc, tạo tiền đề
 để chuyển hóa năng lực đào tạo thành hiệu quả kinh doanh trong các năm tiếp theo.
-Tại Vietcap, chúng tôi tin rằng nguồn nhân lực chất lượng cao không chỉ là tài sản quý giá nhất mà còn là động lực cốt lõi kiến tạo lợi 
+Tại Vietcap, chúng tôi tin rằng nguồn nhân lực chất lượng cao không chỉ là tài sản quý giá nhất mà còn là động lực cốt lõi kiến tạo lợi
 thế cạnh tranh bền vững.
-Năm 2025 đánh dấu bước chuyển mình quan trọng trong chiến lược Đào tạo & Phát triển (Learning & Development), khi Vietcap dịch 
+Năm 2025 đánh dấu bước chuyển mình quan trọng trong chiến lược Đào tạo & Phát triển (Learning & Development), khi Vietcap dịch
 chuyển từ mô hình đào tạo cung cấp kiến thức sang xây dựng hệ sinh thái học tập chủ động, thực chiến và gắn chặt với hiệu quả kinh doanh.
 ĐÀO TẠO VÀ PHÁT TRIỂN CON NGƯỜI: KIẾN TẠO VỊ THẾ - BỨT PHÁ TƯƠNG LAI
 1.CHUYỂN ĐỔI SỐ TOÀN DIỆN & CHUẨN HÓA NĂNG LỰC ĐỘI NGŨ
 HỒ SƠ ỨNG TUYỂN TIỀM NĂNG
-8.200+
-HỒ SƠ ỨNG TUYỂN VÀO PHÒNG ĐỔI MỚI 
+HỒ SƠ ỨNG TUYỂN VÀO PHÒNG ĐỔI MỚI
 SÁNG TẠO & CÔNG NGHỆ THÔNG TIN
-3.000+
-HỒ SƠ ỨNG TUYỂN VÀO PHÒNG 
+HỒ SƠ ỨNG TUYỂN VÀO PHÒNG
 NGHIÊN CỨU VÀ PHÂN TÍCH
-1.000+ 
-Vietcap đã thiết kế và triển khai thành công "Lộ trình Học 
-tập Hội nhập" với 10 môn học chuyên biệt giúp 100% nhân 
-sự mới nhanh chóng hòa nhập văn hóa doanh nghiệp và 
+Vietcap đã thiết kế và triển khai thành công "Lộ trình Học
+tập Hội nhập" với 10 môn học chuyên biệt giúp 100% nhân
+sự mới nhanh chóng hòa nhập văn hóa doanh nghiệp và
 đáp ứng yêu cầu công việc ngay từ giai đoạn đầu.
-Phối hợp cùng Phòng Nhân sự, Vietcap tổ chức 10 khóa học 
-trọng điểm về Trí tuệ cảm xúc (EQ), Tư duy phản biện và 
-Lãnh đạo , giúp nâng cao hiệu suất làm việc nhóm và khả 
-năng thích ứng linh hoạt của đội ngũ Tư vấn Đầu tư trước 
+Phối hợp cùng Phòng Nhân sự, Vietcap tổ chức 10 khóa học
+trọng điểm về Trí tuệ cảm xúc (EQ), Tư duy phản biện và
+Lãnh đạo , giúp nâng cao hiệu suất làm việc nhóm và khả
+năng thích ứng linh hoạt của đội ngũ Tư vấn Đầu tư trước
 biến động thị trường.
 Chuẩn hóa khung năng lực hội nhập
 Phát triển tư duy lãnh đạo và kỹ năng mềm
 Tiên phong cập nhật xu hướng tài chính
-44
-45
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Chương trình "Sinh viên Tài năng" (10.2024 - 10.2025) là điểm sáng chiến lược, hiện thực hóa cam kết của Vietcap trong việc trẻ hóa 
+Chương trình "Sinh viên Tài năng" (10.2024 - 10.2025) là điểm sáng chiến lược, hiện thực hóa cam kết của Vietcap trong việc trẻ hóa
 nguồn nhân lực và thu hút nhân tài từ ghế nhà trường.
-Chương trình không chỉ đáp ứng nhu cầu thu hút nguồn nhân lực trẻ mà còn giúp 
-Vietcap chủ động thiết lập lực lượng nhân sự kế thừa bền vững. Sáng kiến này 
-góp phần tối ưu hóa ngân sách tuyển dụng, đồng thời đẩy nhanh tiến độ hội nhập 
-và nâng cao năng lực sẵn sàng thực thi nghiệp vụ của thế hệ chuyên viên Tư vấn 
+Chương trình không chỉ đáp ứng nhu cầu thu hút nguồn nhân lực trẻ mà còn giúp
+Vietcap chủ động thiết lập lực lượng nhân sự kế thừa bền vững. Sáng kiến này
+góp phần tối ưu hóa ngân sách tuyển dụng, đồng thời đẩy nhanh tiến độ hội nhập
+và nâng cao năng lực sẵn sàng thực thi nghiệp vụ của thế hệ chuyên viên Tư vấn
 Đầu tư mới.
-Thông qua việc hợp tác chiến lược cùng 14 trường đại học hàng đầu và ký kết 4 MOU 
-quan trọng, chương trình đã thu hút 400 sinh viên tham gia đào tạo, vượt 250% kế 
+Thông qua việc hợp tác chiến lược cùng 14 trường đại học hàng đầu và ký kết 4 MOU
+quan trọng, chương trình đã thu hút 400 sinh viên tham gia đào tạo, vượt 250% kế
 hoạch năm.
-Khác biệt với các chương trình thực tập thông thường, Vietcap  triển khai mô hình 
-"vừa học vừa làm". Kết quả ấn tượng với hơn 500 tài khoản chứng khoán mới được mở 
-và sự hình thành của đội ngũ 55 nhân sự nguồn (B4B - Broker for Business) chất 
-lượng cao, sẵn sàng đóng góp vào sự phát triển của Công ty ngay khi tốt nghiệp.  Đây 
-là giải pháp hiệu quả cho bài toán nhân sự kế cận, đồng thời tối ưu chi phí và thời gian 
+Khác biệt với các chương trình thực tập thông thường, Vietcap  triển khai mô hình
+"vừa học vừa làm". Kết quả ấn tượng với hơn 500 tài khoản chứng khoán mới được mở
+và sự hình thành của đội ngũ 55 nhân sự nguồn (B4B - Broker for Business) chất
+lượng cao, sẵn sàng đóng góp vào sự phát triển của Công ty ngay khi tốt nghiệp.  Đây
+là giải pháp hiệu quả cho bài toán nhân sự kế cận, đồng thời tối ưu chi phí và thời gian
 tuyển dụng.
-Chuẩn hóa nguồn nhân sự kế cận theo 
-mô hình tiêu chuẩn kép, phân tầng 
-chương trình Sinh viên Tài năng thành 
-Standard Track và Elite Track, tạo 
-nguồn nhân lực chất lượng cao và đội 
-ngũ chuyên gia tài chính cho phân 
+Chuẩn hóa nguồn nhân sự kế cận theo
+mô hình tiêu chuẩn kép, phân tầng
+chương trình Sinh viên Tài năng thành
+Standard Track và Elite Track, tạo
+nguồn nhân lực chất lượng cao và đội
+ngũ chuyên gia tài chính cho phân
 khúc Khách hàng trọng điểm.
-Hoạt động đào tạo của Vietcap không chỉ giới hạn trong nội bộ mà còn mở rộng tầm 
+Hoạt động đào tạo của Vietcap không chỉ giới hạn trong nội bộ mà còn mở rộng tầm
 ảnh hưởng ra cộng đồng nhà đầu tư và nhân sự ngành tài chính.
-Đồng hành cùng Nhà đầu tư: Chuỗi 8 Webinar chuyên đề (Bất động sản, Dầu khí, 
-Chiến lược đầu tư...) phối hợp cùng Khối Nghiên cứu & Phân tích đã trở thành kênh 
+Đồng hành cùng Nhà đầu tư: Chuỗi 8 Webinar chuyên đề (Bất động sản, Dầu khí,
+Chiến lược đầu tư...) phối hợp cùng Khối Nghiên cứu & Phân tích đã trở thành kênh
 tham khảo uy tín, thu hút hơn 300 Khách hàng tham gia với tỷ lệ hài lòng lên đến 86%.
-Cộng đồng ôn thi Chứng chỉ hành nghề: Vietcap đã xây dựng thành công cộng đồng 
-học tập với 1.740 thành viên, tạo ra một kênh tuyển dụng thụ động giàu tiềm năng, thu 
-hút những nhân sự đã có kinh nghiệm và chứng chỉ hành nghề từ thị trường về với 
+Cộng đồng ôn thi Chứng chỉ hành nghề: Vietcap đã xây dựng thành công cộng đồng
+học tập với 1.740 thành viên, tạo ra một kênh tuyển dụng thụ động giàu tiềm năng, thu
+hút những nhân sự đã có kinh nghiệm và chứng chỉ hành nghề từ thị trường về với
 Vietcap.
-Thông qua các hoạt động đào tạo mở và cộng đồng học tập, Vietcap không chỉ lan 
-tỏa tri thức mà còn tăng cường sự gắn kết, củng cố hình ảnh doanh nghiệp học tập 
-(Learning Organization), từ đó nâng cao mức độ cam kết và trung thành của nhân sự 
+Thông qua các hoạt động đào tạo mở và cộng đồng học tập, Vietcap không chỉ lan
+tỏa tri thức mà còn tăng cường sự gắn kết, củng cố hình ảnh doanh nghiệp học tập
+(Learning Organization), từ đó nâng cao mức độ cam kết và trung thành của nhân sự
 đối với tổ chức.
-2. CHIẾN LƯỢC "VƯỜN ƯƠM TÀI NĂNG": DẤU ẤN THẾ HỆ GEN Z
 3. LAN TỎA TRI THỨC - GẮN KẾT CỘNG ĐỒNG
 Hiệu quả từ sức hút thương hiệu:
 Mô hình đào tạo thực chiến:
 "VƯỜN ƯƠM TÀI NĂNG"
-01
 CHƯƠNG TRÌNH ĐÃ THU HÚT
 THAM GIA ĐÀO TẠO
 SINH VIÊN
-400
-TÀI KHOẢN CHỨNG KHOÁN 
+TÀI KHOẢN CHỨNG KHOÁN
 MỚI ĐƯỢC MỞ
-500
 THU HÚT
 Khách hàng
-300
 CỘNG ĐỒNG HỌC TẬP VỚI
 THÀNH VIÊN
-1.740
-Chủ động thu hút và sàng lọc nhân tài: 
-Triển khai các “sân chơi” chuyên môn 
-thông qua Kỳ thi Thử Năng lực (Mock 
-Test) định kỳ, giúp Vietcap chủ động 
-tiếp cận, đánh giá và lựa chọn đội ngũ 
-môi giới tiềm năng ngay từ thị trường 
+Chủ động thu hút và sàng lọc nhân tài:
+Triển khai các “sân chơi” chuyên môn
+thông qua Kỳ thi Thử Năng lực (Mock
+Test) định kỳ, giúp Vietcap chủ động
+tiếp cận, đánh giá và lựa chọn đội ngũ
+môi giới tiềm năng ngay từ thị trường
 lao động.
-02
-Tăng cường liên kết đào tạo – thực 
-tiễn: Đẩy mạnh hợp tác chiến lược với 
-các trường đại học, triển khai mô hình 
-Đào tạo tại Doanh nghiệp (Corporate 
-Modules), rút ngắn khoảng cách giữa 
-đào tạo học thuật và thực tiễn thị 
+Tăng cường liên kết đào tạo – thực
+tiễn: Đẩy mạnh hợp tác chiến lược với
+các trường đại học, triển khai mô hình
+Đào tạo tại Doanh nghiệp (Corporate
+Modules), rút ngắn khoảng cách giữa
+đào tạo học thuật và thực tiễn thị
 trường.
-03
-Tối ưu hóa hiệu suất đội ngũ tư vấn 
-hiện hữu, tập trung nâng cao tỷ lệ 
-chuyển đổi và mức độ hài lòng của 
-Khách hàng thông qua đào tạo chuyên 
-sâu về tư vấn, đàm phán và quản trị trải 
+Tối ưu hóa hiệu suất đội ngũ tư vấn
+hiện hữu, tập trung nâng cao tỷ lệ
+chuyển đổi và mức độ hài lòng của
+Khách hàng thông qua đào tạo chuyên
+sâu về tư vấn, đàm phán và quản trị trải
 nghiệm Khách hàng.
-04
-Cá nhân hóa trải nghiệm học tập, nâng 
-cấp hệ thống E-Learning theo hướng 
-Adaptive Learning, thiết kế lộ trình học 
-tập riêng biệt dựa trên năng lực và mục 
+Cá nhân hóa trải nghiệm học tập, nâng
+cấp hệ thống E-Learning theo hướng
+Adaptive Learning, thiết kế lộ trình học
+tập riêng biệt dựa trên năng lực và mục
 tiêu nghề nghiệp của từng cá nhân.
-05
-Năm 2026, Vietcap xác định chất lượng nhân sự là đòn bẩy then chốt để gia tăng lợi thế cạnh tranh. Chiến lược 
-Đào tạo & Phát triển tập trung vào chuẩn hóa nguồn nhân lực kế cận, cá nhân hóa học tập và chuyển hóa năng lực 
+Năm 2026, Vietcap xác định chất lượng nhân sự là đòn bẩy then chốt để gia tăng lợi thế cạnh tranh. Chiến lược
+Đào tạo & Phát triển tập trung vào chuẩn hóa nguồn nhân lực kế cận, cá nhân hóa học tập và chuyển hóa năng lực
 thành hiệu quả kinh doanh thực tế.
 Trọng tâm chiến lược gồm 5 định hướng chính:
-4. ĐỊNH HƯỚNG CHIẾN LƯỢC 2026: NÂNG TẦM CHUẨN MỰC – BỨT PHÁ 
+4. ĐỊNH HƯỚNG CHIẾN LƯỢC 2026: NÂNG TẦM CHUẨN MỰC – BỨT PHÁ
 HIỆU SUẤT
-46
-47
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-NGÂN HÀNG ĐẦU TƯ 
-Ngân hàng Đầu tư Vietcap duy trì vị thế dẫn đầu trong bối cảnh 
+NGÂN HÀNG ĐẦU TƯ
+Ngân hàng Đầu tư Vietcap duy trì vị thế dẫn đầu trong bối cảnh
 hoạt động IPO sôi động trở lại
-Năm 2025 đánh dấu sự khởi sắc rõ nét của thị trường chứng khoán Việt Nam, tạo nền tảng thuận lợi cho các hoạt động thị trường vốn, 
+Năm 2025 đánh dấu sự khởi sắc rõ nét của thị trường chứng khoán Việt Nam, tạo nền tảng thuận lợi cho các hoạt động thị trường vốn,
 đặc biệt là IPO và niêm yết:
-Trong bối cảnh đó, Vietcap tiếp tục khẳng định vị thế là đơn vị Ngân hàng Đầu tư hàng đầu tại Việt Nam, đặc biệt trong các giao dịch quy 
-mô lớn, cấu trúc phức tạp và mang tính tiên phong về mặt pháp lý. 
-Dựa trên bề dày kinh nghiệm và nền tảng năng lực toàn diện, Ngân hàng Đầu tư Vietcap chủ động dẫn dắt các xu hướng mới của thị 
+Trong bối cảnh đó, Vietcap tiếp tục khẳng định vị thế là đơn vị Ngân hàng Đầu tư hàng đầu tại Việt Nam, đặc biệt trong các giao dịch quy
+mô lớn, cấu trúc phức tạp và mang tính tiên phong về mặt pháp lý.
+Dựa trên bề dày kinh nghiệm và nền tảng năng lực toàn diện, Ngân hàng Đầu tư Vietcap chủ động dẫn dắt các xu hướng mới của thị
 trường và cam kết mang lại giá trị vượt trội, bền vững cho Khách hàng và cổ đông:
-Vietcap là đơn vị tư vấn độc quyền cho IPO và niêm yết của 
-CTCP Chứng khoán VPBank (VPX) và CTCP Phát triển Nông 
-nghiệp Hòa Phát (HPA) – những thương vụ đầu tiên được thực 
-hiện theo Nghị định 245 mới ban hành, khẳng định năng lực 
-thích ứng nhanh và vai trò dẫn dắt thị trường. Thời gian triển 
-khai của thương vụ tổng cộng từ 3-4 tháng cho đến khi hoàn 
+Vietcap là đơn vị tư vấn độc quyền cho IPO và niêm yết của
+CTCP Chứng khoán VPBank (VPX) và CTCP Phát triển Nông
+nghiệp Hòa Phát (HPA) – những thương vụ đầu tiên được thực
+hiện theo Nghị định 245 mới ban hành, khẳng định năng lực
+thích ứng nhanh và vai trò dẫn dắt thị trường. Thời gian triển
+khai của thương vụ tổng cộng từ 3-4 tháng cho đến khi hoàn
 tất, rất nhanh cho một thương vụ niêm yết.
-VN-Index tăng 41%, thanh khoản thị trường cải thiện mạnh với giá trị giao dịch bình quân gần 30.000 tỷ đồng/phiên, được hỗ trợ bởi 
+VN-Index tăng 41%, thanh khoản thị trường cải thiện mạnh với giá trị giao dịch bình quân gần 30.000 tỷ đồng/phiên, được hỗ trợ bởi
 các chính sách thúc đẩy tăng trưởng kinh tế và lộ trình nâng hạng thị trường chứng khoán của Chính phủ.
-Bối cảnh tích cực này đã thúc đẩy nhiều doanh nghiệp triển khai IPO hoặc bắt đầu quá trình chuẩn bị IPO, nhằm tận dụng “cửa sổ thị 
-trường” thuận lợi. 
-Năm thương vụ IPO lớn liên tiếp trong nửa cuối năm 2025, bao gồm các giao dịch có quy mô chào bán lên tới hàng trăm triệu USD, đã 
+Bối cảnh tích cực này đã thúc đẩy nhiều doanh nghiệp triển khai IPO hoặc bắt đầu quá trình chuẩn bị IPO, nhằm tận dụng “cửa sổ thị
+trường” thuận lợi.
+Năm thương vụ IPO lớn liên tiếp trong nửa cuối năm 2025, bao gồm các giao dịch có quy mô chào bán lên tới hàng trăm triệu USD, đã
 đánh dấu sự trở lại rõ rệt của hoạt động IPO sau giai đoạn trầm lắng kéo dài từ 2019–2024.
 Diễn biến thị trường tích cực:
 Cánh cửa rộng mở cho hoạt động IPO:
 Hoạt động IPO sôi động trở lại:
-Với quan hệ chặt chẽ cùng các định chế tài chính tại các thị 
-trường lớn như Singapore, Hong Kong, London và Hoa Kỳ, 
-Vietcap đóng vai trò cầu nối hiệu quả giữa dòng vốn quốc tế và 
-các doanh nghiệp hàng đầu Việt Nam, góp phần mở rộng khả 
+Với quan hệ chặt chẽ cùng các định chế tài chính tại các thị
+trường lớn như Singapore, Hong Kong, London và Hoa Kỳ,
+Vietcap đóng vai trò cầu nối hiệu quả giữa dòng vốn quốc tế và
+các doanh nghiệp hàng đầu Việt Nam, góp phần mở rộng khả
 năng tiếp cận vốn và nâng cao chất lượng nhà đầu tư.
-Sự kết hợp giữa chuẩn mực thực thi quốc tế và hiểu biết sâu sắc 
-về môi trường pháp lý, văn hóa kinh doanh tại Việt Nam giúp 
-Vietcap đưa ra các giải pháp tư vấn sát thực, khả thi và có tỷ lệ 
+Sự kết hợp giữa chuẩn mực thực thi quốc tế và hiểu biết sâu sắc
+về môi trường pháp lý, văn hóa kinh doanh tại Việt Nam giúp
+Vietcap đưa ra các giải pháp tư vấn sát thực, khả thi và có tỷ lệ
 thành công cao.
-Vietcap không chỉ tập trung vào việc hoàn tất giao dịch, mà còn 
-đồng hành cùng doanh nghiệp xây dựng lộ trình tài chính và 
-chiến lược vốn dài hạn, qua đó nâng cao giá trị doanh nghiệp 
+Vietcap không chỉ tập trung vào việc hoàn tất giao dịch, mà còn
+đồng hành cùng doanh nghiệp xây dựng lộ trình tài chính và
+chiến lược vốn dài hạn, qua đó nâng cao giá trị doanh nghiệp
 sau giao dịch.
-Tiên phong triển khai các giao dịch IPO và niêm yết theo 
+Tiên phong triển khai các giao dịch IPO và niêm yết theo
 khung pháp lý mới
 Mạng lưới nhà đầu tư toàn cầu sâu rộng
 Đội ngũ chuyên gia am hiểu thị trường nội địa
 Tư duy chiến lược dài hạn
-48
-49
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Trước triển vọng tích cực này, Ngân hàng Đầu tư Vietcap đang chủ động mở rộng đội ngũ, đẩy mạnh đào tạo nội bộ và chuẩn bị 
-nguồn lực để tiếp tục triển khai các thương vụ lớn. Các giao dịch đang được Vietcap tư vấn trải rộng trên nhiều lĩnh vực như bán 
-lẻ, tiêu dùng, giải trí, dịch vụ tài chính, giáo dục, công nghiệp – xây dựng, với đa dạng hình thức bao gồm IPO, huy động vốn, thoái 
-vốn, M&A và tái cấu trúc doanh nghiệp, qua đó khẳng định vai trò đồng hành dài hạn cùng doanh nghiệp trong chu kỳ phát triển 
+Trước triển vọng tích cực này, Ngân hàng Đầu tư Vietcap đang chủ động mở rộng đội ngũ, đẩy mạnh đào tạo nội bộ và chuẩn bị
+nguồn lực để tiếp tục triển khai các thương vụ lớn. Các giao dịch đang được Vietcap tư vấn trải rộng trên nhiều lĩnh vực như bán
+lẻ, tiêu dùng, giải trí, dịch vụ tài chính, giáo dục, công nghiệp – xây dựng, với đa dạng hình thức bao gồm IPO, huy động vốn, thoái
+vốn, M&A và tái cấu trúc doanh nghiệp, qua đó khẳng định vai trò đồng hành dài hạn cùng doanh nghiệp trong chu kỳ phát triển
 mới của thị trường vốn Việt Nam.
 Các thương vụ chủ chốt trong năm 2025
 Triển vọng năm 2026
-Trong năm 2025, Ngân hàng Đầu tư 
-Vietcap triển khai thành công các giao 
+Trong năm 2025, Ngân hàng Đầu tư
+Vietcap triển khai thành công các giao
 dịch IPO và niêm yết quy mô lớn:
-Vietcap kỳ vọng năm 2026 sẽ tiếp tục là một năm sôi động của thị trường vốn, bao gồm IPO, huy động vốn, thoái vốn và M&A, 
+Vietcap kỳ vọng năm 2026 sẽ tiếp tục là một năm sôi động của thị trường vốn, bao gồm IPO, huy động vốn, thoái vốn và M&A,
 dựa trên các yếu tố hỗ trợ then chốt:
-Tư vấn độc quyền IPO và niêm yết CTCP 
-Chứng khoán VPBank (VPX) trên HoSE, với 
-giá trị chào bán hơn 12,7 nghìn tỷ đồng và 
-vốn hóa Công ty gần 64 nghìn tỷ đồng (theo 
+Tư vấn độc quyền IPO và niêm yết CTCP
+Chứng khoán VPBank (VPX) trên HoSE, với
+giá trị chào bán hơn 12,7 nghìn tỷ đồng và
+vốn hóa Công ty gần 64 nghìn tỷ đồng (theo
 giá tham chiếu ngày giao dịch đầu tiên).
-Theo giá tham chiếu ngày giao dịch đầu 
-tiên trên HoSE, CTCP Phát triển Nông 
-nghiệp Hòa Phát (HPA) ghi nhận giá trị 
-chào bán gần 1,3 nghìn tỷ đồng và vốn hóa 
+Theo giá tham chiếu ngày giao dịch đầu
+tiên trên HoSE, CTCP Phát triển Nông
+nghiệp Hòa Phát (HPA) ghi nhận giá trị
+chào bán gần 1,3 nghìn tỷ đồng và vốn hóa
 Công ty gần 12 nghìn tỷ đồng (theo giá IPO).
 • Các chính sách thúc đẩy tăng trưởng kinh tế của Chính phủ, ở cả khu vực quốc doanh lẫn tư nhân.
-• Nâng hạng thị trường: Quyết định nâng hạng Việt Nam của FTSE Russell từ Thị trường Cận biên lên Thị trường Mới nổi Thứ cấp 
-dự kiến sẽ có hiệu lực từ tháng 9.2026, mở ra kỳ vọng thị trường chứng khoán Việt Nam có thể thu hút hàng tỷ USD vốn ngoại và 
+• Nâng hạng thị trường: Quyết định nâng hạng Việt Nam của FTSE Russell từ Thị trường Cận biên lên Thị trường Mới nổi Thứ cấp
+dự kiến sẽ có hiệu lực từ tháng 9.2026, mở ra kỳ vọng thị trường chứng khoán Việt Nam có thể thu hút hàng tỷ USD vốn ngoại và
 nâng cao vị thế Việt Nam trên bản đồ đầu tư toàn cầu.
-• Dòng tiền nhà đầu tư cá nhân trong nước tiếp tục duy trì tích cực, được hỗ trợ bởi tăng trưởng lợi nhuận mạnh mẽ của các 
+• Dòng tiền nhà đầu tư cá nhân trong nước tiếp tục duy trì tích cực, được hỗ trợ bởi tăng trưởng lợi nhuận mạnh mẽ của các
 doanh nghiệp niêm yết. Bộ phận Nghiên cứu & Phân tích Vietcap dự báo EPS của VN-Index tăng trưởng khoảng 19% trong năm 2026.
-• Cơ cấu các thương vụ IPO dự kiến đa dạng hơn về ngành nghề, thay vì tập trung chủ yếu vào nhóm Công ty chứng khoán như 
+• Cơ cấu các thương vụ IPO dự kiến đa dạng hơn về ngành nghề, thay vì tập trung chủ yếu vào nhóm Công ty chứng khoán như
 năm 2025, qua đó đáp ứng khẩu vị đa dạng của nhà đầu tư.
-12,7nghìn tỷ đồng
 12 nghìn tỷ đồng
-Tư vấn độc quyền niêm yết CTCP Hàng tiêu 
-dùng Masan (MCH) trên HoSE, với vốn hóa 
-hơn 227 nghìn tỷ đồng (theo giá tham chiếu 
+Tư vấn độc quyền niêm yết CTCP Hàng tiêu
+dùng Masan (MCH) trên HoSE, với vốn hóa
+hơn 227 nghìn tỷ đồng (theo giá tham chiếu
 ngày giao dịch đầu tiên).
 227 nghìn tỷ đồng
-50
-51
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Khẳng định vị thế tiên phong trên thị trường chứng khoán Việt 
-Nam, Khối Giao dịch Chứng khoán – Khách hàng Tổ chức tự hào 
-duy trì ngôi vị dẫn đầu toàn ngành năm thứ 6 liên tiếp, nắm giữ 
-29% thị phần môi giới nước ngoài trong năm 2025. Thành quả 
-này là minh chứng rõ nét nhất cho sự tín nhiệm bền vững mà Quý 
-nhà đầu tư tổ chức dành cho chúng tôi, đồng thời là động lực để 
-Vietcap kiên định cam kết cung cấp hệ sinh thái dịch vụ tài chính 
+Khẳng định vị thế tiên phong trên thị trường chứng khoán Việt
+Nam, Khối Giao dịch Chứng khoán – Khách hàng Tổ chức tự hào
+duy trì ngôi vị dẫn đầu toàn ngành năm thứ 6 liên tiếp, nắm giữ
+29% thị phần môi giới nước ngoài trong năm 2025. Thành quả
+này là minh chứng rõ nét nhất cho sự tín nhiệm bền vững mà Quý
+nhà đầu tư tổ chức dành cho chúng tôi, đồng thời là động lực để
+Vietcap kiên định cam kết cung cấp hệ sinh thái dịch vụ tài chính
 chuyên nghiệp và toàn diện.
-Trong năm qua, chúng tôi tiếp tục phát huy vai trò cầu nối chiến 
-lược thông qua việc tổ chức thành công Hội nghị Vietnam 
-Access Days (VAD) lần thứ 13 tại TP.HCM. Sự kiện quy tụ hơn 570 
-nhà đầu tư tổ chức, 60 doanh nghiệp đầu ngành và 25 chuyên 
-gia uy tín, tạo nên một diễn đàn đối thoại chuyên sâu về các xu 
-hướng vĩ mô và cơ hội đầu tư tiềm năng. Cộng đồng nhà đầu tư 
-tiếp tục bày tỏ sự lạc quan và niềm tin vững chắc vào triển vọng 
+Trong năm qua, chúng tôi tiếp tục phát huy vai trò cầu nối chiến
+lược thông qua việc tổ chức thành công Hội nghị Vietnam
+Access Days (VAD) lần thứ 13 tại TP.HCM. Sự kiện quy tụ hơn 570
+nhà đầu tư tổ chức, 60 doanh nghiệp đầu ngành và 25 chuyên
+gia uy tín, tạo nên một diễn đàn đối thoại chuyên sâu về các xu
+hướng vĩ mô và cơ hội đầu tư tiềm năng. Cộng đồng nhà đầu tư
+tiếp tục bày tỏ sự lạc quan và niềm tin vững chắc vào triển vọng
 kinh tế Việt Nam trong năm 2026.
-Song hành cùng sự thăng hạng của vị thế quốc gia, Vietcap đã 
-mở rộng hợp tác chiến lược với FTSE Russell để quảng bá tiềm 
-năng thị trường Việt Nam đến cộng đồng nhà đầu tư trên toàn 
-cầu. Vào tháng 8.2025, chúng tôi đã phối hợp cùng FTSE Russell 
-tổ chức Hội nghị VAD Bangkok lần thứ 7 tại Thái Lan. Vào tháng 
-9.2025, chúng tôi đồng tổ chức Hội nghị VAD London – hội nghị 
-đầu tư chuyên biệt về thị trường tài chính Việt Nam lần đầu tiên 
-diễn ra tại Sở Giao dịch Chứng khoán London (LSE). Chuỗi sự 
-kiện này là minh chứng cho nỗ lực không ngừng nghỉ của chúng 
-tôi trong việc kết nối thị trường vốn Việt Nam với cộng đồng đầu 
+Song hành cùng sự thăng hạng của vị thế quốc gia, Vietcap đã
+mở rộng hợp tác chiến lược với FTSE Russell để quảng bá tiềm
+năng thị trường Việt Nam đến cộng đồng nhà đầu tư trên toàn
+cầu. Vào tháng 8.2025, chúng tôi đã phối hợp cùng FTSE Russell
+tổ chức Hội nghị VAD Bangkok lần thứ 7 tại Thái Lan. Vào tháng
+9.2025, chúng tôi đồng tổ chức Hội nghị VAD London – hội nghị
+đầu tư chuyên biệt về thị trường tài chính Việt Nam lần đầu tiên
+diễn ra tại Sở Giao dịch Chứng khoán London (LSE). Chuỗi sự
+kiện này là minh chứng cho nỗ lực không ngừng nghỉ của chúng
+tôi trong việc kết nối thị trường vốn Việt Nam với cộng đồng đầu
 tư toàn cầu.
-Tháng 10.2025 đánh dấu cột mốc lịch sử khi FTSE Russell thông 
-báo nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp, đưa vị 
-thế thị trường chứng khoán Việt Nam sánh vai cùng các nền kinh 
-tế lớn như Trung Quốc, Ấn Độ và Indonesia. Quyết định nâng 
-hạng sẽ chính thức có hiệu lực từ Thứ Hai, ngày 21.09.2026, sau 
-khi hoàn tất kỳ đánh giá giữa kỳ vào tháng 3.2026. Sự kiện này 
-không chỉ giúp khơi thông dòng vốn ngoại ròng ước tính tối thiểu 
-6 tỷ USD từ nhóm nhà đầu tư mới – vốn trước đây bị hạn chế tiếp 
-cận thị trường Việt Nam – mà còn mở ra một kỷ nguyên tăng 
+Tháng 10.2025 đánh dấu cột mốc lịch sử khi FTSE Russell thông
+báo nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp, đưa vị
+thế thị trường chứng khoán Việt Nam sánh vai cùng các nền kinh
+tế lớn như Trung Quốc, Ấn Độ và Indonesia. Quyết định nâng
+hạng sẽ chính thức có hiệu lực từ Thứ Hai, ngày 21.09.2026, sau
+khi hoàn tất kỳ đánh giá giữa kỳ vào tháng 3.2026. Sự kiện này
+không chỉ giúp khơi thông dòng vốn ngoại ròng ước tính tối thiểu
+6 tỷ USD từ nhóm nhà đầu tư mới – vốn trước đây bị hạn chế tiếp
+cận thị trường Việt Nam – mà còn mở ra một kỷ nguyên tăng
 trưởng vượt bậc cho thị trường chứng khoán.
 GIAO DỊCH CHỨNG KHOÁN
 Khách hàng TỔ CHỨC
 DOANH NGHIỆP
-60
 CHUYÊN GIA UY TÍN
-25
 NHÀ ĐẦU TƯ TỔ CHỨC
 SỰ KIỆN VAD QUY TỤ HƠN
-570
-60
-61
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Năm 2025, Vietcap Research đã tăng cường sự 
-gắn kết với Khách hàng thông qua chuỗi hội 
-thảo trực tuyến, các buổi gặp gỡ nhà đầu tư tổ 
-chức và đào tạo chuyên sâu cho đội ngũ nhân 
-viên tư vấn đầu tư. Đặc biệt, chúng tôi tự hào là 
-nhân tố nòng cốt tạo nên thành công của sự 
-kiện thương hiệu Vietnam Access Days 
-(VAD). Không chỉ dừng lại ở thị trường trong 
-nước, năm 2025 đánh dấu bước tiến chiến lược 
-khi Vietcap Research thúc đẩy việc đưa VAD 
-vươn ra quốc tế, mở rộng mạng lưới kết nối với 
+Năm 2025, Vietcap Research đã tăng cường sự
+gắn kết với Khách hàng thông qua chuỗi hội
+thảo trực tuyến, các buổi gặp gỡ nhà đầu tư tổ
+chức và đào tạo chuyên sâu cho đội ngũ nhân
+viên tư vấn đầu tư. Đặc biệt, chúng tôi tự hào là
+nhân tố nòng cốt tạo nên thành công của sự
+kiện thương hiệu Vietnam Access Days
+(VAD). Không chỉ dừng lại ở thị trường trong
+nước, năm 2025 đánh dấu bước tiến chiến lược
+khi Vietcap Research thúc đẩy việc đưa VAD
+vươn ra quốc tế, mở rộng mạng lưới kết nối với
 các đối tác toàn cầu.
-Năm qua cũng ghi nhận sự đầu tư mạnh mẽ vào 
-hạ tầng công nghệ, với trọng tâm là nâng cấp 
-nền tảng dữ liệu độc quyền Vietcap IQ và phát 
-triển trợ lý đầu tư AI. Bước sang năm 2026, 
-Vietcap Research cam kết kiên định với sứ mệnh 
-cung cấp các khuyến nghị kịp thời, thực tiễn và 
-sâu sắc, tiếp tục là đơn vị đồng hành tin cậy của 
+Năm qua cũng ghi nhận sự đầu tư mạnh mẽ vào
+hạ tầng công nghệ, với trọng tâm là nâng cấp
+nền tảng dữ liệu độc quyền Vietcap IQ và phát
+triển trợ lý đầu tư AI. Bước sang năm 2026,
+Vietcap Research cam kết kiên định với sứ mệnh
+cung cấp các khuyến nghị kịp thời, thực tiễn và
+sâu sắc, tiếp tục là đơn vị đồng hành tin cậy của
 nhà đầu tư trên thị trường Việt Nam.
 NGHIÊN CỨU - PHÂN TÍCH
-62
-63
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-Phòng Nghiên cứu & Phân tích Vietcap (Vietcap Research) tự 
-hào là đơn vị tiên phong cung cấp các phân tích chuyên sâu và 
-khuyến nghị kịp thời cho cộng đồng đầu tư tại Việt Nam. Chúng 
-tôi vận hành theo mô hình chuyên môn hóa theo ngành, nơi các 
-chuyên gia dày dặn kinh nghiệm trực tiếp dẫn dắt đội ngũ phân 
-tích, đảm bảo sự nhất quán trong phương pháp luận và chiều 
+Phòng Nghiên cứu & Phân tích Vietcap (Vietcap Research) tự
+hào là đơn vị tiên phong cung cấp các phân tích chuyên sâu và
+khuyến nghị kịp thời cho cộng đồng đầu tư tại Việt Nam. Chúng
+tôi vận hành theo mô hình chuyên môn hóa theo ngành, nơi các
+chuyên gia dày dặn kinh nghiệm trực tiếp dẫn dắt đội ngũ phân
+tích, đảm bảo sự nhất quán trong phương pháp luận và chiều
 sâu trong từng báo cáo.
-Tính đến tháng 12.2025, danh mục theo dõi của Vietcap 
-Research bao gồm 84 doanh nghiệp, đại diện cho khoảng 85% 
-vốn hóa của VN-Index và gần 2/3 tổng vốn hóa thị trường 
-chứng khoán Việt Nam. Chúng tôi áp dụng tiêu chuẩn khắt khe 
-để lựa chọn cổ phiếu, tập trung vào các mã đạt chuẩn đầu tư về 
-thanh khoản, đóng vai trò trụ cột trong nền kinh tế và sở hữu 
+Tính đến tháng 12.2025, danh mục theo dõi của Vietcap
+Research bao gồm 84 doanh nghiệp, đại diện cho khoảng 85%
+vốn hóa của VN-Index và gần 2/3 tổng vốn hóa thị trường
+chứng khoán Việt Nam. Chúng tôi áp dụng tiêu chuẩn khắt khe
+để lựa chọn cổ phiếu, tập trung vào các mã đạt chuẩn đầu tư về
+thanh khoản, đóng vai trò trụ cột trong nền kinh tế và sở hữu
 tiềm năng tăng trưởng hoặc định giá lại hấp dẫn.
-Bên cạnh các báo cáo phân tích cơ bản, chúng tôi liên tục xác 
-định các động lực thị trường ngắn hạn thông qua chuỗi báo cáo 
-công ty nhằm cung cấp cơ hội đầu tư đối với các doanh nghiệp 
-ngoài danh mục theo dõi. Hệ sinh thái ấn phẩm song ngữ (Anh 
-- Việt) của Vietcap trải rộng từ bản tin thị trường hàng ngày, 
-báo cáo tổng kết thị trường hàng tháng, báo cáo chiến lược, thị 
-trường trái phiếu, đến các phân tích chuyên sâu về ngành, 
+Bên cạnh các báo cáo phân tích cơ bản, chúng tôi liên tục xác
+định các động lực thị trường ngắn hạn thông qua chuỗi báo cáo
+công ty nhằm cung cấp cơ hội đầu tư đối với các doanh nghiệp
+ngoài danh mục theo dõi. Hệ sinh thái ấn phẩm song ngữ (Anh
+- Việt) của Vietcap trải rộng từ bản tin thị trường hàng ngày,
+báo cáo tổng kết thị trường hàng tháng, báo cáo chiến lược, thị
+trường trái phiếu, đến các phân tích chuyên sâu về ngành,
 doanh nghiệp và vĩ mô, đáp ứng khẩu vị đa dạng của nhà đầu tư.
+
+9. CS trong năm qua cũng đã đồng hành và kết hợp chặt chẽ với bộ
+phận IT/ UI trong việc phát triển các sản phẩm mới phục vụ cho kinh
+doanh.
+10. CS cũng đồng thời cung cấp các báo cáo quản trị về tình hình vay
+Nợ, Doanh số, tình hình hoạt động….  cho các phòng ban, Ban Tổng
+Giám đốc và các sở ban ngành liên quan .
+DỊCH VỤ KHÁCH HÀNG VÀ
+QUẢN LÝ SẢN PHẨM 2025
+TÌNH HÌNH THỰC HIỆN NĂM 2025
+Đánh giá về tình hình hoạt động của Phòng Dịch vụ Khách hàng và
+Quản lý sản phẩm (CS)
+1.Mở tài khoản trong nước:
+Trong năm 2025, Vietcap ghi nhận tổng số lượng Tài khoản mở mới là
+11.592 tài khoản. Trong đó, Khách hàng trong nước chiếm 11.302 tài
+khoản, (11.242 tài khoản cá nhân và 60 tài khoản tổ chức.)
+Tiếp nhận hơn 7.000 yêu cầu, trong đó khoảng 6.000 yêu cầu hỗ trợ
+liên quan đến Tài khoản chứng khoán Khách hàng và các chương
+trình khuyến mãi của Vietcap, hơn 1.000 yêu cầu hướng dẫn hoàn tất
+Mở tài khoản, chỉ còn khoảng 50 trường hợp là nạn nhân của các vụ
+lừa đảo giả mạo Vietcap.
+Năm 2025, thống kê đã thanh toán thành công cho cổ phiếu, chứng
+quyền (CW), chứng chỉ quỹ (CCQ), trái phiếu riêng lẻ (TPRL), TPRL
+với tổng giá trị là 987.576 tỷ VND, thanh toán phái sinh 145.695 tỷ VND
+Luôn chú trọng việc nhắc nợ, bán giải chấp đúng quy định, nhanh
+nhạy trong việc bán bắt buộc để thu hồi vốn. Kết quả năm 2025
+không có tài khoản nào phát sinh nợ xấu. Dư nợ margin trung bình
+khoảng 15.000-16.000 tỷ tăng hơn 50% so với năm trước.
+Tỷ lệ an toàn của hoạt động chứng khoán phái sinh cũng được kiểm
+soát tốt, không có các cảnh báo từ VSD và xảy ra các thiệt hại tài
+chính nào.
+Năm 2025, Bộ phận CS đã hỗ trợ Phòng Trái phiếu trong việc thực hiện
+hơn 900 hợp đồng mua bán trái phiếu qua hệ thống giao dịch từ xa HNX
+và 04 hợp đồng tư vấn phát hành trái phiếu.
+Theo dõi thực hiện các hợp đồng của Khách hàng,theo dõi doanh thu
+chi phí, hoa hồng cho môi giới một cách đầy đủ và cần thận, không để
+xảy ra sai sót nào.
+Mở tài khoản: Thực hiện mở được 290 tài khoản nước ngoài trong đó có
+209  tổ chức và 81 cá nhân
++ Tham gia thực hiện hoạt động giao dịch không yêu cầu ký quỹ trước
+(NPF) cho nhà đầu tư tổ chức nước ngoài :
+• Theo dõi các thanh toán NPF của các tổ chức và thực hiện báo cáo nội
+bộ, báo cáo UBCK hằng ngày.
+• Hoạt động xác nhận kết quả sau giao dịch cho các Khách hàng tổ chức
+nước ngoài, hỗ trợ các vấn đề liên quan mở tài khoản, thanh toán, tư vấn
+qui trình …cho khối Giao dịch chứng khoán - Khách hàng Tổ chức đã được
+thực hiện tốt, nhanh chóng, kịp thời.
+2. Tư vấn qua các kênh Hotline hỗ trợ Khách hàng:
+3.Hoạt động thanh toán sau giao dịch :
+4.Hoạt động chuyển tiền, rút, nộp tiền :
+5.  Hoạt động cho vay margin trong năm 2025
+6. Về hoạt động trái phiếu
+7.Hoạt động hỗ trợ khối Giao dịch chứng khoán - Khách hàng Tổ chức
+tài khoản
+yêu cầu hướng dẫn
+hoàn tất Mở tài khoản
+TỶ TĂNG HƠN 50%
+SO VỚI NĂM TRƯỚC
+tổng giá trị chuyển tiền ra
+tài khoản tổng
+tổng giá trị nhận tiền vào
+tài khoản tổng
+DƯ NỢ MARGIN TRUNG BÌNH
+8. Các hoạt động liên quan lưu ký trong năm cũng được thực hiện tốt,
+nhanh chóng, an toàn tạo sự hài lòng cho Khách hàng.
+Phí lưu ký
+Phí chuyển khoản
+Phí phong tỏa giải tỏa
+TÀI KHOẢN NƯỚC NGOÀI
+209 TỔ CHỨC
+81 CÁ NHÂN
+HỢP ĐỒNG TƯ VẤN
+PHÁT HÀNH TRÁI PHIẾU
+900 HỢP ĐỒNG MUA BÁN TRÁI PHIẾU
 
 AN TOÀN THÔNG TIN
 Năm 2026 là năm "Đại Phân kỳ" - phân chia rõ rệt giữa tổ chức có nền tảng tự động hóa bảo mật và những tổ chức chưa đầu tư đầy đủ.
-Sự phát triển của các hệ thống AI có khả năng hành động độc lập, tự ra quyết định và tương tác thay mặt con người đang tạo ra một 
+Sự phát triển của các hệ thống AI có khả năng hành động độc lập, tự ra quyết định và tương tác thay mặt con người đang tạo ra một
 lớp rủi ro an ninh mạng hoàn toàn mới.
 •Tấn công chiếm quyền Agent qua prompt injection, biến AI thành "nội gián" tự động
 •Shadow AI: Nhân viên triển khai công cụ AI chưa được phê duyệt, xử lý dữ liệu nhạy cảm.
 Video call/giọng nói giả mạo lãnh đạo yêu cầu chuyển tiền, email cá nhân hóa cao độ bằng AI (CEO doppelgänger).
-Hoạt động tự động hoàn toàn do AI điều khiển. 
-Theo ENISA, 66% nhà cung cấp bị xâm phạm không nhận biết hoặc không công bố sự cố, khiến một điểm yếu đơn lẻ có thể lan rộng 
+Hoạt động tự động hoàn toàn do AI điều khiển.
+Theo ENISA, 66% nhà cung cấp bị xâm phạm không nhận biết hoặc không công bố sự cố, khiến một điểm yếu đơn lẻ có thể lan rộng
 sang nhiều tổ chức trong cùng hệ sinh thái.
-Chiến lược “Harvest Now, Decrypt Later” đang được các nhóm tấn công áp dụng, trong đó dữ liệu được thu thập và lưu trữ để chờ giải 
+Chiến lược “Harvest Now, Decrypt Later” đang được các nhóm tấn công áp dụng, trong đó dữ liệu được thu thập và lưu trữ để chờ giải
 mã khi công nghệ máy tính đủ khả năng phá vỡ các thuật toán mã hóa phổ biến.
 1. BỐI CẢNH AN NINH MẠNG 2026
 Chỉ số
 Nội dung
 $4.45 triệu
-65%
-~50%
-01.07.2026
 Chi phí trung bình cho một vụ vi phạm dữ liệu (IBM 2025)
 Tổ chức tài chính bị tấn công ransomware trong 2024 (Sophos)
 Cuộc tấn công phishing nhắm vào ngành tài chính (Akamai)
@@ -1091,10 +974,6 @@ Luật An ninh mạng mới của Việt Nam có hiệu lực
 2.3. Ransomware thế hệ mới
 2.4. Tấn công chuỗi cung ứng
 2.5. Mã hóa
-68
-69
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 3. KHUNG PHÁP LÝ AN NINH MẠNG VIỆT NAM 2026
 Luật An ninh mạng mới (116/2025/QH15) có hiệu lực 01.07.2026, hợp nhất Luật ANM 2018 và Luật ATTT 2015.
@@ -1106,10 +985,6 @@ Patch Management + UEM
 Data Loss Prevention
 Mobile App Security
 AI Governance Framework
-Q1-Q2.2026
-Q2-Q3.2026
-Q2-Q3.2026
-Q2.2026
 Tự động hóa quản lý bản vá và endpoint
 Bảo vệ dữ liệu nhạy cảm, tuân thủ BVDLCN
 Bảo mật ứng dụng giao dịch di động
@@ -1123,16 +998,15 @@ Có hiệu lực 01.01.2026 - yêu cầu nghiêm ngặt xử lý dữ liệu cá
 2. Resilience
 3. AI Governance
 4. Tuân thủ Chủ động
-"Không bao giờ tin tưởng, luôn xác minh" -  Mọi người dùng, thiết bị và hệ thống đều 
-phải được xác thực liên tục; quyền truy cập được chia nhỏ để ngăn chặn lây lan khi có 
+"Không bao giờ tin tưởng, luôn xác minh" -  Mọi người dùng, thiết bị và hệ thống đều
+phải được xác thực liên tục; quyền truy cập được chia nhỏ để ngăn chặn lây lan khi có
 sự cố.
-Chấp nhận vi phạm có thể xảy ra -  Giả định vi phạm có thể xảy ra bất cứ lúc nào, từ đó 
-ưu tiên năng lực phát hiện sớm, phản ứng nhanh và giới hạn phạm vi ảnh hưởng của 
+Chấp nhận vi phạm có thể xảy ra -  Giả định vi phạm có thể xảy ra bất cứ lúc nào, từ đó
+ưu tiên năng lực phát hiện sớm, phản ứng nhanh và giới hạn phạm vi ảnh hưởng của
 sự cố.
- 
-Kiểm kê, phê duyệt và giám sát toàn bộ công cụ AI; kiểm soát Shadow AI và bảo vệ các 
+Kiểm kê, phê duyệt và giám sát toàn bộ công cụ AI; kiểm soát Shadow AI và bảo vệ các
 AI Agent khỏi bị lợi dụng hoặc chiếm quyền điều khiển.
-Vượt trên mức tuân thủ tối thiểu: Triển khai kiểm toán an ninh theo thời gian thực và 
+Vượt trên mức tuân thủ tối thiểu: Triển khai kiểm toán an ninh theo thời gian thực và
 cơ chế vá lỗi tự động nhằm giảm thiểu rủi ro phát sinh liên tục.
 5. KHUYẾN NGHỊ CHO TOÀN THỂ CBNV
 ĐỔI MỚI SÁNG TẠO
@@ -1144,79 +1018,70 @@ Thời gian
 Mục tiêu
 Dự án Trọng điểm 2026
 Cảnh giác với Email/Tin nhắn
-01
-Luôn xác minh danh tính người gửi, đặc 
-biệt với các yêu cầu chuyển tiền hoặc 
-cung cấp thông tin nhạy cảm. Lưu ý rằng 
-công nghệ deepfake có thể giả mạo cả 
+Luôn xác minh danh tính người gửi, đặc
+biệt với các yêu cầu chuyển tiền hoặc
+cung cấp thông tin nhạy cảm. Lưu ý rằng
+công nghệ deepfake có thể giả mạo cả
 giọng nói và hình ảnh của lãnh đạo.
 Bảo vệ Thông tin Đăng nhập
-02
-Sử dụng mật khẩu mạnh, duy nhất cho 
-mỗi tài khoản. Không chia sẻ qua bất kỳ 
+Sử dụng mật khẩu mạnh, duy nhất cho
+mỗi tài khoản. Không chia sẻ qua bất kỳ
 kênh nào.
 Cẩn trọng với AI Tools
-03
-Chỉ dùng các công cụ AI đã được Công ty 
-phê duyệt. Không nhập dữ liệu, tài liệu 
-hoặc thông tin nội bộ của Công ty vào 
+Chỉ dùng các công cụ AI đã được Công ty
+phê duyệt. Không nhập dữ liệu, tài liệu
+hoặc thông tin nội bộ của Công ty vào
 các dịch vụ AI công cộng.
 Báo cáo Sự cố Ngay lập tức
-04
-Khi phát hiện hoặc nghi ngờ dấu hiệu 
-tấn công, cần thông báo ngay cho 
-Phòng An toàn Thông tin. Việc phản ứng 
+Khi phát hiện hoặc nghi ngờ dấu hiệu
+tấn công, cần thông báo ngay cho
+Phòng An toàn Thông tin. Việc phản ứng
 sớm giúp giảm đáng kể mức độ thiệt hại.
 Tham gia Đào tạo
-05
-Hoàn thành các khóa đào tạo nâng cao 
-nhận thức về an ninh mạng, bởi mỗi 
-nhân viên chính là tuyến phòng thủ đầu 
+Hoàn thành các khóa đào tạo nâng cao
+nhận thức về an ninh mạng, bởi mỗi
+nhân viên chính là tuyến phòng thủ đầu
 tiên của tổ chức.
-An ninh mạng không phải là đích 
-đến, mà là hành trình liên tục. 
-Mỗi cá nhân trong tổ chức đều 
-đóng vai trò quan trọng trong 
-việc bảo vệ tài sản số của 
+An ninh mạng không phải là đích
+đến, mà là hành trình liên tục.
+Mỗi cá nhân trong tổ chức đều
+đóng vai trò quan trọng trong
+việc bảo vệ tài sản số của
 Vietcap.
 BÁO CÁO CÔNG NGHỆ THÔNG TIN
-Năm 2025 đánh dấu giai đoạn Vietcap tiếp tục đẩy mạnh đầu tư 
-vào công nghệ, lấy chuyển đổi số và đổi mới sáng tạo làm trụ cột 
-chiến lược nhằm nâng cao năng lực cạnh tranh, tối ưu vận hành 
-và phát triển các sản phẩm tài chính hiện đại, đáp ứng yêu cầu 
+Năm 2025 đánh dấu giai đoạn Vietcap tiếp tục đẩy mạnh đầu tư
+vào công nghệ, lấy chuyển đổi số và đổi mới sáng tạo làm trụ cột
+chiến lược nhằm nâng cao năng lực cạnh tranh, tối ưu vận hành
+và phát triển các sản phẩm tài chính hiện đại, đáp ứng yêu cầu
 ngày càng cao của thị trường trong nước và quốc tế.
-Bước sang năm 2026, trong bối cảnh thị trường chứng khoán 
-Việt Nam tiến tới nâng hạng lên thị trường mới nổi, cùng với sự 
-phát triển mạnh mẽ của AI, hạ tầng giao dịch, dữ liệu và công 
-nghệ tài chính thế hệ mới, Vietcap xác định công nghệ thông tin 
-không chỉ là công cụ hỗ trợ mà là động lực cốt lõi cho tăng 
-trưởng dài hạn, tạo nền tảng cho khả năng thích ứng, đổi mới và 
+Bước sang năm 2026, trong bối cảnh thị trường chứng khoán
+Việt Nam tiến tới nâng hạng lên thị trường mới nổi, cùng với sự
+phát triển mạnh mẽ của AI, hạ tầng giao dịch, dữ liệu và công
+nghệ tài chính thế hệ mới, Vietcap xác định công nghệ thông tin
+không chỉ là công cụ hỗ trợ mà là động lực cốt lõi cho tăng
+trưởng dài hạn, tạo nền tảng cho khả năng thích ứng, đổi mới và
 phát triển bền vững của Công ty.
-70
-71
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-Trong năm 2026, Vietcap tiếp tục nâng cao năng lực công nghệ nhằm xây dựng một 
-nền tảng ổn định, linh hoạt và sẵn sàng mở rộng, đáp ứng hiệu quả nhu cầu tăng 
+Trong năm 2026, Vietcap tiếp tục nâng cao năng lực công nghệ nhằm xây dựng một
+nền tảng ổn định, linh hoạt và sẵn sàng mở rộng, đáp ứng hiệu quả nhu cầu tăng
 trưởng của hoạt động kinh doanh và số lượng Khách hàng.
-Bảo mật và an toàn thông tin cũng được xác định là xương sống của kiến trúc công 
-nghệ mới, được tích hợp xuyên suốt từ thiết kế, triển khai đến vận hành hệ thống. 
-Vietcap định hướng xây dựng mô hình “Security by Design”, trong đó các yêu cầu về 
-bảo mật, an toàn dữ liệu và quản trị rủi ro được đặt lên hàng đầu ngay từ giai đoạn kiến 
+Bảo mật và an toàn thông tin cũng được xác định là xương sống của kiến trúc công
+nghệ mới, được tích hợp xuyên suốt từ thiết kế, triển khai đến vận hành hệ thống.
+Vietcap định hướng xây dựng mô hình “Security by Design”, trong đó các yêu cầu về
+bảo mật, an toàn dữ liệu và quản trị rủi ro được đặt lên hàng đầu ngay từ giai đoạn kiến
 trúc và phát triển hệ thống.
-• Phát triển nhanh các sản phẩm khác biệt, cá nhân hóa theo từng phân khúc Khách 
+• Phát triển nhanh các sản phẩm khác biệt, cá nhân hóa theo từng phân khúc Khách
 hàng (retail, institutional, advisory).
-• Mở rộng khả năng tích hợp với đối tác, hệ sinh thái bên ngoài thông qua API và nền 
+• Mở rộng khả năng tích hợp với đối tác, hệ sinh thái bên ngoài thông qua API và nền
 tảng mở.
-• Ứng dụng sâu hơn AI, dữ liệu lớn và phân tích nâng cao vào tư vấn đầu tư, quản trị rủi 
-ro và vận hành, tạo hệ sinh thái dịch vụ thông minh, nhất quán - AI Warren tiếp tục 
-được nâng cấp, mở rộng sang các chức năng tư vấn chuyên sâu hơn, hỗ trợ quyết định 
+• Ứng dụng sâu hơn AI, dữ liệu lớn và phân tích nâng cao vào tư vấn đầu tư, quản trị rủi
+ro và vận hành, tạo hệ sinh thái dịch vụ thông minh, nhất quán - AI Warren tiếp tục
+được nâng cấp, mở rộng sang các chức năng tư vấn chuyên sâu hơn, hỗ trợ quyết định
 đầu tư và quản trị danh mục.
-• Hoàn thiện kiến trúc data platform thống nhất, phục vụ cả vận hành, quản trị và phát 
+• Hoàn thiện kiến trúc data platform thống nhất, phục vụ cả vận hành, quản trị và phát
 triển sản phẩm.
 • Nâng cao năng lực real-time data, hỗ trợ quyết định nhanh và chính xác.
-• Chuẩn bị nền tảng dữ liệu cho các xu hướng mới như sản phẩm số hóa, tài sản token 
+• Chuẩn bị nền tảng dữ liệu cho các xu hướng mới như sản phẩm số hóa, tài sản token
 hóa trong trung và dài hạn.
 • Đáp ứng yêu cầu giao dịch khối lượng lớn.
 • Phục vụ tốt hơn các Khách hàng tổ chức, nhà đầu tư nước ngoài.
@@ -1225,99 +1090,95 @@ hóa trong trung và dài hạn.
 • Khả năng phục hồi nhanh khi xảy ra sự cố.
 • Tuân thủ các tiêu chuẩn an toàn hệ thống và quản trị rủi ro.
 II. ĐỊNH HƯỚNG PHÁT TRIỂN CÔNG NGHỆ NĂM 2026
-1. Kiến trúc công nghệ hiện 
-đại, linh hoạt, dễ mở rộng kết 
+1. Kiến trúc công nghệ hiện
+đại, linh hoạt, dễ mở rộng kết
 hợp bảo mật và ATTT
-2. Đẩy mạnh phát triển sản 
-phẩm dựa trên công nghệ - 
-lấy AI làm trung tâm phát 
+2. Đẩy mạnh phát triển sản
+phẩm dựa trên công nghệ -
+lấy AI làm trung tâm phát
 triển sản phẩm
-• Nâng cao độ tin cậy và khả năng chịu tải của hệ thống, đảm bảo các dịch vụ trọng 
+• Nâng cao độ tin cậy và khả năng chịu tải của hệ thống, đảm bảo các dịch vụ trọng
 yếu luôn vận hành ổn định và liên tục.
-• Tăng cường cơ chế dự phòng và tính sẵn sàng cao, giảm thiểu gián đoạn dịch vụ và 
+• Tăng cường cơ chế dự phòng và tính sẵn sàng cao, giảm thiểu gián đoạn dịch vụ và
 rủi ro vận hành.
-• Cải thiện hiệu năng tổng thể, đáp ứng tốt hơn các nhu cầu giao dịch ngày càng tăng 
+• Cải thiện hiệu năng tổng thể, đáp ứng tốt hơn các nhu cầu giao dịch ngày càng tăng
 và mang lại trải nghiệm mượt mà cho Khách hàng.
-• Tăng tính linh hoạt trong việc phát triển và triển khai sản phẩm, giúp Vietcap nhanh 
+• Tăng tính linh hoạt trong việc phát triển và triển khai sản phẩm, giúp Vietcap nhanh
 chóng thích ứng với thay đổi của thị trường.
 Các kết quả trọng tâm hướng tới bao gồm:
-3. Dữ liệu làm trung tâm 
+3. Dữ liệu làm trung tâm
 (Data-driven)
-4. Hoàn thiện hạ tầng giao 
-dịch đáp ứng thị trường mới 
+4. Hoàn thiện hạ tầng giao
+dịch đáp ứng thị trường mới
 nổi bao gồm hệ thống Disas-
 ter Recovery (DR) hoàn chỉnh
 •Vietcap tiếp tục đầu tư nâng cấp hạ tầng CNTT theo chuẩn quốc tế nhằm
-•Bên cạnh đó, Vietcap cũng hoàn thiện hệ thống DR tại Trung tâm dữ liệu đạt tiêu 
+•Bên cạnh đó, Vietcap cũng hoàn thiện hệ thống DR tại Trung tâm dữ liệu đạt tiêu
 chuẩn Tier III, nhằm đảm bảo cho các hệ thống trọng yếu:
-1. Nâng cấp nền tảng 
+1. Nâng cấp nền tảng
 công nghệ lõi
-Trong năm 2025, Vietcap tiếp tục tập trung đầu tư và 
-nâng cấp nền tảng công nghệ lõi nhằm đảm bảo tính ổn 
-định, an toàn và khả năng mở rộng cho toàn bộ hoạt 
+Trong năm 2025, Vietcap tiếp tục tập trung đầu tư và
+nâng cấp nền tảng công nghệ lõi nhằm đảm bảo tính ổn
+định, an toàn và khả năng mở rộng cho toàn bộ hoạt
 động kinh doanh
-• Duy trì vận hành ổn định các hệ thống giao dịch trọng 
-yếu với mức độ sẵn sàng cao (High Availability), đáp ứng  
+• Duy trì vận hành ổn định các hệ thống giao dịch trọng
+yếu với mức độ sẵn sàng cao (High Availability), đáp ứng
 hiệu quả các giai đoạn thị trường biến động mạnh.
-• Từng bước tái cấu trúc kiến trúc hệ thống theo hướng 
-module hóa, tách biệt các thành phần chức năng, tạo nền 
+• Từng bước tái cấu trúc kiến trúc hệ thống theo hướng
+module hóa, tách biệt các thành phần chức năng, tạo nền
 tảng cho việc mở rộng và nâng cấp độc lập trong tương lai.
-• Tăng cường giám sát, logging và monitoring tập trung, 
+• Tăng cường giám sát, logging và monitoring tập trung,
 giúp phát hiện sớm rủi ro và rút ngắn thời gian xử lý sự cố.
-•Xây dựng và chuẩn hóa các kho dữ liệu (data platform) 
-phục vụ báo cáo, dashboard quản trị và các dự án AI/ 
+•Xây dựng và chuẩn hóa các kho dữ liệu (data platform)
+phục vụ báo cáo, dashboard quản trị và các dự án AI/
 Vietcap IQ.
-•Tăng cường năng lực xử lý dữ liệu thời gian thực và dữ liệu 
-lịch sử, phục vụ nhu cầu phân tích nội bộ và phát triển sản 
+•Tăng cường năng lực xử lý dữ liệu thời gian thực và dữ liệu
+lịch sử, phục vụ nhu cầu phân tích nội bộ và phát triển sản
 phẩm mới.
-•Cải thiện quy trình ETL, nâng cao chất lượng và tính nhất 
+•Cải thiện quy trình ETL, nâng cao chất lượng và tính nhất
 quán của dữ liệu.
 3. Dữ liệu & phân tích
 • Nâng cấp toàn diện các nền tảng giao dịch số (Webtrad-
-ing hợp nhất, Vietcap App, APIs, OMS) theo hướng thân 
-thiện hơn, hiệu năng tốt hơn và đáp ứng nhu cầu giao dịch 
+ing hợp nhất, Vietcap App, APIs, OMS) theo hướng thân
+thiện hơn, hiệu năng tốt hơn và đáp ứng nhu cầu giao dịch
 ngày càng  gia tăng.
-• Triển khai và mở rộng các cổng thông tin đầu tư, advisory 
-portal, priceboard, cung cấp dữ liệu thị trường và thông tin 
-đầu tư kịp thời, chính xác, hỗ trợ nhà đầu tư ra quyết định 
+• Triển khai và mở rộng các cổng thông tin đầu tư, advisory
+portal, priceboard, cung cấp dữ liệu thị trường và thông tin
+đầu tư kịp thời, chính xác, hỗ trợ nhà đầu tư ra quyết định
 hiệu quả.
-• Ứng dụng AI/Vietcap IQ trong một số nghiệp vụ như phân 
+• Ứng dụng AI/Vietcap IQ trong một số nghiệp vụ như phân
 tích dữ liệu, hỗ trợ tư vấn và tối ưu vận hành.
-2. Phát triển sản phẩm số 
+2. Phát triển sản phẩm số
 & kênh Khách hàng
-Công nghệ tiếp tục đóng vai trò là nền tảng để Vietcap 
-nâng cao trải nghiệm Khách hàng và phát triển sản 
+Công nghệ tiếp tục đóng vai trò là nền tảng để Vietcap
+nâng cao trải nghiệm Khách hàng và phát triển sản
 phẩm với các trọng tâm chính
 4. An toàn thông tin & tuân thủ
-• Duy trì và nâng cao các biện pháp bảo mật hệ thống, kiểm 
+• Duy trì và nâng cao các biện pháp bảo mật hệ thống, kiểm
 soát truy cập và phân quyền.
-• Đảm bảo tuân thủ đầy đủ các yêu cầu pháp lý, quy định 
-của cơ quan quản lý nhà nước trong lĩnh vực chứng khoán 
+• Đảm bảo tuân thủ đầy đủ các yêu cầu pháp lý, quy định
+của cơ quan quản lý nhà nước trong lĩnh vực chứng khoán
 và công nghệ thông tin.
-• Tăng cường công tác đánh giá rủi ro, kiểm thử bảo mật và 
+• Tăng cường công tác đánh giá rủi ro, kiểm thử bảo mật và
 nâng cao nhận thức an toàn thông tin trong toàn Công ty.
-I. TỔNG KẾT HOẠT ĐỘNG CÔNG 
+I. TỔNG KẾT HOẠT ĐỘNG CÔNG
 NGHỆ & SẢN PHẨM NĂM 2025
-72
-73
-DẤU ẤN CHUYỂN MÌNH
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 MỘT SỐ CHỈ SỐ TÀI CHÍNH
-Biên lợi nhuận ròng cải thiện trong năm 2025, được thúc đẩy bởi triển 
-vọng ngành thuận lợi hơn và thị phần mở rộng của VCI, qua đó giúp 
+Biên lợi nhuận ròng cải thiện trong năm 2025, được thúc đẩy bởi triển
+vọng ngành thuận lợi hơn và thị phần mở rộng của VCI, qua đó giúp
 ROA năm 2025 tăng lên.
-Hệ số thanh khoản hiện hành của Vietcap được duy trì ở mức lành 
-mạnh ở mức 2,07x lần vào năm 2025, cho thấy khả năng đáp ứng các 
+Hệ số thanh khoản hiện hành của Vietcap được duy trì ở mức lành
+mạnh ở mức 2,07x lần vào năm 2025, cho thấy khả năng đáp ứng các
 nghĩa vụ ngắn hạn tốt.
-Vietcap duy trì cơ cấu vốn lành mạnh với tỷ lệ nợ trên vốn chủ sở hữu 
-thấp so với giới hạn quy định 500% áp dụng cho các Công ty chứng 
+Vietcap duy trì cơ cấu vốn lành mạnh với tỷ lệ nợ trên vốn chủ sở hữu
+thấp so với giới hạn quy định 500% áp dụng cho các Công ty chứng
 khoán.
 1. Thanh khoản
 2. Cơ cấu vốn
 3. Khả năng sinh lời
 Tỷ số thanh khoản
-Tỷ số thanh khoản hiện thời 
+Tỷ số thanh khoản hiện thời
 Cơ cấu vốn
 Tổng nợ/Tổng tài sản
 Tổng nợ/Vốn chủ sở hữu
@@ -1326,59 +1187,9 @@ Tỷ lệ vòng quay tổng tài sản
 Tỷ suất sinh lời
 Biên lợi nhuận trước thuế
 Tỷ suất lợi nhuận ròng
-ROE
-ROA
 EPS pha loãng đã điều chỉnh
 BVPS
-2024
-Lần
-%
-%
-%
-%
-%
-%
-%
-%
-VND
-VND
-1.81
-57,3%
-123,4%
-112,8%
-15,9%
-22,8%
-19,7%
-7,1%
-3,1%
-867
-12.960
-2.03
-51,3%
-97,1%
-60,5%
-17,1%
-29,1%
-24,3%
-9,0%
-4,2%
-1.540
-18.026
-2.07
-50,0%
-89,2%
-71,4%
-15,9%
-32,4%
-26,7%
-8,7%
-4,3%
-1.854
-21.186
-2023
 Đơn vị
-2025
-Mục
 Chỉ số an toàn tài chính
 Rủi ro thị trường
 Rủi ro thanh khoản
@@ -1386,108 +1197,58 @@ Rủi ro hoạt động
 Tổng rủi ro
 Vốn khả dụng
 Tỷ lệ an toàn vốn
-31.12.2024
-1.237.473
-69.773
-290.848
-1.598.094
-6.941.160
-434%
-1.579.889
- 
-167.472
- 
-463.557
- 
-2.210.918
- 
-12.495.980
- 
-565%
-2.385.587
- 
-237.938
- 
-640.057
- 
-3.263.582
- 
-17.537.019
- 
-537%
-31.12.2023
-31.12.2025
 Đơn vị: Triệu Đồng
 Các khoản phải trả ngắn hạn
 Các khoản phải trả dài hạn
 Tổng
-464.606
-609.348
-1.073.954
-1.260.565
-670.853
-1.931.418
-31.12.2024
-366.497
-418.133
-784.630
-31.12.2023
-31.12.2025
 Đơn vị: Triệu Đồng
 Các khoản phải trả
-Nguồn: Báo cáo tài chính
 Nguồn: Báo cáo tỷ lệ an toàn tài chính
 Nguồn: Vietcap
-80
-81
 TRỤ CỘT VỮNG CHẮC
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-,
-,
-,
-Theo Thông tư số 91/2020/TT-BTC của Bộ Tài chính ngày 13.11.2020, sửa đổi bổ sung 
-bởi Thông tư 102/2025/TT-BTC ngày 29.10.2025, công ty chứng khoán phải duy trì tỉ lệ 
-an toàn vốn (CAR) tối thiểu 180%. Vietcap luôn duy trì tốt trên mức yêu cầu, đảm bảo 
+Theo Thông tư số 91/2020/TT-BTC của Bộ Tài chính ngày 13.11.2020, sửa đổi bổ sung
+bởi Thông tư 102/2025/TT-BTC ngày 29.10.2025, công ty chứng khoán phải duy trì tỉ lệ
+an toàn vốn (CAR) tối thiểu 180%. Vietcap luôn duy trì tốt trên mức yêu cầu, đảm bảo
 an toàn tài chính của Công ty.
 
-QUẢN TRỊ RỦI RO 
-“Quản trị rủi ro là một quá trình liên 
-tục được vận hành xuyên suốt trong 
-quá trình thực hiện các chiến lược của 
-Công ty, cân bằng giữa nguy cơ và cơ 
-hội, tạo ra một khuôn khổ giúp định 
-hướng sự gia tăng tính hiệu quả của 
+QUẢN TRỊ RỦI RO
+“Quản trị rủi ro là một quá trình liên
+tục được vận hành xuyên suốt trong
+quá trình thực hiện các chiến lược của
+Công ty, cân bằng giữa nguy cơ và cơ
+hội, tạo ra một khuôn khổ giúp định
+hướng sự gia tăng tính hiệu quả của
 quyết định.”
-Quy trình quản trị rủi ro được tích hợp với văn hóa doanh nghiệp. Văn 
-hóa rủi ro tập hợp giá trị cá nhân và doanh nghiệp, thái độ, năng lực, 
-hành vi giúp Công ty xác định phương pháp quản trị rủi ro và cam kết 
+Quy trình quản trị rủi ro được tích hợp với văn hóa doanh nghiệp. Văn
+hóa rủi ro tập hợp giá trị cá nhân và doanh nghiệp, thái độ, năng lực,
+hành vi giúp Công ty xác định phương pháp quản trị rủi ro và cam kết
 của Ban Điều hành.
-Hệ thống quản trị rủi ro được xây dựng một cách hiệu quả dựa trên 
+Hệ thống quản trị rủi ro được xây dựng một cách hiệu quả dựa trên
 việc phân công trách nhiệm trong toàn Công ty, mỗi Trưởng phòng,
-nhân viên đều có trách nhiệm trong hệ thống quản trị rủi ro thông qua 
-các quy định của pháp luật, các quy trình, chính sách nội bộ của Công 
-ty và được áp dụng thống nhất toàn Công ty. Hệ thống quản trị rủi ro 
-thúc đẩy hiệu quả hoạt động của Công ty thông qua việc nâng cao 
+nhân viên đều có trách nhiệm trong hệ thống quản trị rủi ro thông qua
+các quy định của pháp luật, các quy trình, chính sách nội bộ của Công
+ty và được áp dụng thống nhất toàn Công ty. Hệ thống quản trị rủi ro
+thúc đẩy hiệu quả hoạt động của Công ty thông qua việc nâng cao
 trách nhiệm, đánh giá năng lực mỗi nhân viên.
-Công ty triển khai các hoạt động giám sát tuân thủ và quản trị rủi ro 
-26.02.2013 của Ủy ban Chứng khoán về thiết lập và vận hành hệ 
-thống quản trị rủi ro cho Công ty Chứng khoán. Công ty đã hoàn thiện 
-chính sách và hệ quy trình quản trị rủi ro dựa trên tiêu chuẩn ISO 31000 
+Công ty triển khai các hoạt động giám sát tuân thủ và quản trị rủi ro
+26.02.2013 của Ủy ban Chứng khoán về thiết lập và vận hành hệ
+thống quản trị rủi ro cho Công ty Chứng khoán. Công ty đã hoàn thiện
+chính sách và hệ quy trình quản trị rủi ro dựa trên tiêu chuẩn ISO 31000
 được vận hành đồng bộ với các chiến lược của Công ty.
-Hệ thống quản trị rủi ro của Công ty được thiết lập nhằm đảm bảo 
-khả năng xác định rủi ro, đo lường rủi ro, theo dõi rủi ro, báo cáo 
-rủi ro và xử lý một cách hiệu quả các rủi ro trọng yếu đồng thời 
+Hệ thống quản trị rủi ro của Công ty được thiết lập nhằm đảm bảo
+khả năng xác định rủi ro, đo lường rủi ro, theo dõi rủi ro, báo cáo
+rủi ro và xử lý một cách hiệu quả các rủi ro trọng yếu đồng thời
 đáp ứng đầy đủ các nghĩa vụ tuân thủ của mình tại mọi thời điểm.
-Công ty thực hiện công tác quản trị rủi ro một cách độc lập, 
-khách quan, trung thực, thống nhất và được thể hiện bằng văn 
-bản. Các bộ phận tác nghiệp và bộ phận quản trị rủi ro được tổ 
-chức tách biệt và độc lập với nhau, người phụ trách bộ phận tác 
-nghiệp không đồng thời phụ trách bộ phận quản trị rủi ro và 
+Công ty thực hiện công tác quản trị rủi ro một cách độc lập,
+khách quan, trung thực, thống nhất và được thể hiện bằng văn
+bản. Các bộ phận tác nghiệp và bộ phận quản trị rủi ro được tổ
+chức tách biệt và độc lập với nhau, người phụ trách bộ phận tác
+nghiệp không đồng thời phụ trách bộ phận quản trị rủi ro và
 ngược lại.
-Hướng dẫn nội bộ được trình bày một cách rõ ràng để tất cả các 
-cá nhân liên quan hiểu được nhiệm vụ và trách nhiệm của mình 
-và có thể mô tả cụ thể, chi tiết về quy trình quản trị rủi ro liên 
-quan. Công ty thường xuyên rà soát và cập nhật lại các hướng 
+Hướng dẫn nội bộ được trình bày một cách rõ ràng để tất cả các
+cá nhân liên quan hiểu được nhiệm vụ và trách nhiệm của mình
+và có thể mô tả cụ thể, chi tiết về quy trình quản trị rủi ro liên
+quan. Công ty thường xuyên rà soát và cập nhật lại các hướng
 dẫn nội bộ này.
 Quy trình quản trị rủi ro được khái quát như sau
 Theo dõi và Kiểm soát hạn mức rủi ro
@@ -1498,645 +1259,295 @@ Xử lý rủi ro
 Hệ thống quản trị rủi ro
 của Công ty đảm bảo
 Sự giám sát của Ban Kiểm soát, Kiểm toán nội bộ và hệ thống kiểm soát nội bộ.
-Chiến lược quản trị rủi ro rõ ràng, minh bạch thể hiện qua chính sách rủi ro 
+Chiến lược quản trị rủi ro rõ ràng, minh bạch thể hiện qua chính sách rủi ro
 trong dài hạn và trong từng giai đoạn cụ thể được Hội đồng Quản trị thông qua.
 Kế hoạch triển khai thông qua các chính sách, quy trình đầy đủ.
 Công tác quản lý, kiểm tra, rà soát thường xuyên của Tổng Giám đốc.
-Ban hành và triển khai đầy đủ các chính sách, quy trình quản trị rủi ro và các 
+Ban hành và triển khai đầy đủ các chính sách, quy trình quản trị rủi ro và các
 hạn mức rủi ro, thiết lập hoạt động thông tin quản trị rủi ro phù hợp.
-82
-83
 TRỤ CỘT VỮNG CHẮC
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
 Môi trường kiểm soát
 của Công ty
-Môi trường kiểm soát nội bộ của Công ty bao gồm hệ thống các chuẩn mực, quy trình, tổ 
-chức làm nền tảng cho việc thực hiện công tác kiểm soát nội bộ trong toàn Công ty. Môi 
-trường kiểm soát ảnh hưởng đến toàn bộ nhận thức về hoạt động kiểm soát của đội ngũ 
-nhân viên Công ty nên Hội đồng Quản trị, Ban Tổng Giám đốc luôn nêu cao các giá trị đạo 
+Môi trường kiểm soát nội bộ của Công ty bao gồm hệ thống các chuẩn mực, quy trình, tổ
+chức làm nền tảng cho việc thực hiện công tác kiểm soát nội bộ trong toàn Công ty. Môi
+trường kiểm soát ảnh hưởng đến toàn bộ nhận thức về hoạt động kiểm soát của đội ngũ
+nhân viên Công ty nên Hội đồng Quản trị, Ban Tổng Giám đốc luôn nêu cao các giá trị đạo
 đức cũng như làm gương cho toàn bộ đội ngũ cán bộ nhân viên của Công ty.
-Phân công, phân nhiệm 
+Phân công, phân nhiệm
 và ủy quyền
 Định hướng hoạt động quản trị rủi ro năm 2026
-Cơ cấu tổ chức của Công ty là kiểm soát tập trung với cơ chế quản lý theo chiều dọc từ Hội 
+Cơ cấu tổ chức của Công ty là kiểm soát tập trung với cơ chế quản lý theo chiều dọc từ Hội
 đồng Quản trị, Ban Tổng Giám đốc, các Giám đốc Phụ trách, Trưởng/Phó phòng.
-Tổng Giám đốc điều hành hoạt động hằng ngày của Công ty theo sự phân công và mức 
-phê duyệt đã được duyệt và chịu trách nhiệm chính trước Hội đồng Quản trị. Các Giám 
-đốc, Trưởng/Phó phòng trực tiếp quản lý và chịu trách nhiệm trước Tổng Giám đốc và Hội 
-đồng Quản trị.
-Đối với công tác phân nhiệm, Công ty thực hiện theo cơ chế từ trên xuống. Tại Hội sở và 
-Chi nhánh, Trưởng phòng phụ trách sẽ phân công trách nhiệm cho Phó phòng/ban và 
-từng nhân viên. Các nhân viên sẽ được hướng dẫn bởi các nhân viên cao cấp hoặc Trưởng 
-phòng/ban để nắm rõ quy trình thực hiện, trách nhiệm của mình và luôn đảm báo có sự đối 
+Tổng Giám đốc điều hành hoạt động hằng ngày của Công ty theo sự phân công và mức
+phê duyệt đã được duyệt và chịu trách nhiệm chính trước Hội đồng Quản trị. Các Giám
+đốc, Trưởng/Phó phòng trực tiếp quản lý và chịu trách nhiệm trước Tổng Giám đốc và Hội
+Đối với công tác phân nhiệm, Công ty thực hiện theo cơ chế từ trên xuống. Tại Hội sở và
+Chi nhánh, Trưởng phòng phụ trách sẽ phân công trách nhiệm cho Phó phòng/ban và
+từng nhân viên. Các nhân viên sẽ được hướng dẫn bởi các nhân viên cao cấp hoặc Trưởng
+phòng/ban để nắm rõ quy trình thực hiện, trách nhiệm của mình và luôn đảm báo có sự đối
 chiếu, kiểm tra chéo trong cùng một hoặc nhiều bộ phận.
-Mục tiêu và các thủ tục, quy trình được thực hiện trong việc thiết lập môi trường kiểm soát 
+Mục tiêu và các thủ tục, quy trình được thực hiện trong việc thiết lập môi trường kiểm soát
 nội bộ hiệu quả của Công ty bao gồm:
-Bảo đảm tính trung thực, các giá trị đạo đức và hành vi 
+Bảo đảm tính trung thực, các giá trị đạo đức và hành vi
 trong toàn bộ Công ty:
-• Công ty xây dựng các chuẩn mực và quy tắc ứng xử cho 
+• Công ty xây dựng các chuẩn mực và quy tắc ứng xử cho
 nhân viên.
-• Toàn bộ Ban Tổng Giám đốc và nhân viên cũng như đối tác 
+• Toàn bộ Ban Tổng Giám đốc và nhân viên cũng như đối tác
 đều được đánh giá theo các chuẩn mực đạo đức.
-• Nhân viên mới được tham gia khóa đào tạo định hướng bắt 
-buộc về các quy định, chuẩn mực, ứng xử trong Công ty với 
-các chế tài thích hợp đối với các trường hợp vi phạm các 
+• Nhân viên mới được tham gia khóa đào tạo định hướng bắt
+buộc về các quy định, chuẩn mực, ứng xử trong Công ty với
+các chế tài thích hợp đối với các trường hợp vi phạm các
 chuẩn mực đạo đức.
-Đảm bảo tính độc lập và mức độ tham gia của Hội đồng 
+Đảm bảo tính độc lập và mức độ tham gia của Hội đồng
 Quản trị với Ban Tổng Giám đốc:
-• Xác định rõ vai trò, trách nhiệm quản trị, và giám sát của 
+• Xác định rõ vai trò, trách nhiệm quản trị, và giám sát của
 Hội đồng Quản trị.
-• Thiết lập các chính sách và quyết định liên quan đến các 
+• Thiết lập các chính sách và quyết định liên quan đến các
 cuộc họp giữa Hội đồng Quản trị và Ban Tổng Giám đốc.
-• Thiết lập kênh trao đổi thông tin mở và hiệu quả giữa Hội 
-đồng Quản trị, Kiểm toán nội bộ và Kiểm toán độc lập nhằm 
+• Thiết lập kênh trao đổi thông tin mở và hiệu quả giữa Hội
+đồng Quản trị, Kiểm toán nội bộ và Kiểm toán độc lập nhằm
 báo cáo các hoạt động của Công ty kịp thời.
-Cam kết trong việc thu hút, phát triển và duy trì đội ngũ 
+Cam kết trong việc thu hút, phát triển và duy trì đội ngũ
 nhân lực:
-• Thiết lập các yêu cầu về năng lực, kiến thức và kỹ năng đối 
-với toàn bộ nhân viên. Xây dựng quy trình đánh giá năng 
+• Thiết lập các yêu cầu về năng lực, kiến thức và kỹ năng đối
+với toàn bộ nhân viên. Xây dựng quy trình đánh giá năng
 lực và hành vi.
-• Gắn kết các chuẩn mực, yêu cầu và đánh giá về Năng lực và 
-Kiến thức với các chính sách và các quyết định tuyển 
+• Gắn kết các chuẩn mực, yêu cầu và đánh giá về Năng lực và
+Kiến thức với các chính sách và các quyết định tuyển
 dụng, đào tạo và duy trì đội ngũ nhân sự.
-• Xây dựng kế hoạch dự phòng cho các vị trí nhân sự chủ 
+• Xây dựng kế hoạch dự phòng cho các vị trí nhân sự chủ
 chốt.
-Đảm bảo cơ cấu tổ chức, phân công, phân nhiệm và ủy 
+Đảm bảo cơ cấu tổ chức, phân công, phân nhiệm và ủy
 quyền thích hợp:
-• Xác định rõ cơ cấu tổ chức, vai trò, trách nhiệm, kênh báo 
+• Xác định rõ cơ cấu tổ chức, vai trò, trách nhiệm, kênh báo
 cáo và đánh giá mức độ phù hợp của cơ cấu tổ chức.
-• Xác định thẩm quyền tương ứng với từng cấp quản trị và 
+• Xác định thẩm quyền tương ứng với từng cấp quản trị và
 điều hành.
-• Xây dựng và duy trì Bản mô tả Công việc cũng như đảm bảo 
+• Xây dựng và duy trì Bản mô tả Công việc cũng như đảm bảo
 các hợp đồng lao động được ký kết một cách phù hợp.
 • Xác định rõ vai trò của Kiểm toán Nội bộ.
- 
-Vietcap đã thực hiện thông suốt hoạt động quản trị rủi ro trong 
-năm 2025, cú sốc thuế quan là bài stress test thực tế, chứng tỏ 
-khả năng phòng ngừa và xử lý rủi ro thị trường, rủi ro thanh 
-khoản khi khủng hoảng xảy ra. Có được kết quả đó là nhờ sự 
-quan tâm của Ban Lãnh Đạo Vietcap, chỉ đạo và giám sát các 
-kịch bản mô phỏng, đo lường và đánh giá khả năng phòng ngừa, 
-xử lý rủi ro. Cân bằng giữa lợi ích kinh doanh, khả năng cạnh 
-tranh, tối ưu hiệu quả phòng ngừa, xử lý rủi ro trong hoạt động 
+Vietcap đã thực hiện thông suốt hoạt động quản trị rủi ro trong
+năm 2025, cú sốc thuế quan là bài stress test thực tế, chứng tỏ
+khả năng phòng ngừa và xử lý rủi ro thị trường, rủi ro thanh
+khoản khi khủng hoảng xảy ra. Có được kết quả đó là nhờ sự
+quan tâm của Ban Lãnh Đạo Vietcap, chỉ đạo và giám sát các
+kịch bản mô phỏng, đo lường và đánh giá khả năng phòng ngừa,
+xử lý rủi ro. Cân bằng giữa lợi ích kinh doanh, khả năng cạnh
+tranh, tối ưu hiệu quả phòng ngừa, xử lý rủi ro trong hoạt động
 kinh doanh của Công ty.
-Sau kỳ đánh giá trung gian vào tháng 3 năm nay, FTSE Russell 
-chính thức nâng hạng chứng khoán Việt Nam từ Thị trường Cận 
-biên thành Thị trường Mới nổi Thứ cấp vào tháng 9.2026. Sau đó 
+Sau kỳ đánh giá trung gian vào tháng 3 năm nay, FTSE Russell
+chính thức nâng hạng chứng khoán Việt Nam từ Thị trường Cận
+biên thành Thị trường Mới nổi Thứ cấp vào tháng 9.2026. Sau đó
 theo HSBC dự báo, trong 6 tháng đầu tiên sau khi nâng hạng,
-dòng vốn đầu tư thụ động vào thị trường có thể tăng thêm từ 
-Là một đơn vị đi đầu trong cung cấp dịch vụ thị trường cho nhà 
-đầu tư nước ngoài, đây là cơ hội đồng thời là thách thức trong 
-công tác quản trị rủi ro trong những năm tiếp theo. Phòng quản 
-trị rủi ro Vietcap thường xuyên cập nhật, bổ sung kinh nghiệm 
-quản lý rủi ro theo cách thức và bài học thực tế trên thị trường 
-chứng khoán từ các quốc gia tương đồng. Song song nhận diện, 
-đánh giá, đo lường rủi ro phát sinh mới trong quá trình hoạt động 
-kinh doanh. Trên cơ sở chính sách rủi ro đã được Hội Đồng Quản 
-Trị ban hành từ đầu năm Phòng Quản lý Rủi ro thường xuyên cập 
-nhật và giám sát tuân thủ phòng ngừa rủi ro ở các bộ phận 
+dòng vốn đầu tư thụ động vào thị trường có thể tăng thêm từ
+Là một đơn vị đi đầu trong cung cấp dịch vụ thị trường cho nhà
+đầu tư nước ngoài, đây là cơ hội đồng thời là thách thức trong
+công tác quản trị rủi ro trong những năm tiếp theo. Phòng quản
+trị rủi ro Vietcap thường xuyên cập nhật, bổ sung kinh nghiệm
+quản lý rủi ro theo cách thức và bài học thực tế trên thị trường
+chứng khoán từ các quốc gia tương đồng. Song song nhận diện,
+đánh giá, đo lường rủi ro phát sinh mới trong quá trình hoạt động
+kinh doanh. Trên cơ sở chính sách rủi ro đã được Hội Đồng Quản
+Trị ban hành từ đầu năm Phòng Quản lý Rủi ro thường xuyên cập
+nhật và giám sát tuân thủ phòng ngừa rủi ro ở các bộ phận
 nghiệp vụ đảm bảo hoạt động Công ty thông suốt và hiệu quả.
-84
-85
 TRỤ CỘT VỮNG CHẮC
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-Năm 2025 ghi lại nhiều dấu mốc lịch sử của TTCK Việt Nam khi 
-hàng loạt sự kiện mang tính bước ngoặt đồng loạt diễn ra, từ cú 
-sốc thuế quan và bảo hộ thương mại vào tháng 4 của chính phủ 
-Hoa Kỳ, việc vận hành thành công hệ thống KRX, đến sự kiện 
-nâng hạng lên Thị trường Mới nổi Thứ cấp theo phân loại của từ 
-FTSE Russell, chỉ số VN-Index ngày 31.12.2025 vươn lên mốc xấp 
-xỉ 1.800 điểm tăng hơn 40% so với đầu năm, vốn hóa HoSE đạt kỷ 
-lục 8,3 triệu tỷ đồng. Nếu tính chung cả 3 sàn, tổng giá trị vốn 
-hóa của chứng khoán Việt Nam lên đến gần 10 triệu tỷ đồng, cao 
-nhất từ trước đến nay. Vượt qua khó khăn, VN-Index vươn lên 
-đỉnh cao mới, thể hiện cam kết của Việt Nam thúc đẩy thị trường 
-tài chính năm 2025 thông qua việc đẩy mạnh giải ngân vốn đầu 
-tư công, nâng cao tính minh bạch, và cải thiện khung pháp lý để 
-nâng hạng chứng khoán từ cận biên lên mới nổi. Trọng tâm bao 
-gồm chuyển đổi số, ổn định kinh tế vĩ mô và tăng cường giám 
-sát, hướng tới mục tiêu tăng trưởng cao. Chính phủ thể hiện 
-quyết tâm bằng hành động qua các văn bản Quyết định 
-2014/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Đề án Nâng 
-hạng thị trường chứng khoán Việt Nam; Nghị định 
-245/2025/NĐ-CP thúc đẩy thu hút vốn đầu tư nước ngoài, rút 
+Năm 2025 ghi lại nhiều dấu mốc lịch sử của TTCK Việt Nam khi
+hàng loạt sự kiện mang tính bước ngoặt đồng loạt diễn ra, từ cú
+sốc thuế quan và bảo hộ thương mại vào tháng 4 của chính phủ
+Hoa Kỳ, việc vận hành thành công hệ thống KRX, đến sự kiện
+nâng hạng lên Thị trường Mới nổi Thứ cấp theo phân loại của từ
+FTSE Russell, chỉ số VN-Index ngày 31.12.2025 vươn lên mốc xấp
+xỉ 1.800 điểm tăng hơn 40% so với đầu năm, vốn hóa HoSE đạt kỷ
+lục 8,3 triệu tỷ đồng. Nếu tính chung cả 3 sàn, tổng giá trị vốn
+hóa của chứng khoán Việt Nam lên đến gần 10 triệu tỷ đồng, cao
+nhất từ trước đến nay. Vượt qua khó khăn, VN-Index vươn lên
+đỉnh cao mới, thể hiện cam kết của Việt Nam thúc đẩy thị trường
+tài chính năm 2025 thông qua việc đẩy mạnh giải ngân vốn đầu
+tư công, nâng cao tính minh bạch, và cải thiện khung pháp lý để
+nâng hạng chứng khoán từ cận biên lên mới nổi. Trọng tâm bao
+gồm chuyển đổi số, ổn định kinh tế vĩ mô và tăng cường giám
+sát, hướng tới mục tiêu tăng trưởng cao. Chính phủ thể hiện
+quyết tâm bằng hành động qua các văn bản Quyết định
+2014/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Đề án Nâng
+hạng thị trường chứng khoán Việt Nam; Nghị định
+245/2025/NĐ-CP thúc đẩy thu hút vốn đầu tư nước ngoài, rút
 ngắn thời gian IPO, minh bạch thông tin…
 
 ĐẠO ĐỨC
 NGHỀ NGHIỆP
-Trải qua hành trình hơn 18 năm hình thành và phát triển, với tầm nhìn 
-dài hạn và tinh thần đổi mới không ngừng, Vietcap luôn kiên định quan 
-điểm rằng  đạo đức nghề nghiệp, trách nhiệm và tính chính trực là nền 
-tảng không thể tách rời trong chiến lược phát triển bền vững.
-Chúng tôi theo đuổi cách tiếp cận hài hòa lợi ích của Khách hàng, đối 
-tác, đội ngũ nhân sự, cổ đông và cộng đồng, coi đây là kim chỉ nam 
-trong chiến lược phát triển bền vững và dài hạn của Vietcap.
+Trải qua hành trình hơn 18 năm hình thành và phát triển, với tầm nhìn
+dài hạn và tinh thần đổi mới không ngừng, Vietcap luôn kiên định quan
+điểm rằng  đạo đức nghề nghiệp, trách nhiệm và tính chính trực là nền
+Chúng tôi theo đuổi cách tiếp cận hài hòa lợi ích của Khách hàng, đối
+tác, đội ngũ nhân sự, cổ đông và cộng đồng, coi đây là kim chỉ nam
 ĐỐI VỚI
 KHÁCH HÀNG
-Cung cấp các sản phẩm và dịch vụ đạt tiêu 
-chuẩn cao, đáp ứng nhu cầu ngày càng đa dạng 
+Cung cấp các sản phẩm và dịch vụ đạt tiêu
+chuẩn cao, đáp ứng nhu cầu ngày càng đa dạng
 của nhà đầu tư.
-Không ngừng nâng cao uy tín, trách nhiệm và 
+Không ngừng nâng cao uy tín, trách nhiệm và
 chất lượng phục vụ.
-Thực hiện cam kết một cách chuyên nghiệp, 
+Thực hiện cam kết một cách chuyên nghiệp,
 minh bạch và hiệu quả.
-Bảo mật tuyệt đối thông tin Khách hàng theo 
+Bảo mật tuyệt đối thông tin Khách hàng theo
 các quy định và chuẩn mực cao nhất.
 ĐỐI VỚI
 ĐỐI TÁC VÀ CỘNG SỰ
-Duy trì tính chính trực, minh bạch và phong 
-cách làm việc chuyên nghiệp trong mọi hoạt 
+Duy trì tính chính trực, minh bạch và phong
+cách làm việc chuyên nghiệp trong mọi hoạt
 động hợp tác.
-Cam kết phòng ngừa và không để phát sinh các 
+Cam kết phòng ngừa và không để phát sinh các
 xung đột lợi ích.
-Áp dụng các biện pháp xử lý sai phạm phù hợp, 
+Áp dụng các biện pháp xử lý sai phạm phù hợp,
 công bằng và nhất quán (nếu có).
 ĐỐI VỚI
 CỔ ĐÔNG
-Tuân thủ đầy đủ các quy định pháp luật, chính sách 
+Tuân thủ đầy đủ các quy định pháp luật, chính sách
 nội bộ và chuẩn mực đạo đức kinh doanh.
-Nỗ lực bảo toàn và gia tăng giá trị đầu tư, hướng tới 
+Nỗ lực bảo toàn và gia tăng giá trị đầu tư, hướng tới
 lợi ích bền vững và dài hạn cho cổ đông.
 ĐỐI VỚI
-CỘNG ĐỒNG
-Tuân thủ nghiêm ngặt các quy định về phòng 
+Tuân thủ nghiêm ngặt các quy định về phòng
 chống rửa tiền, tham nhũng và tài trợ khủng bố.
-Hoạt động trên cơ sở tôn trọng các chuẩn mực, 
+Hoạt động trên cơ sở tôn trọng các chuẩn mực,
 thông lệ và quy ước quốc tế.
-Chủ động tham gia và thúc đẩy các hoạt động trách 
+Chủ động tham gia và thúc đẩy các hoạt động trách
 nhiệm xã hội, đóng góp tích cực cho cộng đồng.
-86
-87
 DẪN DẮT TẦM NHÌN
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-
-Bà
-MAI THỊ THANH TRANG 
-Trưởng Ban Kiểm soát
-Bà
-BÙI THỊ MINH NGUYỆT 
-Thành viên Ban Kiểm soát
-Bà
-TRƯƠNG THỊ HUYỀN TRANG 
-Thành viên Ban Kiểm soát
-THÀNH VIÊN
-BAN KIỂM SOÁT
-HOẠT ĐỘNG BAN KIỂM SOÁT NĂM 2025
-Thành viên Ban Kiểm soát năm 2025
-GIÁM SÁT DỊCH VỤ CỦA
-CÔNG TY KIỂM TOÁN TRONG
-NĂM 2025
-Trong năm, PwC đã cung cấp các dịch vụ kiểm toán cho Vietcap như sau:
-• Kiểm toán Báo cáo sử dụng nguồn vốn trái phiếu phát hành riêng lẻ cho năm tài 
-chính kết thúc ngày 31 tháng 12 năm 2024: phí dịch vụ là 100.000.000 Đồng (Một trăm 
-triệu đồng) (chưa bao gồm thuế Giá trị gia tăng).
-• Kiểm toán Báo cáo vốn góp của chủ sở hữu liên quan đến đợt phát hành cổ phiếu 
-theo chương trình lựa chọn cho người lao động của Công ty năm 2025: phí dịch vụ là 
-55.000.000 Đồng (Năm mươi lăm triệu đồng) (chưa bao gồm thuế Giá trị gia tăng).
-• Soát xét Báo cáo Tài chính giữa niên độ của Công ty cho kỳ kế toán kết thúc ngày 30 
-tháng 6 năm 2025, Soát xét Báo cáo tỷ lệ an toàn tài chính của Công ty tại ngày 30 
-tháng 06 năm 2025, Kiểm toán Báo cáo Tài chính của Công ty cho năm tài chính kết 
-thúc ngày 31 tháng 12 năm 2025, và Kiểm toán Báo cáo tỷ lệ an toàn tài chính của 
-Công ty tại ngày 31 tháng 12 năm 2025: phí dịch vụ là 693.000.000 Đồng (Sáu trăm 
-chín mươi ba triệu đồng) (chưa bao gồm thuế Giá trị gia tăng).
-• Kiểm toán Báo cáo vốn góp của chủ sở hữu liên quan đến đợt chào bán cổ phiếu 
-riêng lẻ năm 2025: phí dịch vụ là 60.000.000 Đồng (Sáu mươi triệu đồng) (chưa bao 
-gồm thuế Giá trị gia tăng).
-Ngoài các dịch vụ nêu trên, PwC không cung cấp thêm bất kỳ dịch vụ phi kiểm toán 
-nào khác cho Vietcap.
-Bà Mai Thị Thanh Trang 
-Bà Bùi Thị Minh Nguyệt 
-Bà Trương Thị Huyền Trang
-Trưởng BKS 
-Thành viên BKS 
-Thành viên BKS
-- 
-- 
-- 
-1 
-2 
-3 
-100% 
-100% 
-100% 
-02
-02
-02
-Thành viên HĐQT
-Số buổi họp
-BKS tham dự
-Chức vụ
-Tỷ lệ
-tham dự họp
-STT
-Lý do
-không tham dự họp
-Bà Trang tốt nghiệp Đại học Kinh tế 
-TP.HCM chuyên ngành Kế toán và Kiểm 
-toán, hiện đang là Kiểm toán viên tại 
-Công ty TNHH Kiểm toán T&F. 
-Bà có nhiều năm kinh nghiệm trong lĩnh 
-vực Tài chính, Kế toán & Kiểm toán tại 
-các Công ty và tập đoàn lớn như Công ty 
-TNHH Nhà máy bia Heineken Việt Nam, 
-Công ty TNHH Kiểm toán và Dịch vụ Tin 
-học TP. Hồ Chí Minh.
-Bà Nguyệt hiện đang giữ vị trí Giám đốc 
-vận hành tại Phoenix Holdings Limited. 
-Bà đã từng làm việc tại Công ty TNHH 
-Đầu tư Bản Việt, chịu trách nhiệm trong 
-việc tổ chức, thực hiện công tác kế 
-toán của Công ty. Bà đã có nhiều năm 
-kinh nghiệm làm việc trong lĩnh vực Tài 
-chính, Kế toán và Kiểm toán tại các 
-Công ty hàng đầu tại Việt Nam như 
-KPMG và Ngân hàng Bản Việt.
-Bà Nguyệt tốt nghiệp Đại học Kinh tế 
-TP. Hồ Chí Minh chuyên ngành Kế 
-toán và Kiểm toán. 
-Bà Huyền Trang tốt nghiệp Đại học 
-Kinh Tế TP. Hồ Chí Minh - chuyên 
-ngành Tài chính - Kế Toán. Bà hiện 
-đang giữ chức vụ Kế toán trưởng Công 
-ty Cổ phần Vista Sài Gòn.
-Bà Huyền Trang có hơn 10 năm kinh 
-nghiệm trong lĩnh vực Kế toán - Kiểm 
-toán ở các tổ chức. 
-100
-101
-DẪN DẮT TẦM NHÌN
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-HOẠT ĐỘNG GIÁM SÁT CỦA BKS ĐỐI 
-VỚI HĐQT, BAN GIÁM ĐỐC VÀ CỔ ĐÔNG
-Ban Kiểm soát (BKS) thực hiện giám sát Hội đồng quản trị, Ban Tổng giám đốc 
-trong việc quản lý và điều hành Công ty, chịu trách nhiệm trước pháp luật, Đại hội 
-đồng cổ đông và cổ đông của Công ty về việc thực hiện quyền và nhiệm vụ của 
-mình. BKS có trách nhiệm kiểm tra tính hợp lý, hợp pháp, tính trung thực và mức độ 
-cẩn trọng trong quản lý, điều hành hoạt động kinh doanh, trong tổ chức công tác 
-kế toán, thống kê và lập báo cáo tài chính. Đồng thời, BKS có nhiệm vụ thẩm định 
-báo cáo tình hình hoạt động kinh doanh, báo cáo tài chính hàng năm, hàng quý và 
-6 tháng của Công ty, báo cáo đánh giá công tác quản lý của Hội đồng quản trị, Đại 
-hội đồng cổ đông.
-SỰ PHỐI HỢP HOẠT ĐỘNG GIỮA BKS 
-ĐỐI VỚI HOẠT ĐỘNG CỦA HĐQT, BAN 
-TỔNG GIÁM ĐỐC VÀ CÁC CÁN BỘ 
-QUẢN LÝ KHÁC
-Trường hợp BKS phát hiện những hành vi vi phạm pháp luật hoặc vi phạm Điều lệ 
-công ty của các thành viên Hội đồng quản trị, Ban Giám đốc và cán bộ quản lý 
-khác, BKS phải thông báo bằng văn bản với HĐQT trong vòng 48 giờ, yêu cầu người 
-có hành vi vi phạm chấm dứt vi phạm và có giải pháp khắc phục hậu quả.
-HOẠT ĐỘNG KHÁC CỦA BKS (NẾU CÓ)
-BKS có các nhiệm vụ khác theo quy định tại Điều lệ Công ty hoặc theo yêu cầu, 
-quyết định của Đại hội đồng cổ đông.
 
 THÀNH VIÊN
-BAN TỔNG GIÁM ĐỐC
-Bà Tôn Minh Phương có hơn 18 năm kinh nghiệm trong lĩnh vực 
-ngân hàng đầu tư, bao gồm tư vấn mua bán – sáp nhập doanh 
-nghiệp, bán cổ phần thứ cấp, huy động vốn và tư vấn phát 
-hành cổ phiếu lần đầu ra công chúng (IPO), cùng với kinh 
-nghiệm trong lĩnh vực đầu tư tư nhân và phân tích tại thị 
-trường Việt Nam. Bà gia nhập Công ty từ năm 2011 và trong 
-quá trình công tác đã đóng góp tích cực vào các hoạt động tư 
-vấn và đầu tư của Công ty.
-Bà Phương tốt nghiệp Cử nhân chuyên ngành Tài chính và 
-Ngân hàng tại University of Technology, Sydney.
-Bà
-TÔN MINH PHƯƠNG  
-Tổng giám đốc 
-Ông Bảo đã có nhiều năm làm việc trong lĩnh vực Ngân hàng 
-thương mại và Chứng khoán. Với kinh nghiệm và khả năng của 
-mình, ông đã tham gia tư vấn cho nhiều doanh nghiệp trong việc 
-định giá, mua bán doanh nghiệp, tổ chức bán đấu giá. Ông cũng 
-xây dựng và triển khai nhiều sản phẩm nghiệp vụ tại các Công ty 
+HỘI ĐỒNG QUẢN TRỊ
+Bà Nguyễn Việt Hòa là thành viên Hội đồng quản trị độc lập của
+CTCP Chứng khoán Vietcap từ tháng 4.2021. Bà Hòa hiện cũng
+là Tổng giám đốc CTCP Thương mại - Dịch vụ Bến Thành, Chủ
+tịch Công ty TNHH Bến Thành Sun Ny, Thành viên Hội đồng
+quản trị các Công ty: CTCP Thương mại - Dịch vụ Bến Thành,
+CTCP Du lịch Bến Thành - Non Nước, CTCP Bến Thành Mũi Né.
+Bà Hòa tốt nghiệp Cử nhân ngành Kế toán - Kiểm toán
+trường Đại học Kinh tế TP.HCM và Thạc sĩ Kinh tế Trường Đại
+học Kinh tế TP.HCM.
+Ông Đinh Quang Hoàn là Phó Chủ tịch Hội đồng Quản trị
+Thường trực và là một trong những thành viên gắn bó với
+Vietcap ngay từ những ngày đầu thành lập. Ông Hoàn cũng
+đồng thời giữ chức Phó Tổng Giám đốc tại Vietcap từ ngày
+thành lập tới tháng 11.2025. Ông có hơn 25 năm kinh nghiệm
+trong các lĩnh vực tư vấn tài chính, kế toán và kiểm toán, với
+nền tảng chuyên môn vững chắc và kinh nghiệm thực tiễn
+sâu rộng.
+Trước khi gia nhập Vietcap, ông Hoàn từng đảm nhiệm vị trí
+Phó Trưởng phòng tư vấn của CTCP Chứng khoán Bảo Việt -
+chi nhánh TP.HCM. Trước đó, ông có thời gian công tác tại
+Công ty Kiểm toán Quốc tế KPMG với chức vụ Trưởng phòng
+Kiểm toán.
+Ông Đinh Quang Hoàn  tốt nghiệp Thạc sĩ Kinh tế chuyên
+ngành Tài chính và bằng Cử nhân chuyên ngành Kế toán -
+Kiểm toán của trường Đại học Kinh tế TP.HCM. Ông sở hữu
+chứng chỉ Kiểm toán viên độc lập của Bộ Tài chính và là thành
+viên lâu năm của Hiệp hội Kế toán viên Công chứng - Vương
+quốc Anh (ACCA).
+Bà Nguyễn Thanh Phượng là thành viên sáng lập kiêm Chủ tịch
+Hội đồng Quản trị của Công ty Cổ phần Chứng khoán Vietcap
+(Vietcap) và Công ty Quản lý Quỹ Bản Việt (VCAM), với gần 20
+năm hoạt động trong lĩnh vực quản lý quỹ và ngân hàng đầu tư.
+Bà hiện đang đảm nhiệm vai trò Chủ tịch Ủy ban Chiến lược và
+Đổi mới tại Ngân hàng TMCP Bản Việt (BVBank). Đồng thời, bà
+cũng là thành viên sáng lập của Phoenix Holdings, Công ty
+chuyên đầu tư vào công nghệ tài chính, ngân hàng số, bất động
+sản, bán lẻ, F&B, truyền thông và thể thao. Với danh mục đầu tư
+đa dạng, bà Phượng giữ vai trò chủ chốt trong việc xây dựng
+tầm nhìn, định hướng chiến lược kinh doanh và mô hình quản trị;
+đồng thời hỗ trợ Ban Điều hành của các định chế tài chính và
+Công ty nhằm mục tiêu trở thành những đơn vị cung cấp dịch vụ
+tài chính hàng đầu tại Việt Nam. Trước đó, bà từng giữ chức vụ
+Phó Giám đốc Tài chính Công ty Liên doanh Holcim Việt Nam
+thuộc Tập đoàn đa quốc gia Thụy Sĩ và Giám đốc Đầu tư của
+Công ty Quản lý Quỹ Vietnam Holdings Asset Management.
+Ngoài những hoạt động đầu tư và kinh doanh, bà Nguyễn Thanh
+Phượng còn đam mê và nỗ lực để phát triển bộ môn bóng rổ tại
+Việt Nam. Bà là thành viên sáng lập và hiện đang là Chủ tịch Hội
+tổ chức các giải bóng rổ chuyên nghiệp tại Việt Nam. Bà  hiện
+giữ vai trò Chủ tịch tại Việt Nam của Tổ chức Live to Love
+International - tổ chức thiện nguyện quốc tế triển khai các hoạt
+động hỗ trợ phát triển giáo dục, dịch vụ y tế và cải thiện môi
+trường sống tại các địa phương khó khăn. Đồng thời,  bà còn là
+Thành viên Ban cố vấn của Quỹ Phẫu thuật Nụ Cười (Operation
+Smile Vietnam).
+Bà Nguyễn Thanh Phượng tốt nghiệp Cử nhân Kinh tế, chuyên
+ngành Tài chính - Ngân hàng của trường Đại học Kinh tế Quốc
+dân Hà Nội và Thạc sĩ Quản trị Kinh doanh (MBA) của Đại học
+Quốc tế tại Geneva - Thụy Sĩ.
+NGUYỄN VIỆT HÒA
+Thành viên Hội đồng quản trị
+ĐINH QUANG HOÀN
+Phó Chủ tịch Hội đồng quản trị thường trực
+Chủ tịch Ủy ban Lương thưởng
+Ông Tô Hải là thành viên sáng lập và Thành viên Hội đồng Quản
+trị Công ty Cổ phần Chứng khoán Vietcap (Vietcap), đồng thời
+giữ chức Tổng Giám đốc tại Vietcap từ ngày thành lập tới
+tháng 11.2025. Với nền tảng chuyên môn vững chắc trong lĩnh
+vực tư vấn tài chính doanh nghiệp và ngân hàng đầu tư, ông có
+sự am hiểu sâu sắc về thị trường chứng khoán Việt Nam. Ông
+Tô Hải được biết đến là một trong những chuyên gia có nhiều
+thành tích xuất sắc trong việc cung cấp các dịch vụ tư vấn cổ
+phần hóa, phát hành chứng khoán ra công chúng, tái cấu trúc
+tài chính.
+Ông Tô Hải tốt nghiệp Cử nhân Quản trị Công nghiệp tại Đại học
+Kỹ thuật TP. Hồ Chí Minh và Thạc sĩ Tài chính – Ngân hàng tại Đại
+học Sydney, Úc. Bên cạnh đó, ông sở hữu chứng chỉ hành nghề
+do Ủy ban Chứng khoán Nhà nước Việt Nam cấp, đáp ứng các
+yêu cầu pháp lý và chuẩn mực nghề nghiệp trong lĩnh vực
 chứng khoán.
-Ông Bảo bắt đầu làm việc tại Công ty Cổ phần Chứng khoán 
-Vietcap từ năm 2008 và hiện đang đảm nhiệm vị trí Phó Tổng 
-Giám Đốc. Trước đó, ông đã từng giữ chức vụ Phó giám đốc 
-Công ty kiêm Giám đốc chi nhánh TP.HCM của Công ty Chứng 
-khoán Ngân hàng Đầu tư và Phát triển Việt Nam, Phó giám đốc 
-Khối Dịch vụ của CTCP Chứng khoán Sài Gòn kiêm Giám đốc chi 
-nhánh Hải Phòng.
-Ông tốt nghiệp Cử nhân chuyên ngành Tín dụng tại Học Viện 
-Ngân hàng và Cử nhân chuyên ngành Tài chính Tín dụng tại Đại 
-học Tài chính Kế toán Hà Nội.
-Ông
-NGUYỄN QUANG BẢO 
-Phó Tổng giám đốc
-Với tầm nhìn chiến lược và niềm đam mê không ngừng thúc đẩy 
-ứng dụng công nghệ cùng đổi mới sáng tạo, ông Tuấn Nhan tập 
-trung xây dựng một mô hình kinh doanh lấy Khách hàng làm 
-trọng tâm, dựa trên chất lượng dịch vụ chuẩn quốc tế, năng lực 
-chuyên môn hàng đầu, thông tin đáng tin cậy, hiệu suất vượt 
-trội và niềm tin vững chắc từ Khách hàng cùng đối tác.
-Ông tin vào “Giấc mơ Việt Nam” - niềm tin rằng mỗi người đều 
-có khả năng vươn lên và đạt được thành công của riêng mình, 
-đồng thời luôn mong muốn góp phần giúp họ hiện thực hóa 
-giấc mơ đó.
-Với hơn 20 năm kinh nghiệm trong lĩnh vực dịch vụ tài chính, ông 
-Tuấn từng làm việc tại JP Morgan Australia và Rodman & 
-Renshaw (USA) trước khi gia nhập Vietcap năm 2013. Ông có 
-bằng Cử nhân Quản trị Kinh doanh, chuyên ngành Tài chính tại 
-Đại học bang Colorado (Hoa Kỳ).
-Ông
-NHAN TUẤN 
-Phó Tổng giám đốc 
-Ông Thiện có hơn 20 năm kinh nghiệm trong lĩnh vực Tài chính – 
-Kế toán và đã gia nhập Công ty Cổ phần Chứng khoán Vietcap 
-từ năm 2011.
-Ông tốt nghiệp Cử nhân chuyên ngành Tài chính Doanh nghiệp 
-tại Trường Đại học Kinh tế TP. Hồ Chí Minh.
-Ông
-ĐOÀN MINH THIỆN 
-Phó Tổng giám đốc 
-102
-103
+NGUYỄN THANH PHƯỢNG
+Chủ tịch Hội đồng quản trị
+Thành viên Hội đồng quản trị
+Chủ tịch Ủy ban Đầu tư
 DẪN DẮT TẦM NHÌN
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
 
-NHÂN SỰ
-CHỦ CHỐT
-Bà Quỳnh hiện đang giữ chức vụ Giám đốc 
-điều hành Khối Môi giới trong nước và đã 
-có hơn 20 năm kinh nghiệm trên thị 
-trường chứng khoán Việt Nam. Từ năm 
-2005 đến 2007, bà đã đảm nhiệm vị trí Phó 
-phòng Tư vấn Tài chính Doanh nghiệp và 
-sau đó là Phụ trách Phòng Môi Giới của 
-Công ty Chứng khoán Ngân hàng Ngoại 
-thương Việt Nam - một trong những công 
-ty chứng khoán lớn của Việt Nam.
-Trước đó, từ năm 2001 đến 2005, bà là 
-chuyên viên tư vấn tài chính doanh 
-nghiệp của Công ty Chứng khoán Ngân 
-hàng Đầu tư và Phát triển Việt Nam. Quá 
-trình làm việc tại các Công ty chứng 
-khoán đem lại cho bà những kinh nghiệm 
-quý báu, đặc biệt là khả năng đáp ứng 
-dịch vụ chuyên nghiệp. Bà đã tư vấn cho 
-hàng loạt các cá nhân và tổ chức, đem lại 
-hiệu quả đầu tư cao cho Khách hàng.
-Bà Quỳnh tốt nghiệp hệ Cử nhân và hệ 
-Thạc sĩ tại Đại học Kinh tế TP.HCM, 
-chuyên ngành Tài chính - Ngân hàng và 
-bằng Executive MBA, chương trình liên 
-kết giữa Đại Học Kinh tế TP.HCM và 
-trường Quản lý, Đại Học Quebec Montre-
-al (ESG UQAM), Canada.
-Bà
-CHÂU THIÊN TRÚC QUỲNH  
-Giám đốc điều hành
-Khối Tư vấn Đầu tư
-Ông Pháp gia nhập Vietcap từ năm 2013 
-và đã đảm nhiệm nhiều vị trí chủ chốt 
-tại các khối kinh doanh trọng yếu, bao 
-gồm Nghiên cứu & Phân tích và Giao 
-dịch chứng khoán - Khách hàng tổ 
-chức. Hiện nay,  ông là người dẫn dắt 
-Khối Ngân hàng Đầu tư của Vietcap.
-Trước khi gia nhập Vietcap, ông Pháp là 
-chuyên viên phân tích đầu tư tại Black-
-horse Asset Management.
-Ông tốt nghiệp Đại học RMIT Việt Nam 
-và là CFA Charterholder.
-Ông
-ĐẶNG VĂN PHÁP 
-Giám đốc điều hành Khối
-Ngân hàng Đầu tư
-Ông Hoàng Nam hiện là Giám đốc Nghiên 
-cứu & Phân tích tại Vietcap, trưc tiếp dẫn 
-dắt và định hướng việc cung cấp những 
-phân tích chuyên sâu về thị trường cũng 
-như các cổ phiếu trong danh mục theo dõi 
-của Vietcap.
-Với 14 năm kinh nghiệm thực tiễn trong 
-ngành, ông Hoàng Nam có sự am hiểu 
-sâu sắc về các lĩnh vực tiêu dùng/bán lẻ, 
-bất động sản, vận tải và năng lượng. Khả 
-năng phân tích đa chiều cùng những góc 
-nhìn độc đáo giúp ông đưa ra các nhận 
-định thị trường sắc bén và chiến lược đầu 
-tư hiệu quả, mang lại giá trị gia tăng cho 
-Khách hàng.
-Trước khi gia nhập Vietcap, ông Nam đã 
-khẳng định năng lực của mình tại các công 
-ty quản lý quỹ uy tín như Saigon Asset 
-Management và PXP Asset Management. 
-Kinh nghiệm làm việc tại các tổ chức này đã 
-trang bị cho ông nền tảng vững chắc về các 
-chu kỳ kinh tế, góc nhìn cổ phiếu và ngành 
-từ quan điểm của quỹ đầu tư cũng như khả 
-năng phân tích rủi ro. 
-Ông Hoàng Nam tốt nghiệp cử nhân Kinh 
-doanh tại Đại học Royal Melbourne 
-Institute of Technology (RMIT), Úc.
-Ông
-HOÀNG NAM 
-Giám đốc Nghiên cứu & Phân tích
-Ông Anthony gia nhập Chứng khoán 
-Vietcap từ năm 2022 và hiện là Giám đốc 
-Phòng Môi giới Khách hàng Tổ chức.
-Trước khi gia nhập Vietcap, ông từng 
-đảm nhận nhiều vai trò trong lĩnh vực 
-đầu tư cổ phần tư nhân tại Quỹ Hưu trí 
-của Nokia và đầu tư cổ phiếu toàn cầu 
-tại LMCG Investments.
-Ông cũng là Chuyên gia Phân tích Tài 
-chính (CFA Charterholder).
-Ông
-ANTHONY LE 
-Giám đốc Khối Giao dịch
-chứng khoán - Khách hàng tổ chức
-Bà Thanh đã có hơn 25 năm kinh nghiệm 
-làm việc trong lĩnh vực Tài chính. Trước 
-khi gia nhập Vietcap, bà  từng công tác 
-tại Bộ Tài chính,  sau đó đảm nhiệm vai 
-trò Giám đốc khối Tư vấn tài chính và 
-Giao dịch trực tuyến tại CTCP Chứng 
-khoán Vincom. Bà đã tư vấn thành công 
-nhiều thương vụ mua bán sáp nhập, tái 
-cấu trúc, huy động vốn và niêm yết 
-doanh nghiệp điển hình tại Việt Nam. 
-Bà Thanh cũng là một trong những 
-chuyên gia hàng đầu trong lĩnh vực tư 
-vấn cổ phần hoá cho các tổng Công ty 
-lớn của Nhà nước.
-Bà Thanh tốt nghiệp  Cử nhân Kinh tế 
-chuyên ngành Tài chính Ngân hàng tại 
-Đại học Kinh tế Quốc dân và Thạc sĩ 
-Quản lý Tài chính tại Đại học Melbourne, 
-Úc. Bà Thanh cũng đồng thời được cấp 
-Chứng chỉ hành nghề Quản lý quỹ bởi Uỷ 
-ban Chứng khoán Nhà nước và Thẻ thẩm 
-định viên về giá bởi Bộ Tài chính. 
-Bà
-PHẠM THỊ THANH 
-Giám đốc Ngân hàng
-Đầu tư Chi nhánh Hà Nội
-Bà Thảo hiện là Kế toán trưởng của 
-Vietcap, chịu trách nhiệm quản lý và 
-phát triển đội ngũ kế toán, hướng đến 
-quy trình làm việc bài bản và tuân thủ, 
-phù hợp với kế hoạch phát triển của 
-Công ty. 
-Trước khi gia nhập Vietcap vào tháng 
-7.2024, bà Thảo có 15 năm kinh nghiệm 
-kiểm toán cho các doanh nghiệp hoạt 
-động trong nhiều lĩnh vực khác nhau 
-thuộc sở hữu trong và ngoài nước. 
-Bà Thảo sở hữu bằng Cử nhân chuyên 
-ngành Kế toán - Kiểm toán Đại học 
-Kinh tế TP.HCM. Bà cũng là thành viên 
-lâu năm của Hiệp hội Kế toán Công 
-chứng Anh (FCCA).
-Bà
-ĐOÀN TRẦN PHƯƠNG THẢO 
-Kế toán trưởng
-104
-105
+CÁC NGHỊ QUYẾT/QUYẾT ĐỊNH CỦA
+HỘI ĐỒNG QUẢN TRỊ NĂM 2025
+HOẠT ĐỘNG GIÁM SÁT CỦA
+HĐQT ĐỐI VỚI BAN TỔNG GIÁM ĐỐC
+HOẠT ĐỘNG CỦA CÁC
+TIỂU BAN THUỘC HĐQT
+Số Nghị quyết/
+Quyết định
+Ngày
+Nội dung
+Tỷ lệ
+thông qua
+37/2025/NQ-HĐQT.VIETCAP
+38/2025/NQ-HĐQT.VIETCAP
+39/2025/NQ-HĐQT.VIETCAP
+40/2025/NQ-HĐQT.VIETCAP
+41/2025/NQ-HĐQT.VIETCAP
+42/2025/NQ-HĐQT.VIETCAP
+43/2025/NQ-HĐQT.VIETCAP
+44/2025/NQ-HĐQT.VIETCAP
+Thông qua phương án phát hành, phương án sử dụng và trả nợ
+vốn thu được từ đợt chào bán trái phiếu ra công chúng, thông
+qua việc niêm yết trái phiếu trên hệ thống giao dịch chứng
+khoán và các nội dung khác có liên quan
+Phê duyệt hồ sơ đăng ký chào bán trái phiếu doanh nghiệp ra
+công chúng với tổng mệnh giá tối đa 3.000 tỷ đồng theo
+Phương án Phát hành đính kèm theo Nghị quyết HĐQT số
+37/2025/NQ-HĐQT.VIETCAP ngày 01 tháng 12 năm 2025
+Thông qua thời gian phân phối cổ phiếu riêng lẻ cho các nhà
+đầu tư
+Tiếp tục phân phối số lượng cổ phiếu chào bán riêng lẻ chưa
+được đăng ký mua hết
+Thông qua kết quả chào bán cổ phiếu riêng lẻ
+Chốt danh sách cổ đông Công ty Cổ phần Chứng khoán
+Vietcap để lấy ý kiến cổ đông bằng văn bản về một số vấn đề
+thuộc thẩm quyền của Đại hội đồng Cổ đông lần 1 năm 2026
+Tạm ứng cổ tức đợt 1 năm 2025
+Thông qua nội dung tài liệu lấy ý kiến cổ đông bằng văn bản
+Hội đồng quản trị đã thành lập Ủy ban Đầu tư và Ủy ban Lương thưởng
+vào tháng 11.2025.
 DẪN DẮT TẦM NHÌN
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-
-Việt Nam đặt mục tiêu tăng 
-trưởng GDP trên 10% cho 
-Hoàn thiện thể chế, giảm 
-bớt rào cản, đưa đất nước 
-hướng tới mục tiêu tăng 
-trưởng trên 10%
-Tiếp tục đẩy mạnh
-đầu tư công 
-TRIỂN VỌNG VĨ MÔ VIỆT NAM
-TRIỂN VỌNG 2026
-Nghị quyết Đại hội đại biểu toàn quốc 
-lần thứ XIV của Đảng đã đặt ra mục tiêu 
-tăng trưởng GDP bình quân từ 10%/năm 
-trở lên trong giai đoạn 2026–2030.  Mục 
-tiêu đến năm 2030  trở thành quốc gia 
-có công nghiệp hiện đại, thu nhập trung 
-bình cao; đến năm 2045, trở thành nước 
-phát triển, thu nhập cao. Mục tiêu đầy 
-thách thức đòi hỏi phải định hình tư duy 
-phát triển mới, xây dựng mô hình tăng 
-trưởng dựa trên khoa học công nghệ, 
-đổi mới sáng tạo, chuyển đổi số và 
-chuyển đổi xanh, đồng thời làm mới các 
-động lực tăng trưởng truyền thống.
-Năm 2025 đánh dấu bước ngoặt lịch sử 
-trong cải cách hành chính khi Chính phủ 
-hoàn tất việc tái cấu trúc bộ máy và sáp 
-nhập các tỉnh, thành. Đặc biệt, mô hình 
-chính quyền địa phương 2 cấp đã chính 
-thức đi vào vận hành, hướng đến một hệ 
-thống quản lý linh hoạt và nâng cao 
-đáng kể hiệu quả điều hành.
-Trong kỳ họp thứ 10 diễn ra vào cuối năm 
-2025, Quốc hội đã thông qua 51 luật và 
-30 nghị quyết, số lượng lớn nhất từng 
-được ghi nhận, đánh dấu bước tiến lớn 
-trong cải cách thể chế. Những nỗ lực 
-này nhằm củng cố khung pháp lý, giảm 
-bớt rào cản và hỗ trợ mục tiêu tăng 
-trưởng tham vọng giai đoạn 2026–2030.
-Nâng cao hiệu quả kinh tế 
-nhà nước; khơi thông nguồn 
-lực kinh tế tư nhân
-Chính phủ đặt mục tiêu chi ngân sách 
-nhà nước cho đầu tư phát triển ở mức 
-1.120 nghìn tỷ đồng trong năm 2026, cao 
-hơn 28% so với kế hoạch năm 2025 và 
-cao hơn 9,2% so với mức giải ngân ước 
-tính của Bộ Tài chính trong năm 2025.
-Trong khi đó, Bộ Tài chính ước tính nợ 
-công của Việt Nam hiện vào khoảng 37% 
-GDP. Chúng tôi kỳ vọng việc tăng chi 
-tiêu tài khóa có thể giúp kinh tế tiếp tục 
-tăng trưởng vào năm 2026, trong khi 
-mức nợ công thấp hơn đáng kể so với 
-mức trần 60% theo quy định của Quốc 
-hội, cho thấy dư địa thuận lợi cho các gói 
-kích thích tài khóa trong trung hạn.
-BỐI CẢNH VÀ XU HƯỚNG
-Tăng trưởng GDP và mục tiêu tăng trưởng GDP của Việt Nam đến năm 2030
-Nợ công/GDP (%)
-Nguồn: Vietcap tổng hợp
-Nguồn: Bộ Tài Chính, Vietcap tổng hợp 
-12%
-10%
-8%
-6%
-4%
-2%
-0%
-2013
-2014
-2015
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2026P
-5.6%
-6.4%
-6.7% 6.9%
-7.0%
-7.5% 7.4%
-8.5%
-5.0%
-7.0%
-8.0%
-10%
-10%
-2.9% 2.6%
-70
-65
-60
-55
-50
-45
-40
-35
-30
-25
-20
-2013
-2016
-2017
-2018
-2019
-2020
-2021
-2022
-2023
-2024E
-2025E
-2026P
-Nợ công/GDP (%)
-110
-111
-ĐỊNH HÌNH TRIỂN VỌNG
-VIETCAP  |  BÁO CÁO THƯỜNG NIÊN 2025
-Nâng cao hiệu quả và vai trò chủ đạo 
-của khu vực kinh tế Nhà nước: Tổng Bí 
-thư Tô Lâm đã ban hành Nghị quyết số 
-79-NQ/TW ngày 6/1/2026 của Bộ Chính 
-trị. Nghị quyết phát đi tín hiệu tích cho 
-khu vực kinh tế Nhà nước và kỳ vọng sẽ 
-mang lại lợi ích cho các doanh nghiệp 
-Nhà nước có vị thế chiến lược.
-Khơi thông nguồn lực của khu vực kinh tế 
-tư nhân: Nghị quyết số 68-NQ/TW ngày 
-4/5/2025 của Bộ Chính trị về phát triển 
-kinh tế tư nhân và Nghị quyết số 
-198/2025/QH15 của Quốc hội về một số 
-cơ chế, chính sách đặc biệt phát triển 
-kinh tế tư nhân, cùng với các biện pháp 
-hỗ trợ của Chính phủ, sẽ giúp khơi thông 
-nguồn lực từ khu vực tư nhân, để đóng 
-vai trò là động lực chính của tăng trưởng 
-kinh tế.
+Hội đồng quản trị giám sát thực hiện các nghị quyết, kế hoạch kinh doanh và
+đầu tư đã được Hội đồng quản trị và Đại hội đồng cổ đông thông qua. Giám
+sát các hoạt động điều hành của Ban Tổng giám đốc để đảm bảo hoạt động
+kinh doanh của Công ty được an toàn, tuân thủ đúng các quy định của pháp
+luật, theo đúng định hướng nghị quyết Đại hội đồng cổ đông thông qua.

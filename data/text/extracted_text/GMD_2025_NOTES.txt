@@ -1,2013 +1,221 @@
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
-Tại ngày 31 tháng 12 năm 2025	 	
-	
-	
-	
-	
-Đơn vị tính: VND
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
-Số cuối năm
-Số đầu năm
- A   -   TÀI SẢN NGẮN HẠN
-100
- 6.206.216.188.548 
-6.673.567.765.409 
-I.
-Tiền và các khoản tương đương tiền
-110
-V.1
- 1.622.294.838.770 
-3.964.316.764.607 
-1.
-Tiền 
-111
- 390.617.985.338 
- 3.198.224.475.079 
-2.
-Các khoản tương đương tiền
-112
- 1.231.676.853.432 
- 766.092.289.528 
-II.
-Đầu tư tài chính ngắn hạn
-120
- 2.738.596.210.765 
-1.021.206.010.000 
-1.
-Chứng khoán kinh doanh
-121
-V.2a
- - 
- 34.301.944.940 
-2.
-Dự phòng giảm giá chứng khoán 
-kinh doanh
-122
-V.2a
- - 
- (25.395.934.940)
-3.
-Đầu tư nắm giữ đến ngày đáo hạn
-123
-V.2b
- 2.738.596.210.765 
- 1.012.300.000.000 
-III.
-Các khoản phải thu ngắn hạn
-130
- 1.398.735.264.841 
-1.235.608.050.191 
-1.
-Phải thu ngắn hạn của khách hàng
-131
-V.3
- 673.784.889.294 
- 598.531.863.691 
-2.
-Trả trước cho người bán ngắn hạn
-132
-V.4
- 196.842.503.241 
- 280.469.711.694 
-3.
-Phải thu nội bộ ngắn hạn
-133
- - 
- - 
-4.
-Phải thu theo tiến độ kế hoạch hợp đồng 
-xây dựng
-134
- - 
- - 
-5.
-Phải thu về cho vay ngắn hạn
-135
-V.5a
- 60.923.500.000 
- 30.923.500.000 
-6.
-Phải thu ngắn hạn khác
-136
-V.6a
- 520.651.632.469 
- 373.778.192.874 
-7.
-Dự phòng phải thu ngắn hạn khó đòi 
-137
-V.7
- (53.474.018.563)
- (48.095.218.068)
-8.
-Tài sản thiếu chờ xử lý
-139
- 6.758.400 
- - 
-IV.
-Hàng tồn kho
-140
- 92.477.952.063 
- 83.419.825.055 
-1.
-Hàng tồn kho
-141
-V.8
- 92.477.952.063 
- 83.419.825.055 
-2.
-Dự phòng giảm giá hàng tồn kho
-149
- - 
- - 
-V.
-Tài sản ngắn hạn khác
-150
- 354.111.922.109 
- 369.017.115.556 
-1.
-Chi phí trả trước ngắn hạn
-151
-V.9a
- 49.422.321.164 
- 20.331.034.493 
-2.
-Thuế giá trị gia tăng được khấu trừ
-152
- 301.287.529.386 
- 334.621.126.828 
-3.
-Thuế và các khoản khác phải thu 
-Nhà nước
-153
-V.18
- 3.402.071.559 
- 14.064.954.235 
-4.
-Giao dịch mua bán lại trái phiếu 
-Chính phủ
-154
- - 
- - 
-5.
-Tài sản ngắn hạn khác
-155
- - 
- -
-BÁO CÁO KIỂM TOÁN ĐỘC LẬP
-Số: 1.0718/26/TC-AC
-Kính gửi:	
-CÁC CỔ ĐÔNG, HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
- CÔNG TY CỔ PHẦN GEMADEPT
-Chúng tôi đã kiểm toán Báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Gemadept (sau đây gọi tắt là “Công 
-ty”) và các công ty con (gọi chung là “Tập đoàn”), được lập ngày 28 tháng 3 năm 2026, từ trang 05 đến trang 58, bao gồm 
-Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2025, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo 
-lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh Báo cáo tài chính hợp nhất.
-Trách nhiệm của Ban Tổng Giám đốc
-Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính hợp nhất của 
-Tập đoàn theo các chuẩn mực kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên 
-quan đến việc lập và trình bày Báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc 
-xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian 
-lận hoặc nhầm lẫn.
-Trách nhiệm của Kiểm toán viên
-Trách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi 
-đã tiến hành kiểm toán theo các chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn 
-mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý 
-về việc liệu Báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
-Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết 
-minh trên Báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm 
-đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các 
-rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày Báo cáo tài chính 
-hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm 
-mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm đánh giá tính 
-thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng 
-như đánh giá việc trình bày tổng thể Báo cáo tài chính hợp nhất.
-Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở 
-cho ý kiến kiểm toán của chúng tôi.
-Ý kiến của Kiểm toán viên
-Theo ý kiến của chúng tôi, Báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình 
-hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2025, cũng như kết quả hoạt động kinh doanh hợp nhất 
-và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các chuẩn mực kế toán Việt 
-Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài 
-chính hợp nhất.
-Công ty TNHH Kiểm toán và Tư vấn A&C
-Hoàng Thái Vượng
-Lê Thị Thu Cúc
-Thành viên Ban Giám đốc
-Kiểm toán viên
-Số Giấy CNĐKHN kiểm toán: 2129-2023-
-008-1
-Số Giấy CNĐKHN kiểm toán: 5450-2026-
-008-1
-Người được ủy quyền
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-164
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-165
-GEMADEPT CORPORATION
-
-Bảng cân đối kế toán hợp nhất (tiếp theo)
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
- Số cuối năm 
- Số đầu năm 
- C    -   NỢ PHẢI TRẢ
-300
- 4.908.147.222.414 
- 4.225.927.310.161 
-I.
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (tiếp theo)
+KẾT QUẢ KINH DOANH 2025 (tiếp theo)
+HOẠT ĐỘNG TÀI CHÍNH
+TÀI SẢN - NGUỒN VỐN
+NỢ VÀ CÁC BIẾN ĐỘNG LỚN VỀ CÁC KHOẢN NỢ
+CƠ CẤU NỢ VỐN
+10% so với thời điểm ngày 31/12/2024
+20% so với thời điểm ngày 31/12/2024
+7% so với thời điểm ngày 31/12/2024
+16% so với thời điểm ngày 31/12/2024
+8% so với thời điểm ngày 31/12/2024
+Tổng tài sản ghi nhận vào ngày 31/12/2025 đạt hơn 19.826 tỷ đồng,
+tăng 10% so với thời điểm ngày 31/12/2024. Tài sản dài hạn chiếm tỷ
+trọng lớn với gần 69% cơ cấu tổng tài sản. Trong đó:
+Tài sản dài hạn ghi nhận 13.620 tỷ đồng, tăng 20% so với
+thời điểm 31/12/2024, chủ yếu tăng tài sản cố định và đầu
+tư tài chính dài hạn.
+Tài sản ngắn hạn ghi nhận 6.206 tỷ đồng, giảm 7% so với
+thời điểm 31/12/2024 chủ yếu giảm khoản tiền và tương
+đương tiền do trong năm 2025, Công ty đầu tư tài sản
+phương tiện thiết bị và tăng góp vốn đầu tư vào các công
+ty liên doanh liên kết.
+Tổng nợ phải trả vào cuối năm 2025 ghi nhận 4.908 tỷ
+đồng, tăng 16% so với thời điểm 31/12/2024, chủ yếu tăng
+nợ dài hạn. Hệ số Nợ trên Vốn chủ sở hữu là 0,3 tại cuối
+Vốn chủ sở hữu vào ngày 31/12/2025 ghi nhận 14.918 tỷ
+đồng, tăng 8% so với thời điểm 31/12/2024, chủ yếu do
+tăng lợi nhuận sau thuế chưa phân phối.
+Về cấu trúc nguồn vốn, tỷ lệ vốn chủ sở hữu so với tổng
+tài sản luôn được duy trì ổn định nhằm đảm bảo sức khỏe
+và hiệu quả tài chính. Tại ngày 31/12/2025, tỷ lệ này là 75%.
+Khoản mục
+% Tăng/ giảm
+Ghi chú
+NỢ PHẢI TRẢ
+Tăng chủ yếu các khoản
+vay dài hạn
 Nợ ngắn hạn
-310
- 2.342.521.762.972 
- 2.100.758.451.703 
-1.
 Phải trả người bán ngắn hạn
-311
-V.16
- 686.187.347.040 
- 486.687.090.476 
-2.
 Người mua trả tiền trước ngắn hạn
-312
-V.17
- 9.842.248.827 
- 7.623.946.501 
-3.
 Thuế và các khoản phải nộp Nhà nước
-313
-V.18
- 160.122.507.614 
- 66.884.521.512 
-4.
 Phải trả người lao động
-314
-V.19
- 220.540.081.914 
- 191.939.767.748 
-5.
 Chi phí phải trả ngắn hạn
-315
-V.20
- 375.331.544.065 
- 230.198.605.012 
-6.
-Phải trả nội bộ ngắn hạn
-316
- - 
- - 
-7.
-Phải trả theo tiến độ kế hoạch 
-hợp đồng xây dựng
-317
- - 
- - 
-8.
 Doanh thu chưa thực hiện ngắn hạn
-318
-V.21a
- 7.775.967.018 
- 1.216.075.884 
-9.
+Công ty đầu tư thêm tài sản,
+tiền trả trước về cho thuê tài
+sản cố định tăng
 Phải trả ngắn hạn khác
-319
-V.22a
- 330.880.457.160 
- 481.595.911.721 
-10.
 Vay và nợ thuê tài chính ngắn hạn
-320
-V.23a
- 307.522.460.143 
- 422.039.710.314 
-11.
 Dự phòng phải trả ngắn hạn
-321
-V.24
- 139.362.430.397 
- 148.305.353.998 
-12.
 Quỹ khen thưởng, phúc lợi
-322
-V.25
- 104.956.718.794 
- 64.267.468.537 
-13.
-Quỹ bình ổn giá
-323
- - 
- - 
-14.
-Giao dịch mua bán lại trái phiếu Chính phủ
-324
- - 
- - 
-II.
 Nợ dài hạn
-330
- 2.565.625.459.442 
- 2.125.168.858.458 
-1.
-Phải trả người bán dài hạn
-331
- - 
- - 
-2.
-Người mua trả tiền trước dài hạn
-332
- - 
- - 
-3.
-Chi phí phải trả dài hạn
-333
- - 
- - 
-4.
-Phải trả nội bộ về vốn kinh doanh
-334
- - 
- - 
-5.
-Phải trả nội bộ dài hạn
-335
- - 
- - 
-6.
 Doanh thu chưa thực hiện dài hạn
-336
-V.21b
- 252.973.266.770 
- 264.120.168.336 
-7.
 Phải trả dài hạn khác
-337
-V.22b
- 231.012.177.679 
- 115.705.220.528 
-8.
 Vay và nợ thuê tài chính dài hạn
-338
-V.23b
- 2.081.640.014.993 
- 1.745.343.469.594 
-9.
-Trái phiếu chuyển đổi
-339
- - 
- - 
-10.
-Cổ phiếu ưu đãi
-340
- - 
- - 
-11.
-Thuế thu nhập hoãn lại phải trả
-341
-V.26
- - 
- - 
-12.
-Dự phòng phải trả dài hạn
-342
- - 
- - 
-13.
-Quỹ phát triển khoa học và công nghệ
-343
- - 
- -
- 
-Bảng cân đối kế toán hợp nhất (tiếp theo)
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
- Số cuối năm 
- Số đầu năm 
-  B    -   TÀI SẢN DÀI HẠN
-200
-13.620.185.187.029 
-11.324.285.547.308 
-I.
-Các khoản phải thu dài hạn
-210
- 46.839.995.138 
- 44.670.549.888 
-1.
-Phải thu dài hạn của khách hàng
-211
- - 
- - 
-2.
-Trả trước cho người bán dài hạn
-212
- - 
- - 
-3.
-Vốn kinh doanh ở đơn vị trực thuộc
-213
- - 
- - 
-4.
-Phải thu nội bộ dài hạn
-214
- - 
- - 
-5.
-Phải thu về cho vay dài hạn
-215
-V.5b
- 8.100.000.000 
- 8.100.000.000 
-6.
-Phải thu dài hạn khác
-216
-V.6b
- 38.739.995.138 
- 36.570.549.888 
-7.
-Dự phòng phải thu dài hạn khó đòi
-219
- - 
- - 
-II.
-Tài sản cố định
-220
- 5.584.162.628.010 
- 4.033.163.455.484 
-1.
-Tài sản cố định hữu hình
-221
-V.10
- 5.338.735.383.830 
- 3.786.073.252.479 
--
-Nguyên giá
-222
- 8.164.569.860.451 
- 6.271.975.962.063 
--
-Giá trị hao mòn lũy kế
-223
- (2.825.834.476.621)
- (2.485.902.709.584)
-2.
-Tài sản cố định thuê tài chính
-224
-V.11
- - 
- 9.387.685 
--
-Nguyên giá
-225
- 259.912.568.266 
- 235.413.682.251 
--
-Giá trị hao mòn lũy kế
-226
- (259.912.568.266)
- (235.404.294.566)
-3.
-Tài sản cố định vô hình
-227
-V.12
- 245.427.244.180 
- 247.080.815.320 
--
-Nguyên giá
-228
- 390.579.655.076 
- 377.654.306.291 
--
-Giá trị hao mòn lũy kế
-229
- (145.152.410.896)
- (130.573.490.971)
-III.
-Bất động sản đầu tư
-230
- - 
- - 
--
-Nguyên giá
-231
- - 
- - 
--
-Giá trị hao mòn lũy kế
-232
- - 
- - 
-IV.
-Tài sản dở dang dài hạn
-240
- 1.269.929.190.028 
- 1.718.132.778.160 
-1.
-Chi phí sản xuất, kinh doanh 
-dở dang dài hạn
-241
- - 
- - 
-2.
-Chi phí xây dựng cơ bản dở dang
-242
-V.13
- 1.269.929.190.028 
- 1.718.132.778.160 
-V.
-Đầu tư tài chính dài hạn
-250
- 4.867.354.146.720 
- 3.854.379.152.187 
-1.
-Đầu tư vào công ty con
-251
- - 
- - 
-2.
-Đầu tư vào công ty liên doanh, liên kết
-252
-V.2c
- 4.828.102.997.796 
- 3.805.207.996.433 
-3.
-Đầu tư góp vốn vào đơn vị khác
-253
-V.2d
- 41.913.687.500 
- 41.913.687.500 
-4.
-Dự phòng đầu tư tài chính dài hạn
-254
-V.2d
- (2.662.538.576)
- (2.742.531.746)
-5.
-Đầu tư nắm giữ đến ngày đáo hạn
-255
-V.2b
- - 
- 10.000.000.000 
-VI.
-Tài sản dài hạn khác
-260
- 1.851.899.227.133 
- 1.673.939.611.589 
-1.
-Chi phí trả trước dài hạn
-261
-V.9b
- 1.361.363.395.288 
- 1.296.472.457.506 
-2.
-Tài sản thuế thu nhập hoãn lại
-262
-V.14
- 357.211.942.796 
- 246.350.066.371 
-3.
-Thiết bị, vật tư, phụ tùng thay thế 
-dài hạn
-263
- - 
- - 
-4.
-Tài sản dài hạn khác
-268
- - 
- - 
-5.
-Lợi thế thương mại
-269
-V.15
- 133.323.889.049 
- 131.117.087.712 
-TỔNG CỘNG TÀI SẢN
-270
-19.826.401.375.577 
-17.997.853.312.717
- 
-166
-BÁO CÁO THƯỜNG NIÊN 2025
+Giải ngân khoản vay mới tài
+trợ cho các dự án
+Chỉ tiêu
+Hệ số Nợ /Vốn chủ sở hữu
+Hệ số Nợ/Tổng tài sản
+Công ty duy trì cơ cấu Nợ - Vốn chủ sở hữu tối ưu, phù hợp với chiến lược phát triển cũng như kiểm soát được rủi ro tài
+chính. Đồng thời, Công ty tăng cường chú trọng quản trị dòng tiền hiệu quả nhằm đảm bảo thanh khoản và nguồn thặng
+dư cho hoạt động đầu tư. Đây là cơ sở quan trọng để thúc đẩy sự phát triển bền vững và nâng cao năng lực tài chính để
+Công ty chủ động đón các cơ hội tăng trưởng trong giai đoạn tiếp theo.
+TỔNG TÀI SẢN
 GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-167
 GEMADEPT CORPORATION
+CHƯƠNG I: GẮN KẾT GIÁ TRỊ
+CHƯƠNG III: KIẾN TẠO TẦM NHÌN
+CHƯƠNG II: CỘNG HƯỞNG SỨC MẠNH
 
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
-Đơn vị tính: VND
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
-Năm nay
-Năm trước
-1.
-Doanh thu bán hàng và cung cấp 
-dịch vụ
-01
-VI.1
- 5.956.025.297.015 
-4.832.024.798.961 
-2.
-Các khoản giảm trừ doanh thu
-02
- - 
- - 
-3.
-Doanh thu thuần về bán hàng và 
-cung cấp dịch vụ 
-10
- 5.956.025.297.015 
-4.832.024.798.961 
-4.
-Giá vốn hàng bán
-11
-VI.2
- 3.216.552.758.085 
-2.696.544.401.941 
-5.
-Lợi nhuận gộp về bán hàng và 
-cung cấp dịch vụ 
-20
- 2.739.472.538.930 
-2.135.480.397.020 
-6.
-Doanh thu hoạt động tài chính
-21
-VI.3
- 228.485.206.429 
- 426.126.464.636 
-7.
-Chi phí tài chính
-22
-VI.4
- 118.711.817.693 
- 150.292.456.722 
-Trong đó: chi phí lãi vay 
-23
- 112.580.748.513 
- 139.487.501.839 
-8.
-Phần lãi hoặc lỗ trong công ty 
-liên doanh, liên kết
-24
-V.2c
- 1.157.659.377.947 
- 829.308.422.992 
-9.
-Chi phí bán hàng
-25
-VI.5
- 481.965.603.944 
- 247.200.313.981 
-10.
-Chi phí quản lý doanh nghiệp
-26
-VI.6
- 610.544.456.639 
- 574.838.485.710 
-11.
-Lợi nhuận thuần từ hoạt động 
-kinh doanh
-30
- 2.914.395.245.030 
-2.418.584.028.235 
-12.
-Thu nhập khác
-31
-VI.7
- 44.918.432.856 
- 262.198.327.915 
-13.
-Chi phí khác
-32
-VI.8
- 438.486.531.296 
- 582.192.046.534 
-14.
-Lợi nhuận khác
-40
- (393.568.098.440)
- (319.993.718.619)
-15.
-Tổng lợi nhuận kế toán trước thuế
-50
- 2.520.827.146.590 
-2.098.590.309.616 
-16.
-Chi phí thuế thu nhập doanh nghiệp 
-hiện hành
-51
-V.18
- 329.165.841.663 
- 236.733.263.089 
-17.
-Chi phí thuế thu nhập doanh nghiệp 
-hoãn lại
-52
-VI.9
- (110.861.876.425)
- (61.726.436.884)
-18.
-Lợi nhuận sau thuế thu nhập 
-doanh nghiệp
-60
- 2.302.523.181.352 
-1.923.583.483.411 
-19.
-Lợi nhuận sau thuế của công ty mẹ
-61
- 1.755.629.825.296 
-1.455.479.595.602 
-20.
-Lợi nhuận sau thuế của cổ đông không 
-kiểm soát
-62
- 546.893.356.056 
- 468.103.887.809 
-21.
-Lãi cơ bản trên cổ phiếu
-70
-VI.10
- 3.839 
- 4.276 
-22.
-Lãi suy giảm trên cổ phiếu
-71
-VI.10
- 3.839 
- 4.276 
-	
-	
-	
-	
-	
-	
-	
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Bảng cân đối kế toán hợp nhất (tiếp theo)
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
- Số cuối năm 
- Số đầu năm 
-  D   -    VỐN CHỦ SỞ HỮU
-400
- 14.918.254.153.163 
-13.771.926.002.556 
-I.
-Vốn chủ sở hữu
-410
- 14.918.254.153.163 
-13.771.926.002.556 
-1.
-Vốn góp của chủ sở hữu
-411
-V.27
- 4.264.951.090.000 
- 4.139.826.090.000 
--
-Cổ phiếu phổ thông có quyền 
-biểu quyết
-411a
- 4.264.951.090.000 
- 4.139.826.090.000 
--
-Cổ phiếu ưu đãi
-411b
- - 
- - 
-2.
-Thặng dư vốn cổ phần
-412
-V.27
- 3.920.183.061.040 
- 3.920.183.061.040 
-3.
-Quyền chọn chuyển đổi trái phiếu
-413
- - 
- - 
-4.
-Vốn khác của chủ sở hữu
-414
-V.27
- 128.097.775.902 
- 128.097.775.902 
-5.
-Cổ phiếu quỹ
-415
- - 
- - 
-6.
-Chênh lệch đánh giá lại tài sản
-416
- - 
- - 
-7.
-Chênh lệch tỷ giá hối đoái
-417
-V.27
- 468.455.589.543 
- 431.368.225.715 
-8.
-Quỹ đầu tư phát triển
-418
-V.27
- 73.121.317.440 
- 72.892.277.093 
-9.
-Quỹ hỗ trợ sắp xếp doanh nghiệp
-419
- - 
- - 
-10.
-Quỹ khác thuộc vốn chủ sở hữu
-420
-V.27
- 72.381.836.572 
- 72.381.836.572 
-11.
-Lợi nhuận sau thuế chưa phân phối
-421
-V.27
- 4.212.636.741.407 
- 3.617.139.919.490 
--
-Lợi nhuận sau thuế chưa phân phối 
-lũy kế đến cuối kỳ trước
-421a
- 2.457.006.916.111 
- 3.617.139.919.490 
--
-Lợi nhuận sau thuế chưa phân phối 
-kỳ này
-421b
- 1.755.629.825.296 
- - 
-12.
-Nguồn vốn đầu tư xây dựng cơ bản
-422
- - 
- - 
-13.
-Lợi ích cổ đông không kiểm soát
-429
-V.27
- 1.778.426.741.259 
- 1.390.036.816.744 
-II.
-Nguồn kinh phí và quỹ khác
-430
- - 
- - 
-1.
-Nguồn kinh phí
-431
- - 
- - 
-2.
-Nguồn kinh phí đã hình thành tài sản 
-cố định
-432
- - 
- - 
-TỔNG CỘNG NGUỒN VỐN
-440
- 19.826.401.375.577 
-17.997.853.312.717 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-168
-BÁO CÁO THƯỜNG NIÊN 2025
+Hội đồng Quản trị Gemadept luôn ưu tiên thực hành Quản trị công ty tốt và nỗ lực duy trì quản trị Công ty đáp ứng các
+tiêu chuẩn của UBCKNN và Quốc tế. Hiện nay, Gemadept đang áp dụng các nguyên tắc Quản Trị Công Ty (“QTCT”) tốt của
+“Bộ Nguyên tắc QTCT theo Thông lệ Tốt nhất” do UBCKNN và IFC phát hành dành cho công ty đại chúng tại Việt Nam, Tổ
+chức Hợp tác và Phát triển Kinh tế (OECD), Thẻ điểm QTCT ASEAN (ASEAN Corporate Governance Scorecard) và các thông
+lệ tốt nhất của các tập đoàn toàn cầu hàng đầu trong khu vực ASEAN. Các nguyên tắc QTCT này giúp củng cố niềm tin từ
+Cổ đông, Nhà đầu tư và tất cả các bên liên quan hiệu quả và thúc đẩy khả năng cạnh tranh của Công ty hướng tới Phát
+triển bền vững.
+Trong năm 2025, HĐQT đánh giá và xác nhận rằng Công ty đã thực hiện tuân thủ đầy đủ và nghiêm túc trong công tác
+QTCT theo quy định của pháp luật hiện hành, tiếp tục cầu thị và thay đổi để tiệm cận với thông lệ quản trị tốt của Thẻ
+điểm QTCT ASEAN.
+Trên Website chính thức của Gemadept, Công ty đã công bố đầy đủ các tài liệu liên quan đến quản trị công ty, bao gồm:
+•	 Điều lệ Công ty
+•	 Và các thông tin quản trị khác được cập nhật định kỳ trong báo cáo thường niên hàng năm cũng như các thông báo
+A. QUYỀN VÀ ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG
+A.1 Quyền cơ bản của cổ đông
+Chính sách chi trả cổ tức của Gemadept luôn đảm bảo một cách bình đẳng và kịp thời cho tất cả Cổ đông. Đại hội đồng
+cổ đông (ĐHĐCĐ) sẽ quyết định mức chi trả cổ tức và hình thức hàng năm từ lợi nhuận chưa phân phối của Công ty.
+Theo pháp luật Việt Nam, việc chi trả cổ tức đầy đủ được thực hiện trong vòng 6 tháng kể từ ngày kết thúc họp ĐHĐCĐ
+thường niên.
+Cổ tức của năm tài chính 2024: ĐHĐCĐ đã thông qua mức cổ tức năm 2024 là 20%/ mệnh giá (tương đương 2.000 đồng/
+cổ phần). Thông tin về chi trả cổ tức luôn được Công ty công bố công khai, đầy đủ và kịp thời theo đúng quy định hiện
+hành về công bố thông tin minh bạch và trách nhiệm với nhà đầu tư.
+A.2 Quyền tham gia và bỏ phiếu một cách hiệu quả trong các cuộc họp ĐHĐCĐ và được thông báo về các quy
+định, bao gồm thủ tục bỏ phiếu liên quan đến các cuộc họp Cổ đông.
+Gemadept luôn đảm bảo đối xử công bằng với cổ đông thông qua việc quy định rõ Quyền và Nghĩa vụ của Cổ đông trong
+Điều lệ và Quy chế nội bộ về QTCT. Các tài liệu như Điều lệ, Quy chế nội bộ về QTCT, Báo cáo tài chính, Báo cáo thường
+niên và các công bố thông tin khác đều đã được đăng tải đầy đủ, rõ ràng và minh bạch trên Website chính thức của Công
+ty, UBCKNN và HoSE, giúp cổ đông và các nhà đầu tư dễ dàng tiếp cận các thông tin một cách chính xác, kịp thời.
+Các quyền cơ bản của cổ đông gồm:
+1. Tham dự, phát biểu và biểu quyết tại ĐHĐCĐ; uỷ quyền tham dự theo quy định
+2. Nhận cổ tức và các lợi ích hợp pháp khác tương ứng với tỷ lệ sở hữu cổ phần.
+3. Ưu tiên mua cổ phần mời chào bán; tự do chuyển nhượng cổ phần theo Điều lệ và Pháp luật
+4.  Được cung cấp, tiếp cận và tra cứu các thông tin liên quan đến Hoạt động, Quản trị và Tài chính của Công ty.
+5. Đề cử, Ứng cử và bầu thành viên Hội đồng Quản trị, Ban Kiểm soát; Biểu quyết các vấn đề quan trọng của Công ty.
+6. Yêu cầu bảo vệ Quyền và Lợi ích hợp pháp
+Năm 2025, Gemadept đã thực hiện tổ chức Đại hội đồng cổ đông thường niên vào ngày 24/06/2025. Các trình tự thủ
+tục tổ chức Đại hội đã được công ty thực hiện theo đúng quy định pháp luật nhằm đảm bảo quyền và lợi ích tối đa cho
+Cổ đông.
+Thời điểm
+Nội dung thực hiện
+Ghi chú
+CBTT ngày chốt danh sách cổ đông tham dự
+ĐHĐCĐ
+CBTT trước 21 ngày so với ngày đăng ký cuối cùng là
+Gửi thư mời và giấy ủy quyền tham dự ĐH
+cho cổ đông bằng phương thức đảm bảo
+Thông báo mời họp ĐHĐCĐ được gửi đến cổ đông trước
+21 ngày trước ngày khai mạc,
+Công bố tài liệu ĐHĐCĐ 2025
+CBTT trước 21 ngày khai mạc Đại hội là ngày 24/06/2025
+Thông tin về ứng viên TV HĐQT
+CBTT tối thiểu trước 10 ngày khai mạc Đại hội
+Tổ chức ĐHĐCĐ thường niên
+Biên bản họp và Nghị quyết ĐHĐCĐ được
+đăng tải song ngữ trên Website
+CBTT trong vòng 24h kể từ khi bế mạc Đại hội
+Nội dung nghị quyết Đại hội đồng cổ đông thường niên ngày 24/06/2025 thông qua gồm các nội dung như sau:
+1. 	Báo cáo của Hội đồng Quản trị năm 2024
+2. 	Báo cáo của Ban Kiểm soát năm 2024
+4. 	Phương án phân phối lợi nhuận năm 2024
+5. 	Kế hoạch sản xuất kinh doanh năm 2025
+7. 	Báo cáo về việc sử dụng số tiền thu được từ đợt chào bán cổ phiếu ra công chúng cho cổ đông hiện hữu năm 2024 và
+thông qua thay đổi phương án sử dụng số tiền thu được từ đợt chào bán còn lại chưa sử dụng
+8. 	Phương án Công ty mua lại cổ phiếu của chính mình để giảm vốn điều lệ
+9. 	Miễn nhiệm thành viên Hội đồng Quản trị
+10. Bầu cử thay thế thành viên Hội đồng Quản trị nhiệm kỳ 2023 - 2028
 GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-169
 GEMADEPT CORPORATION
+CHƯƠNG I: GẮN KẾT GIÁ TRỊ
+CHƯƠNG III: KIẾN TẠO TẦM NHÌN
+CHƯƠNG II: CỘNG HƯỞNG SỨC MẠNH
 
-Báo cáo lưu chuyển tiền tệ hợp nhất (tiếp theo)
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
- Năm nay 
- Năm trước 
-III.
-Lưu chuyển tiền từ hoạt động tài chính
-1.
-Tiền thu từ phát hành cổ phiếu, nhận vốn 
-góp của chủ sở hữu
-31
-V.27
- 125.125.000.000 
-3.059.191.384.000 
-2.
-Tiền trả lại vốn góp cho các chủ sở hữu, mua 
-lại cổ phiếu của doanh nghiệp đã phát hành
-32
- - 
- - 
-3.
-Tiền thu từ đi vay
-33
- 1.365.696.151.745 
- 744.046.826.557 
-4.
-Tiền trả nợ gốc vay
-34
- (1.280.129.503.772)
- (523.609.783.285)
-5.
-Tiền trả nợ gốc thuê tài chính
-35
- (21.293.692)
- (24.932.567.969)
-6.
-Cổ tức, lợi nhuận đã trả cho chủ sở hữu
-36
-V.22a; V.27
- (1.314.588.058.559)
- (916.107.445.304)
-Lưu chuyển tiền thuần từ hoạt động tài chính
-40
- (1.103.917.704.278)
-2.338.588.413.999 
-Lưu chuyển tiền thuần trong năm
-50
- (2.346.044.915.967)
-2.489.688.945.355 
-Tiền và tương đương tiền đầu năm
-60
-V.1
- 3.964.316.764.607 1.471.676.297.950 
-Ảnh hưởng của thay đổi tỷ giá hối đoái 
-quy đổi ngoại tệ
-61
- 4.022.990.130 
- 2.951.521.302 
-Tiền và tương đương tiền cuối năm
-70
-V.1
- 1.622.294.838.770 3.964.316.764.607 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
-Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 - Theo phương pháp gián tiếp
-Đơn vị tính: VND
-CHỈ TIÊU
-Mã
-số
-Thuyết
-minh
- Năm nay 
- Năm trước 
-I.
-Lưu chuyển tiền từ hoạt động kinh doanh
-1.
-Lợi nhuận trước thuế
-01
- 2.520.827.146.590  2.098.590.309.616 
-2.
-Điều chỉnh cho các khoản:
--
-Khấu hao tài sản cố định và bất động sản đầu tư
-02
-V.10; V.11;
-V.12; V.15
- 415.219.036.556 
- 405.544.194.113 
--
-Các khoản dự phòng
-03
-V.2; V.7; V.24
- (14.128.589.765)
- 102.796.790.751 
--
-Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại
-các khoản mục tiền tệ có gốc ngoại tệ
-04
-VI.3
- (10.877.884.553)
- (4.658.386.010)
--
-Lãi, lỗ từ hoạt động đầu tư
-05
- (945.387.787.283)
- (823.434.453.484)
--
-Chi phí lãi vay
-06
-VI.4
- 112.580.748.513 
- 139.487.501.839 
--
-Các khoản điều chỉnh khác
-07
- - 
- - 
-3.
-Lợi nhuận từ hoạt động kinh doanh
-trước thay đổi vốn lưu động
-08
- 2.078.232.670.058  1.918.325.956.825 
--
-Tăng, giảm các khoản phải thu
-09
- 344.753.071.999 
- 151.701.348.565 
--
-Tăng, giảm hàng tồn kho
-10
- (9.058.127.008)
- (11.919.647.669)
--
-Tăng, giảm các khoản phải trả 
-11
- 278.103.091.855 
- (34.738.738.791)
--
-Tăng, giảm chi phí trả trước
-12
- (93.984.329.081)
- (74.648.483.580)
--
-Tăng, giảm chứng khoán kinh doanh
-13
- 20.067.290.650 
- 11.421.290.740 
--
-Tiền lãi vay đã trả
-14
-V.20; VI.4
- (116.338.008.707)
- (141.493.134.412)
--
-Thuế thu nhập doanh nghiệp đã nộp
-15
-V.18
- (243.715.221.798)
- (241.989.987.693)
--
-Tiền thu khác từ hoạt động kinh doanh
-16
- - 
- - 
--
-Tiền chi khác cho hoạt động kinh doanh
-17
- (116.037.877.180)
- (49.836.052.180)
-Lưu chuyển tiền thuần từ hoạt động kinh doanh
-20
- 2.142.022.560.788  1.526.822.551.805 
-II.
-Lưu chuyển tiền từ hoạt động đầu tư
-1.
-Tiền chi để mua sắm, xây dựng tài sản cố định và 
-các tài sản dài hạn khác
-21
-V.10; V.12; 
-V.13; VII
-(1.676.123.112.351) (1.479.931.826.076)
-2.
-Tiền thu từ thanh lý, nhượng bán tài sản cố định và 
-các tài sản dài hạn khác
-22
-V.10;
-VI.7; VII
- 4.193.338.872 
- 12.589.305.217 
-3.
-Tiền chi cho vay, mua các công cụ nợ của
-đơn vị khác
-23
-V.2b; V.5
-(4.075.296.210.765) (1.381.300.000.000)
-4.
-Tiền thu hồi cho vay, bán lại các công cụ nợ của 
-đơn vị khác
-24
-V.2b; V.5
- 2.329.000.000.000 
- 946.206.072.057 
-5.
-Tiền chi đầu tư góp vốn vào đơn vị khác
-25
- (386.519.952.418)
- (132.146.062.400)
-6.
-Tiền thu hồi đầu tư góp vốn vào đơn vị khác
-26
- - 
- 369.529.075.758 
-7.
-Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia
-27
-V.2c; 
-VI.3; VII
- 420.596.164.185 
- 289.331.414.995 
-Lưu chuyển tiền thuần từ hoạt động đầu tư
-30
-(3.384.149.772.477) (1.375.722.020.449)
-170
-BÁO CÁO THƯỜNG NIÊN 2025
+Tại ĐHĐCĐ thường niên, tất cả các thành viên HĐQT, Ban Kiểm soát và Ban Tổng Giám đốc đều tham dự. Các nội dung
+được thông qua tại Nghị quyết ĐHĐCĐ đều được triển khai theo đúng kế hoạch. Việc giám sát và theo dõi tình hình thực
+hiện được Ban Tổng Giám đốc thực hiện định kỳ, với báo cáo cập nhật hàng quý trình HĐQT, đảm bảo công khai, minh
+bạch và kịp thời báo cáo tại kỳ họp ĐHĐCĐ thường niên gần nhất.
+Theo điều lệ hiện hành, Gemadept cho phép tổ chức ĐHĐCĐ theo mô hình trực tuyến hoặc kết hợp trực tiếp và trực tuyến
+nhằm tạo điều kiện thuận lợi cho cổ đông. Tuy nhiên, hiện tại Gemadept vẫn đang duy trì hình thức tổ chức trực tiếp và
+chưa áp dụng thực hiện Đại hội trực tuyến. Trong thời gian tới, Gemadept sẽ xem xét ứng dụng công nghệ, chuyển đổi số
+vào công tác tổ chức ĐHĐCĐ, nhằm nâng cao tính chuyên nghiệp, minh bạch và tạo điều kiện để cổ đông ở xa dễ dàng
+tham gia và thực hiện quyền lợi.
+A.3 Thị trường giao dịch thâu tóm công ty phải được phép hoạt động một cách hiệu quả và minh bạch.
+Trong 5 năm gần nhất, Gemadept đã thực hiện một số giao dịch chuyển nhượng vốn, bao gồm chuyển nhượng toàn
+bộ cổ phần Cảng Nam Hải và Cảng Nam Hải Đình Vũ và nhận chuyển nhượng cổ phần của Công ty CP Dịch vụ Cảng Hải
+Minh. Trong suốt quá trình thực hiện, Gemadept đã thực hiện đầy đủ các quy định về đầu tư và thoái vốn. Thực hiện làm
+việc lựa chọn và thuê các tổ chức tư vấn độc lập, có uy tín để thẩm định giá trị giao dịch, việc này nhằm đảm bảo các giao
+dịch được thực hiện minh bạch, tuân thủ pháp luật, tối ưu giá trị và bảo vệ lợi ích kinh tế cho tất cả các cổ đông. Thông
+tin chi tiết về việc chuyển nhượng cổ phần đã được công bố rõ ràng, minh bạch trên Website Công ty theo đúng yêu cầu
+pháp luật hiện hành.
+A.4 Cần tạo điều kiện thực hiện quyền sở hữu cho mọi cổ đông, bao gồm các nhà đầu tư
+Tại Gemadept, Bộ phận Quan hệ Nhà đầu tư (IR) đóng vai trò là đầu mối tiếp nhận và phản hồi các thắc mắc, ý kiến từ cổ
+đông và nhà đầu tư thông qua email, điện thoại, các cuộc họp trao đổi trực tiếp & trực tuyến... Thông tin liên lạc của bộ
+phận được công bố minh bạch trên Báo cáo thường niên và Website công ty, nhằm tạo điều kiện thuận lợi cho cổ đông
+tiếp cận và trao đổi thông tin.
+•	 Gemadept cam kết luôn công bố thông tin song ngữ (Tiếng Việt và Tiếng Anh) để cổ đông, nhà đầu tư nước ngoài có
+thể cập nhật được thông tin nhanh nhất, thuận tiện nhất.
+•	 Gemadept duy trì các kênh công bố thông tin bằng nhiều hình thức như:
+Trên website của Công ty tại đường dẫn: http://www.gemadept.com.vn
+Trên website của HoSE tại đường dẫn: https://www1.hsx.vn/vi/quan-ly-niem-yet/co-phieu/gmd/2163
+Trên các phương tiện truyền thông đại chúng, các báo, đài...
+Thông qua các Đại hội và các cuộc họp giữa Ban lãnh đạo Công ty với các cổ đông, nhà đầu tư
+Thông qua Phòng Quan hệ Công chúng và Nhà đầu tư:
+Trụ sở chính: Lầu 21, số 6 Lê Thánh Tôn, Phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam
+Email: gmd.ir@gemadept.com.vn
+Trang quan hệ cổ đông tại đường dẫn: https://www.gemadept.com.vn/co-dong/
+A.5 Cổ phiếu và quyền biểu quyết
+Hiện nay, Gemadept chỉ phát hành một loại cổ phiếu duy nhất là cổ phiếu phổ thông. Mỗi cổ phần ở hữu hoặc được đại
+diện sở hữu tương ứng với một quyền biểu quyết tại Đại hội đồng cổ đông. Quy định này được nêu rõ ràng trong Quy chế
+tổ chức ĐHĐCĐ và được áp dụng thống nhất tại tất cả các kỳ Đại hội.
+A.6 Thông báo của ĐHĐCĐ
+Năm 2025, Gemadept đã thực hiện công bố đầy đủ tài liệu họp ĐHĐCĐ trên Website Công ty trước 21 ngày so với ngày
+ngày tổ chức Đại hội, gồm: Thư mời họp kèm nội dung Chương trình; Giấy xác nhận/ Ủy quyền tham dự; Báo cáo của HĐQT;
+Báo cáo của Ban Kiểm soát; Nội dung các tờ trình; Dự thảo nghị quyết Đại hội và các tài liệu liên quan khác. Việc công bố
+theo đúng thời hạn quy định đảm bảo cổ đông có thời gian tiếp cận và chuẩn bị tham gia Đại hội đầy đủ, hiệu quả.
+Thông tin chi tiết về ĐHĐCĐ 2025 ngày 24/06/2025, vui lòng tham khảo tại mục A.2
+A.7 Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân
+•	 Đối với Người nội bộ của Công ty và người có liên quan của các đối tượng này (sau đây gọi chung là người có liên quan)
+phải CBTT, báo cáo trước và sau khi thực hiện giao dịch cho UBCKNN, SGDCK và Công ty khi thực hiện giao dịch mua/
+bán cổ phiếu.
+•	 Trước ngày dự kiến thực hiện giao dịch tối thiểu ba (03) ngày làm việc, người nội bộ và người có liên quan phải CBTT
+về việc dự kiến giao dịch.
+•	 Thời hạn thực hiện giao dịch không được quá ba mươi (30) ngày, kể từ ngày đăng ký thực hiện giao dịch. Người nội bộ
+và người có liên quan phải thực hiện theo thời gian, khối lượng, giá trị do SGDCK đã CBTT và chỉ được thực hiện giao
+dịch đầu tiên vào ngày giao dịch liền sau ngày có thông tin công bố từ SGDCK.
+•	 Người nội bộ và người có liên quan không được đăng ký mua và bán cổ phiếu đồng thời trong cùng một giao dịch; chỉ
+được đăng ký giao dịch tiếp theo sau khi đã hoàn tất và báo cáo kết quả đợt giao dịch trước.
+•	 Trong thời hạn năm (05) ngày làm việc, kể từ ngày hoàn tất giao dịch (trường hợp giao dịch kết thúc trước thời hạn đăng
+ký) hoặc kết thúc thời hạn dự kiến giao dịch, người nội bộ và người có liên quan phải CBTT về kết quả giao dịch đồng
+thời giải trình nguyên nhân không thực hiện được giao dịch hoặc không thực hiện hết khối lượng đăng ký (nếu có).
+Trong năm 2025, Người nội bộ và người có liên quan đã thực hiện đầy đủ nghĩa vụ công bố thông tin liên quan đến giao
+dịch cổ phiếu Gemadept theo quy định của Pháp luật và Điều lệ Công ty. Công ty không ghi nhận trường hợp vi phạm
+nghĩa vụ công bố thông tin liên quan đến giao dịch cổ phiếu của người nội bộ trong năm.
+A.8 Giao dịch với các bên liên quan của thành viên HĐQT và các cán bộ chủ chốt.
+Trong năm 2025, Công ty cam kết mọi giao dịch với các bên liên quan của thành viên HĐQT và BĐH là hợp lý và theo cơ
+chế thị trường, công khai, minh bạch và phục vụ lợi ích tốt nhất của Công ty và Cổ đông. Ngoài ra, tất cả các giao dịch của
+các bên liên quan đều được trình bày tại thuyết minh của Báo cáo tài chính bán niên và cả năm 2025. Báo cáo tài chính
+kiểm toán năm 2025 đều được trình cho toàn bộ thành viên HĐQT xem xét và trình cho ĐHĐCĐ thường niên thông qua.
+Công ty không hỗ trợ khoản vay cho các thành viên HĐQT và các cán bộ chủ chốt. Chi tiết được quy định tại Khoản 4 Điều
+41 Điều lệ Công ty về Trách nhiệm trung thực và tránh các xung đột về quyền lợi: “Trừ trường hợp Đại hội đồng cổ đông
+có quyết định khác, Công ty không được cấp các khoản vay hoặc bảo lãnh cho các thành viên Hội đồng quản trị, thành
+viên Ban Kiểm soát, Tổng Giám đốc, người điều hành khác và các cá nhân, tổ chức có liên quan tới các thành viên nêu trên
+hoặc pháp nhân mà những người này có các lợi ích tài chính trừ trường hợp công ty đại chúng và tổ chức có liên quan
+tới thành viên này là các công ty trong cùng tập đoàn hoặc các công ty hoạt động theo nhóm công ty, bao gồm công ty
+mẹ - công ty con, tập đoàn kinh tế và pháp luật chuyên ngành có quy định khác.”
+Tham khảo Bảng giao dịch của người nội bộ và người có liên quan đối với cổ phiếu của Công ty tại Báo cáo thường niên này.
 GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-171
 GEMADEPT CORPORATION
-
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Đơn vị tính: VND
-Phụ lục 01: Giá trị phần sở hữu của Tập đoàn tại các công ty liên doanh, 
-liên kết
-Giá trịphần sở 
-hữu đầu năm
-Góp vốn / 
-Mua phần vốn góp 
-trong năm
-Phần lãi hoặc 
-lỗ trong năm
-Cổ tức, lợi 
-nhuận được 
-chia trong năm 
- Tăng khác 
-Giá trị 
-phần sở hữu
-cuối năm
-Công ty Cổ phần Cảng Cái Mép Gemadept - Terminal Link
-2.127.152.713.492 
- - 
- 826.810.008.789 
- - 
- - 
-2.953.962.722.281 
-Công ty Cổ phần Dịch vụ Hàng hóa Sài Gòn 
- 625.167.544.691 
- - 
- 258.588.009.500 
- (203.468.094.500)
- 2.510.910.037 
- 682.798.369.728 
-Công ty TNHH CJ Gemadept Logistics Holdings
- 414.357.797.641 
- - 
- 46.182.300.176 
- - 
- 515.550 
- 460.540.613.367 
-Công ty Cổ phần Phát triển Sài Gòn
- 128.903.222.578 
- - 
- 9.540.699.657 
- (9.995.920.000)
- - 
- 128.448.002.235 
-Công ty TNHH Tiếp vận “K” Line - Gemadept 
- 125.483.503.044 
- - 
- 6.804.271.064 
- (11.000.000.000)
- (1)
- 121.287.774.107 
-Công ty TNHH CJ Gemadept Shipping Holdings
- 170.705.153.939 
- - 
- 4.373.062.675 
- - 
- - 
- 175.078.216.614 
-Công ty TNHH Golden Globe
- 95.428.342.707 
- - 
- (1.999.460.334)
- - 
- - 
- 93.428.882.373 
-Công ty Cổ phần Tư vấn Đầu tư Y tế Phú Hưng
- - 
- 82.350.000.000 
- 631.473.941 
- - 
- - 
- 82.981.473.941 
-Công ty TNHH Thương mại Quả Cầu Vàng
- 81.928.177.451 
- - 
- 3.941.454.734 
- - 
- - 
- 85.869.632.185 
-Công ty Cổ phần Liên hợp Thực phẩm 
- 23.846.933.822 
- - 
- 214.708.214 
- - 
- - 
- 24.061.642.036 
-Công ty TNHH JinJiang Shipping Logistics (Việt Nam)
- - 
- 7.750.000.000 
- 535.046.084 
- - 
- - 
- 8.285.046.084 
-Các công ty liên doanh, liên kết khác
- 12.234.607.068 
- - 
- 2.037.803.447 
- (2.989.020.000)
- 77.232.330 
- 11.360.622.845 
-Cộng
-3.805.207.996.433 
- 90.100.000.000 
-1.157.659.377.947 
- (227.453.034.500)
- 2.588.657.916 
-4.828.102.997.796 
-	
-  
-172
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-173
-GEMADEPT CORPORATION
-
-Đơn vị tính: VND
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Phụ lục 02: Tình hình tăng, giảm chi phí xây dựng cơ bản dở dang
-Số đầu năm
-Chi phí phát sinh 
-trong năm
-Kết chuyển vào 
-TSCĐ trong năm
-Tăng khác/
-(Giảm khác) 
-Số cuối năm
-Mua sắm tài sản cố định
- 16.872.105.016 
- 128.384.763.595 
- (15.093.649.282)
- - 
- 130.163.219.329 
-Xây dựng cơ bản dở dang
- 1.701.260.673.144 
- 1.592.846.031.626 
-(1.784.199.022.486)
- (370.141.711.585)
- 1.139.765.970.699 
-	»
-Công trình khu dân cư Rạch Chiếc
- 51.165.085.825 
- - 
- 51.165.085.825 
-	»
-Dự án trồng cao su của Pacific Pride
- 724.501.976.850 
- 2.779.876.128 
- (133.167.462.878)
- 594.114.390.100 
-	»
-Dự án trồng cao su của Pacific Pearl
- 372.885.673.679 
- 1.543.345.536 
- (140.203.839.041)
- 234.225.180.174 
-	»
-Dự án trồng cao su của Pacific Lotus
- 226.631.681.641 
- 782.909.294 
- (96.958.002.259)
- 130.456.588.676 
-	»
-Dự án Cảng Nam Đình Vũ
- 326.076.255.149 
- 1.521.604.533.305 
-(1.718.602.062.530)
- - 
- 129.078.725.924 
-	»
-Các dự án khác
- - 
- 66.135.367.363 
- (65.596.959.956)
- 187.592.593 
- 726.000.000 
-Cộng
-1.718.132.778.160 
-1.721.230.795.221 
-(1.799.292.671.768)
- (370.141.711.585)
-1.269.929.190.028
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-174
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-175
-GEMADEPT CORPORATION
-
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Đơn vị tính: VND
-Phụ lục 03: Bảng đối chiếu biến động của vốn chủ sở hữu
-Vốn góp 
-của chủ sở hữu
-Thặng dư 
-vốn cổ phần
-Vốn khác 
-của chủ sở hữu 
-Chênh lệch 
-tỷ giá 
-hối đoái 
-Quỹ đầu tư 
-phát triển
-Quỹ khác 
-thuộc vốn 
-chủ sở hữu 
-Lợi nhuận
-sau thuế
-chưa phân phối 
-Lợi ích cổ đông 
-không kiểm soát 
- Cộng 
-Số dư đầu năm trước
- 3.058.985.570.000 
- 1.941.832.197.040 
- 128.097.775.902 
- 358.279.382.052 
- 61.305.100.650 
- 68.471.352.005 
- 2.963.514.009.028 
- 1.151.888.665.342 
- 9.732.374.052.019 
-Tăng vốn trong năm trước
- 1.080.840.520.000 
- 1.978.350.864.000 
- - 
- - 
- - 
- - 
- - 
- 112.450.000.000 
- 3.171.641.384.000 
-Lợi nhuận trong năm trước
- - 
- - 
- - 
- - 
- - 
- - 
- 1.455.479.595.602 
- 468.103.887.809 
- 1.923.583.483.411 
-Trích lập Quỹ đầu tư phát triển
- - 
- - 
- - 
- - 
- 210.176.297 
- - 
- (210.176.297)
- - 
- - 
-Trích lập Quỹ khen thưởng, 
-phúc lợi
- - 
- - 
- - 
- - 
- - 
- - 
- (70.198.049.883)
- (2.943.771.464)
- (73.141.821.347)
-Chia cổ tức trong năm trước
- - 
- - 
- - 
- - 
- - 
- - 
- (683.071.305.400)
- (375.542.174.454)
- (1.058.613.479.854)
-Thoái vốn Cảng Nam Hải, chênh 
-lệch tỷ giá và các điều chỉnh khác
- - 
- - 
- - 
- 73.088.843.663 
- 11.377.000.146 
- 3.910.484.567 
- (48.374.153.560)
- 36.080.209.511 
- 76.082.384.327 
-Số dư cuối năm trước
-4.139.826.090.000 3.920.183.061.040 
- 128.097.775.902 
- 431.368.225.715 
- 72.892.277.093 
- 72.381.836.572 
- 3.617.139.919.490 
- 1.390.036.816.744 13.771.926.002.556 
-Số dư đầu năm nay
- 4.139.826.090.000 
- 3.920.183.061.040 
- 128.097.775.902 
- 431.368.225.715 
- 72.892.277.093 
- 72.381.836.572 
- 3.617.139.919.490 
- 1.390.036.816.744 
- 13.771.926.002.556 
-Tăng vốn trong năm nay
- 125.125.000.000 
- - 
- - 
- - 
- - 
- - 
- - 
- 253.485.048.571 
- 378.610.048.571 
-Lợi nhuận trong năm nay
- - 
- - 
- - 
- - 
- - 
- - 
- 1.755.629.825.296 
- 546.893.356.056 
- 2.302.523.181.352 
-Ảnh hưởng do hợp nhất 
-kinh doanh
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- 47.321.518.255 
- 47.321.518.255 
-Ảnh hưởng do mua thêm tỷ lệ 
-sở hữu tại công ty con
- - 
- - 
- - 
- - 
- - 
- - 
- (213.692.993.458)
- (120.349.646.542)
- (334.042.640.000)
-Trích lập Quỹ đầu tư phát triển
- - 
- - 
- - 
- - 
- 229.040.347 
- - 
- (229.040.347)
- - 
- - 
-Trích lập Quỹ khen thưởng, 
-phúc lợi
- - 
- - 
- - 
- - 
- - 
- - 
- (109.657.156.671)
- (5.069.970.766)
- (114.727.127.437)
-Chia cổ tức trong năm nay
- - 
- - 
- - 
- - 
- - 
- - 
- (840.384.618.000)
- (333.890.381.059)
- (1.174.274.999.059)
-Tăng khác
- - 
- - 
- - 
- 37.087.363.828 
- - 
- - 
- 3.830.805.097 
- - 
- 40.918.168.925 
-Số dư cuối năm nay
-4.264.951.090.000 3.920.183.061.040 
- 128.097.775.902 
- 468.455.589.543 
- 73.121.317.440 
- 72.381.836.572 
- 4.212.636.741.407 
- 1.778.426.741.259 14.918.254.153.163
- 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-176
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-177
-GEMADEPT CORPORATION
-
-Đơn vị tính: VND
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Phụ lục 04: Thông tin về bộ phận theo lĩnh vực kinh doanh
-Thông tin về kết quả kinh doanh, tài sản cố định và các tài sản dài hạn khác và giá trị các khoản chi phí lớn không bằng 
-tiền của bộ phận theo lĩnh vực kinh doanh của Tập đoàn như sau:
-Lĩnh vực 
-khai thác cảng
-Lĩnh vực 
-logistics
-Lĩnh vực 
-kinh doanh 
-bất động sản
-Lĩnh vực 
-trồng cao su
-Các khoản 
-loại trừ
-Cộng
-Năm nay
-Doanh thu thuần về bán hàng và cung cấp dịch vụ ra 
-bên ngoài
- 5.254.227.610.298 
- 693.740.570.360 
- 8.057.116.357 
- - 
- 5.956.025.297.015 
-Doanh thu thuần về bán hàng và cung cấp dịch vụ giữa 
-các bộ phận
- 1.429.799.688.623 
- 1.007.902.447.592 
- - 
- (2.437.702.136.215)
- - 
-Tổng doanh thu thuần về bán hàng và cung cấp dịch vụ
- 6.684.027.298.921 
- 1.701.643.017.952 
- 8.057.116.357 
- - 
- (2.437.702.136.215)
- 5.956.025.297.015 
-Kết quả kinh doanh theo bộ phận
- 1.880.805.282.178 
- 133.915.526.195 
- 8.057.116.357 
-(71.760.034.886)
- (304.055.411.497)
- 1.646.962.478.347 
-Các chi phí không phân bổ theo bộ  phận
- - 
-Lợi nhuận từ hoạt động kinh doanh
- 1.646.962.478.347 
-Doanh thu hoạt động tài chính
- 228.485.206.429 
-Chi phí tài chính
- (118.711.817.693)
-Thu nhập khác
- 44.918.432.856 
-Chi phí khác
- (438.486.531.296)
-Phần lãi hoặc lỗ trong công ty liên kết, 
-liên doanh
- 836.982.182.387 
- 318.735.201.160 
- 1.941.994.400 
- - 
- - 
- 1.157.659.377.947 
-Chi phí thuế thu nhập doanh nghiệp hiện hành
- (329.165.841.663)
-Chi phí thuế thu nhập doanh nghiệp hoãn lại
- 110.861.876.425 
-Lợi nhuận sau thuế thu nhập doanh nghiệp
- 2.302.523.181.352 
-Tổng chi phí đã phát sinh để mua tài sản cố định và các tài 
-sản dài hạn khác
- 1.741.756.842.936 
- 160.078.007.064 
- - 
- 5.864.369.067 
-  - 
- 1.907.699.219.067 
-Tổng chi phí khấu hao và phân bổ chi phí trả trước dài hạn
- 411.297.383.858 
- 110.527.865.260 
- - 
- 8.431.799.092 
-  - 
- 530.257.048.210 
-Tổng giá trị các khoản chi phí lớn không bằng tiền (trừ chi 
-phí khấu hao và phân bổ chi phí trả trước dài hạn)
- - 
- - 
- - 
- - 
- - 
- -
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-178
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-179
-GEMADEPT CORPORATION
-
-Đơn vị tính: VND
- Phụ lục 04: Thông tin về bộ phận theo lĩnh vực kinh doanh (tiếp theo)
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-Lĩnh vực 
-khai thác cảng
-Lĩnh vực 
-logistics
-Lĩnh vực 
-kinh doanh 
-bất động sản
-Lĩnh vực 
-trồng cao su
-Các khoản 
-loại trừ
-Cộng
-Năm trước
-Doanh thu thuần về bán hàng và cung cấp dịch vụ ra 
-bên ngoài
- 4.190.786.438.367 
- 630.775.427.198 
- 10.462.933.396 
- - 
- 4.832.024.798.961 
-Doanh thu thuần về bán hàng và cung cấp dịch vụ giữa 
-các bộ phận
- 1.198.412.905.983 
- 296.968.641.047 
- - 
- (1.495.381.547.030)
- - 
-Tổng doanh thu thuần về bán hàng và cung cấp dịch vụ
- 5.389.199.344.350 
- 927.744.068.245 
- 10.462.933.396 
- - 
- (1.495.381.547.030)
- 4.832.024.798.961 
-Kết quả kinh doanh theo bộ phận
- 1.556.965.666.237 
- 60.162.135.279 
- 10.462.933.396 
- (65.613.065.198)
- (248.536.072.385)
- 1.313.441.597.329 
-Các chi phí không phân bổ theo bộ  phận
- - 
-Lợi nhuận từ hoạt động kinh doanh
- 1.313.441.597.329 
-Doanh thu hoạt động tài chính
- 426.126.464.636 
-Chi phí tài chính
- (150.292.456.722)
-Thu nhập khác
- 262.198.327.915 
-Chi phí khác
- (582.192.046.534)
-Phần lãi hoặc lỗ trong công ty liên kết, liên doanh
- 549.532.716.207 
- 277.453.940.289 
- 2.321.766.496 
- - 
- - 
- 829.308.422.992 
-Chi phí thuế thu nhập doanh nghiệp hiện hành
- (236.733.263.089)
-Chi phí thuế thu nhập doanh nghiệp hoãn lại
- 61.726.436.884 
-Lợi nhuận sau thuế thu nhập doanh nghiệp
- 1.923.583.483.411 
-Tổng chi phí đã phát sinh để mua tài sản cố định và các tài 
-sản dài hạn khác
- 1.522.398.903.761 
- 59.806.235.717 
- - 
- 13.772.171.240 
-  - 
- 1.595.977.310.718 
-Tổng chi phí khấu hao và phân bổ chi phí trả trước dài hạn
- 649.095.959.755 
- 135.522.026.384 
- - 
- 16.214.285.500 
-  - 
- 800.832.271.639 
-Tổng giá trị các khoản chi phí lớn không bằng tiền (trừ chi 
-phí khấu hao và phân bổ chi phí trả trước dài hạn)
- - 
- - 
- - 
- - 
- - 
- - 
-180
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-181
-GEMADEPT CORPORATION
-
-TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2026
-Nguyễn Ngọc Sơn
-Khoa Năng Lưu
-Nguyễn Thanh Bình
-Người lập
-Kế toán trưởng
-Tổng Giám đốc
-Đơn vị tính: VND
-Phụ lục 04: Thông tin về bộ phận theo lĩnh vực kinh doanh (tiếp theo)
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-Tài sản và nợ phải trả của bộ phận theo lĩnh vực kinh doanh của Tập đoàn như sau:	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-Lĩnh vực 
-khai thác cảng
-Lĩnh vực 
-logistics
-Lĩnh vực 
-kinh doanh 
-bất động sản
-Lĩnh vực 
-trồng cao su
-Các khoản 
-loại trừ
-Cộng
-Số cuối năm
-Tài sản trực tiếp của bộ phận
-10.223.434.695.692 
- 6.966.691.976.226 
- 170.030.498.784 
- 2.073.498.042.726 
- - 
- 19.433.655.213.428 
-Tài sản phân bổ cho bộ phận
- - 
- - 
- - 
- - 
- - 
- - 
-Các tài sản không phân bổ theo bộ phận
- 392.746.162.149 
-Tổng tài sản
-19.826.401.375.577 
-Nợ phải trả trực tiếp của bộ phận
- 3.249.085.020.242 
- 534.270.092.586 
- - 
- 1.032.125.515.833 
- - 
- 4.815.480.628.661 
-Nợ phải trả phân bổ cho bộ phận
- - 
- - 
- - 
- - 
- - 
- - 
-Nợ phải trả không phân bổ theo bộ phận
- 92.666.593.753 
-Tổng nợ phải trả
- 4.908.147.222.414 
-Số đầu năm
-Tài sản trực tiếp của bộ phận
- 7.887.944.289.499 
- 7.216.949.314.433 
- 159.377.455.866 
- 2.450.084.840.505 
- - 
-17.714.355.900.303 
-Tài sản phân bổ cho bộ phận
- - 
- - 
- - 
- - 
- - 
- - 
-Các tài sản không phân bổ theo bộ phận
- 283.497.412.414 
-Tổng tài sản
- 17.997.853.312.717 
-Nợ phải trả trực tiếp của bộ phận
- 2.610.005.694.494 
- 680.072.554.907 
- - 
- 880.470.369.535 
- - 
- 4.170.548.618.936 
-Nợ phải trả phân bổ cho bộ phận
- - 
- - 
- - 
- - 
- - 
- - 
-Nợ phải trả không phân bổ theo bộ phận
- 55.378.691.225 
-Tổng nợ phải trả
- 4.225.927.310.161
-182
-BÁO CÁO THƯỜNG NIÊN 2025
-GEMADEPT - GẮN KẾT ĐỂ VƯƠN XA
-183
-GEMADEPT CORPORATION
-
-CÔNG TY CỔ PHẦN GEMADEPT
-Lầu 21 - Số 6 Lê Thánh Tôn, Phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam
-Hotline: (84 - 28) 38 236 236	
-	
-Fax: (84 - 28) 38 235 236
-Email: info@gemadept.com.vn	 	
-Website: www.gemadept.com.vn
+CHƯƠNG I: GẮN KẾT GIÁ TRỊ
+CHƯƠNG III: KIẾN TẠO TẦM NHÌN
+CHƯƠNG II: CỘNG HƯỞNG SỨC MẠNH
