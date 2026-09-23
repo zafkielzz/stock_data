@@ -28,12 +28,22 @@ class FinancialReportExtractor:
             'danh sách cổ đông', 'sơ yếu lý lịch', 'quản trị công ty'
         ]
 
-        # Bộ từ khóa nhận diện phần ESG
+        # Bộ từ khóa nhận diện phần ESG toàn diện (Theo chuẩn GRI, HOSE VNSI, Net-Zero, SDGs)
         self.esg_positive_kw = [
-            'báo cáo esg', 'phát triển bền vững', 'phát thải khí nhà kính', 
-            'môi trường, xã hội', 'môi trường và xã hội', 'năng lượng tái tạo', 
-            'tiêu chuẩn lao động', 'báo cáo phát triển bền vững', 'trách nhiệm xã hội',
-            'quản trị môi trường', 'tiết kiệm năng lượng', 'báo cáo tác động môi trường'
+            # Môi trường (Environmental)
+            'báo cáo esg', 'phát triển bền vững', 'báo cáo phát triển bền vững',
+            'phát thải khí nhà kính', 'khí nhà kính', 'giảm phát thải', 'net zero', 'trung hòa carbon',
+            'scope 1', 'scope 2', 'scope 3', 'dấu chân carbon', 'tín chỉ carbon',
+            'năng lượng tái tạo', 'năng lượng mặt trời', 'tiết kiệm năng lượng', 'hiệu quả năng lượng',
+            'kinh tế tuần hoàn', 'tái chế chất thải', 'xử lý nước thải', 'chất thải nguy hại',
+            'bảo tồn đa dạng sinh học', 'môi trường và xã hội', 'môi trường, xã hội', 'quản trị môi trường',
+            # Xã hội (Social)
+            'trách nhiệm xã hội', 'an toàn vệ sinh lao động', 'an toàn lao động', 'sức khỏe nghề nghiệp',
+            'bình đẳng giới', 'tỷ lệ lao động nữ', 'phát triển nguồn nhân lực', 'giờ đào tạo',
+            'chế độ phúc lợi', 'tiêu chuẩn lao động', 'hoạt động cộng đồng', 'an sinh xã hội',
+            # Quản trị & Tiêu chuẩn (Governance & Standards)
+            'quản trị công ty', 'đạo đức kinh doanh', 'chống tham nhũng', 'chống hối lộ', 'quy tắc ứng xử',
+            'chuẩn mực gri', 'tiêu chuẩn gri', 'chỉ số vnsi', 'mục tiêu phát triển bền vững', 'sdgs'
         ]
 
         # Trang loại trừ trong Thuyết minh (BCTC chính & Báo cáo kiểm toán)

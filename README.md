@@ -32,6 +32,7 @@ CapstoneProject/
 ├── download_market_data.py          # Script tự động tải giá OHLCV 5 năm và Chỉ số BCTC từ Vnstock
 ├── extract_financial_text.py        # Module thuật toán Page-Scoring tự động bóc tách MD&A, Thuyết minh BCTC, ESG
 ├── download_and_extract_reports.py  # Script tải BCTN và bóc tách tự động cho toàn bộ danh mục cổ phiếu
+├── summarize_financial_reports.py   # Pipeline Tóm tắt Tài chính Lai (Hybrid Summarizer: Số API + Text LLM)
 ├── extract_bctc_sample.py          # Script mẫu kiểm tra kết nối Vnstock và nhận diện PDF scan/digital
 │
 └── data/
@@ -40,8 +41,10 @@ CapstoneProject/
     │   ├── all_stocks_prices.parquet        # Bản nén đọc siêu tốc cho PyTorch DataLoader (1.45 MB)
     │   ├── all_stocks_ratios.csv            # Chỉ số tài chính quý (P/E, EPS, ROE, Margin...) (237 KB)
     │   ├── all_stocks_ratios.parquet        # Bản Parquet chỉ số BCTC (55 KB)
-    │   ├── all_stocks_financial_texts.csv   # Toàn bộ văn bản BCTN 2021-2025 (>5.99M từ, 133 báo cáo, 35.49 MB)
-    │   ├── all_stocks_financial_texts.parquet # Bản Parquet văn bản tài chính (15.17 MB)
+    │   ├── all_stocks_financial_texts.csv   # Toàn bộ văn bản BCTN 2021-2025 (>4.37M từ sạch, 133 báo cáo)
+    │   ├── all_stocks_financial_texts.parquet # Bản Parquet văn bản tài chính (10.89 MB)
+    │   ├── all_stocks_summaries.csv         # Các bản tóm tắt định tính chuẩn mực (Hybrid Grounded Summaries)
+    │   ├── all_stocks_summaries.parquet     # Bản Parquet tóm tắt tài chính chuẩn cho Text Encoder
     │   ├── all_stocks_quarterly_texts.csv   # Văn bản BCTC & Giải trình các quý lẻ năm 2026 (Q1 & Q2/2026)
     │   ├── all_stocks_quarterly_texts.parquet # Bản Parquet văn bản quý lẻ 2026
     │   └── all_stocks_reports_meta.csv      # Metadata trạng thái thu thập tài liệu từng mã

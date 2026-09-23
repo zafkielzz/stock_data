@@ -1,0 +1,32 @@
+Dưới đây là bản tóm tắt phân tích định tính chuyên sâu về Ngân hàng TMCP Á Châu (ACB) cho năm tài chính 2021 dưới góc nhìn của một Chuyên gia Phân tích Tài chính Cao cấp.
+
+***
+
+### 1. ĐỘNG LỰC KINH DOANH & BÁO CÁO BỘ PHẬN
+
+Năm 2021 ghi nhận sự bứt phá mạnh mẽ của cổ phiếu ACB với mức tăng trưởng thị giá +51.08%, đóng cửa ở mức 13,960 VND/CP (giá cao nhất đạt 15,450 VND/CP, thấp nhất 7,930 VND/CP) cùng thanh khoản khớp lệnh bình quân đạt 8,250,153 cổ phiếu/phiên. Động lực tài chính cốt lõi đằng sau đà tăng này là kết quả kinh doanh vượt trội với lợi nhuận trước thuế đạt gần 12 nghìn tỷ đồng (tăng 25% so với năm trước), giúp tỷ suất sinh lời trên vốn chủ sở hữu (ROE) đạt mức cao hàng đầu thị trường là 23.90%. 
+
+Động lực tăng trưởng cốt lõi của ACB đến từ chiến lược bán lẻ giai đoạn 2019–2024, ưu tiên mảng khách hàng cá nhân và doanh nghiệp vừa và nhỏ (SME) để hướng tới mục tiêu tăng trưởng doanh thu 20%/năm. Sự chuyển dịch mô hình kinh doanh theo hướng gia tăng tỷ trọng thu nhập từ phí ngoài lãi được thúc đẩy mạnh mẽ bởi hoạt động bảo hiểm qua ngân hàng (bancassurance) thông qua thương vụ độc quyền với Sun Life Việt Nam. Tốc độ số hóa quy trình và ứng dụng công nghệ (eKYC, nâng cấp Mobile App cá nhân, giải ngân trực tuyến qua ACB Online và ra mắt ACB Business App cho doanh nghiệp) đã giúp tiết kiệm nguồn nhân lực, tối ưu hóa vận hành và đẩy mạnh mở rộng thị phần. Ngoài ra, việc đẩy mạnh hoạt động của công ty con, đặc biệt là Công ty Chứng khoán ACB (ACBS), đã tạo nên thế mạnh toàn diện cho Tập đoàn.
+
+### 2. CƠ CẤU VỐN, NỢ VAY & LÃI SUẤT
+
+ACB duy trì cơ cấu nguồn vốn và tính thanh khoản dồi dào, giảm thiểu rủi ro dòng tiền nhờ việc tối ưu hóa danh mục tài sản sinh lời và các giao dịch thế chấp trên thị trường liên ngân hàng. Trong cơ cấu nợ vay và tài sản bảo đảm, ngân hàng thực hiện các cam kết tín dụng chặt chẽ:
+* Dùng **5,511.2 tỷ VND** tiền gửi có kỳ hạn tại các tổ chức tín dụng (TCTD) khác làm tài sản bảo đảm cho các khoản tiền gửi trị giá **5,465 tỷ VND** của các TCTD khác.
+* Công ty con ACBS sử dụng **1,435.21 tỷ VND** số dư tiền gửi có kỳ hạn tại các TCTD khác làm tài sản đảm bảo cho khoản vay trị giá **1,351.43 tỷ VND**.
+* Đối với danh mục chứng khoán Chính phủ giữ đến ngày đáo hạn, ACB đã thế chấp **10,582.875 tỷ VND** để bảo đảm cho khoản vay **10,185.801 tỷ VND** từ các TCTD khác; dùng **1,102.562 tỷ VND** thế chấp cho khoản tiền gửi của các TCTD khác trị giá **940 tỷ VND**; và thế chấp **2,172.327 tỷ VND** để bảo đảm cho việc phát hành giấy tờ có giá trị giá **2,177.016 tỷ VND**.
+
+Cơ cấu nợ vay này phản ánh khả năng tận dụng tối đa danh mục tài sản nợ chất lượng cao (đặc biệt là trái phiếu Chính phủ) để huy động nguồn vốn ngắn hạn có chi phí tối ưu, giảm thiểu rủi ro biến động lãi suất và áp lực thanh khoản hệ thống.
+
+### 3. RỦI RO DỰ PHÒNG, NỢ TIỀM TÀNG & BIẾN CỐ SAU NIÊN ĐỘ
+
+ACB kiểm soát chất lượng tín dụng ở mức an toàn cao với tỷ lệ nợ xấu chỉ **0.77%**. Về dự phòng rủi ro, ngân hàng thể hiện tính thận trọng cực kỳ cao khi trích lập đủ 100% dự phòng cụ thể bổ sung cho các khoản nợ cơ cấu do Covid-19 theo Thông tư 03. Cụ thể, trong số dư dự phòng cụ thể năm 2021 có **2,319.425 tỷ VND** dự phòng bổ sung theo Thông tư 03, trong đó có tới **2,308.667 tỷ VND** là phần trích lập bổ sung cho số dư nợ thuộc Nhóm 1 (Nợ đủ tiêu chuẩn). 
+
+Đối với rủi ro các khoản phải thu tồn đọng từ các kỳ trước, ACB đã trích lập dự phòng toàn bộ 100% (tương đương **131.905 tỷ VND**) cho khoản phải thu từ hai công ty thuộc nhóm sáu công ty liên quan đến một nguyên lãnh đạo của ngân hàng, triệt tiêu rủi ro suy giảm giá trị tài sản. Ngân hàng cũng thực hiện phân loại lại **196.29 tỷ VND** chứng khoán vốn sẵn sàng để bán sang đầu tư dài hạn khác. Hoạt động kiểm tra nội bộ được thắt chặt khi Ban Kiểm toán nội bộ thực hiện kiểm toán 80 chi nhánh và 11 chuyên đề quản trị rủi ro trọng yếu (như mức đủ vốn theo Thông tư 13, thẩm định tài sản thế chấp bất động sản, rủi ro tín dụng). 
+
+Sau niên độ, đầu năm 2022, Hội đồng quản trị đã bổ nhiệm tân Tổng giám đốc (nhân sự nội bộ gắn bó từ năm 1996) để tiếp tục thực hiện chiến lược 2019 - 2024. Mục tiêu tài chính năm 2022 được đặt ra đầy chủ động: tổng tài sản tăng 11% (đạt 588,187 tỷ VND), tiền gửi khách hàng tăng 11%, dư nợ cho vay tăng 10% (đạt 398,299 tỷ VND, có thể điều chỉnh theo phê duyệt của NHNN), lợi nhuận trước thuế Tập đoàn đạt khoảng 15,018 tỷ đồng và kiểm soát tỷ lệ nợ xấu dưới 2%.
+
+### 4. THỰC THI ESG
+
+*   **Môi trường (E):** ACB định hướng rõ ràng nghĩa vụ bảo vệ môi trường thông qua việc duy trì ngân sách tài trợ thường niên. Ngân hàng nâng tầm chiến dịch "Gần Lại O" nhằm giảm thiểu rác thải nhựa và giấy in bằng việc triển khai giải thưởng nội bộ "O-Branch" cho các chi nhánh thực thi xuất sắc nghĩa vụ môi trường tại địa phương, trở thành ngân hàng đầu tiên tại Việt Nam áp dụng cơ chế thi đua bảo vệ môi trường này.
+*   **Xã hội (S):** ACB chú trọng phát triển nguồn nhân lực qua công tác đào tạo hệ kế thừa, luân chuyển nhân sự giữa Hội sở và chi nhánh để tối ưu hiệu quả bán hàng. Chính sách nhân sự đảm bảo bình đẳng giới trong tuyển dụng, đãi ngộ cạnh tranh và chăm sóc đặc biệt cho đội ngũ trong đại dịch Covid-19 giúp ACB được vinh danh là “Nơi làm việc tốt nhất châu Á” của HR Asia trong 3 năm liên tiếp.
+*   **Quản trị (G):** Hệ thống quản trị được vận hành chặt chẽ và độc lập. Trong năm 2021, Ban kiểm soát tổ chức 5 phiên họp có quyết nghị nhằm giám sát tính tuân thủ quy định của NHNN đối với các tỷ lệ an toàn vốn và xử lý nợ xấu. Tính minh bạch được khẳng định khi không phát sinh bất kỳ giao dịch cổ phiếu ACB nào từ các thành viên HĐQT, Ban kiểm soát, Ban điều hành, đồng thời không phát sinh hợp đồng hoặc giao dịch với cổ đông nội bộ trong năm.

@@ -1,0 +1,32 @@
+Dưới đây là báo cáo tóm tắt phân tích định tính chuẩn mực dành cho Ngân hàng TMCP Công Thương Việt Nam (VietinBank - Mã: CTG) trong năm tài chính 2022 dưới góc nhìn của một Chuyên gia phân tích tài chính cao cấp.
+
+---
+
+### 1. ĐỘNG LỰC KINH DOANH & BÁO CÁO BỘ PHẬN
+
+Trong năm 2022, VietinBank vận hành trong bối cảnh vĩ mô phục hồi mạnh mẽ với tăng trưởng GDP Việt Nam đạt 8,02%. Ngân hàng đã ghi nhận kết quả kinh doanh tích cực nhờ tập trung vào các động lực tăng trưởng cốt lõi bao gồm: đẩy mạnh quy mô nguồn vốn không kỳ hạn (CASA) nhằm tối ưu hóa chi phí vốn; gia tăng tỷ trọng thu nhập ngoài lãi; tích cực khai thác hệ sinh thái bán chéo và đẩy mạnh thu hồi nợ đã xử lý rủi ro (XLRR).
+
+Ở cấp độ bộ phận, liên doanh tiêu biểu là Ngân hàng TNHH Indovina (IVB - VietinBank sở hữu 50% vốn) thể hiện sự phân hóa rõ nét trong hoạt động:
+*   **Quy mô tài sản và tín dụng:** Tổng tài sản của IVB tại thời điểm 31/12/2022 đạt 58,6 nghìn tỷ đồng (tăng 6,8% so với năm 2021). Dư nợ cho vay đạt 31,5 nghìn tỷ đồng, giảm 5% so với năm trước và chiếm tỷ trọng 53,7% tổng tài sản.
+*   **Hiệu quả sinh lời:** Tổng thu nhập của IVB đạt 2.024 tỷ đồng. Trong đó, động lực chính đến từ thu nhập lãi thuần đạt 1.717 tỷ đồng (tăng trưởng ấn tượng 22,3% so với năm 2021) và thu thuần từ hoạt động dịch vụ đạt 63 tỷ đồng (tăng 2,4%). Hiệu quả hoạt động được tối ưu hóa nhờ chi phí hoạt động giảm 2,1% (xuống còn khoảng 554 tỷ đồng), giúp lợi nhuận trước thuế của IVB tăng trưởng 8% so với năm 2021, đạt 1.069 tỷ đồng.
+
+Trên thị trường chứng khoán, dù nền tảng kinh doanh cốt lõi của CTG vững chắc, giá cổ phiếu vẫn chịu áp lực điều chỉnh mạnh do biến động tiêu cực của thị trường tài chính chung. Giá cổ phiếu CTG ghi nhận mức mở cửa đầu năm tại 20.830 VND và đóng cửa ở mức 16.480 VND (biến động giảm 20,88%), biên độ dao động mạnh từ mức thấp nhất 11.790 VND đến mức cao nhất 23.100 VND. Điểm sáng là tính thanh khoản vẫn được duy trì ở mức cao với khối lượng giao dịch khớp lệnh bình quân đạt 6.168.742 cổ phiếu/phiên, chứng tỏ sức hút của cổ phiếu đối với dòng tiền thị trường.
+
+### 2. CƠ CẤU VỐN, NỢ VAY & LÃI SUẤT
+
+Tính đến ngày 31/12/2022, vốn điều lệ của VietinBank duy trì ở mức 48.057.506 triệu VND (hơn 48.057 tỷ đồng), củng cố vững chắc năng lực tài chính và hệ số an toàn vốn (CAR) theo tiêu chuẩn của Ngân hàng Nhà nước. VietinBank sở hữu cơ cấu cổ đông đặc biệt ưu việt với sự hiện diện của MUFG Bank (Nhật Bản) – cổ đông chiến lược nước ngoài nắm giữ 19,73% cổ phần, mang lại lợi thế lớn về uy tín tín dụng toàn cầu và hỗ trợ kỹ thuật quản trị vốn.
+
+Nguồn vốn huy động của VietinBank chủ yếu bao gồm tiền gửi khách hàng và phát hành giấy tờ có giá (kỳ phiếu, trái phiếu). Để kiểm soát rủi ro lãi suất biên (NIM) trong bối cảnh biến động vĩ mô, ngân hàng chủ động quản trị cán cân tài sản Nợ - Có (ALCO), đồng thời kiểm soát chặt chẽ tỷ lệ dư nợ cho vay trên tổng vốn huy động (LDR) và tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn. Việc tăng cường huy động CASA đóng vai trò then chốt giúp VietinBank tiết giảm chi phí vốn đầu vào, giảm bớt sự phụ thuộc vào các kênh vốn liên ngân hàng nhạy cảm về lãi suất.
+
+### 3. RỦI RO DỰ PHÒNG, NỢ TIỀM TÀNG & BIẾN CỐ SAU NIÊN ĐỘ
+
+Quản trị chất lượng tài sản và kiểm soát rủi ro tín dụng là chủ điểm nền tảng hàng đầu của VietinBank. Ngân hàng áp dụng nghiêm ngặt các tiêu chuẩn phân loại nợ theo Thông tư 11/2021/TT-NHNN để trích lập dự phòng đầy đủ và chính xác cho danh mục tín dụng. Áp lực nợ xấu được kiểm soát chặt chẽ thông qua việc chủ động tái cơ cấu danh mục và tăng cường năng lực xử lý, thu hồi nợ xấu ngoại bảng.
+
+Hệ thống quản trị ghi nhận mức độ minh bạch cao khi trong năm tài chính 2022 không phát sinh bất kỳ giao dịch cổ phiếu nào của cổ đông nội bộ, cũng như không phát sinh các hợp đồng hay giao dịch bất thường với người nội bộ và các bên liên quan. Sau ngày khóa sổ niên độ 31/12/2022, ngân hàng tiếp tục kiên trì mục tiêu kiểm soát tốt tỷ lệ nợ nhóm 2 và nợ xấu, tối ưu hóa chi phí dự phòng rủi ro để bảo vệ biên lợi nhuận trước các biến động tiêu cực từ thị trường bất động sản và trái phiếu doanh nghiệp.
+
+### 4. THỰC THI ESG
+
+VietinBank tiếp tục khẳng định vị thế tiên phong trong việc triển khai các tiêu chuẩn Phát triển Bền vững (ESG):
+*   **Môi trường (E):** Ngân hàng đẩy mạnh giải ngân nguồn vốn tín dụng xanh hướng tới các dự án giảm thiểu phát thải, bảo vệ môi trường và thúc đẩy nền kinh tế tuần hoàn. Nội bộ hệ thống áp dụng các giải pháp thực hành tiết kiệm năng lượng, số hóa quy trình làm việc nhằm giảm thiểu dấu chân carbon trực tiếp.
+*   **Xã hội (S):** VietinBank duy trì trách nhiệm xã hội thông qua các chương trình an sinh xã hội quy mô lớn và bảo vệ phúc lợi cho cán bộ nhân viên. Công tác phát triển nguồn nhân lực được chuẩn hóa thông qua Trường Đào tạo và Phát triển Nguồn nhân lực VietinBank, cam kết môi trường làm việc bình đẳng, nâng cao năng suất lao động và an toàn cho người lao động.
+*   **Quản trị (G):** Báo cáo tài chính của VietinBank được kiểm toán độc lập bởi Công ty TNHH Kiểm toán Deloitte Việt Nam, đảm bảo tính khách quan và trung thực. Tính tuân thủ quản trị công ty được khẳng định khi HĐQT bổ nhiệm ông Đồng Xuân Hùng làm Người phụ trách quản trị công ty mới từ ngày 18/10/2022. Ngoài ra, tính kỷ luật tài chính được thể hiện rõ khi tỷ lệ chi trả thù lao thực tế cho HĐQT và Ban Kiểm soát năm 2022 chỉ chiếm 0,16% lợi nhuận sau thuế, nằm dưới mức trần 0,28% đã được Đại hội đồng cổ đông phê duyệt.
