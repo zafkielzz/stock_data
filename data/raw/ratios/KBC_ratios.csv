@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,1952.03,1681.23,2525.62,1952.03,KBC
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,27675.0,28001.0,28399.0,27675.0,KBC
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,18.49,18.23,14.0,18.49,KBC
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.3,1.09,1.24,1.3,KBC
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,25.23,7.55,20.19,25.23,KBC
+Tỷ suất cổ tức,dividend_yield,0.0,0.0,0.0,0.0,KBC
+Beta,beta,1.31,1.45,1.16,1.31,KBC
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,83.63,29.88,52.24,83.63,KBC
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,75.37,29.01,48.72,75.37,KBC
+Tỷ suất lợi nhuận gộp biên,gross_margin,58.16,38.78,36.6,58.16,KBC
+Tỷ lệ lãi EBIT,ebit_margin,47.42,39.39,64.38,47.42,KBC
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,48.73,40.58,65.84,48.73,KBC
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,23.15,27.24,40.3,23.15,KBC
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,1.19,3.71,2.66,1.28,KBC
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,1.15,2.94,1.97,1.15,KBC
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,0.45,1.58,0.96,0.45,KBC
+ROE bình quân 4 quý gần nhất,roe_trailling,7.28,6.9,9.29,7.28,KBC
+ROA bình quân 4 quý gần nhất,roa_trailling,2.66,2.83,3.29,2.66,KBC
+Tăng trưởng  doanh thu thuần,net_revenue,41.76,1946.08,110.99,41.76,KBC
+Tăng trưởng  lợi nhuận gộp,gross_profit,117.88,1535.54,56.63,117.88,KBC
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,70.87,0.0,413.41,70.87,KBC
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,56.62,0.0,773.44,56.62,KBC
+Tăng trưởng tổng tài sản,total_assets,57.18,37.79,55.81,57.18,KBC
+Tăng trưởng nợ dài hạn,long_term_liabilities,85.55,95.18,68.12,85.55,KBC
+Tăng trưởng nợ phải trả,liabilities,86.38,70.42,78.57,86.38,KBC
+Tăng trưởng vốn chủ sở hữu,owners_equity,26.41,6.7,29.31,26.41,KBC
+Tăng trưởng vốn điều lệ,charter_capital,22.69,0.0,22.69,22.69,KBC
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.69,0.81,0.56,0.69,KBC
+Tỷ số thanh toán nhanh,quick_ratio,2.36,3.11,1.89,2.36,KBC
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.83,1.04,0.69,0.83,KBC
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,4.2,5.6,3.69,4.2,KBC
+Khả năng thanh toán lãi vay,interest_coverage,3.02,11.9,4.8,3.02,KBC
+Vòng quay phải thu khách hàng,receivables_turnover,0.85,1.65,1.22,0.85,KBC
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,427.44,221.03,298.65,427.44,KBC
+Vòng quay hàng tồn kho,inventory_turnover,0.02,0.11,0.04,0.02,KBC
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,15817.18,3265.74,9088.47,15817.18,KBC
+Vòng quay phải trả nhà cung cấp,payables_turnover,0.83,3.86,1.61,0.83,KBC
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,437.34,94.5,226.12,437.34,KBC
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,3.64,7.79,3.87,3.64,KBC
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.02,0.06,0.02,0.02,KBC
+Vòng quay vốn chủ sở hữu,equity_turnover,0.05,0.15,0.06,0.05,KBC
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,33.64,24.89,34.8,33.64,KBC
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,40.58,32.45,41.06,40.58,KBC
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,60.84,60.35,61.66,60.84,KBC
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,39.16,39.65,38.34,39.16,KBC
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,52.27,37.88,55.95,52.27,KBC
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,103.62,81.83,107.08,103.62,KBC
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,155.37,152.18,160.8,155.37,KBC
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,-233.33,0.0,0.0,KBC
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,-89.31,0.0,0.0,KBC
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,0.18,0.0,0.0,KBC
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,KBC
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,KBC
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,-13.42,0.0,0.0,KBC
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,-33.84,0.0,0.0,KBC
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,-660.84,0.0,0.0,KBC
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,-22.23,0.0,0.0,KBC
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,-9474.31,0.0,0.0,KBC

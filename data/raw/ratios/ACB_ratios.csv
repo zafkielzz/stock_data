@@ -1,0 +1,33 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,3730.45,3797.57,3229.59,3730.45,ACB
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,17796.69,19494.35,18401.02,17796.69,ACB
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,6.84,6.85,7.43,6.84,ACB
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.43,1.33,1.3,1.43,ACB
+Tỷ suất cổ tức,dividend_yield,0.04,0.04,4.17,3.92,ACB
+Beta,beta,0.91,0.82,0.84,0.91,ACB
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,4.79,4.31,3.0,4.79,ACB
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,0.45,0.42,0.28,0.45,ACB
+Tỷ suất sinh lợi của Tài sản Có sinh lãi (YOEA),yield_on_earning_assets_yoea,1.63,1.53,1.61,1.63,ACB
+Tỷ lệ chi phí hình thành Tài sản Có sinh lãi (COF),cost_of_funding_earning_assets_cof,1.0,0.9,1.03,1.0,ACB
+Tỷ lệ thu nhập lãi thuần (NIM),net_interest_margin_nim,0.73,0.73,0.71,0.73,ACB
+Tỷ lệ chi phí hoạt động/Tổng thu nhập HĐKD trước dự phòng (CIR),cost_income_ratio_cir,32.37,34.01,33.91,32.37,ACB
+ROE bình quân 4 quý gần nhất,roe_trailling,19.92,20.44,17.35,19.92,ACB
+ROA bình quân 4 quý gần nhất,roa_trailling,1.91,2.01,1.64,1.91,ACB
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,11.1,-6.04,-38.87,11.1,ACB
+Tăng trưởng lợi nhuận sau thuế của CĐ ngân hàng mẹ,profit_after_tax_for_shareholders_of_the_parent_company,10.6,-5.82,-38.74,10.6,ACB
+Tăng trưởng tổng tài sản,total_assets,22.02,22.6,18.73,22.02,ACB
+Tăng trưởng vốn chủ sở hữu,owners_equity,15.93,16.42,13.25,15.93,ACB
+Tăng trưởng vốn điều lệ,charter_capital,15.0,15.0,15.0,15.0,ACB
+Tăng trưởng dư nợ cho vay,deposits_from_customers,20.59,18.31,18.27,20.59,ACB
+Tăng trưởng huy động vốn khách hàng,deposits_from_customers_2,11.5,11.68,8.91,11.5,ACB
+Tăng trưởng thu nhập lãi thuần,net_interest_income,-1.62,-5.4,0.18,-1.62,ACB
+Tăng trưởng dự phòng rủi ro tín dụng,provisions_for_loan_losses,1.26,-6.1,23.86,1.26,ACB
+Tăng trưởng thu phí dịch vụ thuần,net_fee_and_commission_income,6.46,17.06,2.93,6.46,ACB
+Tăng trưởng tổng thu nhập HĐKD trước dự phòng,operating_profit_before_provision_for_credit_losses,9.0,-3.36,-6.79,9.0,ACB
+Tăng trưởng tổng chi phí HĐKD,operating_expenses,-7.49,-2.61,1.57,-7.49,ACB
+Dư nợ cho vay khách hàng/Tổng vốn huy động (LDR),outstanding_loans_customer_deposits,80.21,76.34,75.77,80.21,ACB
+Dư nợ cho vay/Tổng tài sản Có,outstanding_loans_total_assets,70.55,67.16,66.95,70.55,ACB
+Vốn chủ sở hữu/Tổng vốn huy động ,equity_deposits_from_customers,0.11,0.11,10.43,10.96,ACB
+Vốn chủ sở hữu/Tổng tài sản Có,equity_total_assets,9.64,9.77,9.21,9.64,ACB
+Dự phòng rủi ro tín dụng/Tổng dư nợ,loan_loss_provision_ratio,-0.01,-0.01,-1.12,-0.93,ACB
+Tài sản Có sinh lãi/Tổng tài sản Có,earning_assets_total_assets,97.31,97.75,97.24,97.31,ACB

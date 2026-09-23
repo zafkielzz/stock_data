@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,2144.25,1844.2,2836.72,2144.25,VRE
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,20116.0,18967.0,21286.0,20116.0,VRE
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,14.97,10.38,11.86,14.97,VRE
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.6,1.01,1.58,1.6,VRE
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,32.4,20.42,33.07,32.4,VRE
+Tỷ suất cổ tức,dividend_yield,0.0,0.0,0.0,0.0,VRE
+Beta,beta,1.19,1.12,1.59,1.19,VRE
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,40.43,27.8,22.24,40.43,VRE
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,39.63,22.91,0.0,39.63,VRE
+Tỷ suất lợi nhuận gộp biên,gross_margin,50.51,56.4,52.35,50.51,VRE
+Tỷ lệ lãi EBIT,ebit_margin,84.1,76.22,152.49,84.1,VRE
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,84.6,92.47,152.74,84.6,VRE
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,61.15,55.24,114.99,61.15,VRE
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,3.05,2.77,5.65,3.06,VRE
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,3.81,3.36,6.47,3.81,VRE
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,2.3,2.12,4.34,2.3,VRE
+ROE bình quân 4 quý gần nhất,roe_trailling,11.13,10.11,14.21,11.13,VRE
+ROA bình quân 4 quý gần nhất,roa_trailling,8.45,7.74,10.89,8.45,VRE
+Tăng trưởng  doanh thu thuần,net_revenue,8.34,-5.47,8.65,8.34,VRE
+Tăng trưởng  lợi nhuận gộp,gross_profit,4.38,-4.22,0.75,4.38,VRE
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,53.87,7.94,143.79,53.87,VRE
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,51.86,8.76,144.98,51.86,VRE
+Tăng trưởng tổng tài sản,total_assets,15.21,14.14,10.96,15.21,VRE
+Tăng trưởng nợ dài hạn,long_term_liabilities,14.13,22.32,4.8,14.13,VRE
+Tăng trưởng nợ phải trả,liabilities,26.08,27.11,-2.95,26.08,VRE
+Tăng trưởng vốn chủ sở hữu,owners_equity,11.93,10.77,15.37,11.93,VRE
+Tăng trưởng vốn điều lệ,charter_capital,0.0,0.0,0.0,0.0,VRE
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.34,0.34,0.86,0.34,VRE
+Tỷ số thanh toán nhanh,quick_ratio,1.62,1.47,1.49,1.62,VRE
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.47,0.35,0.88,0.47,VRE
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,1.65,1.5,1.54,1.65,VRE
+Khả năng thanh toán lãi vay,interest_coverage,11.03,10.94,19.02,11.03,VRE
+Vòng quay phải thu khách hàng,receivables_turnover,1.52,1.32,1.67,1.52,VRE
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,239.88,276.77,218.81,239.88,VRE
+Vòng quay hàng tồn kho,inventory_turnover,3.93,3.27,4.37,3.93,VRE
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,92.83,111.74,83.45,92.83,VRE
+Vòng quay phải trả nhà cung cấp,payables_turnover,1.91,2.03,1.84,1.91,VRE
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,191.07,179.54,198.5,191.07,VRE
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,9.31,9.84,9.04,9.31,VRE
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.04,0.04,0.04,0.04,VRE
+Vòng quay vốn chủ sở hữu,equity_turnover,0.05,0.05,0.05,0.05,VRE
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,53.66,66.85,40.07,53.66,VRE
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,10.46,8.16,10.45,10.46,VRE
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,25.39,22.96,21.07,25.39,VRE
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,74.61,77.04,78.93,74.61,VRE
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,18.26,19.93,10.7,18.26,VRE
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,14.01,10.59,13.23,14.01,VRE
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,34.03,29.81,26.69,34.03,VRE
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,7.15,0.0,0.0,VRE
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,1.77,0.0,0.0,VRE
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,0.37,0.0,0.0,VRE
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,VRE
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,VRE
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,0.27,0.0,0.0,VRE
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,0.35,0.0,0.0,VRE
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,10.79,0.0,0.0,VRE
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,1.19,0.0,0.0,VRE
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,67.06,0.0,0.0,VRE

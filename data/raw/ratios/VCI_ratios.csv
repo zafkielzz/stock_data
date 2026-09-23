@@ -1,0 +1,50 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,1593.95,1782.51,1862.23,1593.95,VCI
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,17533.86,17518.63,21185.62,17533.86,VCI
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,27.26,21.49,18.96,27.26,VCI
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,2.48,2.19,1.67,2.48,VCI
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,21.75,32.32,19.66,21.75,VCI
+Tỷ suất cổ tức,dividend_yield,0.01,0.02,0.71,0.58,VCI
+Beta,beta,1.25,1.66,1.17,1.25,VCI
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,0.0,0.0,0.0,0.0,VCI
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,0.0,0.0,0.0,0.0,VCI
+Tỷ suất lợi nhuận gộp biên,gross_margin,52.5,63.12,59.42,52.5,VCI
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,29.12,34.65,29.02,29.12,VCI
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,3.35,2.31,2.89,3.35,VCI
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,1.63,1.17,1.35,1.63,VCI
+ROE bình quân 4 quý gần nhất,roe_trailling,8.83,9.37,9.64,8.83,VCI
+ROA bình quân 4 quý gần nhất,roa_trailling,4.38,4.3,4.82,4.38,VCI
+Tăng trưởng  doanh thu thuần,net_revenue,48.13,5.53,52.78,48.13,VCI
+Tăng trưởng  lợi nhuận gộp,gross_profit,49.69,23.11,89.3,49.69,VCI
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,96.05,56.06,114.61,96.05,VCI
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,95.15,49.11,102.83,95.15,VCI
+Tăng trưởng tổng tài sản,total_assets,45.57,21.4,35.4,45.57,VCI
+Tăng trưởng nợ dài hạn,long_term_liabilities,-44.45,-15.2,10.09,-44.45,VCI
+Tăng trưởng nợ phải trả,liabilities,44.8,-1.93,31.86,44.8,VCI
+Tăng trưởng vốn chủ sở hữu,owners_equity,46.61,53.84,39.13,46.61,VCI
+Tăng trưởng vốn điều lệ,charter_capital,25.79,64.14,18.38,25.79,VCI
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.16,0.22,0.19,0.16,VCI
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.16,0.22,0.19,0.16,VCI
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,1.77,2.21,2.07,1.77,VCI
+Vòng quay phải thu khách hàng,receivables_turnover,0.0,0.0,0.0,0.0,VCI
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,0.0,0.0,0.0,0.0,VCI
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,24.89,21.28,22.57,24.89,VCI
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.06,0.03,0.05,0.06,VCI
+Vòng quay vốn chủ sở hữu,equity_turnover,0.11,0.07,0.1,0.11,VCI
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,98.06,95.72,96.27,98.06,VCI
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,53.39,43.46,44.62,53.39,VCI
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,57.37,46.98,49.98,57.37,VCI
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,42.63,53.02,50.02,42.63,VCI
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,131.94,84.82,96.2,131.94,VCI
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,125.23,81.96,89.2,125.23,VCI
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,134.55,88.61,99.92,134.55,VCI
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,1.21,0.0,0.0,VCI
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,0.1,0.0,0.0,VCI
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,-22.88,0.0,0.0,VCI
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,22.87,-0.9,17.48,22.87,VCI
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,1.81,1.42,1.56,1.81,VCI
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,0.04,0.0,0.0,VCI
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,0.08,0.0,0.0,VCI
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,0.0,0.0,0.0,VCI
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,0.09,0.0,0.0,VCI
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,14.38,0.0,0.0,VCI

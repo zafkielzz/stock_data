@@ -1,0 +1,46 @@
+{
+  "description": "Danh mục 48 cổ phiếu thực nghiệm cho đồ án Capstone (Point-in-time & Anti-Survivorship Bias)",
+  "total_symbols": 48,
+  "categories": {
+    "banking": {
+      "name": "Ngân hàng",
+      "symbols": ["VCB", "BID", "CTG", "TCB", "MBB", "ACB", "VPB", "HDB", "STB", "VIB", "SHB", "LPB"]
+    },
+    "real_estate": {
+      "name": "Bất động sản & Xây dựng",
+      "symbols": ["VHM", "VIC", "VRE", "KDH", "PDR", "DXG", "KBC"]
+    },
+    "materials_steel": {
+      "name": "Thép & Vật liệu cơ bản",
+      "symbols": ["HPG", "HSG", "NKG"]
+    },
+    "technology_retail": {
+      "name": "Công nghệ & Bán lẻ",
+      "symbols": ["FPT", "MWG", "FRT", "PNJ"]
+    },
+    "consumer_goods": {
+      "name": "Hàng tiêu dùng & Thực phẩm",
+      "symbols": ["VNM", "MSN", "SAB"]
+    },
+    "energy_oil_gas": {
+      "name": "Năng lượng & Dầu khí",
+      "symbols": ["GAS", "PLX", "POW", "PVD"]
+    },
+    "chemicals_fertilizers": {
+      "name": "Hóa chất & Phân bón",
+      "symbols": ["DGC", "DCM", "DPM"]
+    },
+    "logistics_transport": {
+      "name": "Vận tải biển & Hàng không",
+      "symbols": ["GMD", "HAH", "VJC"]
+    },
+    "securities": {
+      "name": "Chứng khoán",
+      "symbols": ["SSI", "VND", "VCI"]
+    },
+    "survivorship_distressed": {
+      "name": "Nhóm xử lý Survivorship Bias (Từng thuộc top vốn hóa/VN30, từng khủng hoảng/sa sút/bị loại)",
+      "symbols": ["NVL", "HAG", "BVH", "SBT", "CII", "ITA"]
+    }
+  }
+}

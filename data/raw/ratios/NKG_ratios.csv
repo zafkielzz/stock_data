@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,591.13,1278.74,460.2,591.13,NKG
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,17055.0,16793.0,17060.0,17055.0,NKG
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,29.77,11.73,32.27,29.77,NKG
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.03,0.89,0.87,1.03,NKG
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,2.09,1.64,2.12,2.09,NKG
+Tỷ suất cổ tức,dividend_yield,0.0,0.0,0.0,0.0,NKG
+Beta,beta,1.33,1.76,1.29,1.33,NKG
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,127.58,75.6,340.19,127.58,NKG
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,41.48,0.0,46.12,41.48,NKG
+Tỷ suất lợi nhuận gộp biên,gross_margin,4.77,6.44,2.29,4.77,NKG
+Tỷ lệ lãi EBIT,ebit_margin,3.01,3.36,1.19,3.01,NKG
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,5.4,5.56,4.11,5.4,NKG
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,1.31,1.6,-0.3,1.31,NKG
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,0.65,0.98,-0.12,0.65,NKG
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,1.21,2.02,0.38,1.21,NKG
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,0.3,0.47,-0.06,0.3,NKG
+ROE bình quân 4 quý gần nhất,roe_trailling,3.15,5.89,2.6,3.15,NKG
+ROA bình quân 4 quý gần nhất,roa_trailling,1.48,2.71,1.24,1.48,NKG
+Tăng trưởng  doanh thu thuần,net_revenue,-27.28,-22.7,-29.82,-27.28,NKG
+Tăng trưởng  lợi nhuận gộp,gross_profit,-60.13,-53.6,-76.13,-60.13,NKG
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,-28.34,-56.83,0.0,-28.34,NKG
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,-23.62,-56.43,0.0,-23.62,NKG
+Tăng trưởng tổng tài sản,total_assets,19.53,9.42,22.0,19.53,NKG
+Tăng trưởng nợ dài hạn,long_term_liabilities,7472.51,547.02,8448.0,7472.51,NKG
+Tăng trưởng nợ phải trả,liabilities,11.48,-9.7,15.83,11.48,NKG
+Tăng trưởng vốn chủ sở hữu,owners_equity,30.42,34.86,30.05,30.42,NKG
+Tăng trưởng vốn điều lệ,charter_capital,70.0,70.0,41.67,70.0,NKG
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.05,0.2,0.13,0.05,NKG
+Tỷ số thanh toán nhanh,quick_ratio,0.69,0.66,0.67,0.69,NKG
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.22,0.24,0.25,0.22,NKG
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,1.43,1.56,1.48,1.43,NKG
+Khả năng thanh toán lãi vay,interest_coverage,2.08,2.44,0.77,2.08,NKG
+Vòng quay phải thu khách hàng,receivables_turnover,2.48,3.39,2.08,2.48,NKG
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,147.22,107.74,175.65,147.22,NKG
+Vòng quay hàng tồn kho,inventory_turnover,0.64,0.61,0.59,0.64,NKG
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,567.67,598.96,616.46,567.67,NKG
+Vòng quay phải trả nhà cung cấp,payables_turnover,2.36,5.16,2.11,2.36,NKG
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,154.57,70.79,172.96,154.57,NKG
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,2.06,2.07,1.75,2.06,NKG
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.23,0.29,0.19,0.23,NKG
+Vòng quay vốn chủ sở hữu,equity_turnover,0.5,0.61,0.41,0.5,NKG
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,76.54,97.29,74.15,76.54,NKG
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,42.23,40.45,41.63,42.23,NKG
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,53.66,47.13,53.71,53.66,NKG
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,46.34,52.87,46.29,46.34,NKG
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,88.63,86.72,86.02,88.63,NKG
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,91.13,76.5,89.94,91.13,NKG
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,115.8,89.14,116.02,115.8,NKG
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,10.6,0.0,0.0,NKG
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,6.65,0.0,0.0,NKG
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,13.74,0.0,0.0,NKG
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,NKG
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,NKG
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,3.05,0.0,0.0,NKG
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,5.77,0.0,0.0,NKG
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,564.76,0.0,0.0,NKG
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,6.47,0.0,0.0,NKG
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,968.68,0.0,0.0,NKG

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Raw heavy binary PDFs (Download automatically via download_and_extract_reports.py)
+data/text/raw_pdf/
+*.pdf
+
+# System / OS
+.DS_Store
+Thumbs.db

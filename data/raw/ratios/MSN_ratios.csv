@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,2264.03,1592.62,2756.2,2264.03,MSN
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,28263.0,30124.0,29647.0,28263.0,MSN
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,35.78,41.94,27.94,35.78,MSN
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,2.87,2.22,2.6,2.87,MSN
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,5.82,5.08,5.04,5.82,MSN
+Tỷ suất cổ tức,dividend_yield,0.0,0.0,0.0,0.0,MSN
+Beta,beta,1.24,1.2,1.07,1.24,MSN
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,46.97,60.12,46.06,46.97,MSN
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,27.0,44.98,29.38,27.0,MSN
+Tỷ suất lợi nhuận gộp biên,gross_margin,30.44,32.78,31.21,30.44,MSN
+Tỷ lệ lãi EBIT,ebit_margin,18.12,13.84,16.77,18.12,MSN
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,21.09,18.49,18.41,21.09,MSN
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,8.82,5.2,9.87,8.82,MSN
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,2.86,0.94,4.27,3.65,MSN
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,4.5,2.92,4.52,4.5,MSN
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,0.99,0.27,1.18,0.99,MSN
+ROE bình quân 4 quý gần nhất,roe_trailling,10.46,7.37,12.42,10.46,MSN
+ROA bình quân 4 quý gần nhất,roa_trailling,2.48,1.52,3.18,2.48,MSN
+Tăng trưởng  doanh thu thuần,net_revenue,-1.5,0.22,2.4,-1.5,MSN
+Tăng trưởng  lợi nhuận gộp,gross_profit,0.33,17.88,2.73,0.33,MSN
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,37.45,92.91,0.4,37.45,MSN
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,72.4,277.07,113.29,72.4,MSN
+Tăng trưởng tổng tài sản,total_assets,-21.35,-2.3,-12.62,-21.35,MSN
+Tăng trưởng nợ dài hạn,long_term_liabilities,-31.46,-19.07,-9.34,-31.46,MSN
+Tăng trưởng nợ phải trả,liabilities,-30.71,-7.3,-21.48,-30.71,MSN
+Tăng trưởng vốn chủ sở hữu,owners_equity,4.35,11.57,10.62,4.35,MSN
+Tăng trưởng vốn điều lệ,charter_capital,0.5,5.74,0.5,0.5,MSN
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.35,0.24,0.3,0.35,MSN
+Tỷ số thanh toán nhanh,quick_ratio,0.58,0.74,0.62,0.58,MSN
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.39,0.25,0.43,0.39,MSN
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,0.86,0.92,0.9,0.86,MSN
+Khả năng thanh toán lãi vay,interest_coverage,2.28,1.88,3.17,2.28,MSN
+Vòng quay phải thu khách hàng,receivables_turnover,16.38,16.83,17.02,16.38,MSN
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,22.28,21.69,21.44,22.28,MSN
+Vòng quay hàng tồn kho,inventory_turnover,1.43,1.23,1.48,1.43,MSN
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,255.24,295.76,246.18,255.24,MSN
+Vòng quay phải trả nhà cung cấp,payables_turnover,2.27,1.95,2.09,2.27,MSN
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,161.06,186.75,174.37,161.06,MSN
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,0.59,0.51,0.65,0.59,MSN
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.17,0.13,0.19,0.17,MSN
+Vòng quay vốn chủ sở hữu,equity_turnover,0.5,0.45,0.53,0.5,MSN
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,48.02,52.77,47.99,48.02,MSN
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,50.21,42.83,50.31,50.21,MSN
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,64.59,69.73,65.05,64.59,MSN
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,35.41,30.27,34.95,35.41,MSN
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,87.58,121.57,89.3,87.58,MSN
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,141.8,141.51,143.92,141.8,MSN
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,182.39,230.39,186.08,182.39,MSN
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,-0.4,0.0,0.0,MSN
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,-0.14,0.0,0.0,MSN
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,-11.11,0.0,0.0,MSN
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,MSN
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,MSN
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,-0.05,0.0,0.0,MSN
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,-0.18,0.0,0.0,MSN
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,-5.0,0.0,0.0,MSN
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,-0.08,0.0,0.0,MSN
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,-52.77,0.0,0.0,MSN

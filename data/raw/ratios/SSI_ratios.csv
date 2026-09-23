@@ -1,0 +1,50 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,1911.6,1706.52,2052.63,1911.6,SSI
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,15056.24,14120.87,15446.84,15056.24,SSI
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,20.17,15.24,14.74,20.17,SSI
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,2.56,1.84,1.96,2.56,SSI
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,19.16,23.62,17.43,19.16,SSI
+Tỷ suất cổ tức,dividend_yield,0.03,0.04,3.31,2.59,SSI
+Beta,beta,1.56,1.4,1.54,1.56,SSI
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,0.0,0.0,0.0,0.0,SSI
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,0.0,0.0,0.0,0.0,SSI
+Tỷ suất lợi nhuận gộp biên,gross_margin,61.34,71.04,51.41,61.34,SSI
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,35.33,39.09,22.76,35.33,SSI
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,4.93,3.1,2.59,4.95,SSI
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,1.53,1.07,0.84,1.53,SSI
+ROE bình quân 4 quý gần nhất,roe_trailling,13.06,11.33,13.79,13.06,SSI
+ROA bình quân 4 quý gần nhất,roa_trailling,4.24,3.95,4.43,4.24,SSI
+Tăng trưởng  doanh thu thuần,net_revenue,105.94,9.45,62.15,105.94,SSI
+Tăng trưởng  lợi nhuận gộp,gross_profit,84.0,11.43,82.27,84.0,SSI
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,85.98,11.08,80.83,85.98,SSI
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,85.66,10.43,91.11,85.66,SSI
+Tăng trưởng tổng tài sản,total_assets,52.18,28.33,27.95,52.18,SSI
+Tăng trưởng nợ dài hạn,long_term_liabilities,12.99,70.17,0.97,12.99,SSI
+Tăng trưởng nợ phải trả,liabilities,65.11,35.87,32.78,65.11,SSI
+Tăng trưởng vốn chủ sở hữu,owners_equity,29.61,15.33,19.53,29.61,SSI
+Tăng trưởng vốn điều lệ,charter_capital,14.61,30.83,5.81,14.61,SSI
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.0,0.0,0.06,0.0,SSI
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.0,0.0,0.06,0.0,SSI
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,1.42,1.45,1.44,1.42,SSI
+Vòng quay phải thu khách hàng,receivables_turnover,0.0,0.0,0.0,0.0,SSI
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,0.0,0.0,0.0,0.0,SSI
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,19.76,9.75,18.46,19.76,SSI
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.04,0.03,0.04,0.04,SSI
+Vòng quay vốn chủ sở hữu,equity_turnover,0.14,0.08,0.11,0.14,SSI
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,99.86,99.84,99.87,99.86,SSI
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,64.96,65.74,63.97,64.96,SSI
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,68.97,67.04,65.91,68.97,SSI
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,31.03,32.96,34.09,31.03,SSI
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,221.91,203.04,193.04,221.91,SSI
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,209.31,199.42,187.61,209.31,SSI
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,222.22,203.37,193.3,222.22,SSI
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,-434.13,0.0,0.0,SSI
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,-16.67,0.0,0.0,SSI
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,-0.22,0.0,0.0,SSI
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,10.15,13.87,-8.48,10.15,SSI
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,1.61,13.84,0.88,1.61,SSI
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,-11.15,0.0,0.0,SSI
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,-33.84,0.0,0.0,SSI
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,0.0,0.0,0.0,SSI
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,-16.64,0.0,0.0,SSI
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,-4778.08,0.0,0.0,SSI

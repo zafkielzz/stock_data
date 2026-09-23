@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,3373.41,3216.96,3448.99,3373.41,SAB
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,19104.0,19965.0,17933.0,19104.0,SAB
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,13.4,15.2,14.21,13.4,SAB
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,2.37,2.45,2.73,2.37,SAB
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,9.01,10.79,9.19,9.01,SAB
+Tỷ suất cổ tức,dividend_yield,0.11,0.08,6.12,11.06,SAB
+Beta,beta,0.87,0.92,0.68,0.87,SAB
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,33.59,58.96,44.29,33.59,SAB
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,10.93,50.32,12.39,10.93,SAB
+Tỷ suất lợi nhuận gộp biên,gross_margin,37.07,32.22,37.94,37.07,SAB
+Tỷ lệ lãi EBIT,ebit_margin,26.46,17.78,20.18,26.46,SAB
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,29.76,20.83,22.35,29.76,SAB
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,21.81,13.76,16.37,21.81,SAB
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,5.74,3.17,4.85,6.17,SAB
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,7.01,4.06,5.64,7.01,SAB
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,4.22,2.44,3.32,4.22,SAB
+ROE bình quân 4 quý gần nhất,roe_trailling,18.93,17.17,19.82,18.93,SAB
+ROA bình quân 4 quý gần nhất,roa_trailling,13.35,12.56,13.74,13.35,SAB
+Tăng trưởng  doanh thu thuần,net_revenue,-16.08,-19.11,-23.46,-16.08,SAB
+Tăng trưởng  lợi nhuận gộp,gross_profit,4.75,-10.86,3.79,4.75,SAB
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,15.28,-21.54,10.76,15.28,SAB
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,21.57,-20.47,10.04,21.57,SAB
+Tăng trưởng tổng tài sản,total_assets,-2.79,-1.64,-2.52,-2.79,SAB
+Tăng trưởng nợ dài hạn,long_term_liabilities,105.66,35.04,107.8,105.66,SAB
+Tăng trưởng nợ phải trả,liabilities,13.64,5.68,6.61,13.64,SAB
+Tăng trưởng vốn chủ sở hữu,owners_equity,-6.56,-3.22,-5.88,-6.56,SAB
+Tăng trưởng vốn điều lệ,charter_capital,0.0,0.0,0.0,0.0,SAB
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.48,0.72,0.45,0.48,SAB
+Tỷ số thanh toán nhanh,quick_ratio,3.07,3.85,2.26,3.07,SAB
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,2.89,3.65,2.14,2.89,SAB
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,3.35,4.25,2.49,3.35,SAB
+Khả năng thanh toán lãi vay,interest_coverage,233.37,94.77,186.93,233.37,SAB
+Vòng quay phải thu khách hàng,receivables_turnover,10.35,11.9,10.77,10.35,SAB
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,35.28,30.68,33.9,35.28,SAB
+Vòng quay hàng tồn kho,inventory_turnover,2.38,1.88,2.25,2.38,SAB
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,153.58,194.34,162.24,153.58,SAB
+Vòng quay phải trả nhà cung cấp,payables_turnover,2.56,1.86,2.2,2.56,SAB
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,142.61,195.97,165.87,142.61,SAB
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,1.34,1.42,1.34,1.34,SAB
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.2,0.18,0.21,0.2,SAB
+Vòng quay vốn chủ sở hữu,equity_turnover,0.27,0.23,0.29,0.27,SAB
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,89.46,92.26,92.53,89.46,SAB
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,1.09,2.06,1.34,1.09,SAB
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,21.8,19.02,29.44,21.8,SAB
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,78.2,80.98,70.56,78.2,SAB
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,24.95,21.66,38.61,24.95,SAB
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,1.39,2.54,1.89,1.39,SAB
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,27.88,23.48,41.73,27.88,SAB
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,-2.15,0.0,0.0,SAB
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,-2.25,0.0,0.0,SAB
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,-8.64,0.0,0.0,SAB
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,SAB
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,SAB
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,-0.4,0.0,0.0,SAB
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,-0.49,0.0,0.0,SAB
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,-12.13,0.0,0.0,SAB
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,-2.08,0.0,0.0,SAB
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,-97.47,0.0,0.0,SAB

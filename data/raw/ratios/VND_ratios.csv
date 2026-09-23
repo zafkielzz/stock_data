@@ -1,0 +1,50 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,1268.74,1034.6,1328.31,1268.74,VND
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,13506.48,13202.13,13731.14,13506.48,VND
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,17.69,14.79,14.64,17.69,VND
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.66,1.16,1.42,1.66,VND
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,15.43,18.51,20.74,15.43,VND
+Tỷ suất cổ tức,dividend_yield,0.02,0.03,2.57,2.23,VND
+Beta,beta,1.4,1.6,1.46,1.4,VND
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,0.0,0.0,0.0,0.0,VND
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,0.0,0.0,0.0,0.0,VND
+Tỷ suất lợi nhuận gộp biên,gross_margin,70.85,64.13,61.97,70.85,VND
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,41.96,30.41,23.96,41.96,VND
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,4.62,1.92,1.65,4.62,VND
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,1.79,0.81,0.64,1.79,VND
+ROE bình quân 4 quý gần nhất,roe_trailling,9.66,7.75,9.96,9.66,VND
+ROA bình quân 4 quý gần nhất,roa_trailling,3.89,3.25,3.93,3.89,VND
+Tăng trưởng  doanh thu thuần,net_revenue,74.41,-9.16,17.8,74.41,VND
+Tăng trưởng  lợi nhuận gộp,gross_profit,76.1,-24.97,52.11,76.1,VND
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,87.92,-37.65,36.79,87.92,VND
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,83.92,-38.01,36.08,83.92,VND
+Tăng trưởng tổng tài sản,total_assets,29.48,21.15,16.56,29.48,VND
+Tăng trưởng nợ dài hạn,long_term_liabilities,41.37,-43.66,2580.41,41.37,VND
+Tăng trưởng nợ phải trả,liabilities,48.95,23.82,25.01,48.95,VND
+Tăng trưởng vốn chủ sở hữu,owners_equity,5.64,17.36,6.03,5.64,VND
+Tăng trưởng vốn điều lệ,charter_capital,0.0,25.0,0.0,0.0,VND
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.02,0.03,0.06,0.02,VND
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,0.02,0.03,0.06,0.02,VND
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,1.54,1.57,1.77,1.54,VND
+Vòng quay phải thu khách hàng,receivables_turnover,0.0,0.0,0.0,0.0,VND
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,0.0,0.0,0.0,0.0,VND
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,30.5,15.98,18.7,30.5,VND
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.04,0.03,0.03,0.04,VND
+Vòng quay vốn chủ sở hữu,equity_turnover,0.11,0.06,0.07,0.11,VND
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,99.66,99.76,93.26,99.66,VND
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,56.72,56.18,51.26,56.72,VND
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,63.32,59.88,59.51,63.32,VND
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,36.68,40.12,40.49,36.68,VND
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,172.07,148.88,137.09,172.07,VND
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,154.66,140.01,126.6,154.66,VND
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,172.66,149.24,146.99,172.66,VND
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,-413.57,0.0,0.0,VND
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,-17.39,0.0,0.0,VND
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,0.32,0.0,0.0,VND
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,15.79,13.53,-12.34,15.79,VND
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,1.94,12.63,0.7,1.94,VND
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,-10.39,0.0,0.0,VND
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,-25.89,0.0,0.0,VND
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,0.0,0.0,0.0,VND
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,-17.35,0.0,0.0,VND
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,-3417.6,0.0,0.0,VND

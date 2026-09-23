@@ -1,0 +1,59 @@
+item,item_id,2026-Q2,2025-Q4,2026-Q1,2025-Q4_1,ticker
+Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS),trailing_eps,2160.08,1366.22,2218.26,2160.08,DPM
+Giá trị sổ sách của cổ phiếu (BVPS),book_value_per_share_bvps,16681.0,29103.0,16962.0,16681.0,DPM
+Chỉ số giá thị trường trên thu nhập (P/E),pe_ratio,11.62,25.44,10.03,11.62,DPM
+Chỉ số giá thị trường trên giá trị sổ sách (P/B),pb_ratio,1.5,1.19,1.31,1.5,DPM
+Chỉ số giá thị trường trên doanh thu thuần (P/S),ps_ratio,4.58,3.3,4.43,4.58,DPM
+Tỷ suất cổ tức,dividend_yield,0.06,0.06,6.74,5.98,DPM
+Beta,beta,1.23,1.28,0.98,1.23,DPM
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT),ev_ebit,53.97,58.67,61.47,53.97,DPM
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế, khấu hao và lãi vay (EV/EBITDA)",ev_ebitda,0.0,0.0,0.0,0.0,DPM
+Tỷ suất lợi nhuận gộp biên,gross_margin,19.27,15.89,19.58,19.27,DPM
+Tỷ lệ lãi EBIT,ebit_margin,10.4,6.75,8.64,10.4,DPM
+Tỷ lệ lãi EBITDA,ebitda_net_revenue,13.0,9.09,9.46,13.0,DPM
+Tỷ suất sinh lợi trên doanh thu thuần,net_margin,6.4,5.12,6.82,6.4,DPM
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA),roe,2.05,1.82,2.04,2.08,DPM
+Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE),return_on_capital_employed_roce,3.31,2.41,2.53,3.31,DPM
+Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA),roa,1.27,1.21,1.25,1.27,DPM
+ROE bình quân 4 quý gần nhất,roe_trailling,7.84,4.74,9.5,7.84,DPM
+ROA bình quân 4 quý gần nhất,roa_trailling,4.94,3.2,5.92,4.94,DPM
+Tăng trưởng  doanh thu thuần,net_revenue,21.18,24.57,7.91,21.18,DPM
+Tăng trưởng  lợi nhuận gộp,gross_profit,100.35,8.82,70.15,100.35,DPM
+Tăng trưởng lợi nhuận trước thuế ,profit_before_tax,273.21,-21.96,251.9,273.21,DPM
+Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ,profit_after_tax_for_shareholders_of_the_parent_company,275.27,-22.43,535.2,275.27,DPM
+Tăng trưởng tổng tài sản,total_assets,10.39,24.81,7.54,10.39,DPM
+Tăng trưởng nợ dài hạn,long_term_liabilities,-53.71,-44.47,-3.77,-53.71,DPM
+Tăng trưởng nợ phải trả,liabilities,28.58,178.54,17.92,28.58,DPM
+Tăng trưởng vốn chủ sở hữu,owners_equity,0.97,-3.53,2.64,0.97,DPM
+Tăng trưởng vốn điều lệ,charter_capital,73.73,0.0,73.73,73.73,DPM
+Tỷ số thanh toán bằng tiền mặt,cash_ratio,0.11,0.12,0.19,0.11,DPM
+Tỷ số thanh toán nhanh,quick_ratio,1.71,2.05,1.84,1.71,DPM
+"Tỷ số thanh toán nhanh  (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)",quick_ratio_except_inventories_short_term_receivables_reference,1.44,1.83,1.49,1.44,DPM
+Tỷ số thanh toán hiện hành (ngắn hạn),short_term_ratio,2.15,2.41,2.41,2.15,DPM
+Khả năng thanh toán lãi vay,interest_coverage,11.29,11.0,5.97,11.29,DPM
+Vòng quay phải thu khách hàng,receivables_turnover,5.42,14.76,3.48,5.42,DPM
+Thời gian thu tiền khách hàng bình quân,days_of_sales_outstanding,67.38,24.73,104.85,67.38,DPM
+Vòng quay hàng tồn kho,inventory_turnover,1.15,1.8,0.82,1.15,DPM
+Thời gian tồn kho bình quân,days_of_inventory_on_hand,316.11,202.68,443.97,316.11,DPM
+Vòng quay phải trả nhà cung cấp,payables_turnover,2.46,3.96,3.4,2.46,DPM
+Thời gian trả tiền khách hàng bình quân,number_of_days_of_payables,148.13,92.13,107.44,148.13,DPM
+Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định),fixed_asset_turnover,1.48,1.54,1.38,1.48,DPM
+Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản),total_asset_turnover,0.2,0.24,0.19,0.2,DPM
+Vòng quay vốn chủ sở hữu,equity_turnover,0.32,0.36,0.3,0.32,DPM
+Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả,short_term_liabilities_to_total_liabilities,97.56,97.09,96.55,97.56,DPM
+Tỷ số Nợ vay trên Tổng tài sản,debt_to_assets,24.67,19.72,23.42,24.67,DPM
+Tỷ số Nợ trên Tổng tài sản,liabilities_to_assets,39.73,34.73,35.12,39.73,DPM
+Tỷ số Vốn chủ sở hữu trên Tổng tài sản,equity_to_assets,60.27,65.27,64.88,60.27,DPM
+Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu,short_term_liabilities_to_equity,64.31,51.67,52.27,64.31,DPM
+Tỷ số Nợ vay trên Vốn chủ sở hữu,debt_to_equity,40.93,30.21,36.11,40.93,DPM
+Tỷ số Nợ trên Vốn chủ sở hữu,liabilities_to_equity,65.92,53.22,54.14,65.92,DPM
+Tỷ số dòng tiền HĐKD trên doanh thu thuần,accrual_ratio_cf,0.0,4.93,0.0,0.0,DPM
+Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD,cash_to_income,0.0,3.45,0.0,0.0,DPM
+Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ,net_cash_flows_short_term_liabilities,0.0,-4.7,0.0,0.0,DPM
+Tỷ lệ dồn tích (Phương pháp Cân đối kế toán),accrual_ratio_balance_sheet_method,0.0,0.0,0.0,0.0,DPM
+Tỷ lệ dồn tích (Phương pháp Dòng tiền),accrual_ratio_cash_flow_method,0.0,0.0,0.0,0.0,DPM
+Dòng tiền từ HĐKD trên Tổng tài sản,cash_return_to_assets,0.0,1.17,0.0,0.0,DPM
+Dòng tiền từ HĐKD trên Vốn chủ sở hữu,cash_return_on_equity,0.0,1.79,0.0,0.0,DPM
+Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD,cash_to_income_2,0.0,81.27,0.0,0.0,DPM
+Khả năng thanh toán nợ từ dòng tiền HĐKD,debt_coverage,0.0,3.35,0.0,0.0,DPM
+Dòng tiền từ HĐKD trên mỗi cổ phần (CPS),cash_flow_per_share_cps,0.0,519.5,0.0,0.0,DPM

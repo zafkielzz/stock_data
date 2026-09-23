@@ -1,0 +1,6720 @@
+222  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+223
+VII. BÁO CÁO TÀI CHÍNH
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP GỬI CÁC CỔ ĐÔNG CỦA
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN PHÁT TRIỂN THÀNH PHỐ HỒ CHÍ MINH
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Ngân hàng Thương mại Cổ phần Phát triển Thành phố 
+Hồ Chí Minh (“Ngân hàng”) và công ty con được lập tại ngày 31 tháng 12 năm 2023, và được Ban Tổng Giám đốc của Ngân 
+hàng phê chuẩn ngày 29 tháng 3 năm 2024. Báo cáo tài chính hợp nhất này bao gồm: báo cáo tình hình tài chính hợp 
+nhất tại ngày 31 tháng 12 năm 2023, báo cáo kết quả hoạt động hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất cho năm 
+tài chính kết thúc cùng ngày nêu trên và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu 
+từ trang 5 đến trang 83.
+Trách nhiệm của Ban Tổng Giám đốc 
+Ban Tổng Giám đốc của Ngân hàng chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp 
+nhất của Ngân hàng và công ty con theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định 
+pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất áp dụng cho các tổ chức tín dụng hoạt động tại 
+Việt Nam và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và 
+trình bày báo cáo tài chính hợp nhất của Ngân hàng và công ty con không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. Chúng tôi 
+đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn 
+mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp 
+lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết 
+minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao 
+gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh 
+giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Ngân hàng và công ty con liên quan đến việc lập và trình 
+bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, 
+tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Ngân hàng và công ty con. Công việc 
+kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước 
+tính kế toán của Ban Tổng Giám đốc, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở 
+cho ý kiến kiểm toán của chúng tôi.
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình 
+hình tài chính hợp nhất của Ngân hàng và công ty con tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động hợp 
+nhất và tình hình lưu chuyển tiền tệ hợp nhất của Ngân hàng và công ty con cho năm tài chính kết thúc cùng ngày nêu 
+trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan đến 
+việc lập và trình bày báo cáo tài chính hợp nhất áp dụng cho các tổ chức tín dụng hoạt động tại Việt Nam.
+Nguyễn Hoàng Nam
+Số Giấy CN ĐKHN kiểm toán:
+0849-2023-006-1
+Chữ ký được ủy quyền
+Mai Trần Bảo Anh
+Số Giấy CN ĐKHN kiểm toán:
+4166-2022-006-1
+Số hiệu báo cáo kiểm toán: HCM15221
+Thành phố Hồ Chí Minh, ngày 30 tháng 3 năm 2024
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP 
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (tiếp theo)
+
+224  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+225
+VII. BÁO CÁO TÀI CHÍNH
+Tại ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+A
+TÀI SẢN
+I
+Tiền mặt, vàng bạc, đá quý
+3
+2.810.044 
+2.937.994
+II
+Tiền gửi tại NHNN
+4
+41.481.638 
+11.273.345
+III
+Tiền gửi và cho vay các tổ chức tín dụng (“TCTD”) khác
+96.514.863
+49.132.317
+1
+Tiền gửi tại các TCTD khác
+5.1
+88.120.085 
+40.322.487
+2
+Cho vay các TCTD khác
+5.2
+8.394.778 
+8.809.830
+IV
+Chứng khoán kinh doanh
+18.580.932 
+1.797.822
+1
+Chứng khoán kinh doanh
+6.1
+18.580.932 
+1.797.822
+V
+Các công cụ tài chính phái sinh và các tài sản tài chính khác
+7
+110.079 
+-
+VI
+Cho vay khách hàng
+8
+339.349.838 
+260.754.811
+1
+Cho vay khách hàng
+343.404.295 
+263.856.383
+2
+Dự phòng rủi ro cho vay khách hàng
+(4.054.457) 
+(3.101.572)
+VIII
+Chứng khoán đầu tư
+44.092.289 
+48.789.184
+1
+Chứng khoán đầu tư sẵn sàng để bán
+9.1
+31.871.688 
+35.375.058
+2
+Chứng khoán đầu tư giữ đến ngày đáo hạn
+9.2
+12.304.873 
+13.444.130
+3
+Dự phòng rủi ro chứng khoán đầu tư 
+9.6
+(84.272) 
+(30.004)
+IX
+Góp vốn, đầu tư dài hạn
+10
+143.781 
+144.023
+4
+Đầu tư dài hạn khác
+163.921 
+163.921
+5
+Dự phòng giảm giá đầu tư dài hạn
+(20.140) 
+(19.898)
+X
+Tài sản cố định
+1.422.759 
+1.315.057
+1
+Tài sản cố định hữu hình
+11.1
+713.141 
+631.621
+a
+Nguyên giá
+1.702.786 
+1.519.411
+b
+Giá trị khấu hao lũy kế
+(989.645) 
+(887.790)
+3
+Tài sản cố định vô hình
+11.2
+709.618 
+683.436
+a
+Nguyên giá
+1.076.187 
+1.006.273
+b
+Giá trị khấu hao lũy kế
+(366.569) 
+(322.837)
+XII
+Tài sản Có khác
+57.808.636 
+ 40.128.470 
+1
+Các khoản phải thu
+12.1
+48.942.933
+33.406.609 
+2
+Các khoản lãi, phí phải thu
+12.2
+6.602.101
+4.403.501 
+3
+Tài sản thuế thu nhập doanh nghiệp (“TNDN”) hoãn lại
+31
+76.708 
+32.798
+4
+Tài sản Có khác
+12.3
+2.233.415 
+2.331.870 
+- Trong đó: Lợi thế thương mại
+12.4
+-
+4.799
+5
+Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác
+(46.521)
+(46.308)
+TỔNG TÀI SẢN
+602.314.859 
+416.273.023 
+Tại ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+B
+NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+I
+Các khoản nợ Chính phủ và NHNN 
+13
+26.590 
+   10.821.258 
+1
+Tiền gửi và vay Chính phủ, NHNN
+26.590 
+   10.821.258
+II
+Tiền gửi và vay các TCTD khác
+112.086.978 
+       92.653.200 
+1
+Tiền gửi của các TCTD khác
+14.1
+62.597.686 
+        49.440.640 
+2
+Vay các TCTD khác
+14.2
+49.489.292 
+        43.212.560 
+III
+Tiền gửi của khách hàng
+15
+370.777.888 
+      215.797.174 
+IV
+Các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+7
+-
+226.480
+V
+Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro
+16
+2.811.129 
+          2.860.155 
+VI
+Phát hành giấy tờ có giá
+17
+50.938.148 
+       44.161.640 
+VII
+Các khoản nợ khác
+18
+19.273.804 
+10.758.230
+1
+Các khoản lãi, phí phải trả
+18.1
+10.346.499 
+5.052.933
+3
+Các khoản phải trả và công nợ khác
+18.2
+8.927.305 
+5.705.297
+TỔNG NỢ PHẢI TRẢ
+555.914.537 
+ 377.278.137
+VIII
+Vốn chủ sở hữu
+19
+46.400.322 
+38.994.886
+1
+Vốn của TCTD
+29.198.918 
+25.426.026
+a
+Vốn điều lệ
+29.076.321 
+25.303.429
+b
+Vốn đầu tư xây dựng cơ bản
+89 
+89
+c
+Thặng dư vốn cổ phần
+535.956 
+535.956
+d
+Cổ phiếu quỹ
+(413.448) 
+(413.448)
+2
+Quỹ của TCTD
+4.708.243 
+3.527.727
+5
+Lợi nhuận chưa phân phối
+10.561.698 
+    7.999.785
+6
+Lợi ích cổ đông không kiểm soát
+1.931.463 
+2.041.348
+TỔNG VỐN CHỦ SỞ HỮU
+46.400.322 
+ 38.994.886 
+TỔNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+602.314.859 
+416.273.023 
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT 
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo) 
+Mẫu B02/TCTD-HN
+Mẫu B02/TCTD-HN
+
+226  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+227
+VII. BÁO CÁO TÀI CHÍNH
+CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT 
+Tại ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+1
+Bảo lãnh vay vốn
+36.1
+809.436 
+406.790
+2
+Cam kết giao dịch hối đoái
+36.1
+259.213.350
+69.775.987
+ -  Cam kết mua ngoại tệ 
+4.293.490 
+2.512.790
+  - Cam kết bán ngoại tệ 
+4.542.374 
+2.912.961
+  - Cam kết giao dịch hoán đổi
+250.377.486
+64.350.236 
+4
+Cam kết trong nghiệp vụ L/C
+36.1
+2.191.087 
+4.155.744
+5
+Bảo lãnh khác
+36.1
+15.548.620 
+4.215.505
+6
+Các cam kết khác
+36.1
+5.318.378 
+3.724.488
+7
+Lãi cho vay và phí phải thu chưa thu được
+37.1
+2.364.349 
+1.518.715
+8
+Nợ khó đòi đã xử lý
+37.2
+15.584.338 
+11.426.060
+9
+Tài sản và chứng từ khác
+37.3
+27.061.445 
+14.277.966
+328.091.003
+109.501.255 
+Cho năm tài chính kết thúc
+ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+1
+Thu nhập lãi và các khoản thu nhập tương tự 
+20
+52.640.577 
+33.323.404
+2
+Chi phí lãi và các chi phí tương tự 
+21
+(30.456.603) 
+(15.311.836)
+I
+Thu nhập lãi thuần
+22.183.974 
+18.011.568
+3
+Thu nhập từ hoạt động dịch vụ 
+22
+2.830.168 
+3.308.455
+4
+Chi phí hoạt động dịch vụ
+23
+(642.366) 
+   (351.637)
+II
+Lãi thuần từ hoạt động dịch vụ
+2.187.802 
+2.956.818
+III
+Lãi thuần từ hoạt động kinh doanh ngoại hối 
+24
+564.703 
+134.237
+IV
+Lãi thuần từ mua bán chứng khoán kinh doanh
+25
+41.723 
+16.986
+V
+Lãi thuần từ mua bán chứng khoán đầu tư
+26
+1.167.005 
+312.620
+5
+Thu nhập từ hoạt động khác
+541.644 
+588.126
+6
+Chi phí hoạt động khác
+(282.491) 
+(60.036)
+VI
+Lãi thuần từ hoạt động khác
+27
+259.153 
+528.090
+VII
+Thu nhập từ góp vốn, mua cổ phần
+28
+9.325 
+6.785
+VIII
+Chi phí hoạt động
+29
+(9.129.202) 
+(8.630.709)
+IX
+Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự 
+phòng rủi ro tín dụng
+17.284.483 
+13.336.395
+X
+Chi phí dự phòng rủi ro tín dụng
+30
+(4.267.751) 
+(3.068.339)
+XI
+Tổng lợi nhuận trước thuế
+13.016.732 
+10.268.056
+7
+Chi phí thuế TNDN - hiện hành
+31
+(2.724.629) 
+(2.091.986)
+8
+Thu nhập thuế TNDN - hoãn lại
+31
+43.910
+33.400
+XII
+Chi phí thuế TNDN
+(2.680.719) 
+(2.058.586)
+XIII
+Lợi nhuận sau thuế
+10.336.013 
+8.209.470
+Phân bổ cho:
+Các cổ đông sở hữu cổ phần phổ thông của Ngân hàng
+10.070.898 
+7.749.794
+Cổ đông không kiểm soát
+265.115 
+459.676
+XV
+Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)
+19.2
+3.482 
+2.689 
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT 
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Mẫu B02/TCTD-HN
+Mẫu B03/TCTD-HN
+Hồ Đặng Hoàng Quyên
+Kế toán trưởng
+Phạm Văn Đẩu
+Giám đốc tài chính
+Phạm Quốc Thanh
+Tổng Giám đốc
+Ngày 29 tháng 3 năm 2024
+Hồ Đặng Hoàng Quyên
+Kế toán trưởng
+Phạm Văn Đẩu
+Giám đốc tài chính
+Phạm Quốc Thanh
+Tổng Giám đốc
+Ngày 29 tháng 3 năm 2024
+
+228  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+229
+VII. BÁO CÁO TÀI CHÍNH
+Năm tài chính kết thúc
+ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+01
+Thu nhập lãi và các khoản thu nhập tương tự nhận được
+50.366.284
+32.577.872
+02
+Chi phí lãi và các chi phí tương tự đã trả
+(25.602.661) 
+(14.319.631)
+03
+Thu nhập từ hoạt động dịch vụ nhận được
+2.596.238 
+2.792.794
+04
+Chênh lệch số tiền thực thu từ hoạt động kinh doanh (ngoại tệ, 
+vàng bạc và chứng khoán)
+1.654.834 
+225.515
+05
+Thu nhập khác
+88.876 
+111.209
+06
+Tiền thu các khoản nợ đã được xử lý, bù đắp bằng nguồn dự 
+phòng rủi ro
+290.855 
+437.234
+07
+Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ
+(8.980.790) 
+(8.668.312)
+08
+Tiền thuế TNDN thực nộp trong năm
+34
+(2.241.447) 
+(1.154.553)
+LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG  KINH DOANH 
+TRƯỚC NHỮNG THAY ĐỔI  VỀ TÀI SẢN VÀ VỐN LƯU ĐỘNG
+18.172.189
+12.002.128
+Những thay đổi về tài sản hoạt động
+09
+Giảm/(tăng) các khoản tiền gửi và cho vay các TCTD khác
+415.052 
+(8.704.484)
+10
+(Tăng)/giảm các khoản về kinh doanh chứng khoán 
+(12.165.396) 
+26.010.304
+11
+Tăng các công cụ tài chính phái sinh và các tài sản tài chính khác
+(110.079) 
+-
+12
+Tăng các khoản cho vay khách hàng
+(79.547.912) 
+(60.645.482)
+13
+Giảm nguồn dự phòng để xử lý rủi ro, xử lý, bù đắp tổn thất  
+các khoản
+(3.314.867) 
+(2.418.835)
+14
+Tăng khác về tài sản hoạt động
+(14.661.359)
+(13.057.913)
+Những thay đổi về công nợ hoạt động
+15
+(Giảm)/tăng các khoản nợ NHNN
+(10.794.668) 
+10.728.602
+16
+Tăng/(giảm) các khoản tiền gửi, tiền vay các TCTD khác
+19.433.778 
+(14.589.382)
+17
+Tăng tiền gửi của khách hàng
+154.980.714 
+32.514.057
+18
+Tăng phát hành giấy tờ có giá
+6.776.508 
+1.405.527
+19
+Giảm vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro
+(49.026) 
+(76.709)
+20
+(Giảm)/tăng các công cụ tài chính phái sinh và các khoản nợ tài 
+chính khác
+(226.480) 
+210.930
+21
+Tăng khác về công nợ hoạt động
+1.778.906 
+912.441
+22
+Chi từ các quỹ của TCTD
+(30.315) 
+(10.262)
+I
+LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG KINH DOANH
+80.657.045 
+(15.719.078)
+Năm tài chính kết thúc
+ngày 31 tháng 12 năm
+Thuyết 
+minh
+2023
+Triệu đồng
+2022
+Triệu đồng
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
+01
+Mua sắm tài sản cố định (“TSCĐ”)
+(273.921) 
+(122.001)
+02
+Tiền thu từ thanh lý, nhượng bán TSCĐ
+753 
+21.447
+08
+Tiền thu đầu tư, góp vốn vào các đơn vị khác
+-
+500
+09
+Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư,  
+góp vốn dài hạn
+9.325 
+22.069
+II
+LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG ĐẦU TƯ
+(263.843) 
+(77.985)
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+01
+Tăng vốn từ phát hành cổ phiếu
+-
+200.000
+04
+Cổ tức trả cho cổ đông
+19.1
+(2.515.261) 
+-
+III
+LƯU CHUYỂN TIỀN THUẦN TỪ HOẠT ĐỘNG TÀI CHÍNH
+(2.515.261) 
+200.000
+IV
+LƯU CHUYỂN TIỀN THUẦN TRONG NĂM
+77.877.941
+(15.597.063)
+V
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU NĂM 
+54.533.826 
+70.130.889
+VII
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI NĂM
+32
+132.411.767
+54.533.826
+        
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT 
+(Theo phương pháp trực tiếp)
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (tiếp theo) 
+(Theo phương pháp trực tiếp)
+Mẫu B04/TCTD-HN
+Mẫu B04/TCTD-HN
+Hồ Đặng Hoàng Quyên
+Kế toán trưởng
+Phạm Văn Đẩu
+Giám đốc tài chính
+Phạm Quốc Thanh
+Tổng Giám đốc
+Ngày 29 tháng 3 năm 2024
+
+230  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+231
+VII. BÁO CÁO TÀI CHÍNH
+1. 
+ĐẶC ĐIỂM HOẠT ĐỘNG CỦA NGÂN HÀNG
+ Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh (“Ngân hàng”) là một ngân hàng thương mại 
+cổ phần được thành lập tại Việt Nam theo Giấy phép thành lập và hoạt động đầu tiên số 00019/NH-GP do NHNN 
+cấp ngày 6 tháng 6 năm 1992 và được thay thế bởi Giấy phép số 26/GP-NHNN ngày 12 tháng 2 năm 2020 với thời 
+gian hoạt động là 99 năm từ ngày 6 tháng 6 năm 1992. 
+Cổ phiếu của Ngân hàng được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch 
+cổ phiếu là HDB.
+Ngân hàng được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu tiên số 0300608092 ngày 11 tháng 8 năm 
+1992 bởi Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh và bắt đầu hoạt động từ ngày được cấp phép, và Giấy 
+chứng nhận đăng ký doanh nghiệp điều chỉnh gần nhất lần thứ 33 cấp ngày 5 tháng 9 năm 2023. Tại ngày 31 
+tháng 12 năm 2023, vốn điều lệ của Ngân hàng là 29.076.321.320.000 đồng (tại ngày 31 tháng 12 năm 2022: 
+25.303.429.220.000 đồng).
+Hoạt động chính của Ngân hàng và công ty con bao gồm huy động và nhận tiền gửi ngắn hạn, trung hạn và dài 
+hạn từ các tổ chức và cá nhân; cho vay ngắn hạn, trung hạn và dài hạn đối với các tổ chức và cá nhân trên cơ sở 
+tính chất và khả năng nguồn vốn của Ngân hàng và công ty con; thực hiện các giao dịch ngoại tệ; các dịch vụ tài 
+trợ thương mại quốc tế; chiết khấu thương phiếu, trái phiếu và các giấy tờ có giá (“GTCG”) khác; cung cấp dịch vụ 
+thanh toán và các dịch vụ ngân hàng khác được NHNN cho phép.
+Ngân hàng có trụ sở chính tại 25Bis Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh. 
+Tại ngày 31 tháng 12 năm 2023, Ngân hàng có 1 Hội sở, 1 văn phòng đại diện khu vực miền Bắc, 1 văn phòng 
+đại diện tại Myanmar, 79 chi nhánh, 273 phòng giao dịch (tại ngày 31 tháng 12 năm 2022: 1 Hội sở, 1 văn phòng 
+đại diện khu vực miền Bắc, 1 văn phòng đại diện tại Myanmar, 77 chi nhánh, 267 phòng giao dịch) tại các tỉnh và 
+thành phố trên cả nước.
+Tại ngày 31 tháng 12 năm 2023, Ngân hàng và công ty con có 17.345 nhân viên (tại ngày 31 tháng 12 năm 2022: 
+16.326 nhân viên).
+Tại ngày 31 tháng 12 năm 2023 và tại ngày 31 tháng 12 năm 2022, Ngân hàng có 1 công ty con. Chi tiết như sau:
+Hoạt động 
+chính
+Nơi thành lập, 
+đăng ký hoạt động
+31.12.2023
+31.12.2022
+Tỷ lệ sở 
+hữu 
+Tỷ lệ quyền 
+biểu quyết
+Tỷ lệ sở 
+hữu 
+Tỷ lệ quyền 
+biểu quyết
+%
+%
+%
+%
+Công ty con
+Công ty Tài chính TNHH HD 
+SAISON (“HD SAISON”)
+Tài chính/ 
+Ngân hàng
+Thành phố 
+Hồ Chí Minh
+50%
+50%
+50%
+50%
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU 
+ 
+2.1 
+Cơ sở của việc lập báo cáo tài chính hợp nhất
+ 
+Báo cáo tài chính hợp nhất được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy 
+định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất áp dụng cho các TCTD hoạt động 
+tại Việt Nam. Báo cáo tài chính hợp nhất được lập theo nguyên tắc giá gốc.
+ 
+Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động và 
+tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các 
+thể chế khác ngoài Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại Việt Nam có thể khác với các nguyên 
+tắc và thông lệ kế toán tại các nước và các thể chế khác. 
+ 
+2.2 
+Năm tài chính  
+ 
+Năm tài chính của Ngân hàng và công ty con bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+2.3 
+Đơn vị tiền tệ sử dụng trong kế toán 
+ 
+Ngân hàng và công ty con sử dụng đơn vị tiền tệ trong kế toán là Đồng Việt Nam (“VND” hoặc “Đồng”). Báo cáo 
+tài chính hợp nhất được lập bằng Đồng Việt Nam, được làm tròn tới hàng triệu đồng gần nhất (“Triệu đồng”). 
+Ngân hàng và công ty con xác định đơn vị tiền tệ sử dụng trong kế toán phù hợp với Chuẩn mực Kế toán Việt 
+Nam, Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan hiện hành áp dụng cho các TCTD hoạt động 
+tại Việt Nam.
+ 
+Tất cả các nghiệp vụ phát sinh của Ngân hàng và công ty con được hạch toán theo nguyên tệ. Các nghiệp vụ 
+phát sinh bằng ngoại tệ được quy đổi theo tỷ giá áp dụng tại ngày phát sinh nghiệp vụ. Tài sản và công nợ bằng 
+ngoại tệ tại thời điểm cuối tháng được quy đổi theo tỷ giá áp dụng vào ngày cuối tháng. Chênh lệch do đánh giá 
+lại hàng tháng được ghi nhận vào khoản mục chênh lệch tỷ giá hối đoái trên báo cáo tình hình tài chính hợp nhất 
+cuối mỗi tháng và được kết chuyển vào báo cáo kết quả hoạt động hợp nhất vào thời điểm cuối năm.
+ 
+2.4 
+Cơ sở hợp nhất báo cáo tài chính 
+ 
+Công ty con 
+Công ty con là doanh nghiệp mà Ngân hàng có quyền chi phối các chính sách tài chính và hoạt động của doanh 
+nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nắm giữ ít 
+nhất một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi 
+hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Ngân hàng có quyền kiểm soát doanh nghiệp hay không. 
+Công ty con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao cho Ngân hàng. Việc hợp nhất 
+chấm dứt kể từ lúc quyền kiểm soát không còn. 
+Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa Ngân hàng và công ty con được 
+loại trừ khi hợp nhất. 
+Báo cáo tài chính của công ty con sử dụng để hợp nhất phải được lập cho cùng một năm tài chính và được áp 
+dụng các chính sách kế toán nhất quán với chính sách kế toán đang được Ngân hàng mẹ áp dụng. 
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT 
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) 
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+
+232  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+233
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.4 
+Cơ sở hợp nhất báo cáo tài chính (tiếp theo) 
+ 
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát 
+ 
+Ngân hàng và công ty con áp dụng chính sách cho các nghiệp vụ đối với cổ đông không kiểm soát giống như 
+nghiệp vụ với các bên không thuộc Ngân hàng và công ty con. Lợi ích cổ đông không kiểm soát được xác định 
+theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua. 
+ 
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Ngân hàng trong công ty con mà không dẫn đến mất quyền kiểm 
+soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của 
+Ngân hàng trong tài sản thuần của công ty con và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận 
+vào lợi nhuận chưa phân phối thuộc vốn chủ sở hữu. 
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Ngân hàng trong công ty con dẫn đến việc mất quyền kiểm soát 
+đối với công ty con, thì chênh lệch giữa giá trị thay đổi phần sở hữu của Ngân hàng trong tài sản thuần của công 
+ty con và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào báo cáo kết quả hoạt động hợp nhất. 
+Phần sở hữu còn lại trong công ty này sẽ được hạch toán như một khoản đầu tư tài chính thông thường hoặc kế 
+toán theo phương pháp vốn chủ sở hữu kể từ khi Ngân hàng mẹ không còn nắm quyền kiểm soát công ty con. 
+2.5 
+Lợi thế thương mại
+Lợi thế thương mại là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Ngân hàng 
+trong tổng giá trị hợp lý của tài sản thuần của công ty con tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương 
+mại có được từ việc mua công ty con được coi là một loại tài sản, được tính khấu hao theo phương pháp đường 
+thẳng trên thời gian hữu dụng ước tính của lợi thế thương mại đó nhưng không quá 10 năm.
+Khi bán khoản đầu tư vào công ty con, giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được tính 
+vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+Lợi thế thương mại được ghi nhận theo giá gốc trừ khấu hao lũy kế, và được đánh giá tổn thất lợi thế thương mại 
+định kỳ hàng năm. Nếu có bằng chứng cho thấy phần giá trị lợi thế thương mại bị tổn thất lớn hơn số phân bổ 
+hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong năm phát sinh.
+2.6 
+Tiền và các khoản tương đương tiền
+  
+Trên báo cáo lưu chuyển tiền tệ hợp nhất, tiền và các khoản tương đương tiền bao gồm tiền mặt, vàng, tiền gửi 
+thanh toán tại NHNN, tiền gửi tại các TCTD khác không kỳ hạn và có kỳ hạn gốc không quá 3 tháng. 
+2.7 
+Tiền gửi và cho vay các TCTD khác 
+ 
+Tiền gửi tại các TCTD khác bao gồm tiền gửi không kỳ hạn; tiền gửi có kỳ hạn gốc không quá 3 tháng tại các TCTD, 
+chi nhánh ngân hàng nước ngoài trong nước và tiền gửi tại các TCTD nước ngoài, và được ghi nhận theo số dư 
+nợ gốc. 
+Cho vay các TCTD khác là các khoản cho vay các TCTD có kỳ hạn gốc dưới 1 năm.
+Tiền gửi có kỳ hạn và cho vay các TCTD khác được phản ánh theo số dư nợ gốc trừ đi dự phòng cụ thể. 
+Việc phân loại nợ và lập dự phòng rủi ro tín dụng đối với các khoản tiền gửi có kỳ hạn và cho vay các TCTD khác 
+được thực hiện theo Thông tư 11/2021/TT-NHNN ("Thông tư 11") tương tự như chính sách áp dụng đối với các 
+khoản cho vay khách hàng như được trình bày trong Thuyết minh 2.8.
+Theo Thông tư 11, Ngân hàng và công ty con không cần phải trích lập dự phòng chung đối với các khoản tiền 
+gửi và cho vay các TCTD khác.
+2 
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng
+2.8.1  
+Kế toán đối với cho vay khách hàng
+Đo lường và ghi nhận các khoản cho vay khách hàng
+Các khoản cho vay ngắn hạn là các khoản cho vay có kỳ hạn đến 1 năm kể từ ngày giải ngân; các khoản cho vay 
+trung hạn có kỳ hạn từ trên 1 năm đến 5 năm kể từ ngày giải ngân; các khoản cho vay dài hạn có kỳ hạn trên 5 
+năm kể từ ngày giải ngân.
+Các khoản cho vay khách hàng được ghi nhận theo số dư nợ gốc trừ dự phòng rủi ro tín dụng.
+Phân loại các khoản cho vay khách hàng
+Ngân hàng và công ty con thực hiện phân loại nợ và trích lập dự phòng rủi ro tín dụng theo Thông tư 11.
+Theo Thông tư 11, phân loại các khoản cho vay khách hàng được chia thành 5 nhóm nợ căn cứ vào tình hình trả 
+nợ và các yếu tố định lượng như sau:
+Nhóm 1: Nợ đủ tiêu chuẩn
+(a)  Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc 
+(b) Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và 
+thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn; hoặc
+(c) Khoản nợ được phân loại vào nhóm 1 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn. 
+Nhóm 2: Nợ cần chú ý
+(a) Khoản nợ quá hạn đến 90 ngày, trừ khoản nợ quy định tại điểm (b) của Nợ đủ tiêu chuẩn và khoản nợ phân 
+loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc 
+(b) Khoản nợ được điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn, trừ khoản nợ đáp ứng tiêu chí được phân loại vào 
+nhóm nợ có rủi ro thấp hơn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc 
+(c) Khoản nợ được phân loại vào nhóm 2 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn 
+hoặc do khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định.
+ Nhóm 3: Nợ dưới tiêu chuẩn
+(a) Khoản nợ quá hạn từ 91 ngày đến 180 ngày; trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc 
+(b) Khoản nợ gia hạn nợ lần đầu còn trong hạn, trừ khoản nợ quy định tại điểm (b) khoản 2, khoản 3 Điều 10 
+Thông tư 11; hoặc 
+(c) Khoản nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận, trừ 
+khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc 
+(d) Khoản nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày 
+có quyết định thu hồi: 
+ »
+Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật Các tổ chức tín dụng; hoặc
+ »
+Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật Các tổ chức tín dụng; hoặc
+ »
+Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật Các tổ chức tín dụng.
+(e) Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc  
+(f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng và công ty con do khách hàng vi 
+phạm thỏa thuận với Ngân hàng và công ty con chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có 
+quyết định thu hồi; hoặc 
+(g) Khoản nợ được phân loại vào nhóm 3 theo quy định tại khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc
+(h) Khoản nợ phải phân loại vào nhóm 3 theo quy định tại khoản 4 Điều 8 Thông tư 11.
+
+234  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+235
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng (tiếp theo) 
+ 
+2.8.1  
+Kế toán đối với cho vay khách hàng (tiếp theo)
+Phân loại các khoản cho vay khách hàng (tiếp theo)
+Nhóm 4: Nợ nghi ngờ
+(a) Khoản nợ quá hạn từ 181 ngày đến 360 ngày, trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc 
+(b) Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu, 
+trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+(c) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn, trừ khoản nợ quy định tại điểm (b) khoản 2, 
+khoản 3 Điều 10 Thông tư 11; hoặc 
+(d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 
+ngày kể từ ngày có quyết định thu hồi; hoặc 
+(e) Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, 
+kiểm tra đến 60 ngày mà chưa thu hồi được; hoặc 
+(f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng và công ty con do khách hàng vi 
+phạm thỏa thuận với Ngân hàng và công ty con chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể 
+từ ngày có quyết định thu hồi; hoặc
+(g) Khoản nợ được phân loại vào nhóm 4 theo quy định tại khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc 
+(h) Khoản nợ phải phân loại vào nhóm 4 theo quy định tại khoản 4 Điều 8 Thông tư 11. 
+ 
+Nhóm 5: Nợ có khả năng mất vốn
+(a) Khoản nợ quá hạn trên 360 ngày; hoặc 
+(b) Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần 
+đầu; hoặc 
+(c) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc 
+(d) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, trừ khoản nợ quy định tại điểm b khoản 2 Điều 10 Thông 
+tư 11; hoặc 
+(e) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trên 60 ngày kể từ ngày có quyết 
+định thu hồi; hoặc 
+(f) Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, 
+kiểm tra trên 60 ngày mà chưa thu hồi được; hoặc 
+(g) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng và công ty con do khách hàng vi 
+phạm thỏa thuận với Ngân hàng và công ty con chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu 
+hồi; hoặc 
+(h) Khoản nợ của khách hàng là TCTD đang được kiểm soát đặc biệt, chi nhánh ngân hàng nước ngoài đang bị 
+phong tỏa vốn và tài sản; hoặc
+(i) Khoản nợ được phân loại vào nhóm 5 theo quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+(j) Khoản nợ phải phân loại vào nhóm 5 theo quy định tại khoản 4 Điều 8 Thông tư 11. 
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+ 
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)  
+ 
+2.8.1  
+Kế toán đối với cho vay khách hàng (tiếp theo)
+ 
+ Nợ được phân loại lại vào nhóm nợ có rủi ro thấp hơn (kể cả nhóm 1) khi:
+ 
+Đối với nợ quá hạn
+ 
+ »
+Khách hàng đã trả đầy đủ phần nợ gốc và lãi bị quá hạn (kể cả lãi áp dụng đối với nợ gốc quá hạn) và nợ gốc 
+và lãi của các kỳ hạn trả nợ tiếp theo trong thời gian tối thiểu 03 (ba) tháng đối với nợ trung và dài hạn, 01 (một) 
+tháng đối với nợ ngắn hạn, kể từ ngày bắt đầu trả đầy đủ nợ gốc và lãi bị quá hạn, và
+ »
+Ngân hàng và công ty con có đủ cơ sở thông tin, tài liệu đánh giá khách hàng có khả năng trả đầy đủ nợ gốc và 
+lãi còn lại đúng thời hạn.
+ 
+Đối với nợ cơ cấu lại thời hạn trả nợ
+ 
+ »
+Khách hàng đã trả đầy đủ nợ gốc và lãi theo thời hạn trả nợ được cơ cấu lại trong thời gian tối thiểu 03 (ba) 
+tháng đối với nợ trung và dài hạn, 01 (một) tháng đối với nợ ngắn hạn, kể từ ngày bắt đầu trả đầy đủ nợ gốc và 
+lãi theo thời hạn được cơ cấu lại; và
+ »
+Ngân hàng và công ty con có đủ cơ sở thông tin, tài liệu đánh giá khách hàng có khả năng trả đầy đủ nợ gốc 
+và lãi còn lại đúng thời hạn.
+ Nợ được phân loại vào nhóm nợ có rủi ro cao hơn khi:
+ 
+ »
+Các chỉ tiêu về khả năng sinh lời, khả năng thanh toán, tỷ lệ nợ trên vốn, dòng tiền, khả năng trả nợ của khách 
+hàng suy giảm liên tục qua 3 lần đánh giá, phân loại nợ liên tục; hoặc
+ »
+Khách hàng không cung cấp đầy đủ, kịp thời và trung thực các thông tin tài chính theo yêu cầu của Ngân hàng 
+và công ty con để đánh giá khả năng trả nợ của khách hàng; hoặc
+ »
+Khoản nợ đã được phân loại vào nhóm 2, nhóm 3, nhóm 4 từ 01 (một) năm trở lên nhưng không đủ điều kiện 
+phân loại vào nhóm nợ có rủi ro thấp hơn; hoặc
+ »
+Khoản nợ mà hành vi cấp tín dụng bị xử phạt vi phạm hành chính theo quy định của pháp luật. 
+ 
+Nợ xấu là nợ thuộc các Nhóm 3, 4 và 5.
+  
+Ngân hàng và công ty con được yêu cầu sử dụng kết quả phân loại rủi ro tín dụng do Trung tâm Thông tin tín 
+dụng thuộc NHNN (“CIC”) cung cấp để phân loại các khoản cho vay khách hàng của Ngân hàng và công ty con 
+vào nhóm nợ có rủi ro cao hơn giữa nhóm nợ được đánh giá bởi Ngân hàng và công ty con và nhóm nợ do CIC 
+cung cấp.
+ 
+Trường hợp một khách hàng có nhiều hơn một khoản nợ với Ngân hàng và công ty con mà có bất kỳ khoản nợ 
+bị chuyển sang nhóm nợ rủi ro cao hơn thì Ngân hàng và công ty con phân loại các khoản nợ còn lại của khách 
+hàng đó vào các nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro.
+ 
+Khi Ngân hàng và công ty con tham gia cho vay hợp vốn, Ngân hàng và công ty con thực hiện phân loại tất cả các 
+khoản nợ (bao gồm cả khoản cho vay hợp vốn) của khách hàng đó vào nhóm rủi ro cao nhất theo kết quả phân 
+loại nợ của các thành viên tham gia cấp tín dụng hợp vốn.
+
+236  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+237
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+ 
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)  
+ 
+2.8.1  
+Kế toán đối với cho vay khách hàng (tiếp theo)
+  
+Dự phòng rủi ro cho vay khách hàng:
+Dự phòng rủi ro tín dụng bao gồm dự phòng cụ thể và dự phòng chung.
+Dự phòng cụ thể
+ 
+Việc tính dự phòng cụ thể được căn cứ trên các tỷ lệ áp dụng cho từng nhóm nợ như sau:
+ 
+Tỷ lệ dự phòng
+Nhóm 1 - Nợ đủ tiêu chuẩn 
+0%
+Nhóm 2 - Nợ cần chú ý
+5%
+Nhóm 3 - Nợ dưới tiêu chuẩn
+20%
+Nhóm 4 - Nợ nghi ngờ
+50%
+Nhóm 5 - Nợ có khả năng mất vốn
+100%
+ 
+Dự phòng cụ thể được tính theo số dư các khoản cho vay từng khách hàng tại ngày làm việc cuối cùng của mỗi 
+tháng trừ đi giá trị khấu trừ của tài sản bảo đảm. 
+Tỷ lệ khấu trừ tối đa đối với các tài sản bảo đảm được xác định theo quy định của Thông tư 11 như sau:
+Loại tài sản bảo đảm
+Tỷ lệ khấu 
+trừ tối đa 
+(a) Số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng Đồng Việt Nam tại chính Ngân hàng
+100%
+(b) Trái phiếu Chính phủ, vàng miếng theo quy định của pháp luật về hoạt động kinh doanh vàng; số dư 
+tiền gửi, chứng chỉ tiền gửi của khách hàng bằng ngoại tệ tại chính Ngân hàng
+95% 
+(c) Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, kỳ 
+phiếu, tín phiếu, trái phiếu do chính Ngân hàng phát hành; số dư tiền gửi, chứng chỉ tiền gửi, kỳ phiếu, 
+tín phiếu do TCTD, chi nhánh ngân hàng nước ngoài khác phát hành:
+ »
+Có thời hạn còn lại dưới 1 năm
+ »
+Có thời hạn còn lại từ 1 năm đến 5 năm
+ »
+Có thời hạn còn lại trên 5 năm
+ 
+ 
+ 
+95%
+85%
+80%
+(d) Chứng khoán do các TCTD khác phát hành được niêm yết trên Sở giao dịch chứng khoán (“SGDCK”)
+70%
+(e) Chứng khoán do doanh nghiệp (trừ TCTD) phát hành được niêm yết trên SGDCK
+65%
+(f)  Chứng khoán chưa được niêm yết trên SGDCK, GTCG, trừ các khoản quy định tại điểm (c), do TCTD khác 
+có đăng ký niêm yết chứng khoán trên SGDCK phát hành;
+ 
+Chứng khoán chưa được niêm yết trên SGDCK, GTCG, trừ các khoản quy định tại điểm (c), do TCTD khác 
+không có đăng ký niêm yết chứng khoán trên SGDCK phát hành
+50% 
+30%
+(g) Chứng khoán chưa được niêm yết trên SGDCK, GTCG do doanh nghiệp có đăng ký niêm yết chứng 
+khoán trên SGDCK phát hành;
+ 
+Chứng khoán chưa được niêm yết trên SGDCK, GTCG do doanh nghiệp không có đăng ký niêm yết 
+chứng khoán trên SGDCK phát hành
+30% 
+10%
+(h) Bất động sản
+50%
+(i) Các loại tài sản bảo đảm khác
+30%
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO) 
+ 
+2.8 
+Các khoản cho vay khách hàng (tiếp theo) 
+ 
+2.8.1  
+Kế toán đối với cho vay khách hàng (tiếp theo)
+Dự phòng rủi ro cho vay khách hàng (tiếp theo):
+Dự phòng cụ thể (tiếp theo)
+Khi tài sản bảo đảm không phải là vàng miếng, chứng khoán đã niêm yết, cổ phiếu đã đăng ký giao dịch trên hệ 
+thống giao dịch Upcom, trái phiếu Chính phủ được niêm yết trên SGDCK, trái phiếu chính quyền địa phương, trái 
+phiếu Chính phủ bảo lãnh và trái phiếu doanh nghiệp (kể cả TCTD) đã niêm yết, đăng ký giao dịch; chứng khoán 
+chưa được niêm yết trên SGDCK, kỳ phiếu, tín phiếu, chứng chỉ tiền gửi do doanh nghiệp (kể cả TCTD, chi nhánh 
+ngân hàng nước ngoài) phát hành, thì Ngân hàng và công ty con phải thuê tổ chức có chức năng thẩm định giá 
+theo quy định của pháp luật để xác định giá trị tài sản bảo đảm được khấu trừ khi tính số tiền trích lập dự phòng 
+cụ thể cuối năm tài chính trong các trường hợp sau đây: 
+ »
+Tài sản bảo đảm mà Ngân hàng và công ty con định giá từ 50 tỷ đồng trở lên đối với khoản nợ của khách hàng 
+là người có liên quan của Ngân hàng và công ty con và các đối tượng bị hạn chế cấp tín dụng theo quy định 
+tại Điều 127 Luật Các tổ chức tín dụng (đã sửa đổi, bổ sung); 
+ »
+Tài sản bảo đảm mà Ngân hàng và công ty con định giá từ 200 tỷ đồng trở lên. 
+Đối với các trường hợp khác, tài sản bảo đảm được định giá theo quy định và quy trình nội bộ của Ngân hàng và 
+công ty con.
+Trường hợp không có văn bản định giá tài sản bảo đảm của tổ chức định giá và không xác định được giá trị tài sản 
+bảo đảm theo quy định nội bộ thì giá trị tài sản bảo đảm để khấu trừ phải coi bằng 0 (không).
+ 
+Dự phòng chung
+ 
+Dự phòng chung được lập với mức bằng 0,75% tổng số dư tại ngày làm việc cuối cùng của mỗi tháng của các 
+khoản cho vay khách hàng, không bao gồm các khoản cho vay khách hàng được phân loại vào nhóm nợ có khả 
+năng mất vốn.
+ 
+Xử lý nợ xấu
+ 
+Các khoản nợ xấu có thể được xử lý bằng dự phòng trong các trường hợp sau: 
+ 
+ »
+Khách hàng là tổ chức bị giải thể, phá sản theo quy định của pháp luật, cá nhân bị chết, mất tích; hoặc 
+ »
+Các khoản nợ được phân loại vào nhóm 5. 
+ 
+Sau thời gian tối thiểu 5 năm, kể từ ngày sử dụng dự phòng để xử lý rủi ro và sau khi đã thực hiện tất cả các biện 
+pháp của Hội đồng xử lý rủi ro để thu hồi nợ nhưng không thu hồi được, khoản nợ có thể được xuất toán ra khỏi 
+ngoại bảng theo quyết định của Hội đồng xử lý rủi ro của Ngân hàng và công ty con.
+
+238  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+239
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO) 
+ 
+2.8 
+Các khoản cho vay khách hàng (tiếp theo) 
+2.8.2 
+Cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng bởi 
+dịch Covid-19 
+Từ ngày 17 tháng 5 năm 2021, việc cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ nhằm 
+hỗ trợ khách hàng chịu ảnh hưởng bởi dịch Covid-19 được thực hiện theo quy định của Thông tư 03/2021/TT-
+NHNN (“Thông tư 03/2021”) có hiệu lực thi hành từ ngày 17 tháng 5 năm 2021 và Thông tư 14/2021/TT-NHNN 
+(“Thông tư 14/2021”) có hiệu lực thi hành từ ngày 7 tháng 9 năm 2021 sửa đổi, bổ sung một số điều của Thông 
+tư 01 quy định về việc TCTD, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí, giữ 
+nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng do dịch Covid-19. Chi tiết Thông tư 03/2021 và Thông 
+tư 14/2021 như sau:
+Ngân hàng và công ty con thực hiện cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí đối với số dư nợ gốc và/hoặc lãi của 
+khoản nợ đáp ứng đầy đủ các điều kiện sau đây:
+ »
+Phát sinh trước ngày 1 tháng 8 năm 2021 từ hoạt động cho vay (đối với cơ cấu lại thời hạn trả nợ) hoặc từ hoạt 
+động cấp tín dụng, trừ hoạt động mua, đầu tư trái phiếu doanh nghiệp (đối với miễn, giảm lãi, phí);
+ »
+Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 đến ngày 30 
+tháng 6 năm 2022;
+ »
+Khách hàng không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận đã ký do 
+doanh thu, thu nhập sụt giảm bởi ảnh hưởng của dịch Covid-19;
+ »
+Khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và Ngân hàng và công ty con đánh giá khách hàng có 
+khả năng trả nợ đầy đủ nợ gốc và/hoặc lãi theo thời hạn trả nợ được cơ cấu lại.
+Việc cơ cấu lại thời hạn trả nợ được thực hiện trong các trường hợp sau đây:
+ »
+Số dư nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp 
+đồng, thỏa thuận đã ký, trừ trường hợp quy định bên dưới;
+ »
+Số dư nợ của khoản nợ phát sinh trước ngày 23 tháng 1 năm 2020 và quá hạn trong khoảng thời gian từ ngày 
+23 tháng 1 năm 2020 đến ngày 29 tháng 3 năm 2020;
+ »
+Số dư nợ của khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 10 tháng 6 năm 2020 và quá 
+hạn trước ngày 17 tháng 5 năm 2021;
+ »
+Số dư nợ của khoản nợ phát sinh từ ngày 10 tháng 6 năm 2020 đến trước ngày 1 tháng 8 năm 2021 và quá 
+hạn từ ngày 17 tháng 7 năm 2021 đến trước ngày 7 tháng 9 năm 2021.
+Thời gian cơ cấu lại thời hạn trả nợ; miễn giảm, lãi, phí:
+ »
+Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia hạn nợ) phù hợp với mức độ ảnh hưởng của dịch 
+Covid-19 đối với khách hàng và không vượt quá 12 tháng kể từ ngày Ngân hàng và công ty con thực hiện cơ 
+cấu lại thời hạn trả nợ hoặc kể từ ngày đến hạn của từng số dư nợ được cơ cấu lại thời hạn trả nợ.
+ »
+Việc thực hiện cơ cấu lại thời hạn trả nợ; miễn, giảm lãi, phí cho khách hàng thực hiện đến ngày 30 tháng 6 
+năm 2022.
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)
+2.8.2 
+Cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng bởi 
+dịch Covid-19 (tiếp theo)
+Chi tiết việc phân loại nợ và giữ nguyên nhóm nợ của các khoản nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí 
+theo quy định:
+Đối với số dư nợ của khoản nợ phát sinh trước ngày 23 tháng 1 năm 2020 (bao gồm cả phần dư nợ đã cơ cấu lại 
+thời hạn trả nợ, miễn, giảm lãi và đã chuyển nhóm nợ theo quy định của NHNN trong khoảng thời gian từ ngày 
+23 tháng 1 năm 2020 đến ngày 29 tháng 3 năm 2020) được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí theo quy 
+định của Thông tư 03/2021, Ngân hàng và công ty con giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày 
+23 tháng 1 năm 2020. 
+Đối với số dư nợ của khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 1 tháng 8 năm 2021, Ngân 
+hàng và công ty con giữ nguyên nhóm nợ đối với số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi này như sau:
+ »
+Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày thực hiện cơ cấu lại thời hạn trả nợ lần đầu đối với 
+số dư nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp 
+đồng, thỏa thuận cho vay đã ký, trừ trường hợp quy định bên dưới;
+ »
+Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày khoản nợ bị chuyển quá hạn đối với số dư nợ của 
+khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 10 tháng 6 năm 2020 và quá hạn trước ngày 
+17 tháng 5 năm 2021;
+ »
+Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày khoản nợ bị chuyển quá hạn đối với số dư nợ của 
+khoản nợ phát sinh từ ngày 10 tháng 6 năm 2020 đến trước ngày 1 tháng 8 năm 2021 và quá hạn từ ngày 17 
+tháng 7 năm 2021 đến trước ngày 7 tháng 9 năm 2021;
+ »
+Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày thực hiện miễn, giảm lãi lần đầu đối với số dư nợ theo 
+quy định tại Thông tư 03/2021 và Thông tư 14/2021.
+Đối với số dư nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Thông tư 03/2021 và 
+Thông tư 14/2021 còn trong hạn theo thời hạn cơ cấu lại, Ngân hàng và công ty con không áp dụng nguyên tắc 
+điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn. 
+Đối với số lãi phải thu của khoản nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ đủ 
+tiêu chuẩn (Nhóm 1) theo quy định của Thông tư 03/2021 và Thông tư 14/2021, kể từ ngày được cơ cấu lại, Ngân 
+hàng và công ty con không hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đôn đốc thu. Thu 
+nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết quả hoạt động hợp nhất khi thu được.
+2.8.3 
+Trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi theo quy 
+định tại Thông tư 03/2021 và Thông tư 14/2021
+ 
+Ngân hàng và công ty con thực hiện trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại 
+thời hạn trả nợ, miễn, giảm lãi theo quy định của Thông tư 03/2021 như sau:
+Số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức sau:
+Số tiền dự phòng cụ thể phải trích bổ sung = A - B
+Trong đó:
+ »
+A: Số tiền dự phòng cụ thể phải trích đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo 
+Thông tư 11.
+ »
+B: Số tiền dự phòng cụ thể đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 
+03/2021 và Thông tư 14/2021.
+
+240  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+241
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)
+2.8.3 
+Trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi theo quy 
+định tại Thông tư 03/2021 và Thông tư 14/2021 (tiếp theo)
+ 
+Trường hợp số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức nêu trên là dương, Ngân 
+hàng và công ty con thực hiện trích bổ sung dự phòng cụ thể như sau:
+ »
+Đến thời điểm ngày 31.12.2021: Tối thiểu 30% số tiền dự phòng cụ thể phải trích bổ sung.
+ »
+Đến thời điểm ngày 31.12.2022: Tối thiểu 60% số tiền dự phòng cụ thể phải trích bổ sung.
+ »
+Đến thời điểm ngày 31.12.2023: 100% số tiền dự phòng cụ thể phải trích bổ sung.
+Việc trích lập dự phòng đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ theo quy định của Thông 
+tư 03/2021 và Thông tư 14/2021 không áp dụng điều chỉnh hồi tố.
+2.8.4 
+Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản 
+xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng
+Từ ngày 24 tháng 4 năm 2023, việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ nhằm 
+hỗ trợ khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay 
+phục vụ nhu cầu đời sống và tiêu dùng được thực hiện theo quy định của Thông tư 02/2023/TT-NHNN (“Thông tư 
+02/2023”) do NHNN ban hành ngày 23 tháng 4 năm 2023, trên cơ sở đề nghị của khách hàng, khả năng tài chính 
+của Ngân hàng và công ty con.
+Ngân hàng và công ty con thực hiện việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ và 
+đáp ứng các điều kiện sau:
+ »
+Dư nợ gốc phát sinh trước ngày 24 tháng 4 năm 2023 từ hoạt động cho vay;
+ »
+Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 24 tháng 4 năm 2023 đến hết ngày 
+30 tháng 6 năm 2024;
+ »
+Số dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày 
+đến hạn thanh toán, thời hạn trả nợ theo hợp đồng, thỏa thuận;
+ »
+Khách hàng được Ngân hàng và công ty con đánh giá không có khả năng trả nợ đúng hạn nợ gốc và/hoặc 
+lãi theo hợp đồng, thỏa thuận do doanh thu, thu nhập sụt giảm so với doanh thu, thu nhập tại phương án trả 
+nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận;
+ »
+Khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và được Ngân hàng và công ty con đánh giá có khả 
+năng trả nợ đầy đủ nợ gốc và/hoặc lãi theo thời hạn trả nợ được cơ cấu lại;
+ »
+Ngân hàng và công ty con không thực hiện cơ cấu lại thời hạn trả nợ đối với khoản nợ vi phạm quy định 
+pháp luật;
+ »
+Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia hạn nợ) được xác định phù hợp với mức độ khó khăn 
+của khách hàng và không vượt quá 12 tháng kể từ ngày đến hạn của số dư nợ được cơ cấu lại thời hạn trả nợ;
+ »
+Việc cơ cấu lại thời hạn trả nợ cho khách hàng theo quy định tại Thông tư 02/2023 được thực hiện từ ngày 24 
+tháng 4 năm 2023 đến hết ngày 30 tháng 6 năm 2024.
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)
+2.8.4 
+Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản 
+xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng (tiếp theo)
+Chi tiết phân loại nợ và giữ nguyên nhóm nợ:
+Ngân hàng và công ty con giữ nguyên nhóm nợ đối với khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời 
+hạn trả nợ (“khoản nợ được cơ cấu lại thời hạn trả nợ”) tại thời điểm gần nhất trước khi cơ cấu lại thời hạn trả nợ 
+theo quy định tại Thông tư 11.
+ »
+Đối với khoản nợ được cơ cấu lại thời hạn trả nợ còn trong hạn theo thời hạn cơ cấu lại, Ngân hàng và công 
+ty con không phải áp dụng nguyên tắc điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn theo 
+quy định tại Thông tư 11;
+ »
+Đối với khoản nợ được cơ cấu lại thời hạn trả nợ quá hạn theo thời hạn cơ cấu lại mà không được Ngân hàng 
+và công ty con tiếp tục cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 02/2023, Ngân hàng và công ty 
+con thực hiện phân loại nợ theo Thông tư 11.
+Đối với số lãi phải thu của khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời hạn trả nợ và giữ nguyên 
+nhóm nợ đủ tiêu chuẩn (nhóm 1) theo quy định tại Thông tư 02/2023, kể từ ngày được cơ cấu lại, Ngân hàng và 
+công ty con không hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đôn đốc thu. Thu nhập lãi 
+của các khoản nợ này được ghi nhận vào báo cáo kết quả hoạt động hợp nhất khi thu được.
+2.8.5 
+Trích lập dự phòng đối với khách hàng có số dư nợ và/hoặc lãi được cơ cấu lại thời hạn trả nợ theo quy định tại 
+Thông tư 02/2023
+Từ ngày 24 tháng 4 năm 2023, Ngân hàng và công ty con thực hiện trích lập dự phòng đối với khách hàng có số 
+dư nợ được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 02/2023 như sau:
+Số tiền dự phòng cụ thể phải trích bổ sung theo công thức sau:
+Số tiền dự phòng cụ thể phải trích bổ sung = A - B
+Trong đó:
+ »
+A: Số tiền dự phòng cụ thể phải trích đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo 
+Thông tư 11.
+ »
+B: Số tiền dự phòng cụ thể đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 
+02/2023.
+Trường hợp số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức nêu trên là dương, Ngân 
+hàng và công ty con thực hiện trích bổ sung dự phòng cụ thể như sau:
+ »
+Đến thời điểm ngày 31.12.2023: Tối thiểu 50% số tiền dự phòng cụ thể phải trích bổ sung;
+ »
+Đến thời điểm ngày 31.12.2024: 100% số tiền dự phòng cụ thể phải trích bổ sung.
+Tại ngày 31.12.2023, Ngân hàng đã trích lập 100% số tiền dự phòng cụ thể phải trích bổ sung.
+Ngân hàng và công ty con thực hiện trích lập dự phòng chung đối với toàn bộ dư nợ của khách hàng theo kết 
+quả phân loại nợ được xác định theo Thông tư 11.
+
+242  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+243
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.8 
+Các khoản cho vay khách hàng (tiếp theo)
+2.8.6  
+Hoạt động bán nợ
+Theo hướng dẫn của Thông tư 09/2015/TT-NHNN, phần chênh lệch giữa giá bán nợ và giá trị ghi sổ khoản nợ của 
+Ngân hàng được xử lý như sau:
+Đối với các khoản nợ đang được hạch toán nội bảng:
+ »
+Trường hợp giá bán cao hơn giá trị ghi sổ khoản nợ thì phần chênh lệch cao hơn được hạch toán vào thu 
+nhập khác trong năm.
+ »
+Trường hợp giá bán nợ thấp hơn giá trị khoản nợ thì phần chênh lệch thấp hơn được hạch toán vào chi phí 
+kinh doanh của Ngân hàng trong năm sau khi được bù đắp từ tiền bồi thường của các bên có liên quan, tiền 
+bảo hiểm của tổ chức bảo hiểm và quỹ dự phòng rủi ro nếu có.
+Đối với các khoản nợ đã xuất toán ra khỏi báo cáo tình hình tài chính hợp nhất và đang theo dõi ngoại bảng, thì 
+số tiền bán khoản nợ được hạch toán vào thu nhập khác của Ngân hàng.
+2.9 
+Các khoản cam kết ngoại bảng 
+ 
+Cam kết ngoại bảng bao gồm các khoản bảo lãnh, chấp nhận thanh toán và các cam kết cho vay không hủy 
+ngang và các cam kết khác phát sinh rủi ro tín dụng.
+ 
+Phân loại các khoản cam kết ngoại bảng
+ 
+Việc phân loại cam kết ngoại bảng được thực hiện theo Thông tư 11. 
+Theo Thông tư 11, Ngân hàng và công ty con phân loại các cam kết ngoại bảng căn cứ vào tình hình trả nợ và các 
+yếu tố định tính như sau: 
+ 
+Nhóm 1: Cam kết đủ tiêu chuẩn
+ »
+Các cam kết còn trong hạn mà Ngân hàng và công ty con đánh giá khách hàng có khả năng thực hiện đầy 
+đủ các nghĩa vụ theo cam kết. 
+ 
+Nhóm 2: Cam kết cần chú ý
+ »
+Các cam kết còn trong hạn mà Ngân hàng và công ty con đánh giá là khách hàng không có khả năng thực 
+hiện các nghĩa vụ cam kết khi đến hạn. 
+Các khoản cam kết được phân loại vào Nhóm 3 hoặc các nhóm có rủi ro cao hơn khi chúng thuộc một trong 
+những trường hợp sau:
+ »
+Các cam kết vi phạm các quy định của pháp luật về cấp tín dụng, quản lý ngoại hối và các tỷ lệ bảo đảm an 
+toàn đối với Ngân hàng và công ty con;
+ »
+Các cam kết vi phạm các quy định nội bộ về cấp tín dụng, quản lý cam kết, chính sách dự phòng rủi ro của 
+Ngân hàng và công ty con;
+ »
+Các cam kết có giá trị vượt quá các giới hạn cấp tín dụng, trừ trường hợp được phép vượt giới hạn, theo quy 
+định của pháp luật. 
+ 
+Dự phòng rủi ro các cam kết ngoại bảng 
+Theo Thông tư 11, các cam kết ngoại bảng chỉ được phân loại nợ để quản lý, giám sát chất lượng tín dụng. Do đó 
+không cần thực hiện trích lập dự phòng rủi ro. 
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.10 
+Đầu tư chứng khoán 
+ 
+Ngân hàng phân loại đầu tư chứng khoán theo Công văn số 2601/NHNN-TCKT do NHNN ban hành ngày 14 tháng 
+4 năm 2009: i) chứng khoán kinh doanh, ii) chứng khoán đầu tư sẵn sàng để bán và iii) chứng khoán đầu tư giữ 
+đến ngày đáo hạn. Ngân hàng phải phân loại chứng khoán ngay tại thời điểm mua.
+ 
+2.10.1 
+Chứng khoán kinh doanh
+ 
+Phân loại và ghi nhận
+Chứng khoán kinh doanh bao gồm chứng khoán nợ được mua với mục đích kinh doanh. Chứng khoán kinh 
+doanh được ghi nhận ban đầu theo giá gốc vào ngày Ngân hàng có quyền sở hữu chứng khoán.
+Đo lường
+Chứng khoán nợ kinh doanh niêm yết được ghi nhận theo giá gốc trừ đi dự phòng giảm giá. Dự phòng giảm giá 
+chứng khoán kinh doanh được lập khi giá trị ghi sổ cao hơn giá trị thị trường, được xác định là giá giao dịch gần 
+nhất tại SGDCK trong vòng 10 ngày tính đến ngày kết thúc năm tài chính. Chênh lệch giữa khoản dự phòng giảm 
+giá lập ở cuối năm tài chính này và khoản dự phòng giảm giá đã lập ở cuối năm tài chính trước được ghi nhận vào 
+báo cáo kết quả hoạt động hợp nhất trên khoản mục “Lãi thuần từ mua bán chứng khoán kinh doanh” trong năm. 
+Ngân hàng không thực hiện trích lập dự phòng đối với trái phiếu Chính phủ, trái phiếu chính quyền địa phương 
+và trái phiếu Chính phủ bảo lãnh. 
+Chứng khoán nợ kinh doanh chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên thị 
+trường giao dịch của các công ty đại chúng chưa niêm yết được ghi nhận theo giá gốc trừ đi dự phòng rủi ro tín 
+dụng theo quy định của Thông tư 11 như được trình bày tại Thuyết minh 2.8. Theo quy định của Thông tư 11, 
+Ngân hàng không trích lập dự phòng chung đối với trái phiếu và chứng chỉ tiền gửi do các TCTD khác phát hành. 
+Dự phòng đối với chứng khoán kinh doanh được đề cập ở trên sẽ được hoàn nhập khi việc tăng lên sau đó của 
+giá trị có thể thu hồi của chứng khoán kinh doanh là do sự kiện khách quan xảy ra sau khi khoản dự phòng được 
+ghi nhận. Khoản dự phòng chỉ được hoàn nhập đến mức tối đa bằng giá trị ghi sổ ban đầu của các chứng khoán 
+kinh doanh này khi chưa lập dự phòng.
+Lãi hoặc lỗ từ việc bán chứng khoán kinh doanh được ghi nhận trên báo cáo kết quả hoạt động hợp nhất trên 
+khoản mục “Lãi thuần từ mua bán chứng khoán kinh doanh”. Giá vốn được xác định theo phương pháp thực tế 
+đích danh.
+Tiền lãi thu được trong thời gian nắm giữ chứng khoán kinh doanh được ghi nhận vào báo cáo kết quả hoạt động 
+hợp nhất khi thực nhận.
+Dừng ghi nhận
+Chứng khoán kinh doanh được dừng ghi nhận khi các quyền lợi nhận các luồng tiền từ các chứng khoán này đã 
+chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các chứng khoán này.
+
+244  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+245
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.10 
+Đầu tư chứng khoán (tiếp theo)
+2.10.2 
+Chứng khoán đầu tư sẵn sàng để bán 
+Phân loại và ghi nhận
+Chứng khoán đầu tư sẵn sàng để bán bao gồm các chứng khoán nợ và chứng khoán vốn được Ngân hàng nắm 
+giữ với mục đích đầu tư và sẵn sàng để bán, không thuộc loại chứng khoán mua vào bán ra thường xuyên nhưng 
+có thể bán bất cứ lúc nào xét thấy có lợi. 
+Ngân hàng ghi nhận chứng khoán đầu tư sẵn sàng để bán vào ngày Ngân hàng nhận chuyển giao phần lớn rủi 
+ro và lợi ích từ việc sở hữu các chứng khoán này.
+Đo lường 
+Chứng khoán đầu tư sẵn sàng để bán niêm yết được ghi nhận theo giá trị ghi sổ trừ đi dự phòng giảm giá. Dự 
+phòng giảm giá chứng khoán đầu tư sẵn sàng để bán được lập dự phòng giảm giá khi giá trị ghi sổ cao hơn giá 
+thị trường. 
+Đối với chứng khoán vốn đã niêm yết, giá chứng khoán vốn trên thị trường là giá đóng cửa tại ngày gần nhất có 
+giao dịch tính đến thời điểm ngày kết thúc năm tài chính. 
+Đối với chứng khoán nợ đã niêm yết, đăng ký giao dịch, giá chứng khoán nợ trên thị trường là giá giao dịch gần 
+nhất tại SGDCK trong vòng 10 ngày tính đến ngày kết thúc năm tài chính. 
+Chênh lệch giữa khoản dự phòng giảm giá lập ở cuối năm này và khoản dự phòng đã lập ở cuối năm tài chính 
+trước được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên khoản mục “Lãi thuần từ mua bán chứng khoán 
+đầu tư” trong năm.
+Ngân hàng không thực hiện trích lập dự phòng đối với trái phiếu Chính phủ, trái phiếu chính quyền địa phương 
+và trái phiếu Chính phủ bảo lãnh. 
+Chứng khoán nợ được ghi nhận ban đầu theo mệnh giá vào ngày giao dịch. Lãi dồn tích của chứng khoán trước 
+khi mua (đối với chứng khoán nợ trả lãi sau) hoặc lãi nhận trước chờ phân bổ (đối với chứng khoán nợ trả lãi trước) 
+được phản ánh trên một tài khoản riêng. Phần chiết khấu/phụ trội là chênh lệch âm/dương giữa giá gốc với giá 
+trị của khoản tiền gồm mệnh giá cộng (+) lãi dồn tích trước khi mua (nếu có) hoặc trừ (-) lãi nhận trước chờ phân 
+bổ (nếu có), cũng được phản ánh trên một tài khoản riêng.
+Trong khoảng thời gian nắm giữ chứng khoán tiếp theo, các chứng khoán nợ được ghi nhận theo mệnh giá và 
+giá trị chiết khấu/phụ trội (nếu có) của chứng khoán nợ được phân bổ vào báo cáo kết quả kinh doanh hợp nhất 
+theo phương pháp đường thẳng trong suốt thời gian còn lại ước tính của chứng khoán. 
+Số tiền lãi dồn tích trước khi mua được ghi giảm giá trị của tài khoản lãi dự thu khi nhận được. Lãi sau thời điểm 
+mua được ghi nhận vào thu nhập của Ngân hàng trên cơ sở dồn tích. Số tiền lãi nhận trước được hạch toán phân 
+bổ vào thu lãi đầu tư chứng khoán theo phương pháp đường thẳng cho khoảng thời gian đầu tư chứng khoán.
+Chứng khoán nợ chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên thị trường giao 
+dịch của các công ty đại chúng chưa niêm yết được ghi nhận theo giá gốc trừ đi dự phòng rủi ro tín dụng theo 
+quy định của Thông tư 11 như được trình bày tại Thuyết minh 2.8. Theo quy định của Thông tư 11, Ngân hàng 
+không trích lập dự phòng chung đối với trái phiếu và chứng chỉ tiền gửi do các TCTD khác phát hành.
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.10 
+Đầu tư chứng khoán (tiếp theo)
+2.10.2 
+Chứng khoán đầu tư sẵn sàng để bán (tiếp theo)
+Đo lường (tiếp theo)
+Dự phòng đối với chứng khoán đầu tư được đề cập ở trên sẽ được hoàn nhập khi việc tăng lên sau đó của giá trị 
+có thể thu hồi của chứng khoán đầu tư là do sự kiện khách quan xảy ra sau khi khoản dự phòng được ghi nhận. 
+Khoản dự phòng chỉ được hoàn nhập đến mức tối đa bằng giá trị ghi sổ của các chứng khoán đầu tư này khi chưa 
+lập dự phòng.
+Lãi hoặc lỗ từ việc bán chứng khoán đầu tư sẵn sàng để bán được ghi nhận trên báo cáo kết quả hoạt động hợp 
+nhất trên khoản mục “Lãi thuần từ mua bán chứng khoán đầu tư”. Giá vốn được xác định theo phương pháp thực 
+tế đích danh.
+Dừng ghi nhận
+Chứng khoán đầu tư sẵn sàng để bán được dừng ghi nhận khi các quyền lợi nhận các luồng tiền từ các chứng 
+khoán này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các chứng khoán này.
+2.10.3 
+Chứng khoán đầu tư giữ đến ngày đáo hạn
+Chứng khoán giữ đến ngày đáo hạn là các chứng khoán nợ được Ngân hàng mua hẳn với mục đích đầu tư để 
+hưởng lãi và Ngân hàng có ý định và có khả năng giữ các chứng khoán này đến ngày đáo hạn. Theo Công văn số 
+2601/NHNN-TCKT do NHNN ban hành ngày 14 tháng 4 năm 2009, Ngân hàng được phép phân loại lại tối đa một 
+lần sau khi mua đối với chứng khoán đầu tư giữ đến ngày đáo hạn.
+Chứng khoán nợ giữ đến ngày đáo hạn được ghi nhận và đo lường tương tự như chứng khoán nợ sẵn sàng để 
+bán được trình bày tại Thuyết minh 2.10.2. 
+2.10.4 
+Mua lại trái phiếu doanh nghiệp chưa niêm yết
+ 
+NHNN ban hành Thông tư số 03/2023/TT-NHNN có hiệu lực từ ngày 24 tháng 4 năm 2023 quy định ngưng hiệu 
+lực thi hành khoản 11 Điều 4 Thông tư số 16/2021/TT-NHNN do NHNN ban hành hiệu lực từ ngày 15 tháng 1 năm 
+2022 quy định việc TCTD, chi nhánh ngân hàng nước ngoài mua, bán trái phiếu doanh nghiệp (“TPDN”). Theo đó, 
+trong thời gian ngưng hiệu lực, từ ngày 24 tháng 4 năm 2023 hết ngày 31 tháng 12 năm 2023, Ngân hàng được 
+mua lại TPDN chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên hệ thống giao dịch 
+Upcom mà Ngân hàng đã bán và/hoặc TPDN chưa niêm yết được phát hành cùng lô/cùng đợt phát hành với 
+TPDN chưa niêm yết mà Ngân hàng đã bán khi:
+ »
+Đáp ứng các quy định về nguyên tắc mua, bán trái phiếu doanh nghiệp tại Điều 4 Thông tư 16/2021/TT-
+NHNN;
+ »
+Bên mua TPDN này từ Ngân hàng thanh toán toàn bộ số tiền mua TPDN tại thời điểm Ngân hàng ký kết hợp 
+đồng bán TPDN cho bên mua trái phiếu;
+ »
+Doanh nghiệp phát hành trái phiếu được xếp hạng ở mức cao nhất theo quy định xếp hạng tín dụng nội bộ 
+của Ngân hàng tại thời điểm gần nhất trước khi Ngân hàng mua TPDN.
+
+246  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+247
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2 
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.11 
+Các hợp đồng mua bán lại 
+Những chứng khoán được bán đồng thời được cam kết sẽ mua lại vào một thời điểm nhất định trong tương lai 
+vẫn được ghi nhận trong báo cáo tài chính hợp nhất. Khoản tiền nhận được theo thỏa thuận này được ghi nhận 
+như một khoản đi vay trên báo cáo tình hình tài chính hợp nhất và phần chênh lệch giữa giá bán và giá mua được 
+phân bổ theo phương pháp đường thẳng theo lãi suất hợp đồng vào báo cáo kết quả hoạt động hợp nhất trong 
+suốt thời gian hiệu lực của hợp đồng.
+Những chứng khoán được mua đồng thời được cam kết sẽ bán lại vào một thời điểm nhất định trong tương lai 
+không được ghi nhận trong báo cáo tài chính hợp nhất. Khoản tiền thanh toán theo thỏa thuận này được ghi 
+nhận như một khoản cho vay trên báo cáo tình hình tài chính hợp nhất và phần chênh lệch giữa giá mua và giá 
+bán được phân bổ theo phương pháp đường thẳng theo lãi suất hợp đồng vào báo cáo kết quả hoạt động hợp 
+nhất trong suốt thời gian hiệu lực của hợp đồng.
+2.12 
+Đầu tư vào công ty con
+Công ty con là doanh nghiệp mà Ngân hàng có quyền chi phối các chính sách tài chính và hoạt động của doanh 
+nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nắm giữ ít 
+nhất một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi 
+hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Ngân hàng có quyền kiểm soát doanh nghiệp hay không.
+ 
+Đầu tư vào công ty con được ghi nhận ban đầu theo giá gốc, bao gồm giá trị góp vốn cộng các chi phí liên quan 
+trực tiếp đến việc đầu tư. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi 
+nhận dự phòng vào cuối năm.
+  
+Dự phòng giảm giá đầu tư vào công ty con được lập vào cuối năm khi có sự giảm giá trị của khoản đầu tư.
+2.13 
+Đầu tư dài hạn khác 
+ 
+Đầu tư dài hạn khác là các khoản đầu tư vốn từ hoặc dưới 11% quyền biểu quyết vào công ty khác chưa niêm yết 
+được Ngân hàng và công ty con nắm giữ mà không có ý định bán đi trong vòng 12 tháng kể từ ngày lập báo cáo 
+tài chính hợp nhất. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc.
+ 
+Sau đó, các khoản đầu tư dài hạn khác này được ghi nhận theo nguyên tắc giá gốc trừ dự phòng rủi ro. Đối với 
+khoản đầu tư mà giá trị hợp lý của khoản đầu tư được xác định tin cậy, dự phòng được lập khi giá gốc cao hơn 
+giá trị thị trường. Đối với các khoản đầu tư khác, dự phòng giảm giá đầu tư được lập khi công ty nhận đầu tư bị lỗ. 
+Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập chưa sử dụng ở cuối 
+năm tài chính trước được ghi nhận tăng hoặc giảm chi phí hoạt động trong năm. Khoản dự phòng được hoàn 
+nhập không vượt quá giá trị ghi sổ ban đầu.
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.14 
+TSCĐ
+ 
+TSCĐ hữu hình và TSCĐ vô hình
+ 
+TSCĐ được phản ánh theo nguyên giá trừ đi khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp 
+đến việc có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi 
+tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản 
+đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí hoạt động trong năm.
+Khấu hao
+TSCĐ được khấu hao theo phương pháp đường thẳng để giảm dần giá trị phải khấu hao trong suốt thời gian hữu 
+dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:
+ 
+Nhà cửa, vật kiến trúc
+5 - 50 năm
+Máy móc thiết bị
+7 - 14 năm
+Phương tiện vận tải
+6 - 10 năm
+Thiết bị văn phòng
+ 3 - 10 năm
+Phần mềm vi tính
+3 - 8 năm
+TSCĐ khác
+4 - 10 năm
+Quyền sử dụng đất có thời hạn
+6 - 49 năm
+  
+Quyền sử dụng đất bao gồm quyền sử dụng đất do Nhà nước giao có thu tiền sử dụng đất, quyền sử dụng đất 
+nhận chuyển nhượng hợp pháp và tiền sử dụng đất đã trả trước cho các hợp đồng thuê đất có hiệu lực trước 
+ngày hiệu lực của Luật đất đai 2003 (tức là ngày 1 tháng 7 năm 2004) và được cấp Giấy chứng nhận quyền sử 
+dụng đất.
+Quyền sử dụng đất có thời hạn được phản ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá của quyền sử 
+dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp đến việc có được quyền sử dụng đất. Quyền sử dụng 
+đất được khấu hao theo phương pháp đường thẳng trong suốt thời hạn của quyền sử dụng đất.
+Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
+ 
+Thanh lý
+ 
+Lãi hoặc lỗ do thanh lý, nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý 
+với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động hợp nhất.
+ 
+Chi phí xây dựng cơ bản dở dang
+Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình lắp đặt hoặc xây dựng phục vụ 
+mục đích kinh doanh, cho thuê hoặc quản trị, hoặc cho bất kì mục đích nào khác, được ghi nhận theo giá gốc, 
+bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công 
+trình như chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án và chi phí tư vấn đầu tư xây dựng. Khấu hao của 
+những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bắt đầu được trích khi tài sản đã sẵn sàng cho mục đích 
+sử dụng.
+
+248  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+249
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.15 
+Thuê hoạt động
+Thuê hoạt động là loại hình thuê tài sản mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về 
+bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động 
+hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động. 
+2.16 
+Các khoản phải thu khác
+ 
+Các khoản phải thu khác, ngoài các khoản phải thu từ hoạt động tín dụng của Ngân hàng và công ty con, được 
+ghi nhận ban đầu theo giá gốc. Sau ghi nhận ban đầu, các khoản phải thu khác được phản ánh theo giá gốc trừ 
+đi dự phòng phải thu khó đòi.
+Dự phòng các khoản phải thu khác được lập cho từng khoản phải thu khó đòi căn cứ vào thời gian quá hạn trả nợ 
+gốc theo cam kết nợ ban đầu hoặc theo dự kiến tổn thất có thể xảy ra. Chi phí dự phòng phát sinh được ghi nhận 
+trên khoản mục “Chi phí hoạt động” của báo cáo kết quả hoạt động hợp nhất trong năm tài chính.
+2.17 
+Chi phí trả trước
+Chi phí trả trước phản ánh số tiền trả trước để được cung cấp dịch vụ, hoặc các công cụ, dụng cụ không thỏa mãn 
+điều kiện ghi nhận TSCĐ trong khoảng thời gian hoặc một chu kỳ kinh doanh nhất định kể từ ngày trả trước. Các 
+khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa 
+trên thời gian hữu dụng ước tính.
+2.18 
+Các công cụ tài chính phái sinh
+ 
+Các công cụ tài chính phái sinh được ghi nhận trên báo cáo tình hình tài chính hợp nhất theo giá trị hợp đồng 
+vào ngày ký kết và sau đó được đánh giá lại theo tỷ giá tại ngày cuối tháng. Lợi nhuận hoặc lỗ đã thực hiện được 
+ghi nhận trong báo cáo kết quả hoạt động hợp nhất. Lợi nhuận hoặc lỗ chưa thực hiện được ghi nhận vào khoản 
+mục chênh lệch tỷ giá hối đoái trên báo cáo tình hình tài chính hợp nhất và được kết chuyển vào báo cáo kết quả 
+hoạt động hợp nhất vào cuối năm.
+2.19 
+Tiền gửi của các TCTD khác, tiền gửi của khách hàng, phát hành giấy tờ có giá
+Các khoản tiền gửi của các TCTD khác, của khách hàng, phát hành giấy tờ có giá được trình bày theo số dư gốc tại 
+thời điểm kết thúc năm tài chính. Tại thời điểm ghi nhận ban đầu, chi phí phát hành giấy tờ có giá được ghi giảm 
+số dư gốc của giấy tờ có giá. Ngân hàng thực hiện phân bổ dần các chi phí này vào khoản mục “Chi phí lãi và các 
+chi phí tương tự” theo phương pháp đường thẳng phù hợp với kỳ hạn của giấy tờ có giá.
+ 
+2.20 
+Vốn tài trợ, ủy thác đầu tư, cho vay Ngân hàng chịu rủi ro
+ 
+Ngân hàng nhận vốn tài trợ, ủy thác đầu tư, cho vay của Chính phủ, và các tổ chức trong nước giao cho Ngân 
+hàng để sử dụng theo các mục đích chỉ định, Ngân hàng có trách nhiệm hoàn trả vốn này khi đến hạn. Số tiền vốn 
+tài trợ, ủy thác đầu tư, cho vay được ghi nhận là một khoản phải trả trong báo cáo tình hình tài chính hợp nhất.
+2.21 
+Chi phí trích trước
+ 
+Chi phí trích trước bao gồm các khoản phải trả cho dịch vụ và hàng hóa đã nhận được từ người bán trong năm 
+tài chính nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào 
+chi phí kinh doanh của năm tài chính.
+2. 
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.22 
+Các khoản dự phòng
+ 
+Các khoản dự phòng được ghi nhận khi Ngân hàng và công ty con có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đới, 
+phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể dẫn đến sự giảm sút những lợi ích kinh tế và 
+giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cậy. Dự phòng không được ghi nhận cho các khoản 
+lỗ hoạt động trong tương lai.
+ 
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị 
+thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và 
+phản ánh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. 
+Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự 
+phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập chưa sử dụng ở cuối năm tài chính trước được ghi 
+nhận tăng hoặc giảm chi phí hoạt động trong năm.
+2.23 
+Trái phiếu chuyển đổi
+Trái phiếu chuyển đổi là loại trái phiếu có thể chuyển đổi thành cổ phiếu phổ thông của Ngân hàng theo các điều 
+kiện đã được xác định trong phương án phát hành.
+Tại thời điểm ghi nhận ban đầu, Ngân hàng tính toán và xác định riêng biệt giá trị cấu phần nợ và cấu phần vốn 
+của trái phiếu chuyển đổi theo phương pháp lãi suất thực. Cấu phần nợ được ghi nhận là nợ phải trả; cấu phần 
+vốn (quyền chọn cổ phiếu) được ghi nhận là vốn chủ sở hữu. Sau ghi nhận ban đầu, định kỳ Ngân hàng ghi nhận 
+lãi trái phiếu theo lãi suất thực. Các chi phí phát hành trái phiếu khi phát sinh được ghi giảm phần nợ gốc, định kỳ 
+phân bổ vào chi phí hoạt động tín dụng khác theo phương pháp đường thẳng.
+Khi đáo hạn, cấu phần vốn là giá trị quyền chọn cổ phiếu được chuyển sang ghi nhận là thặng dư vốn cổ phần 
+mà không phụ thuộc vào việc người nắm giữ trái phiếu có thực hiện quyền chọn chuyển đổi thành cổ phiếu 
+hay không.
+ 
+2.24 
+Vốn chủ sở hữu
+ 
+Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phản ánh theo mệnh giá 
+của cổ phiếu. 
+Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ 
+phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+ 
+Vốn khác của chủ sở hữu phản ánh giá trị các khoản vốn khác nắm giữ bởi chủ sở hữu tại thời điểm báo cáo. 
+ 
+Cổ phiếu quỹ: 
+ »
+Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng khoán (ngày 1 tháng 1 năm 2021) là cổ phiếu do Ngân 
+hàng phát hành và được mua lại bởi chính Ngân hàng nhưng chưa bị huỷ bỏ, và sẽ được bán đi hoặc tái phát 
+hành lại sau đó. Số tiền nhận được sẽ ghi nhận là khoản tăng vốn chủ sở hữu và các khoản thặng dư hoặc 
+thâm hụt từ các giao dịch này được ghi nhận vào Thặng dư vốn cổ phần.
+ »
+Các cổ phiếu quỹ mua sau ngày hiệu lực của Luật Chứng khoán (ngày 1 tháng 1 năm 2021) sẽ được hủy bỏ 
+và điều chỉnh giảm vốn chủ sở hữu.
+Lợi nhuận chưa phân phối phản ánh kết quả kinh doanh (lãi) sau thuế TNDN của Ngân hàng tại thời điểm báo cáo.
+
+250  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+251
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2. 
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.25 
+Các quỹ dự trữ bắt buộc
+ 
+Theo Nghị định số 93/2017/NĐ-CP do Chính phủ Việt Nam ban hành ngày 7 tháng 8 năm 2017, Ngân hàng và 
+công ty con phải trích lập các quỹ như sau trước khi phân phối lợi nhuận:
+ 
+Tỷ lệ trích lập hàng năm
+Số dư tối đa
+Quỹ dự trữ bổ sung vốn điều lệ
+5% lợi nhuận sau thuế
+Vốn điều lệ
+Quỹ dự phòng tài chính
+10% lợi nhuận sau thuế
+Không quy định mức tối đa
+ 
+Quỹ dự phòng tài chính dùng để bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản xảy ra trong quá trình 
+kinh doanh sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo 
+hiểm và sử dụng dự phòng trích lập trong chi phí; sử dụng cho các mục đích khác theo quy định của pháp luật.
+Các quỹ khác thuộc nguồn vốn chủ sở hữu được phân bổ từ lợi nhuận sau thuế. Việc phân bổ từ lợi nhuận sau 
+thuế và việc sử dụng các quỹ khác phải được Đại Hội đồng Cổ đông phê duyệt. Các quỹ này không được quy định 
+bởi luật pháp và được phép phân phối hết.
+ 
+2.26 
+Phân chia lợi nhuận
+ 
+Cổ tức của Ngân hàng và công ty con được ghi nhận là một khoản phải trả trong báo cáo tình hình tài chính hợp 
+nhất của năm tài chính mà cổ tức được thông qua tại Đại hội đồng Cổ đông. 
+ 
+Lợi nhuận sau thuế TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và 
+sau khi đã trích lập các quỹ dự phòng theo điều lệ của Ngân hàng và công ty con và các quy định của pháp luật 
+Việt Nam.
+Quỹ khen thưởng, phúc lợi được trích lập từ lợi nhuận sau thuế của Ngân hàng và công ty con sau khi được Đại 
+Hội đồng Cổ đông phê duyệt và được ghi nhận là một khoản phải trả trên báo cáo tình hình tài chính hợp nhất. 
+Ngân hàng và công ty con sử dụng Quỹ khen thưởng phúc lợi đúng theo mục đích được quy định tại Nghị định 93.
+2.27 
+Lãi trên cổ phiếu
+Ngân hàng trình bày lãi cơ bản và lãi suy giảm trên cổ phiếu (EPS) cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ 
+phiếu được tính bằng cách lấy số lợi nhuận thuần phân bổ cho các cổ đông phổ thông của Ngân hàng, sau khi 
+trừ đi phần quỹ khen thưởng, phúc lợi được trích lập trong năm, chia cho số lượng cổ phiếu phổ thông bình quân 
+gia quyền lưu hành trong năm. Lãi suy giảm trên cổ phiếu được xác định bằng cách điều chỉnh lãi hoặc lỗ thuộc 
+về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân đang lưu hành có tính đến các ảnh hưởng của 
+cổ phiếu phổ thông tiềm năng. 
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.28 
+Ghi nhận thu nhập và chi phí
+ Thu nhập lãi
+Thu nhập lãi được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên cơ sở dồn tích, theo thời gian và lãi suất 
+thực tế từng năm khi thỏa mãn đồng thời hai điều kiện: (i) có khả năng thu được lợi ích kinh tế từ giao dịch đó; và 
+(ii) thu nhập lãi được xác định tương đối chắc chắn. Khi một khoản nợ bị quá hạn hoặc không được phân loại là Nợ 
+đủ tiêu chuẩn hoặc thuộc đối tượng được áp dụng theo Thông tư 03/2021, Thông tư 14/2021 như được trình bày 
+trong thuyết minh 2.8.2, hoặc thuộc đối tượng được áp dụng theo Thông tư 02/2023 như được trình bày trong 
+Thuyết minh 2.8.4 thì số lãi dự thu được xuất toán và được ghi nhận ngoại bảng. Thu nhập lãi của các khoản nợ 
+này được ghi nhận vào báo cáo kết quả hoạt động hợp nhất khi thu được.
+Thu nhập khác từ hoạt động tín dụng 
+ 
+Thu nhập khác từ hoạt động tín dụng chủ yếu bao gồm các khoản phí cam kết rút vốn, phí hứa cấp tín dụng, phí 
+trả nợ trước hạn và các khoản phí khác liên quan đến hoạt động tín dụng, được ghi nhận khi có thể xác định được 
+nghĩa vụ đã hoàn thành theo hợp đồng/thỏa thuận một cách chắc chắn tại ngày lập báo cáo tài chính hợp nhất. 
+Thu nhập từ hoạt động dịch vụ
+Thu nhập từ hoạt động dịch vụ bao gồm phí dịch vụ ngân hàng ghi nhận được từ dịch vụ môi giới bảo hiểm, trái 
+phiếu, thanh toán, ngân quỹ và các dịch vụ khác được ghi nhận trong báo cáo kết quả hoạt động hợp nhất trên 
+cơ sở dồn tích khi dịch vụ đã được cung cấp, theo kết quả phần công việc đã hoàn thành của từng giao dịch, dựa 
+trên cơ sở đánh giá tỷ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Thu nhập từ hoạt động 
+dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau.
+ »
+Thu nhập được xác định tương đối chắc chắn;
+ »
+Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+ »
+Xác định được phần công việc đã hoàn thành tại ngày lập báo cáo tình hình tài chính hợp nhất; và
+ »
+Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+Thu nhập từ hoạt động đầu tư
+Lãi lỗ từ mua bán chứng khoán đầu tư được xác định dựa trên mức chênh lệch giữa giá bán và giá vốn của 
+chứng khoán.
+Thu nhập từ cổ tức
+Cổ tức bằng tiền nhận được từ hoạt động đầu tư được ghi nhận là thu nhập khi quyền nhận cổ tức của Ngân hàng 
+và công ty con được xác lập. Cổ tức bằng cổ phiếu và các cổ phiếu thưởng nhận được không được ghi nhận là 
+thu nhập của Ngân hàng và công ty con mà chỉ cập nhật số lượng cổ phiếu.
+Thu nhập khác
+Thu nhập khác được ghi nhận khi có thể xác định được kết quả công việc đã thỏa thuận trên hợp đồng một cách 
+chắc chắn và được ghi nhận dựa vào mức độ hoàn thành công việc.
+
+252  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+253
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+2  
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.28 
+Ghi nhận thu nhập và chi phí (tiếp theo) 
+Theo Thông tư 16/2018/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 2 năm 2018, đối với các khoản phải thu 
+đã hạch toán vào thu nhập nhưng sau đó được đánh giá không thu được hoặc đến kỳ hạn thu không thu được 
+thì Ngân hàng và công ty con hạch toán giảm doanh thu nếu cùng năm tài chính hoặc hạch toán vào chi phí nếu 
+khác năm tài chính và theo dõi ngoại bảng để đôn đốc thu. Khi thu được các khoản này, Ngân hàng và công ty 
+con sẽ hạch toán vào thu nhập trên báo cáo kết quả hoạt động hợp nhất.
+Chi phí lãi
+Chi phí lãi được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên cơ sở dồn tích.
+2.29 
+Thuế TNDN hiện hành và thuế TNDN hoãn lại
+ 
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi 
+phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+ 
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế 
+TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi 
+xác định lợi nhuận hoặc lỗ của năm phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc 
+sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm hay một năm khác.
+Thuế TNDN hoãn lại, sử dụng phương thức công nợ, được tính đầy đủ dựa trên các khoản chênh lệch tạm thời 
+giữa giá trị ghi sổ của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính hợp nhất và cơ sở tính thuế TNDN 
+của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh 
+từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch 
+sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời 
+điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong năm mà tài 
+sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu 
+lực tại ngày của báo cáo tình hình tài chính hợp nhất.
+ 
+Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử 
+dụng những chênh lệch tạm thời được khấu trừ.
+2.30 
+Các bên liên quan
+ 
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Ngân 
+hàng và công ty con hoặc chịu sự kiểm soát của Ngân hàng và công ty con, hoặc cùng chung sự kiểm soát với 
+Ngân hàng và công ty con, bao gồm cả công ty mẹ, công ty con và công ty trong cùng tập đoàn là các bên liên 
+quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nắm quyền biểu quyết của Ngân hàng và công ty con 
+mà có ảnh hưởng đáng kể đối với Ngân hàng và công ty con, những cá nhân quản lý chủ chốt bao gồm Hội đồng 
+Quản trị, Ban Kiểm soát, Ban Tổng Giám đốc Ngân hàng và công ty con và những thành viên mật thiết trong gia 
+đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được 
+coi là bên liên quan. 
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Ngân hàng và công ty con căn cứ vào bản chất của 
+mối quan hệ chứ không chỉ hình thức pháp lý của các quan hệ đó.
+2. 
+CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+2.31 
+Báo cáo bộ phận 
+ 
+Một bộ phận cần báo cáo là một hợp phần có thể xác định riêng biệt của Ngân hàng và công ty con tham gia vào 
+việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp 
+các sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý), mỗi bộ phận 
+này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Ngân hàng và công 
+ty con là dựa theo bộ phận chia theo khu vực địa lý.
+2.32 
+Ước tính kế toán trọng yếu
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và 
+các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất áp dụng cho các TCTD hoạt 
+động tại Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công 
+nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các 
+số liệu về thu nhập và chi phí trong suốt năm tài chính.
+Ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
+ »
+Phân loại và dự phòng rủi ro cho vay khách hàng (Thuyết minh 2.8);
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, 
+bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Ngân hàng và 
+công ty con và được Ban Tổng Giám đốc đánh giá là hợp lý.
+2.33 
+Các khoản mục không có số dư
+Các khoản mục không được trình bày trên báo cáo tài chính hợp nhất này theo Quyết định số 16/2007/QĐ-NHNN 
+ngày 18 tháng 4 năm 2007 và Thông tư 49/2014/TT-NHNN về chế độ báo cáo tài chính đối với các TCTD do NHNN 
+ban hành ngày 31 tháng 12 năm 2014 là các khoản mục không có số dư.
+3 
+TIỀN MẶT, VÀNG BẠC, ĐÁ QUÝ
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền mặt bằng VND
+1.956.741 
+2.209.398
+Tiền mặt bằng ngoại tệ
+829.669 
+713.897
+Vàng tiền tệ
+23.634 
+14.699
+2.810.044 
+2.937.994
+
+254  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+255
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+4 
+TIỀN GỬI TẠI NHNN
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Bằng VND
+38.391.317 
+9.757.912
+Bằng ngoại tệ
+3.090.321 
+1.515.433
+41.481.638 
+11.273.345
+Tiền gửi tại NHNN bao gồm dự trữ bắt buộc và tiền gửi thanh toán.
+Theo quy định của NHNN về dự trữ bắt buộc, Ngân hàng và công ty con được phép duy trì một số dư thả nổi 
+trong tháng cho khoản dự trữ bắt buộc. Số dư bình quân dự trữ bắt buộc hàng tháng phải không được thấp hơn 
+tỷ lệ dự trữ bắt buộc nhân với số dư tiền gửi bình quân của từng loại tiền gửi phải dự trữ bắt buộc trong tháng 
+trước tại Ngân hàng và công ty con.
+Các tỷ lệ dự trữ bắt buộc trên số dư tiền gửi bình quân của tháng trước như sau:
+31.12.2023
+%
+31.12.2022
+%
+Tiền gửi khách hàng:
+ »
+Tiền gửi bằng VND không kỳ hạn và có kỳ hạn dưới 12 tháng
+3,00
+3,00
+ »
+Tiền gửi bằng VND có kỳ hạn từ 12 tháng trở lên
+1,00
+1,00
+ »
+Tiền gửi bằng ngoại tệ không kỳ hạn và có kỳ hạn dưới 12 tháng
+8,00
+8,00
+ »
+Tiền gửi bằng ngoại tệ có kỳ hạn từ 12 tháng trở lên
+6,00
+6,00
+Tiền gửi của TCTD nước ngoài:
+ »
+Tiền gửi bằng ngoại tệ
+1,00
+1,00
+ 
+Mức lãi suất hàng năm được áp dụng cho số dư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Trong dự trữ bắt buộc bằng VND
+0,50
+0,50
+Trong dự trữ bắt buộc bằng ngoại tệ
+0,00
+0,00
+Vượt dự trữ bắt buộc bằng VND
+0,00
+0,00
+Vượt dự trữ bắt buộc bằng ngoại tệ
+0,00
+0,00
+5         
+TIỀN GỬI VÀ CHO VAY CÁC TCTD KHÁC
+5.1 
+Tiền gửi tại các TCTD khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền gửi không kỳ hạn
+ »
+Bằng VND
+16.994.192 
+       13.049.020 
+ »
+Bằng ngoại tệ
+18.127.183 
+               2.684.367 
+35.121.375 
+15.733.387
+Tiền gửi có kỳ hạn
+ »
+Bằng VND
+48.800.000 
+    22.760.000 
+ »
+Bằng ngoại tệ
+4.198.710 
+     1.829.100 
+52.998.710 
+24.589.100
+88.120.085 
+  40.322.487
+5.2 
+Cho vay các TCTD khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Cho vay tái tài trợ về nghiệp vụ UPAS L/C (*)
+ »
+Bằng VND
+8.394.778 
+8.634.940
+ »
+Bằng ngoại tệ
+- 
+174.890
+8.394.778 
+8.809.830
+(*) 
+Cho vay tái tài trợ UPAS L/C (thư tín dụng trả chậm có điều khoản trả ngay) là hình thức tài trợ vốn theo yêu cầu từ 
+các TCTD khác nhằm tài trợ cho các giao dịch thanh toán nhập khẩu nước ngoài hoặc thanh toán hàng hóa dịch 
+vụ trong nước có phương thức thanh toán là UPAS L/C nhập khẩu hoặc UPAS L/C nội địa. HDBank đóng vai trò là 
+Ngân hàng hoàn trả/ Ngân hàng tài trợ thực hiện thanh toán cho người thụ hưởng của L/C theo đề nghị của ngân 
+hàng phát hành. Ngân hàng phát hành chịu trách nhiệm hoàn trả gốc, lãi và phí (nếu có) cho HDBank khi hết thời 
+hạn tái tài trợ theo lãi suất tái tài trợ và các loại phí đã thỏa thuận.
+5.3 
+Dự phòng rủi ro cho vay các TCTD khác
+Triệu đồng
+Tại ngày 1 tháng 1 năm 2022
+-
+Trích lập trong năm
+60.000
+Sử dụng dự phòng để xử lý rủi ro trong năm
+(60.000)
+Tại ngày 31 tháng 12 năm 2022 và tại ngày 31 tháng 12 năm 2023
+-
+
+256  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+257
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+5         
+TIỀN GỬI VÀ CHO VAY CÁC TCTD KHÁC (TIẾP THEO)
+5.4 
+Mức lãi suất hàng năm được áp dụng cho số dư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Tiền gửi có kỳ hạn bằng VND
+0,70 - 4,50 
+2,70 - 8,10
+Tiền gửi có kỳ hạn bằng ngoại tệ 
+5,00 - 5,50 
+4,50 - 4,60
+Cho vay tái tài trợ về nghiệp vụ UPAS L/C bằng VND
+7,80 - 9,68 
+4,30 - 11,10
+Cho vay tái tài trợ về nghiệp vụ UPAS L/C bằng ngoại tệ
+Không áp dụng 
+4,89
+5.5 
+Phân tích chất lượng tiền gửi và cho vay các TCTD khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ đủ tiêu chuẩn (không bao gồm tiền gửi không kỳ hạn)
+61.393.488 
+33.398.930
+6 
+CHỨNG KHOÁN KINH DOANH
+6.1 
+Chứng khoán nợ
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Trái phiếu và chứng chỉ tiền gửi do các TCTD khác trong nước phát hành
+18.580.932 
+1.797.822
+6.2 
+Thuyết minh về tình trạng niêm yết của các chứng khoán kinh doanh
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chứng khoán nợ
+Chưa niêm yết
+18.580.932 
+1.797.822
+6.3 
+Mức lãi suất hàng năm được áp dụng cho số dư chứng khoán nợ tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Trái phiếu và chứng chỉ tiền gửi do các TCTD khác trong nước phát hành 
+bằng VND
+4,00 - 10,30 
+4,00 - 11,50
+6.4 
+Phân tích chất lượng chứng khoán kinh doanh được phân loại là tài sản có rủi ro tín dụng
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ đủ tiêu chuẩn (không bao gồm trái phiếu Chính phủ)
+18.580.932 
+1.797.822
+7 
+CÁC CÔNG CỤ TÀI CHÍNH PHÁI SINH VÀ CÁC TÀI SẢN/KHOẢN NỢ TÀI CHÍNH KHÁC
+Tổng giá trị của hợp đồng (theo tỷ 
+giá ngày hiệu lực hợp đồng)
+Tổng giá trị ghi sổ kế toán (theo tỷ 
+giá ngày lập báo cáo)
+Triệu đồng
+Tài sản
+Triệu đồng
+Công nợ
+Triệu đồng
+Tại ngày 31.12.2023
+Công cụ tài chính phái sinh tiền tệ
+ »
+Giao dịch kỳ hạn tiền tệ
+5.400.768 
+12.816 
+-
+ »
+Giao dịch hoán đổi tiền tệ
+114.288.732 
+95.893 
+- 
+Công cụ tài chính phái sinh khác
+ »
+Giao dịch hoán đổi lãi suất tiền tệ chéo
+972.630 
+1.370 
+- 
+120.662.130 
+110.079 
+- 
+Số thuần
+110.079 
+Tại ngày 31.12.2022 
+Công cụ tài chính phái sinh tiền tệ
+ »
+Giao dịch kỳ hạn tiền tệ
+2.227.206 
+9.999
+-
+ »
+Giao dịch hoán đổi tiền tệ
+30.126.176 
+-
+236.479
+32.353.382
+9.999
+236.479
+Số thuần
+226.480
+8 
+CHO VAY KHÁCH HÀNG
+8.1 
+Theo loại hình cho vay
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Cho vay các tổ chức kinh tế, cá nhân trong nước
+335.070.515 
+256.280.816
+Cho vay thấu chi và thẻ tín dụng
+5.460.246 
+4.728.839
+Cho vay bằng vốn tài trợ, ủy thác đầu tư
+2.673.694 
+2.407.558
+Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá
+197.563 
+437.518
+Các khoản trả thay khách hàng
+2.277
+1.452
+Cho vay đối với các tổ chức, cá nhân nước ngoài
+- 
+200
+343.404.295 
+263.856.383
+
+258  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+259
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+8 
+CHO VAY KHÁCH HÀNG (TIẾP THEO)
+8.2 
+Theo đối tượng khách hàng
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Hộ kinh doanh và cá nhân
+149.935.604 
+137.679.434
+Công ty trách nhiệm hữu hạn (“TNHH”) khác
+105.980.794 
+68.408.284
+Công ty cổ phần khác
+81.177.458 
+53.577.740
+Doanh nghiệp có vốn đầu tư nước ngoài
+3.402.200 
+             1.408.969
+Doanh nghiệp Nhà nước
+2.802.782 
+2.682.397
+Hợp tác xã và liên hiệp hợp tác xã
+50.808 
+43.686
+Doanh nghiệp tư nhân
+2.139 
+27.720
+Các đối tượng khác
+52.510 
+28.153 
+343.404.295 
+          263.856.383
+8.3 
+Theo chất lượng nợ cho vay 
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ đủ tiêu chuẩn (*)
+319.238.925 
+252.065.283
+Nợ cần chú ý (*)
+18.005.407 
+7.386.909
+Nợ dưới tiêu chuẩn
+2.610.402 
+1.848.250
+Nợ nghi ngờ
+1.907.723 
+1.414.595
+Nợ có khả năng mất vốn
+1.641.838 
+1.141.346
+343.404.295 
+263.856.383
+(*) 
+Tại ngày 31 tháng 12 năm 2023, bao gồm trong số dư nợ đủ tiêu chuẩn và nợ cần chú ý là 1.806.396 triệu đồng 
+tổng số dư nợ vay của khách hàng thuộc đối tượng áp dụng Thông tư 02/2023; trong đó có 1.676.240 triệu đồng 
+là số dư nợ thuộc các khoản giải ngân đã được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ 
+khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ 
+nhu cầu đời sống, tiêu dùng, được thực hiện theo Thông tư 02/2023. Tại ngày 31 tháng 12 năm 2023, Ngân hàng 
+và công ty con đang ghi nhận ngoại bảng số tiền 46.627 triệu đồng lãi dự thu của các khoản cho vay này (tại ngày 
+31 tháng 12 năm 2022: chưa phát sinh).
+8.4 
+Theo kỳ hạn
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ ngắn hạn
+183.332.216 
+172.747.107
+Nợ trung hạn
+93.389.645 
+25.793.635
+Nợ dài hạn
+66.682.434 
+65.315.641
+343.404.295 
+263.856.383
+8 
+CHO VAY KHÁCH HÀNG (TIẾP THEO)
+8.5 
+Theo loại tiền tệ
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Bằng VND
+333.518.834 
+252.917.766 
+Bằng ngoại tệ
+9.885.461 
+10.938.617 
+343.404.295 
+263.856.383 
+8.6 
+Theo lĩnh vực kinh doanh
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản 
+phẩm vật chất và dịch vụ tự tiêu dùng, của hộ gia đình
+109.332.902 
+95.430.258
+Hoạt động kinh doanh bất động sản
+58.248.505
+20.969.929
+Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và động cơ khác
+46.004.035 
+12.185.185
+Xây dựng
+24.448.858 
+16.842.962
+Nông nghiệp, lâm nghiệp và thủy sản
+14.278.085 
+26.016.502
+Hoạt động tài chính và bảo hiểm
+13.038.626 
+3.245.148
+Công nghiệp chế biến, chế tạo
+11.589.764 
+29.121.078
+Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hòa 
+không khí
+9.995.088 
+15.443.604
+Vận tải, kho bãi
+5.394.191 
+4.320.943
+Dịch vụ lưu trú và ăn uống
+3.980.434 
+5.101.910 
+Khác
+47.093.807
+35.178.864
+343.404.295 
+263.856.383
+
+260  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+261
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+8 
+CHO VAY KHÁCH HÀNG (TIẾP THEO)
+8.7 
+Mức lãi suất hàng năm được áp dụng cho số dư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Các khoản cho vay bằng VND
+ »
+Ngắn hạn
+0,00 - 79,02
+0,00 - 79,02
+ »
+Trung hạn
+0,00 - 70,00
+0,00 - 70,00
+ »
+Dài hạn
+3,50 - 25,00
+2,80 - 25,00
+Các khoản cho vay bằng ngoại tệ
+ »
+Ngắn hạn
+5,00 - 8,70 
+2,85 - 8,40
+ »
+Trung hạn
+Không áp dụng
+7,40 - 10,00
+ »
+Dài hạn
+0,01 - 10,52
+0,01 - 9,51
+8.8 
+Dự phòng rủi ro cho vay khách hàng
+Dự phòng
+ cụ thể (*)
+Triệu đồng
+Dự phòng
+chung
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Tại ngày 1 tháng 1 năm 2022
+934.599
+1.517.469
+2.452.068
+Trích lập trong năm (Thuyết minh 30)
+2.555.447
+452.892
+           3.008.339 
+Sử dụng dự phòng để xử lý rủi ro trong năm
+(2.358.835)
+-
+         (2.358.835)
+Tại ngày 31 tháng 12 năm 2022
+1.131.211
+1.970.361
+3.101.572
+Trích lập trong năm (Thuyết minh 30)
+3.674.896 
+592.855 
+4.267.751 
+Sử dụng dự phòng để xử lý rủi ro trong năm
+(3.314.866) 
+- 
+(3.314.866) 
+Tại ngày 31 tháng 12 năm 2023
+1.491.241 
+2.563.216 
+4.054.457 
+(*) 
+Tại ngày 31 tháng 12 năm 2023, bao gồm trong số dư dự phòng cụ thể của Ngân hàng và công ty con là 11.014 
+triệu đồng (tại ngày 31 tháng 12 năm 2022: chưa phát sinh) dự phòng bổ sung cho số dư nợ của các khách hàng 
+có nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt 
+động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng, được thực 
+hiện theo Thông tư 02/2023 (Thuyết minh 2.8.4).
+9 
+CHỨNG KHOÁN ĐẦU TƯ 
+9.1 
+Chứng khoán đầu tư sẵn sàng để bán
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chứng khoán Nợ
+Trái phiếu Chính phủ
+13.040.960 
+14.685.119 
+Trái phiếu và chứng chỉ tiền gửi do các TCTD khác trong nước phát hành
+10.190.526 
+15.375.189 
+Trái phiếu do các tổ chức kinh tế (“TCKT”) trong nước phát hành (*)
+8.354.980 
+4.300.777 
+31.586.466 
+34.361.085
+Chứng khoán Vốn
+Chứng khoán vốn do TCKT trong nước phát hành
+285.222 
+1.013.973
+31.871.688 
+35.375.058
+Dự phòng rủi ro chứng khoán đầu tư sẵn sàng để bán
+Dự phòng chung cho TPDN chưa niêm yết
+(62.662) 
+(30.004)
+Dự phòng cụ thể cho TPDN chưa niêm yết
+(9.000)
+-
+31.800.026 
+35.345.054
+(*)  
+Trái phiếu của một số tổ chức kinh tế có tài sản đảm bảo là quyền sử dụng đất, dự án bất động sản, cổ phiếu và 
+tiền gửi mở tại HDBank.
+9.2 
+Chứng khoán đầu tư giữ đến ngày đáo hạn
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chứng khoán nợ
+Trái phiếu Chính phủ 
+3.935.619 
+11.692.561
+Trái phiếu do Ngân hàng Phát triển Việt Nam phát hành được Chính phủ 
+bảo lãnh 
+349.790 
+601.569
+Trái phiếu và chứng chỉ tiền gửi do các TCTD khác trong nước phát hành 
+6.338.198 
+1.150.000
+Trái phiếu do các TCKT trong nước phát hành 
+1.681.266 
+-
+12.304.873 
+13.444.130
+Dự phòng rủi ro chứng khoán đầu tư giữ đến ngày đáo hạn
+Dự phòng chung cho TPDN chưa niêm yết
+(12.610) 
+-
+12.292.263 
+13.444.130
+
+262  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+263
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+9 
+CHỨNG KHOÁN ĐẦU TƯ (TIẾP THEO) 
+9.3 
+Thuyết minh về tình trạng niêm yết của các chứng khoán đầu tư 
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chứng khoán nợ (*)
+Đã niêm yết 
+17.326.369
+27.279.543
+Chưa niêm yết
+26.564.970 
+20.525.672
+43.891.339 
+             47.805.215
+Chứng khoán vốn
+Đã niêm yết 
+285.222 
+1.013.973
+44.176.561 
+48.819.188
+(*) 
+Tại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, một số trái phiếu Chính phủ, trái phiếu và chứng 
+chỉ tiền gửi do các TCTD trong nước phát hành đang được cầm cố để thực hiện vay vốn và nhận tiền gửi tại một 
+số TCTD khác và để được cấp hạn mức cho các nghiệp vụ thực hiện với NHNN hoặc đưa đi thực hiện nghiệp vụ 
+chiết khấu, tái chiết khấu (Thuyết minh 35.2).
+9.4 
+Mức lãi suất hàng năm được áp dụng cho số dư chứng khoán đầu tư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Trái phiếu Chính phủ bằng VND
+1,10 - 8,80
+1,10 - 9,10
+Trái phiếu và chứng chỉ tiền gửi do các TCTD khác trong nước  
+phát hành bằng VND
+4,20 - 10,00 
+2,70 - 9,00
+Trái phiếu do các TCKT trong nước phát hành bằng VND
+8,90 - 14,00
+8,90 - 14,00
+9.5 
+Phân tích chất lượng chứng khoán đầu tư được phân loại là tài sản có rủi ro tín dụng
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ đủ tiêu chuẩn
+24.034.975 
+20.825.966
+Nợ cần chú ý
+2.484.995
+-
+Nợ dưới tiêu chuẩn
+45.000
+-
+26.564.970
+20.825.966
+9 
+CHỨNG KHOÁN ĐẦU TƯ (TIẾP THEO)
+9.6  
+Dự phòng chứng khoán đầu tư
+Dự phòng chung 
+Triệu đồng
+Dự phòng 
+cụ thể
+Triệu đồng
+Dự phòng 
+giảm giá 
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Tại ngày 1 tháng 1 năm 2022
+75.736
+-
+22.867
+98.603
+Hoàn nhập trong năm (Thuyết minh 26)
+                (45.732)
+-
+     (22.867)
+(68.599)
+Tại ngày 31 tháng 12 năm 2022
+30.004
+-
+-
+30.004
+Trích lập trong năm (Thuyết minh 26)
+45.268 
+9.000
+-
+54.268 
+Tại ngày 31 tháng 12 năm 2023
+75.272 
+9.000
+-
+84.272 
+10 
+GÓP VỐN, ĐẦU TƯ DÀI HẠN
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Các khoản đầu tư dài hạn khác (*)
+163.921 
+              163.921 
+Trừ: 
+              
+Dự phòng giảm giá các khoản đầu tư dài hạn khác
+(20.140) 
+              (19.898)
+143.781 
+144.023
+(*) 
+Các khoản đầu tư dài hạn khác là các khoản đầu tư vào các TCKT trong nước chưa niêm yết.
+
+264  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+265
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+11  
+TSCĐ
+   
+11.1 
+TSCĐ hữu hình
+            
+Nhà cửa, 
+vật kiến trúc
+Triệu đồng
+Máy móc 
+thiết bị
+Triệu đồng
+Phương tiện
+vận tải
+Triệu đồng
+Thiết bị, dụng 
+cụ quản lý
+Triệu đồng
+TSCĐ hữu 
+hình khác
+Triệu đồng
+ Tổng cộng
+Triệu đồng
+Nguyên giá
+Tại ngày 1 tháng 1 năm 2023
+483.304
+315.464
+349.009
+356.826
+14.808
+1.519.411
+Mua trong năm
+44.684 
+52.107 
+77.855 
+23.554 
+5.807 
+204.007 
+Thanh lý, nhượng bán
+(16.366) 
+(1.351) 
+(68) 
+(2.847) 
+-
+(20.632) 
+Khác
+-
+28 
+-
+(28) 
+-
+-
+Tại ngày 31 tháng 12 năm 2023
+511.622 
+366.248 
+426.796 
+377.505 
+20.615 
+1.702.786 
+Giá trị khấu hao lũy kế
+Tại ngày 1 tháng 1 năm 2023
+146.562
+178.697
+237.955
+312.483
+12.093
+887.790
+Khấu hao trong năm
+19.210 
+30.275 
+43.088 
+19.165 
+1.203 
+112.941 
+Thanh lý, nhượng bán
+(7.005) 
+(1.166) 
+(68) 
+(2.847) 
+-
+(11.086) 
+Khác
+(34) 
+18 
+-
+(64) 
+80 
+-
+Tại ngày 31 tháng 12 năm 2023
+158.733
+207.824 
+280.975 
+328.737 
+13.376 
+989.645 
+Giá trị còn lại
+Tại ngày 1 tháng 1 năm 2023
+336.742
+136.767
+111.054
+44.343
+2.715
+631.621
+Tại ngày 31 tháng 12 năm 2023
+352.889
+158.424
+145.821
+48.768
+7.239
+713.141
+Nguyên giá TSCĐ hữu hình của Ngân hàng và công ty con đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 
+12 năm 2023 là 579.835 triệu đồng (tại ngày 31 tháng 12 năm 2022: 532.716 triệu đồng).
+11.2 
+TSCĐ vô hình
+Quyền sử dụng 
+đất có thời hạn
+Triệu đồng
+Quyền sử dụng đất
+ không thời hạn
+Triệu đồng
+Phần mềm 
+vi tính
+Triệu đồng
+TSCĐ 
+vô hình khác
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Nguyên giá
+Tại ngày 1 tháng 1 năm 2023
+109.626
+531.404
+357.930 
+7.313
+1.006.273
+Mua trong năm
+-
+-
+69.264 
+650 
+69.914 
+Tại ngày 31 tháng 12 năm 2023
+109.626 
+531.404 
+427.194 
+7.963 
+1.076.187 
+Giá trị khấu hao lũy kế
+Tại ngày 1 tháng 1 năm 2023
+12.328
+-
+305.971
+4.538
+322.837
+Khấu hao trong năm
+2.044 
+-
+41.058 
+630 
+43.732 
+Tại ngày 31 tháng 12 năm 2023
+14.372 
+-
+347.029 
+5.168 
+366.569 
+Giá trị còn lại
+Tại ngày 1 tháng 1 năm 2023
+97.298
+531.404
+51.959
+2.775
+683.436
+Tại ngày 31 tháng 12 năm 2023
+95.254 
+531.404 
+80.165 
+2.795 
+709.618 
+Nguyên giá TSCĐ vô hình của Ngân hàng và công ty con đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 
+12 năm 2023 là 322.809 triệu đồng (tại ngày 31 tháng 12 năm 2022: 217.765 triệu đồng). 
+12 
+TÀI SẢN CÓ KHÁC 
+12.1 
+Các khoản phải thu
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Phải thu từ UPAS L/C (i)
+25.621.589 
+23.853.153
+Phải thu từ L/C trả chậm (ii)
+12.230.410 
+-
+Phải thu tổ chức thẻ
+5.232.530 
+2.577.457
+Xây dựng cơ bản, mua sắm TSCĐ (iii)
+2.369.330 
+2.170.744
+Đặt cọc mua chứng chỉ tiền gửi (iv)
+1.000.000 
+2.250.000
+Tạm ứng cho khoản tiền gửi, tiết kiệm lãi trả trước (v)
+897.326 
+112.435
+Phải thu từ thanh lý TSCĐ (vi)
+410.000 
+514.000
+Phải thu từ bán chứng khoán vốn (vii)
+351.646 
+-
+Phải thu dịch vụ thu hộ kèm hỗ trợ quản lý trái phiếu
+121.004 
+539.050
+Ký quỹ thuê văn phòng và công cụ, dụng cụ
+90.135 
+82.467
+Phải thu hoa hồng đại lý
+74.449
+80.863
+Ký quỹ giao dịch phái sinh
+41.677 
+44.787
+Tạm ứng hoạt động nghiệp vụ
+34.594
+184.065
+Phải thu dịch vụ đại lý bảo hiểm
+28.790
+87.057
+Phải thu từ hoạt động bán chứng khoán trả chậm
+-
+239.980
+Tạm ứng trả lãi nhận vốn ủy thác
+-
+168.295
+Khác
+439.453
+502.256
+48.942.933
+33.406.609
+(i) 
+Các khoản phải thu từ nghiệp vụ UPAS L/C là các khoản phải thu khách hàng của HDBank từ nghiệp vụ tài trợ của 
+các ngân hàng đối tác khi thanh toán trả ngay cho Người thụ hưởng theo bộ chứng từ trả chậm của Thư tín dụng 
+do HDBank phát hành. Sau đó, vào ngày đáo hạn thanh toán bộ chứng từ, HDBank sẽ thu gốc và phí từ khách 
+hàng và hoàn trả lại cho các ngân hàng tài trợ.
+(ii) 
+Các khoản phải thu từ dịch vụ thanh toán L/C trả chậm có điều khoản thanh toán trước hạn là các khoản phải thu 
+khách hàng của HDBank từ nghiệp vụ tài trợ của HDBank khi thanh toán trước hạn cho Người thụ hưởng căn cứ 
+trên chấp nhận thanh toán của HDBank và đề nghị thanh toán trước hạn của Người thụ hưởng. Sau đó, vào ngày 
+đáo hạn thanh toán bộ chứng từ, HDBank sẽ thu gốc và phí từ khách hàng.
+(iii) 
+Chi tiết xây dựng cơ bản, mua sắm TSCĐ như sau:
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Mua sắm nhà, trụ sở
+2.069.934 
+1.988.428
+Trong đó: Công trình xây dựng tại Khu Công Nghệ Cao 
+Thành phố Hồ Chí Minh
+1.485.490 
+1.448.323
+Phần mềm
+134.439
+72.690 
+Chi phí sửa chữa
+57.329
+39.075 
+Phương tiện vận tải
+50.611
+42.429 
+Mua sắm tài sản khác
+57.017 
+28.122 
+2.369.330 
+2.170.744
+
+266  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+267
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+12 
+TÀI SẢN CÓ KHÁC (TIẾP THEO)
+12.1 
+Các khoản phải thu (tiếp theo)
+(iv) 
+Ngân hàng đặt cọc theo các hợp đồng đặt mua chứng chỉ tiền gửi với các tổ chức kinh tế. Các khoản này đã được 
+hoàn trả toàn bộ trong tháng 2 năm 2024.
+(v) 
+Các khoản tiền gửi, tiết kiệm tiền lãi trả trước là hình thức huy động có kỳ hạn nhận lãi ngay khi gửi tiền dành cho 
+khách hàng là cá nhân, các tổ chức kinh tế đang sinh sống và hoạt động hợp pháp trên lãnh thổ Việt Nam.
+(vi) 
+Đây là các khoản phải thu liên quan đến việc chuyển nhượng tài sản cho các tổ chức kinh tế được thanh toán 
+trong vòng 7 năm với lãi suất 7%/năm, đáo hạn vào ngày 28 tháng 6 năm 2025. Gốc và lãi trả chậm được thanh 
+toán hằng năm.
+(vii) 
+Khoản phải thu từ bán chứng khoán vốn đã được thu toàn bộ trong tháng 1 năm 2024.
+12.2 
+Các khoản lãi, phí phải thu
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Lãi phải thu từ hoạt động tín dụng
+3.613.888 
+            2.761.050
+Lãi phải thu từ chứng khoán đầu tư
+1.118.124 
+           1.003.752 
+Phí dự thu từ nghiệp vụ UPAS L/C và L/C trả chậm
+975.307 
+319.383 
+Lãi phải thu từ tiền gửi
+16.786 
+                 25.625 
+Lãi và phí phải thu khác (*)
+877.996
+293.691
+6.602.101
+             4.403.501
+(*) 
+Bao gồm khoản phải thu phí khác từ hoạt động tín dụng và hoạt động dịch vụ với số tiền 585.000 triệu đồng đã 
+thu được trong tháng 1 năm 2024.
+12.3 
+Tài sản Có khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chi phí trả trước chờ phân bổ (i)
+1.791.630 
+           1.928.431 
+Tài sản bảo đảm chờ xử lý (ii)
+290.642 
+               267.373 
+Vật liệu, công cụ
+147.693 
+               127.817 
+Lợi thế thương mại (Thuyết minh 12.4)
+-
+4.799
+Tài sản khác
+3.450 
+                  3.450 
+2.233.415 
+2.331.870
+(i)  
+Chi phí trả trước chờ phân bổ chủ yếu bao gồm chi phí hoa hồng trả cho đại lý và nhân viên kinh doanh, chi phí 
+mua công cụ, dụng cụ, chi phí dịch vụ trả trước, chi phí thuê tài sản, thuê đường truyền dữ liệu, chi phí bảo trì và 
+sửa chữa tài sản.
+(ii)  
+Số dư phản ánh giá trị tài sản bảo đảm nhận thay thế cho việc thực hiện nghĩa vụ của bên bảo đảm đã chuyển 
+quyền sở hữu cho Ngân hàng chờ xử lý. Ngân hàng đã có đầy đủ giấy tờ chứng minh quyền sở hữu hợp pháp đối 
+với các tài sản này.
+12 
+TÀI SẢN CÓ KHÁC (TIẾP THEO)
+12.4  
+Lợi thế thương mại
+Tại ngày 30 tháng 10 năm 2013, Ngân hàng đã mua 100% vốn của Công ty Tài chính TNHH Một thành viên Ngân 
+hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh (HDFinance) (tên gọi trước đây là Công ty TNHH 
+Một thành viên Tài chính Việt Société Générale) theo nghị quyết của Đại Hội đồng cổ đông ngày 26 tháng 4 năm 
+2013 và Quyết định số 2532/QĐ-NHNN của NHNN. Tổng giá phí hợp nhất kinh doanh là 629.376 triệu đồng được 
+thanh toán bằng tiền trong năm 2013. Lợi thế thương mại phát sinh là 115.251 triệu đồng được phân bổ trong 
+10 năm.
+Trong năm 2014, Ngân hàng đã bán 49% tỷ lệ sở hữu trong HDFinance cho Credit Saison Co.,Ltd. và đổi tên thành 
+Công ty Tài chính TNHH HD SAISON. Trong tháng 5 năm 2015, Ngân hàng cũng đã tiếp tục hoàn tất việc chuyển 
+nhượng 1,00% vốn góp tại HD SAISON cho một nhà đầu tư trong nước với tổng giá bán là 17.000 triệu đồng và 
+ghi nhận khoản lãi thuần là 9.604 triệu đồng. Theo đó, Ngân hàng đã ghi nhận giảm lợi thế thương mại tương 
+ứng với tỷ lệ thoái vốn.
+Thay đổi giá trị lợi thế thương mại trong năm như sau:
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tổng giá trị lợi thế thương mại
+115.251 
+115.251
+Thời gian phân bổ (năm)
+10 
+10
+Giá trị lợi thế thương mại đã phân bổ lũy kế đầu năm
+(110.452) 
+(104.689)
+Giá trị lợi thế thương mại chưa phân bổ đầu năm
+4.799 
+10.562
+Lợi thế thương mại phân bổ trong năm
+(4.799) 
+(5.763)
+Tổng giá trị lợi thế thương mại chưa phân bổ cuối năm
+-
+4.799
+12.5 
+Phân tích chất lượng tài sản Có khác được phân loại là tài sản có rủi ro tín dụng
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ đủ tiêu chuẩn 
+52.500.121
+34.903.955
+Nợ có khả năng mất vốn
+46.799
+46.456
+52.546.920
+34.950.411
+
+268  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+269
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+13 
+CÁC KHOẢN NỢ CHÍNH PHỦ VÀ NHNN
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền gửi của Kho bạc Nhà nước
+2.104 
+88
+Vay NHNN
+ »
+Thị trường mở (OMO)
+-
+10.778.760 
+Các khoản nợ khác
+ »
+Ngân hàng Hợp tác Quốc tế Nhật Bản (i)
+24.486 
+42.410
+26.590
+10.821.258
+(i) 
+Đây là khoản vay theo dự án Tài trợ Doanh nghiệp vừa và nhỏ giai đoạn II và giai đoạn III do Ngân hàng Hợp tác 
+Quốc tế Nhật Bản (JBIC) tài trợ thông qua NHNN.
+14 
+TIỀN GỬI VÀ VAY CÁC TCTD KHÁC
+14.1 
+Tiền gửi của các TCTD khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền gửi không kỳ hạn
+ »
+Bằng VND
+9.002.298 
+8.347.945
+ »
+Bằng ngoại tệ
+3.883 
+3.445
+9.006.181 
+8.351.390
+Tiền gửi có kỳ hạn 
+ »
+Bằng VND
+50.400.000 
+38.627.000
+ »
+Bằng ngoại tệ
+3.191.505 
+2.462.250
+53.591.505 
+41.089.250
+62.597.686 
+49.440.640
+14 
+TIỀN GỬI VÀ VAY CÁC TCTD KHÁC (TIẾP THEO)
+14.2 
+Vay các TCTD khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Phải trả về nghiệp vụ UPAS L/C
+ »
+Bằng VND
+13.628.051 
+18.573.444
+ »
+Bằng ngoại tệ
+21.828.724 
+5.279.710
+35.456.775 
+23.853.154
+Vay các TCTD khác
+ »
+Bằng VND
+3.932.440 
+6.098.768
+Trong đó: Vay chiết khấu, tái chiết khấu
+1.825.440 
+4.073.768
+ »
+Bằng ngoại tệ
+10.100.077 
+13.260.638
+14.032.517 
+19.359.406
+49.489.292 
+43.212.560
+14.3 
+Mức lãi suất hàng năm được áp dụng cho số dư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Tiền gửi có kỳ hạn bằng VND
+0,60 -   3,70
+2,60 - 12,00
+Tiền gửi có kỳ hạn bằng ngoại tệ
+5,00 -   5,60
+4,25 -   4,95
+Vay bằng VND
+0,30 - 10,15
+5,50 - 13,50
+Vay bằng ngoại tệ
+1,55 -   8,10
+1,55 -   7,07
+Phải trả về nghiệp vụ UPAS L/C bằng VND
+3,42 - 11,06
+3,36 - 11,10
+Phải trả về nghiệp vụ UPAS L/C bằng ngoại tệ
+0,98 -   7,09
+1,53 -   6,45
+
+270  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+271
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+15 
+TIỀN GỬI CỦA KHÁCH HÀNG
+ 
+15.1 
+Theo loại tiền gửi
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền gửi không kỳ hạn
+ »
+Bằng VND
+38.233.609 
+20.852.643
+ »
+Bằng ngoại tệ
+2.009.167 
+1.384.093
+Tiền gửi có kỳ hạn
+ »
+Bằng VND
+70.300.227 
+53.692.228
+ »
+Bằng ngoại tệ
+-
+703.500
+Tiền gửi tiết kiệm
+ »
+Bằng VND
+258.924.614 
+138.090.951
+ »
+Bằng ngoại tệ
+435.606 
+408.483
+Tiền gửi ký quỹ
+ »
+Bằng VND
+731.607 
+522.538
+ »
+Bằng ngoại tệ
+46.352 
+44.681
+Tiền gửi vốn chuyên dùng
+ »
+Bằng VND
+62.897 
+93.057
+ »
+Bằng ngoại tệ
+33.809 
+5.000
+370.777.888 
+215.797.174
+15.2 
+Theo đối tượng khách hàng, loại hình doanh nghiệp
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền gửi của cá nhân
+272.059.759 
+145.264.157
+Công ty cổ phần 
+39.271.602 
+25.890.668
+Công ty TNHH
+30.084.669 
+17.659.677
+Doanh nghiệp Nhà nước
+13.581.547 
+15.853.263
+Doanh nghiệp có vốn đầu tư nước ngoài
+6.153.571 
+3.271.421
+Đơn vị hành chính sự nghiệp, Đảng, đoàn thể và hiệp hội
+3.862.861 
+2.822.331
+Hợp tác xã và liên hiệp hợp tác xã
+3.794.797 
+3.714.999
+Khác
+1.969.082 
+1.320.658
+370.777.888 
+215.797.174
+15.3 
+Mức lãi suất hàng năm áp dụng cho số dư tại ngày:
+31.12.2023
+%
+31.12.2022
+%
+Tiền gửi không kỳ hạn bằng VND
+0,00 - 0,50
+0,00 - 1,00 
+Tiền gửi không kỳ hạn bằng ngoại tệ
+0,00 - 0,20
+0,00 - 0,20 
+Tiền gửi có kỳ hạn, tiền gửi tiết kiệm bằng VND
+0,10 - 11,90
+0,00 - 11,20 
+Tiền gửi có kỳ hạn, tiền gửi tiết kiệm bằng ngoại tệ 
+0,00 - 1,90
+0,00 - 1,90
+Tiền gửi ký quỹ bằng VND
+0,10 - 9,50
+0,01 - 8,50 
+Tiền gửi ký quỹ bằng ngoại tệ
+0,00 - 0,20
+0,00 - 0,20 
+Tiền gửi vốn chuyên dụng bằng VND
+0,10 - 0,50
+0,06 - 1,00 
+Tiền gửi vốn chuyên dụng bằng ngoại tệ
+0,00 - 0,10
+0,00 - 0,10 
+16 
+VỐN TÀI TRỢ, ỦY THÁC ĐẦU TƯ, CHO VAY TCTD CHỊU RỦI RO 
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Vốn nhận tài trợ, ủy thác đầu tư, cho vay bằng ngoại tệ
+ »
+Vốn tài trợ chương trình hỗ trợ phát triển chính sách cải cách 
+ngành điện -  Giai đoạn III (*)
+2.753.542 
+2.796.945
+ »
+Vốn tài trợ dự án xây dựng hệ thống cấp nước Nhơn Trạch - Giai đoạn II
+56.839 
+62.400
+ »
+Vốn tài trợ từ Quỹ Phát triển Nông thôn
+748 
+810
+2.811.129 
+2.860.155
+ 
+(*)  
+Đây là khoản vay 128 triệu Đô la Mỹ do Ngân hàng Thế giới tài trợ thông qua Bộ tài chính theo thỏa thuận cho 
+chương trình hỗ trợ chính sách cải cách ngành điện - Giai đoạn III, thời hạn 29 năm từ ngày 4 tháng 8 năm 2015 
+đến ngày 4 tháng 8 năm 2043. Từ ngày 1 tháng 1 năm 2022, lãi suất áp dụng cho khoản vay này được tính bằng 
+lãi suất SOFR cộng với khoản chênh lệch biến đổi được điều chỉnh định kỳ.
+17 
+PHÁT HÀNH GIẤY TỜ CÓ GIÁ
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Chứng chỉ tiền gửi bằng VND
+ »
+Dưới 12 tháng
+15.352.000 
+7.650.000
+ »
+Từ 12 tháng đến dưới 5 năm
+2.619.000 
+2.972.000
+ »
+Từ 5 năm trở lên
+157.000 
+157.000
+Trái phiếu thường bằng VND
+ »
+Từ 12 tháng đến dưới 5 năm
+9.800.000 
+19.450.000
+ »
+Từ 5 năm trở lên
+15.152.063 
+6.352.063
+Trái phiếu chuyển đổi bằng USD (i)
+ »
+Từ 5 năm trở lên
+7.887.750 
+7.621.250
+Chi phí phát hành giấy tờ có giá
+(29.665) 
+(40.673)
+50.938.148 
+44.161.640
+
+272  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+273
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+17 
+PHÁT HÀNH GIẤY TỜ CÓ GIÁ (TIẾP THEO)
+(i)   
+Chi tiết về trái phiếu chuyển đổi như sau:
+Ngân hàng đã phát hành riêng lẻ 3 đợt trái phiếu chuyển đổi cho các nhà đầu tư nước ngoài với tổng giá trị là 
+325 triệu Đô la Mỹ, mệnh giá 100.000 Đô la Mỹ trên một trái phiếu chuyển đổi, kỳ hạn 5 năm một ngày, lãi suất 
+trái phiếu 4,5%/năm, lãi trái phiếu trả hàng năm, gốc thanh toán một lần khi đến hạn nếu không chuyển đổi, chi 
+tiết như sau: 
+Đợt phát hành
+Số lượng trái phiếu
+phát hành (Trái phiếu)
+Giá trị
+(Đô la Mỹ)
+Giá chuyển đổi dự 
+kiến (Đồng/cổ phần) Thời điểm chuyển đổi
+Ngày 4.11.2020
+300
+30.000.000
+41.800
+Chủ sở hữu trái phiếu có thể chuyển đổi 
+(toàn bộ, nhưng không từng phần) thành cổ 
+phiếu Ngân hàng vào bất kỳ thời điểm nào 
+sau 12 tháng 1 ngày và không muộn hơn 59 
+tháng kể từ ngày phát hành trái phiếu.
+Ngày 24.12.2020
+1.300
+130.000.000
+41.800
+Ngày 29.12.2021
+1.650
+165.000.000
+43.061
+Chủ sở hữu trái phiếu có quyền thực hiện 
+chuyển đổi toàn bộ hoặc một phần thành 
+cổ phiếu Ngân hàng vào bất kỳ thời điểm 
+nào sau 12 tháng và không muộn hơn 59 
+tháng kể từ ngày phát hành trái phiếu.
+Giá chuyển đổi dự kiến có thể được điều chỉnh theo các sự kiện pha loãng trong tương lai theo quy định.
+Mức lãi suất hằng năm của giấy tờ có giá phát hành của Ngân hàng và công ty con như sau: 
+31.12.2023
+%
+31.12.2022
+%
+Chứng chỉ tiền gửi dưới 12 tháng bằng VND
+4,80 - 13,50 
+5,50 - 16,00
+Chứng chỉ tiền gửi từ 12 tháng đến dưới 5 năm bằng VND
+7,30 - 15,00 
+5,35 - 8,00
+Chứng chỉ tiền gửi từ 5 năm trở lên bằng VND
+11,00 - 14,00 
+11,00 - 14,00
+Trái phiếu từ 12 tháng đến dưới 5 năm bằng VND
+3,80 - 4,20 
+3,20 - 6,30
+Trái phiếu từ 5 năm trở lên bằng VND
+6,30 - 9,10 
+6,30 - 9,40
+Trái phiếu từ 5 năm trở lên bằng USD
+4,50
+4,50
+18 
+CÁC KHOẢN NỢ KHÁC
+ 
+18.1 
+Các khoản lãi, phí phải trả
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Lãi phải trả cho tiền gửi
+7.713.126
+4.112.991
+Lãi phải trả cho phát hành giấy tờ có giá
+1.518.297
+643.176
+Lãi phải trả cho tiền vay 
+952.098
+201.963
+Lãi phải trả cho các giao dịch kỳ hạn, hoán đổi
+110.286
+83.191
+Lãi phải trả cho vốn tài trợ, ủy thác đầu tư
+52.692
+11.612
+10.346.499 
+5.052.933
+18.2 
+Các khoản phải trả và công nợ khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Các khoản phải trả nội bộ
+238.604
+313.825
+Các khoản phải trả cho bên ngoài
+ »
+Phải trả giao dịch chuyển tiền nhanh qua thẻ
+4.188.693 
+1.784.549
+ »
+Thuế và các khoản phải nộp Nhà nước (Thuyết minh 34)
+1.928.845
+1.483.465
+ »
+Tiền giữ hộ và chờ thanh toán
+463.899 
+478.133
+ »
+Phải trả cho đại lý
+195.043 
+345.700
+ »
+Các khoản chi phí phải trả
+191.299
+79.726
+ »
+Tiền gửi phải trả kiều hối
+80.869
+72.629
+ »
+Hoa hồng phải trả
+73.721 
+172.669
+ »
+Phải trả cổ tức của công ty con
+7.500 
+-
+ »
+Phải trả khác 
+293.439
+804.793
+Doanh thu chờ phân bổ 
+1.223.782
+134.519
+Quỹ khen thưởng, phúc lợi
+41.611 
+35.289
+8.927.305 
+5.705.297
+
+274  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+275
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+19 
+VỐN CHỦ SỞ HỮU
+19.1 
+Tình hình thay đổi vốn chủ sở hữu
+ 
+Quỹ của TCTD
+Vốn điều lệ
+Triệu  đồng
+Thặng dư vốn 
+cổ phần
+Triệu đồng
+Cổ phiếu quỹ
+Triệu đồng
+Quỹ 
+dự phòng
+tài chính
+Triệu đồng
+Quỹ dự trữ 
+bổ sung vốn 
+điều lệ
+Triệu đồng
+Các 
+quỹ khác
+Triệu đồng
+Tổng cộng 
+Quỹ của 
+TCTD
+Triệu đồng
+Vốn đầu tư 
+xây dựng 
+cơ bản 
+Triệu đồng
+Lợi nhuận 
+chưa 
+phân phối
+Triệu đồng
+Lợi ích cổ 
+đông không 
+kiểm soát
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Tại ngày 1 tháng 1 năm 2022
+20.072.906
+535.956
+(413.448)
+1.709.175
+725.779
+112.511
+2.547.465
+89
+6.290.473
+1.756.672
+30.790.113
+Tăng trong năm (i)
+200.000
+-
+-
+-
+-
+-
+-
+-
+-
+-
+200.000
+Góp vốn từ cổ đông không kiểm soát
+-
+-
+-
+-
+-
+-
+-
+-
+-
+175.000
+175.000
+Lợi nhuận trong năm
+-
+-
+-
+-
+-
+-
+-
+-
+7.749.794
+459.676
+8.209.470
+Trích lập các quỹ trong năm
+-
+-
+-
+647.465
+324.881
+25.000
+997.346
+-
+(997.346)
+-
+-
+Trích lập Quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+-
+-
+-
+-
+(10.000)
+-
+(10.000)
+Sử dụng các quỹ trong năm
+-
+-
+-
+-
+-
+(10.262)
+(10.262)
+-
+-
+-
+(10.262)
+Chia cổ tức bằng cổ phiếu (ii)
+5.030.523
+-
+-
+-
+-
+-
+-
+-
+(5.030.523)
+-
+-
+Chia cổ tức trong năm từ công ty con
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(350.000)
+(350.000)
+Khác
+-
+-
+-
+(4.549)
+(2.273)
+-
+(6.822)
+-
+(2.613)
+-
+(9.435)
+Tại ngày 31 tháng 12 năm 2022
+25.303.429
+535.956
+(413.448)
+2.352.091
+1.048.387
+127.249
+3.527.727
+89
+7.999.785
+2.041.348
+38.994.886
+Lợi nhuận trong năm
+-
+-
+-
+-
+-
+-
+-
+-
+10.070.898 
+265.115 
+10.336.013
+Trích lập các quỹ trong năm
+-
+-
+-
+790.110 
+395.722 
+25.000 
+1.210.832 
+-
+(1.210.832) 
+-
+-
+Trích lập Quỹ khen thưởng, phúc lợi
+-
+-
+-
+-
+-
+-
+-
+-
+(10.000)
+-
+(10.000)
+Sử dụng các quỹ trong năm
+-
+-
+-
+-
+-
+(30.316) 
+(30.316) 
+-
+-
+-
+(30.316)
+Chia cổ tức bằng cổ phiếu (iii)
+3.772.892
+-
+-
+-
+-
+-
+-
+-
+(3.772.892)
+-
+-
+Chia cổ tức bằng tiền mặt (iv)
+-
+-
+-
+-
+-
+-
+-
+-
+(2.515.261) 
+-
+(2.515.261)
+Chia cổ tức trong năm từ công ty con
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(375.000) 
+(375.000)
+Tại ngày 31 tháng 12 năm 2023
+29.076.321 
+535.956 
+(413.448) 
+3.142.201 
+1.444.109 
+121.933 
+4.708.243 
+89 
+10.561.698 
+1.931.463 
+46.400.322 
+(i) 
+Theo Nghị quyết Đại hội đồng cổ đông số 07/2021/NQ-ĐHĐCĐ ngày 23 tháng 4 năm 2021, Nghị quyết số 
+18/2021/NQ-ĐHĐCĐ ngày 16 tháng 9 năm 2021 và Công văn 8570/NHNN-TTGSNH ngày 6 tháng 12 năm 2021 
+của NHNN, Ngân hàng thực hiện tăng vốn trong năm 2022 với số tiền 200 tỷ đồng theo chương trình phát hành 
+cổ phiếu cho người lao động (ESOP).  
+(ii) 
+Theo Nghị quyết Đại hội đồng cổ đông số 05/2022/NQ-ĐHĐCĐ ngày 26 tháng 4 năm 2022 và Công văn 5458/
+NHNN-TTGSNH ngày 8 tháng 8 năm 2022 của NHNN, Ngân hàng thực hiện chia cổ tức năm 2021 bằng cổ phiếu 
+với tỷ lệ 25% từ nguồn lợi nhuận chưa phân phối năm 2021 để tăng vốn điều lệ.
+(iii) 
+Theo Nghị quyết Đại hội đồng cổ đông số 06/2023/NQ-ĐHĐCĐ ngày 26 tháng 4 năm 2023 và Công văn 4279/
+NHNN-TTGSNH ngày 5 tháng 6 năm 2023 của NHNN, Ngân hàng thực hiện chia cổ tức năm 2022 bằng cổ phiếu 
+với tỷ lệ 15% từ nguồn lợi nhuận chưa phân phối năm 2022 để tăng vốn điều lệ.
+(vi) 
+Theo Nghị quyết Đại hội đồng cổ đông số 06/2023/NQ-ĐHĐCĐ ngày 26 tháng 4 năm 2023, Ngân hàng thực hiện 
+chia cổ tức năm 2022 bằng tiền mặt với tỷ lệ 10% tổng giá trị cổ phiếu đang lưu hành từ nguồn lợi nhuận chưa 
+phân phối năm 2022.
+
+276  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+277
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+19 
+VỐN CHỦ SỞ HỮU (TIẾP THEO)
+19.2 
+Cổ phiếu
+19.2.1 
+Số lượng cổ phiếu
+31.12.2023
+Cổ phiếu phổ thông
+31.12.2022
+Cổ phiếu phổ thông
+Số lượng cổ phiếu đăng ký
+2.907.632.132 
+2.530.342.922
+Số lượng cổ phiếu đã phát hành
+2.907.632.132 
+2.530.342.922
+Số lượng cổ phiếu đã mua lại
+(15.081.522) 
+(15.081.522)
+Số lượng cổ phiếu đang lưu hành
+2.892.550.610 
+2.515.261.400
+19.2.2 
+Tình hình biến động vốn cổ phần
+Số lượng
+cổ phiếu phổ thông
+Cổ phiếu
+Cổ phiếu phổ thông 
+tính theo mệnh giá
+Triệu đồng
+Tại ngày 1 tháng 1 năm 2022
+2.007.290.642 
+20.072.906
+Cổ phiếu mới phát hành trong năm
+20.000.000
+200.000
+Chia cổ tức bằng cổ phiếu
+503.052.280
+5.030.523
+Tại ngày 31 tháng 12 năm 2022 
+2.530.342.922
+25.303.429
+Chia cổ tức bằng cổ phiếu
+377.289.210
+3.772.892
+Tại ngày 31 tháng 12 năm 2023
+2.907.632.132
+29.076.321
+Mệnh giá cổ phiếu phổ thông: 10.000 đồng trên một cổ phiếu.
+19.2.3  Lãi cơ bản trên cổ phiếu
+Lãi cơ bản trên cổ phiếu được tính bằng hiệu số lợi nhuận thuần phân bổ cho các cổ đông và số trích quỹ khen 
+thưởng, phúc lợi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, 
+điều chỉnh cho cổ phiếu thưởng phát hành trong năm. Chi tiết như sau:
+2023
+2022
+Lợi nhuận thuần phân bổ cho các cổ đông (Triệu đồng)
+10.070.898 
+7.749.794
+Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi (Triệu đồng)
+-
+(10.000)
+10.070.898 
+7.739.794
+Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu)
+2.892.550.610 
+2.878.293.761 
+Lãi cơ bản trên mỗi cổ phiếu (VND)
+3.482 
+2.689 
+Trong năm, Ngân hàng không có bất kỳ loại cổ phiếu tiềm năng nào có tính suy giảm. Do vậy, yêu cầu trình bày 
+lãi suy giảm trên cổ phiếu không áp dụng.
+20 
+THU NHẬP LÃI VÀ CÁC KHOẢN THU NHẬP TƯƠNG TỰ
+ 
+2023
+Triệu đồng
+2022
+Triệu đồng
+Thu nhập lãi cho vay
+38.543.102 
+26.911.829 
+Thu lãi từ kinh doanh, đầu tư chứng khoán Nợ:
+2.709.684
+2.737.510
+ »
+Thu lãi từ chứng khoán đầu tư
+2.618.802 
+2.561.845 
+ »
+Thu lãi từ chứng khoán kinh doanh
+90.882 
+175.665 
+Thu nhập từ nghiệp vụ UPAS L/C và L/C trả chậm
+2.582.206 
+1.069.414
+Thu nhập lãi tiền gửi
+1.039.402 
+632.684
+Thu nhập từ nghiệp vụ bảo lãnh
+70.570 
+77.815 
+Thu nhập khác từ hoạt động tín dụng (*)
+7.695.613 
+1.894.152
+52.640.577 
+33.323.404
+(*) 
+Chủ yếu bao gồm các khoản phí cam kết rút vốn, phí hứa cấp tín dụng, phí trả nợ trước hạn và các khoản phí khác 
+liên quan đến hoạt động tín dụng.
+21 
+CHI PHÍ LÃI VÀ CÁC KHOẢN CHI PHÍ TƯƠNG TỰ
+2023
+Triệu đồng
+2022
+Triệu đồng
+Chi phí lãi tiền gửi
+23.657.737 
+11.408.937
+Chi phí lãi phát hành giấy tờ có giá
+3.412.816 
+2.163.572
+Chi phí lãi tiền vay
+3.353.894 
+1.674.614
+Chi phí hoạt động tín dụng khác
+32.156 
+64.713
+30.456.603 
+15.311.836
+22 
+THU NHẬP TỪ HOẠT ĐỘNG DỊCH VỤ
+2023
+Triệu đồng
+2022
+Triệu đồng
+Dịch vụ thanh toán
+1.140.095 
+1.112.421 
+Dịch vụ đại lý bảo hiểm
+1.396.733 
+2.033.309 
+Dịch vụ ngân quỹ
+15.534 
+ 17.832 
+Các dịch vụ khác 
+277.806 
+144.893
+2.830.168 
+3.308.455
+23 
+CHI PHÍ TỪ HOẠT ĐỘNG DỊCH VỤ
+2023
+Triệu đồng
+2022
+Triệu đồng
+Chi phí dịch vụ thanh toán
+416.715 
+265.519
+Chi phí hoa hồng môi giới
+27.858 
+26.733 
+Chi phí dịch vụ ngân quỹ
+18.261 
+20.701 
+Các chi phí khác
+179.532 
+38.684 
+642.366 
+351.637
+
+278  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+279
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+24 
+LÃI THUẦN TỪ HOẠT ĐỘNG KINH DOANH NGOẠI HỐI
+ 
+2023
+Triệu đồng
+2022
+Triệu đồng
+Thu nhập từ hoạt động kinh doanh ngoại hối:
+ »
+Thu từ kinh doanh ngoại tệ giao ngay
+1.393.712
+962.209
+ »
+Thu từ các công cụ tài chính phái sinh 
+975.726
+228.002 
+ »
+Thu từ kinh doanh vàng
+2.793
+4.964
+2.372.231 
+1.195.175
+Chi phí hoạt động kinh doanh ngoại hối:
+ »
+Chi về kinh doanh ngoại tệ giao ngay
+(944.551) 
+(520.686)
+ »
+Chi về các công cụ tài chính phái sinh
+(862.706) 
+(539.458)
+ »
+Chi về kinh doanh vàng
+(271)
+(794)
+(1.807.528) 
+(1.060.938)
+Lãi thuần từ hoạt động kinh doanh ngoại hối
+564.703 
+134.237
+25 
+LÃI THUẦN TỪ HOẠT ĐỘNG MUA BÁN CHỨNG KHOÁN KINH DOANH
+ 
+2023
+Triệu đồng
+2022
+Triệu đồng
+Thu nhập mua bán chứng khoán kinh doanh
+194.305 
+115.706
+Chi phí mua bán chứng khoán kinh doanh
+(152.582) 
+(101.600)
+Hoàn nhập dự phòng rủi ro chứng khoán kinh doanh
+-
+2.880
+Lãi thuần từ hoạt động mua bán chứng khoán kinh doanh
+41.723 
+16.986
+26 
+LÃI THUẦN TỪ HOẠT ĐỘNG MUA BÁN CHỨNG KHOÁN ĐẦU TƯ
+2023
+Triệu đồng
+2022
+Triệu đồng
+Thu nhập từ mua bán chứng khoán đầu tư - chứng khoán vốn
+1.251.449 
+-
+Thu nhập từ mua bán chứng khoán đầu tư - chứng khoán nợ
+173.649 
+484.340
+Chi phí từ mua bán chứng khoán đầu tư
+(203.825) 
+(240.319) 
+(Trích lập)/hoàn nhập dự phòng rủi ro chứng khoán đầu tư
+(Thuyết minh 9.6)
+(54.268) 
+68.599
+Lãi thuần từ hoạt động kinh doanh chứng khoán đầu tư
+1.167.005 
+312.620
+27 
+LÃI THUẦN TỪ HOẠT ĐỘNG KINH DOANH KHÁC
+2023
+Triệu đồng
+2022
+Triệu đồng
+Thu nhập từ hoạt động khác
+Thu từ nợ đã xử lý rủi ro
+270.198 
+409.912
+Các khoản thanh toán dư nhận từ khách hàng
+131.225
+47.923
+Thu lãi trả chậm từ thanh lý tài sản
+32.270
+38.040
+Thu từ nghiệp vụ phái sinh lãi suất và hàng hóa
+14.171 
+30.472
+Thu nhập khác
+93.780
+61.779
+541.644 
+588.126
+Chi phí hoạt động khác
+Chi tài trợ và hoạt động xã hội
+(18.626) 
+(38.078) 
+Lợi thế thương mại
+(4.799) 
+(5.763) 
+Chi phí nghiệp vụ phái sinh lãi suất và hàng hóa
+(4.326) 
+(8.643)
+Chi tài trợ khác
+(227.289)
+-
+Chi phí khác
+(27.451)
+(7.552) 
+(282.491) 
+(60.036) 
+Lãi thuần từ hoạt động kinh doanh khác
+259.153 
+528.090
+28 
+THU NHẬP TỪ GÓP VỐN, MUA CỔ PHẦN
+2023
+Triệu đồng
+2022
+Triệu đồng
+Cổ tức từ góp vốn đầu tư dài hạn khác
+9.325 
+6.785
+29 
+CHI PHÍ HOẠT ĐỘNG
+2023
+Triệu đồng
+2022
+Triệu đồng
+Chi phí nhân viên:
+ »
+Lương và phụ cấp
+4.628.862 
+4.993.068
+ »
+Các khoản chi đóng góp theo lương
+337.367 
+289.746 
+ »
+Chi phí khác cho nhân viên
+163.950
+145.847
+Chi về tài sản:
+ »
+Chi phí thuê tài sản
+458.062 
+412.893
+ »
+Chi phí sửa chữa và nâng cấp tài sản
+243.195 
+206.163
+ »
+Chi phí khấu hao TSCĐ
+156.673 
+152.737
+ »
+Chi phí khác về tài sản
+138.572 
+121.375
+Chi phí quảng cáo, tiếp thị và khuyến mãi
+603.236 
+343.419
+Chi phí hoa hồng cho đại lý
+598.060 
+526.725
+Chi phí hội nghị, lễ tân và khánh tiết
+466.459 
+324.615
+Chi phí bảo hiểm tiền gửi
+285.163 
+162.094
+Khác
+1.049.603 
+952.027 
+9.129.202 
+8.630.709
+
+280  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+281
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+30 
+CHI PHÍ DỰ PHÒNG RỦI RO TÍN DỤNG
+2023
+Triệu đồng
+2022
+Triệu đồng
+Trích lập dự phòng chung cho vay khách hàng (Thuyết minh 8.8)
+592.855 
+452.892
+Trích lập dự phòng cụ thể cho vay khách hàng (Thuyết minh 8.8)
+3.674.896 
+2.555.447
+Trích lập dự phòng cụ thể cho vay các TCTD khác (Thuyết minh 5.3)
+-
+60.000
+4.267.751 
+3.068.339
+31 
+THUẾ TNDN
+Số thuế TNDN trên lợi nhuận kế toán trước thuế của Ngân hàng và công ty con khác với số thuế khi được tính theo 
+thuế suất phổ thông áp dụng 20% như sau:  
+2023
+Triệu đồng
+2022
+Triệu đồng
+Lợi nhuận kế toán trước thuế
+13.016.732 
+10.268.056
+Thuế tính ở thuế suất 20%
+2.603.346 
+2.053.611
+Điều chỉnh:
+Thu nhập không chịu thuế
+(2.550) 
+(1.537)
+Chi phí không được khấu trừ
+74.867
+2.421
+Điều chỉnh lợi nhuận do hợp nhất báo cáo tài chính
+958 
+1.828
+Điều chỉnh số thuế phải nộp của năm trước
+4.098
+2.263
+Chênh lệch tạm thời ghi nhận thuế TNDN hoãn lại (i)
+43.910
+33.400
+Tổng chi phí thuế TNDN - hiện hành (*)
+2.724.629 
+2.091.986
+(i)   
+Biến động về tài sản thuế TNDN hoãn lại/(thuế TNDN hoãn lại phải trả) liên quan đến các khoản lỗ/(lãi) chênh lệch 
+tạm thời được khấu trừ trong năm như sau:
+2023
+Triệu đồng
+2022
+Triệu đồng
+Số dư đầu năm
+32.798
+(602)
+Ghi nhận vào báo cáo kết quả hoạt động hợp nhất
+43.910
+33.400
+Số dư cuối năm
+76.708
+32.798
+(*) 
+Chi phí thuế TNDN cho kỳ kế toán được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy 
+thuộc vào sự kiểm tra của cơ quan thuế.
+32 
+TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tiền mặt và vàng
+2.810.044 
+  2.937.994 
+Tiền gửi tại NHNN
+41.481.638 
+              11.273.345 
+Tiền gửi tại các TCTD khác (gồm không kỳ hạn và 
+có kỳ hạn không quá 3 tháng)
+88.120.085 
+40.322.487
+132.411.767 
+54.533.826
+33 
+TÌNH HÌNH THU NHẬP CỦA CÁN BỘ CÔNG NHÂN VIÊN
+2023
+Triệu đồng
+2022
+Triệu đồng
+Tổng số cán bộ, công nhân viên bình quân (người)
+16.643 
+15.602
+Thu nhập của cán bộ công nhân viên 
+Tổng quỹ lương
+4.481.308
+4.858.525
+Thu nhập khác
+147.554
+134.543
+4.628.862 
+4.993.068
+Tiền lương bình quân tháng (triệu đồng/người)
+22,44
+25,95
+Thu nhập bình quân tháng (triệu đồng/người)
+23,18
+26,67
+34 
+TÌNH HÌNH THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC
+Phát sinh trong năm
+Chỉ tiêu
+1.1.2023
+Triệu đồng
+Số phải nộp
+Triệu đồng
+Số đã nộp
+Triệu đồng
+31.12.2023
+Triệu đồng
+Thuế TNDN
+1.337.559
+2.724.629 
+(2.241.447)
+1.820.741 
+Thuế Giá trị gia tăng
+37.781
+247.080 
+(214.332) 
+70.529 
+Thuế thu nhập cá nhân
+94.340
+371.594 
+(445.034) 
+20.900 
+Thuế nhà thầu
+13.785
+94.698 
+(91.808)
+16.675 
+Khác
+-
+2.725 
+(2.725) 
+-
+1.483.465
+3.440.726 
+(2.995.346) 
+1.928.845 
+35 
+TÀI SẢN, GTCG THẾ CHẤP, CẦM CỐ VÀ CHIẾT KHẤU, TÁI CHIẾT KHẤU
+35.1 
+Tài sản, GTCG nhận thế chấp, cầm cố và chiết khấu, tái chiết khấu
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Bất động sản
+357.224.126
+354.847.997
+Giấy tờ có giá
+61.228.868
+42.363.599
+Máy móc, thiết bị
+12.049.601
+13.638.281
+Hàng hóa, nguyên vật liệu
+5.655.113
+9.828.355
+Phương tiện vận chuyển
+11.611.557
+14.812.501
+Tài sản khác
+278.306.628
+199.756.816
+726.075.893
+635.247.549
+
+282  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+283
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+35 
+TÀI SẢN, GTCG THẾ CHẤP, CẦM CỐ VÀ CHIẾT KHẤU, TÁI CHIẾT KHẤU (TIẾP THEO)
+35.2  
+Tài sản, GTCG đưa đi thế chấp, cầm cố và chiết khấu, tái chiết khấu
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Trái phiếu Chính phủ
+3.590.000
+22.421.000 
+Trái phiếu và chứng chỉ tiền gửi của các TCTD
+khác trong nước phát hành
+- 
+3.000.000 
+ 3.590.000
+25.421.000
+36 
+NGHĨA VỤ NỢ TIỀM ẨN VÀ CÁC CAM KẾT
+36.1 
+Các cam kết 
+Tổng số tiền của các cam kết còn hiệu lực tại ngày của báo cáo tình hình tài chính hợp nhất như sau:
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Bảo lãnh vay vốn
+809.436 
+406.790
+Cam kết giao dịch hối đoái
+259.213.350 
+69.775.987
+Cam kết trong nghiệp vụ L/C
+2.643.473 
+4.322.692
+Bảo lãnh khác
+15.724.260 
+4.375.832
+ »
+Bảo lãnh thanh toán
+13.097.981 
+1.775.175
+ »
+Bảo lãnh thực hiện hợp đồng
+762.746 
+569.715
+ »
+Bảo lãnh dự thầu
+27.134 
+53.162
+ »
+Bảo lãnh khác
+1.836.399 
+1.977.780
+Các cam kết khác
+5.318.378 
+3.724.488
+ »
+Cam kết hợp đồng hoán đổi lãi suất
+1.943.430 
+1.172.500
+ »
+Cam kết hợp đồng phái sinh giá cả hàng hóa
+21.391 
+83.291
+ »
+Cam kết hợp đồng mua bán giấy tờ có giá
+250.000 
+160.000
+ »
+Cam kết hạn mức thẻ tín dụng 
+3.103.557 
+2.308.697
+Trừ: Tiền ký quỹ
+(628.026) 
+(327.275)
+283.080.871
+82.278.514
+36.2 
+Cam kết thuê hoạt động
+Các hợp đồng thuê hoạt động không hủy ngang, Ngân hàng và công ty con phải trả mức tối thiểu trong tương 
+lai như sau:
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Dưới 1 năm
+287.646
+280.227
+Từ 1 đến 5 năm
+582.572
+603.798
+Trên 5 năm
+575.664
+674.367
+Tổng cộng các khoản thanh toán tối thiểu
+1.445.882
+1.558.392
+36 
+NGHĨA VỤ NỢ TIỀM ẨN VÀ CÁC CAM KẾT (TIẾP THEO)
+36.3 
+Cam kết vốn
+Các cam kết về chi tiêu tạo lập TSCĐ đã ký hợp đồng tại ngày kết thúc năm tài chính nhưng chưa được hạch toán 
+vào báo cáo tài chính hợp nhất như sau: 
+ 
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nhà cửa, vật kiến trúc 
+202.667 
+190.755
+Phần mềm
+54.973 
+45.428
+Chi phí sửa chữa 
+47.205 
+24.623
+Khác
+26.737
+46.319
+331.582
+307.125
+37 
+CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT KHÁC
+37.1 
+Lãi cho vay và phí phải thu chưa thu được
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Lãi cho vay chưa thu được
+961.311
+                    553.958
+Lãi chứng khoán chưa thu được
+40.050
+-
+Phí phải thu chưa thu được
+1.362.988
+                     964.757
+2.364.349 
+1.518.715
+37.2 
+Nợ khó đòi đã xử lý rủi ro
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Nợ gốc của khoản nợ đã xử lý rủi ro đang trong thời gian theo dõi
+12.776.048 
+9.399.939
+Nợ lãi của khoản nợ đã xử lý rủi ro đang trong thời gian theo dõi
+2.808.290 
+2.026.121
+15.584.338 
+11.426.060
+37.3 
+Tài sản và chứng từ khác
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Tài sản khác giữ hộ
+25.918.278 
+13.139.703
+Các chứng từ có giá trị khác đang bảo quản
+1.113.694 
+1.113.653
+Kim loại quý, đá quý giữ hộ
+29.473 
+24.610
+27.061.445 
+14.277.966
+
+284  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+285
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+38 
+HOẠT ĐỘNG NHẬN ỦY THÁC KHÔNG CHỊU RỦI RO
+Các khoản Ngân hàng còn phải trả cho một TCTD từ hợp đồng ủy thác cho vay còn đang được ghi nhận ngoại 
+bảng như sau: 
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Số dư vốn cho vay ủy thác đầu tư phải trả 
+4.265.122 
+5.250.407
+Tổng vốn cho vay ủy thác đầu tư nhận từ tổ chức
+10.813.464
+6.588.402
+39 
+MỨC ĐỘ TẬP TRUNG CỦA TÀI SẢN, CÔNG NỢ VÀ CÁC KHOẢN MỤC NGOẠI BẢNG THEO KHU VỰC ĐỊA LÝ
+Tiền gửi và cho vay 
+các TCTD khác
+Triệu đồng
+Cho vay
+ khách hàng
+Triệu đồng
+Tiền gửi và vay các 
+TCTD khác
+Triệu đồng
+Tiền gửi của 
+khách hàng
+Triệu đồng
+Công cụ 
+tài chính 
+ phái sinh (*)
+Triệu đồng
+Kinh doanh và 
+đầu tư chứng khoán
+Triệu đồng
+Góp vốn, 
+đầu tư dài hạn
+Triệu đồng
+Vốn tài trợ, ủy thác 
+đầu tư, cho vay TCTD 
+chịu rủi ro
+Triệu đồng
+Phát hành 
+giấy tờ có giá
+Triệu đồng
+Các cam 
+kết tín dụng
+Triệu đồng
+31.12.2023
+Trong nước 
+85.808.706 
+343.404.295 
+83.695.336 
+370.777.888 
+117.475.318 
+62.757.493 
+163.921 
+2.811.129 
+43.058.944 
+19.177.169 
+Nước ngoài
+10.706.157 
+-
+28.391.642 
+-
+3.186.812 
+-
+-
+-
+7.879.204 
+-
+96.514.863 
+343.404.295 
+112.086.978 
+370.777.888 
+120.662.130 
+62.757.493 
+163.921 
+2.811.129 
+50.938.148 
+19.177.169 
+31.12.2022
+Trong nước 
+47.341.143
+263.856.383
+75.494.158
+215.797.174
+31.449.499
+50.617.010
+163.921
+2.860.155
+36.551.912 
+9.105.314
+Nước ngoài
+1.791.174
+-
+17.159.042
+-
+903.883
+-
+-
+-
+7.609.728 
+-
+49.132.317
+263.856.383
+92.653.200
+215.797.174
+32.353.382 
+50.617.010
+163.921
+2.860.155
+44.161.640
+9.105.314
+(*)   
+Tổng giá trị hợp đồng theo tỷ giá hiệu lực hợp đồng.
+
+286  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+287
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+40 
+THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+40.1 
+Giao dịch với các bên liên quan
+Các giao dịch chủ yếu sau với các bên liên quan phát sinh trong năm bao gồm:
+Năm tài chính kết thúc ngày
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Cổ đông lớn và các bên liên quan với cổ đông lớn
+Tăng tiền gửi của khách hàng và trả chi phí lãi tiền gửi
+105.430.748
+28.887.250
+Giảm tiền gửi của khách hàng
+104.378.566
+28.465.585
+Tăng cho vay khách hàng
+242.341
+-
+Giảm cho vay khách hàng
+782.046
+-
+Thu nhập lãi cho vay
+80.127
+-
+Thu phí dịch vụ từ bảo hiểm
+3.924
+5.620
+Chi bảo hiểm tài sản
+8.826
+7.246
+Các công ty Ngân hàng đầu tư, góp vốn
+Tăng tiền gửi của khách hàng và trả chi phí lãi tiền gửi
+108.117.080 
+60.033.752
+Giảm tiền gửi của khách hàng
+105.637.426 
+60.359.472
+Tăng cho vay khách hàng
+14.035.494 
+7.991.014
+Giảm cho vay khách hàng
+13.723.653 
+7.550.263
+Thu nhập lãi cho vay
+259.319 
+108.425
+Thành viên Hội đồng Quản trị, Ban Kiểm soát, Ban Tổng Giám đốc và các 
+bên liên quan đến các cá nhân này
+Tăng tiền gửi của khách hàng và trả chi phí lãi tiền gửi
+355.499.623
+23.181.292
+Giảm tiền gửi của khách hàng
+355.157.878
+22.483.074
+Tăng cho vay khách hàng
+2.530.263 
+37.200
+Giảm cho vay khách hàng
+2.894.289 
+11.388
+Thu nhập lãi cho vay
+41.780 
+1.595
+Thu nhập từ hoạt động dịch vụ
+478.426
+224.479
+ »
+Phí dịch vụ thu hộ kèm hỗ trợ quản lý trái phiếu (i)
+445.202 
+224.479
+ »
+Thu lãi từ đặt cọc mua chứng chỉ tiền gửi
+33.224
+-
+Thù lao/thu nhập trả cho:
+ »
+Hội đồng Quản trị (ii)
+16.029
+8.408
+ »
+Ban Tổng Giám đốc, Giám đốc tài chính và kế toán trưởng (iii)
+21.285
+29.317
+Thù lao/thu nhập và chi phí hoạt động của Ban Kiểm soát
+8.739 
+4.812
+(i) 
+Đối tượng là bên liên quan của Ngân hàng cho giai đoạn từ ngày 1 tháng 1 năm 2022 đến ngày 21 tháng 6 năm 
+2022 và giai đoạn từ ngày 30 tháng 3 năm 2023 đến ngày 31 tháng 12 năm 2023.
+40 
+THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+40.1 
+Giao dịch với các bên liên quan (tiếp theo)
+(ii)  
+Khoản thù lao/thu nhập của Hội đồng quản trị Ngân hàng trong năm chi tiết như sau:
+2023
+Triệu đồng
+2022
+Triệu đồng
+Họ và tên
+Chức vụ
+Ông Kim Byoungho
+Chủ tịch, Thành viên độc lập
+5.177
+1.350
+Bà Nguyễn Thị Phương Thảo
+Phó Chủ tịch thường trực
+1.851
+1.879 
+Ông Lưu Đức Khánh
+Phó Chủ tịch
+1.027
+3 
+Ông Nguyễn Thành Đô
+Phó Chủ tịch
+2.227
+1.346 
+Ông Nguyễn Hữu Đặng
+Phó Chủ tịch
+3.541
+1.579 
+Ông Lê Mạnh Dũng
+Thành viên độc lập
+1.171
+646 
+Bà Nguyễn Thị Tâm
+Thành viên (đến trước ngày 26.4.2023)
+1.035
+855 
+Bà Lê Thị Băng Tâm
+Chủ tịch (đến trước ngày 29.4.2022)
+-
+474
+Ông Chu Việt Cường
+Thành viên (đến trước ngày 29.4.2022)
+-
+205
+Ông Lim Peng Khoon
+Thành viên (đến trước ngày 29.4.2022)
+-
+71
+16.029
+8.408
+(iii) 
+Khoản thù lao/thu nhập trả cho Ban Tổng Giám đốc, Giám đốc tài chính và kế toán trưởng trong năm chi tiết 
+như sau:
+2023
+Triệu đồng
+2022
+Triệu đồng
+Họ và tên
+Chức vụ
+Ông Phạm Quốc Thanh
+Tổng Giám đốc
+2.174
+6.060
+Ông Nguyễn Minh Đức
+Phó Tổng Giám đốc
+2.180
+3.940
+Ông Lê Thanh Tùng
+Phó Tổng Giám đốc
+1.569
+1.702
+Ông Nguyễn Văn Hảo
+Phó Tổng Giám đốc
+2.141
+3.223
+Ông Nguyễn Đăng Thanh
+Phó Tổng Giám đốc
+1.858
+3.004
+Ông Lê Thành Trung
+Phó Tổng Giám đốc
+2.158
+1.309
+Ông Trần Hoài Nam
+Phó Tổng Giám đốc
+2.054
+2.145
+Ông Trần Thái Hòa
+Phó Tổng Giám đốc
+1.347
+2.067
+Ông Nguyễn Cảnh Vinh
+Phó Tổng Giám đốc 
+2.601
+323
+Ông Trần Xuân Huy
+Phó Tổng Giám đốc 
+806
+-
+Bà Nguyễn Đoàn Duy Ái
+Phó Tổng Giám đốc
+(đến trước ngày 20.6.2022)
+-
+2.502
+Ông Phạm Văn Đẩu
+Giám đốc Tài chính
+1.359
+1.631
+Bà Hồ Đặng Hoàng Quyên
+Kế toán Trưởng
+1.038
+1.411
+21.285
+29.317
+Các khoản thù lao/thu nhập nêu trên được trình bày trên cơ sở thực nhận đã khấu trừ thuế thu nhập cá nhân theo 
+quy định hiện hành.
+
+288  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+289
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+40 
+THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+40.2 
+Số dư cuối năm với các bên liên quan
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Cổ đông lớn và các bên liên quan với cổ đông lớn
+Tiền gửi của khách hàng
+3.860.314 
+1.763.992
+ »
+Tiền gửi thanh toán
+2.190.734 
+697.838
+ »
+Tiền gửi có kỳ hạn
+1.554.480 
+1.052.154
+ »
+Tiền gửi tiết kiệm
+101.100 
+- 
+ »
+Tiền gửi ký quỹ, đảm bảo thanh toán
+14.000 
+14.000
+Cho vay khách hàng
+189.788 
+36
+Các khoản phải thu khác
+311.550
+373.011
+Lãi dự thu từ cho vay
+660
+- 
+Các công ty Ngân hàng đầu tư, góp vốn
+Tiền gửi của khách hàng
+2.950.234 
+469.422
+ »
+Tiền gửi thanh toán
+1.620.401 
+340.589
+ »
+Tiền gửi có kỳ hạn
+1.300.000 
+100.000
+ »
+Tiền gửi ký quỹ, đảm bảo thanh toán
+29.833 
+28.833
+Cho vay khách hàng
+3.292.818 
+2.914.406
+Lãi dự thu từ cho vay
+4.116
+2.723 
+Thành viên Hội đồng Quản trị, Ban Kiểm soát và Ban Tổng Giám đốc và 
+các bên liên quan đến các cá nhân này
+Tiền gửi của khách hàng
+2.441.685
+1.607.628
+ »
+Tiền gửi thanh toán
+1.158.828
+353.138
+ »
+Tiền gửi có kỳ hạn
+845.458
+918.830
+ »
+Tiền gửi tiết kiệm
+437.335
+335.660
+ »
+Tiền gửi ký quỹ
+64
+-
+Cho vay khách hàng
+567.744
+46.438
+Tài sản Có khác
+122.796 
+337
+ »
+Dự thu lãi cho vay
+1.792 
+337
+ »
+Phải thu dịch vụ thu hộ kèm hỗ trợ quản lý trái phiếu
+121.004 
+-
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH
+41.1 
+Chính sách quản lý rủi ro liên quan đến các công cụ tài chính
+Các chính sách, hạn mức rủi ro, và các công cụ sử dụng để quản lý rủi ro được áp dụng đối với các hoạt động 
+thường ngày của Ngân hàng và công ty con.
+Mục tiêu của Ngân hàng và công ty con là quản lý rủi ro một cách phù hợp trong giới hạn cho phép. Do vậy, việc 
+sử dụng các công cụ tài chính, bao gồm nhận tiền gửi của khách hàng và đầu tư vào các tài sản tài chính có chất 
+lượng cao đã trở thành hoạt động mang tính then chốt giúp Ngân hàng và công ty con đạt được mức chênh lệch 
+lãi suất cần thiết. Xét từ khía cạnh quản lý rủi ro, điều này đòi hỏi Ngân hàng và công ty con kết hợp một cách cân 
+đối giữa các khoản vay cho các cá nhân và tổ chức thuộc các mức độ tin cậy khác nhau, bằng đồng nội tệ cũng 
+như ngoại tệ, cũng như các cam kết ngoại bảng (như bảo lãnh và thư tín dụng). Bên cạnh đó, Ngân hàng và công 
+ty con cũng đầu tư một phần vốn lưu động cho các ngân hàng khác vay. Những rủi ro liên quan đến trao đổi 
+ngoại tệ và thay đổi lãi suất được quản lý thông qua áp dụng hạn mức trạng thái nhằm hạn chế sự tập trung quá 
+mức đồng thời tham gia vào các hoạt động có tác dụng cân bằng lẫn nhau để giảm thiểu rủi ro. Thông qua việc 
+nắm giữ nhiều tài sản là các công cụ tài chính có chất lượng cao, cơ cấu báo cáo tình hình tài chính hợp nhất của 
+Ngân hàng và công ty con có đủ khả năng phòng ngừa rủi ro trọng yếu trong quá trình hoạt động kinh doanh và 
+đảm bảo khả năng thanh khoản.
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.2  
+Rủi ro tín dụng
+Rủi ro tín dụng là rủi ro do khách hàng không thực hiện hoặc không có khả năng thực hiện một phần hoặc toàn 
+bộ nghĩa vụ trả nợ theo hợp đồng hoặc thỏa thuận với Ngân hàng và công ty con. Trong đó, khách hàng (bao 
+gồm cả TCTD, chi nhánh ngân hàng nước ngoài) có quan hệ với Ngân hàng và công ty con trong việc nhận cấp 
+tín dụng (bao gồm cả nhận cấp tín dụng thông qua ủy thác), nhận tiền gửi, phát hành trái phiếu doanh nghiệp.
+41.2.1 
+Các chính sách quản lý và giảm thiểu rủi ro tín dụng
+Ngân hàng và công ty con đã thiết lập quy trình kiểm soát chất lượng tín dụng cho phép dự báo sớm những thay 
+đổi về mức độ tin cậy của khách hàng. Hạn mức tín dụng đối với mỗi khách hàng được thiết lập thông qua việc 
+sử dụng hệ thống xếp hạng tín dụng, trong đó mỗi khách hàng được xếp loại ở một mức độ rủi ro. Mức độ rủi ro 
+này có thể được sửa đổi, cập nhật thường xuyên.
+ 
+41.2.2 
+Tổng mức rủi ro tín dụng tối đa 
+Mức rủi ro tín dụng tối đa là giá trị ghi sổ trên báo cáo tình hình tài chính hợp nhất cũng như trên các tài khoản 
+ngoại bảng của các công cụ tài chính, mà chưa tính đến tài sản thế chấp hoặc các biện pháp giảm thiểu rủi ro tín 
+dụng khác. Đối với các khoản nợ tiềm tàng, mức rủi ro tín dụng tối đa là giá trị lớn nhất mà Ngân hàng và công ty 
+con sẽ phải thanh toán trong trường hợp nghĩa vụ đối với các công cụ tài chính này hình thành. Đối với các cam 
+kết ngoại bảng, mức rủi ro tín dụng tối đa là toàn bộ giá trị của các khoản cam kết chưa được thực hiện. Đối với 
+các cam kết tín dụng, mức rủi ro tín dụng tối đa là toàn bộ giá trị của khoản tín dụng chưa được giải ngân cho 
+khách hàng. Bảng dưới đây trình bày mức rủi ro tín dụng tối đa của Ngân hàng và công ty con không tính đến tài 
+sản bảo đảm hoặc các biện pháp giảm thiểu rủi ro tín dụng, bao gồm:
+Mức độ rủi ro tín dụng tối đa
+31.12.2023
+Triệu đồng
+31.12.2022
+Triệu đồng
+Mức rủi ro tín dụng của các tài khoản thuộc báo cáo tình hình tài  
+chính hợp nhất:
+Tiền gửi và cho vay các TCTD khác
+96.514.863 
+49.132.317
+Chứng khoán kinh doanh (Thuyết minh 6.4)
+18.580.932 
+1.797.822
+Các công cụ tài chính phái sinh và tài sản tài chính khác
+110.079 
+-
+Cho vay khách hàng (Thuyết minh 8.3)
+343.404.295 
+263.856.383
+Chứng khoán đầu tư (Thuyết minh 9.5)
+26.564.970 
+20.825.966
+Các tài sản tài chính khác (Thuyết minh 12.5)
+52.546.920
+34.950.411
+537.722.059
+370.562.899
+Mức rủi ro tín dụng của các khoản mục ngoại bảng:
+Các hợp đồng bảo lãnh tài chính
+16.533.696 
+4.782.622
+Các cam kết trong nghiệp vụ L/C
+2.643.473 
+4.322.692
+19.177.169 
+9.105.314 
+556.899.228
+379.668.213 
+41.2.3 
+Tài sản thế chấp
+Chi tiết tài sản thế chấp tại ngày 31 tháng 12 năm 2023 và tại ngày 31 tháng 12 năm 2022 được trình bày tại Thuyết 
+minh 35.1.
+
+290  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+291
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.2  
+Rủi ro tín dụng (tiếp theo)
+41.2.4 
+Chất lượng tín dụng
+Phân tích chất lượng tín dụng theo giá trị ghi sổ của các tài sản có rủi ro tín dụng tại ngày báo cáo như sau:  
+Tại ngày 31.12.2023
+Tiền gửi và cho vay
+ các TCTD khác
+Triệu đồng
+Chứng khoán
+kinh doanh
+Triệu đồng
+Các công cụ tài 
+chính phái sinh
+Triệu đồng
+Cho vay
+ khách hàng
+Triệu đồng
+Chứng khoán
+ nợ đầu tư
+Triệu đồng
+Các tài sản
+tài chính khác
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Chưa quá hạn và chưa bị giảm giá
+96.514.863 
+18.580.932 
+110.079 
+316.903.432 
+24.034.975 
+52.500.121
+508.644.402
+Đã quá hạn nhưng chưa bị giảm giá
+-
+-
+-
+10.750.454
+2.484.995
+-
+13.235.449
+Bị giảm giá
+-
+-
+-
+15.750.409
+45.000
+46.799 
+15.842.208
+96.514.863 
+18.580.932 
+110.079 
+343.404.295 
+26.564.970 
+52.546.920
+537.722.059
+Trừ: dự phòng rủi ro 
+Dự phòng cụ thể
+-
+-
+-
+(1.491.241) 
+(9.000)
+-
+(1.500.241) 
+Dự phòng chung
+-
+-
+-
+(2.563.216) 
+(75.272) 
+-
+(2.638.488) 
+Dự phòng rủi ro khác
+-
+-
+-
+-
+-
+(46.521) 
+(46.521) 
+-
+-
+-
+(4.054.457)
+(84.272)
+(46.521)
+(4.185.250)
+Giá trị thuần
+96.514.863 
+18.580.932 
+110.079 
+339.349.838 
+26.480.698 
+52.500.399
+533.536.809
+Tại ngày 31.12.2022
+Tiền gửi và cho vay
+ các TCTD khác
+Triệu đồng
+Chứng khoán kinh 
+doanh
+Triệu đồng
+Cho vay
+ khách hàng
+Triệu đồng
+Chứng khoán
+ nợ đầu tư
+Triệu đồng
+Các tài sản 
+tài chính khác
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Chưa quá hạn và chưa bị giảm giá
+49.132.317
+1.797.822
+251.600.881
+20.825.966
+34.903.955
+358.260.941
+Đã quá hạn nhưng chưa bị giảm giá
+-
+-
+1.414.837
+-
+-
+1.414.837
+Bị giảm giá
+-
+-
+10.840.665
+-
+46.456
+10.887.121
+49.132.317
+1.797.822
+263.856.383
+20.825.966
+34.950.411
+370.562.899
+Trừ: dự phòng rủi ro 
+Dự phòng cụ thể
+-
+-
+(1.131.211)
+-
+-
+(1.131.211)
+Dự phòng chung
+-
+-
+(1.970.361)
+(30.004)
+-
+(2.000.365)
+Dự phòng rủi ro khác
+-
+-
+-
+-
+(46.308)
+(46.308)
+-
+-
+(3.101.572)
+(30.004)
+(46.308)
+(3.177.884)
+Giá trị thuần
+49.132.317
+1.797.822
+260.754.811
+20.795.962
+34.904.103
+367.385.015
+
+292  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+293
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.3  
+Rủi ro thị trường
+Rủi ro thị trường là rủi ro do biến động bất lợi của lãi suất, tỷ giá, giá vàng, giá chứng khoán và giá hàng hóa trên 
+thị trường gây ra tổn thất cho Ngân hàng và công ty con. Rủi ro thị trường bao gồm: rủi ro tiền tệ, rủi ro lãi suất, 
+rủi ro giá cổ phiếu, rủi ro giá hàng hóa. 
+41.3.1 
+Rủi ro tiền tệ
+Rủi ro tiền tệ là rủi ro do biến động bất lợi của tỷ giá, giá vàng trên thị trường khi Ngân hàng và công ty con có 
+trạng thái ngoại tệ, trạng thái vàng. Ban Tổng Giám Đốc thiết lập hạn mức giao dịch cho từng loại tiền và tổng các 
+loại tiền cho các trạng thái qua đêm và trong ngày và các trạng thái này được kiểm soát hàng ngày. Bảng dưới đây 
+trình bày các tài sản và nợ của Ngân hàng và công ty con theo giá trị ghi sổ và theo loại tiền tệ:
+Đơn vị: Triệu đồng
+VND
+USD
+EUR
+Vàng
+Khác
+Tổng cộng
+Ngày 31 tháng 12 năm 2023
+Tài sản
+Tiền mặt, vàng bạc, đá quý
+1.956.741 
+463.842 
+34.644 
+23.634 
+331.183 
+2.810.044 
+Tiền gửi tại NHNN
+38.391.317 
+3.085.613 
+4.708 
+-
+-
+41.481.638 
+Tiền gửi và cho vay các TCTD khác
+74.188.970 
+13.016.580 
+84.147 
+-
+9.225.166 
+96.514.863 
+Chứng khoán kinh doanh (*)
+18.580.932 
+-
+-
+-
+-
+18.580.932 
+Các công cụ tài chính phái sinh và 
+các tài sản tài chính khác
+1.926.662 
+6.042.527 
+-
+-
+(7.859.110) 
+110.079 
+Cho vay khách hàng (*)
+333.518.834 
+9.828.622 
+-
+-
+56.839 
+343.404.295 
+Chứng khoán đầu tư (*)
+44.176.561 
+-
+-
+-
+-
+44.176.561 
+Góp vốn, đầu tư dài hạn (*)
+163.921 
+-
+-
+-
+-
+163.921 
+TSCĐ
+1.422.759 
+-
+-
+-
+-
+1.422.759 
+Tài sản Có khác (*)
+44.208.637 
+12.519.163 
+705.868 
+-
+421.489 
+57.855.157 
+Tổng tài sản
+558.535.334 
+44.956.347 
+829.367 
+23.634 
+2.175.567 
+606.520.249 
+Nợ phải trả 
+Các khoản nợ Chính phủ và NHNN
+ 26.590 
+ - 
+ - 
+ - 
+ - 
+ 26.590 
+Tiền gửi và vay các TCTD khác
+ 76.962.789 
+ 32.901.851 
+ 692.358 
+ - 
+ 1.529.980 
+ 112.086.978 
+Tiền gửi của khách hàng
+368.252.954
+ 2.059.117 
+ 120.598 
+ - 
+345.219 
+ 370.777.888 
+Vốn tài trợ, ủy thác đầu tư, cho vay 
+mà TCTD chịu rủi ro
+ - 
+ 2.754.290 
+ - 
+ - 
+ 56.839 
+ 2.811.129 
+Phát hành giấy tờ có giá
+ 43.050.398 
+ 7.887.750 
+ - 
+ - 
+ - 
+ 50.938.148 
+Các khoản nợ khác
+ 18.417.634 
+ 764.379 
+ 13.204 
+ 485 
+ 78.102 
+ 19.273.804 
+Tổng nợ phải trả 
+  506.710.365
+ 46.367.387 
+ 826.160 
+ 485 
+2.010.140
+ 555.914.537 
+Trạng thái tiền tệ nội bảng
+51.824.969
+ (1.411.040)
+ 3.207 
+ 23.149 
+165.427
+ 50.605.712 
+Trạng thái tiền tệ ngoại bảng
+ - 
+ 1.275.056 
+ - 
+ - 
+(62.354) 
+1.212.702
+Trạng thái tiền tệ nội, ngoại bảng
+51.824.969
+ (135.984)
+ 3.207 
+ 23.149 
+103.073
+51.818.414
+(*)  
+Các mục này chưa bao gồm các giá trị dự phòng. 
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.3  
+Rủi ro thị trường (tiếp theo)
+41.3.1 
+Rủi ro tiền tệ (tiếp theo)
+Đơn vị: Triệu đồng
+VND
+USD
+EUR
+Vàng
+Khác
+Tổng cộng
+Ngày 31 tháng 12 năm 2022
+Tài sản
+Tiền mặt, vàng bạc, đá quý
+2.209.398
+468.328
+26.195
+14.699
+219.374
+2.937.994
+Tiền gửi tại NHNN
+9.757.912
+1.511.041
+4.392
+-
+-
+11.273.345
+Tiền gửi và cho vay các TCTD khác
+44.443.960
+4.407.315
+64.425
+-
+216.617
+49.132.317
+Chứng khoán kinh doanh (*)
+1.797.822
+-
+-
+-
+-
+1.797.822
+Cho vay khách hàng (*)
+252.917.766
+10.876.218
+-
+-
+62.399
+263.856.383
+Chứng khoán đầu tư (*)
+48.819.188
+-
+-
+-
+-
+48.819.188
+Góp vốn, đầu tư dài hạn (*)
+163.921
+-
+-
+-
+-
+163.921
+TSCĐ
+1.315.057
+-
+-
+-
+-
+1.315.057
+Tài sản Có khác (*)
+34.691.219
+5.478.757
+3.049
+-
+1.753
+40.174.778
+Tổng tài sản
+396.116.243
+22.741.659
+98.061
+14.699
+500.143
+419.470.805
+Nợ phải trả 
+Các khoản nợ Chính phủ và NHNN
+10.821.258
+-
+-
+-
+-
+10.821.258
+Tiền gửi và vay các TCTD khác
+71.647.157
+19.363.851
+3.028
+-
+1.639.164
+92.653.200
+Tiền gửi của khách hàng
+213.251.417
+2.301.254
+66.840
+-
+177.663
+215.797.174
+Các công cụ tài chính phái sinh và 
+các khoản nợ tài chính khác
+12.064.076
+(10.452.522)
+25.039
+-
+(1.410.113)
+226.480
+Vốn tài trợ, ủy thác đầu tư, cho vay 
+mà TCTD chịu rủi ro
+-
+2.797.756
+-
+-
+62.399
+2.860.155
+Phát hành giấy tờ có giá
+36.540.390
+7.621.250
+-
+-
+-
+44.161.640
+Các khoản nợ khác
+10.400.233
+352.410
+165
+337
+5.085
+10.758.230
+Tổng nợ phải trả 
+354.724.531 
+21.983.999 
+95.072
+337
+474.198 
+377.278.137
+Trạng thái tiền tệ nội bảng
+41.391.712 
+757.660
+2.989
+14.362
+25.945
+42.192.668
+Trạng thái tiền tệ ngoại bảng
+-
+(351.747)
+-
+-
+44 
+(351.703)
+Trạng thái tiền tệ nội, ngoại bảng
+41.391.712 
+405.913
+2.989
+14.362 
+25.989
+41.840.965 
+(*)  
+Các mục này chưa bao gồm các giá trị dự phòng.
+
+294  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+295
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.3 
+Rủi ro thị trường (tiếp theo)
+41.3.2 
+Rủi ro lãi suất
+Rủi ro lãi suất là rủi ro do biến động bất lợi của lãi suất trên thị trường đối với giá trị của giấy tờ có giá, công cụ 
+tài chính có lãi suất, sản phẩm phái sinh lãi suất trên sổ kinh doanh của Ngân hàng và công ty con. Ngân hàng 
+và công ty con quản lý rủi ro lãi suất thông qua việc kiểm soát mức chênh lệch lãi suất theo kỳ hạn hàng tháng.  
+Bảng dưới đây tóm tắt rủi ro lãi suất của Ngân hàng và công ty con tại ngày kết thúc năm tài chính. Tài sản và công 
+nợ của Ngân hàng và công ty con được phân loại theo ngày sớm hơn giữa ngày điều chỉnh lãi suất gần nhất theo 
+hợp đồng hoặc ngày đáo hạn.
+Quá hạn
+Không chịu
+ lãi suất
+Dưới 1 tháng
+Từ 1 
+đến 3 tháng
+Từ trên 3 
+đến 6 tháng
+Từ trên 6 
+đến 12 tháng
+Từ trên 1 
+đến 5 năm
+Trên 5 năm
+Tổng cộng
+Ngày 31 tháng 12 năm 2023
+Tài sản
+Tiền mặt vàng bạc, đá quý
+ - 
+ 2.810.044 
+ - 
+ - 
+ -
+ - 
+ - 
+ - 
+ 2.810.044 
+Tiền gửi tại NHNN
+ - 
+ 41.481.638 
+ - 
+ - 
+ -
+ - 
+ - 
+ - 
+ 41.481.638 
+Tiền gửi và cho vay các TCTD khác
+ - 
+ - 
+  87.159.872 
+ 1.177.700 
+ 549.266 
+  7.628.025 
+ - 
+ - 
+  96.514.863 
+Chứng khoán kinh doanh (*)
+ - 
+ - 
+ -
+4.403.015 
+1.630.697 
+  12.547.220 
+ - 
+ - 
+ 18.580.932 
+Các công cụ tài chính phái sinh và các tài sản tài chính khác
+ - 
+ 108.709 
+ (230)
+ -
+ -
+ - 
+ 1.600 
+ - 
+ 110.079 
+Cho vay khách hàng (*)
+ 24.165.370 
+ - 
+ 87.635.553 
+ 143.908.077 
+ 41.622.010 
+ 37.514.236 
+ 8.474.173 
+ 84.876 
+ 343.404.295 
+Chứng khoán đầu tư (*)
+2.529.995 
+ 285.222 
+1.971.988 
+  12.507.955 
+  1.567.407 
+4.386.854 
+  5.485.867 
+ 15.441.273 
+ 44.176.561 
+Góp vốn, đầu tư dài hạn (*)
+ - 
+ 163.921 
+ - 
+ - 
+ -
+ - 
+ - 
+ - 
+ 163.921 
+TSCĐ
+ - 
+ 1.422.759 
+ - 
+ - 
+ -
+ - 
+ - 
+ - 
+ 1.422.759 
+Tài sản Có khác (*)
+46.799 
+19.546.358 
+3.139.526 
+5.853.740 
+11.757.812 
+17.305.922 
+205.000 
+- 
+57.855.157 
+Tổng tài sản
+  26.742.164 
+ 65.818.651 
+179.906.709 
+  167.850.487 
+  57.127.192 
+79.382.257 
+  14.166.640 
+ 15.526.149 
+  606.520.249 
+Nợ phải trả 
+Các khoản nợ Chính phủ và NHNN
+ - 
+ - 
+ 3.273 
+ 18.917 
+337 
+674 
+3.389
+ - 
+ 26.590 
+Tiền gửi và vay các TCTD khác
+ - 
+ - 
+66.975.916
+14.401.579 
+16.380.569
+13.789.580
+539.334
+ - 
+  112.086.978 
+Tiền gửi của khách hàng
+ - 
+ 238.108 
+ 93.361.407 
+ 70.863.590 
+ 141.772.128 
+ 56.090.367 
+ 8.452.287 
+ 1 
+ 370.777.888 
+Vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro
+ - 
+ - 
+ - 
+ 2.753.542 
+  - 
+ - 
+102 
+57.485 
+ 2.811.129 
+Phát hành giấy tờ có giá
+ - 
+ - 
+4.539.929
+ 9.819.927 
+ 16.404.577 
+ 3.248.684 
+ 16.925.031 
+ - 
+ 50.938.148 
+Các khoản nợ khác
+ - 
+  19.273.804 
+-
+-
+-
+-
+-
+-
+19.273.804 
+Tổng nợ phải trả 
+ - 
+ 19.511.912 
+164.880.525
+97.857.555
+174.557.611
+73.129.305
+25.920.143
+57.486
+  555.914.537 
+Mức chênh nhạy cảm với lãi suất
+26.742.164
+46.306.739
+15.026.184
+69.992.932
+(117.430.419)
+6.252.952
+(11.753.503)
+15.468.663
+ 50.605.712 
+ 
+(*)  
+Các mục này chưa bao gồm các giá trị dự phòng.
+
+296  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+297
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+41.3 
+Rủi ro thị trường (tiếp theo)
+41.3.2 
+Rủi ro lãi suất (tiếp theo) 
+Quá hạn
+Không chịu
+ lãi suất
+Dưới
+ 1 tháng
+Từ 1 
+đến 3 tháng
+Từ trên 3 
+đến 6 tháng
+Từ trên 6 
+đến 12 tháng
+Từ trên 1 
+đến 5 năm
+Trên 5 năm
+Tổng cộng
+Ngày 31 tháng 12 năm 2022
+Tài sản
+Tiền mặt vàng bạc, đá quý
+-
+2.937.994
+-
+-
+-
+-
+-
+-
+2.937.994
+Tiền gửi tại NHNN
+-
+11.273.345
+-
+-
+-
+-
+-
+-
+11.273.345
+Tiền gửi và cho vay các TCTD khác
+-
+-
+33.140.993
+7.461.324
+2.230.000
+6.300.000
+-
+-
+49.132.317
+Chứng khoán kinh doanh (*)
+-
+-
+-
+-
+1.000.000
+797.822
+-
+-
+1.797.822
+Cho vay khách hàng (*)
+11.791.100
+-
+68.350.949
+123.951.229
+29.642.530
+19.633.374
+10.405.963
+81.238
+263.856.383
+Chứng khoán đầu tư (*)
+-
+1.013.973
+897.710
+4.565.623
+4.301.485
+4.515.090
+11.383.888
+22.141.419
+48.819.188
+Góp vốn, đầu tư dài hạn (*)
+-
+163.921
+-
+-
+-
+-
+-
+-
+163.921
+TSCĐ
+-
+1.315.057
+-
+-
+-
+-
+-
+-
+1.315.057
+Tài sản Có khác (*)
+46.456
+15.761.169
+3.165.455
+4.450.302
+8.094.016
+8.247.380
+410.000
+-
+40.174.778
+Tổng tài sản
+11.837.556
+32.465.459
+105.555.107
+140.428.478
+45.268.031
+39.493.666
+22.199.851
+22.222.657 
+419.470.805
+Nợ phải trả 
+Các khoản nợ Chính phủ và NHNN
+-
+-
+8.779.197
+2.042.061
+-
+-
+-
+-
+10.821.258
+Tiền gửi và vay các TCTD khác
+-
+-
+46.765.375
+21.540.645
+13.188.415
+10.116.543
+1.042.222
+-
+92.653.200
+Tiền gửi của khách hàng
+-
+268.648
+53.652.970
+43.790.834
+81.280.785
+34.595.698
+2.208.185
+54
+215.797.174
+Các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+-
+226.480
+-
+-
+-
+-
+-
+-
+226.480
+Vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro
+-
+-
+810
+2.796.946
+-
+-
+-
+62.399
+2.860.155
+Phát hành giấy tờ có giá
+-
+-
+-
+341.000
+3.755.625
+11.994.761
+28.060.254
+10.000
+44.161.640
+Các khoản nợ khác
+-
+10.758.230
+-
+-
+-
+-
+-
+-
+10.758.230
+Tổng nợ phải trả 
+-
+11.253.358
+109.198.352
+70.511.486 
+98.224.825 
+56.707.002
+31.310.661
+72.453
+377.278.137
+Mức chênh nhạy cảm với lãi suất
+11.837.556
+21.212.101
+(3.643.245)
+69.916.992
+(52.956.794)
+(17.213.336)
+(9.110.810)
+22.150.204
+42.192.668
+(*) 
+Các mục này chưa bao gồm các giá trị dự phòng
+Đơn vị: Triệu đồng
+41.3.3 Rủi ro giá
+Ngoại trừ các khoản mục tài sản, công nợ đã được thuyết minh ở phần trên, Ngân hàng và công ty con không có 
+các rủi ro giá cả thị trường khác có mức độ rủi ro chiếm 5% lợi nhuận ròng hoặc giá trị khoản mục tài sản, công 
+nợ chiếm 5% tổng tài sản.
+41.4 
+Rủi ro thanh khoản
+Rủi ro thanh khoản là rủi ro trong đó Ngân hàng và công ty con không có khả năng thực hiện các nghĩa vụ trả nợ 
+khi đến hạn; hoặc Ngân hàng và công ty con có khả năng thực hiện nghĩa vụ trả nợ khi đến hạn nhưng phải trả chi 
+phí cao hơn mức chi phí bình quân của thị trường theo quy định nội bộ của Ngân hàng và công ty con. Để giảm 
+thiểu rủi ro thanh khoản, Ngân hàng và công ty con phải huy động từ nhiều nguồn đa dạng khác ngoài nguồn 
+vốn cơ bản của Ngân hàng và công ty con.
+Rủi ro thanh khoản còn được hạn chế thông qua việc nắm giữ một số lượng lớn tiền mặt và các khoản tương đương 
+tiền dưới dạng tài khoản tiền gửi thanh toán tại các TCTD khác, các khoản tiền gửi tại NHNN và các TCTD khác và các 
+giấy tờ có giá. Các tỷ lệ an toàn có tính đến yếu tố rủi ro cũng được sử dụng để quản lý rủi ro thanh khoản.
+
+298  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+299
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+  
+41.4 
+Rủi ro thanh khoản (tiếp theo)
+Bảng dưới đây phân tích các tài sản tài chính và khoản nợ tài chính vào các nhóm đáo hạn có liên quan dựa trên 
+kỳ hạn còn lại từ ngày kết thúc năm tài chính tình hình tài chính hợp nhất đến ngày đáo hạn theo hợp đồng. Các 
+số tiền được trình bày trong bảng sau là các dòng tiền theo hợp đồng không chiết khấu.
+Quá hạn
+Trong hạn
+Trên 3 tháng
+Đến 3 tháng
+Đến 1 tháng
+Từ trên 1 tháng 
+đến 3 tháng
+Từ trên 3 tháng 
+đến 12 tháng
+Từ trên 1 năm 
+đến 5 năm
+Trên 5 năm
+Tổng cộng
+Ngày 31 tháng 12 năm 2023
+Tài sản
+Tiền mặt vàng bạc, đá quý
+ - 
+ - 
+ 2.810.044 
+ - 
+ - 
+ - 
+ - 
+ 2.810.044 
+Tiền gửi tại NHNN
+ - 
+ - 
+ 41.481.638 
+ - 
+ - 
+ - 
+ - 
+ 41.481.638 
+Tiền gửi và cho vay các TCTD khác
+ - 
+ - 
+  87.159.871 
+ 1.177.700 
+ 8.177.292 
+ - 
+ - 
+  96.514.863 
+Chứng khoán kinh doanh (*)
+ - 
+ - 
+ - 
+4.403.015 
+14.177.917 
+- 
+ - 
+ 18.580.932 
+Các công cụ tài chính phái sinh và các tài sản tài chính khác
+ - 
+ - 
+ 31.471 
+ 85.123 
+ (8.115)
+ 1.600 
+- 
+ 110.079 
+Cho vay khách hàng (*)
+ 6.159.963 
+ 18.005.407 
+ 24.895.393 
+ 40.554.943 
+ 121.738.537 
+ 95.078.943 
+ 36.971.109 
+ 343.404.295 
+Chứng khoán đầu tư (*)
+ 45.000 
+2.484.995 
+ 1.932.172 
+ 9.088.619 
+6.658.372 
+ 8.526.130 
+ 15.441.273 
+ 44.176.561 
+Góp vốn, đầu tư dài hạn (*)
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 163.921 
+ 163.921 
+TSCĐ
+ - 
+ - 
+ 563.851 
+ 162 
+ 14.639 
+ 284.403 
+ 559.704 
+ 1.422.759 
+Tài sản Có khác (*)
+46.799 
+- 
+15.239.520
+7.644.073
+31.093.144
+790.524
+3.041.097
+57.855.157 
+Tổng tài sản
+   6.251.762
+         20.490.402 
+174.113.960
+62.953.635
+181.851.786
+104.681.600
+56.177.104
+606.520.249 
+Nợ phải trả  
+Các khoản nợ Chính phủ và NHNN
+                          -
+                     - 
+3.273
+451
+5.976
+16.890
+                       - 
+                26.590 
+Tiền gửi và vay các TCTD khác
+                          -
+                     - 
+           66.975.915 
+10.008.710 
+         30.256.443 
+4.845.910 
+                       - 
+112.086.978 
+Tiền gửi của khách hàng
+                          -
+                     - 
+93.599.515 
+         70.863.590 
+       197.862.495 
+         8.452.287 
+                      1 
+        370.777.888 
+Vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro
+                          -
+                     - 
+                          - 
+                70.604 
+                70.604 
+            564.931 
+          2.104.990 
+           2.811.129 
+Phát hành giấy tờ có giá
+                          -
+                     - 
+            4.040.000 
+           9.320.000 
+           9.033.806 
+       16.925.031 
+        11.619.311 
+         50.938.148 
+Các khoản nợ khác
+                          - 
+                     - 
+9.916.279
+3.865.045
+5.153.596
+338.600
+284
+         19.273.804 
+Tổng nợ phải trả
+-
+-
+174.534.982
+94.128.400
+242.382.920
+31.143.649
+13.724.586
+         555.914.537 
+Mức chênh thanh khoản ròng
+            6.251.762 
+20.490.402 
+(421.022)
+(31.174.765)
+(60.531.134)
+73.537.951
+42.452.518
+          50.605.712 
+(*)  
+Các mục này chưa bao gồm các giá trị dự phòng.
+Đơn vị: Triệu đồng
+
+300  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+301
+VII. BÁO CÁO TÀI CHÍNH
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+Mẫu B05/TCTD-HN
+41 
+QUẢN LÝ RỦI RO TÀI CHÍNH (TIẾP THEO)
+  
+41.4 
+Rủi ro thanh khoản (tiếp theo)
+Quá hạn
+Trong hạn
+Trên 3 tháng
+Đến 3 tháng
+Đến 1 tháng
+Từ trên 1 tháng 
+đến 3 tháng
+Từ trên 3 tháng 
+đến 12 tháng
+Từ trên 1 năm 
+đến 5 năm
+Trên 5 năm
+Tổng cộng
+Ngày 31 tháng 12 năm 2022
+Tài sản
+Tiền mặt vàng bạc, đá quý
+-
+-
+2.937.994
+-
+-
+-
+-
+             2.937.994 
+Tiền gửi tại NHNN
+-
+-
+11.273.345
+-
+-
+-
+-
+           11.273.345 
+Tiền gửi và cho vay các TCTD khác
+-
+-
+33.140.993
+7.461.324
+8.530.000
+-
+-
+           49.132.317
+Chứng khoán kinh doanh (*)
+-
+-
+-
+-
+1.797.822
+-
+-
+             1.797.822 
+Cho vay khách hàng (*)
+4.404.191
+7.386.909
+14.397.322 
+31.837.828
+131.751.201
+40.942.472 
+33.136.460 
+         263.856.383 
+Chứng khoán đầu tư (*)
+-
+-
+1.698.033
+1.901.103
+8.369.262
+14.709.372
+22.141.418
+           48.819.188 
+Góp vốn, đầu tư dài hạn (*)
+-
+-
+-
+-
+-
+-
+163.921
+163.921
+TSCĐ
+-
+-
+563.171
+610
+27.456
+              226.348
+               497.472
+             1.315.057 
+Tài sản Có khác (*)
+46.456
+-
+12.524.505
+5.507.785
+17.940.292
+1.193.222
+2.962.518
+40.174.778
+Tổng tài sản
+4.450.647
+7.386.909
+76.535.363
+46.708.650
+168.416.033
+57.071.414
+58.901.789
+419.470.805
+Nợ phải trả  
+Các khoản nợ Chính phủ và NHNN
+-
+-
+8.779.197
+2.000.033
+4.327
+37.701
+-
+10.821.258
+Tiền gửi và vay các TCTD khác
+-
+-
+46.765.374
+15.982.135
+21.239.613
+8.666.078
+-
+92.653.200
+Tiền gửi của khách hàng
+-
+-
+53.921.619
+43.790.834
+115.876.482
+2.208.185
+54
+215.797.174
+Các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+-
+-
+(4.153)
+129.649
+100.984
+-
+-
+226.480
+Vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro
+-
+-
+-
+68.218
+68.218
+545.868
+2.177.851
+2.860.155
+Phát hành giấy tờ có giá
+-
+-
+-
+341.000
+12.930.951
+28.060.255
+2.829.434
+44.161.640
+Các khoản nợ khác
+-
+-
+4.656.197 
+1.580.711
+4.507.075
+14.235
+12
+10.758.230
+Tổng nợ phải trả
+-
+-
+114.118.234 
+63.892.580 
+154.727.650
+39.532.322
+5.007.351
+         377.278.137
+Mức chênh thanh khoản ròng
+4.450.647
+7.386.909
+(37.582.871)
+(17.183.930) 
+13.688.383
+17.539.092
+53.894.438
+42.192.668
+(*)  
+Các mục này chưa bao gồm các giá trị dự phòng.
+42 
+BÁO CÁO BỘ PHẬN
+ Bộ phận chia theo khu vực địa lý
+Ngân hàng và công ty con theo dõi thông tin chia theo các khu vực địa lý chính tại Việt Nam và nước ngoài như sau:
+Miền Bắc
+Triệu đồng
+Miền Trung
+Triệu đồng
+Miền Nam
+Triệu đồng
+Nước ngoài
+Triệu đồng
+Loại trừ
+Triệu đồng
+Tổng cộng
+Triệu đồng
+Tại ngày 31 tháng 12 năm 2023
+Tài sản
+143.385.242
+45.216.619
+452.419.490
+799
+(38.707.291)
+602.314.859
+Nợ phải trả
+136.918.112
+43.491.088
+414.209.987
+2.641
+(38.707.291)
+555.914.537
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Lợi nhuận trước thuế
+6.467.131
+1.725.531
+4.825.911
+(1.841)
+-
+13.016.732
+Tại ngày 31 tháng 12 năm 2022
+Tài sản
+72.251.589 
+42.874.859 
+316.560.990 
+773 
+(15.415.188) 
+416.273.023 
+Nợ phải trả
+70.312.285 
+41.809.151 
+280.569.420 
+2.469 
+(15.415.188) 
+377.278.137 
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+Lợi nhuận trước thuế
+1.939.304 
+1.065.709 
+7.264.738
+(1.695) 
+- 
+10.268.056 
+ 
+Đơn vị: Triệu đồng
+
+302  HDBANK  BÁO CÁO THƯỜNG NIÊN 2023
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+Mẫu B05/TCTD-HN
+43 
+CÁC SỰ KIỆN PHÁT SINH SAU NGÀY BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Theo Nghị quyết Đại hội đồng cổ đông số 07/2023/NQ-ĐHĐCĐ ngày 26 tháng 4 năm 2023 và Công văn số 9252/
+NHNN-TTGSNH ngày 1 tháng 12 năm 2023 của NHNN, Ngân hàng được chấp thuận việc tăng vốn điều lệ thêm 
+tối đa 200 tỷ đồng từ việc phát hành cổ phiếu cho người lao động (ESOP). Tại ngày phát hành báo cáo tài chính 
+hợp nhất này, Ngân hàng đang trong quá trình làm các thủ tục liên quan đến việc tăng vốn điều lệ từ việc phát 
+hành cổ phiếu cho người lao động này.
+Báo cáo tài chính hợp nhất đã được Ban Tổng Giám đốc Ngân hàng phê chuẩn ngày 29 tháng 3 năm 2024.
+Đơn vị: Triệu đồng
+Hồ Đặng Hoàng Quyên
+Kế toán trưởng
+Phạm Văn Đẩu
+Giám đốc tài chính
+Phạm Quốc Thanh
+Tổng Giám đốc
+Ngày 29 tháng 3 năm 2024
+
+
+
+NGÂN HÀNG TMCP PHÁT TRIỂN TP. HỒ CHÍ MINH
+25 Bis Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. Hồ Chí Minh
+T (+8428) 62 915 916        F (+8428) 62 915 900
+Hotline 1900 6060 (24/7)         www.hdbank.com.vn
