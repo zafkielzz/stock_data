@@ -16,7 +16,10 @@ class FinancialReportExtractor:
         self.mda_positive_kw = [
             'ban điều hành', 'ban tổng giám đốc', 'ban giám đốc', 'đánh giá của ban', 
             'phân tích hoạt động kinh doanh', 'kết quả kinh doanh', 'bối cảnh chung', 
-            'rủi ro', 'triển vọng', 'kế hoạch kinh doanh', 'chiến lược'
+            'rủi ro', 'triển vọng', 'kế hoạch kinh doanh', 'chiến lược',
+            'báo cáo của ban giám đốc', 'báo cáo của ban điều hành', 'báo cáo của tổng giám đốc',
+            'thông điệp tổng giám đốc', 'thông điệp ceo', 'tình hình hoạt động',
+            'báo cáo hoạt động', 'đánh giá kết quả hoạt động'
         ]
         self.mda_negative_kw = [
             'bảng cân đối kế toán', 'thuyết minh báo cáo tài chính', 'ý kiến kiểm toán',
@@ -26,7 +29,9 @@ class FinancialReportExtractor:
         # Bộ từ khóa nhận diện phần ESG
         self.esg_positive_kw = [
             'báo cáo esg', 'phát triển bền vững', 'phát thải khí nhà kính', 
-            'môi trường, xã hội', 'năng lượng tái tạo', 'tiêu chuẩn lao động'
+            'môi trường, xã hội', 'môi trường và xã hội', 'năng lượng tái tạo', 
+            'tiêu chuẩn lao động', 'báo cáo phát triển bền vững', 'trách nhiệm xã hội',
+            'quản trị môi trường', 'tiết kiệm năng lượng', 'báo cáo tác động môi trường'
         ]
 
     def extract_mda(self, pdf_path: str, max_pages: int = 25) -> str:
@@ -45,7 +50,7 @@ class FinancialReportExtractor:
             page_scores.append((pno, score))
         
         # Lọc các trang có điểm cao
-        relevant_pages = [pno for pno, score in page_scores if score >= 4]
+        relevant_pages = [pno for pno, score in page_scores if score >= 3]
         
         extracted_text = []
         for pno in relevant_pages[:max_pages]:
@@ -63,7 +68,7 @@ class FinancialReportExtractor:
         for pno in range(len(doc)):
             text = doc[pno].get_text().lower()
             score = sum(text.count(k) for k in self.esg_positive_kw)
-            if score >= 3:
+            if score >= 2:
                 esg_pages.append(pno)
 
         extracted_text = []
@@ -74,19 +79,32 @@ class FinancialReportExtractor:
         return "\n\n".join(extracted_text)
 
     def extract_notes(self, pdf_path: str, max_pages: int = 60) -> str:
-        """Tự động tìm và rút trích Bản Thuyết minh Báo cáo Tài chính."""
+        """Tự động tìm và rút trích Bản Thuyết minh Báo cáo Tài chính (Doanh nghiệp & Ngân hàng)."""
         doc = pymupdf.open(pdf_path)
         notes_pages = []
         found_start = False
         
+        note_triggers = [
+            'THUYẾT MINH BÁO CÁO TÀI CHÍNH',
+            'BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH',
+            'CÁC THUYẾT MINH BÁO CÁO TÀI CHÍNH',
+            'THUYẾT MINH BCTC',
+            'B 09 – DN', 'B09-DN', 'B 09 - DN', 'B09/DN', 'B 09 – DN/HN', 'B09 - DN/HN',
+            'B05/TCTD', 'B 05/TCTD', 'B05 - TCTD', 'B05-TCTD', 'B 05 - TCTD',
+            'MẪU B 09', 'MẪU B09', 'MẪU B 05', 'MẪU B05'
+        ]
+        
         for pno in range(len(doc)):
             text = doc[pno].get_text()
             text_upper = text.upper()
-            if ('THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text_upper or 'BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH' in text_upper) and not found_start:
+            if not found_start:
                 # Bỏ qua các trang mục lục
                 is_toc = 'MỤC LỤC' in text_upper or ('NỘI DUNG' in text_upper and 'TRANG' in text_upper)
                 if not is_toc:
-                    found_start = True
+                    if any(trig in text_upper for trig in note_triggers):
+                        found_start = True
+                    elif 'THUYẾT MINH' in text_upper and any(k in text_upper for k in ['CHÍNH SÁCH KẾ TOÁN', 'CƠ SỞ LẬP BÁO CÁO', 'ĐẶC ĐIỂM HOẠT ĐỘNG', 'BỘ PHẬN HỢP THÀNH']):
+                        found_start = True
             if found_start:
                 notes_pages.append(text.strip())
                 if len(notes_pages) >= max_pages:
